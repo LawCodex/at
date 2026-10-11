@@ -425,7 +425,7 @@ Ein entsprechender Hinweis auf die weitergehenden Sicherheitsmaßnahmen ist in d
 
 ### Gerichtspersonen — Ernennung der richterlichen und staatsanwaltschaftlichen Beamten.
 
-#### § 18 – §. 18.
+#### § 18
 
 Die Bestimmungen über die Ernennung der richterlichen und staatsanwaltschaftlichen Beamten werden durch das gegenwärtige Gesetz nicht berührt.
 
@@ -467,7 +467,7 @@ erforderlich und verhältnismäßig ist (Geheimhaltung).
 
 ## Anzeige von Ausschließungs- und Befangenheitsgründen
 
-#### § 22 – §. 22.
+#### § 22
 
 (1) Ein Richter oder richterlicher Hilfsbeamter, dem ein Verhältnis bekannt wird, das ihn im gegebenen Falle nach dem Gesetze von der Ausübung richterlicher Geschäfte ausschließt, hat dieses dem Vorsteher des Gerichtes (vorgesetzten Beamten der Staatsanwaltschaft) unverzüglich anzuzeigen. Erscheint der Vorsteher eines Gerichtes ausgeschlossen, so hat er davon seinem Stellvertreter, falls es aber an einem Stellvertreter fehlt oder durch das Ausscheiden des Vorstehers das Gericht beschlußunfähig würde, dem Vorsteher des übergeordneten Gerichtes Mittheilung zu machen.
 
@@ -671,7 +671,7 @@ Nach Maßgabe des Geschäftsumfanges dieser Strafsachen können sie auch zwei od
 
 § 36. Bei jedem Gerichtshof ist im Rahmen der Geschäftsverteilung ein Begutachtungssenat zu bilden, der sich aus dem Präsidenten und sechs weiteren Richtern zusammensetzt, die tunlichst in den verschiedenen Geschäftssparten des Gerichtshofes tätig sein sollen. Aufgabe dieses Senates ist es, auf Ersuchen des Bundesministers für Justiz oder des Präsidenten des Oberlandesgerichtes zu Gesetzes- oder Verordnungsentwürfen Gutachten abzugeben.
 
-#### § 37 – §. 37.
+#### § 37
 
 (1) Außer den Fällen, welche die Strafprocessordnung und die für die Ausübung der Gerichtsbarkeit in bürgerlichen Rechtsfragen geltenden Gesetze bezeichnen, bedarf bei Gerichtshöfen erster Instanz keiner Beschlussfassung des Senates:
 
@@ -737,7 +737,7 @@ Nach Maßgabe des Geschäftsumfanges dieser Strafsachen können sie auch zwei od
 
 § 39. (1) Der Bundesminister für Justiz kann nach Maßgabe des durchschnittlichen Anfalls dringlicher Amtshandlungen in Strafsachen anordnen, daß bei einzelnen Gerichtshöfen erster Instanz während bestimmter Zeiträume anstelle der Rufbereitschaft Journaldienst zu leisten ist. Während des Journaldienstes hat der für den betreffenden Tag zur Rufbereitschaft eingeteilte Richter in den dafür bestimmten Amtsräumen des Gerichtshofes erster Instanz anwesend zu sein, sofern er nicht auf Grund einer Inanspruchnahme im Rahmen der Rufbereitschaft oder des Journaldienstes auswärtige Amtshandlungen durchzuführen hat.
 
-#### § 40 – §. 40.
+#### § 40
 
 Die gerichtliche Beglaubigung ämtlicher Unterschriften zum Zwecke der Legalisirung im diplomatischen Wege erfolgt durch den Präsidenten des Gerichtshofes erster Instanz.
 
@@ -813,7 +813,7 @@ Die gerichtliche Beglaubigung ämtlicher Unterschriften zum Zwecke der Legalisir
 
 ## Organisirungsgesetze.
 
-#### § 48 – §. 48.
+#### § 48
 
 Soweit im gegenwärtigen Gesetze oder in der Jurisdictionsnorm, der Civilprocessordnung, der Executionsordnung und in den dazu erlassenen Einführungsgesetzen nicht etwas anderen angeordnet ist, bleiben die Vorschriften der mit Ministerialverordnung vom 19. Jänner 1853, R. G. Bl. Nr. 10, kundgemachten Allerhöchsten Entschließung vom 14. September 1852, über die Einrichtung der Gerichtsbehörden, die Vorschriften des Gesetzes vom 26. April 1873, R. G. Bl. Nr. 62, betreffend den Vorgang bei Änderungen in den Sprengeln der Gerichtshöfe erster Instanz, und die Bestimmungen des §. 2 des Gesetzes vom 11. Juni 1868, R. G. Bl. Nr. 59, betreffend die Organisirung der Bezirksgerichte, in Wirksamkeit.
 
@@ -853,7 +853,7 @@ Soweit im gegenwärtigen Gesetze oder in der Jurisdictionsnorm, der Civilprocess
 
 > **Beachte:** Siehe die materiellen Derogationen durch das BDG 1979, BGBl. Nr. 333/1979, durch § 9 f. RDG, BGBl. Nr. 305/1961 sowie das Gesetz, RGBl. Nr. 1/1911 und die Verordnung, RGBl. Nr. 5/1911.
 
-#### § 50 – §. 50.
+#### § 50
 
 (1) Zum Beamten der Gerichtskanzlei darf nur ernannt werden, wer den Besitz der für sämmtliche Zweige des Kanzleidienstes erforderlichen Kenntnisse und praktischen Gewandtheit durch eine mit gutem Erfolg abgelegte Prüfung nachgewiesen hat. Der Prüfung muss ein Vorbereitungsdienst vorangehen. Die Prüfung ist bei dem Oberlandesgerichte abzulegen. Den Vorsitz in der Prüfungscommission hat ein Rath des Oberlandesgerichtes zu führen; als Commissionsmitglieder sind Räthe des Gerichtshofes erster Instanz am Sitze des Oberlandesgerichtes und Vorsteher oder leitende Beamte der Gerichtskanzlei beizuziehen. Ist der Vorbereitungsdienst in einem Lande vollstreckt worden, in dem kein Oberlandesgericht besteht, so kann die Prüfung auch bei dem Landesgerichte dieses Landes abgelegt werden. Die Prüfungskommission ist in diesem Falle aus Richtern und Kanzleibeamten des Gerichtshofes zu bilden.
 
@@ -869,7 +869,7 @@ Soweit im gegenwärtigen Gesetze oder in der Jurisdictionsnorm, der Civilprocess
 >
 > insbesondere bezüglich der Zweiten Kanzleiprüfung für Fachbeamte der Gerichtskanzlei sowie das BDG 1979, BGBl. Nr. 333/1979; Zu Abs. 2 siehe § 9 f. RDG, BGBl. Nr. 305/1961.
 
-#### § 51 – §. 51.
+#### § 51
 
 (1) Zur Besorgung der Kanzleigeschäfte und zur Unterstützung der Beamten der Gerichtskanzlei bei Besorgung ihrer Amtsgeschäfte können Kanzleigehilfen aufgenommen werden. Die Aufnahme kann gegen festen Gehalt oder gegen Taggeld auf Kündigung erfolgen.
 
@@ -879,7 +879,7 @@ Soweit im gegenwärtigen Gesetze oder in der Jurisdictionsnorm, der Civilprocess
 
 (4) Die Kanzleigehilfen haben die genaue Erfüllung der ihnen ertheilten Dienstaufträge und die Verschwiegenheit in Sachen des gerichtlichen Dienstes eidlich zu geloben.
 
-#### § 52 – §. 52.
+#### § 52
 
 (1) Dem Bedürfnis nach vorübergehender Personalvermehrung, das sich durch die Behinderung eines Kanzleibeamten, stärkeren Geschäftsandrang oder aus anderen Gründen ergibt, kann der Präsident des Oberlandesgerichtes durch einstweilige Zuweisungen aus dem Kanzleipersonale seines Sprengels abhelfen.
 
@@ -893,13 +893,13 @@ Soweit im gegenwärtigen Gesetze oder in der Jurisdictionsnorm, der Civilprocess
 
 > **Beachte:** Teilweise materiell derogiert durch das BDG 1979, BGBl. Nr. 333/1979.
 
-#### § 53 – §. 53.
+#### § 53
 
 Die Ordnung des Dienstverhältnisses der in der Gerichtskanzlei beschäftigten Personen, einschließlich der Regelung des Ranges und der Bezüge, die Festsetzung der Dienstpflichten und Amtsverrichtungen dieser Personen, die Bestimmungen und Abgrenzung des Wirkungskreises der Vorsteher und leitenden Beamten der Gerichtskanzlei, die Bezeichnung der Geschäfte, die bei Vorhandensein von leitenden Beamten nur von diesen besorgt werden dürfen, die Ordnung der Vertretung von Kanzleibeamten in Verhinderungsfällen, die Feststellung, inwieweit Geschäfte der Gerichtskanzlei auch von anderen, nicht zu den Beamten gehörigen, in der Gerichtskanzlei verwendeten Personen wahrgenommen werden dürfen, und die Regelung der Aufsichtsführung über die Gerichtskanzlei bleiben, soweit nicht das gegenwärtige Gesetz Bestimmungen darüber enthält, den im Verordnungswege zu erlassenden Dienstvorschriften und den zu deren Durchführung vom Justizminister zu erlassenden Anordnungen vorbehalten.
 
 > **Anmerkung:** Siehe auch das BDG 1979, BGBl. Nr. 333/1979, sowie §§ 2 und 29 Geo., BGBl. Nr. 264/1951.
 
-#### § 54 – §. 54.
+#### § 54
 
 (1) Die Besorgung der Grundbuchsführung und aller damit zusammenhängenden Geschäfte, die nach den dafür geltenden Vorschriften vom Grundbuchsführer oder vom Grundbuchsamte zu verrichten sind, werden der Gerichtskanzlei zugewiesen. Wo besondere Grundbuchsämter bestehen, bilden diese eine selbständige Abtheilung der Gerichtskanzlei.
 
@@ -911,7 +911,7 @@ Die Ordnung des Dienstverhältnisses der in der Gerichtskanzlei beschäftigten P
 
 § 55. Die Vornahme der verfügten Eintragungen in das Firmenbuch, die Anordnung, welche Unterlagen in die Urkundensammlung aufzunehmen sind, sowie die Überwachung und Feststellung der gehörigen Veröffentlichungen von Firmenbucheintragungen sind Aufgaben des Rechtspflegers. Soweit der Richter als Rechtsprechungsorgan einschreitet oder die Entscheidung an sich zieht, stehen ihm auch die vorstehend angeführten Aufgaben zu. Die Führung der Register und die Besorgung aller anderen mit der Führung des Firmenbuchs zusammenhängenden Kanzleigeschäfte sind jedenfalls Aufgaben der Geschäftsstelle.
 
-#### § 56 – §. 56.
+#### § 56
 
 (1) Anträge, Gesuche und bei Gericht abgegebene Erklärungen, die mündlich vorgebracht werden dürfen und nicht nach gesetzlicher Vorschrift vom Richter selbst entgegenzunehmen sind, können in der Gerichtskanzlei zu Protokoll genommen werden. Vormünder und Kuratoren können die Angelobung in der Gerichtskanzlei leisten.
 
@@ -925,7 +925,7 @@ Die Ordnung des Dienstverhältnisses der in der Gerichtskanzlei beschäftigten P
 
 > **Beachte:** Ist auf anhängige Verfahren weiter anzuwenden (vgl. Art. XXXII § 6 Abs. 2, BGBl. I Nr. 112/2003).
 
-#### § 57 – §. 57.
+#### § 57
 
 Soweit nicht die Strafprocessordnung einzelne dieser Geschäfte dem Richter selbst überträgt, wird die Übernahme der in Strafsachen an das Gericht gelangenden Eingaben und Acten, die Ausfertigung strafgerichtlicher Erkenntnisse und Beschlüsse, die Bewirkung der Zustellungen und Ladungen im Strafverfahren und die Aufbewahrung der strafgerichtlichen Acten der Gerichtskanzlei zugewiesen.
 
@@ -933,7 +933,7 @@ Soweit nicht die Strafprocessordnung einzelne dieser Geschäfte dem Richter selb
 
 > **Anmerkung:** Siehe auch §§ 481 f. Geo., BGBl. Nr. 264/1951.
 
-#### § 58 – §. 58.
+#### § 58
 
 Die Geschäftseinrichtung der Gerichtskanzlei ist im Verordnungswege zu bestimmen. Hiebei ist auf thunlichste Vereinfachung der Geschäftsformen, Erleichterung der Kanzleimanipulation und Einschränkung der Schreibgeschäfte Bedacht zu nehmen und der Geschäftsbetrieb so zu gestalten, dass die Gerichtskanzlei in den Stand gesetzt wird, bei Erfüllung ihrer Obliegenheiten in Bezug auf die Schnelligkeit und Verlässlichkeit des gerichtlichen Hilfsdienstes allen Anforderungen des Rechtsverkehres zu genügen.
 
@@ -941,13 +941,13 @@ Die Geschäftseinrichtung der Gerichtskanzlei ist im Verordnungswege zu bestimme
 
 > **Anmerkung:** Siehe insbesondere auch die §§ 2, 29 und 44 bis 48 Geo., BGBl. Nr. 264/1951.
 
-#### § 59 – §. 59.
+#### § 59
 
 Soweit nicht gesetzliche Vorschriften im einzelnen entgegenstehen, können der Gerichtskanzlei auch die in Strafsachen, sowie die in Sachen der streitigen und nicht streitigen Gerichtsbarkeit und namentlich im Insolvenz- und Executionsverfahren vorgeschriebenen Benachrichtigungen von Verwaltungs- und anderen Behörden und Organen, sowie andere nicht mit Rechtsanwendung verbundene Expeditionen und die bei Ausübung der Gerichtsbarkeit vorkommenden Acte und Verrichtungen des äußeren Geschäftsganges übertragen werden.
 
 \*(Anm.: aufgehoben durch Art. VI Z 5 BG, BGBl. Nr. 222/1929)*
 
-#### § 60 – §. 60.
+#### § 60
 
 Bei Bezirksgerichten, die mit mehreren Einzelrichtern besetzt sind, und bei Gerichtshöfen, bei welchen mehrere Senate bestehen oder Gerichtshofsgeschäfte von Mitgliedern des Gerichtshofes als Einzelrichter erledigt werden, können Abtheilungen der Gerichtskanzlei gebildet werden, deren jede nach Maßgabe des Bedarfes für einen bestimmten Einzelrichter oder Senat oder für eine bestimmte Gruppe von Richtern oder Senaten die gesammten Geschäfte der Gerichtskanzlei ausschließlich zu besorgen hat. Die Vollziehung von Zustellungen und Ladungen und die Vornahme von Executionshandlungen kann hiebei aus den Obliegenheiten dieser Abtheilungen ausgesondert und einer selbständigen Abtheilung der Gerichtskanzlei übertragen werden, welche alle derartigen, bei diesem Gerichte vorkommenden Amtshandlungen zu besorgen hat.
 
@@ -955,7 +955,7 @@ Bei Bezirksgerichten, die mit mehreren Einzelrichtern besetzt sind, und bei Geri
 
 > **Anmerkung:** Siehe auch § 2 Abs. 2 Geo., BGBl. Nr. 264/1951, sowie das Auktionshallengesetz, BGBl. Nr. 181/1962.
 
-#### § 61 – §. 61.
+#### § 61
 
 Die einzelnen Abtheilungen der Gerichtskanzlei haben die dienstlichen Aufträge des Richters, dem sie zugewiesen sind, oder bei Gerichtshöfen des Senatsvorsitzenden zu erfüllen. Sie haben sich in Beschränkung auf die Angelegenheiten, deren Erledigung diesem Richter oder Senate übertragen ist, allen Verrichtungen zu unterziehen, die im Interesse des Geschäftsbetriebes nothwendig erscheinen und zu den amtlichen Obliegenheiten der Gerichtskanzlei gehören.
 
@@ -973,7 +973,7 @@ Die einzelnen Abtheilungen der Gerichtskanzlei haben die dienstlichen Aufträge 
 
 ### Disciplinargewalt über die nicht richterlichen Beamten und Diener.
 
-#### § 63 – §. 63.
+#### § 63
 
 (1) Die Aufsicht über die bei einem Bezirksgerichte angestellten oder verwendeten, nicht richterlichen Beamten, Kanzleigehilfen und Diener steht dem Bezirksrichter im Einvernehmen mit dem Richter zu, dem die betreffende Person zur Verwendung zugewiesen ist. Bei Gerichtshöfen wird sie durch den Präsidenten des Gerichtshofes unter Mitwirkung der von ihm damit beauftragten Richter oder richterlichen Hilfsbeamten ausgeübt.
 
@@ -1005,19 +1005,19 @@ Die einzelnen Abtheilungen der Gerichtskanzlei haben die dienstlichen Aufträge 
 
 (2) Jedenfalls anzuhören ist die Vereinigung der österreichischen Richterinnen und Richter vor Erlassung der näheren Vorschriften zu den §§ 78a und 78b und bei der inhaltlichen Gestaltung des Auswahlverfahrens sowie des richterlichen Vorbereitungsdienstes. Weiters ist sie in den einzelnen Verfahren zur Aufnahme in den richterlichen Vorbereitungsdienst über die Ergebnisse der von der Präsidentin oder dem Präsidenten vorzunehmenden Prüfung der Aufnahmeerfordernisse zu informieren und ihr Gelegenheit zur Stellungnahme zu geben.
 
-#### § 74 – §. 74.
+#### § 74
 
 Die unmittelbare Dienstaufsicht über die Bezirksgerichte führen die Gerichtshöfe erster Instanz und deren Präsidenten, die unmittelbare Dienstaufsicht über die Gerichtshöfe erster Instanz die Oberlandesgerichte und deren Präsidenten; letztere haben auch die Geschäftsführung bei den Bezirksgerichten ihres Sprengels in ihre Aufsicht einzubeziehen.
 
 Dem Justizminister steht die unmittelbare Dienstaufsicht über die Oberlandesgerichte und zugleich die allgemeine Oberaufsicht über die Ausübung der Rechtspflege bei allen im Geltungsgebiete dieses Gesetzes befindlichen Gerichten zu.
 
-#### § 75 – §. 75.
+#### § 75
 
 (1) Die Gerichtshöfe erster und zweiter Instanz sowie deren Vorsteher haben die unmittelbare Dienstaufsicht nach Maßgabe der vom Justizminister zu erlassenden Weisungen zu führen. Insbesondere haben die Vorsteher der Gerichtshöfe die ihrer Aufsicht unterstehenden Gerichte periodisch eingehend zu untersuchen. Wo es besondere Vorfälle nöthig machen, können außerordentliche Untersuchungen stattfinden oder vom Präsidenten des Oberlandesgerichtes oder vom Justizminister angeordnet werden.
 
 (2) Die zur Dienstaufsicht berufenen Gerichtsbehörden oder deren Präsidenten haben auf Grund der Untersuchungsergebnisse die in ihrem Wirkungskreise gelegenen Verfügungen sogleich zu treffen, die sonst erforderlichen Maßregeln aber unter Anschluss des Untersuchungsberichtes bei dem Justizminister in Antrag zu bringen.
 
-#### § 76 – §. 76.
+#### § 76
 
 (1) Im Rechte der Aufsicht liegt die Befugnis, die ordnungsmäßige Ausführung der Geschäfte zu überwachen, die Gerichte und Staatsanwaltschaften zur Erfüllung ihrer Pflichten anzuhalten und wahrgenommene Gebrechen abzustellen oder bei dem zur Anordnung der erforderlichen Vorkehrungen berufenen übergeordneten Gerichte darüber Anzeige zu erstatten.
 
@@ -1025,13 +1025,13 @@ Dem Justizminister steht die unmittelbare Dienstaufsicht über die Oberlandesger
 
 (3) Die Gerichte und deren Personal haben die Anordnungen der mit der Aufsicht betrauten Behörden und Organe genau zu befolgen und denselben auf Verlangen über alle Amtsgeschäfte Auskunft und Rechenschaft zu geben.
 
-#### § 77 – §. 77.
+#### § 77
 
 Der Oberste Gerichts- und Cassationshof ist befugt, anlässlich der Ausübung seines richterlichen Amtes wahrgenommene Gebrechen im Geschäftsgange der Gerichte erster und zweiter Instanz zu rügen und dem Justizminister von den wahrgenommenen Gebrechen und von den zu deren Abstellung dienlichen Anordnungen Mittheilung zu machen.
 
 > **Anmerkung:** Siehe auch § 12 des BG, BGBl. Nr. 328/1968.
 
-#### § 78 – §. 78.
+#### § 78
 
 (1) Beschwerden der Beteiligten wegen Verweigerung oder Verzögerung der Rechtspflege können,
 
@@ -1115,7 +1115,7 @@ nach überblicksartiger Durchsicht und unter Verzicht auf eine ins Einzelne gehe
 
 ### Behandlung der Geschäfte bei den Gerichten. — Ausfertigung von Erledigungen
 
-#### § 79 – §. 79.
+#### § 79
 
 (1) Die schriftlichen Ausfertigungen der Urteile, Beschlüsse, Vergleiche und Bestätigungen der Rechtskraft oder Vollstreckbarkeit werden bei allen Gerichten von der Gerichtskanzlei unter dem Vermerk unterschrieben: „Für die Richtigkeit der Ausfertigung.“ Ebenso kann in Justizverwaltungssachen auf den Ausfertigungen an die Stelle der Unterschrift dessen, der die Erledigung genehmigt hat, die Beglaubigung durch die Gerichtskanzlei treten. Ausfertigungen, die mittels automationsunterstützter Datenverarbeitung erstellt werden, bedürfen weder einer Unterschrift noch einer Beglaubigung. Ausfertigungen in zivilgerichtlichen Verfahren, die elektronisch erstellt und abgefertigt werden, sind mit der elektronischen Signatur der Justiz zu versehen. Diese muss den Anforderungen der §§ 19 und 20 EGovernment-Gesetz, BGBl. I Nr. 10/2004, entsprechen. In der Ausfertigung ist auch der Name des Entscheidungsorgans anzuführen.
 
@@ -1145,7 +1145,7 @@ nach überblicksartiger Durchsicht und unter Verzicht auf eine ins Einzelne gehe
 
 ## Gerichtsacten.
 
-#### § 81 – §. 81.
+#### § 81
 
 (1) Die Vorschriften darüber, wie mit den bei Gericht einlangenden Schriften zu verfahren ist, sind, soweit nicht das gegenwärtige Gesetz Besonderes anordnet oder sonst gesetzliche Bestimmungen dafür bestehen, im Verordnungswege zu erlassen. Hiebei hat der Justizminister zu bestimmen, inwieweit besondere Eingangsbücher zu führen sind, um einen Nachweis zu gewinnen, zu welchen Acten die eingelangten Schriftstücke genommen oder an welche Behörden sie abgegeben wurden; in Grundbuchssachen müssen jedoch alle einzelnen an das Gericht gelangenden Eingaben und Schriften verzeichnet werden.
 
@@ -1245,7 +1245,7 @@ nach überblicksartiger Durchsicht und unter Verzicht auf eine ins Einzelne gehe
 
 ## Ladungen außerhalb des Processes.
 
-#### § 87 – §. 87.
+#### § 87
 
 (1) Personen, die einer gerichtlichen Ladung nicht Folge leisten, können unter Androhung einer Ordnungsstrafe neuerlich geladen und durch die Verhängung dieser Strafe zum Erscheinen genöthigt werden. Im Falle fortgesetzten Ausbleibens kann die Ordnungsstrafe innerhalb des gesetzlichen Ausmaßes verdoppelt und in dringenden Fällen die zwangsweise Vorführung durch den Gerichtsdiener angeordnet werden.
 
@@ -1253,13 +1253,13 @@ nach überblicksartiger Durchsicht und unter Verzicht auf eine ins Einzelne gehe
 
 ## Zustellung.
 
-#### § 88 – §. 88.
+#### § 88
 
 Zustellungen in Angelegenheiten der Gerichtsbarkeit außer Streitsachen sowie im Insolvenzverfahren sind in gleicher Weise wie die Zustellungen in bürgerlichen Rechtsstreitigkeiten, und zwar von amtswegen zu bewirken.
 
 ## Postsendungen, Ablichtungen und telegrafische Eingaben
 
-#### § 89 – §. 89.
+#### § 89
 
 (1) Bei gesetzlichen oder richterlichen Fristen, die in bürgerlichen Rechtssachen einer Partei zur Abgabe von Erklärungen, Anbringung von Anträgen, Überreichung von Schriftsätzen oder zur Vornahme anderer, ein gerichtliches Verfahren betreffenden Handlungen offen stehen, werden die Tage des Postenlaufes in die Frist nicht eingerechnet.
 
@@ -1465,7 +1465,7 @@ zur Teilnahme am elektronischen Rechtsverkehr verpflichtet.
 
 ## Vertreter für Verfahrenshilfe genießende Parteien
 
-#### § 90 – §. 90.
+#### § 90
 
 \*(Anm.: aufgehoben durch Art. VI Z 7 BG, BGBl. Nr. 135/1983)*
 
@@ -1567,7 +1567,7 @@ Wenn eine Verfahrenshilfe genießende Partei in einem nicht dem Anwaltszwange un
 
 § 96. Soweit in diesem Gesetz auf Bundesgesetze verwiesen wird, sind diese in der jeweils geltenden Fassung anzuwenden.
 
-#### § 97 – §. 97.
+#### § 97
 
 Auf die Geschäfte der Strafrechtspflege sind die Bestimmungen des gegenwärtigen Gesetzes sofern anzuwenden, als sie sich ihrer Beschaffenheit nach dazu eignen und durch Vorschriften über das strafgerichtliche Verfahren keine besonderen Anordnungen darüber getroffen werden.
 
@@ -1579,7 +1579,7 @@ Auf die Geschäfte der Strafrechtspflege sind die Bestimmungen des gegenwärtige
 
 (3) Maßnahmen nach Abs. 1 und 2 sind innerhalb von sechs Monaten ab dem Inkrafttreten dieser Bestimmung zulässig.
 
-#### § 98 – §. 98.
+#### § 98
 
 (1) Die Bestimmungen des gegenwärtigen Gesetzes treten, soweit in demselben nichts anderes angeordnet ist, mit dem Beginne der Wirksamkeit der Civilprocessordnung in Kraft.
 
@@ -1681,7 +1681,7 @@ Auf die Geschäfte der Strafrechtspflege sind die Bestimmungen des gegenwärtige
 >
 > 2\. Abs. 36 wurde mit Novelle BGBl. I Nr. 71/2026 ein zweites Mal vergeben.
 
-#### § 99 – §. 99.
+#### § 99
 
 (1) Mit dem Vollzuge dieses Gesetzes ist Mein Justizminister beauftragt. Derselbe hat alle zu dessen Durchführung erforderlichen Verordnungen und Anordnungen zu erlassen.
 

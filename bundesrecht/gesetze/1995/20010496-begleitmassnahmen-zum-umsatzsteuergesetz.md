@@ -36,7 +36,9 @@ BGBl. Nr. 756/1996 (NR: GP XX RV 396 AB 475 S. 47. BR: AB 5317 S. 619.)
 
 Der Nationalrat hat beschlossen:
 
-## Begleitmaßnahmen zum Umsatzsteuergesetz 1994
+**Begleitmaßnahmen zum Umsatzsteuergesetz 1994**
+
+## Art. 1
 
 l. Die Umsatzsteuerbefreiung gemäß § 6 Abs. 1 Z 18, soweit sie sich auf Pflegeanstalten, Alters-, Blinden- und Siechenheime bezieht, sowie gemäß Z 23 und 24, weiters die Umsatzsteuerbefreiung des § 6 Abs. 1 Z 25 Umsatzsteuergesetz 1994, soweit die Befreiung sich auf die in Z 18 genannten Umsätze der Pflegeanstalten, Alters-, Blinden- und Siechenheime sowie auf die Z 23 und 24 bezieht, sind nicht anzuwenden, wenn
 

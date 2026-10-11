@@ -1,0 +1,68 @@
+---
+title: "Religiöse Kindererziehung"
+identifier: "10009571"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 155/1985"
+last_amended: 1985-01-05
+last_amendment: "BGBl. I Nr. 191/1999"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1985/155/P0/NOR11009762"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009571"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Religiöse Kindererziehung
+
+Bundesgesetz über die religiöse Kindererziehung 1985
+
+StF: BGBl. Nr. 155/1985 (WV)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 191/1999 (BG) (1. BRBG) (NR: GP XX RV 1811 AB 2031 S. 179. BR: AB 6041 S. 657.)  
+
+</details>
+
+## § 1
+
+§ 1. Über die religiöse Erziehung eines Kindes bestimmt die freie Einigung der Eltern, soweit ihnen die Pflege und Erziehung zustehen. Die Einigung ist jederzeit widerruflich und wird durch den Tod eines Ehegatten gelöst.
+
+(BGBl. Nr. 403/1977, Art. IV Z 1)
+
+## § 2
+
+§ 2. (1) Besteht eine solche Einigung nicht oder nicht mehr, so gelten auch für die religiöse Erziehung die Vorschriften des ABGB über die Pflege und Erziehung. (dRGBl. 1939 I S 384, § 2 Abs. 1; BGBl. Nr. 403/1977, Art. IV Z 2)
+
+(2) Es kann jedoch während bestehender Ehe von keinem Elternteil ohne die Zustimmung des anderen bestimmt werden, daß das Kind in einem anderen als dem zur Zeit der Eheschließung gemeinsamen Bekenntnis oder in einem anderen Bekenntnis als bisher erzogen, oder daß ein Kind vom Religionsunterricht abgemeldet werden soll.
+
+(3) Wird die Zustimmung nicht erteilt, so kann die Vermittlung oder Entscheidung des Vormundschaftsgerichts beantragt werden. Für die Entscheidung sind, auch soweit ein Fall des § 176 ABGB nicht vorliegt, die Zwecke der Erziehung maßgebend. Vor der Entscheidung sind die Ehegatten sowie erforderlichenfalls Verwandte, Verschwägerte und die Lehrer des Kindes zu hören, wenn es ohne erhebliche Verzögerung oder unverhältnismäßige Kosten geschehen kann. Das Kind ist zu hören, wenn es das zehnte Jahr vollendet hat. (dRGBl. 1939 I S 384, § 2 Abs. 1 und 2; BGBl. Nr. 403/1977, Art. IV Z 3)
+
+## § 3
+
+§ 3. (1) Stehen dem Vater oder der Mutter die Pflege und Erziehung neben einem dem Kind bestellten Vormund oder Sachwalter zu, so geht bei einer Meinungsverschiedenheit über die Bestimmung des religiösen Bekenntnisses, in dem das Kind erzogen werden soll, die Meinung des Vaters oder der Mutter vor, es sei denn, daß dem Vater oder der Mutter das Recht der religiösen Erziehung auf Grund des § 176 ABGB entzogen ist. (dRGBl. 1939 I S 384, § 2 Abs. 1; BGBl. Nr. 403/1977, Art. IV Z 4)
+
+(2) Stehen die Pflege und Erziehung eines Kindes einem Vormund oder Sachwalter allein zu, so hat dieser auch über die religiöse Erziehung des Kindes zu bestimmen. Er bedarf dazu der Genehmigung des Vormundschaftsgerichts. Vor der Genehmigung sind die Eltern sowie erforderlichenfalls Verwandte, Verschwägerte und die Lehrer des Kindes zu hören, wenn es ohne erhebliche Verzögerung oder unverhältnismäßige Kosten geschehen kann. Auch ist das Kind zu hören, wenn es das zehnte Lebensjahr vollendet hat. Weder der Vormund noch der Sachwalter können eine schon erfolgte Bestimmung über die religiöse Erziehung ändern. (dRGBl. 1939 I S 384, § 2 Abs. 2; BGBl. Nr. 403/1977, Art. IV Z 5)
+
+## § 4
+
+§ 4. Verträge über die religiöse Erziehung eines Kindes sind ohne bürgerliche Wirkung.
+
+## § 5
+
+§ 5. Nach der Vollendung des vierzehnten Lebensjahrs steht dem Kind die Entscheidung darüber zu, zu welchem religiösen Bekenntnis es sich halten will. Hat das Kind das zwölfte Lebensjahr vollendet, so kann es nicht gegen seinen Willen in einem anderen Bekenntnis als bisher erzogen werden.
+
+## § 6
+
+§ 6. Die vorstehenden Bestimmungen sind auf die Erziehung der Kinder in einer nicht bekenntnismäßigen Weltanschauung entsprechend anzuwenden.
+
+## § 7
+
+§ 7. Für Streitigkeiten aus diesem Gesetz ist das Vormundschaftsgericht zuständig. Ein Einschreiten von Amts wegen findet dabei nicht statt, es sei denn, daß die Voraussetzungen der §§ 176 und 177 ABGB vorliegen.
+
+(dRGBl. 1939 I S 384, § 2 Abs. 1; BGBl. Nr. 403/1977, Art. IV Z 6)

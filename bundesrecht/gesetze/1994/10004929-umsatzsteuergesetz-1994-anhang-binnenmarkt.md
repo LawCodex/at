@@ -1,0 +1,939 @@
+---
+title: "Umsatzsteuergesetz 1994 – Anhang (Binnenmarkt)"
+abbreviation: "UStG 1994"
+identifier: "10004929"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 663/1994"
+last_amended: 2026-07-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1994/663/P0/NOR40263810"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004929"
+retrieved: 2026-10-11
+documents: 23
+---
+
+# Umsatzsteuergesetz 1994 – Anhang (Binnenmarkt) (UStG 1994)
+
+Anhang (Zu § 29 Abs. 8) Binnenmarktregelung
+
+StF: BGBl. Nr. 663/1994 (NR: GP XVIII RV 1715 AB 1823 S. 172. BR: AB 4861 S. 589.)
+
+<details>
+<summary>Änderungen</summary>
+
+etwaige idF-Liste siehe Umsatzsteuergesetz 1994, BGBl. Nr. 663/1994  
+
+</details>
+
+> **Anmerkung:** Das Inhaltsverzeichnis wurde gemäß BGBl. Nr. 663/1994, BGBl. I Nr. 106/1999, BGBl. I Nr. 40/2014, BGBl. I Nr. 91/2019, BGBl. I Nr. 103/2019 und BGBl. I Nr. 113/2024 angepasst.
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlosssen:
+
+<table>
+<tr>
+<td colspan="2">Inhaltsverzeichnis</td>
+</tr>
+<tr>
+<td colspan="2">Anhang (Binnenmarkt) <i>(Anm.: Anhang zu § 29 Abs. 8 Binnenmarktregelung)</i></td>
+</tr>
+<tr>
+<td>Art. 1.</td>
+<td>Innergemeinschaftlicher Erwerb</td>
+</tr>
+<tr>
+<td><i>(Anm.: Art. 1a.</i></td>
+<td><i>Konsignationslagerregelung)</i></td>
+</tr>
+<tr>
+<td>Art. 2.</td>
+<td>Fahrzeuglieferer</td>
+</tr>
+<tr>
+<td>Art. 3</td>
+<td>Lieferung</td>
+</tr>
+<tr>
+<td>Art. 3a.</td>
+<td>Sonstige Leistung</td>
+</tr>
+<tr>
+<td>Art. 4.</td>
+<td>Bemessungsgrundlage</td>
+</tr>
+<tr>
+<td>Art. 6.</td>
+<td>Steuerbefreiungen</td>
+</tr>
+<tr>
+<td><i>(Anm.: Art. 6a. </i></td>
+<td><i>Verfahren zur Sonderregelung für EU–Kleinunternehmer)</i></td>
+</tr>
+<tr>
+<td>Art. 7.</td>
+<td>Innergemeinschaftliche Lieferung</td>
+</tr>
+<tr>
+<td>Art. 11.</td>
+<td>Ausstellung von Rechnungen in besonderen Fällen</td>
+</tr>
+<tr>
+<td>Art. 12.</td>
+<td>Vorsteuerabzug</td>
+</tr>
+<tr>
+<td>Art. 18.</td>
+<td>Aufzeichnungspflichten</td>
+</tr>
+<tr>
+<td>Art. 19.</td>
+<td>Steuerschuldner, Entstehung der Steuerschuld</td>
+</tr>
+<tr>
+<td>Art. 20.</td>
+<td>Veranlagungszeitraum und Einzelbesteuerung</td>
+</tr>
+<tr>
+<td>Art. 21.</td>
+<td>Voranmeldung und Vorauszahlung, Veranlagung</td>
+</tr>
+<tr>
+<td>Art. 24.</td>
+<td>Innergemeinschaftlicher Warenverkehr mit Gebrauchtgegenständen, Kunstgegenständen, Sammlungsstücken und Antiquitäten</td>
+</tr>
+<tr>
+<td><i>(Anm.: Art. 24a.</i></td>
+<td><i>Sonderregelung für Anlagegold</i></td>
+</tr>
+<tr>
+<td><i>Art. 24b.</i></td>
+<td><i>Zoll- und Steuerlager)</i></td>
+</tr>
+<tr>
+<td>Art. 25.</td>
+<td>Dreiecksgeschäft</td>
+</tr>
+<tr>
+<td><i>(Anm.: Art. 25a.</i></td>
+<td><i>Sonderregelung für im Gemeinschaftsgebiet ansässige Unternehmer, die sonstige Leistungen an Nichtunternehmer im Gemeinschaftsgebiet erbringen, für innergemeinschaftlichen Versandhandel und für Lieferungen durch elektronische Schnittstellen innerhalb eines Mitgliedstaates)</i></td>
+</tr>
+<tr>
+<td>Art. 27.</td>
+<td>Besondere Aufsichtsmaßnahmen zur Sicherung des Steueranspruches</td>
+</tr>
+<tr>
+<td>Art. 28.</td>
+<td>Umsatzsteuer-Identifikationsnummer</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## Art. 1 – Innergemeinschaftlicher Erwerb
+
+Art. 1. (1) Der Umsatzsteuer unterliegt auch der innergemeinschaftliche Erwerb im Inland gegen Entgelt.
+
+(2) Ein innergemeinschaftlicher Erwerb gegen Entgelt liegt vor, wenn die folgenden Voraussetzungen erfüllt sind:
+
+1\. Ein Gegenstand gelangt bei einer Lieferung an den Abnehmer (Erwerber) aus dem Gebiet eines Mitgliedstaates in das Gebiet eines anderen Mitgliedstaates, auch wenn der Lieferer den Gegenstand in das Gemeinschaftsgebiet eingeführt hat;
+
+2\. der Erwerber ist
+
+a) ein Unternehmer, der den Gegenstand für sein Unternehmen erwirbt, oder
+
+b) eine juristische Person, die nicht Unternehmer ist oder die den Gegenstand nicht für ihr Unternehmen erwirbt, und
+
+3\. die Lieferung an den Erwerber
+
+a) wird durch einen Unternehmer gegen Entgelt im Rahmen seines Unternehmens ausgeführt und
+
+b) ist nach dem Recht des Mitgliedstaates, der für die Besteuerung des Lieferers zuständig ist, nicht auf Grund der Sonderregelung für Kleinunternehmer steuerfrei.
+
+(3) Als innergemeinschaftlicher Erwerb gegen Entgelt gilt:
+
+1\. das Verbringen eines Gegenstandes des Unternehmens aus dem übrigen Gemeinschaftsgebiet in das Inland durch einen Unternehmer zu seiner Verfügung, ausgenommen zu einer nur vorübergehenden Verwendung, auch wenn der Unternehmer den Gegenstand in das Gemeinschaftsgebiet eingeführt hat. Der Unternehmer gilt als Erwerber.
+
+Eine vorübergehende Verwendung liegt vor, wenn der Unternehmer den Gegenstand verwendet:
+
+a) zur Ausführung einer Werklieferung oder einer Lieferung, bei der sich der Lieferort nach Art. 3 Abs. 3 oder § 3 Abs. 8a bestimmt;
+
+b) zur Ausführung einer Lieferung, deren Lieferort sich nach § 3 Abs. 11 bestimmt;
+
+c) zur Ausführung einer gemäß § 7 oder gemäß Art. 7 steuerfreien Lieferung;
+
+\*(Anm.: lit. d aufgehoben durch BGBl. Nr. 756/1996)*
+
+e) für Arbeiten an dem Gegenstand oder die Begutachtung dieses Gegenstandes durch einen anderen Unternehmer, sofern der Gegenstand nach Erbringung der sonstigen Leistung wieder zur Verfügung des Auftraggebers in den Mitgliedstaat gelangt, von dem aus der Gegenstand versendet oder befördert worden ist;
+
+f) vorübergehend zur Ausführung einer sonstigen Leistung und der Unternehmer im Mitgliedstaat, von dem aus der Gegenstand verbracht wurde, einen Wohnsitz oder Sitz hat;
+
+g) während höchstens 24 Monaten, wenn für die Einfuhr des gleichen Gegenstands aus einem Drittland im Hinblick auf eine vorübergehende Verwendung die Regelung über die vollständige Befreiung von Eingangsabgaben bei der vorübergehenden Einfuhr gelten würde;
+
+h) zur Ausführung einer Lieferung von Gas über ein Erdgasnetz im Gebiet der Gemeinschaft oder ein an ein solches Netz angeschlossenes Netz, von Elektrizität oder von Wärme oder Kälte über Wärme- oder Kältenetze, wenn sich der Ort dieser Lieferungen nach § 3 Abs. 13 oder 14 bestimmt.
+
+Bei Wegfall der unter lit. a bis g genannten Bedingungen gilt die Verbringung in diesem Zeitpunkt als erfolgt;
+
+2\. das Verbringen eines Gegenstandes in das Inland, der nicht gemäß den allgemeinen Besteuerungsbedingungen des Binnenmarkts eines Mitgliedstaats gekauft wurde, durch die inländischen Streitkräfte, die an einer Verteidigungsanstrengung teilnehmen, die zur Durchführung einer Tätigkeit der Union im Rahmen der Gemeinsamen Sicherheits- und Verteidigungspolitik unternommen wird, zum Gebrauch oder Verbrauch dieser Streitkräfte oder ihres zivilen Begleitpersonals.
+
+(4) Ein innergemeinschaftlicher Erwerb im Sinne der Abs. 2 und 3 liegt nicht vor, wenn die folgenden Voraussetzungen erfüllt sind:
+
+1\. Der Erwerber ist
+
+a) ein Unternehmer, der nur steuerfreie Umsätze ausführt, die zum Ausschluß vom Vorsteuerabzug führen,
+
+b) ein Unternehmer, der den Gegenstand zur Ausführung von Umsätzen verwendet, für die die Steuer nach den Durchschnittssätzen des § 22 festgesetzt ist, oder
+
+c) eine juristische Person, die nicht Unternehmer ist oder die den Gegenstand nicht für ihr Unternehmen erwirbt, und
+
+2\. der Gesamtbetrag der Entgelte für Erwerbe im Sinne des Abs. 2 Z 1 und des Abs. 3 hat den Betrag von 11 000 Euro im vorangegangenen Kalenderjahr nicht und im laufenden Kalenderjahr noch nicht überstiegen (Erwerbsschwelle); ab dem Entgelt für den Erwerb, mit dem im laufenden Jahr die Erwerbsschwelle überstiegen wird, unterliegt der Erwerb der Besteuerung. In die Erwerbsschwelle sind die Entgelte für den Erwerb neuer Fahrzeuge und verbrauchsteuerpflichtiger Waren nicht einzubeziehen.
+
+(5) Der Erwerber kann auf die Anwendung des Abs. 4 verzichten. Der Verzicht ist gegenüber dem Finanzamt innerhalb der Frist zur Abgabe der Voranmeldung für den Voranmeldungszeitraum eines Kalenderjahres, in dem erstmals ein Erwerb getätigt worden ist, schriftlich zu erklären. Als Verzicht gilt auch die Verwendung einer aufgrund eines Antrags gemäß Art. 28 Abs. 1 dritter Satz erteilten Umsatzsteuer-Identifikationsnummer gegenüber dem Lieferer beim Erwerb von Gegenständen aus dem übrigen Unionsgebiet. Ein Verzicht bindet den Erwerber mindestens für zwei Kalenderjahre und kann nur mit Wirkung vom Beginn eines Kalenderjahres an widerrufen werden. Der Widerruf ist innerhalb der Frist zur Abgabe der Voranmeldung für den Voranmeldungszeitraum dieses Kalenderjahres, in dem erstmals ein Erwerb getätigt worden ist, gegenüber dem Finanzamt schriftlich zu erklären.
+
+(6) Abs. 4 gilt nicht für den Erwerb neuer Fahrzeuge und verbrauchsteuerpflichtiger Waren. Verbrauchsteuerpflichtige Waren im Sinne dieses Gesetzes sind Alkohol und alkoholische Getränke, Tabakwaren sowie Energieerzeugnisse, jeweils im Sinne der geltenden Gemeinschaftsvorschriften, nicht jedoch Gas, das über ein Erdgasnetz im Gebiet der Gemeinschaft oder jedes an ein solches Netz angeschlossenes Netz geliefert wird.
+
+\*Erwerb neuer Fahrzeuge*
+
+(7) Der Erwerb eines neuen Fahrzeugs durch einen Erwerber, der nicht zu den in Abs. 2 Z 2 genannten Personen gehört, ist unter den Voraussetzungen des Abs. 2 Z 1 innergemeinschaftlicher Erwerb.
+
+(8) Fahrzeuge im Sinne des Abs. 7 sind
+
+1\. motorbetriebene Landfahrzeuge mit einem Hubraum von mehr als 48 Kubikzentimetern oder einer Leistung von mehr als 7,2 Kilowatt,
+
+2\. Wasserfahrzeuge mit einer Länge von mehr als 7,5 Metern,
+
+3\. Luftfahrzeuge, deren Starthöchstmasse mehr als 1 550 Kilogramm beträgt,
+
+soweit diese Fahrzeuge zur Personen- oder Güterbeförderung bestimmt sind.
+
+(9) Ein Fahrzeug gilt als neu, wenn die erste Inbetriebnahme im Zeitpunkt des Erwerbs nicht mehr als drei Monate zurückliegt. Für motorbetriebene Landfahrzeuge nach Abs. 8 Z 1 beträgt der Zeitraum sechs Monate. Dasselbe gilt, wenn das
+
+1\. Landfahrzeug nicht mehr als 6 000 Kilometer zurückgelegt hat,
+
+2\. Wasserfahrzeug nicht mehr als 100 Betriebsstunden auf dem Wasser zurückgelegt hat,
+
+3\. Luftfahrzeug nicht länger als 40 Betriebsstunden genutzt worden ist.
+
+\*Erwerb durch diplomatische Missionen, zwischenstaatliche Einrichtungen und Streitkräfte im Rahmen der Gemeinsamen Sicherheits- und Verteidigungspolitik*
+
+(10) Ein innergemeinschaftlicher Erwerb im Sinne des Abs. 1 liegt nicht vor, wenn ein Gegenstand bei einer Lieferung aus dem Gebiet eines anderen Mitgliedstaates in das Inland gelangt und die Erwerber folgende Einrichtungen sind, soweit sie nicht Unternehmer sind oder den Gegenstand nicht für ihr Unternehmen erwerben:
+
+1\. im Inland ansässige ständige diplomatische Missionen und berufskonsularische Vertretungen oder
+
+2\. im Inland ansässige zwischenstaatliche Einrichtungen oder
+
+3\. Streitkräfte anderer Mitgliedstaaten, die im Inland an einer Verteidigungsanstrengung teilnehmen, die zur Durchführung einer Tätigkeit der Union im Rahmen der Gemeinsamen Sicherheits- und Verteidigungspolitik unternommen wird.
+
+Diese Einrichtungen gelten nicht als Erwerber im Sinne des Abs. 2 Z 2. Die Abs. 7 bis 9 bleiben unberührt.
+
+## Art. 1a – Konsignationslagerregelung
+
+Art. 1a. (1) Das Verbringen eines Gegenstandes gemäß Art. 1 Abs. 3 gilt nicht als innergemeinschaftlicher Erwerb gegen Entgelt (Konsignationslagerregelung), wenn
+
+a) die Gegenstände vom Unternehmer oder auf seine Rechnung von einem Dritten in das Inland im Hinblick darauf befördert oder versandt werden, um zu einem späteren Zeitpunkt an einen anderen Unternehmer geliefert zu werden, der gemäß einer bestehenden Vereinbarung zwischen den beiden Unternehmern zum Erwerb des Eigentums an diesen Gegenständen berechtigt ist (geplanter Erwerber);
+
+b) der Unternehmer im Inland weder sein Unternehmen betreibt noch eine Betriebstätte hat;
+
+c) dem Unternehmer die Identität und die inländische Umsatzsteuer-Identifikationsnummer des geplanten Erwerbers zum Zeitpunkt des Beginns der Beförderung oder Versendung bekannt sind und der Unternehmer diese Informationen in die Zusammenfassende Meldung gemäß Art. 21 Abs. 3 aufnimmt; und
+
+d) der Unternehmer die Verbringung der Gegenstände in das Register gemäß Abs. 6 einträgt.
+
+(2) Wurde ein Gegenstand gemäß Abs. 1 verbracht und wird der Gegenstand, wie geplant, innerhalb der in Abs. 3 genannten Frist an den Erwerber geliefert, gelten die Voraussetzungen des Art. 1 Abs. 2 Z 1 in diesem Zeitpunkt als erfüllt.
+
+(3) Werden die Gegenstände nicht innerhalb von 12 Monaten nach ihrer Ankunft im Inland an den geplanten Erwerber geliefert und ist keiner der in Abs. 4 Z 1 oder Abs. 5 genannten Umstände eingetreten, liegt ein innergemeinschaftlicher Erwerb gegen Entgelt gemäß Art. 1 Abs. 3 am Tag nach Ablauf dieses Zeitraums vor.
+
+(4) Kein Verbringen eines Gegenstandes gemäß Art. 1 Abs. 3 liegt vor, wenn vor der Lieferung an den geplanten Erwerber und innerhalb des in Abs. 3 genannten Zeitraums:
+
+1\. der Gegenstand in den Mitgliedstaat zurückgesandt wird, von dem aus er befördert oder versandt wurde und der Unternehmer den Rückversand in das Register gemäß Abs. 6 einträgt; oder
+
+2\. der geplante Erwerber durch einen anderen Erwerber ersetzt wird, die Voraussetzungen gemäß Abs. 1 sinngemäß erfüllt sind und der Unternehmer die Ersetzung in das Register gemäß Abs. 6 einträgt.
+
+(5) Ist eine der Voraussetzungen gemäß Abs. 1 und Abs. 4 Z 2 innerhalb des in Abs. 3 genannten Zeitraums nicht mehr erfüllt, liegt ein innergemeinschaftlicher Erwerb gegen Entgelt gemäß Art. 1 Abs. 3 vor:
+
+1\. unmittelbar vor der Lieferung, wenn die Gegenstände an eine andere Person als den geplanten Erwerber geliefert werden;
+
+2\. unmittelbar vor dem Beginn dieser Beförderung oder Versendung, wenn die Gegenstände in ein anderes Land als den Mitgliedstaat, aus dem sie ursprünglich verbracht wurden, befördert oder versandt werden;
+
+3\. an dem Tag, an dem die Gegenstände tatsächlich abhandenkamen oder zerstört wurden, oder – falls ein solcher Tag nicht bestimmt werden kann – an dem Tag, an dem die Zerstörung oder das Fehlen der Gegenstände festgestellt wurde, bei Zerstörung, Verlust oder Diebstahl der Gegenstände;
+
+4\. zum Zeitpunkt, zu dem die betreffende Voraussetzung nicht mehr erfüllt ist, in allen anderen Fällen.
+
+(6) Unternehmer, die Gegenstände im Rahmen dieser Konsignationslagerregelung verbringen, sowie geplante Erwerber gemäß Abs. 1 lit. a müssen ein Register führen, das es den Steuerbehörden ermöglicht, die korrekte Anwendung des genannten Artikels zu überprüfen.
+
+## Art. 2 – Fahrzeuglieferer
+
+Art. 2. Wer im Inland ein neues Fahrzeug liefert, das bei der Lieferung in das übrige Gemeinschaftsgebiet gelangt, wird, wenn er nicht Unternehmer im Sinne des § 2 ist, für diese Lieferung wie ein Unternehmer behandelt. Dasselbe gilt, wenn der Lieferer eines neuen Fahrzeugs Unternehmer im Sinne des § 2 ist und die Lieferung nicht im Rahmen des Unternehmens ausführt.
+
+## Art. 3 – Lieferung
+
+Art. 3. (1) Als Lieferung gegen Entgelt gilt:
+
+Das Verbringen eines Gegenstandes des Unternehmens aus dem Inland in das übrige Gemeinschaftsgebiet durch einen Unternehmer zu seiner Verfügung, ausgenommen einer nur vorübergehenden Verwendung, auch wenn der Unternehmer den Gegenstand in das Inland eingeführt hat. Der Unternehmer gilt als Lieferer. Eine vorübergehende Verwendung liegt vor, wenn der Unternehmer den Gegenstand verwendet:
+
+a) zur Ausführung einer Werklieferung oder einer Lieferung, bei der sich der Lieferort nach Art. 3 Abs. 3 oder § 3 Abs. 8a bestimmt;
+
+b) zur Ausführung einer Lieferung, deren Lieferort sich nach § 3 Abs. 11 bestimmt;
+
+c) zur Ausführung einer steuerfreien Lieferung im Sinne des § 7 oder Art. 7;
+
+\*(Anm.: lit. d aufgehoben durch BGBl. Nr. 756/1996)*
+
+e) für Arbeiten an dem Gegenstand oder die Begutachtung dieses Gegenstandes durch einen anderen Unternehmer, sofern der Gegenstand nach Erbringung der sonstigen Leistung wieder zur Verfügung des Auftraggebers in den Mitgliedstaat gelangt, von dem aus der Gegenstand versendet oder befördert worden ist;
+
+f) vorübergehend zur Ausführung einer sonstigen Leistung und der Unternehmer im Inland einen Wohnsitz oder Sitz hat;
+
+g) während höchstens 24 Monaten in dem Gebiet eines anderen Mitgliedstaats, in dem für die Einfuhr des gleichen Gegenstands aus einem Drittland im Hinblick auf eine vorübergehende Verwendung die Regelung über die vollständige Befreiung von Eingangsabgaben bei der vorübergehenden Einfuhr gelten würde.
+
+h) zur Ausführung einer Lieferung von Gas über ein Erdgasnetz im Gebiet der Gemeinschaft oder ein an ein solches Netz angeschlossenes Netz, von Elektrizität oder von Wärme oder Kälte über Wärme- oder Kältenetze, wenn sich der Ort dieser Lieferungen nach § 3 Abs. 13 oder 14 bestimmt.
+
+Bei Wegfall der unter lit. a bis g genannten Bedingungen gilt die Verbringung in diesem Zeitpunkt als erfolgt;
+
+**Konsignationslagerregelung**
+
+(2) Das Verbringen eines Gegenstandes gemäß Abs. 1 im Rahmen einer Konsignationslagerregelung gilt nicht als Lieferung gegen Entgelt. Art. 1a ist sinngemäß anzuwenden.
+
+**Innergemeinschaftlicher Versandhandel**
+
+(3) Beim innergemeinschaftlichen Versandhandel gilt die Lieferung als dort ausgeführt, wo die Beförderung oder Versendung an den Abnehmer endet. Ein innergemeinschaftlicher Versandhandel liegt vor bei Lieferungen von Gegenständen, die durch den Lieferer oder für dessen Rechnung von einem anderen Mitgliedstaat als jenem, in dem die Beförderung oder Versendung (an den Abnehmer) endet, versandt oder befördert werden, einschließlich jene, an deren Beförderung oder Versendung der Lieferer indirekt beteiligt ist.
+
+(4) Abs. 3 ist anzuwenden, wenn der Abnehmer
+
+1\. nicht zu den in Art. 1 Abs. 2 Z 2 genannten Personen gehört oder
+
+2\. a) ein Unternehmer ist, der nur steuerfreie Umsätze ausführt, die zum Ausschluß vom Vorsteuerabzug führen, oder
+
+b) ein Kleinunternehmer ist, der nach dem Recht des für die Besteuerung zuständigen Mitgliedstaates von der Steuer befreit ist oder auf andere Weise von der Besteuerung ausgenommen ist, oder
+
+c) ein Unternehmer ist, der nach dem Recht des für die Besteuerung zuständigen Mitgliedstaates die Pauschalregelung für landwirtschaftliche Erzeuger anwendet, oder
+
+d) eine juristische Person ist, die nicht Unternehmer ist oder die den Gegenstand nicht für ihr Unternehmen erwirbt,
+
+und als einer der in den lit. a bis d genannten Abnehmer weder die maßgebende Erwerbsschwelle (Art. 1 Abs. 4 Z 2) überschreitet noch auf ihre Anwendung verzichtet. Im Fall der Beendigung der Beförderung oder Versendung im Gebiet eines anderen Mitgliedstaates ist die von diesem Mitgliedstaat festgesetzte Erwerbsschwelle maßgebend.
+
+(5) Abs. 3 ist nicht anzuwenden, wenn
+
+a) der Unternehmer sein Unternehmen in einem Mitgliedstaat betreibt und außerhalb dieses Mitgliedstaates keine Betriebstätte hat,
+
+b) die Gegenstände in einen anderen Mitgliedstaat geliefert werden, und
+
+c) der Gesamtbetrag der Entgelte für diese Lieferungen und die sonstigen Leistungen gemäß Art. 3a Abs. 5 Z 1 den Betrag von 10 000 Euro im vorangegangenen Kalenderjahr nicht und im laufenden Kalenderjahr noch nicht überstiegen hat.
+
+(6) Der Unternehmer kann auf die Anwendung des Abs. 5 verzichten. Der Verzicht ist gegenüber dem Finanzamt innerhalb der Frist zur Abgabe der Voranmeldung für den Voranmeldungszeitraum eines Kalenderjahres, in dem erstmals eine Lieferung im Sinne des Abs. 3 getätigt worden ist, schriftlich zu erklären. Er bindet den Lieferer mindestens für zwei Kalenderjahre. Die Erklärung kann nur mit Wirkung vom Beginn eines Kalenderjahres an widerrufen werden. Der Widerruf ist innerhalb der Frist zur Abgabe der Voranmeldung für den Voranmeldungszeitraum dieses Kalenderjahres, in dem erstmals eine Lieferung im Sinne des Abs. 3 getätigt worden ist, gegenüber dem Finanzamt schriftlich zu erklären.
+
+(7) Die Abs. 3 bis 6 gelten nicht für die Lieferung neuer Fahrzeuge. Abs. 4 Z 2 und Abs. 5 gelten nicht für die Lieferung verbrauchsteuerpflichtiger Waren.
+
+\*Ort des innergemeinschaftlichen Erwerbs*
+
+(8) Der innergemeinschaftliche Erwerb wird in dem Gebiet des Mitgliedstaates bewirkt, in dem sich der Gegenstand am Ende der Beförderung oder Versendung befindet. Verwendet der Erwerber gegenüber dem Lieferer eine ihm von einem anderen Mitgliedstaat erteilte Umsatzsteuer-Identifikationsnummer, so gilt der Erwerb solange in dem Gebiet dieses Mitgliedstaates als bewirkt, bis der Erwerber nachweist, daß der Erwerb durch den im ersten Satz bezeichneten Mitgliedstaat besteuert worden ist. Im Falle des Nachweises gilt § 16 sinngemäß.
+
+## Art. 3a
+
+\**Sonstige Leistung**
+
+Art. 3a. (1) Die Beförderung eines Gegenstandes, die in dem Gebiet eines Mitgliedstaates beginnt und in dem Gebiete eines anderen Mitgliedstaates endet (innergemeinschaftliche Beförderung eines Gegenstandes), für einen Nichtunternehmer im Sinne des § 3a Abs. 5 Z 3, wird an dem Ort ausgeführt, an dem die Beförderung des Gegenstandes beginnt.
+
+(2) Im Falle einer unfreien Versendung (§ 12 Abs. 2 Z 3) gilt die Beförderung als für das Unternehmen des Empfängers der Sendung ausgeführt, wenn diesem die Rechnung über die Beförderung erteilt wird.
+
+(3) Werden Restaurant- und Verpflegungsdienstleistungen an Bord eines Schiffes, in einem Luftfahrzeug oder in einer Eisenbahn während einer Beförderung innerhalb der Gemeinschaft erbracht, so gilt der Abgangsort des jeweiligen Personenbeförderungsmittels im Gemeinschaftsgebiet als Ort der sonstigen Leistung.
+
+(4) Als Beförderung innerhalb des Gemeinschaftsgebiets im Sinne des Abs. 3 gilt die Beförderung oder der Teil der Beförderung zwischen dem Abgangsort und dem Ankunftsort des Beförderungsmittels im Gemeinschaftsgebiet ohne Zwischenaufenthalt außerhalb des Gemeinschaftsgebiets. Abgangsort im Sinne des ersten Satzes ist der erste Ort innerhalb des Gemeinschaftsgebiets, an dem Reisende in das Beförderungsmittel einsteigen können. Ankunftsort im Sinne des ersten Satzes ist der letzte Ort innerhalb des Gemeinschaftsgebiets, an dem Reisende das Beförderungsmittel verlassen können. Hin- und Rückfahrt gelten als gesonderte Beförderungen.
+
+(5) 1. § 3a Abs. 13 lit. a ist nicht anzuwenden, wenn
+
+a) der Unternehmer sein Unternehmen in einem Mitgliedstaat betreibt und außerhalb dieses Mitgliedstaates keine Betriebstätte hat,
+
+b) die Leistung an einen Nichtunternehmer im Sinne des § 3a Abs. 5 Z 3 erbracht wird, der in einem anderen Mitgliedstaat seinen Wohnsitz, Sitz oder gewöhnlichen Aufenthalt hat, und
+
+c) der Gesamtbetrag der Entgelte für diese Leistungen und die Lieferungen gemäß Art. 3 Abs. 5 den Betrag von 10 000 Euro im vorangegangenen Kalenderjahr nicht und im laufenden Kalenderjahr noch nicht überstiegen hat.
+
+2\. Der Unternehmer kann auf die Anwendung von Z 1 verzichten. Der Verzicht bindet ihn für mindestens zwei Kalenderjahre. Art. 3 Abs. 6 ist sinngemäß anzuwenden.
+
+## Art. 4 – Bemessungsgrundlage
+
+Art. 4. (1) Bei dem innergemeinschaftlichen Erwerb sind Verbrauchsteuern, die vom Erwerber geschuldet oder entrichtet werden, in die Bemessungsgrundlage (Entgelt) einzubeziehen.
+
+(2) Der Umsatz wird bei Verbringen eines Gegenstandes im Sinne des Art. 1 Abs. 3 und Art. 3 Abs. 1 Z 1 gemäß § 4 Abs. 8 lit. a bemessen.
+
+(3) § 4 Abs. 9 gilt auch für den innergemeinschaftlichen Erwerb.
+
+## Art. 6 – Steuerbefreiungen
+
+Art. 6. (1) Steuerfrei sind die innergemeinschaftlichen Lieferungen (Art. 7). Dies gilt nicht, wenn der Unternehmer wusste oder wissen musste, dass die betreffende Lieferung im Zusammenhang mit Umsatzsteuerhinterziehungen oder sonstigen, die Umsatzsteuer betreffenden Finanzvergehen steht.
+
+(2) Steuerfrei ist der innergemeinschaftliche Erwerb
+
+1\. der in § 6 Abs. 1 Z 8 lit. f bis j, in Abs. 1 Z 20 und der in Abs. 1 Z 21 angeführten Gegenstände;
+
+2\. der in § 6 Abs. 1 Z 4, Z 8 lit. b und d, in § 9 Abs. 1 Z 1, 2 und 3 sowie in § 9 Abs. 2 Z 1, 2 und 3 angeführten Gegenstände unter den in diesen Bestimmungen genannten Voraussetzungen;
+
+3\. der Gegenstände, deren Einfuhr (§ 1 Abs. 1 Z 3) nach den für die Einfuhrumsatzsteuer geltenden Vorschriften steuerfrei wäre,
+
+4\. der Gegenstände, die zur Ausführung von steuerfreien Umsätzen verwendet werden, für die der Ausschluß vom Vorsteuerabzug nach § 12 Abs. 3 oder Art. 12 Abs. 5 nicht eintritt.
+
+(3) Steuerfrei ist die Einfuhr der Gegenstände, die vom Anmelder im Anschluß an die Einfuhr unmittelbar zur Ausführung von innergemeinschaftlichen Lieferungen (Art. 7) verwendet werden; der Anmelder hat das Vorliegen der Voraussetzungen des Art. 7 buchmäßig nachzuweisen. Die Befreiung ist nur anzuwenden, wenn derjenige, für dessen Unternehmen der Gegenstand eingeführt worden ist, die anschließende innergemeinschaftliche Lieferung tätigt.
+
+Weiters ist Voraussetzung für die Anwendung der Steuerbefreiung, dass der Schuldner der Einfuhrumsatzsteuer zum Zeitpunkt der Einfuhr dem Zollamt Österreich die unter lit. a und b genannten Angaben zukommen lässt und den unter lit. c genannten Nachweis erbringt:
+
+a) seine im Inland erteilte Umsatzsteuer-Identifikationsnummer oder die Umsatzsteuer-Identifikationsnummer seines Steuervertreters;
+
+b) die in einem anderen Mitgliedstaat erteilte Umsatzsteuer-Identifikationsnummer des Abnehmers im Falle der innergemeinschaftlichen Lieferung nach Art. 7 Abs. 1 oder seine eigene Umsatzsteuer-Identifikationsnummer im Falle des der Lieferung gleichgestellten Verbringens nach Art. 7 Abs. 2;
+
+c) den Nachweis, aus dem hervorgeht, dass die eingeführten Gegenstände dazu bestimmt sind, vom Inland in einen anderen Mitgliedstaat befördert oder versendet zu werden.
+
+(4) Steuerfrei ist die Lieferung an den Unternehmer, der gemäß § 3 Abs. 3a Z 2 behandelt wird, als ob er die Gegenstände selbst erhalten und geliefert hätte.
+
+(5) § 6 Abs. 1 Z 27 gilt nicht für die innergemeinschaftliche Lieferung neuer Fahrzeuge.
+
+**Verfahren zur Sonderregelung für EU–Kleinunternehmer**
+
+## Art. 6a – *Voraussetzungen*
+
+Art. 6a. (1) Unternehmer, die im Inland ihr Unternehmen betreiben, können nach Einreichung einer Vorabmitteilung über das für diese Zwecke beim Bundesministerium für Finanzen eingerichtete Portal für das nachstehende Verfahren identifiziert werden, wenn der unionsweite Jahresumsatz des Unternehmers 100 000 Euro im vorangegangenen Kalenderjahr nicht und im laufenden Jahr noch nicht übersteigt und zumindest ein Mitgliedstaat die Anwendung einer Befreiung gemäß Art. 284 Abs. 2 der Richtlinie 2006/112/EG bestätigt.
+
+***Vorabmitteilung***
+
+(2) Die Vorabmitteilung hat folgende Angaben zu enthalten:
+
+1\. Name, Tätigkeit, Rechtsform, E–Mail-Adresse und Anschrift des Unternehmers;
+
+2\. Umsatzsteuer-Identifikationsnummern anderer Mitgliedstaaten sowie Identifikationsnummern zur aktuellen oder früheren Inanspruchnahme einer Sonderregelung im Sinne des § 25a, § 25b und Art. 25a bzw. eines Verfahrens im Sinne des Art. 6a;
+
+3\. Mitgliedstaat oder Mitgliedstaaten, in dem bzw. in denen der Unternehmer die Steuerbefreiung in Anspruch zu nehmen beabsichtigt;
+
+4\. den Jahresumsatz, der in jedem Mitgliedstaat im laufenden Kalenderjahr vor Einreichung der Vorabmitteilung bewirkt wurde;
+
+5\. den Jahresumsatz, der in jedem Mitgliedstaat im vorangegangenen Kalenderjahr bewirkt wurde;
+
+6\. den Jahresumsatz, der in einem Mitgliedstaat in dem Kalenderjahr vor dem vorangegangenen Kalenderjahr bewirkt wurde, wenn dies nach dem Recht dieses Mitgliedstaates Voraussetzung für die Anwendung der Befreiung ist.
+
+***Beginn der Inanspruchnahme***
+
+(3) Liegen die Voraussetzungen nach Abs. 1 vor, ist dem Unternehmer binnen 35 Werktagen ab Eingang der Vorabmitteilung eine Kleinunternehmer-Identifikationsnummer zu erteilen, sofern zur Verhinderung von Steuerhinterziehung oder Steuervermeidung kein längerer Zeitraum notwendig ist.
+
+***Berichtspflichten***
+
+(4) Der Unternehmer hat Änderungen der Angaben gemäß Abs. 2 über das für diese Zwecke beim Bundesministerium für Finanzen eingerichtete Portal zu melden. Darunter fallen auch Änderungen hinsichtlich des Mitgliedstaates, in dem der Unternehmer beabsichtigt, eine Steuerbefreiung in Anspruch zu nehmen oder nicht mehr in Anspruch zu nehmen.
+
+***Meldung***
+
+(5) Der Unternehmer hat über das für diese Zwecke beim Bundesministerium für Finanzen eingerichtete Portal für jedes Kalendervierteljahr den Umsatz zu melden, der in den einzelnen Mitgliedstaaten bewirkt wurde. Die Meldung hat binnen eines Monats ab Ende des Kalendervierteljahres zu erfolgen. Wird der Schwellenwert in Abs. 1 überschritten, ist der Unternehmer verpflichtet binnen 15 Werktagen das Überschreiten sowie den Betrag der Lieferungen und sonstigen Leistungen, die seit Beginn des laufenden Kalendervierteljahres bis zum Zeitpunkt des Überschreitens des Schwellenwertes bewirkt wurden, zu melden.
+
+***Beendigung und Ausschluss***
+
+(6) Der Unternehmer ist in folgenden Fällen vom Verfahren auszuschließen:
+
+1\. Der Unternehmer hat mitgeteilt, dass er das Verfahren nicht länger in Anspruch nehmen möchte.
+
+2\. Die Voraussetzungen des Abs. 1 liegen nicht mehr vor.
+
+3\. Der Unternehmer hat seine Tätigkeit eingestellt.
+
+Im Falle der Z 1 ist die Beendigung ab dem ersten Tag des nächsten Kalendervierteljahres nach Eingang der Informationen des Unternehmers oder, wenn diese Informationen im letzten Monat eines Kalendervierteljahres eingehen, am ersten Tag des zweiten Monats des nächsten Kalendervierteljahres wirksam. Im Falle der Z 2 wird der Ausschluss ab dem Zeitpunkt wirksam, an dem die Voraussetzungen des Abs. 1 nicht mehr vorliegen bzw. im Falle der Z 3 ab dem Zeitpunkt, ab dem die Tätigkeit eingestellt wurde.
+
+***Festsetzung inländischer Umsätze***
+
+(7) Unterlässt ein Unternehmer, der zu einem Verfahren im Sinne dieses Artikels in einem anderen Mitgliedstaat registriert ist, die Einreichung der quartalsweisen Meldung pflichtwidrig oder erweist sich diese als unvollständig oder unrichtig, so hat das Finanzamt die Steuer festzusetzen, soweit es sich um im Inland ausgeführte Umsätze handelt.
+
+## Art. 7 – Innergemeinschaftliche Lieferung
+
+Art. 7. (1) Eine innergemeinschaftliche Lieferung (Art. 6 Abs. 1) liegt vor, wenn bei einer Lieferung die folgenden Voraussetzungen vorliegen:
+
+1\. Der Unternehmer oder der Abnehmer hat den Gegenstand der Lieferung in das übrige Gemeinschaftsgebiet befördert oder versendet. Wurde ein Gegenstand gemäß Art. 3 Abs. 2 im Rahmen einer Konsignationslagerregelung verbracht und wird der Gegenstand, innerhalb der in Art. 1a Abs. 3 genannten Frist an den geplanten Erwerber geliefert, gilt die Voraussetzung des ersten Satzes in diesem Zeitpunkt als erfüllt;
+
+2\. der Abnehmer ist
+
+a) ein Unternehmer, der den Gegenstand der Lieferung für sein Unternehmen erworben hat,
+
+b) eine juristische Person, die nicht Unternehmer ist oder die den Gegenstand der Lieferung nicht für ihr Unternehmen erworben hat, oder
+
+c) bei der Lieferung eines neuen Fahrzeuges auch jeder andere Erwerber und
+
+3\. der Erwerb des Gegenstandes der Lieferung ist beim Abnehmer in einem anderen Mitgliedstaat steuerbar;
+
+4\. der Abnehmer im Sinne der Z 2 lit. a und lit. b hat dem Unternehmer, die in einem anderen Mitgliedstaat erteilte Umsatzsteuer-Identifikationsnummer mitgeteilt;
+
+5\. der Unternehmer ist der Verpflichtung zur Abgabe einer Zusammenfassenden Meldung nach Art. 21 Abs. 3 nachgekommen oder hat sein Versäumnis zur Zufriedenheit der zuständigen Behörden ordnungsgemäß begründet.
+
+Der Gegenstand der Lieferung kann durch Beauftragte vor der Beförderung oder Versendung in das übrige Gemeinschaftsgebiet bearbeitet oder verarbeitet worden sein.
+
+(2) Als innergemeinschaftliche Lieferung gilt auch das einer Lieferung gleichgestellte Verbringen eines Gegenstandes (Art. 3 Abs. 1).
+
+(3) Die Voraussetzungen der Abs. 1 und 2 müssen vom Unternehmer buchmäßig nachgewiesen sein. Der Bundesminister für Finanzen kann durch Verordnung bestimmen, wie der Unternehmer den Nachweis zu führen hat, daß der Gegenstand in das übrige Gemeinschaftsgebiet befördert oder versendet worden ist.
+
+(4) Hat der Unternehmer eine Lieferung als steuerfrei behandelt, obwohl die Voraussetzungen nach Abs. 1 nicht vorliegen, so ist die Lieferung dennoch als steuerfrei anzusehen, wenn die Inanspruchnahme der Steuerbefreiung auf unrichtigen Angaben des Abnehmers beruht und der Unternehmer die Unrichtigkeit dieser Angaben auch bei Beachtung der Sorgfalt eines ordentlichen Kaufmanns nicht erkennen konnte. In diesem Fall schuldet der Abnehmer die entgangene Steuer. In Abholfällen hat der Unternehmer die Identität des Abholenden festzuhalten.
+
+## Art. 11 – Ausstellung von Rechnungen in besonderen Fällen
+
+Art. 11. (1) Der Unternehmer ist zur Ausstellung von Rechnungen verpflichtet für:
+
+1\. steuerfreie Lieferungen im Sinne des Art. 6 Abs. 1;
+
+2\. Lieferungen im Sinne des Art. 2;
+
+3\. sonstige Leistungen, die gemäß Art. 3a Abs. 1 im Inland ausgeführt werden;
+
+4\. den innergemeinschaftlichen Versandhandel, der gemäß Art. 3 Abs. 3 im Inland ausgeführt wird, wenn der Unternehmer weder die Sonderregelung nach Art. 25a im Inland, noch die Sonderregelung gemäß Art. 369a bis 369k der Richtlinie 2006/112/EG in einem Mitgliedstaat in Anspruch nimmt.
+
+In Fällen der Z 1 und 2 ist die Rechnung bis spätestens am fünfzehnten Tag des Kalendermonates, der auf den Kalendermonat folgt, in dem die Lieferung ausgeführt worden ist, unter Hinweis auf die Steuerfreiheit auszustellen. Besteht eine Verpflichtung gemäß Z 3 muss die Steuer gesondert auf der Rechnung ausgewiesen werden.
+
+(2) Wird in Rechnungen über steuerfreie Lieferungen im Sinne des Art. 7 abgerechnet, so sind die Umsatzsteuer-Identifikationsnummer des Unternehmers und die des Leistungsempfängers anzugeben. Das gilt nicht in den Fällen des Art. 1 Abs. 7 und des Art. 2.
+
+(3) Rechnungen über die innergemeinschaftlichen Lieferungen von neuen Fahrzeugen an die nicht in Art. 1 Abs. 2 Z 2 genannten Erwerber müssen die in Art. 1 Abs. 8 und 9 bezeichneten Merkmale enthalten. Das gilt auch in den Fällen des Art. 2.
+
+(4) Vereinnahmt der Unternehmer das Entgelt oder einen Teil des Entgeltes für eine noch nicht ausgeführte steuerfreie innergemeinschaftliche Lieferung, besteht hiefür keine Verpflichtung zur Rechnungsausstellung.
+
+(5) § 11 Abs. 6 gilt nicht für Rechnungen über innergemeinschaftliche Lieferungen, Rechnungen gemäß Abs. 1 Z 4 und für Rechnungen gemäß Art. 25 Abs. 4.
+
+## Art. 12 – Vorsteuerabzug
+
+Art. 12. (1) Der Unternehmer kann neben den in § 12 Abs. 1 Z 1 und 2 genannten Vorsteuerbeträgen folgende Beträge abziehen:
+
+1\. Die Steuer für den innergemeinschaftlichen Erwerb von Gegenständen für sein Unternehmen. Das gilt nicht für die sich auf Grund des Abs. 4 ergebende Steuer für den innergemeinschaftlichen Erwerb;
+
+2\. die gemäß Art. 25 Abs. 5 geschuldeten Beträge für Lieferungen, die im Inland für sein Unternehmen ausgeführt worden sind;”
+
+\*(Anm.: Z 3 aufgehoben durch BGBl. I Nr. 180/2004)*
+
+(2) Der Ausschluss vom Vorsteuerabzug (§ 12 Abs. 3) tritt nicht ein, wenn die Umsätze nach Art. 6 Abs. 1 und 4 steuerfrei sind oder steuerfrei wären.
+
+(3) Für Fahrzeuglieferer (Art. 2) gelten folgende Einschränkungen des Vorsteuerabzugs:
+
+1\. Abziehbar ist nur die auf die Lieferung, die Einfuhr oder den innergemeinschaftlichen Erwerb des neuen Fahrzeugs entfallende Steuer.
+
+2\. Die Steuer kann nur bis zu dem Betrag abgezogen werden, der für die Lieferung des neuen Fahrzeugs geschuldet würde, wenn die Lieferung nicht steuerfrei wäre.
+
+3\. Die Steuer kann erst in dem Zeitpunkt abgezogen werden, in dem der Fahrzeuglieferer die innergemeinschaftliche Lieferung des neuen Fahrzeugs ausführt.
+
+(4) § 12 Abs. 2 Z 2 gilt nicht für den innergemeinschaftlichen Erwerb.
+
+(5) Vom Vorsteuerabzug ist die Steuer für Lieferungen und sonstige Leistungen sowie für die Einfuhr von Gegenständen ausgeschlossen, soweit sie mit Umsätzen im Zusammenhang steht, die in einem anderen Mitgliedstaat ausgeführt werden und die nach dem Recht dieses Mitgliedstaates aufgrund einer Sonderregelung für Kleinunternehmer steuerfrei sind. Weiters ist der Vorsteuerabzug ausgeschlossen, wenn der Unternehmer die Steuerbefreiung gemäß § 6 Abs. 1 Z 27 in Anspruch nimmt.
+
+## Art. 18 – Aufzeichnungspflichten
+
+Art. 18. (1) Aus den Aufzeichnungen müssen die Bemessungsgrundlagen
+
+– für den innergemeinschaftlichen Erwerb von Gegenständen und
+
+– für die Lieferungen, für die die Steuer gemäß Art. 25 Abs. 5 geschuldet wird,
+
+jeweils getrennt nach Steuersätzen, sowie die hierauf entfallenden Steuerbeträge zu ersehen sein.
+
+Aus den Aufzeichnungen des Erwerbers, der eine inländische Umsatzsteuer-Identifikationsnummer verwendet, müssen die Entgelte für die Lieferungen im Sinne des Art. 25 Abs. 5 sowie die Umsatzsteuer-Identifikationsnummern der Abnehmer dieser Lieferungen zu ersehen sein.
+
+(2) Gegenstände, die der Unternehmer zu seiner Verfügung vom Inland in das übrige Gemeinschaftsgebiet verbringt, müssen aufgezeichnet werden, wenn es sich um eine vorübergehende Verwendung im Sinne des Art. 3 Abs. 1 Z 1 lit. e bis g handelt.
+
+(3) Gegenstände, die der Unternehmer von einem im übrigen Gemeinschaftsgebiet ansässigen Unternehmer im Sinne des § 3a Abs. 5 Z 1 und 2 zur Ausführung von Arbeiten an diesen beweglichen körperlichen Gegenständen oder zur Begutachtung erhält, müssen aufgezeichnet werden.
+
+## Art. 19 – Steuerschuldner, Entstehung der Steuerschuld
+
+Art. 19. (1) Steuerschuldner ist in den Fällen
+
+1\. des Art. 1 der Erwerber und
+
+2\. des Art. 7 Abs. 4 der Abnehmer;
+
+\*(Anm.: Z 3 aufgehoben durch BGBl. I Nr. 71/2003)*
+
+(2) Die Steuerschuld entsteht
+
+1\. für den innergemeinschaftlichen Erwerb im Sinne des Art. 1 Abs. 1 bis 6 mit Ausstellung der Rechnung, spätestens jedoch am 15. Tag des dem Erwerb folgenden Kalendermonates;
+
+2\. für den innergemeinschaftlichen Erwerb von neuen Fahrzeugen im Sinne des Art. 1 Abs. 7 am Tag des Erwerbs;
+
+3\. im Fall des Art. 7 Abs. 4 zweiter Satz in dem Zeitpunkt, in dem die Lieferung ausgeführt wird.
+
+> **Beachte:** Bezugszeitraum: Entfall des Abs. 1 Z 3 ab 1.1.2004 § 28 Abs. 22 Z 5 idF BGBl. I Nr. 71/2003
+
+## Art. 20 – Veranlagungszeitraum und Einzelbesteuerung
+
+Art. 20. (1) Bei der Berechnung der Steuer ist die Summe der Umsätze gem. Art. 1 Abs. 1, für welche die Steuerschuld im Laufe eines Veranlagungszeitraumes entstanden ist, zu berücksichtigen. Dem ermittelten Betrag sind die nach Art. 7 Abs. 4 zweiter Satz geschuldeten Beträge hinzuzurechnen.
+
+(2) Beim innergemeinschaftlichen Erwerb neuer Fahrzeuge durch andere Erwerber als die in Art. 1 Abs. 2 Z 2 genannten Personen ist die Steuer für jeden einzelnen steuerpflichtigen Erwerb zu berechnen (Fahrzeugeinzelbesteuerung).
+
+> **Beachte:** Bezugszeitraum: Abs. 1 zweiter Satz ab 31.12.2004 § 28 Abs. 25 Z 1 idF BGBl. I Nr. 180/2004
+
+## Art. 21
+
+\**Voranmeldung und Vorauszahlung, Veranlagung**
+
+***Nichtunternehmer***
+
+Art. 21. (1) Die Bestimmung des § 21 gilt sinngemäß auch für juristische Personen, die ausschließlich eine Steuer für Umsätze nach Art. 1 oder Art. 25 Abs. 5 zu entrichten haben, sowie für Personen, die keine Unternehmer sind und Steuerbeträge nach Art. 7 Abs. 4 zweiter Satz schulden.
+
+***Fahrzeugeinzelbesteuerung***
+
+(2) In den Fällen der Fahrzeugeinzelbesteuerung (Art. 20 Abs. 2) hat der Erwerber spätestens bis zum Ablauf eines Monates, nach dem die Steuerschuld entstanden ist (Fälligkeitstag), eine Steuererklärung auf amtlichem Vordruck abzugeben, in der er die zu entrichtende Steuer selbst zu berechnen hat (Steueranmeldung). Gibt der Erwerber die Steueranmeldung nicht ab oder erweist sich die Selbstberechnung als nicht richtig, so kann das Finanzamt die Steuer festsetzen. Die Steuer ist spätestens am Fälligkeitstag zu entrichten.
+
+Wird die Steuer von einem Parteienvertreter gemäß § 11 Abs. 5 NoVAG 1991 berechnet und entrichtet, kann die Steueranmeldung durch den Erwerber unterbleiben. § 11 Abs. 5 bis 7 NoVAG 1991 gilt sinngemäß.
+
+***Zusammenfassende Meldung***
+
+(3) Der Unternehmer im Sinne des § 2 hat bis zum Ablauf des auf jeden Kalendermonat (Meldezeitraum) folgenden Kalendermonates, in dem er innergemeinschaftliche Warenlieferungen ausgeführt oder Gegenstände im Rahmen einer Konsignationslagerregelung gemäß Art. 3 Abs. 2 verbracht hat, beim Finanzamt eine Meldung abzugeben (Zusammenfassende Meldung), in der er die Angaben nach Abs. 6 zu machen hat. Das gilt auch, wenn er im übrigen Gemeinschaftsgebiet steuerpflichtige sonstige Leistungen ausgeführt hat, für die der Leistungsempfänger entsprechend Art. 196 der Richtlinie 2006/112/EG in der Fassung der Richtlinie 2008/8/EG die Steuer schuldet. Unternehmer, für die das Kalendervierteljahr der Voranmeldungszeitraum ist (§ 21 Abs. 2), haben diese Meldung bis zum Ablauf des auf jedes Kalendervierteljahr (Meldezeitraum) folgenden Kalendermonates abzugeben. Für die Anwendung dieser Vorschrift gelten auch nichtselbständige juristische Personen im Sinne des § 2 Abs. 2 Z 2 als Unternehmer, sofern sie eine eigene Umsatzsteuer-Identifikationsnummer haben. Die Zuständigkeit in Angelegenheiten der Zusammenfassenden Meldung richtet sich nach der Zuständigkeit für die Festsetzung der Umsatzsteuer des Unternehmers.
+
+(4) Eine innergemeinschaftliche Warenlieferung im Sinne dieser Vorschrift ist
+
+1\. eine innergemeinschaftliche Lieferung im Sinne des Art. 7 Abs. 1 mit Ausnahme der Lieferungen neuer Fahrzeuge an Abnehmer ohne Umsatzsteuer-Identifikationsnummer;
+
+2\. eine innergemeinschaftliche Lieferung im Sinne des Art. 7 Abs. 2.
+
+\*(Anm.: Z 3 aufgehoben durch BGBl. Nr. 756/1996)*
+
+\*(Anm.: Abs. 5 aufgehoben durch BGBl. Nr. 756/1996)*
+
+(6) Die Zusammenfassende Meldung muss folgende Angaben enthalten:
+
+1\. für innergemeinschaftliche Warenlieferungen im Sinne des Abs. 4 Z 1
+
+a) die Umsatzsteuer-Identifikationsnummer jedes Erwerbers, die ihm in einem anderen Mitgliedstaat erteilt worden ist und unter der die innergemeinschaftlichen Warenlieferungen an ihn ausgeführt worden sind, und
+
+b) für jeden Erwerber die Summe der Bemessungsgrundlagen der an ihn ausgeführten innergemeinschaftlichen Warenlieferungen;
+
+2\. für innergemeinschaftliche Warenlieferungen im Sinne des Abs. 4 Z 2
+
+a) die Umsatzsteuer-Identifikationsnummern des Unternehmers in den Mitgliedstaaten, in die er Gegenstände verbracht hat und
+
+b) die darauf entfallende Summe der Bemessungsgrundlagen;
+
+2a. für das Verbringen von Gegenständen im Rahmen einer Konsignationslagerregelung gemäß Art. 3 Abs. 2 die Umsatzsteuer-Identifikationsnummern der geplanten Erwerber im Sinne des Art. 1a Abs. 1 lit. a sowie jede Änderung der gemeldeten Angaben;
+
+3\. für im übrigen Gemeinschaftsgebiet ausgeführte steuerpflichtige sonstige Leistungen, für die der Leistungsempfänger entsprechend Art. 196 der Richtlinie 2006/112/EG in der Fassung der Richtlinie 2008/8/EG die Steuer schuldet
+
+a) die Umsatzsteuer-Identifikationsnummer jedes Leistungsempfängers, die ihm in einem anderen Mitgliedstaat erteilt worden ist und unter der die steuerpflichtigen sonstigen Leistungen an ihn erbracht worden sind, und
+
+b) für jeden Leistungsempfänger die Summe der Bemessungsgrundlagen der an ihn erbrachten steuerpflichtigen sonstigen Leistungen.
+
+(7) Die Angaben nach Abs. 6 Z 1 und 2 sind für den Meldezeitraum zu machen, in dem die Rechnung für die innergemeinschaftliche Warenlieferung ausgestellt wird, spätestens jedoch für den Meldezeitraum, in dem der auf die Ausführung der innergemeinschaftlichen Warenlieferung folgende Monat endet. Die Angaben nach Abs. 6 Z 2a sind für den Meldezeitraum zu machen, in dem der auf die Verbringung der Gegenstände gemäß Art. 3 Abs. 2 bzw. die Änderung folgende Monat endet.
+
+Die Angaben nach Abs. 6 Z 3 sind für den Meldezeitraum zu machen, in dem die steuerpflichtige sonstige Leistung ausgeführt wird.
+
+(8) Erkennt der Unternehmer nachträglich, daß eine von ihm abgegebene Zusammenfassende Meldung unrichtig oder unvollständig ist, so ist er verpflichtet, die ursprüngliche Zusammenfassende Meldung innerhalb eines Monates zu berichtigen.
+
+(9) Die Zusammenfassende Meldung gilt als Steuererklärung. § 135 der Bundesabgabenordnung ist sinngemäß mit der Maßgabe anzuwenden, dass der Verspätungszuschlag 1% der Summe aller nach Abs. 6 Z 1 lit. b, Z 2 lit. b und Z 3 lit. b zu meldenden Bemessungsgrundlagen für innergemeinschaftliche Warenlieferungen im Sinne des Abs. 4 und im übrigen Gemeinschaftsgebiet ausgeführte steuerpflichtige sonstige Leistungen, für die der Leistungsempfänger entsprechend Art. 196 der Richtlinie 2006/112/EG in der Fassung der Richtlinie 2008/8/EG die Steuer schuldet, nicht übersteigen und höchstens 2 200 Euro betragen darf.
+
+(10) Die Übermittlung der Zusammenfassenden Meldung hat elektronisch zu erfolgen. Ist dem Unternehmer die elektronische Übermittlung der Steuererklärung mangels technischer Voraussetzungen unzumutbar, hat die Übermittlung der Zusammenfassenden Meldung auf dem amtlichen Vordruck zu erfolgen.
+
+Der Bundesminister für Finanzen wird ermächtigt, den Inhalt und das Verfahren der elektronischen Übermittlung der Zusammenfassenden Meldung mit Verordnung festzulegen. In der Verordnung kann vorgesehen werden, dass sich der Unternehmer einer bestimmten geeigneten öffentlich-rechtlichen oder privatrechtlichen Übermittlungsstelle zu bedienen hat; weiters kann ein vom Abs. 3 abweichender Abgabetermin bestimmt werden.
+
+***Gesonderte Erklärung innergemeinschaftlicher Lieferungen im Besteuerungsverfahren***
+
+(11) Der Unternehmer im Sinne des § 2 hat für jeden Voranmeldungszeitraum in der Voranmeldung (§ 21 Abs. 1 und 2) die Bemessungsgrundlagen seiner innergemeinschaftlichen Lieferungen und seiner Lieferungen im Sinne des Art. 25 Abs. 5 gesondert zu erklären. Die Angaben sind in dem Voranmeldungszeitraum zu machen, in dem die Rechnung für die innergemeinschaftliche Lieferung ausgestellt wird, spätestens jedoch in dem Voranmeldungszeitraum, in dem der auf die Ausführung der innergemeinschaftlichen Lieferung folgende Monat endet. Der zweite Satz gilt für die Steuererklärung (§ 21 Abs. 4) entsprechend.
+
+## Art. 24 – Innergemeinschaftlicher Warenverkehr mit Gebrauchtgegenständen, Kunstgegenständen, Sammlungsstücken und Antiquitäten
+
+Art. 24. (1) Die Differenzbesteuerung gemäß § 24 findet keine Anwendung,
+
+a) auf die Lieferung eines Gegenstandes, den der Wiederverkäufer innergemeinschaftlich erworben hat, wenn auf die Lieferung des Gegenstandes an den Wiederverkäufer die Steuerbefreiung für innergemeinschaftliche Lieferungen im übrigen Gemeinschaftsgebiet angewendet worden ist. Dies gilt nicht für Kunstgegenstände, die vom Urheber oder dessen Rechtsnachfolgern geliefert wurden;
+
+b) auf die innergemeinschaftliche Lieferung neuer Fahrzeuge im Sinne des Art. 1 Abs. 8 und 9.
+
+(2) Der innergemeinschaftliche Erwerb unterliegt nicht der Umsatzsteuer, wenn auf die Lieferung der Gegenstände an den Erwerber im Sinne des Art. 1 Abs. 2 im übrigen Gemeinschaftsgebiet die Differenzbesteuerung (§ 24) angewendet worden ist.
+
+(3) Die Anwendung des Art. 3 Abs. 3 und die Steuerbefreiung für innergemeinschaftliche Lieferungen (Art. 7 Abs. 1) sind bei der Differenzbesteuerung (§ 24) ausgeschlossen.
+
+## Art. 24a – Sonderregelung für Anlagegold
+
+Art. 24a. Die Bestimmungen des § 24a Abs. 1 lit. b und § 24a Abs. 2 lit. a gelten auch für den innergemeinschaftlichen Erwerb.
+
+> **Beachte:** Bezugszeitraum: hinsichtlich § 24a Abs. 2 lit. a ab 1.1.2000 § 28 Abs. 17 lit. a idF BGBl. I Nr. 106/1999 hinsichtlich § 24a Abs. 1 lit. b ab 1.1.1999 § 28 Abs. 17 lit. d idF BGBl. I Nr. 106/1999
+
+## Art. 24b – Zoll- und Steuerlager
+
+Art. 24b. Die Verordnungsermächtigung des § 24b gilt sinngemäß für Erwerbe von Gegenständen, die in eine im § 24b Abs. 1 Z 2 genannte Regelung überführt werden sollen.
+
+> **Beachte:** Bezugszeitraum: ab 1.1.2000 § 28 Abs. 17 lit. a idF BGBl. I Nr. 106/1999
+
+**Dreiecksgeschäft**
+
+## Art. 25 – Begriff
+
+Art. 25. (1) Ein Dreiecksgeschäft liegt vor, wenn bei einem Reihengeschäft (§ 3 Abs. 15) die in Abs. 3 genannten Voraussetzungen erfüllt werden.
+
+\*Ort des innergemeinschaftlichen Erwerbs beim Dreiecksgeschäft*
+
+(2) Der innergemeinschaftliche Erwerb im Sinne des Art. 3 Abs. 8 zweiter Satz gilt als besteuert, wenn der Unternehmer, der den innergemeinschaftlichen Erwerb bewirkt (Erwerber), nachweist, dass ein Dreiecksgeschäft vorliegt und dass er seiner Erklärungspflicht gemäß Abs. 6 nachgekommen ist. Kommt der Unternehmer seiner Erklärungspflicht nicht nach, fällt die Steuerfreiheit rückwirkend weg.
+
+\*Steuerbefreiung beim innergemeinschaftlichen Erwerb von Gegenständen*
+
+(3) Der innergemeinschaftliche Erwerb ist unter folgenden Voraussetzungen von der Umsatzsteuer befreit:
+
+a) Der Erwerber betreibt im Inland weder sein Unternehmen noch hat er dort eine Betriebstätte;
+
+b) der Erwerber verwendet für den Erwerb eine Umsatzsteuer-Identifikationsnummer, die weder eine inländische noch eine des Mitgliedstaates ist, aus dem die Gegenstände stammen;
+
+c) der Erwerb erfolgt für Zwecke einer anschließenden Lieferung des Erwerbers im Inland an einen Unternehmer oder eine juristische Person, der bzw. die für Zwecke der Umsatzsteuer im Inland erfasst ist (Abnehmer);
+
+d) die Steuer für die anschließende Lieferung wird gemäß Abs. 5 vom Abnehmer geschuldet.
+
+\*Rechnungsausstellung durch den Erwerber*
+
+(4) Die Rechnungsausstellung richtet sich nach den Vorschriften des Mitgliedstaates, von dem aus der Erwerber sein Unternehmen betreibt. Wird die Lieferung von der Betriebsstätte des Erwerbers ausgeführt, ist das Recht des Mitgliedstaates maßgebend, in dem sich die Betriebsstätte befindet. Rechnet der Leistungsempfänger, auf den die Steuerschuld übergeht, mittels Gutschrift ab, richtet sich die Rechnungsausstellung nach den Vorschriften des Mitgliedstaates, in dem die Lieferung ausgeführt wird.
+
+Sind für die Rechnungsausstellung die Vorschriften dieses Bundesgesetzes maßgebend, muss die Rechnung zusätzlich folgende Angaben enthalten:
+
+– einen ausdrücklichen Hinweis auf das Vorliegen eines innergemeinschaftlichen Dreiecksgeschäftes und die Steuerschuldnerschaft des Abnehmers,
+
+– die Umsatzsteuer-Identifikationsnummer, unter der der Erwerber den innergemeinschaftlichen Erwerb und die nachfolgende Lieferung der Gegenstände bewirkt hat, und
+
+– die Umsatzsteuer-Identifikationsnummer des Abnehmers.
+
+\*Steuerschuldner*
+
+(5) Bei einem Dreiecksgeschäft wird die Steuer vom Abnehmer der steuerpflichtigen Lieferung geschuldet, wenn die vom Erwerber ausgestellte Rechnung dem Abs. 4 entspricht.
+
+\*Pflichten des Erwerbers*
+
+(6) Zur Erfüllung seiner Erklärungspflicht im Sinne des Abs. 2 hat der Erwerber in der Zusammenfassenden Meldung folgende Angaben zu machen:
+
+– die Umsatzsteuer-Identifikationsnummer im Inland, unter der er den innergemeinschaftlichen Erwerb und die nachfolgende Lieferung der Gegenstände bewirkt hat;
+
+– die Umsatzsteuer-Identifikationsnummer des Abnehmers der vom Erwerber bewirkten nachfolgenden Lieferung, die diesem im Bestimmungsmitgliedstaat der versandten oder beförderten Gegenstände erteilt worden ist;
+
+– für jeden einzelnen dieser Abnehmer die Summe der Entgelte der auf diese Weise vom Erwerber im Bestimmungsmitgliedstaat der versandten oder beförderten Gegenstände bewirkten Lieferungen. Diese Beträge sind für den Meldezeitraum gemäß Art. 21 Abs. 3 anzugeben, in dem die Steuerschuld entstanden ist.
+
+\*Pflichten des Abnehmers*
+
+(7) Bei der Berechnung der Steuer gemäß § 20 ist dem ermittelten Betrag der nach Abs. 5 geschuldete Betrag hinzuzurechnen.
+
+## Art. 25a – Sonderregelung für im Gemeinschaftsgebiet ansässige Unternehmer, die sonstige Leistungen an Nichtunternehmer im Gemeinschaftsgebiet erbringen, für innergemeinschaftlichen Versandhandel und für Lieferungen durch elektronische Schnittstellen innerhalb eines Mitgliedstaates
+
+Art. 25a.
+
+**Im Inland ansässige Unternehmer**
+
+**Voraussetzungen für die Inanspruchnahme der Sonderregelung**
+
+(1) Unternehmer können auf Antrag über das für diese Zwecke beim Bundesministerium für Finanzen eingerichtete Portal, abweichend von den allgemeinen Vorschriften, die nachstehende Sonderregelung in Anspruch nehmen, wenn dies nicht nach Abs. 8, § 25a Abs. 10, § 25b Abs. 8 Z 1 oder einer vergleichbaren Sperrfrist in einem anderen Mitgliedstaat ausgeschlossen ist, für folgende Umsätze:
+
+1\. sonstige Leistungen an Nichtunternehmer gemäß § 3a Abs. 5 Z 3, die in anderen Mitgliedstaaten ausgeführt werden, in denen sie weder ihr Unternehmen betreiben noch eine Betriebsstätte haben, wenn es sich um einen Unternehmer handelt, der
+
+a) sein Unternehmen im Inland betreibt,
+
+b) sein Unternehmen im Drittlandsgebiet betreibt und innerhalb des Gemeinschaftsgebiets nur im Inland eine Betriebsstätte hat, oder
+
+c) sein Unternehmen im Drittlandsgebiet betreibt, im Inland eine Betriebsstätte hat, im übrigen Gemeinschaftsgebiet zumindest eine weitere Betriebsstätte hat und sich für die Inanspruchnahme der Sonderregelung nach diesem Bundesgesetz entscheidet.
+
+In den Fällen der lit. c kann sich der Unternehmer nur für die Inanspruchnahme der Sonderreglung nach diesem Bundesgesetz entscheiden, wenn er innerhalb der zwei vorangegangenen Kalenderjahre nicht in einem anderen Mitgliedstaat, in dem er zum Zeitpunkt der Antragstellung eine Betriebstätte hat, eine Sonderregelung gemäß Art. 369a bis 369k der Richtlinie 2006/112/EG unter den der lit. c entsprechenden Voraussetzungen in Anspruch genommen hat.
+
+2\. Lieferungen
+
+a) gemäß Art. 3 Abs. 3 oder
+
+b) durch elektronische Schnittstellen gemäß § 3 Abs. 3a Z 2 bei denen die Beförderung oder Versendung im selben Mitgliedstaat beginnt und endet.
+
+Für diese Lieferungen können folgende Unternehmer die Sonderregelung in Anspruch nehmen:
+
+aa) Unternehmer gemäß Z 1 lit. a bis c, oder
+
+bb) andere Unternehmer, wenn sie im Gemeinschaftsgebiet weder ihr Unternehmen betreiben noch eine Betriebstätte haben und:
+
+– die Beförderung oder Versendung aller unter die Sonderregelung fallenden Lieferungen im Inland beginnt; oder
+
+– die Beförderung oder Versendung eines Teils der unter die Sonderregelung fallenden Lieferungen im Inland beginnt, der Unternehmer sich für die Inanspruchnahme der Sonderregelung nach diesem Bundesgesetz entscheidet und er in keinem anderen Mitgliedstaat, in dem die Beförderung oder Versendung eines anderen Teils dieser Lieferungen beginnt, innerhalb der zwei vorangegangenen Kalenderjahre eine Sonderregelung gemäß Art. 369a bis 369k der Richtlinie 2006/112/EG unter vergleichbaren Umständen in Anspruch genommen hat.
+
+**Beginn der Inanspruchnahme**
+
+(2) Die Sonderregelung ist ab dem ersten Tag des auf den Antrag nach Abs. 1 folgenden Kalendervierteljahres anzuwenden. Abweichend davon ist sie
+
+1\. ab dem Tag der Erbringung der ersten Lieferung oder sonstigen Leistung im Sinne des Abs. 1 anzuwenden, wenn der Unternehmer die Aufnahme der Tätigkeit spätestens am zehnten Tag des auf die erste Leistungserbringung folgenden Monates meldet;
+
+2\. ab dem Tag der Änderung anzuwenden, wenn der Unternehmer eine Sonderregelung gemäß Art. 369a bis 369k der Richtlinie 2006/112/EG in einem anderen Mitgliedstaat in Anspruch genommen hat und
+
+a) den Ort, von dem aus der Unternehmer sein Unternehmen betreibt, ins Inland oder ins Drittlandsgebiet verlegt oder seine Betriebsstätte in dem anderen Mitgliedstaat auflässt; oder
+
+b) es sich um einen Unternehmer gemäß Abs. 1 Z 2 lit. bb handelt, der keine unter die Sonderregelung fallenden Lieferungen mehr ausführt, deren Beförderung oder Versendung in dem anderen Mitgliedstaat beginnt;
+
+und der Unternehmer die Änderung spätestens am zehnten Tag des auf die Änderung folgenden Monates beiden Mitgliedstaaten elektronisch meldet.
+
+Wechselt der Unternehmer von einer Sonderregelung im Sinne des § 25a zu dieser Sonderregelung, gilt lit. a sinngemäß.
+
+**Steuererklärung, Erklärungszeitraum, Entrichtung**
+
+(3) Der Unternehmer hat spätestens am letzten Tag des auf einen Erklärungszeitraum folgenden Monates eine Steuererklärung über alle in diesem Erklärungszeitraum ausgeführten steuerpflichtigen Umsätze, die unter die Sonderregelung fallen, über das für diese Zwecke beim Bundesministerium für Finanzen eingerichtete Portal abzugeben. Eine Steuererklärung ist auch dann abzugeben, wenn im Erklärungszeitraum keine Umsätze ausgeführt worden sind. Die für den Erklärungszeitraum zu entrichtende Steuer ist selbst zu berechnen und bei Abgabe der Erklärung, jedoch spätestens am letzten Tag des auf den Erklärungszeitraum folgenden Monates zu entrichten. Die Zahlung erfolgt unter Hinweis auf die zugrundeliegende Steuererklärung. Für Berichtigungen gilt Abs. 12 sinngemäß.
+
+Der Erklärungszeitraum ist das Kalendervierteljahr.
+
+(4) In der Steuererklärung sind anzugeben:
+
+1\. die dem Unternehmer vom Finanzamt gemäß Art. 28 erteilte Umsatzsteuer-Identifikationsnummer;
+
+2\. für jeden Mitgliedstaat die Summe der in diesem Erklärungszeitraum ausgeführten, unter die Sonderregelung fallenden steuerpflichtigen Umsätze und die darauf entfallende Steuer aufgegliedert nach Steuersätzen;
+
+3\. die Gesamtsteuerschuld.
+
+Erbringt der Unternehmer von Betriebsstätten in anderen Mitgliedstaaten Umsätze, die unter diese Sonderregelung fallen, so sind die in Z 1 bis 3 genannten Angaben auch für jeden dieser Mitgliedstaaten in der Steuererklärung anzuführen. Mangels Umsatzsteuer-Identifikationsnummer ist die Steuerregisternummer der jeweiligen Betriebsstätte anzugeben. Werden Gegenstände aus anderen Mitgliedstaaten versandt oder befördert sind die in Z 1 bis 3 genannten Angaben auch für jeden dieser Mitgliedstaaten anzuführen. Mangels Umsatzsteuer-Identifikationsnummer ist die Steuerregisternummer für jeden dieser Mitgliedstaaten anzugeben. Im Fall des Abs. 1 Z 2 lit. b gilt dies nur, wenn eine dieser Nummern vorhanden ist.
+
+**Werte in fremder Währung**
+
+(5) Die Beträge in der Steuererklärung sind in Euro anzugeben.
+
+Der Unternehmer hat zur Berechnung der Steuer Werte in fremder Währung nach den Kursen umzurechnen, die für den letzten Tag des Erklärungszeitraumes von der Europäischen Zentralbank festgestellt worden sind. Sind für diesen Tag keine Umrechnungskurse festgestellt worden, hat der Unternehmer die Steuer nach den für den nächsten Tag nach Ablauf des Erklärungszeitraumes von der Europäischen Zentralbank festgestellten Umrechnungskursen umzurechnen.
+
+**Beendigung oder Ausschluss von der Sonderregelung**
+
+(6) Ein Unternehmer kann die Inanspruchnahme dieser Sonderregelung beenden, unabhängig davon, ob er weiterhin Lieferungen oder sonstige Leistungen erbringt, die unter diese Sonderregelung fallen können. Die Beendigung der Sonderregelung kann nur mit Wirkung von Beginn eines Kalendervierteljahres an erfolgen. Sie ist spätestens fünfzehn Tage vor Ablauf des diesem vorangehenden Kalendervierteljahres über das für diese Zwecke beim Bundesministerium für Finanzen eingerichtete Portal zu erklären.
+
+(7) In folgenden Fällen ist ein Unternehmer von der Inanspruchnahme der Sonderregelung auszuschließen:
+
+1\. der Unternehmer teilt mit, dass er keine unter die Sonderregelung fallenden Umsätze mehr ausführt;
+
+2\. es werden über einen Zeitraum von acht aufeinanderfolgenden Kalendervierteljahren keine Lieferungen oder sonstigen Leistungen<sup> *(Anm. 1)*</sup> im Sinne des Abs. 1 erbracht;
+
+3\. der Unternehmer erfüllt die Voraussetzungen für die Inanspruchnahme dieser Sonderregelung nicht mehr;
+
+4\. der Unternehmer verstößt wiederholt gegen die Vorschriften dieser Sonderregelung.
+
+Die Ausschlussentscheidung ist elektronisch zu übermitteln und wirkt ab dem ersten Tag des Kalendervierteljahres, das auf die Übermittlung der Ausschlussentscheidung folgt. Ist der Ausschluss jedoch auf eine Änderung des Ortes, von dem aus der Unternehmer sein Unternehmen betreibt, auf eine Änderung des Ortes der Betriebsstätte oder auf eine Änderung des Ortes zurückzuführen, an dem die Beförderung oder Versendung beginnt, ist der Ausschluss ab dem Tag dieser Änderung wirksam. Ein Ausschluss gemäß Z 4 wirkt ab dem Tag, der auf den Tag folgt, an dem die Entscheidung über den Ausschluss dem Steuerpflichtigen elektronisch übermittelt wurde.
+
+Ist eine elektronische Übermittlung über FinanzOnline nicht möglich, so hat sie an die vom Unternehmer bekannt gegebene E-Mail-Adresse zu erfolgen. Die Übermittlung des E-Mails gilt mit dessen Absendung als bewirkt, ausgenommen der Unternehmer weist nach, dass ihm das E-Mail nicht übermittelt worden ist.
+
+**Sperrfristen**
+
+(8) Erfolgt ein Ausschluss gemäß Abs. 7 Z 4, kann der Unternehmer diese Sonderregelung zwei Jahre ab Wirksamkeit des Ausschlusses nicht in Anspruch nehmen. Der Ausschluss gilt auch für die Sonderregelungen gemäß § 25a und § 25b.
+
+**Berichtspflichten**
+
+(9) Der Unternehmer hat die Beendigung seiner dieser Sonderregelung unterliegenden Tätigkeit, Änderungen, durch die er die Voraussetzungen für die Inanspruchnahme dieser Sonderregelung nicht mehr erfüllt, sowie Änderungen der im Rahmen der Sonderregelung mitgeteilten Angaben bis zum zehnten Tag des folgenden Monates über das für diese Zwecke beim Bundesministerium für Finanzen eingerichtete Portal zu melden.
+
+**Aufzeichnungspflichten**
+
+(10) Die Aufzeichnungen über die nach dieser Sonderregelung getätigten Umsätze haben getrennt nach den Mitgliedstaaten zu erfolgen, in denen die Umsätze ausgeführt worden sind. Die Aufzeichnungen sind zehn Jahre aufzubewahren und über Aufforderung der zuständigen Behörde elektronisch zur Verfügung zu stellen.
+
+**Umsätze im Inland**
+
+(11) Die Abs. 2 bis 10 sind für die im Inland ausgeführten, der Sonderregelungen unterliegenden steuerpflichtigen Umsätze sinngemäß anzuwenden, wenn der Unternehmer in einem anderen Mitgliedstaat der Sonderregelung gemäß Art. 369a bis 369k der Richtlinie 2006/112/EG unterliegt. Für sonstige Leistungen gilt dies nur, wenn er keine Betriebsstätte im Inland hat.
+
+**Änderung der Bemessungsgrundlage**
+
+(12) Änderungen der Bemessungsgrundlage von Umsätzen gemäß Abs. 11 durch den Unternehmer sind innerhalb von drei Jahren ab dem Tag, an dem die ursprüngliche Erklärung abzugeben war, in eine spätere Erklärung aufzunehmen. Dabei ist auf den Steuerzeitraum und den Steuerbetrag, für den Änderungen erforderlich sind, zu verweisen.
+
+**Entstehung der Steuerschuld, Fälligkeit, Entrichtung**
+
+(13) Die Steuerschuld für Umsätze gemäß Abs. 11 entsteht außer in den Fällen gemäß § 19 Abs. 2 Z 1a im Zeitpunkt, in dem die Umsätze ausgeführt werden. Die Steuer ist spätestens am letzten Tag (Fälligkeitstag) des auf den Erklärungszeitraum, in dem der Umsatz ausgeführt worden ist, folgenden Monates zu entrichten. Für diese Umsätze sind § 19 Abs. 1 zweiter Satz und § 21 Abs. 1 bis 6 nicht anzuwenden.
+
+**Festsetzung der Steuer**
+
+(14) Unterlässt der Unternehmer die Einreichung der Steuererklärung pflichtwidrig oder erweist sich die Steuererklärung als unvollständig oder die Selbstberechnung als unrichtig, so hat das Finanzamt die Steuer für Umsätze im Sinne des Abs. 11 festzusetzen. Die festgesetzte Steuer hat den im Abs. 13 genannten Fälligkeitstag.
+
+**Vorsteuerabzug**
+
+(15) Ein Unternehmer, der Lieferungen oder sonstige Leistungen erbringt, die einer Sonderregelung gemäß Art. 369a bis 369k der Richtlinie 2006/112/EG im Inland oder in einem anderen Mitgliedstaat unterliegen, und der nicht verpflichtet ist, gemäß § 21 Abs. 4 eine Steuererklärung abzugeben, hat den mit diesen Umsätzen in Zusammenhang stehenden Vorsteuerabzug unter Anwendung des § 21 Abs. 9 vorzunehmen, unabhängig davon, ob es sich um einen im Inland ansässigen Unternehmer handelt.
+
+\*(\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+\*Anm. 1: Art. 3 Z 7 der Novelle BGBl. I Nr. 227/2021 lautet: „In Art. 25a Abs. 6 erster Satz und Abs. 7 Z 2 wird jeweils vor der Wortfolge „sonstige Leistungen“ die Wortfolge „Lieferungen oder“ eingefügt.“. Die Wortfolge in Abs. 7 vor der einzufügen ist, lautet richtig „sonstigen Leistungen*<sup>*“..*</sup>
+
+## Art. 27
+
+\**Besondere Aufsichtsmaßnahmen zur Sicherung des Steueranspruches**
+
+\*Bescheinigung zum Zwecke der Vorlage bei der Zulassungsbehörde*
+
+Art. 27. (1) Zur Sicherung des Steueranspruchs in Fällen des innergemeinschaftlichen Erwerbs neuer motorbetriebener Landfahrzeuge, neuer Luftfahrzeuge und neuer Wasserfahrzeuge (Art. 1 Abs. 8) gilt folgendes:
+
+1\. Im Falle der Anschaffung von Fahrzeugen im Sinne des Art. 1 Abs. 8 aus dem übrigen Gemeinschaftsgebiet hat das Finanzamt zu bescheinigen, daß gegen die Zulassung des Fahrzeuges aus steuerlichen Gründen keine Bedenken bestehen. Diese Bescheinigung ist nur zu erteilen, wenn die in Z 2, 3 beziehungsweise 4 vorgeschriebenen Angaben gemacht werden. Bei Erwerben im Sinne des Art. 1 Abs. 7 ist die Bescheinigung überdies nur dann zu erteilen, wenn der Nachweis über die Entrichtung der gemäß Art. 19 Abs. 2 Z 2 geschuldeten Steuer erbracht wird.
+
+2\. Für Zwecke der Bescheinigung betreffend motorbetriebene Landfahrzeuge im Sinne des Art. 1 Abs. 8 Z 1 sind folgende Angaben zu machen:
+
+a) der Name und die Anschrift des Lieferers,
+
+b) der Tag der Lieferung,
+
+c) das Entgelt (Kaufpreis),
+
+d) der Tag der ersten Inbetriebnahme,
+
+e) der Kilometerstand am Tag der Lieferung,
+
+f) die Fahrzeugart, der Fahrzeughersteller und der Fahrzeugtyp,
+
+g) der Verwendungszweck.
+
+Liegen die Voraussetzungen für die Erteilung einer solchen Bescheinigung vor, ist eine bestehende Zulassungssperre in der Genehmigungsdatenbank (§ 30a Abs. 9a Kraftfahrgesetz 1967, BGBl. Nr. 267/1967) aufzuheben. In diesem Fall entfällt die Ausstellung der Bescheinigung.
+
+3\. Für Zwecke der Bescheinigung betreffend Wasserfahrzeuge im Sinne des Art. 1 Abs. 8 Z 2 sind folgende Angaben zu machen:
+
+a) der Name und die Anschrift des Lieferers,
+
+b) der Tag der Lieferung,
+
+c) das Entgelt (Kaufpreis),
+
+d) der Tag der ersten Inbetriebnahme,
+
+e) die Fahrzeuglänge,
+
+f) die Zahl der bisherigen Betriebsstunden am Tag der Lieferung,
+
+g) der Wasserfahrzeughersteller und der Wasserfahrzeugtyp,
+
+h) der Verwendungszweck.
+
+4\. Für Zwecke der Bescheinigung betreffend Luftfahrzeuge im Sinne des Art. 1 Abs. 8 Z 3 sind folgende Angaben zu machen:
+
+a) der Name und die Anschrift des Lieferers,
+
+b) der Tag der Lieferung,
+
+c) das Entgelt (Kaufpreis),
+
+d) der Tag der ersten Inbetriebnahme,
+
+e) die Starthöchstmasse,
+
+f) die Zahl der bisherigen Betriebsstunden am Tag der Lieferung,
+
+g) der Flugzeughersteller und der Flugzeugtyp,
+
+h) der Verwendungszweck.
+
+Die Angaben nach den Ziffern 2 bis 4 sind auch dann zu machen, wenn Zweifel daran bestehen, ob die Eigenschaften als neues Fahrzeug im Sinne des Art. 1 Abs. 8 vorliegen.
+
+\*Meldepflicht bei der Lieferung neuer Fahrzeuge*
+
+(2) Zur Sicherung des Steueraufkommens durch einen regelmäßigen Austausch von Auskünften mit anderen Mitgliedstaaten auf der Grundlage der Gegenseitigkeit kann der Bundesminister für Finanzen durch Verordnung bestimmen, daß Unternehmer (§ 2) und Fahrzeuglieferer (Art. 2) der Abgabenbehörde ihre innergemeinschaftlichen Lieferungen neuer Fahrzeuge an Abnehmer ohne Umsatzsteuer-Identifikationsnummer melden müssen. Dabei können insbesondere geregelt werden:
+
+1\. die Art und Weise der Meldung;
+
+2\. der Inhalt der Meldung;
+
+3\. die Zuständigkeit der Abgabenbehörden;
+
+4\. der Abgabezeitpunkt der Meldung;
+
+5\. die Ahndung der Zuwiderhandlung gegen die Meldepflicht.
+
+\*Vorlage von Urkunden*
+
+(3) Für Erhebungen zur Erfüllung der Auskunftsverpflichtung nach der Verordnung (EU) Nr. 904/2010 gilt die Bundesabgabenordnung sinngemäß.
+
+\*Fiskalvertreter*
+
+(4) § 27 Abs. 7 gilt auch für Unternehmer, die innergemeinschaftliche Lieferungen und innergemeinschaftliche Erwerbe ausführen.
+
+\*(Anm.: Abs. 5 aufgehoben durch BGBl. Nr. 21/1995)*
+
+## Art. 28 – Umsatzsteuer-Identifikationsnummer
+
+Art. 28. (1) Das Finanzamt hat Unternehmern im Sinne des § 2, die im Inland Lieferungen oder sonstige Leistungen erbringen, für die das Recht auf Vorsteuerabzug besteht, oder innergemeinschaftliche Erwerbe bewirken oder zur Inanspruchnahme der Sonderregelung gemäß § 25b oder Art. 25a eine Umsatzsteuer-Identifikationsnummer zu erteilen. Eine Umsatzsteuer-Identifikationsnummer ist nicht zu erteilen, wenn der Unternehmer nur Lieferungen oder sonstige Leistungen im Inland erbringt, die über eine Sonderregelung gemäß Art. 358 bis 369 der Richtlinie 2006/112/EG, gemäß Art. 369a bis 369k der Richtlinie 2006/112/EG oder gemäß Art. 369l bis 369x der Richtlinie 2006/112/EG in einem anderen Mitgliedstaat erklärt werden. Das Finanzamt hat Unternehmern, die ihre Umsätze ausschließlich gemäß § 22 versteuern oder die nur Umsätze ausführen, die zum Ausschluss vom Vorsteuerabzug führen, auf Antrag eine Umsatzsteuer-Identifikationsnummer zu erteilen, wenn sie diese benötigen für
+
+– innergemeinschaftliche Lieferungen,
+
+– innergemeinschaftliche Erwerbe,
+
+– im Inland ausgeführte steuerpflichtige sonstige Leistungen, für die sie als Leistungsempfänger die Steuer entsprechend Art. 196 der Richtlinie 2006/112/EG in der Fassung der Richtlinie 2008/8/EG schulden, oder für
+
+– im übrigen Gemeinschaftsgebiet ausgeführte steuerpflichtige sonstige Leistungen, für die gemäß Artikel 196 der Richtlinie 2006/112/EG in der Fassung der Richtlinie 2008/8/EG der Leistungsempfänger die Steuer schuldet.
+
+Der dritte Satz gilt – soweit er sich auf innergemeinschaftliche Erwerbe bezieht – für juristische Personen, die nicht Unternehmer sind, entsprechend. Im Falle der Organschaft wird auf Antrag für jede juristische Person eine eigene Umsatzsteuer-Identifikationsnummer erteilt. Der Antrag auf Erteilung einer Umsatzsteuer-Identifikationsnummer ist schriftlich zu stellen. In dem Antrag sind Name, Anschrift und Steuernummer, unter der der Antragsteller umsatzsteuerlich geführt wird, anzugeben. Der Bescheid über die Erteilung der Umsatzsteuer-Identifikationsnummer ist zurückzunehmen, wenn sich die tatsächlichen oder rechtlichen Verhältnisse geändert haben, die für die Erteilung der Umsatzsteuer-Identifikationsnummer maßgebend gewesen sind oder wenn das Vorhandensein dieser Verhältnisse zu Unrecht angenommen worden ist. Der Unternehmer ist verpflichtet, jede Änderung der tatsächlichen oder rechtlichen Verhältnisse, die für die Erteilung der Umsatzsteuer-Identifikationsnummer maßgebend gewesen sind, insbesondere die Aufgabe seiner unternehmerischen Tätigkeit, dem Finanzamt binnen eines Kalendermonats anzuzeigen.
+
+\*Bestätigungsverfahren*
+
+(2) Das Bundesministerium für Finanzen bestätigt dem Unternehmer im Sinne des § 2 auf Anfrage die Gültigkeit einer Umsatzsteuer-Identifikationsnummer sowie den Namen und die Anschrift der Person, der die Umsatzsteuer-Identifikationsnummer von einem anderen Mitgliedstaat erteilt wurde. Die Übermittlung der Anfrage hat, soweit dies nicht mangels technischer Voraussetzungen unzumutbar ist, elektronisch zu erfolgen. Der Bundesminister für Finanzen kann mit Verordnung das Bestätigungsverfahren regeln.
+
+(3) Anfragen und Bestätigungen über die Gültigkeit einer Umsatzsteuer-Identifikationsnummer sind von den Stempelgebühren befreit.

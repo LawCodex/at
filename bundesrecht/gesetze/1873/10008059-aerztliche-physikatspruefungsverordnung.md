@@ -196,6 +196,8 @@ Unterschrift des k.k. Statthalters oder seines Stellvertreters
 
 ## Artikel II
 
-#### *(Anm.: aus BGBl. Nr. 294/1986, zu BG BGBl. Nr. 37/1873)*
+***(Anm.: aus BGBl. Nr. 294/1986, zu BG BGBl. Nr. 37/1873)***
+
+#### Art. 2
 
 § 186 Abs. 1 BDG 1979, BGBl. Nr. 333, ist auf dieses Bundesgesetz anzuwenden.

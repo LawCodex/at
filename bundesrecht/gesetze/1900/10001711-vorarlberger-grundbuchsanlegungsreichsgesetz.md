@@ -1,0 +1,272 @@
+---
+title: "Vorarlberger Grundbuchsanlegungsreichsgesetz"
+identifier: "10001711"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "RGBl. Nr. 44/1900"
+date: 1900-03-01
+last_amended: 2002-01-01
+last_amendment: "BGBl. I Nr. 98/2001"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/rgbl/1900/44/P0/NOR11001733"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001711"
+retrieved: 2026-10-11
+documents: 31
+---
+
+# Vorarlberger Grundbuchsanlegungsreichsgesetz
+
+Gesetz vom 1. März 1900, wirksam für das Land Vorarlberg, womit für den Fall der Einführung der Grundbücher in Vorarlberg einige grundbuchsrechtliche Sonderbestimmungen und erleichternde Gebürenvorschriften erlassen und Beschränkungen der Theilung von Gebäuden nach materiellen Antheilen eingeführt werden.
+
+StF: RGBl. Nr. 44/1900
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 461/1924 (NR: GP II 239 AB 245 S. 73 u. 74.)  
+BGBl. Nr. 462/1924 (NR: GP II 248 AB – S. 74.)  
+BGBl. Nr. 183/1925 (NR: GP II 304 AB 330 S. 103.)  
+BGBl. Nr. 118/1927  
+BGBl. Nr. 2/1930 (NR: GP III 375 AB 418 S. 116.)  
+dRGBl. I S 37/1942  
+StGBl. Nr. 231/1945  
+BGBl. Nr. 39/1955 (NR: GP VII RV 382 AB 436 S. 60. BR: S. 90.)  
+BGBl. Nr. 91/1976 (NR: GP XIV RV 80 AB 102 S. 18. BR: 1468 AB 1473 S. 349.)  
+BGBl. Nr. 343/1989 (NR: GP XVII RV 888 AB 991 S. 110. BR: 3700 AB 3719 S. 518.)  
+BGBl. Nr. 505/1994 (NR: GP XVIII RV 1334 AB 1608 S. 168. BR: AB 4818 S. 588.)  
+BGBl. I Nr. 98/2001 (NR: GP XXI RV 621 AB 704 S. 75. BR: 6398 AB 6424 S. 679.)  
+
+</details>
+
+> **Anmerkung:** 1\. Erfassungsstichtag: 1.1.1991
+>
+> 2\. Zur Geltung vgl. § 72 AllgGAG, BGBl. Nr. 2/1930 und § 137 Abs. 3 GBG 1955, BGBl. Nr. 39/1955.
+
+## Präambel/Promulgationsklausel
+
+Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
+
+### Artikel II.
+
+Von den grundbücherlichen Eintragungen (auch Löschungen), welche in dem durch die §§ 35 bis 67 AllgGAG geregelten Richtigstellungsverfahren vorgenommen werden, sind die Parteien nach Maßgabe der §§. 119 und 120 GBG. 1955 zu verständigen.
+
+\*(Anm.: Abs. 2 ist gegenstandslos.)*
+
+### Artikel IV.
+
+Der Kreis der zur Beglaubigung der Echtheit von Unterschriften auf Privaturkunden berufenen Organe wird erweitert, wie folgt:
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Art. 4 § 1 – §. 1.
+
+Der gerichtlichen oder notariellen Legalisirung der Unterschriften von Privaturkunden ist nach Maßgabe der nachfolgenden Bestimmungen die Beglaubigung der Unterschriften durch die als Legalisatoren in Grundbuchssachen bestellten Vertrauensmänner gleichzuachten. Doch kann auf Grund einer von dem Legalisator beglaubigten Urkunde eine grundbücherliche Eintragung nur im Lande Vorarlberg vorgenommen werden.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Art. 4 § 2 – §. 2.
+
+(1) In der Regel ist für jede Gemeinde über Antrag des Gemeindeausschusses ein Legalisator zu bestellen. Ausnahmsweise kann für das Gebiet mehrerer benachbarter Gemeinden nur ein Legalisator bestellt werden. Insbesondere kann bei länger andauernder Verhinderung eines Legalisators der Legalisator einer Nachbargemeinde als dessen Substitut bestellt werden.
+
+(2) Die vom Gemeindeausschusse verlangte Bestellung eines Legalisators, der die gesetzliche Eignung besitzt (§. 3), kann nicht verweigert werden.
+
+### Art. 4 § 3 – §. 3.
+
+Zum Amte eines Legalisators ist nur derjenige geeignet, welcher nach dem Gesetze nicht von der Wählbarkeit zum Mitgliede eines Gemeindeausschusses ausgeschlossen ist, welcher ferner in dem Gebiete, auf welches sich seine Amtswirksamkeit erstrecken soll, seinen Hauptwohnsitz hat und von welchem nach seinen Eigenschaften und Verhältnissen eine verlässliche und dem Zwecke entsprechende Erfüllung seiner Aufgabe zu erwarten ist.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Art. 4 § 4 – §. 4.
+
+(1) Die Bestellung der Legalisatoren erfolgt durch den Präsidenten des Oberlandesgerichtes auf Grund der von den Gemeindeausschüssen gemachten Vorschläge.
+
+(2) Gegen die Verfügung des Oberlandesgerichtspräsidenten, womit die Bestellung eines von dem Gemeindeausschusse vorgeschlagenen Legalisators verweigert wird, steht dem Gemeindeausschusse die Beschwerde an den Justizminister offen. Die Beschwerde ist binnen 14 Tagen nach erfolgter Zustellung der bezüglichen Entschließung bei dem Bezirksgerichte zu überreichen.
+
+### Art. 4 § 5 – §. 5.
+
+Dem Legalisator liegt ob, sich eines Amtssiegels zu bedienen, welches den österreichischen Adler, den Vor- und Zunamen des Legalisators, seine Amtseigenschaft und den Namen seines Wohnsitzes zu enthalten hat.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Art. 4 § 6 – §. 6.
+
+(1) Vor Antritt des Amtes hat der Legalisator einen Eid nach folgender Eidesformel abzulegen:
+
+„Ich schwöre, dem Kaiser treu und gehorsam zu sein, die Staatsgrundgesetze unverbrüchlich beobachten und mein Amt als Legalisator in Grundbuchssachen nach Vorschrift der Gesetze genau und gewissenhaft versehen zu wollen. So wahr mir Gott helfe!“
+
+(2) Die Abnahme des Eides erfolgt durch den Präsidenten des Gerichtshofes erster Instanz. Dieser kann mit der Vornahme der Beeidigung den betreffenden Bezirksrichter betrauen.
+
+### Art. 4 § 7 – §. 7.
+
+Der Präsident des Gerichtshofes erster Instanz bestimmt den Tag des Beginnes der Wirksamkeit des Legalisators.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Art. 4 § 8 – §. 8.
+
+(1) Der Legalisator darf die Echtheit einer Unterschrift nur innerhalb seines Amtsgebietes und nur dann beglaubigen, wenn ihm die Partei, um deren Unterschrift es sich handelt, persönlich bekannt ist, oder deren Identität durch zwei verläßliche Zeugen bestätigt wird, und wenn die Partei die Urkunde in seiner Gegenwart eigenhändig unterfertigt oder die auf der Urkunde befindliche Unterfertigung vor ihm als die ihrige anerkannt.
+
+(2) Ob die Feststellung der Echtheit der Unterschrift in dieser oder jener Art erfolgte, hat der Legalisator in der Echtheitsclausel auf der Urkunde ausdrücklich anzugeben, ferner hat derselbe Ort und Tag der Amtshandlung nebst seiner ämtlichen Unterschrift und dem Amtssiegel beizufügen. Auch ist die Clausel mit der Geschäftszahl, unter welcher die Amtshandlung in dem von ihm zu führenden Legalisirungsregister erscheint, zu versehen und der Betrag der eingehobenen Legalisirungsgebür (§. 10, Absatz 1 und 2) ersichtlich zu machen.
+
+(3) Außer den Unterschriften solcher Personen, die im Amtsgebiete des Legalisators wohnen, darf derselbe auch die Unterschriften anderer Personen beglaubigen, wenn es sich um Urkunden handelt, die sich auf eine im Amtsgebiete liegende Realität beziehen, oder wenn wenigstens eine von den in der betreffenden Urkunde unterfertigten Personen innerhalb des Amtsgebietes ihren Wohnsitz hat.
+
+### Art. 4 § 9 – §. 9.
+
+(1) In Sachen, in welchen der Legalisator selbst betheiligt ist, darf derselbe bei sonstiger Nichtigkeit der Beurkundung keine Beglaubigung von Unterschriften vornehmen.
+
+(2) Auch ist dem Legalisator die Beglaubigung von Unterschriften untersagt, wenn in der Urkunde eine Verfügung zum Vortheile seiner Ehefrau, seiner Eltern, Kinder oder Geschwister, der Geschwister seiner Ehefrau, der Ehegatten seiner Kinder oder Geschwister aufgenommen erscheint.
+
+### Art. 4 § 10 – §. 10.
+
+(1) Dem Legalisator ist für die Beglaubigung einer Unterschrift von der Partei in der Regel eine Gebür zu entrichten. Das Nähere ist vom Justizminister im Verordnungswege derart festzusetzen, dass die Kosten der Beglaubigung einer Unterschrift durch den Lagalisator jene einer gerichtlichen Legalisirung nicht übersteigen.
+
+(2) Sind auf einer Urkunde die Unterschriften zweier oder mehrerer gleichzeitig erscheinender Personen zu beglaubigen, so beträgt die Legalisirungsgebür für die zweite und jede weitere Unterschrift die Hälfte der gemäß Abs. 1 festzusetzenden Gebür.
+
+(3) Die von dem Legalisator vorgenommenen Beglaubigungen unterliegen der für gleichartige notarielle Legalisirungen zu entrichtenden Stempelgebür.
+
+(4) In Angelegenheiten, bei denen es sich um Werte von nicht mehr als 220 Euro handelt und die im Sinne des § 34 GBG. 1955 als geringfügige Grundbuchssachen erscheinen, entfällt die Entrichtung jeder Legalisirungs- und Stempelgebür.
+
+### Art. 4 § 11 – §. 11.
+
+(1) Der Legalisator besorgt bei Ausübung seines Amtes Geschäfte der Justizverwaltung und untersteht der Aufsicht des Bezirksgerichtes, in dessen Sprengel er seinen Hauptwohnsitz hat (§. 3), und der Disciplinargewalt des Präsidenten des Gerichtshofes erster Instanz.
+
+(2) Dieser ist ermächtigt, den Legalisator wegen Ordnungswidrigkeiten in Geldstrafen bis zu 200 Euro zu Gunsten des Armenfondes des Wohnsitzes des Legalisators zu verfällen, nöthigenfalls dessen Suspension vom Dienste zu verfügen, und wenn sich ergeben sollte, daß der Legalisator die Eignung zu dem Amte nicht besitzt, sowie im Falle erwiesener Vertrauensunwürdigkeit dessen Entlassung auszusprechen.
+
+(3) Gegen Verfügungen des Präsidenten des Gerichtshofes erster Instanz kann der Legalisator die Beschwerde an den Oberlandesgerichtspräsidenten ergreifen.
+
+(4) Die Beschwerde ist binnen 14 Tagen nach Zustellung der betreffenden Verfügung bei dem Bezirksgerichte zu überreichen.
+
+(5) Beschwerden gegen die Suspension vom Dienste haben keine aufschiebende Wirkung.
+
+(6) Auf die Fortführung einer gegen den Legalisator eingeleiteten Disciplinaruntersuchung hat ein freiwilliger Amtsverzicht desselben keinen Einfluss.
+
+### Art. 4 § 12 – §. 12.
+
+Der Landesgesetzgebung bleibt es vorbehalten, zu bestimmen, ob und in wie weit für den Schaden, welcher in Ausübung der amtlichen Wirksamkeit des Legalisators durch dessen Verschulden verursacht wird, die betreffenden Gemeinden oder das Land zu haften haben.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Art. 4 § 13 – §. 13.
+
+Die zum Zwecke der Bestellung, Beaufsichtigung und Enthebung des Legalisators erforderlichen Amtshandlungen genießen Stempel- und Gebürenfreiheit. Diese erstreckt sich auf alle Eingaben und Beilagen, Protokolle und Ausfertigungen, welche zu diesem Zwecke zu dienen bestimmt sind, sowie auf das Legalisirungsregister.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Artikel V.
+
+Verträge und Erklärungen über die Erwerbung, Übertragung, Beschränkung oder Aufhebung dinglicher Rechte an Liegenschaften sind auf mündliches Ansuchen der Parteien bei dem Grundbuchsgerichte in Protokollsform durch einen richterlichen Beamten unter Beiziehung eines beeideten Schriftführers unentgeltlich aufzunehmen, wofern die sofortige Verbücherung einer solchen Protokollarurkunde beabsichtigt wird.
+
+Der die Aufnahme der Urkunde besorgende Beamte hat, wenn ihm die einschreitenden Parteien nicht persönlich bekannt sind, behufs Feststellung der Personsidentität sich nach den in Betreff der gerichtlichen Legalisirung von Unterschriften bestehenden gesetzlichen Vorschriften zu benehmen.
+
+Das Ansuchen zur Bewilligung der durch die Urkunde bedingten Grundbuchsamtshandlung kann, selbst bei den Gerichtshöfen, auch in dem Protokolle über die Urkundenaufnahme angebracht werden.
+
+Der Gerichtsvorsteher kann zum Zwecke der Urkundenaufnahme bestimmte Gerichtstage vorhinein festsetzen, welche durch Anschlag am Gerichtshause und Kundmachung in den Gemeinden des Gerichtsbezirkes bekanntzumachen sind.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Artikel VI.
+
+Die Aufnahme einer Urkunde bei Gericht ist zu verweigern, wenn sich der gegründete Verdacht ergibt, dass die Parteien das bezügliche Geschäft nur zum Scheine, zur Umgehung des Gesetzes oder zum Zwecke der widerrechtlichen Benachtheiligung eines Dritten schließen.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Artikel VII.
+
+Das Protokoll über die Urkundenaufnahme ist, sobald auf Grundlage desselben die bezügliche Eintragung im Grundbuche vollzogen wurde, mit der Bestätigung des Vollzuges der Eintragung gemäß §. 105 des allgemeinen Grundbuchsgesetzes vom 25. Juli 1871, R. G. Bl. Nr. 95, versehen, bei Gericht aufzubewahren.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Artikel VIII.
+
+Wofern im Mandatsverfahren eine Urkunde, welche gemäß Artikel V dieses Gesetzes bei Gericht aufgenommen wurde, im Originale beizubringen wäre, wird das Original durch eine beglaubigte Abschrift des bezüglichen Protokolles ersetzt.
+
+Hiedurch wird die gesetzliche Berechtigung der Partei, falls das Processgericht zugleich das Grundbuchsgericht ist, bei welchem sich die Originalurkunde in Aufbewahrung befindet (Artikel VII), sich lediglich auf diese Urkunde zu berufen, ebensowenig berührt, als die gesetzliche Verpflichtung zur Beibringung einer Abschrift der Urkunde für die Gegenpartei.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Artikel IX.
+
+In Ansehung von Gemeinschaftsalpen und -weiden findet die Bestimmung des §. 830 des allgemeinen bürgerlichen Gesetzbuches über die Befugnis jedes Theilhabers, die Aufhebung der Gemeinschaft zu verlangen, keine Anwendung, sofern das Gegentheil nicht in den Statuten oder Verträgen der Gemeinschaft ausdrücklich bestimmt ist.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Artikel XI.
+
+Die Bestimmungen des Gesetzes vom 30. März 1879, R. G. Bl. Nr. 50, betreffend die Theilung von Gebäuden nach materiellen Antheilen, werden auf das Land Vorarlberg ausgedehnt.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+### Artikel XII.
+
+Zur Herbeiführung der Beseitigung gesetzwidriger Eintragungen wird verfügt:
+
+> **Beachte:** Art. XII wurde aufgehoben durch § 11 Z 3 dRGBl. I S 37/1942; diese Verordnung wurde zur Gänze aufgehoben durch § 137 Abs. 2 GBG 1955, BGBl. Nr. 39/1955. Bei teleologischer Auslegung (allgemeine Regelung der Löschung gesetzwidriger Eintragungen durch die aufgehobene Verordnung, Übernahme dieser Regelung in das GBG 1955) wird dies wohl nicht als Wiederinkraftsetzung des Art. XII verstanden werden können.
+
+### Art. 12 § 1 – §. 1.
+
+(1) Das Oberlandesgericht hat, wenn es in Kenntnis kommt, dass eine Eintragung im Grundbuche vorgekommen ist, welche nach dem bestehenden Gesetze dem Gegenstande und Inhalte nach eine grundbücherliche Eintragung überhaupt nicht bilden kann, von amtswegen auf die Löschung der Eintragung zu erkennen.
+
+(2) Wenn auf Grund der gesetzwidrigen Eintragung grundbücherliche Rechte für dritte Personen eingetragen wurden, so ist auch auf deren Löschung zu erkennen.
+
+(3) Die Löschung der dem Gesetze widerstreitenden Eintragung der Theilung von Gebäuden nach materiellen Antheilen darf, wenn auf solchen Antheilen nachträglich erworbene Rechte dritter Personen haften, nur mit deren Zustimmung erfolgen.
+
+> **Beachte:** Art. XII wurde aufgehoben durch § 11 Z 3 dRGBl. I S 37/1942; diese Verordnung wurde zur Gänze aufgehoben durch § 137 Abs. 2 GBG 1955, BGBl. Nr. 39/1955. Bei teleologischer Auslegung (allgemeine Regelung der Löschung gesetzwidriger Eintragungen durch die aufgehobene Verordnung, Übernahme dieser Regelung in das GBG 1955) wird dies wohl nicht als Wiederinkraftsetzung des Art. XII verstanden werden können.
+
+### Art. 12 § 2 – §. 2.
+
+(1) Vor Fällung des Erkenntnisses sind die interessirten Parteien, allenfalls auch die betheiligten Verwaltungsbehörden zu hören, und ist auf eine gütliche Beilegung widerstreitender Privatinteressen hinzuwirken.
+
+(2) Das Erkenntnis ist im verstärkten Senate des Oberlandesgerichtes zu beschließen (§§. 36 und 42 des Gesetzes vom 27. November 1896, R. G. Bl. Nr. 217).
+
+(3) Gegen das Erkenntnis auf Löschung steht den Interessenten (und dem Oberstaatsanwalte) der Recurs an den Obersten Gerichtshof zu.
+
+(4) Das Erkenntnis ist nach Eintritt der Rechtskraft desselben in Vollzug zu setzen.
+
+> **Beachte:** Art. XII wurde aufgehoben durch § 11 Z 3 dRGBl. I S 37/1942; diese Verordnung wurde zur Gänze aufgehoben durch § 137 Abs. 2 GBG 1955, BGBl. Nr. 39/1955. Bei teleologischer Auslegung (allgemeine Regelung der Löschung gesetzwidriger Eintragungen durch die aufgehobene Verordnung, Übernahme dieser Regelung in das GBG 1955) wird dies wohl nicht als Wiederinkraftsetzung des Art. XII verstanden werden können.
+
+### Art. 12 § 3 – §. 3.
+
+(1) Die Einleitung des Verfahrens ist im Grundbuche anzumerken. Die Anmerkung hat die Wirkung, dass durch nach derselben erfolgte grundbücherliche Eintragungen ein Anspruch auf vorläufige Einvernehmung oder ein Recursrecht nicht begründet wird.
+
+(2) Die Anmerkung ist nach rechtkräftiger Durchführung des eingeleiteten Verfahrens zu löschen.
+
+> **Beachte:** Art. XII wurde aufgehoben durch § 11 Z 3 dRGBl. I S 37/1942; diese Verordnung wurde zur Gänze aufgehoben durch § 137 Abs. 2 GBG 1955, BGBl. Nr. 39/1955. Bei teleologischer Auslegung (allgemeine Regelung der Löschung gesetzwidriger Eintragungen durch die aufgehobene Verordnung, Übernahme dieser Regelung in das GBG 1955) wird dies wohl nicht als Wiederinkraftsetzung des Art. XII verstanden werden können.
+
+### Art. 12 § 4 – §. 4.
+
+Hinsichtlich der Zustellungen und des Recurses gelten die Bestimmungen des allgemeinen Grundbuchsgesetzes.
+
+> **Beachte:** Art. XII wurde aufgehoben durch § 11 Z 3 dRGBl. I S 37/1942; diese Verordnung wurde zur Gänze aufgehoben durch § 137 Abs. 2 GBG 1955, BGBl. Nr. 39/1955. Bei teleologischer Auslegung (allgemeine Regelung der Löschung gesetzwidriger Eintragungen durch die aufgehobene Verordnung, Übernahme dieser Regelung in das GBG 1955) wird dies wohl nicht als Wiederinkraftsetzung des Art. XII verstanden werden können.
+
+### Art. 12 § 5 – §. 5.
+
+Die in diesem Verfahren vorkommenden Eingaben, Protokolle, Beilagen und ämtliche Ausfertigungen genießen Stempel- und Gebürenfreiheit, insoferne sie nur zur Durchführung dieses Verfahrens bestimmt sind.
+
+> **Beachte:** Art. XII wurde aufgehoben durch § 11 Z 3 dRGBl. I S 37/1942; diese Verordnung wurde zur Gänze aufgehoben durch § 137 Abs. 2 GBG 1955, BGBl. Nr. 39/1955. Bei teleologischer Auslegung (allgemeine Regelung der Löschung gesetzwidriger Eintragungen durch die aufgehobene Verordnung, Übernahme dieser Regelung in das GBG 1955) wird dies wohl nicht als Wiederinkraftsetzung des Art. XII verstanden werden können.
+
+### Artikel XIII.
+
+Dieses Gesetz mit Ausnahme der Artikel III und IX tritt in den einzelnen Catastralgemeinden mit dem Tage in Wirksamkeit, an welchem die Führung des betreffenden Grundbuches beginnt. Die Wirksamkeit der Artikel III und IX beginnt mit dem Tage der Kundmachung des Gesetzes.
+
+### Artikel XIV.
+
+Mit dem Vollzuge dieses Gesetzes sind Meine Minister der Justiz und der Finanzen beauftragt.
+
+> **Beachte:** Zum zeitlichen Geltungsbereich siehe Art. XIII.
+
+## Artikel 96
+
+**In-Kraft-Treten, Übergangsbestimmungen**
+
+### Art. 96 – *(Anm.: Zu § 11, RGBl. Nr. 44/1900)*
+
+1\. Die Bestimmungen dieses Abschnitts treten - soweit im Folgenden nichts anderes bestimmt ist - mit 1. Jänner 2002 in Kraft.
+
+2\. und 3. *(Anm.: betrifft andere Rechtsvorschriften)*
+
+4\. Die Art. 36 Z 2 (§ 258 Abs. 1 AktG), 39 (Ausbeutungsverordnung), 47 (Eisenbahnbuchanlegungsgesetz), 50 (Firmenbuchgesetz), 51 (Fortpflanzungsmedizingesetz), 55 (GmbH-Gesetz), 58 (HGB), 61 Z 4 und 5 (§§ 137 Abs. 1, 142 Kartellgesetz), 69 Z 7 (§ 186 Notariatsordnung), 74 Z 3 und 4 (§§ 20, 21 Produktsicherheitsgesetz 1994), 75 Z 9 (§ 57 Rechtsanwaltsordnung), 80 Z 2 (§ 41 Rohrleitungsgesetz), 81 (Scheckgesetz), 83 Z 2 (§ 11 Abs. 2 Tiroler Grundbuchsanlegungsreichsgesetz), 83 Z 2 (Anm.: richtig: 91 Z 2) (§ 11 Abs. 2 Vorarlberger Grundbuchsanlegungsreichsgesetz) sowie 94 Z 4 bis 6 und 10 (§§ 199 Abs. 1, 200 Abs. 1, 220 Abs. 1, 448a Abs. 1 ZPO) sind auf Handlungen anzuwenden, die nach dem 31. Dezember 2001 gesetzt worden sind.
+
+5\. - 30. *(Anm.: betrifft andere Rechtsvorschriften)*

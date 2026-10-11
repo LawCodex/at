@@ -40,7 +40,7 @@ BGBl. Nr. 91/1993 (NR: GP XVIII RV 715 AB 775. S. 101. BR: 4477 AB 4467 S. 564.)
 
 ### Allerhöchste Bestimmungen über die Einrichtung der Gerichtsbehörden. — (Festgesetzt mit Allerhöchster Entschließung vom 14. September 1852.)
 
-#### § 1 – §. 1.
+#### § 1
 
 Die Oberlandesgerichte werden besetzt:
 
@@ -70,7 +70,7 @@ Die Oberlandesgerichte werden besetzt:
 >
 > 4\. Zu den Z 5 bis 8 siehe auch die §§ 48 bis 63 GOG, RGBl. Nr. 217/1896, das RpflG, BGBl. Nr. 560/1985, und die §§ 29 ff. Geo., BGBl. Nr. 264/1951.
 
-#### § 2 – §. 2.
+#### § 2
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
@@ -78,7 +78,7 @@ Die Oberlandesgerichte werden besetzt:
 
 § 3. Unter der Leitung und Aufsicht der Oberlandesgerichte stehen die in ihren Sprengeln eingerichteten Gerichtshöfe erster Instanz und die diesen zugewiesenen Bezirksgerichte.
 
-#### § 4 – §. 4.
+#### § 4
 
 Bei Bestellung der Gerichtshöfe soll als Grundsatz gelten, daß in der Regel in jedem politischem Kreise ein Gerichtshof aufgestellt wird. Ausnahmen haben nur in soferne stattzufinden, als nach Verhältnis des Areals und der Bevölkerung, entweder in einem größeren Kreise zwei solche Gerichte aufzustellen, oder einen Gerichtshof seine Wirksamkeit über zwei oder mehrere Kreise ausdehnen zu lassen, für thunlich oder erforderlich erachtet werden sollte.
 
@@ -96,7 +96,7 @@ Ein besonderes Gesetz für die Gerichtsstellen bestimmt, in wiefern den Gerichts
 >
 > 3\. ÜR: Art. XI § 2, BGBl. Nr. 91/1993.
 
-#### § 6 – §. 6.
+#### § 6
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
@@ -104,11 +104,11 @@ Befindet sich der Sitz eines Gerichtshofes in einer bedeutenden und volkreichen 
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
-#### § 7 – §. 7.
+#### § 7
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht nicht wieder in Kraft gesetzt worden.)*
 
-#### § 8 – §. 8.
+#### § 8
 
 In Städten, in denen das Bedürfnis eigener, für sich bestehender Handelsgerichte vorhanden ist, werden solche errichtet. Welche derselben als Seegerichte bestellt werden, bestimmen besondere Anordnungen. Der Personalstatus wird auf ähnliche Art, wie jener des daselbst befindlichen Gerichtshofes regulirt. Die Beamten dieser Handelsgerichte stehen in gleichen Bezügen und in gleichem Range mit den Beamten dieses Gerichtshofes.
 
@@ -116,7 +116,7 @@ In Städten, in denen das Bedürfnis eigener, für sich bestehender Handelsgeric
 
 > **Beachte:** Gegenstandslos bezüglich der Seegerichte: die Seegerichtsbarkeit ist insbesondere durch Art. II Z 1, 1a und 2 der Zivilverfahrens-Novelle 1983, BGBl. Nr. 135/1983, aufgehoben worden.
 
-#### § 9 – §. 9.
+#### § 9
 
 Bei den übrigen Gerichtshöfen werden die Handelsgeschäfte von denselben, unter Beiziehung von Beisitzern aus dem Handelsstande, ausgeübt.
 
@@ -124,37 +124,37 @@ In wieferne ausnahmsweise an einzelnen anderen Orten, der bestehenden Verhältni
 
 > **Anmerkung:** s. die Verordnung, RGBl. Nr. 129/1897.
 
-#### § 10 – §. 10.
+#### § 10
 
 \*(Anm.: Gegenstandslos: Die Berggerichtsbarkeit ist insbesondere durch Art. II Z 23 der Zivilverfahrens-Novelle 1983, BGBl. Nr. 135/1983, aufgehoben worden.)*
 
-#### § 11 – §. 11.
+#### § 11
 
 Für jeden Oberlandesgerichts-Sprengel wird eine bestimmte Anzahl von Auscultanten, zur Ausbildung eines entsprechenden Nachwuchses und zur Hilfeleistung sowohl bei dem Oberlandesgerichte als auch bei den übrigen Gerichten, zum Theile mit, zum Theile ohne Adjutum, bestellt.
 
 > **Beachte:** "Auscultanten" sind den nunmehrigen Rechtspraktikanten (s. RPG, BGBl. Nr. 644/1987) und Richteramtsanwärtern (s.u.a. § 1 RDG, BGBl. Nr. 305/1961) gleichzuhalten (s. Hofdecret vom 27. Februar 1784, S 315, Nr. 247).
 
-#### § 12 – §. 12.
+#### § 12
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
-#### § 13 – §. 13.
+#### § 13
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
-#### § 14 – §. 14.
+#### § 14
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
-#### § 15 – §. 15.
+#### § 15
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
-#### § 16 – §. 16.
+#### § 16
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
-#### § 17 – §. 17.
+#### § 17
 
 Bei jedem Oberlandesgerichte wird zur überwachung des bei den Gerichtshöfen in dem oberlandesgerichtlichen Sprengel befindlichen Staatsanwaltschafts-Personales und zur Besorgung der ihm sonst nach der Strafproceß-Ordnung zu übertragenden Functionen ein Ober-Staatsanwalt, bei den einzelnen Landesgerichten hingegen werden, zur Besorgung des staatsanwaltschaftlichen Dienstes, Staatsanwälte, und dort, wo es nötig ist, auch Substituten bestellt.
 
@@ -162,27 +162,27 @@ Sowohl dem Ober-Staatsanwalte, als auch jedem Staatsanwalte wird das zu ihrem Di
 
 > **Beachte:** Materiell derogiert durch das StAG, BGBl. Nr. 164/1986 (insb. durch §§ 2, 7 und 26 StAG).
 
-#### § 18 – §. 18.
+#### § 18
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
-#### § 19 – §. 19.
+#### § 19
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
-#### § 20 – §. 20.
+#### § 20
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
-#### § 21 – §. 21.
+#### § 21
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
-#### § 22 – §. 22.
+#### § 22
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 
-#### § 23 – §. 23.
+#### § 23
 
 \*(Anm.: Ist durch § 2 und § 3 Z 7 GOG 1945, StGBl. Nr. 47/1945, nicht wieder in Kraft gesetzt worden.)*
 

@@ -642,7 +642,9 @@ S. 441,
 
 ### Übergangsbestimmungen
 
-#### *(aus BGBl. Nr. 84/1983, zu § 20 und 22, BGBl. Nr. 105/1961)*
+***(aus BGBl. Nr. 84/1983, zu § 20 und 22, BGBl. Nr. 105/1961)***
+
+#### Art. 2
 
 (1) Das Urlaubsausmaß gemäß Artikel I Z 1 und das Urlaubsentgelt gemäß Artikel I Z 2 gebühren erstmals für jenen Urlaubszeitraum (§ 20 Abs. 2), der im Jahr 1986 beginnt; der Zuschlag gemäß Artikel I Z 3 (§ 26 Abs. 2 zweiter und dritter Satz) gebührt erstmals im Jahr 1986.
 
@@ -666,6 +668,8 @@ S. 441,
 
 ## Artikel III
 
-#### *(aus BGBl. Nr. 303/1975, zu § 27, BGBl. Nr. 105/1961)*
+***(aus BGBl. Nr. 303/1975, zu § 27, BGBl. Nr. 105/1961)***
+
+#### Art. 3
 
 Durch das Inkrafttreten dieses Bundesgesetzes bleibt der Begriff des regelmäßig beschäftigten Heimarbeiters (§ 27 des Heimarbeitsgesetzes 1960) hinsichtlich der §§ 49 Abs. 1, 50 Abs. 2, 52 Abs. 1, 117 Abs. 4, 124 Abs. 6, 125 Abs. 3 und 126 Abs. 4 des Arbeitsverfassungsgesetzes, BGBl. Nr. 22/1974, unberührt.

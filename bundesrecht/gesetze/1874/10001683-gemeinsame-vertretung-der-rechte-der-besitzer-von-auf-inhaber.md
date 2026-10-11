@@ -39,11 +39,11 @@ Mit Zustimmung der beiden Häuser des Reichsrathes finde Ich anzuordnen, wie fol
 
 ## I. Von der gemeinsamen Vertretung der Rechte der Besitzer von auf Inhaber lautenden oder durch Indossament übertragbaren Theilschuldverschreibungen.
 
-### § 1 – §. 1.
+### § 1
 
 Werden über eine Darlehensforderung auf Inhaber lautende oder durch Indossament übertragbare Theilschuldverschreibungen (Partialobligationen, Prioritätsobligationen, Lose u. dgl.) ausgegeben, so ist für die jeweiligen Besitzer dieser Theilschuldverschreibungen vom Gerichte ein gemeinsamer Curator in allen Fällen zu bestellen, in welchen es sich ergibt, daß die Rechte dieser Besitzer wegen des Mangels einer gemeinsamen Vertretung gefährdet oder die Rechte eines Anderen in ihrem Gange gehemmt würden. Insbesondere ist auch im Falle eines über das Vermögen des aus den Theilschuldverschreibungen Verpflichteten ausgebrochenen Concurses zur Vertretung der Rechte der Besitzer dieser Theilschuldverschreibungen ein Curator zu bestellen.
 
-### § 2 – §. 2.
+### § 2
 
 Zur Bestellung des gemeinsamen Curators ist, wenn die Firma des Schuldners in das Firmenbuch eines Handelsgerichtes eingetragen ist, dieser Gerichtshof, außerdem aber derjenige Gerichtshof erster Instanz zuständig, in dessen Sprengel die Theilschuldverschreibungen ausgestellt wurden, oder, wenn der Ort der Ausstellung in den Theilschuldverschreibungen nicht benannt oder nicht im Geltungsgebiete dieses Gesetzes gelegen ist, der Gerichtshof, in dessen Sprengel sich der im Geltungsgebiete dieses Gesetzes gelegene Zahlungsort befindet.
 
@@ -53,7 +53,7 @@ Der Gerichtshof, welcher einen gemeinsamen Curator bestellt hat, ist auch berufe
 
 Wurden die Theilschuldverschreibungen von einer Unternehmung ausgegeben, welche unter besonderer staatlicher Aufsicht steht, so ist es der Curatelsbehörde anheimgegeben, sich in allen vorkommenden Angelegenheiten mit dem diese Aufsicht ausübenden öffentlichen Organe (Aufsichtsbehörde oder deren abgeordneter Commissär) in das Einvernehmen zu setzen.
 
-### § 3 – §. 3.
+### § 3
 
 Die Bestellung eines gemeinsamen Curators zur Sicherung der gefährdeten Rechte der Besitzer von Theilschuldverschreibungen kann jeder Betheiligte, und wenn die Theilschuldverschreibungen von einer unter besonderer staatlicher Aufsicht stehenden Unternehmung ausgegeben wurden, auch das diese Aufsicht ausübende öffentliche Organ begehren.
 
@@ -67,7 +67,7 @@ Wenn das Begehren von einem Besitzer von Theilschuldverschreibungen ausgeht, so 
 
 > **Anmerkung:** ÜR: Art. XV Abs. 4, BGBl. Nr. 222/1929
 
-### § 4 – §. 4.
+### § 4
 
 Soll die Bestellung eines gemeinsamen Curators zu dem Zwecke erfolgen, damit ein Anderer in dem Gange seiner Rechte nicht gehemmt werde, so hat dieser, wenn er nicht vorher die Bestellung des Curators bei dem nach §. 2 hiezu berufenen Gerichtshofe erwirken will, in dem Einschreiten, durch welches seine Angelegenheit bei einem Gerichte anhängig wird, den zur Bestellung des gemeinsamen Curators berufenen Gerichtshof namhaft zu machen und anzusuchen, daß die Bestellung des Curators durch diesen Gerichtshof bewirkt werde. Gleichzeitig mit der Erledigung des Einschreitens ist dieser Gerichtshof um die Bestellung des Curators, unter Mittheilung des Anlasses und Zweckes der Bestellung, sowie um die Verständigung desselben von der ergangenen Erledigung von Amtswegen zu ersuchen.
 
@@ -75,7 +75,7 @@ Dieß gilt insbesondere auch in dem Falle, wenn der Schuldner die Vornahme einer
 
 In dem gerichtlichen Beschlusse, welcher die Bestellung des Curators verfügt, ist der Anlaß oder Zweck der Bestellung anzugeben.
 
-### § 5 – §. 5.
+### § 5
 
 Der Name des gemeinsamen Curators, sowie der Anlaß und Zweck seiner Bestellung ist von dem Gerichte, welches diese vorgenommen hat, durch ein Edict kundzumachen.
 
@@ -85,7 +85,7 @@ Werden die Theilschuldverschreibungen in einem amtlichen Coursblatte notirt, so 
 
 Die Ausfertigung des Edictes hat jedoch in denjenigen Fällen zu unterbleiben, in welchen die Bestellung des Curators nur zu dem Zwecke erfolgt, um die Verständigung von der bücherlichen Eintragung des Pfandrechtes für die Besitzer der Theilschuldverschreibungen oder von der in Folge der Einlösung der Theilschuldverschreibungen vorgenommenen Löschung dieses Pfandrechtes vollziehen zu können.
 
-### § 6 – §. 6.
+### § 6
 
 Die durch die Aufgabe, für welche der gemeinsame Curator bestellt wurde, begränzten Rechte und Pflichten desselben sind nach den allgemeinen Vorschriften, welche sich auf Curatoren beziehen, denen die Wahrung der Rechte von Curanden für einzelne Geschäfte obliegt, zu beurtheilen, sofern nicht in diesem Gesetze besondere Bestimmungen hierüber enthalten sind.
 
@@ -101,15 +101,15 @@ Der Verpflichtete kann die ihm durch eine grundlose oder für die Besitzer erfol
 
 > **Anmerkung:** ÜR: Art. XV Abs. 4, BGBl. Nr. 222/1929
 
-### § 7 – §. 7.
+### § 7
 
 Steht eine Unternehmung, welche Theilschuldverschreibungen ausgegeben hat, unter besonderer staatlicher Aufsicht, so hat das diese Aufsicht ausübende öffentliche Organ den bestellten Curator durch Ertheilung der für die Erfüllung seiner Aufgabe nöthigen Auskünfte zu unterstützen.
 
-### § 8 – §. 8.
+### § 8
 
 Der Curator ist verpflichtet, den von ihm vertretenen Besitzern von Theilschuldverschreibungen über die wesentlichen, ihre Rechte berührenden Thatsachen auf kurzem Wege Auskunft zu ertheilen.
 
-### § 9 – §. 9.
+### § 9
 
 In Angelegenheiten, welche gemeinsame Rechte der Besitzer von Theilschuldverschreibungen betreffen, können die einzelnen Besitzer ihre Rechte selbständig nicht geltend machen.
 
@@ -117,7 +117,7 @@ Es bleibt ihnen jedoch unbenommen, in den vom gemeinsamen Curator geführten Pro
 
 Handelt es sich um eine Angelegenheit, welche aus einem besonderen, zwischen einem einzelnen Besitzer von Theilschuldverschreibungen und dem Verpflichteten entstandenen Verhältnisse entspringt, so steht diesem Besitzer die selbständige Geltendmachung seiner Rechte zu.
 
-### § 10 – §. 10.
+### § 10
 
 Den durch einen gemeinsamen Curator vertretenen Besitzern von Theilschuldverschreibungen bleibt unbenommen, Wahrnehmungen, welche die Eignung oder Vertrauenswürdigkeit des gemeinsamen Curators bezweifeln lassen, dem Gerichte, welches denselben bestellt hat, mitzutheilen.
 
@@ -127,7 +127,7 @@ Das Gericht hat erforderlichen Falles Erhebungen einzuleiten und über die Enthe
 
 ## II. Von der bücherlichen Behandlung der für Theilschuldverschreibungen, welche auf Inhaber lauten oder durch Indossament übertragbar sind, eingeräumten Hypothekarrechte.
 
-### § 11 – §. 11.
+### § 11
 
 Die Eintragung des Pfandrechtes für die Besitzer von auf Inhaber lautenden oder durch Indossament übertragbaren Theilschuldverschreibungen, oder die Uebertragung des für einen benannten Gläubiger eingetragenen Pfandrechtes an die Besitzer von Theilschuldverschreibungen findet auf Grund einer vom Schuldner ausgestellten Pfandbestellungs- oder einer von dem benannten Gläubiger ausgefertigten Pfandübertragungs-Urkunde statt. Die Vorlage einer Schuld- oder Cessionsurkunde ist zur Erwirkung der Eintragung des Pfandrechtes nicht erforderlich.
 
@@ -137,17 +137,17 @@ Die Bestätigung der Eintragung des Pfandrechtes, welche der vorgelegten Urkunde
 
 > **Anmerkung:** Abs. 3 ist gegenstandslos, da § 105 des allgemeinen Grundbuchsgesetzes, RGBl. Nr. 95/1871, der diese Bestätigung vorgesehen hatte, durch die Grundbuchnovelle, BGBl. Nr. 4/1930, aufgehoben worden ist (Einverleibungen von vor diesem Gesetz errichteten Urkunden dürften nicht mehr in Betracht kommen).
 
-### § 12 – §. 12.
+### § 12
 
 Bei der Eintragung des Pfandrechtes für die Besitzer von Theilschuldverschreibungen oder bei der Uebertragung des Pfandrechtes an dieselben ist an Stelle der Benennung des Berechtigten der Gesammtbetrag der Forderung, für welche das Pfandrecht bestellt wird, nebst den wesentlichen, in der vorgelegten Urkunde enthaltenen Bestimmungen über die Ausgabe der Theilschuldverschreibungen, über deren Zahl und Höhe, sowie über die Rückzahlung derselben anzugeben.
 
-### § 13 – §. 13.
+### § 13
 
 Mit dem Erwerbe einer Theilschuldverschreibung wird zugleich das Pfandrecht mit der aus der bücherlichen Eintragung für den Gesammtbetrag der Forderung (§. 12) sich ergebenden Rangordnung erworben.
 
 Die bücherliche Eintragung der Erwerbung einzelner Theilschuldverschreibungen findet nicht statt.
 
-### § 14 – §. 14.
+### § 14
 
 Die lastenfreie Abtrennung eines Theiles der für die Besitzer von Theilschuldverschreibungen bestellten Hypothek kann nur mit ausdrücklicher, von der Curatelsbehörde genehmigter Zustimmung des gemeinsamen Curators der Besitzer der Theilschuldverschreibungen erfolgen.
 
@@ -157,7 +157,7 @@ Die durch das Gesetz vom 6. Februar 1869 (R. G. Bl. Nr. 18) vorgeschriebene Auff
 
 > **Anmerkung:** An die Stelle des im Abs. 3 genannten Gesetzes RGBl. Nr. 18/1869 ist das Liegenschaftsteilungsgesetz, BGBl. Nr. 3/1930, getreten.
 
-### § 15 – §. 15.
+### § 15
 
 Die gänzliche oder theilweise Löschung eines für die Besitzer von Theilschuldverschreibungen eingetragenen Pfandrechtes findet nicht nur nach den allgemeinen, für die Löschung bücherlicher Rechte geltenden Vorschriften, sondern auch dann statt, wenn die Erlöschung des Rechtes durch die Vorlage der in Gemäßheit der hiefür geltenden Bestimmungen eingelösten Theilschuldverschreibungen, nachdem sie durch in die Augen fallende Merkmale für den Verkehr unbrauchbar gemacht wurden, dargethan wird.
 
@@ -169,7 +169,7 @@ Die Erlöschung des Rechtes aus einer Theilschuldverschreibung, welche nach dem 
 
 ## IIa. Von dem gemeinsamen Vertreter der Besitzer der Teilschuldverschreibungen
 
-### § 15a – § 15a
+### § 15a
 
 (1) Für die das Pfandrecht für Besitzer der Teilschuldverschreibungen betreffenden Verfügungen, zu denen nach diesem Gesetze der gemeinsame Kurator berufen ist, kann in der Pfandbestellungs- oder der Pfandübertragungsurkunde (§ 11) ein gemeinsamer Vertreter der Besitzer der Teilschuldverschreibungen bestellt werden. Auch eine juristische Person kann zu einem solchen Vertreter bestellt werden.
 
@@ -181,7 +181,7 @@ Die Erlöschung des Rechtes aus einer Theilschuldverschreibung, welche nach dem 
 
 (5) Das im § 2 angeführte Gericht kann den gemeinsamen Vertreter aus wichtigen Gründen jederzeit seiner Betrauung entheben und seine Löschung im öffentlichen Buch anordnen. Der Antrag auf Enthebung des gemeinsamen Vertreters kann auch von dem gemeinsamen Kurator gestellt werden. Ein neuer gemeinsamer Vertreter kann vom Pflegschaftsgericht auf Antrag des gemeinsamen Kurators und nach Anhören des Schuldners und, falls der bisherige gemeinsame Vertreter auf sein Ansuchen der Betrauung enthoben wurde, auch auf seinen Antrag nach Anhören des gemeinsamen Kurators und des Schuldners bestellt werden. Das Gericht ordnet die Eintragung des neuen gemeinsamen Vertreters im öffentlichen Buch an.
 
-### § 15b – § 15b
+### § 15b
 
 (1) Streitigkeiten über Ansprüche, welche durch oder gegen einen gemeinsamen Vertreter geltend gemacht werden müssen, gehören vor das im § 2 angeführte Gericht. Die Änderung dieses Gerichtsstandes durch Vereinbarung der Parteien ist unzulässig.
 
@@ -189,23 +189,23 @@ Die Erlöschung des Rechtes aus einer Theilschuldverschreibung, welche nach dem 
 
 ## III. Schlußbestimmungen.
 
-### § 16 – §. 16.
+### § 16
 
 Dadurch, daß in Folge der Vinculirung einzelner Theilschuldverschreibungen die Zahlung für dieselben nur an bestimmte Personen erfolgen kann, wird die Anwendbarkeit dieses Gesetzes nicht ausgeschlossen.
 
-### § 17 – §. 17.
+### § 17
 
 Auf die vom Staate, einem Lande, einem Bezirke oder einer Gemeinde ausgegebenen Theilschuldverschreibungen finden die Bestimmungen dieses Gesetzes nur dann Anwendung, wenn eine Hypothek zur Sicherstellung der Besitzer der Theilschuldverschreibungen bestellt und hierüber eine Pfandbestellungsurkunde ausgefertigt wird, und auch in diesem Falle nur insoweit, als es sich um die bücherliche Behandlung oder Geltendmachung der Hypothekarrechte handelt.
 
 Die Ertheilung der in den §§. 14 und 15 bezeichneten Bestätigungen steht, je nachdem die Theilschuldverschreibungen vom Staate oder von einem Lande ausgegeben wurden, dem Finanzminister oder dem Landesausschusse, wenn aber die Theilschuldverschreibungen von einem Bezirke oder von einer Gemeinde ausgegeben wurden, der politischen Landesbehörde zu. Wenn die Teilschuldverschreibungen auf einer Eisenbahnanlage sichergestellt sind, ist zur Erteilung der Bestätigungen an Stelle des Bundesministers für Finanzen der Bundesminister für Handel und Verkehr berufen.
 
-### § 18 – §. 18.
+### § 18
 
 Die durch §. 29 des Gesetzes vom 9. Februar 1850 (R. G. Bl. Nr. 50) zugelassene Vormerkung der Stämpelgebühren, sowie die Bestimmung des §. 18 des Gesetzes vom 6. Juli 1868 (R. G. Bl. Nr. 96) über die Vergütung barer Auslagen durch den Staat, findet in Ansehung der auf Grund des gegenwärtigen Gesetzes bestellten gemeinsamen Curatoren nicht statt.
 
 > **Anmerkung:** Infolge Aufhebung der genannten Vorschriften gegenstandslos.
 
-### § 19 – §. 19.
+### § 19
 
 Die Wirksamkeit dieses Gesetzes beginnt mit dem Tage seiner Kundmachung.
 

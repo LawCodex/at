@@ -421,7 +421,9 @@ ii) die in lit. b genannte Zahlungsfrist mit dem Tag der Lieferung.
 
 ## Artikel 13
 
-#### In-Kraft-Treten, Aufhebungen, Übergangsbestimmungen – *(Anm.: aus BGBl. I Nr. 131/2001, zu § 7, BGBl. Nr. 392/1977)*
+**In-Kraft-Treten, Aufhebungen, Übergangsbestimmungen**
+
+#### Art. 13 – *(Anm.: aus BGBl. I Nr. 131/2001, zu § 7, BGBl. Nr. 392/1977)*
 
 1\. Dieses Bundesgesetz tritt mit 1. Jänner 2002 in Kraft.
 

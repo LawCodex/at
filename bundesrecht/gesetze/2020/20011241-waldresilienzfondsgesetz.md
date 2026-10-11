@@ -1,0 +1,149 @@
+---
+title: "Waldresilienzfondsgesetz"
+identifier: "20011241"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 91/2020"
+last_amended: 2026-07-30
+last_amendment: "BGBl. I Nr. 62/2026"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/2020/91/P0/NOR40225208"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011241"
+retrieved: 2026-10-11
+documents: 10
+---
+
+# Waldresilienzfondsgesetz
+
+Bundesgesetz betreffend die Errichtung eines Fonds zur Abgeltung von Borkenkäferschäden, zur Förderung klimafitter, artenreicher Wälder und zur Stärkung der Verwendung des Rohstoffes Holz (Waldfondsgesetz)
+
+StF: BGBl. I Nr. 91/2020 (NR: GP XXVII RV 282 AB 340 S. 43. BR: AB 10396 S. 910.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 152/2023 (NR: GP XXVII RV 2267 AB 2298 S. 239. BR: 11336 AB 11341 S. 960.)  
+BGBl. I Nr. 50/2024 (NR: GP XXVII RV 2504 AB 2523 S. 259. BR: AB 11485 S. 966.)  
+BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
+BGBl. I Nr. 62/2026 (NR: GP XXVIII RV 523 AB 561 S. 89. BR: 11838 AB 11839 S. 994.)  
+
+</details>
+
+> **Anmerkung:** Der Titel und der Kurztitel wurden mit Wirksamkeit vom 1.2.2027 geändert (vgl. BGBl. I Nr. 62/2026). Aus dokumentalistischen Gründen wurden auch in den bereits außer Kraft getretenen Bestimmungen der Kurztitel angepasst.
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen
+
+## § 1 – Ziele
+
+§ 1. Ziele dieses Bundesgesetzes sind:
+
+1\. Entschädigung von Waldeigentümerinnen und Waldeigentümern für durch den Klimawandel, insbesondere durch Borkenkäfermassenvermehrung, verursachten Wertverlust und Folgekosten;
+
+2\. Reduzierung des Befalls österreichischer Wälder durch Borkenkäfer;
+
+3\. Entwicklung klimafitter Wälder und Stärkung der Biodiversität im Wald;
+
+4\. Stärkung der Verwendung des Rohstoffes Holz als aktiver Beitrag zum Klimaschutz.
+
+## § 2 – Waldfonds
+
+§ 2. (1) Zur Erreichung der in § 1 genannten Ziele wird ein Waldfonds als Verwaltungsfonds geschaffen.
+
+(2) Für den Waldfonds werden 430 Millionen Euro aus Mitteln des Bundes zur Verfügung gestellt.
+
+## § 3 – Maßnahmen
+
+§ 3. Unter Bedachtnahme auf die Ziele gemäß § 1 kommen insbesondere folgende Förderungsmaßnahmen in Betracht:
+
+1\. Wiederaufforstung und Pflegemaßnahmen nach Schadereignissen;
+
+2\. Maßnahmen zur Regulierung der Baumartenzusammensetzung zur Entwicklung klimafitter Wälder;
+
+3\. Abgeltung von durch Borkenkäferschäden verursachtem Wertverlust;
+
+4\. Errichtung von Nass- und Trockenlager für Schadholz;
+
+5\. Mechanische Entrindung als Forstschutzmaßnahme;
+
+6\. Maßnahmen zur Waldbrandprävention;
+
+7\. Forschungsmaßnahmen zum Thema „Holzgas und Biotreibstoffe“ sowie Forschungsanlage zur Herstellung von Holzgas und Biotreibstoffen;
+
+8\. Forschungsmaßnahmen zum Thema „Klimafitte Wälder“;
+
+9\. Maßnahmen zur verstärkten Verwendung des Rohstoffes Holz;
+
+10\. Maßnahmen zur Förderung der Biodiversität im Wald.
+
+## § 4 – Allgemeine Bestimmungen
+
+§ 4. (1) Die Gewährung von Förderungsmitteln des Bundes auf Grundlage dieses Gesetzes und die Kontrolle über die Förderung obliegt dem Bundesminister für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft.
+
+(2) Die Förderung besteht in der Gewährung von Zuschüssen zu den Kosten der förderbaren Maßnahmen.
+
+(3) Eine Förderung für Maßnahmen gemäß § 3 Z 1 und 2 sowie Z 4 bis 10 darf nur gewährt werden, wenn
+
+a) die beantragten Projekte fachlichen Erkenntnissen entsprechen und den Bestimmungen des Forstgesetzes 1975, BGBl. Nr. 440, nicht entgegenstehen und
+
+b) eine ordnungsgemäße Durchführung der geförderten Maßnahme zu erwarten ist, insbesondere aufgrund der vorliegenden fachlichen, wirtschaftlichen und organisatorischen Voraussetzungen.
+
+(4) Eine Förderung für Maßnahmen gemäß § 3 Z 3 darf nur gewährt werden, wenn der Schadanteil an der Gesamtwaldfläche der jeweiligen Katastralgemeinde eine in der Sonderrichtlinie gemäß § 5 näher zu regelnde prozentuelle Grenze überschreitet.
+
+(5) Es besteht kein Rechtsanspruch auf die Gewährung von Fondsmitteln.
+
+(6) Eine Förderung nach diesem Bundesgesetz ist für die Maßnahmen nach § 3 Z 1 bis 6 und 10 ausgeschlossen, wenn für die jeweils beantragte Maßnahme bereits Förderungen aus anderen Mitteln zugesagt oder gewährt wurden.
+
+(7) Zur Abwicklung der Förderung kann der Bundesminister für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft sachlich in Betracht kommende Rechtsträger wie das Bundesforschungs- und Ausbildungszentrum für Wald, Naturgefahren und Landschaft, die Agrarmarkt Austria (AMA) oder die Österreichische Forschungsförderungsgesellschaft mbH unter Abgeltung des administrativen Aufwands beauftragen. Weiters können die Überprüfung der sachlichen Richtigkeit der Anträge und die Kontrolle der Durchführung der Maßnahmen nach Maßgabe der Bestimmung des Art. 104 Abs. 2 B-VG auch den Landeshauptleuten, den ihnen unterstellten Behörden im Land sowie von diesen beauftragten Dritten gegen Abgeltung der auftretenden Kosten übertragen werden.
+
+## § 5 – Richtlinien
+
+§ 5. (1) Der Bundesminister für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft hat Richtlinien für die Durchführung der Förderungen zu erlassen.
+
+(2) Die Förderungsrichtlinien haben insbesondere Bestimmungen zu enthalten über
+
+1\. Gegenstand der Förderung,
+
+2\. förderbare Kosten und Wertverluste,
+
+3\. persönliche und sachliche Voraussetzungen für das Erlangen einer Förderung,
+
+4\. Ausmaß und Art der Förderung,
+
+5\. Ablauf der Förderungsgewährung und
+
+6\. Gerichtsstand.
+
+(3) Die Förderungsrichtlinien sind auf der Website des Bundesministeriums für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft zu veröffentlichen.
+
+## § 6 – Förderungszeitraum
+
+§ 6. (1) Förderungen nach diesem Bundesgesetz können bis 31. Jänner 2027 genehmigt und bis 31. Jänner 2029 ausgezahlt werden.
+
+(1a) Abweichend von Abs. 1 können Förderungen für Maßnahmen gemäß § 3 Z 7, 8 und 9 bis 31. Juli 2032 ausgezahlt werden.
+
+(2) Allfällige bis Ende des Genehmigungszeitraumes gemäß Abs. 1 noch nicht durch Genehmigungen gebundene Fondsmittel können nach Evaluierung der Maßnahmen durch Verlängerung der Richtlinien gemäß § 5 verwendet werden.
+
+(3) Eine Förderung kann nur auf der Grundlage der jeweils anzuwenden Richtlinien und nach Maßgabe der frei verfügbaren Mittel im Waldfonds gewährt werden.
+
+## § 7 – Bericht an den Nationalrat
+
+§ 7. Der Bundesminister für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft hat dem Nationalrat jährlich bis zum 1. Mai des Folgejahres einen Bericht über die durch Genehmigungen gebundenen Fondsmittel bei den einzelnen Förderungsmaßnahmen nach § 3 vorzulegen. Die jeweils aktuellste Wirkungsevaluierung ist dem jährlichen Bericht beizulegen. Die Berichtspflicht endet mit dem Bericht über das letzte Genehmigungsjahr nach § 6 Abs. 1 und 2.
+
+## § 8 – Vollziehung
+
+§ 8. Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft betraut.
+
+## § 9 – Inkrafttreten
+
+§ 9. (1) § 2 Abs. 2, § 4 Abs. 6, § 6 Abs. 1, § 7 samt Überschrift und § 8 in der Fassung des Budgetbegleitgesetzes 2024, BGBl. I Nr. 152/2023, treten mit 1. Jänner 2024 in Kraft.
+
+(2) § 4 Abs. 6 und § 6 Abs. 1a in der Fassung des Bundesgesetzes BGBl. I Nr. 50/2024 treten mit Ablauf des Tages der Kundmachung in Kraft.
+
+(3) § 2 Abs. 2, § 4 Abs. 1 und 7, § 5 Abs. 1 und 3, § 7 und § 8 in der Fassung des Budgetbegleitgesetzes 2025, BGBl. I Nr. 25/2025, treten mit dem auf die Kundmachung folgenden Tag in Kraft.
+
+(4) Der Titel, § 1 Z 1 bis 5, die Überschrift zu § 2, § 2 Abs. 3, § 3 Z 1, 2 und 9, § 4 Abs. 3 sowie § 6 in der Fassung des Budgetbegleitgesetzes 2027-2028, BGBl. I Nr. 62/2026, treten mit 1. Februar 2027 in Kraft. Im selben Zeitpunkt treten § 3 Z 3 und 7 sowie § 4 Abs. 4 außer Kraft.

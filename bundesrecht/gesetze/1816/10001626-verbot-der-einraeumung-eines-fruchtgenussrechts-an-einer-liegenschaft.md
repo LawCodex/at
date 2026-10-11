@@ -1,0 +1,34 @@
+---
+title: "Verbot der Einräumung eines Fruchtgenussrechts an einer Liegenschaft als Entgelt für die Kreditgewährung"
+identifier: "10001626"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "JGS Nr. 1305/1816"
+last_amended: 1816-12-24
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/jgs/1816/1305/P0/NOR11001648"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001626"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Verbot der Einräumung eines Fruchtgenussrechts an einer Liegenschaft als Entgelt für die Kreditgewährung
+
+Hofdecret vom 24ten December 1816, an das Inner-Oesterreichische Appellations-Gericht, über Note der Hofcommission in Justiz-Gesetzsachen vom 21ten November n. J.
+
+StF: JGS Nr. 1305/1816
+
+> **Beachte:** Mangels besonderer Inkrafttretensregelungen vor 1849 wird als Inkrafttretensdatum der Tag der Erlassung angenommen.
+
+## Präambel/Promulgationsklausel
+
+Zur Steuerung der vorzüglich in Ober-Kärnthen, dann auch in Steyer, Krain und Istrien herrschenden Gewohnheiten: bey Gelddarlehen statt der Zinsen den Genuß des zur Hypothek verschriebenen Grundstückes oder die jährliche Abgabe einer bestimmten Quantität von Naturalien zu bedingen, findet man zu verordnen:
+
+## Art. 1
+
+Aus dem ein und zwanzigsten Hauptstücke des zweyten Theiles des allgemeinen bürgerlichen Gesetzbuches, von dem Darleihensvertrage und den §§.1368 bis 1374 von dem Pfandvertrage leuchtet deutlich die Absicht hervor, die Geldanleihen vor wucherlichen Bedrückungen sicher zu stellen. Obschon in dem Wucher-Patente §. 9 die Bewilligung des Fruchtgenusses von einem verpfändeten Grundstücke nur dann für einen Wucher erklärt wurde, wenn dadurch die rechtlichen Zinsen überschritten würden; so wurde doch dieser Nebenvertrag in dem §. 1372 des bürgerlichen Gesetzbuches ausdrücklich für wirkungslos erklärt. Durch einen solchen Nebenvertrag, der zur Vermeidung alles Wucherverdachtes eine ordentliche genaue Berechnung voraussetzt, werden viele verwickelte Rechnungs-Prozesse, wucherliche Untersuchungen veranlaßt, und die Geldanleihen in Dunkelheit gesetzt, was sie bey der Unsicherheit der Preise der Naturalien für einen großen und drückenden Betrag an Zinsen werden zu entrichten haben. Diese Gründe treten auch in dem Falle, daß der Fruchtgenuß eines Grundstückes ohne Verpfändung desselben, und sie treten wenigstens zum Theile wohl auch dann ein, wenn Naturalien statt der Geldzinsen bedungen werden. Daher verordnet der §. 999, daß Zinsen von Gelddarleihen in der nähmlichen Währung, wie das Capital selbst, zu entrichten seyn.
+
+> **Beachte:** Mangels besonderer Inkrafttretensregelungen vor 1849 wird als Inkrafttretensdatum der Tag der Erlassung angenommen.

@@ -725,6 +725,8 @@ d) die Genossenschaft aus einem Revisionsverband ausgeschlossen wurde oder sie a
 
 ### Umsetzungshinweis
 
-#### *(Anm.: aus BGBl. I Nr. 43/2016, zu den §§ 2, 3, und 9, BGBl. I Nr. 127/1997)*
+***(Anm.: aus BGBl. I Nr. 43/2016, zu den §§ 2, 3, und 9, BGBl. I Nr. 127/1997)***
+
+#### Art. 15
 
 Mit diesem Bundesgesetz wird die Richtlinie 2014/56/EU Richtlinie 2014/56/EU zur Änderung der Richtlinie 2006/43/EG über Abschlussprüfungen von Jahresabschlüssen und konsolidierten Abschlüssen, ABl. Nr. L 158 vom 27.05.2014 S. 196 umgesetzt.

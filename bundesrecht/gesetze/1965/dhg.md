@@ -129,6 +129,8 @@ Mit der Vollziehung dieses Bundesgesetzes ist das Bundesministerium für Justiz 
 
 ## Artikel II
 
-### *(Anm.: aus BGBl. Nr. 169/1983, zu den §§ 2, 3 und 4 BGBl. Nr. 80/1965)*
+***(Anm.: aus BGBl. Nr. 169/1983, zu den §§ 2, 3 und 4 BGBl. Nr. 80/1965)***
+
+### Art. 2
 
 Auf Schadensfälle, die vor dem Inkrafttreten dieses Bundesgesetzes eingetreten sind, sind die bisherigen Bestimmungen anzuwenden.

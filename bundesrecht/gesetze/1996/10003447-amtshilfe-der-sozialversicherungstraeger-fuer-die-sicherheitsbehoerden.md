@@ -56,7 +56,9 @@ BGBl. I Nr. 100/2018 (NR: GP XXVI RV 329 AB 413 S. 57. BR: 10079 AB 10082 S. 888
 
 ## Artikel XI
 
-### Inkrafttreten und Schlußbestimmungen
+**Inkrafttreten und Schlußbestimmungen**
+
+### Art. 11
 
 (1) Die Artikel I und Artikel II mit Ausnahme dessen Z 20a, Artikel III sowie die Artikel VI bis X dieses Bundesgesetzes treten mit 1. März 1997 in Kraft; Artikel II Z 20a tritt mit 1. Mai 1997, Artikel IV mit 1. Juli 1997, Artikel V mit 1. März 1998 in Kraft. Im Zusammenhang mit Artikel IV dieses Bundesgesetzes können bereits von dem der Kundmachung dieses Bundesgesetzes folgenden Tag an organisatorische und personelle Maßnahmen getroffen sowie Durchführungsverordnungen erlassen werden; sie dürfen aber erst mit dem Inkrafttreten dieses Bundesgesetzes in Wirksamkeit gesetzt werden.
 

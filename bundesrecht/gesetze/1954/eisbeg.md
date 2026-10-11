@@ -452,6 +452,8 @@ BGBl. I Nr. 111/2010 (NR: GP XXIV RV 981 AB 1026 S. 90. BR: 8437 AB 8439 S. 792.
 
 ### Justizverwaltungsmaßnahmen
 
-#### *(Anm.: aus BGBl. I Nr. 112/2003, zu den §§ 9, 10 bis 18, 20, 22 bis 27, 30, 31, 33, 35, 36, 37, 39, 40, 41, 46 bis 49, BGBl. Nr. 71/1954)*
+***(Anm.: aus BGBl. I Nr. 112/2003, zu den §§ 9, 10 bis 18, 20, 22 bis 27, 30, 31, 33, 35, 36, 37, 39, 40, 41, 46 bis 49, BGBl. Nr. 71/1954)***
+
+#### Art. 31
 
 Mit Rücksicht auf dieses Bundesgesetz dürfen bereits von dem seiner Kundmachung folgenden Tag an Verordnungen erlassen sowie sonstige organisatorische und personelle Maßnahmen getroffen werden. Die Verordnungen dürfen frühestens mit dem 1. Jänner 2005 in Wirksamkeit gesetzt werden.

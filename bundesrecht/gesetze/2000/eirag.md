@@ -495,7 +495,9 @@ Erfolgt der Austritt des Vereinigten Königreichs Großbritannien und Nordirland
 
 ### Umsetzung von Gemeinschaftsrecht
 
-#### *(Anm.: aus BGBl. I Nr. 59/2004, zu § 26 und Anlage 1, BGBl. I Nr. 27/2000)*
+***(Anm.: aus BGBl. I Nr. 59/2004, zu § 26 und Anlage 1, BGBl. I Nr. 27/2000)***
+
+#### Art. 2
 
 Durch Artikel I (Änderung des § 26 sowie der Anlage zu § 1 des Bundesgesetzes über den freien Dienstleistungsverkehr und die Niederlassung von europäischen Rechtsanwälten in Österreich) werden die Richtlinien 98/5/EG und 77/249/EWG des Europäischen Parlaments und des Rates in der Fassung des Beitrittsvertrages zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten mit der Tschechischen Republik, der Republik Estland, der Republik Zypern, der Republik Lettland, der Republik Litauen, der Republik Ungarn, der Republik Malta, der Republik Polen, der Republik Slowenien und der Slowakischen Republik umgesetzt.
 
@@ -503,7 +505,9 @@ Durch Artikel I (Änderung des § 26 sowie der Anlage zu § 1 des Bundesgesetzes
 
 ### Umsetzung von Gemeinschaftsrecht
 
-#### *(Anm.: aus BGBl. I Nr. 111/2007, zu den §§ 1, 16, 24, 26, 31, 32 und 37 – 43, BGBl. I Nr. 27/2000)*
+***(Anm.: aus BGBl. I Nr. 111/2007, zu den §§ 1, 16, 24, 26, 31, 32 und 37 – 43, BGBl. I Nr. 27/2000)***
+
+#### Art. 16
 
 Durch dieses Bundesgesetz werden
 
@@ -515,7 +519,9 @@ Durch dieses Bundesgesetz werden
 
 ### Umsetzungshinweis
 
-#### *(Anm.: aus BGBl. I Nr. 156/2015, zu den §§ 27, 37 und 37a, BGBl. I Nr. 27/2000)*
+***(Anm.: aus BGBl. I Nr. 156/2015, zu den §§ 27, 37 und 37a, BGBl. I Nr. 27/2000)***
+
+#### Art. 7
 
 Mit Art. 5 und 6 dieses Bundesgesetzes wird die Richtlinie 2013/55/EU zur Änderung der Richtlinie 2005/36/EG über die Anerkennung von Berufsqualifikationen und der Verordnung (EU) Nr. 1024/2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems („IMI-Verordnung“), ABl. Nr. L 354 vom 28. Dezember 2013, S. 132, umgesetzt.
 
@@ -535,7 +541,9 @@ Mit Art. 5 und 6 dieses Bundesgesetzes wird die Richtlinie 2013/55/EU zur Änder
 
 ### In-Kraft-Treten, Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. I Nr. 98/2001, zu den §§ 1, 12, 24 und Anlage 1, BGBl. I Nr. 27/2000)*
+***(Anm.: aus BGBl. I Nr. 98/2001, zu den §§ 1, 12, 24 und Anlage 1, BGBl. I Nr. 27/2000)***
+
+#### Art. 96
 
 1\. Die Bestimmungen dieses Abschnitts treten – soweit im Folgenden nichts anderes bestimmt ist – mit 1. Jänner 2002 in Kraft.
 

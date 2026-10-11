@@ -70,13 +70,13 @@ Der Nationalrat hat beschlossen:
 
 ## I. Eröffnung und Bildung des Nationalrates
 
-#### § 1 – § 1
+#### § 1
 
 (1) Jedem Abgeordneten wird nach seiner Wahl oder nach seiner Berufung als Ersatzmann von der Bundeswahlbehörde ein Wahlschein ausgestellt, der in der Parlamentsdirektion zu hinterlegen ist.
 
 (2) Die Parlamentsdirektion stellt jedem Abgeordneten, für den der Wahlschein hinterlegt ist, eine amtliche Legitimation mit seinem Lichtbild aus.
 
-#### § 2 – § 2
+#### § 2
 
 (1) Ein Abgeordneter wird seines Mandates verlustig:
 
@@ -112,7 +112,7 @@ Der Nationalrat hat beschlossen:
 
 (10) Verzichtet ein Abgeordneter auf die weitere Ausübung seines Mandates, so wird dieser Verzicht mit dem Einlangen der Mitteilung der Bundeswahlbehörde hierüber beim Präsidenten des Nationalrates rechtswirksam, sofern in der Verzichtserklärung nicht ein späterer Zeitpunkt angeführt ist.
 
-#### § 3 – § 3
+#### § 3
 
 (1) Der neugewählte Nationalrat wird vom Bundespräsidenten innerhalb dreißig Tagen nach der Wahl einberufen.
 
@@ -122,13 +122,13 @@ Der Nationalrat hat beschlossen:
 
 > **Anmerkung:** vgl. Art. 27 Abs. 2 iVm. 67 Abs. 1 B-VG
 
-#### § 4 – § 4
+#### § 4
 
 (1) Über Aufforderung des Vorsitzenden haben die Abgeordneten bei Namensaufruf durch die Worte „Ich gelobe“ unverbrüchliche Treue der Republik, stete und volle Beobachtung der Verfassungsgesetze und aller anderen Gesetze und gewissenhafte Erfüllung ihrer Pflichten zu geloben.
 
 (2) Später eintretende Abgeordnete leisten die Angelobung bei ihrem Eintritt.
 
-#### § 5 – § 5
+#### § 5
 
 (1) Nach der Angelobung wählt der Nationalrat aus seiner Mitte den Präsidenten, den Zweiten und den Dritten Präsidenten.
 
@@ -136,7 +136,7 @@ Der Nationalrat hat beschlossen:
 
 (3) Alle Wahlen gelten für die ganze Gesetzgebungsperiode.
 
-#### § 6 – § 6
+#### § 6
 
 (1) Die Präsidenten und der Hauptausschuß, an Stelle des letzteren im Falle der Auflösung des Nationalrates gemäß Art. 29 Abs. 1 B-VG der Ständige Unterausschuß des Hauptausschusses, bleiben im Amte, bis der neugewählte Nationalrat die Präsidenten und den Hauptausschuß neu gewählt hat.
 
@@ -166,7 +166,7 @@ Der Nationalrat hat beschlossen:
 
 § 7a. Die parlamentarischen Klubs machen dem Präsidenten je einen Datenschutzbeauftragten namhaft; diese gelten damit für die Dauer der jeweiligen Gesetzgebungsperiode als zu gemeinsamen Datenschutzbeauftragten des Nationalrates und des Bundesrates gewählt.
 
-#### § 8 – § 8
+#### § 8
 
 (1) Die Präsidenten und die Obmänner der Klubs bilden die Präsidialkonferenz. Die Obmänner der Klubs können sich vertreten lassen.
 
@@ -210,7 +210,7 @@ der vorherigen Beratung in der Präsidialkonferenz.
 
 ## II. Allgemeine Rechte und Pflichten der Abgeordneten
 
-#### § 9 – § 9
+#### § 9
 
 Jeder Abgeordnete, dessen Wahlschein in der Parlamentsdirektion hinterlegt ist, hat für die Dauer der jeweiligen Gesetzgebungsperiode so lange Sitz und Stimme im Nationalrat, als nicht seine Mitgliedschaft aus einem der im § 2 genannten Gründe erloschen ist.
 
@@ -246,7 +246,7 @@ Jeder Abgeordnete, dessen Wahlschein in der Parlamentsdirektion hinterlegt ist, 
 
 ## III. Aufgaben der Präsidenten, Schriftführer und Ordner
 
-#### § 13 – § 13
+#### § 13
 
 (1) Der Präsident wacht darüber, daß die Würde und die Rechte des Nationalrates gewahrt, die dem Nationalrat obliegenden Aufgaben erfüllt und die Verhandlungen mit Vermeidung jedes unnötigen Aufschubes durchgeführt werden.
 
@@ -264,7 +264,7 @@ Jeder Abgeordnete, dessen Wahlschein in der Parlamentsdirektion hinterlegt ist, 
 
 (8) Der Präsident führt die Liste von Personen zur Wahl des Verfahrensrichters, des Verfahrensanwalts bzw. deren Stellvertreter für einen Untersuchungsausschuss gemäß § 7 Abs. 1 VO–UA.
 
-#### § 14 – § 14
+#### § 14
 
 (1) Der Präsident übt das Hausrecht in den Parlamentsgebäuden aus und erläßt nach Beratung in der Präsidialkonferenz die Hausordnung.
 
@@ -286,21 +286,21 @@ Jeder Abgeordnete, dessen Wahlschein in der Parlamentsdirektion hinterlegt ist, 
 
 (10) Der Präsident entscheidet für den Nationalrat über datenschutzrechtliche Anträge von betroffenen Personen und vertritt den Nationalrat in behördlichen oder gerichtlichen Verfahren in datenschutzrechtlichen Angelegenheiten des Nationalrates. Die gemeinsamen Datenschutzbeauftragten sind einzubinden. Bezieht sich ein Antrag oder Verfahren auf personenbezogene Daten, die von einzelnen oder mehreren Abgeordneten für den Nationalrat verarbeitet wurden bzw. werden, hat der Präsident die betreffenden Abgeordneten unter Setzung einer angemessenen Frist aufzufordern, ihm gegenüber zu diesem Antrag bzw. Verfahren schriftlich Stellung zu nehmen, und er hat den vom betreffenden parlamentarischen Klub namhaft gemachten Datenschutzbeauftragten einzubinden. Er hat seine für den Nationalrat vorzunehmende Entscheidung zu begründen und gegebenenfalls die betreffenden Abgeordneten darüber zu informieren.
 
-#### § 15 – § 15
+#### § 15
 
 Im Falle der Verhinderung des Präsidenten vertritt ihn der Zweite beziehungsweise der Dritte Präsident. Weiters kann sich der Präsident in der Vorsitzführung (§ 13) durch den Zweiten beziehungsweise den Dritten Präsidenten vertreten lassen.
 
-#### § 16 – § 16
+#### § 16
 
 Die Schriftführer haben den Präsidenten bei der Erfüllung seiner Obliegenheiten, insbesondere bei Verlesungen im Nationalrat und bei der Ermittlung der Ergebnisse der Abstimmungen (Stimmenzählungen), zu unterstützen.
 
-#### § 17 – § 17
+#### § 17
 
 Die Ordner unterstützen den Präsidenten bei der Leitung der Verhandlungen und bei der Aufrechterhaltung der Ruhe und Ordnung im Sitzungssaal.
 
 ## IV. Allgemeine Rechte und Pflichten der Mitglieder der Bundesregierung, des Präsidenten des Rechnungshofes sowie der Mitglieder der Volksanwaltschaft sowie Stellung sonstiger Personen
 
-#### § 18 – § 18
+#### § 18
 
 (1) Die Mitglieder der Bundesregierung sowie die Staatssekretäre sind berechtigt, an allen Verhandlungen des Nationalrates, seiner Ausschüsse und deren Unterausschüsse — ausgenommen jene des Ständigen Unterausschusses des Hauptausschusses und der Untersuchungsausschüsse — teilzunehmen.
 
@@ -310,7 +310,7 @@ Die Ordner unterstützen den Präsidenten bei der Leitung der Verhandlungen und 
 
 > **Anmerkung:** vgl. Art. 75 B-VG
 
-#### § 19 – § 19
+#### § 19
 
 (1) Die Mitglieder der Bundesregierung sowie die Staatssekretäre können in den Debatten des Nationalrates, seiner Ausschüsse und deren Unterausschüsse — ausgenommen jene des Ständigen Unterausschusses des Hauptausschusses und der Untersuchungsausschüsse — zu einem in Verhandlung stehenden Gegenstand auch wiederholte Male, jedoch ohne Unterbrechung eines Redners, das Wort nehmen. Den Staatssekretären kommt dieses Recht in Abwesenheit jenes Mitgliedes der Bundesregierung zu, dem sie beigegeben sind, sowie bei dessen Anwesenheit im Einvernehmen mit diesem.
 
@@ -322,7 +322,7 @@ Die Ordner unterstützen den Präsidenten bei der Leitung der Verhandlungen und 
 
 § 19a. Der Präsident kann nach Beratung in der Präsidialkonferenz herausragende Persönlichkeiten der europäischen und internationalen Politik einladen, in einer Sitzung des Nationalrates eine Erklärung zu einem bestimmten Thema abzugeben. Im Anschluss an die Erklärung findet in der Regel eine Debatte statt, deren Dauer und Form ebenfalls vom Präsidenten nach Beratung in der Präsidialkonferenz festgelegt wird. Genauso kann festgelegt werden, dass jeder Klub ein in Österreich gewähltes Mitglied des Europäischen Parlaments namhaft machen kann, das an dieser Debatte mit beratender Stimme teilnimmt; § 74b Abs. 6 2. Satz gilt sinngemäß. In dieser Debatte dürfen keine Anträge gestellt werden; tatsächliche Berichtigungen sind unzulässig.
 
-#### § 20 – § 20
+#### § 20
 
 (1) Der Präsident des Rechnungshofes ist berechtigt, an den Verhandlungen des Nationalrates sowie seiner Ausschüsse und deren Unterausschüsse über die Berichte des Rechnungshofes, die Bundesrechnungsabschlüsse, Anträge gemäß § 99 Abs. 1 betreffend die Durchführung besonderer Akte der Gebarungsüberprüfung und die den Rechnungshof betreffenden Untergliederungen des Entwurfes des Bundesfinanzgesetzes teilzunehmen.
 
@@ -354,7 +354,7 @@ Die Ordner unterstützen den Präsidenten bei der Leitung der Verhandlungen und 
 
 ## V. Gegenstände der Verhandlung
 
-#### § 21 – § 21
+#### § 21
 
 (1) Gegenstände der Verhandlung des Nationalrates sowie der Vorberatung seiner Ausschüsse sind folgende schriftliche Vorlagen:
 
@@ -442,7 +442,7 @@ Schriftliche begründete Einsprüche gegen die Festsetzung eines Ordnungsgeldes 
 
 § 22. Die im § 21 angeführten Gegenstände der Verhandlung mit Ausnahme der Petitionen und Bürgerinitiativen gelten als Bestandteile der Verhandlungen in den öffentlichen Sitzungen des Nationalrates (Art. 33 B-VG). Dasselbe gilt für die Berichte der Ausschüsse beziehungsweise die Minderheitsberichte gemäß § 42 Abs. 4 und die Stellungnahmen gemäß § 42 Abs. 5.
 
-#### § 23 – § 23
+#### § 23
 
 (1) Nach Einlangen von Vorlagen der Bundesregierung, Vorlagen über Initiativen und Beschlüsse des Europäischen Rates und des Rates gemäß Art. 23i Abs. 1, 3 und 4 B-VG sowie Art. 23j Abs. 1 B-VG, Gesetzesanträgen des Bundesrates, Volksbegehren, Einsprüchen des Bundesrates, Stenographischen Protokollen über parlamentarische Enqueten, Berichten von Enquete-Kommissionen, Berichten der Bundesregierung und ihrer Mitglieder, Berichten des Rechnungshofes beziehungsweise Bundesrechnungsabschlüssen, Berichten der Volksanwaltschaft sowie schriftlichen Anfragen und schriftlichen Anfragebeantwortungen verfügt der Präsident deren Vervielfältigung sowie Verteilung an die Abgeordneten. Die Vervielfältigung und Verteilung von Berichten der vom Nationalrat oder von Nationalrat und Bundesrat in internationale parlamentarische Organisationen entsendeten Delegierten sowie der an Veranstaltungen der Interparlamentarischen Union teilnehmenden Mitglieder des Nationalrates und des Bundesrates verfügt der Präsident nach Rücksprache mit den Mitgliedern der Präsidialkonferenz zu einem geeignet erscheinenden Zeitpunkt.
 
@@ -472,7 +472,7 @@ Schriftliche begründete Einsprüche gegen die Festsetzung eines Ordnungsgeldes 
 
 (4) Für den Inhalt der Stellungnahmen gemäß Abs. 1 bis 3 sowie der schriftlichen Äußerungen gemäß § 40 Abs. 1 sind die jeweiligen Einbringer datenschutzrechtlich verantwortlich.
 
-#### § 24 – § 24
+#### § 24
 
 (1) Bei Festlegung der Tagesordnung des Nationalrates haben Volksbegehren den Vorrang vor allen übrigen Gegenständen.
 
@@ -480,11 +480,11 @@ Schriftliche begründete Einsprüche gegen die Festsetzung eines Ordnungsgeldes 
 
 > **Anmerkung:** vgl. Art. 41 Abs. 2 B-VG
 
-#### § 25 – § 25
+#### § 25
 
 Die Bundesregierung kann ihre Vorlagen bis zum Beginn der Abstimmung im Ausschuß ändern oder zurückziehen. Das gleiche gilt für Vorlagen über Initiativen und Beschlüsse des Europäischen Rates und des Rates gemäß Art. 23i Abs. 1, 3 und 4 B-VG sowie Art. 23j Abs. 1 B-VG und für Berichte der Bundesregierung bzw. ihrer Mitglieder. Nach Einlangen der diesbezüglichen Note verfügt der Präsident deren Vervielfältigung sowie Verteilung an die Abgeordneten. Überdies ist jede solche Änderung beziehungsweise Zurückziehung in der nächstfolgenden Sitzung des Nationalrates mitzuteilen (§ 49 Abs. 1 oder 2).
 
-#### § 26 – § 26
+#### § 26
 
 (1) Jeder Abgeordnete ist berechtigt, in den Sitzungen des Nationalrates Selbständige Anträge einzubringen.
 
@@ -530,7 +530,7 @@ Die Bundesregierung kann ihre Vorlagen bis zum Beginn der Abstimmung im Ausschu�
 
 (3) Anträge auf Ablehnung einer Initiative oder eines Vorschlags gemäß Abs. 1 weist der Präsident dem zuständigen Ausschuss sofort nach dem Einlangen zu. Der zuständige Ausschuss hat solche Anträge unverzüglich in Verhandlung zu nehmen.
 
-#### § 27 – § 27
+#### § 27
 
 (1) Jeder Ausschuß hat das Recht, Selbständige Anträge auf Erlassung von Gesetzen zu stellen, die mit dem im Ausschuß behandelten Gegenstand in inhaltlichem Zusammenhang stehen, und hierüber gemäß § 42 einen Bericht zu erstatten.
 
@@ -538,7 +538,7 @@ Die Bundesregierung kann ihre Vorlagen bis zum Beginn der Abstimmung im Ausschu�
 
 (3) Ferner hat der Ausschuß das Recht, Selbständige Anträge auf Fassung von Beschlüssen zu stellen, die nicht die Erlassung von Gesetzen gemäß Abs. 1 betreffen, aber mit dem im Ausschuß behandelten Gegenstand in inhaltlichem Zusammenhang stehen. Handelt es sich hiebei um Entschließungsanträge oder um Anträge auf Durchführung einer Volksabstimmung gemäß Art. 43 B-VG, so werden diese dem Ausschußbericht über den Gegenstand unmittelbar angeschlossen.
 
-#### § 28 – § 28
+#### § 28
 
 (1) Selbständige Anträge, nach welchen eine über den Bundesvoranschlag hinausgehende finanzielle Belastung des Bundes eintreten würde, müssen zugleich Vorschläge darüber enthalten, wie der Mehraufwand zu decken ist.
 
@@ -566,7 +566,7 @@ Die Bundesregierung kann ihre Vorlagen bis zum Beginn der Abstimmung im Ausschu�
 
 ## VI. Bildung der Ausschüsse und Geschäftsbehandlung in deren Sitzungen
 
-#### § 29 – § 29
+#### § 29
 
 (1) Der Nationalrat wählt aus seiner Mitte nach dem Grundsatz der Verhältniswahl den Hauptausschuß.
 
@@ -596,7 +596,7 @@ k) Erstattung eines Gesamtvorschlages für die Wahl der Mitglieder der Parlament
 
 l) Erstattung eines Vorschlages für die Wahl der Mitglieder der unabhängigen Kontrollkommission Verfassungsschutz gemäß § 17a Abs. 5 Staatsschutz- und Nachrichtendienst-Gesetz, BGBl. I Nr. 148/2021.
 
-#### § 30 – § 30
+#### § 30
 
 (1) Die Zahl der Mitglieder des Hauptausschusses wird durch Beschluß des Nationalrates festgesetzt.
 
@@ -732,7 +732,7 @@ Wenn der Hauptausschuss nichts anderes beschließt, sind Stellungnahmen und Besc
 
 (2) Aus dem Kreis an Personen, der sich aus der Liste des Präsidenten und der seitens der Klubs namhaft gemachten Personen ergibt, schlägt der Hauptausschuss bei Anwesenheit von mindestens der Hälfte seiner Mitglieder und mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen nach Durchführung einer Anhörung in medienöffentlicher Sitzung (§ 37a Abs. 1a) dem Nationalrat eine Person zur Wahl des Rechnungshofpräsidenten vor. Über die Anhörung ist eine auszugsweise Darstellung zu verfassen, die unmittelbar nach ihrer Fertigstellung dem Amtlichen Protokoll der Sitzung beizufügen ist und deren Veröffentlichung der Präsident veranlasst.
 
-#### § 32 – § 32
+#### § 32
 
 (1) Zur Vorberatung der Verhandlungsgegenstände werden Ausschüsse gewählt. Der Nationalrat setzt die Zahl der Mitglieder und Ersatzmitglieder jedes zu wählenden Ausschusses fest. Die Mitglieder und Ersatzmitglieder werden auf die Klubs im Verhältnis der Zahl der ihnen angehörenden Abgeordneten nach den im § 30 festgelegten Grundsätzen verteilt. Die Klubs machen die auf sie entfallenden Ausschuß- und Ersatzmitglieder dem Präsidenten namhaft; diese gelten damit als gewählt. Sobald dem Präsidenten mitgeteilte Veränderungen im Stärkeverhältnis der Klubs es erfordern, hat der Nationalrat innerhalb einer Woche nach Einlangen der Mitteilung beim Präsidenten oder — falls während dieses Zeitraums keine Sitzungen stattfinden — spätestens in der auf die Mitteilung zweitfolgenden Sitzung eine Neuwahl der bestehenden Ausschüsse durchzuführen. Bis zur Konstituierung der neugewählten Ausschüsse führen die bestehenden Ausschüsse ihre Geschäfte in der bisherigen Zusammensetzung weiter. Die Ausschußverhandlungen während einer Gesetzgebungsperiode erfahren durch eine solche Neuwahl keine Unterbrechung.
 
@@ -744,7 +744,7 @@ Wenn der Hauptausschuss nichts anderes beschließt, sind Stellungnahmen und Besc
 
 (5) Im Immunitätsausschuss und im Unvereinbarkeitsausschuss soll ein Ausschussmitglied gemäß Abs. 3 oder 4 vertreten werden, soweit es von einem im Ausschuss behandelten Gegenstand persönlich betroffen ist.
 
-#### § 32a – § 32a
+#### § 32a
 
 (1) Dem insbesondere mit der Vorberatung des Bundesfinanzrahmengesetzes sowie des Bundesfinanzgesetzes betrauten Ausschuss obliegt auch die Mitwirkung an der Haushaltsführung gemäß Art. 51 Abs. 7, Art. 51b Abs. 2, Art. 51c Abs. 3 und Art. 51d Abs. 2 B-VG sowie die Vorberatung der Bundesrechnungsabschlüsse; er kann — bis auf Widerruf — bestimmte Aufgaben einem gemäß § 31 gewählten Ständigen Unterausschuß übertragen, dem auch die Mitwirkung an der Haushaltsführung gemäß Art. 51 Abs. 7, Art. 51b Abs. 2, Art. 51c Abs. 3 und Art. 51d Abs. 2 B-VG obliegt, wenn der Nationalrat vom Bundespräsidenten nach Art. 29 Abs. 1 B-VG aufgelöst wird.
 
@@ -918,7 +918,7 @@ zu übermitteln. Sofern der Ständige Unterausschuss in ESM-Angelegenheiten nich
 
 > **Anmerkung:** vgl. Art. 53 B-VG
 
-#### § 34 – § 34
+#### § 34
 
 (1) Zur Konstituierung wird der Ausschuß vom Präsidenten des Nationalrates einberufen.
 
@@ -968,7 +968,7 @@ Die Erörterung einer anhängigen Gebarungsüberprüfung im Rechnungshofausschu�
 
 (3) Dem Unterausschuß kann vom Ausschuß jederzeit, auch während der Verhandlung über den Gegenstand im Unterausschuß, eine Frist zur Berichterstattung gesetzt werden. Hiebei sind die §§ 43 Abs. 2 sowie 44 Abs. 3 sinngemäß anzuwenden.
 
-#### § 36 – § 36
+#### § 36
 
 (1) Die Ausschußmitglieder sind verpflichtet, an den Sitzungen und Arbeiten des Ausschusses teilzunehmen.
 
@@ -1024,7 +1024,7 @@ in Österreich gewählte Mitglieder des Europäischen Parlaments mit beratender 
 
 (5) Über das Ausmaß der Protokollierung einer Ausschusssitzung, in der klassifizierte Informationen oder ESM-Verschlusssachen behandelt werden, entscheidet der Obmann. Der Präsident hat für eine sichere Verwahrung der Protokolle zu sorgen.
 
-#### § 38 – § 38
+#### § 38
 
 (1) Über jede Sitzung eines Ausschusses ist ein Amtliches Protokoll zu führen, das, vom Obmann und einem Schriftführer unterfertigt, in der Parlamentsdirektion zu hinterlegen ist. Die Protokollführung wird durch Bedienstete der Parlamentsdirektion besorgt; die Ausschüsse können beschließen, einen Schriftführer mit der Führung des Protokolls zu betrauen.
 
@@ -1034,7 +1034,7 @@ in Österreich gewählte Mitglieder des Europäischen Parlaments mit beratender 
 
 (4) Ein Protokoll gilt als genehmigt, wenn gegen seine Fassung an dem der Ausschußsitzung folgenden Arbeitstag keine Einwendungen erhoben wurden. Über allfällige Einwendungen entscheidet der Obmann.
 
-#### § 39 – § 39
+#### § 39
 
 (1) Der Präsident des Nationalrates veranlaßt die Verlautbarungen über die Tätigkeit der Ausschüsse. Die Ausschüsse können der Parlamentsdirektion jedoch auch vom Obmann und einem Schriftführer gefertigte Texte (Kommuniqués) zur Veröffentlichung übergeben.
 
@@ -1042,7 +1042,7 @@ in Österreich gewählte Mitglieder des Europäischen Parlaments mit beratender 
 
 (3) Auf Beschluß des Ausschusses veranlaßt der Präsident die Veröffentlichung einer solchen Verhandlungsschrift.
 
-#### § 40 – § 40
+#### § 40
 
 (1) Die Ausschüsse haben das Recht, durch den Präsidenten die Mitglieder der Bundesregierung um die Einleitung von Erhebungen zu ersuchen oder Sachverständige oder andere Auskunftspersonen zur mündlichen oder schriftlichen Äußerung einzuladen; sind mit dieser Einladung Kosten verbunden, so ist die Zustimmung des Präsidenten erforderlich.
 
@@ -1052,7 +1052,7 @@ in Österreich gewählte Mitglieder des Europäischen Parlaments mit beratender 
 
 (4) Im Zusammenhang mit der Vorberatung eines Verhandlungsgegenstandes kann der Ausschußobmann mit Zustimmung des Präsidenten die Mitglieder des Ausschusses zu Besichtigungen an Ort und Stelle innerhalb des Bundesgebietes einladen.
 
-#### § 41 – § 41
+#### § 41
 
 (1) Jeder Ausschuß ist beschlußfähig, wenn mehr als die Hälfte der Mitglieder anwesend ist. Die Anwesenheit der zur Beschlußfähigkeit erforderlichen Anzahl der Mitglieder ist nur bei Abstimmungen und Wahlen notwendig. Kann eine Abstimmung oder eine Wahl wegen Beschlußunfähigkeit nicht vorgenommen werden, so unterbricht der Obmann die Sitzung auf bestimmte oder unbestimmte Zeit.
 
@@ -1098,7 +1098,7 @@ Wie viele Verlangen von einem Klub gemäß Z 2 eingebracht werden können, verf�
 
 ## VII. Berichterstattung der Ausschüsse
 
-#### § 42 – § 42
+#### § 42
 
 (1) Der Ausschuß wählt am Schluß der Verhandlungen einen Berichterstatter für den Nationalrat, der das Ergebnis derselben, insbesondere hinsichtlich der Beschlüsse des Ausschusses, in einem schriftlichen Bericht zusammenfaßt. Hiebei hat er im Fall der Berichterstattung über ein Volksbegehren eine in knapper Form gehaltene persönliche Stellungnahme des Bevollmächtigten im Sinne des § 37 Abs. 4, soweit sie vom Hauptbericht abweicht, zu berücksichtigen. Der Bericht wird, vom Obmann und vom Berichterstatter unterfertigt, dem Präsidenten des Nationalrates übergeben, der die Vervielfältigung und die Verteilung an die Abgeordneten verfügt.
 
@@ -1124,7 +1124,7 @@ Wie viele Verlangen von einem Klub gemäß Z 2 eingebracht werden können, verf�
 
 (3) Unbeschadet der Bestimmungen betreffend die Debatte zur Geschäftsbehandlung (§ 59 Abs. 3) können fünf Abgeordnete vor Eingang in die Tagesordnung schriftlich eine Debatte über Anträge gemäß Abs. 1 oder 2 verlangen. Die Debatte richtet sich nach den §§ 57a und 57b. Von Abgeordneten, die demselben Klub angehören, kann nur ein solches Verlangen pro Sitzungswoche eingebracht werden. Wird ein solches Verlangen von Abgeordneten mehrerer Klubs unterstützt, ist es dem Klub, dem der Erstunterzeichner angehört, anzurechnen. Gehört dieser keinem Klub an, gilt diese Bestimmung hinsichtlich des Zweitunterzeichners und so weiter.
 
-#### § 44 – § 44
+#### § 44
 
 (1) Die Verhandlung eines von einem Ausschuß vorzuberatenden Gegenstandes im Nationalrat darf in der Regel nicht vor Ablauf von 24 Stunden nach erfolgter Verteilung des Ausschußberichtes stattfinden.
 
@@ -1134,13 +1134,13 @@ Wie viele Verlangen von einem Klub gemäß Z 2 eingebracht werden können, verf�
 
 (4) Sollte der Ausschuß keinen Berichterstatter für den Nationalrat gewählt haben, kann vom Obmann oder im Falle seiner Verhinderung von einem Obmannstellvertreter ein mündlicher Bericht erstattet werden.
 
-#### § 45 – § 45
+#### § 45
 
 Kann ein Untersuchungsausschuß innerhalb einer ihm gemäß § 43 gesetzten Frist nicht schriftlich Bericht erstatten, so hat in der dem Fristablauf folgenden Sitzung der Obmann des Untersuchungsausschusses oder dessen Stellvertreter einen mündlichen Bericht über die bisherige Tätigkeit des Untersuchungsausschusses zu erstatten. Setzt der Nationalrat für die Vorlage eines schriftlichen Ausschußberichtes keine neuerliche Frist, so ist damit die Tätigkeit des Untersuchungsausschusses beendet.
 
 ## VIII. Tagungen und Sitzungen des Nationalrates
 
-#### § 46 – § 46
+#### § 46
 
 (1) Der Bundespräsident beruft den Nationalrat in jedem Jahr zu einer ordentlichen Tagung ein, die nicht vor dem 15. September beginnen und nicht länger als bis zum 15. Juli des folgenden Jahres währen soll.
 
@@ -1158,7 +1158,7 @@ Kann ein Untersuchungsausschuß innerhalb einer ihm gemäß § 43 gesetzten Fris
 
 > **Anmerkung:** vgl. Art. 28 iVm 67 Abs. 1 und 18 Abs. 4 B-VG
 
-#### § 47 – § 47
+#### § 47
 
 (1) Die Sitzungen des Nationalrates sind öffentlich. Sie können nach Maßgabe technischer Möglichkeiten gesendet und in einer Weise veröffentlicht werden, dass sie der Öffentlichkeit orts- und zeitunabhängig zugänglich sind.
 
@@ -1170,13 +1170,13 @@ Kann ein Untersuchungsausschuß innerhalb einer ihm gemäß § 43 gesetzten Fris
 
 > **Anmerkung:** vgl. Art. 32 B-VG
 
-#### § 48 – § 48
+#### § 48
 
 (1) Die Anwesenheit der zu einem Beschlusse des Nationalrates notwendigen Anzahl von Abgeordneten ist nur bei Abstimmungen und Wahlen erforderlich.
 
 (2) Kann eine Abstimmung oder eine Wahl wegen Beschlußunfähigkeit nicht vorgenommen werden, unterbricht der Präsident die Sitzung.
 
-#### § 49 – § 49
+#### § 49
 
 (1) Der Präsident eröffnet die Sitzung zur anberaumten Stunde ohne Rücksicht auf die Anzahl der anwesenden Abgeordneten und macht die ihm notwendig erscheinenden Mitteilungen. Insbesondere gibt er die entschuldigten Abgeordneten sowie Vertretungen zeitweilig verhinderter Mitglieder der Bundesregierung (Art. 73 B-VG) bekannt.
 
@@ -1192,7 +1192,7 @@ Kann ein Untersuchungsausschuß innerhalb einer ihm gemäß § 43 gesetzten Fris
 
 (6) Der Präsident kann auch nach Eingang in die Tagesordnung nach Rücksprache mit den Mitgliedern der Präsidialkonferenz dem Nationalrat die Absetzung eines oder mehrerer Verhandlungsgegenstände von der Tagesordnung vorschlagen. Darüber entscheidet der Nationalrat mit Zweidrittelmehrheit ohne Debatte.
 
-#### § 50 – § 50
+#### § 50
 
 (1) Der Präsident verkündet in der Regel am Schlusse jeder Sitzung Tag, Stunde und nach Möglichkeit Tagesordnung der nächsten in Aussicht genommenen Sitzung. Dies kann auch durch Hinweis auf eine im Sitzungssaal verteilte schriftliche Mitteilung erfolgen. Wird eine Einwendung erhoben, so entscheidet, wenn der Präsident der Einwendung nicht beitritt, der Nationalrat. Über alle in einem solchen Falle erhobenen Einwendungen findet in der Regel eine gemeinsame Debatte statt, in der der Präsident die Redezeit des einzelnen Abgeordneten mit fünf Minuten und die Zahl der Redner je Klub auf drei beschränken kann; auf Verlangen von fünf Abgeordneten, die demselben Klub angehören, findet für alle von diesem Klub erhobenen Einwendungen eine gesonderte Debatte statt, wobei jedoch der Präsident die Redezeit und die Zahl der Redner in gleicher Weise wie in der gemeinsamen Debatte beschränken kann. Der Präsident bestimmt die Reihenfolge mehrerer Debatten unter Bedachtnahme auf die Grundsätze des § 60 Abs. 3. Die Abstimmung über alle erhobenen Einwendungen erfolgt nach Durchführung der Debatte bzw. im Fall mehrerer Debatten nach der letzten. Findet keine Einwendung eine Mehrheit, so bleibt es beim Vorschlag des Präsidenten.
 
@@ -1202,7 +1202,7 @@ Kann ein Untersuchungsausschuß innerhalb einer ihm gemäß § 43 gesetzten Fris
 
 (4) Gegen eine gemäß Abs. 3 vom Präsidenten bekanntgegebene Tagesordnung können nur sogleich nach Eröffnung der Sitzung Einwendungen erhoben werden. Ist dies der Fall, so sind die Bestimmungen des Abs. 1 sinngemäß anzuwenden.
 
-#### § 51 – § 51
+#### § 51
 
 (1) Über jede Sitzung ist von den hiezu bestimmten Bediensteten der Parlamentsdirektion ein Amtliches Protokoll zu führen und an dem der Sitzung folgenden Arbeitstag während der Dienststunden in der Parlamentsdirektion zur Einsicht für alle Abgeordneten aufzulegen.
 
@@ -1216,7 +1216,7 @@ Kann ein Untersuchungsausschuß innerhalb einer ihm gemäß § 43 gesetzten Fris
 
 (6) Ausnahmsweise gilt ein Teil des Amtlichen Protokolls mit Schluß der Sitzung als genehmigt, wenn der Präsident auf Grund eines schriftlichen Verlangens von 20 Abgeordneten die vorgesehene Fassung des Amtlichen Protokolls zu einzelnen Gegenständen nach deren Erledigung verlesen und über etwaige — sofort zu erhebende — Einwendungen gegen die Fassung oder den Inhalt dieses Teils des Amtlichen Protokolls entschieden hat. Eine Debatte findet nicht statt.
 
-#### § 52 – § 52
+#### § 52
 
 (1) Über die öffentlichen Sitzungen des Nationalrates werden Stenographische Protokolle verfaßt und gedruckt herausgegeben; diese haben die Verhandlungen vollständig wiederzugeben.
 
@@ -1230,7 +1230,7 @@ Kann ein Untersuchungsausschuß innerhalb einer ihm gemäß § 43 gesetzten Fris
 
 ## IX. Allgemeine Bestimmungen über die Geschäftsbehandlung in den Sitzungen des Nationalrates
 
-#### § 53 – § 53
+#### § 53
 
 (1) Die Debatte über einen Verhandlungsgegenstand, der in einem Ausschuß vorberaten ist, wird durch den Berichterstatter oder im Falle dessen Verhinderung durch den Ausschußobmann oder – wenn auch dieser verhindert ist – durch einen Obmannstellvertreter eröffnet. Im Falle eines Verzichts auf die Berichterstattung oder einer Verhinderung aller im ersten Satz bezeichneten Personen, wird die Debatte durch die Worterteilung an den ersten zum Wort gemeldeten Redner eröffnet.
 
@@ -1256,11 +1256,11 @@ Im Fall der Z 3 ist die Verhandlung erledigt.
 
 (8) Für den Fall, daß bei einer mehrere Tage dauernden Verhandlung über eine Vorlage eine Teilung der Debatte und Abstimmung erfolgt, kann der Nationalrat nach Verhandlung jedes Teiles beschließen, die Verhandlung über diese Vorlage zu vertagen, um eine oder mehrere Sitzungen zur Verhandlung anderer Gegenstände einzuschieben.
 
-#### § 54 – § 54
+#### § 54
 
 Wird eine Rückverweisung an den Ausschuß beschlossen, so kann der Nationalrat auf Vorschlag des Präsidenten oder auf Antrag eines Abgeordneten dem Ausschusse zur neuerlichen Berichterstattung eine Frist setzen, nach deren Ablauf die Verhandlung im Nationalrat fortgesetzt wird, auch wenn ein schriftlicher Ausschußbericht nicht vorliegen oder der Ausschuß keinen Berichterstatter für den Nationalrat gewählt haben sollte.
 
-#### § 55 – § 55
+#### § 55
 
 (1) Entschließungen, in welchen der Nationalrat seinen Wünschen über die Ausübung der Vollziehung Ausdruck gibt (Art. 52 Abs. 1 B-VG) oder durch welche der Nationalrat der Bundesregierung oder einzelnen ihrer Mitglieder das Vertrauen versagt (Art. 74 Abs. 1 B-VG), können auch im Zuge der Debatte über einen Verhandlungsgegenstand im Nationalrat beantragt werden, sofern sie mit diesem in inhaltlichem Zusammenhang stehen. Werden gegen den inhaltlichen Zusammenhang Einwendungen erhoben, so entscheidet der Präsident.
 
@@ -1272,7 +1272,7 @@ Wird eine Rückverweisung an den Ausschuß beschlossen, so kann der Nationalrat 
 
 (5) Wird bei der zweiten Lesung eines Gesetzesvorschlages die Spezialdebatte in Teilen abgeführt, so kann die Abstimmung über Entschließungsanträge bereits nach Abstimmung über den jeweils in Verhandlung stehenden Teil der Vorlage erfolgen. Werden Einwendungen erhoben, so entscheidet der Nationalrat ohne Debatte.
 
-#### § 56 – § 56
+#### § 56
 
 (1) Der Antrag auf Schluß der Debatte kann, nachdem wenigstens zwei zum Wort gemeldete Abgeordnete gesprochen haben, jederzeit, jedoch ohne Unterbrechung eines Redners, gestellt werden und ist vom Präsidenten ohne Debatte sofort zur Abstimmung zu bringen.
 
@@ -1352,7 +1352,7 @@ werden von einem Antragsteller bzw. einem Abgeordneten, der ein diesbezügliches
 
 (5) Eine tatsächliche Berichtigung sowie eine Erwiderung auf eine tatsächliche Berichtigung dürfen die Dauer von zwei Minuten nicht überschreiten. Der Präsident kann diese Redezeit auf Ersuchen des Redners ausnahmsweise erstrecken.
 
-#### § 59 – § 59
+#### § 59
 
 (1) Anträge zur Geschäftsbehandlung brauchen nicht schriftlich überreicht zu werden. Sie bedürfen keiner Unterstützung und werden, sofern der Nationalrat nicht gemäß Abs. 3 die Durchführung einer Debatte beschließt, vom Präsidenten sogleich zur Abstimmung gebracht.
 
@@ -1360,7 +1360,7 @@ werden von einem Antragsteller bzw. einem Abgeordneten, der ein diesbezügliches
 
 (3) Auf Vorschlag des Präsidenten oder auf Antrag eines Abgeordneten kann der Nationalrat beschließen, daß eine Debatte stattfindet. In einer solchen Debatte kann der Präsident die Redezeit der Abgeordneten bis auf fünf Minuten beschränken.
 
-#### § 60 – § 60
+#### § 60
 
 (1) Jene Abgeordneten, die zu einem in der Sitzung zur Verhandlung kommenden Gegenstand zu sprechen wünschen, haben sich bei einem vom Präsidenten zu diesem Zweck bestimmten Bediensteten der Parlamentsdirektion mit der Angabe, ob sie „für“ oder „gegen“ sprechen werden, zu melden. Diese Meldung kann auch durch einen vom Klub hiezu bestimmten Abgeordneten erfolgen. Wortmeldungen werden ab Beginn der Sitzung entgegengenommen.
 
@@ -1378,17 +1378,17 @@ werden von einem Antragsteller bzw. einem Abgeordneten, der ein diesbezügliches
 
 (8) Von der Redeordnung gem. Abs. 1 bis 3 kann nach Beratung in der Präsidialkonferenz längstens für die laufende Gesetzgebungsperiode abgegangen werden.
 
-#### § 61 – § 61
+#### § 61
 
 Läßt sich einer der Präsidenten in die Rednerliste eintragen, so übernimmt er in der Regel erst nach Erledigung des Gegenstandes wieder den Vorsitz.
 
-#### § 62 – § 62
+#### § 62
 
 (1) Die Berichterstatter, Schriftführer und zum Wort gemeldeten Abgeordneten sprechen von den für sie bestimmten Rednerpulten aus. Nur in Angelegenheiten der Geschäftsbehandlung sowie in besonderen Fällen, in denen der Präsident die Erlaubnis hiezu erteilt, sprechen die Abgeordneten von den Saalmikrofonen in den Bankreihen.
 
 (2) Die Mitglieder der Bundesregierung beziehungsweise der Präsident des Rechnungshofes sowie die Mitglieder der Volksanwaltschaft sprechen, wenn sie sich gemäß § 19 beziehungsweise § 20 zum Wort melden, von der Regierungsbank aus.
 
-#### § 63 – § 63
+#### § 63
 
 (1) Kein Abgeordneter darf innerhalb einer Debatte öfter als zweimal sprechen.
 
@@ -1396,7 +1396,7 @@ Läßt sich einer der Präsidenten in die Rednerliste eintragen, so übernimmt e
 
 (3) Liegen keine Wortmeldungen mehr vor, schließt der Präsident die Debatte und erteilt dem Berichterstatter auf dessen Verlangen das Schlußwort. Dem Berichterstatter gemäß § 44 Abs. 4 beziehungsweise § 45 steht ein Schlußwort nur zur Behebung von Schreib- und Druckfehlern sowie sprachlichen Mängeln zu.
 
-#### § 64 – § 64
+#### § 64
 
 (1) Alle Abgeordneten haben ihr Stimmrecht persönlich auszuüben.
 
@@ -1444,7 +1444,7 @@ Läßt sich einer der Präsidenten in die Rednerliste eintragen, so übernimmt e
 
 (8) Der Präsident hat das Ergebnis der Abstimmung zu verkünden. Im Fall der namentlichen Abstimmung sind die Namen der Abgeordneten unter Angabe ihres Abstimmungsverhaltens in das Stenographische Protokoll aufzunehmen.
 
-#### § 67 – § 67
+#### § 67
 
 (1) Wenn ein Fünftel der Abgeordneten es schriftlich verlangt, ist die Abstimmung
 
@@ -1458,7 +1458,7 @@ auf den zweitnächsten Werktag zu vertagen.
 
 (3) Für die Abstimmung über Entschließungsanträge in der Debatte über den Gegenstand einer dringlichen Anfrage gilt § 93 Abs. 6.
 
-#### § 68 – § 68
+#### § 68
 
 (1) Der den Vorsitz führende Präsident stimmt in der Regel nicht mit. Er kann sich jedoch, bevor er das Ergebnis einer Abstimmung ausgesprochen hat, an derselben durch mündliche Bejahung oder Verneinung der gestellten Frage beteiligen. An namentlichen und geheimen Abstimmungen (§ 66 Abs. 4 und 5) sowie an Wahlen nimmt der den Vorsitz führende Präsident immer teil.
 
@@ -1468,7 +1468,7 @@ auf den zweitnächsten Werktag zu vertagen.
 
 ## X. Besondere Bestimmungen über die Behandlung von Gesetzesvorschlägen
 
-#### § 69 – § 69
+#### § 69
 
 (1) Gesetzesvorschläge gelangen an den Nationalrat als Anträge von Abgeordneten, des Bundesrates oder eines Drittels der Mitglieder des Bundesrates sowie als Vorlagen der Bundesregierung.
 
@@ -1486,13 +1486,13 @@ auf den zweitnächsten Werktag zu vertagen.
 
 > **Anmerkung:** vgl. Art. 41 B-VG
 
-#### § 70 – § 70
+#### § 70
 
 (1) Der Vorberatung durch den Ausschuß folgt die zweite Lesung des Gesetzesvorschlages. Selbständige Anträge von Ausschüssen auf Erlassung von Gesetzen werden vom Nationalrat unmittelbar in zweite Lesung genommen.
 
 (2) Die zweite Lesung besteht aus der allgemeinen Debatte über die Vorlage als Ganzes (Generaldebatte) und den Beratungen über einzelne Teile der Vorlage (Spezialdebatte) sowie den Abstimmungen. Generaldebatte und Spezialdebatte werden unter einem abgeführt, wenn der Nationalrat auf Antrag des Berichterstatters nicht anderes beschließt.
 
-#### § 71 – § 71
+#### § 71
 
 (1) Werden Generaldebatte und Spezialdebatte getrennt abgeführt, kann während der Generaldebatte der Antrag auf Vertagung, auf Rückverweisung an den Ausschuß oder auf Zuweisung an einen anderen Ausschuß gestellt werden. Die Beschlußfassung über solche Anträge erfolgt nach Erschöpfung der Rednerliste für die Generaldebatte.
 
@@ -1500,7 +1500,7 @@ auf den zweitnächsten Werktag zu vertagen.
 
 (3) Beschließt der Nationalrat, in die Spezialdebatte einzugehen, so folgt diese unmittelbar der Generaldebatte. Wird das Eingehen in die Spezialdebatte abgelehnt, ist die Vorlage verworfen.
 
-#### § 72 – § 72
+#### § 72
 
 (1) Am Beginn der Spezialdebatte bestimmt der Präsident, welche Teile der Vorlage für sich oder vereint zur Beratung und Beschlußfassung kommen. Hiebei hat er den Grundsatz zu beachten, daß die Teilung der Spezialdebatte in einer die Übersichtlichkeit der Beratung fördernden Weise erfolgt. Wird eine Einwendung erhoben, entscheidet der Nationalrat ohne Debatte.
 
@@ -1522,7 +1522,7 @@ auf den zweitnächsten Werktag zu vertagen.
 
 Im Fall der Z 3 ist die Verhandlung erledigt.
 
-#### § 73 – § 73
+#### § 73
 
 (1) Werden Generaldebatte und Spezialdebatte unter einem abgeführt, sind die Bestimmungen des § 72 Abs. 2 bis 5 sinngemäß anzuwenden.
 
@@ -1538,7 +1538,7 @@ Im Fall der Z 3 ist die Verhandlung erledigt.
 
 Im Fall der Z 3 ist die Verhandlung erledigt.
 
-#### § 74 – § 74
+#### § 74
 
 (1) Nachdem das Gesetz in zweiter Lesung beschlossen ist, wird die dritte Lesung, das ist die Abstimmung im ganzen, vorgenommen. Auf Vorschlag des Präsidenten oder Antrag eines Abgeordneten kann der Nationalrat beschließen, daß die dritte Lesung nicht unmittelbar nach der zweiten Lesung durchgeführt, sondern auf einen späteren Zeitpunkt vertagt wird.
 
@@ -1652,7 +1652,7 @@ zuzustimmen oder sich bei der Beschlussfassung zu enthalten. Ohne Ermächtigung 
 
 ## XI. Besondere Bestimmungen über die Behandlung anderer Verhandlungsgegenstände
 
-#### § 75 – § 75
+#### § 75
 
 (1) Selbständige Anträge von Abgeordneten, die keine Gesetzesvorschläge enthalten, werden vom Präsidenten in der auf die Verteilung nächstfolgenden Sitzung einem Ausschuß zur Vorberatung zugewiesen.
 
@@ -1662,7 +1662,7 @@ zuzustimmen oder sich bei der Beschlussfassung zu enthalten. Ohne Ermächtigung 
 
 \*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 99/2014)*
 
-#### § 76 – § 76
+#### § 76
 
 (1) Vorlagen der Bundesregierung, die keine Gesetzesvorschläge enthalten, sowie Vorlagen über Initiativen und Beschlüsse des Europäischen Rates und des Rates gemäß Art. 23i Abs. 1, 3 und 4 B-VG sowie Art. 23j Abs. 1 B-VG werden vom Präsidenten in der auf die Verteilung nächstfolgenden Sitzung einem Ausschuß zur Vorberatung zugewiesen.
 
@@ -1674,19 +1674,19 @@ zuzustimmen oder sich bei der Beschlussfassung zu enthalten. Ohne Ermächtigung 
 
 (5) Bei Debatten des Nationalrates über die Genehmigung von Staatsverträgen gemäß Art. 50 Abs. 1 Z 2 B-VG, durch welche die vertraglichen Grundlagen der Europäischen Union geändert werden, kann jeder Klub ein in Österreich gewähltes Mitglied des Europäischen Parlaments namhaft machen, das an den Verhandlungen mit beratender Stimme teilnimmt, sofern er dies spätestens 48 Stunden vor der Debatte – Samstage, Sonntage und gesetzliche Feiertage nicht eingerechnet – schriftlich ankündigt. § 74b Abs. 6 gilt sinngemäß.
 
-#### § 77 – § 77
+#### § 77
 
 (1) Einsprüche des Bundesrates gegen Gesetzesbeschlüsse des Nationalrates werden dem Nationalrat durch den Vorsitzenden des Bundesrates schriftlich mitgeteilt (Art. 42 Abs. 3 B-VG) und vom Präsidenten in der auf die Verteilung nächstfolgenden Sitzung einem Ausschuß zugewiesen. Der Ausschußantrag hat entweder die Wiederholung des ursprünglichen Gesetzesbeschlusses oder einen neuen Gesetzesvorschlag zum Gegenstand.
 
 (2) Der Vorberatung durch den Ausschuß folgen die Debatte und Abstimmung im Nationalrat. Schlägt der Ausschuß die Wiederholung des ursprünglichen Gesetzesbeschlusses durch den Nationalrat vor, so finden die Allgemeinen Bestimmungen über die Geschäftsbehandlung in den Sitzungen des Nationalrates Anwendung. Richtet sich der Antrag des Ausschusses jedoch auf die Beschlußfassung eines neuen Gesetzes, so tritt der Nationalrat in die zweite Lesung gemäß den Besonderen Bestimmungen über die Behandlung von Gesetzesvorschlägen ein.
 
-#### § 78 – § 78
+#### § 78
 
 (1) Berichte der vom Nationalrat oder von Nationalrat und Bundesrat in internationale parlamentarische Organisationen entsendeten Delegierten sowie der an Veranstaltungen der Interparlamentarischen Union teilnehmenden Mitglieder des Nationalrates und des Bundesrates sowie Berichte der Volksanwaltschaft und Stenographische Protokolle über parlamentarische Enqueten werden vom Präsidenten in der auf die Verteilung nächstfolgenden Sitzung einem Ausschuß zur Vorberatung zugewiesen.
 
 (2) Der Vorberatung durch den Ausschuß folgen die Debatte und Abstimmung gemäß den Allgemeinen Bestimmungen über die Geschäftsbehandlung in den Sitzungen des Nationalrates.
 
-#### § 79 – § 79
+#### § 79
 
 (1) Der Rechnungshof legt den Bundesrechnungsabschluß vor. Er erstattet dem Nationalrat über seine Tätigkeit im vorausgegangenen Jahr spätestens bis 31. Dezember jeden Jahres sowie über besondere Akte der Gebarungsüberprüfung gemäß § 99 Bericht. Überdies kann der Rechnungshof über einzelne Wahrnehmungen jederzeit unter allfälliger Antragstellung an den Nationalrat berichten.
 
@@ -1698,7 +1698,7 @@ zuzustimmen oder sich bei der Beschlussfassung zu enthalten. Ohne Ermächtigung 
 
 > **Anmerkung:** vgl. Art. 121 Abs. 2 B-VG
 
-#### § 80 – § 80
+#### § 80
 
 (1) Ersuchen um Zustimmung zur behördlichen Verfolgung eines Abgeordneten gemäß § 10 Abs. 2 und Abs. 3 erster Satz, Ersuchen um Entscheidung über das Vorliegen eines Zusammenhanges im Sinne des § 10 Abs. 3, Mitteilungen von Behörden gemäß § 10 Abs. 5, Anträge von Behörden gemäß Art. 63 Abs. 2 B-VG sowie Ersuchen um die Ermächtigung zur Verfolgung von Personen wegen Beleidigung des Nationalrates weist der Präsident dem mit diesen Angelegenheiten betrauten ständigen Ausschuß (Immunitätsausschuß) sofort nach dem Einlangen zu. Ersuchen um Zustimmung zur behördlichen Verfolgung gemäß § 10 Abs. 3 erster Satz sowie Ersuchen um Entscheidung über das Vorliegen eines Zusammenhanges im Sinne des § 10 Abs. 3 werden dem betroffenen Abgeordneten mitgeteilt.
 
@@ -1718,7 +1718,7 @@ zuzustimmen oder sich bei der Beschlussfassung zu enthalten. Ohne Ermächtigung 
 
 ## XII. Beschlüsse und Wahlen
 
-#### § 82 – § 82
+#### § 82
 
 (1) Zu einem Beschluß des Nationalrates ist, soweit im folgenden nicht anderes bestimmt ist, die Anwesenheit von einem Drittel der Abgeordneten und die unbedingte Mehrheit der abgegebenen Stimmen erforderlich.
 
@@ -1752,11 +1752,11 @@ zuzustimmen oder sich bei der Beschlussfassung zu enthalten. Ohne Ermächtigung 
 
 \*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 11/2010)*
 
-#### § 83 – § 83
+#### § 83
 
 Der Präsident des Nationalrates verfügt auf Grund der genehmigten Amtlichen Protokolle (§ 51) die Ausfertigung und Zustellung der vom Nationalrat ausgehenden Beschlüsse.
 
-#### § 84 – § 84
+#### § 84
 
 (1) Jeder Gesetzesbeschluß des Nationalrates ist nach Beendigung des Verfahrens gemäß Art. 42 B-VG, jedoch vor seiner Beurkundung durch den Bundespräsidenten, einer Volksabstimmung zu unterziehen, wenn der Nationalrat es beschließt oder die Mehrheit der Abgeordneten es verlangt.
 
@@ -1764,19 +1764,19 @@ Der Präsident des Nationalrates verfügt auf Grund der genehmigten Amtlichen Pr
 
 > **Anmerkung:** vgl. Art. 43, 45 und 46 B-VG und das Volksabstimmungsgesetz 1972, BGBl. Nr. 79/1973 (WV)
 
-#### § 85 – § 85
+#### § 85
 
 Eine Teiländerung der Bundesverfassung ist nach Beendigung des Verfahrens gemäß Art. 42 B-VG, jedoch vor der Beurkundung durch den Bundespräsidenten, einer Abstimmung des gesamten Bundesvolkes zu unterziehen, wenn dies von einem Drittel der Abgeordneten verlangt wird.
 
 > **Anmerkung:** vgl. Art. 44 Abs. 3 und 46 B-VG und das Volksabstimmungsgesetz 1972, BGBl. Nr. 79/1973 (WV)
 
-#### § 86 – § 86
+#### § 86
 
 (1) Ein Drittel der Abgeordneten kann gemäß Art. 140 Abs. 1 B-VG begehren, daß entweder ein Bundesgesetz seinem ganzen Inhalte nach oder daß bestimmte Stellen eines solchen Gesetzes vom Verfassungsgerichtshof als verfassungswidrig aufgehoben werden. Das Begehren hat die gegen die Verfassungsmäßigkeit des Bundesgesetzes sprechenden Bedenken im einzelnen darzulegen.
 
 (2) Die Abgeordneten, die ein Begehren im Sinne des Abs. 1 gestellt haben, haben außerdem einen oder mehrere Bevollmächtigte für ihre Vertretung im Verfahren vor dem Verfassungsgerichtshof zu bezeichnen.
 
-#### § 87 – § 87
+#### § 87
 
 (1) Wahlen im Nationalrat bilden einen eigenen Gegenstand der Tagesordnung (§ 50 Abs. 2). Abweichend hievon kann die Wahl eines besonderen Ausschusses zur Vorberatung einer Vorlage vor deren Zuweisung durch den Präsidenten oder in der ersten Lesung eines Gesetzesvorschlages beantragt werden.
 
@@ -1812,19 +1812,19 @@ Eine Teiländerung der Bundesverfassung ist nach Beendigung des Verfahrens gemä
 
 ## XIII. Anfragen
 
-#### § 89 – § 89
+#### § 89
 
 (1) Jedem Abgeordneten steht das Recht zu, an den Präsidenten des Nationalrates und an die Obmänner der Ausschüsse schriftliche Anfragen zu richten.
 
 (2) Der Befragte hat schriftlich zu antworten. Ist dem Befragten eine Erteilung der gewünschten Auskunft nicht möglich, so hat er dies in der Beantwortung zu begründen.
 
-#### § 90 – § 90
+#### § 90
 
 Der Nationalrat ist befugt, die Geschäftsführung der Bundesregierung zu überprüfen, deren Mitglieder über alle Gegenstände der Vollziehung zu befragen und alle einschlägigen Auskünfte zu verlangen. Diesem Fragerecht unterliegen insbesondere Regierungsakte sowie Angelegenheiten der behördlichen Verwaltung oder der Verwaltung des Bundes als Träger von Privatrechten.
 
 > **Anmerkung:** vgl. Art. 52 B-VG
 
-#### § 91 – § 91
+#### § 91
 
 (1) Anfragen, die ein Abgeordneter an die Bundesregierung oder eines ihrer Mitglieder richten will, sind dem Präsidenten schriftlich zu übergeben. Sie müssen mit den eigenhändig beigesetzten Unterschriften von wenigstens fünf Abgeordneten, den Fragesteller eingeschlossen, versehen sein und sind dem Befragten durch die Parlamentsdirektion mitzuteilen.
 
@@ -1900,7 +1900,7 @@ Der Nationalrat ist befugt, die Geschäftsführung der Bundesregierung zu überp
 
 (4) Jede Zusatzfrage muß in unmittelbarem Zusammenhang mit der Anfrage stehen und den Bestimmungen des § 95 Abs. 1 entsprechen.
 
-#### § 97 – § 97
+#### § 97
 
 (1) Sofern die Anfrage nicht in den Fragestunden innerhalb von vier Wochen nach ihrem Einlangen beim Präsidenten aufgerufen wurde, kann der Fragesteller binnen weiterer acht Tage erklären, daß er eine schriftliche Beantwortung wünscht.
 
@@ -2038,7 +2038,7 @@ In den Fällen der Z 1 lit. a und b hat der Ausschuß dem Nationalrat im Sinne d
 
 ## XVII. Ordnungsbestimmungen
 
-#### § 101 – § 101
+#### § 101
 
 (1) Abschweifungen von der Sache ziehen den Ruf des Präsidenten „zur Sache“ nach sich.
 
@@ -2052,17 +2052,17 @@ In den Fällen der Z 1 lit. a und b hat der Ausschuß dem Nationalrat im Sinne d
 
 (3) Wurde einem Abgeordneten ein Ordnungsruf in kurzer Aufeinanderfolge zum wiederholten Mal erteilt, kann der Präsident zugleich verfügen, daß Wortmeldungen desselben für den Rest der Sitzung nicht entgegengenommen werden.
 
-#### § 103 – § 103
+#### § 103
 
 (1) Wer zur Teilnahme an den Verhandlungen berechtigt ist, kann vom Präsidenten den Ruf „zur Sache“ oder „zur Ordnung“ verlangen. Der Präsident entscheidet hierüber ohne Berufung an den Nationalrat.
 
 (2) Wenn jemand, der zur Teilnahme an den Verhandlungen des Nationalrates berechtigt ist, Anlaß zum Ordnungsruf gegeben hat, kann dieser vom Präsidenten des Nationalrates auch am Schluß derselben Sitzung oder am Beginn der nächsten Sitzung nachträglich ausgesprochen und auch von jedem zur Teilnahme an den Verhandlungen Berechtigten gefordert werden.
 
-#### § 104 – § 104
+#### § 104
 
 Wenn der Präsident einen Redner unterbricht, hat dieser sofort innezuhalten, widrigenfalls ihm das Wort entzogen werden kann.
 
-#### § 105 – § 105
+#### § 105
 
 Die deutsche Sprache ist die ausschließliche Verhandlungssprache des Nationalrates und seiner Ausschüsse.
 
@@ -2080,7 +2080,7 @@ Die deutsche Sprache ist die ausschließliche Verhandlungssprache des Nationalra
 
 ## XVIII. Schlußbestimmungen
 
-#### § 108 – § 108
+#### § 108
 
 Dieses Bundesgesetz kann nur auf Grund von Selbständigen Anträgen von Abgeordneten (§ 26) geändert werden. Solche Anträge sind nach Durchführung der ersten Lesung einer Ausschußberatung zu unterziehen. Der Ausschuß hat schriftlich Bericht zu erstatten, worauf die zweite Lesung im Nationalrat und frühestens 24 Stunden nach Abschluß der zweiten Lesung die dritte Lesung stattfindet. Im übrigen gelten die Bestimmungen des § 82 Abs. 2 Z. 2.
 
@@ -2088,7 +2088,7 @@ Dieses Bundesgesetz kann nur auf Grund von Selbständigen Anträgen von Abgeordn
 
 § 108a. Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden.
 
-#### § 109 – § 109
+#### § 109
 
 (1) Dieses Bundesgesetz tritt – mit Ausnahme des § 86 – mit 1. Oktober 1975 in Kraft; § 86 tritt mit 1. Juli 1976 in Kraft.
 

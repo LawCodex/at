@@ -37,7 +37,9 @@ Der Nationalrat hat beschlossen:
 
 ## ARTIKEL IV
 
-### Verfassungsbestimmung
+**Verfassungsbestimmung**
+
+### Art. 4
 
 (1) Zu den Angelegenheiten der Kammern für Handel, Gewerbe und Industrie im Sinne des Art. 10 Abs. 1 Z 8 B-VG zählen gesetzliche Interessenvertretungen aller physischen und juristischen Personen sowie offener Handelsgesellschaften (Kommanditgesellschaften) und eingetragenen Erwerbsgesellschaften, die dem selbständigen Betrieb von Unternehmungen des Gewerbes, der Industrie einschließlich insbesondere des Bergbaues, des Handels einschließlich insbesondere der Tabakverschleißer, des Geld-, Kredit- und Versicherungswesens einschließlich insbesondere der Geschäftsstellen der Klassenlotterie und der Lottokollekturen, des Verkehrs einschließlich insbesondere der Unternehmungen des drahtlosen Nachrichtenverkehrs und der Kraftfahrschulen sowie des Fremdenverkehrs einschließlich insbesondere der Sanatorien, Kuranstalten, Heilbäder, Unterhaltungsstätten mit Musik und anderen Darbietungen, in denen Speisen und Getränke verabreicht werden, Privattheater, Lichtspieltheater, Konzertlokalunternehmungen, Konzert- und Künstleragenturen, Spielbanken und Kasinos sowie Schausteller dienen.
 
@@ -45,6 +47,8 @@ Der Nationalrat hat beschlossen:
 
 ## ARTIKEL V
 
-### Vollziehung
+**Vollziehung**
+
+### Art. 5
 
 Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für wirtschaftliche Angelegenheiten, hinsichtlich des Art. I Z 58 die Bundesregierung betraut.

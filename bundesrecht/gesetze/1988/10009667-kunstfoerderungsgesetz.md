@@ -1,0 +1,146 @@
+---
+title: "Kunstförderungsgesetz"
+identifier: "10009667"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 146/1988"
+date: 1988-02-25
+last_amended: 2020-12-24
+last_amendment: "BGBl. I Nr. 149/2020"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1988/146/P0/NOR11009858"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009667"
+retrieved: 2026-10-11
+documents: 14
+---
+
+# Kunstförderungsgesetz
+
+Bundesgesetz vom 25. Feber 1988 über die Förderung der Kunst aus Bundesmitteln (Kunstförderungsgesetz)
+
+StF: BGBl. Nr. 146/1988 (NR: GP XVII RV 251 AB 479 S. 51. BR: AB 3437 S. 497.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 95/1997 (NR: GP XX RV 738 AB 826 S. 83. BR: AB 5512 S. 629.)  
+BGBl. I Nr. 132/2000 (NR: GP XXI RV 313 AB 356 S. 46. BR: AB 6270 S. 670.)  
+BGBl. I Nr. 91/2015 (NR: GP XXV RV 588 AB 709 S. 86. BR: AB 9448 S. 844.)  
+BGBl. I Nr. 149/2020 idF BGBl. I Nr. 194/2021 (VFB) (NR: GP XXVII IA 1114/A AB 540 S. 71. BR: AB 10473 S. 917.)  
+
+</details>
+
+## § 1 – Aufgaben der Förderung
+
+§ 1. (1) Im Bewußtsein der wertvollen Leistungen, die die Kunst erbringt und in Anerkennung ihres Beitrages zur Verbesserung der Lebensqualität hat der Bund die Aufgabe, das künstlerische Schaffen in Österreich und seine Vermittlung zu fördern. Für diesen Zweck sind im jeweiligen Bundesfinanzgesetz die entsprechenden Mittel vorzusehen. Weiters ist die Verbesserung der Rahmenbedingungen für die finanzielle und organisatorische Förderung des künstlerischen Schaffens durch Private und der sozialen Lage für Künstler anzustreben.
+
+(2) Die Förderung hat insbesondere die zeitgenössische Kunst, ihre geistigen Wandlungen und ihre Vielfalt im Geiste von Freiheit und Toleranz zu berücksichtigen. Sie hat danach zu trachten, die Kunst allen Bevölkerungskreisen zugänglich zu machen und die materiellen Voraussetzungen für die Entwicklung des künstlerischen Lebens in Österreich zu verbessern.
+
+## § 2 – Gegenstand der Förderung
+
+§ 2. (1) Im Sinne des § 1 sind insbesondere zu fördern:
+
+1\. das künstlerische Schaffen der Literatur, der darstellenden Kunst, der Musik, der bildenden Künste, der Fotografie, des Films und der Videokunst sowie neuer experimenteller oder die Grenzen der genannten Kunstsparten überschreitender Kunstformen;
+
+2\. die Veröffentlichung, Präsentation und Dokumentation von Werken;
+
+3\. die Erhaltung von Werkstücken und Dokumenten;
+
+4\. Einrichtungen, die diesen Zielen dienen.
+
+(2) Es dürfen nur Leistungen und Vorhaben einer natürlichen oder vom Bund verschiedenen juristischen Person gefördert werden, die von überregionalem Interesse oder geeignet sind, beispielgebend zu wirken, innovatorischen Charakter haben oder im Rahmen eines einheitlichen Förderungsprogramms gefördert werden.
+
+(3) In die Förderung nach diesem Bundesgesetz sind Bereiche des Kunstlebens nicht einzubeziehen, deren Förderung durch den Bund sondergesetzlich geregelt ist.
+
+(4) Ein der Bedeutung der zeitgenössischen Kunst angemessener Anteil der Förderungsmittel ist für diesen Bereich des künstlerischen Schaffens und seine Veröffentlichung oder Präsentation zu verwenden.
+
+## § 3 – Arten der Förderung
+
+§ 3. (1) Arten der Förderung im Sinne dieses Bundesgesetzes sind:
+
+1\. Geld- und Sachzuwendungen für einzelne Vorhaben (Projekte),
+
+2\. der Ankauf von Werken (insbesondere der zeitgenössischen Kunst),
+
+3\. zins- oder amortisationsbegünstigte Gelddarlehen,
+
+4\. Annuitäten-, Zinsen- und Kreditkostenzuschüsse,
+
+5\. die Vergabe von Stipendien (insbesondere von Studienaufenthalten im Ausland),
+
+6\. die Erteilung von Aufträgen zur Herstellung von Werken der zeitgenössischen Kunst,
+
+7\. die Vergabe von Staats-, Würdigungs- und Förderungspreisen sowie Prämien und Preise für hervorragende künstlerische Leistungen und
+
+8\. sonstige Geld- und Sachzuwendungen.
+
+(2) Sofern Einrichtungen der Bundesschulen gegen jederzeitigen Widerruf für künstlerische Zwecke überlassen werden, darf diese Überlassung unentgeltlich erfolgen.
+
+(3) Stipendien im Sinne des Abs. 1 Z 5 und Preise im Sinne des Abs. 1 Z 7 sind von der Einkommensteuer befreit. Dies gilt auch für im Grunde und der Höhe nach vergleichbare Leistungen auf Grund von landesgesetzlichen Vorschriften sowie für Stipendien und Preise, die unter vergleichbaren Voraussetzungen von nationalen und internationalen Förderungsinstitutionen vergeben werden.
+
+(4) Der Bund kann den Ankauf von Kunstwerken durch Landes- und Gemeindegalerien durch Zuschüsse fördern, wenn dies im gesamtösterreichischen Kunstinteresse gelegen ist. § 5 Abs. 1 und 2 ist anzuwenden.
+
+## § 4 – Allgemeine Voraussetzungen für die Förderung
+
+§ 4. (1) Voraussetzung für die Gewährung der in § 3 Z 1, 3, 4, 5 und 8 genannten Förderungen ist die Einbringung eines Ansuchens beim Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport.
+
+(2) Eine Förderung darf nur erfolgen, wenn das Vorhaben (Projekt) ohne sie nicht oder nicht zur Gänze in Angriff genommen oder durchgeführt werden kann und bei Gewährung der Förderung finanziell gesichert ist. Nach Maßgabe seiner wirtschaftlichen Leistungsfähigkeit hat der Förderungswerber eine finanzielle oder sachliche Eigenleistung zu erbringen. Ist dem Förderungswerber eine Eigenleistung wirtschaftlich nicht zumutbar, kann davon abgesehen werden.
+
+(3) Das Förderungsansuchen hat Angaben darüber zu enthalten, ob der Förderungswerber für dasselbe Vorhaben bei einem anderen Organ des Bundes oder einem anderen Rechtsträger um Gewährung von Förderungsmitteln angesucht hat oder ansuchen will. Gegebenenfalls sind die gewährten oder in Aussicht gestellten Mittel bei der Bemessung der Höhe der Förderung aus Bundesmitteln zu berücksichtigen. Werden durch eine beabsichtigte Förderungsmaßnahme Interessen (Aufgaben) anderer Gebietskörperschaften berührt, ist eine angemessene Beteiligung dieser Gebietskörperschaften an der Durchführung der Förderungsmaßnahmen unter weitestmöglicher Koordinierung des beiderseitigen Mitteleinsatzes anzustreben. Weiters ist nach Möglichkeit eine Kostenbeteiligung privater Förderer anzustreben und der Förderungswerber diesbezüglich zu beraten und zu unterstützen.
+
+(4) Dieses Bundesgesetz räumt keinen individuellen Anspruch auf die Gewährung einer Förderung ein.
+
+## § 5 – Bedingungen für die Förderung
+
+§ 5. (1) Vor Gewährung einer Förderung gemäß § 3 Abs. 1 Z 1 bis 6 und 8 ist mit dem Förderungswerber ein Vertrag abzuschließen, der alle Auflagen und Bedingungen enthält, die den wirtschaftlichen Einsatz der Bundesmittel sicherstellen. Auflagen und Bedingungen haben der Eigenart des Vorhabens zu entsprechen und sollen eine möglichst rasche und einfache Vergabe der Mittel ermöglichen. Musterverträge sind den Förderungsrichtlinien anzuschließen.
+
+(2) Im Vertrag kann der Förderungswerber verpfichtet *(Anm.: richtig: verpflichtet)* werden, den Organen des Bundes die Überprüfung der widmungsgemäßen Verwendung der Förderungsmittel durch Einsicht in die Bücher und Belege sowie durch Besichtigung an Ort und Stelle zu gestatten, ihnen die erforderlichen Auskünfte zu erteilen und über die Verwendung der Förderungsmittel innerhalb einer zu vereinbarenden Frist zu berichten. Vom Erfordernis des Berichtes über die Verwendung der Förderungsmittel kann abgesehen werden, wenn dies im Hinblick auf die Höhe der Förderung oder die Art des Vorhabens geboten ist. Die näheren Regelungen sind in den Förderungsrichtlinien zu treffen.
+
+(3) Eine Förderung durch ein Gelddarlehen darf ganz oder teilweise in eine Geldzuwendung umgewandelt werden, wenn der angestrebte Erfolg des Vorhabens wegen nachfolgend ohne Verschulden des Förderungsempfängers eintretender Ereignisse nur durch eine solche Umwandlung erreicht werden kann.
+
+## § 6
+
+§ 6. Für den Fall, daß der Vertrag aus Gründen, für die der Förderungswerber verantwortlich ist, von diesem in wesentlichen Punkten nicht eingehalten wird, ist in diesem gemäß § 5 abzuschließenden Vertrag zu vereinbaren, daß Geldzuwendungen und Zuschüsse nach § 3 Abs. 1, Z 1, 4, 5 und 8 zurückzuerstatten oder noch nicht zurückgezahlte Darlehen nach Kündigung vorzeitig fällig zu stellen und vom Tage der Auszahlung an mit 3 vH über dem jeweils geltenden Zinsfuß für Eskontierungen der Oesterreichischen Nationalbank *(Anm.: Basiszinssatz)* pro Jahr zu verzinsen sind.
+
+## § 7 – Mittelbare Förderung
+
+§ 7. (1) Der Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport ist ermächtigt, mit sachlich in Betracht kommenden Rechtsträgern mit Ausnahme der Gebietskörperschaften Verträge des Inhalts abzuschließen, daß Förderungen aus Bundesmitteln durch diese Rechtsträger im Namen und für Rechnung des Bundes nach Maßgabe dieses Bundesgesetzes verteilt werden können, wenn die Besonderheiten bestimmter Förderungen eine Mitwirkung solcher bevollmächtigter Rechtsträger geboten erscheinen lassen und durch diese Mitwirkung die Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit des Einsatzes der Bundesmittel verbessert wird. Nach Möglichkeit sind mit der Durchführung der mittelbaren Förderung Rechtsträger zu beauftragen, die sich an den Kosten des Vorhabens beteiligen.
+
+(2) Verträge gemäß Abs. 1 sind im jährlichen Kunstbericht darzustellen und zu begründen.
+
+## § 8 – Förderungsrichtlinien
+
+§ 8. Der Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport hat die näheren Vorkehrungen, die bei der Gewährung von Förderungen nach diesem Bundesgesetz zu treffen sind, nach Vorberatung mit den Beiräten im Einvernehmen mit dem Bundesminister für Finanzen durch Richtlinien festzulegen.
+
+## § 9 – Beiräte
+
+§ 9. (1) Der Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport kann zur Vorbereitung und Vorberatung von Förderungsangelegenheiten einzelner Kunstsparten Beiräte oder Jurien einsetzen, in die Fachleute der jeweiligen Sparte zu berufen sind.
+
+(2) Die Mitglieder der Beiräte und Jurys haben Anspruch auf Ersatz der Reisekosten entsprechend der Reisegebührenvorschrift 1955, BGBl Nr. 133/1955, in der jeweils geltenden Fassung, und Barauslagen sowie auf ein Sitzungsgeld, das vom Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport unter Bedachtnahme auf die Bedeutung und den Umfang der von den Beiräten und Jurys wahrzunehmenden Aufgaben durch Verordnung festzusetzen ist. In der Verordnung kann der Reisekosten- und Barauslagenersatz pauschaliert festgelegt werden.
+
+## § 10 – Kunstbericht
+
+§ 10. Der Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport hat dem Nationalrat im Wege der Bundesregierung einen jährlichen Bericht über die Tätigkeit des Bundes auf dem Gebiet der Kunstförderung vorzulegen.
+
+## § 11 – Freiheit von Stempelgebühren
+
+§ 11. Die durch dieses Bundesgesetz unmittelbar veranlaßten Schriften sind von den Stempelgebühren befreit.
+
+## § 12 – Vollziehung
+
+§ 12. Mit der Vollziehung dieses Bundesgesetzes sind betraut:
+
+1\. Hinsichtlich des § 8 der Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport im Einvernehmen mit dem Bundesminister für Finanzen,
+
+2\. hinsichtlich des § 3 Abs. 3, des § 11 und des § 13 der Bundesminister für Finanzen,
+
+3\. im übrigen der Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport.
+
+## § 13
+
+§ 13. (1) § 3 Abs. 3 ist auf Zeiträume ab dem 1. Jänner 1991 anzuwenden.
+
+(2) § 2a in der Fassung BGBl. I Nr. 149/2020 tritt mit dem der Kundmachung folgenden Tag in Kraft und mit Ablauf des 31. Dezember 2022 außer Kraft.

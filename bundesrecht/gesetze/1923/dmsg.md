@@ -1161,7 +1161,9 @@ einschließlich der Erlöse aus einer entgeltlichen Überlassung von dem Bundesd
 
 ## Artikel II
 
-##### *(Anm.: aus BGBl. I Nr. 170/1999, zu den §§ 5, 11 und 37, BGBl. Nr. 533/1923)*
+***(Anm.: aus BGBl. I Nr. 170/1999, zu den §§ 5, 11 und 37, BGBl. Nr. 533/1923)***
+
+##### Art. 2
 
 \*(Anm. : Abs. 1 durch Art. 2 § 2 Abs. 2 Z 73, BGBl. I Nr. 2/2008, als nicht mehr geltend festgestellt)*
 

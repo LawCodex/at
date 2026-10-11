@@ -462,7 +462,9 @@ Die §§ 119 und 119a Abs. 2 GSVG (§ 233 Abs. 2 ASVG, § 110a Abs. 2 BSVG) sind
 
 ### Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. Nr. 533/1979, zu BGBl. Nr. 624/1978)*
+***(Anm.: aus BGBl. Nr. 533/1979, zu BGBl. Nr. 624/1978)***
+
+#### Art. 2
 
 (1) Personen, die am 31. Dezember 1979 gemäß § 5 Z. 1 des Bundesgesetzes über die Sozialversicherung freiberuflich selbständig Erwerbstätiger in der an diesem Tag in Geltung gestandenen Fassung von der Pflichtversicherung in der Pensionsversicherung ausgenommen waren, sind auf Antrag von dieser Pflichtversicherung zu befreien, wenn der Antrag bis 31. Dezember 1980 bei der Sozialversicherungsanstalt der gewerblichen Wirtschaft gestellt wird. Die Befreiung gilt rückwirkend ab 1. Jänner 1980 für die Dauer des Bestandes der Voraussetzungen für die seinerzeitige Ausnahme von der Pflichtversicherung.
 
@@ -476,7 +478,9 @@ b) neben der Voraussetzung des Abs. 1 lit. d die weitere Voraussetzung des § 14
 
 ### Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. Nr. 591/1981, zu BGBl. Nr. 624/1978)*
+***(Anm.: aus BGBl. Nr. 591/1981, zu BGBl. Nr. 624/1978)***
+
+#### Art. 2
 
 Die Bestimmungen des § 12 des Freiberuflichen Sozialversicherungsgesetzes in der Fassung des Artikels I sind nur auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 31. Dezember 1981 liegt.
 
@@ -484,7 +488,9 @@ Die Bestimmungen des § 12 des Freiberuflichen Sozialversicherungsgesetzes in de
 
 ### Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. Nr. 487/1984, zu BGBl. Nr. 624/1978)*
+***(Anm.: aus BGBl. Nr. 487/1984, zu BGBl. Nr. 624/1978)***
+
+#### Art. 2
 
 (1) Personen, die am 31. Dezember 1984 der Pflichtversicherung in der Pensionsversicherung gemäß § 2 des Bundesgesetzes über die Sozialversicherung freiberuflich selbständig Erwerbstätiger unterliegen, obgleich sie die Voraussetzungen des § 16 Z 1 des Bundesgesetzes über die Sozialversicherung freiberuflich selbständig Erwerbstätiger erfüllt hatten, sind auf Antrag von dieser Pflichtversicherung zu befreien, wenn der Antrag bis 31. Dezember 1985 bei der Sozialversicherungsanstalt der gewerblichen Wirtschaft gestellt wird. Die Befreiung gilt rückwirkend ab 1. Jänner 1979.
 

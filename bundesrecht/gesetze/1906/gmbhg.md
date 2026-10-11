@@ -120,7 +120,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ### Errichtung der Gesellschaft.
 
-#### § 1 – § 1.
+#### § 1
 
 (1) Gesellschaften mit beschränkter Haftung können nach Maßgabe der Bestimmungen dieses Gesetzes zu jedem gesetzlich zulässigen Zweck durch eine oder mehrere Personen errichtet werden.
 
@@ -134,7 +134,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 (3) Verpflichtungen aus Vereinbarungen über Sacheinlagen können nicht übernommen werden.
 
-#### § 3 – § 3.
+#### § 3
 
 (1) Die Eintragung einer Gesellschaft mit beschränkter Haftung in das Firmenbuch hat zur Voraussetzung:
 
@@ -144,7 +144,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 (2) Wird die Gesellschaft nur durch eine Person errichtet, so wird der Gesellschaftsvertrag durch die Erklärung über die Errichtung der Gesellschaft ersetzt. Auf diese Erklärung sind die Vorschriften über den Gesellschaftsvertrag sinngemäß anzuwenden.
 
-#### § 4 – § 4.
+#### § 4
 
 (1) Der Gesellschaftsvertrag muß bestimmen:
 
@@ -160,7 +160,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 (3) Der Gesellschaftsvertrag bedarf der Form eines Notariatsakts, wobei dieser auch elektronisch unter Nutzung einer elektronischen Kommunikationsmöglichkeit (§ 69b NO) errichtet werden kann. Die Unterzeichnung durch Bevollmächtigte setzt eine besondere, auf dieses einzelne Geschäft ausgestellte beglaubigte Vollmacht voraus, die dem Vertrage anzuschließen ist.
 
-#### § 5 – § 5.
+#### § 5
 
 (1) Die Firma der Gesellschaft muss, auch wenn sie nach § 22 UGB oder nach anderen gesetzlichen Vorschriften fortgeführt wird, die Bezeichnung „Gesellschaft mit beschränkter Haftung“ enthalten; die Bezeichnung kann abgekürzt werden.
 
@@ -170,7 +170,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 \*(4) (Anm.: aufgehoben durch BGBl. I Nr. 120/2005)*
 
-#### § 6 – § 6.
+#### § 6
 
 (1) Stammkapital und Stammeinlage müssen auf einen in Euro bestimmten Nennbetrag lauten. Das Stammkapital muß mindestens 10 000 Euro erreichen und besteht aus den Stammeinlagen der einzelnen Gesellschafter, deren jede mindestens 70 Euro betragen muß.
 
@@ -182,7 +182,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > **Anmerkung:** ÜR: Art. X §§ 5, 6, BGBl. I Nr. 125/1998
 
-#### § 6a – § 6a.
+#### § 6a
 
 (1) Mindestens die Hälfte des Stammkapitals muß durch bar zu leistende Stammeinlagen voll aufgebracht werden, sofern diese nicht gemäß Abs. 2 bis 4 niedriger sind.
 
@@ -192,19 +192,19 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 (4) Soweit nach dem Gesellschaftsvertrag Stammeinlagen nicht bar zu leisten sind und den aktienrechtlichen Vorschriften über die Gründung mit Sacheinlagen entsprochen wird, ist Abs. 1 nicht anzuwenden; in diesem Fall sind die §§ 20, 24 bis 27, 29 Abs. 2 und 4, §§ 39 bis 44 sowie § 25 Abs. 4 und 5 Aktiengesetz 1965 sinngemäß anzuwenden.
 
-#### § 7 – § 7.
+#### § 7
 
 (1) Eine Belohnung für die Gründung der Gesellschaft oder deren Vorbereitung darf einem Gesellschafter aus dem Stammkapitale nicht gewährt werden; insbesondere ist deren Anrechnung auf die Stammeinlage unzulässig.
 
 (2) Ersatz der Kosten der Errichtung der Gesellschaft kann nur innerhalb des für die Gründungskosten im Gesellschaftsvertrage festgesetzten Höchstbetrages begehrt werden.
 
-#### § 8 – § 8.
+#### § 8
 
 (1) Wenn ein oder mehrere Gesellschafter sich neben den Stammeinlagen zu wiederkehrenden, nicht in Geld bestehenden, aber einen Vermögenswert darstellenden Leistungen verpflichten, so sind Umfang und Voraussetzung dieser Leistung sowie für den Fall des Verzuges allenfalls festgesetzte Konventionalstrafen, dann die Grundlagen für die Bemessung einer von der Gesellschaft für die Leistungen zu gewährenden Vergütung im Gesellschaftsvertrage genau zu bestimmen.
 
 (2) Daselbst ist auch festzusetzen, daß die Übertragung von Geschäftsanteilen der Zustimmung der Gesellschaft bedarf.
 
-#### § 9 – § 9.
+#### § 9
 
 (1) Die Eintragung der Gesellschaft in das Firmenbuch kann nur auf Grund einer Anmeldung erfolgen, die von sämtlichen Geschäftsführern unterzeichnet ist.
 
@@ -234,7 +234,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 (8) Die gemäß Abs. 4, 5 und 7 übermittelten Dokumente gelten als Originalurkunden.
 
-#### § 10 – § 10.
+#### § 10
 
 (1) Auf jede bar zu leistende Stammeinlage muß mindestens ein Viertel, jedenfalls aber ein Betrag von 70 Euro eingezahlt sein; soweit auf eine Stammeinlage weniger als 70 Euro bar zu leisten sind, muß die Bareinlage voll eingezahlt sein. Auf die bar zu leistenden Einlagen müssen mindestens insgesamt 5 000 Euro eingezahlt sein; sind sie gemäß § 6a Abs. 2 bis 4 niedriger, müssen sie bar voll eingezahlt sein. Insofern auf eine Stammeinlage nach dem Gesellschaftsvertrag die Vergütung für übernommene Vermögensgegenstände angerechnet werden soll, muß die Leistung sofort im vollen Umfang bewirkt werden.
 
@@ -274,7 +274,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ### Die Geschäftsführer. (Der Vorstand.)
 
-#### § 15 – § 15.
+#### § 15
 
 (1) Die Gesellschaft muß einen oder mehrere Geschäftsführer haben. Zu Geschäftsführern können nur physische, handlungsfähige Personen bestellt werden. Die Bestellung erfolgt durch Beschluß der Gesellschafter. Werden Gesellschafter zu Geschäftsführern bestellt, so kann dies auch im Gesellschaftsvertrage geschehen, jedoch nur für die Dauer ihres Gesellschaftsverhältnisses.
 
@@ -318,7 +318,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > **Beachte:** Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote: Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.
 
-#### § 17 – § 17.
+#### § 17
 
 (1) Die jeweiligen Geschäftsführer und das Erlöschen oder eine Änderung ihrer Vertretungsbefugnis sind ohne Verzug zum Firmenbuch anzumelden. Der Anmeldung ist der Nachweis der Bestellung oder der Änderung in beglaubigter Form beizufügen. Zugleich haben neue Geschäftsführer ihre Unterschrift vor dem Gerichte zu zeichnen oder die Zeichnung in beglaubigter Form vorzulegen.
 
@@ -330,7 +330,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.
 
-#### § 18 – § 18.
+#### § 18
 
 (1) Die Gesellschaft wird durch die Geschäftsführer gerichtlich und außergerichtlich vertreten.
 
@@ -344,17 +344,17 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 (6) Eine Urkunde muß nicht errichtet werden, wenn das Geschäft zum gewöhnlichen Geschäftsbetrieb gehört und zu geschäftsüblichen Bedingungen abgeschlossen wird.
 
-#### § 19 – § 19.
+#### § 19
 
 Die Gesellschaft wird durch die von den Geschäftsführern in ihrem Namen geschlossenen Rechtsgeschäfte berechtigt und verpflichtet; es ist gleichgültig, ob das Geschäft ausdrücklich im Namen der Gesellschaft geschlossen worden ist oder ob die Umstände ergeben, daß es nach dem Willen der Beteiligten für die Gesellschaft geschlossen werden sollte.
 
-#### § 20 – § 20.
+#### § 20
 
 (1) Die Geschäftsführer sind der Gesellschaft gegenüber verpflichtet, alle Beschränkungen einzuhalten, die in dem Gesellschaftsvertrage, durch Beschluß der Gesellschafter oder in einer für die Geschäftsführer verbindlichen Anordnung des Aufsichtsrates für den Umfang ihrer Befugnis, die Gesellschaft zu vertreten, festgesetzt sind.
 
 (2) Gegen dritte Personen hat eine Beschränkung der Vertretungsbefugnis jedoch keine rechtliche Wirkung. Dies gilt insbesondere für den Fall, daß die Vertretung sich nur auf gewisse Geschäfte oder Arten von Geschäften erstrecken oder nur unter gewissen Umständen oder für eine gewisse Zeit oder an einzelnen Orten stattfinden soll, oder daß die Zustimmung der Gesellschafter, des Aufsichtsrates oder eines anderen Organes der Gesellschaft für einzelne Geschäfte gefordert wird.
 
-#### § 21 – § 21.
+#### § 21
 
 (1) Sind mehrere Geschäftsführer vorhanden, so darf, wenn im Gesellschaftsvertrage nicht etwas anderes bestimmt ist, keiner allein die zur Geschäftsführung gehörenden Handlungen vornehmen, es sei denn, daß Gefahr im Verzug ist.
 
@@ -376,7 +376,7 @@ Die Gesellschaft wird durch die von den Geschäftsführern in ihrem Namen geschl
 
 § 23. Auf große Gesellschaften (§ 221 UGB) sind § 229 Abs. 4 bis 7 UGB und § 260 AktG sinngemäß anzuwenden.
 
-#### § 24 – § 24.
+#### § 24
 
 (1) Die Geschäftsführer dürfen ohne Einwilligung der Gesellschaft weder Geschäfte in deren Geschäftszweige für eigene oder fremde Rechnung machen, noch bei einer Gesellschaft des gleichen Geschäftszweiges als persönlich haftende Gesellschafter sich beteiligen oder eine Stelle im Vorstande oder Aufsichtsrate oder als Geschäftsführer bekleiden.
 
@@ -394,7 +394,7 @@ Die Gesellschaft wird durch die von den Geschäftsführern in ihrem Namen geschl
 >
 > Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.
 
-#### § 25 – § 25.
+#### § 25
 
 (1) Die Geschäftsführer sind der Gesellschaft gegenüber verpflichtet, bei ihrer Geschäftsführung die Sorgfalt eines ordentlichen Geschäftsmannes anzuwenden.
 
@@ -422,11 +422,11 @@ Die Gesellschaft wird durch die von den Geschäftsführern in ihrem Namen geschl
 
 (2) Die Geschäftsführer haften für einen Schaden zur ungeteilten Hand, der durch schuldhaft falsche Angaben nach Abs. 1 oder eine schuldhaft verzögerte Einreichung dieser Angaben verursacht wurde; für die falsche oder verzögerte Angabe der für Zustellungen maßgeblichen Anschrift eines Gesellschafters jedoch nur bei grobem Verschulden. Ersatzansprüche der Gesellschaft verjähren in fünf Jahren nach Anmeldung der Angaben nach Abs. 1 zum Firmenbuch, Ersatzansprüche Dritter nach den allgemeinen Verjährungsregeln.
 
-#### § 27 – § 27.
+#### § 27
 
 Die für die Geschäftsführer gegebenen Vorschriften gelten auch für die Stellvertreter der Geschäftsführer.
 
-#### § 28 – § 28.
+#### § 28
 
 (1) Der Betrieb von Geschäften der Gesellschaft sowie die Vertretung der Gesellschaft in diesem Geschäftsbetriebe kann auch einzelnen Geschäftsführern und sonstigen Bevollmächtigten oder Beamten der Gesellschaft zugewiesen werden. In diesem Falle bestimmt sich ihre Befugnis nach der ihnen erteilten Vollmacht; sie erstreckt sich im Zweifel auf alle Rechtshandlungen, welche die Ausführung derartiger Geschäfte gewöhnlich mit sich bringt.
 
@@ -698,7 +698,7 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 (4) Weitere Obliegenheiten können dem Aufsichtsrat durch den Gesellschaftsvertrag oder durch Gesellschafterbeschluß übertragen werden.
 
-#### § 31 – § 31.
+#### § 31
 
 (1) Den Aufsichtsratsmitgliedern kann für ihre Tätigkeit eine mit ihren Aufgaben und mit der Lage der Gesellschaft in Einklang stehende Vergütung gewährt werden. Ist die Vergütung im Gesellschaftsvertrag festgesetzt, so kann eine Änderung, durch die die Vergütung herabgesetzt wird, durch Gesellschafterbeschluß mit einfacher Stimmenmehrheit beschlossen werden.
 
@@ -708,7 +708,7 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 § 32. Über die gemäß § 25 Abs. 4 zwischen der Gesellschaft und Geschäftsführern geschlossenen Geschäfte hat der Aufsichtsrat jeweils der nächsten Generalversammlung zu berichten.
 
-#### § 33 – § 33.
+#### § 33
 
 (1) Die in den § 25 und 27 hinsichtlich der Geschäftsführer getroffenen Anordnungen finden auch auf den Aufsichtsrat Anwendung.
 
@@ -718,13 +718,13 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 ### Die Generalversammlung.
 
-#### § 34 – § 34.
+#### § 34
 
 (1) Die durch das Gesetz oder den Gesellschaftsvertrag den Gesellschaftern vorbehaltenen Beschlüsse werden in der Generalversammlung gefaßt, es sei denn, daß sämtliche Gesellschafter sich im einzelnen Falle schriftlich mit der zu treffenden Bestimmung oder doch mit der Abstimmung im schriftlichen Wege einverstanden erklären.
 
 (2) Bei der Abstimmung im schriftlichen Wege wird die nach dem Gesetze oder dem Gesellschaftsvertrage zu einer Beschlußfassung der Generalversammlung erforderliche Mehrheit nicht nach der Zahl der abgegebenen, sondern nach der Gesamtzahl der allen Gesellschaftern zustehenden Stimmen berechnet.
 
-#### § 35 – § 35.
+#### § 35
 
 (1) Der Beschlußfassung der Gesellschafter unterliegen nebst den in diesem Gesetze an anderen Stellen bezeichneten Gegenständen:
 
@@ -750,13 +750,13 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 (2) Die Versammlung ist, soweit nicht eine Beschlussfassung außerhalb derselben zulässig ist, mindestens jährlich einmal und außer den im Gesetz oder im Gesellschaftsvertrag ausdrücklich bestimmten Fällen immer dann einzuberufen, wenn es das Interesse der Gesellschaft erfordert. Dies hat insbesondere ohne Verzug dann zu geschehen wenn sich ergibt, dass die Hälfte des Stammkapitals verloren gegangen ist oder die Eigenmittelquote (§ 23 URG) weniger als acht vom Hundert und die fiktive Schuldentilgungsdauer (§ 24 URG) mehr als 15 Jahre beträgt. In diesen Fällen haben die Geschäftsführer die von der Versammlung gefassten Beschlüsse dem Firmenbuchgericht mitzuteilen.
 
-#### § 37 – § 37.
+#### § 37
 
 (1) Die Versammlung muß auch dann ohne Verzug berufen werden, wenn Gesellschafter, deren Stammeinlagen den zehnten Teil oder den im Gesellschaftsvertrage hiefür bestimmten geringeren Teil des Stammkapitals erreichen, die Berufung schriftlich unter Angabe des Zweckes verlangen.
 
 (2) Wird dem Verlangen von den zur Berufung der Versammlung befugten Organen nicht innerhalb vierzehn Tagen nach der Aufforderung entsprochen oder sind solche Organe nicht vorhanden, so können die Berechtigten unter Mitteilung des Sachverhaltes die Berufung selbst bewirken. Die Versammlung beschließt in diesem Falle darüber, ob die mit der Einberufung verbundenen Kosten von der Gesellschaft zu tragen sind.
 
-#### § 38 – § 38.
+#### § 38
 
 (1) Die Berufung der Versammlung ist in der durch den Gesellschaftsvertrag bestimmten Form zu veröffentlichen, in Ermanglung einer solchen Festsetzung den einzelnen Gesellschaftern mittels rekommandierten Schreibens bekanntzugeben. Zwischen dem Tage der letzten Verlautbarung oder der Aufgabe der Sendung zur Post und dem Tage der Versammlung muß mindestens der Zeitraum von sieben Tagen liegen.
 
@@ -772,7 +772,7 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 (7) Im Falle der Beschlußunfähigkeit einer Versammlung ist unter Hinweis auf deren Beschlußunfähigkeit eine zweite Versammlung zu berufen, die auf die Verhandlung der Gegenstände der früheren Versammlung beschränkt und, wenn der Gesellschaftsvertrag nichts anderes bestimmt, ohne Rücksicht auf die Höhe des vertretenen Stammkapitals beschlußfähig ist.
 
-#### § 39 – § 39.
+#### § 39
 
 (1) Die Beschlußfassung der Gesellschafter erfolgt, soweit das Gesetz oder der Gesellschaftsvertrag nichts anderes bestimmt, durch einfache Mehrheit der abgegebenen Stimmen.
 
@@ -790,7 +790,7 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 (2) Jedem Gesellschafter ist ohne Verzug nach Abhaltung der Generalversammlung oder nach einer auf schriftlichem Wege erfolgten Abstimmung eine Kopie der gefaßten Beschlüsse unter Angabe des Tages der Aufnahme derselben in die Niederschrift mittels eingeschriebenen Briefes zuzusenden.
 
-#### § 41 – § 41.
+#### § 41
 
 (1) Die Nichtigerklärung eines Beschlusses der Gesellschafter kann mittels Klage verlangt werden:
 
@@ -804,7 +804,7 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 (4) Die Klage muß binnen einem Monat vom Tag der Absendung der Kopie gemäß § 40 Abs. 2 erhoben werden.
 
-#### § 42 – § 42.
+#### § 42
 
 (1) Die Klage auf Nichtigerklärung eines Beschlusses der Gesellschafter ist gegen die Gesellschaft zu richten. Die Gesellschaft wird durch die Geschäftsführer, wenn jedoch Geschäftsführer selbst klagen, durch den Aufsichtsrat vertreten. Wenn sowohl Geschäftsführer als auch Mitglieder des Aufsichtsrates klagen oder wenn kein Aufsichtsrat besteht und ein anderer Vertreter der Gesellschaft nicht vorhanden ist, hat das Gericht einen Kurator zu ernennen.
 
@@ -820,7 +820,7 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 (7) Für einen durch ungegründete Anfechtung des Beschlusses der Gesellschaft entstehenden Schaden haften ihr die Kläger, denen böse Absicht oder grobe Fahrlässigkeit zur Last fallen, persönlich zur ungeteilten Hand.
 
-#### § 44 – § 44.
+#### § 44
 
 (1) Ist die Nichtigkeit eines in das Firmenbuch eingetragenen Beschlusses der Gesellschaft durch Urteil oder Beschluß rechtskräftig ausgesprochen, so hat das Gericht die für nichtig erklärte Eintragung von Amts wegen zu löschen und seinen Ausspruch zu veröffentlichen.
 
@@ -830,7 +830,7 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 ### Minderheitsrechte.
 
-#### § 45 – § 45.
+#### § 45
 
 (1) Ist durch Beschluß der Gesellschafter ein Antrag auf Bestellung von sachverständigen Revisoren zur Prüfung des letzten Jahresabschlusses abgelehnt worden, so kann auf Antrag von Gesellschaftern, deren Stammeinlagen den zehnten Teil des Stammkapitals oder den Nennbetrag von 700 000 Euro erreichen, das Handelsgericht des Sitzes der Gesellschaft einen oder mehrere Revisoren bestellen. Dem Antrage ist nur stattzugeben, wenn glaubhaft gemacht wird, daß Unredlichkeiten oder grobe Verletzungen des Gesetzes oder des Gesellschaftsvertrages stattgefunden haben.
 
@@ -844,13 +844,13 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 (6) Die Revisoren haben vor Antritt ihres Amtes den Eid zu leisten, daß sie die ihnen obliegenden Pflichten getreu erfüllen und insbesondere die bei der Revision etwa zu ihrer Kenntnis gelangten Geschäfts- und Betriebsverhältnisse gegenüber jedermann geheimhalten wollen.
 
-#### § 46 – § 46.
+#### § 46
 
 (1) Die Revisoren haben das Recht, in die Bücher, Schriften, Rechnungsbelege und Inventare einzusehen, von den Geschäftsführern, den Mitgliedern des Aufsichtsrates und jedem mit der Rechnungsführung betrauten Angestellten der Gesellschaft Auskünfte und Erläuterungen zur Feststellung der Richtigkeit des letzten Jahresabschlusses abzuverlangen und den Bestand der Gesellschaftskassa sowie die Bestände an Effekten, Schulddokumenten und Waren zu untersuchen. Die verlangten Aufklärungen und Auskünfte müssen von den dazu Aufgeforderten ohne Verzug genau und wahrheitsgemäß gegeben werden. Der Aufsichtsrat ist der Revision beizuziehen. Das Gericht kann nach seinem Ermessen die Zuziehung eines oder mehrerer der Gesuchsteller zur Vornahme der Revision gestatten.
 
 (2) Die Entlohnung der Revisoren wird von dem Handelsgerichte bestimmt; sie dürfen keine andere wie immer geartete Vergütung annehmen.
 
-#### § 47 – § 47.
+#### § 47
 
 (1) Der Bericht über das Ergebnis der Prüfung, in dem angegeben ist, ob alle Wünsche der Revisoren in Beziehung auf die Vornahme der Revision erfüllt worden sind, und ob der letzte Jahresabschluß ein möglichst getreues Bild der Vermögens-, Finanz- und Ertragslage des Unternehmens vermittelt, ist von den Revisoren unverzüglich den Geschäftsführern und dem Aufsichtsrat vorzulegen.
 
@@ -880,13 +880,13 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 ### Allgemeine Bestimmungen.
 
-#### § 49 – § 49.
+#### § 49
 
 (1) Eine Abänderung des Gesellschaftsvertrages kann nur durch Beschluß der Gesellschafter erfolgen. Der Beschluß muß notariell beurkundet werden.
 
 (2) Die Abänderung hat keine rechtliche Wirkung, bevor sie in das Firmenbuch eingetragen ist.
 
-#### § 50 – § 50.
+#### § 50
 
 (1) Abänderungen des Gesellschaftsvertrages können nur mit einer Mehrheit von drei Vierteilen der abgegebenen Stimmen beschlossen werden. Die Abänderung kann im Gesellschaftsvertrage an weitere Erfordernisse geknüpft sein.
 
@@ -898,7 +898,7 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 (5) Dies gilt insbesondere von Beschlüssen, durch welche Bestimmungen über das Maß, in dem Einzahlungen auf die Stammeinlagen zu leisten sind, in den Gesellschaftsvertrag aufgenommen oder die darüber in dem Gesellschaftsvertrage enthaltenen Bestimmungen abgeändert werden sollen.
 
-#### § 51 – § 51.
+#### § 51
 
 (1) Jede Abänderung des Gesellschaftsvertrages ist von sämtlichen Geschäftsführern zum Firmenbuch anzumelden. Der Anmeldung ist der notariell beurkundete Abänderungsbeschluß mit dem Nachweis des gültigen Zustandekommens anzuschließen. Der Anmeldung ist weiters der vollständige Wortlaut des Gesellschaftsvertrags beizufügen; er muß mit der Beurkundung eines Notars versehen sein, daß die geänderten Bestimmungen des Gesellschaftsvertrags mit dem Beschluß über die Änderung des Gesellschaftsvertrags und die unveränderten Bestimmungen mit dem zuletzt zum Firmenbuch eingereichten vollständigen Wortlaut des Gesellschaftsvertrags übereinstimmen.
 
@@ -910,7 +910,7 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 ### Erhöhung **des Stammkapitals.**
 
-#### § 52 – § 52.
+#### § 52
 
 (1) Die Erhöhung des Stammkapitals setzt einen Beschluß auf Abänderung des Gesellschaftsvertrages voraus.
 
@@ -926,7 +926,7 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 > **Beachte:** Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote: Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.
 
-#### § 53 – § 53.
+#### § 53
 
 (1) Der Beschluß auf Erhöhung des Stammkapitals ist zum Firmenbuch anzumelden, sobald das erhöhte Stammkapital durch Übernahme der Stammeinlagen gedeckt und deren Einzahlung erfolgt ist.
 
@@ -936,7 +936,7 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 ### Herabsetzung **des Stammkapitals.**
 
-#### § 54 – § 54.
+#### § 54
 
 (1) Die Herabsetzung des Stammkapitals kann nur auf Grund eines Beschlusses auf Abänderung des Gesellschaftsvertrages und nach Durchführung des in diesem Gesetze bestimmten Aufgebotsverfahrens erfolgen. Der Beschluß muß den Umfang und den Zweck der Herabsetzung des Stammkapitals bestimmt bezeichnen und die Art der Durchführung festsetzen.
 
@@ -948,13 +948,13 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 > **Anmerkung:** ÜR: Art. X §§ 5, 6, BGBl. I Nr. 125/1998
 
-#### § 55 – § 55.
+#### § 55
 
 (1) Die beabsichtigte Herabsetzung des Stammkapitals ist von sämtlichen Geschäftsführern zum Firmenbuch anzumelden. Das Handelsgericht hat unter sinngemäßer Anwendung des § 11, Absatz 1, über die Eintragung zu beschließen.
 
 (2) Die Geschäftsführer haben unverzüglich, nachdem sie von der Eintragung benachrichtigt worden sind, die beabsichtigte Herabsetzung des Stammkapitals in den Bekanntmachungsblättern zu veröffentlichen. Hiebei ist bekanntzugeben, daß die Gesellschaft allen Gläubigern, deren Forderungen am Tage der letzten Veröffentlichung dieser Mitteilung bestehen, auf Verlangen Befriedigung oder Sicherstellung zu leisten bereit sei, und daß Gläubiger, die sich nicht binnen drei Monaten von dem bezeichneten Tag an bei der Gesellschaft melden, als der beabsichtigten Herabsetzung des Stammkapitals zustimmend erachtet würden. Bekannten Gläubigern ist diese Mitteilung unmittelbar zu machen.
 
-#### § 56 – § 56.
+#### § 56
 
 (1) Die durch Herabsetzung des Stammkapitals bewirkte Abänderung des Gesellschaftsvertrages kann erst nach Ablauf der für die Anmeldung der Gläubiger bestimmten Frist zum Firmenbuch angemeldet werden.
 
@@ -970,13 +970,13 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Betr
 
 (4) Den Geschäftsführer, der beweist, daß er die Unrichtigkeit des Nachweises oder der Erklärung ungeachtet der Anwendung der Sorgfalt eines ordentlichen Geschäftsmannes nicht gekannt habe, trifft diese Haftung nicht.
 
-#### § 57 – § 57.
+#### § 57
 
 (1) Zahlungen an die Gesellschafter auf Grund der Herabsetzung des Stammkapitals sind erst nach Eintragung der betreffenden Abänderung des Gesellschaftsvertrages in das Firmenbuch zulässig.
 
 (2) In dem gleichen Zeitpunkte erlangt auch eine durch die Herabsetzung bezweckte Befreiung von der Verpflichtung zur Leistung der Einzahlungen auf nicht voll eingezahlte Stammeinlagen Wirksamkeit.
 
-#### § 58 – § 58.
+#### § 58
 
 Bei Gesellschaften, bei denen die Vermögenssubstanz durch den Geschäftsbetrieb naturgemäß ganz oder größtenteils aufgezehrt werden muß, oder bei denen das Vermögen aus zeitlich beschränkten Rechten besteht, kann die Zurückzahlung von Stammeinlagen im ganzen oder in Teilbeträgen ohne Durchführung des Aufgebotsverfahrens und ohne Rücksicht auf die Höhe des übrig bleibenden Stammkapitals im Gesellschaftsvertrage vorbehalten werden, wenn diese Zurückzahlung nach vollständiger Einzahlung der Stammeinlage und nur aus dem im jeweiligen Bilanzjahre erzielten oder den in den Vorjahren reservierten Reinerträgnissen erfolgt. Ein den zurückgezahlten Stammeinlagen gleichkommender Betrag muß in der Bilanz als Passivpost aufgeführt werden. Art und Voraussetzungen der Zurückzahlung müssen im Gesellschaftsvertrage genau bestimmt werden. Im Fall einer teilweisen Zurückzahlung darf eine Stammeinlage nicht unter 70 Euro herabgesetzt werden.
 
@@ -1008,7 +1008,7 @@ Bei Gesellschaften, bei denen die Vermögenssubstanz durch den Geschäftsbetrieb
 
 ### Rechtsverhältnisse der Gesellschaft.
 
-#### § 61 – § 61.
+#### § 61
 
 (1) Die Gesellschaft mit beschränkter Haftung als solche hat selbständig ihre Rechte und Pflichten; sie kann Eigentum und andere dingliche Rechte an Grundstücken erwerben, vor Gericht klagen und geklagt werden.
 
@@ -1020,7 +1020,7 @@ Bei Gesellschaften, bei denen die Vermögenssubstanz durch den Geschäftsbetrieb
 
 ### Die Stammeinlagen.
 
-#### § 63 – § 63.
+#### § 63
 
 (1) Jeder Gesellschafter ist verpflichtet, die von ihm übernommene Stammeinlage in voller Höhe nach Maßgabe des Gesellschaftsvertrages und der von den Gesellschaftern gültig gefaßten Beschlüsse einzuzahlen.
 
@@ -1034,25 +1034,25 @@ Bei Gesellschaften, bei denen die Vermögenssubstanz durch den Geschäftsbetrieb
 
 (6) Vorbehalte und Einschränkungen bei der Übernahme oder Zahlung von Stammeinlagen sind wirkungslos.
 
-#### § 64 – § 64.
+#### § 64
 
 (1) Jede Einforderung weiterer Einzahlungen nicht voll eingezahlter Stammeinlagen ist unter Angabe des eingeforderten Betrages von sämtlichen Geschäftsführern zum Firmenbuch anzumelden und vom Handelsgerichte zu veröffentlichen.
 
 (2) Für einen durch Unterlassung der Anmeldung oder durch falsche Angaben verursachten Schaden haften die Geschäftsführer dem dadurch Beschädigten persönlich zur ungeteilten Hand. Diese Ersatzansprüche verjähren in fünf Jahren von dem Tage, an dem die beschädigte Partei von der Einforderung Kenntnis erhalten hat.
 
-#### § 65 – § 65.
+#### § 65
 
 (1) Ein Gesellschafter, der die auf die Stammeinlage geforderten Einzahlungen nicht rechtzeitig leistet, ist unbeschadet einer weiteren Ersatzpflicht zur Zahlung von Verzugszinsen verpflichtet. Im Gesellschaftsvertrage können für den Fall des Verzuges Konventionalstrafen festgesetzt werden.
 
 (2) Enthält der Gesellschaftsvertrag keine besonderen Vorschriften darüber, wie die Aufforderung zur Einzahlung zu geschehen hat, so genügt es, wenn die Aufforderung durch ein mit der Geschäftsführung betrautes Organ mittels rekommandierten Schreibens erfolgt ist.
 
-#### § 66 – § 66.
+#### § 66
 
 (1) Erfolgt die Einzahlung nicht rechtzeitig, so kann die Gesellschaft den säumigen Gesellschaftern unter Bestimmung einer Nachfrist für die Einzahlung den Ausschluß aus der Gesellschaft mittels rekommandierten Schreibens androhen. Die Nachfrist ist mindestens mit einem Monate vom Empfange der Aufforderung an zu bemessen. Einzelne säumige Gesellschafter von der Androhung des Ausschlusses auszunehmen ist unzulässig.
 
 (2) Nach fruchtlosem Ablaufe der Nachfrist sind die säumigen Gesellschafter durch die Geschäftsführer als ausgeschlossen zu erklären und hievon abermals mittels rekommandierten Schreibens zu benachrichtigen. Mit der Erklärung der Ausschließung ist der Verlust sämtlicher Rechte aus dem Geschäftsanteile, namentlich aller hierauf geleisteten Einzahlungen, verbunden.
 
-#### § 67 – § 67.
+#### § 67
 
 (1) Für den von dem ausgeschlossenen Gesellschafter nicht bezahlten Betrag der Stammeinlagen samt Verzugszinsen haften der Gesellschaft alle seine Vormänner, die innerhalb der letzten fünf Jahre vor Erlassung der Einzahlungsaufforderung (§ 64) als Gesellschafter im Firmenbuch (§§ 9, 26) verzeichnet waren.
 
@@ -1060,7 +1060,7 @@ Bei Gesellschaften, bei denen die Vermögenssubstanz durch den Geschäftsbetrieb
 
 (3) Der Rechtsvorgänger erwirbt gegen Zahlung des geschuldeten Betrages den Geschäftsanteil des ausgeschlossenen Gesellschafters.
 
-#### § 68 – § 68.
+#### § 68
 
 (1) Ist die Zahlung des rückständigen Betrages von Rechtsvorgängern nicht zu erlangen oder sind keine Rechtsvorgänger vorhanden, so kann die Gesellschaft den Geschäftsanteil verkaufen.
 
@@ -1072,13 +1072,13 @@ Bei Gesellschaften, bei denen die Vermögenssubstanz durch den Geschäftsbetrieb
 
 (5) Übersteigt der Erlös den geschuldeten Betrag, so ist der Überschuß zunächst auf den noch unberichtigten Teil der Stammeinlage in Anrechnung zu bringen. Um diesen Betrag vermindert sich die Haftung des ausgeschlossenen Gesellschafters. Ein weiter gehender Überschuß fließt dem ausgeschlossenen Gesellschafter zu.
 
-#### § 69 – § 69.
+#### § 69
 
 (1) Der säumige Gesellschafter bleibt ungeachtet seines Ausschlusses für den rückständigen Betrag vor allen übrigen verhaftet.
 
 (2) Ebenso wird durch den Ausschluß die Haftung des säumigen Gesellschafters für weitere Einzahlungen nicht berührt.
 
-#### § 70 – § 70.
+#### § 70
 
 (1) Soweit eine Stammeinlage weder von den Zahlungspflichtigen eingebracht werden kann, noch durch Verkauf des Geschäftsanteiles gedeckt wird, haben die übrigen Gesellschafter den Fehlbetrag nach Verhältnis ihrer Stammeinlagen aufzubringen.
 
@@ -1086,7 +1086,7 @@ Bei Gesellschaften, bei denen die Vermögenssubstanz durch den Geschäftsbetrieb
 
 (3) Falls der Geschäftsanteil nicht verkauft worden ist, erwerben die Gesellschafter im Verhältnisse ihrer Beitragsleistung einen Anspruch auf den diesem Geschäftsanteile zufallenden Gewinn und Liquidationserlös. Wenn nachträglich der Verkauf stattfindet, sind aus dem Erlöse den Gesellschaftern die von ihnen geleisteten Beiträge zurückzuerstatten, ein allfälliger Überschuß ist nach Vorschrift des § 68, Absatz 5 zu verwenden.
 
-#### § 71 – § 71.
+#### § 71
 
 Die in den § 67 und 70 bezeichneten Verpflichtungen können weder ganz noch teilweise erlassen werden.
 
@@ -1094,7 +1094,7 @@ Die in den § 67 und 70 bezeichneten Verpflichtungen können weder ganz noch tei
 
 ### Nachschüsse.
 
-#### § 72 – § 72.
+#### § 72
 
 (1) Im Gesellschaftsvertrage kann bestimmt werden, daß die Gesellschafter über den Betrag der Stammeinlagen hinaus die Einforderung von weiteren Einzahlungen (Nachschüssen) beschließen können.
 
@@ -1102,13 +1102,13 @@ Die in den § 67 und 70 bezeichneten Verpflichtungen können weder ganz noch tei
 
 (3) Die Einzahlung der Nachschüsse ist von sämtlichen Gesellschaftern nach Verhältnis ihrer Stammeinlagen zu leisten.
 
-#### § 73 – § 73.
+#### § 73
 
 (1) Ist ein Gesellschafter mit der Einzahlung eines eingeforderten Nachschusses säumig, so finden, wenn nicht gleichzeitig mit der Festsetzung der Nachschußpflicht im Gesellschaftsvertrage eine andere Bestimmung getroffen worden ist, die für die Einzahlung von Stammeinlagen geltenden Vorschriften (§ 66 bis 69) Anwendung.
 
 (2) Ein Rechtsvorgänger haftet nur bis zu dem Betrage, auf den die Nachschußpflicht zur Zeit der Anmeldung seines Austrittes im Gesellschaftsvertrage beschränkt war.
 
-#### § 74 – § 74.
+#### § 74
 
 (1) Eingezahlte Nachschüsse können, soweit sie nicht zur Deckung eines bilanzmäßigen Verlustes am Stammkapital erforderlich sind, an die Gesellschafter zurückgezahlt werden.
 
@@ -1126,7 +1126,7 @@ Die in den § 67 und 70 bezeichneten Verpflichtungen können weder ganz noch tei
 
 ### Die Geschäftsanteile.
 
-#### § 75 – § 75.
+#### § 75
 
 (1) Der Geschäftsanteil jedes Gesellschafters bestimmt sich mangels anderweitiger Festsetzung im Gesellschaftsvertrage nach der Höhe der von ihm übernommenen Stammeinlage.
 
@@ -1136,7 +1136,7 @@ Die in den § 67 und 70 bezeichneten Verpflichtungen können weder ganz noch tei
 
 (4) Die Ausstellung von Dividendenscheinen, von deren Einlieferung die Auszahlung des jährlichen Gewinnes abhängig gemacht wird, ist verboten und wirkungslos.
 
-#### § 76 – § 76.
+#### § 76
 
 (1) Die Geschäftsanteile sind übertragbar und vererblich.
 
@@ -1146,11 +1146,11 @@ Die in den § 67 und 70 bezeichneten Verpflichtungen können weder ganz noch tei
 
 \*(Anm.: Abs. 4 aufgehoben durch Art. 10 Z 1, BGBl. I Nr. 86/2021)*
 
-#### § 77 – § 77.
+#### § 77
 
 Wenn der Gesellschaftsvertrag bestimmt, daß die Zustimmung der Gesellschaft zur Übertragung des Geschäftsanteiles notwendig ist, so kann, falls diese Zustimmung versagt wird, dem betreffenden Gesellschafter, wenn er die Stammeinlage vollständig eingezahlt hat, von dem Handelsgerichte des Sitzes der Gesellschaft die Übertragung des Geschäftsanteiles gestattet werden, wenn ausreichende Gründe für die Verweigerung der Zustimmung nicht vorliegen und wenn die Übertragung ohne Schädigung der Gesellschaft, der übrigen Gesellschafter und der Gläubiger erfolgen kann. Das Gericht hat vor der Entscheidung die Geschäftsführer zu hören. Auch wenn das Gericht die Zustimmung zur Übertragung erteilt hat, kann diese Übertragung dennoch nicht wirksam stattfinden, wenn die Gesellschaft innerhalb eine Monats nach Rechtskraft der Entscheidung dem betreffenden Gesellschafter mittels rekommandierten Schreibens mitteilt, daß sie die Übertragung des betreffenden Geschäftsanteiles zu den gleichen Bedingungen an einen anderen von ihr bezeichneten Erwerber gestatte.
 
-#### § 78 – § 78.
+#### § 78
 
 (1) Im Verhältnis zur Gesellschaft gilt nur derjenige als Gesellschafter, der im Firmenbuch als solcher aufscheint.
 
@@ -1158,7 +1158,7 @@ Wenn der Gesellschaftsvertrag bestimmt, daß die Zustimmung der Gesellschaft zur
 
 (3) Die Ansprüche der Gesellschaft wider den Rechtsvorgänger erlöschen binnen fünf Jahren vom Tage der Anmeldung des Erwerbers.
 
-#### § 79 – § 79.
+#### § 79
 
 (1) Die Teilung eines Geschäftsanteiles ist, den Fall der Vererbung ausgenommen, nur zulässig, wenn im Gesellschaftsvertrage den Gesellschaftern die Abtretung von Teilen eines Geschäftsanteiles gestattet ist. Dabei kann die Zustimmung der Gesellschaft zur Abtretung von Teilen überhaupt oder doch zur Abtretung an Personen, die der Gesellschaft nicht schon als Gesellschafter angehören, vorbehalten werden.
 
@@ -1168,17 +1168,17 @@ Wenn der Gesellschaftsvertrag bestimmt, daß die Zustimmung der Gesellschaft zur
 
 (4) Die Vorschriften des § 78, ferner jene über den Mindestbetrag einer Stammeinlage und über die Mindesteinzahlung darauf finden auch bei der Teilung von Geschäftsanteilen Anwendung.
 
-#### § 80 – § 80.
+#### § 80
 
 (1) Gehört ein Geschäftsanteil mehreren Mitberechtigten, so können sie ihre Rechte daraus nur gemeinschaftlich ausüben. Für Leistungen, die auf den Geschäftsanteil zu bewirken sind, haften sie zur ungeteilten Hand.
 
 (2) Rechtshandlungen, die von der Gesellschaft gegenüber dem Inhaber des Geschäftsanteiles vorzunehmen sind, geschehen, wenn nicht der Gesellschaft ein gemeinsamer Vertreter bekanngegeben worden ist, mit rechtlicher Wirkung gegenüber jedem der Mitberechtigten.
 
-#### § 81 – § 81.
+#### § 81
 
 Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft ist verboten und wirkungslos. Zulässig ist der Erwerb im Exekutionswege zur Hereinbringung eigener Forderungen der Gesellschaft. Auf den unentgeltlichen Erwerb eigener Anteile, auf den Erwerb eigener Anteile im Weg der Gesamtrechtsnachfolge und auf den Erwerb eigener Anteile zur Entschädigung von Minderheitsgesellschaftern sind die entsprechenden, für den Erwerb eigener Aktien geltenden Vorschriften sinngemäß anzuwenden.
 
-#### § 82 – § 82.
+#### § 82
 
 (1) Die Gesellschafter können ihre Stammeinlage nicht zurückfordern; sie haben, solange die Gesellschaft besteht, nur Anspruch auf den nach dem Jahresabschluß als Überschuß der Aktiven über die Passiven sich ergebenden Bilanzgewinn, soweit dieser nicht aus dem Gesellschaftsvertrag oder durch einen Beschluß der Gesellschafter von der Verteilung ausgeschlossen ist.
 
@@ -1190,7 +1190,7 @@ Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft i
 
 (5) Wird den Geschäftsführern oder dem Aufsichtsrate in der Zeit zwischen dem Schlusse des Geschäftsjahres und der Beschlußfassung der Gesellschafter über den Jahresabschluß bekannt, daß der Vermögensstand der Gesellschaft durch eingetretene Verluste oder Wertverminderungen erheblich und voraussichtlich nicht bloß vorübergehend geschmälert worden ist, so ist der nach der Bilanz sich ergebende Gewinn in einem der erlittenen Schmälerung des Vermögens entsprechenden Betrage von der Verteilung ausgeschlossen und auf Rechnung des laufenden Geschäftsjahres zu übertragen.
 
-#### § 83 – § 83.
+#### § 83
 
 (1) Gesellschafter, zu deren Gunsten gegen die Vorschriften dieses Gesetzes, gegen die Bestimmungen des Gesellschaftsvertrages oder entgegen einem Gesellschaftsbeschlusse Zahlungen von der Gesellschaft geleistet worden sind, sind der Gesellschaft zum Rückersatze verpflichtet. Was ein Gesellschafter in gutem Glauben als Gewinnanteil bezogen hat, kann er jedoch in keinem Falle zurückzuzahlen verhalten werden.
 
@@ -1208,7 +1208,7 @@ Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft i
 
 ### Auflösung.
 
-#### § 84 – § 84.
+#### § 84
 
 (1) Die Gesellschaft mit beschränkter Haftung wird aufgelöst:
 
@@ -1248,7 +1248,7 @@ Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft i
 
 \*Anm. 1: Gemäß § 105 Abs. 2 Bankwesengesetz, BGBl. Nr. 532/1993, treten bei Verweisungen auf Bestimmungen des Kreditwesengesetzes an deren Stelle die entsprechenden Bestimmungen des Bankwesengesetzes.)*
 
-#### § 88 – § 88.
+#### § 88
 
 (1) Die Auflösung der Gesellschaft durch Zeitablauf oder Beschluß der Gesellschafter muß durch die Geschäftsführer sofort zum Firmenbuch angemeldet werden. Die von der Verwaltungsbehörde rechtskräftig verfügte Auflösung ist dem Handelsgerichte von Amts wegen mitzuteilen.
 
@@ -1260,7 +1260,7 @@ Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft i
 
 ### Liquidation.
 
-#### § 89 – § 89.
+#### § 89
 
 (1) Der Auflösung der Gesellschaft hat, wenn das Gesetz nichts anderes bestimmt, die Liquidation zu folgen.
 
@@ -1272,7 +1272,7 @@ Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft i
 
 (5) Das in § 24 für die Geschäftsführer ausgesprochene Verbot findet auf die Liquidatoren keine Anwendung.
 
-#### § 90 – § 90.
+#### § 90
 
 (1) Bei der Liquidation kommen die Vorschriften der §§ 149, 150 Abs. 1 und 153 UGB zur Anwendung.
 
@@ -1282,7 +1282,7 @@ Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft i
 
 (4) Die Verwertung des Gesellschaftsvermögens durch Veräußerung des Vermögens als Ganzes kann nur auf Grund eines mit einer Mehrheit von drei Vierteilen der abgegebenen Stimmen gefaßten Beschlusses der Gesellschafter erfolgen.
 
-#### § 91 – § 91.
+#### § 91
 
 (1) Die Liquidatoren haben für den Beginn der Liquidation eine Bilanz (Eröffnungsbilanz) und weiterhin für den Schluß jedes Geschäftsjahres einen Jahresabschluß und einen Lagebericht aufzustellen. § 211 Abs. 1 letzter Halbsatz und Abs. 2 bis 5 des Aktiengesetzes 1965 sind sinngemäß anzuwenden. Die Liquidatoren haben ferner die Auflösung der Gesellschaft in den Bekanntmachungsblättern zu veröffentlichen und dabei die Gläubiger der Gesellschaft aufzufordern, sich bei ihnen zu melden. Bekannte Gläubiger sind hiezu unmittelbar aufzufordern.
 
@@ -1292,13 +1292,13 @@ Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft i
 
 (4) Die von Gläubigern oder Gesellschaftern nicht behobenen Beträge sind vor Beendigung der Liquidation zu Gericht zu erlegen.
 
-#### § 92 – § 92.
+#### § 92
 
 (1) Insoweit die vorstehenden Paragraphen nicht abweichende Anordnungen enthalten, haben alle in diesem Gesetze hinsichtlich der Geschäftsführer getroffenen Bestimmungen sinngemäß auch in Bezug auf die Liquidatoren Anwendung zu finden.
 
 (2) Auch hinsichtlich der Rechtsverhältnisse der Gesellschafter untereinander und gegenüber der Gesellschaft, sowie der Gesellschaft zu dritten Personen, dann der Rechte und Pflichten und der Verantwortlichkeit des Aufsichtsrates kommen die hierüber in diesem Gesetze getroffenen Anordnungen ungeachtet der Auflösung der Gesellschaft bis zur Beendigung der Liquidation zur Anwendung, soweit sich aus den Bestimmungen dieses Abschnittes und dem Zwecke der Liquidation nicht etwas anderes ergibt.
 
-#### § 93 – § 93.
+#### § 93
 
 (1) Nach Beendigung der Liquidation haben die Liquidatoren unter Nachweisung der durch Beschluß der Gesellschafter erwirkten Entlastung bei dem Handelsgerichte um die Löschung der Liquidationsfirma anzusuchen.
 
@@ -1310,7 +1310,7 @@ Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft i
 
 (5) Stellt sich nachträglich noch weiteres, der Verteilung unterliegendes Vermögen heraus, so hat das Handelsgericht der Hauptniederlassung auf Antrag eines Beteiligten die bisherigen Liquidatoren wieder zu berufen oder andere Liquidatoren zu ernennen.
 
-#### § 94 – § 94.
+#### § 94
 
 (1) Die Bestimmungen über die Liquidation gelangen auch dann zur Anwendung, wenn die Auflösung durch Verfügung der Verwaltungsbehörde oder Beschluß des Handelsgerichtes erfolgt.
 
@@ -1318,7 +1318,7 @@ Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft i
 
 (3) Die Einstellung der Tätigkeit der gesellschaftlichen Organe mit der im zweiten Absatze bezeichneten Wirkung kann von der zur Auflösung zuständigen Verwaltungsbehörde auch gegenüber einer aus anderen Gründen aufgelösten Gesellschaft verfügt werden, wenn einer der in § 86 angeführten Fälle eintritt.
 
-#### § 95 – § 95.
+#### § 95
 
 (1) Die Liquidation unterbleibt, wenn der Bund, ein Land oder eine Gemeinde alle Geschäftsanteile einer Gesellschaft mit beschränkter Haftung zwecks Auflösung der Gesellschaft erworben hat oder das Vermögen einer aufgelösten Gesellschaft als Ganzes einschließlich der Schulden durch Vertrag übernimmt und erklärt, in sämtliche Verpflichtungen der Gesellschaft einzutreten, auf die Durchführung der Liquidation zu verzichten und im Fall der Übernahme durch Vertrag auch die Befriedigung der Gesellschafter zu bewirken.
 
@@ -1430,7 +1430,7 @@ Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft i
 
 ### Strafbestimmungen, Schlußbestimmung.
 
-#### § 121 – § 121.
+#### § 121
 
 \*(Anm.: aufgehoben durch Art. III Z 17 BGBl. Nr. 475/1990)*
 
@@ -1440,7 +1440,7 @@ Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft i
 
 > **Beachte:** zum Bezugszeitraum vgl. § 127 Abs. 18
 
-#### § 127 – § 127.
+#### § 127
 
 (1) Mit dem Vollzuge dieses Gesetzes, das drei Monate nach seiner Kundmachung in Wirksamkeit tritt, und mit der Erlassung der zu dessen Durchführung erforderlichen Vorschriften sind Mein Justizminister und Meine Minister des Innern, der Finanzen, des Handels, der Eisenbahnen und des Ackerbaues beauftragt.
 

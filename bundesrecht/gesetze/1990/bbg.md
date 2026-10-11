@@ -1237,13 +1237,17 @@ c) überwiegend vom Bund, von den Ländern, Gemeinden, Gemeindeverbänden oder v
 
 ## Artikel IV
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 4
 
 Dieses Bundesgesetz tritt mit dem 1. Juli 1990 in Kraft.
 
 ## Artikel V
 
-#### Übergangsbestimmungen
+**Übergangsbestimmungen**
+
+#### Art. 5
 
 (1) Soweit in anderen bundesgesetzlichen Vorschriften auf den Invalidenfürsorgebeirat (Bundesgesetz vom 3. Juli 1946, BGBl. Nr. 144) verwiesen wird, erhalten die Verweisungen ihren Inhalt aus Artikel I, Abschnitt II, dieses Bundesgesetzes.
 
@@ -1251,7 +1255,9 @@ Dieses Bundesgesetz tritt mit dem 1. Juli 1990 in Kraft.
 
 ## Artikel VI
 
-#### Vollziehung
+**Vollziehung**
+
+#### Art. 6
 
 Mit der Vollziehung dieses Bundesgesetzes sind betraut:
 

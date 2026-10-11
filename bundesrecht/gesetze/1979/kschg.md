@@ -1043,25 +1043,33 @@ b) soweit er die Exekution zur Sicherstellung auf Grund von Zahlungsaufträgen b
 
 ## Artikel 1
 
-#### *(Anm.: aus BGBl. I Nr. 60/2007, zu § 28a, BGBl. Nr. 140/1979)*
+***(Anm.: aus BGBl. I Nr. 60/2007, zu § 28a, BGBl. Nr. 140/1979)***
+
+#### Art. 1
 
 Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. Nr. L 145 vom 30.04.2004, S. 1) in der Fassung der Richtlinie 2006/31/EG des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2004/39/EG über Märkte für Finanzinstrumente in Bezug auf bestimmte Fristen (ABl. Nr. L 114 vom 27.04.2006, S. 60) und der Richtlinie 2006/73/EG der Kommission zur Durchführung der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates in Bezug auf die organisatorischen Anforderungen an Wertpapierfirmen und die Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie (ABl. Nr. L 241 vom 02.09.2006, S. 26).
 
 ## Artikel 1
 
-#### *(Anm.: aus BGBl. I Nr. 66/2009, zu § 28a, BGBl. Nr. 140/1979)*
+***(Anm.: aus BGBl. I Nr. 66/2009, zu § 28a, BGBl. Nr. 140/1979)***
+
+#### Art. 1
 
 Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2007/64/EG des Europäischen Parlaments und des Rates vom 13. November 2007 über Zahlungsdienste im Binnenmarkt, zur Änderung der Richtlinien 97/7/EG, 2002/65/EG, 2005/60/EG und 2006/48/EG sowie zur Aufhebung der Richtlinie 97/5/EG (ABl. Nr. L 319 vom 5.12. 2007, S. 1) und der Richtlinie 2009/14/EG des Europäischen Parlaments und des Rates vom 11. März 2009 zur Änderung der Richtlinie 94/19/EG über Einlagensicherungssysteme im Hinblick auf die Deckungssumme und die Auszahlungsfrist (ABl. Nr. L 68 vom 13.3.2009, S. 3).
 
 ## Artikel 1
 
-#### *(Anm.: aus BGBl. I Nr. 107/2010, zu§ 28a, BGBl. Nr. 140/1979)*
+***(Anm.: aus BGBl. I Nr. 107/2010, zu§ 28a, BGBl. Nr. 140/1979)***
+
+#### Art. 1
 
 Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2009/110/EG des Europäischen Parlaments und des Rates vom 16. September 2009 über die Aufnahme, Ausübung und Beaufsichtigung der Tätigkeit von E-Geld-Instituten, zur Änderung der Richtlinien 2005/60/EG und 2006/48/EG sowie zur Aufhebung der Richtlinie 2000/46/EG (ABl. Nr. L 267 vom 10.10.2009, S. 7).
 
 ## Artikel 1
 
-#### *(Anm.: aus BGBl. I Nr. 77/2011, zu § 28a, BGBl. Nr. 140/1979)*
+***(Anm.: aus BGBl. I Nr. 77/2011, zu § 28a, BGBl. Nr. 140/1979)***
+
+#### Art. 1
 
 Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2009/65/EG zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. Nr. L 302 vom 17.11.2009, S. 32) sowie der Richtlinie 2010/43/EU zur Durchführung der Richtlinie 2009/65/EG im Hinblick auf organisatorische Anforderungen, Interessenkonflikte, Wohlverhalten, Risikomanagement und den Inhalt der Vereinbarung zwischen Verwahrstelle und Verwaltungsgesellschaft (ABl. L 176 vom 10.07.2010, S. 42) und der Richtlinie 2010/42/EU zur Durchführung der Richtlinie 2009/65/EG in Bezug auf Bestimmungen über Fondsverschmelzungen, Master-Feeder-Strukturen und das Anzeigeverfahren (ABl. L 176 vom 10.07.2010, S. 28) sowie der Richtlinie 2010/78/EU zur Änderung der Richtlinien 98/26/EG, 2002/87/EG, 2003/6/EG, 2003/41/EG, 2003/71/EG, 2004/39/EG, 2004/39/EG, 2004/109/EG, 2005/60/EG, 2006/48/EG, 2006/49/EG und 2009/65/EG im Hinblick auf die Befugnisse der Europäischen Aufsichtsbehörde (Europäische Bankenaufsichtsbehörde), der Europäischen Aufsichtsbehörde (Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung) und der Europäischen Aufsichtsbehörde (Europäische Wertpapier- und Marktaufsichtsbehörde) – ABl. Nr. L 331 vom 15.12.2010, S. 120). Im Rahmen der Neufassung des Investmentfondsgesetzes (Artikel 2) wird auch die bereits mit BGBl. I Nr. 69/2008 umgesetzte Richtlinie 2007/16/EG berücksichtigt.
 
@@ -1069,7 +1077,9 @@ Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2009/65/EG zur Koordinier
 
 ### Umsetzung
 
-#### *(Anm.: aus BGBl. I Nr. 185/1999, zu BGBl. Nr. 140/1979)*
+***(Anm.: aus BGBl. I Nr. 185/1999, zu BGBl. Nr. 140/1979)***
+
+#### Art. 4
 
 Mit diesem Bundesgesetz werden die Richtlinie 97/7/EG über den Verbraucherschutz bei Vertragsabschlüssen im Fernabsatz, ABl. Nr. L 144 vom 4. Juni 1997, S 19, die Richtlinie 97/55/EG zur Änderung der Richtlinie 84/450/EWG über irreführende Werbung zwecks Einbeziehung der vergleichenden Werbung, ABl. Nr. L 290 vom 23. Oktober 1997, S 18, die Richtlinie 98/27/EG über Unterlassungsklagen zum Schutz der Verbraucherinteressen, ABl. Nr. L 166 vom 11. Juni 1998, S 51, und die Richtlinie 99/34/EG zur Änderung der Richtlinie 85/374/EWG des Rates zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Haftung für fehlerhafte Produkte umgesetzt.
 
@@ -1077,7 +1087,9 @@ Mit diesem Bundesgesetz werden die Richtlinie 97/7/EG über den Verbraucherschut
 
 ### Umsetzung
 
-#### *(Anm.: aus BGBl. I Nr. 48/2001, zu BGBl. Nr. 140/1979)*
+***(Anm.: aus BGBl. I Nr. 48/2001, zu BGBl. Nr. 140/1979)***
+
+#### Art. 5
 
 Mit diesem Bundesgesetz wird die Richtlinie 1999/44/EG zu bestimmten Aspekten des Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter, ABl. Nr. L 171 vom 7. Juli 1999, S 12, umgesetzt.
 
@@ -1085,7 +1097,9 @@ Mit diesem Bundesgesetz wird die Richtlinie 1999/44/EG zu bestimmten Aspekten de
 
 ### Umsetzungshinweis
 
-#### *(Anm.: aus BGBl. I Nr. 50/2013, zu § 6a, BGBl. Nr. 140/1979)*
+***(Anm.: aus BGBl. I Nr. 50/2013, zu § 6a, BGBl. Nr. 140/1979)***
+
+#### Art. 9
 
 Mit diesem Bundesgesetz werden die Richtlinie 2011/7/EU zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr, ABl. Nr. L 48 vom 23. Februar 2011, S. 1, und die Richtlinie 2011/90/EU zur Änderung von Anhang I Teil II der Richtlinie 2008/48/EG mit zusätzlichen Annahmen für die Berechnung des effektiven Jahreszinses, ABl. Nr. L 296 vom 15. November 2011, S. 35, umgesetzt.
 
@@ -1131,7 +1145,9 @@ Mit Artikel 1, 3 und 6 dieses Bundesgesetzes wird die Richtlinie (EU) 2023/2673 
 
 ## Artikel II
 
-#### *(Anm.: aus BGBl. Nr. 456/1984, zu den §§ 3, 15, 25, 26, 26a, 26b, BGBl. Nr. 140/1979)*
+***(Anm.: aus BGBl. Nr. 456/1984, zu den §§ 3, 15, 25, 26, 26a, 26b, BGBl. Nr. 140/1979)***
+
+#### Art. 2
 
 1\. Dieses Bundesgesetz tritt mit 1. Jänner 1985 in Kraft.
 
@@ -1159,7 +1175,9 @@ Mit Artikel 1, 3 und 6 dieses Bundesgesetzes wird die Richtlinie (EU) 2023/2673 
 
 ### Inkrafttreten, Aufhebung eines Gesetzes, Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. I Nr. 140/1997, zu § 14 KSchG, BGBl. Nr. 140/1979)*
+***(Anm.: aus BGBl. I Nr. 140/1997, zu § 14 KSchG, BGBl. Nr. 140/1979)***
+
+#### Art. 32
 
 \*(Anm.: Z 1 Inkrafttretensbestimmung)*
 

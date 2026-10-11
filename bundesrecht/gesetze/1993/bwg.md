@@ -7643,7 +7643,9 @@ Mit diesem Bundesgesetz wird die Richtlinie (EU) 2015/2366 über Zahlungsdienste
 
 ### Umsetzungshinweis
 
-#### *(Anm.: aus BGBl. I Nr. 150/2017 zu den §§ 3, 75 und 105, BGBl. Nr. 532/1993)*
+***(Anm.: aus BGBl. I Nr. 150/2017 zu den §§ 3, 75 und 105, BGBl. Nr. 532/1993)***
+
+#### Art. 1
 
 Mit diesem Bundesgesetz werden die erforderlichen Voraussetzungen zur Anwendung der Verordnung (EU) 2016/867 über die Erhebung granularer Kreditdaten und Kreditrisikodaten (EZB/2016/13), ABl. Nr. L 144 vom 01.06.2016 S. 44, geschaffen.
 

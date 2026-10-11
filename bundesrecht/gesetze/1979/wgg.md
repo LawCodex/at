@@ -1,0 +1,1737 @@
+---
+title: "Wohnungsgemeinnützigkeitsgesetz"
+abbreviation: "WGG"
+identifier: "10011509"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 139/1979"
+date: 1979-03-08
+last_amended: 2025-03-19
+last_amendment: "BGBl. I Nr. 12/2025"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1979/139/P0/NOR11011774"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011509"
+retrieved: 2026-10-11
+documents: 83
+---
+
+# Wohnungsgemeinnützigkeitsgesetz (WGG)
+
+Bundesgesetz vom 8. März 1979 über die Gemeinnützigkeit im Wohnungswesen (Wohnungsgemeinnützigkeitsgesetz – WGG)
+
+StF: BGBl. Nr. 139/1979 (NR: GP XIV RV 760 AB 1220 S. 122. BR: 2000 AB 2014 S. 385.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 520/1981 (NR: GP XV RV 425 AB 880 S. 90. BR: S. 415.)  
+BGBl. Nr. 482/1984 (NR: GP XVI RV 246 AB 403 S. 60. BR: AB 2879 S. 452. NR: Einspr. d. BR: 444 AB 478 S. 66.)  
+BGBl. Nr. 559/1985 (NR: GP XVI IA 165/A, 169/A, 170/A AB 800 S. 120. BR: 3044 AB 3045 S. 470.)  
+BGBl. Nr. 325/1986 (NR: GP XVI RV 934 AB 980 S. 143. BR: 3131 AB 3134 S. 477.)  
+BGBl. Nr. 340/1987 (NR: GP XVII IA 93/A AB 214 S. 26. BR: AB 3304 S. 489.)  
+BGBl. Nr. 10/1991 (NR: GP XVIII IA 9/A AB 23 S. 5. BR: AB 4004 S. 535.)  
+BGBl. Nr. 68/1991 (NR: GP XVIII IA 49/A AB 52 S. 13. BR: AB 4019 S. 537.)  
+BGBl. Nr. 606/1991 (VfGH)  
+BGBl. Nr. 827/1992 (NR: GP XVIII RV 670 und 716 AB 815 S. 91. BR: AB 4393 S. 562.)  
+BGBl. Nr. 253/1993 (NR: GP XVIII IA 486/A AB 996 S. 111. BR: 4519 AB 4516 S. 568.)  
+BGBl. Nr. 532/1993 (NR: GP XVIII RV 1130 AB 1170 S. 127. BR: AB 4571 S. 573.)  
+[CELEX-Nr.: 373L0183, 377L0780, 389L0646, 389L0299, 389L0647, 391L0031, 383L0350, 386L0635, 389L0117, 391L0308 (EWR/Anh. IX)] [CELEX-Nr.: 387L0102 (EWR/Anh. XIX)]  
+BGBl. Nr. 800/1993 (NR: GP XVIII IA 579/A AB 1268 S. 134. BR: 4644 AB 4653 S. 575.)  
+BGBl. Nr. 917/1993 (K über Idat)  
+BGBl. I Nr. 22/1997 (NR: GP XX RV 555 AB 573 S. 58. BR: 5382 AB 5384 S. 622.)  
+BGBl. I Nr. 130/1997 (NR: GP XX RV 887 AB 901 S. 94. BR: 5559 AB 5562 S. 632.)  
+BGBl. I Nr. 140/1997 (NR: GP XX RV 898 AB 1002 S. 104. BR: AB 5602 S. 634.)  
+BGBl. I Nr. 147/1999 (NR: GP XX AB 2056 S. 181. BR: 6014 AB 6060 S. 657.)  
+BGBl. I Nr. 26/2000 (NR: GP XXI RV 61 AB 67 S. 20. BR: 6095 AB 6098 S. 664.)  
+[CELEX-Nr.: 392L0079]  
+BGBl. I Nr. 36/2000 (NR: GP XXI IA 129/A AB 122 S. 29. BR: AB 6151 S. 666.)  
+BGBl. I Nr. 142/2000 (NR: GP XXI RV 311 AB 369 S. 45. BR: 6250 und 6251 AB 6268 S. 670.)  
+BGBl. I Nr. 47/2001 (NR: GP XXI RV 499 AB 539 S. 61. BR: 6327 AB 6338 S. 676.)  
+BGBl. I Nr. 136/2001 (NR: GP XXI RV 742 AB 824 S. 81. BR: 6458 AB 6459 S. 681.)  
+BGBl. I Nr. 162/2001 (NR: GP XXI IA 529/A AB 890 S. 83. BR: AB 6526 S. 682.)  
+BGBl. I Nr. 71/2002 (NR: GP XXI AB 1051 S. 97. BR: AB 6617 S. 686.)  
+BGBl. I Nr. 5/2003 (VfGH)  
+BGBl. I Nr. 63/2003 (NR: GP XXII IA 170/A AB 192 S. 27. BR: AB 6841 S. 700.)  
+BGBl. I Nr. 113/2003 (NR: GP XXII RV 249 AB 270 S. 38. BR: AB 6897 S. 703.)  
+BGBl. I Nr. 124/2006 (NR: GP XXII RV 1183 AB 1530 S. 153. Einspr. d. BR.:1623 AB 1628 S. 160. BR: AB 7587 S. 736.)  
+BGBl. I Nr. 25/2009 (NR: GP XXIV IA 513/A AB 122 S. 16. BR: AB 8090 S. 768.)  
+BGBl. I Nr. 135/2009 (NR: GP XXIV RV 485 AB 558 S. 49. BR: 8217 AB 8228 S. 780.)  
+BGBl. I Nr. 51/2013 (NR: GP XXIV AB 2179 S. 191. BR: AB 8911 S. 818.)  
+BGBl. I Nr. 100/2014 (NR: GP XXV RV 352 AB 386 S. 55. BR: AB 9310 S. 837.)  
+BGBl. I Nr. 157/2015 (NR: GP XXV RV 895 AB 965 S. 107. BR: AB 9504 S. 849.)  
+BGBl. I Nr. 26/2018 (NR: GP XXVI AB 90 S. 19. BR: AB 9951 S. 879.)  
+BGBl. I Nr. 69/2018 (NR: GP XXVI RV 254 AB 264 S. 39. BR: AB 10027 S. 884.)  
+BGBl. I Nr. 85/2019 (NR: GP XXVI IA 907/A AB 653 S. 86. BR: AB 10202 S. 896.)  
+BGBl. I Nr. 104/2019 (NR: GP XXVI IA 985/A AB 692 S. 88. BR: AB 10252 S. 897.)  
+BGBl. I Nr. 88/2022 (NR: GP XXVII IA 2571/A AB 1522 S. 160. BR: AB 10988 S. 942.)  
+BGBl. I Nr. 176/2023 (NR: GP XXVII IA 3558/A AB 2398 S. 247. BR: AB 11394 S. 961.)  
+BGBl. I Nr. 12/2025 (NR: GP XXVIII IA 76/A AB 35 S. 11. BR: AB 11622 S. 975.)  
+
+</details>
+
+> **Anmerkung:** Erfassungsstichtag: 1.9.1993
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+## ARTIKEL I
+
+##### Art. 1 § 1 – Gegenstand und Anwendungsbereich des Gesetzes
+
+§ 1. (1) Bauvereinigungen in den Rechtsformen einer Genossenschaft, einer Gesellschaft mit beschränkter Haftung und einer Aktiengesellschaft, die ihren Sitz im Inland haben, sind von der Landesregierung als gemeinnützig anzuerkennen, wenn sie die in den Bestimmungen dieses Bundesgesetzes vorgesehenen Bedingungen erfüllen.
+
+(2) Bauvereinigungen, die auf Grund dieses Bundesgesetzes als gemeinnützig anerkannt wurden, haben ihre Tätigkeit unmittelbar auf die Erfüllung dem Gemeinwohl dienender Aufgaben des Wohnungs- und Siedlungswesens zu richten, ihr Vermögen der Erfüllung solcher Aufgaben zu widmen und ihren Geschäftsbetrieb regelmäßig prüfen und überwachen zu lassen. Auf gemeinnützige Bauvereinigungen finden die Bestimmungen der Gewerbeordnung 1994, BGBl. Nr. 194, keine Anwendung.
+
+(3) Das von gemeinnützigen Bauvereinigungen nach den Grundsätzen ordnungsgemäßer Wirtschaftsführung erwirtschaftete Eigenkapital ist im Sinne eines Generationenausgleichs zur Sicherung einer nachhaltigen Wohnversorgung bestehender und zukünftiger Nutzer auf Dauer für Zwecke des gemeinnützigen Wohnungswesens gebunden und zu verwenden.
+
+##### Art. 1 § 2 – Begriffsbestimmungen
+
+§ 2. Im Sinne der Bestimmungen dieses Bundesgesetzes gelten:
+
+1\. als Errichtung die wirtschaftliche und technische Vorbereitung der Baulichkeiten, wobei die Verfassung von Plänen für die Einreichung bei der Behörde und die Ausführungsarbeiten von den hiezu befugten Personen vorzunehmen sind, die Überwachung der Ausführungsarbeiten, die Vornahme der Kostenabrechnungen und Durchführung der damit zusammenhängenden Verwaltungsarbeiten; der Errichtung ist die Sanierung größeren Umfanges durch die gleichzeitige Vornahme von Erhaltungs- beziehungsweise Verbesserungsarbeiten gleichzusetzen, sofern nach Abschluß der Sanierung die allgemeinen Teile der Baulichkeit und mindestens die Hälfte der Wohnungen den Erfordernissen gemäß Z 2 entsprechen;
+
+2\. als normale Ausstattung eine Ausstattung, die bei größter Wirtschaftlichkeit des Baukostenaufwandes unter Bedachtnahme auf die Betriebs- und Instandhaltungskosten und bei einwandfreier Ausführung nach dem jeweiligen Stand der Technik, insbesondere hinsichtlich des Schall-, Wärme-, Feuchtigkeits- und Abgasschutzes sowie der Anschlußmöglichkeit an Fernwärme in hiefür in Betracht kommenden Gebieten, den zeitgemäßen Wohnbedürfnissen entspricht; sie umfaßt jedenfalls ausreichende Anschlußmöglichkeiten für Sanitäreinrichtungen und Haushaltsgeräte, muß jedoch nicht die Oberflächenendausführung im Inneren der Wohnung umfassen; sie umfaßt jedenfalls auch eine verpflichtend vorgeschriebene Gestaltung nach den Erfordernissen barrierefreien Bauens;
+
+3\. als Heim eine zur Befriedigung des regelmäßigen Wohnbedürfnisses ihrer Bewohner bestimmte Baulichkeit in normaler Ausstattung, die neben den Wohn- oder Schlafräumen auch die für die Verwaltung und für die Unterbringung des Personals erforderlichen Räume und allenfalls auch gemeinsame Küchen, Speise-, Aufenthalts- und zur vorübergehenden Unterbringung von Heimbewohnern bestimmte Krankenräume sowie allenfalls gemeinsame Anlagen enthält.
+
+##### Art. 1 § 3 – Eignung
+
+§ 3. Eine Bauvereinigung muss nach ihrem Aufbau, insbesondere der Eignung und Zuverlässigkeit ihrer Eigentümer und Organwalter sowie ihrer wirtschaftlichen Leistungsfähigkeit, insbesondere ihrer Eigenkapitalausstattung (§ 6), als geeignet erscheinen, einen entsprechenden Beitrag zur Befriedigung der Nachfrage nach Wohnungen zu leisten.
+
+##### Art. 1 § 4 – Satzung
+
+§ 4. Der Genossenschaftsvertrag, der Gesellschaftsvertrag oder die Satzung muß diesem Bundesgesetz entsprechen und den örtlichen Geschäftsbereich festlegen.
+
+##### Art. 1 § 5 – Zugehörigkeit zu einem Revisionsverband
+
+§ 5. (1) Die Bauvereinigung hat ohne Rücksicht auf die Rechtsform, in der sie errichtet wurde, einem nach dem Genossenschaftsrevisionsgesetz 1997, BGBl. I Nr. 127 zulässigen Revisionsverband anzugehören, der über einen eigenen, den Voraussetzungen des Genossenschaftsrevisionsgesetz 1997 und des Abschlussprüfer-Aufsichtsgesetz, BGBl. I Nr. 83/2016, genügenden, ständigen Prüfungsbetrieb verfügt, dessen Tätigkeitsbereich sich auf das gesamte Bundesgebiet erstreckt und dessen Satzung vorsieht, daß die Aufnahme einer als gemeinnützig anerkannten Bauvereinigung nicht abgelehnt werden kann und die Prüfung auch die Einhaltung der Bestimmungen dieses Bundesgesetzes einschließt. Unter diesen Voraussetzungen kommt einem Revisionsverband hinsichtlich der Gebühren- und Abgabenbefreiung sowie der Bestimmung über die Nichtanwendung der Gewerbeordnung 1994 die Rechtsstellung einer gemeinnützigen Bauvereinigung zu.
+
+(2) Der Bundesminister für wirtschaftliche Angelegenheiten kann durch Verordnung Prüfungsrichtlinien erlassen, die Regelungen über den Gegenstand, die Durchführung und die Auswertung der Prüfung, insbesondere Vorschriften über die Feststellung der wirtschaftlichen Verhältnisse und der Ordnungsmäßigkeit der Geschäftsgebarung, die Vorbereitung und den Verlauf der Prüfung sowie die Art und den Umfang der Berichterstattung zu enthalten haben. In der Verordnung ist insbesondere die Prüfung der Einhaltung des gesetzlichen Wirkungsbereiches der Bauvereinigung vorzusehen. Vor Erlassung der Verordnung ist auch jeder Revisionsverband im Sinne des Abs. 1 anzuhören.
+
+(3) Auf einen Revisionsverband im Sinne des Abs. 1 ist § 19a Genossenschaftsrevisionsgesetz 1997, BGBl. I Nr. 127/1997, nicht anzuwenden.
+
+> **Beachte:** Der zeitliche Anwendungsbereich wird gemäß § 8 ABGB bestimmt (vgl. Art. IV Abs. 1v).
+
+##### Art. 1 § 6 – Mindestanzahl der Genossenschafter und Mindestkapital
+
+§ 6. (1) Der Geschäftsanteil an einer Bauvereinigung in der Rechtsform einer Genossenschaft muß mindestens 218 € betragen und muß voll eingezahlt sein. Die Zahl der Genossenschafter hat mindestens 60 zu betragen. Kein Genossenschafter darf über mehr als eine Stimme in der Generalversammlung verfügen, sofern die Geschäftsanteile nicht mehrheitlich im Eigentum einer oder mehrerer Gebietskörperschaften stehen.
+
+(2) Das Mindeststammkapital einer Bauvereinigung in der Rechtsform einer Gesellschaft mit beschränkter Haftung sowie das Mindestgrundkapital einer Bauvereinigung in der Rechtsform einer Aktiengesellschaft hat jeweils drei Mio. € zu betragen und muß voll eingezahlt sein. Die Aktien müssen auf Namen lauten. Die Umwandlung dieser Aktien in Inhaberaktien muß im Gesellschaftsvertrag ausgeschlossen sein.
+
+(3) Die Übertragung von Geschäftsanteilen an einer Gesellschaft mit beschränkter Haftung oder die Übertragung von Aktien muß an die Zustimmung des Aufsichtsrates gebunden sein.
+
+##### Art. 1 § 7 – Geschäftskreis
+
+§ 7. (1) Die Bauvereinigung hat sich nach ihrem Genossenschaftsvertrag (Gesellschaftsvertrag, Satzung) und tatsächlich mit der Errichtung und Verwaltung von Wohnungen mit einer Nutzfläche von höchstens 150 m<sup>2</sup> mit normaler Ausstattung, von Eigenheimen mit höchstens zwei Wohnungen dieser Art und von Heimen sowie mit Sanierungen größeren Umfanges im Inland zu befassen und ihr Eigenkapital vornehmlich für diese Zwecke einzusetzen. Diesfalls wird die Bauvereinigung im eigenen Namen und auf eigene Rechnung tätig. Mit der Errichtung und Verwaltung zusammenhängende Geschäfte und Tätigkeiten können auch für andere gemeinnützige Bauvereinigungen vorgenommen werden. Die Verwaltung schließt alle Maßnahmen der Gebäudebewirtschaftung einschließlich deren Finanzierung, insbesondere die Instandhaltung und Instandsetzung samt der Errichtung von Hauswerkstätten zur Durchführung kleinerer Instandhaltungs- und Instandsetzungsarbeiten im Umfang des nötigen Bedarfs sowie die befugte Ausstellung von Energieausweisen und die Verbesserung mit ein.
+
+(1a) Zu den Hauptgeschäften einer Bauvereinigung gehören auch:
+
+1\. alle Rechtsgeschäfte, die mit der Errichtung, Erwerbung, Finanzierung und Überlassung ihrer Bauten und Anlagen in dem üblichen Rahmen ordnungsmäßiger Wohnungswirtschaft zusammenhängen, insbesondere der Erwerb, die Belastung und Übertragung von Grundstücken und Baurechten, der Erwerb von Grundstücken und deren Veräußerung oder die Übertragung im Baurecht an andere Bauvereinigungen, die Einräumung des Eigentums (Miteigentum, Wohnungseigentum) und die Aufnahme von Zwischenkrediten und Baudarlehen;
+
+2\. alle Rechtsgeschäfte, die mit der nachträglichen Übertragung des Eigentums (Miteigentum, Wohnungseigentum) an Wohnungen und Geschäftsräumen an die bisherigen Mieter und sonstigen Nutzungsberechtigten gem. § 15c zusammenhängen.
+
+(2) Die Verwaltung erstreckt sich auch auf Wohnhäuser, Eigenheime, Wohn-, Geschäfts- und Büroräume, Gemeinschaftseinrichtungen, Einstellplätze (Garagen), Abstellplätze oder Heime, welche von einer gemeinnützigen Bauvereinigung, einer Beteiligungsgesellschaft gemäß § 7 Abs. 4 oder 4b, einer Gebietskörperschaft oder einem Unternehmen, das mindestens zu 50 vH im Eigentum einer Gebietskörperschaft steht, errichtet oder – sei es auch nur als Mehrheitseigentümer – erworben wurden.
+
+(3) Die Bauvereinigung hat überwiegend die in Abs. 1 bis 2 genannten Geschäfte zu betreiben. Neben diesen Geschäften darf die Bauvereinigung unbeschadet des Abs. 4 nachfolgende Geschäfte im Inland betreiben:
+
+1\. die Errichtung von Wohnungen und Eigenheimen im Sinne des Abs. 1 sowie von Heimen im fremden Namen;
+
+2\. die Errichtung von Geschäftsräumen im eigenen oder fremden Namen im Zuge der Errichtung von Wohnungen, Eigenheimen oder Heimen, sofern die Nutzfläche (§ 16) aller Geschäftsräume eines Bauvorhabens ein Drittel der Gesamtnutzfläche nicht übersteigt oder, falls ein dieses Maß übersteigender Anteil an Geschäftsräumen baubehördlich vorgeschrieben ist, die Nutzflächen der Wohnungen überwiegen;
+
+3\. die Errichtung von Einstellplätzen (Garagen) oder Abstellplätzen im eigenen oder fremden Namen, soweit sie überwiegend zur Befriedigung des Bedarfs der Benützer der in Abs. 1 oder in diesem Absatz genannten Räumlichkeiten dienen;
+
+4\. die Errichtung, Erwerbung und den Betrieb von Gemeinschaftseinrichtungen (einschließlich Einrichtungen zur Erzeugung und Versorgung mit erneuerbarer Energie), die den Bewohnern der von der Bauvereinigung errichteten oder verwalteten Wohnungen dienen, einschließlich der von der Bauvereinigung zur Verwaltung benötigten Räumlichkeiten sowie die Errichtung und Erwerbung von Gemeinschaftseinrichtungen zur Befriedigung des Bedarfs der Wohnbevölkerung, soweit der Betrieb dieser Einrichtungen nicht den Bestimmungen der Gewerbeordnung 1994. unterliegt;
+
+4a. die Durchführung von anderen Maßnahmen zur Verbesserung des Wohnumfeldes; als solche gelten nur Maßnahmen, die zeitlich und räumlich in unmittelbarem Zusammenhang mit der Errichtung und Sanierung von Gebäuden oder Wohnhausanlagen stehen, vorwiegend deren Bewohnern dienen und für die eine Förderung aus öffentlichen Mitteln für den Wohnbau und die Wohnhaussanierung gewährt wird;
+
+4b. die Verwaltung von Baulichkeiten, die im Miteigentum der verwaltenden Bauvereinigung stehen oder an denen sie eine Sanierung größeren Umfanges durchgeführt hat oder deren Errichtung aus öffentlichen Mitteln gefördert wurde;
+
+5\. die Übernahme von aus öffentlichen Mitteln geförderten Aufgaben der Wohnhaussanierung, von Maßnahmen der Stadt- oder Dorferneuerung insbesondere im Rahmen von Stadt- oder Dorferneuerungsplänen von Gemeinden und von Assanierungen und Aufgaben nach dem Stadterneuerungsgesetz BGBl. Nr. 287/1974;
+
+6\. alle Rechtsgeschäfte, die – unter Bedachtnahme auf die Grundsätze des § 23 – mit der nachträglichen Übertragung des Eigentums (Miteigentum, Wohnungseigentum) an ihren Bauten und Anlagen zusammenhängen, sofern es sich nicht um Rechtsgeschäfte gemäß § 7 Abs. 1a Z 2 handelt und keine ausdrückliche Zustimmung der Landesregierung gemäß § 10a Abs. 1 lit. d und e erforderlich ist;
+
+\*(Anm.: Z 6a aufgehoben durch Z 6, BGBl. I Nr. 85/2019)*
+
+7\. die Entgegennahme von Geldern von Genossenschaftern, Gesellschaftern und Aktionären auch in Form von Darlehen, Einlagen und dergleichen;
+
+8\. den Erwerb von Baustoffen und Ausstattungsgegenständen, die zur Errichtung von Baulichkeiten gemäß Abs. 1 und den Z. 1 und 2 dieses Absatzes oder zur Instandhaltung, Instandsetzung und Verbesserung von verwalteten Baulichkeiten bestimmt sind;
+
+9\. die Beteiligung an gemeinnützigen Bauvereinigungen sowie die Mitgliedschaft bei nicht auf Gewinn ausgerichteten Vereinen, deren Tätigkeit die Förderung des Wohnungs- und Siedlungswesens zum Ziel hat.
+
+10\. die Beteiligung an Kreditunternehmungen in der Rechtsform der Genossenschaft mit beschränkter Haftung, soweit sie im gegebenen Fall zur Kreditbeschaffung für die Bauvereinigung erforderlich ist, die Beteiligung an Wohnbaubanken gemäß § 1 Abs. 2 Z 1 lit. a des Bundesgesetzes über Steuerliche Sondermaßnahmen zur Förderung des Wohnbaus, BGBl. Nr. 253/1993, sowie die Beteiligung an Bausparkassen gemäß § 1 Abs. 1 des Bausparkassengesetzes, BGBl. Nr. 532/1993, und den Abschluss von Bausparverträgen als Bausparer, wobei bei allen Beteiligungen gemäß § 7 Abs. 3 keine übermäßige Kapitalbindung erfolgen darf;
+
+11\. die Einrichtung von Stellen, die sich unentgeltlich mit der Auskunftserteilung über Bauvorhaben und über bestehende Bauten gemeinnütziger Bauvereinigungen und mit der Information von Wohnungsuchenden und Wohnungsinhabern (Mitgliedern) über rechtliche, technische und finanzielle Belange befassen;
+
+12\. die Betreuung von Tochtergesellschaften gemäß Abs. 4b;
+
+13\. die Zurverfügungstellung von Wohnraum im Sinne des § 1 Abs. 2 lit. 1a MRG.
+
+(3a) Auf Antrag der Bauvereinigung hat die Landesregierung im Zweifelsfall bescheidmäßig festzustellen, ob ein geplantes Geschäft oder eine geplante Beteiligung unter Abs. 1 bis 3 fällt oder nicht.
+
+(4) Andere im Rahmen ordnungsmäßiger Wirtschaftsführung notwendig werdende Geschäfte einer Bauvereinigung als die in den Abs. 1 bis 3 angeführten bedürfen der Zustimmung der Landesregierung. Der Beteiligung einer gemeinnützigen Bauvereinigung an anderen als den in Abs. 3 Z. 9 und 10 angeführten Unternehmungen darf die Landesregierung nur zustimmen, wenn
+
+1\. dies zur Durchführung der Aufgaben der Bauvereinigung erforderlich ist,
+
+2\. die Unternehmung in der Rechtsform einer Kapitalgesellschaft errichtet ist und
+
+3\. das Kapital der Bauvereinigung durch die Beteiligung nicht übermäßig gebunden wird sowie
+
+4\. im Gesellschaftsvertrag sichergestellt ist, dass die Bestimmung des § 9a Abs. 2a eingehalten wird.
+
+(4a) Im Zusammenhang mit der Gebäudebewirtschaftung (Abs. 1 vierter Satz) erbrachte wohnungsbezogene Dienstleistungen, die vorwiegend den Bewohnern der von der Bauvereinigung verwalteten Wohnungen dienen, bedürfen nicht der Zustimmung der Landesregierung.
+
+(4b) Die Beteiligung einer Bauvereinigung an anderen als den in Abs. 3 Z 9 und 10 angeführten Unternehmungen bedarf nicht der Zustimmung der Landesregierung, wenn
+
+1\. die Unternehmung in der Rechtsform einer Gesellschaft mit beschränkter Haftung errichtet ist,
+
+2\. die Gesellschaft ihren Geschäftskreis auf Tätigkeiten im Sinne der Abs. 1 bis 3 und 4a sowie einem Mutterunternehmen gemäß Z 3 ausdrücklich genehmigte Geschäfte gemäß Abs. 4 beschränkt, wobei die Beschränkung auf das Inland nicht und die Beschränkungen des § 7 Abs. 3 Z 4a zweiter Halbsatz dann nicht gelten, wenn es sich um öffentliche Auftraggeber handelt,
+
+3\. die Mehrheit der Anteile im Eigentum der Bauvereinigung oder anderer Bauvereinigungen stehen und
+
+4\. das Kapital der Bauvereinigung durch die Beteiligung nicht übermäßig gebunden wird sowie
+
+5\. im Gesellschaftsvertrag sichergestellt ist, dass die Bestimmung des § 9a Abs. 2a eingehalten wird.
+
+Die Gesellschaft gilt diesfalls als Unternehmen im Sinne des § 1 Abs. 2 des Genossenschaftsrevisionsgesetzes 1997 der beteiligten Bauvereinigung(en).
+
+(4c) Alle gemäß § 6a Körperschaftsteuergesetz gestellten Anträge für Geschäfte und Beteiligungen gemäß Abs. 4 bis 4b sind von der Bauvereinigung unverzüglich dem Revisionsverband und die dazu ergangenen Bescheide sind von den Finanzbehörden unverzüglich dem Revisionsverband zu übermitteln.
+
+(4d) Mit Geschäften gemäß Abs. 1 bis 3 artverwandte Maßnahmen zugunsten der sozialen Infrastruktur sind grundsätzlich genehmigungsfähig, wenn sie öffentlich finanziert, gefördert oder beauftragt sind. Gleiches gilt für Beherbergungsbetriebe ohne touristische Nutzung gemäß § 20 Abs. 1 Z 1 lit. c sublit. aa die keine Heime im Sinne des § 2 Z 3 sind.
+
+(4e) Der Bundesminister für Wirtschaft und Arbeit kann durch Verordnung nähere Bestimmungen zu Abs. 4 festlegen. Vor Erlassung ist auch jeder Revisionsverband im Sinne des § 5 Abs. 1 zu hören.
+
+(5) Hat eine Bauvereinigung Wohnungen im eigenen Namen tatsächlich errichtet und muß sie diese Tätigkeit später wegen Fehlens der wirtschaftlichen Voraussetzungen (Wohnungsbedarf oder Finanzierungsmöglichkeit) zeitweise einstellen, so hat sie bei der Landesregierung einen Antrag auf Bewilligung der Unterbrechung der Bautätigkeit einzubringen. Die Landesregierung kann nach Anhörung der nach dem Sitz der Bauvereinigung zuständigen Finanzbehörde einen Zeitraum von höchstens drei Jahren festlegen, innerhalb dessen die Bautätigkeit unterbrochen werden darf. Über Antrag der Bauvereinigung kann die Unterbrechung der Bautätigkeit bei Vorliegen der Voraussetzungen auch auf weitere drei Jahre bewilligt werden.
+
+(6) Verfügt eine Bauvereinigung über Eigenkapital, das nicht zur Deckung langfristiger Vermögensbestände oder der vorausschauenden Sicherung des laufenden Geschäftsbetriebes und sich daraus ergebender Finanzierungserfordernisse unter Berücksichtigung einer Liquiditätsreserve von 20 vH verwendet wurde, so hat sie dieses Eigenkapital (Reservekapital) innerhalb der folgenden zwei Geschäftsjahre für Geschäfte im Sinne der Abs. 1 bis 4b zu widmen. In diesen Zeitraum werden Geschäftsjahre, für die im Sinne des Abs. 5 von der Landesregierung festgelegt wurde, daß die Bautätigkeit unterbrochen werden darf, nicht eingerechnet.
+
+(6a) Der Bundesminister für Finanzen hat im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit bei einer Änderung der wirtschaftlichen Voraussetzungen im Sinne des Abs. 5 (Wohnungsbedarf oder Finanzierungsmöglichkeiten) durch Verordnung Richtlinien zu erlassen, die eine Erhöhung der zulässigen Liquiditätsreserve und des Verwendungszeitraumes gemäß Abs. 6 auf höchstens 110 vH bzw. fünf Jahre vorsehen. Vor Erlassung einer Verordnung ist auch jeder Revisionsverband im Sinne des § 5 Abs. 1 anzuhören.
+
+(7) Auf gemeinnützige Bauvereinigungen sind die §§ 22 Abs. 1 Z 1, 23 und 24 Unternehmensreorganisationsgesetz, BGBl. I Nr. 114/1997, nicht anzuwenden.
+
+> **Anmerkung:** ÜR: Art. II Z 3 lit. b, BGBl. Nr. 253/1993
+
+> **Beachte:** zum Bezugszeitraum vgl. § 39 Abs. 36
+
+##### Art. 1 § 8 – Personenkreis
+
+§ 8. (1) Eine Bauvereinigung darf, vorbehaltlich der Abs. 4 und 5, die Überlassung von Wohnungen zum Gebrauch und die Übertragung des Eigentums oder die Einräumung des Wohnungseigentums nicht auf bestimmte Personen, eine bestimmte Anzahl von Personen oder einen bestimmten Personenkreis beschränken.
+
+(2) Eine zulässige Beschränkung liegt jedoch vor, wenn
+
+1\. eine Bauvereinigung ihre Tätigkeit auf Angehörige bestimmter Unternehmen (Betriebe) oder eines bestimmten Berufes beschränkt,
+
+2\. eine Bauvereinigung sich verpflichtet, gegen die Gewährung von angemessenen Finanzierungshilfen Wohnungen zur Benützung durch die in Z. 1 genannten Personen zur Verfügung zu halten,
+
+3\. eine Bauvereinigung in der Rechtsform der Genossenschaft Wohnungen ausschließlich ihren Mitgliedern überläßt oder
+
+4\. eine Bauvereinigung eine bestimmte Anzahl von Wohnungen an Personen überläßt, die von einer Gebietskörperschaft namhaft gemacht werden.
+
+(3) Bei der, vorbehaltlich wohnbauförderungsrechtlicher Vorschriften der Länder, grundsätzlich unbefristeten Vergabe von Wohnungen hat sich die Bauvereinigung von objektiven Gesichtspunkten, insbesondere dem Wohnungsbedarf, der Haushaltsgröße und den Einkommensverhältnissen der Wohnungswerber, leiten zu lassen. Unbeachtlich dieser Vorgaben können Personen, die als Opfer von Gewalt unter dem Schutz einstweiliger Verfügungen gemäß den §§ 382b oder 382e EO auf Grund des Zweiten Gewaltschutzgesetzes, BGBl. I Nr. 40/2009, stehen, bei der Wohnungsvergabe bevorzugt werden. Die Vergabe darf, vorbehaltlich § 20 Abs. 1 Z 1 lit. c sublit. ee, nicht zur kurzfristigen gewerblichen (gewerbsmäßigen) Nutzung für touristische Beherbergungszwecke erfolgen.
+
+(4) Sämtliche Tätigkeiten einer gemeinnützigen Bauvereinigung gemäß Abs. 3 sind vorrangig zugunsten einer Wohnversorgung von österreichischen Staatsbürgern, gemäß Abs. 5 gleichgestellten Personen sowie Ausländern auszurichten, die sich seit mehr als fünf Jahren ununterbrochen und legal in Österreich aufhalten und ein Prüfungszeugnis des Österreichischen Integrationsfonds (ÖIF) nachweisen.
+
+(5) Österreichischen Staatsbürgern sind gleichgestellt:
+
+1\. Ausländer, die die österreichische Staatsbürgerschaft nach dem 6. März 1933 verloren haben, aus politischen, rassischen oder religiösen Gründen aus Österreich auswandern mussten, wieder nach Österreich zurückgekehrt sind und beabsichtigen, sich ständig in Österreich niederzulassen;
+
+2\. Personen, die österreichischen Staatsbürgern im Hinblick auf den Erhalt von Förderungen durch Staatsverträge gleichgestellt sind;
+
+3\. Personen, die durch das Abkommen über den Europäischen Wirtschaftsraum begünstigt sind.
+
+(6) Die Voraussetzung eines Prüfungszeugnisses des Österreichischen Integrationsfonds (ÖIF) über die erfolgreiche Absolvierung einer Integrationsprüfung gemäß Abs. 4 müssen nicht erfüllt werden, wenn:
+
+1\. dies einer Person aufgrund eines physisch oder psychisch dauerhaft schlechten Gesundheitszustandes nicht zugemutet werden kann, wobei der Nachweis durch ein amtsärztliches Gutachten zu erfolgen hat, oder
+
+2\. es sich um Personen handelt, die nach Vollendung des 60. Lebensjahres erstmals ihren Hauptwohnsitz in Österreich begründet haben.
+
+##### Art. 1 § 9 – Unabhängigkeit von Angehörigen des Baugewerbes
+
+§ 9. (1) Die Bauvereinigung darf nicht unter dem überwiegenden Einfluß von Personen oder Personengesellschaften stehen, die
+
+1\. ein Unternehmen des Baugewerbes, der Bauindustrie, der Baumaterialienerzeugung oder des Baumaterialienhandels oder sonstige Geschäfte für den Wohnungsbau betreiben,
+
+2\. das Gewerbe eines Bauträgers, eines Immobilienmaklers, der Immobilienverwaltung oder der Personalkreditvermittlung im Sinne der Gewerbeordnung 1994 ausüben,
+
+3\. an solchen Unternehmen oder Gewerben allein oder zusammen mit Personen, die ihnen gemäß § 9a Abs. 4 gleichzuhalten sind, zu mehr als einem Viertel beteiligt sind,
+
+4\. Mitglieder eines Organes oder leitende Angestellte solcher Unternehmen oder Gewerbe sind, oder
+
+5\. hauptberuflich auf einem einschlägigen Fachgebiet die Tätigkeit eines Ziviltechnikers im Sinne des Ziviltechnikergesetzes 1993, BGBl. Nr. 156/1994, ausüben.
+
+(2) Überwiegender Einfluß liegt insbesondere vor, falls Personen im Sinne des Abs. 1 in der General- oder Hauptversammlung sowie im Vorstand oder Aufsichtsrat der Bauvereinigung über mehr als ein Viertel der Stimmen verfügen.
+
+(3) Eine Bauvereinigung darf nicht unter dem überwiegenden Einfluß einer Privatstiftung stehen, die auf Grund der dem Stifter eingeräumten Rechte oder der Besetzung des Vorstandes oder Aufsichtsrates oder eines allfälligen Beirates unter dem überwiegenden Einfluß von Personen oder Personengesellschaften steht, die gemäß Abs. 1 und Abs. 2 ausgeschlossen sind; dies gilt auch für Personen im Sinne des § 9a Abs. 4 und Arbeitnehmer von Unternehmen des Baugewerbes als Mitglieder von Organen einer Privatstiftung.
+
+##### Art. 1 § 9a – Unwirksame und genehmigungspflichtige Rechtsgeschäfte
+
+§ 9a. (1) Rechtsgeschäfte einer Bauvereinigung im Rahmen der Vermögensverwaltung und gemäß § 7 mit Personen im Sinne des § 9 Abs. 1, die dem Vorstand (Geschäftsführung) oder dem Aufsichtsrat der Bauvereinigung angehören, sind rechtsunwirksam.
+
+(2) Rechtsgeschäfte einer Bauvereinigung gemäß Abs. 1
+
+1\. mit anderen Mitgliedern ihres Vorstandes (Geschäftsführung) oder ihres Aufsichtsrates sowie
+
+2\. mit Personen im Sinne des § 9 Abs. 1, die dem Vorstand (Geschäftsführung) oder dem Aufsichtsrat nicht angehören, aber an der Bauvereinigung mit Kapitaleinlagen beteiligt sind,
+
+dürfen, bei sonstiger Rechtsunwirksamkeit, nur abgeschlossen werden, wenn der Aufsichtsrat dem Vertragsabschluß einstimmig zugestimmt hat; dies gilt auch für deren nahe Angehörige im Sinn des Abs. 4 sowie bei gemeinsam finanzierten Rechtsgeschäften für alle beteiligten Bauvereinigungen.
+
+(2a) Rechtsgeschäfte von Gesellschaften gemäß § 7 Abs. 4 und 4b mit Mitgliedern des Vorstandes (Geschäftsführung) oder des Aufsichtsrates eines gemeinnützigen Mutterunternehmens sowie deren nahe Angehörige im Sinne des Abs. 4 dürfen, bei sonstiger Rechtsunwirksamkeit, nur abgeschlossen werden, wenn der Aufsichtsrat der Bauvereinigung dem Vertragsabschluss einstimmig zugestimmt hat.
+
+(3) Der Aufsichtsrat kann den Vorstand oder die Geschäftsführung einstimmig ermächtigen, innerhalb eines bestimmten Zeitraumes summenmäßig begrenzte Geschäfte nach Abs. 2 abzuschließen. Der Beschluß ist nur so lange wirksam, als in den Aufsichtsrat kein neues Mitglied eintritt.
+
+(4) In Anwendung der vorstehenden Absätze sind einer natürlichen Person gemäß § 9 Abs. 1 ihr Ehegatte, ihr eingetragener Partner sowie mit ihr in gerader Linie oder im zweiten Grad der Seitenlinie Verwandte oder in gerader Linie Verschwägerte sowie Personen gleichzuhalten, die zu ihr im Verhältnis der Wahlkindschaft stehen oder mit ihr in einer in wirtschaftlicher Hinsicht gleich einer Ehe eingerichteten Haushaltsgemeinschaft leben.
+
+(5) Voraussetzung für eine Genehmigung von Rechtsgeschäften gemäß Abs. 2 und 2a über die Vergabe von Wohnungen ist ein geeigneter Nachweis, dass der Wohnungswerber aus dem Personenkreis gemäß Abs. 2 oder 2a die Wohnung zur regelmäßigen Deckung seines Wohnbedürfnisses oder seiner nahen Angehörigen verwendet.
+
+(6) Die nach Abs. 2 und 2a genehmigten Rechtsgeschäfte sind dem Revisionsverband anzuzeigen und in einem jährlichen „Compliance-Bericht“ darzustellen, der den Auszügen gemäß § 28 Abs. 8 anzuschließen ist.
+
+##### Art. 1 § 9b – Ausnahmeregelung
+
+§ 9b. Die Bestimmungen der §§ 9 und 9a gelten nicht für Bauvereinigungen von Unternehmen im Sinne des § 9 Abs. 1, die ihre Tätigkeit auf die Errichtung von Wohnungen für Dienstnehmer des eigenen Unternehmens beschränken. Gemeinnützige Bauvereinigungen und deren Gesellschaften gemäß § 7 Abs. 4 und 4b, Gebietskörperschaften und juristische Personen, deren sich Gebietskörperschaften zur Verwaltung ihrer Beteiligungen bedienen, zählen nicht zum Personenkreis gemäß § 9 Abs. 1.
+
+##### Art. 1 § 10 – Vermögensrechtliche Behandlung der Mitglieder
+
+§ 10. (1) Vom Jahresüberschuss nach Berücksichtigung der Gewinnrücklagenveränderung gemäß Abs. 6 darf insgesamt nur ein Betrag ausgeschüttet werden, der, bezogen auf die Summe der eingezahlten Genossenschaftsanteile (Stammkapital, Grundkapital), den im betroffenen Geschäftsjahr zulässigen Zinssatz gemäß § 14 Abs. 1 Z 3 nicht übersteigt (verteilbarer Gewinn). Überdies dürfen die Mitglieder (Genossenschafter, Gesellschafter) vermögensrechtliche Vorteile nur in dem Umfang erhalten, als diese als angemessene Gegenleistung für eine besondere von ihnen erbrachte geldwerte Leistung anzusehen sind.
+
+(2) Mitglieder (Genossenschafter, Gesellschafter) einer Bauvereinigung dürfen im Falle ihres Ausscheidens nicht mehr als die eingezahlten Einlagen und ihren Anteil am verteilbaren Gewinn erhalten.
+
+(3) Im Fall der Auflösung der Bauvereinigung dürfen deren Mitglieder (Genossenschafter, Gesellschafter) nicht mehr als die von ihnen eingezahlten Einlagen und ihren Anteil am verteilbaren Gewinn erhalten.
+
+(4) Als eingezahlt im Sinne der Abs. 1 bis 3 gelten nicht die aus einer Kapitalberichtigung stammenden Beträge.
+
+(5) Mitglieder (Genossenschafter, Gesellschafter) können bei Erstellung ihrer Jahresabschlüsse höchstens das anteilige, im Jahresabschluss der Bauvereinigung ausgewiesene Eigenkapital der Bauvereinigung (Grund- bzw. Stammkapital zuzüglich Rücklagen und Bilanzgewinn sowie abzüglich Bilanzverlust) als beizulegenden Wert gemäß § 189a Z 3 UGB der Bauvereinigung heranziehen.
+
+(6) Der positive Saldo aus Mehrtilgungen von Fremdfinanzierungen für Bau- und Baunebenkosten gemäß § 13 Abs. 2 und Mindertilgungen von solchen Fremdfinanzierungen ist – soweit im Jahresüberschuss gedeckt – einer gesetzlichen Rücklage (zweckgebundene Rücklage für Kostendeckung) in den Gewinnrücklagen zuzuführen oder diese gesetzliche Rücklage in Höhe eines negativen Saldos aufzulösen. Diese gesetzliche Rücklage darf nicht zu einer Kapitalberichtigung herangezogen werden. Stand und Entwicklung dieser gesetzlichen Rücklage sind im Sinne des § 222 Abs. 2 UGB im Anhang darzustellen und zu erläutern.
+
+##### Art. 1 § 10a – Erwerb von Anteilen
+
+§ 10a. (1) Bei sonstiger Rechtsunwirksamkeit bedürfen der Zustimmung der Landesregierung Vereinbarungen über:
+
+a) den Erwerb von Anteilen an einer Bauvereinigung in der Rechtsform einer Gesellschaft mit beschränkter Haftung oder Aktiengesellschaft,
+
+b) die Fusion einer Bauvereinigung, unabhängig von deren Rechtsform, mit einer anderen Bauvereinigung,
+
+c) die Einbringung auch nur eines Teiles des Vermögens einer Bauvereinigung in eine andere Bauvereinigung,
+
+d) die Veräußerung von Bauten und Anlagen an Personen, die nicht gemeinnützige Bauvereinigungen sind; betreffend einzelne Wohnungen (Reihenhäuser, Ein- und Zweifamilienhäuser) und Geschäftsräume nicht jedoch von Ein- und Abstellplätzen ab einer Anzahl von mehr als drei Objekten,
+
+e) die nachträgliche Übertragung in das Eigentum (Miteigentum, Wohnungseigentum) von einzelnen vermieteten Wohnungen und Geschäftsräumen, die nicht an den bisherigen Mieter oder sonstigen Nutzungsberechtigten, an ihnen gemäß § 15g Abs. 3 gleichgestellte Personen oder an gemeinnützige Bauvereinigungen übertragen werden.
+
+(1a) Bei sonstiger Rechtsunwirksamkeit bedürfen der Zustimmung der Landesregierung Vereinbarungen über den Erwerb von Anteilen an Unternehmungen, deren überwiegender Geschäftszweck der mittelbare oder unmittelbare Erwerb sowie das mittelbare oder unmittelbare Halten und Verwalten von Anteilen an Bauvereinigungen ist.
+
+(2) Die Zustimmung nach Abs. 1 und Abs. 1a ist jedenfalls zu untersagen, wenn:
+
+a) der Kaufpreis oder – bei Einbringung als Sacheinlage – die Bewertung die eingezahlten Einlagen übersteigt,
+
+b) durch die Einbringung auch nur eines Teiles des Vermögens einer Bauvereinigung die Voraussetzungen für die Anerkennung als gemeinnützige Bauvereinigung (§ 34 Abs. 1) nicht mehr gegeben wären oder sich aus der Einbringung Voraussetzungen für die Entziehung der Anerkennung (§ 35 Abs. 2) ergäben,
+
+c) der Veräußerungspreis für Bauten und Anlagen gemäß Abs. 1 lit. d nach Maßgabe des § 23 nicht angemessen ist,
+
+d. bei Wohnungen und Geschäftsräumen, die nicht an gemeinnützige Bauvereinigungen übertragen werden, keine Legung eines Angebotes an die jeweiligen Mieter oder sonstigen Nutzungsberechtigten gemäß § 15c lit. b erfolgt ist.
+
+(3) Einer Zustimmung nach Abs. 1 bedarf es nicht, falls der Erwerb eines Anteils zum Nennwert Voraussetzung für die Nutzung einer Wohnung oder eines Geschäftsraumes ist.
+
+(4) Eintragungen in das Firmenbuch nach Abs. 1 lit. a bis c dürfen nur unter Nachweis der Zustimmung der Landesregierung erfolgen.
+
+> **Beachte:** 1\. Der zeitliche Anwendungsbereich wird gemäß § 8 ABGB bestimmt (vgl. Art. IV).
+>
+> 2\. zum Bezugszeitraum vgl. § 39 Abs. 36
+
+##### Art. 1 § 10b – Zustimmung zur Sitzverlegung
+
+§ 10b. (1) Die Sitzverlegung einer Bauvereinigung bedarf bei sonstiger Rechtsunwirksamkeit der Zustimmung der Landesregierung, in deren Bereich die Bauvereinigung gemäß § 32 ihren Sitz hat, und der Zustimmung der Landesregierung, die für den neuen Sitz örtlich zuständig ist.
+
+(2) Die Bauvereinigung hat die beabsichtigte Sitzverlegung dem Revisionsverband anzuzeigen.
+
+(3) Eine Zustimmung gemäß Abs. 1 kann aus wichtigen Gründen versagt werden.
+
+(4) Die Zustimmung gemäß Abs. 1 ist jedenfalls zu versagen, solange die Bauvereinigung festgestellte Mängel nicht behoben hat, insbesondere einer behördlichen Anordnung zur Abstellung von Mängeln gemäß § 29 nicht nachgekommen ist.
+
+##### Art. 1 § 11 – Behandlung des Vermögens bei Auflösung der Bauvereinigung
+
+§ 11. (1) Bei Auflösung einer Bauvereinigung ist das nach Rückzahlung der Anteile an die Mitglieder (Gesellschafter, Genossenschafter) verbleibende Restvermögen für Zwecke des gemeinnützigen Wohnungswesens zu verwenden.
+
+(2) Die Bestimmungen über die Verwendung des Restvermögens trifft die Landesregierung nach Anhörung der Organe der zu liquidierenden Bauvereinigung, des zuständigen Revisionsverbandes und der nach dem Sitz der zu liquidierenden Bauvereinigung zuständigen Finanzbehörde unter Bedachtnahme auf die Bestimmungen des Genossenschaftsvertrages (Gesellschaftsvertrag, Satzung). Der Rechtsträger, dem das Restvermögen zufällt, hat Rechte und Verpflichtungen, insbesondere jene, die sich aus den §§ 14 und 17 ergeben, zu übernehmen.
+
+(3) Verschmelzungsverträge einer Bauvereinigung mit anderen Unternehmungen sind rechtsunwirksam, wenn die aufnehmende oder neugebildete Unternehmung nicht gemeinnützig auf Grund dieses Bundesgesetzes ist.
+
+(4) Auf gemeinnützige Bauvereinigungen sind das Spaltungsgesetz – SpaltG, BGBl. Nr. 304/1996, sowie das Genossenschaftsspaltungsgesetz – GenSpaltG, BGBl. I Nr. 69/2018, nicht anzuwenden.
+
+##### Art. 1 § 12 – Aufsichtsrat
+
+§ 12. Gemeinnützige Bauvereinigungen müssen, sofern nicht schon in anderen Rechtsvorschriften die Einrichtung eines Aufsichtsrates vorgesehen ist, einen aus mindestens drei Mitgliedern bestehenden Aufsichtsrat haben.
+
+##### Art. 1 § 13 – Überlassung von Räumlichkeiten und Liegenschaften
+
+§ 13. (1) Gemeinnützige Bauvereinigungen haben für die Überlassung des Gebrauchs einer Wohnung oder eines Geschäftsraumes aus dem Titel eines Miet- oder sonstigen Nutzungsvertrages, für die (nachträgliche) Übertragung des Eigentums (Miteigentum) an einer Baulichkeit oder für die (nachträgliche) Einräumung des Wohnungseigentums an einer Wohnung, einem Geschäftsraum oder an Einstellplätzen (Garagen) und Abstellplätzen ein angemessenes Entgelt (Preis) zu vereinbaren, das nicht höher, aber auch nicht niedriger angesetzt werden darf, als es zur Deckung der Aufwendungen für die Bewirtschaftung ihrer Baulichkeiten und unter Berücksichtigung eines im Sinne der Grundsätze des § 23 gerechtfertigten Betrages zur Deckung der Kosten der Wirtschaftsführung der Bauvereinigung sowie nach den Grundsätzen einer ordnungsmäßigen Wirtschaftsführung zur Bildung von Rücklagen erforderlich ist.
+
+(2) Der Berechnung des Entgelts (Preis) gemäß Abs. 1 sind die gesamten Herstellungskosten zugrunde zu legen; das sind
+
+1\. die für die widmungsgemäße Benützung der Baulichkeit aufgewendeten Baukosten einschließlich notwendiger Rückstellungen,
+
+2\. die Grundkosten und die Aufschließungskosten und
+
+3\. die sonstigen Kosten, soweit sie für die Errichtung und Bewohnbarmachung der Baulichkeit erforderlich sind, wie Bauverwaltungs- und Finanzierungskosten.
+
+Die Grundkosten sind ausgehend vom Verkehrswert im Zeitpunkt des Grunderwerbs entweder unter Bedachtnahme auf die in der Zwischenzeit eingetretene Änderung des Geldwertes (§ 17 Abs. 4 zweiter Satz) oder mit einer angemessenen Verzinsung, und zwar bei Fremdfinanzierung unter Anwendung von § 14 Abs. 1 Z 2 und bei Finanzierung aus Eigenmitteln unter Anwendung von § 14 Abs. 1 Z 3, zuzüglich einer Abgeltung für notwendige und nützliche Aufwendungen, höchstens jedoch mit dem Verkehrswert zu dem nachfolgend als maßgebend bestimmten Zeitpunkt zu berücksichtigen. Maßgebend sind die Verhältnisse zum Zeitpunkt der ersten Überlassung des Gebrauchs, der Übertragung des Eigentums (Miteigentum) oder Einräumung des Wohnungseigentums.
+
+(2a) Die Erfordernisse gemäß Abs. 1 und 2 können auch über einen von der Bauvereinigung bestimmbaren Zeitraum von mindestens fünf, höchstens aber zwanzig Jahren erreicht werden, wobei bei der Berechnung des Entgelts hinsichtlich der Entgeltsbestandteile nach § 14 Abs. 1 Z 1 bis 3 und 8 die in der Zwischenzeit eingetretene Änderung des Geldwertes berücksichtigt werden kann.
+
+(2b) Eigenmittel der Bauvereinigung können zur Finanzierung der Herstellungskosten (wie beispielsweise für Einmalzahlungen der Bauvereinigung als Baurechtsnehmerin bei der Baurechtsbegründung), ausgenommen der Grundkosten, nicht nur auf Abnützungsdauer sondern auch befristet für einen Zeitraum von mindestens fünf Jahren eingesetzt werden. Ist im Falle eines befristeten Eigenmitteleinsatzes überdies eine (Teil-)Rückzahlung der Eigenmittel vereinbart, können anstelle des entsprechenden Betrages gemäß § 14 Abs. 1 Z 1 (Absetzung für Abnützung beim Einsatz von Eigenmitteln zur Finanzierung von Baukosten) die Tilgungsraten bei der Berechnung des Entgelts angerechnet werden.
+
+(2c) Abweichend von Abs. 2 ist anstelle des Verkehrswertes im Zeitpunkt des Grunderwerbs ein niedrigerer Betrag, mindestens aber in Höhe der tatsächlichen Kosten des Grunderwerbs, der Berechnung zugrunde zu legen, wenn dies der Veräußerer zur Senkung des Entgelts (Preis) vertraglich ausbedungen hat.
+
+(2d) Die Grundsätze des Abs. 2c können auch bei der Veräußerung (Tausch) von Liegenschaften an andere gemeinnützige Bauvereinigungen angewendet werden.
+
+(3) Der Bundesminister für wirtschaftliche Angelegenheiten kann durch Verordnung Richtlinien erlassen, welche auf der Grundlage der vorstehenden Absätze und unter Beachtung der §§ 14, 15 und 15a nähere Bestimmungen für die Berechnung des Entgelts (Preis), die auch Pauschalbeträge vorsehen können, zu enthalten haben. Dabei ist auch von durchschnittlichen Betriebsverhältnissen gemeinnütziger Bauvereinigungen auszugehen. Eine Regelung des Betrages gemäß § 14 Abs. 1 Z 6 kann mit rückwirkender Kraft ausgestattet werden. Vor Erlassung der Verordnung ist auch jeder Revisionsverband im Sinne des § 5 Abs. 1 anzuhören.
+
+(4) Bei Überlassung nach begünstigter Rückzahlung gemäß dem Rückzahlungsbegünstigungsgesetz 1987, BGBl. Nr. 340, von zur Errichtung der Baulichkeit gewährten Darlehen aus öffentlichen Mitteln können bei der Berechnung des Entgelts und der neben dem Entgelt zu leistenden Beträge (§ 17) abweichend von den Absätzen 1 und 2, Größe, Art, Beschaffenheit, Lage, Ausstattungs- und Erhaltungszustand der Wohnung oder sonstigen Räumlichkeiten sowie der Baulichkeit oder mehrerer Baulichkeiten, die vergleichbare Merkmale aufweisen, zugrunde gelegt werden.
+
+(4a) Das nach Abs. 4 höchstzulässige Entgelt für Wohnungen vermindert sich im Fall eines befristeten Miet- oder sonstigen Nutzungsvertrages um 25 v.H. Wird der befristete Miet- oder sonstige Nutzungsvertrag in einen Miet- oder sonstigen Nutzungsvertrag auf unbestimmte Zeit umgewandelt, so gilt die Verminderung des nach Abs. 4 höchstzulässigen Entgelts ab dem Zeitpunkt der Umwandlung nicht mehr, sofern sie im Miet- oder Nutzungsvertrag ziffernmäßig durch Gegenüberstellung des für ein unbefristetes Miet- oder sonstiges Nutzungsverhältnis zulässigen und des tatsächlich vereinbarten Entgelts schriftlich ausgewiesen wurde.
+
+(4b) Vereinbarungen über ein Entgelt gemäß Abs. 4 oder 4a sind insoweit unwirksam, als das vereinbarte Entgelt den nach Abs. 4 bis 4a zulässigen Höchstbetrag überschreitet. Die Unwirksamkeit ist binnen drei Jahren gerichtlich (bei der Gemeinde, § 39 MRG) geltend zu machen. Bei befristeten Miet- oder sonstigen Nutzungsverhältnissen (§ 29 Abs. 1 Z 3 MRG) endet diese Frist frühestens sechs Monate nach Auflösung des Miet- oder sonstigen Nutzungsverhältnisses oder nach seiner Umwandlung in ein unbefristetes Miet- oder sonstiges Nutzungsverhältnis; die Verjährungsfrist beträgt in diesem Fall zehn Jahre.
+
+(5) Bei der Überlassung von Geschäftsräumen und sonstigen Räumlichkeiten sowie anderen Teilen der Liegenschaft können bei der Berechnung des Entgelts und der neben dem Entgelt zu leistenden Beträge (§ 17) die Grundsätze des Abs. 4 auch angewendet werden, wenn keine begünstigte Rückzahlung erfolgt ist.
+
+(6) Bei Überlassung von Wohnungen der Ausstattungskategorie A oder B gemäß § 15a Abs. 1 Z 1 und 2 des Mietrechtsgesetzes in der Fassung BGBl. Nr. 800/1993 kann abweichend von Abs. 1 und 2 für die Entgeltsbestandteile gemäß § 14 Abs. 1 Z 1 bis 3 in Summe ein jeweils höherer Betrag im Entgelt vereinbart werden, der je Quadratmeter der Nutzfläche und Monat jedoch nicht höher sein darf als 1,75 Euro. Der angeführte Betrag vermindert oder erhöht sich – erstmals am 1. April 2018 – jedes zweite Jahr in dem Maß, das sich aus der Veränderung des von der Bundesanstalt Statistik Österreich verlautbarten Jahresdurchschnittswerts des Verbraucherpreisindex 2010 des jeweiligen Vorjahrs gegenüber dem Durchschnittswert des Jahres 2015 ergibt. Am 1. April 2024 kann sich der Betrag gegenüber dem letzten Änderungszeitpunkt um nicht mehr als fünf Prozent erhöhen. Am 1. April 2026 vermindert oder erhöht sich der Betrag gegenüber dem letzten Änderungszeitpunkt in dem Maß, das sich aus der Veränderung des von der Bundesanstalt Statistik Österreich verlautbarten Jahresdurchschnittswerts des Verbraucherpreisindex 2010 des Vorjahres gegenüber dem Jahresdurchschnittswert des diesem vorangegangenen Jahres ergibt; gegenüber dem letzten Änderungszeitpunkt kann sich der Betrag jedoch um nicht mehr als fünf Prozent erhöhen. Erstmals am 1. April 2027 und sodann jährlich vermindert oder erhöht sich der Betrag gegenüber dem jeweils letzten Änderungszeitpunkt in dem Maß, das sich aus der durchschnittlichen Veränderung des von der Bundesanstalt Statistik Österreich verlautbarten Jahresdurchschnittswerts des Verbraucherpreisindex 2010 in den drei dem Valorisierungszeitpunkt vorangegangenen Jahren ergibt. Sofern die sich nach dem vorangegangenen Satz ermittelte Veränderung fünf Prozent übersteigt, ist der fünf Prozentpunkte übersteigende Teil nur zur Hälfte zu berücksichtigen. Bei der Berechnung des neuen Betrages sind Beträge, die einen halben Cent nicht übersteigen, auf den nächst niedrigeren ganzen Cent abzurunden und Beträge, die einen halben Cent übersteigen, auf den nächst höheren ganzen Cent aufzurunden. Der neue Betrag gilt jeweils ab dem 1. April des betreffenden Jahres. Die angemessene Verzinsung von Eigenmitteln der Bauvereinigung, die zur Finanzierung von Grundstückskosten verwendet wurden, kann zusätzlich verrechnet werden.
+
+(7) Werden in einer Baulichkeit oder in Baulichkeiten, die hinsichtlich der Berechnung des Entgelts eine wirtschaftliche Einheit bilden, nach Abrechnung der gesamten Herstellungskosten gemäß Abs. 2 weitere Miet- oder sonstige Nutzungsgegenstände errichtet, sind diese hinsichtlich ihrer Herstellungskosten als eigene wirtschaftliche Einheit zu behandeln. Abweichend von den Abs. 1 und 2 gelten die an die bestehenden Mieter oder sonstigen Nutzungsberechtigten für die Abgeltung der Duldung der Baumaßnahmen und den Verzicht auf Rechte zur Benützung von allgemeinen Teilen der Liegenschaft geleisteten Beträge zuzüglich der zusätzlich erforderlichen Aufschließungskosten sowie der – höchstens jedoch für eine Dauer von 18 Monaten – angemessenen Kosten für baubedingte Leerstände als Grundkosten; die Kosten der Baumaßnahmen, vermindert um die Kosten der jeweils erkennbaren und in absehbarer Zeit notwendig werdenden Erhaltungsarbeiten sowie von nützlichen Verbesserungsarbeiten, die durch diese Baumaßnahmen ersetzt werden, gelten nach Maßgabe des § 14 Abs. 3a als Baukosten. Die als Grundkosten geleisteten Einmalbeträge werden bei den Berechnungen gemäß § 15c lit. a nicht herangezogen.
+
+(8) Nach Maßgabe des Abs. 2 gelten bei Baulichkeiten, die zum Zweck der Sanierung größeren Umfanges gemäß § 2 Z 1 erworben worden sind:
+
+a) die Kosten des Erwerbs, soweit sie die Kosten der erhaltungswürdigen Bausubstanz betreffen, als Baukosten (Abs. 2 Z 1), im übrigen als Grundkosten (Abs. 2 Z 2),
+
+b) die gesamten Kosten der Sanierung größeren Umfanges (Abs. 7, §§ 14a und 14b) als Baukosten (Abs. 2 Z 1),
+
+c) die Kosten zur Durchführung von Sanierungskonzepten, insbesondere auf Grund förderungsvertraglicher Verpflichtung, als sonstige Kosten (Abs. 2 Z 3).
+
+> **Beachte:** zum Bezugszeitraum vgl. § 39 Abs. 40
+
+##### Art. 1 § 14 – Berechnung des Entgelts
+
+§ 14. (1) Das angemessene Entgelt für die Überlassung des Gebrauchs einer Wohnung oder eines Geschäftsraumes ist unter Bedachtnahme auf § 13 nach den Verteilungsbestimmungen des § 16 zu berechnen, wobei im Hinblick auf dessen Veränderlichkeit keine vertragliche Vereinbarung erforderlich ist und § 6 Abs. 1 Z 5 KSchG, BGBl. Nr. 140/1979, keine Anwendung findet. Ändern sich die der Berechnung des Entgeltes zugrunde zu legenden Beträge, so ändert sich das Entgelt entsprechend; die dafür maßgeblichen Grundlagen – insbesondere die Höhe des jeweiligen Zinssatzes und Änderungen auf Grund angemessener vertraglicher Vereinbarungen mit Darlehens- oder Baurechtsgebern – sind bei der nächstfolgenden Entgeltsvorschreibung dem Mieter oder sonstigen Nutzungsberechtigten schriftlich bekanntzugeben. Die vom Mieter oder sonstigen Nutzungsberechtigten vor Abschluß des Vertrages oder zu diesem Anlaß zusätzlich erbrachten Beiträge zur Finanzierung des Bauvorhabens sind bei der Berechnung des Entgelts betragsmindernd zu berücksichtigen. Bei der Berechnung des Entgelts dürfen angerechnet werden:
+
+1\. ein Betrag für die Absetzung für Abnützung, deren Ausmaß sich nach den Grundsätzen einer ordnungsgemäßen Wirtschaftsführung bestimmt; weicht die Tilgung der Fremdmittel einschließlich der Darlehen aus öffentlichen Mitteln von der Absetzung für Abnützung ab, ist diese Tilgung anstelle der Absetzung für Abnützung anzurechnen;
+
+2\. die auf Grund des Schuldscheines (der Schuldscheine) vorzunehmende angemessene Verzinsung der Fremdmittel einschließlich der Darlehen aus öffentlichen Mitteln,
+
+3\. die angemessene Verzinsung der Eigenmittel, wobei im Falle der Errichtung von Wohnungen, Eigenheimen, Heimen und Geschäftsräumen die Zinsen grundsätzlich 3,5 vH nicht übersteigen dürfen; dieser Hundertsatz erhöht sich in dem Ausmaß, in dem der um einen Prozentpunkt verminderte Periodenschnitt der Sekundärmarktrendite aller Bundesanleihen des jeweiligen vorangegangenen Kalenderjahres diesen Hundertsatz übersteigt, beträgt jedoch höchstens 5 vH;
+
+4\. im Falle der Einräumung eines Baurechtes der jeweils zu entrichtende Bauzins, bei einer Bauzinsvorauszahlung der jeweils für den bestimmten oder bestimmbaren Zeitraum zuzuordnende Bauzins;
+
+5\. ein Erhaltungs- und Verbesserungsbeitrag gemäß § 14d;
+
+6\. ein im Sinne der Grundsätze des § 23 gerechtfertigter Betrag zur Deckung der Verwaltungskosten;
+
+7\. ein Betrag zur Deckung der sonstigen Betriebskosten im Sinne des Mietrechtsgesetzes, der Kosten für den Betrieb gemeinschaftlicher Anlagen sowie zur Deckung der von der Liegenschaft laufend zu entrichtenden öffentlichen Abgaben;
+
+8\. Rücklagen im Ausmaß von höchstens 2 vH der Beträge aus Z 1 bis 5, und
+
+9\. die Umsatzsteuer gemäß dem Umsatzsteuergesetz 1994, BGBl. Nr. 663, wobei alle Aufwendungen, die dem Mieter oder sonstigen Nutzungsberechtigten aufge- oder verrechnet werden, um die darauf entfallenden Vorsteuerbeträge zu entlasten sind.
+
+(1a) Die gemäß Abs. 1 vom Mieter oder sonstigen Nutzungsberechtigten vor Abschluß des Vertrages oder aus diesem Anlaß zur Finanzierung des Bauvorhabens zusätzlich zu erbringenden Beiträge und die nach den Z 1 bis 4 und 8 des Abs. 1 anzurechnenden Beträge können in den Fällen des § 15c lit. a Z 1 auch auf der Grundlage eines Fixpreises gemäß § 15a und § 23 Abs. 4b von der Bauvereinigung vereinbart werden, wobei bei der Berechnung der jeweiligen Entgeltsbestandteile nach den Z 1 bis 4 und 8 auch die in der Zwischenzeit eingetretene Änderung des Geldwertes berücksichtigt werden kann.
+
+(2) Reichen die nicht verbrauchten Erhaltungs- und Verbesserungsbeiträge und die künftig im gesetzlichen Höchstausmaß einzuhebenden Erhaltungs- und Verbesserungsbeiträge auch unter Einrechnung der den nicht verbrauchten Erhaltungs- und Verbesserungsbeiträgen zuzuführenden sonstigen Einnahmen und Mehrerträge sowie unter Einrechnung der Einnahmen aus der Vermietung oder Überlassung von Dach- und Fassadenflächen zu Werbezwecken zur ordnungsmäßigen Erhaltung der Baulichkeit oder von Baulichkeiten, sofern diese hinsichtlich der Berechnung des Entgelts eine wirtschaftliche Einheit bilden, nicht aus, so kann die Bauvereinigung bei Gericht (bei der Gemeinde, § 39 MRG) zur Deckung des Fehlbetrages eine Erhöhung des Betrages nach Abs. 1 Z 5 begehren. Bei der Festsetzung des erhöhten Erhaltungs- und Verbesserungsbeitrages ist auch ein gemäß § 273 ZPO nach freier Überzeugung festzusetzender Pauschalbetrag zur Deckung von laufend wiederkehrenden Erhaltungsarbeiten einzubeziehen, zuzüglich eines allfälligen Betrages, der von der Bauvereinigung schon zur laufenden Tilgung und Verzinsung von Erhaltungsarbeiten gemäß § 14a je Kalendermonat aufgebracht werden muss. Das Gericht (die Gemeinde, § 39 MRG) hat darüber zu entscheiden, von wann an und in welchem Umfang dieser Betrag erhöht wird und, unter Bedachtnahme auf die wirtschaftliche Lage der Mieter und sonstigen Nutzungsberechtigten, auf welche Zeit der erhöhte Betrag zu entrichten ist; der Zeitraum beträgt grundsätzlich 20 Jahre, ausgenommen die beantragten Arbeiten weisen in einer Gesamtschau eine erheblich kürzere oder längere Bestanddauer auf. Ist das der Fall, dann ist diese Bestanddauer als Verteilungszeitraum festzusetzen. Der erhöhte Betrag ist für alle Mieter oder sonstigen Nutzungsberechtigten im gleichen Verhältnis zum bisher Geleisteten festzusetzen. Wurde zur Deckung des Fehlbetrages eigenes oder fremdes Kapital verwendet, so sind Verzinsung, Tilgung und Geldbeschaffungskosten anzurechnen. Schriftliche Vereinbarungen mit allen Mietern oder sonstigen Nutzungsberechtigten über die Erhöhung des Betrages nach Abs. 1 Z 5 sind zulässig.
+
+(2a) Reichen die nicht verbrauchten Erhaltungs- und Verbesserungsbeiträge und die künftig im gesetzlichen Höchstausmaß einzuhebenden Erhaltungs- und Verbesserungsbeiträge bei Vermietung von im Wohnungseigentum der Bauvereinigung stehenden Wohnungseigentumsobjekten auch unter Einrechnung der den nicht verbrauchten Erhaltungs- und Verbesserungsbeiträgen zuzuführenden sonstigen Einnahmen und Mehrerträge zur Deckung der Kosten gemäß § 14d Abs. 1a sowie von Kosten gemäß § 14a für Maßnahmen im Inneren der Wohnungseigentumsobjekte und Aufwendungen für den Ersatz von Mieterinvestitionen gemäß § 20 Abs. 5 nicht aus, so kann die Bauvereinigung bei Gericht (bei der Gemeinde, § 39 MRG) zur Deckung des Fehlbetrages eine Erhöhung des Betrages nach Abs. 1 Z 5 begehren. Absatz 2 ist sinngemäß anzuwenden.
+
+(2b) An schriftliche Vereinbarungen über eine angemessene Erhöhung des Betrages nach Abs. 1 Z 5 zur anteiligen Deckung der öffentlich geförderten Kosten
+
+1\. von Gemeinschaftseinrichtungen zur Erzeugung und Versorgung mit erneuerbarer Energie,
+
+2\. von Gemeinschaftseinrichtungen für Ladepunkte für Elektrofahrzeuge,
+
+3\. thermisch-/energetischen Sanierungsmaßnahmen oder
+
+4\. behinderten-, kinder- oder altengerechten Maßnahmen
+
+an allgemeinen Teilen der Baulichkeit sind alle Mieter oder sonstigen Nutzungsberechtigten dann gebunden, wenn – nach Vorlage einer Stellungnahme eines Sachverständigen, etwa der Förderstelle über die Angemessenheit der Kosten der Maßnahmen – mindestens drei Viertel der Mieter oder sonstigen Nutzungsberechtigten, berechnet nach der Zahl der im Zeitpunkt der Vereinbarung vermieteten Miet- oder sonstigen Nutzungsgegenstände, zustimmen. Die Kosten der Arbeiten, Höhe und Ausmaß der Förderung, die vorhandenen Erhaltungs- und Verbesserungsbeiträge und die diesen gewidmeten Beträge, die Dauer der Erhöhung (Beginn und Ende) sowie das genaue Ausmaß der Erhöhung sind anzuführen. Für Zwecke der Wohnbeihilfengewährung gemäß den Wohnbauförderungsbestimmungen der Länder gilt eine solche Vereinbarung als gerichtliche Entscheidung im Sinne des Abs. 2.
+
+(2c) Eine Erhöhung gemäß Abs. 2b darf, unter Berücksichtigung der nicht verbrauchten Erhaltungs- und Verbesserungsbeiträge und der diesen gewidmeten Beträge, das zur Deckung der Kosten notwendige Ausmaß nicht übersteigen. Auf Antrag eines Mieters hat das Gericht (die Gemeinde, § 39 MRG) zu entscheiden, ob die Erhöhung den Voraussetzungen gemäß Abs. 2b entspricht.
+
+(3) Wird vor Durchführung einer Erhaltungsarbeit eine Erhöhung des Betrages nach Abs. 1 Z 5 begehrt, so hat das Gericht auf Antrag zunächst dem Grunde nach zu entscheiden, ob und inwieweit die bestimmt bezeichnete Erhaltungsarbeit die Erhöhung des Betrages nach Abs. 1 Z 5 rechtfertigt und innerhalb welches Zeitraumes, die dafür erforderlichen Kosten durch die erhöhten Erhaltungs- und Verbesserungsbeiträge zu decken sind.
+
+(3a) Werden Baumaßnahmen nach § 13 Abs. 7 durchgeführt, so hat das Gericht auf Antrag der Bauvereinigung über die Höhe der Kosten zu entscheiden, die aus den nicht verbrauchten Erhaltungs- und Verbesserungsbeiträgen zu decken sind. Reichen die somit verbleibenden Erhaltungs- und Verbesserungsbeiträge zur Deckung der Kosten für die jeweils erkennbaren und in absehbarer Zeit notwendig werdenden Erhaltungsarbeiten sowie nützlichen Verbesserungsarbeiten nicht aus, so sind die Fehlbeträge aus den künftigen Erhaltungs- und Verbesserungsbeiträgen zu decken. Dabei darf unabhängig vom Baualter der gesetzliche Höchstbetrag gemäß § 14d Abs. 2 ausgeschöpft werden.
+
+(3b) Das Gericht hat über Antrag der Bauvereinigung über die Höhe der Kosten zu entscheiden, die aus den nicht verbrauchten und zukünftigen Erhaltungs- und Verbesserungsbeiträgen zu decken wären, um eine Sanierung der Baulichkeit und der bestehenden Miet- oder sonstigen Nutzungsgegenstände gemäß § 2 Z 2 durchzuführen.
+
+(4) Verpflichtet sich die Bauvereinigung, die in der Grundsatzentscheidung (Abs. 3) genannten Erhaltungsarbeiten innerhalb einer angemessenen Frist in Angriff zu nehmen und durchzuführen, so kann das Gericht auf Antrag aussprechen, daß eine vorläufige Erhöhung des Betrages nach Abs. 1 Z 5 zulässig ist. Beginn und Ausmaß dieser vorläufigen Erhöhung sind unter Berücksichtigung der bereits vorliegenden Verfahrensergebnisse so festzusetzen, daß sie das sich in der endgültigen Erhöhung voraussichtlich ergebende Ausmaß nicht übersteigen. Hält die Bauvereinigung ihre Pflicht zur Durchführung der Arbeiten nicht ein, so hat sie – unbeschadet der Bestimmungen des § 14c – die aus der vorläufigen Erhöhung des Betrages nach Abs. 1 Z 5 sich ergebenden Mehrbeträge samt einer angemessenen Verzinsung zurückzuerstatten.
+
+(5) Werden an einer Baulichkeit Sanierungsmaßnahmen vorgenommen, für die eine Förderung aus öffentlichen Mitteln gewährt worden ist, und ist außerdem zur Finanzierung der Sanierungsmaßnahmen (Deckung des Fehlbetrages) eine Erhöhung des Erhaltungs- und Verbesserungsbeitrages notwendig, so gelten Sanierungsmaßnahmen in den Verfahren zur Erhöhung dieses Betrages als Erhaltungsarbeiten. Die Erhöhung des Erhaltungs- und Verbesserungsbeitrages darf jedoch nicht das Ausmaß übersteigen, das sich bei bloßer Durchführung von Erhaltungsarbeiten (§ 14a) ohne Gewährung von öffentlichen Förderungsmitteln ergeben würde.
+
+(5a) Von den Bestimmungen des Abs. 1 zweiter Satz in Verbindung mit Z 7 und den entsprechenden Regelungen des Heizkostenabrechnungsgesetzes kann abgewichen werden, wenn aus Entgeltsbestandteilen, deren Höhe vom Verbrauch oder von der anfallenden Menge abhängt, Aufwendungen zur Senkung des Verbrauchs (der anfallenden Menge) gedeckt werden sollen. Diesfalls darf eine Abnahme der diesen Entgeltsbestandteilen zugrunde liegenden Kosten so lange, höchstens jedoch für 15 Jahre, unberücksichtigt bleiben, als es zur Deckung der Aufwendungen erforderlich ist. Bei der sachgerechten Festlegung der gleichbleibenden Beträge auf Grund der Jahrespauschalverrechnung können Änderungen des Geldwertes während des erforderlichen Deckungszeitraumes berücksichtigt werden.
+
+(5b) Der Bundesminister für Wirtschaft und Arbeit kann durch Verordnung Richtlinien erlassen, die auf Grundlage der §§ 14 Abs. 5a, 19 Abs. 1 und 23 nähere Bestimmungen über den Nachweis
+
+1\. für eine sachgerechte Festlegung der gleichbleibenden Beträge auf Grund der Jahrespauschalverrechnung,
+
+2\. die Zweckmäßigkeit der durchzuführenden Maßnahmen und
+
+3\. der dadurch zu erwartenden Vorteile für die Mieter und Nutzungsberechtigten zu enthalten hat.
+
+Vor Erlassung der Verordnung ist auch jeder Revisionsverband im Sinne des § 5 Abs. 1 anzuhören.
+
+(6) Beträge, die zur Tilgung und Verzinsung von rückzuzahlenden Eigen- oder Fremdmitteln zur Senkung des Entgelts gegeben wurden, sind bei der Berechnung des Entgelts betragsmindernd zu berücksichtigen und können ab dem Zeitpunkt der vereinbarten Rückzahlung nach Maßgabe der übrigen vertraglichen Vereinbarungen bei der Berechnung des Entgelts angerechnet werden.
+
+(7) Beträge gemäß Abs. 1 Z. 1 und 2, die nicht mehr zur Verzinsung und Tilgung von Fremdmitteln einschließlich von Darlehen aus öffentlichen Mitteln verwendet werden, können unverändert der Berechnung des Entgelts zugrunde gelegt werden. Diese Beträge sind unbeschadet der Bestimmung des Abs. 6
+
+1\. zur verstärkten Tilgung anderer noch aushaftender Fremdmittel, soweit Vertragsbestimmungen dem nicht entgegenstehen,
+
+2\. weiters zur verstärkten Tilgung von noch aushaftenden Darlehen aus öffentlichen Mitteln,
+
+2a. im Übrigen für die (verstärkte) Tilgung der von der Bauvereinigung unter besonderer Beachtung der Grundsätze des § 23 zur Deckung von Erhaltungs- und Verbesserungsmaßnahmen getätigten Eigenmitteleinsätze zu verwenden,
+
+3\. sodann für fünf Jahre den nicht verbrauchten Erhaltungs- und Verbesserungsbeiträgen nach Abs. 1 Z 5 und
+
+4\. danach den Rücklagen zuzuführen.
+
+(7a) Nach vollständiger Tilgung der Fremd- und Eigenmittel gem. Abs. 7 Z 1 bis 2a darf die Summe der sich aus Abs. 7 in Verbindung mit Abs. 1 Z 1 bis 3 ergebenden Entgeltsbestandteile je Quadratmeter der Nutzfläche und Monat nicht höher sein als 1,75 Euro. Der angeführte Betrag vermindert oder erhöht sich – erstmals am 1. April 2018 – jedes zweite Jahr in dem Maß, das sich aus der Veränderung des von der Bundesanstalt Statistik Österreich verlautbarten Jahresdurchschnittswerts des Verbraucherpreisindex 2010 des jeweiligen Vorjahrs gegenüber dem Durchschnittswert des Jahres 2015 ergibt. Am 1. April 2024 kann sich der Betrag gegenüber dem letzten Änderungszeitpunkt um nicht mehr als fünf Prozent erhöhen. Am 1. April 2026 vermindert oder erhöht sich der Betrag gegenüber dem letzten Änderungszeitpunkt in dem Maß, das sich aus der Veränderung des von der Bundesanstalt Statistik Österreich verlautbarten Jahresdurchschnittswerts des Verbraucherpreisindex 2010 des Vorjahres gegenüber dem Jahresdurchschnittswert des diesem vorangegangenen Jahres ergibt; gegenüber dem letzten Änderungszeitpunkt kann sich der Betrag jedoch um nicht mehr als fünf Prozent erhöhen. Erstmals am 1. April 2027 und sodann jährlich vermindert oder erhöht sich der Betrag gegenüber dem jeweils letzten Änderungszeitpunkt in dem Maß, das sich aus der durchschnittlichen Veränderung des von der Bundesanstalt Statistik Österreich verlautbarten Jahresdurchschnittswerts des Verbraucherpreisindex 2010 in den drei dem Valorisierungszeitpunkt vorangegangenen Jahren ergibt. Sofern die sich nach dem vorangegangenen Satz ermittelte Veränderung fünf Prozent übersteigt, ist der fünf Prozentpunkte übersteigende Teil nur zur Hälfte zu berücksichtigen. Bei der Berechnung des neuen Betrages sind Beträge, die einen halben Cent nicht übersteigen, auf den nächst niedrigeren ganzen Cent abzurunden und Beträge, die einen halben Cent übersteigen, auf den nächst höheren ganzen Cent aufzurunden. Der neue Betrag gilt jeweils ab dem 1. April des betreffenden Jahres. Die angemessene Verzinsung von Eigenmitteln der Bauvereinigung, die zur Finanzierung von Grundstückskosten verwendet wurden, kann zusätzlich verrechnet werden.
+
+(8) Das gemäß § 13 Abs. 5 für die Benützung von sonstigen Räumlichkeiten und anderen Teilen der Liegenschaft geleistete Entgelt ist, nach Deckung deren Verwaltungskosten im festgesetzten Ausmaß gemäß Verordnung aufgrund § 13 Abs. 3, jeweils für jene Baulichkeit, der diese Miet- oder sonstigen Nutzungsgegenstände zugerechnet werden:
+
+1\. im Ausmaß von 25 v.H. des Entgelts zur Deckung der Betriebskosten,
+
+2\. der Rest zur Deckung der gesamten Herstellungskosten gemäß § 13 Abs. 2 zu verwenden und danach
+
+3\. den nicht verbrauchten Erhaltungs- und Verbesserungsbeiträgen zuzuführen.
+
+(9) Mehrerträge, die keiner sonstigen Verwendungsregel mehr unterliegen, sind bei einer Entgeltsberechnung auf Grund
+
+1\. des § 13 Abs. 6, § 14 Abs. 7a und des § 39 Abs. 18 Z 2 für fünf Jahre den nicht verbrauchten Erhaltungs- und Verbesserungsbeiträgen und danach den Rücklagen,
+
+2\. des § 13 Abs. 4 und – soweit es sich um Geschäftsräume handelt – des § 13 Abs. 5 den Rücklagen
+
+zuzuführen.
+
+> **Anmerkung:** ÜR: Abschnitt VIII § 29 Abs. 7, BGBl. Nr. 827/1992
+
+> **Beachte:** zum Bezugszeitraum vgl. § 39 Abs. 36 und 40
+
+##### Art. 1 § 14a – Erhaltung
+
+§ 14a. (1) Bei der Überlassung des Gebrauchs einer Wohnung oder eines Geschäftsraumes aus dem Titel eines Miet- oder sonstigen Nutzungsvertrages hat die Bauvereinigung nach Maßgabe der rechtlichen, wirtschaftlichen und technischen Gegebenheiten und Möglichkeiten dafür zu sorgen, dass die Baulichkeit, die vermieteten oder zur Nutzung überlassenen Wohnungen oder Geschäftsräume und die der gemeinsamen Benützung der Bewohner der Baulichkeit dienenden Anlagen im jeweils ortsüblichen Standard erhalten und erhebliche Gefahren für die Gesundheit der Bewohner beseitigt werden. Weitergehende Ansprüche nach § 1096 ABGB – sofern sich nicht aus den dem Mieter in § 8 Abs. 1 MRG aufgetragenen Pflichten Gegenteiliges ergibt – bleiben unberührt und können im Vorhinein nicht abbedungen werden.
+
+(2) Die Erhaltung im Sinn des Abs. 1 umfasst:
+
+1\. die Arbeiten, die zur Erhaltung der allgemeinen Teile der Baulichkeit erforderlich sind,
+
+2\. die Arbeiten, die erforderlich sind, um einen zu vermietenden Miet- oder sonstigen Nutzungsgegenstand in brauchbarem Zustand zu übergeben; dazu zählen auch die erstmalige Herstellung eines Klosetts im Inneren, einer zeitgemäßen Badegelegenheit oder ebensolchen Wärmeversorgung. Weiters zählen dazu auch Maßnahmen, welche bei einer funktionstüchtigen, jedoch mindestens 25 Jahre alten Wärmeversorgungsanlage oder sanitären Anlage eine den Erfordernissen der Haushaltsführung dienende Umgestaltung in normaler und dem jeweiligen Stand der Technik entsprechender Ausstattung bewirken,
+
+2a. die Arbeiten im Miet- oder sonstigen Nutzungsgegenstand, die zur Behebung von ernsten Schäden der Baulichkeit oder zur Beseitigung einer vom Miet- oder sonstigen Nutzungsgegenstand ausgehenden erheblichen Gesundheitsgefährdung erforderlich sind,
+
+2b. in Wohnungen die Arbeiten, die während der Dauer der Mietverhältnisse erforderlich sind, um die Miet- oder sonstigen Nutzungsgegenstände, ihre Ausstattung, die für sie bestimmten Einrichtungen und die mitvermieteten Einrichtungsgegenstände im vereinbarten Zustand zu erhalten, also sie zu reparieren oder – im Fall der Unwirtschaftlichkeit einer Reparatur – zu erneuern. Davon ausgenommen sind jene Maßnahmen, die nach § 8 Abs. 1 MRG dem Mieter obliegen. Überdies obliegen der Ersatz von Beleuchtungsmitteln, die Vornahme von Bagatellreparaturen sowie die Erhaltung von Malerei und Tapeten nicht der Bauvereinigung. Die Beseitigung normaler Abnützungen der sonstigen Innenflächen des Miet- oder sonstigen Nutzungsgegenstandes (wie insbesondere Bodenbelag und Verfliesung) obliegt der Bauvereinigung nur dann, wenn deren Brauchbarkeit wesentlich beeinträchtigt ist,
+
+3\. die Arbeiten, die – allenfalls auch an in den Mietgegenständen liegenden Teilen der Anlagen – zur Aufrechterhaltung des Betriebes von bestehenden, der gemeinsamen Benützung der Bewohner dienenden Anlagen, wie im Besonderen von zentralen Wärmeversorgungsanlagen, Personenaufzügen oder zentralen Waschküchen, erforderlich sind, es sei denn, dass alle Mieter oder sonstigen Nutzungsberechtigten der Baulichkeit für die gesamte Dauer ihres Miet- oder sonstigen Nutzungsvertrages auf die Benützung der Anlage verzichten; ist die Erhaltung einer bestehenden Anlage unter Bedachtnahme auf die Kosten der Errichtung und des Betriebes einer vergleichbaren neuen Anlage wirtschaftlich nicht vertretbar, so ist anstelle der Erhaltung der bestehenden Anlage eine vergleichbare neue Anlage zu errichten,
+
+4\. die Neueinführungen oder Umgestaltungen, die kraft öffentlich-rechtlicher Verpflichtungen vorzunehmen sind, wie etwa der Anschluss an eine Wasserleitung oder an eine Kanalisierung, die Installation von geeigneten Schutzvorrichtungen für die Energieversorgung oder von Geräten zur Feststellung des individuellen Energieverbrauchs,
+
+5\. nach Maßgabe des § 23 die Installation von technisch geeigneten Gemeinschaftseinrichtungen zur Erzeugung und Versorgung mit erneuerbarer Energie, zur Senkung des Energieverbrauchs oder die der Senkung des Energieverbrauchs sonst dienenden Ausgestaltungen der Baulichkeit, von einzelnen Teilen der Baulichkeit oder von einzelnen Mietgegenständen, wenn und insoweit die hiefür erforderlichen Kosten in einem wirtschaftlich vernünftigen Verhältnis zum allgemeinen Erhaltungszustand der Baulichkeit und, sofern es sich um Maßnahmen zur Senkung des Energieverbrauchs handelt, den zu erwartenden Einsparungen stehen,
+
+5a. nach Maßgabe des § 23 die Herstellung der Leitungsinfrastruktur (Schutzrohre für Elektrokabel) für die Errichtung von Ladepunkten für Elektrofahrzeuge, sofern die erforderlichen Kosten in einem wirtschaftlich vernünftigen Verhältnis zum allgemeinen Erhaltungszustand der Baulichkeit stehen,
+
+6\. bei Vorliegen einer nach § 16 Abs. 7 zulässigen Vereinbarung die Installation und die Miete von technisch geeigneten Messvorrichtungen zur Verbrauchsermittlung im Sinn dieser Bestimmung,
+
+7\. bei Gewährung einer öffentlichen Förderung – und unter Bedachtnahme auf die Betriebs- und Instandhaltungskosten – die Durchführung behinderten-, kinder- oder altengerechter Maßnahmen an allgemeinen Teilen der Baulichkeit.
+
+(3) Die Kosten von Erhaltungsarbeiten sind durch die gemäß § 14 Abs. 1 Z 5 eingehobenen Beträge und die ihnen zuzuführenden sonstigen Einnahmen und Mehrerträge zu decken. Reichen diese Beträge zur Deckung der Kosten nicht aus, so gilt § 14 Abs. 2 bis 5. Arbeiten, die kraft eines öffentlich-rechtlichen Auftrags vorzunehmen sind oder die der Behebung von der Sicherheit von Personen oder Sachen gefährdeten Baugebrechen dienen, sowie die zur Aufrechterhaltung des Betriebes von bestehenden Wasserleitungs-, Lichtleitungs-, Gasleitungs-, Beheizungs- (einschließlich der zentralen Wärmeversorgungsanlagen), Kanalisations- und sanitären Anlagen erforderlichen Arbeiten sind vorweg durchzuführen.
+
+##### Art. 1 § 14b – Nützliche Verbesserung durch bautechnische Maßnahmen
+
+§ 14b. (1) Die Bauvereinigung hat nützliche Verbesserungen der Baulichkeit oder einzelner Miet- und sonstiger Nutzungsgegenstände nach Maßgabe der rechtlichen, wirtschaftlichen und technischen Gegebenheiten und Möglichkeiten durchzuführen, soweit dies im Hinblick auf den allgemeinen Erhaltungszustand der Baulichkeit zweckmäßig ist; hierbei ist nützlichen Verbesserungen der Baulichkeit gegenüber nützlichen Verbesserungen einzelner Miet- oder sonstiger Nutzungsgegenstände der Vorrang einzuräumen.
+
+(2) Nützliche Verbesserungen der Baulichkeit sind von der Bauvereinigung durchzuführen,
+
+1\. wenn Erhaltungsarbeiten nicht erforderlich sind oder sichergestellt ist, dass damit auch die erforderlichen Erhaltungsarbeiten in einem Zug durchgeführt werden oder
+
+2\. wenn und soweit sich die Bauvereinigung und die Mehrheit der Mieter oder sonstigen Nutzungsberechtigten – berechnet nach der Anzahl der im Zeitpunkt der Vereinbarung vermieteten Wohnungen und Geschäftsräume – der Baulichkeit über ihre Durchführung und den durch die nicht verbrauchten Erhaltungs- und Verbesserungsbeiträge nicht gedeckten Teil der Kosten schriftlich einigen sowie überdies sichergestellt ist, dass die übrigen Mieter oder sonstigen Nutzungsberechtigten der Baulichkeit durch die Verbesserungsarbeit finanziell nicht belastet und auch sonst nicht übermäßig beeinträchtigt werden.
+
+(3) Nützliche Verbesserungen im Inneren einer Wohnung oder eines Geschäftsraumes bedürfen der Zustimmung des Mieters oder sonstigen Nutzungsberechtigten der von der Verbesserung betroffenen Wohnung (des Geschäftsraumes).
+
+##### Art. 1 § 14c – Auftrag zur Durchführung von Erhaltungs- oder Verbesserungsarbeiten
+
+§ 14c. (1) Unterlässt die Bauvereinigung durchzuführende Erhaltungs- oder Verbesserungsarbeiten, so hat ihr das Gericht (die Gemeinde) auf Antrag die Vornahme der Arbeiten binnen angemessener, ein Jahr nicht übersteigender Frist aufzutragen. Sind darunter Arbeiten, die nach § 14a Abs. 3 dritter Satz vorweg durchzuführen sind, so ist die Durchführung dieser Arbeiten vorweg aufzutragen. Zur Antragstellung sind berechtigt
+
+1\. die Gemeinde, in der die Baulichkeit gelegen ist, im eigenen Wirkungsbereich und jeder Mieter oder sonstige Nutzungsberechtigte der Baulichkeit hinsichtlich der Erhaltungsarbeiten (§ 14a Abs. 2 Z 1, 2a bis 4 sowie 6),
+
+2\. die Mehrheit der Mieter oder sonstigen Nutzungsberechtigten – berechnet nach der Anzahl der im Zeitpunkt der Antragstellung vermieteten Wohnungen oder Geschäftsräume – der Baulichkeit hinsichtlich der in § 14a Abs. 2 Z 5, 5a und 7 genannten Erhaltungsarbeiten und der nützlichen Verbesserungen nach Maßgabe des § 14b.
+
+(1a) Der Bauvereinigung können Erhaltungsarbeiten zur Beseitigung einer erheblichen Gesundheitsgefährdung im Sinn des § 14a Abs. 1 und Abs. 2 Z 2a nur aufgetragen werden, wenn sich die Gesundheitsgefährdung nicht durch andere, den Bewohnern des Hauses zumutbare Maßnahmen abwenden lässt oder es sich um Maßnahmen iSd § 14a Abs. 2 Z 2b handelt.
+
+(2) Der in Rechtskraft erwachsene Auftrag zur Durchführung von Erhaltungs- oder Verbesserungsarbeiten nach Abs. 1 ist ein Exekutionstitel, der nach dem fruchtlosen Ablauf der zur Vornahme der Arbeiten bestimmten Frist jeden Mieter oder sonstigen Nutzungsberechtigten der Baulichkeit und die Gemeinde im eigenen Wirkungsbereich als betreibende Partei zum Antrag berechtigt, zum Zwecke der Durchführung der aufgetragenen Arbeiten, der Aufnahme und Tilgung des erforderlichen Kapitals und der ordnungsgemäßen Erhaltung und Verwaltung der Baulichkeit bis zur Tilgung des Kapitals für die Baulichkeit einen Verwalter zu bestellen. Zum Verwalter kann die Gemeinde oder eine andere gemeinnützige Bauvereinigung, wenn sie sich dazu bereit erklären, bestellt werden. Der bestellte Verwalter ist im besonderen befugt, zur Finanzierung der aufgetragenen Arbeiten namens der Bauvereinigung ein auf inländische Währung lautendes Hypothekardarlehen gegen angemessene Verzinsung aufzunehmen, die Übernahme einer Bürgschaft durch eine Gebietskörperschaft anzustreben, die erforderlichen Urkunden zu fertigen und die grundbücherliche Sicherstellung auf der Liegenschaft, an der die Arbeit vorgenommen werden soll, durchzuführen. Im übrigen sind hierauf die §§ 98, 99, 103, 108 bis 121, 130 und 132 der Exekutionsordnung sinngemäß anzuwenden. Über den Exekutionsantrag entscheidet das im § 22 Abs. 1 bestimmte Gericht im Verfahren außer Streitsachen, es sei denn, daß für die Baulichkeit bereits eine Zwangsverwaltung nach §§ 97 ff. der Exekutionsordnung anhängig ist. Ist für das Haus bereits ein Zwangsverwalter nach §§ 97 ff. der Exekutionsordnung bestellt, so hat das Exekutionsgericht dem bestellten Zwangsverwalter aufzutragen, die aufgetragenen Arbeiten vordringlich durchzuführen, und ihm die vorstehend genannten Ermächtigungen zu erteilen.
+
+(3) Die Zwangsverwaltung nach Abs. 2 ist nach Einvernehmung der Parteien einzustellen, wenn
+
+1\. die aufgetragenen Arbeiten durchgeführt und das hiezu aufgenommene Kapital getilgt ist,
+
+2\. sich erweist, daß die aufgetragenen Arbeiten wegen mangelnder Finanzierbarkeit oder aus sonst unüberwindbaren Hindernissen nicht durchgeführt werden können,
+
+3\. die verpflichtete Bauvereinigung vor der Aufnahme des zur Finanzierung der aufgetragenen Arbeiten erforderlichen Kapitals und der Inangriffnahme der Arbeiten durch den Zwangsverwalter erweist, daß sie die aufgetragenen Arbeiten selbst durchführen und finanzieren wird, oder
+
+4\. nach der Durchführung der aufgetragenen Arbeiten und Aufnahme des erforderlichen Kapitals durch den Zwangsverwalter der Kreditgeber und, falls eine Gebietskörperschaft die Bürgschaft übernommen hat, diese zustimmen.
+
+(4) Ist zur Finanzierung der Kosten einer nach Abs. 1 beantragten Erhaltungsarbeit, die nicht vorweg aufzutragen ist, die Einhebung eines erhöhten Entgelts erforderlich, so ist der Antrag abzuweisen, wenn die Mehrheit der Mieter oder sonstigen Nutzungsberechtigten – berechnet nach der Anzahl der im Zeitpunkt des Widerspruchs vermieteten Wohnungen und Geschäftsräume – der Baulichkeit und die Bauvereinigung der Vornahme der beantragten Arbeit widersprechen. Wird ein solcher Widerspruch nicht erhoben, so hat in diesem Fall so wie auch dann, wenn die Bauvereinigung neben der beantragten Erhaltungsarbeit, die nicht vorweg aufzutragen ist, noch andere unmittelbar heranstehende Erhaltungsarbeiten durchführen will, zu deren Finanzierung die Einhebung eines erhöhten Entgelts (§ 14 Abs. 2 bis 5) erforderlich ist, das Gericht (die Gemeinde) auf Antrag der Bauvereinigung, des von ihr oder des nach Abs. 2 bestellten Verwalters mit der Entscheidung nach Abs. 1 auch die Entscheidung über die Bewilligung zur Einhebung eines erhöhten Entgelts zu verbinden.
+
+##### Art. 1 § 14d – Erhaltungs- und Verbesserungsbeitrag
+
+§ 14d. (1) Die Bauvereinigung hat im Interesse einer laufenden Erhaltung sowie einer rechtzeitigen und vorausschauenden Sicherstellung der Finanzierung der Kosten der jeweils erkennbaren und in absehbarer Zeit notwendig werdenden Erhaltungsarbeiten sowie von nützlichen Verbesserungsarbeiten die Entrichtung eines Erhaltungs- und Verbesserungsbeitrages zu verlangen, sofern der Miet- oder sonstige Nutzungsgegenstand in einem Gebäude gelegen ist, für das die Baubehörde den Abbruch weder bewilligt noch aufgetragen hat. Bei Verwendung eigenen oder fremden Kapitals gelten Verzinsung und Geldbeschaffungskosten als Kosten der Erhaltungs- und Verbesserungsarbeiten.
+
+(1a) Kosten gemäß Abs. 1 sind auch die der Erhaltung und Verbesserung gewidmeten (§ 19a Abs. 2 lit. e) angemessenen Beiträge zur Rücklage gemäß § 31 Abs. 1 WEG 2002 sowie die Beträge, die die Bauvereinigung als Vermieter für die Erstellung eines Energieausweises nach § 2 Z 3 EAVG 2012 für das gesamte Gebäude aufgewendet hat. Im Hinblick auf die Einsichts- und Kopierrechte der Mieter und sonstigen Nutzungsberechtigten ist § 19 Abs. 1 und 2 sinngemäß anzuwenden.
+
+(2) Der Erhaltungs- und Verbesserungsbeitrag darf je Quadratmeter der Nutzfläche und Monat, sofern das Erstbezugsdatum fünf Jahre oder weniger zurückliegt, den Ausgangsbetrag von 0,50 Euro nicht übersteigen. Ab dem sechsten Jahr und für jedes weitere Jahr des Zurückliegens des Erstbezugsdatums erhöht sich dieser Betrag um 12 vH pro Jahr, jeweils gerechnet vom Ausgangsbetrag. Der Erhaltungs- und Verbesserungsbeitrag darf jedoch je Quadratmeter der Nutzfläche und Monat zwei Euro nicht übersteigen. Die angeführten Beträge vermindern oder erhöhen sich – erstmals am 1. April 2018 – jedes zweite Jahr in dem Maß, das sich aus der Veränderung des von der Bundesanstalt Statistik Österreich verlautbarten Jahresdurchschnittswerts des Verbraucherpreisindex 2010 des jeweiligen Vorjahrs gegenüber dem Durchschnittswert des Jahres 2015 ergibt. Am 1. April 2024 können sich die Beträge gegenüber dem letzten Änderungszeitpunkt um nicht mehr als fünf Prozent erhöhen. Am 1. April 2026 vermindern oder erhöhen sich die Beträge gegenüber dem letzten Änderungszeitpunkt in dem Maß, das sich aus der Veränderung des von der Bundesanstalt Statistik Österreich verlautbarten Jahresdurchschnittswerts des Verbraucherpreisindex 2010 des Vorjahres gegenüber dem Jahresdurchschnittswert des diesem vorangegangenen Jahres ergibt; gegenüber dem letzten Änderungszeitpunkt können sich die Beträge jedoch um nicht mehr als fünf Prozent erhöhen. Erstmals am 1. April 2027 und sodann jährlich vermindern oder erhöhen sich die Beträge gegenüber dem jeweils letzten Änderungszeitpunkt in dem Maß, das sich aus der durchschnittlichen Veränderung des von der Bundesanstalt Statistik Österreich verlautbarten Jahresdurchschnittswerts des Verbraucherpreisindex 2010 in den drei dem Valorisierungszeitpunkt vorangegangenen Jahren ergibt. Sofern die sich nach dem vorangegangenen Satz ermittelte Veränderung fünf Prozent übersteigt, ist der fünf Prozentpunkte übersteigende Teil nur zur Hälfte zu berücksichtigen. Bei der Berechnung der neuen Beiträge sind Beträge, die einen halben Cent nicht übersteigen, auf den nächst niedrigeren ganzen Cent abzurunden und Beträge, die einen halben Cent übersteigen, auf den nächst höheren ganzen Cent aufzurunden. Die neuen Beträge gelten jeweils ab dem 1. April des betreffenden Jahres.
+
+(3) Der Bundesminister für Wissenschaft, Forschung und Wirtschaft kann durch Verordnung Richtlinien für die Veröffentlichung der wertgesicherten Beträge samt der Anpassungsbeträge gemäß Abs. 2 sowie anderer wohnwirtschaftlicher Werte durch einen Revisionsverband erlassen. Vor Erlassung der Verordnung ist auch jeder Revisionsverband im Sinne des § 5 Abs. 1 anzuhören.
+
+(4) Verwendet die Bauvereinigung die von den Mietern oder sonstigen Nutzungsberechtigten entrichteten Erhaltungs- und Verbesserungsbeiträge nicht innerhalb einer Frist von zwanzig Kalenderjahren zur Finanzierung einer Erhaltungs- oder Verbesserungsarbeit, so hat die Bauvereinigung unverzüglich die von den Mietern oder sonstigen Nutzungsberechtigten entrichteten Erhaltungs- und Verbesserungsbeiträge zuzüglich der gesetzlichen Verzinsung (§ 1000 ABGB) zurückzuerstatten. Zur Rückforderung des nicht verbrauchten Erhaltungs- und Verbesserungsbeitrages (samt Verzinsung) ist der Mieter oder sonstige Nutzungsberechtigte berechtigt, der im Zeitpunkt der Fälligkeit dieses Anspruchs Mieter oder Nutzungsberechtigter der Wohnung oder des sonstigen Mietgegenstandes ist.
+
+(5) Mit Abgabe der Erklärung gemäß § 15e Abs. 3 erwirbt der Mieter oder sonstige Nutzungsberechtigte bei erstmaliger Wohnungseigentumsbegründung einen Anspruch auf Übertragung aller der zum Zeitpunkt der Abrechnung nach § 19b nicht verbrauchten Erhaltungs- und Verbesserungsbeiträge im Ausmaß von 60 vH in die Rücklage gemäß § 31 WEG 2002. Bei nachträglichem Wohnungseigentumserwerb sind 60 vH der auf den jeweiligen Miet- oder sonstigen Nutzungsgegenstand entfallenden, zum Zeitpunkt der Abrechnung nach § 19c nicht verbrauchten Erhaltungs- und Verbesserungsbeiträge zahlungsmindernd zu berücksichtigen. Soweit gegen die Abrechnungen gemäß § 19b (Schlussabrechnung bei nachträglicher Wohnungseigentumsbegründung) und § 19c (Zwischenabrechnung bei nachträglichem Wohnungseigentumserwerb) nicht binnen sechs Monaten ab Legung vom erwerbenden Mieter oder sonstigen Nutzungsberechtigten begründete Einwendungen gerichtlich erhoben werden, gelten die Abrechnung sowie die Höhe der in die Rücklage gemäß § 31 WEG 2002 zu übertragenden, nicht verbrauchten bzw. die Höhe der zahlungsmindernd zu berücksichtigenden Erhaltungs- und Verbesserungsbeiträge als endgültig geprüft und anerkannt.
+
+> **Anmerkung:** ÜR: Art. IV Z 9, BGBl. Nr. 559/1985
+
+> **Beachte:** zum Bezugszeitraum vgl. § 39 Abs. 36 und 40
+
+##### Art. 1 § 14e – Vermietung von Wohnungseigentumsobjekten
+
+§ 14e. Das Entgelt für die Überlassung eines Miet- oder sonstigen Nutzungsgegenstandes gemäß § 20 Abs. 1 Z 2b, der im Wohnungseigentum einer Bauvereinigung steht, richtet sich bezüglich seiner Zulässigkeit weiterhin nach den §§ 13 bis 14d, bezüglich seiner Abrechnung jedoch vorrangig nach den nach wohnungseigentumsrechtlichen Grundsätzen auf dieses Wohnungseigentumsobjekt entfallenden Beträgen entsprechend § 19a Abs. 2 lit. a bis d (gemäß § 19d Abs. 1 Z 1) sowie hinsichtlich der Erhaltungs- und Verbesserungsbeiträge nach § 19d Abs. 1 Z 2 und Abs. 2.
+
+##### Art. 1 § 14f
+
+§ 14f. Wird an einer Baulichkeit erstmals Wohnungseigentum begründet, so gilt für bestehende Miet- oder sonstige Nutzungsverhältnisse § 14e als vereinbart.
+
+##### Art. 1 § 15 – Berechnung des Preises
+
+§ 15. (1) Der Preis für die Übertragung des Eigentums (Miteigentum) an Wohnungen, Heimen, Geschäftsräumen, Gemeindeeinrichtungen, Einstellplätzen (Garagen), Abstellplätzen oder für die Einräumung des Wohnungseigentums, sofern die erste Überlassung nicht in Miete oder sonstiger Nutzung erfolgt ist (§ 15b Abs. 1 lit. a), ist angemessen, wenn er unter Bedachtnahme auf § 13 gebildet wird. Wird ein Miteigentumsanteil übertragen, so gilt der dem Anteil entsprechende Betrag als angemessener Preis, sofern schriftlich nicht anderes (spätestens bei Bekanntgabe des Preises) vereinbart wurde oder eine andere Aufteilung durch gerichtliche Entscheidung vorliegt.
+
+(2) In der Verordnung gemäß § 13 Abs. 3 ist bei der Erstellung der Richtlinien für die Ermittlung des Preises auf die Bildung einer Rücklage nach den Grundsätzen einer ordnungsmäßigen Wirtschaftsführung Bedacht zu nehmen.
+
+##### Art. 1 § 15a – Fixpreis
+
+§ 15a. (1) Abweichend von den §§ 13 und 15 ist unter Bedachtnahme auf die Grundsätze des § 23, insbesondere dessen Abs. 4b, die Vereinbarung eines Fixpreises zulässig.
+
+(2) Werden gegen die Höhe des vereinbarten Fixpreises Einwendungen im Sinne des § 18 Abs. 3a erhoben und in einem Verfahren gemäß § 22 Abs. 1 Z 6a die offenkundige Unangemessenheit festgestellt, hat das Gericht den Preis gemäß den §§ 13 und 15 festzusetzen.
+
+(3) Der nach Abs. 2 vom Gericht festgesetzte Preis tritt an die Stelle des vereinbarten Fixpreises.
+
+##### Art. 1 § 15b – Nachträgliche Übertragung in das Eigentum (Miteigentum, Wohnungseigentum)
+
+§ 15b. (1) Eine Bauvereinigung kann ihre Baulichkeiten, Wohnungen und Geschäftsräume nachträglich in das Eigentum (Miteigentum, Wohnungseigentum) übertragen, wenn
+
+a) die erste Überlassung in Miete oder sonstiger Nutzung erfolgt ist,
+
+b) die Baulichkeit vor mehr als fünf Jahren erstmals bezogen worden ist,
+
+c) die Bauvereinigung nicht bloß Bauberechtigte ist,
+
+d) der Erwerber alle Verpflichtungen der Bauvereinigung, wie insbesondere von zur Finanzierung der Herstellung der Baulichkeit oder deren Erhaltung und Verbesserung gewährten Darlehen (anteilig) übernimmt,
+
+e) der Preis nach den Grundsätzen des § 23 angemessen ist.
+
+(2) Im Falle der Übertragung an eine gemeinnützige Bauvereinigung sind Abs. 1 lit. b und c nicht anzuwenden.
+
+(3) Im Falle des § 15c lit. b ist Abs. 1 lit. c nicht anzuwenden.
+
+##### Art. 1 § 15c – Anspruch auf nachträgliche Übertragung in das Wohnungseigentum
+
+§ 15c. Der Mieter oder sonstige Nutzungsberechtigte hat bei Vorliegen der Voraussetzungen des § 15b einen Anspruch auf Übertragung der Wohnung (des Geschäftsraumes) in das Wohnungseigentum:
+
+a) längstens bis zum Ablauf des 30. Jahres nach Erstbezug der Baulichkeit, bei unter Zuhilfenahme öffentlicher Mittel errichteten Wohnungen mit einer Nutzfläche von mehr als 40 m² und Geschäftsräumen, wenn die Förderung im Zeitpunkt des Abschlusses des Miet- oder sonstigen Nutzungsvertrages aufrecht war und neben dem Entgelt nach dem 30. Juni 2000 ein Einmalbetrag im Ausmaß von mehr als 50 € pro Quadratmeter Nutzfläche eingehoben worden ist:
+
+1\. aus Anlass der erstmaligen Überlassung zur Finanzierung von Grund- und/oder Baukosten, sofern die Zusicherung der öffentlichen Förderungsmittel nach dem 30. Juni 2000 erfolgt ist,
+
+2\. aus Anlass einer späteren Überlassung zur Finanzierung von Grundkosten,
+
+b) auf Grund eines verbindlichen Angebotes der Bauvereinigung, das neben den im Zusammenhang mit der Übertragung ins Wohnungseigentum stehenden Vertragsbedingungen nur mehr Bedingungen betreffend
+
+1\. eine Mindestzahl von Erklärungen gemäß § 15e Abs. 3,
+
+2\. die Finanzierung des Kaufpreises,
+
+3\. die Übernahme der Kosten gemäß § 23 Abs. 4c lit. d
+
+enthalten darf.
+
+Der Satz in der Höhe von 50 € gemäß lit. a vermindert oder erhöht sich jeweils zum 1. April entsprechend den durchschnittlichen Änderungen des von der Statistik Österreich für das vorangegangene Jahr verlautbarten Verbraucherpreisindex 1996 oder eines an seine Stelle getretenen Index.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 39 Abs. 37
+
+##### Art. 1 § 15d – Preis bei nachträglicher Übertragung in das Wohnungseigentum
+
+§ 15d. (1) Für die nachträgliche Übertragung von Wohnungen oder Geschäftsräumen in das Wohnungseigentum kann unter Bedachtnahme auf die Grundsätze des § 23, insbesondere dessen Abs. 4c, ein Fixpreis vereinbart werden.
+
+(2) Werden gegen die Höhe des angebotenen (vereinbarten) Fixpreises binnen sechs Monaten nach schriftlichem Angebot einer Fixpreisvereinbarung (durch die Bauvereinigung) Einwendungen im Sinne des § 18 Abs. 3a erhoben und in einem Verfahren gemäß § 22 Abs. 1 Z 6a die offenkundige Unangemessenheit festgestellt, hat das Gericht den Preis unter Bedachtnahme auf die Grundsätze des § 23 auf der Grundlage des Verkehrswertes unter Berücksichtigung aller wertbildenden Umstände im Zeitpunkt des Antrages (§ 15e) festzusetzen.
+
+(3) Der nach Abs. 2 vom Gericht festgesetzte Preis tritt an die Stelle des angebotenen (vereinbarten) Fixpreises.
+
+##### Art. 1 § 15e – Antrag auf nachträgliche Übertragung in das Wohnungseigentum
+
+§ 15e. (1) Stellt ein Mieter oder sonstiger Nutzungsberechtigter gemäß § 15c lit. a nach fünf-, höchstens aber zwanzigjähriger Dauer seines Miet- oder sonstigen Nutzungsvertrags einen Antrag auf Übertragung in das Eigentum (Miteigentum, Wohnungseigentum), hat die Bauvereinigung binnen drei Monaten eine Fixpreisvereinbarung gemäß § 15d schriftlich anzubieten. Die Vereinbarung einer längeren Frist ist zulässig, sofern deren Dauer sechs Monate nicht übersteigt. Der Mieter oder sonstige Nutzungsberechtigte kann je einen Antrag vom sechsten bis zum Ablauf des zehnten, vom elften bis zum Ablauf des fünfzehnten und vom sechzehnten bis zum Ablauf des zwanzigsten Jahres stellen.
+
+(2) Legt die Bauvereinigung kein fristgerechtes Angebot gemäß Abs. 1, hat das Gericht über Antrag des Mieters oder sonstigen Nutzungsberechtigten den Preis unter sinngemäßer Anwendung des § 15d Abs. 2 und 3 festzusetzen, sofern die Bauvereinigung auch über Aufforderung des Gerichtes binnen eines weiteren Monats kein Angebot gelegt hat.
+
+(3) Erklärt der Mieter oder sonstige Nutzungsberechtigte binnen sechs Monaten schriftlich entweder
+
+a) das Angebot der Bauvereinigung anzunehmen oder
+
+b) den Miet- oder sonstigen Nutzungsgegenstand zu dem vom Gericht festgesetzten Preis erwerben zu wollen, sowie alle Verpflichtungen (einschließlich aller Finanzierungsübernahmen) gemäß § 15b Abs. 1 lit. d zu übernehmen, wird er mit Erfüllung seiner Zahlungsverpflichtungen gegenüber der Bauvereinigung Wohnungseigentumsbewerber gemäß § 2 Abs. 6 Wohnungseigentumsgesetz 2002, BGBl. I Nr. 70/2002.
+
+(3a) Im Falle der rechtzeitigen Erhebung von Einwendungen gegen den Fixpreis nach § 15d Abs. 2 enden die Fristen nach Abs. 3 frühestens drei Monate nach rechtskräftiger Entscheidung über die Einwendungen.
+
+(4) § 37 Abs. 1 Wohnungseigentumsgesetz 2002, BGBl. I Nr. 70/2002, ist nicht anzuwenden.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 39 Abs. 37
+
+##### Art. 1 § 15f
+
+§ 15f. (1) Ein Anspruch gemäß § 15c lit. a besteht nur für Personen gemäß § 8 Abs. 4 und ihnen gemäß § 8 Abs. 5 gleichgestellte Personen. Auf diese Voraussetzung sowie die mit dem gesetzlichen Anspruch auf nachträgliche Übertragung in das Eigentum (Miteigentum, Wohnungseigentum) gemäß § 15c lit. a verbundenen Antragsrechte gemäß § 15e Abs. 1, ist im Miet- oder sonstigen Nutzungsvertrag hinzuweisen.
+
+(2) Bei unter Zuhilfenahme öffentlicher Mittel errichteten Wohnungen (Geschäftsräumen), wenn die Förderung aufrecht ist, darf ein Angebot gemäß § 15c lit. b nur Personen gemäß § 8 Abs. 4 und ihnen gemäß § 8 Abs. 5 gleichgestellte Personen gelegt werden.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 39 Abs. 37
+
+##### Art. 1 § 15g – Spekulationsfrist bei nachträglich erworbenem Eigentum
+
+§ 15g. (1) Der Bauvereinigung steht im Fall einer nachträglichen Übertragung von Wohnungen und Geschäftsräumlichkeiten gemäß § 15b in das Eigentum (Miteigentum, Wohnungseigentum) ein Vorkaufsrecht zu, das im Grundbuch einzuverleiben ist und dessen Rechtsfolgen im Kaufvertrag zu erläutern sind. Das Vorkaufsrecht zum Kaufpreis gemäß Abs. 2 Z 2 darf ohne Zustimmung der Bauvereinigung binnen fünfzehn Jahren nach Abschluss des Kaufvertrages nicht gelöscht werden. Es erlischt entweder nach Leistung des Differenzbetrages gemäß Abs. 2 oder spätestens nach fünfzehn Jahren.
+
+(2) Der Eigentümer hat im Fall einer (Weiter-)Übertragung binnen fünfzehn Jahren nach Abschluss des Kaufvertrages den Differenzbetrag, der sich aus dem Vergleich
+
+1\. des dem Käufer bekanntzugebenden Verkehrswerts im Zeitpunkt des schriftlichen Angebots der Bauvereinigung gemäß § 15e Abs. 1 oder § 15c lit. b (des vom Gericht ermittelten Verkehrswerts gemäß § 15d Abs. 2) mit
+
+2\. dem vereinbarten (§ 15d Abs. 1) oder festgesetzten (§ 15d Abs. 2 und § 15e Abs. 2) Kaufpreis ergibt, an die Bauvereinigung zu leisten.
+
+Bei nachträglicher Übertragung in das Eigentum (Miteigentum, Wohnungseigentum) gemäß § 15b, auf welche die Vorschriften der § 15c bis § 15f nicht anwendbar sind, ist unter Z 1 der dem Käufer bekanntzugebende Verkehrswert im Zeitpunkt des Abschlusses des Kaufvertrages zu verstehen, sowie unter Z 2 der vereinbarte Kaufpreis.
+
+(3) Als (Weiter-)Übertragung gemäß Abs. 1 und 2 gelten alle Rechtsgeschäfte unter Lebenden, ausgenommen die Übertragung des Eigentums oder des Mindestanteils oder des Anteils am Mindestanteil (§ 5 WEG 2002) an den Ehegatten, den eingetragenen Partner, Verwandte in gerader Linie, einschließlich der Wahlkinder oder Geschwister, sowie den Lebensgefährten. Lebensgefährte im Sinne dieser Bestimmung ist, wer mit dem veräußernden Wohnungseigentümer seit mindestens drei Jahren in der Wohnung in einer in wirtschaftlicher Hinsicht gleich einer Ehe oder eingetragenen Partnerschaft eingerichteten Haushaltsgemeinschaft lebt.
+
+(4) Einwendungen gegen die Höhe des dem Differenzbetrag gem. § 15g Abs. 2 zugrunde gelegten Verkehrswerts gem. § 15g Abs. 2 Z 1 sind binnen sechs Monaten nach dessen Vorschreibung gerichtlich (Gemeinde, § 39 MRG) geltend zu machen.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 39 Abs. 36
+
+##### Art. 1 § 15h
+
+§ 15h. Bei unter Zuhilfenahme öffentlicher Mittel errichteten oder finanzierten Wohnungen, die gemäß den §§ 15 und 15a sofort in das Eigentum (Miteigentum, Wohnungseigentum) übertragen werden oder die nachträglich gemäß §§ 15b ff in das Eigentum (Miteigentum, Wohnungseigentum) der bisherigen Mieter übertragen werden, gilt für einen Zeitraum von fünfzehn Jahren ab Abschluss des ersten Kaufvertrages der Vollanwendungsbereich des Mietrechtsgesetzes. Bei einem unbefristeten Hauptmietvertrag ist die Mietzinsvereinbarung insoweit unwirksam, als der Hauptmietzins den für das jeweilige Bundesland und die jeweilige Zinsperiode geltenden Richtwert aufgrund des RichtWG, BGBl Nr. 800/1993 überschreitet. Der höchstzulässige Hauptmietzins verringert sich im Fall eines befristeten Hauptmietvertrages (§ 29 Abs. 1 Z 3 MRG) um 25 vH.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 39 Abs. 36
+
+##### Art. 1 § 15i – Spekulationsfrist bei sofortigem Eigentum
+
+§ 15i. (1) Der Bauvereinigung steht im Fall einer Übertragung von Wohnungen und Geschäftsräumlichkeiten gemäß den §§ 15 und 15a in das Eigentum (Miteigentum, Wohnungseigentum) ein Vorkaufsrecht zu, das im Grundbuch einzuverleiben ist und dessen Rechtsfolgen im Kaufvertrag zu erläutern sind. Das Vorkaufsrecht zum Kaufpreis gemäß Abs. 2 Z 2 darf ohne Zustimmung der Bauvereinigung binnen fünfzehn Jahren nach Abschluss des Kaufvertrages nicht gelöscht werden. Es erlischt entweder nach Leistung des Differenzbetrages gemäß Abs. 2 oder spätestens nach fünfzehn Jahren.
+
+(2) Der Eigentümer hat im Fall einer (Weiter-)Übertragung binnen fünfzehn Jahren nach Abschluss des Kaufvertrages den Differenzbetrag, der sich aus dem Vergleich
+
+1\. des dem Käufer bekanntzugebenden Verkehrswerts im Zeitpunkt des Vertragsabschlusses (des vom Gericht ermittelten Verkehrswerts gemäß § 15a Abs. 2) mit
+
+2\. dem gemäß § 15 oder § 15a vereinbarten oder gemäß § 15a Abs. 2 festgesetzten Kaufpreis ergibt, an die Bauvereinigung zu leisten.
+
+(3) Als (Weiter-)Übertragung gemäß Abs. 1 und 2 gelten alle Rechtsgeschäfte unter Lebenden, ausgenommen die Übertragung des Eigentums oder des Mindestanteils oder des Anteils am Mindestanteil (§ 5 WEG 2002) an den Ehegatten, den eingetragenen Partner, Verwandte in gerader Linie, einschließlich der Wahlkinder oder Geschwister, sowie den Lebensgefährten. Lebensgefährte im Sinne dieser Bestimmung ist, wer mit dem veräußernden Wohnungseigentümer seit mindestens drei Jahren in der Wohnung in einer in wirtschaftlicher Hinsicht gleich einer Ehe oder eingetragenen Partnerschaft eingerichteten Haushaltsgemeinschaft lebt.
+
+(4) Einwendungen gegen die Höhe des dem Differenzbetrag gemäß Abs. 2 zugrunde gelegten Verkehrswerts gemäß Abs. 2 Z 1 sind binnen sechs Monaten nach dessen Vorschreibung gerichtlich (Gemeinde, § 39 MRG) geltend zu machen.
+
+> **Beachte:** Ist anzuwenden, wenn nach dessen Inkrafttreten ein Kaufvertrag gemäß § 15 oder § 15a abgeschlossen worden ist (vgl. Art. I § 39 Abs. 38).
+
+##### Art. 1 § 16 – Aufteilungsschlüssel
+
+§ 16. (1) Der Anteil eines Miet- oder sonstigen Nutzungsgegenstandes an den Gesamtkosten des Hauses bestimmt sich nach dem Verhältnis der Nutzfläche des Miet- oder sonstigen Nutzungsgegenstandes zur Nutzfläche aller in Bestand oder sonstige Nutzung gegebenen oder hiezu geeigneten Wohnungen, Wohnräume und sonstigen Räumlichkeiten des Hauses.
+
+(2) Die Nutzfläche, die in Quadratmetern auszudrücken ist, ist die gesamte Bodenfläche einer Wohnung oder einer sonstigen Räumlichkeit abzüglich der Wandstärken und der im Verlauf der Wände befindlichen Durchbrechungen (Ausnehmungen). Keller- und Dachbodenräume, soweit sie ihrer Ausstattung nach nicht für Wohn- oder Geschäftszwecke geeignet sind, sowie Treppen, offene Balkone und Terrassen sind bei der Berechnung der Nutzfläche nicht zu berücksichtigen; das gleiche gilt für die in § 2 Abs. 3 WEG 2002 sonst genannten Teile der Liegenschaft, die im Zubehör-Wohnungseigentum stehen können, sowie für Ein- oder Abstellplätze für Kraftfahrzeuge. Veränderungen der Nutzfläche auf Grund baulicher Maßnahmen des Mieters oder sonstigen Nutzungsberechtigten im Inneren des Miet- oder sonstigen Nutzungsgegenstandes einschließlich der Verglasung von Balkonen bleiben bis zur Beendigung seines Miet- oder sonstigen Nutzungsverhältnisses unberücksichtigt. Die Nutzfläche ist auf Grund des behördlich genehmigten Bauplans zu berechnen, es sei denn, daß eine Abweichung vom behördlich genehmigten Bauplan erwiesen wird; in diesem Fall ist die Nutzfläche nach dem Naturmaß zu berechnen. Bei Gebäuden, für die die Baubewilligung nach dem 1. Jänner 1985 erteilt wurde, ist die Nutzfläche auf Grund des baubehördlich genehmigten Bauplans zu berechnen, es sei denn, daß dies nicht möglich ist oder eine Abweichung vom behördlich genehmigten Bauplan um mehr als 3 vH erwiesen wird; in diesen Fällen ist die Nutzfläche nach dem Naturmaß zu berechnen.
+
+(3) Der Anteil eines Miet- oder sonstigen Nutzungsgegenstandes an den Gesamtkosten der Baulichkeit oder an einem oder mehreren Entgeltsbestandteilen im Sinne des § 14 Abs. 1, aber auch an den neben dem Entgelt vom Mieter oder sonstigen Nutzungsberechtigten zu erbringenden Beträgen (§ 14 Abs. 1 dritter Satz) kann von der Bauvereinigung abweichend von der Regelung des Abs. 1 auch im Verhältnis des Nutzwertes im Sinne des § 2 Abs. 8 WEG 2002 des Miet- oder Nutzungsgegenstandes zur Summe der Nutzwerte aller Miet- oder sonstigen Nutzungsgegenstände festgelegt werden.
+
+(4) Der Nutzwert ist auf Antrag der Bauvereinigung vom Gericht festzusetzen. Die §§ 8 bis 10 WEG 2002 sind anzuwenden.
+
+(5) Von einem Aufteilungsschlüssel gemäß Abs. 1 und 3 kann abgewichen werden
+
+1\. durch schriftliche Vereinbarung zwischen der Bauvereinigung und allen Mietern oder sonstigen Nutzungsberechtigten,
+
+2\. hinsichtlich des nach Abs. 3 festgelegten Anteils auch durch Entscheidung des Gerichts auf Antrag der Bauvereinigung oder eines Mieters oder sonstigen Nutzungsberechtigten, wenn sich der Anteil durch Vorgänge, die einer baubehördlichen Bewilligung bedürfen, oder durch Veränderung der Zuschläge oder Abstriche für werterhöhende oder wertvermindernde Unterschiede um mindestens 5 vH ändert. Der Antrag kann bis zum Ablauf eines Jahres nach Eintritt der Rechtskraft der baubehördlichen Bewilligung oder der tatsächlichen Änderung gestellt werden.
+
+(5a) Besteht zumindest an einer Wohnung oder sonstigen selbständigen Räumlichkeit des Hauses Wohnungseigentum (§ 2 Abs. 1 WEG 2002), so bedarf eine nach Wohnungseigentumsbegründung geschlossene Vereinbarung (Abs. 5 Z 1) auch der Zustimmung aller Wohnungseigentümer des Hauses, sofern für sie dieser Verteilungsschlüssel gemäß § 32 Abs. 1 zweiter Satz WEG 2002 maßgeblich ist.
+
+(6) Bei einzelnen Betriebskostenarten und bei den Kosten für gemeinschaftliche Anlagen, ausgenommen Heiz- und Warmwasserkosten, kann die Aufteilung durch schriftliche Vereinbarung zwischen der Bauvereinigung und allen Mietern oder sonstigen Nutzungsberechtigten nach dem Verhältnis der unterschiedlichen Nutzungsmöglichkeiten erfolgen. Die Heiz- und Warmwasserkosten sind, soweit nicht das Heizkostenabrechnungsgesetz, BGBl. Nr. 827/1992, in der jeweils geltenden Fassung anzuwenden ist, nach dem Verhältnis der unterschiedlichen Nutzungsmöglichkeiten aufzuteilen.
+
+(7) Wenn einzelne Aufwendungen vom Verbrauch abhängig sind und die Anteile der Miet- oder sonstigen Nutzungsgegenstände des Hauses am Gesamtverbrauch mit wirtschaftlich vernünftigem Kostenaufwand durch Meßvorrichtungen ermittelt werden können, kann durch schriftliche Vereinbarung zwischen der Bauvereinigung und einer Mehrheit von mindestens zwei Dritteln der Mieter oder sonstigen Nutzungsberechtigten – berechnet nach der Anzahl der in Bestand oder sonstige Nutzung gegebenen Miet- oder sonstigen Nutzungsgegenstände – des Hauses eine Aufteilung dieser Aufwendungen nach den Verbrauchsanteilen festgelegt werden. Bei Vorliegen einer solchen Vereinbarung hat jeder Mieter oder sonstige Nutzungsberechtigte die Erfassung der Verbrauchsanteile in seinem Miet- oder sonstigen Nutzungsgegenstand zu dulden. Konnten trotz zumutbarer Bemühungen Verbrauchsanteile nicht erfaßt werden, so sind sie, sofern dies dem Stand der Technik entspricht, durch rechnerische Verfahren zu ermitteln; die Nutzfläche, für die auf diese Weise die Verbrauchsanteile ermittelt werden, darf 20 vH nicht übersteigen. Der Teil der Aufwendungen, der dem auf die allgemeinen Teile des Hauses entfallenden Verbrauchsanteil zuzuordnen ist, ist nach dem Verhältnis der Nutzflächen im Sinn des Abs. 1 aufzuteilen. Die Bauvereinigung kann für diese Aufwendungen eine vom Kalenderjahr abweichende Abrechnungsperiode in der Dauer von zwölf Monaten vorsehen.
+
+##### Art. 1 § 17 – Rückzahlung von Beiträgen
+
+§ 17. (1) Bei Auflösung eines Miet- oder sonstigen Nutzungsvertrages entsteht dem ausscheidenden Mieter oder sonstigen Nutzungsberechtigten ein Anspruch auf Rückzahlung der von ihm zur Finanzierung des Bauvorhabens neben dem Entgelt geleisteten Beträge, vermindert um die ordnungsmäßige Absetzung für Abschreibung im gemäß Abs. 4 festgesetzten Ausmaß.
+
+(2) Vom Nachfolgemieter darf neben dem Entgelt der Betrag gemäß Abs. 1 verlangt oder unter sinngemäßer Anwendung des § 17a Abs. 1 ganz oder teilweise durch Eigen- oder Fremdmittel ersetzt werden.
+
+(3) Der Betrag gemäß Abs. 1 ist binnen acht Wochen nach Räumung des Miet- oder sonstigen Nutzungsgegenstandes an den ausscheidenden Mieter oder sonstigen Nutzungsberechtigten auszuzahlen, soweit er nicht zur Tilgung von berechtigten Forderungen des Vermieters aus dem Mietverhältnis herangezogen wird.
+
+(4) Die Beträge gemäß Abs. 1 sind mit 1 vH pro Jahr, gerechnet ab Erteilung der baubehördlichen Benützungsbewilligung, bei allfälligem früheren Beziehen der Baulichkeit ab diesem Zeitpunkt abzuschreiben.
+
+(5) Bei Baulichkeiten, für die die baubehördliche Benützungsbewilligung vor dem 1. Jänner 1955 erteilt wurde, finden die Bestimmungen der Abs. 1 und 2 keine Anwendung.
+
+(6) Sämtliche vom Mieter oder sonstigen Nutzungsberechtigten neben dem Entgelt zu erbringende Beträge haben auf einer Berechnungsgrundlage (Preisbasis) zu beruhen, die nicht länger als ein Jahr, gerechnet vom Vertragsabschluß, zurückliegt. Die geleisteten Beträge sind im Falle der Vertragsauflösung vor Baubeginn zurückzuerstatten und mit dem sich aus § 14 Abs. 1 Z 3 ergebenden Zinsfuß jährlich zu verzinsen.
+
+##### Art. 1 § 17a – Umfinanzierung von Beiträgen
+
+§ 17a. (1) Abweichend von § 13 Abs. 2 können vom Mieter oder sonstigen Nutzungsberechtigten neben dem Entgelt geleistete Grund- und Baukostenbeiträge nachträglich bis zum Ausmaß gemäß § 17 Abs. 1 unter sinngemäßer Anwendung des § 13 Abs. 2b durch Eigen- oder Fremdmittel ersetzt werden. Für die sich daraus ergebende Änderung der Entgeltberechnung ist § 14 Abs. 1 sinngemäß anzuwenden.
+
+(2) Im Falle einer Umfinanzierung gemäß Abs. 1 hat der Mieter oder sonstige Nutzungsberechtigte – unabhängig von der Auflösung seines Miet- oder sonstigen Nutzungsvertrages – binnen acht Wochen insoweit einen Anspruch auf Rückzahlung gemäß § 17 Abs. 1.
+
+(3) Für die von der Bauvereinigung zur Umfinanzierung eingesetzten Eigen- oder Fremdmittel können auch die Beträge gemäß § 14 Abs. 7 Z 1 verwendet werden.
+
+##### Art. 1 § 17b – Umfinanzierung von Fremdmitteln
+
+§ 17b. (1) Abweichend von § 13 Abs. 2 können von der Bauvereinigung zur Finanzierung der gesamten Herstellungskosten eingesetzte Fremdmittel ganz oder teilweise durch Eigenmittel der Bauvereinigung ersetzt oder sonst umfinanziert werden, sofern sich dadurch die gemäß § 14 Abs. 1 der Berechnung des Entgelts zugrunde zu legenden Beträge jedenfalls nicht erhöhen. § 13 Abs. 2b und § 17a Abs. 3 sind sinngemäß anzuwenden.
+
+(2) Macht die Sachlage, insbesondere die Endfälligkeit von Finanzierungsanteilen, eine Um- oder Anschlussfinanzierung nach den Grundsätzen des § 23 Abs. 1 notwendig, so ändert sich das Entgelt entsprechend; die dafür maßgeblichen Grundlagen – insbesondere die Höhe des jeweiligen Zinssatzes – sind bei der nächstfolgenden Entgeltsvorschreibung dem Mieter oder sonstigen Nutzungsberechtigten schriftlich bekanntzugeben (§ 14 Abs. 1 zweiter Satz).
+
+##### Art. 1 § 17c – Umfinanzierung von Eigenmitteln
+
+§ 17c. Abweichend von § 13 Abs. 2 können von der Bauvereinigung zur Finanzierung der gesamten Herstellungskosten eingesetzte Eigenmittel ganz oder teilweise durch Fremdmittel ersetzt werden, sofern sich dadurch die gemäß § 14 Abs. 1 der Berechnung des Entgelts zugrunde zu legenden Beträge nicht erhöhen. § 13 Abs. 2b und § 17a Abs. 3 sind sinngemäß anzuwenden.
+
+##### Art. 1 § 18 – Zwingende Vertragsbestimmungen
+
+§ 18. (1) In Verträgen im Sinne des § 13 Abs. 1 sind die zu erbringenden Grund- und Baukosten getrennt anzuführen und Berechnungsgrundlagen (Preisbasis) aufzunehmen, die nicht länger als ein Jahr, gerechnet vom Vertragsabschluß, zurückliegen und die, sofern mit der Bauführung nicht innerhalb eines Jahres begonnen wird, mit Baubeginn entsprechend berichtigt werden. Ferner sind in den Miet- oder sonstigen Nutzungsverträgen der in § 17 Abs. 4 erster Satz angeführte Zeitpunkt sowie jene Beträge anzuführen, die im Zusammenhang mit dem erstmaligen Bezug des Miet- oder sonstigen Nutzungsgegenstandes als Grund- und Baukostenbeiträge zu leisten waren oder sind.
+
+(2) Abweichend von Abs. 1 ist in Verträgen über die Vereinbarung eines Fixpreises gemäß § 15a oder § 15d nur die diesem Preis zugrunde gelegte normale Ausstattung anzuführen. Bei Sonderausstattungen ist anzugeben, was davon im Fixpreis berücksichtigt ist.
+
+(3) Die Bauvereinigung ist verpflichtet, jedem Vertragspartner binnen 5 Jahre nach erstmaligem Bezug der Baulichkeit (Wohnung, Geschäftsraum) die Endabrechnung über die gesamten Herstellungskosten (§ 13 Abs., 2) zu legen. Die Frist verlängert sich jeweils um ein Kalenderjahr, sofern das Bauvorhaben gefördert ist und die förderungsrechtliche Endabrechnung nicht spätestens 6 Monate vor ihrem Ablauf durch die Förderstelle genehmigt und bekanntgegeben wurde. Die Bauvereinigung hat ihren Vertragspartnern innerhalb von 3 Jahren nach Legung der Endabrechnung in geeigneter Weise Einsicht in die dazugehörigen Belege – bei Belegen auf Datenträgern Einsicht in Ausdrucke der Belege – zu gewähren. Auf Verlangen der Vertragspartner sind von den eingesehenen Belegen auf ihre Kosten Abschriften (Ablichtungen, weitere Ausdrucke) anfertigen zu lassen.
+
+Einwendungen gegen die Höhe der dem Entgelt (Preis) zugrunde gelegten gesamten Herstellungskosten (§ 13 Abs. 2) sind binnen drei Kalenderjahren ab Legung der Abrechnung gerichtlich (bei der Gemeinde, § 39 MRG) geltend zu machen.
+
+(3a) Einwendungen gegen die Höhe des Fixpreises können nur wegen offenkundiger Unangemessenheit in den Fällen
+
+1\. des § 15a nach schriftlicher Vereinbarung des Fixpreises, längstens sechs Monate nach Bezug der Baulichkeit (Wohnung, Geschäftsraum),
+
+2\. des § 15d binnen sechs Monaten nach schriftlichem Angebot gemäß § 15e Abs. 1
+
+gerichtlich geltend gemacht werden.
+
+(3b) Ein Fixpreis gemäß §§ 15a und 15d ist offenkundig unangemessen, wenn er den ortsüblichen Preis für frei finanzierte gleichartige Objekte – in den Fällen des § 15d unter Berücksichtigung der vom Mieter oder sonstigen Nutzungsberechtigten zu übernehmenden Verpflichtungen der Bauvereinigung – übersteigt.
+
+(4) Einwendungen gegen die Höhe des Entgelts, insbesondere auf Grund offenkundig unangemessener Zinssatzvereinbarungen (§ 14 Abs. 1 Z 2), können auch nach Ablauf der Frist gemäß Abs. 3, längstens jedoch binnen drei Jahren nach schriftlicher Bekanntgabe der zugrunde liegenden Entgeltsanpassungen gerichtlich geltend gemacht werden. § 16 Abs. 8 zweiter und dritter Satz MRG sind sinngemäß anzuwenden. § 19 Abs. 1 letzter Satz bleibt unberührt.
+
+(5) Beträge die auf Grund einer unwirksamen (teilunwirksamen) Vereinbarung im Sinne des § 21 Abs. 1 Z 1 geleistet wurden, können innerhalb der Frist des Abs. 3 zurückgefordert werden.
+
+##### Art. 1 § 19 – Jährliche Abrechnungen
+
+§ 19. (1) Eine die Baulichkeit verwaltende Bauvereinigung hat die Interessen aller Mieter oder sonstigen Nutzungsberechtigten zu wahren sowie spätestens zum 30. Juni eines jeden Jahres jedem Mieter oder sonstigen Nutzungsberechtigten je eine Abrechnung über die Erhaltungs- und Verbesserungsbeiträge nach § 14 Abs. 1 Z 5 einschließlich der Einnahmen aus der Vermietung oder Überlassung von Dach- und Fassadenflächen zu Werbezwecken sowie über die Betriebskosten, die Kosten von Gemeinschaftsanlagen und die öffentlichen Abgaben nach § 14 Abs. 1 Z 7 für das vorausgegangene Kalenderjahr zu legen und in geeigneter Weise Einsicht in die Belege – bei Belegen auf Datenträgern Einsicht in Ausdrucke der Belege – zu gewähren. Jeder Mieter oder sonstige Nutzungsberechtigte kann verlangen, dass die Übersendung der Abrechnungen an ihn nicht im Postweg, sondern durch elektronische Übermittlung geschieht. Ebenso sind die nach § 14 Abs. 7 Z 2a und 3 sowie Abs. 8 Z 1 und 3 verwendeten und die nach § 14 Abs. 5a erster und zweiter Satz ermittelten Beträge in der jeweiligen Abrechnung auszuweisen. Auf Verlangen der Mieter oder sonstigen Nutzungsberechtigten sind von den eingesehenen Belegen auf ihre Kosten Abschriften (Ablichtungen, weitere Ausdrucke) anfertigen zu lassen. Je ein Exemplar der Abrechnung ist an einer geeigneten Stelle zur Einsicht aufzulegen. Soweit gegen die gelegten Abrechnungen über die Betriebskosten, die Kosten von Gemeinschaftsanlagen und die öffentlichen Abgaben nach § 14 Abs. 1 Z 7 nicht binnen sechs Monaten ab Auflage begründete Einwendungen erhoben werden, gelten sie als endgültig geprüft und anerkannt.
+
+(2) Kommt die Bauvereinigung der im Abs. 1 ausgesprochenen Verpflichtung zur Abrechnung und Einsichtsgewährung nicht nach, so ist sie auf Antrag eines Mieters oder sonstigen Nutzungsberechtigten vom Gericht dazu zu verhalten. § 20 Abs. 4 des Mietrechtsgesetzes gilt sinngemäß.
+
+(3) Der Bundesminister für wirtschaftliche Angelegenheiten kann durch Verordnung ÖNORMEN bezeichnen, die in besonderem Maß geeignet sind, das Vorliegen der Voraussetzungen für eine ordnungsgemäße Abrechnung nach Abs. 1 festzustellen.
+
+##### Art. 1 § 19a – Jährliche Abrechnungen bei vermietetem Wohnungseigentum
+
+§ 19a. (1) Die jährlichen Abrechnungen bei vermietetem Wohnungseigentum haben auf Grundlage des § 34 WEG 2002 nach Maßgabe des § 14e für das einzelne Wohnungseigentumsobjekt zu erfolgen.
+
+(2) Als Grundlage für eine ordentliche Einzelabrechnung gemäß Abs.1 haben die Bauvereinigung oder ein ihr nachfolgender Verwalter gemäß Abs. 4 die Abrechnung gemäß § 34 WEG 2002 zu gliedern in:
+
+a) Betriebskosten im Sinne des § 21 Abs. 1 MRG – ausgenommen dessen Z 7,
+
+b) öffentliche Abgaben im Sinne des § 21 Abs. 2 MRG,
+
+c) Verwaltungskosten,
+
+d) besondere Aufwendungen im Sinne des § 24 MRG,
+
+e) Kosten der Erhaltung und Verbesserung sowie
+
+f) die übrigen Aufwendungen, die gemäß § 14e dem Entgelt nicht zugrunde gelegt werden dürfen.
+
+(3) § 19 Abs. 1 und 2 sind sinngemäß anzuwenden.
+
+(4) Verfügt die Bauvereinigung nicht mehr über die Mehrheit der Miteigentumsanteile oder wird sie vorher als Verwalterin durch das Gericht gemäß § 21 Abs. 3 zweiter Fall WEG 2002 abberufen, so kann die Eigentümergemeinschaft gemäß § 19 WEG 2002 auch eine andere natürliche oder juristische Person zum Verwalter bestellen. Solange die Bauvereinigung über die Mehrheit der Miteigentumsanteile verfügt, ist § 37 Abs. 4 WEG 2002 für nachträgliche Übertragungen in das Wohnungseigentum anzuwenden, die nicht gemäß § 15c zugunsten der bisherigen Mieter oder sonstigen Nutzungsberechtigten mit einer zuvor mindestens fünfjährigen Miet- oder Nutzungsdauer erfolgen, Anstelle eines Gutachtens gemäß § 37 Abs. 4 WEG 2002 hat die Bauvereinigung diesen jedoch mit Angebotslegung eine Vorausschau gemäß § 20 Abs. 2 WEG 2002 zu übermitteln.
+
+##### Art. 1 § 19b – Schlussabrechnung bei nachträglicher Wohnungseigentumsbegründung
+
+§ 19b. Im Fall einer nachträglichen Wohnungseigentumsbegründung hat die Bauvereinigung spätestens mit Legung der ersten Abrechnung gemäß § 19a für alle Miet- oder sonstigen Nutzungsgegenstände für den Zeitraum bis zur Wohnungseigentumsbegründung eine Abrechnung gemäß § 19 zu legen.
+
+##### Art. 1 § 19c – Zwischenabrechnung bei nachträglichem Wohnungseigentumserwerb
+
+§ 19c. Die Bauvereinigung hat dem erwerbenden Mieter oder sonstigen Nutzungsberechtigten eines nach § 14e vermieteten Wohnungseigentumsobjekts für den Zeitraum bis zur Wohnungseigentumsübertragung spätestens mit der nächsten Abrechnung gemäß § 19a eine Zwischenabrechnung zu legen.
+
+##### Art. 1 § 19d – Jährliche Abrechnung gegenüber dem Wohnungseigentums-Mieter
+
+§ 19d. (1) Die Abrechnung gegenüber dem Mieter oder sonstigen Nutzungsberechtigten eines von der Bauvereinigung vermieteten Wohnungseigentumsobjekts ist jedenfalls als ordnungsgemäß gelegt anzusehen, wenn sie
+
+1\. die vom Verwalter (§ 19a Abs. 4) der Bauvereinigung als Wohnungseigentümerin ordnungsgemäß gelegte Einzelabrechnung gemäß § 19a und
+
+2\. a) die insgesamt auf die vermieteten Wohnungseigentumsobjekte entfallenden, angemessenen Beiträge zur Rücklage gemäß § 14d Abs. 1a,
+
+b) die Kosten gemäß § 14a für Maßnahmen im Inneren der Wohnungseigentumsobjekte
+
+c) die Aufwendungen für den Ersatz von Mieterinvestitionen gemäß § 20 Abs. 5 sowie
+
+3\. eine Gegenüberstellung mit den vom Mieter oder sonstigen Nutzungsberechtigten geleisteten (zu leistenden) Zahlungen
+
+enthält. Im Übrigen ist § 19 Abs. 1 und 2 sinngemäß anzuwenden.
+
+(2) Zu den Beiträgen gemäß Abs. 1 Z 2 lit. a ist das (anteilige) Ausmaß der aus der Rücklage gemäß § 31 WEG 2002 für Erhaltung und Verbesserung verwendeten Beträge bekannt zu geben.
+
+(3) Der Bundesminister für Wirtschaft und Arbeit kann durch Verordnung auch nur diesbezügliche Teile von ÖNORMEN bezeichnen, die in besonderem Maß als Grund- und Vorlage für eine ordentliche Abrechnung gegenüber dem Wohnungseigentums-Mieter geeignet sind.
+
+##### Art. 1 § 20 – Anwendung mietrechtlicher Bestimmungen
+
+§ 20. (1) Für die Überlassung des Gebrauches einer Wohnung oder eines Geschäftsraumes aus dem Titel eines Miet- oder sonstigen Nutzungsvertrages in einer Baulichkeit, die von einer Bauvereinigung im eigenen Namen errichtet worden ist oder auf die die Voraussetzungen des § 20a zutreffen, wird folgendes bestimmt:
+
+1\. Wenn die Miet- oder sonstigen Nutzungsgegenstände der Baulichkeit im Eigentum (Baurecht) einer Bauvereinigung stehen,
+
+a) gelten die §§ 3 bis 6, § 10, § 13 Abs. 3 zweiter Satz, die §§ 15a bis 16a, 17 bis 18b, § 18c Abs. 1, 3 und 4, §§ 19 und 20, § 21 Abs. 1 Z 7 und Abs. 6, § 22 sowie die Verteilungsgrundsätze des § 24 Abs. 1 und die §§ 43, 45 und 47 des Mietrechtsgesetzes nicht; dessen §§ 37 bis 40 nur nach Maßgabe des § 22 dieses Bundesgesetzes;
+
+b) sind § 2 und die §§ 7 bis 9 sowie die §§ 11 bis 14, ausgenommen § 13 Abs. 3 zweiter Satz, § 15 mit der Maßgabe, dass als Hauptmietzins im Sinne dessen Absatz 1 Z 1 das nach § 14 Abs. 1 Z 1 bis 5 und 8 dieses Bundesgesetzes jeweils zulässige Entgelt gilt. § 16b, § 18c Abs. 2, § 21 – ausgenommen dessen Abs. 1 Z 7 und Abs. 6 – und die §§ 23 und 24 – ausgenommen die Verteilungsgrundsätze des Abs. 1 –, die §§ 25 bis 42a, 46 – dessen Abs. 2 jedoch nach Maßgabe der §§ 13 Abs. 4 und 6 und 39 Abs. 18 Z 2 dieses Bundesgesetzes – und 46a bis 46c, 49a und 52a des Mietrechtsgesetzes auf die Überlassung des Gebrauches einer Wohnung oder eines Geschäftsraumes aus dem Titel eines Miet- oder sonstigen Nutzungsvertrages auch in den Fällen anzuwenden, in denen § 1 des Mietrechtsgesetzes anderes bestimmt;
+
+c) sind abweichend von lit. b die §§ 12 bis 14 MRG nicht anzuwenden und darf die Mindestbefristungsdauer von drei Jahren für Wohnungen gemäß § 29 Abs. 1 Z 3 lit. b MRG nur unterschritten werden, wenn ein Miet- oder sonstiger Nutzungsvertrag
+
+aa) über einen Mietgegenstand, der im Rahmen eines Beherberungsbetriebes ohne touristische Nutzung mit einer Mindestbefristungsdauer von zwei Monaten oder des Betriebes eines hierfür besonders eingerichteten Heimes für ledige oder betagte Menschen, Lehrlinge, jugendliche Arbeitnehmer, Schüler oder Studenten oder
+
+bb) über Wohnungen oder Wohnräume gemäß § 1 Abs. 2 Z 1a MRG oder
+
+cc) über eine Wohnung oder Wohnräume mit einer sozialen Einrichtung, die die Betreuung betreuungsbedürftiger Menschen wahrnimmt oder direkt mit einer Betreuungsperson (einer Pflegekraft), oder einer Person, die in naher Umgebung einen nahen Angehörigen pflegt oder
+
+dd) über Mietgegenstände in Baulichkeiten, die gemäß § 2 Z 1 in absehbarer Zeit, spätestens aber innerhalb von 18 Monaten in größerem Umfang saniert werden oder
+
+ee) in einem Studentenheim, das nicht ausgelastet ist, ein kurzfristiger Gastvertrag iSd § 5b Studentenheimgesetz mit Personen, die keine Studierenden gemäß § 4 Abs. 1 Studentenheimgesetz sind
+
+abgeschlossen wird.
+
+2\. Wenn ein Miet- oder sonstiger Nutzungsgegenstand der Baulichkeit im Wohnungseigentum der Bauvereinigung steht, gelten die Bestimmungen dieses Bundesgesetzes sowie die in Z 1 lit. a und b genannten Bestimmungen des Mietrechtsgesetzes.
+
+2a. Wenn (Wohnungs-)Eigentum aus Anlass der Errichtung gemäß den §§ 15 und 15a eingeräumt oder an einem Miet- oder sonstigen Nutzungsgegenstand der Baulichkeit zugunsten des bisherigen Mieters gemäß den §§ 15b bis 15i (Wohnungs-)Eigentum begründet (oder bereits begründetes Eigentum veräußert) worden ist, gelten die Bestimmungen dieses Bundesgesetzes mit Ausnahme dessen § 15h nicht und jene des Mietrechtsgesetzes nach Maßgabe dessen § 1 Abs. 1, 2 und 4, sofern § 15h nichts anderes bestimmt.
+
+2b. Wenn an einem Miet- oder sonstigen Nutzungsgegenstand der Baulichkeit sonst nachträglich Wohnungseigentum begründet worden ist, gelten die in Z 3 genannten Bestimmungen dieses Bundesgesetzes.
+
+3\. Wenn nach der Errichtung der Baulichkeit
+
+a) das Eigentum (Baurecht) an einen Erwerber übergeht, der keine gemeinnützige Bauvereinigung ist oder
+
+b) die Bauvereinigung die Gemeinnützigkeit verliert,
+
+sind die Bestimmungen der § 8 Abs. 3 letzter Satz, §§ 13 bis 15f, §§ 15h bis 20 Abs. 1 Z 1 lit. b, §§ 20 Abs. 1 Z 2 bis 22 und § 39 Abs. 8 bis 13, 18, 19, 21 und 24 bis 27 dieses Bundesgesetzes weiterhin sinngemäß anzuwenden.
+
+4\. Der Artikel IV des 2. Wohnrechtsänderungsgesetzes ist sinngemäß anzuwenden.
+
+(2) Als weitere, die Bauvereinigung zur Kündigung berechtigende wichtige Gründe im Sinne des § 30 des Mietrechtsgesetzes sind anzusehen:
+
+1\. ab 1. Jänner 1989, wenn für das Miet- oder sonstige Nutzungsverhältnis gemäß § 1 Abs. 2 Z 2 des Mietrechtsgesetzes auch seit dem 1. Jänner 1986 nicht dessen §§ 30 bis 36, wohl aber die §§ 19 bis 23 des Mietengesetzes anzuwenden waren, und sich der Mieter oder sonstige Nutzungsberechtigte weigert, der Erhöhung des Entgelts für die Überlassung des Gebrauches seines Miet- oder Nutzungsgegenstandes auf den Betrag zuzustimmen, der nach den Vorschriften dieses Bundesgesetzes zu entrichten wäre;
+
+2\. ab 1. Juli 1991, wenn gemäß Schillingeröffnungsbilanzgesetz, BGBl. Nr. 190/1954, eine Baulichkeit neu zu bewerten war sowie bis zum 31. Dezember 1981 den gemäß § 58 Abs. 3 Z 2 des Mietrechtsgesetzes außer Kraft getretenen Bindungen des Zinsstoppgesetzes, BGBl. Nr. 132/1954, unterlag, und sich der Mieter oder sonstige Nutzungsberechtigte weigert, der Erhöhung des Entgeltes für die Überlassung des Gebrauches seines Miet- oder Nutzungsgegenstandes auf den Betrag zuzustimmen, der unter Anwendung des Schillingeröffnungsbilanzgesetzes und nach den Vorschriften dieses Bundesgesetzes zu entrichten wäre.
+
+(3) Auf Kündigungen nach Abs. 2 ist § 33 Abs. 2 des Mietrechtsgesetzes sinngemäß anzuwenden.
+
+(3a) § 382f EO gilt für ein diesem Bundesgesetz unterliegendes Miet- oder sonstiges Nutzungsverhältnis entsprechend.
+
+(4) Eine Bauvereinigung in der Rechtsform einer Genossenschaft kann im Fall des § 12 oder § 14 des Mietrechtsgesetzes verlangen, dass die in den Nutzungsvertrag eintretende(n) Person(en) der Genossenschaft als Mitglied beitritt/beitreten.
+
+(5) Der Mieter oder sonstige Nutzungsberechtigte einer Wohnung, der in den letzten zwanzig Jahren vor Beendigung des Miet- oder sonstigen Nutzungsverhältnisses in der zum Gebrauch überlassenen Wohnung Aufwendungen zur wesentlichen Verbesserung (§ 9 des Mietrechtsgesetzes) gemacht hat, die über seine Miet- oder sonstige Nutzungsdauer hinaus wirksam und von Nutzen sind, hat bei Beendigung des Miet- oder sonstigen Nutzungsverhältnisses Anspruch auf Ersatz der Aufwendungen nach Maßgabe der folgenden Voraussetzungen:
+
+1\. Der Anspruch auf Ersatz dieser Aufwendungen vermindert sich um eine jährliche Abschreibung. Das Ausmaß dieser Abschreibung beträgt für jedes vollendete Jahr:
+
+a) bei den in Z 2 lit. a und b genannten Aufwendungen ein Zehntel,
+
+b) bei den von einer Gebietskörperschaft aus öffentlichen Mitteln geförderten Aufwendungen einen Bruchteil, der sich aus der Laufzeit der Förderung errechnet,
+
+c) sonst ein Zwanzigstel.
+
+2\. Ersatzfähige Aufwendungen sind:
+
+a) die Errichtung oder die den Erfordernissen der Haushaltsführung dienende Umgestaltung von Wasserleitungs-, Lichtleitungs-, Gasleitungs-, Beheizungs- (einschließlich der Errichtung von Wärmeversorgungsanlagen) oder sanitären Anlagen in normaler und dem jeweiligen Stand der Technik entsprechender Ausstattung sowie die Erneuerung einer bei Beginn des Miet- oder sonstigen Nutzungsverhältnisses vorhandenen, aber schadhaft gewordenen Heiztherme oder eines solchen Warmwasserboilers,
+
+b) die gänzliche Erneuerung eines schadhaft gewordenen Fußbodens in einer dem sonstigen Ausstattungszustand der Wohnung entsprechenden Ausführung,
+
+c) andere gleich wesentliche Verbesserungen, insbesondere solche, die von einer Gebietskörperschaft aus öffentlichen Mitteln gefördert worden sind.
+
+3\. Ein Anspruch auf Ersatz besteht nicht, wenn die Bauvereinigung berechtigterweise die Zustimmung verweigert oder an die Verpflichtung zur Wiederherstellung des früheren Zustandes gebunden hat oder wenn die Bauvereinigung, weil ihr der Mieter oder sonstige Nutzungsberechtigte die wesentliche Veränderung nicht angezeigt hat, verhindert war, das eine oder andere zu tun.
+
+4\. Der Anspruch auf Ersatz ist bei sonstigem Verlust des Anspruches der Bauvereinigung vom Mieter oder sonstigen Nutzungsberechtigten unter Vorlage von Rechnungen schriftlich anzuzeigen:
+
+a. bei einvernehmlicher Auflösung des Miet- oder sonstigen Nutzungsverhältnisses spätestens 14 Tage nach Abschluss der Auflösungsvereinbarung,
+
+b. bei Aufkündigung des Miet- oder sonstigen Nutzungsverhältnisses durch den Mieter oder sonstigen Nutzungsberechtigten spätestens 14 Tage nach Zustellung der Aufkündigung an die Bauvereinigung,
+
+c) in allen übrigen Fällen binnen einer Frist von zwei Monaten ab Eintritt der Rechtskraft des Räumungstitels, bei früherer Zurückstellung des Miet- oder Nutzungsgegenstandes jedoch spätestens mit der Zurückstellung.
+
+4a. Entspricht eine rechtzeitig erstattete Anzeige des Ersatzanspruches in Form oder Inhalt nicht der Regelung der Z 4, so hat die Bauvereinigung den Mieter oder sonstigen Nutzungsberechtigten zur Verbesserung des Mangels binnen einer Frist von mindestens 14 Tagen aufzufordern. Der Verlust des Ersatzanspruches tritt nur ein, wenn der Mieter oder sonstige Nutzungsberechtigte einer solchen Aufforderung nicht fristgerecht nachkommt.
+
+5\. Der Ersatz der Aufwendungen gilt als eine Maßnahme im Sinne des § 14a Abs. 2 Z 2 zweiter Halbsatz zweiter Fall und ist nach § 19 Abs. 1 abzurechnen.
+
+6\. Auf den Ersatzanspruch kann der Mieter oder sonstige Nutzungsberechtigte im voraus nicht rechtswirksam verzichten.
+
+7\. Weitergehende Ansprüche nach den §§ 1097, 1036, 1037 des Allgemeinen Bürgerlichen Gesetzbuches bleiben unberührt.
+
+(6) Ist im Fall der Überlassung des Gebrauchs einer Wohnung oder einer Geschäftsräumlichkeit aus dem Titel eines Miet- oder sonstigen Nutzungsvertrages Abs. 1, mit Ausnahme dessen Z 2a, anwendbar, hat der Eigentümer (Miteigentümer, Wohnungseigentümer, Baurechtseigentümer) aus Anlass einer Eigentumsübertragung, gemäß § 20 lit. b GBG 1955, BGBl. Nr. 39, Folgendes im Grundbuch anmerken zu lassen: Bei Vermietung gelten die mietrechtlichen Bestimmungen des WGG. Die Anmerkung darf, außer in den Fällen der §§ 131 bis 136 GBG 1955, nicht gelöscht werden.
+
+> **Anmerkung:** ÜR: Abschnitt VII § 16 Abs. 3, BGBl. Nr. 340/1987; Abschnitt II Art. V Abs. 3, BGBl. Nr. 68/1991
+
+> **Beachte:** Der zeitliche Anwendungsbereich wird gemäß § 8 ABGB bestimmt (vgl. Art. IV Abs. 1v).
+
+##### Art. 1 § 20a – Erwerb bestehender Baulichkeiten
+
+§ 20a. Die Überlassung des Gebrauches einer Wohnung oder eines Geschäftsraumes aus dem Titel eines Miet- oder sonstigen Nutzungsvertrages in einer Baulichkeit, die von einer Bauvereinigung zum Zwecke der Sanierung größeren Umfanges (§ 2 Z 1 zweiter Satz und § 13 Abs. 8) im Eigentum (Baurecht) erworben wurde, unterliegt im Umfang des § 20 den Bestimmungen dieses Bundesgesetzes, wenn
+
+1\. an der Wohnung oder am Geschäftsraum im Zeitpunkt des Erwerbes kein aufrechtes Miet- oder sonstiges Nutzungsverhältnis bestanden hat oder
+
+2\. ein an der Wohnung oder dem Geschäftsraum vor dem Erwerb begründetes Miet- oder sonstiges Nutzungsverhältnis nach dem Erwerb aufgelöst worden ist oder
+
+3\. der Mieter oder sonstige Nutzungsberechtigte der Umwandlung seines Miet- oder sonstigen Nutzungsverhältnisses in ein solches nach den Bestimmungen dieses Bundesgesetzes – nach schriftlicher, verständlicher Information über die daraus entstehenden Rechtsfolgen – schriftlich zugestimmt hat.
+
+##### Art. 1 § 21 – Rechtsunwirksame Vereinbarungen
+
+§ 21. (1) Vereinbarungen einer Bauvereinigung mit einem Mieter, sonstigen Nutzungsberechtigten oder Erwerber einer Liegenschaft (Liegenschaftsanteiles) sind insoweit rechtsunwirksam, als sie
+
+1\. zum Nachteil des Vertragspartners der Bauvereinigung von den Bestimmungen der §§ 13 bis 15, 15b bis 20 und 22 abweichen,
+
+2\. die dem Erwerber eines Siedlungshauses nach den §§ 918 bis 921, 932 und 934 ABGB zustehenden Rechte beschränken,
+
+3\. anläßlich der Übertragung eines Siedlungshauses die Unkündbarkeit von Verwaltungsverträgen für eine fünf Jahre übersteigende Frist vorsehen oder
+
+4\. Vereinbarungen vorsehen, die geeignet sind, die dem Eigentümer eines Siedlungshauses zustehenden Nutzungs- und Verfügungsrechte aufzuheben oder zu beschränken, wie insbesondere Vereinbarungen über Vor- und Wiederkaufsrechte.
+
+(2) Die Bauvereinigung ist verpflichtet, im Falle der Übertragung des Eigentums an einem Siedlungshaus ohne Verzug, längstens jedoch innerhalb eines Jahres nach Erteilung der Benützungsbewilligung, bei allfälligem früheren Beziehen nach diesem Zeitpunkt, die zur Einverleibung des Eigentumsrechtes erforderlichen Anträge zu stellen und die hiefür notwendigen Urkunden zu errichten, sofern nicht sonstige gesetzliche Vorschriften entgegenstehen.
+
+(3) Ist die Bauvereinigung mit der Stellung der Anträge oder Errichtung der Urkunden nach Abs. 2 säumig, so kann der Erwerber eines Siedlungshauses die Bauvereinigung auf die Einwilligung in die Einverleibung seines Eigentumsrechtes bei dem Bezirksgericht klagen, in dessen Sprengel das Siedlungshaus gelegen ist. Auf dieses Verfahren finden die Bestimmungen der Jurisdiktionsnorm, RGBl. Nr. 111/1895, insbesondere deren § 60 Abs. 2, und die Zivilprozeßordnung, RGBl. Nr. 113/1895, mit der Maßgabe Anwendung, daß § 43 Abs. 2 und 3 WEG 2002 sinngemäß gilt.
+
+(4) Vereinbarungen einer Bauvereinigung, die im Zusammenhang mit der Finanzierung ihrer Baulichkeiten eingegangen werden, sind insoweit rechtsunwirksam, als sie die gemeinnützige Bauvereinigung verpflichten, von den Vorschriften zur Erfüllung ihres gesetzlichen Auftrages – insbesondere von den §§ 13 bis 20 und 23 – abzuweichen.
+
+##### Art. 1 § 22 – Verfahren
+
+§ 22. (1) Über die Anträge in den im folgenden genannten Angelegenheiten entscheidet das für Zivilrechtssachen zuständige Bezirksgericht, in dessen Sprengel die Baulichkeit gelegen ist:
+
+1\. Durchführung von Erhaltungs- und Verbesserungsarbeiten (§§ 14a bis 14c);
+
+2\. Durchsetzung des Anspruchs auf Wiederherstellung (§ 7 Mietrechtsgesetz);
+
+2a. Festsetzung des Preises (§§ 15b und 15c);
+
+3\. Duldung von Eingriffen in das Miet- oder sonstige Nutzungsverhältnis zur Durchführung von Erhaltungs-, Verbesserungs- und Änderungsarbeiten einschließlich des Anspruches auf angemessene Entschädigung (§ 8 Abs. 2 und 3 Mietrechtsgesetz);
+
+4\. Veränderung (Verbesserung) der zum entgeltlichen Gebrauch überlassenen Wohnung oder des Geschäftsraumes (§ 9 Mietrechtsgesetz) sowie Ersatz von Aufwendungen auf eine Wohnung (§ 20 Abs. 5);
+
+5\. Wohnungstausch (§ 13 Mietrechtsgesetz);
+
+6\. Angemessenheit des vereinbarten oder begehrten Preises (§ 15) und Entgelts (§ 13 Abs. 4 bis 6 und § 14);
+
+6a. Geltendmachung offenkundiger Unangemessenheit des Fixpreises (§ 15a und § 15d);
+
+6b. Festsetzung oder Neufestsetzung des Nutzwertes (§ 16 Abs. 4 und 5);
+
+6c. Geltendmachung der offenkundigen Unangemessenheit von Zinssatzvereinbarungen (§ 14 Abs. 1 Z 2);
+
+7\. Verteilung der Kosten für den Betrieb (§ 14 Abs. 1 und § 16);;
+
+8\. Erhöhungen nach § 14 Abs. 2 bis 4 und § 14c;
+
+9\. Legung der Abrechnungen (§§ 19 bis 19c);
+
+10\. Anteil an den Betriebskosten und laufenden Abgaben, Anteil an den Auslagen für die Verwaltung, Anteil an den angemessenen Aufwendungen für die Hausbetreuung, Anteil an den besonderen Aufwendungen (§ 14 Abs. 1 und § 16; §§ 21, 23 und 24 Mietrechtsgesetz);;
+
+11\. Richtigkeit des Erhaltungs- und Verbesserungsbeitrages und Rückzahlung (§ 14d);
+
+11a. Feststellung des Deckungsbetrages (§ 14 Abs. 3a);
+
+12\. Höhe des nach § 17 zurückzuzahlenden Betrages;
+
+12a. Feststellung des nach den §§ 15g Abs. 4 und 15i Abs. 4 zulässigerweise begehrten oder geleisteten Betrages;
+
+13\. Rückzahlung von Leistungen und Entgelten – ausgenommen Beträge nach § 14 Abs. 1, § 14 Abs. 9 Z 2 oder § 17 – die auf ungültigen und verbotenen Vereinbarungen im Sinne des § 27 des Mietrechtsgesetzes beruhen.
+
+13a. Legung der Endabrechnung über die Herstellungskosten (§ 18 Abs. 3).
+
+14\. Höhe des rückforderbaren Kautionsbetrages (§ 16b Mietrechtsgesetz)
+
+(2) Bei Anträgen nach Abs. 1 Z 6 und 6a, womit Einwendungen gegen die Höhe der dem Entgelt (Preis) zugrunde gelegten gesamten Herstellungskosten oder gegen die Höhe des Fixpreises geltend gemacht werden, gilt § 18 Abs. 3. Bei einem Antrag nach Abs. 1 Z 6, womit die Überprüfung der Zulässigkeit des Entgelts oder Preises mit der Behauptung begehrt wird, die Berechnung verstoße gegen § 13, weil die Baukostenverrechnung nicht vollständig oder nicht richtig sei oder Leistungen enthalte, die nicht oder nicht vollständig erbracht worden seien, gilt folgendes:
+
+1\. der belangten Bauvereinigung ist die Vorlage der Endabrechnung über die gesamten Baukosten aufzutragen; der Vorlage ist ein Verzeichnis aller Vertragspartner im Sinne des § 13 Abs. 1 der Bauvereinigung in diesem Zeitpunkt anzuschließen;
+
+2\. nach Vorlage der Unterlagen nach Z. 1 ist dem Antragsteller aufzutragen, binnen sechs Monaten die behaupteten Berechnungsfehler kurz und vollständig anzugeben; gleichzeitig ist den von der Bauvereinigung genannten sowie dem Gericht sonst bekanntgewordenen übrigen Vertragspartnern im Sinne des § 13 Abs. 1 mitzuteilen, daß sie berechtigt sind, in gleicher Weise behauptete Berechnungsfehler binnen sechs Monaten anzugeben;
+
+3\. sodann hat das Gericht nach Durchführung einer mündlichen Verhandlung durch gesondert anfechtbaren Beschluß die Tatsachen, über welche auf Grund der Einwendungen nach Z. 2 Beweis zu erheben ist, genau zu bezeichnen;
+
+4\. nach Rechtskraft des Beschlusses nach Z. 3 ist ein zur Deckung der zur Durchführung eines Sachverständigenbeweises erforderlicher Kostenvorschuß zur Hälfte der Bauvereinigung und zur Hälfte den Parteien aufzuerlegen, die Einwendungen nach Z. 2 erhoben haben.
+
+(2a) Im Falle einer Baukostenverrechnung über einen Generalunternehmer kann die Überprüfung der Zulässigkeit des Entgelts oder Preises mit der Behauptung begehrt werden, die Berechnung verstoße gegen § 13, weil die Baukostenverrechnung Leistungen enthalte, die nicht oder nicht vollständig erbracht worden seien. Abs. 2 Z 1 bis 4 sind mit der Maßgabe anzuwenden, dass
+
+1\. neben der Vorlage der Endabrechnung der gesamten Baukosten das dem Generalunternehmervertrag zugrunde liegende Leistungsverzeichnis anzuschließen ist und
+
+2\. nach Vorlage der Unterlagen nach Z 1 dem Antragsteller aufzutragen ist, binnen sechs Monaten die behauptete Minderleistung kurz und vollständig anzugeben.
+
+(3) Gilt der Verteilungsschlüssel für die Kosten für den Betrieb (§ 14 Abs. 1 und § 16) gemäß § 32 Abs. 1 zweiter Satz WEG 2002 auch für die Miteigentümer der Liegenschaft, so stehen jedem dieser Miteigentümer in den im Abs. 1 Z 7 angeführten Angelegenheiten die in Abs. 4 und 5 eingeräumten Rechte und Pflichten in gleicher Weise wie einem Mieter oder Nutzungsberechtigten zu.
+
+(4) Im Übrigen gelten in den in Abs. 1 angeführten Verfahren die allgemeinen Bestimmungen über das gerichtliche Verfahren in Rechtsangelegenheiten außer Streitsachen mit den in § 37 Abs. 2, Abs. 2a, Abs. 3 Z 1, 6, 8 bis 17, 19 und 20 und Abs. 4 sowie in den §§ 38 bis 40 MRG genannten und den folgenden Besonderheiten:
+
+1\. In einem Verfahren, das von einem oder mehreren Mietern oder sonstigen Nutzungsberechtigten einer Baulichkeit gegen die Bauvereinigung eingeleitet wird, ist der verfahrenseinleitende Antrag auch jenen anderen Mietern oder sonstigen Nutzungsberechtigten zuzustellen, deren Interessen durch eine stattgebende Entscheidung darüber unmittelbar berührt werden könnten; diesen Mietern oder sonstigen Nutzungsberechtigten ist Gelegenheit zur Teilnahme am Verfahren zu geben, wofür es genügt, wenn sie zu einem Zeitpunkt, zu dem dies noch zulässig ist, Sachvorbringen erstatten können.
+
+2\. In einem Verfahren, das von der Bauvereinigung gegen Mieter oder sonstige Nutzungsberechtigte einer Baulichkeit eingeleitet wird, kommt Parteistellung auch jenen anderen Mietern oder sonstigen Nutzungsberechtigten der Baulichkeit zu, deren Interessen durch eine stattgebende Entscheidung über den Antrag unmittelbar berührt werden könnten.
+
+3\. Die Zustellung an die anderen, in ihren Interessen unmittelbar berührten Mieter oder sonstigen Nutzungsberechtigten der Baulichkeit nach Z 1 kann durch Anschlag an einer für alle Hausbewohner deutlich sichtbaren Stelle des Hauses (bei mehreren Stiegenhäusern an einer entsprechenden Mehrzahl solcher Stellen) vorgenommen werden. Der Anschlag darf frühestens nach 30 Tagen abgenommen werden. Die Zustellung des verfahrenseinleitenden Antrags gilt mit Ablauf dieser Frist als vollzogen, spätere Zustellungen hingegen schon mit dem Anschlag. Die Gültigkeit der Zustellung wird dadurch, dass der Anschlag noch vor Ablauf dieser Frist abgerissen oder beschädigt wurde, nicht berührt.
+
+4\. Kommt in einem Verfahren nach Z 2 mehr als sechs Mietern oder sonstigen Nutzungsberechtigten Parteistellung zu, so kann die Zustellung an diese Mieter oder sonstigen Nutzungsberechtigten durch Anschlag nach Z 3 und damit verbundene individuelle Zustellung an einen dieser Mieter oder sonstigen Nutzungsberechtigten, der vom Gericht zu bestimmen ist, vorgenommen werden.
+
+5\. Zustellungen an die Bauvereinigung können auch zu Handen der von der Bauvereinigung zur Verwaltung der Liegenschaft bestellten gemeinnützigen Bau- oder Verwaltungsvereinigung vorgenommen werden.
+
+6\. In den in Z 1 angeführten Verfahren erstreckt sich die Rechtskraft von antragsstattgebenden Sachbeschlüssen über Feststellungsbegehren auf alle Mieter und sonstigen Nutzungsberechtigten, denen der verfahrenseinleitende Antrag nach Z 1 zugestellt wurde.
+
+\*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 124/2006)*
+
+> **Anmerkung:** ÜR: Abschnitt II Art. V Abs. 3, BGBl. Nr. 68/1991
+
+##### Art. 1 § 23 – Rechnungslegung, Wirtschaftlichkeit der Geschäftsführung und Verwaltung
+
+§ 23. (1) Geschäftsführung und Verwaltung einer gemeinnützigen Bauvereinigung müssen den Grundsätzen der Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit entsprechen.
+
+(1a) Nach den Grundsätzen des Abs. 1 hat die Bauvereinigung insbesondere auch die nachträgliche Verpflichtung, entsprechend der Entwicklung auf dem Kapitalmarkt angemessene Darlehenskonditionen (§ 14 Abs. 1 Z 2) zu vereinbaren.
+
+(2) Die Rechnungslegung gemeinnütziger Bauvereinigungen hat unabhängig von deren Größe und Rechtsform grundsätzlich in Anwendung der Bestimmungen des Unternehmensgesetzbuches und des § 260 des Aktiengesetzes in der Fassung des Artikels III des 2. WÄG und unter Bedachtnahme auf den gesetzlich festgelegten Geschäftskreis (§ 7) zu erfolgen.
+
+(3) Der Bundesminister für wirtschaftliche Angelegenheiten kann durch Verordnung Richtlinien erlassen, die unter Berücksichtigung branchenüblicher Verhältnisse Regelungen zur Sicherung einer ordnungsgemäßen Geschäftsführung und Geschäftsgebarung zu enthalten haben.
+
+(4) Der Bundesminister für Wissenschaft, Forschung und Wirtschaft hat im Einvernehmen mit dem Bundesminister für Justiz unter Berücksichtigung der gesetzlichen Rücklage gemäß § 10 Abs. 6 die nähere Gliederung der Bilanz und der Gewinn- und Verlustrechnung unter Anwendung der §§ 224 und 231 UGB nach Maßgabe des Abs. 2 und entsprechend verbindliche Formblätter durch Verordnung festzulegen.
+
+(4a) Der Bundesminister für wirtschaftliche Angelegenheiten kann durch Verordnung Richtlinien erlassen, die auf der Grundlage des § 15a nähere Bestimmungen über die Berechnung des Fixpreises, insbesondere auch über die Höhe des Pauschalsatzes zur Risikoabgeltung, der sich nach den Kosten einer Bankgarantie zur Sicherstellung der Ansprüche des Wohnungseigentumsbewerbers zu richten hat, sowie über die Vereinbarkeit des Fixpreises mit den Grundsätzen des Abs. 1 im Hinblick auf die Sicherung einer ordnungsgemäßen Geschäftsführung und Geschäftsgebarung zu enthalten haben.
+
+(4b) Der Fixpreis nach § 15a ist innerhalb einer Bandbreite zu ermitteln. Die Untergrenze dieser Bandbreite bemisst sich nach den Kosten des Grunderwerbs, zuzüglich einer Abgeltung für notwendige und nützliche Aufwendungen und der Finanzierungskosten, und den Baukosten gemäß § 13 Abs. 2, ihre Obergrenze nach den Grund- und Baukosten sowie den Rücklagen gemäß § 13 Abs. 1 zuzüglich eines Pauschalsatzes zur Risikoabgeltung.
+
+(4c) Der nach § 15d zu ermittelnde Fixpreis ist ausgehend vom Substanzwert, unter Bedachtnahme auf den Verkehrswert im Zeitpunkt des Anbots der Fixpreisvereinbarung, oder ausgehend von § 15a (§ 23 Abs. 4b), unter Bedachtnahme auf eine jeweils sachgerechte und angemessene Absetzung für Abschreibung und eine Wertsicherung zu berechnen.
+
+In der Ermittlung des Barkaufpreises sind in der Vereinbarung insbesondere die anteilige Übernahme aller Verpflichtungen der Bauvereinigung (§15b Abs. 1 lit. c) und die Einmalbeträge (§ 17), zu berücksichtigen.
+
+Der Fixpreis muss mindestens dem Buchwert entsprechen und in ihm muss jedenfalls die Summe aus nachfolgenden Kosten Deckung finden:
+
+a) die anteiligen Verpflichtungen der Bauvereinigung,
+
+b) die anteilig von ihr eingesetzten Eigenmittel,
+
+c) die von der Bauvereinigung zu leistenden Beträge bei einer erforderlichen Berichtigung des Vorsteuerabzugs,
+
+d) die anteiligen Kosten der Wohnungseigentumsbegründung, der Verwertung und der Information der Mieter und sonstigen Nutzungsberechtigten, wie im Besonderen über förderungsrechtliche Auswirkungen.
+
+e) bei bereits bestehendem Wohnungseigentum die anteilige Höhe der Rücklage gemäß § 31 WEG 2002
+
+(4d) Die Bauvereinigung ist verpflichtet, in Zweifelsfällen – insbesondere bei einem unwirtschaftlich hohen energetischen Sanierungsbedarf (§ 14a Abs. 2 Z 5) – in einer unternehmensinternen Kalkulation die Kosten einer umfassenden Sanierung den Kosten eines Abbruchs samt den Kosten der Errichtung einer Baulichkeit in räumlicher Nähe (§ 2 Z 1) gegenüber zu stellen. Die Sinnhaftigkeit einer umfassenden Sanierung trotz unwirtschaftlich hoher Sanierungskosten ist zu begründen.
+
+(4e) Die Bauvereinigung ist verpflichtet, im Fall umfassender Sanierungen unternehmensintern die wirtschaftliche Zweckmäßigkeit von Nachverdichtungen gem. § 13 Abs. 7, einschließlich deren technischer Machbarkeit, zu prüfen.
+
+(5) Vor Erlassung einer Verordnung gemäß Abs. 3 und 4a ist auch jeder Revisionsverband im Sinne des § 5 Abs. 1 anzuhören.
+
+> **Anmerkung:** ÜR: Abschnitt II Art. V Abs. 4, BGBl. Nr. 68/1991
+
+##### Art. 1 § 24 – Zuverlässigkeit der Verwaltung
+
+§ 24. (1) Es dürfen keine Tatsachen vorliegen, welche die Annahme rechtfertigen, daß ein dem satzungsmäßigen Zweck oder den guten Sitten entsprechender Geschäftsbetrieb nicht stattfindet oder nicht stattfinden wird. Im Vorstand, im Aufsichtsrat, als Geschäftsführer, Prokurist oder Handlungsbevollmächtigter der Bauvereinigung dürfen nur Personen tätig sein, bei denen keine Tatsachen vorliegen, die Zweifel an ihrer geschäftlichen Zuverlässigkeit rechtfertigen. Mit einer Organwalterschaft dürfen nur Personen betraut werden, die nach ihrer Ausbildung, ihrer beruflichen sowie bisherigen Tätigkeit bei gemeinnützigen Bauvereinigungen Gewähr für eine ordnungsmäßige Aufgabenerfüllung bieten.
+
+(2) Der Bundesminister für Wissenschaft, Forschung und Wirtschaft kann durch Verordnung Richtlinien zu erlassen, die unter Berücksichtigung insbesondere der branchenüblichen Verhältnisse aber auch der in anderen Regelungsbereichen und Branchen festgelegten Anforderungen Vorschriften über die persönliche Eignung und Zuverlässigkeit des in Abs. 1 genannten Personenkreises zu enthalten haben. Dabei können auch nähere Regelungen über branchen- oder unternehmensintern umzusetzende Maßnahmen zur Durchsetzung dieser Voraussetzungen getroffen werden. In den Richtlinien sind auch Vorgaben über branchen- oder unternehmensintern umzusetzende Maßnahmen zugunsten einer verantwortungsvollen Unternehmensführung und -kontrolle sowie Vorgaben über Regelungen zur Einhaltung besonderer ethischer Standards zu treffen. Vor Erlassung der Verordnung ist auch jeder Revisionsverband im Sinne des § 5 Abs. 1 anzuhören.
+
+##### Art. 1 § 24a – Datenermittlung
+
+§ 24a. (1) Die Bezirksverwaltungsbehörden, in Gebieten von Gemeinden, für die Landespolizeidirektionen zugleich Sicherheitsbehörde erster Instanz sind, diese, haben als Sicherheitsbehörden bei der gemäß den §§ 3 Abs. 1 und 24 Abs. 1 vorgeschriebenen Überprüfung der Zuverlässigkeit mitzuwirken.
+
+(2) Die Behörden gemäß Abs. 1 sind ermächtigt, personenbezogene Daten, die sie bei der Vollziehung von Bundes- oder Landesgesetzen ermittelt haben, zu verarbeiten und Daten, die Bedenken an der geschäftlichen Zuverlässigkeit im Sinne des § 24 der betroffenen Personen begründen, den Aufsichtsbehörden gemäß § 29 mitzuteilen.
+
+##### Art. 1 § 25 – Vergütungen
+
+§ 25. Sämtliche Vergütungen, Aktiv- und Pensionsbezüge sowie Reisegebühren für die Mitglieder des Vorstandes, Geschäftsführer, Mitglieder des Aufsichtsrates und für Angestellte gemeinnütziger Bauvereinigungen sowie deren Beteiligungsgesellschaften müssen in einem angemessenen Verhältnis zur finanziellen Leistungskraft der Unternehmen, zum Umfang ihrer Bau- und Verwaltungstätigkeit sowie den Bezugsobergrenzen gemäß § 26 stehen. Bei der Anschaffung von Dienstkraftwägen sind die jeweils geltenden Vorschriften gemäß der PKW-Angemessenheitsverordnung, BGBl. II Nr. 466/2004, anzuwenden.
+
+##### Art. 1 § 26 – Bezüge von Vorstandsmitgliedern und Geschäftsführern
+
+§ 26. Für Anstellungsverträge bei Bestellung von neuen Mitgliedern des Vorstands sowie von neuen Geschäftsführern gemeinnütziger Bauvereinigungen sind § 7 Abs. 1 Z 2 Stellenbesetzungsgesetz, BGBl. I Nr. 26/1998, sowie die §§ 2 und 3 Bundes-Vertragsschablonenverordnung, BGBl. II Nr. 254/1998, in den jeweils geltenden Fassungen sinngemäß anzuwenden. Bestehende Anstellungsverträge können wahlweise unter Anwendung von §§ 25 und 26 in der aktuellen Fassung umgestellt werden.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 39 Abs. 37
+
+##### Art. 1 § 27 – Rechtswirkungen der Anerkennung
+
+§ 27. Einer Bauvereinigung, die auf Grund der Bestimmungen dieses Bundesgesetzes als gemeinnützig anerkannt ist, obliegen folgende Verpflichtungen:
+
+1\. Der Vorstand (Geschäftsführer) hat nach Ablauf jedes Geschäftsjahres der Landesregierung, der Finanzbehörde und dem Revisionsverband den Jahresabschluß des abgelaufenen Geschäftsjahres zusammen mit dem Lagebericht binnen vier Wochen nach Erstellung vorzulegen.
+
+2\. Die Bauvereinigung hat sich den Prüfungen durch den Revisionsverband und den von der Landesregierung angeordneten Prüfungen zu unterziehen.
+
+3\. Auf Verlangen der Landesregierung hat die Bauvereinigung eine Stellungnahme zu den Prüfungsberichten innerhalb einer von der Landesregierung festzusetzenden Frist vorzulegen. Sie ist weiters verpflichtet, der Landesregierung alle für die Ausübung des Aufsichtsrechtes (§ 29) erforderlichen Auskünfte zu erteilen und den von der Landesregierung erteilten Anordnungen nachzukommen.
+
+4\. Die Bauvereinigung hat den in den Prüfungsberichten enthaltenen Beanstandungen innerhalb angemessener Frist durch geeignete Maßnahmen Rechnung zu tragen.
+
+5\. Die Bauvereinigung ist verpflichtet, die Landesregierung so zeitgerecht von der Anberaumung einer General- oder Hauptversammlung zu verständigen, daß sie zu dieser einen Vertreter ohne Stimmrecht entsenden kann. Der Vertreter ist auf sein Verlangen zu hören.
+
+6\. Die Auflösung der Bauvereinigung sowie jede Veränderung im Vorstand, in der Geschäftsführung und im Aufsichtsrat sowie jede Änderung des Genossenschaftsvertrages (Gesellschaftsvertrag, Satzung), das Bestehen von Verwandtschaftsverhältnissen im Sinne des § 9a Abs. 4 zwischen den Organwaltern und das Bestehen von Treuhandschaften, sind dem Revisionsverband und der Landesregierung unverzüglich bekanntzugeben.
+
+> **Anmerkung:** ÜR: Abschnitt II Art. V Abs. 4, BGBl. Nr. 68/1991
+
+##### Art. 1 § 28 – Überwachung und Durchführung der Prüfung
+
+§ 28. (1) Für die Durchführung der Prüfung (§ 5) von Genossenschaften gilt das Genossenschaftsrevisionsgesetz 1997, BGBl. I Nr. 127, Art. I, mit den in den nachstehenden Absätzen sowie in den §§ 23 und 29 angeführten Ergänzungen und Abweichungen. Auch bei Bauvereinigungen in der Rechtsform der Gesellschaft mit beschränkter Haftung oder der Aktiengesellschaft hat die Prüfung diesen Vorschriften zu entsprechen.
+
+(2) Der Leiter der Prüfungsstelle wird auf Vorschlag des Obmannes von der Generalversammlung bestellt. Maßgebend für die Tätigkeit der Prüfer sind neben den Bestimmungen dieses Bundesgesetzes die einschlägigen Gesetze und sonstigen Vorschriften, die Prüfungsrichtlinien und der Genossenschaftsvertrag (Gesellschaftsvertrag, Satzung) der zu prüfenden Bauvereinigung. Der Beginn und der Schluß der Prüfung ist vom Prüfer der für die zu prüfende Bauvereinigung zuständigen Landesregierung unverzüglich zu melden.
+
+(3) Die regelmäßige Prüfung ist in jedem Geschäftsjahr vor Feststellung des Jahresabschlusses durchzuführen. Der Jahresabschluß ist unter Einbeziehung der Buchführung und des Lageberichtes zu prüfen und unter Anwendung der Vorschriften des § 274 UGB mit einem Bestätigungsvermerk zu versehen. Hat keine Prüfung stattgefunden, so darf der Jahresabschluß nicht festgestellt werden; ein trotzdem festgestellter Jahresabschluß ist rechtsunwirksam.
+
+(4) Die Prüfung hat sich unter Bedachtnahme auf Artikel V § 2 Abs. 2 des Genossenschaftsrevisionsrechtsänderungsgesetzes 1997 auch auf die Einhaltung des § 1 Abs. 2 und der §§ 3 bis 27 zu erstrecken.
+
+(5) Der Revisionsverband hat, wenn er es für erforderlich hält oder wenn es die Landesregierung verlangt, auch außerordentliche Prüfungen durchzuführen.
+
+(6) Stellt die Bauvereinigung die in den Prüfungsberichten festgestellten Mängel innerhalb einer angemessenen Frist nicht ab, ist dies der Landesregierung mitzuteilen.
+
+(7) Die Prüfungsberichte sind vom Revisionsverband spätestens drei Monate nach Beendigung der Prüfung der Landesregierung und der zuständigen Finanzbehörde vorzulegen. Wenn behördliche Maßnahmen dringend erforderlich erscheinen, ist das Prüfungsergebnis unverzüglich der Landesregierung und der zuständigen Finanzbehörde mitzuteilen.
+
+(8) Den Prüfungsberichten ist ein Auszug anzuschließen, der in übersichtlicher Form folgende Angaben über die geprüfte Bauvereinigung enthält:
+
+1\. den letzten geprüften Jahresabschluß mit dem Bestätigungs- oder Prüfungsvermerk und dem Gebarungsvermerk,
+
+2\. gegebenenfalls die Gründe, die zu einer Einschränkung oder Versagung des Bestätigungs- bzw. Prüfungsvermerkes oder des Gebarungsvermerkes geführt haben,
+
+3\. die Namen der Mitglieder des Vorstandes bzw. der Geschäftsführer und die Namen der Mitglieder des Aufsichtsrates im Zeitpunkt der Prüfung,
+
+4\. die Zahl der verwalteten Wohnungen zum Bilanzstichtag,
+
+5\. die Zahl der im letzten Jahr, auf das sich die Prüfung bezieht, und in den beiden diesem vorangegangenen Jahren fertiggestellten Wohnungen,
+
+\*(Anm.: Z 6 aufgehoben durch BGBl. Nr. 800/1993)*
+
+7\. die Höhe des Eigenkapitalanteils, der sich gemäß § 7 Abs. 6 errechnet.
+
+(9) Die Kosten der Prüfungen durch den Revisionsverband einschließlich der Prüfungen gemäß § 29 Abs. 2 sind von der Bauvereinigung zu tragen.
+
+##### Art. 1 § 29 – Aufsicht
+
+§ 29. (1) Die gesamte Geschäftsführung gemeinnütziger Bauvereinigungen unterliegt der behördlichen Überwachung. Die Landesregierung ist berechtigt, in alle Geschäftsunterlagen Einsicht zu nehmen, die Geschäftsgebarung und die Rechnungsabschlüsse zu überprüfen, die Abstellung von Mängeln anzuordnen und zu einzelnen Geschäftsfällen Berichte einzuholen.
+
+(2) In Ausübung ihres Aufsichtsrechtes (Abs. 1) ist die Landesregierung berechtigt, Prüfungen vorzunehmen. Sie kann sich hiebei des Revisionsverbandes bedienen oder private Sachverständige beauftragen.
+
+(3) Die Landesregierung hat der Bauvereinigung, sofern diese der Anordnung zur Abstellung von Mängeln nicht nachgekommen ist, die Behebung der festgestellten Mängel innerhalb angemessener Frist mit Bescheid aufzutragen. Wenn die Bauvereinigung den behördlichen Auftrag nicht erfüllt hat, so ist, falls andere Zwangsmittel im Zuge des Verwaltungsvollstreckungsverfahrens nicht zum Ziele geführt haben, gemäß § 35 vorzugehen.
+
+(4) Das Prüfungsrecht der Abgabenbehörde auf Grund besonderer Vorschriften bleibt unberührt.
+
+(5) Die Länder haben über ihre Tätigkeit auf Grund der Bestimmungen dieses Bundesgesetzes für jedes Jahr längstens bis 31. März des folgenden Jahres dem Bundesminister für wirtschaftliche Angelegenheiten einen Bericht unter Anführung der getroffenen Maßnahmen zu erstatten.
+
+(6) In die Auszüge gemäß § 28 Abs. 8 ist während der gewöhnlichen Dienststunden des Amtes der Landesregierung jedermann auf Verlangen die Einsichtnahme und auf seine Kosten die Herstellung von Abschriften zu gestatten; das gleiche gilt für eine allfällige Stellungnahme der Bauvereinigung zu einer Einschränkung oder Versagung des Bestätigungs- bzw. Prüfungsvermerkes oder des Gebarungsvermerkes.
+
+##### Art. 1 § 30 – Regierungskommissär
+
+§ 30. (1) Bei Bestehen einer erheblichen Gefahr für die Einhaltung der Bestimmungen dieses Gesetzes sowie zur Sicherung der Vermögensbindung (§ 1 Abs. 2 und 3), kann die Landesregierung
+
+1\. befristet auf höchstens ein Jahr, wobei Wiederbestellungen bis zu insgesamt drei Jahren zulässig sind,
+
+2\. in einem Verfahren nach § 35 längstens bis zum Abschluss des Verfahrens nach § 36,
+
+3\. in einem Verfahren nach § 35a längstens bis zur Übernahme der Eigentumsrechte
+
+mit Bescheid einen fachkundigen und gem. § 24 Abs. 1 zuverlässigen Regierungskommissär bestellen, der dem Berufsstand der Rechtsanwälte oder der Wirtschaftstreuhänder angehört oder als Revisor gemäß § 17a Abs. 1 GenRevG, BGBl. I Nr. 127/1997, zugelassen ist. Die Landesregierung kann den Regierungskommissär bescheidmäßig abberufen. Ein allfälliges Rechtsmittel gegen diese Bescheide hat keine aufschiebende Wirkung.
+
+(2) Der Regierungskommissär, dem alle Aufsichtsrechte gemäß § 29 Abs. 1 und 2 zustehen, hat vor Vertragsabschluss bei sonstiger Rechtsunwirksamkeit:
+
+1\. Rechtsgeschäften gemäß § 7 Abs. 1a und Abs. 3 Z 6,
+
+2\. Rechtsgeschäften gemäß § 9a Abs. 2 und 2a sowie
+
+3\. Rechtsgeschäften, die aufgrund anderer Gesetze oder gemäß der Satzung (§ 4) oder durch den Aufsichtsrat zustimmungspflichtig sind,
+
+zuzustimmen, sofern sie nicht geeignet sind, die Gefahr gemäß Abs. 1 zu vergrößern. Er nimmt an allen General- und Hauptversammlungen, an Geschäftsführungs-, Vorstands- und Aufsichtsratssitzungen mit Rederecht teil.
+
+(3) Auf die Vergütung des Regierungskommissärs, die in einem angemessenen Verhältnis zu der mit der Aufsicht verbundenen Arbeit und den Aufwendungen hierfür zu stehen hat, ist § 28 Abs. 9 von der Landesregierung sinngemäß anzuwenden.
+
+(4) Die Landesregierung hat die Einleitung eines Verfahrens sowie die Eintragung der Bestellung nach Abs. 1 und deren Löschung bei Änderungen der Tatsachen im Firmenbuch auf Kosten der Bauvereinigung zu veranlassen.
+
+##### Art. 1 § 31 – Antrag auf Anerkennung
+
+§ 31. Der Antrag auf Anerkennung einer Bauvereinigung als gemeinnützig ist beim Amt der Landesregierung einzubringen. Dem Antrag sind die zur Beurteilung des Antrages erforderlichen Unterlagen, wie insbesondere der Auszug aus dem Firmenbuch, die beglaubigte Abschrift des Genossenschaftsvertrages (Gesellschaftsvertrag, Satzung) sowie die zur Beurteilung der wirtschaftlichen Verhältnisse erforderlichen Unterlagen anzuschließen.
+
+##### Art. 1 § 32 – Örtliche Zuständigkeit
+
+§ 32. Örtlich zuständig ist jene Landesregierung, in deren Bereich die Bauvereinigung ihren Sitz hat.
+
+##### Art. 1 § 33 – Entscheidung
+
+§ 33. (1) Bescheide nach den Bestimmungen dieses Bundesgesetzes haben schriftlich zu ergehen.
+
+(2) Partei ist die Bauvereinigung und im Verfahren gemäß den §§ 7 Abs. 4, 10a Abs. 1, 10b, 29 Abs. 3, 30, 34 und 35, 36 und 36b die Finanzbehörde, in deren Bereich die Bauvereinigung ihren Sitz hat. In Verfahren gemäß den §§ 7 Abs. 4 und 10b ist dem Revisionsverband (§ 5), dem die Bauvereinigung angehört, Gelegenheit zur Äußerung zu geben. In Verfahren gemäß den §§ 10a, 29 Abs. 3, 30, 34 bis 36 und 36b ist der Revisionsverband Partei. Er hat das Recht verfahrensleitende Anträge zu stellen sowie Rechtsmittel zu ergreifen, einschließlich der Erhebung von Beschwerden an das Verwaltungsgericht sowie Revisionen, Fristsetzungsanträge oder Beschwerden an Gerichtshöfe des öffentlichen Rechts. Der Revisionsverband ist zur Durchführung seiner Interessenvertretungsaufgabe insbesondere berufen, Stellungnahmen zu Gesetzesentwürfen und Gesetzesvorhaben zu erstatten.
+
+(3) Die Bauvereinigung ist verpflichtet, zur Beschleunigung der Entscheidung in jeder Weise beizutragen, insbesondere alle erforderlichen Unterlagen fristgerecht vorzulegen. Soweit durch die nicht fristgerechte Vorlage das Verfahren schuldhaft verzögert wird, sind die daraus erwachsenden Kosten der Bauvereinigung aufzuerlegen.
+
+##### Art. 1 § 34 – Anerkennung der Gemeinnützigkeit
+
+§ 34. (1) Eine Bauvereinigung ist auf ihren Antrag von der Landesregierung nach Anhörung der Finanzbehörde mit Bescheid als gemeinnützig anzuerkennen, wenn die Erfüllung der in diesem Bundesgesetz angeführten Voraussetzungen rechtlich und tatsächlich, insbesondere durch eine Verankerung im Genossenschaftsvertrag (Gesellschaftsvertrag, Satzung) gewährleistet ist.
+
+(2) Waren die Voraussetzungen für die Anerkennung bereits im Zeitpunkt der Antragstellung vorhanden, ist die Anerkennung mit Rücksicht auf diesen Zeitpunkt auszusprechen.
+
+##### Art. 1 § 35 – Entziehung der Anerkennung
+
+§ 35. (1) Die Anerkennung kann nur mit Bescheid entzogen werden. Der Finanzbehörde kommt ein Antragsrecht auf Einleitung eines Verfahrens zur Entziehung der Anerkennung der Gemeinnützigkeit zu. Ein einseitiger Verzicht durch die Bauvereinigung ist unzulässig.
+
+(2) Die Anerkennung ist unbeschadet der Bestimmungen des § 29 zu entziehen, wenn
+
+1\. der Genossenschaftsvertrag (Gesellschaftsvertrag, Satzung) der Bauvereinigung den Vorschriften dieses Bundesgesetzes nicht mehr entspricht;
+
+2\. der tatsächliche Geschäftsbetrieb der Bauvereinigung den Bestimmungen dieses Bundesgesetzes oder einer nach den Bestimmungen dieses Bundesgesetzes erlassenen Verordnung zuwiderläuft;
+
+3\. die Bauvereinigung sich der Prüfung durch den Revisionsverband oder der Aufsicht durch die Landesregierung beharrlich entzieht;
+
+4\. die Bauvereinigung den ihr gemäß § 27 obliegenden Verpflichtungen nicht nachkommt.
+
+(3) Die Landesregierung kann von der Entziehung der Anerkennung der Gemeinnützigkeit absehen, wenn die Mitglieder des Vorstandes oder des Aufsichtsrates oder die Geschäftsführer, welche den Entziehungsgrund vorsätzlich oder grob fahrlässig herbeigeführt haben, nach Aufforderung durch die Landesregierung binnen angemessener Frist ihrer Funktion enthoben worden sind.
+
+(4) Die Landesregierung hat den Spruch des Bescheides, mit dem die Anerkennung entzogen wurde, auf Kosten der Bauvereinigung im Amtsblatt zu veröffentlichen.
+
+##### Art. 1 § 35a
+
+§ 35a. Die Landesregierung hat von der Entziehung der Anerkennung der Gemeinnützigkeit abzusehen, wenn die Eigentümer der Bauvereinigung sich binnen angemessener Frist rechtsgeschäftlich verpflichten, ihre Anteile am Unternehmen gegen Ersatz ihrer eingezahlten Einlagen und ihres Anteils am verteilbaren Gewinn dem Land abzutreten.
+
+##### Art. 1 § 36 – Rechtswirkung der Entziehung
+
+§ 36. (1) Bei Entziehung der Anerkennung hat die Landesregierung, nach Anhörung des zuständigen Finanzamtes, der Bauvereinigung eine gemäß den Grundsätzen des Abs. 3 zu bemessende, zunächst vorläufige Geldleistung aufzuerlegen.
+
+(2) Die endgültige Geldleistung ist, nach Anhörung der nach dem Sitz der Bauvereinigung zuständigen Finanzbehörde, unter Berücksichtigung der vorläufigen Geldleistung so zu bemessen, dass den Mitgliedern (Genossenschaftern, Gesellschaftern) kein höherer vermögensrechtlicher Vorteil als im Falle ihres Ausscheidens (§ 10 Abs. 2) oder der Auflösung der Bauvereinigung (§ 11 Abs. 1) zukommt.
+
+(3) Die vorläufige Geldleistung gemäß Abs. 1 und die endgültige Geldleistung gemäß Abs. 2 sind auf Grundlage des letzten Jahresabschlusses zu bemessen, für den ein uneingeschränkter Bestätigungsvermerk und ein uneingeschränkter Gebarungsvermerk eines Revisionsverbandes erteilt wurden. Dabei sind, bei der Bemessung der vorläufigen Geldleistung die in diesem Jahresabschluss ausgewiesenen Aktiv- und Passivwerte zugrunde zu legen und bei der Bemessung der endgültigen Geldleistung die im gewöhnlichen Geschäftsverkehr erzielbaren Werte (Verkehrswerte) für die in diesem Jahresabschluss ausgewiesenen Vermögensgegenstände und Schulden zum Zeitpunkt der Rechtskraft eines Bescheides nach § 35 Abs. 1.
+
+(4) Die Erfüllung der in den Abs. 1 bis 3 genannten Leistungen kann im Verwaltungswege erzwungen werden.
+
+(5) Die gesamten erbrachten Geldleistungen sind von der Landesregierung für Zwecke des gemeinnützigen Wohnungswesens zu verwenden.
+
+> **Anmerkung:** Art. 3 Z 23c der Novelle BGBl. I Nr. 157/2015 lautet: „In § 36 Abs. 1 entfällt der zweite Satz; Abs. 3 wird zu Absatz 2; der neue Absatz 3 lautet: ...“. Die Anweisung ist so zu verstehen, dass der neue Abs. 2 den bisherigen Abs. 2 ersetzt.
+
+##### Art. 1 § 36a – Verwendung des Steueraufkommens
+
+§ 36a. Soweit eine als gemeinnützig anerkannte Bauvereinigung für Einkünfte aus der Verwaltung von Eigenkapital im Sinne des § 7 Abs. 6 nach Maßgabe des Körperschaftsteuergesetzes 1988 unbeschränkt steuerpflichtig wurde, ist das betreffende Aufkommen an Körperschaftsteuer auf das Land aufzuteilen, in dem die Bauvereinigung ihren Sitz hat. Diese Erträge sind für Zwecke des gemeinnützigen Wohnungswesens zu verwenden.
+
+##### Art. 1 § 36b – Übernahme von Anteilsrechten
+
+§ 36b. (1) Kommt es zu keiner rechtsgeschäftlichen Einigung gemäß § 35a steht der jeweils zuständigen Landesregierung, zum Erhalt möglichst leistbarer Wohnungsbestände in Regionen mit erhöhtem Wohnungsbedarf und zur nachhaltigen Sicherung der gemeinnützigen Vermögensbindung gemäß § 1 Abs. 3, das Instrument der Übernahme von Anteilsrechten zur Verfügung.
+
+(2) Die Übernahme erfolgt unter sinngemäßer Anwendung des § 35 Abs. 4 durch Bescheid der Landesregierung.
+
+(3) Mit Erlöschen ihrer Anteilsrechte haben die Mitglieder (Genossenschafter, Gesellschafter) gemäß § 10 Abs. 2 gegenüber dem, die Anteilsrechte übernehmenden Land, Anspruch auf Ersatz ihrer eingezahlten Einlagen und ihres Anteils am verteilbaren Gewinn.
+
+(4) Die Entscheidung über das Weiterführen der Bauvereinigung, entweder durch das Land selbst oder in Form einer Veräußerung der Anteile, trifft die Landesregierung nach Anhörung der Organe des Unternehmens, des Revisionsverbandes und der zuständigen Finanzbehörde.
+
+##### Art. 1 § 37 – Firma und Register
+
+§ 37. (1) Eine Bauvereinigung, die nicht auf Grund der Bestimmungen dieses Bundesgesetzes als gemeinnützig anerkannt ist, darf sich öffentlich oder im Geschäftsverkehr nicht als gemeinnützige Bauvereinigung bezeichnen. Ihre Firma darf nicht die Bezeichnung „gemeinnützig“ enthalten.
+
+(2) Die Gerichte haben den Landesregierungen und dem Revisionsverband die Eintragungen in das Firmenbuch mitzuteilen, die eine Änderung des Vorstandes (der Geschäftsführung), des Genossenschaftsvertrages, des Gesellschaftsvertrages oder der Satzung, die Auflösung oder die Löschung einer als gemeinnützig anerkannten Bauvereinigung betreffen.
+
+(3) Die Landesregierung hat den Gerichten, die das Firmenbuch führen, sowie der Finanzbehörde und dem Revisionsverband die auf Grund dieses Bundesgesetzes ergangenen Entscheidungen betreffend die Anerkennung, der Finanzbehörde und dem Revisionsverband überdies die Änderungen gemäß Abs. 2 mitzuteilen.
+
+##### Art. 1 § 38 – Strafbestimmungen
+
+§ 38. (1) Wer den im § 37 Abs. 1 ausgesprochenen Verboten zuwiderhandelt, begeht eine Verwaltungsübertretung und ist von der Bezirksverwaltungsbehörde mit einer Geldstrafe bis zu 7 260 € zu bestrafen.
+
+(2) Neben der Strafe kann angeordnet werden, daß das Straferkenntnis innerhalb bestimmter Frist auf Kosten des Verpflichteten zu veröffentlichen ist. Die Veröffentlichung umfaßt den Spruch des Straferkenntnisses. Wenn besondere Umstände dafür sprechen, kann auch die Veröffentlichung der Begründung des Straferkenntnisses, allenfalls auch des Tatbestandes angeordnet werden. Die Art der Veröffentlichung ist in dem Straferkenntnis zu bestimmen.
+
+##### Art. 1 § 39 – Übergangsbestimmungen
+
+§ 39. (1) Bauvereinigungen, die im Zeitpunkt des Inkrafttretens dieses Bundesgesetzes auf Grund der Bestimmungen des Gesetzes über die Gemeinnützigkeit im Wohnungswesen vom 29. Feber 1940, deutsches RGBl. I S. 438, und der Verordnung zur Durchführung des Gesetzes über die Gemeinnützigkeit im Wohnungswesen vom 23. Juli 1940, deutsches RGBl. I S. 1012, als gemeinnützige Wohnungsunternehmen anerkannt sind, gelten unter Wahrung ihres örtlichen Geschäftsbereiches als auf Grund dieses Bundesgesetzes als gemeinnützig anerkannte Bauvereinigungen. Auf solche Bauvereinigungen finden die Bestimmungen dieses Bundesgesetzes mit Ausnahme der in § 6 Abs. 1 enthaltenen Regelung über die Mindestanzahl der Genossenschafter Anwendung.
+
+(2) Eine Bauvereinigung im Sinne des Abs. 1 ist verpflichtet, innerhalb von zwei Jahren, gerechnet vom Tage des Inkrafttretens der Bestimmungen dieses Bundesgesetzes, ihren Genossenschaftsvertrag (Gesellschaftsvertrag, Satzung) mit den in Abs. 1 vorgesehenen Einschränkungen und der Maßgabe, daß es der Angabe des örtlichen Geschäftsbereiches nicht bedarf, abzuändern und die Genehmigung der Änderungen bei der Landesregierung zu beantragen, die darüber mit Bescheid abzusprechen hat. Im Falle der Nichteinhaltung dieser Verpflichtungen hat die Landesregierung gemäß § 35 vorzugehen.
+
+(3) Bauvereinigungen gemäß Abs. 1, die im Zeitpunkt des Inkrafttretens der Bestimmungen dieses Bundesgesetzes weniger als 2 000 Wohnungen verwalten und innerhalb eines Zeitraumes von fünf Jahren nach Inkrafttreten der Bestimmungen dieses Bundesgesetzes der Landesregierung schriftlich mitteilen, daß sie keine Bautätigkeit im Sinne des § 7 mehr entfalten werden, gelten als gemeinnützige Verwaltungsvereinigungen. Auf solche Verwaltungsvereinigungen finden die Bestimmungen dieses Bundesgesetzes mit Ausnahme des § 7 Abs. 1 hinsichtlich der Verpflichtung zur Errichtung von Baulichkeiten, des § 7 Abs. 1a Z 1, des § 7 Abs. 3 Z 1 bis 3, 5, 7 bis 9, Abs. 5 und 6 sowie mit Ausnahme des § 14 Abs. 7 Z 4 Anwendung; § 7 Abs. 3 Z. 8 findet jedoch mit der Maßgabe Anwendung, dass ein Erwerb von Baustoffen und Ausstattungsgegenständen nur zur Vornahme von Instandhaltungs-, Instandsetzungs- und Verbesserungsarbeiten an verwalteten Baulichkeiten zulässig ist. Zur Bildung einer Rücklage gemäß § 14 Abs. 1 Z. 8 dürfen Verwaltungsvereinigungen Beträge nur in der Höhe von höchstens 50 v. H. des dort vorgesehenen Höchstausmaßes verrechnen.
+
+(3a) Gemeinnützige Bauvereinigungen gemäß § 1, die mit 31. Dezember 2018 weniger als 2000 Wohnungen verwaltet haben und innerhalb eines Zeitraumes von zwei Jahren ab Inkrafttreten des Bundesgesetzes, BGBl. I Nr. 85/2019, der Landesregierung schriftlich mitteilen, dass sie keine Bautätigkeit im Sinne des § 7 mehr entfalten werden, gelten als gemeinnützige Verwaltungsvereinigungen gemäß Abs. 3.
+
+(4) Verträge, welche die im Abs. 1 angeführten Bauvereinigungen vor dem 1. Jänner 1979 mit ihren Funktionären (Mitgliedern der Organe) über Entschädigungen und Reisegebühren oder mit ihren Angestellten über Dienstbezüge, Gebühren und Ruhegenüsse abgeschlossen haben, werden durch die §§ 25 und 26 nicht berührt.
+
+(4a) Verträge mit Vorstandsmitgliedern, Geschäftsführern und Angestellten über Bezüge, Gebühren und Ruhegenüsse, die vor dem 1. Jänner 1994 abgeschlossen worden sind, werden durch § 26 in der Fassung BGBl. Nr. 800/1993 nicht berührt.
+
+(5) Ein auf Grund der Bestimmungen des Gesetzes über die Gemeinnützigkeit im Wohnungswesen und der Verordnung zur Durchführung dieses Gesetzes eingerichteter und tätiger Prüfungsverband gilt als Revisionsverband im Sinne des § 5 dieses Bundesgesetzes und hat seine Satzung den Bestimmungen dieses Bundesgesetzes innerhalb eines Jahres, gerechnet vom Tage des Inkrafttretens der Bestimmungen dieses Bundesgesetzes, anzupassen und die Genehmigung bei der nach seinem Sitz zuständigen Landesregierung zu beantragen, die darüber mit Bescheid abzusprechen hat.
+
+(6) Unternehmen, die als Organe der staatlichen Wohnungspolitik gemäß § 28 des Gesetzes über die Gemeinnützigkeit im Wohnungswesen anerkannt wurden, gelten, sofern die im Abs. 2 angeführten Voraussetzungen mit Ausnahme des § 1 Abs. 1 erfüllt sind, als gemeinnützige Bauvereinigungen im Sinne dieses Bundesgesetzes.
+
+(6a) Mangels gegenteiliger schriftlicher Erklärung gegenüber der Landesregierung bis spätestens 31. März 2001 gelten in der Rechtsform der Kapitalgesellschaft errichtete
+
+a) gemeinnützige Bauvereinigungen, die im ausschließlichen Eigentum einer oder mehrerer Gebietskörperschaften oder
+
+b) gemeinnützige Bauvereinigungen, die im ausschließlichen Eigentum von Bauvereinigungen gemäß lit. a
+
+stehen, ab 1. April 2001 nicht mehr als gemeinnützig anerkannt.
+
+(6b) Die Bestimmung des § 7 Abs. 3 Z 6a ist auf Bauvereinigungen gemäß Abs. 6a weiterhin sinngemäß anzuwenden, sofern es sich um Baulichkeiten handelt, die dem § 20 Abs. 1 Z 3 unterliegen.
+
+(6c) § 23 Abs. 2 findet für Bauvereinigungen gemäß Abs. 6a nur auf Geschäftsjahre Anwendung, die vor dem 1. April 2001 enden. Nur insoweit sind die §§ 27 bis 29 auch nach dem 31. März 2001 weiterhin sinngemäß anzuwenden.
+
+(6d) Den Bauvereinigungen gemäß Abs. 6a fehlende bundesgesetzlich geregelte Befähigungen, Berechtigungen und Nachweise, insbesondere nach der Gewerbeordnung 1994, BGBl. Nr. 194, sind bis 31. März 2002 zu erbringen.
+
+(6e) Bauvereinigungen gemäß Abs. 6a können unbeschadet der Bestimmung des Abs. 6c auch nach dem 31. März 2001 einem Revisionsverband gemäß § 5 angehören und von diesem Leistungen im Sinne des § 28 Abs. 3 und § 19 Abs. 3 des Genossenschaftsrevisionsgesetzes 1997 in Anspruch nehmen.
+
+(6f) Die Bestimmungen des Abs. 6e sind sinngemäß auch auf Gesellschaften gemäß § 7 Abs. 4b anzuwenden.
+
+(7) Bauvereinigungen der im Abs. 1 bezeichneten Art, die in einer anderen Rechtsform als der einer Genossenschaft, einer Gesellschaft mit beschränkter Haftung oder einer Aktiengesellschaft errichtet sind, gelten, sofern die im Abs. 2 vorgesehenen Voraussetzungen mit Ausnahme des § 1 Abs. 1 erfüllt sind, als gemeinnützige Bauvereinigungen im Sinne dieses Bundesgesetzes.
+
+(8) Auf Verträge im Sinne des § 13 Abs. 1, welche Baulichkeiten betreffen, die vor dem Inkrafttreten der Bestimmungen dieses Bundesgesetzes erstmalig bezogen wurden oder für die die baubehördliche Benützungsbewilligung vor diesem Zeitpunkt erteilt wurde, gelten die Bestimmungen dieses Bundesgesetzes, soweit in den folgenden Ziffern und Absätzen nicht anderes bestimmt wird; insoweit in den folgenden Ziffern und in den Abs. 9 bis 12 bestimmt wird, daß die Bestimmungen dieses Bundesgesetzes nicht gelten, sind § 7 Abs. 2 des Gesetzes über die Gemeinnützigkeit im Wohnungswesen und § 11 Abs. 3 erster bis dritter Satz der Verordnung zur Durchführung dieses Gesetzes weiter anzuwenden:
+
+1\. auf Miet- und sonstige Nutzungsverträge über Wohnungen und Geschäftsräume finden § 14 Abs. 1 Z 1, 2 und 8 und § 16 Abs. 1 über die Verhältnismäßigkeit nach Nutzflächen keine Anwendung;
+
+2\. § 19 Abs. 1 zweiter Satz findet keine Anwendung; bei der nach dem Inkrafttreten dieses Bundesgesetzes erstmaligen Vorlage der jährlichen Abrechnungen im Sinne des § 19 ist der Saldo zum 31. Dezember 1978 auszuweisen und gilt als endgültig anerkannt;
+
+3\. § 22 gilt nicht für Anträge, die auf eine Überprüfung der Endabrechnung der gesamten Baukosten oder des Saldos, der zum 31. Dezember 1978 auszuweisen ist, gerichtet sind; diesbezügliche Einwendungen können nicht nach den Bestimmungen dieses Bundesgesetzes, sondern nur auf Grund der bisherigen gesetzlichen Bestimmungen oder vertraglicher Vereinbarungen erhoben werden;
+
+4\. nach den Vorschriften des Gesetzes über die Gemeinnützigkeit im Wohnungswesen zulässige Berechnungen, die zur Senkung des Entgelts geführt haben, bleiben unberührt.
+
+(9) Auf Verträge über Einstellplätze (Garagen) und Abstellplätze in Baulichkeiten im Sinne des Abs. 8 finden die Bestimmungen dieses Bundesgesetzes mit Ausnahme des § 13 Abs. 5. Anwendung. Soweit bis zum 1. Jänner 1979 Teile des Entgelts für die Überlassung von Einstellplätzen (Garagen) und Abstellplätzen zur Deckung von Betriebskosten der Baulichkeiten, der die Errichtungskosten der Einstellplätze (Garagen) oder Abstellplätze zugerechnet sind, verwendet wurdern *(Anm.: richtig: wurden)*, bleiben diese Berechnungen unberührt.
+
+(10) Erfolgte der Erwerb des Grundstückes vor dem 1. Juli 1979, ist § 13 Abs. 2 hinsichtlich der Bestimmung für die Berechnung der Grundkosten nicht anzuwenden; diesfalls gelten weiterhin § 7 Abs. 2 des Gesetzes über die Gemeinnützigkeit im Wohnungswesen und § 11 Abs. 2 erster bis dritter Satz der Verordnung zur Durchführung dieses Gesetzes.
+
+(11) Die Bestimmungen des Abs. 8 finden auch auf Baulichkeiten Anwendung, mit deren Bau vor dem Inkrafttreten der Bestimmungen dieses Bundesgesetzes begonnen wurde und für die nach dem 31. Dezember 1979 eine baubehördliche Benützungsbewilligung erteilt wird, sofern sie mit anderen Baulichkeiten eine wirtschaftliche Einheit bilden, für die im Zeitpunkt des Inkrafttretens der Bestimmungen dieses Bundesgesetzes bereits eine baubehördliche Benützungsbewilligung vorliegt. Der Erteilung der baubehördlichen Benützungsbewilligung ist ein früherer erstmaliger Bezug gleichzuhalten.
+
+(12) Unter erstmaligem Bezug ist der Bezug des Objektes durch einen hiezu berechtigten Vertragspartner (§ 13 Abs. 1) zu verstehen.
+
+(13) Die Bauvereinigung darf eine ihr gemäß § 8 des Gesetzes über die Gemeinnützigkeit im Wohnungswesen eingeräumte Sicherung solange geltend machen, als sie Gläubiger des Eigentümers eines Siedlungshauses ist; bei der Ausübung eines Vorkaufsrechtes ist eine vom vollständigen Kaufpreis abweichende Verabredung (§ 1077 ABGB) rechtsunwirksam.
+
+(14) § 14 Abs. 1 Z 4 in der Fassung des Bundesgesetzes BGBl. Nr. 800/1993 gilt auch dann, wenn der Baurechtsvertrag vor dem Inkrafttreten der Baurechtsgesetznovelle 1990, BGBl. Nr. 258 (1. Juli 1990), abgeschlossen wurde.
+
+(15) Ausnahmebewilligungen auf Grund der Bestimmung des § 6 des Gesetzes über die Gemeinnützigkeit im Wohnungswesen im Zusammenhalt mit § 9 der Verordnung zur Durchführung dieses Gesetzes bleiben unberührt.
+
+(16) Die im Zeitpunkt des Inkrafttretens der Bestimmungen dieses Bundesgesetzes bei Gericht anhängigen Verfahren sind nach den bisher geltenden Vorschriften durchzuführen.
+
+(17) Bauvereinigungen gemäß Abs. 1, die vor dem Inkrafttreten der Bestimmungen dieses Bundesgesetzes bei der technischen Vorbereitung von Baulichkeiten (§ 2 Z. 1) die Verfassung von Plänen für die Einreichung bei der Behörde selbst durchgeführt haben, dürfen diese Arbeiten auch weiterhin selbst vornehmen.
+
+(17a) Unter Vermögensverwaltung im Sinne des § 5 Z 10 KöStG 1988 ist die verzinsliche Anlage von Kapitalvermögen oder die Vermietung, Verpachtung oder Überlassung zur sonstigen Nutzung mit der Einschränkung des § 7 Abs. 6 zu verstehen.
+
+(18) Für Baulichkeiten, welche gemäß dem Schillingeröffnungsbilanzgesetz neu zu bewerten waren und bis zum 31. Dezember 1981 den gemäß § 58 Abs. 3 Z 2 des Mietrechtsgesetzes außer Kraft getretenen Bindungen des Zinsstoppgesetzes, BGBl. Nr. 132/1954, unterlagen, gelten die Bestimmungen dieses Bundesgesetzes, insoweit in den folgenden Ziffern nichts anderes bestimmt wird:
+
+1\. Der Berechnung des Entgelts sind für die Beträge nach § 14 Abs. 1 Z 1 und 3 jene Werte zugrundezulegen, die die Bauvereinigung nach den Bestimmungen des Schillingeröffnungsbilanzgesetzes ansetzen hatte müssen.
+
+2\. Bei Überlassung von Wohnungen der Ausstattungskategorie A oder B gemäß § 15a Abs. 1 Z 1 und 2 des Mietrechtsgesetzes in der Fassung BGBl. Nr. 800/1993 kann abweichend von Abs. 1 und 2 für die Entgeltsbestandteile gemäß § 14 Abs. 1 Z 1 bis 3 in Summe ein jeweils höherer Betrag im Entgelt vereinbart werden, der je Quadratmeter der Nutzfläche und Monat jedoch nicht höher sein darf als 1,75 Euro. Der angeführte Betrag vermindert oder erhöht sich – erstmals am 1. April 2018 – jedes zweite Jahr in dem Maß, das sich aus der Veränderung des von der Bundesanstalt Statistik Österreich verlautbarten Jahresdurchschnittswerts des Verbraucherpreisindex 2010 des jeweiligen Vorjahrs gegenüber dem Durchschnittswert des Jahres 2015 ergibt. Am 1. April 2024 kann sich der Betrag gegenüber dem letzten Änderungszeitpunkt um nicht mehr als fünf Prozent erhöhen. Am 1. April 2026 vermindert oder erhöht sich der Betrag gegenüber dem letzten Änderungszeitpunkt in dem Maß, das sich aus der Veränderung des von der Bundesanstalt Statistik Österreich verlautbarten Jahresdurchschnittswerts des Verbraucherpreisindex 2010 des Vorjahres gegenüber dem Jahresdurchschnittswert des diesem vorangegangenen Jahres ergibt; gegenüber dem letzten Änderungszeitpunkt kann sich der Betrag jedoch um nicht mehr als fünf Prozent erhöhen. Erstmals am 1. April 2027 und sodann jährlich vermindert oder erhöht sich der Betrag gegenüber dem jeweils letzten Änderungszeitpunkt in dem Maß, das sich aus der durchschnittlichen Veränderung des von der Bundesanstalt Statistik Österreich verlautbarten Jahresdurchschnittswerts des Verbraucherpreisindex 2010 in den drei dem Valorisierungszeitpunkt vorangegangenen Jahren ergibt. Sofern die sich nach dem vorangegangenen Satz ermittelte Veränderung fünf Prozent übersteigt, ist der fünf Prozentpunkte übersteigende Teil nur zur Hälfte zu berücksichtigen. Bei der Berechnung des neuen Betrages sind Beträge, die einen halben Cent nicht übersteigen, auf den nächst niedrigeren ganzen Cent abzurunden und Beträge, die einen halben Cent übersteigen, auf den nächst höheren ganzen Cent aufzurunden. Der neue Betrag gilt jeweils ab dem 1. April des betreffenden Jahres. Die angemessene Verzinsung von Eigenmitteln der Bauvereinigung, die zur Finanzierung von Grundstückskosten verwendet wurden, kann zusätzlich verrechnet werden.
+
+3\. Beträge, die sich aus dem Entgeltbestandteil gemäß § 14 Abs. 1 Z 3 nach Maßgabe der Z 1 dieses Absatzes ergeben, sind gemäß § 14 Abs. 7 Z 3 und 4 zu verwenden.
+
+4\. § 13 Abs. 4 bleibt durch die Z 2 dieses Absatzes unberührt.
+
+5\. Die Überlassung von Wohnungen in Miete oder sonstige Nutzung darf nur an einen begünstigten Personenkreis erfolgen. Dies gilt nicht für Bauvereinigungen, die auf die Überlassung von Wohnungen an einen bestimmten Personenkreis beschränkt sind (§ 8 Abs. 2 Z 2), solange die gewährten Finanzierungshilfen nicht getilgt sind.
+
+6\. Die Landesregierungen haben durch Verordnung jeweils für in ihrem Landesgebiet gelegene Baulichkeiten im Sinne dieses Absatzes die Voraussetzungen festzulegen, unter denen Personen als begünstigt anzusehen sind. Dabei ist auf den Wohnungsbedarf einschließlich der Dringlichkeit, die Haushaltsgröße und Höhe des Einkommens Bedacht zu nehmen.
+
+7\. Z 5 ist in jenen Ländern nicht anzuwenden, in denen eine solche Verordnung nicht erlassen wurde.
+
+8\. Die Einhaltung der Verpflichtung gemäß Z 5 erster Satz dieses Absatzes ist nach § 28 zu prüfen und eine Feststellung darüber abzugeben sowie diese Feststellung in den Auszug nach § 28 Abs. 8 aufzunehmen und nach § 29 Abs. 6 zugänglich zu machen.
+
+9\. Die Landesregierung hat im Falle eines Verstoßes gegen Z 5 erster Satz dieses Absatzes unter sinngemäßer Anwendung des § 29 Abs. 3 die Abstellung mit Bescheid aufzutragen.
+
+10\. Ist ein Bescheid nach Z 9 an die Bauvereinigung ergangen, so gilt dies als ein zur Kündigung berechtigender wichtiger Grund im Sinne des § 30 des Mietrechtsgesetzes, wenn der Mieter oder sonstige Nutzungsberechtigte schuldhaft unrichtige Angaben über seine Begünstigungswürdigkeit gemacht hat.
+
+(19) Die bis zum 31. Dezember 1993 gemäß § 14 Abs. 1 Z 5 im Entgelt angerechneten Beträge gelten mit 1. Jänner 1994 als zu diesem Zeitpunkt eingehobene, aber nicht rückzahlbare Erhaltungs- und Verbesserungsbeiträge nach § 14d. Die für den Monat Dezember 1993 zulässigen Beträge zur Bildung einer Rückstellung zur ordnungsgemäßen Erhaltung und für in absehbarer Zeit vorzunehmende nützliche Verbesserungen gemäß § 14 Abs. 1 Z 5 und § 39 Abs. 8 gelten ab 1. Jänner 1994 als vorgeschriebene und nicht rückzahlbare Erhaltungs- und Verbesserungsbeiträge. Gleiches gilt für Vereinbarungen oder gerichtliche Entscheidungen gemäß § 14 Abs. 2 bis 5 für den vereinbarten oder festgesetzten Erhöhungsbeitrag, jedoch nur auf die Dauer des Erhöhungszeitraumes.
+
+(20) Für Bauvereinigungen, die am 31. Dezember 1993 als gemeinnützig anerkannt waren, gilt weiterhin § 6 Abs. 1 und 2 in der zu diesem Zeitpunkt geltenden Fassung (BGBl. Nr. 139/1979); für Bauvereinigungen in der Rechtsform einer Kapitalgesellschaft, die am 31. Dezember 2015 als gemeinnützig anerkannt waren, gilt weiterhin § 6 Abs. 2 in der zu diesem Zeitpunkt geltenden Fassung.
+
+(21) Die §§ 15b bis f gelten, nach Maßgabe der Bestimmungen der Abs. 21a und 21b, für alle Fälle einer nachträglichen Übertragung in das Eigentum (Miteigentum, Wohnungseigentum) nach dem 31. Dezember 2001.
+
+(21a) Der Mieter oder sonstige Nutzungsberechtigte einer nach dem 31. Dezember 1993 aus öffentlichen Mitteln geförderten Wohnung (Geschäftsraum) erwirbt einen Anspruch auf nachträgliche Übertragung in das Wohnungseigentum gemäß § 15c lit. a Z 1, wenn die Bauvereinigung die auf seine Wohnung (Geschäftsraum) im Zeitpunkt des Bezugs der Baulichkeit entfallenden Grundkosten zum überwiegenden Teil innerhalb der ersten drei Jahre ab erstmaligen Bezug neben dem Entgelt eingehoben hat. Bei einer nach dem 31. August 1999 bis zum 30. Juni 2000 aus öffentlichen Mitteln geförderten Wohnung beträgt diese Frist fünf statt drei Jahre; überdies darf die Bauvereinigung für einen Übertragungsanspruch verhindernde Stundungen bei sonstiger Rückzahlungspflicht während der ersten fünf Jahre dem Mieter oder sonstigen Nutzungsberechtigten keine Zinsen verrechnen.
+
+(21b) Hat der Mieter oder sonstige Nutzungsberechtigte auf Grund einer Einladung der Bauvereinigung fristgerecht, spätestens bis 30. Juni 2002, einen Antrag gemäß § 15c Abs. 1 in der Fassung BGBl. I Nr. 47/2001 gestellt, sind die entsprechenden Bestimmungen der §§ 15b, 15c und 39 Abs. 21 in der Fassung BGBl. I Nr. 47/2001 anstelle der Preisregelung gemäß § 15d weiterhin anzuwenden und sind Grundlage der Erklärung gemäß § 15e Abs. 3.
+
+(21c) Erfolgte eine Einladung gemäß § 15c Abs. 1 in der Fassung BGBl. I Nr. 47/2001 bis zum 30. Juni 2002, ist § 7 Abs. 3 Z 6a in der Fassung BGBl. I Nr. 47/2001 weiterhin anzuwenden.
+
+(22) § 28 Abs. 3 ist für Bauvereinigungen in der Rechtsform einer Genossenschaft erstmals für die Prüfung von Geschäftsjahren anzuwenden, die nach dem 31. Dezember 1998 enden.
+
+(23) § 7 Abs. 7 in der Fassung BGBl. I Nr. 147/1999 ist auf Geschäftsjahre anzuwenden, die nach dem 31. Dezember 1997 begonnen haben.
+
+\*(Anm.: Abs. 24 aufgehoben durch BGBl. I Nr. 162/2001)*
+
+(25) Solange auf Grund eines vor dem 1. Juli 2000 eingegangenen und nach dem 30. Juni 2000 weiter aufrechten Dienstverhältnisses nach dem Hausbesorgergesetz eine Wohnung des Hauses als Hausbesorgerdienstwohnung benützt wird, zählt diese Wohnung zu den allgemeinen Teilen des Hauses im Sinne des § 14a Abs. 2 Z 1 und des § 16 Abs. 7 vierter Satz und hat die Nutzfläche dieser Wohnung im Sinn des § 16 Abs. 1 außer Betracht zu bleiben. Die diesbezüglich durch die Beendigung des Dienstverhältnisses eintretende Änderung ist erst ab der dieser Beendigung nachfolgenden Abrechnungsperiode wirksam.
+
+(26) § 18 Abs. 5 ist auch auf Vereinbarungen anzuwenden, die vor dem 1. Juli 2000 geschlossen wurden.
+
+(27) Abweichend von § 17 Abs. 1 gilt für den Fall der Auflösung eines Miet- oder sonstigen Nutzungsverhältnisses in Baulichkeiten, die vor dem 1. Juli 2000 bezogen worden sind:
+
+a) der Mieter oder sonstige Nutzungsberechtigte hat bis 31. Dezember 2000 Anspruch auf Rückzahlung der von ihm neben dem Entgelt geleisteten Beträge im Ausmaß gemäß § 17 Abs. 4 in der bis 30. Juni 2000 geltenden Fassung,
+
+b) ab dem 1. Jänner 2001 vermindert um eine Abschreibung von 1 vH pro Jahr.
+
+(28) Die buchmäßige Darstellung der sich aus Abs. 27 ergebenden zusätzlichen Rückzahlungsverpflichtungen der Bauvereinigung hat über die Verbindlichkeiten und einen Sonderposten im Bereich der „Aktiven Rechnungsabgrenzungsposten“ zu erfolgen.
+
+(29) § 20 Abs. 5 Z 4 und 4a in der Fassung der Wohnrechtsnovelle 2006, BGBl. I Nr. 124, ist anzuwenden, wenn das Miet- oder sonstige Nutzungsverhältnis nach dem 30. September 2006 aufgelöst wird.
+
+(30) § 23 Abs. 4c ist im Hinblick auf eine Fixpreisermittlung ausgehend von § 15a (§ 23 Abs. 4b) anzuwenden, wenn
+
+a) der Fixpreis aus Anlass der erstmaligen Überlassung der Baulichkeit ermittelt und vereinbart wird, andernfalls die Bauvereinigung den Fixpreis zwar nach § 15a (§ 23 Abs. 4b) auf der Grundlage der Endabrechnung der gesamten Herstellungskosten, jedoch ohne einen Pauschalsatz für die Risikoabgeltung, berechnen kann,
+
+b) in den Fällen des § 15c lit. b die Bauvereinigung ein verbindliches Anbot vor Ablauf einer insgesamt zwanzigjährigen Nutzungsdauer gelegt hat.
+
+(31) Wurde vor dem 1. Jänner 2007 Wohnungseigentum an einem wohnungseigentumstauglichen Objekt begründet, so
+
+a) ist für den Zeitraum bis 31. Dezember 2006 eine Schlussabrechnung gemäß § 19b spätestens bis zum 30. Juni 2007 zu legen; die § 14 Abs. 2b, § 14d Abs. 1a, §§ 14e, 14f, 19a, 19c und 19d sind ab 1. Jänner 2007 anzuwenden;
+
+b) ist im Rahmen dieser Schlussabrechnung § 19b dergestalt anzuwenden, dass bei Abrechnung der Erhaltungs- und Verbesserungsbeiträge auch die bisher im Sinne des § 14d Abs. 1a geleisteten Beiträge zur Rücklage zu berücksichtigen sind; für Einwendungen gegen diese Abrechnung wird die Frist des § 19 Abs. 1 letzter Satz um weitere sechs Monate verlängert.
+
+(32) Die mit 31. Dezember 2015 geltenden Regelungen über die Wertsicherung der Beträge in den §§ 13 Abs. 6, 14 Abs. 7a, 14d Abs. 2 und 39 Abs. 18 sind ab 1. Jänner 2016 nicht mehr anzuwenden.
+
+(33) Die in § 14d Abs. 2 vorgesehenen, mit 30. Juni 2016 geltenden Beträge können je Baulichkeit bis 31. Dezember 2018 weiter verrechnet werden, wenn in der Abrechnung gemäß § 19 über die Erhaltungs- und Verbesserungsbeiträge des Jahres 2015 ein Negativsaldo ausgewiesen worden ist. Für alle mit 30. Juni 2016 nicht verbrauchten Erhaltungs- und Verbesserungsbeiträge ist § 14d Abs. 4 in der Fassung BGBl. I Nr. 157/2015 anzuwenden.
+
+(34) § 14d Abs. 5 und § 15g in der Fassung BGBl. I Nr. 157/2015 sind anzuwenden, wenn nach dem 31. Dezember 2015 ein Antrag auf nachträgliche Übertragung in das Wohnungseigentum gemäß § 15e gestellt oder ein Anbot der Bauvereinigung gemäß § 15c lit. b gelegt worden ist.
+
+(35) § 10 Abs. 1 und 6 sind erstmals auf die Erstellung von Jahresabschlüssen für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2015 beginnen. Dabei ist der Saldo nach § 10 Abs. 6 zum Abschluss des Geschäftsjahres zu ermitteln und im Fall eines positiven Saldos eine „zweckgebundene Rücklage für Kostendeckung“ zu bilden, wobei eine im Vorjahresabschluss bestehende „Bewertungsreserve aufgrund von Entschuldungen“ unmittelbar in die zweckgebundene Rücklage für Kostendeckung einzustellen ist (§ 906 Abs. 31 UGB). Ein im Fall eines nach Berücksichtigung der „Bewertungsreserve aufgrund von Entschuldungen“ im Geschäftsjahr verbleibender negativer Saldo ist mit den freien Rücklagen zu verrechnen. Im Vorjahresabschluss bestehende „Fehlbeträge aufgrund von Entschuldungen“ sind zu Beginn des nachfolgenden Geschäftsjahres mit den freien Rücklagen zu verrechnen.
+
+(36) § 7 Abs. 7, idF BGBl. I Nr. 85/2019, ist für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2018 beginnen. § 10a Abs. 1 lit. d, idF BGBl. I Nr. 85/2019, ist auf Veräußerungen von mehr als drei Objekten in noch nicht fertiggestellten Baulichkeiten dann nicht anzuwenden, wenn zum Zeitpunkt dessen Inkrafttretens bestehende schriftliche Vorverträge oder schriftlich pönalisierte Kaufanbote binnen drei Monaten dem zuständigen Revisionsverband angezeigt werden und der Baubeginn spätestens bis zum 31. Dezember 2020 erfolgt. § 14 Abs. 2 und § 14d Abs. 5, jeweils idF BGBl. I Nr. 85/2019, sind auf alle ab deren Inkrafttreten bereits anhängig gemachten Verfahren anzuwenden. § 15g idF BGBl. I Nr. 85/2019 ist anzuwenden, wenn nach dessen Inkrafttreten ein Antrag auf nachträgliche Übertragung in das Wohnungseigentum gemäß § 15e gestellt oder ein Angebot der Bauvereinigung gelegt worden ist. § 15h, idF BGBl. I Nr. 85/2019, ist anzuwenden, wenn nach dessen Inkrafttreten ein Antrag auf nachträgliche Übertragung in das Wohnungseigentum gemäß § 15e gestellt oder ein Angebot der Bauvereinigung gemäß § 15c lit. b an die Mieter oder sonstigen Nutzungsberechtigten gelegt worden ist.
+
+(37) § 15e Abs. 1, idF BGBl. I Nr. 85/2019, ist ab seinem Inkrafttreten auf alle danach abgeschlossenen Miet- oder sonstigen Nutzungsverhältnisse mit einem Anspruch auf nachträgliche Übertragung in das Wohnungseigentum gemäß § 15c lit. a anzuwenden; auf alle zum Zeitpunkt seines Inkrafttretens aufrechten Miet- oder sonstigen Nutzungsverhältnisse für die ein Anspruch auf nachträgliche Übertragung in das Wohnungseigentum gemäß § 15c lit. a besteht oder bestanden hat jedoch nur insoweit anzuwenden, als der Mieter oder sonstige Nutzungsberechtigte auch nach Ablauf des fünfzehnten bis zum Ablauf des zwanzigsten Jahres seines Miet- oder sonstigen Nutzungsverhältnisses einen Antrag an die Bauvereinigung auf nachträgliche Übertragung der Wohnung (des Geschäftsraumes) stellen kann, wenn die Förderung aufrecht ist. § 15f, idF BGBl. I Nr. 85/2019, ist ab seinem Inkrafttreten auf alle danach abgeschlossenen Miet- oder sonstigen Nutzungsverhältnisse anzuwenden. Der Einleitungssatz des § 15c lit. a, idF BGBl. I Nr. 85/2019, ist ab seinem Inkrafttreten auf alle danach abgeschlossenen Miet- oder sonstigen Nutzungsverhältnisse anzuwenden. § 26, idF BGBl. I Nr. 69/2018, ist auf alle vor Inkrafttreten des § 26, idF BGBl. I Nr. 85/2019, abgeschlossenen Vereinbarungen weiterhin mit der Maßgabe anzuwenden, als bei Mehrfachtätigkeiten eines Vorstandsmitgliedes oder Geschäftsführers die Anwendung der erhöhten Betragsgrenzen gemäß § 26 Abs. 4 für sämtliche Tätigkeiten in einer (oder mehreren) gemeinnützigen Bauvereinigung(en) und ihren Gesellschaften gemäß § 7 Abs. 4 oder Abs. 4b gilt.
+
+(38) § 15i idF BGBl. I Nr. 88/2022 ist anzuwenden, wenn nach dessen Inkrafttreten ein Kaufvertrag gemäß § 15 oder § 15a abgeschlossen worden ist.
+
+(39) Die §§ 13 Abs. 6, 14 Abs. 7a, 14d Abs. 2 und 39 Abs. 18 Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 176/2023 sind für alle Valorisierungen nach Inkrafttreten dieses Gesetzes anzuwenden und gelten ungeachtet bisheriger vertraglicher Vereinbarungen.
+
+(40) Die §§ 13 Abs. 6, 14 Abs. 7a, 14d Abs. 2 und 39 Abs. 18 Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 12/2025 sind für alle Valorisierungen nach Inkrafttreten dieses Gesetzes anzuwenden und gelten ungeachtet bisheriger vertraglicher Vereinbarungen.
+
+> **Anmerkung:** ÜR: Abschnitt II Art. V Abs. 3, BGBl. Nr. 68/1991
+
+##### Art. 1 § 40 – Aufhebung geltender Vorschriften
+
+§ 40. (1) Mit dem Inkrafttreten der Bestimmungen dieses Bundesgesetzes verlieren nachstehende Vorschriften, soweit sie heute noch in Kraft stehen, ihre Wirksamkeit:
+
+1\. das Gesetz über die Gemeinnützigkeit im Wohnungswesen – Wohnungsgemeinnützigkeitsgesetz – (WGG) vom 29. Feber 1940, deutsches RGBl. I S. 438, mit Ausnahme des § 7 Abs. 2;
+
+2\. die Verordnung zur Durchführung des Gesetzes über die Gemeinnützigkeit im Wohnungswesen vom 23. Juli 1940 (WGGDV), deutsches RGBl. I S. 1012, mit Ausnahme des § 11 Abs. 3 erster bis dritter Satz;
+
+3\. die Verordnung zur Einführung von Vorschriften über die Gemeinnützigkeit im Wohnungswesen in der Ostmark und im Reichsgau Sudetenland vom 15. April 1940, deutsches RGBl. I S. 658, in der Fassung der Verordnung zur Änderung der Verordnung zur Einführung von Vorschriften über die Gemeinnützigkeit im Wohnungswesen in der Ostmark und im Reichsgau Sudetenland vom 22. Oktober 1941, deutsches RGBl. I S. 678;
+
+4\. die Verordnung über die Gebührenbefreiung beim Kleinwohnungsbau vom 27. August 1936, deutsches RGBl. I S. 702, in der Fassung der Verordnung vom 18. März 1940, deutsches RGBl. I S. 543;
+
+5\. § 9 Abs. 1 des Bundesgesetzes vom 3. August 1934, BGBl. II Nr. 195, womit Vorschriften für Erwerbs- und Wirtschaftsgenossenschaften erlassen werden (Genossenschaftsnovelle 1934);
+
+6\. § 15 Abs. 2 des Bundesgesetzes vom 15. April 1921, BGBl. Nr. 252, betreffend die Ausgestaltung des Staatlichen Wohnungsfürsorgefonds zu einem Bundes-Wohn- und Siedlungsfonds, hinsichtlich der Ausnahme von den Kündigungsbeschränkungen nach den Bestimmungen der §§ 19 bis 23 des Mietengesetzes.
+
+(2) Wenn in Bundesgesetzen auf Vorschriften verwiesen wird, die gemäß Abs. 1 ihre Gültigkeit verlieren, so treten an deren Stelle die entsprechenden Bestimmungen dieses Bundesgesetzes; dies gilt nicht für den Bereich des Grunderwerbsteuergesetzes 1955, BGBl. Nr. 140.
+
+## ARTIKEL IV
+
+##### Art. 4 – Inkrafttreten und Vollziehung
+
+(1) 1. Dieses Bundesgesetz tritt mit Ausnahme der §§ 13, 14, 15, 18, 19, 21 und 22 sowie des Art. II, die mit 1. Jänner 1980 in Kraft treten, am 31. März 1979 in Kraft.
+
+2\. Eine Verordnung gemäß § 13 Abs. 3 kann nach Kundmachung dieses Bundesgesetzes erlassen werden, tritt aber frühestens am 1. Jänner 1980 in Kraft.
+
+3\. § 2 Z 2, § 14 Abs. 1, 2 und 5, §§ 14a, 14b und 14c, § 19 Abs. 1, § 20 Abs. 3, § 22 Abs. 1 Z 2, 5 und 6, § 22 Abs. 4 und 5, § 39 Abs. 9 und Art. IV Abs. 2 Z 1 in der Fassung des Bundesgesetzes BGBl. Nr. 520/1981 treten mit 1. Jänner 1982 in Kraft.
+
+4\. § 2 Z 1 bis 3, § 7 Abs. 1 und Abs. 3 Z 5, § 13 Abs. 3, § 14 Abs. 2, § 14d, § 16 Abs. 2, § 17 Abs. 4, § 19 Abs. 1, § 22 Abs. 1 Z 6 und 7, § 28 Abs. 8 und 9, § 29 Abs. 6, § 30 Abs. 3 und Art. IV Abs. 2 Z 1 in der Fassung des Bundesgesetzes BGBl. Nr. 482/1984 treten mit 1. Jänner 1985 in Kraft.
+
+5\. § 14 Abs. 1 Z 7, § 14 Abs. 3 bis 8, § 14a Abs. 3, § 14b Z 3a, § 14c Abs. 2 und 4, § 14d, § 19, § 20, § 22 Abs. 1 Z 2 und 7 und § 39 Abs. 3 und 9 in der Fassung des Bundesgesetzes BGBl. Nr. 559/1985 treten mit 1. Jänner 1986 in Kraft.
+
+6\. § 13 Abs. 4, § 14 Abs. 2, 7 und 9, § 15 Abs. 1, § 19 Abs. 1, § 20, § 22 Abs. 1 und 5, § 28 Abs. 8 Z 5 und 6 sowie Art. IV Abs. 2 Z 1 in der Fassung des Bundesgesetzes BGBl. Nr. 340/1987 treten mit 25. Juli 1987 in Kraft.
+
+7\. § 20, § 22 Abs. 1 Z 4, 11 bis 13 und Abs. 2, § 23, § 27 Z 1, § 28 Abs. 3, § 39 Abs. 18 und Art. IV Abs. 2 und 3 in der Fassung des Bundesgesetzes BGBl. Nr. 68/1991 treten mit 1. März 1991 in Kraft.
+
+8\. § 14 Abs. 1 in der Fassung des Bundesgesetzes BGBl. Nr. 606/1991 tritt mit Ablauf des 30. September 1992 in Kraft.
+
+9\. § 14 Abs. 1 in der Fassung des Bundesgesetzes BGBl. Nr. 827/1992 tritt mit 1. Oktober 1992, § 30 Abs. 3 in der Fassung des Bundesgesetzes BGBl. Nr. 827/1992 tritt mit dem Inkrafttreten des Abkommens über den Europäischen Wirtschaftsraum in Kraft.
+
+10\. § 1, § 7 Abs. 1, Abs. 3 Z 5 und Abs. 6, § 10 Abs. 2 und 3, § 11 Abs. 1 und 3, § 28 Abs. 7 und Abs. 8 Z 6, § 36 Abs. 1, § 36a und § 39 Abs. 3 in der Fassung des Bundesgesetzes BGBl. Nr. 253/1993 sowie § 39 Absatz 17a treten mit 21. April 1993 in Kraft.
+
+11\. § 2 Z 1 bis 3, § 3 Abs. 2, § 5 Abs. 2, § 6 Abs. 1 und 2, § 7 Abs. 1 und Abs. 3 Z 4a und Z 9, § 8 Abs. 3, § 9, § 9a, § 9b, § 10 Abs. 1, § 10a, § 11 Abs. 4, § 13 Abs. 2 und Abs. 2a bis 2c, § 13 Abs. 3 und Abs. 5 bis 7, § 14 Abs. 1 bis 3, Abs. 3a und Abs. 5 sowie Abs. 7 bis 9, § 14a Abs. 3, § 14b Abs. 1 und 3, § 14c Abs. 2, § 14d Abs. 1 bis 5 sowie Abs. 7 und 9, § 15a, § 15b, § 15c, § 16, § 17 Abs. 4 und 6, § 18, § 19 Abs. 1, § 20 Abs. 1 Z 1, Abs. 2 Z 1 und 2, Abs. 5 Z 3, § 21 Abs. 1 Z 1 und Abs. 4, § 22 Abs. 1 Z 2a, 6, 6a, 7, 10 und 11a, § 22 Abs. 2 und 3, § 23 Abs. 4a und 5, § 26, § 28 Abs. 8 Z 6, § 29 Abs. 5, § 33 Abs. 2, § 36a, § 39 Abs. 4a, Abs. 8 Z 1, Abs. 9, 10 und 14, § 39 Abs. 18 Z 2 bis 4, § 39 Abs. 19 und 20, § 40, Art. II, III und IV Abs. 2 Z 1 und 2 in der Fassung des Bundesgesetzes BGBl. Nr. 800/1993 treten mit 1. Jänner 1994 in Kraft.
+
+(1a) § 19 Abs. 3, § 20 Abs. 1 Z 1 lit. a und b, § 22 Abs. 4 Z 2 und 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 22/1997 treten mit 1. März 1997 in Kraft.
+
+(1b) § 16 Abs. 5a und § 22 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 22/1997 sind für Abrechnungsperioden anzuwenden, die nach dem 31. Dezember 1997 beginnen.
+
+(1c) § 22 Abs. 4 Z 2 erster Satz sowie Z 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 22/1997 sind auf Verfahren anzuwenden, die nach dem 28. Februar 1997 anhängig gemacht worden sind; auf Verfahren, die zu diesem Zeitpunkt anhängig sind, sind die bisherigen Vorschriften anzuwenden.
+
+(1d) Die Aufhebung des § 30 Abs. 3 tritt mit Ablauf des 31. Dezember 1997 in Kraft. Diese Bestimmung ist jedoch auch nach dem 31. Dezember 1997 anzuwenden, wenn der Antrag, mit dem die Eintragung begehrt wird, noch vor dem 1. Jänner 1998 bei Gericht eingelangt ist.
+
+(1e) § 30 samt Überschrift tritt mit Ablauf des 31. Mai 2000 außer Kraft. Diese Bestimmung ist noch auf alle Schriften und Amtshandlungen anzuwenden, hinsichtlich derer der Anspruch auf die Gebühr vor dem 1. Juni 2000 begründet wird.
+
+(1f) § 7 Abs. 3 Z 6a, § 7 Abs. 4b, § 9b, § 20 Abs. 1 Z 3, § 39 Abs. 6a bis 6d und § 39 Abs. 27 in der Fassung des Bundesgesetzes BGBl. I Nr. 142/2000 treten mit 1. Jänner 2001 in Kraft.
+
+\*(Anm.: Abs. 1 g aufgehoben durch VfGH, BGBl. I Nr. 5/2003)*
+
+(1h) § 6 Abs. 1 und 2, § 14d Abs. 2 Z 1 und § 38 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 136/2001 treten mit 1. Jänner 2002 in Kraft.
+
+(1i) § 7 Abs. 3 Z 6a, § 7 Abs. 3 Z 12, § 7 Abs. 4b, § 7 Abs. 6 und 6a, § 13 Abs. 1, § 15 Abs. 1, § 15a, § 15b, § 15c lit. b, §§ 15d bis f, § 17a, § 17b, § 18 Abs. 3 und Abs. 3a, § 23 Abs. 4b und Abs. 4c, § 39 Abs. 6e, 6f, 21 bis 21c in der Fassung des Bundesgesetzes BGBl. I Nr. 162/2001 treten mit 1. Jänner 2002 in Kraft.
+
+(1j) § 15c lit. a in der Fassung des Bundesgesetzes BGBl. I Nr. 162/2001 tritt mit 1. Juli 2000 in Kraft.
+
+(1k) § 14d Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2002 tritt mit 1. Jänner 2002 in Kraft.
+
+(1l) § 15e Abs. 3 und 4, § 16 Abs. 2 bis 4 und 5a, § 21 Abs. 3, § 22 Abs. 3 und § 23 Abs. 4c in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2002 treten mit 1. Juli 2002 in Kraft.
+
+(1m) § 7 Abs. 5, § 11 Abs. 2, § 13 Abs. 7, § 14 Abs. 1a, 2b und 3b, § 14a Abs. 1 und 2, § 14c Abs. 1a, § 14d Abs. 1a, 4 und 8a, § 14e, § 14f, § 15 Abs. 1, § 15e Abs. 3a, § 15f, § 17b, § 18 Abs. 2 und 4, §§ 19a bis19d, § 20 Abs. 1 Z 2 bis 2b, § 20 Abs. 3a, § 20 Abs. 5 Z 2, 4 und 4a, § 22, § 23 Abs. 4c und 4d, § 27 Z 1, § 28 Abs. 7, § 33 Abs. 2, § 34 Abs. 1, § 35 Abs. 1, § 36, § 37 Abs. 3 und § 39 Abs. 29 bis 31 in der Fassung der Wohnrechtsnovelle 2006, BGBl. I Nr. 124, treten mit 1. Oktober 2006 in Kraft.
+
+(1n) § 7 Abs. 1 und § 14d Abs. 1a in der Fassung BGBl. I Nr. 25/2009 treten mit 1. Jänner 2009 in Kraft.
+
+(1o) § 9a in der Fassung des Bundesgesetzes, BGBl. I Nr. 135/2009, tritt mit 1. Jänner 2010 in Kraft.
+
+(1p) § 14a Abs. 2 Z 2a in der Fassung des Bundesgesetzes BGBl. I Nr. 100/2014 tritt mit 1. Jänner 2015 in Kraft. Die Bestimmung ist in dieser Fassung auch in gerichtlichen Verfahren anzuwenden, die am 1. Jänner 2015 bereits anhängig geworden, aber noch nicht rechtskräftig entschieden worden sind. Im Übrigen ist sie in dieser Fassung ab ihrem Inkrafttreten auch auf Mietverträge anzuwenden, die vor dem 1. Jänner 2015 geschlossen wurden.
+
+(1q) § 1 Abs. 3, § 3, § 6 Abs. 2, § 7 Abs. 1, Abs. 3 Z 6 und Z 10, Abs. 3a, 4 bis 4d, Abs. 5 und 6, § 9 Abs. 1 und 3, § 9a Abs. 2 bis 3 sowie Abs. 5 und 6, § 9b, § 10 Abs. 1, 5 und 6, § 10a Abs. 1 und 2, § 10b, § 13 Abs. 4a und 4b, § 14 Abs. 1, 2 bis 3a, 5 und 8, § 14a, § 14b, § 14c Abs. 1 und 1a, § 14d Abs. 1a, 3 bis 5, § 15g, § 17 Abs. 1 und 3, § 17b, 17c, § 18 Abs. 3, § 19 Abs. 1, § 19d Abs. 1 Z 2, § 20 Abs. 1 Z 1 und Abs. 4, § 22 Abs. 1 Z 12, 12a, 13a und 14, § 23 Abs. 2, 4, 4c und 4e, § 24, § 28 Abs. 3, § 33 Abs. 2, § 36 Abs. 1 bis 3, § 39 Abs. 20 und Abs. 32 bis 35 in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2015 treten mit 1. Jänner 2016 in Kraft, § 14c Abs. 1a jedoch mit der Maßgabe, dass die Neuregelung im Hinblick auf Maßnahmen iSd § 14a Abs. 2 Z 2b nur auf Mietverträge anzuwenden ist, die nach dem 31. Dezember 2015 geschlossen worden sind, § 13 Abs. 4a und 4b jedoch mit der Maßgabe, dass die Neuregelungen nur auf Mietverträge anzuwenden sind, die nach dem 31. Dezember 2015 geschlossen worden sind; § 13 Abs. 6, § 14 Abs. 7a, § 14d Abs. 2 und § 39 Abs. 18 in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2015 treten mit 1. Juli 2016 – ungeachtet bisheriger vertraglicher Vereinbarungen – in Kraft.
+
+(1r) Auf Verfahren gemäß § 22 Abs. 1 Z 1,3,4,6,6c,7,8,10 und 11a, die am 31. Dezember 2015 anhängig sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden. Auf Verfahren gemäß § 22 Abs. 1 Z 11, die am 30. Juni 2016 anhängig sind, sind nach Maßgabe des § 39 Abs. 32 bis 34 die bis dahin geltenden Vorschriften weiter anzuwenden.
+
+(1s) § 10a tritt mit xx. xx. xxxx in Kraft, wobei sich der zeitliche Anwendungsbereich gemäß § 8 ABGB bestimmt.
+
+(1t) § 7 Abs. 1a, 2 und 3 erster Satz, Abs. 3 Z 4 und 6, Abs. 4d, 4e und 7, § 8 Abs. 1, 3 bis 6, § 10a Abs. 1 lit. d und e, § 10a Abs. 2 erster Satz, Abs. 2 lit. c und d, § 10b Abs. 1 und 2, § 13 Abs. 2b, 2c und 7, § 14 Abs. 1 erster Satz, Abs. 1 Z 4, Abs. 2, Abs. 2b Z 1 bis 3, Abs. 7 Z 2a, Abs. 7a, die Überschrift vor § 14a, § 14a Abs. 2 Z 5, § 14c Abs. 1 Z 2, § 14d Abs. 1 und 5, § 15b Abs. 1 lit. b, der Einleitungssatz des § 15c lit. a, § 15c lit. a Z 2, § 15e Abs. 1, § 15f, § 15g Abs. 1 und 2, § 15h, § 17a Abs. 3, § 17b Abs. 1, § 17c, § 19 Abs. 1, § 20 Abs. 1 Z 1 lit.b und c, Abs. 1 Z 2a und 3, § 22 Abs. 1 Z 9, § 24 Abs. 1, § 25 samt Überschrift, § 26 samt Überschrift, § 30 samt Überschrift, § 33 Abs. 2, § 35 Abs. 3, § 35a, § 36b samt Überschrift, § 37 Abs. 2, § 39 Abs. 3, 3a, 36 und 37 und Artikel IV Abs. 2 Z 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 85/2019 treten mit dem der Kundmachung folgenden Tag in Kraft.
+
+(1u) Die §§ 9a Abs. 2, 10a, 15h, 15i samt Überschrift, 22 Abs. 1 Z 12a, 24a samt Überschrift, 27 Z 6 und 39 Abs. 38 in der Fassung des Bundesgesetzes BGBl. I Nr. 88/2022 treten mit dem der Kundmachung folgenden Tag in Kraft.
+
+(1v) Die §§ 5 Abs. 1 und 20 Abs. 1 Z 2a in der Fassung des Bundesgesetzes BGBl. I Nr. 88/2022 treten mit dem der Kundmachung folgenden Tag in Kraft, wobei sich der zeitliche Anwendungsbereich gemäß § 8 ABGB bestimmt.
+
+(1w) Die §§ 13 Abs. 6, 14 Abs. 7a, 14d Abs. 2, 39 Abs. 18 Z 2 und Abs. 39 in der Fassung des Bundesgesetzes BGBl. I Nr. 176/2023 treten mit dem der Kundmachung folgenden Tag in Kraft.
+
+(1x) Die §§ 13 Abs. 6, 14 Abs. 7a, 14d Abs. 2, 39 Abs. 18 Z 2 und Abs. 40 in der Fassung des Bundesgesetzes BGBl. I Nr. 12/2025 treten mit dem der Kundmachung folgenden Tag in Kraft. Die durch das 3. Mietrechtliche Inflationslinderungsgesetz, BGBl. I Nr. 176/2023, für den 1. April 2025 vorgesehene Veränderung der Beträge entfällt.
+
+(2) Mit der Vollziehung sind betraut:
+
+1\. der Bundesminister für Justiz hinsichtlich des § 9a Abs. 1, des § 10a, soweit er die Rechtsunwirksamkeit von Vereinbarungen betrifft, des § 13 Abs. 4, 5 und 6, des § 14 Abs. 1 bis 6, der §§ 14a, 14b, 14c und 14d, des § 15 Abs. 1, der §§ 15a und 15b, des § 15c, der §§ 15g bis 22, des § 37 Abs. 1 und 2, des § 39 Abs. 4, 8 bis 13, 16, 18 Z 1 bis 4 und 10 sowie Abs. 19;
+
+2\. der Bundesminister für Finanzen hinsichtlich des § 36a;
+
+3\. der Bundesminister für Justiz im Einvernehmen mit dem Bundesminister für Finanzen hinsichtlich des § 30;
+
+4\. die Landesregierungen, unbeschadet des Abs. 3, hinsichtlich der übrigen Bestimmungen.
+
+(3) Die Erlassung von Durchführungsverordnungen – ausgenommen die Verordnungen gemäß § 7 Abs. 6a und § 39 Abs. 18 Z 6 – und die Wahrnehmung der Rechte des Bundes gemäß Art. 15 Abs. 8 B-VG obliegt dem Bundesminister für wirtschaftliche Angelegenheiten, wobei die Verordnungen gemäß § 19 Abs. 3 und § 23 Abs. 4 im Einvernehmen mit dem Bundesminister für Justiz zu erlassen sind.
+
+> **Anmerkung:** Zu Abs. 1 Z. 9: Das EWR-Abkommen ist mit 1.1.1994 in Kraft getreten, vgl. BGBl. Nr. 909/1993 und BGBl. Nr. 917/1993.
+
+## Artikel II
+
+***(Anm.: aus BGBl. Nr. 253/1993, zu § 7, BGBl. Nr. 139/1979)***
+
+##### Art. 2
+
+Das Körperschaftsteuergesetz 1988, zuletzt geändert durch BGBl. Nr. 699/1991, wird wie folgt geändert:
+
+\*(Anm.: Z 1 und 2 es folgen die Änderungen des Körperschaftsteuergesetzes)*
+
+\*(Anm.: Z 3 lit. a Bezugszeitraum zum Körperschaftsteuergesetz)*
+
+b) Eigenkapital im Sinne des § 7 Abs. 6 des Wohnungsgemeinnützigkeitsgesetzes, das zu Beginn des ersten Wirtschaftsjahres, das nach dem 31. Dezember 1992 endet, vorhanden ist, gilt am Schluß des unmittelbar vorangegangenen Wirtschaftsjahres als gebildet.
+
+##### Artikel IV – Inkrafttreten und Übergangsbestimmungen – *(Anm.: aus BGBl. Nr. 559/1985, zu § 14d, BGBl. Nr. 139/1979)*
+
+1\. Dieses Bundesgesetz tritt mit 1. Jänner 1986 in Kraft.
+
+\*(Anm.: Z 2 bis 8 betreffen andere Rechtsvorschriften)*
+
+9\. Die Bestimmungen des § 14d des Wohnungsgemeinnützigkeitsgesetzes sind – mit Ausnahme des Abs. 5 – auch auf jene Erhaltungsbeiträge anzuwenden, deren Vorschreibung auf § 14 d des Wohnungsgemeinnützigkeitsgesetzes in der am 1. Jänner 1985 in Geltung gestandenen Fassung beruht.
+
+\*(Anm.: Z 10 und 11 betreffen andere Rechtsvorschriften)*
+
+## Artikel V
+
+### Übergangs- und Vollzugsbestimmungen
+
+***(Anm.: aus BGBl. Nr. 68/1991, zu den §§ 20, 22, 23, 27, 28 und 39, BGBl. Nr. 139/1979)***
+
+##### Art. 5
+
+(1) Dieses Bundesgesetz tritt mit 1. März 1991 in Kraft.
+
+(2) Insoweit im folgenden nichts anderes bestimmt ist, gelten Art. I und II auch für Miet- und sonstige Nutzungsverträge, die vor dem Inkrafttreten dieses Bundesgesetzes geschlossen worden sind.
+
+(3) Soweit Art. I Z 1 und Z 8 keine gesonderten Regelungen vorsehen, gilt für bestehende Vertragsverhältnisse und anhängige Verfahren:
+
+1\. § 20 Abs. 5 und § 22 Abs. 1 Z 4 des Wohnungsgemeinnützigkeitsgesetzes beziehungsweise § 10 und § 37 Abs. 1 Z 6 des Mietrechtsgesetzes in der Fassung des vorliegenden Bundesgesetzes sind, wenn die Ansprüche nach dem 1. März 1991 fällig werden, anwendbar:
+
+a) auf solche auf Ersatz für Aufwendungen auf eine Wohnung, die vor dem 1. Jänner 1982 oder nach dem 28.Feber 1991 vorgenommen wurden;
+
+b) auf alle mit öffentlichen Mitteln einer Gebietskörperschaft geförderten Aufwendungen auf eine Wohnung;
+
+c) auf Ansprüche für Aufwendungen auf eine Wohnung, die ohne Zuhilfenahme öffentlicher Mittel einer Gebietskörperschaft nach dem 1.Jänner 1982, aber vor dem 1. März 1991 vorgenommen wurden, mit der Maßgabe, daß die jährliche Abschreibungsquote allgemein ein Zwanzigstel beträgt und daß die Vorlage von Rechnungen nicht Anspruchsvoraussetzung ist.
+
+2\. Unanwendbar sind die § 20 Abs. 5 und § 22 Abs. 1 Z 4 des Wohnungsgemeinnützigkeitsgesetzes beziehungsweise § 10 und § 37 Abs. 1 Z 6 des Mietrechtsgesetzes in der Fassung des vorliegenden Bundesgesetzes für die übrigen durch Z 1 nicht erfaßten Ansprüche nach § 10 Mietrechtsgesetz in der bisherigen Fassung.
+
+3\. Am 1. März 1991 bei Gericht (der Gemeinde, § 39 des Mietrechtsgesetzes) anhängige Verfahren sind nach den bisherigen Vorschriften durchzuführen.
+
+(4) Die Bestimmungen des Art. I Z 5, 6 und 7sowie des Art. III Z 1 sind erstmals auf Geschäftsjahre anzuwenden, die nach dem 31. Dezember 1991 beginnen. Eine Verordnung gemäß § 23 Abs. 4 des Wohnungsgemeinnützigkeitsgesetzes kann jedoch bereits ab 1. März 1991 erlassen werden.
+
+\*(Anm.: Abs. 5 Vollziehung)*
+
+## Artikel VI
+
+### Wohnungsgemeinnützigkeitsgesetz 1979
+
+***(Anm.: aus BGBl. Nr. 253/1993, zu den §§ 1, 7 und 28, BGBl. Nr. 139/1979)***
+
+##### Art. 6
+
+Das Wohnungsgemeinnützigkeitsgesetz, zuletzt geändert durch BGBl. Nr. 68/1991, wird wie folgt geändert:
+
+\*(Anm.: Es folgen die Änderungen)*
+
+13\. Z 1 und 4 sind erstmalig für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 1992, Z 8 und 9 erstmalig auf Geschäftsjahre, die nach dem 31. Dezember 1991 beginnen. Für die Umsatzsteuer ist Z 1 auf Leistungen anzuwenden, die nach dem 31. Dezember 1992 ausgeführt werden.
+
+## Artikel IX
+
+### Inkrafttreten, Übergangsbestimmungen
+
+***(Anm.: aus BGBl. I Nr. 147/1999, zu den §§ 13, 16 und 39, BGBl. Nr. 139/1979)***
+
+##### Art. 9
+
+1\. Artikel I Z 24, 25, 34, 36 und 39, Artikel II Z 1 bis 9, Artikel III Z 5 lit. a, Z 6, 7, 8 lit. a und Z 9, Artikel V Z 1 sowie Artikel VI Z 3 und 6 treten mit 1. Jänner 2000 in Kraft.
+
+2\. Artikel VII und VIII treten mit 1. Jänner 1999 in Kraft.
+
+3\. Im übrigen treten die Bestimmungen dieses Bundesgesetzes mit 1. September 1999 in Kraft.
+
+3a. § 13 Abs. 2 Z 3 WGG in der Fassung dieses Bundesgesetzes ist auf Baulichkeiten anzuwenden, die auf einem nach dem 31. August 1999 erworbenen Grundstück errichtet werden.
+
+4\. Entgeltvereinbarungen gemäß § 13 Abs. 6 WGG in der Fassung vor dem Inkrafttreten dieses Bundesgesetzes sind ab dem 1. September 1999 insoweit unwirksam, als sie den nach § 13 Abs. 6 WGG in der Fassung dieses Bundesgesetzes zulässigen Höchstbetrag überschreiten.
+
+5\. Entgeltvereinbarungen gemäß § 39 Abs. 18 Z 2 WGG in der Fassung vor dem Inkrafttreten dieses Bundesgesetzes sind ab dem 1. September 1999 insoweit unwirksam, als sie den nach § 39 Abs. 18 Z 2 WGG in der Fassung dieses Bundesgesetzes zulässigen Höchstbetrag überschreiten.
+
+6\. Auf am 1. Jänner 2000 anhängige Verfahren gemäß § 22 Abs. 1 Z 7 WGG oder § 37 Abs. 1 Z 9 MRG sind § 16 Abs. 2 WGG, § 17 Abs. 2 MRG und § 24 Abs. 2a MRG jeweils in der Fassung dieses Bundesgesetzes anzuwenden, wenn die Entscheidung erster Instanz nicht bis zum Ablauf des 31. Dezember 1999 ergangen ist. Wenn in einem solchen Verfahren ein Mieter oder sonstiger Nutzungsberechtigter nur wegen der durch Art. I Z 34 oder Art. II Z 3 lit. b dieses Bundesgesetzes vorgesehenen Änderungen unterliegt, hat die Bauvereinigung beziehungsweise der Vermieter dem Mieter oder sonstigen Nutzungsberechtigten ungeachtet dieses Verfahrensausgangs die Kosten des Verfahrens mit Ausnahme der Kosten rechtsfreundlicher Vertretung zu ersetzen.
+
+\*(Anm.: Z 7 bis 10 betreffen andere Rechtsvorschriften)*
+
+11\. Im übrigen sind die Bestimmungen dieses Bundesgesetzes ab dem jeweiligen Zeitpunkt ihres Inkrafttretens auch auf Verträge anzuwenden, die vor diesem Zeitpunkt geschlossen worden sind.
+
+## Übergangsbestimmungen
+
+##### Art. 10 § 2 – *(Anm.: aus BGBl. I Nr. 113/2003, zu Art. I § 22, BGBl. Nr. 139/1979)*
+
+§ 2. (1) Dieses Bundesgesetz ist – soweit im Folgenden nicht anderes bestimmt wird – auch auf Verfahren anzuwenden, die vor seinem In-Kraft-Treten anhängig geworden sind.
+
+\*(Anm.: Abs. 2 bis 4 betreffen andere Rechtsvorschriften)*
+
+## Artikel XXXII
+
+### Inkrafttreten, Aufhebung eines Gesetzes, Übergangsbestimmungen
+
+***(Anm.: aus BGBl. I Nr. 140/1997, zu § 22, BGBl. Nr. 139/1979)***
+
+##### Art. 32
+
+\*(Anm.: Z 1 Inkrafttretensbestimmung)*
+
+\*(Anm.: Z 2 Außerkrafttretensbestimmung)*
+
+\*(Anm.: Z 3 bis 13 ÜR zu einem anderen Artikel der Sammelnovelle BGBl. I Nr. 140/1997)*
+
+14\. Die Art. II Z 1 bis 3 (§§ 13, 14, 14a, 14b und 16 AußStrG), VI Z 9 lit. b und c (§ 49 Abs. 2 Z 1 und 1a JN), VII Z 34 und 36 bis 42 (§§ 500, 502, 505 bis 508a ZPO), 43 lit. b (§ 510 Abs. 3 dritter Satz ZPO) und 46 bis 48 (§§ 521a, 527 und 528 ZPO), VIII Z 5 (§ 371 EO), XII Z 1 bis 4 (§§ 125 bis 127 und 129 GBG 1955), XXI (§ 26 WEG 1975), XXII (§ 22 WGG), XXIV Z 2 (§ 37 MRG), XXVI Z 4 lit. a (§ 44 Abs. 1 ASGG – soweit sich dieser auf den § 508 ZPO bezieht), 5 bis 7 (§§ 45, 46 und 47 ASGG), XXVII Z 1 (§ 15 Abs. 3 UVG 1985) und XXIX (§ 25 HeizKG) sind anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31. Dezember 1997 liegt.
+
+\*(Anm.: Z 15 bis 20 ÜR zu anderen Artikel der Sammelnovelle BGBl. I Nr. 140/1997)*
+
+## 7. Hauptstück
+
+### Schluss- und Übergangsbestimmungen — Artikel 79
+
+### Inkrafttreten und Übergangsbestimmungen
+
+***(Anm.: aus BGBl. I Nr. 135/2009, zu § 9a, BGBl. Nr. 139/1979)***
+
+##### Art. 79
+
+(1) Art. 2 (Änderung des Allgemeinen Bürgerlichen Gesetzbuchs), Art. 3 (Änderung des Ehegesetzes), Art. 4 (Änderung des Fortpflanzungsmedizingesetzes), Art. 6 (Änderung der Jurisdiktionsnorm), Art. 7 (Änderung des Strafgesetzbuches), Art. 27 (Änderung des Einkommensteuergesetzes 1988), Art. 28 (Änderung des Körperschaftsteuergesetzes 1988), Art. 29 (Änderung des Umsatzsteuergesetzes 1994), Art. 30 (Änderung des Bewertungsgesetzes 1955), Art. 31 (Änderung des Gebührengesetzes 1957), Art. 33 (Änderung der Bundesabgabenordnung), Art. 34 (Änderung des Alkoholsteuergesetzes), Art. 61 (Änderung des Ärztegesetzes 1998), Art. 62 (Änderung des Gehaltskassengesetzes 2002), Art. 63 (Änderung des Apothekengesetzes), Art. 72 (Änderung des Studienförderungsgesetzes), Art. 76 (Änderung des Entwicklungshelfergesetzes), Art. 77 (Änderung des Bundesgesetzes über Aufgaben und Organisation des auswärtigen Dienstes – Statut) und Art. 78 (Bundesgesetz über die Einräumung von Privilegien und Immunitäten an internationale Organisationen) treten mit 1. Jänner 2010 in Kraft.
+
+(2) Die durch dieses Bundesgesetz geänderten Strafbestimmungen sind in Strafsachen nicht anzuwenden, in denen vor ihrem Inkrafttreten das Urteil in erster Instanz gefällt worden ist. Nach Aufhebung eines Urteils infolge Nichtigkeitsbeschwerde, Berufung, Wiederaufnahme oder Erneuerung des Strafverfahrens oder infolge eines Einspruches ist jedoch im Sinne der §§ 1 und 61 StGB vorzugehen.
+
+(3) § 36 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 104/2019 tritt mit 1. Juli 2020 in Kraft.
+
+## VII. ABSCHNITT
+
+### Übergangs- und Schlußbestimmungen
+
+##### § 16 – *(Anm.: aus BGBl. Nr. 340/1987, zu den §§ 15 und 20, BGBl. Nr. 139/1979)*
+
+§ 16. *(Anm.: Abs. 1 betrifft andere Rechtsvorschriften)*
+
+(2) § 14 Z 2, 3 und 6 gelten ab 1. Jänner 1986. § 14 Z 5 gilt auch für alle Übertragungen in das Mit- oder Wohnungseigentum nach dem 31. März 1979, sofern § 15 des Wohnungsgemeinnützigkeitsgesetzes nach Maßgabe seines § 39 anzuwenden ist.
+
+(3) Kommt in anderen Bundesgesetzen eine Verweisung auf § 20 Abs. 3 und 4 des Wohnungsgemeinnützigkeitsgesetzes vor, so tritt an deren Stelle die Verweisung auf § 20 Abs. 3 des Wohnungsgemeinnützigkeitsgesetzes.
+
+#### VIII. Abschnitt
+
+##### § 29 – Schluß- und Übergangsbestimmungen – *(Anm.: aus BGBl. Nr. 827/1992, zu § 14, BGBl. Nr. 139/1979)*
+
+§ 29. *(Anm.: Abs. 1 Inkrafttreten)*
+
+\*(Anm.: Abs. 2 bis 6 betreffen andere Rechtsvorschriften)*
+
+(7) Hatte die letzte Abrechnung der Heiz- und Warmwasserkosten für die Aufteilung der Energiekosten zu erfolgen:
+
+1\. vor dem 1. Oktober 1992 nicht unter Anwendung des § 14 Abs. 1 zweiter Satz WGG oder
+
+2\. vor dem 31. Dezember 1992 nicht unter Anwendung des § 19 Abs. 1 Z 1 zweiter Halbsatz WEG 1975 oder
+
+3\. vor dem 1. Oktober 1992 nicht unter Anwendung des § 24 Abs. 1 MRG,
+
+so gelten – frühestens mit Wirkung ab 1. Jänner 1994 – die Bestimmungen dieses Bundesgesetzes nur dann, wenn alle Wärmeabnehmer mit dem Wärmeabgeber dies schriftlich vereinbaren.

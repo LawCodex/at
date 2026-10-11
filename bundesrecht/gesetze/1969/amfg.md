@@ -546,7 +546,9 @@ ausgesprochen werden.
 
 ## Artikel II
 
-#### *(Anm.: aus BGBl. Nr. 685/1991, zu den §§ 17a – 17d, BGBl. Nr. 31/1969)*
+***(Anm.: aus BGBl. Nr. 685/1991, zu den §§ 17a – 17d, BGBl. Nr. 31/1969)***
+
+#### Art. 2
 
 (1) §§ 17a bis 17d treten für die Vermittlung von Führungskräften mit 1. Jänner 1992 in Kraft.
 
@@ -560,7 +562,9 @@ ausgesprochen werden.
 
 ### Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. Nr. 61/1983, zu BGBl. Nr. 31/1969)*
+***(Anm.: aus BGBl. Nr. 61/1983, zu BGBl. Nr. 31/1969)***
+
+#### Art. 3
 
 (1) Der im Zeitpunkt des Inkrafttretens dieses Bundesgesetzes auf Grund der bisher geltenden Bestimmungen bestehende Beirat für Arbeitsmarktpolitik einschließlich seiner Ausschüsse und die auf Grund des Arbeitsmarktförderungsgesetzes und anderer Bundesgesetze bestehenden Verwaltungsausschüsse bei den Landesarbeitsämtern und Vermittlungsausschüsse bei den Arbeitsämtern gelten vorläufig als Beirat für Arbeitsmarktpolitik einschließlich seiner Ausschüsse und als Verwaltungsausschüsse bei den Landesarbeitsämtern und Vermittlungsausschüsse bei den Arbeitsämtern im Sinne dieses Bundesgesetzes unbeschadet abweichender bundesgesetzlicher Regelung.
 
@@ -574,7 +578,9 @@ ausgesprochen werden.
 
 ### Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. Nr. 681/1991, zu § 51 Abs. 3, BGBl. Nr. 31/1969)*
+***(Anm.: aus BGBl. Nr. 681/1991, zu § 51 Abs. 3, BGBl. Nr. 31/1969)***
+
+#### Art. 3
 
 (1) Abweichend von § 51 Abs. 3 des Arbeitsmarktförderungsgesetzes sind die Verwaltungskosten der Landesarbeitsämter und Arbeitsämter für das Jahr 1992 zur Gänze aus Mitteln der Arbeitslosenversicherung zu bestreiten.
 
@@ -590,7 +596,9 @@ ausgesprochen werden.
 
 ### Übergangsbestimmung
 
-#### *(Anm.: aus BGBl. Nr. 616/1987, zu § 25c, BGBl. Nr. 31/1969)*
+***(Anm.: aus BGBl. Nr. 616/1987, zu § 25c, BGBl. Nr. 31/1969)***
+
+#### Art. 4
 
 Die Verordnung gemäß § 25 c Abs. 3 des Arbeitsmarktförderungsgesetzes hat weiters vorzusehen, wie die Beiträge für jene Beihilfenempfänger, die im Zeitpunkt des Inkrafttretens der Verordnung eine Beihilfe zur Deckung des Lebensunterhaltes gemäß § 20 Abs. 2 lit. c des Arbeitsmarktförderungsgesetzes beziehen, abzurechnen sind, und wie die entsprechenden Meldungen zu erstatten sind. Abweichend von den Vorschriften des Allgemeinen Sozialversicherungsgesetzes ist für die Erstattung dieser Meldungen nach Möglichkeit ein automationsunterstütztes Verfahren vorzusehen und auf schriftliche Einzelmeldungen zu verzichten.
 
@@ -598,6 +606,8 @@ Die Verordnung gemäß § 25 c Abs. 3 des Arbeitsmarktförderungsgesetzes hat we
 
 ### Sonderbestimmung zum Arbeitsmarktförderungsgesetz
 
-#### *(Anm.: aus BGBl. Nr. 835/1992, zu § 51 Abs. 3, BGBl. Nr. 31/1969 idF BGBl. Nr. 681/1991)*
+***(Anm.: aus BGBl. Nr. 835/1992, zu § 51 Abs. 3, BGBl. Nr. 31/1969 idF BGBl. Nr. 681/1991)***
+
+#### Art. 4
 
 Abweichend von § 51 Abs. 3 des Arbeitsmarktförderungsgesetzes, BGBl. Nr. 31/1969, zuletzt geändert durch das Bundesgesetz BGBl. Nr. 685/1991, sind die Verwaltungskosten der Landesarbeitsämter und Arbeitsämter für das Jahr 1993 zur Gänze aus Mitteln der Arbeitslosenversicherung zu bestreiten.

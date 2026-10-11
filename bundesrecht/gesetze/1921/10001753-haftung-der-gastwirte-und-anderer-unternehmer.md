@@ -38,7 +38,7 @@ BGBl. I Nr. 98/2001 (NR: GP XXI RV 621 AB 704 S. 75. BR: 6398 AB 6424 S. 679.)
 
 Der Nationalrat hat beschlossen:
 
-### § 1 – § 1.
+### § 1
 
 (1) Die im § 970, Absatz 1 und 3, a. b. G. B. den Gastwirten und Badeanstaltsbesitzern auferlegte Haftung wird bis auf weiteres auf den Höchstbetrag von 1 100 Euro beschränkt, es sei denn, daß die Sachen dem Unternehmer besonders zur Aufbewahrung übergeben worden sind oder daß der Schaden von ihm selbst oder seinen Leuten verschuldet ist.
 
@@ -46,17 +46,17 @@ Der Nationalrat hat beschlossen:
 
 > **Anmerkung:** ÜR: Art. XLI Z 3, BGBl. Nr. 343/1989; Art. 96 Z 3, BGBl. I Nr. 98/2001
 
-### § 2 – § 2.
+### § 2
 
 Die im § 970a a. b. G. B. für Kostbarkeiten, Geld und Wertpapiere aufgestellte Haftungsgrenze wird bis auf weiteres von 1000 K auf 1500 S erhöht.
 
 > **Beachte:** In § 970a ABGB wird die Haftungsgrenze auf 550 Euro festgesetzt.
 
-### § 3 – § 3.
+### § 3
 
 Vereinbarungen, wodurch die Haftung unter das in den §§ 1 und 2 genannte Maß herabgesetzt werden soll, sind unwirksam.
 
-### § 4 – § 4.
+### § 4
 
 (1) Dieses Gesetz tritt mit dem Beginne des vierzehnten auf seine Kundmachung folgenden Tages in Kraft. Es gilt nur für die nach seinem Inkrafttreten eingebrachten Sachen.
 

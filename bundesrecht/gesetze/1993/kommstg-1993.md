@@ -308,7 +308,9 @@ Die Abgabenbehörden des Bundes sind berechtigt, die Daten der Steuererklärung 
 
 ### Kommunalsteuergesetz
 
-#### *(Anm.: aus BGBl. Nr. 680/1994, zu § 11, BGBl. Nr. 819/1993)*
+***(Anm.: aus BGBl. Nr. 680/1994, zu § 11, BGBl. Nr. 819/1993)***
+
+#### Art. 10
 
 Das Kommunalsteuergesetz 1993, BGBl. Nr. 819, wird wie folgt geändert:
 

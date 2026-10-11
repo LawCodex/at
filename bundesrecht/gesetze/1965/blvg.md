@@ -2193,6 +2193,8 @@ Landwirtschaft, an höheren Lehranstalten für Wein- und Obstbau und an höheren
 
 ## Artikel II
 
-### *(Anm.: aus BGBl. Nr. 567/1981, zu § 7, BGBl. Nr. 244/1965)*
+***(Anm.: aus BGBl. Nr. 567/1981, zu § 7, BGBl. Nr. 244/1965)***
+
+### Art. 2
 
 Artikel II des Bundesgesetzes BGBl. Nr. 399/1975 tritt mit Ablauf des 31. Jänner 1982 außer Kraft. Durch dieses Außerkrafttreten werden die auf Grund dieser Bestimmungen festgesetzten Einreihungen von Unterrichtsgegenständen in Lehrverpflichtungsgruppen in ihrer Rechtswirksamkeit nicht berührt.

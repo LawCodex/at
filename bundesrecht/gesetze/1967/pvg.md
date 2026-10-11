@@ -1688,7 +1688,9 @@ Der nach § 11 Abs. 1 Z 4 lit. b in der bisherigen Fassung eingerichtete Fachaus
 
 ## Artikel III
 
-##### *(Anm.: aus BGBl. Nr. 284/1971 zum BGBl. Nr. 133/1967)*
+***(Anm.: aus BGBl. Nr. 284/1971 zum BGBl. Nr. 133/1967)***
+
+##### Art. 3
 
 \*(Anm.: Abs. 1 Vollziehungsklausel; lautet wie § 44 Abs. 1 PVG)*
 
@@ -1698,7 +1700,9 @@ Mit der Vollziehung des Artikels I Z 44 *(Anm.: das ist § 42 PVG)* sind, soweit
 
 ## Artikel XIII
 
-##### *(aus BGBl. Nr. 148/1988, Abs. 3 zu Art XI, zu BGBl. Nr. 133/1967)*
+***(aus BGBl. Nr. 148/1988, Abs. 3 zu Art XI, zu BGBl. Nr. 133/1967)***
+
+##### Art. 13
 
 \*(Anm: Abs. 1 Inkrafttretensdatum des BG BGBl. Nr. 148/1988)*
 

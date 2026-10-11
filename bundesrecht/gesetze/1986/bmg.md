@@ -1906,13 +1906,17 @@ Verwaltung der Anteilsrechte des Bundes an der Bundesimmobilien Ges.m.b.H.
 
 ### Umsetzungshinweis
 
-#### *(Anm.: aus BGBl. I Nr. 43/2016, zu Teil 2 Abschnitt F der Anlage zu § 2, BGBl. I Nr. 76/1986)*
+***(Anm.: aus BGBl. I Nr. 43/2016, zu Teil 2 Abschnitt F der Anlage zu § 2, BGBl. I Nr. 76/1986)***
+
+#### Art. 15
 
 Mit diesem Bundesgesetz wird die Richtlinie 2014/56/EU Richtlinie 2014/56/EU zur Änderung der Richtlinie 2006/43/EG über Abschlussprüfungen von Jahresabschlüssen und konsolidierten Abschlüssen, ABl. Nr. L 158 vom 27.05.2014 S. 196 umgesetzt.
 
 ## Artikel II
 
-#### *(Anm.: aus BGBl. Nr. 78/1987, zu Teil 2 lit. A und J der Anlage, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 78/1987, zu Teil 2 lit. A und J der Anlage, BGBl. Nr. 76/1986)***
+
+#### Art. 2
 
 (1) Die bisher dem Planstellenbereich des Bundesministeriums für Gesundheit und Umweltschutz angehörenden Bediensteten werden im Verhältnis 8 : 1 in die Planstellenbereiche des Bundeskanzleramtes und des Bundesministeriums für Umwelt, Jugend und Familie übernommen.
 
@@ -1926,13 +1930,17 @@ Mit diesem Bundesgesetz wird die Richtlinie 2014/56/EU Richtlinie 2014/56/EU zur
 
 ## Artikel II
 
-#### *(Anm.: aus BGBl. Nr. 45/1991, zu den Abschnitten A und F der Anlage zu § 2, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 45/1991, zu den Abschnitten A und F der Anlage zu § 2, BGBl. Nr. 76/1986)***
+
+#### Art. 2
 
 Die bisher dem Planstellenbereich Bundeskanzleramt – Gesundheitswesen angehörenden Bediensteten gelten als in den Planstellenbereich des Bundesministeriums für Gesundheit, Sport und Konsumentenschutz übernommen.
 
 ## Artikel III
 
-#### *(Anm.: aus BGBl. Nr. 78/1987, zu Teil 2 lit. A und D der Anlage, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 78/1987, zu Teil 2 lit. A und D der Anlage, BGBl. Nr. 76/1986)***
+
+#### Art. 3
 
 (1) Die bisher dem Planstellenbereich des Bundesministeriums für soziale Verwaltung angehörenden Bediensteten sind dem Bundesministerium für Arbeit und Soziales und dem Bundeskanzleramt im Verhältnis 20 : 1 zuzuweisen.
 
@@ -1942,7 +1950,9 @@ Die bisher dem Planstellenbereich Bundeskanzleramt – Gesundheitswesen angehör
 
 ## Artikel III
 
-#### *(Anm.: aus BGBl. Nr. 45/1991, zu den Abschnitten A und F der Anlage zu § 2, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 45/1991, zu den Abschnitten A und F der Anlage zu § 2, BGBl. Nr. 76/1986)***
+
+#### Art. 3
 
 (1) Die bisher dem Planstellenbereich Bundeskanzleramt – Zentralleitung angehörenden Bediensteten, die ausschließlich oder überwiegend mit Aufgaben betraut waren, die nunmehr in den Wirkungsbereich des Bundesministeriums für Gesundheit, Sport und Konsumentenschutz fallen, werden in den Planstellenbereich des Bundesministeriums für Gesundheit, Sport und Konsumentenschutz übernommen. Die für die Besorgung dieser Aufgaben bisher vorgesehenen Planstellen gehen in den Planstellenbereich des Bundesministeriums für Gesundheit, Sport und Konsumentenschutz über.
 
@@ -1952,7 +1962,9 @@ Die bisher dem Planstellenbereich Bundeskanzleramt – Gesundheitswesen angehör
 
 ## Artikel IV
 
-#### *(Anm.: aus BGBl. Nr. 78/1987, zu Teil 2 lit. C und M der Anlage, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 78/1987, zu Teil 2 lit. C und M der Anlage, BGBl. Nr. 76/1986)***
+
+#### Art. 4
 
 (1) Die bisher dem Planstellenbereich des Bundesministeriums für Bauten und Technik angehörenden Bediensteten gelten grundsätzlich als in den Planstellenbereich des Bundesministeriums für wirtschaftliche Angelegenheiten übernommen.
 
@@ -1964,7 +1976,9 @@ Die bisher dem Planstellenbereich Bundeskanzleramt – Gesundheitswesen angehör
 
 ## Artikel IV
 
-#### *(Anm.: aus BGBl. Nr. 45/1991, zu den Abschnitten A,B und D der Anlage zu § 2, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 45/1991, zu den Abschnitten A,B und D der Anlage zu § 2, BGBl. Nr. 76/1986)***
+
+#### Art. 4
 
 (1) Die bisher dem Planstellenbereich Äußeres – Zentralleitung oder dem Planstellenbereich Arbeit und Soziales – Zentralleitung angehörenden Bediensteten, die mit der Besorgung der in Art. 1 Z 4 genannten Aufgaben ausschließlich oder überwiegend betraut waren, werden in den Planstellenbereich des Bundeskanzleramtes übernommen. Die für die Besorgung dieser Aufgaben bisher vorgesehenen Planstellen und allenfalls beim Planstellenbereich Landesarbeitsämter gebundenen Planstellen gehen in den Planstellenbereich des Bundeskanzleramtes über.
 
@@ -1976,7 +1990,9 @@ Die bisher dem Planstellenbereich Bundeskanzleramt – Gesundheitswesen angehör
 
 ## Artikel V
 
-#### *(Anm.: aus BGBl. Nr. 78/1987, zu Teil 2 lit. A der Anlage, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 78/1987, zu Teil 2 lit. A der Anlage, BGBl. Nr. 76/1986)***
+
+#### Art. 5
 
 (1) Soweit auf Grund dieses Bundesgesetzes vom Bundesministerium für Finanzen oder vom Bundesministerium für öffentliche Wirtschaft und Verkehr zu besorgende Angelegenheiten auf das Bundeskanzleramt übergehen, werden die bisher dem Planstellenbereich des Bundesministeriums für Finanzen oder des Bundesministeriums für öffentliche Wirtschaft und Verkehr angehörenden Bediensteten, die ausschließlich oder überwiegend mit diesen Angelegenheiten betraut sind, in den Planstellenbereich des Bundeskanzleramtes übernommen.
 
@@ -1986,7 +2002,9 @@ Die bisher dem Planstellenbereich Bundeskanzleramt – Gesundheitswesen angehör
 
 ## Artikel V
 
-#### *(Anm.: aus BGBl. Nr. 45/1991, zum Abschnitt F der Anlage zu § 2, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 45/1991, zum Abschnitt F der Anlage zu § 2, BGBl. Nr. 76/1986)***
+
+#### Art. 5
 
 (1) Soweit auf Grund dieses Bundesgesetzes von einzelnen Bundesministerien zu besorgende Angelegenheiten auf das Bundesministerium für Gesundheit, Sport und Konsumentenschutz übergehen, werden die bisher den Planstellenbereichen jener Bundesministerien angehörenden Bediensteten, die ausschließlich oder überwiegend mit diesen Angelegenheiten betraut waren, in den Planstellenbereich des Bundesministeriums für Gesundheit, Sport und Konsumentenschutz übernommen. Die für die Besorgung dieser Aufgaben bisher vorgesehenen Planstellen gehen in den Planstellenbereich des Bundesministeriums für Gesundheit, Sport und Konsumentenschutz über.
 
@@ -1996,7 +2014,9 @@ Die bisher dem Planstellenbereich Bundeskanzleramt – Gesundheitswesen angehör
 
 ## Artikel VI
 
-#### *(Anm.: aus BGBl. Nr. 78/1987, zu Teil 2 lit. A, C, D, J und M der Anlage, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 78/1987, zu Teil 2 lit. A, C, D, J und M der Anlage, BGBl. Nr. 76/1986)***
+
+#### Art. 6
 
 (1) Den gemäß Art. II bis V in den Planstellenbereich eines anderen Bundesministeriums übernommen Bediensteten ist, sofern nicht wichtige dienstliche Interessen entgegenstehen, eine Verwendung zuzuweisen, die ihrer bisherigen zumindest gleichwertig ist.
 
@@ -2006,7 +2026,9 @@ Die bisher dem Planstellenbereich Bundeskanzleramt – Gesundheitswesen angehör
 
 ## Artikel VI
 
-#### *(Anm.: aus BGBl. Nr. 45/1991, zu den Abschnitten A,B,D und F der Anlage zu § 2, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 45/1991, zu den Abschnitten A,B,D und F der Anlage zu § 2, BGBl. Nr. 76/1986)***
+
+#### Art. 6
 
 (1) Den gemäß Art. II bis V in den Planstellenbereich eines anderen Bundesministeriums übernommenen Bediensteten ist, sofern nicht wichtige dienstliche Interessen entgegenstehen, eine Verwendung zuzuweisen, die ihrer bisherigen zumindest gleichwertig ist.
 
@@ -2014,7 +2036,9 @@ Die bisher dem Planstellenbereich Bundeskanzleramt – Gesundheitswesen angehör
 
 ## Artikel VII
 
-#### *(Anm.: aus BGBl. Nr. 78/1987, zu BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 78/1987, zu BGBl. Nr. 76/1986)***
+
+#### Art. 7
 
 (1) Soweit auf Grund dieses Bundesgesetzes Änderungen im Wirkungsbereich der Bundesministerien vorgesehen sind, gelten Zuständigkeitsvorschriften in besonderen Bundesgesetzen als sinngemäß geändert.
 
@@ -2022,7 +2046,9 @@ Die bisher dem Planstellenbereich Bundeskanzleramt – Gesundheitswesen angehör
 
 ## Artikel VII
 
-#### *(Anm.: aus BGBl. Nr. 45/1991, zu § 1 und den Abschnitten A, B, D, F, G, K, L und M der Anlage zu § 2, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 45/1991, zu § 1 und den Abschnitten A, B, D, F, G, K, L und M der Anlage zu § 2, BGBl. Nr. 76/1986)***
+
+#### Art. 7
 
 (1) Soweit auf Grund dieses Bundesgesetzes Änderungen im Wirkungsbereich der Bundesministerien vorgesehen sind, gelten Zuständigkeitsvorschriften in besonderen Bundesgesetzen als sinngemäß geändert.
 
@@ -2030,7 +2056,9 @@ Die bisher dem Planstellenbereich Bundeskanzleramt – Gesundheitswesen angehör
 
 ## Artikel VIII
 
-#### *(Anm.: aus BGBl. Nr. 45/1991, zu den Abschnitten A, B, D, F, G, K, L und M der Anlage zu § 2, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 45/1991, zu den Abschnitten A, B, D, F, G, K, L und M der Anlage zu § 2, BGBl. Nr. 76/1986)***
+
+#### Art. 8
 
 Auf Grund der nach diesem Bundesgesetz eintretenden Änderungen im Wirkungsbereich einzelner haushaltsleitender Organe ist das Bundesfinanzgesetz 1990, BGBl. Nr. 1, in der Fassung der Bundesgesetze BGBl. Nr. 278/1990,418/1990 und des Art. 1 des Budgetänderungsgesetzes 1990, BGBl. Nr. 783/1990, für die Dauer seiner Geltung gemäß Art. 51 Abs. 5 Z 2 B-VG wie folgt zu vollziehen:
 
@@ -2048,7 +2076,9 @@ Auf Grund der nach diesem Bundesgesetz eintretenden Änderungen im Wirkungsberei
 
 ## Artikel IX
 
-#### *(Anm.: aus BGBl. Nr. 45/1991, zu den Abschnitten A, B, D, F, G, K, L und M der Anlage zu § 2, BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 45/1991, zu den Abschnitten A, B, D, F, G, K, L und M der Anlage zu § 2, BGBl. Nr. 76/1986)***
+
+#### Art. 9
 
 \*(Anm.: Abs. 1 Inkrafttretensbestimmungen)*
 
@@ -2060,7 +2090,9 @@ Auf Grund der nach diesem Bundesgesetz eintretenden Änderungen im Wirkungsberei
 
 ## Artikel X
 
-#### *(Anm.: aus BGBl. Nr. 78/1987, zu BGBl. Nr. 76/1986)*
+***(Anm.: aus BGBl. Nr. 78/1987, zu BGBl. Nr. 76/1986)***
+
+#### Art. 10
 
 \*(Anm.: Abs. 1 Inkrafttretensdatum der Novelle BGBl. Nr. 78/1987)*
 

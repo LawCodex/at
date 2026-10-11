@@ -60,13 +60,17 @@ Die politischen Parteien sind im Anwendungsbereich der im § 3 Abs. 3 der Bundes
 
 ## ARTIKEL VII
 
-### Umstellung zivilrechtlicher Verträge
+**Umstellung zivilrechtlicher Verträge**
+
+### Art. 7
 
 Beruht eine Leistung, die nach dem 31. Dezember 1975 erbracht wird, auf einem Vertrag, der vor dem 1. Jänner 1976 geschlossen worden ist, so hat der Empfänger der Leistung dem Leistenden die sich aus der Erhöhung des Umsatzsteuersatzes ergebende Mehrbelastung zu ersetzen, es sei denn, die Parteien haben ausdrücklich oder schlüssig anderes vereinbart oder sie hätten auch bei Kenntnis der Erhöhung des Umsatzsteuersatzes kein anderes Entgelt vereinbart.
 
 ## ARTIKEL VIII
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 8
 
 (1) Die Bestimmungen des Artikels I dieses Bundesgesetzes sind, soweit in den Abs. 2 bis 4 nicht anderes bestimmt wird, anzuwenden:
 
@@ -88,7 +92,9 @@ b) auf steuerbare Umsätze im Sinne des § 1 Abs. 1 Z 3 des Umsatzsteuergesetzes
 
 ## ARTIKEL IX
 
-### Vollziehung
+**Vollziehung**
+
+### Art. 9
 
 (1) Mit der Vollziehung dieses Bundesgesetzes ist unbeschadet des Abs. 2 der Bundesminister für Finanzen betraut.
 

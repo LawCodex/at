@@ -1032,7 +1032,9 @@ erwirkt werden, so hat das im inländischen Verfahren zuständige Gericht auf An
 
 ### Übergangsbestimmung
 
-#### *(Anm.: aus BGBl. I Nr. 15/2004, zu den §§ 9, 24, 26, 28, 29, 31, 32, 33, 34, 35, 37, 39, 40, 60, 70 und 76, BGBl. Nr. 529/1979)*
+***(Anm.: aus BGBl. I Nr. 15/2004, zu den §§ 9, 24, 26, 28, 29, 31, 32, 33, 34, 35, 37, 39, 40, 60, 70 und 76, BGBl. Nr. 529/1979)***
+
+#### Art. 7
 
 Die durch dieses Bundesgesetz geänderten Strafbestimmungen sind in Strafsachen nicht anzuwenden, in denen vor ihrem In-Kraft-Treten das Urteil in erster Instanz gefällt worden ist. Nach Aufhebung eines Urteils infolge Nichtigkeitsbeschwerde, Berufung, Wiederaufnahme oder Erneuerung des Strafverfahrens oder infolge eines Einspruches ist jedoch im Sinne der §§ 1, 61 StGB vorzugehen.
 
@@ -1050,6 +1052,8 @@ Die durch dieses Bundesgesetz geänderten Strafbestimmungen sind in Strafsachen 
 
 ### Übergangsbestimmung
 
-#### *(Anm.: aus BGBl. I Nr. 112/2007, zu den §§ 9, 26 – 32, 34 – 37, 39, 40, 48, 49, 51, 54, 55, 56, 58, 59, 60, 63, 66 – 70 und 73 – 76, BGBl. Nr. 529/1979)*
+***(Anm.: aus BGBl. I Nr. 112/2007, zu den §§ 9, 26 – 32, 34 – 37, 39, 40, 48, 49, 51, 54, 55, 56, 58, 59, 60, 63, 66 – 70 und 73 – 76, BGBl. Nr. 529/1979)***
+
+#### Art. 24
 
 Die durch dieses Bundesgesetz geänderten Strafbestimmungen sind in Strafsachen nicht anzuwenden, in denen vor ihrem Inkrafttreten das Urteil in erster Instanz gefällt worden ist. Nach Aufhebung eines Urteils infolge Nichtigkeitsbeschwerde, Berufung, Wiederaufnahme oder Erneuerung des Strafverfahrens oder infolge eines Einspruchs ist jedoch im Sinne der §§ 1, 61 StGB vorzugehen.

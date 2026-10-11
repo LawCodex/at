@@ -883,7 +883,9 @@ zu enthalten.
 
 ## Artikel V
 
-##### Inkrafttreten, Übergangsbestimmungen, Aufhebung
+**Inkrafttreten, Übergangsbestimmungen, Aufhebung**
+
+##### Art. 5
 
 1\. Dieses Bundesgesetz tritt mit dem 1. Jänner 1991 in Kraft, soweit im folgenden nichts anderes bestimmt ist.
 
@@ -903,7 +905,9 @@ zu enthalten.
 
 ## Artikel VI
 
-##### Vollziehung
+**Vollziehung**
+
+##### Art. 6
 
 Mit der Vollziehung dieses Bundesgesetzes sind betraut
 
@@ -919,7 +923,9 @@ Mit der Vollziehung dieses Bundesgesetzes sind betraut
 
 ### Umsetzung von Gemeinschaftsrecht
 
-##### *(Anm.: aus BGBl. I Nr. 111/2007, zu den §§ 2, 7, 12, 19, 23, 24, 26, 27, 59 und 62, BGBl. Nr. 474/1990)*
+***(Anm.: aus BGBl. I Nr. 111/2007, zu den §§ 2, 7, 12, 19, 23, 24, 26, 27, 59 und 62, BGBl. Nr. 474/1990)***
+
+##### Art. 16
 
 Durch dieses Bundesgesetz werden
 
@@ -975,7 +981,9 @@ Mit Art. 1, 2 und 4 dieses Bundesgesetzes wird die Richtlinie (EU) 2015/849 zur 
 
 ### Inkrafttreten, Übergangsbestimmungen
 
-##### *(Anm.: aus BGBl. I Nr. 71/1999, zu den §§ 2, 16, 19, 23, 24, 25, 29, 59, 67, 73, 75, 76 und 77, BGBl. Nr. 474/1990)*
+***(Anm.: aus BGBl. I Nr. 71/1999, zu den §§ 2, 16, 19, 23, 24, 25, 29, 59, 67, 73, 75, 76 und 77, BGBl. Nr. 474/1990)***
+
+##### Art. 5
 
 1\. Dieses Bundesgesetz tritt – soweit im folgenden nichts anderes bestimmt ist – mit dem 1. Juni 1999 in Kraft.
 
@@ -999,7 +1007,9 @@ Mit Art. 1, 2 und 4 dieses Bundesgesetzes wird die Richtlinie (EU) 2015/849 zur 
 
 ### In-Kraft-Treten und Vollziehung
 
-##### *(Anm.: aus BGBl. I Nr. 128/2004, zu § 44, BGBl. Nr. 474/1990)*
+***(Anm.: aus BGBl. I Nr. 128/2004, zu § 44, BGBl. Nr. 474/1990)***
+
+##### Art. 16
 
 (1) Dieses Bundesgesetz tritt, sofern nicht anderes angeordnet ist, mit 1. Jänner 2005 in Kraft.
 
@@ -1027,7 +1037,9 @@ Mit Art. 1, 2 und 4 dieses Bundesgesetzes wird die Richtlinie (EU) 2015/849 zur 
 
 ### In-Kraft-Treten, Übergangsbestimmungen
 
-##### *(Anm.: aus BGBl. I Nr. 98/2001, zu § 16, BGBl. Nr. 474/1990)*
+***(Anm.: aus BGBl. I Nr. 98/2001, zu § 16, BGBl. Nr. 474/1990)***
+
+##### Art. 96
 
 1\. Die Bestimmungen dieses Abschnitts treten – soweit im Folgenden nichts anderes bestimmt ist – mit 1. Jänner 2002 in Kraft.
 

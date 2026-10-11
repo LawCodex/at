@@ -1363,6 +1363,8 @@ betraut.
 
 ### Übergangsbestimmung
 
-#### *(Anm.: aus BGBl. I Nr. 112/2007, zu den §§ 40, 45, 46, 47, 56, 60 und 61, BGBl. I Nr. 111/2001)*
+***(Anm.: aus BGBl. I Nr. 112/2007, zu den §§ 40, 45, 46, 47, 56, 60 und 61, BGBl. I Nr. 111/2001)***
+
+#### Art. 24
 
 Die durch dieses Bundesgesetz geänderten Strafbestimmungen sind in Strafsachen nicht anzuwenden, in denen vor ihrem Inkrafttreten das Urteil in erster Instanz gefällt worden ist. Nach Aufhebung eines Urteils infolge Nichtigkeitsbeschwerde, Berufung, Wiederaufnahme oder Erneuerung des Strafverfahrens oder infolge eines Einspruchs ist jedoch im Sinne der §§ 1, 61 StGB vorzugehen.

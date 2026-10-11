@@ -518,7 +518,9 @@ Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Justiz bet
 
 ### Übergangsbestimmung
 
-#### *(Anm.: aus BGBl. I Nr. 109/2007, zu den §§ 29 bis 29b, BGBl. Nr. 146/1969)*
+***(Anm.: aus BGBl. I Nr. 109/2007, zu den §§ 29 bis 29b, BGBl. Nr. 146/1969)***
+
+#### Art. 7
 
 Die durch dieses Bundesgesetz geänderten Strafbestimmungen sind in Strafsachen nicht anzuwenden, in denen vor ihrem Inkrafttreten das Urteil in erster Instanz gefällt worden ist. Nach Aufhebung eines Urteils infolge Nichtigkeitsbeschwerde, Berufung, Wiederaufnahme oder Erneuerung des Strafverfahrens oder infolge eines Einspruches ist jedoch im Sinne der §§ 1, 61 StGB vorzugehen.
 
@@ -526,7 +528,9 @@ Die durch dieses Bundesgesetz geänderten Strafbestimmungen sind in Strafsachen 
 
 ### Übergangsbestimmung
 
-#### *(Anm.: aus BGBl. I Nr. 130/2001, zu § 12, BGBl. Nr. 146/1969)*
+***(Anm.: aus BGBl. I Nr. 130/2001, zu § 12, BGBl. Nr. 146/1969)***
+
+#### Art. 12
 
 (1) Die durch dieses Bundesgesetz geänderten Strafbestimmungen sind in Strafsachen nicht anzuwenden, in denen vor ihrem In-Kraft-Treten das Urteil in erster Instanz gefällt worden ist. Nach Aufhebung eines Urteils infolge Nichtigkeitsbeschwerde, Berufung, Wiederaufnahme oder Erneuerung des Strafverfahrens oder infolge eines Einspruches ist jedoch im Sinne der §§ 1, 61 StGB vorzugehen.
 

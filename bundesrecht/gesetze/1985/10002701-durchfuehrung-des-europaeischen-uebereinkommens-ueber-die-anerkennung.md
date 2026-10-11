@@ -78,6 +78,8 @@ BGBl. I Nr. 112/2003 (NR: GP XXII RV 225 AB 269 S. 38. BR: AB 6896 S. 703.)
 
 ## Artikel XXXI
 
-### Justizverwaltungsmaßnahmen – *(Anm.: aus BGBl. I Nr. 112/2003, zu § 5, BGBl. Nr. 322/1985)*
+**Justizverwaltungsmaßnahmen**
+
+### Art. 31 – *(Anm.: aus BGBl. I Nr. 112/2003, zu § 5, BGBl. Nr. 322/1985)*
 
 Mit Rücksicht auf dieses Bundesgesetz dürfen bereits von dem seiner Kundmachung folgenden Tag an Verordnungen erlassen sowie sonstige organisatorische und personelle Maßnahmen getroffen werden. Die Verordnungen dürfen frühestens mit dem 1. Jänner 2005 in Wirksamkeit gesetzt werden.

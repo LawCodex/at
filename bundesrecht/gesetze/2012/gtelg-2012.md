@@ -2245,6 +2245,8 @@ b) eine Löschfrist für die im zentralen Impfregister gespeicherten Antikörper
 
 ### Notifikationshinweis
 
-#### *(Anm.: aus BGBl. I Nr. 50/2016, zu den §§ 7 und 28, BGBl. I Nr. 111/2012)*
+***(Anm.: aus BGBl. I Nr. 50/2016, zu den §§ 7 und 28, BGBl. I Nr. 111/2012)***
+
+#### Art. 25
 
 Dieses Gesetz wurde unter Einhaltung der Bestimmungen der Richtlinie (EU) 2015/1535 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (kodifizierter Text), ABl. Nr. L 241 vom 17.09.2015 S. 1, notifiziert (Notifikationsnummer: 2016/142/A).

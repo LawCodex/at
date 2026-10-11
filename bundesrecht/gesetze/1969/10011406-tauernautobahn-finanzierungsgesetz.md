@@ -1,0 +1,98 @@
+---
+title: "Tauernautobahn-Finanzierungsgesetz"
+identifier: "10011406"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 115/1969"
+date: 1969-03-06
+last_amended: 2011-12-30
+last_amendment: "BGBl. I Nr. 149/2011"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1969/115/P0/NOR11011671"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011406"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Tauernautobahn-Finanzierungsgesetz
+
+Bundesgesetz vom 6. März 1969, betreffend die Finanzierung der Tauernautobahn im Abschnitt Talübergang Larzenbach bis Gmünd (Tauernautobahn-Finanzierungsgesetz)
+
+StF: BGBl. Nr. 115/1969 idF BGBl. Nr. 245/1969 (DFB) (NR: GP XI RV 1133 AB 1183 S. 135. BR: S. 274.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 25/1971 (NR: GP XII RV 254 AB 293 S. 31. BR: S. (298.))  
+BGBl. Nr. 224/1972 (NR: GP XIII RV 227 AB 383 S. 34. BR: S. 311.)  
+BGBl. Nr. 114/1973 (NR: GP XIII RV 639 AB 644 S. 64. BR: S. 319.)  
+BGBl. Nr. 639/1975 (NR: GP XIV RV 10 AB 29 S. 12. BR: AB 1449 S. 347.)  
+BGBl. Nr. 143/1976 (NR: GP XIV RV 115 AB 137 S. 20. BR: 1475 AB 1490 S. 350.)  
+BGBl. Nr. 591/1982 (NR: GP XV IA 178/A AB 1218 S. 125.)  
+BGBl. Nr. 826/1992 (NR: GP XVIII IA 299/A AB 820 S. 91 BR: AB 4398 S. 562.)  
+BGBl. I Nr. 149/2011 (NR: GP XXIV RV 1517 AB 1561 S. 137. BR: AB 8644 S. 803.)  
+
+</details>
+
+> **Anmerkung:** Erfassungsstichtag: 1.9.1994
+>
+> Durch das Bundesgesetz BGBl. Nr. 591/1982 wurden die Finanzierungsbestimmungen dieses Bundesgesetzes abgeändert (vgl. Art. V § 1, BGBl. Nr. 591/1982).
+>
+> Durch das Bundesgesetz BGBl. Nr. 826/1992 wurde dieses Bundesgesetz neuerlich abgeändert (vgl. § 14 Abs. 1, BGBl. Nr. 826/1992).
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+## § 1
+
+§ 1. (1) Der Bund hat die Herstellung, Erhaltung und Finanzierung der mit Bundesgesetz vom 7. März 1968, BGBl. Nr. 113, als Bundesstraße (Autobahn) erklärten Tauernautobahn in der Strecke vom Talübergang Larzenbach bis Gmünd (Tauernautobahn-Scheitelstrecke) einschließlich der in ihrem Zuge befindlichen Tunnel, Brücken und sonstigen zur Autobahn gehörenden Anlagen einer Aktiengesellschaft zu übertragen.
+
+(2) Die für die Herstellung und Erhaltung der Tauernautobahn-Scheitelstrecke notwendigen Grundflächen sind von der Aktiengesellschaft auf ihre Kosten für den Bund (Bundesstraßenverwaltung) zu erwerben. Für Enteignungen gelten die Bestimmungen der §§ 12 bis 15 des Bundesstraßengesetzes, BGBl. Nr. 59/1948, in der geltenden Fassung; der Aktiengesellschaft steht im Verwaltungsverfahren das Antragsrecht zu.
+
+(3) Das Bundesministerium für Bauten und Technik ist berechtigt, der Aktiengesellschaft Anweisungen über die Herstellung und Erhaltung der in Abs. 1 genannten Autobahnstrecke zu erteilen und Auskünfte über die Tätigkeit der Aktiengesellschaft zu verlangen, soweit dies unter Bedachtnahme auf technische und verkehrswirtschaftliche Belange, wie sie rücksichtlich anderer Bundesstraßen bestehen, geboten erscheint. Die Organe der Aktiengesellschaft sind verpflichtet, diesen Anweisungen und Aufforderungen zur Auskunftserteilung zu entsprechen.
+
+(4) Die Aktiengesellschaft darf Nebenbetriebe (Tankstellen, Rasthäuser, Werkstätten und ähnliches) weder errichten, noch selbst oder für Dritte betreiben. Der Abschluß von Verträgen über Nebenbetriebe ist dem Bund vorbehalten.
+
+## § 2
+
+§ 2. (1) Der Bund hat für die Benützung der Tauernautobahn-Scheitelstrecke im Bereich zwischen der Anschlußstelle Flachau und der Anschlußstelle Rennweg ein Entgelt einzuheben.
+
+(2) Die Höhe dieses Entgeltes ist vom Bundesministerium für Bauten und Technik im Einvernehmen mit dem Bundesministerium für Finanzen nach Fahrzeuggattung und Entfernung festzusetzen. Bei der Festsetzung der Höhe des Entgeltes ist auch auf die Kosten der Herstellung, Erhaltung und Finanzierung der Tauernautobahn-Scheitelstrecke und auf die Tarifgestaltung vergleichbarer Straßen Bedacht zu nehmen. Die Höhe des Entgeltes kann auch von anderen Merkmalen als Fahrzeuggattung und Entfernung, wie Häufigkeit der Benützung abhängig gemacht werden, soweit dies im Interesse der Wirtschaftlichkeit des Straßenbetriebes geboten ist.
+
+(3) Einsatzfahrzeuge und Fahrzeuge des Straßendienstes im Sinne der straßenpolizeilichen Vorschriften sowie Fahrzeuge des Bundesheeres oder der Heeresverwaltung, die bei einem Einsatz gemäß § 2 des Wehrgesetzes, BGBl. Nr. 181/1955, zur Vorbereitung dieses Einsatzes oder zu Übungszwecken verwendet werden, sind von der Entgeltleistung ausgenommen.
+
+## § 3
+
+§ 3. (1) Der Bund hat die Einhebung des Benützungsentgeltes gemäß § 2 Abs. 1 der Aktiengesellschaft zu übertragen.
+
+(2) Der Bund hat die Entgelte nach § 2 Abs. 1 sowie aus Nebenbetrieben der Tauernautobahn-Scheitelstrecke gezogene Entgelte der Aktiengesellschaft soweit zu überlassen, als dies zur Abdeckung der Kosten für die Grundeinlösungen, Herstellung, Erhaltung und Finanzierung der Tauernautobahn-Scheitelstrecke, der Kosten der Einhebung des Benützungsentgeltes sowie der angemessenen Verwaltungskosten der Aktiengesellschaft notwendig ist.
+
+## § 4
+
+§ 4. Die Übertragungen und Überlassungen gemäß § 1 Abs. 1 und § 3 haben zur Voraussetzung, daß
+
+a) die Höhe des Grundkapitals der Aktiengesellschaft mit mindestens 500 Millionen Schilling bestimmt ist
+
+b) von diesem Grundkapital der Bund 60 vom Hundert und die Bundesländer Salzburg und Kärnten je 20 vom Hundert übernehmen,
+
+c) die Bundesländer Kärnten und Salzburg sich gegenüber der Aktiengesellschaft verpflichten, dieser in den Jahren 1977 bis 1986 jährlich je 16 Millionen Schilling und in den Jahren 1987 bis 1991 jährlich je 10 Millionen Schilling als nicht rückzahlbare Zuschüsse zu leisten,
+
+d) die Satzung der Aktiengesellschaft deren Organe verpflichtet, Anweisungen des Bundesministeriums für Bauten und Technik gemäß § 1 Abs. 3 zu befolgen und Auskünfte zu erteilen, sowie Finanzierungsmaßnahmen nur mit Zustimmung des Bundesministeriums für Finanzen als Vertreter des Haftungsträgers Bund gemäß § 5 vorzubereiten und abzuschließen.
+
+## § 6
+
+§ 6. Die Forderung der Aktiengesellschaft gegen den Bund auf Überlassung des Benützungsentgeltes nach § 3 ist höchstens mit dem Betrag in die Jahresabschlüsse der Aktiengesellschaft einzustellen, den die Aktiengesellschaft für Grundeinlösungen, Herstellung, Erhaltung und Finanzierung der Tauernautobahn-Scheitelstrecke sowie für die Kosten der Einhebung des Benützungsentgeltes und zur Deckung der angemessenen Verwaltungskosten der Aktiengesellschaft aufgewendet hat.
+
+## § 7
+
+§ 7. (1) Die Aktiengesellschaft (§ 1) ist von den bundesgesetzlich geregelten Abgaben vom Einkommen, sowie von der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital befreit.
+
+\*(Anm.: Abs. 2 aufgehoben durch Art. II Abs. 1 Z 15, BGBl. Nr. 224/1972)*
+
+## § 8
+
+§ 8. Mit der Vollziehung dieses Bundesgesetzes ist hinsichtlich des § 1 der Bundesminister für Bauten und Technik, hinsichtlich der §§ 2 und 3 der Bundesminister für Bauten und Technik im Einvernehmen mit dem Bundesminister für Finanzen und hinsichtlich aller übrigen Bestimmungen der Bundesminister für Finanzen betraut.

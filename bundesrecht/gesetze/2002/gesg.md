@@ -1045,6 +1045,8 @@ bereits ab Inkrafttreten dieses Bundesgesetzes durchgeführt werden.
 
 ### Übergangsbestimmung
 
-#### *(Anm.: aus BGBl. I Nr. 112/2007, zu § 18, BGBl. I Nr. 63/2002)*
+***(Anm.: aus BGBl. I Nr. 112/2007, zu § 18, BGBl. I Nr. 63/2002)***
+
+#### Art. 24
 
 Die durch dieses Bundesgesetz geänderten Strafbestimmungen sind in Strafsachen nicht anzuwenden, in denen vor ihrem Inkrafttreten das Urteil in erster Instanz gefällt worden ist. Nach Aufhebung eines Urteils infolge Nichtigkeitsbeschwerde, Berufung, Wiederaufnahme oder Erneuerung des Strafverfahrens oder infolge eines Einspruchs ist jedoch im Sinne der §§ 1, 61 StGB vorzugehen.

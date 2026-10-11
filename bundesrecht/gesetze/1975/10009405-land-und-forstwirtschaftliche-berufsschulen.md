@@ -1,0 +1,98 @@
+---
+title: "Land- und forstwirtschaftliche Berufsschulen"
+identifier: "10009405"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 319/1975"
+date: 1975-04-29
+last_amended: 2013-05-24
+last_amendment: "BGBl. I Nr. 74/2013"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1975/319/P0/NOR11009596"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009405"
+retrieved: 2026-10-11
+documents: 10
+---
+
+# Land- und forstwirtschaftliche Berufsschulen
+
+Bundesgesetz vom 29. April 1975 betreffend die Grundsätze für land- und forstwirtschaftliche Berufsschulen
+
+StF: BGBl. Nr. 319/1975 (NR: GP XIII RV 588 AB 1061 und 1569 S. 144. BR: AB 1357 S. 342.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 648/1994 (NR: GP XVIII RV 1664 AB 1776 S. 172. BR: AB 4901 S. 589.)  
+BGBl. I Nr. 47/2005 (NR: GP XXII AB 865 S. 110. BR: AB 7289 S. 722.)  
+BGBl. I Nr. 91/2005 (NR: GP XXII RV 975 AB 1044 S. 117. BR: 7335 AB 7358 S. 724.)  
+BGBl. I Nr. 74/2013 (NR: GP XXIV RV 2199 AB 2286 S. 199. BR: AB 8955 S. 820.)  
+
+</details>
+
+> **Beachte:** Aus redaktionellen Versehen wurde nur ein Artikel I vergeben.
+
+## Artikel I
+
+Für die Gesetzgebung der Länder in bestimmten Angelegenheiten der land- und forstwirtschaftlichen Berufsschulen werden gemäß Art. 14a Abs. 4 lit. a des Bundes-Verfassungsgesetzes in der Fassung von 1929 folgende Grundsätze aufgestellt:
+
+## Art. 1 § 1 – Aufgaben der land- und forstwirtschaftlichen Berufsschule
+
+§ 1. Die land- und forstwirtschaftliche Berufsschule hat die Aufgabe,
+
+a) den Schülern die schulische Grundausbildung für eine Berufstätigkeit in der Land- und Forstwirtschaft zu vermitteln,
+
+b) die Schüler zu demokratischen, heimat- und berufsverbundenen sittlich und religiös gefestigten und sozial denkenden Staatsbürgern heranzubilden,
+
+c) die Allgemeinbildung der Schüler entsprechend ihrer künftigen Berufstätigkeit zu erweitern und zu vertiefen sowie insbesondere auch die Grundlage für die spätere fachliche Weiterbildung des Schülers zu schaffen.
+
+## Art. 1 § 2 – Schulpflicht
+
+§ 2. (1) Land- und forstwirtschaftliche Lehrlinge haben die land- und forstwirtschaftliche Berufsschule während des Lehrverhältnisses zu besuchen.
+
+(2) Die Ausführungsgesetze der Länder können bestimmen, unter welchen Voraussetzungen die Möglichkeit zum freiwilligen Berufsschulbesuch besteht.
+
+(3) Die gesamte Unterrichtszeit hat mindestens 600 Stunden zu umfassen. Die Einrichtung vollschulartiger Lehrgänge ist zulässig.
+
+(4) Für Personen, die im Rahmen einer integrativen Berufsausbildung gemäß § 11b Abs. 1 bis 3 des Land- und forstwirtschaftlichen Berufsausbildungsgesetzes, BGBl. Nr. 298/1990, in der Fassung des Bundesgesetzes BGBl. I Nr. 46/2005, ausgebildet werden, besteht nach Maßgabe des § 11d des Land- und forstwirtschaftlichen Berufsausbildungsgesetzes die Pflicht bzw. das Recht zum Besuch der land- und forstwirtschaftlichen Berufsschule. Abs. 3 findet nicht Anwendung.
+
+## Art. 1 § 3 – Pflichtgegenstände
+
+§ 3. Als Pflichtgegenstände sind jedenfalls Religion, Rechnen, Deutsch (einschließlich Schriftverkehr), Politische Bildung, Lebenskunde sowie Bewegung und Sport sowie die im Hinblick auf die künftige Berufstätigkeit erforderlichen naturkundlichen, fachtheoretischen, praktisch-wirtschaftlichen und berufskundlichen Unterrichtgsgegenstände vorzusehen.
+
+## Art. 1 § 4 – Übertritt von der Schule eines Landes in die Schule eines anderen Landes
+
+§ 4. Die in der land- und forstwirtschaftlichen Berufsschule eines Landes zurückgelegte Schulzeit ist für die Erfüllung der land- und forstwirtschaftlichen Berufsschulpflicht in einem anderen Bundesland anzurechnen.
+
+## Art. 1 § 5 – Schulgeldfreiheit
+
+§ 5. Der Besuch der land- und forstwirtschaftlichen Berufsschulen ist unentgeltlich. Die Einhebung von höchstens kostendeckenden Lern- und Arbeitsmittelbeiträgen und Unfallversicherungsprämien wird hiedurch nicht berührt.
+
+## Art. 1 § 6 – Öffentlichkeitsrecht
+
+§ 6. (1) An private land- und forstwirtschaftliche Berufsschulen kann das Öffentlichkeitsrecht nur verliehen werden, wenn die Privatschule Gewähr für die Erreichung desselben Bildungszieles wie die entsprechende öffentliche Schule bietet.
+
+(2) Mit der Verleihung des Öffentlichkeitsrechtes sind folgende Rechtswirkungen verbunden:
+
+a) der Privatschule wird das Recht übertragen, Zeugnisse über den Erfolg des Schulbesuches auszustellen, die mit der Beweiskraft öffentlicher Urkunden und mit den gleichen Rechtswirkungen ausgestattet sind wie Zeugnisse gleichartiger öffentlicher Schulen;
+
+b) an der Privatschule können die für die betreffende Schulart vorgesehenen Prüfungen abgehalten werden;
+
+c) der Privatschule können Lehramtsanwärter, die sich damit einverstanden erklären, zur Einführung in die Praxis des Lehramtes mit Zustimmung des Schulerhalters zugewiesen werden;
+
+d) auf die Privatschule finden die für die entsprechenden öffentlichen Schulen geltenden schulrechtlichen Vorschriften Anwendung, soweit gesetzlich nichts anderes bestimmt ist und soweit sie nicht die Errichtung, Erhaltung und Auflassung, die Sprengel und das Schulgeld betreffen.
+
+## Art. 1 § 7 – Frist für die Erlassung der Ausführungsgesetze
+
+§ 7. (1) Die Ausführungsgesetze zu § 2 Abs. 1 und 2 in der Fassung des Bundesgesetzes BGBl. Nr. 648/1994 sind innerhalb eines Jahres nach dem auf die Kundmachung dieses Bundesgesetzes folgenden Tag zu erlassen.
+
+(2) Die Ausführungsgesetze der Länder zu § 2 Abs. 4 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 47/2005 sind innerhalb eines Jahres nach dem auf die Kundmachung dieses Bundesgesetzes folgenden Tag zu erlassen.
+
+(3) Die Ausführungsgesetze der Länder zu § 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 91/2005 sind innerhalb eines Jahres nach der Kundmachung dieses Bundesgesetzes zu erlassen.
+
+## Art. 1 § 8 – Wahrnehmung der Rechte des Bundes
+
+§ 8. Mit der Wahrnehmung der Rechte des Bundes gemäß Art. 14a Abs. 6 des Bundes-Verfassungsgesetzes in der Fassung von 1929 zustehenden Rechte ist der Bundesminister für Unterricht und Kunst betraut.

@@ -71,7 +71,9 @@ angehören. Den Vorsitz führt der Vertreter bzw. die Vertreterin des Bundeskanz
 
 betraut.
 
-## Auflistung der Gemeinden gemäß § 2 Z 1
+**Auflistung der Gemeinden gemäß § 2 Z 1**
+
+## Anl. 1
 
 Der Betrag gemäß § 2 Z 1 ist auf folgende Gemeinden, die im ehemaligen Abstimmungsgebiet gelegen sind, aufzuteilen und für Zwecke im Sinne von § 1 zu verwenden:
 
@@ -145,7 +147,9 @@ Der Betrag gemäß § 2 Z 1 ist auf folgende Gemeinden, die im ehemaligen Abstim
 
 36\. St. Andrä, wobei die Ortsteile Lamm, Pustriz, Schönweg-Pustritz, Streitberg und Tschrietes zu berücksichtigen sind.
 
-## Auflistung der zu fördernden Zwecke gemäß § 2 Z 2
+**Auflistung der zu fördernden Zwecke gemäß § 2 Z 2**
+
+## Anl. 2
 
 Der Betrag gemäß § 2 Z 2 ist wie folgt auf Förderungswerber aufzuteilen, die sich den nachstehenden Zwecken widmen:
 

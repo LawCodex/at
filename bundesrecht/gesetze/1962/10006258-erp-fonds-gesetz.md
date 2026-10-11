@@ -41,7 +41,7 @@ BGBl. I Nr. 133/2003 (NR: GP XXII RV 313 AB 324 S. 40. BR: 6921 AB 6935 S. 704.)
 
 ## Errichtung, Mittel und Aufgaben des Fonds.
 
-#### § 1 – § 1.
+#### § 1
 
 (1) Unter dem Namen „ERP-Fonds“ wird ein Fonds mit eigener Rechtspersönlichkeit (im folgenden „Fonds“ genannt) errichtet.
 
@@ -49,7 +49,7 @@ BGBl. I Nr. 133/2003 (NR: GP XXII RV 313 AB 324 S. 40. BR: 6921 AB 6935 S. 704.)
 
 (3) Der Fonds hat seinen Sitz und ausschließlichen Gerichtsstand in Wien.
 
-#### § 2 – § 2.
+#### § 2
 
 Zur Verwirklichung seiner Aufgaben verfügt der Fonds über
 
@@ -61,7 +61,7 @@ Zur Verwirklichung seiner Aufgaben verfügt der Fonds über
 
 4\. allfällige Zuwendungen an den Fonds oder sonstige Einnahmen des Fonds.
 
-#### § 3 – § 3.
+#### § 3
 
 (1) Mit Inkrafttreten dieses Bundesgesetzes gehen alle Vermögenschaften und Rechte auf den Fonds über, die der Bund durch die Abwicklung jener Hilfsmaßnahmen, die die Vereinigten Staaten von Amerika im Rahmen ihres Europäischen Wiederaufbauprogrammes (European Recovery Program – ERP) Österreich gewährt haben, erworben hat (ERP-Mittel) und die dem Bund im Zeitpunkt des Inkrafttretens dieses Bundesgesetzes zustehen. Diese sind insbesondere:
 
@@ -83,7 +83,7 @@ e) Das Recht, Kredite zu gewähren, die gemäß § 82 Nationalbankgesetz 1955, B
 
 (5) Der Fonds ist verpflichtet, die Verluste abzudecken, die der Oesterreichischen Nationalbank ab Inkrafttreten dieses Bundesgesetzes aus der bisherigen und künftigen Eskontierung von Finanzwechseln im Sinne des § 82 des Nationalbankgesetzes 1955 (Aufbauwechsel) entstehen und die die im Abs. 4 genannte Verlustreserve überschreiten. Durch diese Verpflichtung wird die im § 82 Abs. 2 Nationalbankgesetz 1955 genannte Haftung des Bundes ersetzt. Die bisher vom Bund gemäß den Bestimmungen des Bundesgesetzes vom 30. März 1949, BGBl. Nr. 101, betreffend die Übernahme einer Haftung durch die Republik Österreich, übernommenen Haftungen erlöschen mit Inkrafttreten dieses Bundesgesetzes.
 
-#### § 4 – § 4.
+#### § 4
 
 (1) Der Fonds hat seine Mittel nach wirtschaftlichen Grundsätzen zu verwalten.
 
@@ -93,7 +93,7 @@ e) Das Recht, Kredite zu gewähren, die gemäß § 82 Nationalbankgesetz 1955, B
 
 (4) Die Gebarung des Fonds, insbesondere auch seine Gebarung mit den Mitteln des Eigenblocks, ist in der Haushaltsrechnung des Bundes nicht zu verrechnen.
 
-#### § 5 – § 5.
+#### § 5
 
 (1) Der Fonds hat im Rahmen des Jahresprogrammes und unter Bedachtnahme auf die Bestimmung des § 4 nur mittel- und langfristige, verzinsliche Investitionskredite gegen Sicherstellung zu vergeben. Diese können in Form von Groß-, Mittel- oder Kleinkrediten vergeben werden; Großkredite in diesem Sinne sind Investitionskredite im Betrage von über 36 340 €, Mittelkredite Investitionskredite im Betrage von über 7 270 € bis 36 340 €, Kleinkredite Investitionskredite im Betrage ab 730 € bis 7 270 €.
 
@@ -113,11 +113,11 @@ b) Leistungen für sonstige Zwecke erbringen, die im Abkommen zwischen der öste
 
 ### Organisation des Fonds.
 
-#### § 6 – § 6.
+#### § 6
 
 Organe des Fonds sind die ERP-Kreditkommission und die Geschäftsführung.
 
-#### § 7 – § 7.
+#### § 7
 
 (1) Die ERP-Kreditkommission entscheidet über die Zustimmung des Fonds zu den Anträgen auf Gewährung von Groß- und Mittelkrediten, soweit durch die Geschäftsordnung (§ 8) diese Entscheidungen nicht an Fachkommissionen delegiert wurden, und wirkt im Rahmen der Bestimmungen des § 11 Abs. 3 bei der Erstellung der Investitionsrichtlinien mit.
 
@@ -127,7 +127,7 @@ Organe des Fonds sind die ERP-Kreditkommission und die Geschäftsführung.
 
 (4) Die ERP-Kreditkommission faßt ihre Beschlüsse mit einfacher Stimmenmehrheit der Mitglieder, die sich an der Abstimmung beteiligen.
 
-#### § 8 – § 8.
+#### § 8
 
 (1) Die ERP-Kreditkommission hat sich und den Fachkommissionen eine Geschäftsordnung zu geben.
 
@@ -145,7 +145,7 @@ daß die Mitglieder der ERP-Kreditkommission berechtigt sind, Auskünfte über d
 
 (3) Die Geschäftsordnung bedarf der Genehmigung der Bundesregierung.
 
-#### § 9 – § 9.
+#### § 9
 
 (1) Die Geschäftsführung vertritt den Fonds nach außen und führt alle Geschäfte des Fonds. Sie hat an jeder Sitzung der ERP-Kreditkommission, ihrer Unterausschüsse und der Fachkommissionen teilzunehmen.
 
@@ -155,7 +155,7 @@ daß die Mitglieder der ERP-Kreditkommission berechtigt sind, Auskünfte über d
 
 ### Jahresprogramm und Richtlinien.
 
-#### § 10 – § 10.
+#### § 10
 
 (1) Die Geschäftsführung hat bis Ende Oktober eines jeden Jahres ein Jahresprogramm für das kommende Wirtschaftsjahr zusammen mit einer Stellungnahme des Bundesministers für Finanzen dazu und einem Gutachten der Oesterreichischen Nationalbank über die Auswirkungen des Jahresprogrammes auf die Währungslage der Bundesregierung zur Genehmigung vorzulegen.
 
@@ -165,7 +165,7 @@ daß die Mitglieder der ERP-Kreditkommission berechtigt sind, Auskünfte über d
 
 (4) Das Wirtschaftsjahr des Fonds ist mit dem Kalenderjahr ident. Es beginnt am 1. Jänner und endet am 31. Dezember eines jeden Jahres.
 
-#### § 11 – § 11.
+#### § 11
 
 (1) Die Geschäftsführung hat Grundsätze über die Arten der Investitionsvorhaben, die aus volkswirtschaftlichen Gründen durch Gewährung von Investitionskrediten gefördert werden können, und die grundsätzlichen Bedingungen, unter denen solche Investitionskredite gewährt werden können, festzusetzen. Diese Grundsätze und grundsätzlichen Bedingungen, denen eine Stellungnahme des Bundesministeriums für Finanzen beizufügen ist, bedürfen der Genehmigung der Bundesregierung.
 
@@ -175,7 +175,7 @@ daß die Mitglieder der ERP-Kreditkommission berechtigt sind, Auskünfte über d
 
 (4) Diese Richtlinien müssen mit den für die Gewährung und Rückzahlung von Investitionskrediten anerkannten Bankusancen im Einklang stehen, für Investitionen gleicher Art einheitlich sein und den gemäß § 12 festgesetzten Zinssatz enthalten.
 
-#### § 12 – § 12.
+#### § 12
 
 (1) Der Zinssatz, zu dem die Kredite des Fonds zu gewähren und zu dem die Finanzwechsel durch die Oesterreichische Nationalbank zu eskontieren sind, ist von der Geschäftsführung einheitlich so festzusetzen, daß er in der Regel den Zinssätzen des Kapitalmarktes nahekommt. Vor Festsetzung des Zinssatzes ist die Oesterreichische Nationalbank zu hören.
 
@@ -187,7 +187,7 @@ daß die Mitglieder der ERP-Kreditkommission berechtigt sind, Auskünfte über d
 
 ### Treuhandverträge.
 
-#### § 13 – § 13.
+#### § 13
 
 (1) Zwischen dem Fonds und den Kreditinstituten und sonstigen Einrichtungen, deren sich der Fonds zur Durchführung seiner Aufgaben bedient, sind Verträge über deren Rechte und Pflichten abzuschließen. Für den Agrar- und Tourismussektor ist dieser Vertrag mit einer vom Bundesministerium für wirtschaftliche Angelegenheiten genannten Einrichtung abzuschließen. Diese Einrichtung und Kreditunternehmungen *(Anm.: jetzt: Kreditinstitute)*, die der Fonds zur Gewährung von Investitionskrediten heranzieht und mit denen er Treuhandverträge abgeschlossen hat, werden im folgenden „ermächtigte Kreditunternehmungen *(Anm.: jetzt: Kreditinstitute)*“ genannt.
 
@@ -205,13 +205,13 @@ daß die Kreditinstitute halbjährlich im nachhinein dem Fonds eine Liste der ge
 
 ### Verfahren.
 
-#### § 14 – § 14.
+#### § 14
 
 (1) Investitionskredite aus Fondsmitteln werden von den ermächtigten Kreditinstituten gewährt. Anträge auf Gewährung von Investitionskrediten sind bei einer ermächtigten Kreditunternehmung *(Anm.: jetzt: Kreditinstitut)* einzureichen.
 
 (2) Das Kreditinstitut hat diesen Antrag bankmäßig zu prüfen und – sofern es sich nicht um einen Kleinkredit handelt – gemeinsam mit seiner Beurteilung unter Anschluß der notwendigen Unterlagen dem Fonds mit dem Ansuchen um Entscheidung vorzulegen, ob der Gewährung des Investitionskredites zugestimmt wird. Anträge auf den Gebieten des Agrar- und Tourismussektors und des Verkehrssektors sind gemeinsam mit der Beurteilung unter Anschluß der Unterlagen den zuständigen Fachkommissionen vorzulegen.
 
-#### § 15 – § 15.
+#### § 15
 
 (1) Der Fonds kann der Gewährung eines Investitionskredites zustimmen, wenn der beantragte Investitionskredit im Jahresprogramm Deckung findet, das Vorhaben den Investitionsrichtlinien entspricht, der Kreditwerber kreditwürdig und kreditfähig ist und der Investitionskredit ausreichend sichergestellt wird.
 
@@ -223,7 +223,7 @@ daß die Kreditinstitute halbjährlich im nachhinein dem Fonds eine Liste der ge
 
 (5) Die ERP-Kreditkommission hat auf Grund des Antrages der Geschäftsführung, die Fachkommissionen haben auf Grund des Antrages des Bundesministeriums, das den Vorsitz in diesen Kommissionen führt, zu entscheiden, ob eine Zustimmung des Fonds zu der beantragten Kreditgewährung zu erteilen ist.
 
-#### § 16 – § 16.
+#### § 16
 
 (1) Anträge auf Abänderung von Bedingungen oder Auflagen gewährter Investitionskredite sind an das Kreditunternehmen zu richten, mit dem ein Kreditvertrag abgeschlossen wurde (§ 18 Abs. 1).
 
@@ -231,7 +231,7 @@ daß die Kreditinstitute halbjährlich im nachhinein dem Fonds eine Liste der ge
 
 (3) In der Geschäftsordnung ist festzulegen, in welchen Fällen die Geschäftsführung eine Zustimmung des Fonds gemäß Abs. 2 nur nach vorheriger Prüfung im Prüfausschuß und Genehmigung durch die ERP-Kreditkommission oder Fachkommissionen aussprechen darf.
 
-#### § 17 – § 17.
+#### § 17
 
 (1) Der Fonds hat der Kreditunternehmung *(Anm.: jetzt: Kreditinstitut)*, die ein Ansuchen gemäß § 14 Abs. 2 oder § 16 gestellt hat, mitzuteilen, ob und unter welchen Bedingungen und Auflagen der Gewährung oder Abänderung eines Investitionskredites zugestimmt wird.
 
@@ -239,7 +239,7 @@ daß die Kreditinstitute halbjährlich im nachhinein dem Fonds eine Liste der ge
 
 (3) Anläßlich einer Mitteilung gemäß Abs. 1 hat der Fonds der Oesterreichischen Nationalbank unter Bedachtnahme auf die Bestimmungen des § 3 Abs. 2 mitzuteilen, ob der Kredit aus den Mitteln des Eigenblocks oder des Nationalbankblocks zu finanzieren ist.
 
-#### § 18 – § 18.
+#### § 18
 
 (1) Das ermächtigte Kreditinstitut hat nach Maßgabe der Zustimmung des Fonds (§ 17 Abs. 1) und gemäß den Bestimmungen des Treuhandvertrages mit dem Kreditwerber einen Kreditvertrag abzuschließen.
 
@@ -249,7 +249,7 @@ daß die Kreditinstitute halbjährlich im nachhinein dem Fonds eine Liste der ge
 
 (4) Das Kreditinstitut hat dem Kreditnehmer den Investitionskredit grundsätzlich erst zum Zeitpunkt seiner tatsächlichen Verwendung flüssig zu machen. Zu diesem Zweck hat es einen Verwendungsnachweis zu verlangen und die Übereinstimmung des Verwendungsnachweises mit der Kreditverwendungsübersicht zu prüfen.
 
-#### § 19 – § 19.
+#### § 19
 
 (1) Die flüssigen Mittel des Eigenblocks des Fonds sind auf Konten bei der Oesterreichischen Nationalbank zu halten.
 
@@ -261,7 +261,7 @@ daß die Kreditinstitute halbjährlich im nachhinein dem Fonds eine Liste der ge
 
 ### Abwicklung und Kontrolle.
 
-#### § 20 – § 20.
+#### § 20
 
 (1) Das ermächtigte Kreditinstitut hat entsprechend den Bestimmungen des Treuhandvertrages und des Kreditvertrages die Abwicklung des Investitionskredites mit der Sorgfalt eines ordentlichen Kaufmannes durchzuführen und insbesondere seine bestimmungsgemäße Verwendung sowie die Einhaltung der Bedingungen und Auflagen des Kreditvertrages einschließlich der Rückzahlungen und Zinsenzahlungen zu überwachen und alle außergerichtlichen und gerichtlichen Maßnahmen zur Einbringung der Kreditforderung zu ergreifen.
 
@@ -269,7 +269,7 @@ daß die Kreditinstitute halbjährlich im nachhinein dem Fonds eine Liste der ge
 
 (3) Der Fonds darf Eigentum im Zusammenhang mit der Verwertung von bestellten Pfandrechten oder Rechten aus sonstigen Sicherheiten nur im Zuge eines Ausgleichs- oder Konkursverfahrens und insoweit erwerben, als dies die ausschließliche Möglichkeit bietet, sich vor dem Verlust des überwiegenden Teiles seiner Forderung zu schützen. Solcherart erworbenes Eigentum ist ehestens im Wege einer freiwilligen Versteigerung zu veräußern.
 
-#### § 21 – § 21.
+#### § 21
 
 (1) Unbeschadet der Überwachungspflichten der Kreditinstitute ist der Fonds auch selbst berechtigt, die Beachtung der Richtlinien, die Einhaltung der Bedingungen und Auflagen der Kreditverträge, die bestimmungsgemäße Kreditverwendung, das Ausmaß der tatsächlichen Verwendung von Eigenmitteln, weiters den im Kreditantrag versprochenen volkswirtschaftlichen Leistungserfolg und unter Beiziehung des ermächtigten Kreditinstitutes die Sicherheit des aushaftenden Kreditteiles zu kontrollieren.
 
@@ -315,7 +315,7 @@ Das Bundesministerium für Finanzen wird ermächtigt, aus dem Bezug amerikanisch
 
 ### Übergangsbestimmungen.
 
-#### § 27 – § 27.
+#### § 27
 
 (1) Alle Stellen, die Konten, auf welchen sich im Zeitpunkt des Inkrafttretens dieses Bundesgesetzes Gelder des Eigenblocks des Fonds befinden, führen, haben diese mit Stand des Tages des Inkrafttretens dieses Bundesgesetzes abzuschließen und die Salden auf die gemäß § 19 Abs. 1 neugebildeten Konten des Fonds zu übertragen.
 
@@ -325,7 +325,7 @@ Das Bundesministerium für Finanzen wird ermächtigt, aus dem Bezug amerikanisch
 
 (4) Das mit 1. Juli 2002 begonnene Wirtschaftsjahr endet am 31. Dezember 2002.
 
-#### § 28 – § 28.
+#### § 28
 
 (1) Dieses Bundesgesetz tritt mit dem 1. Juli 1962 in Kraft.
 

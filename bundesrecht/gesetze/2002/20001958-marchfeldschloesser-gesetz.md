@@ -1,0 +1,97 @@
+---
+title: "Marchfeldschlösser-Gesetz"
+identifier: "20001958"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 83/2002"
+last_amended: 2012-04-25
+last_amendment: "BGBl. I Nr. 35/2012"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/i/2002/83/P0/NOR30002128"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001958"
+retrieved: 2026-10-11
+documents: 14
+---
+
+# Marchfeldschlösser-Gesetz
+
+Bundesgesetz zur Errichtung einer Marchfeldschlösser Revitalisierungs- und Betriebsgesellschaft m.b.H. - Marchfeldschlösser-Gesetz
+
+StF: BGBl. I Nr. 83/2002 (NR: GP XXI IA 628/A AB 1076 S. 100. BR: AB 6633 S. 687.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 71/2003 (NR: GP XXII RV 59 AB 111 S. 20. BR: 6788 AB 6790 S. 697.)  
+[CELEX-Nr.: 31997L0078, 32001L0089]  
+BGBl. I Nr. 71/2006 (NR: GP XXII RV 1433 AB 1472 S. 150.)  
+BGBl. I Nr. 35/2012 (NR: GP XXIV RV 1685 AB 1708 S. 148. BR: 8686 AB 8688 S. 806.)  
+
+</details>
+
+## § 1 – Kulturpolitischer Auftrag
+
+§ 1. Die bundeseigenen Schlösser des Marchfeldes SchloßHof und Niederweiden sind ein wichtiger Teil des kulturellen Erbes Österreichs. Deren Restaurierung, Erhaltung, Öffnung und Belebung unter Bedachtnahme auf deren historische Konzeption und auf Grundlage kunsthistorischer und denkmalpflegerischer Erkenntnisse, zählen daher zu den kulturellen Aufgaben des Staates. Durch den Aufbau von Kooperationen mit kulturell und touristisch bedeutenden benachbarten Schlössern soll darüber hinaus eine “historische Schlösserstraße” entwickelt werden.
+
+## § 2 – Gesellschaftsübertragung
+
+§ 2. Der Bundesminister für Wirtschaft, Familie und Jugend wird ermächtigt, im Einvernehmen mit der Bundesministerin für Finanzen die Geschäftsanteile an der Marchfeldschlösser Revitalisierungs- und Betriebsgesellschaft m.b.H. zum Nominalwert in Höhe von 70 000 € an die Schloß Schönbrunn Kultur- und Betriebsgesellschaft m.b.H. zu veräußern.
+
+## § 3 – Beirat
+
+§ 3. (1) Im Gesellschaftsvertrag ist als beratendes Organ der Gesellschaft auch ein Beirat zur Beratung, Förderung und Begleitung der Gesellschaft im Hinblick auf den kulturpolitischen Auftrag gemäß § 1 und zur Wahrung der ökonomischen, kulturellen, gesellschaftlichen und regionalen Interessen vorzusehen.
+
+(2) Der Beirat besteht aus höchstens fünf Mitgliedern. Zwei Mitglieder werden vom Bundesminister für Finanzen entsendet, die übrigen Mitglieder sind vom Bundesminister für Wirtschaft und Arbeit zu entsenden. Bei der Entsendung ist auf deren persönliche und fachliche Qualifikation im Hinblick auf die in Abs. 1 festgelegten Aufgaben des Beirates Bedacht zu nehmen. Die Entsendung erfolgt auf die Dauer von jeweils vier Jahren, wobei eine neuerliche Entsendung zulässig ist. Eine vorzeitige Abberufung durch den Bundesminister für Finanzen bzw. den Bundesminister für Wirtschaft und Arbeit ist aus wichtigen Gründen, insbesondere bei grober Pflichtverletzung, zulässig. Die Mitglieder des Beirates sind zur Verschwiegenheit anzugeloben. Ihre Tätigkeit erfolgt ehrenamtlich.
+
+## § 4 – Aufsichtsrat
+
+§ 4. Der Gesellschaftsvertrag hat einen Aufsichtsrat mit höchstens fünf Mitgliedern (Kapitalvertretern) vorzusehen. Drei Mitglieder werden von der Generalversammlung gewählt. Je ein Mitglied wird vom Bundesminister für Wirtschaft und Arbeit und vom Bundesminister für Finanzen entsandt. Dem vom Bundesminister für Finanzen entsandten Vertreter kommt hinsichtlich der Angelegenheiten des § 6 Abs. 1 lit. b ein Vetorecht zu.
+
+## § 5 – Fruchtgenusseinräumung
+
+§ 5. (1) Der Bundesminister für Wirtschaft und Arbeit wird ermächtigt, im Einvernehmen mit dem Bundesminister für Finanzen der Gesellschaft ein entgeltliches, erfolgsabhängiges Fruchtgenussrecht an den Liegenschaften EZ 85 und 320, KG 06308 Markthof (Schloss SchloßHof) und EZ 531, KG 06303 Engelhartstetten (Schloss Niederweiden) einzuräumen.
+
+(2) Der Bundesminister für Wirtschaft und Arbeit wird ermächtigt, im Einvernehmen mit dem Bundesminister für Finanzen nach Bedarf die Liegenschaften EZ 289 und 319 KG 06308 Markthof, EZ 435, 647 und 648 KG 06303 Engelhartstetten, zur Gänze oder in Teilen für den Bund zu erwerben und danach der Gesellschaft daran ebenfalls ein Fruchtgenussrecht im Sinne des Abs. 1 einzuräumen.
+
+## § 6 – Abgeltung des kulturpolitischen Auftrages
+
+§ 6. (1) Im Sinne des kulturpolitischen Auftrages gemäß § 1 wird der Bundesminister für Wirtschaft und Arbeit ermächtigt, folgende Zahlungen zu leisten:
+
+1\. insgesamt 70 000 Euro an die Schloss Schönbrunn Kultur- und Betriebsgesellschaft m.b.H. sowie an die Schönbrunner Tiergarten-Gesellschaft m.b.H. zur Aufbringung des Stammkapitals der Gesellschaft und
+
+2\. bis zu 26 Millionen Euro auf Grundlage eines von der Gesellschaft zu erstellenden Unternehmenskonzeptes und der vom Bundesminister für Wirtschaft und Arbeit genehmigten Jahresvoranschläge, samt Investitions- und Finanzplänen nach Maßgabe der Liquiditätserfordernisse der Gesellschaft, insbesondere zur Durchführung der erforderlichen baulichen Maßnahmen.
+
+(2) Zusätzlich zu den Zuwendungen gemäß Abs. 1 kann der Bundesminister für Wirtschaft und Arbeit nach Maßgabe der im jährlichen Bundesfinanzgesetz für diese Zwecke vorgesehenen Mittel die Erhöhung der Aufwendungen gemäß Abs. 1 lit. b unter der weiteren Voraussetzung vergüten, dass dies trotz wirtschaftlicher, sparsamer und zweckmäßiger Gebarung der Gesellschaft und wirtschaftlicher Führung der Geschäfte erforderlich ist.
+
+## § 7 – Geschäftsführung
+
+§ 7. (1) Die Geschäfte der Gesellschaft sind durch einen Geschäftsführer zu führen. Dieser ist von der Gesellschaft unter Anwendung des Stellenbesetzungsgesetzes, BGBl. I Nr. 26/1998, in der geltenden Fassung zu bestellen.
+
+(2) Abweichend von Abs. 1 ist der Bundesminister für Wirtschaft und Arbeit ermächtigt, für die Zeit bis zum Ende des zweiten vollen Geschäftsjahres der Gesellschaft zwei interimistische Geschäftsführer zu bestellen, wovon je einer aus dem Kreis der derzeitigen Geschäftsführer der Schloß Schönbrunn Kultur- und Betriebsgesellschaft m.b.H. und der Schönbrunner Tiergarten-Gesellschaft m.b.H. zu stammen hat. Das Stellenbesetzungsgesetz, BGBl. I Nr. 26/1998, ist auf diesen Vorgang nicht anzuwenden.
+
+## § 8 – Karenzierung von Bundesbediensteten
+
+§ 8. Auf die Karenz von Bundesbediensteten, die bis 31. Dezember 2003 Arbeitnehmer der Gesellschaft werden, ist § 8 Bundesbediensteten-Sozialplangesetz, BGBl. I Nr. 138/1997, in der jeweils geltenden Fassung anzuwenden.
+
+## § 9 – Anwendung des Vergaberechtes
+
+§ 9. Die Gesellschaft ist öffentlicher Auftraggeber nach Maßgabe des § 11 Abs. 1 Z 3 des Bundesvergabegesetzes 1997 (BVergG), BGBl. I Nr. 56, in der jeweils geltenden Fassung. Auf die Inanspruchnahme von Leistungen der Gesellschaft durch den Bund ist, sofern der Bund im Weg der Schloß Schönbrunn Kultur- und Betriebsgesellschaft m.b.H. und der Schönbrunner Tiergarten-Gesellschaft m.b.H. sämtliche Anteile hält, auch wenn dies entgeltlich erfolgt, das BVergG nicht anzuwenden, wobei dem Bund alle von ihm über Anteilsmehrheiten oder Weisungsrechte beherrschten Rechtsträger gleichzuhalten sind.
+
+## § 10 – Subsidiäre Rechtsanwendung
+
+§ 10. Auf die Gesellschaft sind, sofern in diesem Bundesgesetz nichts anderes bestimmt ist, die Bestimmungen des Bundesgesetzes über Gesellschaften mit beschränkter Haftung (GmbHG), RGBl. Nr. 58/1906, in der jeweils geltenden Fassung anzuwenden.
+
+## § 11 – Rechtsvertretung
+
+§ 11. Die Gesellschaft ist berechtigt, in allen Rechtsangelegenheiten gegen Entgelt die Beratung und Vertretung durch die Finanzprokuratur in Anspruch zu nehmen.
+
+## § 12 – Steuerbefreiungen
+
+§ 12. Für die im Zusammenhang mit der Errichtung der Gesellschaft stehenden Vorgänge gelten die steuerlichen Sonderregelungen für die Ausgliederung von Aufgaben der Gebietskörperschaften gemäß Art. 34 des Budgetbegleitgesetzes 2001, BGBl. I Nr. 142/2000, in der Fassung BGBl. I Nr. 144/2001.
+
+## § 13 – In-Kraft-Treten
+
+§ 13. § 6 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2003 tritt mit Ablauf des 24. Mai 2002 in Kraft.

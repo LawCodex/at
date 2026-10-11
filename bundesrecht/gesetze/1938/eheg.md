@@ -106,7 +106,7 @@ Niemand darf eine Ehe eingehen, bevor seine frühere Ehe für nichtig erklärt o
 
 ## C. Eheschließung
 
-##### § 15 – § 15
+##### § 15
 
 (1) Eine Ehe kommt nur zustande, wenn die Eheschließung vor einem Standesbeamten stattgefunden hat.
 
@@ -164,7 +164,7 @@ Niemand darf eine Ehe eingehen, bevor seine frühere Ehe für nichtig erklärt o
 
 ## II. Berufung auf die Nichtigkeit
 
-##### § 27 – § 27
+##### § 27
 
 Niemand kann sich auf die Nichtigkeit einer Ehe berufen, solange nicht die Ehe durch gerichtliches Urteil für nichtig erklärt worden ist.
 
@@ -188,7 +188,7 @@ Niemand kann sich auf die Nichtigkeit einer Ehe berufen, solange nicht die Ehe d
 
 ## III. Folgen der Nichtigkeit
 
-##### § 31 – § 31 – Vermögensrechtliche Beziehungen der Ehegatten
+##### § 31 – Vermögensrechtliche Beziehungen der Ehegatten
 
 (1) Hat auch nur einer der Ehegatten die Nichtigkeit der Ehe bei der Eheschließung nicht gekannt, so finden auf das Verhältnis der Ehegatten in vermögensrechtlicher Beziehung die im Falle der Scheidung geltenden Vorschriften entsprechende Anwendung. Dabei ist ein Ehegatte, dem die Nichtigkeit der Ehe bei der Eheschließung bekannt war, wie ein für schuldig erklärter Ehegatte zu behandeln.
 
@@ -206,13 +206,13 @@ Einem Dritten gegenüber können aus der Nichtigkeit der Ehe Einwendungen gegen 
 
 ### I. Allgemeine Vorschriften
 
-##### § 33 – § 33
+##### § 33
 
 § 33. Die Aufhebung einer Ehe kann nur in den Fällen der §§ 36 bis 39 und 44 dieses Gesetzes begehrt werden.
 
 > **Anmerkung:** Zur Strafbarkeit von „Ehetäuschung und Ehenötigung“ siehe § 193 StGB, BGBl. Nr. 60/1974.
 
-##### § 34 – § 34
+##### § 34
 
 Die Ehe wird durch gerichtliches Urteil aufgehoben. Sie ist mit der Rechtskraft des Urteils aufgelöst.
 
@@ -260,7 +260,7 @@ Die Ehe wird durch gerichtliches Urteil aufgehoben. Sie ist mit der Rechtskraft 
 
 (2) Fehlt ihm diese Fähigkeit, so kann ihn ein gesetzlicher Vertreter dabei nur vertreten, wenn die Vertretungshandlung zur Wahrung seines Wohles erforderlich ist. Gibt der Ehegatte aber zu erkennen, dass er die vom gesetzlichen Vertreter geplante Vertretungshandlung ablehnt, so hat diese zu unterbleiben, es sei denn, sein Wohl wäre sonst erheblich gefährdet.
 
-##### § 40 – § 40 – Klagefrist
+##### § 40 – Klagefrist
 
 (1) Die Aufhebungsklage kann nur binnen eines Jahres erhoben werden.
 
@@ -274,13 +274,13 @@ Die Ehe wird durch gerichtliches Urteil aufgehoben. Sie ist mit der Rechtskraft 
 >
 > 2\. Zum Verfahren siehe §§ 2a, 460, 483a ZPO, RGBl. Nr. 113/1895.
 
-##### § 41 – § 41 – Versäumung der Klagefrist durch den gesetzlichen Vertreter
+##### § 41 – Versäumung der Klagefrist durch den gesetzlichen Vertreter
 
 Hat der gesetzliche Vertreter eines nicht entscheidungsfähigen Ehegatten die Aufhebungsklage nicht rechtzeitig erhoben, so kann der Ehegatte selbst innerhalb von sechs Monaten seit dem Wegfall der Entscheidungsunfähigkeit die Aufhebungsklage erheben.
 
 ## IV. Folgen der Aufhebung
 
-##### § 42 – § 42
+##### § 42
 
 (1) Die Folgen der Aufhebung einer Ehe bestimmen sich nach den Vorschriften über die Folgen der Scheidung.
 
@@ -292,13 +292,13 @@ Hat der gesetzliche Vertreter eines nicht entscheidungsfähigen Ehegatten die Au
 
 ## F. Wiederverheiratung im Falle der Todeserklärung
 
-##### § 43 – § 43
+##### § 43
 
 (1) Geht ein Ehegatte, nachdem der andere Ehegatte für tot erklärt worden ist, eine neue Ehe ein, so ist die neue Ehe nicht deshalb nichtig, weil der für tot erklärte Ehegatte noch lebt, es sei denn, daß beide Ehegatten bei der Eheschließung wissen, daß er die Todeserklärung überlebt hat.
 
 (2) Mit der Schließung der neuen Ehe wird die frühere Ehe aufgelöst. Sie bleibt auch dann aufgelöst, wenn die Todeserklärung aufgehoben wird.
 
-##### § 44 – § 44
+##### § 44
 
 (1) Lebt der für tot erklärte Ehegatte noch, so kann sein früherer Ehegatte die Aufhebung der neuen Ehe begehren, es sei denn, daß er bei der Eheschließung wußte, daß der für tot erklärte Ehegatte die Todeserklärung überlebt hat.
 
@@ -318,7 +318,7 @@ Hat der gesetzliche Vertreter eines nicht entscheidungsfähigen Ehegatten die Au
 
 ### Recht der Ehescheidung — A. Allgemeine Vorschriften
 
-##### § 46 – § 46
+##### § 46
 
 Die Ehe wird durch gerichtliche Entscheidung geschieden. Sie ist mit der Rechtskraft der Entscheidung aufgelöst. Die Voraussetzungen, unter denen die Scheidung begehrt werden kann, ergeben sich aus den nachstehenden Vorschriften.
 
@@ -332,7 +332,7 @@ Die Ehe wird durch gerichtliche Entscheidung geschieden. Sie ist mit der Rechtsk
 
 ### I. Scheidung wegen Verschuldens (Eheverfehlungen)
 
-##### § 49 – § 49
+##### § 49
 
 Ein Ehegatte kann Scheidung begehren, wenn der andere durch eine schwere Eheverfehlung oder durch ehrloses oder unsittliches Verhalten die Ehe schuldhaft so tief zerrüttet hat, daß die Wiederherstellung einer ihrem Wesen entsprechenden Lebensgemeinschaft nicht erwartet werden kann. Eine schwere Eheverfehlung liegt insbesondere vor, wenn ein Ehegatte die Ehe gebrochen oder dem anderen körperliche Gewalt oder schweres seelisches Leid zugefügt hat. Wer selbst eine Verfehlung begangen hat, kann die Scheidung nicht begehren, wenn nach der Art seiner Verfehlung, insbesondere wegen des Zusammenhangs der Verfehlung des anderen Ehegatten mit seinem eigenen Verschulden sein Scheidungsbegehren bei richtiger Würdigung des Wesens der Ehe sittlich nicht gerechtfertigt ist.
 
@@ -350,7 +350,7 @@ Ein Ehegatte kann Scheidung begehren, wenn der andere durch eine schwere Eheverf
 
 Ein Ehegatte kann Scheidung begehren, wenn der andere an einer schweren ansteckenden oder ekelerregenden Krankheit leidet und ihre Heilung oder die Beseitigung der Ansteckungsgefahr in absehbarer Zeit nicht erwartet werden kann.
 
-##### § 54 – § 54 – Vermeidung von Härten
+##### § 54 – Vermeidung von Härten
 
 In den Fällen der §§ 50 und 52 darf die Ehe nicht geschieden werden, wenn das Scheidungsbegehren sittlich nicht gerechtfertigt ist. Dies ist in der Regel dann anzunehmen, wenn die Auflösung der Ehe den anderen Ehegatten außergewöhnlich hart treffen würde. Ob dies der Fall ist, richtet sich nach den Umständen, namentlich auch nach der Dauer der Ehe, dem Lebensalter der Ehegatten und dem Anlaß der Erkrankung.
 
@@ -386,7 +386,7 @@ Das Recht auf Scheidung wegen Verschuldens besteht nicht, wenn sich aus dem Verh
 
 ## Fristablauf
 
-##### § 57 – § 57
+##### § 57
 
 (1) Das Recht auf Scheidung wegen Verschuldens erlischt, wenn der Ehegatte nicht binnen sechs Monaten die Klage erhebt. Die Frist beginnt mit der Kenntnis des Scheidungsgrundes. Sie läuft nicht, solange die häusliche Gemeinschaft der Ehegatten aufgehoben ist. Fordert der schuldige Ehegatte den anderen auf, die Gemeinschaft herzustellen oder die Klage auf Scheidung zu erheben, so läuft die Frist vom Empfang der Aufforderung an.
 
@@ -420,7 +420,7 @@ Das Recht auf Scheidung wegen Verschuldens besteht nicht, wenn sich aus dem Verh
 
 > **Anmerkung:** Zum Zusammentreffen von Aufhebungs- und Scheidungsbegehren siehe § 18 1. DVEheG, dRGBl. I S 923/1938.
 
-##### § 61 – § 61 – Bei Scheidung aus anderen Gründen
+##### § 61 – Bei Scheidung aus anderen Gründen
 
 (1) Wird die Ehe auf Klage und Widerklage geschieden und trifft nur einen Ehegatten ein Verschulden, so ist dies im Urteil auszusprechen.
 
@@ -450,7 +450,7 @@ Die geschiedene Frau behält den Familiennamen des Mannes.
 >
 > 2\. ÜR: Art. XXIII § 3 Abs. 5 und 6 BGBl. Nr. 280/1978.
 
-##### § 67 – § 67
+##### § 67
 
 (1) Würde der allein oder überwiegend schuldige Ehegatte durch Gewährung des im § 66 bestimmten Unterhalts bei Berücksichtigung seiner sonstigen Verpflichtungen den eigenen angemessenen Unterhalt gefährden, so braucht er nur so viel zu leisten, als es mit Rücksicht auf die Bedürfnisse und die Vermögens- und Erwerbsverhältnisse der geschiedenen Ehegatten der Billigkeit entspricht. Hat der Verpflichtete einem minderjährigen unverheirateten Kind oder einem neuen Ehegatten oder eingetragenen Partner Unterhalt zu gewähren, so sind auch die Bedürfnisse und die wirtschaftlichen Verhältnisse dieser Personen zu berücksichtigen.
 
@@ -458,7 +458,7 @@ Die geschiedene Frau behält den Familiennamen des Mannes.
 
 > **Anmerkung:** ÜR: Art. XXIII § 3 Abs. 5 und 6 BGBl. Nr. 280/1978;
 
-##### § 68 – § 68
+##### § 68
 
 Sind beide Ehegatten schuld an der Scheidung, trägt aber keiner die überwiegende Schuld, so kann dem Ehegatten, der sich nicht selbst unterhalten kann, ein Beitrag zu seinem Unterhalt zugebilligt werden, wenn und soweit dies mit Rücksicht auf die Bedürfnisse und die Vermögens- und Erwerbsverhältnisse des anderen Ehegatten der Billigkeit entspricht. Die Beitragspflicht kann zeitlich beschränkt werden. § 67 Abs. 1 Satz 2 findet entsprechende Anwendung.
 
@@ -476,7 +476,7 @@ Sind beide Ehegatten schuld an der Scheidung, trägt aber keiner die überwiegen
 
 ## b) Unterhaltspflicht bei Scheidung aus anderen Gründen
 
-##### § 69 – § 69
+##### § 69
 
 (1) Ist die Ehe allein aus einem der in den §§ 50 und 52 bezeichneten Gründe geschieden und enthält das Urteil einen Schuldausspruch, so finden die Vorschriften der §§ 66 und 67 entsprechende Anwendung.
 
@@ -500,7 +500,7 @@ Sind beide Ehegatten schuld an der Scheidung, trägt aber keiner die überwiegen
 
 ## c) Art der Unterhaltsgewährung
 
-##### § 70 – § 70
+##### § 70
 
 (1) Der Unterhalt ist durch Zahlung einer Geldrente zu gewähren. Die Rente ist monatlich im voraus zu entrichten. Der Verpflichtete hat Sicherheit zu leisten, wenn die Gefahr besteht, daß er sich seiner Unterhaltspflicht zu entziehen sucht. Die Art der Sicherheitsleistung bestimmt sich nach den Umständen.
 
@@ -508,7 +508,7 @@ Sind beide Ehegatten schuld an der Scheidung, trägt aber keiner die überwiegen
 
 (3) Der Verpflichtete schuldet den vollen Monatsbetrag auch dann, wenn der Berechtigte im Lauf des Monats stirbt.
 
-##### § 71 – § 71
+##### § 71
 
 (1) Der unterhaltspflichtige geschiedene Ehegatte haftet vor den Verwandten des Berechtigten. Soweit jedoch der Verpflichtete bei Berücksichtigung seiner sonstigen Verpflichtungen den eigenen angemessenen Unterhalt gefährden würde, haften die Verwandten vor dem geschiedenen Ehegatten. Soweit einem geschiedenen Ehegatten ein Unterhaltsanspruch gegen den anderen Ehegatten nicht zusteht, haben die Verwandten des Berechtigten nach den allgemeinen Vorschriften über die Unterhaltspflicht den Unterhalt zu gewähren.
 
@@ -516,7 +516,7 @@ Sind beide Ehegatten schuld an der Scheidung, trägt aber keiner die überwiegen
 
 > **Anmerkung:** Zur Unterhaltpflicht der Verwandten siehe § 143 ABGB, JGS Nr. 946/1811.
 
-##### § 72 – § 72
+##### § 72
 
 Für die Vergangenheit kann der Berechtigte Erfüllung oder Schadenersatz wegen Nichterfüllung erst von der Zeit an fordern, in der der Unterhaltspflichtige in Verzug gekommen oder der Unterhaltsanspruch rechthängig geworden ist.
 
@@ -570,7 +570,7 @@ Bei Wiederverheiratung des Verpflichteten finden die Vorschriften des § 1604 de
 
 ## e) Beitrag zum Unterhalt der Kinder
 
-##### § 79 – § 79
+##### § 79
 
 (1) Hat ein geschiedener Ehegatte einem gemeinschaftlichen Kinde Unterhalt zu gewähren, so hat ihm der andere aus den Einkünften seines Vermögens und den Erträgnissen seiner Erwerbstätigkeit einen angemessenen Beitrag zu den Unterhaltskosten zu leisten, soweit diese nicht durch die Nutznießung am Kindesvermögen gedeckt werden. Der Anspruch ist nicht übertragbar.
 
@@ -580,7 +580,7 @@ Bei Wiederverheiratung des Verpflichteten finden die Vorschriften des § 1604 de
 
 ## f) Unterhaltsverträge
 
-##### § 80 – § 80
+##### § 80
 
 Die Ehegatten können über die Unterhaltspflicht für die Zeit nach der Scheidung der Ehe Vereinbarungen treffen. Ist eine Vereinbarung dieser Art vor Rechtskraft des Scheidungsurteils getroffen worden, so ist sie nicht schon deshalb nichtig, weil sie die Scheidung erleichtert oder ermöglicht hat; sie ist jedoch nichtig, wenn die Ehegatten im Zusammenhang mit der Vereinbarung einen nicht oder nicht mehr bestehenden Scheidungsgrund geltend gemacht hatten oder wenn sich anderweitig aus dem Inhalt der Vereinbarung oder aus sonstigen Umständen des Falles ergibt, daß sie den guten Sitten widerspricht.
 
@@ -750,7 +750,7 @@ Müßte der Exekutionstitel im Ausland erwirkt oder müßten die angeführten Ex
 
 ### Sondervorschriften für Österreich — B. Ergänzungsvorschriften
 
-##### § 104 – § 104
+##### § 104
 
 § 43 Abs. 2 Satz 2 gilt für den Fall, daß die Todeserklärung durch gerichtlichen Beschluß aufgehoben oder berichtigt wird.
 
@@ -770,25 +770,25 @@ Müßte der Exekutionstitel im Ausland erwirkt oder müßten die angeführten Ex
 
 ### I. Trennung der Ehe dem Bande nach
 
-##### § 109 – § 109
+##### § 109
 
 Die Trennung der Ehe dem Bande nach gemäß den bisherigen Gesetzen gilt als Scheidung der Ehe nach den Vorschriften dieses Gesetzes. Der Trennung der Ehe dem Bande nach steht die richterliche Lösung einer Ehe nach dem bisherigen burgenländischen Eherecht und die vollstreckbar erklärte kirchliche Verfügung über die Nachsicht von einer nicht vollzogenen Ehe gleich.
 
-##### § 110 – § 110
+##### § 110
 
 Ein Urteil, das auf Grund des bisherigen Rechts ergangen ist, steht in einem Scheidungsverfahren nach diesem Gesetz der Geltendmachung solcher Tatsachen nicht entgegen, die nach früherem Recht eine Trennung der Ehe dem Bande nach nicht rechtfertigten.
 
-##### § 111 – § 111
+##### § 111
 
 (1) Für die Leistung des Unterhalts getrennter Ehegatten gelten, wenn darüber nichts vereinbart worden ist, für die Zukunft die Vorschriften dieses Gesetzes über den Unterhalt geschiedener Ehegatten. Dabei ist der im Trennungsurteil enthaltene Schuldausspruch zugrunde zu legen. Die bezeichneten Vorschriften gelten nicht, wenn beide Ehegatten für schuldig erklärt sind. Sind beide Ehegatten für schuldlos erklärt und wurde das Trennungsverfahren auf Antrag beider Ehegatten eingeleitet, so hat ein Ehegatte dem anderen Unterhalt zu gewähren, wenn und soweit dies mit Rücksicht auf die Bedürfnisse und die Vermögens- und Erwerbsverhältnisse der geschiedenen Ehegatten und der nach § 71 unterhaltspflichtigen Verwandten der Billigkeit entspricht. § 67 Abs. 1 Satz 2 und Abs. 2 ist entsprechend anzuwenden. Ein vor Inkrafttreten dieses Gesetzes ergangenes Urteil steht einer neuen Regelung des Unterhalts nicht entgegen.
 
 (2) Die Vorschriften des Abs. 1 gelten auch für vollstreckbar erklärte kirchliche Verfügungen über die Nachsicht von einer nicht vollzogenen Ehe. Ist eine Entscheidung über das Verschulden noch nicht gefällt worden, so steht sie den Gerichten zu, die über vermögensrechtliche Ansprüche zu entscheiden haben.
 
-##### § 112 – § 112
+##### § 112
 
 \*(Anm.: gegenstandslos)*
 
-##### § 113 – § 113
+##### § 113
 
 Die Fristen des § 57 enden frühestens sechs Monate, die Fristen des § 58 frühestens ein Jahr nach Inkrafttreten dieses Gesetzes.
 
@@ -796,11 +796,11 @@ Die Fristen des § 57 enden frühestens sechs Monate, die Fristen des § 58 frü
 
 ## II. Scheidung der Ehe von Tisch und Bett
 
-##### § 114 – § 114
+##### § 114
 
 Die Wirkung der Scheidung einer Ehe von Tisch und Bett wird durch das Inkrafttreten dieses Gesetzes nicht berührt. Der Scheidung der Ehe von Tisch und Bett steht die Trennung der Ehe von Tisch und Bett nach dem bisherigen burgenländischen Eherecht gleich.
 
-##### § 115 – § 115
+##### § 115
 
 (1) Jeder Ehegatte einer von Tisch und Bett geschiedenen Ehe kann den Antrag stellen, daß die Scheidung der Ehe im Sinne dieses Gesetzes ausgesprochen werde. Zuständig ist das Bezirksgericht, in dessen Sprengel einer der Ehegatten seinen allgemeinen Gerichtsstand in Streitsachen im Lande Österreich hat, wenn es an einem solchen fehlt, das Bezirksgericht Innere Stadt in Wien. Eine Klage auf Scheidung der Ehe nach den Vorschriften dieses Gesetzes ist ausgeschlossen.
 
@@ -812,11 +812,11 @@ Die Wirkung der Scheidung einer Ehe von Tisch und Bett wird durch das Inkrafttre
 
 (5) An einem kraft Gesetzes, Satzung oder Vertrags einem Ehegatten zustehenden Anspruch (Anwartschaft) auf einen Versorgunsgenuß wird nichts geändert. Ein Verzicht auf den Versorgungsgenuß ist wirksam, wenn er dem eigenen Ehegatten oder dessen Ehegatten aus der späteren Ehe oder der Stelle gegenüber erklärt worden ist, die zur Anweisung der Dienst- und Ruhebezüge des eigenen Ehegatten berufen ist; einer ausdrücklichen Annahme des Verzichts bedarf es nicht.
 
-##### § 116 – § 116
+##### § 116
 
 Die Feststellung eines Ehebruchs in einem Urteil auf Scheidung der Ehe von Tisch und Bett hat die gleiche Wirkung wie nach § 9 die Feststellung eines Ehebruchs in einem Scheidungsurteil.
 
-##### § 117 – § 117
+##### § 117
 
 (1) Anhängige Verfahren wegen nicht einverständlicher Scheidung der Ehe von Tisch und Bett sind als Verfahren wegen Scheidung der Ehe nach den Vorschriften dieses Gesetzes fortzusetzen, wenn das Begehren danach geändert wird. Ein neuer Scheidungsgrund im Sinne dieses Gesetzes kann noch geltend gemacht werden. Beides ist auch noch im Rechtsmittelverfahren zulässig. Andernfalls ist die Klage abzuweisen.
 
@@ -826,7 +826,7 @@ Die Feststellung eines Ehebruchs in einem Urteil auf Scheidung der Ehe von Tisch
 
 ## III. Ungültigerklärung der Ehe
 
-##### § 118 – § 118
+##### § 118
 
 (1) Die Gültigkeit einer vor Inkrafttreten dieses Gesetzes geschlossenen Ehe bestimmt sich nach den bisherigen Gesetzen. Für die vor dem 1. Mai 1934 vor einem Priester der katholischen Kirche geschlossenen Ehen gelten ausschließlich die Vorschriften, die vor diesem Tage in Kraft standen. Sie sind auch maßgebend, wenn die Ehegatten einer vor dem staatlichen Trauungsorgan abgeschlossenen Ehe ihre Eheerklärung nach dem 30. April 1934 vor einem katholischen Priester erneuert haben.
 
@@ -834,11 +834,11 @@ Die Feststellung eines Ehebruchs in einem Urteil auf Scheidung der Ehe von Tisch
 
 (3) Eine nach den bisherigen Gesetzen ungültige Ehe ist als von Anfang an gültig anzusehen, wenn die Ehegatten am 1. April 1938 noch als Ehegatten miteinander gelebt haben und der Grund, auf dem die Ungültigkeit beruht, nach den Vorschriften dieses Gesetzes weder zur Nichtigerklärung noch zur Aufhebung der Ehe führen könnte.
 
-##### § 119 – § 119
+##### § 119
 
 Wurde vor Inkrafttreten dieses Gesetzes eine Ehe für ungültig erklärt, wurden ihr die bürgerlichen Rechtswirkungen aberkannt oder wurde eine kirchliche Ungültigkeitsentscheidung für vollstreckbar erklärt, so gilt dies als Nichtigerklärung im Sinne dieses Gesetzes. § 31 ist nicht anzuwenden.
 
-##### § 120 – § 120
+##### § 120
 
 (1) Ein anhängiges Ungültigkeitsverfahren (Verfahren zur Aberkennung der bürgerlichen Rechtswirkungen) ist als Verfahren zur Nichtigerklärung oder zur Aufhebung der Ehe nur fortzusetzen, wenn ein am Verfahren bereits Beteiligter, der nach den Vorschriften dieses Gesetzes zur Einleitung eines solchen Verfahrens befugt wäre, dies begehrt. Andernfalls ist das Verfahren einzustellen.
 
@@ -848,7 +848,7 @@ Wurde vor Inkrafttreten dieses Gesetzes eine Ehe für ungültig erklärt, wurden
 
 ## IV. Besondere Bestimmungen über die mit Nachsicht vom Ehehindernis des Ehebandes geschlossenen Ehen
 
-##### § 121 – § 121
+##### § 121
 
 (1) Eine mit Nachsicht vom Ehehindernis des Ehebandes geschlossene und nicht bereits rechtskräftig für ungültig erklärte Ehe gilt als eine von Anfang an gültige Ehe, es sei denn, daß auf Grund eines vor dem 1. Jänner 1939 gestellten Antrags gerichtlich festgestellt wird, daß die Ehegatten am 1. April 1938 nicht mehr als Ehegatten miteinander gelebt haben. In diesem Falle ist die Ehe für nichtig zu erklären. Ist ein Ehegatte vor dem 1. April 1938 gestorben, so tritt an die Stelle dieses Tages der Todestag des Ehegatten. Der Nichtigerklärung steht nicht entgegen, daß die Ehe vor Inkrafttreten dieses Gesetzes von den Gerichten etwa für gültig erklärt worden sein sollte.
 
@@ -858,13 +858,13 @@ Wurde vor Inkrafttreten dieses Gesetzes eine Ehe für ungültig erklärt, wurden
 
 > **Beachte:** § 121 Abs. 2 und 3 sind durch Zeitablauf gegenstandslos.
 
-##### § 122 – § 122
+##### § 122
 
 (1) Wird in der Frist des § 121 ein Antrag nicht gestellt oder wird er rechtskräftig abgewiesen, so gilt die frühere Ehe, von deren Bande Nachsicht erteilt wurde, mit der Eingehung der späteren Ehe als im Sinne dieses Gesetzes geschieden.
 
 (2) Ist die frühere Ehe, von deren Bande Nachsicht erteilt worden ist, von Tisch und Bett geschieden, so finden die Vorschriften des § 115 Abs. 3 bis 5 Anwendung. Diese Vorschriften sind sinngemäß in den Fällen anzuwenden, in denen die frühere Ehe, von deren Bande Nachsicht erteilt wurde, nicht von Tisch und Bett geschieden war. Für die Leistung des Unterhalts gelten in diesen Fällen, soweit darüber nichts vereinbart worden ist, für die Zukunft die Vorschriften dieses Gesetzes. Die Entscheidung steht den Gerichten zu, die über vermögensrechtliche Ansprüche zu entscheiden haben, wobei für die Frage des Verschuldens maßgebend ist, welcher der Ehegatten einen Tatbestand gesetzt hat, der als Scheidungsgrund in Betracht käme. Wird die Schuldlosigkeit beider Ehegatten festgestellt, so gilt § 111 Abs. 1 Satz 4 und 5 sinngemäß.
 
-##### § 123 – § 123
+##### § 123
 
 (1) Beschlüsse auf Grund von Anträgen nach § 121 sind den antragsberechtigten Personen zuzustellen.
 
@@ -872,7 +872,7 @@ Wurde vor Inkrafttreten dieses Gesetzes eine Ehe für ungültig erklärt, wurden
 
 > **Beachte:** § 123 ist durch Zeitablauf gegenstandslos.
 
-##### § 124 – § 124
+##### § 124
 
 (1) Beim Bezirksgericht Innere Stadt in Wien wird eine Sammelstelle für die nach § 121 gestellten Anträge und für die auf Grund dieser Anträge ergangenen Beschlüsse errichtet. Der Sammelstelle ist von jedem Antrag eine Abschrift und von jedem rechtskräftigen Beschluß über einen solchen Antrag eine Ausfertigung zu übermitteln.
 
@@ -882,7 +882,7 @@ Wurde vor Inkrafttreten dieses Gesetzes eine Ehe für ungültig erklärt, wurden
 
 > **Beachte:** § 124 ist durch Zeitablauf gegenstandslos.
 
-##### § 125 – § 125
+##### § 125
 
 (1) Wurde vor dem 1. Jänner 1939 in einem Falle des § 121 ein Antrag nicht gestellt, so hat der Ehegatte, der die spätere Ehe mit Nachsicht vom Ehehindernis des Ehebandes geschlossen hat, und wenn er nicht mehr am Leben ist, sein Ehegatte aus der späteren Ehe die Pflicht, ohne Verzug beim Bezirksgericht Innere Stadt in Wien den Antrag zu stellen, die Anmerkung der Scheidung der früheren Ehe gemäß diesem Gesetz im Eheregister (Trauungsmatrik) zu veranlassen. Liegen die Voraussetzungen für diese Eintragung vor, so hat das Bezirksgericht Innere Stadt in Wien den Antrag mit einem dies bestätigenden Vermerk dem Amte des Reichsstatthalters zur weiteren Verfügung zu übermitteln. Zur Antragstellung berechtigt ist auch der Ehegatte aus der früheren Ehe. Dem Antrag sind Trauungsscheine über beide Ehen und der Bescheid über die Nachsicht vom Bande der früheren Ehe anzuschließen oder doch darin genaue Angaben über die Eheschließungen und die Nachsichterteilung zu machen.
 
@@ -890,19 +890,19 @@ Wurde vor Inkrafttreten dieses Gesetzes eine Ehe für ungültig erklärt, wurden
 
 > **Beachte:** § 125 ist durch Zeitablauf gegenstandslos.
 
-##### § 126 – § 126
+##### § 126
 
 Eingaben, Protokolle und Beilagen gemäß den §§ 124 und 125 sind gebührenfrei.
 
 > **Beachte:** § 126 ist durch Zeitablauf gegenstandslos.
 
-##### § 127 – § 127
+##### § 127
 
 Ist eine Ehe, die mit Nachsicht vom Ehehindernis des Ehebandes geschlossen worden ist, wegen dieses Hindernisses für nichtig erklärt worden, so sind die Ehegatten, wenn darüber nichts vereinbart worden ist, unter denselben Voraussetzungen zum Unterhalt verpflichtet, wie wenn die Ehe gültig geschlossen und geschieden worden wäre. Für die Zeit vor Inkrafttreten dieses Gesetzes kann auf Grund dieser Vorschrift ein Unterhalt nicht begehrt werden. Das Gericht, das über die vermögensrechtlichen Ansprüche zu entscheiden hat, hat festzustellen, ob sich ein Ehegatte während der Dauer der Ehe eines Verhaltens schuldig gemacht hat, das als Scheidungsgrund anzusehen wäre, wenn die Ehe gültig wäre. § 111 Abs. 1 Satz 4 und 5 gilt sinngemäß.
 
 ## V. Aufhebung bisheriger Vorschriften
 
-##### § 128 – § 128
+##### § 128
 
 Vorschriften des österreichischen Rechts, die Gegenstände betreffen, die in diesem Gesetz geregelt sind, verlieren mit dem Inkrafttreten dieses Gesetzes ihre Wirksamkeit.
 
@@ -910,11 +910,11 @@ Vorschriften des österreichischen Rechts, die Gegenstände betreffen, die in di
 
 ### Schlußbestimmungen
 
-##### § 129 – § 129
+##### § 129
 
 Dieses Gesetz tritt am 1. August 1938 in Kraft. Die Vorschriften des § 112 Abs. 2 und 3, des § 117 Abs. 2, des § 120 Abs. 2 und des § 121 Abs. 3 treten mit dem auf die Verkündung folgenden Tage in Kraft.
 
-##### § 130 – § 130
+##### § 130
 
 (1) Wo auf Vorschriften verwiesen wird, die durch dieses Gesetz oder die auf Grund dieses Gesetzes ergangenen Bestimmungen aufgehoben oder geändert werden, erhält die Verweisung ihren Inhalt aus den entsprechenden neuen Vorschriften.
 

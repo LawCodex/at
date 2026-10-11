@@ -23,7 +23,9 @@ StF: BGBl. I Nr. 55/1999 (NR: GP XX RV 1581 AB 1615 S. 161. BR: 5875 AB 5890 S. 
 
 > **Anmerkung:** Dieses Bundesgesetz wurde in Artikel VI des BGBl. I Nr. 55/1999 kundgemacht.
 
-## Förderung von Einrichtungen der Opferhilfe
+**Förderung von Einrichtungen der Opferhilfe**
+
+## Art. 6
 
 (1) Einrichtungen, die Personen unterstützen und betreuen, deren Rechte durch eine strafbare Handlung verletzt wurden, sind vom Bund zu fördern. Über die Förderung entscheidet der Bundesminister für Justiz nach Anhörung der anderen sachlich in Betracht kommenden Bundesminister.
 

@@ -1,0 +1,296 @@
+---
+title: "Sterbeverfügungsgesetz"
+abbreviation: "StVfG"
+identifier: "20011782"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 242/2021"
+last_amended: 2026-07-30
+last_amendment: "BGBl. I Nr. 69/2026"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/2021/242/P0/NOR40240934"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011782"
+retrieved: 2026-10-11
+documents: 17
+---
+
+# Sterbeverfügungsgesetz (StVfG)
+
+Bundesgesetz über die Errichtung von Sterbeverfügungen (Sterbeverfügungsgesetz – StVfG)
+
+StF: BGBl. I Nr. 242/2021 (NR: GP XXVII RV 1177 AB 1255 S. 137. BR: 10806 AB 10837 S. 936.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 160/2024 (VfGH)  
+BGBl. I Nr. 69/2026 (NR: GP XXVIII RV 525 AB 567 S. 87. BR: 11836 AB 11848 S. 993.)  
+
+</details>
+
+> **Anmerkung:** Das Sterbeverfügungsgesetz wurde in Artikel 1 des BGBl. I Nr. 242/2021 kundgemacht.
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+## 1. Abschnitt
+
+### Allgemeine Bestimmungen
+
+#### § 1 – Anwendungsbereich, Zweck
+
+§ 1. (1) Dieses Bundesgesetz regelt die Voraussetzungen und die Wirksamkeit von Sterbeverfügungen zum Nachweis eines dauerhaften, freien und selbstbestimmten Entschlusses zur Selbsttötung.
+
+(2) Eine Sterbeverfügung kann nur wirksam errichtet oder erneuert werden, wenn die sterbewillige Person ihren gewöhnlichen Aufenthalt in Österreich hat oder österreichische Staatsangehörige ist.
+
+(3) Die Voraussetzungen, die Wirkungen, die Erneuerung und die Beendigung einer Sterbeverfügung richten sich nach österreichischem Recht.
+
+#### § 2 – Freiwilligkeit der Mitwirkung, Benachteiligungsverbot
+
+§ 2. (1) Keine natürliche oder juristische Person ist verpflichtet, eine Hilfeleistung (§ 3 Z 4), wie etwa die Abgabe des Präparats (§ 3 Z 9) durch eine Apothekerin bzw. einen Apotheker, zu erbringen, eine ärztliche Aufklärung (§ 7) durchzuführen oder an der Errichtung einer Sterbeverfügung mitzuwirken. Ein darauf gerichtetes vertragliches Leistungsversprechen kann nicht gerichtlich geltend gemacht werden.
+
+(2) Keine natürliche oder juristische Person darf wegen einer solchen Hilfeleistung, einer ärztlichen Aufklärung oder der Mitwirkung an der Errichtung einer Sterbeverfügung oder der Weigerung, eine Hilfeleistung zu erbringen, eine ärztliche Aufklärung durchzuführen oder an der Errichtung einer Sterbeverfügung mitzuwirken, in welcher Art immer benachteiligt werden.
+
+#### § 3 – Begriffsbestimmungen
+
+§ 3. Im Sinne dieses Bundesgesetzes bedeuten die Begriffe:
+
+1\. „Sterbeverfügung“: eine Willenserklärung, mit der eine sterbewillige Person ihren dauerhaften, freien und selbstbestimmten Entschluss festhält, ihr Leben selbst zu beenden;
+
+2\. „sterbewillige Person“: eine Person, die ihr Leben selbst beenden will;
+
+3\. „Hilfe leistende Person“: eine volljährige und entscheidungsfähige Person, die bereit ist, die sterbewillige Person bei der Durchführung der lebensbeendenden Maßnahme zu unterstützen;
+
+4\. „Hilfeleistung“: die physische Unterstützung der sterbewilligen Person bei der Durchführung lebensbeendender Maßnahmen; die ärztliche Aufklärung oder die Mitwirkung an der Errichtung einer Sterbeverfügung ist keine Hilfeleistung;
+
+5\. „ärztliche Personen“: selbstständig berufsberechtigte Ärztinnen und Ärzte;
+
+6\. „dokumentierende Person“: ein Notar bzw. eine Notarin oder ein rechtskundiger Mitarbeiter bzw. eine rechtskundige Mitarbeiterin der Patientenvertretungen (§ 11e des Krankenanstalten- und Kuranstaltengesetzes), vor dem bzw. der die Sterbeverfügung errichtet wird;
+
+7\. „für die Aufbewahrung verantwortliche Person“: der dokumentierende Notar bzw. die dokumentierende Notarin oder die Patientenvertretung (§ 11e des Krankenanstalten- und Kuranstaltengesetzes), deren rechtskundiger Mitarbeiter bzw. rechtskundige Mitarbeiterin die Sterbeverfügung dokumentiert hat;
+
+8\. „terminale Phase“: wenn die Krankheit ein Stadium erreicht hat, in dem sie nach medizinischem Ermessen voraussichtlich innerhalb von sechs Monaten zum Tod führen wird;
+
+9\. „Präparat“: eine für die sterbewillige Person tödliche Dosis Natrium-Pentobarbital oder ein anderes, durch Verordnung gemäß § 11 Abs. 6 festgelegtes Mittel, das in entsprechender Dosis das Leben beendet;
+
+10\. „Identifikationsdaten“: Vor- und Familienname, Geburtsdatum, Geschlecht, Staatsangehörigkeit; die Identifikationsdaten werden unter Zuhilfenahme des bereichsspezifischen Personenkennzeichens Gesundheit verarbeitet.
+
+#### § 4 – Höchstpersönlichkeit
+
+§ 4. Eine Sterbeverfügung kann nur höchstpersönlich errichtet werden.
+
+## 2. Abschnitt
+
+### Sterbeverfügung
+
+#### § 5 – Inhalt
+
+§ 5. (1) In einer Sterbeverfügung ist der Entschluss der sterbewilligen Person festzuhalten, ihr Leben selbst zu beenden. Sie hat auch die ausdrückliche Erklärung zu enthalten, dass dieser Entschluss frei und selbstbestimmt nach ausführlicher Aufklärung gefasst wurde.
+
+(2) In der Sterbeverfügung können auch eine oder mehrere Hilfe leistende Personen angegeben werden. Auf Wunsch der sterbewilligen Person kann die dokumentierende Person auch nach der Errichtung weitere Hilfe leistende Personen in die Sterbeverfügung aufnehmen oder solche Personen streichen.
+
+#### § 6 – Voraussetzungen
+
+§ 6. (1) Die sterbewillige Person muss sowohl im Zeitpunkt der Aufklärung (§ 7) als auch im Zeitpunkt der Errichtung (§ 8) oder Erneuerung (§ 8a) der Sterbeverfügung volljährig und entscheidungsfähig sein. Die Entscheidungsfähigkeit muss zweifelsfrei gegeben sein.
+
+(2) Der Entschluss der sterbewilligen Person, ihr Leben zu beenden, muss frei und selbstbestimmt, insbesondere frei von Irrtum, List, Täuschung, physischem oder psychischem Zwang und Beeinflussung durch Dritte gefasst werden.
+
+(3) Eine Sterbeverfügung kann nur eine Person errichten, die
+
+1\. an einer unheilbaren, zum Tod führenden Krankheit (§ 120 Z 1 ASVG) oder
+
+2\. an einer schweren, dauerhaften Krankheit (§ 120 Z 1 ASVG) mit anhaltenden Symptomen leidet, deren Folgen die betroffene Person in ihrer gesamten Lebensführung dauerhaft beeinträchtigen;
+
+wobei die Krankheit einen für die betroffene Person nicht anders abwendbaren Leidenszustand mit sich bringt.
+
+(4) Die Hilfe leistende Person darf nicht mit der Person ident sein, die die Aufklärung (§ 7) leistet, eine Bestätigung nach § 8 Abs. 1 dritter Satz ausstellt oder die Sterbeverfügung oder ihre Erneuerung dokumentiert.
+
+#### § 7 – Aufklärung
+
+§ 7. (1) Der Errichtung einer Sterbeverfügung hat eine Aufklärung durch zwei ärztliche Personen voranzugehen, von denen eine eine palliativmedizinische Qualifikation aufzuweisen hat, und die unabhängig voneinander bestätigen, dass die sterbewillige Person entscheidungsfähig ist und einen im Sinne des § 6 Abs. 2 freien und selbstbestimmten Entschluss geäußert hat.
+
+(2) Die Aufklärung hat zumindest folgende Inhalte zu umfassen:
+
+1\. die im konkreten Fall möglichen Behandlungs- oder Handlungsalternativen, insbesondere Hospizversorgung und palliativmedizinische Maßnahmen, sowie einen Hinweis auf die Möglichkeit der Errichtung einer Patientenverfügung oder auf andere Vorsorgeinstrumente, insbesondere Vorsorgevollmacht und Vorsorgedialog (§ 239 Abs. 2 ABGB, JGS Nr. 946/1811, in der Fassung des Bundesgesetzes BGBl. I Nr. 59/2017),
+
+2\. die Dosierung des Präparats (§ 3 Z 9) und die für die Verträglichkeit des Präparats notwendige Begleitmedikation,
+
+3\. Art der Einnahme des Präparats (§ 3 Z 9), Auswirkungen und mögliche Komplikationen bei der Einnahme des Präparats und dass mit einer Patientenverfügung lebensrettende Behandlungen abgelehnt werden können,
+
+4\. einen Hinweis auf konkrete Angebote für ein psychotherapeutisches Gespräch sowie für suizidpräventive Beratung, und
+
+5\. einen Hinweis auf allfällige weitere im konkreten Fall zielführende Beratungsangebote.
+
+(3) Die ärztliche Person hat ein Dokument mit dem wesentlichen Inhalt der von ihr vorgenommenen Aufklärung zu errichten, wobei nicht jede ärztliche Person über sämtliche in Abs. 2 angeführten Inhalte aufklären muss, und darauf mit Unterschrift die Bestätigung nach Abs. 1 zu treffen. Eine ärztliche Person, die über die Behandlungsalternativen aufklärt (Abs. 2 Z 1), hat das Vorliegen einer Krankheit im Sinne des § 6 Abs. 3 Z 1 oder Z 2 und einer glaubwürdigen Erklärung der betroffenen Person über einen für sie nicht anders abwendbaren Leidenszustand zu bestätigen; eine ärztliche Person hat die genaue Dosierungsanordnung (Abs. 2 Z 2) zu treffen. Das Dokument hat den Vor- und Familiennamen und das Geburtsdatum der sterbewilligen Person, den Vor- und Familiennamen und die Anschrift der ärztlichen Person und das Datum der Aufklärung zu enthalten und ist der sterbewilligen Person auszufolgen. Die Dokumentation kann auch im Wege einer Online-Schnittstelle zum Sterbeverfügungsregister erfolgen, die durch einen Code vor unbefugtem Zugriff zu schützen ist, sodass Zugriff nur diejenigen Personen erlangen, denen die sterbewillige Person den Code bekannt gibt. Die eingegebenen Daten dürfen längstens 30 Jahre aufbewahrt werden. Berufs- und krankenanstaltsrechtliche Bestimmungen über die ärztliche Dokumentation bleiben unberührt.
+
+(4) Wenn sich im Rahmen der ärztlichen Aufklärung ein Hinweis darauf ergibt, dass bei der sterbewilligen Person eine krankheitswertige psychische Störung vorliegt, deren Folge der Wunsch zur Beendigung ihres Lebens sein könnte, ist vor der Bestätigung nach Abs. 1 eine Abklärung dieser Störung einschließlich einer Beratung durch eine Fachärztin bzw. einen Facharzt für Psychiatrie und Psychotherapeutische Medizin oder eine klinische Psychologin bzw. einen klinischen Psychologen zu veranlassen.
+
+#### § 8 – Errichtung
+
+§ 8. (1) Eine Sterbeverfügung kann wirksam frühestens zwölf Wochen nach der ersten ärztlichen Aufklärung (§ 7) errichtet werden. Hat eine ärztliche Person bestätigt, dass die sterbewillige Person an einer unheilbaren, zum Tod führenden Erkrankung leidet und in die terminale Phase (§ 3 Z 8) eingetreten ist, so ist eine Errichtung nach zwei Wochen zulässig. Wird eine Sterbeverfügung nicht innerhalb eines Jahres nach der zweiten ärztlichen Aufklärung errichtet, so muss die sterbewillige Person eine von einer ärztlichen Person unterschriebene Bestätigung beibringen, die ein Jahr nach der Ausstellung gültig ist und folgende Inhalte bezogen auf den Zeitpunkt der Ausstellung umfasst:
+
+1\. die sterbewillige Person ist entscheidungsfähig,
+
+2\. sie hat einen im Sinne des § 6 Abs. 2 freien und selbstbestimmten Entschluss geäußert und
+
+3\. es liegt eine Krankheit im Sinne des § 6 Abs. 3 Z 1 oder Z 2 vor.
+
+Für diese Bestätigung ist § 7 Abs. 4 anzuwenden. Die Sterbeverfügung muss innerhalb von fünf Jahren nach der ärztlichen Aufklärung über die Behandlungsalternativen errichtet werden.
+
+(2) Die Sterbeverfügung ist schriftlich vor einer dokumentierenden Person (§ 3 Z 6) zu errichten, nachdem diese die Dokumentation über die ärztliche Aufklärung (§ 7 Abs. 3) wiedergegeben hat, und über rechtliche Aspekte, wie die mögliche Errichtung einer Patientenverfügung oder Vorsorgevollmacht, die Errichtung einer letztwilligen Verfügung, die strafrechtlichen Grenzen der Hilfeleistung und weitere Rechtsfolgen belehrt hat. Die dokumentierende Person hat vor der Errichtung durch Einsichtnahme in das Sterbeverfügungsregister (§ 9 Abs. 2) zu überprüfen, ob bereits eine Sterbeverfügung für diese sterbewillige Person errichtet wurde. Ist eine vorhergehende Sterbeverfügung noch gültig, so muss sie vor Errichtung einer neuen Sterbeverfügung widerrufen werden.
+
+(3) Die dokumentierende Person hat unter Angabe ihres Namens und ihrer Anschrift sowie des Datums der Errichtung auf dem Dokument der Sterbeverfügung Folgendes schriftlich zu bestätigen:
+
+1\. Vor- und Familienname, Geburtsdatum, Staatsangehörigkeit und Anschrift des gewöhnlichen Aufenthalts der sterbewilligen Person und die Tatsache, dass diese ihren im Sinn des § 6 Abs. 2 freien und selbstbestimmten Entschluss bekräftigt hat;
+
+2\. dass die Entscheidungsfähigkeit der sterbewilligen Person ärztlich bestätigt wurde und kein Hinweis darauf vorliegt, dass sie im Zeitpunkt der Errichtung beeinträchtigt wäre;
+
+3\. dass eine den zeitlichen Anforderungen des Abs. 1 entsprechende Aufklärung mit dem notwendigen Inhalt des § 7 Abs. 2 vorliegt.
+
+In das Dokument ist auch die Dosierungsanordnung (§ 7 Abs. 2 Z 2) aufzunehmen. Bei Zweifeln an der Entscheidungsfähigkeit ist die Dokumentation der Errichtung abzulehnen.
+
+(4) Im Falle des Verlusts oder Diebstahls des Präparats kann die sterbewillige Person vor der dokumentierenden Person verlangen, dass auf einer gültigen Sterbeverfügung oder auf einer aus diesem Anlass neu errichteten Sterbeverfügung vermerkt wird, dass neuerlich ein Präparat ausgefolgt werden kann. Die dokumentierende Person hat diesen Vermerk zu erteilen, wenn kein Zweifel an der Zuverlässigkeit der sterbewilligen Person besteht, und an das Sterbeverfügungsregister (§ 9 Abs. 2) zu melden.
+
+#### § 8a – Erneuerung
+
+§ 8a. (1) Eine Sterbeverfügung kann wegen (drohenden) Ablaufs der Wirksamkeit oder nach Widerruf innerhalb von fünf Jahren ab ihrer Errichtung schriftlich erneuert werden. Dazu ist die Bestätigung einer ärztlichen Person nach § 8 Abs. 1 dritter Satz notwendig, die nicht älter als ein Jahr ist. Eine mehrmalige Erneuerung ist zulässig.
+
+(2) Die Erneuerung hat entweder vor einer ärztlichen Person oder vor einer dokumentierenden Person zu erfolgen. Diese hat vor der Errichtung der Erneuerung durch Einsichtnahme in das Sterbeverfügungsregister (§ 9 Abs. 2) zu überprüfen, ob bereits eine Sterbeverfügung vorliegt und ob die fünfjährige Frist nach Abs. 1 erster Satz noch nicht verstrichen ist. Ist zum Zeitpunkt der Erneuerung noch eine Sterbeverfügung gültig, so ist auf dem Dokument mit der Erneuerung zu vermerken, dass diese erst mit Ablauf der Gültigkeitsdauer der bisherigen Sterbeverfügung gilt. Bei Zweifeln an der Entscheidungsfähigkeit ist die Dokumentation der Erneuerung abzulehnen.
+
+(3) Die ärztliche oder die dokumentierende Person kann die Erneuerung entweder auf dem Dokument der bisherigen Sterbeverfügung vermerken oder ein neues Dokument ausstellen. Das Dokument hat zu enthalten:
+
+1\. Vor- und Familienname, Geburtsdatum, Staatsangehörigkeit und Anschrift des gewöhnlichen Aufenthalts der sterbewilligen Person;
+
+2\. eine schriftliche Bestätigung der ärztlichen oder dokumentierenden Person, dass
+
+a. die sterbewillige Person ihren im Sinn des § 6 Abs. 2 freien und selbstbestimmten Entschluss anlässlich der Erneuerung der Sterbeverfügung bekräftigt hat;
+
+b. dass Entscheidungsfähigkeit der sterbewilligen Person ärztlich bestätigt wurde und kein Hinweis darauf vorliegt, dass sie im Zeitpunkt der Errichtung beeinträchtigt wäre;
+
+3\. die Dosierungsanordnung (§ 7 Abs. 2 Z 2).
+
+(4) Die ärztliche oder die dokumentierende Person hat unmittelbar nach der Erneuerung der Sterbeverfügung diese in das Sterbeverfügungsregister einzutragen und dabei folgende Informationen an das Sterbeverfügungsregister zu melden:
+
+1\. Identifikationsdaten der sterbewilligen Person;
+
+2\. Datum der ärztlichen Bestätigung und der Erneuerung der Sterbeverfügung;
+
+3\. Identifikationsdaten der bestätigenden ärztlichen Person und allenfalls der dokumentierenden Person;
+
+4\. Identifikationsdaten des Facharztes bzw. der Fachärztin für Psychiatrie und Psychotherapeutische Medizin oder der klinischen Psychologin bzw. des klinischen Psychologen bei einer Abklärung nach § 7 Abs. 4.
+
+#### § 9 – Dokumentation und Sterbeverfügungsregister
+
+§ 9. (1) Die dokumentierende Person hat das Original der Sterbeverfügung der sterbewilligen Person auszuhändigen. Die für die Aufbewahrung verantwortliche Person (§ 3 Z 7) hat eine Abschrift der Sterbeverfügung für die in § 10 Abs. 3 und 4 geregelte Dauer aufzubewahren und den Sicherheitsbehörden oder den Strafverfolgungsbehörden, die wegen eines Delikts gegen Leib und Leben zum Nachteil der sterbewilligen Person ermitteln, Auskunft über die Sterbeverfügung zu geben.
+
+(2) Der für das Gesundheitswesen zuständige Bundesminister hat ein elektronisches Sterbeverfügungsregister unter Zuhilfenahme eines bereichsspezifischen Personenkennzeichens zu führen. Er darf die ihm gemäß Abs. 3 und 4 sowie § 7 Abs. 3, § 8 Abs. 4, § 8a Abs. 4 und § 11 Abs. 1 gemeldeten Daten zur Sicherstellung der nachvollziehbaren Einhaltung der Bestimmungen dieses Bundesgesetzes, insbesondere der Verhinderung eines unzulässigen mehrfachen Bezugs von Präparaten durch dieselbe sterbewillige Person, sowie zur Gewinnung von Erkenntnissen über die Inanspruchnahme der Sterbeverfügung für statistische und wissenschaftliche Analysen und Untersuchungen, die keine personenbezogenen Ergebnisse zum Ziel haben, verarbeiten. § 7 Abs. 5 des Datenschutzgesetzes, BGBl. I Nr. 165/1999, in der Fassung des Bundesgesetzes BGBl. I Nr. 120/2017, ist anzuwenden. Datenschutzrechtlich Verantwortlicher für das Sterbeverfügungsregister und die darin vorgenommenen Eintragungen ist der für das Gesundheitswesen zuständige Bundesminister.
+
+(3) Die dokumentierende Person hat unmittelbar nach der Errichtung einer Sterbeverfügung folgende Informationen an das Sterbeverfügungsregister zu melden:
+
+1\. Identifikationsdaten der sterbewilligen Person;
+
+2\. Identifikationsdaten der in der Sterbeverfügung angegebenen Hilfe leistenden Person(en);
+
+3\. Datum der Aufklärungsgespräche und der Errichtung der Sterbeverfügung;
+
+4\. Identifikationsdaten der aufklärenden ärztlichen Personen;
+
+5\. Identifikationsdaten des Facharztes bzw. der Fachärztin für Psychiatrie und Psychotherapeutische Medizin oder der klinischen Psychologin bzw. des klinischen Psychologen bei einer Abklärung nach § 7 Abs. 4;
+
+6\. die Dosierungsanordnung (§ 7 Abs. 2 Z 2);
+
+7\. allfälliges Vorliegen einer terminalen Phase (§ 8 Abs. 1);
+
+8\. Identifikationsdaten der dokumentierenden Person.
+
+(4) Die Totenbeschauärztinnen und Totenbeschauärzte haben eine gesonderte Meldung an den Verantwortlichen für das Register nach Abs. 2 zu erstatten, wenn Hinweise vorliegen, dass der Tod in einem unmittelbaren oder mittelbaren kausalen Zusammenhang mit der Einnahme eines Präparats steht. Die Meldung über den Todesfall hat folgende Informationen zu umfassen:
+
+1\. Identifikationsdaten der verstorbenen Person;
+
+2\. Datum und Ort des Todes;
+
+3\. falls bekannt, ob eine Sterbeverfügung errichtet wurde, und falls bekannt, Datum der Errichtung;
+
+4\. allfällige Anordnung einer Leichenöffnung oder Obduktion;
+
+5\. meldende Totenbeschauärztin oder -arzt;
+
+6\. Datum der Meldung.
+
+#### § 10 – Unwirksamkeit, Widerrufbarkeit
+
+§ 10. (1) Außer im Fall der Nichteinhaltung einer in diesem Bundesgesetz vorgesehenen Wirksamkeitsvoraussetzungen ist eine Sterbeverfügung auch dann unwirksam, wenn ihr Inhalt strafrechtlich nicht zulässig ist.
+
+(2) Eine Sterbeverfügung verliert ihre Wirksamkeit, wenn sie die sterbewillige Person widerruft oder zu erkennen gibt, dass sie nicht mehr wirksam sein soll, sowie nach Ablauf eines Jahres nach ihrer Errichtung oder ihrer Erneuerung.
+
+(3) Die für die Aufbewahrung verantwortliche Person hat die Abschrift der Sterbeverfügung (§ 9 Abs. 1) zehn Jahre nach ihrer Errichtung zu vernichten, wenn die sterbewillige Person keine längere Aufbewahrung verfügt. Die Frist beginnt mit jeder Erneuerung einer Sterbeverfügung neu zu laufen.
+
+(4) Auf Wunsch der sterbewilligen Person hat die für die Aufbewahrung verantwortliche Person die Abschrift der Sterbeverfügung (§ 9 Abs. 1) bei Widerruf oder nach Ablauf der Jahresfrist (Abs. 2) nur dann zu vernichten, wenn
+
+1\. noch kein Präparat (§ 11) bezogen wurde oder das bezogene Präparat nachweislich zurückgegeben wurde, was die für die Aufbewahrung verantwortliche Person durch Einsichtnahme in das Sterbeverfügungsregister zu überprüfen hat, und
+
+2\. auch das Original der Sterbeverfügung nachweislich vernichtet wurde oder dessen Wirksamkeit abgelaufen ist.
+
+(5) Die für die Aufbewahrung verantwortliche Person hat die Vernichtung der Abschrift der Sterbeverfügung an den Verantwortlichen für das Register nach § 9 Abs. 2 unter Angabe des Datums eines allfälligen Widerrufs zu melden, welcher die darauf bezogenen Daten zu löschen hat.
+
+#### § 11 – Präparat
+
+§ 11. (1) Ein Präparat (§ 3 Z 9) darf nur von einer öffentlichen Apotheke in der in der Sterbeverfügung angegebenen Dosierung samt der erforderlichen Begleitmedikation an die sterbewillige oder eine in der Sterbeverfügung namentlich genannte Hilfe leistende Person nach Vorlage einer wirksamen Sterbeverfügung abgegeben werden. Die Abgabe und eine allfällige Zurückgabe sind an das Sterbeverfügungsregister unter Angabe des Datums, der abgebenden Apotheke und der Identifikationsdaten der abgebenden Person zu melden.
+
+(2) Vor der Abgabe hat die Apothekerin bzw. der Apotheker zu überprüfen:
+
+1\. die Identität der Person, die das Präparat abholen möchte, anhand eines amtlichen Lichtbildausweises;
+
+2\. ob für die sterbewillige Person bereits die Abgabe eines Präparats aufgrund der vorgelegten oder einer früheren Sterbeverfügung eingetragen worden ist, durch Einsichtnahme in das Sterbeverfügungsregister.
+
+(3) Wurde für eine Sterbeverfügung der sterbewilligen Person bereits ein Präparat abgeben, so ist die Abgabe eines weiteren Präparats nur zulässig, wenn das zuerst abgegebene Präparat gleichzeitig zurückgegeben wird oder die Sterbeverfügung einen Vermerk nach § 8 Abs. 4 enthält. Wurde mit Hilfe eines Vermerks nach § 8 Abs. 4 ein neues Präparat bezogen, ist ein wiedererlangtes Präparat der Apotheke zur Entsorgung zurückzugeben.
+
+(4) Die sterbewillige Person und die Hilfe leistende Person, der das Präparat ausgefolgt wurde, haben das Präparat durch geeignete, den jeweiligen Umständen entsprechende Maßnahmen gegen eine unbefugte Entnahme zu sichern. Im Fall einer Aufgabe ihres Sterbewillens hat die sterbewillige Person das Präparat bei der Apotheke zurückzugeben. Die Apothekerin bzw. der Apotheker hat zurückgegebene Präparate zu entsorgen.
+
+(5) Befindet sich in der Verlassenschaft eines Verstorbenen ein Präparat, so ist dies von jedem, der das Präparat auffindet, unverzüglich der Bezirksverwaltungsbehörde als Gesundheitsbehörde anzuzeigen. Die Behörde hat die zur Vernichtung erforderlichen Anordnungen zu treffen.
+
+(6) Der für das Gesundheitswesen zuständige Bundesminister kann mit Verordnung
+
+1\. andere Präparate als Natrium-Pentobarbital als zulässiges Präparat bestimmen, wenn solche Präparate nach dem Stand der Medizin belastende Begleiterscheinungen für den Patienten minimieren oder wenn die Verfügbarkeit von Natrium-Pentobarbital eingeschränkt oder nicht mehr gegeben ist;
+
+2\. die Applikationsform und die Dosis, in der das Präparat verlässlich letal wirkt, festlegen;
+
+3\. die für die Verträglichkeit des Präparats nach dem Stand der Medizin notwendige Begleitmedikation regeln.
+
+(7) Die Österreichische Apothekerkammer hat auf Anfrage den dokumentierenden Personen diejenigen Apotheken in der Nähe der sterbewilligen Person bekannt zu geben, bei denen diese das Präparat beziehen kann. Zusätzlich hat die Österreichische Apothekerkammer dem für das Gesundheitswesen zuständigen Bundesminister zum 30. Juni des jeweiligen Jahres die zur Abgabe bereiten Apotheken zu nennen.
+
+#### § 12 – Werbeverbot und Verbot wirtschaftlicher Vorteile
+
+§ 12. (1) Es ist verboten, mit der Hilfeleistung zu werben. Das Werbeverbot umfasst Werbung, die eigene oder fremde Hilfeleistung oder Mittel, Gegenstände oder Verfahren, die zur Selbsttötung geeignet sind, unter Hinweis auf diese Eignung anpreist.
+
+(2) Es ist zulässig, eine sterbewillige Person auf die Möglichkeit der Errichtung einer Sterbeverfügung nach diesem Bundesgesetz hinzuweisen. Jedenfalls zulässig ist der Hinweis
+
+1\. von ärztlichen Personen und der Österreichischen Ärztekammer darauf, dass sie eine Aufklärung nach § 7 anbieten bzw. wo eine Aufklärung angeboten wird;
+
+2\. von dokumentierenden Personen, der Österreichischen Notariatskammer und den Patientenvertretungen darauf, dass sie eine Dokumentation von Sterbeverfügungen vornehmen bzw. wo eine Sterbeverfügung errichtet werden kann, oder
+
+3\. von Apotheken und der Österreichischen Apothekerkammer darauf, dass sie ein Präparat unter den Bedingungen des § 11 abgeben bzw. welche Apotheken das Präparat abgeben.
+
+(3) Es ist verboten, sterbewilligen Personen eine Hilfeleistung anzubieten oder diese durchzuführen, wenn man sich oder einem Dritten dafür wirtschaftliche Vorteile versprechen lässt oder annimmt, die über den Ersatz des nachgewiesenen Aufwands hinausgehen.
+
+#### § 13 – Verwaltungsstrafbestimmung
+
+§ 13. Wer den Verboten gemäß § 12 Abs. 1 oder Abs. 3 zuwiderhandelt, begeht eine Verwaltungsübertretung und ist mit einer Geldstrafe bis zu 30 000 Euro, im Wiederholungsfall bis zu 60 000 Euro, zu bestrafen. Im Fall des Verbotes gemäß § 12 Abs. 1 ist auch der Versuch strafbar.
+
+## 3. Abschnitt
+
+### Schlussbestimmungen
+
+#### § 14 – Inkrafttreten
+
+§ 14. (1) Dieses Bundesgesetz tritt mit 1. Jänner 2022 in Kraft.
+
+(2) § 1 Abs. 2 und 3, § 6 Abs. 1 und 4, § 8 Abs. 1, § 8a samt Überschrift, § 9 Abs. 2, § 10 Abs. 2 und 3 in der Fassung der Sterbeverfügungs-Novelle 2026 – StVfG-Nov 2026, BGBl. I Nr. 69/2026 treten mit Ablauf des Tages der Kundmachung in Kraft. § 8 Abs. 1 dritter und vierter Satz gilt für Bestätigungen, die nach diesem Zeitpunkt ausgestellt werden. § 8 Abs. 1 fünfter Satz gilt für Sterbeverfügungen, die nach diesem Zeitpunkt errichtet werden. § 8a und § 10 Abs. 2 und 3 gelten auch für Sterbeverfügungen, die vor dem Inkrafttreten der Sterbeverfügungsgesetz-Novelle 2026 errichtet wurden. Die Erneuerung von Sterbeverfügungen vor einer ärztlichen Person gemäß § 8a ist ab 1. Februar 2027 zulässig.
+
+#### § 15 – Vollziehung
+
+§ 15. Mit der Vollziehung sind hinsichtlich des § 9 Abs. 2 bis 4 und des § 11 der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz, hinsichtlich der übrigen Bestimmungen dieses Bundesgesetzes die Bundesministerin für Justiz im Einvernehmen mit dem Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz betraut.

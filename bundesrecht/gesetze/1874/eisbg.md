@@ -52,25 +52,25 @@ Mit Zustimmung der beiden Häuser des Reichsrathes finde Ich anzuordnen, wie fol
 
 ### 1. Allgemeine Bestimmungen.
 
-#### § 1 – §. 1.
+#### § 1
 
 Für Eisenbahnen, welche dem öffentlichen Verkehre zu dienen haben und zu deren Herstellung das Expropriationsrecht zugestanden ist, sind Eisenbahnbücher anzulegen.
 
-#### § 2 – §. 2.
+#### § 2
 
 In das Eisenbahnbuch sind alle im Besitze einer Eisenbahnunternehmung stehenden Grundstücke einzutragen, welche zum Betriebe der Eisenbahn zu dienen haben (Eisenbahngrundstücke).
 
-#### § 3 – §. 3.
+#### § 3
 
 Das Eisenbahnbuch besteht aus den Eisenbahneinlagen und einer Urkundensammlung.
 
-#### § 4 – §. 4.
+#### § 4
 
 (1) Für jede Eisenbahn, beziehungsweise für jeden Theil derselben, welcher den Gläubigern gegenüber als Ganzes zu gelten hat, ist eine Einlage zu errichten.
 
 (2) Bei Eisenbahnen, welche das Geltungsgebiet dieses Gebietes überschreiten, sowie bei fremden Eisenbahnen, welche sich mit einem Theile ihrer Linie in dieses Gebiet erstrecken, ist für den innerhalb dieses Gebietes gelegenen Theil eine Einlage zu eröffnen.
 
-#### § 5 – §. 5.
+#### § 5
 
 (1) Die den Inhalt einer Einlage bildende Bahn ist als eine bücherliche Einheit anzusehen.
 
@@ -88,7 +88,7 @@ c) alles übrige zum Fahrbetriebe oder in anderer Weise zum Betriebe der Bahn ge
 
 (3) In Ansehung der fremden Eisenbahnen, welche sich mit einem Theile ihrer Linie in das Geltungsgebiet dieses Gesetzes erstrecken, ist das unter 2c) bezeichnete Betriebsmaterial nicht als zu der bücherlichen Einheit gehörig anzusehen, sofern nicht durch ein mit der betreffenden Regierung geschlossenes Uebereinkommen etwas Anderes festgesetzt worden ist.
 
-#### § 6 – §. 6.
+#### § 6
 
 (1) An Theilen der als eine bücherliche Einheit behandelten Bahn können Hypothekarrechte nicht erworben werden.
 
@@ -96,13 +96,13 @@ c) alles übrige zum Fahrbetriebe oder in anderer Weise zum Betriebe der Bahn ge
 
 (3) Ingleichen wird durch die Behandlung der Bahn als bücherliche Einheit nicht ausgeschlossen, daß ein Einlösungs- oder Heimfallsrecht des Staates sich auf die diesem Rechte durch Gesetz oder Vertrag unterworfenen Objecte zu beschränken habe.
 
-#### § 7 – §. 7.
+#### § 7
 
 (1) Bei der Errichtung einer Eisenbahneinlage kann als Besitzer der den Inhalt dieser Einlage bildenden Bahn bücherliche Rechte nur Derjenige erlangen, welcher die Concession für diese Bahn erlangt hat.
 
 (2) Im Falle eines späteren Besitzüberganges kann die Bahn, sofern dieselbe nicht aufgelassen wird (§. 45), nur von Demjenigen bücherlich erworben werden, welchem die Concession für diese Bahn ertheilt oder die Ertheilung der Concession vom Handelsministerium zugesichert worden ist.
 
-#### § 8 – §. 8.
+#### § 8
 
 (1) Die Eisenbahneinlage besteht aus dem Bahnbestandblatte, dem Eigenthumsblatte und dem Lastenblatte.
 
@@ -114,13 +114,13 @@ c) alles übrige zum Fahrbetriebe oder in anderer Weise zum Betriebe der Bahn ge
 
 (5) Solange nicht die eine bücherliche Einheit bildenden Eisenbahngrundstücke ermittelt und in der ersten Abtheilung des Bahnbestandblattes angegeben sind, ist die Einlage als eine vorläufige anzusehen und als solche in einer in die Augen fallenden Weise zu bezeichnen.
 
-#### § 9 – §. 9.
+#### § 9
 
 (1) Vom Tage der Eröffnung einer, wenn auch nur vorläufigen Einlage ist die bücherliche Einheit, für welche die Einlage errichtet wird, als ein Grundbuchskörper und die Einlage als eine Grundbuchseinlage im Sinne des allgemeinen Grundbuchgesetzes anzusehen.
 
 (2) Insoweit als in dem gegenwärtigen Gesetze nicht etwas Anderen bestimmt ist, gelten in Ansehung der Voraussetzungen, des Vollzuges und der Mitwirkung der Eintragungen in das Eisenbahnbuch, sowie der Ab- und Zuschreibungen, die Bestimmungen der allgemeinen Grundbuchsgesetze.
 
-#### § 10 – §. 10.
+#### § 10
 
 (1) Zur Anlegung und Führung des Eisenbahnbuches sind berufen:
 
@@ -130,7 +130,7 @@ c) alles übrige zum Fahrbetriebe oder in anderer Weise zum Betriebe der Bahn ge
 
 (2) Zerfällt der Bahnbesitz einer Unternehmung in mehrere bücherliche Einheiten, welche nach den vorstehenden Bestimmungen in die Eisenbahnbücher verschiedener Gerichtshöfe einzutragen wären, so bestimmt das Handelsministerium nach Anhörung der Unternehmung denjenigen unter diesen Gerichtshöfen, bei welchem die Einlagen für alle der Unternehmung gehörigen bücherlichen Einheiten zu errichten und zu führen sind.
 
-#### § 11 – §. 11.
+#### § 11
 
 (1) Der Gerichtshof, bei welchem eine Eisenbahneinlage errichtet wird, ist vom Tage der Eröffnung der vorläufigen Einlage in allen Angelegenheiten, welche sich auf die bücherliche Einheit, für welche die Einlage errichtet wurde, als Ganzes beziehen, als Realinstanz zuständig.
 
@@ -140,13 +140,13 @@ c) alles übrige zum Fahrbetriebe oder in anderer Weise zum Betriebe der Bahn ge
 
 ### A. Errichtung einer vorläufigen Einlage.
 
-#### § 12 – §. 12.
+#### § 12
 
 (1) Für Eisenbahnen, welche beim Beginne der Wirksamkeit dieses Gesetzes bereits im Betriebe stehen, oder deren Richtung in diesem Zeitpuncte wenigstens insoweit bestimmt ist, daß beurtheilt werden kann, welche Bezirksgerichtssprengel durch die Bahn berührt werden können, und bei welchem Gerichtshofe die Einlage zu errichten ist, hat die Unternehmung binnen drei Monaten nach dem bezeichneten Zeitpuncte bei diesem Gerichtshofe um die Eröffnung einer vorläufigen Einlage anzusuchen.
 
 (2) Für Eisenbahnen, deren Richtung erst später in der bezeichneten Weise bestimmt wird, hat die Unternehmung dieses Ansuchen binnen drei Monaten nach dieser Bestimmung der Bahnrichtung an den zuständigen Gerichtshof zu richten.
 
-#### § 13 – §. 13.
+#### § 13
 
 (1) Dem Gesuche um Eröffnung einer vorläufigen Einlage sind beizulegen:
 
@@ -158,7 +158,7 @@ c) alles übrige zum Fahrbetriebe oder in anderer Weise zum Betriebe der Bahn ge
 
 (2) Von der unter Zahl 3 bezeichneten Urkunden sind sowohl die Originale, als einfache Abschriften (Abdrücke) vorzulegen.
 
-#### § 14 – §. 14.
+#### § 14
 
 (1) Erkennt sich der Gerichtshof als zuständig und wird das Gesuch ordnungsgemäß befunden, oder werden die etwa wahrgenommenen Mängel beseitigt, so hat der Gerichtshof eine vorläufige Einlage zu errichten.
 
@@ -166,17 +166,17 @@ c) alles übrige zum Fahrbetriebe oder in anderer Weise zum Betriebe der Bahn ge
 
 (3) Die beigebrachten einfachen Abschriften, deren Uebereinstimmung mit den Originalen von Amtswegen zu bestätigen ist, sind in der Urkundensammlung aufzubewahren.
 
-#### § 15 – §. 15.
+#### § 15
 
 Der Tag, an welchem eine vorläufige Einlage eröffnet wird, ist der Unternehmung, sowie den Bezirksgerichten, die städtisch-delegirten Bezirksgerichte nicht ausgenommen, deren Sprengel durch die Bahn berührt werden sollen, von Amtswegen bekannt zu heben und durch ein Edict kundzumachen, welches durch Anschlag am Gerichtshause und einmalige Einschaltung in die zu amtlichen Kundmachungen bestimmte Zeitung des Landes, beziehungsweise der Länder, die durch die Bahn berührt werden, zu verlautbaren ist.
 
-#### § 16 – §. 16.
+#### § 16
 
 (1) Betrifft die eröffnete vorläufige Einlage eine Eisenbahn, welche schon vor dem Beginne der Wirksamkeit dieses Gesetzes concessionirt war, so sind in dem Edicte Diejenigen, welchen ein durch ganze bücherliche Einheit belastendes Recht zusteht, und für welche nicht schon durch die Anordnung des §. 49 Vorsorge getroffen wird, aufzufordern, ihre Ansprüche anzumelden.
 
 (2) In Beziehung auf diese Aufforderung, sowie auf das derselben nachfolgende Verfahren, sind die in dem Gesetze vom 25. Juli 1871 (R. G. Bl. Nr. 96) über die Feststellung des Lastenstandes enthaltenen Bestimmungen mit der Aenderung sinngemäß anzuwenden, daß die Edictalfristen nur drei Monate zu betragen haben, und daß zur Kundmachung der Edicte, nebst dem Anschlage am Gerichtshofe, die einmalige Einschaltung derselben in die für amtliche Kundmachungen bestimmte Landeszeitung genügt.
 
-#### § 17 – §. 17.
+#### § 17
 
 (1) Die in einer vorläufigen Einlage vorgenommene Eintragung eines dinglichen Rechtes erstreckt ihre Wirkung auf den ganzen Umfang der bücherlichen Einheit.
 
@@ -188,7 +188,7 @@ Der Tag, an welchem eine vorläufige Einlage eröffnet wird, ist der Unternehmun
 
 ## B. Ermittlung der Eisenbahngrundstücke.
 
-#### § 18 – §. 18.
+#### § 18
 
 (1) Die Einleitung der Erhebungen zum Zwecke der Ermittlung der Eisenbahngrundstücke und die Aufnahme dieser Grundstücke in eine Eisenbahneinlage hat die Unternehmung bei den zuständigen Bezirksgerichten anzusuchen.
 
@@ -198,7 +198,7 @@ Der Tag, an welchem eine vorläufige Einlage eröffnet wird, ist der Unternehmun
 
 ## a) Für Bahnen oder Bahnstrecken, die noch nicht im Betriebe stehen.
 
-#### § 19 – §. 19.
+#### § 19
 
 (1) In Ansehung der Eisenbahnen oder Bahnstrecken, welche noch nicht im Betriebe stehen, ist das Gesuch um die im §. 18 bezeichneten Erhebungen binnen drei Monaten nach Beendigung der Grundeinlösung in dem betreffenden Bezirksgerichtssprengel, wenn aber die Grundeinlösung zur Zeit des Eintrittes der Wirksamkeit dieses Gesetzes in einem Bezirksgerichtssprengel bereits beendet wäre, binnen sechs Monaten nach diesem Zeitpuncte zu überreichen.
 
@@ -216,7 +216,7 @@ Der Tag, an welchem eine vorläufige Einlage eröffnet wird, ist der Unternehmun
 
 (4) Von der unter Zahl 3 und 4 bezeichneten Urkunden sind sowohl die Originale, als einfache Abschriften vorzulegen.
 
-#### § 20 – §. 20.
+#### § 20
 
 (1) Hypothekar- und andere Lasten, deren Realisirung zur zwangsweisen Veräußerung eines Eisenbahngrundstückes führen könnte, sind von der Eintragung in die Eisenbahneinlage ausgeschlossen.
 
@@ -224,11 +224,11 @@ Der Tag, an welchem eine vorläufige Einlage eröffnet wird, ist der Unternehmun
 
 (3) In dem letzteren Falle sind dem im §. 18 bezeichneten Gesuche Rubriken mit den zur Verständigung der Berechtigten erforderlichen Angaben, und insbesondere versehen mit der Bezeichnung des zu übertragenden Grundstückes und des den einzelnen Berechtigten betreffenden Rechtes, beizulegen.
 
-#### § 21 – §. 21.
+#### § 21
 
 Das Bezirksgericht hat das Gesuch zu prüfen und, sofern eine Vergleichung mit einem öffentlichen Buche erforderlich ist, diese Vergleichung selbst vorzunehmen oder, wenn das Buch bei einem anderen Gerichte geführt wird, durch dieses Gericht vornehmen zu lassen. Werden Unrichtigkeiten wahrgenommen oder erscheinen Aufklärungen nöthig, so sind die zur Beseitigung der Mängel erforderlichen Aufträge an die Unternehmung zu erlassen.
 
-#### § 22 – §. 22.
+#### § 22
 
 (1) Wird das Gesuch ordnungsgemäß befunden oder sind die etwa wahrgenommenen Mängel beseitigt, so hat das Bezirksgericht Diejenigen, welche sich durch das von der Unternehmung in Betreff der Uebertragung der Eisenbahngrundstücke in die Eisenbahneinlage gestellte Begehren für beeinträchtigt halten, durch Edict aufzufordern, ihre Ansprüche bei dem Bezirksgerichte anzumelden.
 
@@ -242,7 +242,7 @@ Das Bezirksgericht hat das Gesuch zu prüfen und, sofern eine Vergleichung mit e
 
 (6) Von dieser Aufforderung sind Diejenigen, deren Erklärung nach §. 20 einzuholen ist, durch Zustellung der für dieselben bestimmten Rubriken mit dem Beisatze zu verständigen, daß deren Stillschweigen als Zustimmung zur lastenfreien Uebertragung angesehen würde. Bei dieser Verständigung sind die für die Zustellung zu eigenen Handen geltenden Vorschriften zu beobachten.
 
-#### § 23 – §. 23.
+#### § 23
 
 (1) Dingliche Rechte, die erst an dem Tage, am welchem das Edict bei dem die Erhebungen leitenden Bezirksgerichte angeschlagen wird, aber nach diesem Tage an den in die Eisenbahneinlage aufzunehmenden Grundstücke gegen die Besitzvorgänger der Unternehmung erworben werden, bleiben bei der Aufnahme dieser Grundstücke in das Eisenbahnbuch unberücksichtigt.
 
@@ -250,11 +250,11 @@ Das Bezirksgericht hat das Gesuch zu prüfen und, sofern eine Vergleichung mit e
 
 (3) In dem Edicte ist hierauf insbesondere aufmerksam zu machen und der Tag, an welchem das Edict angeschlagen wird, anzugeben.
 
-#### § 24 – §. 24.
+#### § 24
 
 Das Gesuch sammt Beilagen (§. 19) ist bei dem Bezirksgerichte aufzubewahren, bei welchem es von Jedermann eingesehen werden kann.
 
-#### § 25 – §. 25.
+#### § 25
 
 (1) Die für die Anmeldungen festgesetzt Frist kann nicht erstreckt werden; eine Wiedereinsetzung gegen die Versäumung derselben findet nicht statt.
 
@@ -264,7 +264,7 @@ Das Gesuch sammt Beilagen (§. 19) ist bei dem Bezirksgerichte aufzubewahren, be
 
 (4) In Ansehung derjenigen Berechtigten, deren nach §. 22, Absatz 6, vorzunehmende Verständigung nicht mindestens 14 Tage vor Ablauf der Edictalfrist erfolgte, ist, sofern nicht eine zustimmende Erklärung derselben vorliegt, so vorzugehen, als ob diese Berechtigten einen Widerspruch angemeldet hätten.
 
-#### § 26 – §. 26.
+#### § 26
 
 (1) Ueber eine rechtzeitige Anmeldung ist die Vernehmung der Betheiligten einzuleiten.
 
@@ -274,17 +274,17 @@ Das Gesuch sammt Beilagen (§. 19) ist bei dem Bezirksgerichte aufzubewahren, be
 
 (4) Wird diese Einigung nicht erzielt, so ist in eine weitere Erörterung des in der Anmeldung erhobenen Anspruches nur in den in §§. 27-29 bezeichneten Fällen einzugehen.
 
-#### § 27 – §. 27.
+#### § 27
 
 (1) Wird der Besitz der von der Unternehmung erworbenen Grundstücke oder die räumliche Begränzung derselben angefochten, und wird diese Anfechtung nicht durch Vorlage einer von der politischen Behörde über die Besitzeinwirkung ausgestellten Urkunde oder durch eine andere, vollen Glauben dienenden Urkunde über die Rechtmäßigkeit des Besitzes entkräftet, so ist der Unternehmung aufzutragen, die Besitzeinweisung im Expropriationswege zu erwirken.
 
 (2) Wird jedoch nur die Richtigkeit der zur Bezeichnung der Objecte in den Verzeichnissen und Mappen der Unternehmung gebrauchten Benennung und Zahlen bestritten, so ist eine Prüfung und erforderlichenfalls eine Berichtigung dieser Bezeichnungen vorzunehmen.
 
-#### § 28 – §. 28.
+#### § 28
 
 Wird ein aus dem getheilten Eigenthume oder aus dem Miteigenthume abgeleitetes Recht, eine Grunddienstbarkeit oder ein anderes, die Ausübung des Eigenthumsrechtes beschränkendes dingliches Recht an einem Eisenbahngrundstücke geltend gemacht, welches Recht in die Eisenbahneinlage eingetragen werden soll, in dem von der Unternehmung vorgelegten Verzeichnisse jedoch gar nicht oder nicht richtig angegeben war, so ist dieses Verzeichniß, wenn der Bestand eines unter Mitwirkung der politischen Behörde eingeräumten Rechtes durch das Begehungsprotokoll oder eine Bestätigung dieser Behörde dargethan oder von der Unternehmung anerkannt wird, zu berichtigen. Eine Abschrift der etwa vorgelegten Urkunde ist den Acten beizulegen.
 
-#### § 29 – §. 29.
+#### § 29
 
 (1) Wird in einer Anmeldung dagegen Widerspruch erhoben, daß ein nicht im Expropriationswege erworbenes Eisenbahngrundstück lastenfrei übertragen werde, so kann dieser Widerspruch, wenn es sich um eine dem Betrage nach bestimmte Forderung handelt, durch Zahlung der Schuld beseitigt werden. Der Gläubiger muß die Zahlung selbst dann annehmen, wenn die Zeit der Fälligkeit der Forderung noch nicht eingetreten ist; doch bleibt demselben das persönliche Recht auf Entschädigung wegen des durch vorzeitig erfolgte Zahlung etwa erlittenen Nachtheiles vorbehalten.
 
@@ -292,13 +292,13 @@ Wird ein aus dem getheilten Eigenthume oder aus dem Miteigenthume abgeleitetes R
 
 (3) Kann ein gegen die lastenfreie Uebertragung erhobener oder als erhoben anzusehender Widerspruch weder durch Zahlung der Schuld beseitigt, noch durch gerichtliche Entscheidung unwirksam gemacht werden, so ist die Unternehmung anzuweisen, im Wege der Expropriation zu bewirken, daß das Eisenbahngrundstück an die Unternehmung lastenfrei übergehe.
 
-#### § 30 – §. 30.
+#### § 30
 
 (1) Wenn andere als die nach §§. 27-29 zu erörternden Ansprüche erhoben, wenn insbesondere die von der Unternehmung vorgelegten, der Vorschrift des §. 19 entsprechenden Erwerbsurkunden angefochten wurden, oder wenn die im §. 28 bezeichneten Ansprüche nicht ihre gänzliche Erledigung gefunden haben, so ist es den Parteien zu überlassen, diese Ansprüche vor der zuständigen Behörde im gesetzmäßigen Wege geltend zu machen.
 
 (2) Durch diese Geltendmachung kann aber die Uebernahme der Eisenbahngrundstücke in die Eisenbahneinlage nicht aufgehalten werden.
 
-#### § 31 – §. 31.
+#### § 31
 
 (1) Nach dem Ablaufe der Edictalfrist sind die einen Gegenstand des Grundbuches bildenden Grundstücke, in Ansehung deren kein Anspruch angemeldet wurde, sofort daselbst vom Amtswegen abzuschreiben.
 
@@ -308,7 +308,7 @@ Wird ein aus dem getheilten Eigenthume oder aus dem Miteigenthume abgeleitetes R
 
 (4) Wird das öffentliche Buch nicht bei dem Bezirksgerichte geführt, welches über die Aufnahme der Eisenbahngrundstücke in die Eisenbahneinlage zu verhandeln hat, so hat dieses Gericht die erforderlichen Eintragungen durch das Gericht, bei welchem das Buch geführt wird, zu bewirken.
 
-#### § 32 – §. 32.
+#### § 32
 
 (1) Von der Erledigung einer Anmeldung hat das Gericht die Betheiligten zu verständigen.
 
@@ -316,13 +316,13 @@ Wird ein aus dem getheilten Eigenthume oder aus dem Miteigenthume abgeleitetes R
 
 (3) Die Verständigung von den in den öffentlichen Büchern vorgenommenen Eintragungen hat nach den dafür bestehenden Anordnungen zu erfolgen.
 
-#### § 33 – §. 33.
+#### § 33
 
 (1) Nachdem alle der begehrten Aufnahme der Eisenbahngrundstücke in die Eisenbahneinlage entgegenstehenden Hindernisse beseitigt und die Abschreibungen, sowie die sonstigen Berichtigungen in den öffentlichen Büchern durchgeführt sind, hat das Gericht die von der Unternehmung vorgelegten Verzeichnisse, welche der Richtung der Bahn entsprechend zu ordnen und erforderlichen Falles richtig zu stellen sind, nebst den Mappen, dann die Urkundenabschriften, deren Uebereinstimmung mit den Originalen von Amtswegen zu bestätigen ist, endlich die übrigen Verhandlungsacten an denjenigen Gerichtshof zu übersenden, bei welchem die vorläufige Einlage für die Bahn eröffnet worden ist.
 
 (2) Die etwa noch in den Acten zurückgebliebenen Originalurkunden sind den Parteien zurückzustellen.
 
-#### § 34 – §. 34.
+#### § 34
 
 (1) Der Gerichtshof hat sofort nach dem Eintreffen der von einem Bezirksgerichte eingesandten Acten zu prüfen, ob bei der Ermittlung der Eisenbahngrundstücke in gesetzmäßiger Weise vorgegangen wurde und nöthigenfalls die erforderlichen Verbesserungen oder Vervollständigungen durch das Bezirksgericht zu veranlassen.
 
@@ -336,13 +336,13 @@ Wird ein aus dem getheilten Eigenthume oder aus dem Miteigenthume abgeleitetes R
 
 ## b) Für Bahnen oder Bahnstrecken, welche bereits im Betriebe stehen.
 
-#### § 35 – §. 35.
+#### § 35
 
 (1) In Ansehung der Bahnen oder Bahnstrecken, welche zur Zeit des Eintrittes der Wirksamkeit dieses Gesetzes bereits im Betriebe stehen, hat die Unternehmung binnen einem Jahre nach diesem Zeitpuncte die im §. 19, Zahl 1 und 2, bezeichneten Verzeichnisse und Mappen der politischen Bezirksbehörde vorzulegen.
 
 (2) Diese hat zu untersuchen, ob die von der Unternehmung gemachten Angaben mit dem thatsächlichen Besitzstande übereinstimmen, ob insbesondere die in den Verzeichnissen und Mappen aufgeführten Grundstücke als Eisenbahngrundstücke (§. 2) anzusehen sind und sohin die richtig befundenen oder nach dem Ergebnisse der gepflogenen Erhebungen richtig gestellten Verzeichnisse und Mappen mit der Bestätigung der Richtigkeit zu versehen.
 
-#### § 36 – §. 36.
+#### § 36
 
 (1) Binnen drei Monaten nach erfolgter Bestätigung durch die politische Behörde hat die Unternehmung, unter Beibringung der bestätigten Verzeichnisse und Mappen, bei dem zuständigen Bezirksgerichte um die im §. 18 bezeichneten Erhebungen anzusuchen.
 
@@ -350,17 +350,17 @@ Wird ein aus dem getheilten Eigenthume oder aus dem Miteigenthume abgeleitetes R
 
 (3) Das Edict ist in den oben bezeichneten Gemeinden zu verlautbaren, am Gerichtshause anzuschlagen und einmal durch die für amtliche Kundmachungen bestimmte Landeszeitung zu veröffentlichen.
 
-#### § 37 – §. 37.
+#### § 37
 
 In Beziehung auf das weitere Verfahren haben die Bestimmungen der §§. 24, 25, Absatz 1-3; 26, 28, 30, 32, Absatz 1; 33, 34, anstatt der §§. 27 und 29 aber die folgenden Bestimmungen Anwendung zu finden.
 
-#### § 38 – §. 38.
+#### § 38
 
 (1) Wird der Besitz der von der Unternehmung erworbenen Grundstücke oder die räumliche Begränzung derselben angefochten, so ist der thatsächliche Besitzstand an Ort und Stelle zu erheben und das Verzeichniß der Eisenbahngrundstücke nach dem Ergebnisse dieser Erhebungen erforderlichen Falles richtig zu stellen.
 
 (2) Der Partei, deren bei der Verhandlung gestelltes Begehren unberücksichtigt bleibt, ist zu überlassen, ihren Anspruch vor der zuständigen Behörde im gesetzmäßigen Wege geltend zu machen, ohne daß jedoch hiedurch die Aufnahme der Eisenbahngrundstücke in die Eisenbahneinlage aufgehalten werden kann.
 
-#### § 39 – §. 39.
+#### § 39
 
 (1) Wird in Beziehung auf ein nicht im Expropriationswege erworbenes Eisenbahngrundstück ein Anspruch geltend gemacht, welcher aus einer zur Aufnahme in die Eisenbahneinlage nicht geeigneten Last abgeleitet wird, so wird durch eine solche Anmeldung die Aufnahme des Eisenbahngrundstückes in die Eisenbahneinlage nicht aufgehalten.
 
@@ -370,7 +370,7 @@ In Beziehung auf das weitere Verfahren haben die Bestimmungen der §§. 24, 25, 
 
 ## c) Für nachträgliche Erwerbungen.
 
-#### § 40 – §. 40.
+#### § 40
 
 (1) Erwirbt eine Unternehmung neue Eisenbahngrundstücke in einem Bezirksgerichtssprengel, in welchem die Erhebungen zum Zwecke der Ermittlung der Eisenbahngrundstücke bereits beendet sind, so ist, sofern nicht die bücherliche Zuschreibung der neu erworbenen Grundstücke auf Ansuchen der Unternehmung nach den Vorschriften der allgemeinen Grundbuchsgesetze zu erfolgen hat, nach den für die Ermittlung der Eisenbahngrundstücke einer noch nicht im Betriebe stehenden Bahnstrecke geltenden Bestimmungen vorzugehen.
 
@@ -378,7 +378,7 @@ In Beziehung auf das weitere Verfahren haben die Bestimmungen der §§. 24, 25, 
 
 ## C. Umwandlung der vorläufigen Einlage in eine definitive.
 
-#### § 41 – §. 41.
+#### § 41
 
 (1) Nachdem die Erhebungsacten von allen Bezirksgerichten eingelangt sind, werden die in beiden Abtheilungen des Bahnbestandblattes und in der zweiten Abtheilung des Lastenblattes eingelegten Verzeichnisse der Richtung der Bahn entsprechend geordnet, die Einlage wird mit einem Uebersichtsblatte versehen, und die Bezeichnung derselben als einer vorläufigen durch die Bezeichnung als einer definitiven ersetzt.
 
@@ -386,7 +386,7 @@ In Beziehung auf das weitere Verfahren haben die Bestimmungen der §§. 24, 25, 
 
 ## D. Verlängerung von Fristen.
 
-#### § 42 – §. 42.
+#### § 42
 
 (1) Das Handelsministerium kann die in den §§. 19 und 35 für Gesuche um die Einleitung der Erhebungen zum Zwecke der Ermittlung der Eisenbahngrundstücke bestimmten Fristen verlängern, wenn dargethan wird, daß die Unternehmung dieselben aus Gründen, die nicht durch ihr Verschulden herbeigeführt sind, nicht einzuhalten vermag.
 
@@ -394,7 +394,7 @@ In Beziehung auf das weitere Verfahren haben die Bestimmungen der §§. 24, 25, 
 
 ## E. Rechtsmittel.
 
-#### § 43 – §. 43.
+#### § 43
 
 (1) Die gerichtlichen Verfügungen in dem Verfahren zum Zwecke der Anlegung der Eisenbahnbücher können mittelst des Rechtsmittels des Recurses angefochten werden.
 
@@ -404,7 +404,7 @@ In Beziehung auf das weitere Verfahren haben die Bestimmungen der §§. 24, 25, 
 
 ## F. Veränderung der Einlage
 
-#### § 44 – §. 44.
+#### § 44
 
 (1) Die Vereinigung mehrerer bücherlicher Einheiten durch Zuschreibung derselben zu der in einer Einlage enthaltenen bücherlichen Einheit kann begehrt werden, wenn in der Verschiedenheit der im Eigenthumsblatte und in der ersten Abtheilung des Lastenblattes enthaltenen Eintragungen ein rechtliches Hinderniß der Vereinigung nicht besteht, oder dasselbe gleichzeitig mit der Vereinigung beseitigt werden soll.
 
@@ -420,7 +420,7 @@ In Beziehung auf das weitere Verfahren haben die Bestimmungen der §§. 24, 25, 
 
 ## G. Löschung einer Eisenbahneinlage.
 
-#### § 45 – §. 45.
+#### § 45
 
 (1) Wird die eine bücherliche Einheit bildende Bahn aufgelassen, so ist auf Ansuchen des der Unternehmung beigegebenen Regierungscommissärs diese Verfügung an der Spitze der Einlage auf eine in die Augen fallende Weise anzumerken.
 
@@ -434,11 +434,11 @@ In Beziehung auf das weitere Verfahren haben die Bestimmungen der §§. 24, 25, 
 
 ### 1. Beschränkte Wirkung des an einer Eisenbahn erworbenen Pfandrechtes.
 
-#### § 46 – §. 46.
+#### § 46
 
 Die bei Ermittlung der Eisenbahngrundstücke festgestellten, oder später mit Zustimmung der Staatsverwaltung eingeräumten, einen Gegenstand der zweiten Abtheilung des Lastenblattes bildenden Lasten und Rechte gehen dem Pfandrechte, welches an der in einer Eisenbahneinlage eingetragenen bücherlichen Einheit erworben wurde, vor. Dieser Vorrang tritt auch dann ein, wenn die Eintragung der bezeichneten Lasten oder Rechte zur Zeit der Geltendmachung des Pfandrechtes noch nicht erfolgt war.
 
-#### § 47 – §. 47.
+#### § 47
 
 (1) Bei der Verwendung des Einkommens, welches durch eine gerichtliche oder im Verwaltungswege verhängte Sequestration erzielt wird, sowie bei der Vertheilung des durch eine im Concurse oder zum Zwecke der Execution vorgenommene Veräußerung gelösten Preises haben den in einer Eisenbahneinlage eingetragenen Hypothekarforderungen diejenigen Forderungen voranzugehen, welche durch die für den ordentlichen Betrieb der als Hypothek dienenden bücherlichen Einheit erforderlichen Leistungen entstanden sind (Betriebsausauslagen) *(Anm.: Richtig: Betriebsauslagen)*, oder welche solche Beträge zum Gegenstande haben, die aus Anlaß des gegenseitigen Verkehres der öffentlichen Communicationsanstalten für eine andere Anstalt dieser Art eingehoben, aber an dieselbe noch nicht abgeführt wurden (Abrechnungsschuldigkeiten).
 
@@ -450,13 +450,13 @@ Die bei Ermittlung der Eisenbahngrundstücke festgestellten, oder später mit Zu
 
 ## 2. Sicherung der Rechte der Besitzer von Eisenbahn-Prioritätsobligationen.
 
-#### § 48 – §. 48.
+#### § 48
 
 (1) Hat eine Eisenbahnunternehmung vor dem Beginne der Wirksamkeit dieses Gesetzes auf Inhaber lautende oder durch Indossament übertragbare Theilschuldverschreibungen ausgegeben und in denselben oder in einer besonderen Urkunde die Zusicherung ausgesprochen, daß der Stamm oder die Erträgnisse ihres gesammten Vermögens, oder doch ihres gesammten unbeweglichen Vermögens, oder einzelner bestimmter Immobilien für die Einlösung oder Verzinsung haften, oder daß die Erträgnisse, oder die vom Staate garantirten Beträge zum Zwecke dieser Einlösung oder Verzinsung vorzugsweise verwendet werden sollen, so gebührt den Besitzern solcher Theilschuldverschreibungen (Eisenbahn-Prioritätsobligationen) das Pfandrecht hinsichtlich aller Immobilien, auf welche sich die ertheilte Zusicherung bezieht, und welche zur Zeit des Ansuchens um die bücherliche Eintragung des Pfandrechtes sich im Besitze der Unternehmung befindet; in Ansehung solcher Immobilien, auf welche das Pfandrecht im Wege der bücherlichen Eintragung wegen Mangels eines hiezu geeigneten Buches nicht erworben werden kann, ist die Zeit maßgebend, in welcher das Pfandrecht in anderer gesetzlicher Weise an den Immobilien erworben wird.
 
 (2) Die Rangordnung mehrerer, auf Grund dieser Bestimmung erworbener Pfandrechte richtet sich nach dem Zeitpuncte der ertheilten Zusicherung, sofern nicht zur Zeit des Entstehens der Schuld ein anderes Verhältniß der Rangordnung begründet wurde.
 
-#### § 49 – §. 49.
+#### § 49
 
 (1) In dem in §. 48 bezeichneten Falle hat die Unternehmung gleichzeitig mit dem Ansuchen um Errichtung einer vorläufigen Einlage die Eintragung des Pfandrechtes zur Sicherstellung der Rechte der Besitzer der ausgegebenen Eisenbahn-Prioritätsobligationen auf die den Gegenstand dieser Einlage bildende bücherliche Einheit anzusuchen, und zugleich die Bestätigung des der Unternehmung beigegebenen Regierungscommissärs beizubringen, daß das Gesuch sich auf alle von der Unternehmung ausgegebenen Eisenbahn-Prioritätsobligationen beziehe. Liegt ein solches nicht vor, so kann die Eröffnung einer vorläufigen Einlage nur dann erfolgen, wenn eine Bestätigung des Regierungscommissärs beigebracht wird, daß von der Unternehmung keine Eisenbahn-Prioritätsobligationen ausgegeben wurden.
 
@@ -464,17 +464,17 @@ Die bei Ermittlung der Eisenbahngrundstücke festgestellten, oder später mit Zu
 
 (3) Dem Gesuche um Eintragung des Pfandrechtes ist in allen Fällen eine Bestätigung des Regierungscommissärs über die Richtigkeit und Vollständigkeit der für die Eintragung maßgebenden Angaben und namentlich über die Höhe der noch bestehenden Schuld beizufügen.
 
-#### § 50 – §. 50.
+#### § 50
 
 (1) Nach dem Beginne der Wirksamkeit dieses Gesetzes darf die Ausgabe von Eisenbahn-Prioritätsobligationen nicht vor der Einverleibung des Pfandrechtes auf die zur Hypothek bestimmte, den Gegenstand einer Eisenbahneinlage bildende bücherliche Einheit erfolgen.
 
 (2) Werden zur Sicherstellung der Eisenbahn-Prioritätsobligationen nebst dieser bücherlichen Einheit andere unbewegliche Güter bestimmt, auf welche ein bücherliches Pfandrecht erworben werden kann, so muß das Pfandrecht in Ansehung dieser Güter in gleicher Weise vor Ausgabe der Eisenbahn-Prioritätsobligationen eingetragen werden.
 
-#### § 51 – §. 51.
+#### § 51
 
 Der einer Eisenbahnunternehmung beigegebene Regierungscommissär hat darüber zu wachen, daß nach den in Ansehung der Ausgabe und Einlösung der in Frage stehenden Eisenbahn-Prioritätsobligationen geltenden Bestimmungen vorgegangen werde, und daß insbesondere die Anzahl der ausgegebenen Prioritätsobligationen die in diesem Bestimmungen festgesetzte Gränze nicht überschreite.
 
-#### § 52 – §. 52.
+#### § 52
 
 Durch die Bestimmungen dieses Gesetzes über die bücherliche Sicherung der Pfandrechte werden die übrigen Rechte der Eisenbahn-Prioritätsbesitzer, und insbesondere ihre Ansprüche auf die vom Staate garantirten Einkünfte nicht berührt.
 
@@ -482,7 +482,7 @@ Durch die Bestimmungen dieses Gesetzes über die bücherliche Sicherung der Pfan
 
 ### 1. Ueberwachung der Unternehmungen.
 
-#### § 53 – §. 53.
+#### § 53
 
 (1) Die Erfüllung der den Eisenbahnunternehmungen durch dieses Gesetz auferlegten Verpflichtungen ist durch die den Unternehmungen beigegebenen Regierungscommissäre zu überwachen.
 
@@ -492,7 +492,7 @@ Durch die Bestimmungen dieses Gesetzes über die bücherliche Sicherung der Pfan
 
 ## 2. Gebühren.
 
-#### § 54 – §. 54.
+#### § 54
 
 (1) Die aus Anlaß der Errichtung einer Eisenbahnanlage vorkommenden Amtshandlungen genießen Stämpel- und Gebührenfreiheit.
 
@@ -506,7 +506,7 @@ Durch die Bestimmungen dieses Gesetzes über die bücherliche Sicherung der Pfan
 
 ## 3. Vollzugsbestimmung.
 
-#### § 55 – §. 55.
+#### § 55
 
 (1) Die Wirksamkeit dieses Gesetz beginnt mit dem Tage seiner Kundmachung.
 
@@ -518,7 +518,9 @@ Durch die Bestimmungen dieses Gesetzes über die bücherliche Sicherung der Pfan
 
 ### In-Kraft-Treten, Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. I Nr. 98/2001, zu § 53, RGBl. Nr. 70/1874)*
+***(Anm.: aus BGBl. I Nr. 98/2001, zu § 53, RGBl. Nr. 70/1874)***
+
+#### Art. 96
 
 1\. Die Bestimmungen dieses Abschnitts treten – soweit im Folgenden nichts anderes bestimmt ist – mit 1. Jänner 2002 in Kraft.
 

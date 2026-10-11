@@ -76,7 +76,9 @@ Artikel II (BauKG)
 
 ## Artikel I
 
-#### (Verfassungsbestimmung)
+**(Verfassungsbestimmung)**
+
+#### Art. 1
 
 Die Erlassung, Änderung und Aufhebung von Vorschriften, wie sie in Art. II des Bauarbeitenkoordinationsgesetzes enthalten sind, sowie die Vollziehung dieser Vorschriften sind auch in jenen Belangen Bundessache, hinsichtlich deren das B-VG etwas anderes vorsieht. Die in diesen Vorschriften geregelten Angelegenheiten können unmittelbar von Bundesbehörden versehen werden.
 

@@ -1,0 +1,297 @@
+---
+title: "Militärberufsförderungsgesetz 2004"
+abbreviation: "MilBFG 2004"
+identifier: "20003064"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 130/2003"
+last_amended: 2025-12-30
+last_amendment: "BGBl. I Nr. 100/2025"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/2003/130/P0/NOR40172094"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003064"
+retrieved: 2026-10-11
+documents: 18
+---
+
+# Militärberufsförderungsgesetz 2004 (MilBFG 2004)
+
+Militärberufsförderungsgesetz 2004 – MilBFG 2004
+
+StF: BGBl. I Nr. 130/2003 (NR: GP XXII RV 283 AB 320 S. 40. BR: 6923 AB 6943 S. 704.)
+
+[CELEX-Nr.: 31999L0070 und 32001L0019]
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 153/2009 (NR: GP XXIV RV 488 AB 533 S. 51. BR: 8221 AB 8224 S. 780.)  
+BGBl. I Nr. 210/2013 (NR: GP XXV IA 41/A AB 8 S. 7. BR: AB 9129 S. 825.)  
+BGBl. I Nr. 65/2015 (NR: GP XXV RV 585 AB 604 S. 75. BR: 9373 AB 9382 S. 842.)  
+BGBl. I Nr. 37/2018 (NR: GP XXVI RV 108 AB 139 S. 23. BR: 9967 AB 9970 S. 880.)  
+[CELEX-Nr.: 32017L2399, 32017L1572]  
+BGBl. I Nr. 60/2018 (NR: GP XXVI RV 196 AB 228 S. 34. BR: 9994 AB 10011 S. 883.)  
+[CELEX-Nr.: 32014L0054]  
+BGBl. I Nr. 153/2020 (NR: GP XXVII RV 461 AB 506 S. 71. BR: 10478 AB 10491 S. 917.)  
+BGBl. I Nr. 100/2025 (NR: GP XXVIII IA 561/A AB 319 S. 59. BR: 11724 AB 11735 S. 984.)  
+
+</details>
+
+> **Anmerkung:** 1\. Das Militärberufsförderungsgesetz 2004 wurde in Artikel 24 der 2. Dienstrechts-Novelle 2003, BGBl. I Nr. 130/2003, kundgemacht.
+>
+> 2\. Das Inhaltsverzeichnis wurde gemäß BGBl. I Nr. 130/2003 und BGBl. I Nr. 65/2015 angepasst.
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+<table>
+<tr>
+<td colspan="2">Inhaltsverzeichnis</td>
+</tr>
+<tr>
+<td>§ 1.</td>
+<td>Allgemeines</td>
+</tr>
+<tr>
+<td>§ 2.</td>
+<td>Berufsförderung während des Dienstverhältnisses</td>
+</tr>
+<tr>
+<td>§ 3.</td>
+<td>Berufsförderung nach Beendigung des Dienstverhältnisses</td>
+</tr>
+<tr>
+<td>§ 4.</td>
+<td>Zuständigkeiten <i>(Anm.: Zuständigkeit)</i></td>
+</tr>
+<tr>
+<td>§ 5.</td>
+<td>Kostentragung</td>
+</tr>
+<tr>
+<td>§ 6.</td>
+<td>Geldleistungen</td>
+</tr>
+<tr>
+<td>§ 7.</td>
+<td>Übergenüsse</td>
+</tr>
+<tr>
+<td>§ 8.</td>
+<td>Verhinderung</td>
+</tr>
+<tr>
+<td>§ 9.</td>
+<td>Sozialversicherung der Anspruchberechtigten</td>
+</tr>
+<tr>
+<td>§ 10.</td>
+<td>Ansprüche nach dem Überbrückungshilfengesetz</td>
+</tr>
+<tr>
+<td>§ 11.</td>
+<td>Mitwirkung der Bundesrechenzentrum GmbH</td>
+</tr>
+<tr>
+<td>§ 12.</td>
+<td>Gebührenfreiheit</td>
+</tr>
+<tr>
+<td>§ 13.</td>
+<td>Verweisungen</td>
+</tr>
+<tr>
+<td><i>(Anm.: § 13a.</i></td>
+<td><i>Verjährung)</i></td>
+</tr>
+<tr>
+<td>§ 14.</td>
+<td>In- und Außer-Kraft-Treten</td>
+</tr>
+<tr>
+<td>§ 15.</td>
+<td>Übergangsbestimmungen</td>
+</tr>
+<tr>
+<td>§ 16.</td>
+<td>Vollziehung</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## § 1 – Allgemeines
+
+§ 1. (1) Als Berufsförderung nach diesem Gesetz gelten alle Maßnahmen, die geeignet sind, die Wiedereingliederung der Militärpersonen auf Zeit in das zivile Erwerbsleben nach dem Ausscheiden aus dem Dienstverhältnis zu gewährleisten. Als Berufsförderung kommen die fachliche Ausbildung, Fortbildung oder Umschulung in öffentlichen oder privaten Bildungseinrichtungen sowie Betrieben im Inland oder, sofern eine entsprechende Berufsförderung im Inland nicht möglich ist, im Ausland in Betracht.
+
+(2) Dieses Gesetz ist auch auf Personen mit einem befristeten Dienstvertrag, die sich gemäß § 25 Auslandszulagen- und -hilfeleistungsgesetz, BGBl. I Nr. 87/2002, zu einer Auslandseinsatzbereitschaft verpflichten, anzuwenden.
+
+## § 2 – Berufsförderung während des Dienstverhältnisses
+
+§ 2. (1) Auf Antrag ist der Militärperson auf Zeit während des Dienstverhältnisses eine Berufsförderung mit Bescheid zu bewilligen. Die Bewilligung ist zu erteilen, sofern gegen die Berufsförderungsmaßnahme kein Einwand wegen
+
+1\. mangelnder Fähigkeiten oder
+
+2\. mangelnder Verwendungsmöglichkeiten auf dem Arbeitsmarkt besteht.
+
+(2) Die Militärperson auf Zeit hat sich nach Aufforderung der Behörde nachweislich einer Berufsberatung durch die Organe des Arbeitsmarktservice zu unterziehen.
+
+(3) Die Berufsförderung während des Dienstverhältnisses hat ausschließlich in der dienstfreien Zeit zu erfolgen. Der Anspruch auf Berufsförderung begründet keinen Anspruch auf dienstliche Begünstigungen.
+
+(4) Die Militärperson auf Zeit hat der zuständigen Behörde den erfolgreichen Abschluss der Berufsförderungsmaßnahme nachzuweisen.
+
+## § 3 – Berufsförderung nach Beendigung des Dienstverhältnisses
+
+§ 3. (1) Auf Antrag ist der ehemaligen Militärperson auf Zeit nach Beendigung des Dienstverhältnisses eine Berufsförderung unter den Voraussetzungen des § 2 Abs. 1 zu bewilligen. § 2 Abs. 2 gilt sinngemäß.
+
+(2) Die Dauer der Berufsförderung gemäß Abs. 1 beträgt mit der Vollendung des dritten Dienstjahres zwölf Monate, wobei mindestens ein Dienstjahr außerhalb einer Grundausbildung vorliegen muss. Für jedes weitere vollendete Dienstjahr erhöht sich die Dauer um weitere vier Monate. Die Absolvierung der Berufsförderung kann um zwölf Monate erstreckt werden.
+
+(3) Eine vorzeitige Beendigung des Dienstverhältnisses gemäß § 151 Abs. 4 Z 2 und 3 des Beamten-Dienstrechtsgesetzes 1979 – BDG 1979, BGBl. Nr. 333/1979, oder gemäß § 32 Abs. 2 Z 1 und 3 des Vertragsbedienstetengesetzes 1948 – VBG, BGBl. Nr. 86/1948, sowie gemäß § 53 des Heeresdisziplinargesetzes 2014 – HDG 2014, BGBl. I Nr. 2/2014 (WV), zieht den Verlust des Anspruches auf Berufsförderung nach sich.
+
+(4) Bei Beendigung des Dienstverhältnisses gemäß § 151 Abs. 4 Z 1 und 4 BDG 1979 besteht auch vor Vollendung des dritten Dienstjahres ein Anspruch auf Berufsförderung im Ausmaß von zwölf Monaten.
+
+(5) Die ehemalige Militärperson auf Zeit hat der zuständigen Behörde den angemessenen Fortschritt der Absolvierung der Berufsförderungsmaßnahme nachzuweisen. Dieser Nachweis hat innerhalb von zwei Wochen nach Ablauf eines Kalendervierteljahres zu erfolgen. Wird ein solcher Nachweis nicht erbracht, tritt der Bescheid gemäß Abs. 1 mit Ablauf des Kalendermonats, in dem die Nachweisfrist endet, außer Kraft.
+
+## § 4 – Zuständigkeit
+
+§ 4. (1) Die Zuständigkeit zur Erlassung von Bescheiden nach diesem Bundesgesetz obliegt, sofern nicht ausdrücklich anderes bestimmt ist, dem örtlich zuständigen Militärkommando.
+
+(2) Für Angelegenheiten der Berufsförderung gemäß § 2 ist das Militärkommando des jeweiligen Dienstortes der Militärperson auf Zeit und für Angelegenheiten gemäß § 3 das Militärkommando des jeweiligen Hauptwohnsitzes der ehemaligen Militärperson auf Zeit örtlich zuständig.
+
+\*(Anm.: Abs. 3 aufgehoben durch Art. 79 Z 1, BGBl. I Nr. 37/2018)*
+
+## § 5 – Kostentragung
+
+§ 5. (1) Der Bund trägt die notwendigen Kosten der Berufsförderung. Diese dürfen insgesamt das 14fache des Referenzbetrages gemäß § 3 Abs. 4 des Gehaltsgesetzes 1956 – GehG, BGBl. Nr. 54/1956, nicht übersteigen.
+
+(2) Kann die Militärperson auf Zeit den erfolgreichen Abschluss gemäß § 2 Abs. 4 nicht nachweisen, besteht kein Anspruch auf Kostenersatz.
+
+(3) Kann die ehemalige Militärperson auf Zeit den angemessenen Fortschritt gemäß § 3 Abs. 5 nicht nachweisen, endet der Anspruch auf Kostenersatz.
+
+(4) Wird eine Berufsförderungsmaßnahme gemäß § 2 erst nach Beendigung des Dienstverhältnisses im Rahmen einer Berufsförderung gemäß § 3 erfolgreich abgeschlossen, besteht Anspruch auf Kostenersatz gemäß Abs. 1.
+
+## § 6 – Geldleistungen
+
+§ 6. (1) Der ehemaligen Militärperson auf Zeit gebührt zur Deckung ihres Lebensunterhaltes für die Dauer der Inanspruchnahme der Berufsförderung gemäß § 3 eine monatlich im Nachhinein auszuzahlende Beihilfe in der Höhe von 75% seines letzten Monatsbezuges als Militärperson auf Zeit.
+
+(2) Wenn die Ausbildungsstätte mehr als 50 km vom Hauptwohnsitz entfernt ist und die ehemalige Militärperson auf Zeit
+
+1\. diese Strecke während der Berufsförderung regelmäßig zurücklegt oder
+
+2\. für die Dauer der Berufsförderung am Ort der Ausbildungsstätte wohnt,
+
+gebührt neben der Beihilfe gemäß Abs. 1 zusätzlich ein monatlich im nachhinein auszuzahlender Zuschuss in Höhe von 20% des letzten Monatsbezuges als Militärperson auf Zeit.
+
+(3) Gebühren die monatlichen Geldleistungen gemäß Abs. 1 und 2 nur für einen Teil des Monats oder ändert sich im Lauf des Monats die Höhe dieser Geldleistungen, so entfällt auf jeden Kalendertag der verhältnismäßige Teil der entsprechenden monatlichen Geldleistung.
+
+(4) Die Geldleistungen gemäß Abs. 1 und 2 erhöhen sich in dem Ausmaß, in dem sich die Monatsbezüge vergleichbarer Beamter erhöhen.
+
+(5) Wird eine Berufsförderung gemäß § 3 im Rahmen eines entgeltlichen Dienstverhältnisses durchgeführt, erlischt der Anspruch gemäß Abs. 1 und 2. Unter entgeltlichen Dienstverhältnissen sind jene zu verstehen, die Einkünfte über der Geringfügigkeitsgrenze des § 5 Abs. 2 ASVG, BGBl. Nr. 189/1955, erzielen.
+
+## § 7 – Übergenüsse
+
+§ 7. (1) Zu Unrecht empfangene Beträge (Übergenüsse) sind, soweit sie nicht im guten Glauben empfangen worden sind, dem Bund zu ersetzen.
+
+(2) Bei der Hereinbringung von Übergenüssen ist § 55 des Heeresgebührengesetzes 2001, BGBl. I Nr. 31, betreffend die Übergenüsse anzuwenden.
+
+## § 8 – Verhinderung
+
+§ 8. (1) Ist der Anspruchsberechtigte nicht in der Lage die Berufsförderung in Anspruch zu nehmen, hat er dies dem Militärkommando unverzüglich zu melden. Die Dauer der Berufsförderung sowie die Rahmenfrist (§ 3 Abs. 2) verlängern sich um die Dauer der Verhinderung während
+
+1\. einer mehr als 24 Kalendertage ununterbrochen dauernden Krankheit um die diese Kalendertage übersteigende Dauer der Krankheit, jedoch höchstens um zwölf Monate,
+
+2\. eines Beschäftigungsverbotes gemäß §§ 3 und 5 des Mutterschutzgesetzes 1979 (MSchG), BGBl. Nr. 221,
+
+3\. der Betreuung eines Kindes in der Dauer einer Karenz gemäß MSchG oder Väter-Karenzgesetz, BGBl. Nr. 651/1989,
+
+4\. der Leistung eines Präsenzdienstes als Milizübung, als Einsatzpräsenzdienst, als außerordentliche Übung, als Aufschubpräsenzdienst oder als Auslandseinsatzpräsenzdienst gemäß § 19 des Wehrgesetzes 2001 – WG 2001, BGBl. I Nr. 146/2001.
+
+(2) Ist der Anspruchsberechtigte gemäß Abs. 1 nicht in der Lage, die Berufsförderung in Anspruch zu nehmen, ist die Geldleistung gemäß § 6 einzustellen. Im Fall des Abs. 1 Z 1 erfolgt die Einstellung mit Beginn des 25. Kalendertages.
+
+## § 9 – Sozialversicherung der Anspruchsberechtigten
+
+§ 9. (1) Personen, die eine Beihilfe gemäß § 6 Abs. 1 beziehen, sind in der Kranken-, Unfall- und Pensionsversicherung nach dem ASVG pflichtversichert.
+
+(2) Der Beitrag zur Kranken-, Unfall- und Pensionsversicherung für nach Abs. 1 Versicherte ist mit dem Hundertsatz der allgemeinen Beitragsgrundlage zu bemessen, wie er jeweils für Dienstnehmer festgesetzt ist, die der Pensionsversicherung der Angestellten zugehören.
+
+(3) Als allgemeine Beitragsgrundlage für nach Abs. 1 Versicherte ist die Beihilfe gemäß § 6 Abs. 1 heranzuziehen.
+
+(4) Der Dienstgeberbeitrag ist vom Bund, der Dienstnehmerbeitrag vom Anspruchsberechtigten zu tragen.
+
+(5) Meldungen, die nach den Bestimmungen der gesetzlichen Krankenversicherung dem Dienstgeber obliegen, hat das Heerespersonalamt vorzunehmen.
+
+## § 10 – Ansprüche nach dem Überbrückungshilfengesetz
+
+§ 10. (1) Während des Bezuges einer Geldleistung gemäß § 6 ruhen allfällige Ansprüche gemäß Überbrückungshilfengesetz (ÜHG), BGBl. Nr. 174/1963.
+
+(2) Im Falle des § 8 Abs. 2 leben allfällige Ansprüche nach dem ÜHG wieder auf.
+
+## § 11 – Mitwirkung der Bundesrechenzentrum GmbH
+
+§ 11. Bei der Berechnung und Zahlbarstellung der Geldleistungen und der Sozialversicherungsbeiträge nach diesem Bundesgesetz hat die Bundesrechenzentrum GmbH unter Anwendung des § 2 Abs. 3 Z 2 des Bundesgesetzes über die Bundesrechenzentrum GmbH, BGBl. Nr. 757/1996, mitzuwirken.
+
+## § 12 – Gebührenfreiheit
+
+§ 12. Die durch dieses Bundesgesetz unmittelbar veranlassten Schriften und Amtshandlungen sind von der Entrichtung bundesgesetzlich geregelter Abgaben befreit.
+
+## § 13 – Verweisungen
+
+§ 13. Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden.
+
+## § 13a – Verjährung
+
+§ 13a. (1) Der Anspruch auf Leistungen verjährt, wenn er nicht innerhalb von drei Jahren geltend gemacht wird, nachdem die anspruchsbegründende Leistung erbracht worden oder der anspruchsbegründende Tatbestand entstanden ist.
+
+(2) Das Recht auf Rückforderung zu Unrecht entrichteter Leistungen verjährt nach drei Jahren ab ihrer Entrichtung.
+
+(3) Was trotz Verjährung geleistet worden ist, kann nicht zurückgefordert werden.
+
+(4) Die Bestimmungen des bürgerlichen Rechtes über die Hemmung und Unterbrechung der Verjährung sind mit der Maßgabe anzuwenden, dass die Geltendmachung eines Anspruches im Verwaltungsverfahren einer Klage gleichzuhalten ist.
+
+## § 14 – In- und Außer-Kraft-Treten
+
+§ 14. (1) Dieses Bundesgesetz tritt mit 1. Jänner 2004 in Kraft. Mit dem In-Kraft-Treten dieses Bundesgesetzes tritt das Militärberufsförderungsgesetz (MilBFG), BGBl. Nr. 524/1994, zuletzt geändert durch BGBl. I Nr. 127/1999, außer Kraft.
+
+(2) § 3 Abs. 2 1. Satz in der Fassung des Bundesgesetzes BGBl. I Nr. 153/2009 tritt mit 1. Jänner 2010 in Kraft.
+
+(3) § 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 210/2013 tritt mit 1. Jänner 2014 in Kraft.
+
+(4) In der Fassung des Bundesgesetzes BGBl. I Nr. 65/2015 treten in Kraft:
+
+1\. § 3 Abs. 2 zweiter Satz, § 5 Abs. 1 zweiter Satz, § 13a samt Überschrift und § 16 Z 4 mit 30. Juni 2015,
+
+2\. § 3 Abs. 3 mit dem der Kundmachung folgenden Tag.
+
+(5) § 4 in der Fassung des 2. Materien-Datenschutz-Anpassungsgesetzes 2018, BGBl. I Nr. 37/2018, tritt mit 25. Mai 2018 in Kraft.
+
+(6) § 16 in der Fassung der Dienstrechts-Novelle 2018, BGBl. I Nr. 60/2018, tritt mit 8. Jänner 2018 in Kraft.
+
+(7) § 16 Z 1 und Z 3 lit. b in der Fassung der Dienstrechts-Novelle 2020, BGBl. I Nr. 153/2020, tritt mit 29. Jänner 2020 in Kraft.
+
+(8) § 16 Z 1 in der Fassung der Dienstrechts-Novelle 2025, BGBl. I Nr. 100/2025, tritt mit 1. April 2025 in Kraft.
+
+## § 15 – Übergangsbestimmungen
+
+§ 15. Auf Berufsförderungen, die vor dem 1. Jänner 2004 genehmigt oder begonnen wurden, ist das MilBFG in der bis zum 31. Dezember 2003 geltenden Fassung weiterhin anzuwenden.
+
+## § 16 – Vollziehung
+
+§ 16. Mit der Vollziehung dieses Bundesgesetzes sind betraut:
+
+1\. hinsichtlich des § 2 Abs. 2, des § 9 Abs. 1 bis 3 und des § 10 die Bundesministerin oder der Bundesminister für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz,
+
+2\. hinsichtlich des § 11 die Bundesministerin oder der Bundesminister für Finanzen,
+
+3\. hinsichtlich des § 12,
+
+a) soweit sich dieser auf Stempel- und Rechtsgebühren sowie auf Bundesverwaltungsabgaben bezieht, die Bundesministerin oder der Bundesminister für Finanzen,
+
+b) soweit sich dieser auf Gerichts- und Justizverwaltungsabgaben bezieht, die Bundesministerin oder der Bundesminister für Justiz im Einvernehmen mit der Bundesministerin oder dem Bundesminister für Finanzen,
+
+4\. hinsichtlich der übrigen Bestimmungen die Bundesministerin oder der Bundesminister für Landesverteidigung.

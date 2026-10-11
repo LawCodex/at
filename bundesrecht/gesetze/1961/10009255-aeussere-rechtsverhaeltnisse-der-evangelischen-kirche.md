@@ -40,7 +40,7 @@ BGBl. I Nr. 166/2020 (NR: GP XXVII RV 405 AB 508 S. 69. BR: AB 10485 S. 916.)
 
 Der Nationalrat hat beschlossen:
 
-## § 1 – § 1.
+## § 1
 
 (1) **Verfassungsbestimmung**. Die Evangelische Kirche Augsburgischen und Helvetischen Bekenntnisses in Österreich sowie die in dieser zusammengeschlossene Evangelische Kirche Augsburgischen Bekenntnisses in Österreich und die Evangelische Kirche Helvetischen Bekenntnisses in Österreich – im folgenden sämtliche „Evangelische Kirche“ genannt – sind gesetzlich anerkannte Kirchen im Sinne des Artikels 15 des Staatsgrundgesetzes vom 21. Dezember 1867, RGBl. Nr. 142, über die allgemeinen Rechte der Staatsbürger.
 

@@ -101,7 +101,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 § 2. Erwerbs- und Wirtschaftsgenossenschaften werden mit beschränkter Haftung ihrer Mitglieder errichtet. Die Mitglieder einer Genossenschaft haften deren Gläubigern gegenüber nicht für die Verbindlichkeiten der Genossenschaft. Sie sind im Fall des Konkurses oder der Liquidation der Genossenschaft verpflichtet, ausstehende Einlagen einzuzahlen und nach Maßgabe des § 76 Nachschüsse zu leisten, sofern dies zur Befriedigung der Gläubiger erforderlich ist.
 
-#### § 3 – §. 3.
+#### § 3
 
 (1) Zur Gründung der Genossenschaft ist erforderlich:
 
@@ -117,7 +117,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 § 4. Die Firma der Genossenschaft muss, auch wenn sie nach § 22 UGB oder nach anderen gesetzlichen Vorschriften fortgeführt wird, die Bezeichnung „eingetragene Genossenschaft“ enthalten; die Bezeichnung kann abgekürzt werden, insbesondere mit „e. Gen.“.
 
-#### § 5 – §. 5.
+#### § 5
 
 Der Genossenschaftsvertrag muß enthalten:
 
@@ -167,7 +167,7 @@ Der Genossenschaftsvertrag muß enthalten:
 
 > **Beachte:** Erst auf Genossenschaften anzuwenden, deren Firmenbucheintragung auf ADV umgestellt ist, Art. XXIII Abs. 11 FBG, BGBl. Nr. 10/1991.
 
-#### § 6 – §. 6.
+#### § 6
 
 (1) Der in das Firmenbuch eingetragene (registrirte) Genossenschaftsvertrag muß im Auszuge veröffentlicht werden.
 
@@ -197,11 +197,11 @@ Der Genossenschaftsvertrag muß enthalten:
 
 (3) Von der Echtheit der Zeichnung hat sich das Gericht, wenn eine gerichtliche oder notarielle Beglaubigung der Unterschriften nicht vorliegt, durch Vergleich der Zeichnung mit den in den Akten erliegenden beglaubigten Unterschriften zu überzeugen.
 
-#### § 8 – §. 8.
+#### § 8
 
 Vor erfolgter Eintragung in das Firmenbuch besteht die Genossenschaft als solche nicht. Wenn vor erfolgter Eintragung im Namen der Genossenschaft gehandelt wird, so haften die Handelnden persönlich und solidarisch.
 
-#### § 9 – §. 9.
+#### § 9
 
 (1) Jede Abänderung des Genossenschaftsvertrages muß schriftlich erfolgen und dem Handelsgerichte unter Beilegung einer Abschrift des Genossenschaftsbeschlusses angemeldet werden.
 
@@ -209,17 +209,17 @@ Vor erfolgter Eintragung in das Firmenbuch besteht die Genossenschaft als solche
 
 (3) Der Beschluß hat keine rechtliche Wirkung, bevor derselbe bei dem Handelsgerichte, in dessen Bezirk die Genossenschaft ihren Sitz hat, in das Firmenbuch eingetragen ist.
 
-#### § 11 – §. 11.
+#### § 11
 
 Das Rechtsverhältniß der Genossenschafter unter einander richtet sich zunächst nach dem Genossenschaftsvertrage. Letzterer darf von den Bestimmungen dieses Gesetzes nur in denjenigen Puncten abweichen, bei welchen dieß ausdrücklich für zulässig erklärt ist.
 
-#### § 12 – §. 12.
+#### § 12
 
 (1) Die Genossenschaft kann unter ihrer Firma Rechte erwerben und Verbindlichkeiten eingehen, Eigenthum und andere dingliche Rechte auch an Grundstücken erwerben, vor Gericht klagen und geklagt werden.
 
 (2) Ihr ordentlicher Gerichtsstand ist bei dem Gerichte, in dessen Bezirk sie ihren Sitz hat.
 
-#### § 14 – §. 14.
+#### § 14
 
 (1) Am Sitze der Genossenschaft ist ein Register zu führen, in welches der Vor- und Zuname und Stand eines jeden Genossenschafters, der Tag seines Eintrittes in die Genossenschaft und seines Ausscheidens aus derselben, die Anzahl der einem Jeden gehörigen Geschäftsantheile, sowie die Kündigung eines oder mehrerer Geschäftsantheile einzutragen ist.
 
@@ -261,25 +261,25 @@ Das Rechtsverhältniß der Genossenschafter unter einander richtet sich zunächs
 
 (4) Der Vorstand hat in der Weise zu zeichnen, daß die Zeichnenden zu der Firma der Genossenschaft oder zu der Benennung des Vorstandes ihre Namensunterschrift hinzufügen.
 
-#### § 18 – §. 18.
+#### § 18
 
 (1) Die Genossenschaft wird durch die vom Vorstande in ihrem Namen geschlossenen Rechtsgeschäfte berechtigt und verpflichtet. Es ist gleichgiltig, ob das Geschäft ausdrücklich im Namen der Genossenschaft geschlossen worden ist, oder ob die Umstände ergeben, daß es nach dem Willen der Contrahenten für die Genossenschaft geschlossen werden sollte.
 
 (2) Die Befugniß des Vorstandes zur Vertretung der Genossenschaft erstreckt sich auch auf alle Geschäfte, zu welchen nach dem allgemeinen bürgerlichen Rechte eine besondere, auf die Gattung des Geschäftes lautende Vollmacht erforderlich ist.
 
-#### § 19 – §. 19.
+#### § 19
 
 Der Vorstand ist der Genossenschaft gegenüber verpflichtet, die Beschränkungen einzuhalten, welche in dem Genossenschaftsvertrage oder durch Beschlüsse der Generalversammlung für den Umfang seiner Befugniß, die Genossenschaft zu vertreten, festgesetzt sind. Gegen dritte Personen hat jedoch eine Beschränkung des Vorstandes, die Genossenschaft zu vertreten, keine rechtliche Wirkung. Dieß gilt insbesondere für den Fall, daß die Vertretung sich nur auf gewisse Geschäfte oder Arten von Geschäften erstrecken, oder nur unter gewissen Umständen, oder für eine gewisse Zeit oder an einzelnen Orten stattfinden soll, oder daß die Zustimmung der Generalversammlung, eines Aufsichtsrathes oder eines anderen Organes der Genossenschaft für einzelne Geschäfte erfordert wird.
 
-#### § 20 – §. 20.
+#### § 20
 
 Eide Namens der Genossenschaft werden durch den Vorstand geleistet.
 
-#### § 21 – §. 21.
+#### § 21
 
 Zur Behändigung von Vorladungen und anderen Zustellungen an die Genossenschaft genügt es, wenn dieselbe an ein Mitglied des Vorstandes, welches zu zeichnen oder mitzuzeichnen befugt ist, oder an einen Beamten der Genossenschaft, welcher dieselbe vor Gericht zu vertreten berechtigt ist, geschieht.
 
-#### § 22 – §. 22.
+#### § 22
 
 § 22. (1) Der Vorstand hat dafür zu sorgen, dass ein Rechnungswesen geführt wird, das den Anforderungen des Unternehmens entspricht. Eine aufsichtsratspflichtige Genossenschaft (§ 24 Abs. 1) hat ein den Anforderungen des Unternehmens entsprechendes internes Kontrollsystem einzurichten.
 
@@ -299,7 +299,7 @@ Zur Behändigung von Vorladungen und anderen Zustellungen an die Genossenschaft 
 
 > **Anmerkung:** EG/EU: Art. XI § 1, BGBl. I Nr. 70/2008; Art. 15, BGBl. I Nr. 43/2016
 
-#### § 23 – §. 23.
+#### § 23
 
 Mitglieder des Vorstandes, welche in dieser ihrer Eigenschaft außer den Gränzen ihres Auftrages oder den Vorschriften dieses Gesetzes oder des Genossenschaftsvertrages entgegen handeln, haften persönlich und solidarisch für den dadurch entstandenen Schaden.
 
@@ -421,7 +421,7 @@ Zu den in Z 1 und 2 genannten Geschäften können die Satzung oder der Aufsichts
 
 > **Beachte:** zum Bezugszeitraum vgl. § 94f
 
-#### § 25 – §. 25.
+#### § 25
 
 (1) Der Aufsichtsrath ist ermächtigt, gegen die Vorstandsmitglieder die Processe zu führen, welche die Generalversammlung beschließt.
 
@@ -429,11 +429,11 @@ Zu den in Z 1 und 2 genannten Geschäften können die Satzung oder der Aufsichts
 
 (3) Jeder Genossenschafter ist befugt, als Intervenient in die vorerwähnten Processe auf seine Kosten einzutreten.
 
-#### § 26 – §. 26.
+#### § 26
 
 Der Betrieb von Geschäften der Genossenschaft, sowie die Vertretung der Genossenschaft in Beziehung auf diesen Geschäftsbetrieb kann auch Beamten der Genossenschaft oder anderen Personen als Bevollmächtigten der Genossenschaft zugewiesen werden. In diesem Falle bestimmt sich die Befugniß derselben nach der ihnen ertheilten Vollmacht, sie erstreckt sich im Zweifel auf alle Rechtshandlungen, welche die Ausführung derartiger Geschäfte gewöhnlich mit sich bringt.
 
-#### § 27 – §. 27.
+#### § 27
 
 (1) Die Rechte, welche den Genossenschaftern in Angelegenheiten der Genossenschaft, insbesondere in Beziehung auf die Führung der Geschäfte, die Einsicht und Prüfung der Bilanz und die Bestimmung der Gewinnvertheilung zustehen, werden von der Gesammtheit der Genossenschafter in der Generalversammlung ausgeübt.
 
@@ -445,11 +445,11 @@ Der Betrieb von Geschäften der Genossenschaft, sowie die Vertretung der Genosse
 
 § 27a. Die Generalversammlung hat in den ersten acht Monaten jedes Geschäftsjahrs für das abgeschlossene Geschäftsjahr über den Abschluß und den Bericht des Vorstands (§ 22 Abs. 2), über die Ergebnisverwendung und über die Entlastung des Vorstands und des Aufsichtsrats zu beschließen.
 
-#### § 28 – §. 28.
+#### § 28
 
 Die Generalversammlung der Genossenschafter wird durch den Vorstand berufen, soweit nicht nach dem Genossenschaftsvertrage oder nach diesem Gesetze auch andere Personen dazu befugt sind.
 
-#### § 29 – §. 29.
+#### § 29
 
 (1) Eine Generalversammlung der Genossenschafter ist außer den im Genossenschaftsvertrage ausdrücklich bestimmten Fällen zu berufen, wenn dieß im Interesse der Genossenschaft erforderlich erscheint.
 
@@ -457,7 +457,7 @@ Die Generalversammlung der Genossenschafter wird durch den Vorstand berufen, sow
 
 (3) Die zur Einberufung der Generalversammlung Verpflichteten sind hiezu erforderlichen Falles auf Begehren der Antragsteller von dem Handelsgerichte durch Geldstrafen bis zu 3 500 Euro zu verhalten.
 
-#### § 30 – §. 30.
+#### § 30
 
 (1) Die Berufung der Generalversammlung hat in der durch den Genossenschaftsvertrag bestimmten Weise zu erfolgen.
 
@@ -465,7 +465,7 @@ Die Generalversammlung der Genossenschafter wird durch den Vorstand berufen, sow
 
 (3) Zur Stellung von Anträgen und zu Verhandlungen ohne Beschlußfassung bedarf es der Ankündigung nicht.
 
-#### § 31 – §. 31.
+#### § 31
 
 Zur Beschlußfähigkeit der Generalversammlung ist, insoferne der Genossenschaftsvertrag nichts Anderes bestimmt, erforderlich, daß in derselben wenigstens der zehnte Theil der Mitglieder anwesend oder vertreten ist.
 
@@ -473,7 +473,7 @@ Zur Beschlußfähigkeit der Generalversammlung ist, insoferne der Genossenschaft
 
 § 32. Im Falle der Beschlußunfähigkeit der Generalversammlung kann, wenn der Genossenschaftsvertrag dies nicht ausschließt, über die in der Tagesordnung angekündigten Gegenstände nach Abwarten einer halben Stunde ohne Rücksicht auf die Anzahl der anwesenden oder vertretenen Mitglieder (§§ 31, 33 Abs. 3 zweiter Halbsatz) beschlossen werden, Hierauf muß in der Einladung hingewiesen worden sein. Die zur Beurteilung der Beschlußfähigkeit erforderlichen Tatsachen sind im Protokollbuch (§ 34 Abs. 2) festzuhalten.
 
-#### § 33 – §. 33.
+#### § 33
 
 (1) Wenn der Genossenschaftsvertrag über die Art der Beschlußfassung nichts Anderes bestimmt, werden die Beschlüsse der Generalversammlung mit absoluter Stimmenmehrheit gefaßt; der Vorsitzende nimmt an der Abstimmung Theil und bei Stimmengleichheit gilt jene Meinung als Beschluß, welcher der Vorsitzende beigetreten ist.
 
@@ -491,13 +491,13 @@ Zur Beschlußfähigkeit der Generalversammlung ist, insoferne der Genossenschaft
 
 > **Anmerkung:** EG/EU: Art. 8, BGBl. I Nr. 186/2022
 
-#### § 34 – §. 34.
+#### § 34
 
 (1) Der Vorstand ist zur Beobachtung und Ausführung aller Bestimmungen des Genossenschaftsvertrages und der in Gemäßheit desselben von der Generalversammlung giltig gefaßten Beschlüsse verpflichtet und dafür der Genossenschaft verantwortlich.
 
 (2) Die Beschlüsse der Generalversammlung sind in ein Protokollbuch einzutragen, dessen Einsicht jedem Genossenschafter und der Verwaltungsbehörde freisteht.
 
-#### § 35 – §. 35.
+#### § 35
 
 (1) Der Vorstand ist verpflichtet, jedem Genossenschafter auf Verlangen eine Abschrift (Abdruck) des Genossenschaftsvertrages mit den allfälligen Aenderungen und Ergänzungen desselben, dann eine Abschrift der genehmigten Rechnungsabschlüsse und Bilanzen gegen Ersatz der Kosten zu erfolgen und diese Schriftstücke auf Begehren mit seiner Unterschrift zu versehen.
 
@@ -507,7 +507,7 @@ Zur Beschlußfähigkeit der Generalversammlung ist, insoferne der Genossenschaft
 
 ### Von der Auflösung der Genossenschaft.
 
-#### § 36 – §. 36.
+#### § 36
 
 Die Genossenschaft wird aufgelöst:
 
@@ -519,7 +519,7 @@ Die Genossenschaft wird aufgelöst:
 
 \*(Anm.: Z 4 aufgehoben durch BGBl. I Nr. 104/2006)*
 
-#### § 40 – §. 40.
+#### § 40
 
 (1) Die Auflösung der Genossenschaft muß, wenn sie nicht eine Folge des eröffneten Concurses ist, durch den Vorstand zur Eintragung in das Firmenbuch angemeldet werden.
 
@@ -531,7 +531,7 @@ Die Genossenschaft wird aufgelöst:
 
 ### Von der Liquidation der Genossenschaft.
 
-#### § 41 – §. 41.
+#### § 41
 
 Nach Auflösung der Genossenschaft außer dem Falle des Concurses erfolgt die Liquidation durch den Vorstand, wenn nicht dieselbe durch den Genossenschaftsvertrag oder einen Beschluß der Genossenschaft an andere Personen übertragen wird. Die Bestellung der Liquidatoren ist jederzeit widerruflich.
 
@@ -539,31 +539,31 @@ Nach Auflösung der Genossenschaft außer dem Falle des Concurses erfolgt die Li
 
 § 42. Die Bestellung und Änderung in den Personen der Liquidatoren und deren Vertretungsbefugnis sind vom Vorstand unverzüglich zur Eintragung in das Firmenbuch anzumelden. Die Liquidatoren haben ihre Namensunterschrift zur Aufbewahrung bei Gericht (§ 120 JN) zu zeichnen oder die Zeichnung in beglaubigter Form einzureichen.
 
-#### § 43 – §. 43.
+#### § 43
 
 \*(1)* *(Anm.: Aufgehoben durch BGBl. Nr. 10/1991, Art. V Z 9.)*
 
 (2) Sind mehrere Liquidatoren vorhanden, so können sie die zur Liquidation gehörenden Handlungen mit rechtlicher Wirkung nur in Gemeinschaft vornehmen, sofern nicht ausdrücklich bestimmt ist, daß sie einzeln handeln können.
 
-#### § 44 – §. 44.
+#### § 44
 
 (1) Die Liquidatoren haben die laufenden Geschäfte zu beendigen, die Verpflichtungen der aufgelösten Genossenschaft zu erfüllen, die Forderungen derselben einzuziehen und das Vermögen der Genossenschaft in Geld umzusetzen; sie haben die Genossenschaft gerichtlich und außergerichtlich zu vertreten, sie können für dieselbe Vergleiche schließen und Compromisse eingehen. Neue Geschäfte können die Liquidatoren nur zur Beendigung schwebender Geschäfte eingehen.
 
 (2) Die Veräußerung von unbeweglichen Sachen kann durch die Liquidatoren, sofern nicht der Genossenschaftsvertrag oder ein Beschluß der Genossenschaft anders bestimmt, nur durch öffentliche Versteigerung bewirkt werden.
 
-#### § 45 – §. 45.
+#### § 45
 
 Eine Beschränkung des Umfanges der Geschäftsbefugnisse der Liquidatoren (§. 44) hat gegen dritte Personen keine rechtliche Wirkung.
 
-#### § 46 – §. 46.
+#### § 46
 
 Die Liquidatoren haben ihre Unterschrift in der Weise abzugeben, daß sie der bisherigen, nunmehr als Liquidationsfirma zu bezeichnenden Firma ihre Namen beifügen.
 
-#### § 47 – §. 47.
+#### § 47
 
 Die Liquidatoren haben der Genossenschaft gegenüber bei der Geschäftsführung den von der Generalversammlung gefaßten Beschlüssen Folge zu geben, widrigenfalls sie der Genossenschaft für den durch ihr Entgegenhandeln erwachsenen Schaden persönlich und solidarisch haften.
 
-#### § 48 – §. 48.
+#### § 48
 
 Die bei Auflösung der Genossenschaft vorhandenen und die während der Liquidation eingehenden Gelder werden, wie folgt, verwendet:
 
@@ -577,13 +577,13 @@ Die bei Auflösung der Genossenschaft vorhandenen und die während der Liquidati
 
 § 49. Die Liquidatoren haben sofort beim Beginn der Liquidation eine Bilanz aufzustellen. Ergibt diese oder eine später aufgestellte Bilanz, daß die Aktiven der Genossenschaft einschließlich des Reservefonds und der Geschäftsanteile der Genossenschafter nicht hinreichen, so haben die Liquidatoren bei eigener Verantwortlichkeit sofort der Generalversammlung zu berichten.
 
-#### § 50 – §. 50.
+#### § 50
 
 (1) Ungeachtet der Auflösung der Genossenschaft kommen bis zur Beendigung der Liquidation im Uebrigen in Bezug auf die Rechtsverhältnisse der bisherigen Genossenschafter unter einander, sowie zu dritten Personen die Anordnungen des ersten und zweiten Abschnittes zur Anwendung, soweit sich aus den Bestimmungen des gegenwärtigen Abschnittes und aus dem Wesen der Liquidation nicht ein Anderes ergibt.
 
 (2) Der Gerichtsstand, welchen die Genossenschaft zur Zeit ihrer Auflösung hatte, bleibt bis zur Beendigung der Liquidation für die aufgelöste Genossenschaft bestehen. Zustellungen an die Genossenschaft geschehen mit rechtlicher Wirkung an einen der Liquidatoren.
 
-#### § 51 – §. 51.
+#### § 51
 
 (1) Nach Beendigung der Liquidation werden die Bücher und Schriften der aufgelösten Genossenschaft einem der gewesenen Genossenschafter oder einem Dritten in Verwahrung gegeben. Der Genossenschafter oder der Dritte wird in Ermangelung einer gütlichen Uebereinkunft durch das Handelsgericht bestimmt.
 
@@ -597,7 +597,7 @@ Die bei Auflösung der Genossenschaft vorhandenen und die während der Liquidati
 
 § 76. Jedes Mitglied einer Genossenschaft ist im Fall des Konkurses oder der Liquidation verpflichtet, ausstehende Einlagen einzuzahlen, soweit dies zur Befriedigung der Gläubiger erforderlich ist. Darüber hinaus sind die Mitglieder nachschusspflichtig, sofern der Genossenschaftsvertrag dies nicht ausschließt. Die Nachschusspflicht beträgt mangels abweichender Regelung im Genossenschaftsvertrag für jeden Geschäftsanteil einen weiteren Betrag in der Höhe desselben. Im Genossenschaftsvertrag kann ein höherer Haftungsbetrag festgesetzt oder die Nachschusspflicht eingeschränkt oder ausgeschlossen werden.
 
-#### § 77 – §. 77.
+#### § 77
 
 (1) Der Austritt eines Genossenschafters darf nicht vor Ablauf des Geschäftsjahres und nur nach vorausgegangener, mindestens vierwöchentlicher Kündigung geschehen.
 
@@ -611,7 +611,7 @@ Die bei Auflösung der Genossenschaft vorhandenen und die während der Liquidati
 
 (2) Die Nachschusspflicht von Genossenschaftern, die vor der Auflösung der Genossenschaft ausgeschieden sind, ist durch die Gesamthöhe der Verbindlichkeiten nach Maßgabe der Bilanz des Jahres des Ausscheidens begrenzt.
 
-#### § 79 – §. 79.
+#### § 79
 
 (1) Der Geschäftsanteil des ausgeschiedenen Genossenschafters und das ihm sonst auf Grund des Genossenschaftsverhältnisses gebührende Guthaben dürfen erst ein Jahr nach Ablauf des Geschäftsjahrs ausgezahlt werden, in dem der Genossenschafter ausgeschieden ist.
 
@@ -619,11 +619,11 @@ Die bei Auflösung der Genossenschaft vorhandenen und die während der Liquidati
 
 > **Anmerkung:** ÜR: Art. III § 3, BGBl. Nr. 81/1974
 
-#### § 80 – §. 80.
+#### § 80
 
 Die Bestimmungen der §§. 78 und 79 haben auch in Beziehung auf die Fortdauer der Haftung des Genossenschafters aus gekündigten Geschäftsantheilen (§. 77, Absatz 2) und in Beziehung auf deren Rückzahlung zur Anwendung zu kommen.
 
-#### § 81 – §. 81.
+#### § 81
 
 (1) Im Falle der Auflösung der Genossenschaft darf die Zurückzahlung der eingezahlten Geschäftsantheile, sowie die Vertheilung des Ueberschusses an die Genossenschafter (§. 48, Z 2 und 3) nicht eher stattfinden, als nach Ablauf eines Jahres ab dem Tag der Eintragung der Auflösung (§ 40).
 
@@ -631,17 +631,17 @@ Die Bestimmungen der §§. 78 und 79 haben auch in Beziehung auf die Fortdauer d
 
 > **Anmerkung:** EG/EU: Art. 8, BGBl. I Nr. 186/2022
 
-#### § 82 – §. 82.
+#### § 82
 
 Mitglieder des Vorstandes und Liquidatoren, welche den Vorschriften der §§. 79 – 81 entgegenhandeln, sind persönlich und solidarisch zur Erstattung der geleisteten Zahlungen verpflichtet.
 
-#### § 83 – §. 83.
+#### § 83
 
 (1) Die Geschäftsantheile und sonstigen auf Grund des Genossenschaftsverhältnisses zugeschriebenen Guthaben der Genossenschafter können mit Bewilligung des Vorstandes an Andere übertragen werden, wenn nicht der Genossenschaftsvertrag etwas Anderes bestimmt.
 
 (2) Auch in diesem Falle bleibt jedoch der übertragende Genossenschafter subsidiarisch nach den Bestimmungen der §§. 78 und 80 in Haftung.
 
-#### § 84 – §. 84.
+#### § 84
 
 (1) Ergibt sich aus der Bilanz, daß die Hälfte des auf die Geschäftsantheile eingezahlten Betrages verloren ist, so hat der Vorstand unverzüglich eine Generalversammlung zu berufen und ihr von der Lage der Genossenschaft die Anzeige zu machen.
 
@@ -661,11 +661,11 @@ Mitglieder des Vorstandes und Liquidatoren, welche den Vorschriften der §§. 79
 
 ### Vereine und deren Umwandlung in Genossenschaften
 
-#### § 90 – §. 90.
+#### § 90
 
 Auf die in Gemäßheit dieses Gesetzes errichteten Erwerbs- und Wirthschaftsgenossenschaften findet das Vereinsgesetz vom 26. November 1852 (R. G. Bl. Nr. 253) keine Anwendung.
 
-#### § 91 – §. 91.
+#### § 91
 
 (1) Auch die vor Beginn der Wirksamkeit dieses Gesetzes errichteten Vereine, welche die im §. 1 bezeichneten Zwecke verfolgen, sind, wenn ihre Statuten dem gegenwärtigen Gesetze entsprechen, oder mit demselben auf statutenmäßigem Wege in Uebereinstimmung gesetzt worden sind, auf ihr Ansuchen in das Firmenbuch einzutragen und sohin als Genossenschaften nach diesem Gesetze zu behandeln.
 
@@ -693,11 +693,11 @@ Auf die in Gemäßheit dieses Gesetzes errichteten Erwerbs- und Wirthschaftsgeno
 
 (7) Der Vorstand der Genossenschaft hat die Mitglieder von der erfolgten Eintragung unverzüglich zu unterrichten. Vereinsmitglieder, die dem Umwandlungsbeschluss nicht zugestimmt haben, sind berechtigt, innerhalb von sechs Monaten ab Eintragung der Genossenschaft in das Firmenbuch ihren Austritt aus der Genossenschaft zu erklären. Ihre Mitgliedschaft zur Genossenschaft gilt mit dem Zeitpunkt der Eintragung der Genossenschaft in das Firmenbuch als beendet; dies ist bei der Eintragung des Ausscheidens in das Register der Mitglieder der Genossenschaft zu vermerken.
 
-#### § 92 – §. 92.
+#### § 92
 
 Wenn eine Genossenschaft Unternehmungen betreiben will, zu welchen eine staatliche Bewilligung (Concession) gesetzlich erforderlich ist, bleibt sie zur Erwirkung dieser Bewilligung nach den bestehenden Vorschriften verpflichtet.
 
-#### § 94 – §. 94.
+#### § 94
 
 Früher errichtete Vereine, welche eine Concession zu den im §. 93 bezeichneten Geschäften besitzen, haben im Falle der Aenderung ihrer gegenwärtigen Statuten (§. 91, Absatz 2) die Ausstellung einer abgesonderten Urkunde über die Bedingungen für den Betrieb der concessionirten Unternehmung (Concessionsurkunde) bei sonstigem Erlöschen der Concession zu erwirken.
 
@@ -769,7 +769,7 @@ Früher errichtete Vereine, welche eine Concession zu den im §. 93 bezeichneten
 
 (2) § 87 in der Fassung des Nachhaltigkeitsberichtsgesetzes tritt mit 1. April 2026 in Kraft und ist auf Strafen anzuwenden, die wegen eines Pflichtverstoßes verhängt werden, der nach dem 31. März 2026 begangen wird.
 
-#### § 95 – §. 95.
+#### § 95
 
 (1) In Ansehung des Betriebes von concessionspflichtigen Unternehmungen unterstehen die Genossenschaften der Staatsaufsicht nach den Bestimmungen, welche für die der staatlichen Genehmigung unterliegenden Vereine gelten.
 

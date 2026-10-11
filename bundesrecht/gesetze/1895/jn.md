@@ -135,31 +135,31 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Ordentliche Gerichte.
 
-#### § 1 – §. 1.
+#### § 1
 
 Die Gerichtsbarkeit in bürgerlichen Rechtssachen wird, soweit dieselben nicht durch besondere Gesetze vor andere Behörden oder Organe verwiesen sind, durch Bezirksgerichte, Bezirksgerichte für Handelssachen, Landesgerichte, Handelsgerichte, durch Oberlandesgerichte und durch den Obersten Gerichtshof (ordentliche Gerichte) ausgeübt.
 
 ## Instanzenverhältnis der Gerichte.
 
-#### § 2 – §. 2.
+#### § 2
 
 (1) In erster Instanz sind zur Ausübung dieser Gerichtsbarkeit die Bezirksgerichte, die Landesgerichte und die Handelsgerichte berufen.
 
 (2) Besondere Bezirksgerichte für Handelssachen werden zur Ausübung der Gerichtsbarkeit in Handelssachen an allen Orten errichtet, in welchen ein selbständiges Handelsgericht besteht. Durch Verordnung können auch an anderen Orten solche Bezirksgerichte für Handelssachen errichtet werden.
 
-#### § 3 – §. 3.
+#### § 3
 
 (1) Der Rechtszug gegen Urteile und Beschlüsse der Bezirksgerichte (Berufung, Rekurs) geht in zweiter Instanz an die Landesgerichte. Im Sprengel eines selbständigen Handelsgerichtes geht aber der Rechtszug gegen Urteile und Beschlüsse eines besonderen Bezirksgerichtes für Handelssachen und gegen die in Ausübung der Gerichtsbarkeit in Handelssachen gefällten, entsprechend bezeichneten (§ 446 ZPO.) Urteile eines anderen Bezirksgerichtes an das Handelsgericht.
 
 (2) In dritter Instanz hat über Rechtsmittel gegen Urtheile und Beschlüsse der Bezirksgerichte (Revision, Recurs) der Oberste Gerichtshof zu entscheiden.
 
-#### § 4 – §. 4.
+#### § 4
 
 Gegen die in erster Instanz von den Landesgerichten, sowie von den Handelsgerichten gefällten Urtheile und Beschlüsse geht der Rechtsgang in zweiter Instanz (Berufung, Recurs) an die Oberlandesgerichte, und in dritter Instanz (Revision, Recurs) an den Obersten Gerichtshof.
 
 ## Ausübung der Gerichtsbarkeit bei den ordentlichen Gerichten
 
-#### § 5 – §. 5.
+#### § 5
 
 (1) Bei den Bezirksgerichten wird die Gerichtsbarkeit durch einen oder mehrere Einzelrichter ausgeübt.
 
@@ -185,7 +185,7 @@ Gegen die in erster Instanz von den Landesgerichten, sowie von den Handelsgerich
 
 > **Anmerkung:** ÜR: Art. 16 Abs. 5, BGBl. I Nr. 52/2009
 
-#### § 8 – §. 8.
+#### § 8
 
 (1) Bei den Oberlandesgerichten wird die Gerichtsbarkeit in bürgerlichen Rechtssachen, sofern nicht durch die Vorschriften über die innere Einrichtung und die Geschäftsordnung der Gerichte etwas anderes angeordnet ist, in Senaten von drei Richtern ausgeübt, von denen einer den Vorsitz führt.
 
@@ -203,7 +203,7 @@ Gegen die in erster Instanz von den Landesgerichten, sowie von den Handelsgerich
 
 ## Berathung und Abstimmung.
 
-#### § 9 – §. 9.
+#### § 9
 
 (1) Bei den vor Gerichtshöfen stattfindenden Verhandlungen in bürgerlichen Rechtssachen und bei allen in solchen Rechtssachen vorkommenden, dem Gerichte vorbehaltenen Entscheidungen darf die Zahl der Stimmführer in den Senaten mit Einschluß des Vorsitzenden nicht kleiner sein, als sie in den §§. 7 und 8 festgesetzt ist.
 
@@ -211,13 +211,13 @@ Gegen die in erster Instanz von den Landesgerichten, sowie von den Handelsgerich
 
 > **Anmerkung:** Siehe auch §§ 62, 63.
 
-#### § 10 – §. 10.
+#### § 10
 
 (1) Der Vorsitzende leitet die Abstimmung, sowie die der Abstimmung etwa vorausgehende Berathung.
 
 (2) Der Berichterstatter, wenn ein solcher bestellt ist, gibt seine Stimme zuerst, der Vorsitzende, welcher sich an der Abstimmung gleich jedem anderen Senatsmitgliede zu betheiligen hat, gibt die seine zuletzt ab. Außerdem stimmen die dem Dienstrange nach älteren Richter vor den jüngeren. Der fachkundige Laienrichter hat seine Stimme unmittelbar nach dem Berichterstatter, und wenn kein solcher bestellt ist, vor den übrigen Senatsmitgliedern abzugeben.
 
-#### § 11 – §. 11.
+#### § 11
 
 (1) Kein Richter darf die Abstimmung über eine zur Beschlußfassung gestellte Frage verweigern; dies gilt namentlich auch dann, wenn er bei der Abstimmung über eine Vorfrage in der Minderheit geblieben ist.
 
@@ -225,7 +225,7 @@ Gegen die in erster Instanz von den Landesgerichten, sowie von den Handelsgerich
 
 > **Anmerkung:** Siehe auch §§ 413, 486 ZPO, RGBl. Nr. 113/1895, § 35 GOG, RGBl. Nr. 217/1896, § 13 ASGG, BGBl. Nr. 104/1985, Art. IX 34. GehGNov., BGBl. Nr. 136/1979 und §§ 116 bis 122 Geo., BGBl. Nr. 264/1951.
 
-#### § 12 – §. 12.
+#### § 12
 
 (1) Zu jedem Beschlusse des Gerichtes wird absolute Stimmenmehrheit, das ist mehr als die Hälfte sämmtlicher Stimmen, erfordert.
 
@@ -233,11 +233,11 @@ Gegen die in erster Instanz von den Landesgerichten, sowie von den Handelsgerich
 
 (3) Bilden sich in Beziehung auf Summen, über welche Beschluß zu fassen ist, mehr als zwei Meinungen, deren keine die Mehrheit für sich hat, so werden die für die größte Summe abgegebenen Stimmen den für die zunächst geringere Summe abgegebenen so lange hinzugezählt, bis sich eine absolute Stimmenmehrheit ergibt.
 
-#### § 13 – §. 13.
+#### § 13
 
 Über Meinungsverschiedenheiten, welche über die Richtigkeit des vom Vorsitzenden bekanntgegebenen Ergebnisses einer Abstimmung entstehen, entscheidet der Senat.
 
-#### § 14 – §. 14.
+#### § 14
 
 Die Aufzeichnungen über die Berathung und Abstimmung des Gerichtes sind in ein besonderes Protokoll aufzunehmen. Dessen Führung wird durch die über die innere Einrichtung und Geschäftsordnung der Gerichte erlassenen Vorschriften geregelt.
 
@@ -327,7 +327,7 @@ e) Personen, die seit mehreren Jahren in leitender Stellung in einem Unternehmen
 
 ### Ablehnung von Richtern und anderen gerichtlichen Organen. — Ablehnung von Richtern.
 
-#### § 19 – §. 19.
+#### § 19
 
 Ein Richter kann in bürgerlichen Rechtssachen abgelehnt werden:
 
@@ -335,7 +335,7 @@ Ein Richter kann in bürgerlichen Rechtssachen abgelehnt werden:
 
 2\. weil ein zureichender Grund vorliegt, seine Unbefangenheit in Zweifel zu ziehen.
 
-#### § 20 – §. 20.
+#### § 20
 
 (1) Richter sind von der Ausübung des Richteramtes in bürgerlichen Rechtssachen ausgeschlossen:
 
@@ -353,13 +353,13 @@ Ein Richter kann in bürgerlichen Rechtssachen abgelehnt werden:
 
 > **Anmerkung:** ÜR: Art. 18 §§ 1 und 4, BGBl. I Nr. 75/2009
 
-#### § 21 – §. 21.
+#### § 21
 
 (1) Das Ablehnungsrecht kann von jeder Partei ausgeübt werden, gleichviel ob nach Beschaffenheit der Verhältnisse die ablehnende Partei oder deren Gegner gefährdet erscheint.
 
 (2) Eine Partei kann einen Richter wegen Besorgnis der Befangenheit nicht mehr ablehnen, wenn sie sich bei demselben, ohne den ihr bekannten Ablehnungsgrund geltend zu machen, in eine Verhandlung eingelassen oder Anträge gestellt hat.
 
-#### § 22 – §. 22.
+#### § 22
 
 (1) Die Ablehnung ist bei dem Gerichte, welchem der abzulehnende Richter angehört, mittels Schriftsatzes oder mündlich zu Protokoll zu erklären. Dabei sind zugleich die Umstände genau anzugeben, welche die Ablehnung begründen.
 
@@ -369,23 +369,23 @@ Ein Richter kann in bürgerlichen Rechtssachen abgelehnt werden:
 
 (4) Von der Partei behauptete Ausschließungsgründe sind stets von amtswegen festzustellen.
 
-#### § 23 – § 23.
+#### § 23
 
 Über die Ablehnung entscheidet, falls der abgelehnte Richter einem Bezirksgerichte angehört, der Vorsteher des Bezirksgerichtes und, wenn dieser selbst, allein oder mit andern Richtern des Bezirksgerichtes, abgelehnt wird, das vorgesetzte Landes- oder Handelsgericht, falls der abgelehnte Richter einem Gerichtshofe angehört, dieser Gerichtshof und, wenn dieser durch das Ausscheiden des abgelehnten Richters beschlußunfähig werden sollte, der zunächst übergeordnete Gerichtshof.
 
-#### § 24 – § 24.
+#### § 24
 
 (1) Über die Ablehnung wird ohne mündliche Verhandlung durch Beschluß entschieden, doch können vor der Beschlußfassung alle zur Aufklärung nötig erscheinenden Erhebungen und Einvernehmungen angeordnet werden.
 
 (2) Gegen die Stattgebung der Ablehnung findet kein Rechtsmittel, gegen die Zurückweisung der Rekurs an das zunächst übergeordnete Gericht statt.
 
-#### § 25 – § 25.
+#### § 25
 
 Ein abgelehnter Richter hat bis zur rechtskräftigen Erledigung des Ablehnungsantrages alle Handlungen vorzunehmen, die keinen Aufschub gestatten; er hat ferner, wenn die Ablehnung offenbar unbegründet ist und die Absicht vermuten läßt, den Prozeß zu verschleppen, auch eine begonnene Verhandlung fortzusetzen, darf jedoch die Endentscheidung vor rechtskräftiger Zurückweisung der Ablehnung nicht fällen (§ 415 Z P. O.). Wird der Ablehnung stattgegeben, so sind die vom abgelehnten Richter vorgenommenen Prozeßhandlungen nichtig und, soweit erforderlich, aufzuheben.
 
 ## Ablehnung anderer gerichtlicher Organe.
 
-#### § 26 – §. 26.
+#### § 26
 
 (1) Die Vorschriften über die Ablehnung von Richtern finden auch auf Schriftführer, Angestellte der Gerichtskanzlei und Vollstreckungsbeamte, sofern sie als Zustellungs-, Beurkundungs- oder Vollstreckungsorgane einschreiten, mit der Maßgabe Anwendung, dass zur Entscheidung der Gerichtsvorsteher berufen ist, welchem die Dienstaufsicht über diese Organe zusteht.
 
@@ -393,7 +393,7 @@ Ein abgelehnter Richter hat bis zur rechtskräftigen Erledigung des Ablehnungsan
 
 > **Anmerkung:** Siehe auch §§ 16 und 17 sowie das Zustellgesetz, BGBl. Nr. 200/1982.
 
-#### § 27 – §. 27.
+#### § 27
 
 (1) Gerichtliche Organe, auf welche sich die vorstehenden Bestimmungen nicht beziehen, haben, wenn sie sich in einem Verhältnisse befinden, welches einen Richter von der Ausübung des Amtes ausschließen würde, dieses Verhältnis dem Vorsteher des Gerichtes anzuzeigen.
 
@@ -431,7 +431,7 @@ Ein abgelehnter Richter hat bis zur rechtskräftigen Erledigung des Ablehnungsan
 
 ## Dauer der Zuständigkeit.
 
-#### § 29 – §. 29.
+#### § 29
 
 Jedes Gericht bleibt in Rechtssachen, welche rechtmäßigerweise bei demselben anhängig gemacht wurden, bis zu deren Beendigung zuständig, wenn sich auch die Umstände, welche bei Einleitung des Verfahrens für die Bestimmung der Zuständigkeit maßgebend waren, während des Verfahrens geändert hätten. Dies gilt jedoch nicht von solchen Änderungen, auf Grund derer Personen Immunität genießen oder die Rechtssache dem Wirkungskreis der ordentlichen Gerichte entzogen ist.
 
@@ -439,11 +439,11 @@ Jedes Gericht bleibt in Rechtssachen, welche rechtmäßigerweise bei demselben a
 
 ## Delegation.
 
-#### § 30 – §. 30.
+#### § 30
 
 Ist ein Gericht aus einem der im §. 19 vorgesehenen Gründe an der Ausübung der Gerichtsbarkeit gehindert, so hat dasselbe diese Behinderung dem im Instanzenzuge übergeordneten Gerichte anzuzeigen. Dieses hat sodann ein anderes Gericht gleicher Gattung zur Verhandlung und Entscheidung der Rechtssache zu bestimmen.
 
-#### § 31 – §. 31.
+#### § 31
 
 (1) Auch kann aus Gründen der Zweckmäßigkeit auf Antrag einer Partei von dem Oberlandesgerichte, in dessen Sprengel das zuständige Gericht gelegen ist, an Stelle desselben ein anderes im Sprengel dieses Oberlandesgerichtes gelegenes Gericht gleicher Gattung zur Verhandlung und Entscheidung bestimmt werden.
 
@@ -479,13 +479,13 @@ Ist ein Gericht aus einem der im §. 19 vorgesehenen Gründe an der Ausübung de
 
 ## Übertragung einzelner Geschäfte an den Vorsitzenden oder an einen beauftragten Richter
 
-#### § 34 – §. 34.
+#### § 34
 
 (1) Die Vornahme gerichtlicher Handlungen durch den Präsidenten des Gerichtshofes oder durch den Vorsitzenden des Senates, welchem eine Rechtssache zur Verhandlung oder Entscheidung zugewiesen ist, oder die Übertragung gerichtlicher Handlungen an ein einzelnes Mitglied dieses Senates oder des zuständigen Gerichtshofes (beauftragter Richter) ist nur in den gesetzlich bestimmten und in den durch die Vorschriften über die innere Einrichtung und Geschäftsordnung der Gerichte bezeichneten Fällen zulässig.
 
 (2) Die Übertragung gerichtlicher Handlungen an ein Mitglied des Senates oder des zuständigen Gerichtshofes steht, wenn nicht durch die hierauf bezüglichen Vorschriften etwas anderes angeordnet oder insbesondere der Vorsitzende hiezu ermächtigt ist, nur dem zur Verhandlung und Entscheidung der Rechtssache berufenen Senate zu.
 
-#### § 35 – §. 35.
+#### § 35
 
 (1) Richterliche Amtshandlungen, welche außerhalb einer mündlichen Verhandlung oder außerhalb einer Sitzung vorzunehmen sind, ohne dass die Bedingungen für ein deshalb an ein anderes Gericht zu stellendes Ersuchen vorhanden wären, sind im Verfahren vor Gerichtshöfen einem beauftragten Richter zu übertragen.
 
@@ -493,7 +493,7 @@ Ist ein Gericht aus einem der im §. 19 vorgesehenen Gründe an der Ausübung de
 
 ## Übertragung des Vollzuges von Amtshandlungen an andere Gerichte
 
-#### § 36 – §. 36.
+#### § 36
 
 (1) Der Vollzug von Amtshandlungen, die ein Landes-, Handelsgericht oder ein Handels- und Seegericht gemäß § 32 Abs. 1 selbst vorzunehmen hätte, ist einem im Sprengel dieses Gerichtshofes gelegenen Bezirksgerichte zu übertragen, wenn dies entweder durch besondere gesetzliche Vorschriften angeordnet ist, oder wenn dadurch die Behandlung der Sache erleichtert oder unnützer Kostenaufwand vermieden werden kann. Wegen des Vollzuges der außerhalb seines Sprengels vorzunehmenden Amtshandlungen (Rechtshilfe) hat sich das Gericht, bei welchem die Rechtssache anhängig ist, an das Gericht zu wenden, bei welchem oder in dessen Sprengel die Handlung vorzunehmen ist.
 
@@ -505,7 +505,7 @@ Ist ein Gericht aus einem der im §. 19 vorgesehenen Gründe an der Ausübung de
 
 ## Rechtshilfe auf Ersuchen inländischer Gerichte.
 
-#### § 37 – §. 37.
+#### § 37
 
 (1) Die im Geltungsgebiete dieses Gesetzes befindlichen Gerichte haben sich gegenseitig Rechtshilfe zu leisten.
 
@@ -533,7 +533,7 @@ Ist ein Gericht aus einem der im §. 19 vorgesehenen Gründe an der Ausübung de
 
 ## Rechtshilfe auf Ersuchen ausländischer Gerichte.
 
-#### § 38 – §. 38.
+#### § 38
 
 (1) Die im Geltungsgebiete dieses Gesetzes befindlichen Gerichte haben ausländischen Gerichten über Ersuchen Rechtshilfe zu leisten, sofern nicht besondere hierauf bezügliche Anordnungen (Staatsverträge, Regierungserklärungen, Ministerialverordnungen) etwas anderes festsetzen.
 
@@ -545,7 +545,7 @@ Ist ein Gericht aus einem der im §. 19 vorgesehenen Gründe an der Ausübung de
 
 \*(Anm.: Z 3 aufgehoben durch Art. II Z 10 BGBl. Nr. 135/1983.)*
 
-#### § 39 – §. 39.
+#### § 39
 
 (1) Die begehrte Rechtshilfe ist nach den Vorschriften der für das ersuchte Gericht verbindlichen Gesetze zu gewähren. Soweit es nach diesen Gesetzen zulässig ist, hat das ersuchte Gericht alle zur Erfüllung des Ersuchens erforderlichen Vorkehrungen und Verfügungen von amtswegen zu treffen.
 
@@ -579,7 +579,7 @@ so hat dieses Gericht die Beweisaufnahme insofern zu untersagen.
 
 (4) Das nach § 37 Abs. 2 zuständige Gericht hat auf Ersuchen des ausländischen Gerichtes bei der Durchführung der Beweisaufnahme tatsächliche Unterstützung zu gewähren.
 
-#### § 40 – §. 40.
+#### § 40
 
 Wird die Gewährung der Rechtshilfe von dem ersuchten Gerichte verweigert, oder entstehen aus Anlaß der Gewährung der Rechtshilfe in Bezug auf deren Ausführung oder in anderer Hinsicht Meinungsverschiedenheiten zwischen dem ersuchenden und dem ersuchten Gerichte, so hat auf Begehren des ersuchenden ausländischen Gerichtes oder eines anderen hiezu berufenen ausländischen öffentlichen Organes das dem ersuchten Gerichte vorgesetzte Oberlandesgericht ohne vorhergehende mündliche Verhandlung über die Rechtmäßigkeit der Weigerung oder über den sonstigen Gegenstand der Meinungsverschiedenheit zu entscheiden.
 
@@ -589,7 +589,7 @@ Wird die Gewährung der Rechtshilfe von dem ersuchten Gerichte verweigert, oder 
 
 ## Prüfung der Zuständigkeit.
 
-#### § 41 – §. 41.
+#### § 41
 
 (1) Sobald eine Rechtssache der streitigen oder freiwilligen Gerichtsbarkeit bei einem Gerichte anhängig wird, hat dasselbe seine Zuständigkeit von amtswegen zu prüfen.
 
@@ -597,7 +597,7 @@ Wird die Gewährung der Rechtshilfe von dem ersuchten Gerichte verweigert, oder 
 
 (3) In nicht streitigen bürgerlichen Rechtssachen jedoch, ferner im Executionsverfahren, sowie bei Erlassung einstweiliger Verfügungen und bei Eröffnung eines Insolvenzverfahrens hat das Gericht, ohne an die Angaben der Parteien gebunden zu sein, die für die Zuständigkeit maßgebenden Verhältnisse von amtswegen zu untersuchen. Es kann zu diesem Zwecke von den Betheiligten alle nöthigen Aufklärungen fordern.
 
-#### § 42 – §. 42.
+#### § 42
 
 (1) Ist die anhängig gewordene Rechtssache der inländischen Gerichtsbarkeit oder doch den ordentlichen Gerichten entzogen, so hat das angerufene Gericht in jeder Lage des Verfahrens seine Unzuständigkeit und die Nichtigkeit des vorangegangenen Verfahrens sofort durch Beschluß auszusprechen; dies gilt nicht, wenn das Fehlen der inländischen Gerichtsbarkeit nach § 104 geheilt ist. Das Gleiche hat seitens der Gerichte höherer Instanz zu geschehen, wenn der Mangel erst hier offenbar wird.
 
@@ -611,7 +611,7 @@ Wird die Gewährung der Rechtshilfe von dem ersuchten Gerichte verweigert, oder 
 
 > **Beachte:** Nach Art. XXXII Z 8 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung des Abs. 1 erster Satz und des Abs. 2 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31. Dezember 1997 angebracht werden.
 
-#### § 43 – §. 43.
+#### § 43
 
 (1) Hält sich das angerufene Gericht aus anderen als den im §. 42 angeführten Gründen für unzuständig (§. 41, Absatz 2), so ist die Klage von amtswegen zurückzuweisen. Sobald jedoch über die Klage die Tagsatzung zur mündlichen Verhandlung bestimmt, die Beantwortung der Klage aufgetragen oder ein bedingter Zahlungsbefehl erlassen worden ist, kann sich das Gericht nur dann für unzuständig erklären, wenn
 
@@ -625,7 +625,7 @@ Wird die Gewährung der Rechtshilfe von dem ersuchten Gerichte verweigert, oder 
 
 > **Anmerkung:** Siehe insbesondere auch §§ 83a, 83b und 104 Abs. 3 JN, § 532 ZPO, RGBl. Nr. 113/1895, § 111 Abs. 1 KO (ab 1.7.2010 IO), RGBl. Nr. 337/1914, § 7 Abs. 1, 2 und 4 und § 9 ASGG, BGBl. Nr. 104/1985.
 
-#### § 44 – §. 44.
+#### § 44
 
 (1) Ist für eine zur nichtstreitigen Gerichtsbarkeit gehörige Rechtssache, ferner im Exekutionsverfahren, im Verfahren bei Erlassung einstweiliger Verfügungen sowie im Insolvenzverfahren ein anderes als das angerufene Gericht sachlich oder örtlich zuständig, so hat letzteres seine Unzuständigkeit in jeder Lage des Verfahrens von Amts wegen oder auf Antrag durch Beschluß auszusprechen und, sofern ihm die Bestimmung des zuständigen Gerichts nach den Verhältnissen des einzelnen Falles möglich ist, die Rechtssache an das örtlich oder sachlich zuständige Gericht zu überweisen.
 
@@ -637,7 +637,7 @@ Wird die Gewährung der Rechtshilfe von dem ersuchten Gerichte verweigert, oder 
 
 § 45. Nach Eintritt der Streitanhängigkeit getroffenen Entscheidungen, mit denen ein Gericht seine sachliche Zuständigkeit bejaht, sind nicht anfechtbar, solche, mit denen es seine sachliche Unzuständigkeit ausspricht, nur dann, wenn das Gericht, das nach dieser Entscheidung sachlich zuständig wäre, seinen Sitz nicht in derselben Gemeinde hat.
 
-#### § 46 – §. 46.
+#### § 46
 
 (1) Ist die Unzuständigkeit eines Gerichtes auf Grund der Bestimmungen über die sachliche Zuständigkeit der Gerichte rechtskräftig ausgesprochen, so ist diese Entscheidung für jedes Gericht bindend, bei welchem die Rechtssache in der Folge anhängig wird.
 
@@ -647,7 +647,7 @@ Wird die Gewährung der Rechtshilfe von dem ersuchten Gerichte verweigert, oder 
 
 ## Streitigkeiten über die Zuständigkeit zwischen inländischen Gerichten.
 
-#### § 47 – §. 47.
+#### § 47
 
 (1) Streitigkeiten zwischen verschiedenen Gerichten erster Instanz über die Zuständigkeit für eine bestimmte Rechtssache sind von dem diesen Gerichten zunächst übergeordneten gemeinsamen höheren Gerichte zu entscheiden.
 
@@ -663,7 +663,7 @@ Wird die Gewährung der Rechtshilfe von dem ersuchten Gerichte verweigert, oder 
 
 ### Bezirksgerichte.
 
-#### § 49 – §. 49.
+#### § 49
 
 (1) Vor die Bezirksgerichte gehören Streitigkeiten über vermögensrechtliche Ansprüche einschließlich der zum Mandatsverfahren gehörigen Streitigkeiten, wenn der Streitgegenstand an Geld oder Geldeswert den Betrag von 15 000 Euro nicht übersteigt, und diese Streitigkeiten nicht ihrer Beschaffenheit nach ohne Rücksicht auf den Wert des Streitgegenstandes Gerichtshöfen erster Instanz zugewiesen sind.
 
@@ -707,7 +707,7 @@ Wird die Gewährung der Rechtshilfe von dem ersuchten Gerichte verweigert, oder 
 
 ## Gerichtshöfe erster Instanz.
 
-#### § 50 – §. 50.
+#### § 50
 
 Vor die Gerichtshöfe erster Instanz gehören alle bürgerlichen Rechtsstreitigkeiten, welche nicht den Bezirksgerichten zugewiesen sind.
 
@@ -749,7 +749,7 @@ Vor die Gerichtshöfe erster Instanz gehören alle bürgerlichen Rechtsstreitigk
 
 > **Beachte:** Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2014 bei Gericht angebracht wird (vgl. Z 3, BGBl. I Nr. 78/2014).
 
-#### § 52 – § 52.
+#### § 52
 
 (1) An Orten, an denen ein selbständiges Handelsgericht und Bezirksgerichte für Handelssachen bestehen, gehören die im § 51 Abs. 1 angeführten Streitigkeiten, bei denen der Streitgegenstand an Geld oder Geldeswert die Summe von 15 000 Euro nicht übersteigt, vor die Bezirksgerichte für Handelssachen.
 
@@ -767,7 +767,7 @@ Vor die Gerichtshöfe erster Instanz gehören alle bürgerlichen Rechtsstreitigk
 
 ## Wert des Streitgegenstandes.
 
-#### § 54 – §. 54.
+#### § 54
 
 (1) Für die Berechnung des für die Zuständigkeit maßgebenden Wertes des Streitgegenstandes ist der Zeitpunkt der Anbringung der Klage entscheidend.
 
@@ -789,7 +789,7 @@ Vor die Gerichtshöfe erster Instanz gehören alle bürgerlichen Rechtsstreitigk
 
 > **Beachte:** Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2004 bei Gericht eingelangt ist (vgl. Art. XVI Abs. 2, BGBl. I Nr. 128/2004).
 
-#### § 56 – §. 56.
+#### § 56
 
 (1) Erbietet sich der Kläger an Stelle der angesprochenen Sache eine bestimmte Geldsumme anzunehmen oder stellt er ein alternatives Begehren auf Zuerkennung einer Geldsumme, so ist die in der Klage angegebene Geldsumme für die Beurtheilung der Zuständigkeit und für die Besetzung des Gerichtes (§ 7a) maßgebend.
 
@@ -801,17 +801,17 @@ Vor die Gerichtshöfe erster Instanz gehören alle bürgerlichen Rechtsstreitigk
 >
 > Art. 16 Abs. 5, BGBl. I Nr. 52/2009.
 
-#### § 57 – §. 57.
+#### § 57
 
 Bei Streitigkeiten, welche nur die Sicherstellung einer Forderung oder ein Pfandrecht zum Gegenstande haben, ist der Betrag der Forderung, oder wenn der Pfandgegenstand einen geringeren Wert hat, dessen Wert für die Bewertung des Streitgegenstandes maßgebend.
 
-#### § 58 – §. 58.
+#### § 58
 
 (1) Als Wert des Rechtes auf den Bezug von Zinsen, Renten, Früchten oder anderen wiederkehrenden Nutzungen und Leistungen ist bei immerwährender Dauer das Zwanzigfache, bei unbestimmter oder auf Lebenszeit beschränkter Dauer das Zehnfache, sofern es sich um Ansprüche auf Unterhalts- oder Versorgungsbeträge und auf Zahlung von Renten wegen Körperbeschädigung oder Tötung eines Menschen handelt, das Dreifache der Jahresleistung, bei bestimmter Dauer aber der Gesamtbetrag der künftigen Bezüge, jedoch in keinem Fall mehr als das Zwanzigfache der Jahresleistung anzunehmen.
 
 (2) Ist das Bestehen eines Pacht- oder Mietverhältnisses streitig, so ist der Betrag des auf die gesammte streitige Zeit fallenden Zinses der Bewertung zugrunde zu legen.
 
-#### § 59 – §. 59.
+#### § 59
 
 Bei Klagen auf Vornahme von Arbeiten oder anderen persönlichen Leistungen, auf Duldung oder Unterlassung, auf Abgabe von Willenserklärungen ist die vom Kläger angegebene Höhe seines Interesses als Wert des Streitgegenstandes anzusehen.
 
@@ -821,7 +821,7 @@ Bei Klagen auf Vornahme von Arbeiten oder anderen persönlichen Leistungen, auf 
 
 > **Anmerkung:** EG/EU: Art. 12, BGBl. I Nr. 148/2020
 
-#### § 60 – §. 60.
+#### § 60
 
 (1) Erscheint bei einer Klage, welche bei einem Gerichtshofe erster Instanz angebracht wurde, die vom Kläger angegebene Summe, zu deren Annahme an Stelle der angesprochenen Sache er sich erboten hat (§ 56 Absatz 1), oder die im Sinne des §. 56 Absatz 2 erfolgte Bewertung des Streitgegenstandes übermäßig hoch gegriffen, so kann das Gericht, wenn es zugleich wahrscheinlich ist, dass bei richtigerer Bewertung des Streitgegenstandes dieser die für die Zuständigkeit des Gerichtshofes oder für die Besetzung des Gerichtes (§ 7a) maßgebende Wertgrenze nicht erreichen dürfte, von amtswegen die ihm zur Prüfung der Richtigkeit der Wertangabe nöthig erscheinenden Erhebungen und insbesondere die Einvernehmung der Parteien, die Vornahme eines Augenscheines und, wenn es ohne erheblichen Kostenaufwand und ohne besondere Verzögerung geschehen kann, auch die Begutachtung durch Sachverständige anordnen. Dies kann erforderlichenfalls auch schon vor Anberaumung der mündlichen Verhandlung geschehen.
 
@@ -837,7 +837,7 @@ Bei Klagen auf Vornahme von Arbeiten oder anderen persönlichen Leistungen, auf 
 
 ## Bestreitung der Zuständigkeit eines Civil-, Handels- oder bergrechtlichen Senates.
 
-#### § 61 – §. 61.
+#### § 61
 
 (1) Wenn in einer vor dem Civilsenate eines Landesgerichtes verhandelten Rechtssache der Antrag auf Verweisung der Rechtssache vor den Handelssenat desselben Gerichtshofes gestellt wird (Einrede der Unzuständigkeit) und das Gericht dem Antrage noch vor Schluss der Verhandlung zur Hauptsache stattgeben zu müssen erachtet, kann es, sofern der Stand der Verhandlung eine solche Maßregel zweckmäßig erscheinen lässt, zugleich mit der Entscheidung über die Unzuständigkeitseinrede den Beschluss fassen, dass sofort an Stelle eines der Senatsmitglieder ein fachmännischer Beisitzer zu treten habe und die Verhandlung vor dem so veränderten Senate gleich durchzuführen sei.
 
@@ -847,7 +847,7 @@ Bei Klagen auf Vornahme von Arbeiten oder anderen persönlichen Leistungen, auf 
 
 > **Beachte:** Die Berggerichtsbarkeit wurde u. a. durch Art. II Z 5, 28 und 29 BGBl. Nr. 135/1983 aufgehoben, daher ist insoweit der Überschrift (bergrechtliche Senate) materiell derogiert.
 
-#### § 62 – §. 62.
+#### § 62
 
 (1) Wird in den im §. 61 bezeichneten Fällen die Entscheidung über die Einrede der Unzuständigkeit vom Gerichte dem nach Schluss der Verhandlung zur Hauptsache ergehenden Ausspruche vorbehalten, so kann der Vorsitzende, je nachdem die Verweisung an einen Handelssenat oder an einen Civilsenat begehrt wurde, einen fachmännischen Beisitzer oder einen richterlichen Beamten der Verhandlung als Ergänzungsrichter beiziehen. Wird sodann die Einrede der Unzuständigkeit von dem Senate, vor welchem die Verhandlung anberaumt war, auf Grund der Ergebnisse der Verhandlung als gerechtfertigt erkannt, so hat, sofern die vor einem Civilsenate verhandelte Rechtssache vor einen Handelssenat gehört, der als Ergänzungsrichter beigezogene fachmännische Beisitzer zum Zwecke der Entscheidung der Hauptsache an Stelle eines der Mitglieder jenes Senates zu treten. Bei Rechtssachen, welche vor einen Civilsenat gehören, hat hingegen der richterliche Beamte, welcher als Ergänzungsrichter an der Verhandlung theilgenommen hat, an die Stelle des fachmännischen Beisitzers des ursprünglich zur Verhandlung berufenen Senates zu treten. Gegen diese Beschlüsse ist ein abgesondertes Rechtsmittel nicht zulässig.
 
@@ -855,11 +855,11 @@ Bei Klagen auf Vornahme von Arbeiten oder anderen persönlichen Leistungen, auf 
 
 (3) Dasjenige Mitglied des Senates, welches infolge der erhobenen Einrede der Unzuständigkeit vor der Entscheidung der Hauptsache kraft Gerichtsbeschlusses aus dem Senate ausschied, hat sich an der Berathung und Abstimmung über das Urtheil nicht zu betheiligen. Es ist jedoch verpflichtet, dem Vorsitzenden seine Meinung über die Entscheidung der Streitsache in besonderer schriftlicher Ausfertigung innerhalb drei Tagen bekanntzugeben. Dieses Votum ist dem Berathungsprotokolle beizulegen.
 
-#### § 63 – §. 63.
+#### § 63
 
 Die Bestimmungen der §§. 61 und 62 sind auch anwendbar, sofern in einer bei einem selbständigen Handelsgerichte angebrachten Rechtssache die Einrede der Unzuständigkeit deshalb erhoben wird, weil die Rechtssache vor das zur Ausübung der allgemeinen Gerichtsbarkeit berufene Landesgericht gehört oder bei diesem, weil die Rechtssache vor das Handelsgericht gehört.
 
-#### § 64 – §. 64.
+#### § 64
 
 Wenn eine gemäß §. 62 unter Zuziehung eines Ergänzungsrichters gefällte Entscheidung wegen Unzuständigkeit des Gerichtes angefochten wird und die höhere Instanz der Ansicht ist, dass der Senat, vor welchem die Verhandlung anberaumt war, zur Entscheidung der Rechtssache thatsächlich zuständig gewesen wäre, so ist dennoch auf die Unzuständigkeit nicht weiter Bedacht zu nehmen, falls auch das vor der Endentscheidung aus dem Senate ausgeschiedene Mitglied nach Inhalt seines den Acten beiliegenden Votums die Rechtssache so entschieden hätte, wie es durch den angefochtenen Spruch geschehen ist.
 
@@ -867,11 +867,11 @@ Wenn eine gemäß §. 62 unter Zuziehung eines Ergänzungsrichters gefällte Ent
 
 ### Örtliche Zuständigkeit. — Allgemeiner Gerichtsstand.
 
-#### § 65 – §. 65.
+#### § 65
 
 Alle Klagen, für welche nicht ein besonderer Gerichtsstand bei einem anderen Gerichte begründet ist, sind bei dem sachlich zuständigen Bezirksgerichte oder Gerichtshofe erster Instanz anzubringen, bei welchem der Beklagte seinen allgemeinen Gerichtsstand hat.
 
-#### § 66 – §. 66.
+#### § 66
 
 (1) Der allgemeine Gerichtsstand einer Person wird durch deren Wohnsitz bestimmt. Der Wohnsitz einer Person ist an dem Orte begründet, an welchem sie sich in der erweislichen oder aus den Umständen hervorgehenden Absicht niedergelassen hat, daselbst ihren bleibenden Aufenthalt zu nehmen.
 
@@ -879,11 +879,11 @@ Alle Klagen, für welche nicht ein besonderer Gerichtsstand bei einem anderen Ge
 
 (3) Wenn eine Person ihren Wohnsitz und ihren gewöhnlichen Aufenthalt nicht im Sprengel desselben Gerichtes oder wenn sie in den Sprengeln mehrerer Gerichte einen Wohnsitz oder einen gewöhnlichen Aufenthalt hat, so ist für sie bei jedem dieser Gerichte ein allgemeiner Gerichtsstand begründet. Es steht in einem solchen Fall dem Kläger die Wahl frei, bei welchem der verschiedenen Gerichte er die Klage anbringen will.
 
-#### § 67 – §. 67.
+#### § 67
 
 Für Personen, die weder im Inland noch anderswo einen Wohnsitz oder einen gewöhnlichen Aufenthalt haben, wird der allgemeine Gerichtsstand durch den Ort ihres jeweiligen Aufenthalts im Inland begründet. Mangels eines solchen oder bei Unbekanntheit des inländischen Aufenthaltsortes können diese Personen wegen aller während ihres Aufenthaltes im Inlande begründeten oder hier zu erfüllenden Verbindlichkeiten bei dem Gerichte des letzten Wohnsitzes oder Aufenthaltes belangt werden, den sie im Inlande gehabt haben.
 
-#### § 68 – §. 68.
+#### § 68
 
 (1) Für die Soldaten des Bundesheeres gemäß § 1 Abs. 3 Wehrgesetz 2001 gilt in Ansehung des Gerichtsstandes der Ort der Garnison als Wohnsitz.
 
@@ -891,7 +891,7 @@ Für Personen, die weder im Inland noch anderswo einen Wohnsitz oder einen gewö
 
 (3) Als Wohnsitz von Soldaten, welche sich nicht im Inland befinden, gilt bei Ausmittlung des Gerichtsstandes der Garnisonsort des entsendenden Kommandos. Für diejenigen Personen, welche nicht Soldaten sind und unter Leitung des Bundesministers für Landesverteidigung gemäß dem Bundesverfassungsgesetz über Kooperation und Solidarität bei der Entsendung von Einheiten und Einzelpersonen in das Ausland (KSE-BVG) entsendet werden, gilt als Wohnsitz der Ort der Dienststelle, welche diese Entsendung führt.
 
-#### § 69 – §. 69.
+#### § 69
 
 Österreichische Staatsangehörige, welche sich in ständiger amtlicher Stellung als Beamte oder Diener des österreichischen Staates oder der österreichisch-ungarischen Monarchie außerhalb des Geltungsgebietes dieses Gesetzes aufhalten, behalten den allgemeinen Gerichtsstand, den sie im Geltungsgebiete dieses Gesetzes hatten. Ist ein solcher nicht begründet oder doch nicht zu ermitteln, so ist für sie der allgemeine Gerichtsstand in Wien, und zwar im Sprengel desjenigen Bezirksgerichtes begründet, in welchem das k. und k. Ministerium des Äußeren seinen Sitz hat.
 
@@ -903,7 +903,7 @@ Für Personen, die weder im Inland noch anderswo einen Wohnsitz oder einen gewö
 
 § 71. Ein minderjähriges Kind teilt den allgemeinen Gerichtsstand seines gesetzlichen Vertreters. Sind beide Eltern (Wahleltern) gesetzliche Vertreter, so teilt es deren gemeinsamen allgemeinen Gerichtsstand, haben sie keinen solchen, den allgemeinen Gerichtsstand des Elternteils (Wahlelternteils), dessen Haushalt es zugehört.
 
-#### § 74 – §. 74.
+#### § 74
 
 (1) Der allgemeine Gerichtsstand des Ärars oder eines Landes wird durch den Sitz des öffentlichen Organes bestimmt, welches nach den hierüber geltenden Vorschriften das Ärar oder Land in der Streitsache zu vertreten berufen ist.
 
@@ -911,7 +911,7 @@ Für Personen, die weder im Inland noch anderswo einen Wohnsitz oder einen gewö
 
 > **Anmerkung:** Siehe auch § 86a JN.
 
-#### § 75 – §. 75.
+#### § 75
 
 (1) Sofern nichts anderes in allgemein verbindlicher Weise festgesetzt ist, bestimmt sich der allgemeine Gerichtsstand von offenen Gesellschaften, Commanditgesellschaften, Actiengesellschaften, Genossenschaften, Gewerkschaften, öffentlichen Fonden und Corporationen, Kirchen, Pfründen, Stiftungen, zu öffentlichen Zwecken bestehenden Anstalten, Vermögensmassen, Vereinen und anderen nicht zu den physischen Personen gehörigen Rechtssubjecten, welche nicht unter die Bestimmungen des §. 74 fallen, nach ihrem Sitze. Als Sitz gilt im Zweifel der Ort, wo die Verwaltung geführt wird.
 
@@ -947,13 +947,13 @@ Für Personen, die weder im Inland noch anderswo einen Wohnsitz oder einen gewö
 
 > **Anmerkung:** ÜR: Art. XXXI, BGBl. I Nr. 112/2003
 
-#### § 78 – Fideicommiss- und Lehenangelegenheiten. – §. 78.
+#### § 78 – Fideicommiss- und Lehenangelegenheiten.
 
 (1) Die den Gerichtshöfen erster Instanz zugewiesenen Klagen in Fideicommissangelegenheiten gehören vor den Gerichtshof, von welchem die Gerichtsbarkeit in den nicht streitigen Angelegenheiten des Fideicommisses in erster Instanz ausgeübt wird.
 
 (2) Klagen in Lehenangelegenheiten, für welche nicht der im §. 77 bezeichnete Gerichtsstand eintritt, sind, wenn das Lehen ein landesfürstliches ist und der Lehensherr an dem Streite theilnimmt, bei dem Gerichtshofe erster Instanz, in dessen Sprengel die Lehenstube ihren Sitz hat, außer diesem Falle aber bei demjenigen Gerichtshofe erster Instanz anzubringen, in dessen Sprengel das Lehen gelegen ist.
 
-#### § 79 – Klagen von Richtern und gegen Richter. – §. 79.
+#### § 79 – Klagen von Richtern und gegen Richter.
 
 (1) Klagen gegen Personen, die bei dem nach den Bestimmungen über die sachliche und örtliche Zuständigkeit zur Verhandlung und Entscheidung berufenen Bezirksgerichte als Einzelrichter in Verwendung stehen, gehören vor das Landesgericht, in dessen Sprengel sich das Bezirksgericht befindet. Klagen gegen den Vorsteher eines Gerichtshofes erster Instanz, welche vor diesen Gerichtshof oder vor ein im Sprengel desselben gelegenes Bezirksgericht gehören würden, sind bei einem der Gerichtshöfe erster Instanz anzubringen, deren Sprengel an den jenes ersten Gerichtshofes unmittelbar angrenzt.
 
@@ -961,7 +961,7 @@ Für Personen, die weder im Inland noch anderswo einen Wohnsitz oder einen gewö
 
 > **Beachte:** Art. XIV EGJN, RGBl. Nr. 110/1895
 
-#### § 81 – Streitigkeiten um unbewegliches Gut. – §. 81.
+#### § 81 – Streitigkeiten um unbewegliches Gut.
 
 (1) Klagen, durch welche ein dingliches Recht auf ein unbewegliches Gut, die Freiheit von einem solchen Rechte oder die Aufhebung desselben geltend gemacht wird, Theilungs-, Grenzberichtigungs- und Besitzstörungsklagen gehören vor das Gericht, in dessen Sprengel das unbewegliche Gut gelegen ist.
 
@@ -969,7 +969,7 @@ Für Personen, die weder im Inland noch anderswo einen Wohnsitz oder einen gewö
 
 > **Anmerkung:** Siehe auch §§ 84, 85 u. 91 sowie 49 Abs. 1 und 2 Z 3 u. 4 JN.
 
-#### § 82 – Wasserrechts-Besitzstörungsstreitigkeiten. – §. 82.
+#### § 82 – Wasserrechts-Besitzstörungsstreitigkeiten.
 
 Streitigkeiten wegen Störung des Besitzes (§. 49, Z 4 *(Anm.: richtig: § 49 Abs. 2 Z 4)*) an Wasserrechten gehören vor das Gericht, in dessen Sprengel die Störung erfolgte.
 
@@ -1001,7 +1001,7 @@ Streitigkeiten wegen Störung des Besitzes (§. 49, Z 4 *(Anm.: richtig: § 49 A
 
 (3) Wird die gesetzwidrige Handlung durch den Inhalt von Schriften oder Druckwerken oder durch andere Gegenstände bewirkt, die vom Ausland abgesendet worden sind, so gilt für die Zuständigkeit jeder Ort des Inlandes als Begehungsort, wo der Gegenstand eingelangt oder zur Abgabe oder Verbreitung gelangt ist.
 
-#### § 84 – Lage der Sache in verschiedenen Sprengeln. – §. 84.
+#### § 84 – Lage der Sache in verschiedenen Sprengeln.
 
 (1) Ist eine Sache in den Sprengeln mehrerer Gerichte gelegen, so hat in allen Fällen, in welchen die Lage der Sache für die Bestimmung des Gerichtsstandes maßgebend ist, der Kläger die Wahl, bei welchem dieser Gerichte er die Klage anbringen wolle. Gleiches gilt, wenn es mit Rücksicht auf die Grenzen verschiedener Gerichtsbezirke zweifelhaft ist, welches von mehreren Gerichten als das nach dem Orte der gelegenen Sache zuständige anzusehen ist.
 
@@ -1017,7 +1017,7 @@ Streitigkeiten wegen Störung des Besitzes (§. 49, Z 4 *(Anm.: richtig: § 49 A
 
 > **Anmerkung:** Siehe auch § 2 ProkuratursG, StGBl. Nr. 172/1945.
 
-#### § 87 – Gerichtsstand der Niederlassung. – §. 87.
+#### § 87 – Gerichtsstand der Niederlassung.
 
 (1) Personen, die außerhalb des Gerichtssprengels ihres Wohnsitzes oder ihres gewöhnlichen Aufenthalts ein Bergwerk, eine Fabrik, eine Handelsniederlassung oder eine sonstige Betriebsstätte ihres Geschäftes oder ihres Berufes haben, können in streitigen Rechtssachen, die sich auf ihre geschäftliche oder berufliche Tätigkeit beziehen, bei dem Gericht geklagt werden, in dessen Sprengel sich ihre Niederlassung oder Betriebsstätte befindet.
 
@@ -1041,7 +1041,7 @@ Streitigkeiten wegen Störung des Besitzes (§. 49, Z 4 *(Anm.: richtig: § 49 A
 >
 > 2\. ÜR: Art. XXXII Abs. 2, BGBl. I Nr. 120/2005.
 
-#### § 89 – §. 89.
+#### § 89
 
 Aus einem Wechsel verpflichtete Personen können vom Inhaber des Wechsels bei dem Gerichte des Zahlungsortes belangt werden.
 
@@ -1049,13 +1049,13 @@ Aus einem Wechsel verpflichtete Personen können vom Inhaber des Wechsels bei de
 >
 > 2\. Siehe §§ 555 bis 559 ZPO, RGBl. Nr. 113/1895.
 
-#### § 90 – §. 90.
+#### § 90
 
 Streitigkeiten aus der Schiffsmiete, aus dem Dienstverhältnisse der Schiffsmannschaft und aus Seefrachtgeschäften können auch bei dem Gerichte des Ortes angebracht werden, in welchem sich der Beklagte aufhält, wo die Ware abgeliefert werden soll, wo der Transport des Reisenden zu beendigen ist oder wo die Reise abgebrochen wird.
 
 > **Anmerkung:** Siehe auch § 49 Abs. 2 Z 7 JN.
 
-#### § 91 – Gerichtsstand der gelegenen Sache – §. 91.
+#### § 91 – Gerichtsstand der gelegenen Sache
 
 (1) Bei dem nach §. 81 zuständigen Gerichte kann mit der Klage zur Geltendmachung des Pfandrechtes die Klage auf Zahlung der pfandrechtlich versicherten Forderung, mit der Klage auf Aufhebung (Löschung) des Pfandrechtes die Klage auf Feststellung des Nichtbestehens der pfandrechtlich versicherten Forderung verbunden werden, wenn beide Klagen wider denselben Beklagten gerichtet sind.
 
@@ -1065,7 +1065,7 @@ Streitigkeiten aus der Schiffsmiete, aus dem Dienstverhältnisse der Schiffsmann
 
 > **Anmerkung:** Siehe auch § 83 JN.
 
-#### § 92 – Gerichtsstand für Besitzstörungsstreitigkeiten, – §. 92.
+#### § 92 – Gerichtsstand für Besitzstörungsstreitigkeiten,
 
 Besitzstörungsklagen (§. 49, Z 4 *(Anm.: richtig: § 49 Abs. 2 Z 4)*) können, sofern sie nicht eine unbewegliche Sache betreffen, bei dem Gerichte angebracht werden, in dessen Sprengel die Störung erfolgte.
 
@@ -1081,7 +1081,7 @@ Besitzstörungsklagen (§. 49, Z 4 *(Anm.: richtig: § 49 Abs. 2 Z 4)*) können,
 
 § 92c. Die im § 51 Abs. 1 Z 6 genannten Streitigkeiten, mit Ausnahme von Klagen gegen Dritte, können bei dem Gericht des Ortes angebracht werden, in dem die Gesellschaft ihren Sitz hat.
 
-#### § 93 – Gerichtsstand der Streitgenossenschaft. – §. 93.
+#### § 93 – Gerichtsstand der Streitgenossenschaft.
 
 (1) Mehrere Personen, welche ihren allgemeinen Gerichtsstand vor verschiedenen Gerichten haben, können als Streitgenossen, sofern nicht für den Rechtsstreit ein gemeinschaftlicher besonderer Gerichtsstand begründet ist, vor jedem inländischen Gerichte geklagt werden, bei welchem einer der Streitgenossen oder, wenn sich unter ihnen Haupt- und Nebenverpflichtete befinden, einer der Hauptverpflichteten seinen allgemeinen Gerichtsstand hat, es sei denn, daß das Gericht auch durch Vereinbarung der Parteien nicht zuständig gemacht werden kann.
 
@@ -1089,19 +1089,19 @@ Besitzstörungsklagen (§. 49, Z 4 *(Anm.: richtig: § 49 Abs. 2 Z 4)*) können,
 
 > **Anmerkung:** Siehe auch § 14 KSchG, BGBl. Nr. 140/1979.
 
-#### § 94 – Gerichtsstand des Hauptprocesses. – §. 94.
+#### § 94 – Gerichtsstand des Hauptprocesses.
 
 (1) Klagen, womit ein Anspruch auf eine Sache oder ein Recht geltend gemacht wird, über welchen zwischen anderen Personen ein Rechtsstreit anhängig ist (Hauptintervention), können bis zur rechtskräftigen Entscheidung dieses Processes bei demselben Gerichte angebracht werden.
 
 (2) Klagen der Process- und Zustellungsbevollmächtigten wegen Gebüren und Auslagen können beim Gerichte des Hauptprocesses angebracht werden.
 
-#### § 95 – §. 95.
+#### § 95
 
 (1) Die in den §§. 91 und 94 bezeichneten Klagen können bei den daselbst benannten Gerichten auch dann angebracht werden, wenn diese Gerichte in Gemäßheit der über die sachliche Zuständigkeit geltenden Bestimmungen zur Entscheidung über den mittels Klage geltend gemachten vermögensrechtlichen Anspruch an sich nicht zuständig wären.
 
 (2) Die gemäß § 94 Absatz 1, bei einem Gerichtshof erster Instanz angebrachten Klagen und die im § 94 Absatz 2, bezeichneten Klagen, wofern sie vor rechtskräftiger Beendigung des Hauptprozesses bei einem Gerichtshofe erster Instanz angebracht werden, gehören ohne Rücksicht auf den Wert des Streitgegenstandes vor den Senat oder Einzelrichter (§ 7a) des Gerichtshofes, vor dem der Hauptprozeß geführt wird. Werden jedoch die im § 94 Absatz 2, bezeichneten Klagen erst später bei einem Gerichtshof erster Instanz eingebracht, so bleibt für die Besetzung des Gerichtes der Wert des Streitgegenstandes maßgebend.
 
-#### § 96 – Gerichtsstand der Widerklage. – §. 96.
+#### § 96 – Gerichtsstand der Widerklage.
 
 (1) Bei dem Gerichte der Klage kann eine Widerklage angebracht werden, wenn der mit letzterer geltend gemachte Anspruch mit dem Anspruche der Klage im Zusammenhange steht oder sich sonst zur Compensation eignen würde, ferner wenn die Widerklage auf Feststellung eines im Laufe des Processes streitig gewordenen Rechtsverhältnisses oder Rechtes gerichtet ist, von dessen Bestehen oder Nichtbestehen die Entscheidung über das Klagebegehren ganz oder zum Theile abhängt.
 
@@ -1109,7 +1109,7 @@ Besitzstörungsklagen (§. 49, Z 4 *(Anm.: richtig: § 49 Abs. 2 Z 4)*) können,
 
 > **Anmerkung:** Siehe auch §§ 227 Abs. 2 und 233 Abs. 2 ZPO, RGBl. Nr. 113/1895.
 
-#### § 97 – Gerichtsstand des früheren Wohnsitzes. – §. 97.
+#### § 97 – Gerichtsstand des früheren Wohnsitzes.
 
 (1) Handwerker, Kleinverschleißer, Wirte, Schiffer, Fuhrleute und sonstige Gewerbetreibende, ferner Gesellen, Gehilfen, Dienstleute und sonstige Arbeiter um Lohn können wegen ihrer Forderungen für gelieferte Erzeugnisse und Waren, für geleistete Dienste und Arbeiten innerhalb neunzig Tagen von der Zeit der letzten Lieferung oder Leistung bei dem nach dem früheren allgemeinen Gerichtsstand des Abnehmers oder Arbeitgebers zuständigen Gericht klagen, wenn dieser mittlerweile seinen allgemeinen Gerichtsstand in einen anderen Gerichtsbezirk verlegt hat.
 
@@ -1121,7 +1121,7 @@ Besitzstörungsklagen (§. 49, Z 4 *(Anm.: richtig: § 49 Abs. 2 Z 4)*) können,
 
 § 98. Gegen Schiffer und Personen der Schiffsmannschaft können Forderungen der in § 97 bezeichneten Art auch dann bei dem nach dem jeweiligen Aufenthalt des Beklagten zuständigen Gericht geltend gemacht werden, wenn dieser an einem anderen Ort seinen allgemeinen Gerichtsstand hat.
 
-#### § 99 – Gerichtsstand des Vermögens. – §. 99.
+#### § 99 – Gerichtsstand des Vermögens.
 
 (1) Gegen Personen, die im Inland keinen allgemeinen Gerichtsstand haben, kann wegen vermögensrechtlicher Ansprüche bei jedem Gericht eine Klage angebracht werden, in dessen Sprengel sich Vermögen dieser Personen oder der mit der Klage in Anspruch genommene Gegenstand selbst befindet. Der Wert des im Inland befindlichen Vermögens darf jedoch nicht unverhältnismäßig geringer sein als der Wert des Streitgegenstandes; für dessen Berechnung gilt der § 55 Abs. 3 nicht.
 
@@ -1147,11 +1147,11 @@ Besitzstörungsklagen (§. 49, Z 4 *(Anm.: richtig: § 49 Abs. 2 Z 4)*) können,
 
 ## Mehrheit von Gerichtsständen.
 
-#### § 102 – §. 102.
+#### § 102
 
 Unter mehreren zuständigen Gerichten hat der Kläger die Wahl; dieselbe ist mit der Zustellung der Klage an den Beklagten vollzogen.
 
-#### § 103 – Mehrheit von Bezirksgerichten an einem Orte. – §. 103.
+#### § 103 – Mehrheit von Bezirksgerichten an einem Orte.
 
 (1) Ist jemand bei dem Bezirksgericht an einem Ort zu klagen, wo mehrere Bezirksgerichte eingerichtet sind, so ist die Klage bei demjenigen Bezirksgericht anzubringen, in dessen Sprengel der Beklagte seinen Wohnsitz, seinen gewöhnlichen Aufenthalt oder – ist keines der Fall – seinen Aufenthalt hat. Wenn hingegen der Beklagte an diesem Orte sich nicht wirklich aufhält, so hat der Kläger zwischen den mehreren Bezirksgerichten die Wahl (§. 102).
 
@@ -1161,7 +1161,7 @@ Unter mehreren zuständigen Gerichten hat der Kläger die Wahl; dieselbe ist mit
 
 ## Vereinbarung über die Zuständigkeit der Gerichte.
 
-#### § 104 – §. 104.
+#### § 104
 
 (1) Die Parteien können sich durch ausdrückliche Vereinbarung unterwerfen:
 
@@ -1249,13 +1249,13 @@ Die Vereinbarung muß urkundlich nachgewiesen werden; eine sonstige Voraussetzun
 
 (2) Hat der österreichische Minderjährige oder die sonstige schutzberechtigte Person den gewöhnlichen Aufenthalt oder Vermögen im Ausland oder handelt es sich um einen ausländischen Minderjährigen oder eine ausländische sonstige schutzberechtigte Person, so kann das Gericht von der Einleitung oder Fortsetzung des Verfahrens absehen, soweit und solange durch die im Ausland getroffenen oder zu erwartenden Maßnahmen die Rechte und Interessen des Minderjährigen oder der sonstigen schutzberechtigten Person ausreichend gewahrt werden. Im Falle eines österreichischen Minderjährigen ist vor der Entscheidung die Bezirksverwaltungsbehörde zu hören, in deren Sprengel das Gericht seinen Sitz hat.
 
-#### § 111 – §. 111.
+#### § 111
 
 (1) Wenn dies im Interesse eines Minderjährigen oder einer sonst schutzberechtigten Person gelegen erscheint, insbesondere wenn dadurch die wirksame Handhabung des pflegschaftsgerichtlichen Schutzes voraussichtlich gefördert wird, kann das zur Besorgung der pflegschaftsgerichtlichen Geschäfte zuständige Gericht von Amts wegen oder auf Antrag seine Zuständigkeit ganz oder zum Teil einem anderen Gericht übertragen.
 
 (2) Die Übertragung wird wirksam, wenn das andere Gericht die Zuständigkeit oder die ihm übertragenen Geschäfte übernimmt. Im Falle der Weigerung des anderen Gerichtes bedarf die Übertragung zu ihrer Wirksamkeit der Genehmigung des den beiden Gerichten zunächst übergeordneten gemeinsamen höheren Gerichtes.
 
-#### § 112 – §. 112.
+#### § 112
 
 (1) Welche Gerichte zur Bestellung eines Curators für einzelne Streitsachen oder Geschäfte berufen sind, ist nach den für einzelne Fälle von Curatelen erlassenen besonderen Vorschriften, nach den Bestimmungen des bürgerlichen Rechtes und endlich nach den für das gerichtliche Verfahren geltenden Bestimmungen zu beurtheilen.
 
@@ -1309,7 +1309,7 @@ Die Vereinbarung muß urkundlich nachgewiesen werden; eine sonstige Voraussetzun
 
 (4) Die inländische Gerichtsbarkeit in Eheangelegenheiten und Angelegenheiten eingetragener Partnerschaften ist gegeben, wenn eine der Parteien die österreichische Staatsbürgerschaft hat oder ihren gewöhnlichen Aufenthalt im Inland hat. Für die Anerkennung einer ausländischen Entscheidung über den Bestand einer Ehe oder eingetragenen Partnerschaft ist die inländische Gerichtsbarkeit auch dann gegeben, wenn eine örtliche Zuständigkeit hiefür besteht. Die inländische Gerichtsbarkeit in Angelegenheiten der Auflösung einer eingetragenen Partnerschaft ist für in Österreich eingetragene Partnerschaften jedenfalls gegeben.
 
-#### § 115 – Amortisirung von Urkunden. – §. 115.
+#### § 115 – Amortisirung von Urkunden.
 
 (1) Aufforderungen zum Zwecke der Amortisirung von Staatsobligationen und der denselben gleichgeachteten Creditpapiere sind bei demjenigen Gerichtshofe erster Instanz zu beantragen, an dessen Amtssitze die bezüglichen Creditbücher geführt werden.
 
@@ -1327,13 +1327,13 @@ Die Vereinbarung muß urkundlich nachgewiesen werden; eine sonstige Voraussetzun
 >
 > 2\. ÜR: Art. 5, BGBl. I Nr. 61/2019
 
-#### § 116 – Fideicommiss-Angelegenheiten. – §. 116.
+#### § 116 – Fideicommiss-Angelegenheiten.
 
 (1) Bei Verhandlungen in nichtstreitigen Fideicommiss-Angelegenheiten einschließlich der Abhandlung des Fideicommissvermögens bei Todesfällen der Besitzer, der Erklärung über die erfolgte Löschung des Fideicommisses und der Bewilligung zu dessen Auflösung hat, soferne nicht in den genehmigten Fideicommissstatuten bezüglich der einzelnen Fideicommisse eine andere Fideicommissinstanz bestimmt ist, dasjenige Landesgericht einzuschreiten, vor welchem der Stifter des Fideicommisses zur Zeit seines Todes seinen allgemeinen Gerichtsstand hatte. Dagegen hat in Bezug auf Fideicommisse, welche schon vor Beginn der Wirksamkeit dieses Gesetzes errichtet wurden, derjenige Gerichtshof einzuschreiten, welcher bisher zur Ausübung der Gerichtsbarkeit in nichtstreitigen Fideicommissangelegenheiten zuständig war.
 
 (2) Wenn das Fideicommiss durch den Tod des letzten Besitzers erlischt, hat zwar die Verlassenschaftsbehörde des Verstorbenen die Abhandlung zu pflegen, die auf das Fideicommissband bezügliche Erklärung aber, dass das Fideicommiss erloschen sei, steht auch in dem Falle, als das Fideicommissgericht nicht zugleich Abhandlungsbehörde ist, dem Fideicommissgerichte zu.
 
-#### § 117 – Realangelegenheiten. – §. 117.
+#### § 117 – Realangelegenheiten.
 
 Die Vornahme aller Realakte, als insbesondere eines Augenscheines und Sachverständigenbefundes, einer Inventur, Schätzung, Feilbietung, Einführung eines Verwalters kommt, soferne nicht bezüglich einzelner Akte oder bestimmter Verfahren etwas anderes angeordnet ist, dem Bezirksgerichte zu, in dessen Sprengel sich die Sache befindet.
 
@@ -1369,7 +1369,7 @@ das Bezirksgericht am Sitze des Gerichtshofes, der nach den besonderen Vorschrif
 
 das Bezirksgericht, in dessen Sprengel die unbeweglichen Sachen ganz oder mit ihren Hauptbestandteilen liegen.
 
-#### § 119 – Aufkündigung von Hypothekarforderungen. – §. 119.
+#### § 119 – Aufkündigung von Hypothekarforderungen.
 
 Die gerichtliche Aufkündigung einer Hypothekarforderung (§. 59 allgemeines Grundbuchsgesetz) hat stets bei dem Grundbuchsgerichte zu erfolgen.
 
@@ -1411,11 +1411,11 @@ Die gerichtliche Aufkündigung einer Hypothekarforderung (§. 59 allgemeines Gru
 
 (7) Werden Gesellschaften verschmolzen, so ist sowohl für die Eintragung bei der übernehmenden Gesellschaft als auch bei der übertragenden Gesellschaft das Gericht zuständig, in dessen Sprengel die übernehmende Gesellschaft ihren Sitz hat. Wird eine Gesellschaft zur Aufnahme gespalten, so ist sowohl für die Eintragung bei der übertragenden Gesellschaft als auch bei der übernehmenden Gesellschaft das Gericht zuständig, in dessen Sprengel die übertragende Gesellschaft ihren Sitz hat.
 
-#### § 120a – Bestätigungen über die Führung der Handelsbücher. – §. 120a.
+#### § 120a – Bestätigungen über die Führung der Handelsbücher.
 
 Zur Ertheilung von Bestätigungen über die gesetzmäßige Beschaffenheit der Handelsbücher ist, wenn die Bücher an einem Orte geführt werden, an welchem ein Handelsgericht oder ein Landesgericht seinen Sitz hat, dieser Gerichtshof, sonst aber das Bezirksgericht zuständig, in dessen Sprengel die Handelsbücher geführt werden.
 
-#### § 121 – Beglaubigung von Unterschriften und Abschriften – §. 121.
+#### § 121 – Beglaubigung von Unterschriften und Abschriften
 
 Die Beglaubigung von Unterschriften und die Vidimirung von Abschriften können von jedem Bezirksgerichte vorgenommen werden.
 

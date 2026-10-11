@@ -1519,7 +1519,9 @@ Vor dem 1. Jänner 2010 eingeleitete Verkaufsverfahren sind nach den vor Inkraft
 
 ## Artikel II
 
-#### *(Anm.: aus BGBl. Nr. 521/1981, zu § 26, BGBl. Nr. 104/1949)*
+***(Anm.: aus BGBl. Nr. 521/1981, zu § 26, BGBl. Nr. 104/1949)***
+
+#### Art. 2
 
 Art. I Z 2 ist auf nach dem 31. Dezember 1981 beginnende Amtshandlungen anzuwenden.
 

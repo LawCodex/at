@@ -679,7 +679,9 @@ c) von Änderungen der Firma, der Rechtsform, des Sitzes oder der Geschäftsansc
 
 ## Artikel XXII
 
-#### Verweisungen
+**Verweisungen**
+
+#### Art. 22
 
 (1) Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden.
 
@@ -689,7 +691,9 @@ c) von Änderungen der Firma, der Rechtsform, des Sitzes oder der Geschäftsansc
 
 ## Artikel XXIII
 
-#### Übergangsbestimmungen
+**Übergangsbestimmungen**
+
+#### Art. 23
 
 (1) Das Gericht hat den Beginn der Umstellung des Firmenbuchs auf ADV und den nach § 28 FBG angeordneten Umfang der Umstellung mit Edikt kundzumachen.
 
@@ -725,7 +729,9 @@ c) von Änderungen der Firma, der Rechtsform, des Sitzes oder der Geschäftsansc
 
 ## Artikel XXIV
 
-#### Inkrafttreten, Aufhebung von Rechtsvorschriften, Vollziehungsklausel
+**Inkrafttreten, Aufhebung von Rechtsvorschriften, Vollziehungsklausel**
+
+#### Art. 24
 
 (1) Dieses Bundesgesetz tritt, soweit Art. XXIII Abs. 11 bis 14 nichts anderes anordnet, mit 1. Jänner 1991 in Kraft.
 

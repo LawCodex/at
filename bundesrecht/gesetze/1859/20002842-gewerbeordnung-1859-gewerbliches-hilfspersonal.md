@@ -44,7 +44,7 @@ BGBl. I Nr. 153/2017 (NR: GP XXV IA 2306/A S. 199. BR: 9897 AB 9905 S. 873.)
 
 ### Gewerbliches Hilfspersonale. — 1. Allgemeine Bestimmungen.
 
-#### § 72 – §. 72.
+#### § 72
 
 Die Festsetzung der Verhältnisse zwischen den selbstständigen Gewerbetreibenden und ihren Hilfsarbeitern ist innerhalb der durch die Gesetze gezogenen Gränzen Gegenstand freier Uebereinkunft.
 
@@ -92,11 +92,11 @@ Gewerbsinhaber dürfen den Arbeitern andere als die obbezeichneten Gegenstände 
 
 Die Auszahlung der Löhne in den Wirthshäusern und Schanklocalitäten ist untersagt.
 
-#### § 78a – §. 78a.
+#### § 78a
 
 Die Bestimmungen des §. 78 finden auch auf diejenigen Hilfsarbeiter Anwendung, welche außerhalb der Werkstätten für Gewerbsinhaber die zu deren Gewerbsbetriebe nöthigen Ganz- und Halbfabrikate anfertigen oder solche an sie absetzen, ohne aus dem Verkaufe dieser Waaren an Consumenten ein Gewerbe zu machen.
 
-#### § 78b – §. 78b.
+#### § 78b
 
 Die rücksichtlich der Gewerbsinhaber in den §§. 78 und 78a getroffenen Bestimmungen finden auch Anwendung auf Familienglieder, Gehilfen, Beauftragte, Geschäftsführer, Aufseher und Factoren der Gewerbsinhabern, sowie auf andere Gewerbetreibende, bei deren Geschäfte eine der hier erwähnten Personen unmittelbar oder mittelbar betheiligt ist.
 
@@ -144,7 +144,7 @@ h) mit einer abschreckenden Krankheit behaftet ist, oder durch eigenes Verschuld
 
 i) durch länger als vierzehn Tage gefänglich angehalten wird.
 
-#### § 82a – §. 82a.
+#### § 82a
 
 Vor Ablauf der vertragsmäßigen Zeit und ohne Kündigung kann ein Hilfsarbeiter die Arbeit verlassen:
 
@@ -158,17 +158,17 @@ d) wenn der Gewerbsinhaber ihm die bedungenen Bezüge ungebührlich vorenthält 
 
 e) wenn der Gewerbsinhaber außer Stande ist, oder sich weigert, dem Hilfsarbeiter Verdienst zu geben.
 
-#### § 83 – §. 83.
+#### § 83
 
 Durch das Aufhören des Gewerbsbetriebes oder durch den Tod des Hilfsarbeiters erlischt das Arbeitsverhältnis von selbst.
 
 Doch ist im Falle der vorzeitigen Entlassung des Hilfsarbeiters, sei es in Folge freiwilligen Aufgebens des Gewerbes oder in Folge einer Verschuldens des Gewerbsinhabers oder eines diesen treffenden Zufalls der Hilfsarbeiter berechtigt, für den Entgang der Kündigungsfrist Schadloshaltung zu beanspruchen.
 
-#### § 84 – §. 84.
+#### § 84
 
 Wenn der Gewerbsinhaber ohne einen gesetzlich zulässigen Grund (§§. 82 und 101) einen Hilfsarbeiter vorzeitig entläßt oder durch Verschulden von seiner Seite dem letzteren Grund zur vorzeitigen Auflösung des Arbeitsverhältnisses gibt (§. 82a), so ist er verpflichtet dem Hilfsarbeiter den Lohn und die sonst vereinbarten Genüsse für die ganze Kündigungsfrist, beziehungsweise für den noch übrigen Theil der Kündigungsfrist zu vergüten.
 
-#### § 86 – §. 86.
+#### § 86
 
 Wenn ein Hilfsarbeiter ohne gesetzlich zulässigen Grund (§§ 82 und 101) das Arbeitsverhältnis vorzeitig auflöst, so haftet für den gemäß § 1162a des allgemeinen bürgerlichen Gesetzbuches dem Hilfsarbeiter obliegenden Schadenersatz auch jener Gewerbeinhaber, der ihn zum Vertragsbruche verleitet hat oder ihn vor rechtmäßiger Beendigung des früheren Arbeitsverhältnisses in Kenntnis der unrechtmäßigen Lösung in Verwendung nimmt oder in Arbeit behält.
 

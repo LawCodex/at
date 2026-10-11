@@ -367,7 +367,9 @@ b) der übrigen Bestimmungen mit 1. Jänner 1961.
 
 ## Artikel II.
 
-#### *(Anm.: aus BGBl. Nr. 114/1962, zu BGBl. Nr. 290/1961)*
+***(Anm.: aus BGBl. Nr. 114/1962, zu BGBl. Nr. 290/1961)***
+
+#### Art. 2
 
 (1) In der Pensionsversicherung und Unfallversicherung nach dem Allgemeinen Sozialversicherungsgesetz leistet der Bund für die Jahre 1962 bis 1965 jährlich einen Beitrag von 26˙536 Millionen Schilling. Hievon entfallen auf die
 

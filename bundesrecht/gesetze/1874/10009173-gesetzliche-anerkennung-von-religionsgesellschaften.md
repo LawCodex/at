@@ -26,7 +26,7 @@ StF: RGBl. Nr. 68/1874
 
 Mit Zustimmung der beiden Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
-## § 1 – §. 1.
+## § 1
 
 Den Anhängern eines bisher gesetzlich nicht anerkannten Religionsbekenntnisses wird die Anerkennung als Religionsgesellschaft unter nachfolgenden Voraussetzungen ertheilt:
 
@@ -34,27 +34,27 @@ Den Anhängern eines bisher gesetzlich nicht anerkannten Religionsbekenntnisses 
 
 2\. daß die Errichtung und der Bestand wenigstens Einer nach den Anforderungen dieses Gesetzes eingerichteten Cultusgemeinde gesichert ist.
 
-## § 2 – §. 2.
+## § 2
 
 Ist den Voraussetzungen des §. 1 genügt, so wird die Anerkennung von dem Cultusminister ausgesprochen.
 
 Durch diese Anerkennung wird die Religionsgesellschaft aller jener Rechte theilhaftig, welche nach den Staatsgesetzen den gesetzlich anerkannten Kirchen- und Religionsgesellschaften zukommen.
 
-## § 3 – §. 3.
+## § 3
 
 Die Erfordernisse der Zugehörigkeit und die Art des Beitrittes zu einer anerkannten Religionsgesellschaft werden durch deren Verfassung bestimmt.
 
-## § 4 – §. 4.
+## § 4
 
 Zur Errichtung von Cultusgemeinden und von Bezirken, welche eine Mehrheit von Cultusgemeinden umfassen, dann zu jeder Aenderung in der Abgränzung der bestehenden Gemeinden und Bezirke, ist die staatliche Genehmigung erforderlich.
 
-## § 5 – §. 5.
+## § 5
 
 Die staatliche Genehmigung zur Errichtung einer Cultusgemeinde (§. 4) ist durch den Nachweis bedingt, daß dieselbe hinreichende Mittel besitzt, oder auf gesetzlich gestattete Weise aufzubringen vermag, um die nöthigen gottesdienstlichen Anstalten, die Erhaltung des ordentlichen Seelsorgers und die Ertheilung eines geregelten Religionsunterrichtes zu sichern.
 
 Vor ertheilter Genehmigung darf die Constituirung der Cultusgemeinde nicht stattfinden.
 
-## § 6 – §. 6.
+## § 6
 
 Insoweit die innere Einrichtung der Cultusgemeinden nicht schon durch die allgemeine Verfassung der Religionsgesellschaft bestimmt wird, ist sie durch Statute zu regeln, welche die nachfolgenden Puncte zu umfassen haben:
 
@@ -74,13 +74,13 @@ Insoweit die innere Einrichtung der Cultusgemeinden nicht schon durch die allgem
 
 Solche Statute sind den Gesuchen um die staatliche Genehmigung zur Errichtung von Cultusgemeinden (§§. 4, 5) beizulegen und unterliegen der Genehmigung des Cultusministers.
 
-## § 7 – §. 7.
+## § 7
 
 Soll eine Cultusgemeinde von Personen gebildet werden, welche der betreffenden Religionsgesellschaft bisher nicht angehört haben, so haben dieselben nach erlangter Genehmigung (§§. 4, 5) die Erklärung ihres Beitrittes zu der Gemeinde vor der politischen Behörde abzugeben, welche hievon dem Vorsteher oder Seelsorger der verlassenen Kirche oder Religionsgesellschaft Anzeige macht.
 
 Diese Erklärung hat alle rechtlichen Wirkungen der im Artikel 6 des Gesetzes vom 25. Mai 1868 (R. G. Bl. Nr. 49) normirten Austrittserklärung.
 
-## § 8 – §. 8.
+## § 8
 
 Mitglieder einer ordnungsmäßig constituirten Cultusgemeinde sind alle im Gebiete derselben wohnhaften Angehörigen der betreffenden Religionsgesellschaft.
 
@@ -88,7 +88,7 @@ Angehörige einer Religionsgesellschaft, welche nicht in dem Gebiete einer Cultu
 
 Der Gemeindevorstand (§. 9) hat für die Evidenzhaltung der Gemeindemitglieder zu sorgen.
 
-## § 9 – §. 9.
+## § 9
 
 In den Vorstand einer Cultusgemeinde können nur solche Mitglieder derselben berufen werden, welche österreichische Staatsbürger sind und im Vollgenusse der bürgerlichen Rechte stehen.
 
@@ -96,11 +96,11 @@ Die Bestellung des Vorstandes ist der Landesbehörde anzuzeigen.
 
 Die Bestellung eines Vorstandes, dessen Wirksamkeit sich auf mehr als Eine Cultusgemeinde erstrecken soll, bedarf der Bestätigung durch den Cultusminister.
 
-## § 10 – §. 10.
+## § 10
 
 Als Seelsorger kann in der Cultusgemeinde nur ein österreichischer Staatsbürger angestellt werden, dessen Verhalten in sittlicher und staatsbürgerlicher Hinsicht vorwurfsfrei ist und dessen allgemeine Bildung mindestens durch Vollendung des Gymnasialstudiums erprobt ist.
 
-## § 11 – §. 11.
+## § 11
 
 Den zur Anstellung der Seelsorger Berechtigten liegt ob, die im einzelnen Falle ausersehene Person der Landesbehörde anzuzeigen.
 
@@ -114,7 +114,7 @@ Wird der Berufung nicht Folge gegeben, so darf die Anstellung nicht stattfinden.
 
 Die Anstellung von Religionsdienern, deren Wirksamkeit sich mehr als auf Eine Cultusgemeinde erstrecken soll, bedarf der Bestätigung durch den Cultusminister.
 
-## § 12 – §. 12.
+## § 12
 
 Wenn ein Religionsdiener verbrecherischer oder solcher strafbarer Handlungen schuldig erkannt worden ist, die aus Gewinnsucht entstehen, gegen die Sittlichkeit verstoßen oder zu öffentlichem Aergernisse gereichen, oder wenn ein Seelsorger die österreichische Staatsbürgerschaft verliert, so hat die Regierung seine Entfernung vom Amte zu verlangen.
 
@@ -124,23 +124,23 @@ Wird die von der Regierung verlangte Entfernung von den hiezu Berufenen nicht in
 
 In derselben Weise kann vorgegangen werden, wenn aus einem anderen Grunde die oben bezeichneten Geschäfte von dem ordentlichen Seelsorger nicht besorgt werden.
 
-## § 13 – §. 13.
+## § 13
 
 Jede nicht schon in der allgemeinen Verfassung der Religionsgesellschaft vorgesehene Vereinigung mehrerer Cultusgemeinden oder der Vertreter derselben zu einer dauernden oder vorübergehenden gemeinsamen Thätigkeit, insbesondere zur Beschlußfassung über gemeinsame Angelegenheiten, bedarf der von Fall zu Fall zu ertheilenden Gestattung des Cultusministers.
 
-## § 14 – §. 14.
+## § 14
 
 Zur Einbringung der mit staatlicher Zustimmung ausgeschriebenen Umlagen und der den Religionsdienern zustehenden Einkünfte und Gebühren wird der staatliche Beistand gewährt.
 
-## § 15 – §. 15.
+## § 15
 
 Die staatliche Cultusverwaltung hat darüber zu wachen, daß die anerkannten Religionsgesellschaften, deren Gemeinden und Organe ihren Wirkungskreis nicht überschreiten und den Bestimmungen des gegenwärtigen Gesetzes, sowie den auf Grundlage desselben von den staatlichen Behörden erlassenen Anordnungen und jedem von ihnen kraft dieses Gesetzes gestellten Verlangen nachkommen. Zu diesem Ende können die Behörden Geldbußen in einer den Vermögensverhältnissen angemessenen Höhe, sowie sonst gesetzlich zulässige Zwangsmittel in Anwendung bringen.
 
-## § 16 – §. 16.
+## § 16
 
 Dieses Gesetz tritt mit dem Tage seiner Kundmachung in Wirksamkeit.
 
-## § 17 – §. 17.
+## § 17
 
 Mit der Vollziehung dieses Gesetzes sind der Minister für Cultus und Unterricht und der Minister des Innern beauftragt.
 

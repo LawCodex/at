@@ -47,7 +47,7 @@ BGBl. I Nr. 102/2007 (NR: GP XXIII RV 300 AB 359 S. 40. BR: AB 7811 S. 751.)
 
 ### Angestellte Journalisten
 
-#### § 1 – § 1.
+#### § 1
 
 (1) Die Vorschriften dieses Gesetzes gelten für alle mit der Verfassung des Textes oder mit der Zeichnung von Bildern betrauten Mitarbeiter einer Zeitungsunternehmung, die mit festen Bezügen angestellt sind und diese Tätigkeit nicht bloß als Nebenbeschäftigung ausüben (Redakteure, Schriftleiter).
 
@@ -55,7 +55,7 @@ BGBl. I Nr. 102/2007 (NR: GP XXIII RV 300 AB 359 S. 40. BR: AB 7811 S. 751.)
 
 ## Arbeitsvertrag
 
-#### § 2 – § 2.
+#### § 2
 
 (1) Jedem Redakteur ist am Tage seines Dienstantrittes eine schriftliche Bescheinigung des zwischen ihm und der Zeitungsunternehmung abgeschlossenen Arbeitsvertrages einzuhändigen.
 
@@ -71,17 +71,17 @@ BGBl. I Nr. 102/2007 (NR: GP XXIII RV 300 AB 359 S. 40. BR: AB 7811 S. 751.)
 
 5\. die Dauer der Kündigungsfrist.
 
-#### § 3 – § 3.
+#### § 3
 
 Die Dauer des dem Redakteur zu gewährenden jährlichen Urlaubes muß mindestens 30 Werktage, nach mehr als zehnjähriger Dauer des Arbeitsverhältnisses 39 Werktage betragen, innerhalb welcher Zeit die festen Bezüge fortlaufen. Im übrigen gilt Artikel I Abschnitt 1 des Bundesgesetzes vom 7. Juli 1976 betreffend die Vereinheitlichung des Urlaubsrechtes und die Einführung einer Pflegefreistellung, BGBl. Nr. 390.
 
-#### § 4 – § 4.
+#### § 4
 
 Die Kündigungsfrist muß mindestens drei Monate betragen und erhöht sich nach fünfjähriger ununterbrochener Dauer des Arbeitsverhältnisses mit jedem Jahre um einen Monat bis zum Höchstausmaß von einem Jahr.
 
 ## Veräußerung der Zeitungsunternehmung
 
-#### § 8 – § 8.
+#### § 8
 
 (1) Wird eine Zeitungsunternehmung veräußert, so kann der Erwerber innerhalb eines Monates nach der Veräußerung dem Redakteur gegenüber erklären, daß er in dessen Vertrag mit dem Veräußerer nicht eintritt.
 
@@ -93,19 +93,19 @@ Die Kündigungsfrist muß mindestens drei Monate betragen und erhöht sich nach 
 
 (5) Besteht nach § 14 des Betrieblichen Mitarbeiter- und Selbständigenvorsorgegesetzes – BMSVG, BGBl. I Nr. 100/ 2002, Anspruch auf Verfügung über eine Abfertigung aus dem nach Abs. 1 beendeten Vertrag, ist diese auf die nach Abs. 2 gebührende Entschädigung anzurechnen.
 
-#### § 9 – § 9.
+#### § 9
 
 Für die Zahlung der aus § 8 Abs. 2 sich ergebenden Ansprüche des Redakteurs haften der Erwerber und der Veräußerer zur ungeteilten Hand.
 
 ## Auflassung der Zeitungsunternehmung
 
-#### § 10 – § 10.
+#### § 10
 
 Wird die Zeitungsunternehmung aufgelassen, so kann dem Redakteur nur unter Einhaltung einer Kündigungsfrist von mindestens sechs Monaten gekündigt werden, wenn nicht gemäß § 4 oder zufolge Vertrages eine längere Kündigungsfrist einzuhalten ist.
 
 ## Wechsel der politischen Richtung
 
-#### § 11 – § 11.
+#### § 11
 
 (1) Wechselt eine Zeitungsunternehmung die von ihr bisher eingehaltene politische Richtung, so kann der Redakteur, dem die Fortsetzung seiner Tätigkeit ohne Änderung seiner Gesinnung nicht zugemutet werden kann, innerhalb eines Monates, nachdem er von dem Wechsel der politischen Richtung Kenntnis erlangt haben mußte, den Vertrag ohne Einhaltung einer Kündigungsfrist lösen.
 
@@ -113,7 +113,7 @@ Wird die Zeitungsunternehmung aufgelassen, so kann dem Redakteur nur unter Einha
 
 ## Wechsel der politischen Richtung
 
-#### § 12 – § 12.
+#### § 12
 
 (1) Über die Frage, ob die Voraussetzungen für eine Auflösung im Sinne des § 11 Abs. 1 vorliegen, entscheidet ein fünfgliedriges Schiedsgericht, das aus je zwei von den beiden Streitteilen zu bestellenden Schiedsrichtern und einem von diesen vier Schiedsrichtern mit Stimmenmehrheit zu wählenden Obmann zusammengesetzt ist.
 
@@ -123,15 +123,15 @@ Wird die Zeitungsunternehmung aufgelassen, so kann dem Redakteur nur unter Einha
 
 (4) Das Gericht ist an die Entscheidung des Schiedsgerichtes gebunden.
 
-#### § 13 – § 13.
+#### § 13
 
 Insoweit in diesem Gesetze nichts anderes bestimmt ist, bleiben die bestehenden Vorschriften über das Dienstverhältnis der Redakteure unberührt.
 
-#### § 14 – § 14.
+#### § 14
 
 Die Rechte, die den Redakteuren auf Grund dieses Gesetzes zustehen, können durch den Arbeitsvertrag weder aufgehoben noch beschränkt werden.
 
-#### § 15 – § 15.
+#### § 15
 
 Die Vorschriften dieses Gesetzes finden auch auf die am Tage des Wirksamkeitsbeginnes dieses Gesetzes bestehenden Arbeitsverhältnisse der Redakteure Anwendung.
 
@@ -201,7 +201,7 @@ Die Vorschriften dieses Gesetzes finden auch auf die am Tage des Wirksamkeitsbeg
 
 ### Inkrafttreten und Vollziehung
 
-#### § 24 – § 24.
+#### § 24
 
 (1) Dieses Gesetz tritt mit dem Tage seiner Kundmachung in Wirksamkeit.
 
@@ -219,7 +219,9 @@ Die Vorschriften dieses Gesetzes finden auch auf die am Tage des Wirksamkeitsbeg
 
 ### Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. Nr. 81/1983, zu § 3, StGBl. Nr. 88/1920)*
+***(Anm.: aus BGBl. Nr. 81/1983, zu § 3, StGBl. Nr. 88/1920)***
+
+#### Art. 6
 
 (1) Das durch Artikel I bis IV vorgesehene Urlaubsausmaß gebührt erstmals für jenes Urlaubsjahr, das im Jahre 1986 beginnt.
 

@@ -2654,7 +2654,9 @@ Dieses Gesetz wurde unter Einhaltung der Bestimmungen der Richtlinie (EU) 2015/1
 
 ## Artikel 5
 
-#### Schlussbestimmungen, Inkrafttreten und Vollziehung – *(Anm.: aus BGBl. I Nr. 137/2009, zu BGBl. I Nr. 111/2003)*
+**Schlussbestimmungen, Inkrafttreten und Vollziehung**
+
+#### Art. 5 – *(Anm.: aus BGBl. I Nr. 137/2009, zu BGBl. I Nr. 111/2003)*
 
 1\. Bei allen personenbezogenen Bezeichnungen gilt die gewählte Form für beide Geschlechter.
 

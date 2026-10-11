@@ -32,13 +32,13 @@ BGBl. Nr. 92/1927
 
 ## Allgemeine Bestimmungen.
 
-### § 1 – §. 1.
+### § 1
 
 Bei den politischen Verwaltungsbehörden aller Instanzen werden als deren ständige Fachorgane für die Angelegenheiten der staatlichen Veterinärverwaltung besonders qualificirte Amtsthierärzte bestellt (§§. 2 und 3).
 
 Soweit dieses Gesetz nicht abweichende Anordnungen enthält, haben hinsichtlich der Bestellung und des Dienstverhältnisses der Amtsthierärzte die für die Conceptsbeamten der politischen Verwaltung geltenden Vorschriften analoge Anwendung zu finden.
 
-### § 2 – §. 2.
+### § 2
 
 Die Erlangung einer definitiven Anstellung als Amtsthierarzt der staatlichen Veterinärverwaltung ist an die zum Eintritte in den Staatsdienst erforderlichen allgemeinen Bedingungen und überdies an folgende besondere Nachweise geknüpft:
 
@@ -48,7 +48,7 @@ b) über die an einer inländischen thierärztlichen Hochschule nach Ablegung de
 
 c) über die mit Erfolg bestandene thierärztliche Physikatsprüfung.
 
-### § 3 – §. 3.
+### § 3
 
 Die bei der staatlichen Veterinärverwaltung in Verwendung stehenden Amtsthierärzte – soferne sie nicht gemäß §. 9 in den Status der Beamten des Ministeriums des Innern eingereiht werden – sind:
 
@@ -66,7 +66,7 @@ f) der Ministerial-Veterinärreferent.
 
 ## Veterinärassistenten.
 
-### § 4 – §. 4.
+### § 4
 
 Zur Heranziehung eines geeigneten Nachwuchses und zur praktischen Verwendung in Angelegenheiten des staatlichen Veterinärdienstes werden bei den politischen Landesbehörden Veterinärassistenten mit und ohne Adjuten bestellt, auf welche die für die Conceptspraktikanten des politischen Verwaltungsdienstes geltenden Vorschriften im allgemeinen analoge Anwendung zu finden haben.
 
@@ -78,7 +78,7 @@ Nach mit befriedigendem Erfolge absolvirter einjähriger Probepraxis und – sof
 
 ## Bezirksthierärzte und Bezirksoberthierärzte.
 
-### § 5 – §. 5.
+### § 5
 
 Bei den Bezirkshauptmannschaften werden Bezirksthierärzte in der X. und Bezirksoberthierärzte in der IX. Rangsclasse der Staatsbeamten mit der Maßgabe bestellt, dass in jedem einer politischen Landesbehörde unterstehenden Verwaltungsgebiete von der Gesammtzahl dieser Amtsthierärzte drei Fünftheile in die X. und zwei Fünftheile in die IX. Rangsclasse einzureihen sind.
 
@@ -86,13 +86,13 @@ Bei jeder Bezirkshauptmannschaft soll in der Regel ein Bezirksthierarzt oder Bez
 
 ## Veterinärinspectoren.
 
-### § 6 – §. 6.
+### § 6
 
 Zur regelmäßigen Verwendung im Veterinärdienste werden bei den politischen Landesbehörden nach Maßgabe des Bedarfes Veterinärinspectoren in der VIII. Rangsclasse der Staatsbeamten bestellt, welche den Fachreferenten (§. 7) insbesondere in Bezug auf die persönliche Überwachung der veterinären Verhältnisse des Verwaltungsgebietes durch Vornahme der periodischen oder fallweise erforderlichen Dienstreisen zu vertreten berufen sind.
 
 ## Landes-Veterinärreferenten.
 
-### § 7 – §. 7.
+### § 7
 
 Als Fachreferenten für die Angelegenheiten der Landes-Veterinärverwaltung werden bei den politischen Landesbehörden Amtsthierärzte in der VII. Rangsclasse der Staatsbeamten bestellt, welche die Bezeichnung „Landes-Veterinärreferent“ zu führen haben.
 
@@ -102,7 +102,7 @@ Die Landes-Veterinärreferenten sind den Berathungen des Landes-Sanitätsrathes 
 
 ## Central-Veterinärverwaltung.
 
-### § 8 – §. 8.
+### § 8
 
 Zur Besorgung der Angelegenheiten der Veterinärverwaltung im Ministerium des Innern wird die nöthige Zahl von Amtsthierärzten bestellt, welche entweder in den Status der Ministerialbeamten eingereiht oder aus dem Status der in den einzelnen Verwaltungsgebieten bestellten Amtsthierärzte (§. 3, lit. a bis e) vom Minister des Innern zur Dienstleistung einberufen werden.
 
@@ -112,13 +112,13 @@ Der Ministerial-Veterinärreferent ist den Berathungen des Obersten Sanitätsrat
 
 ## Besondere Verwendung.
 
-### § 9 – §. 9.
+### § 9
 
 Die Amtsthierärzte der staatlichen Veterinärverwaltung können von den politischen Landeschefs, beziehungsweise vom Minister des Innern in Angelegenheiten dieses Verwaltungszweiges auch außerhalb ihres regelmäßigen Wirkungskreises (§§. 4 bis 8) zu besonderen Verwendungen bestimmt werden.
 
 ## Übergangsbestimmungen.
 
-### § 10 – §. 10.
+### § 10
 
 Rücksichtlich derjenigen Personen, welche die thierärztlichen Studien vor Wirksamkeit des mit Erlass des Ministers für Cultus und Unterricht vom 27. März 1897, R. G. Bl. Nr. 80, kundgemachten Studienplanes begonnen haben, werden in Bezug auf die Erlangung einer probeweisen oder definitiven Anstellung als Amtsthierärzte der staatlichen Veterinärverwaltung die in §. 2, lit. a) und b) vorgeschriebenen Nachweise durch Vorlage eines nach den Bestimmungen der Ministerialkundmachung vom 12. Juli 1871, R. G. Bl. Nr. 97 (§. 19), erlangten thierärztlichen Diplomes ersetzt.
 
@@ -128,12 +128,12 @@ Bezirksthierärzte, welche bei Beginn der Wirksamkeit dieses Gesetzes noch nicht
 
 ## Schlussbestimmungen.
 
-### § 11 – §. 11.
+### § 11
 
 Die Wirksamkeit dieses Gesetzes beginnt mit dem ersten Tage des auf die Kundmachung folgenden Monates.
 
 Gleichzeitig treten die Bestimmungen des Gesetzes vom 30. April 1870, R. G. Bl. Nr. 68, welche sich auf die Bestellung und das Dienstverhältnis der bei der staatlichen Veterinärverwaltung in Verwendung stehenden Amtsthierärzte beziehen, sowie §. 2 des Gesetzes vom 24. November 1876, R. G. Bl. Nr. 137, außer Kraft.
 
-### § 12 – §. 12.
+### § 12
 
 Mit dem Vollzuge dieses Gesetzes ist Mein Minister des Innern betraut.

@@ -4333,7 +4333,9 @@ umgesetzt.
 
 ### Hinweis auf die Umsetzung von Richtlinien
 
-#### *(Anm.: aus BGBl. I Nr. 155/2013, zu den §§ 57, 84, 85 und 127, BGBl. Nr. 129/1958)*
+***(Anm.: aus BGBl. I Nr. 155/2013, zu den §§ 57, 84, 85 und 127, BGBl. Nr. 129/1958)***
+
+#### Art. 1
 
 (1) Mit den §§ 57 Abs. 4 und 4a, 84 Abs. 5 und 127 Abs. 1 dieses Bundesgesetzes wird die Richtlinie 2010/64/EU über das Recht auf Dolmetschleistungen und Übersetzungen in Strafverfahren, ABl. Nr. L 280 vom 26.10.2010 S. 1, umgesetzt.
 
@@ -4343,7 +4345,9 @@ umgesetzt.
 
 ### ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
-#### *(Anm.: aus BGBl. Nr. 699/1991, zu § 28, BGBl. Nr. 129/1958)*
+***(Anm.: aus BGBl. Nr. 699/1991, zu § 28, BGBl. Nr. 129/1958)***
+
+#### Art. 1
 
 \*(Anm.: Z 1 zum Umgründungssteuergesetz)*
 

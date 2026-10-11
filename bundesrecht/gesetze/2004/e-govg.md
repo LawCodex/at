@@ -798,7 +798,9 @@ anzugeben, sofern diese Daten nicht bereits im Wege des Unternehmensregisters ge
 
 ### Notifikationshinweis gemäß Artikel 12 der Richtlinie 98/34/EG
 
-#### *(Anm.: aus BGBl. I Nr. 7/2008, zu den §§ 1 – 3, 5 – 15, 19, 20, 22 und 25, BGBl. I Nr. 10/2004)*
+***(Anm.: aus BGBl. I Nr. 7/2008, zu den §§ 1 – 3, 5 – 15, 19, 20, 22 und 25, BGBl. I Nr. 10/2004)***
+
+#### Art. 2
 
 Dieses Gesetz wurde unter Einhaltung der Bestimmungen der Richtlinie 98/34/EG über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft, ABl. Nr. L 204 vom 21.7.1998, S. 37 in der Fassung der Richtlinie 98/48/EG, ABl. Nr. L 217 vom 5.8.1998, S. 18, unter der Notifikationsnummer 2007/450/A notifiziert.
 

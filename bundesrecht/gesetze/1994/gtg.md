@@ -3145,7 +3145,9 @@ E) Bestätigung über die erfolgreiche Teilnahme an den angebotenen Ringversuche
 
 ## Artikel III
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 3
 
 (1) Dieses Bundesgesetz tritt mit Ausnahme des Artikels I V. Abschnitt Gentechnikkommission am 1. Jänner 1995 in Kraft.
 
@@ -3171,7 +3173,9 @@ E) Bestätigung über die erfolgreiche Teilnahme an den angebotenen Ringversuche
 
 ### Schluss- und Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. I Nr. 127/2005, zu den §§ 1, 2, 3, 4, 11, 24, 30, 64, 65, 66, 67, 68, 68a, 69, 70, 71, 71a, 72, 73, 75, 76, 77, 78, 78a, 79, 81, 85, 88, 91, 99, 101, 101e, 108, 109 und Anlagen 2, 3 und 4, BGBl. Nr. 510/1994)*
+***(Anm.: aus BGBl. I Nr. 127/2005, zu den §§ 1, 2, 3, 4, 11, 24, 30, 64, 65, 66, 67, 68, 68a, 69, 70, 71, 71a, 72, 73, 75, 76, 77, 78, 78a, 79, 81, 85, 88, 91, 99, 101, 101e, 108, 109 und Anlagen 2, 3 und 4, BGBl. Nr. 510/1994)***
+
+#### Art. 2
 
 (1) Die §§ 2, 11, 24, 30, 65, 66, 67, 68, 68a, 69, 71, 71a, 72, 73, 74, 75, 76, 77, 78, 78a, 79, 88, 101e und 109 des Gentechnikgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 127/2005 treten mit dem der Kundmachung des Bundesgesetzes BGBl. I Nr. 127/2005 folgenden Monatsersten in Kraft.
 
@@ -3181,7 +3185,9 @@ E) Bestätigung über die erfolgreiche Teilnahme an den angebotenen Ringversuche
 
 ## Artikel 3
 
-#### *(Anm.: aus BGBl. I Nr. 126/2004, zu den §§ 2, 3, 4, 35, 37, 38, 39, 40, 41, 42, 46, 46a, 48, 49, 54, 55, 56, 58, 58a bis 58e, 59, 60, 62, 62a bis 62c, 79k bis 79m, 81, 100, 100a, 101, 101c, 101e, 105, 109 und 111, BGBl. Nr. 510/1994)*
+***(Anm.: aus BGBl. I Nr. 126/2004, zu den §§ 2, 3, 4, 35, 37, 38, 39, 40, 41, 42, 46, 46a, 48, 49, 54, 55, 56, 58, 58a bis 58e, 59, 60, 62, 62a bis 62c, 79k bis 79m, 81, 100, 100a, 101, 101c, 101e, 105, 109 und 111, BGBl. Nr. 510/1994)***
+
+#### Art. 3
 
 (1) Die §§ 2, 3, 4, 35, 37, 38, 39, 40, 41, 42, 46, 46a, 48, 49, 54, 55, 56, 58, 58a bis 58e, 59, 60, 62, 62a bis 62c, 79k bis 79m, 81, 100, 100a, 101, 101c, 101e, 105, 109 und 111 des Gentechnikgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 126/2004 treten mit dem der Kundmachung des Bundesgesetzes BGBl. I Nr.126/2004 folgenden Monatsersten in Kraft
 

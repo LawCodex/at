@@ -1,0 +1,116 @@
+---
+title: "Symbole-Gesetz"
+identifier: "20009040"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 103/2014"
+last_amended: 2024-01-01
+last_amendment: "BGBl. I Nr. 177/2023"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/2014/103/P0/NOR40167171"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009040"
+retrieved: 2026-10-11
+documents: 6
+---
+
+# Symbole-Gesetz
+
+Bundesgesetz, mit dem die Verwendung von Symbolen der Gruppierung Islamischer Staat und anderer Gruppierungen verboten wird (Symbole-Gesetz)
+
+StF: BGBl. I Nr. 103/2014 (NR: GP XXV RV 346 AB 412 S. 53. BR: AB 9291 S. 837.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 2/2019 (NR: GP XXVI RV 377 AB 419 S. 53. BR: AB 10094 S. 887.)  
+BGBl. I Nr. 162/2021 (NR: GP XXVII RV 854 AB 872 S. 115. BR: AB 10731 S. 929.)  
+BGBl. I Nr. 177/2023 (NR: GP XXVII RV 2285 AB 2340 S. 247. BR: 11364 AB 11395 S. 961.)  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+## § 1 – Anwendungsbereich
+
+§ 1. Dieses Bundesgesetz regelt das Verbot der Verwendung von Symbolen
+
+1\. der Gruppierung Islamischer Staat (IS);
+
+2\. der Gruppierung Al-Qaida;
+
+3\. der Gruppierung Muslimbruderschaft;
+
+4\. der Gruppierung Graue Wölfe;
+
+5\. der Gruppierung Kurdische Arbeiterpartei (PKK);
+
+6\. der Gruppierung Hamas;
+
+7\. der Gruppierung Hisbollah;
+
+8\. von sonstigen Gruppierungen, die in Rechtsakten der Europäischen Union als terroristische Vereinigungen, Körperschaften oder sonstige Organisationen angeführt werden;
+
+9\. der Gruppierung Ustascha;
+
+10\. der Gruppierung Identitäre Bewegung Österreich (IBÖ);
+
+11\. der Gruppierung Die Österreicher (DO5);
+
+12\. der Gruppierung Hizb ut-Tahrir (HuT);
+
+13\. der Gruppierung Kaukasus-Emirat;
+
+14\. der Gruppierung Revolutionäre Volksbefreiungspartei/-front (DHKP–C);
+
+15\. von Gruppierungen, die Teil- oder Nachfolgeorganisationen der in Z 1 bis 14 genannten Gruppierungen oder diesen zuzurechnen sind.
+
+## § 2 – Verwendungsverbot
+
+§ 2. (1) Es ist verboten, Symbole einer in § 1 genannten Gruppierung in der Öffentlichkeit einschließlich unter Zuhilfenahme elektronischer Kommunikationsmittel darzustellen, zur Schau zu stellen, zu tragen oder zu verbreiten. Als Symbole sind auch Abzeichen, Embleme und Gesten anzusehen.
+
+(2) Die Benennung von Gruppierungen nach § 1 Z 8 und 15 erfolgt durch Verordnung der Bundesregierung. Der Bundesminister für Inneres bezeichnet durch Verordnung die Symbole im Sinne des Abs. 1, wobei auch grafisch veränderte Darstellungen von bezeichneten Symbolen, wie insbesondere farbliche Abweichungen, vom Verwendungsverbot umfasst sind.
+
+(3) Die Verbote des Abs. 1 sind nicht anzuwenden auf
+
+1\. Druckwerke und periodische Medien,
+
+2\. Gesten und bildliche Darstellungen,
+
+3\. Aufführungen von Bühnen- und Filmwerken sowie
+
+4\. Ausstellungen, bei denen Ausstellungsstücke, die unter Abs. 1 fallen, keinen wesentlichen Bestandteil der Ausstellung darstellen,
+
+wenn nicht das Ideengut einer in § 1 genannten Gruppierung gutgeheißen oder propagiert wird.
+
+(4) Auf sonstige Ausstellungen finden die Verbote des Abs. 1 dann keine Anwendung, wenn sich die Ausstellung und deren Zweckbestimmung eindeutig gegen das Ideengut der betreffenden Gruppierung richten.
+
+## § 3 – Strafbestimmung
+
+§ 3. (1) Wer vorsätzlich einem Verbot des § 2 zuwiderhandelt, begeht eine Verwaltungsübertretung und ist von der Bezirksverwaltungsbehörde, im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, von der Landespolizeidirektion, mit Geldstrafe bis zu 10 000 Euro oder mit Freiheitsstrafe bis zu einem Monat zu bestrafen. Wer bereits einmal rechtskräftig nach dieser Bestimmung bestraft wurde, ist mit Geldstrafe bis zu 20 000 Euro oder mit Freiheitsstrafe bis zu sechs Wochen zu bestrafen.
+
+(2) Symbole, die den Gegenstand einer strafbaren Handlung im Sinne des § 2 bilden, sind, soweit dies nach der Beschaffenheit der Symbole oder des damit untrennbar verbundenen Gegenstandes möglich ist, für verfallen zu erklären.
+
+(3) Der Versuch ist strafbar.
+
+(4) Die Behörden haben rechtskräftige Straferkenntnisse nach Abs. 1 den Sicherheitsbehörden für Zwecke der Sicherheitspolizei zu übermitteln, soweit diese deren Inhalt zur Erfüllung ihrer gesetzmäßigen Aufgaben benötigen.
+
+## § 4 – Vollziehung
+
+§ 4. Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Inneres, hinsichtlich des § 2 Abs. 2 erster Satz die Bundesregierung betraut.
+
+## § 5 – Inkrafttreten
+
+§ 5. (1) Dieses Gesetz tritt mit 1. Jänner 2015 in Kraft.
+
+(2) Verordnungen auf Grund dieses Bundesgesetzes können bereits ab dem seiner Kundmachung folgenden Tag erlassen werden. Sie treten jedoch frühestens gemeinsam mit diesem Bundesgesetz in Kraft.
+
+(3) § 1 und § 2 Abs. 1 bis 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 2/2019 treten mit 1. März 2019 in Kraft.
+
+(4) § 1 Z 7 und Z 10 bis 15 und § 2 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 162/2021 treten mit Ablauf des Tages der Kundmachung in Kraft.
+
+(5) § 3 Abs. 1 und 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 177/2023 tritt mit 1. Jänner 2024 in Kraft.

@@ -213,7 +213,9 @@ c) die Ansprüche der im Zeitpunkt der Umstellung im Betrieb beschäftigten Arbe
 
 ## Artikel IX
 
-#### Inkrafttreten und Vollziehung
+**Inkrafttreten und Vollziehung**
+
+#### Art. 9
 
 (1) Dieses Bundesgesetz tritt hinsichtlich des Art. I § 13 und des Art. VI Z. 1 und 2 mit dem Beginn des Beitragszeitraumes (§ 44 Abs. 2 ASVG) September 1974, im übrigen mit 1. September 1974 in Kraft.
 
@@ -265,7 +267,9 @@ b) für das Geschäftsjahr 1975 mit der Maßgabe anzuwenden, daß nur ein Übers
 
 ### Inkrafttreten
 
-#### *(Anm.: aus BGBl. Nr. 300/1990, zu § 2, BGBl. Nr. 399/1974)*
+***(Anm.: aus BGBl. Nr. 300/1990, zu § 2, BGBl. Nr. 399/1974)***
+
+#### Art. 2
 
 (1) Dieses Bundesgesetz tritt mit 1. Juni 1990 in Kraft.
 
@@ -275,7 +279,9 @@ b) für das Geschäftsjahr 1975 mit der Maßgabe anzuwenden, daß nur ein Übers
 
 ### Inkrafttreten
 
-#### *(Anm.: aus BGBl. Nr. 283/1988, zu §§ 2 und 13, BGBl. Nr. 399/1974)*
+***(Anm.: aus BGBl. Nr. 283/1988, zu §§ 2 und 13, BGBl. Nr. 399/1974)***
+
+#### Art. 11
 
 (1) Dieses Bundesgesetz tritt, soweit im folgenden nichts anderes bestimmt wird, mit 1. Jänner 1988 in Kraft.
 

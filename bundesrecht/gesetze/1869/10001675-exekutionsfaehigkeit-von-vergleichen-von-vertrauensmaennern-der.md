@@ -54,7 +54,7 @@ BGBl. I Nr. 151/2004 (NR: GP XXII RV 643 AB 723 S. 89. BR: 7156 AB 7164 S. 717.)
 
 Um den vor Vertrauensmännern aus der Gemeinde zwischen streitenden Parteien abgeschlossenen Vergleichen die Kraft gerichtlicher Vergleiche zu sichern und deren Gebührenbehandlung zu regeln, finde Ich mit Bezug auf den Art. V, Ziffer 11 des Gesetzes vom 5. März 1862, R. G. Bl. Nr. 18, über die grundsätzlichen Bestimmungen zur Regelung des Gemeindewesens mit Zustimmung beider Häufer des Reichsrathes zu verordnen, wie folgt:
 
-## § 1 – § 1.
+## § 1
 
 Vor dem aus Vertrauensmännern der Gemeinde gebildeten Vermittlungsamte können zwischen streitenden Parteien im Sinne dieses Gesetzes wirksame Vergleiche abgeschlossen werden:
 
@@ -70,7 +70,7 @@ Zum Abschlusse eines solchen Vergleiches ist die gleichzeitige Anwesenheit von w
 
 Von Vergleichen, durch welche das Eigentum an einer grundbücherlich eingetragenen Liegenschaft oder an Teilen derselben übertragen wird oder ein Grundbuchskörper eine Änderung erfährt, hat das Vermittlungsamt von Amts wegen dem Vermessungsbeamten Mitteilung zu machen. Der Vergleichsverhandlung kann in derartigen Fällen zum Zwecke der Darstellung der Liegenschaftsgrenzen auf Antrag der Parteien ein zur Verfassung und Beglaubigung geometrischer Pläne (Situationspläne) ermächtigter Sachverständiger beigezogen werden.
 
-## § 2 – § 2.
+## § 2
 
 Die Partei, die einer Ladung vor das Vermittlungsamt nicht Folge leisten will oder aus einem ihr bis dahin bekannt gewordenen Grunde nicht Folge leisten kann, muß dies spätestens am Tage vor der anberaumten Vergleichsverhandlung bei dem Vermittlungsamte anzeigen, widrigens gegen sie vom Vermittlungsamte im Falle des Nichterscheinens eine Geldstrafe von einer halben bis fünf Kronen verhängt werden kann. Solche Geldstrafen werden wie die Geldleistungen eingetrieben, die nach einem gültigen Gemeindebeschlusse für Gemeindezwecke stattzufinden haben, und verfallen zu Gunsten des Armenfonds der Gemeinde, in der die Vergleichsverhandlung angeordnet war.
 
@@ -136,13 +136,13 @@ Diese Amtsurkunde hat unter Beziehung der Zahl des Bandes des Amtsbuches eine wo
 
 > **Beachte:** zum Inkrafttretensdatum vgl. § 8 RGBl. Nr. 260/1852
 
-## § 8 – § 8.
+## § 8
 
 Die vor dem Vermittlungsamte der Gemeinde in Gemäßheit der vorstehenden Bestimmungen abgeschlossenen Vergleiche haben die Kraft gerichtlicher Vergleiche und es sind die den Bestimmungen des § 7 entsprechenden Amtsurkunden über solche Vergleiche den amtlichen Ausfertigungen gerichtlicher Vergleiche gleichzuachten.
 
 Auf Grund von Vergleichen, durch welche eine Katastralparzelle geteilt wird (§ 1, lit. b), kann diese Teilung im Grundbuche nur dann durchgeführt werden, wenn die Beschreibung oder geometrische Darstellung der Teilung in der Amtsurkunde oder in einem ihr beigefügten Situationsplane den bestehenden Vorschriften entspricht.
 
-## § 9 – § 9.
+## § 9
 
 Wenn sich die Parteien auf Zahlung einer Geldsumme bis einschließlich zweihundert Kronen an den Berechtigten verglichen haben, ist bei Eintragung des Vergleiches in das Amtsbuch derjenige Stempel zu verwenden, der nach Skala II samt außerordentlichem Zuschlage auf den Vergleichsbetrag entfällt.
 

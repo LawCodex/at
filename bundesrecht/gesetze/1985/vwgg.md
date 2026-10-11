@@ -1,0 +1,1383 @@
+---
+title: "Verwaltungsgerichtshofgesetz 1985"
+abbreviation: "VwGG"
+identifier: "10000795"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 10/1985"
+last_amended: 2025-07-25
+last_amendment: "BGBl. I Nr. 50/2025"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1985/10/P0/NOR40263266"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000795"
+retrieved: 2026-10-11
+documents: 89
+---
+
+# Verwaltungsgerichtshofgesetz 1985 (VwGG)
+
+Verwaltungsgerichtshofgesetz 1985 – VwGG
+
+StF: BGBl. Nr. 10/1985 (WV) idF BGBl. I Nr. 194/1999 (DFB)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 197/1985 (VfGH)  
+BGBl. Nr. 564/1985 (NR: GP XVI RV 773 AB 793 S. 120. BR: AB 3050 S. 470.)  
+BGBl. Nr. 330/1990 (NR: GP XVII RV 1092 AB 1353 S. 145. BR: 3880 AB 3892 S. 531.)  
+BGBl. Nr. 470/1995 (NR: GP XIX RV 198 AB 240 S. 42. BR: AB 5043 S. 602.)  
+BGBl. I Nr. 88/1997 (NR: GP XX RV 576 AB 784 S. 81. BR: 5487 AB 5510 S. 629.)  
+BGBl. I Nr. 158/1998 (NR: GP XX AB 1167 S. 119. BR: AB 5676 S. 642.)  
+BGBl. I Nr. 60/1999 (NR: GP XX AB 1637 S. 159. BR: 5874 AB 5879 S. 651.)  
+BGBl. I Nr. 191/1999 (BG) (1. BRBG) (NR: GP XX RV 1811 AB 2031 S. 179. BR: AB 6041 S. 657.)  
+BGBl. I Nr. 31/2000 (VfGH)  
+BGBl. I Nr. 136/2001 (NR: GP XXI RV 742 AB 824 S. 81. BR: 6458 AB 6459 S. 681.)  
+BGBl. I Nr. 124/2002 (NR: GP XXI IA 318/A AB 1258 S. 109. BR: AB 6715 S. 690.)  
+BGBl. I Nr. 89/2004 (NR: GP XXII RV 447 AB 565 S. 73. BR: AB 7089 S. 712.)  
+BGBl. I Nr. 4/2008 (NR: GP XXIII AB 371 S. 41. BR: AB 7831 S. 751.)  
+BGBl. I Nr. 98/2010 (NR: GP XXIV IA 1187/A AB 989 S. 83. BR: AB 8408 S. 790.)  
+BGBl. I Nr. 111/2010 (NR: GP XXIV RV 981 AB 1026 S. 90. BR: 8437 AB 8439 S. 792.)  
+[CELEX-Nr.: 32010L0012]  
+BGBl. I Nr. 51/2012 (NR: GP XXIV RV 1618 AB 1771 S. 155. BR: 8730 AB 8731 S. 809.)  
+BGBl. I Nr. 33/2013 (NR: GP XXIV RV 2009 AB 2112 S. 187. BR: 8882 AB 8891 S. 817.)  
+BGBl. I Nr. 122/2013 (NR: GP XXIV IA 2294/A AB 2382 S. 207. BR: AB 9026 S. 822.)  
+BGBl. I Nr. 50/2016 idF BGBl. I Nr. 27/2019 (VFB) (NR: GP XXV RV 1145 AB 1184 S. 134. BR: 9594 AB 9607 S. 855.)  
+BGBl. I Nr. 24/2017 idF BGBl. I Nr. 27/2019 (VFB) (NR: GP XXV RV 1255 AB 1369 S. 158. BR: AB 9723 S. 863.)  
+BGBl. I Nr. 138/2017 (NR: GP XXV IA 2254/A AB 1707 S. 188. BR: AB 9852 S. 871.)  
+BGBl. I Nr. 22/2018 (NR: GP XXVI AB 100 S. 21. BR: AB 9959 S. 879.)  
+BGBl. I Nr. 58/2018 (NR: GP XXVI RV 195 AB 221 S. 34. BR: AB 10018 S. 882.)  
+BGBl. I Nr. 33/2019 (NR: GP XXVI IA 604/A AB 547 S. 66. BR: AB 10144 S. 891.)  
+BGBl. I Nr. 104/2019 (NR: GP XXVI IA 985/A AB 692 S. 88. BR: AB 10252 S. 897.)  
+BGBl. I Nr. 16/2020 (NR: GP XXVII IA 397/A AB 112 S. 19. BR: AB 10288 S. 904.)  
+BGBl. I Nr. 24/2020 (NR: GP XXVII IA 403/A AB 116 S. 22. BR: AB 10292 S. 905.)  
+BGBl. I Nr. 2/2021 (NR: GP XXVII IA 969/A AB 512 S. 69. BR: AB 10489 S. 917.)  
+BGBl. I Nr. 72/2021 (NR: GP XXVII AB 726 S. 89. BR: AB 10582 S. 924.)  
+BGBl. I Nr. 87/2021 (NR: GP XXVII RV 769 AB 787 S. 99. BR: AB 10615 S. 925.)  
+BGBl. I Nr. 109/2021 (NR: GP XXVII IA 1699/A AB 929 S. 111. BR: 10645 AB 10685 S. 927.)  
+BGBl. I Nr. 88/2023 (NR: GP XXVII RV 2081 AB 2108 S. 222. BR: AB 11278 S. 957.)  
+BGBl. I Nr. 70/2024 (NR: GP XXVII AB 2594 S. 268. BR: AB 11514 S. 968.)  
+BGBl. I Nr. 88/2024 (NR: GP XXVII IA 4099/A AB 2702 S. 270. BR: AB 11591 S. 969.)  
+BGBl. I Nr. 20/2025 (NR: GP XXVIII RV 91 AB 95 S. 27. BR: 11639 AB 11640 S. 978.)  
+BGBl. I Nr. 50/2025 (NR: GP XXVIII RV 129 AB 151 S. 35. BR: 11651 AB 11654 S. 980.)  
+
+</details>
+
+> **Anmerkung:** Zu dieser Rechtsvorschrift ist eine englische Übersetzung in der Applikation „Austrian Laws“ vorhanden: [Supreme Administrative Court Act 1985 - VwGG](http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Erv&Dokumentnummer=ERV_1985_10)
+
+## Präambel/Promulgationsklausel
+
+<table>
+<tr>
+<td>Paragraph</td>
+<td>Gegenstand</td>
+</tr>
+<tr>
+<td colspan="2">I. ABSCHNITT<br>Einrichtung des Verwaltungsgerichtshofes</td>
+</tr>
+<tr>
+<td>§§ 1 bis 7.</td>
+<td>Mitglieder</td>
+</tr>
+<tr>
+<td>§§ 8 und 9.</td>
+<td>Leitung</td>
+</tr>
+<tr>
+<td>§ 9a.</td>
+<td>Sicherheit im Amtsgebäude</td>
+</tr>
+<tr>
+<td>§ 10.</td>
+<td>Vollversammlung</td>
+</tr>
+<tr>
+<td>§§ 11 bis 13.</td>
+<td>Senate</td>
+</tr>
+<tr>
+<td>§ 14.</td>
+<td>Berichter</td>
+</tr>
+<tr>
+<td>§ 15.</td>
+<td>Beratung und Abstimmung</td>
+</tr>
+<tr>
+<td>§ 17.</td>
+<td>Evidenzbüro</td>
+</tr>
+<tr>
+<td>§ 18.</td>
+<td>Übertragung in elektronische Dokumente</td>
+</tr>
+<tr>
+<td>§ 19.</td>
+<td>Geschäftsordnung</td>
+</tr>
+<tr>
+<td>§ 20.</td>
+<td>Tätigkeitsbericht</td>
+</tr>
+<tr>
+<td colspan="2">II. ABSCHNITT<br>Verfahren des Verwaltungsgerichtshofes<br>1. Unterabschnitt<br>Allgemeine Bestimmungen</td>
+</tr>
+<tr>
+<td>§§ 21 bis 23.</td>
+<td>Parteien</td>
+</tr>
+<tr>
+<td>§§ 24 und 24a.</td>
+<td>Schriftsätze</td>
+</tr>
+<tr>
+<td>§ 25.</td>
+<td>Akteneinsicht</td>
+</tr>
+<tr>
+<td>§ 25a.</td>
+<td>Revision</td>
+</tr>
+<tr>
+<td>§ 26.</td>
+<td>Revisionsfrist</td>
+</tr>
+<tr>
+<td>§§ 28 und 29.</td>
+<td>Inhalt der Revision</td>
+</tr>
+<tr>
+<td>§ 30.</td>
+<td>Aufschiebende Wirkung</td>
+</tr>
+<tr>
+<td>§ 30a.</td>
+<td>Vorentscheidung durch das Verwaltungsgericht</td>
+</tr>
+<tr>
+<td>§ 30b.</td>
+<td>Vorlageantrag</td>
+</tr>
+<tr>
+<td>§ 30c.</td>
+<td>Aktenvorlage und -rückstellung</td>
+</tr>
+<tr>
+<td>§ 31.</td>
+<td>Befangenheit</td>
+</tr>
+<tr>
+<td>§ 32.</td>
+<td>Wahrnehmung der Zuständigkeit</td>
+</tr>
+<tr>
+<td>§ 33.</td>
+<td>Einstellung</td>
+</tr>
+<tr>
+<td>§ 34.</td>
+<td>Zurückweisung</td>
+</tr>
+<tr>
+<td>§ 35.</td>
+<td>Abweisung und Aufhebung ohne weiteres Verfahren</td>
+</tr>
+<tr>
+<td>§§ 36 bis 37a.</td>
+<td>Vorverfahren</td>
+</tr>
+<tr>
+<td>§ 38.</td>
+<td>Fristsetzungsantrag</td>
+</tr>
+<tr>
+<td>§ 38a.</td>
+<td>Gleichartige Rechtsfragen in einer erheblichen Anzahl von Verfahren</td>
+</tr>
+<tr>
+<td>§ 38b.</td>
+<td>Einholung einer Vorabentscheidung des Gerichtshofes der Europäischen Union</td>
+</tr>
+<tr>
+<td>§§ 39 und 40.</td>
+<td>Verhandlungen</td>
+</tr>
+<tr>
+<td>§ 41.</td>
+<td>Prüfung des angefochtenen Erkenntnisses oder Beschlusses</td>
+</tr>
+<tr>
+<td>§§ 42 bis 44.</td>
+<td>Erkenntnisse</td>
+</tr>
+<tr>
+<td>§ 45.</td>
+<td>Wiederaufnahme des Verfahrens</td>
+</tr>
+<tr>
+<td>§ 46.</td>
+<td>Wiedereinsetzung in den vorigen Stand</td>
+</tr>
+<tr>
+<td>§§ 47 bis 59.</td>
+<td>Aufwandersatz</td>
+</tr>
+<tr>
+<td>§ 61.</td>
+<td>Verfahrenshilfe</td>
+</tr>
+<tr>
+<td>§ 62.</td>
+<td>Anzuwendendes Recht</td>
+</tr>
+<tr>
+<td>§ 63.</td>
+<td>Vollstreckung</td>
+</tr>
+<tr>
+<td colspan="2">2. Unterabschnitt<br>Besondere Bestimmungen über Feststellungsanträge in Amts- und Organhaftungssachen, in Rechtssachen betreffend die Verpflichtungen des Fernsehveranstalters nach dem Fernseh-Exklusivrechtegesetz und in Rechtssachen in den Angelegenheiten der Nachprüfung im Rahmen der Vergabe von Aufträgen</td>
+</tr>
+<tr>
+<td>§ 64.</td>
+<td>Parteien</td>
+</tr>
+<tr>
+<td>§ 65.</td>
+<td>Einleitung des Verfahrens</td>
+</tr>
+<tr>
+<td>§ 66.</td>
+<td>Verhandlung</td>
+</tr>
+<tr>
+<td>§ 67.</td>
+<td>Erkenntnis</td>
+</tr>
+<tr>
+<td>§ 68.</td>
+<td>Kosten</td>
+</tr>
+<tr>
+<td>§ 69.</td>
+<td>Verfahrenshilfe</td>
+</tr>
+<tr>
+<td>§ 70.</td>
+<td>Ergänzende Bestimmungen</td>
+</tr>
+<tr>
+<td colspan="2">3. Unterabschnitt<br>Besondere Bestimmungen im Verfahren zur Entscheidung von Kompetenzkonflikten zwischen Verwaltungsgerichten oder zwischen einem Verwaltungsgericht und dem Verwaltungsgerichtshof</td>
+</tr>
+<tr>
+<td>§ 71.</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">4. Unterabschnitt<br>Elektronischer Rechtsverkehr</td>
+</tr>
+<tr>
+<td>§§ 72 bis 76.</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">5. Unterabschnitt<br>Datenschutz</td>
+</tr>
+<tr>
+<td>§ 76a.</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">III. ABSCHNITT<br>Schlussbestimmungen</td>
+</tr>
+<tr>
+<td>§ 77.</td>
+<td>Sprachliche Gleichbehandlung</td>
+</tr>
+<tr>
+<td>§ 78.</td>
+<td>Vollziehung</td>
+</tr>
+<tr>
+<td>§ 79.</td>
+<td>Inkrafttreten</td>
+</tr>
+<tr>
+<td>§ 80.</td>
+<td>Verweisungen</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## I. ABSCHNITT
+
+### Einrichtung des Verwaltungsgerichtshofes
+
+#### § 1 – Mitglieder
+
+§ 1. (1) Der Verwaltungsgerichtshof besteht aus einem Präsidenten, einem Vizepräsidenten und der erforderlichen Zahl von sonstigen Mitgliedern (Senatspräsidenten und Räten).
+
+(2) Die zu besetzenden Planstellen des Präsidenten und des Vizepräsidenten sind vom Bundeskanzler auszuschreiben, die Planstellen der sonstigen Mitglieder vom Präsidenten. Die Ausschreibung hat möglichst sechs Monate vor, spätestens jedoch drei Monate nach Freiwerden der Planstelle zu erfolgen. Soweit sie vom selben Organ auszuschreiben sind, können mehrere Planstellen gemeinsam ausgeschrieben werden und kann mit der Ausschreibung einer Planstelle die Ausschreibung der durch die Ernennung auf diese Planstelle allenfalls freiwerdenden Planstelle (Folgeposten) verbunden werden.
+
+(3) Die Planstelle ist auf der elektronischen Verlautbarungs- und Informationsplattform des Bundes und in den für amtliche Kundmachungen bestimmten Landeszeitungen auszuschreiben; die Ausschreibung kann daneben auch auf andere geeignete Weise verlautbart werden.
+
+(4) Für die Planstellen der Mitglieder des Verwaltungsgerichtshofes mit Ausnahme des Präsidenten und des Vizepräsidenten sind von der Vollversammlung Dreiervorschläge zu erstatten und vom Präsidenten dem Bundeskanzler vorzulegen.
+
+#### § 2
+
+§ 2. (1) Die Mitglieder des Verwaltungsgerichtshofes sind Berufsrichter/Berufsrichterinnen und in Ausübung ihres richterlichen Amtes unabhängig.
+
+(2) Die Mitglieder des Verwaltungsgerichtshofes geloben vor Antritt ihres Amtes die unverbrüchliche Beobachtung der Gesetze der Republik Österreich und die gewissenhafte Erfüllung ihrer Amtspflichten. Der Präsident/Die Präsidentin und der Vizepräsident/die Vizepräsidentin leisten die Angelobung vor dem Bundespräsidenten/der Bundespräsidentin, die sonstigen Mitglieder vor der Vollversammlung. Wenn die Vollversammlung im Fall außergewöhnlicher Verhältnisse nicht innerhalb angemessener Frist zusammentreten kann, leisten die sonstigen Mitglieder die Angelobung vor dem Präsidenten/der Präsidentin.
+
+#### § 3
+
+§ 3. (1) Mitglieder des Verwaltungsgerichtshofes, bei denen ein Ausschließungsgrund nach Art. 134 Abs. 5 B-VG eintritt, sind für die Dauer dieser Ausschließung außer Dienst gestellt. Die Zeit der Außerdienststellung bleibt für die Vorrückung in höhere Bezüge und für die Bemessung des Ruhegenusses anrechenbar.
+
+(2) Im Übrigen dürfen Mitglieder des Verwaltungsgerichtshofes nur in den für Richter sonst vom Gesetz vorgeschriebenen Fällen und auf Grund eines gerichtlichen Erkenntnisses ihres Amtes entsetzt oder wider ihren Willen an eine andere Stelle oder in den Ruhestand versetzt werden.
+
+#### § 4
+
+§ 4. Die Richter des Verwaltungsgerichtshofes sind wie folgt zu reihen:
+
+1\. der Präsident,
+
+2\. der Vizepräsident,
+
+3\. die Senatspräsidenten entsprechend dem Zeitpunkt ihrer Ernennung,
+
+4\. die Räte entsprechend dem Zeitpunkt ihrer Ernennung.
+
+Insoweit sich nicht schon hieraus eine bestimmte Reihung ergibt, sind für deren Beurteilung nacheinander folgende Umstände maßgebend:
+
+1\. für die Senatspräsidenten die Reihung als Rat,
+
+2\. das Lebensalter.
+
+#### § 6
+
+§ 6. Die Mitglieder des Verwaltungsgerichtshofes tragen bei den Verhandlungen und bei den Erkenntnis- und Beschlussverkündungen das für die entsprechenden Mitglieder des Obersten Gerichtshofes festgesetzte Amtskleid mit dem Unterschied, dass statt der violetten die purpurrote Farbe zu verwenden ist.
+
+#### § 7
+
+§ 7. (1) Die Vorschriften über das Dienstverhältnis der Richter des Obersten Gerichtshofes gelten, soweit nicht anderes bestimmt ist, auch für das Dienstverhältnis der Mitglieder des Verwaltungsgerichtshofes.
+
+(2) Für die Disziplinarbehandlung von Mitgliedern des Verwaltungsgerichtshofes und für deren unfreiwillige Versetzung in den Ruhestand gelten entsprechend die für Richter sonst geltenden Vorschriften. Disziplinargericht ist die Vollversammlung des Gerichtshofes. Der Generalprokurator hat dieselben Aufgaben wie im Disziplinarverfahren gegen Richter des Obersten Gerichtshofes. Die Disziplinarstrafe der Dienstentlassung darf nur verhängt werden, wenn wenigstens zwei Drittel der Mitglieder des Disziplinargerichtes dafür stimmen.
+
+#### § 8 – Leitung
+
+§ 8. Der Präsident leitet den Verwaltungsgerichtshof. Er wird im Verhinderungsfall vom Vizepräsidenten und, wenn auch dieser verhindert ist, vom rangältesten sonstigen in Wien anwesenden Mitglied des Gerichtshofes vertreten. Dies gilt auch, wenn die Stelle des Präsidenten oder des Vizepräsidenten unbesetzt ist.
+
+#### § 9
+
+§ 9. (1) Zu den Leitungsgeschäften gehören neben den im vorliegenden Bundesgesetz dem Präsidenten übertragenen Aufgaben die nähere Regelung des Dienstbetriebes nach den hiefür geltenden Vorschriften und die Dienstaufsicht über das gesamte Personal. Der Präsident hat insbesondere unter Bedachtnahme auf einen ordnungsgemäßen Geschäftsgang die Tage festzusetzen, an denen die Senate zur Beratung und Verhandlung zusammenzutreten haben.
+
+(2) Dem Präsidenten obliegt es auch, bei voller Wahrung der richterlichen Unabhängigkeit der Mitglieder auf eine möglichst einheitliche Rechtsprechung Bedacht zu nehmen.
+
+\*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 33/2013)*
+
+#### § 9a – Sicherheit im Amtsgebäude
+
+§ 9a. Die §§ 1 bis 14 und 15a bis 16 des Gerichtsorganisationsgesetzes – GOG, RGBl. Nr. 217/1896, gelten sinngemäß mit der Maßgabe, dass die darin vorgesehenen Befugnisse der Gerichtspräsidenten bzw. der Dienststellenleitung dem Präsidenten zukommen, und dass die Hausordnung durch Auflage zur öffentlichen Einsicht im Amtsgebäude und Bereitstellung im Internet kundzumachen ist.
+
+#### § 10 – Vollversammlung
+
+§ 10. (1) Der Präsident, der Vizepräsident und die sonstigen Mitglieder des Gerichtshofes bilden die Vollversammlung. Zur Beschlussfähigkeit ist die Anwesenheit von wenigstens zwei Dritteln der Mitglieder erforderlich. Zur Beschlussfähigkeit in den Fällen des § 15 Abs. 7 müssen sich mehr als zwei Drittel der Mitglieder der Vollversammlung an der Beschlussfassung mit Mitteln der Telekommunikation oder im Umlaufweg beteiligen.
+
+\*(Anm.: Abs. 1a bis 1d mit Ablauf des 30.6.2021 außer Kraft getreten)*
+
+(2) Der Vollversammlung obliegt, abgesehen von ihrer Tätigkeit als Disziplinargericht (§ 7 Abs. 2), die Beschlussfassung über
+
+1\. die Dreiervorschläge für die Ernennung von Mitgliedern (Art. 134 Abs. 4 B-VG);
+
+2\. die Geschäftsverteilung (§ 11);
+
+3\. die Geschäftsordnung (§ 19);
+
+4\. den Tätigkeitsbericht (§ 20).
+
+#### § 11 – Senate
+
+§ 11. (1) Die Senate bestehen in der Regel aus fünf Mitgliedern (Fünfersenat), in Verwaltungsstrafsachen aus drei Mitgliedern (Strafsenat), von denen eines den Vorsitz führt und ein anderes Bericht erstattet. Sie entscheiden in den einzelnen Rechtssachen, die ihnen nach der Geschäftsverteilung zufallen. Ein Schriftführer hat mitzuwirken.
+
+(2) Vor Ablauf jedes Jahres hat die Vollversammlung für die Dauer des nächsten Jahres die Vorsitzenden und die sonstigen Mitglieder der Senate gemäß Abs. 1, die zur Verstärkung eines Senates heranzuziehenden Mitglieder und die Ersatzmitglieder sowie die Reihenfolge, in der diese einzutreten haben, zu bestimmen und die Geschäfte unter die Senate im Voraus zu verteilen. Hiebei ist auch auf § 31 Abs. 2 Bedacht zu nehmen. Jedes Mitglied kann auch mehreren Senaten angehören.
+
+(3) Ist ein Mitglied eines nach diesem Bundesgesetz gebildeten Senates verhindert, so verfügt der Präsident, insoweit dies für den ordnungsgemäßen Geschäftsgang notwendig ist, den Eintritt des in der Geschäftsverteilung vorgesehenen Ersatzmitgliedes.
+
+(4) Die Vollversammlung kann für den Rest des Jahres, soweit dies für den ordnungsgemäßen Geschäftsgang notwendig ist, die Geschäftsverteilung ändern, wenn Veränderungen im Personalstand eingetreten sind oder dies wegen Überbelastung eines Senates oder einzelner Mitglieder notwendig ist.
+
+#### § 12
+
+§ 12. (1) Senate, die nur aus dem Vorsitzenden, dem Berichter und einem in der Geschäftsverteilung zu bestimmenden Mitglied des Fünfersenates bestehen (Dreiersenate), haben zu entscheiden
+
+1\. a) über die Zurückweisung von Revisionen und Anträgen, die nicht durch den Berichter zu erledigen sind (§ 14 Abs. 2);
+
+b) über die Einstellung des Verfahrens;
+
+c) über Fristsetzungsanträge;
+
+d) über einen Antrag auf Wiederaufnahme des Verfahrens, wenn er ein Verfahren betrifft, das durch den Dreiersenat abgeschlossen wurde;
+
+e) über den Antrag auf Wiedereinsetzung in den vorigen Stand, wenn noch kein Verfahren anhängig war oder er ein Verfahren betrifft, das durch den Dreiersenat abgeschlossen wurde;
+
+f) über den Antrag auf Aufwandersatz, der erst nach Abschluss des Verfahrens gestellt wird;
+
+g) über Einwendungen gegen den Anspruch aus einem Erkenntnis oder Beschluss des Verwaltungsgerichtshofes, soweit sie auf den Anspruch aufhebenden oder hemmenden Tatsachen beruhen, die erst nach Entstehen des Exekutionstitels eingetreten sind;
+
+2\. auf Antrag des Vorsitzenden/der Vorsitzenden oder des Berichters/der Berichterin über Revisionen und Anträge, in denen die Rechtsfrage besonders einfach oder durch die bisherige Rechtsprechung klargestellt ist.
+
+(2) Das Verfahren ist im Fünfersenat fortzusetzen, wenn es der Dreiersenat oder der Strafsenat beschließt.
+
+(3) Wurde über die Revision oder über den Antrag bereits im Fünfersenat beraten, so bleibt dieser zur Entscheidung auch in den Fällen des Abs. 1 und in Verwaltungsstrafsachen zuständig.
+
+#### § 13
+
+§ 13. (1) Der Fünfersenat ist durch vier weitere Mitglieder (§ 11 Abs. 2) zu verstärken (verstärkter Senat), wenn er mit Beschluss ausspricht,
+
+1\. dass die Entscheidung ein Abgehen von der bisherigen Rechtsprechung des Verwaltungsgerichtshofes bedeuten würde;
+
+2\. dass die zu lösende Rechtsfrage in der bisherigen Rechtsprechung des Verwaltungsgerichtshofes nicht einheitlich beantwortet wird.
+
+(2) Eine Beschlussfassung auf Verstärkung des Senates im Sinne des Abs. 1 ist für Entscheidungen über den Aufwandersatz nicht zulässig.
+
+#### § 14 – Berichter
+
+§ 14. (1) Der Präsident weist jede anfallende Rechtssache dem nach der Geschäftsverteilung zuständigen Senat zu und bestellt ein Mitglied desselben zum Berichter. Für die Beratungen der verstärkten Senate (§ 13) ist ein zweites, nötigenfalls ein drittes Mitglied als Mitberichter zu bestellen.
+
+(2) Verfahrensleitende Anordnungen im Vorverfahren, verfahrensleitende Anordnungen, die nur zur Vorbereitung der Entscheidung dienen, sowie verfahrensleitende Anordnungen und Entscheidungen betreffend die Zuerkennung der aufschiebenden Wirkung und die Verfahrenshilfe (§ 61) trifft der Berichter ohne Senatsbeschluss.
+
+(3) Der Berichter kann sich der Mithilfe eines rechtskundigen Bediensteten bedienen.
+
+(4) Dem Berichter (Mitberichter) darf eine Rechtssache nur im Fall seiner Verhinderung oder dann abgenommen werden, wenn er wegen des Umfangs seiner Aufgaben an deren Erledigung innerhalb einer angemessenen Frist gehindert ist.
+
+(5) Die näheren Regelungen über die Genehmigung der Anordnungen und Entscheidungen des Berichters/der Berichterin und über die Ausfertigung von schriftlichen Anordnungen und Entscheidungen des Berichters/der Berichterin werden in der Geschäftsordnung (§ 19) getroffen.
+
+#### § 15 – Beratung und Abstimmung
+
+§ 15. (1) Die Beratungen und Abstimmungen der Vollversammlung und der Senate sind nicht öffentlich.
+
+(2) Der Vorsitzende leitet die Beratung und die Abstimmung. Der Berichter gibt seine Stimme zuerst ab, die Mitberichter unmittelbar danach in der Reihenfolge, in der sie Bericht erstattet haben, der Vorsitzende, der sich an der Abstimmung gleich jedem anderen Mitglied zu beteiligen hat, zuletzt. Außerdem stimmen die dem Dienstrang nach älteren Mitglieder vor den jüngeren. Kein Mitglied darf die Abstimmung über die zur Beschlussfassung gestellte Frage verweigern, und zwar auch dann nicht, wenn es bei der Abstimmung über eine Vorfrage in der Minderheit geblieben ist.
+
+(3) Hat ein Antrag im Senat oder in der Vollversammlung mehr als die Hälfte der Stimmen auf sich vereinigt, so gilt er, soweit das Gesetz nicht anderes vorschreibt, als beschlossen. Hat sich für keine Meinung die erforderliche Mehrheit ergeben, so ist die Umfrage zu wiederholen. Ergibt sich auch hiebei nicht die erforderliche Stimmenanzahl, so ist eine neuerliche Abstimmung vorzunehmen, bei der die Anträge nötigenfalls in mehrere Fragepunkte zu zerlegen sind. In der Vollversammlung gibt bei Stimmengleichheit die Stimme des Vorsitzenden den Ausschlag.
+
+(4) In Rechtssachen, in denen ein Strafsenat (§ 11 Abs. 1) oder ein Dreiersenat (§ 12 Abs. 1) entscheidet, kann der Vorsitzende/die Vorsitzende verfügen, dass die Beratung und Abstimmung nach Maßgabe der technischen Möglichkeiten mit Mitteln der Telekommunikation durchgeführt wird oder dass die Beratung und Abstimmung abweichend von Abs. 2 durch Einholung der Zustimmung der anderen Mitglieder des Strafsenates bzw. des Dreiersenates im Umlaufweg ersetzt wird, wenn keines der Mitglieder des Strafsenates bzw. des Dreiersenates widerspricht.
+
+(5) Wenn ein Fünfersenat (§ 11 Abs. 1 bzw. § 12 Abs. 2) im Fall außergewöhnlicher Verhältnisse nicht innerhalb angemessener Frist zusammentreten kann, kann der Vorsitzende/die Vorsitzende in Rechtssachen, in denen der Fünfersenat entscheidet, verfügen, dass die Beratung und Abstimmung nach Maßgabe der technischen Möglichkeiten mit Mitteln der Telekommunikation durchgeführt wird, wenn nicht wenigstens drei Mitglieder des Fünfersenates widersprechen, oder dass die Beratung und Abstimmung abweichend von Abs. 2 durch Einholung der Zustimmung der anderen Mitglieder des Fünfersenates im Umlaufweg ersetzt wird, wenn keines der Mitglieder des Fünfersenates widerspricht.
+
+(6) Wenn ein verstärkter Senat (§ 13 Abs. 1) im Fall außergewöhnlicher Verhältnisse nicht innerhalb angemessener Frist zusammentreten kann, kann der Vorsitzende/die Vorsitzende in Rechtssachen, in denen der verstärkte Senat entscheidet, verfügen, dass die Beratung und Abstimmung nach Maßgabe der technischen Möglichkeiten mit Mitteln der Telekommunikation durchgeführt wird, wenn nicht wenigstens fünf Mitglieder des verstärkten Senates widersprechen, oder dass die Beratung und Abstimmung abweichend von Abs. 2 durch Einholung der Zustimmung der anderen Mitglieder des verstärkten Senates im Umlaufweg ersetzt wird, wenn keines der Mitglieder des verstärkten Senates widerspricht.
+
+(7) Wenn die Vollversammlung (§ 10 Abs. 1) im Fall außergewöhnlicher Verhältnisse nicht innerhalb angemessener Frist zusammentreten kann, kann der Vorsitzende/die Vorsitzende in den Angelegenheiten gemäß § 10 Abs. 2 Z 1 bis 4 verfügen, dass die Beratung und Abstimmung nach Maßgabe der technischen Möglichkeiten mit Mitteln der Telekommunikation durchgeführt wird oder dass die Beratung und Abstimmung abweichend von Abs. 2 durch Einholung der Zustimmung der anderen Mitglieder der Vollversammlung im Umlaufweg ersetzt wird, wenn nicht wenigstens ein Drittel der Mitglieder der Vollversammlung widerspricht.
+
+(8) Die näheren Regelungen werden in der Geschäftsordnung (§ 19) getroffen.
+
+#### § 17 – Evidenzbüro
+
+§ 17. (1) Beim Verwaltungsgerichtshof ist ein Evidenzbüro einzurichten.
+
+(2) Der Präsident hat ein Mitglied des Verwaltungsgerichtshofes zum Leiter des Evidenzbüros zu bestellen. Der Leiter des Evidenzbüros hat dem Präsidenten über Erkenntnisse und Beschlüsse, die von der bisherigen Rechtsprechung abweichen, zu berichten.
+
+(3) Dem Evidenzbüro obliegt insbesondere die Registrierung der Erkenntnisse des Verwaltungsgerichtshofes, im Bedarfsfall auch der Entscheidungen anderer oberster Gerichte und des einschlägigen Schrifttums.
+
+#### § 18 – Übertragung in elektronische Dokumente
+
+§ 18. (1) Soweit der Verwaltungsgerichtshof die die Rechtssache betreffenden Akten elektronisch führt, sind einlangende nichtelektronische Dokumente von der Geschäftsstelle nach dem Stand der Technik in ein elektronisches Dokument zu übertragen. Die bildliche und inhaltliche Übereinstimmung des elektronischen Dokuments mit dem ursprünglichen Schriftsatz bzw. der ursprünglichen Beilage und die Unveränderbarkeit und Aufwärtskompatibilität des elektronischen Dokuments sind sicherzustellen. Der Zeitpunkt der Übertragung ist unveränderbar zu dokumentieren.
+
+(2) Ist die Übertragung in ein elektronisches Dokument nicht möglich oder untunlich oder wurden Beilagen auf Papier in Urschrift oder im Original vorgelegt, sind die nichtelektronischen Dokumente gesondert aufzubewahren.
+
+(3) Nichtelektronische Dokumente können, sofern sie nicht gemäß Abs. 2 gesondert aufzubewahren oder gemäß § 30c Abs. 2 zurückzustellen sind, sechs Monate nach der Übertragung in ein elektronisches Dokument gemäß Abs. 1 vernichtet werden.
+
+(4) Werden Akten elektronisch geführt, so sind auf Papier erstellte Erledigungen des Verwaltungsgerichtshofes nach dem Stand der Technik in ein elektronisches Dokument zu übertragen. Die Geschäftsstelle hat die Übereinstimmung mit der Urschrift und die Unterfertigung zu bestätigen. Danach kann die Urschrift vernichtet werden. Als rechtlicher Zeitpunkt der Erstellung der elektronischen Urschrift gilt die Unterschriftsleistung auf der auf Papier erstellten Urschrift.
+
+#### § 19 – Geschäftsordnung
+
+§ 19. Das Nähere über die Führung der Geschäfte enthält die Geschäftsordnung, die der Verwaltungsgerichtshof in der Vollversammlung selbst beschließt. Sie ist vom Bundeskanzler im Bundesgesetzblatt kundzumachen.
+
+#### § 20 – Tätigkeitsbericht
+
+§ 20. Der Verwaltungsgerichtshof verfasst nach Schluss jedes Jahres einen Bericht über seine Tätigkeit und die hiebei gesammelten Erfahrungen und teilt diesen Bericht dem Bundeskanzler mit.
+
+## II. ABSCHNITT
+
+### Verfahren des Verwaltungsgerichtshofes — 1. Unterabschnitt
+
+### Allgemeine Bestimmungen
+
+#### § 21 – Parteien
+
+§ 21. (1) Parteien im Verfahren über eine Revision gegen das Erkenntnis oder den Beschluss eines Verwaltungsgerichtes wegen Rechtswidrigkeit gemäß Art. 133 Abs. 1 Z 1 bzw. Abs. 9 B-VG (Revision) sind
+
+1\. der Revisionswerber;
+
+2\. die belangte Behörde des Verfahrens vor dem Verwaltungsgericht, wenn gegen dessen Erkenntnis oder Beschluss nicht von ihr selbst Revision erhoben wird;
+
+3\. in den Fällen des § 22 zweiter Satz auch der zuständige Bundesminister oder die Landesregierung;
+
+4\. die Personen, die durch eine Aufhebung des angefochtenen Erkenntnisses oder Beschlusses oder einer Entscheidung in der Sache selbst in ihren rechtlichen Interessen berührt werden (Mitbeteiligte).
+
+(2) Auch wenn in der Revision Mitbeteiligte nicht bezeichnet sind, ist von Amts wegen darauf Bedacht zu nehmen, dass alle Mitbeteiligten gehört werden und Gelegenheit zur Wahrung ihrer Rechte erhalten.
+
+(3) Partei im Verfahren über einen Antrag auf Fristsetzung wegen Verletzung der Entscheidungspflicht durch ein Verwaltungsgericht gemäß Art. 133 Abs. 1 Z 2 B-VG (Fristsetzungsantrag) ist der Antragsteller.
+
+#### § 22
+
+§ 22. Wird die Revision von einem staatlichen Organ erhoben oder ist eine andere Behörde Partei im Sinne des § 21 Abs. 1 Z 2, so kann in einer Rechtssache in den Angelegenheiten der Bundesverwaltung der zuständige Bundesminister und in den Angelegenheiten der Landesverwaltung die Landesregierung an Stelle dieses Organs bzw. dieser Behörde jederzeit in das Verfahren eintreten. Dies gilt nicht, wenn
+
+1\. in einer Angelegenheit des eigenen Wirkungsbereiches der Gemeinde oder eines sonstigen Selbstverwaltungskörpers ein Organ des Selbstverwaltungskörpers oder
+
+2\. ein weisungsfrei gestelltes Organ
+
+Partei im Sinne des § 21 Abs. 1 Z 2 ist.
+
+#### § 23
+
+§ 23. (1) Die Parteien können, soweit dieses Bundesgesetz nicht anderes bestimmt, ihre Rechtssache vor dem Verwaltungsgerichtshof selbst führen oder sich durch einen Rechtsanwalt vertreten lassen. In Abgaben- und Abgabenstrafsachen können sie sich auch durch einen Steuerberater oder Wirtschaftsprüfer vertreten lassen.
+
+(2) Der Bund, die Länder, die Gemeinden und die Gemeindeverbände, die Stiftungen, Fonds und Anstalten, die von Organen dieser Körperschaften oder von Personen (Personengemeinschaften) verwaltet werden, die hiezu von diesen Körperschaften bestellt sind, und die sonstigen Selbstverwaltungskörperschaften sowie deren Behörden werden durch ihre vertretungsbefugten oder bevollmächtigten Organe vertreten.
+
+(3) Mit der Vertretung des Bundes, der Länder und der Stiftungen, Fonds und Anstalten, die von Organen des Bundes oder der Länder oder von Personen (Personengemeinschaften) verwaltet werden, die hiezu von Organen dieser Körperschaften bestellt sind, sowie deren Behörden kann auch die Finanzprokuratur, mit der Vertretung der Länder, der Gemeinden und Gemeindeverbände und der Stiftungen, Fonds und Anstalten, die von Organen dieser Körperschaften oder von Personen (Personengemeinschaften) verwaltet werden, die hiezu von Organen dieser Körperschaften bestellt sind, sowie deren Behörden können auch Organe der sachlich in Betracht kommenden Bundesministerien betraut werden. Die Finanzprokuratur und die Organe der Bundesministerien dürfen jedoch die Vertretung eines anderen Rechtsträgers als des Bundes nur übernehmen, wenn weder eine Bundesbehörde noch der Bund selbst am Verfahren beteiligt ist und bei der Vertretung von Behörden der sachlich in Betracht kommende Bundesminister, sonst der Bundesminister für Finanzen zustimmt.
+
+(4) Die Vertretung durch einen Rechtsanwalt (Steuerberater oder Wirtschaftsprüfer) oder durch die Finanzprokuratur schließt nicht aus, dass auch die Parteien selbst erscheinen und im eigenen Namen Erklärungen abgeben.
+
+(5) Die einem Rechtsanwalt (Steuerberater oder Wirtschaftsprüfer) für das Verfahren vor dem Verwaltungsgerichtshof erteilte Vollmacht ermächtigt ihn, wenn die Partei während des Verfahrens stirbt, deren Rechtsnachfolger zu vertreten.
+
+#### § 24 – Schriftsätze
+
+§ 24. (1) Soweit in diesem Bundesgesetz nicht anderes bestimmt ist, sind die Schriftsätze beim Verwaltungsgericht einzubringen. Unmittelbar beim Verwaltungsgerichtshof sind insbesondere einzubringen:
+
+1\. Schriftsätze im Revisionsverfahren ab Vorlage der Revision an den Verwaltungsgerichtshof;
+
+2\. Anträge auf Bewilligung der Verfahrenshilfe zur Abfassung und Einbringung einer Revision gegen ein Erkenntnis oder einen Beschluss des Verwaltungsgerichtes, in dem es ausgesprochen hat, dass die Revision nicht gemäß Art. 133 Abs. 4 B-VG zulässig ist;
+
+3\. Schriftsätze im Verfahren über einen Fristsetzungsantrag, die an den Verwaltungsgerichtshof gerichtet sind.
+
+(2) Die Revisionen, Fristsetzungsanträge und Anträge auf Wiederaufnahme des Verfahrens und auf Wiedereinsetzung in den vorigen Stand sind durch einen bevollmächtigten Rechtsanwalt (Steuerberater oder Wirtschaftsprüfer) abzufassen und einzubringen (Anwaltspflicht). Dies gilt nicht für
+
+1\. Revisionen und Anträge, die vom Bund, von einem Land, von einer Stadt mit eigenem Statut oder von einer Stiftung, einem Fonds oder einer Anstalt, die von Organen dieser Gebietskörperschaften oder von Personen (Personengemeinschaften) verwaltet werden, die hiezu von Organen dieser Gebietskörperschaften bestellt sind, oder von deren Behörden oder Organen eingebracht werden;
+
+2\. Revisionen und Anträge in Dienstrechtssachen von dem Dienst- oder Ruhestand angehörenden rechtskundigen Bediensteten des Bundes, eines Landes, einer Gemeinde oder eines Gemeindeverbandes.
+
+(3) Von jedem Schriftsatz samt Beilagen sind so viele gleichlautende Ausfertigungen beizubringen, dass jeder vom Verwaltungsgericht oder vom Verwaltungsgerichtshof zu verständigenden Partei oder Behörde eine Ausfertigung zugestellt und überdies eine für die Akten des Verwaltungsgerichtshofes zurückbehalten werden kann. Sind die Beilagen sehr umfangreich, kann die Beigabe von Ausfertigungen unterbleiben. Beilagen gemäß § 28 Abs. 4 und 5 sind nur in einfacher Ausfertigung beizubringen. Gleichschriften bedürfen keiner Unterschrift.
+
+(4) Für Schriftsätze, die elektronisch eingebracht werden, genügt eine einfache Einbringung. Soweit mehrere Ausfertigungen von im elektronischen Rechtsverkehr eingebrachten Schriftsätzen benötigt werden, hat der Verwaltungsgerichtshof die entsprechenden Ausdrucke herzustellen. In Fällen, in denen Ausfertigungen von im elektronischen Rechtsverkehr eingebrachten Schriftsätzen mit außergewöhnlichem Umfang oder in außergewöhnlicher Anzahl benötigt werden, kann der Berichter der Partei unter Setzung einer angemessenen Frist die Beibringung der Ausfertigungen auftragen.
+
+#### § 24a
+
+§ 24a. Für Revisionen, Fristsetzungsanträge und Anträge auf Wiederaufnahme des Verfahrens und auf Wiedereinsetzung in den vorigen Stand einschließlich der Beilagen ist nach Maßgabe der folgenden Bestimmungen eine Eingabengebühr zu entrichten:
+
+1\. Die Gebühr beträgt 340 Euro. Der Bundeskanzler und der Bundesminister für Finanzen werden ermächtigt, zur Abgeltung der Inflation diesen Gebührensatz zu erhöhen. Der neue Gebührensatz ist aus dem Gebührensatz des ersten Satzes im Verhältnis der Veränderung der für Jänner 2025 oder für Jänner des Jahres der letzten Erhöhung verlautbarten Indexzahl zu der für die Neufestsetzung maßgebenden Indexzahl zu berechnen. Maßgeblich ist der von der Bundesanstalt „Statistik Österreich“ verlautbarte Verbraucherpreisindex 2020 oder ein an dessen Stelle tretender Index. Der sich daraus ergebende Gebührensatz ist auf ganze Euro kaufmännisch auf- oder abzurunden.
+
+2\. Gebietskörperschaften und, in Angelegenheiten des Art. 130 Abs. 1a B-VG, Untersuchungsausschüsse des Nationalrates bzw. deren Vorsitzende sowie, in Angelegenheiten betreffend Verarbeitungen gemäß § 35a Abs. 1 oder gegebenenfalls Abs. 2 des Datenschutzgesetzes – DSG, BGBl. I Nr. 165/1999, die für diese Verarbeitungen Verantwortlichen sind von der Entrichtung der Gebühr befreit.
+
+3\. Die Gebührenschuld entsteht im Zeitpunkt der Überreichung der Eingabe oder, wenn diese im Weg des elektronischen Rechtsverkehrs eingebracht wird, mit dem Zeitpunkt der Einbringung beim Verwaltungsgerichtshof gemäß § 75 Abs. 1. Die Gebühr wird mit diesem Zeitpunkt fällig.
+
+4\. Die Gebühr ist unter Angabe des Verwendungszwecks durch Überweisung auf ein entsprechendes Konto des Finanzamtes Österreich zu entrichten. Die Entrichtung der Gebühr ist durch einen von einer Post-Geschäftsstelle oder einem Kreditinstitut bestätigten Zahlungsbeleg in Urschrift nachzuweisen. Dieser Beleg ist der Eingabe anzuschließen. Die Einlaufstelle des Verwaltungsgerichtes oder des Verwaltungsgerichtshofes hat den Beleg dem Revisionswerber (Antragsteller) auf Verlangen zurückzustellen, zuvor darauf einen deutlichen Sichtvermerk anzubringen und auf der im Akt verbleibenden Ausfertigung der Eingabe zu bestätigen, dass die Gebührenentrichtung durch Vorlage des Zahlungsbeleges nachgewiesen wurde. Für jede Eingabe ist die Vorlage eines gesonderten Beleges erforderlich. Rechtsanwälte (Steuerberater oder Wirtschaftsprüfer) können die Entrichtung der Gebühr auch durch einen schriftlichen Beleg des spätestens zugleich mit der Eingabe weiterzuleitenden Überweisungsauftrages nachweisen, wenn sie darauf mit Datum und Unterschrift bestätigen, dass der Überweisungsauftrag unter einem unwiderruflich erteilt wird.
+
+5\. Wird eine Eingabe im Weg des elektronischen Rechtsverkehrs eingebracht, so ist die Gebühr durch Abbuchung und Einziehung zu entrichten. In der Eingabe ist das Konto, von dem die Gebühr einzuziehen ist, oder der Anschriftcode (§ 73), unter dem ein Konto gespeichert ist, von dem die Gebühr eingezogen werden soll, anzugeben. Der Präsident hat nach Anhörung der Vollversammlung durch Verordnung unter Bedachtnahme auf die Grundsätze einer einfachen und sparsamen Verwaltung und eine Sicherung vor Missbrauch das Verfahren bei der Abbuchung und Einziehung der Gebühr im Weg automationsunterstützter Datenverarbeitung und nach Maßgabe der technischen und organisatorischen Voraussetzungen den Zeitpunkt zu bestimmen, ab dem die Gebühr durch Abbuchung und Einziehung entrichtet werden kann.
+
+6\. Für die Erhebung der Gebühr (Z 4 und 5) ist das Finanzamt Österreich zuständig.
+
+7\. Im Übrigen sind auf die Gebühr die Bestimmungen des Gebührengesetzes 1957, BGBl. Nr. 267/1957, über Eingaben mit Ausnahme der §§ 11 Z 1 und 14 anzuwenden.
+
+#### § 25 – Akteneinsicht
+
+§ 25. (1) Die Parteien können beim Verwaltungsgerichtshof in die ihre Rechtssache betreffenden Akten Einsicht nehmen und sich von Akten oder Aktenbestandteilen an Ort und Stelle Abschriften selbst anfertigen oder auf ihre Kosten Kopien oder Ausdrucke erstellen lassen. Soweit der Verwaltungsgerichtshof die die Rechtssache betreffenden Akten elektronisch führt, kann der Partei auf Verlangen die Akteneinsicht in jeder technisch möglichen Form gewährt werden. Entwürfe von Erkenntnissen und Beschlüssen des Verwaltungsgerichtshofes und Niederschriften über seine Beratungen und Abstimmungen sind von der Akteneinsicht ausgenommen.
+
+(2) Soweit sie dies nicht bereits bei Vorlage von Akten an das Verwaltungsgericht getan haben, können die Behörden anlässlich der Vorlage von Akten durch das Verwaltungsgericht an den Verwaltungsgerichtshof verlangen, dass bestimmte Akten oder Aktenbestandteile im öffentlichen Interesse von der Akteneinsicht ausgenommen werden. Hält der Berichter das Verlangen für zu weitgehend, hat er die Behörde über seine Bedenken zu hören und allenfalls einen Beschluss des Senates einzuholen. In Aktenbestandteile, die im Verwaltungsverfahren von der Akteneinsicht ausgenommen waren, darf Akteneinsicht jedoch nicht gewährt werden. Die Behörde hat die in Betracht kommenden Aktenbestandteile anlässlich der Vorlage der Akten zu bezeichnen.
+
+#### § 25a – Revision
+
+§ 25a. (1) Das Verwaltungsgericht hat im Spruch seines Erkenntnisses oder Beschlusses auszusprechen, ob die Revision gemäß Art. 133 Abs. 4 B-VG zulässig ist. Der Ausspruch ist kurz zu begründen.
+
+(2) Eine Revision ist nicht zulässig gegen:
+
+1\. Beschlüsse gemäß § 30a Abs. 1, 3, 8 und 9;
+
+2\. Beschlüsse gemäß § 30b Abs. 3;
+
+3\. Beschlüsse gemäß § 61 Abs. 2.
+
+(3) Gegen verfahrensleitende Beschlüsse ist eine abgesonderte Revision nicht zulässig. Sie können erst in der Revision gegen das die Rechtssache erledigende Erkenntnis angefochten werden.
+
+(4) Wenn in einer Verwaltungsstrafsache oder in einer Finanzstrafsache
+
+1\. eine Geldstrafe von bis zu 750 Euro und keine Freiheitsstrafe verhängt werden durfte und
+
+2\. im Erkenntnis eine Geldstrafe von bis zu 400 Euro verhängt wurde,
+
+ist eine Revision wegen Verletzung in Rechten (Art. 133 Abs. 6 Z 1 B-VG) nicht zulässig.
+
+(4a) Die Revision ist nicht mehr zulässig, wenn nach Verkündung oder Zustellung des Erkenntnisses oder Beschlusses ausdrücklich auf die Revision verzichtet wurde. Der Verzicht ist dem Verwaltungsgericht schriftlich bekanntzugeben oder zu Protokoll zu erklären. Wurde der Verzicht nicht von einem berufsmäßigen Parteienvertreter oder im Beisein eines solchen abgegeben, so kann er binnen drei Tagen schriftlich oder zur Niederschrift widerrufen werden. Ein Verzicht ist nur zulässig, wenn die Partei zuvor über die Folgen des Verzichts belehrt wurde. Wurde das Erkenntnis des Verwaltungsgerichts mündlich verkündet (§ 29 Abs. 2 des Verwaltungsgerichtsverfahrensgesetzes – VwGVG, BGBl. I Nr. 33/2013), ist eine Revision nur nach einem Antrag auf Ausfertigung des Erkenntnisses gemäß § 29 Abs. 4 VwGVG durch mindestens einen der hiezu Berechtigten zulässig.
+
+(5) Die Revision ist beim Verwaltungsgericht einzubringen.
+
+#### § 26 – Revisionsfrist
+
+§ 26. (1) Die Frist zur Erhebung einer Revision gegen ein Erkenntnis eines Verwaltungsgerichtes (Revisionsfrist) beträgt sechs Wochen. Sie beginnt
+
+1\. in den Fällen des Art. 133 Abs. 6 Z 1 B-VG dann, wenn das Erkenntnis dem Revisionswerber zugestellt wurde, mit dem Tag der Zustellung, wenn das Erkenntnis dem Revisionswerber nur mündlich verkündet wurde, jedoch mit dem Tag der Verkündung;
+
+2\. in den Fällen des Art. 133 Abs. 6 Z 2 B-VG dann, wenn das Erkenntnis der belangten Behörde des Verfahrens vor dem Verwaltungsgericht zugestellt wurde, mit dem Tag der Zustellung;
+
+3\. in den Fällen des Art. 133 Abs. 6 Z 3 B-VG dann, wenn das Erkenntnis dem zuständigen Bundesminister zugestellt wurde, mit dem Tag der Zustellung, sonst mit dem Zeitpunkt, in dem er von dem Erkenntnis Kenntnis erlangt hat;
+
+\*(Anm.: Z 4 aufgehoben durch Art. 3 Z 7, BGBl. I Nr. 2/2021)*
+
+5\. in den Fällen des Art. 133 Abs. 8 B-VG dann, wenn das Erkenntnis dem auf Grund des Bundes- oder Landesgesetzes zur Erhebung der Revision befugten Organ zugestellt wurde, mit dem Tag der Zustellung, sonst mit dem Zeitpunkt, in dem es von dem Erkenntnis Kenntnis erlangt hat.
+
+(2) Ist das Erkenntnis bereits einer anderen Partei zugestellt worden, kann die Revision bereits ab dem Zeitpunkt erhoben werden, in dem der Revisionswerber von dem Erkenntnis Kenntnis erlangt hat.
+
+(3) Hat die Partei innerhalb der Revisionsfrist die Bewilligung der Verfahrenshilfe beantragt (§ 61), so beginnt für sie die Revisionsfrist mit der Zustellung des Bescheides über die Bestellung des Rechtsanwaltes an diesen. Wird der rechtzeitig gestellte Antrag auf Bewilligung der Verfahrenshilfe abgewiesen, so beginnt die Revisionsfrist mit der Zustellung des abweisenden Beschlusses an die Partei.
+
+(4) Hat der Verfassungsgerichtshof eine Beschwerde gemäß Art. 144 Abs. 3 B-VG dem Verwaltungsgerichtshof abgetreten, so beginnt die Revisionsfrist mit der Zustellung des Erkenntnisses oder Beschlusses des Verfassungsgerichtshofes oder, wenn der Antrag auf Abtretung der Beschwerde erst nach dessen Zustellung gestellt wurde, mit der Zustellung des Beschlusses gemäß § 87 Abs. 3 VfGG.
+
+(5) Auf die Beschlüsse der Verwaltungsgerichte sind die für ihre Erkenntnisse geltenden Bestimmungen dieses Paragraphen sinngemäß anzuwenden.
+
+#### § 28 – Inhalt der Revision
+
+§ 28. (1) Die Revision hat zu enthalten
+
+1\. die Bezeichnung des angefochtenen Erkenntnisses oder des angefochtenen Beschlusses,
+
+2\. die Bezeichnung des Verwaltungsgerichtes, das das Erkenntnis bzw. den Beschluss erlassen hat,
+
+3\. den Sachverhalt,
+
+4\. die Bezeichnung der Rechte, in denen der Revisionswerber verletzt zu sein behauptet (Revisionspunkte),
+
+5\. die Gründe, auf die sich die Behauptung der Rechtswidrigkeit stützt,
+
+6\. ein bestimmtes Begehren,
+
+7\. die Angaben, die erforderlich sind, um zu beurteilen, ob die Revision rechtzeitig eingebracht ist.
+
+(2) Bei Revisionen gegen Erkenntnisse, die nicht wegen Verletzung in Rechten erhoben werden, tritt an die Stelle der Revisionspunkte die Erklärung über den Umfang der Anfechtung.
+
+(3) Hat das Verwaltungsgericht im Erkenntnis ausgesprochen, dass die Revision nicht gemäß Art. 133 Abs. 4 B-VG zulässig ist, hat die Revision auch gesondert die Gründe zu enthalten, aus denen entgegen dem Ausspruch des Verwaltungsgerichtes die Revision für zulässig erachtet wird (außerordentliche Revision).
+
+(4) Der Revision ist eine Ausfertigung, Abschrift oder Kopie des angefochtenen Erkenntnisses anzuschließen, wenn es dem Revisionswerber zugestellt worden ist. Andernfalls ist das Vorliegen der Voraussetzungen des § 25a Abs. 4a letzter Satz oder des § 26 Abs. 2 nachzuweisen.
+
+(5) Auf die Beschlüsse der Verwaltungsgerichte sind die für ihre Erkenntnisse geltenden Bestimmungen dieses Paragraphen sinngemäß anzuwenden.
+
+#### § 29
+
+§ 29. Ist Partei im Sinne des § 21 Abs. 1 Z 2 in einer Rechtssache in den Angelegenheiten der Bundesverwaltung nicht der zuständige Bundesminister oder in den Angelegenheiten der Landesverwaltung nicht die Landesregierung, ist außer den sonst erforderlichen Ausfertigungen der Revision samt Beilagen noch eine weitere Ausfertigung für den Bundesminister bzw. die Landesregierung anzuschließen.
+
+#### § 30 – Aufschiebende Wirkung
+
+§ 30. (1) Die Revision hat keine aufschiebende Wirkung. Dasselbe gilt für den Antrag auf Wiedereinsetzung in den vorigen Stand wegen Versäumung der Revisionsfrist.
+
+(2) Bis zur Vorlage der Revision hat das Verwaltungsgericht, ab Vorlage der Revision hat der Verwaltungsgerichtshof jedoch auf Antrag des Revisionswerbers die aufschiebende Wirkung mit Beschluss zuzuerkennen, wenn dem nicht zwingende öffentliche Interessen entgegenstehen und nach Abwägung der berührten öffentlichen Interessen und Interessen anderer Parteien mit dem Vollzug des angefochtenen Erkenntnisses oder mit der Ausübung der durch das angefochtene Erkenntnis eingeräumten Berechtigung für den Revisionswerber ein unverhältnismäßiger Nachteil verbunden wäre. Die Zuerkennung der aufschiebenden Wirkung bedarf nur dann einer Begründung, wenn durch sie Interessen anderer Parteien berührt werden. Wenn sich die Voraussetzungen, die für die Entscheidung über die aufschiebende Wirkung der Revision maßgebend waren, wesentlich geändert haben, ist von Amts wegen oder auf Antrag einer Partei neu zu entscheiden.
+
+(3) Der Verwaltungsgerichtshof kann ab Vorlage der Revision Beschlüsse gemäß Abs. 2 von Amts wegen oder auf Antrag einer Partei aufheben oder abändern, wenn er die Voraussetzungen der Zuerkennung der aufschiebenden Wirkung anders beurteilt oder wenn sich die Voraussetzungen, die für die Entscheidung über die aufschiebende Wirkung der Revision maßgebend waren, wesentlich geändert haben.
+
+(4) Beschlüsse gemäß Abs. 2 und 3 sind den Parteien zuzustellen. Wird die aufschiebende Wirkung zuerkannt, ist der Vollzug des angefochtenen Erkenntnisses aufzuschieben und sind die hiezu erforderlichen Anordnungen zu treffen; der Inhaber der durch das angefochtene Erkenntnis eingeräumten Berechtigung darf diese nicht ausüben.
+
+(5) Auf die Beschlüsse der Verwaltungsgerichte sind die für ihre Erkenntnisse geltenden Bestimmungen dieses Paragraphen sinngemäß anzuwenden.
+
+#### § 30a – Vorentscheidung durch das Verwaltungsgericht
+
+§ 30a. (1) Revisionen, die sich wegen Versäumung der Einbringungsfrist oder wegen Unzuständigkeit des Verwaltungsgerichtshofes nicht zur Behandlung eignen oder denen die Einwendung der entschiedenen Sache oder der Mangel der Berechtigung zu ihrer Erhebung entgegensteht, sind ohne weiteres Verfahren mit Beschluss zurückzuweisen.
+
+(2) Revisionen, denen keiner der im Abs. 1 bezeichneten Umstände entgegensteht, bei denen jedoch die Vorschriften über die Form und den Inhalt (§§ 23, 24, 28, 29) nicht eingehalten wurden, sind zur Behebung der Mängel unter Setzung einer kurzen Frist zurückzustellen; die Versäumung dieser Frist gilt als Zurückziehung. Dem Revisionswerber steht es frei, einen neuen, dem Mängelbehebungsauftrag voll Rechnung tragenden Schriftsatz unter Wiedervorlage der zurückgestellten unverbesserten Revision einzubringen.
+
+(3) Das Verwaltungsgericht hat über den Antrag auf Zuerkennung der aufschiebenden Wirkung unverzüglich mit Beschluss zu entscheiden.
+
+(4) Das Verwaltungsgericht hat den anderen Parteien Ausfertigungen der Revision samt Beilagen mit der Aufforderung zuzustellen, binnen einer mit höchstens acht Wochen festzusetzenden Frist eine Revisionsbeantwortung einzubringen.
+
+(5) Im Fall des § 29 hat das Verwaltungsgericht eine Ausfertigung der Revision samt Beilagen auch dem zuständigen Bundesminister bzw. der Landesregierung mit der Mitteilung zuzustellen, dass es ihm bzw. ihr freisteht, binnen einer mit höchstens acht Wochen festzusetzenden Frist eine Revisionsbeantwortung einzubringen.
+
+(6) Nach Ablauf der Fristen gemäß Abs. 4 und 5 hat das Verwaltungsgericht den anderen Parteien Ausfertigungen der eingelangten Revisionsbeantwortungen samt Beilagen zuzustellen und dem Verwaltungsgerichtshof die Revision und die Revisionsbeantwortungen samt Beilagen unter Anschluss der Akten des Verfahrens vorzulegen. Gleichzeitig hat das Verwaltungsgericht den Parteien eine Mitteilung über die Vorlage der Revision an den Verwaltungsgerichtshof zuzustellen; diese Mitteilung hat den Hinweis zu enthalten, dass Schriftsätze ab Vorlage der Revision an den Verwaltungsgerichtshof unmittelbar bei diesem einzubringen sind.
+
+(7) Hat das Verwaltungsgericht in seinem Erkenntnis oder Beschluss ausgesprochen, dass die Revision nicht gemäß Art. 133 Abs. 4 B-VG zulässig ist, sind die Abs. 1 bis 6 nicht anzuwenden. Das Verwaltungsgericht hat den anderen Parteien sowie im Fall des § 29 dem zuständigen Bundesminister bzw. der Landesregierung eine Ausfertigung der außerordentlichen Revision samt Beilagen zuzustellen und dem Verwaltungsgerichtshof die außerordentliche Revision samt Beilagen unter Anschluss der Akten des Verfahrens vorzulegen. Gleichzeitig hat das Verwaltungsgericht den Parteien eine Mitteilung über die Vorlage der Revision an den Verwaltungsgerichtshof zuzustellen; diese Mitteilung hat den Hinweis zu enthalten, dass Schriftsätze ab Vorlage der außerordentlichen Revision an den Verwaltungsgerichtshof unmittelbar bei diesem einzubringen sind.
+
+(8) Auf Fristsetzungsanträge sind die Abs. 1 und 2 sinngemäß anzuwenden. Das Verwaltungsgericht hat dem Verwaltungsgerichtshof den Fristsetzungsantrag unter Anschluss der Akten des Verfahrens vorzulegen. Gleichzeitig hat das Verwaltungsgericht den Parteien eine Mitteilung über die Vorlage des Fristsetzungsantrages an den Verwaltungsgerichtshof zuzustellen; diese Mitteilung hat den Hinweis zu enthalten, dass Schriftsätze ab Vorlage des Fristsetzungsantrages an den Verwaltungsgerichtshof unmittelbar bei diesem einzubringen sind.
+
+(9) Auf Anträge auf Wiederaufnahme des Verfahrens und auf Wiedereinsetzung in den vorigen Stand sind die Abs. 1 und 2 sinngemäß anzuwenden.
+
+(10) Hat das Verwaltungsgericht Verfahrensschritte gemäß den Abs. 2 und 4 bis 7 nicht oder nicht vollständig vorgenommen, kann der Verwaltungsgerichtshof dem Verwaltungsgericht die Revision samt Beilagen unter Anschluss der Akten des Verfahrens mit dem Auftrag zurückstellen, diese Verfahrensschritte binnen einer ihm zu setzenden kurzen Frist nachzuholen. Der Verwaltungsgerichtshof kann diese Verfahrensschritte auch selbst vornehmen, wenn dies im Interesse der Zweckmäßigkeit, Raschheit, Einfachheit und Kostenersparnis gelegen ist.
+
+#### § 30b – Vorlageantrag
+
+§ 30b. (1) Soweit das Verwaltungsgericht die Revision bzw. den Fristsetzungsantrag als unzulässig zurückweist, kann jede Partei binnen zwei Wochen nach Zustellung des Beschlusses beim Verwaltungsgericht den Antrag stellen, dass die Revision bzw. der Fristsetzungsantrag dem Verwaltungsgerichtshof zur Entscheidung vorgelegt wird (Vorlageantrag).
+
+(2) Das Verwaltungsgericht hat dem Verwaltungsgerichtshof den Vorlageantrag und die Revision bzw. den Fristsetzungsantrag unter Anschluss der Akten des Verfahrens vorzulegen. Gleichzeitig hat das Verwaltungsgericht den Parteien eine Mitteilung über die Vorlage der Revision bzw. des Fristsetzungsantrages an den Verwaltungsgerichtshof zuzustellen; diese Mitteilung hat den Hinweis zu enthalten, dass Schriftsätze ab Vorlage der Revision bzw. des Fristsetzungsantrages an den Verwaltungsgerichtshof unmittelbar bei diesem einzubringen sind.
+
+(3) Verspätete und unzulässige Vorlageanträge sind vom Verwaltungsgericht mit Beschluss zurückzuweisen.
+
+#### § 30c – Aktenvorlage und -rückstellung
+
+§ 30c. (1) Das Verwaltungsgericht kann Vorlageanträge, Revisionen und Revisionsbeantwortungen samt Beilagen, Fristsetzungsanträge und Akten des Verfahrens im Original, als Ausdruck von elektronischen Dokumenten oder als Kopie vorlegen. Der Verwaltungsgerichtshof kann auch die Vorlage im Original oder eine Einsicht ins Original anordnen. Die Vorlage kann auch im elektronischen Weg erfolgen.
+
+(2) Die vom Verwaltungsgericht vorgelegten Akten des Verfahrens sowie die vom Verwaltungsgerichtshof angeforderten Akten von Gerichten und Verwaltungsbehörden sind nach Abschluss des Verfahrens des Verwaltungsgerichtshofes zurückzustellen. Wurden diese Akten elektronisch übermittelt, sind die diesbezüglichen Daten vom Verwaltungsgerichtshof nach Abschluss seines Verfahrens zu löschen.
+
+#### § 31 – Befangenheit
+
+§ 31. (1) Mitglieder des Gerichtshofes und Schriftführer haben sich unter Anzeige an den Präsidenten der Ausübung ihres Amtes wegen Befangenheit zu enthalten
+
+1\. in Rechtssachen, an denen sie selbst, einer ihrer Angehörigen (§ 36a AVG) oder eine von ihnen vertretene schutzberechtigte Person beteiligt sind;
+
+2\. in Rechtssachen, in denen sie als Bevollmächtigte einer Partei bestellt waren oder bestellt sind;
+
+3\. wenn sie in einem dem Verfahren vor dem Verwaltungsgerichtshof vorangegangenen Verfahren mitgewirkt haben;
+
+4\. wenn sonstige wichtige Gründe vorliegen, die geeignet sind, in ihre volle Unbefangenheit Zweifel zu setzen.
+
+(2) Aus den im Abs. 1 angeführten Gründen können Mitglieder des Gerichtshofes und Schriftführer auch von den Parteien, und zwar spätestens zu Beginn der Verhandlung, abgelehnt werden. Stützt sich die Ablehnung auf Abs. 1 Z 4, so hat die Partei die hiefür maßgebenden Gründe glaubhaft zu machen. Über die Ablehnung entscheidet in Abwesenheit des Abgelehnten der für die Rechtssache zuständige Senat durch Beschluss; bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. Werden der Vorsitzende oder so viele Mitglieder des Senates abgelehnt, dass nicht wenigstens drei verbleiben, so hat der Präsident die Beschlussfassung über den Ablehnungsantrag dem nach der Geschäftsverteilung vorgesehenen Senat zuzuweisen. Beschließt der hiezu berufene Senat, dass die Ablehnung begründet ist, so hat der Präsident den Eintritt des Ersatzmitgliedes (§ 11 Abs. 3) zu verfügen.
+
+#### § 32 – Wahrnehmung der Zuständigkeit
+
+§ 32. Der Verwaltungsgerichtshof nimmt seine Zuständigkeit in jeder Lage des Verfahrens von Amts wegen wahr.
+
+#### § 33 – Einstellung
+
+§ 33. (1) Wenn in irgendeiner Lage des Verfahrens offenbar wird, dass der Revisionswerber klaglos gestellt wurde, ist die Revision nach Anhörung des Revisionswerbers mit Beschluss als gegenstandslos geworden zu erklären und das Verfahren einzustellen. Dasselbe gilt, wenn die Revision zurückgezogen wurde.
+
+(2) Beruht die Revision auf einer Rechtsansicht, die der bisherigen Rechtsprechung des Verwaltungsgerichtshofes widerspricht, so kann der Berichter den Revisionswerber mit Zustimmung des Vorsitzenden unter Hinweis auf die einschlägigen Erkenntnisse oder Beschlüsse des Verwaltungsgerichtshofes und unter Setzung einer angemessenen Frist auffordern, die Revision durch Angabe der Gründe zu ergänzen, aus denen er die der bisherigen Rechtsprechung zugrunde liegende Rechtsansicht für unrichtig hält; die Versäumung dieser Frist gilt als Zurückziehung.
+
+#### § 34 – Zurückweisung
+
+§ 34. (1) Revisionen, die sich wegen Versäumung der Einbringungsfrist, Unzuständigkeit des Verwaltungsgerichtshofes oder Nichtvorliegen der Voraussetzungen des Art. 133 Abs. 4 B-VG nicht zur Behandlung eignen oder denen die Einwendung der entschiedenen Sache oder der Mangel der Berechtigung zu ihrer Erhebung entgegensteht, sind ohne weiteres Verfahren mit Beschluss zurückzuweisen.
+
+(1a) Bei der Beurteilung der Zulässigkeit der Revision gemäß Art. 133 Abs. 4 B-VG ist der Verwaltungsgerichtshof an den Ausspruch des Verwaltungsgerichtes gemäß § 25a Abs. 1 nicht gebunden. Die Zulässigkeit einer außerordentlichen Revision gemäß Art. 133 Abs. 4 B-VG hat der Verwaltungsgerichtshof im Rahmen der dafür in der Revision vorgebrachten Gründe (§ 28 Abs. 3) zu überprüfen.
+
+(2) Revisionen, denen keiner der im Abs. 1 bezeichneten Umstände entgegensteht, bei denen jedoch die Vorschriften über die Form und den Inhalt (§§ 23, 24, 28, 29) nicht eingehalten wurden, sind zur Behebung der Mängel unter Setzung einer kurzen Frist zurückzustellen; die Versäumung dieser Frist gilt als Zurückziehung. Dem Revisionswerber steht es frei, einen neuen, dem Mängelbehebungsauftrag voll Rechnung tragenden Schriftsatz unter Wiedervorlage der zurückgestellten unverbesserten Revision einzubringen.
+
+(3) Ein Beschluss nach Abs. 1 ist in jeder Lage des Verfahrens zu fassen.
+
+(4) Auf Anträge auf Wiederaufnahme des Verfahrens und auf Wiedereinsetzung in den vorigen Stand sind die Abs. 1, 2 und 3 sinngemäß anzuwenden.
+
+#### § 35 – Abweisung und Aufhebung ohne weiteres Verfahren
+
+§ 35. (1) Revisionen, deren Inhalt erkennen lässt, dass die vom Revisionswerber behaupteten Rechtsverletzungen nicht vorliegen, sind ohne weiteres Verfahren als unbegründet abzuweisen.
+
+(2) Das angefochtene Erkenntnis oder der angefochtene Beschluss ist ohne weiteres Verfahren aufzuheben, wenn
+
+1\. dem Verfahren keine Mitbeteiligten beizuziehen sind,
+
+2\. sich schon aus dem Erkenntnis oder dem Beschluss ergibt, dass eine der in der Revision behaupteten Rechtsverletzungen vorliegt, und
+
+3\. die Partei im Sinne des § 21 Abs. 1 Z 2 in einer Revisionsbeantwortung oder innerhalb einer ihr zu setzenden angemessenen Frist nichts vorgebracht hat, was geeignet ist, das Vorliegen dieser Rechtsverletzung als nicht gegeben erkennen zu lassen.
+
+#### § 36 – Vorverfahren
+
+§ 36. (1) In jenen Fällen, in denen sich eine außerordentliche Revision zur weiteren Behandlung als geeignet erweist, hat der Verwaltungsgerichtshof die anderen Parteien aufzufordern, binnen einer mit höchstens acht Wochen festzusetzenden Frist eine Revisionsbeantwortung einzubringen.
+
+(2) Im Fall des § 29 hat der Verwaltungsgerichtshof eine Ausfertigung der außerordentlichen Revision samt Beilagen auch dem zuständigen Bundesminister bzw. der Landesregierung mit der Mitteilung zuzustellen, dass es ihm bzw. ihr freisteht, binnen einer mit höchstens acht Wochen festzusetzenden Frist eine Revisionsbeantwortung einzubringen.
+
+(3) Nach Ablauf der Fristen gemäß Abs. 1 und 2 hat der Verwaltungsgerichtshof den anderen Parteien Ausfertigungen der eingelangten Revisionsbeantwortungen samt Beilagen zuzustellen.
+
+#### § 37
+
+§ 37. Der Verwaltungsgerichtshof kann die Parteien auffordern, binnen angemessener Frist weitere Schriftsätze einzubringen oder sich zu Schriftsätzen der anderen Parteien zu äußern. Die Parteien können solche Schriftsätze auch unaufgefordert einbringen.
+
+#### § 37a
+
+§ 37a. Das Verfahren ist auch dann fortzuführen, wenn Revisionsbeantwortungen oder die im § 37 genannten Schriftsätze nicht eingebracht wurden.
+
+#### § 38 – Fristsetzungsantrag
+
+§ 38. (1) Ein Fristsetzungsantrag kann erst gestellt werden, wenn das Verwaltungsgericht die Rechtssache nicht binnen sechs Monaten, wenn aber durch Bundes- oder Landesgesetz eine kürzere oder längere Frist bestimmt ist, nicht binnen dieser entschieden hat.
+
+(2) In die Frist werden nicht eingerechnet:
+
+1\. die Zeit, während deren das Verfahren bis zur rechtskräftigen Entscheidung einer Vorfrage ausgesetzt ist;
+
+2\. die Zeit eines Verfahrens vor dem Verwaltungsgerichtshof, vor dem Verfassungsgerichtshof oder vor dem Gerichtshof der Europäischen Union;
+
+3\. in Verwaltungsstrafsachen und Finanzstrafsachen
+
+a) die Zeit, während deren nach einer gesetzlichen Vorschrift die Verfolgung nicht eingeleitet oder fortgesetzt werden kann;
+
+b) die Zeit, während deren wegen der Tat gegen den Täter ein Strafverfahren bei der Staatsanwaltschaft, beim Gericht oder bei einer Behörde geführt wird.
+
+(3) Der Fristsetzungsantrag hat zu enthalten:
+
+1\. die Bezeichnung des Verwaltungsgerichtes, dessen Entscheidung in der Rechtssache begehrt wird,
+
+2\. den Sachverhalt,
+
+3\. das Begehren, dem Verwaltungsgericht für die Entscheidung eine Frist zu setzen,
+
+4\. die Angaben, die erforderlich sind, um glaubhaft zu machen, dass die Antragsfrist gemäß Abs. 1 abgelaufen ist.
+
+(4) Auf Fristsetzungsanträge sind die §§ 33 Abs. 1 und 34 Abs. 1, 2 und 3 sinngemäß anzuwenden. In allen sonstigen Fällen ist dem Verwaltungsgericht aufzutragen, innerhalb einer Frist von bis zu drei Monaten, in Verfahren gemäß Art. 130 Abs. 1a B-VG jedoch innerhalb einer Frist von bis zu vier Wochen, das Erkenntnis oder den Beschluss zu erlassen und eine Ausfertigung, Abschrift oder Kopie desselben dem Verwaltungsgerichtshof vorzulegen oder anzugeben, warum eine Verletzung der Entscheidungspflicht nicht vorliegt. Die Frist kann einmal verlängert werden, wenn das Verwaltungsgericht das Vorliegen von in der Sache gelegenen Gründen nachzuweisen vermag, die eine fristgerechte Erlassung des Erkenntnisses oder Beschlusses unmöglich machen. Wird das Erkenntnis oder der Beschluss erlassen, so ist das Verfahren über den Fristsetzungsantrag einzustellen.
+
+#### § 38a – Gleichartige Rechtsfragen in einer erheblichen Anzahl von Verfahren
+
+§ 38a. (1) Ist beim Verwaltungsgerichtshof eine erhebliche Anzahl von Verfahren über Revisionen anhängig, in denen gleichartige Rechtsfragen zu lösen sind, oder besteht Grund zur Annahme, dass eine erhebliche Anzahl solcher Revisionen eingebracht werden wird, so kann der Verwaltungsgerichtshof dies mit Beschluss aussprechen. Ein solcher Beschluss hat zu enthalten:
+
+1\. die in diesen Verfahren anzuwendenden Rechtsvorschriften;
+
+2\. die auf Grund dieser Rechtsvorschriften zu lösenden Rechtsfragen;
+
+3\. die Angabe, welche der Revisionen der Verwaltungsgerichtshof behandeln wird.
+
+Die Beschlüsse werden von dem nach der Geschäftsverteilung zuständigen Senat gefasst.
+
+(2) Beschlüsse gemäß Abs. 1 verpflichten, soweit es sich bei den darin genannten Rechtsvorschriften zumindest auch um Gesetze, politische, gesetzändernde oder gesetzesergänzende Staatsverträge oder Staatsverträge, durch die die vertraglichen Grundlagen der Europäischen Union geändert werden, handelt, den Bundeskanzler oder den zuständigen Landeshauptmann, ansonsten die zuständige oberste Behörde des Bundes oder des Landes zu ihrer unverzüglichen Kundmachung.
+
+(3) Mit Ablauf des Tages der Kundmachung des Beschlusses gemäß Abs. 1 treten folgende Wirkungen ein:
+
+1\. in Rechtssachen, in denen ein Verwaltungsgericht die im Beschluss genannten Rechtsvorschriften anzuwenden und eine darin genannte Rechtsfrage zu beurteilen hat:
+
+a) Es dürfen nur solche Handlungen vorgenommen oder Anordnungen und Entscheidungen getroffen werden, die durch das Erkenntnis des Verwaltungsgerichtshofes nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+b) Die Revisionsfrist beginnt nicht zu laufen; eine laufende Revisionsfrist wird unterbrochen.
+
+c) Die Frist zur Stellung eines Fristsetzungsantrages sowie in den Bundes- oder Landesgesetzen vorgesehene Entscheidungsfristen werden gehemmt.
+
+2\. in allen beim Verwaltungsgerichtshof anhängigen Verfahren gemäß Abs. 1, die im Beschluss gemäß Abs. 1 nicht genannt sind:
+
+Es dürfen nur solche Handlungen vorgenommen oder Anordnungen und Entscheidungen getroffen werden, die durch das Erkenntnis des Verwaltungsgerichtshofes nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+(4) In seinem Erkenntnis fasst der Verwaltungsgerichtshof seine Rechtsanschauung in einem oder mehreren Rechtssätzen zusammen, die nach Maßgabe des Abs. 2 unverzüglich kundzumachen sind. Mit Ablauf des Tages der Kundmachung beginnt eine unterbrochene Revisionsfrist neu zu laufen und enden die sonstigen Wirkungen des Abs. 3.
+
+#### § 38b – Einholung einer Vorabentscheidung des Gerichtshofes der Europäischen Union
+
+§ 38b. (1) Beschlüsse des Verwaltungsgerichtshofes, dem Gerichtshof der Europäischen Union eine Frage zur Vorabentscheidung nach Art. 267 des Vertrags über die Arbeitsweise der Europäischen Union vorzulegen, sind den Parteien zuzustellen. Hat der Verwaltungsgerichtshof einen solchen Beschluss gefasst, so darf er bis zum Einlangen der Vorabentscheidung nur solche Handlungen vornehmen und nur solche Anordnungen und Entscheidungen treffen, die durch die Vorabentscheidung nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+(2) Ist die beantragte Vorabentscheidung noch nicht ergangen und hat der Verwaltungsgerichtshof die Bestimmung, die Gegenstand seines Vorabentscheidungsantrages war, nicht mehr anzuwenden, so hat er diesen unverzüglich zurückzuziehen.
+
+#### § 39 – Verhandlungen
+
+§ 39. (1) Über die Revision ist nach Abschluss des Vorverfahrens eine Verhandlung vor dem Verwaltungsgerichtshof durchzuführen, wenn
+
+1\. der Revisionswerber innerhalb der Revisionsfrist oder eine andere Partei innerhalb der Frist zur Erstattung der Revisionsbeantwortung die Durchführung der Verhandlung beantragt hat. Ein solcher Antrag kann nur mit Zustimmung der anderen Parteien zurückgezogen werden;
+
+2\. der Berichter oder der Vorsitzende die Durchführung der Verhandlung für zweckmäßig erachtet oder der Senat sie beschließt.
+
+(2) Der Verwaltungsgerichtshof kann ungeachtet eines Parteiantrages nach Abs. 1 Z 1 von einer Verhandlung absehen, wenn
+
+1\. das Verfahren einzustellen (§ 33) oder die Revision zurückzuweisen ist (§ 34);
+
+1a. die Revision ohne weiteres Verfahren als unbegründet abzuweisen (§ 35 Abs. 1) oder das angefochtene Erkenntnis oder der angefochtene Beschluss ohne weiteres Verfahren aufzuheben ist (§ 35 Abs. 2);
+
+2\. das angefochtene Erkenntnis oder der angefochtene Beschluss wegen Rechtswidrigkeit infolge Unzuständigkeit des Verwaltungsgerichtes aufzuheben ist (§ 42 Abs. 2 Z 2);
+
+3\. das angefochtene Erkenntnis oder der angefochtene Beschluss wegen Rechtswidrigkeit infolge Verletzung von Verfahrensvorschriften aufzuheben ist (§ 42 Abs. 2 Z 3);
+
+4\. das angefochtene Erkenntnis oder der angefochtene Beschluss nach der ständigen Rechtsprechung des Verwaltungsgerichtshofes wegen Rechtswidrigkeit seines Inhalts aufzuheben ist;
+
+5\. keine andere Partei eine Revisionsbeantwortung eingebracht hat und das angefochtene Erkenntnis oder der angefochtene Beschluss aufzuheben ist;
+
+6\. die Schriftsätze der Parteien und die Akten des Verfahrens vor dem Verwaltungsgericht erkennen lassen, dass die mündliche Erörterung eine weitere Klärung der Rechtssache nicht erwarten lässt und einem Entfall der Verhandlung weder Art. 6 Abs. 1 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, noch Art. 47 der Charta der Grundrechte der Europäischen Union, ABl. Nr. C 83 vom 30.03.2010 S. 389 entgegenstehen.
+
+(3) Hat eine Verhandlung vor dem Fünfersenat stattgefunden, so ist sie vor dem verstärkten Senat (§ 13) nur dann zu wiederholen, wenn der verstärkte Senat dies beschließt.
+
+#### § 40
+
+§ 40. (1) Die Verhandlung ordnet der Vorsitzende an.
+
+(2) Zur Verhandlung sind alle Parteien zu laden. Das Ausbleiben von Parteien steht jedoch der Verhandlung und Entscheidung nicht entgegen.
+
+(3) Die Verhandlung findet vor dem Senat statt.
+
+(4) Die Verhandlung ist öffentlich. Die Öffentlichkeit darf von der Verhandlung nur so weit ausgeschlossen werden, als dies aus Gründen der Sittlichkeit, der öffentlichen Ordnung oder der nationalen Sicherheit, der Wahrung von Geschäfts- und Betriebsgeheimnissen sowie im Interesse des Schutzes Jugendlicher oder des Privatlebens einer Partei, eines Opfers, eines Zeugen oder eines Dritten geboten ist.
+
+(4a) Der Ausschluss der Öffentlichkeit erfolgt durch Beschluss des Senates entweder von Amts wegen oder auf Antrag einer Partei oder eines Zeugen.
+
+(4b) Unmittelbar nach der Verkündung des Beschlusses über den Ausschluss der Öffentlichkeit haben sich alle Zuhörer zu entfernen, doch können die Parteien verlangen, dass je drei Personen ihres Vertrauens die Teilnahme an der Verhandlung gestattet wird.
+
+(4c) Wenn die Öffentlichkeit von einer Verhandlung ausgeschlossen wurde, ist es so weit untersagt, daraus Umstände weiterzuverbreiten, als dies aus den in Abs. 4 angeführten Gründen geboten ist.
+
+(5) Der Vorsitzende eröffnet, leitet und schließt die Verhandlung und handhabt die Sitzungspolizei. Die Verhandlung beginnt mit dem Vortrag des Berichters. Der Vorsitzende hat von Amts wegen für die vollständige Erörterung der Rechtssache zu sorgen. Auch die sonstigen Mitglieder des Senates sind befugt, Fragen zu stellen.
+
+(6) Über Einwendungen gegen Anordnungen, die das Verfahren betreffen, sowie über Anträge, die im Laufe des Verfahrens gestellt werden, ist durch Beschluss zu entscheiden.
+
+(6a) Die Verhandlung kann mit Einverständnis der Parteien nach Maßgabe der technischen Möglichkeiten unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung durchgeführt werden, es sei denn, das persönliche Erscheinen vor dem Verwaltungsgerichtshof ist unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder aus besonderen Gründen erforderlich. Die näheren Regelungen werden in der Geschäftsordnung (§ 19) getroffen. Das Einverständnis gilt als erteilt, soweit die Parteien nicht innerhalb einer vom Verwaltungsgerichtshof festgesetzten angemessenen Frist widersprechen.
+
+(7) Über jede Verhandlung ist eine Niederschrift anzufertigen. Diese hat die Namen der Mitglieder des Senates, des Schriftführers, der Parteien und ihrer Vertreter sowie die wesentlichen Vorkommnisse der Verhandlung, insbesondere Anträge der Parteien, zu enthalten und ist vom Vorsitzenden und vom Schriftführer zu unterfertigen.
+
+(8) Eine Verhandlung darf nur aus erheblichen Gründen vertagt werden; im Zuge einer Verhandlung beschließt die Vertagung der Senat, sonst verfügt sie der Vorsitzende.
+
+#### § 41 – Prüfung des angefochtenen Erkenntnisses oder Beschlusses
+
+§ 41. Soweit nicht Rechtswidrigkeit infolge Unzuständigkeit des Verwaltungsgerichtes oder infolge Verletzung von Verfahrensvorschriften vorliegt (§ 42 Abs. 2 Z 2 und 3), hat der Verwaltungsgerichtshof das angefochtene Erkenntnis oder den angefochtenen Beschluss auf Grund des vom Verwaltungsgericht angenommenen Sachverhalts im Rahmen der geltend gemachten Revisionspunkte (§ 28 Abs. 1 Z 4) bzw. der Erklärung über den Umfang der Anfechtung (§ 28 Abs. 2) zu überprüfen. Ist er der Ansicht, dass für die Entscheidung über die Rechtswidrigkeit des Erkenntnisses oder Beschlusses in einem der Revisionspunkte oder im Rahmen der Erklärung über den Umfang der Anfechtung Gründe maßgebend sein könnten, die einer Partei bisher nicht bekannt gegeben wurden, so hat er die Parteien darüber zu hören und erforderlichenfalls eine Vertagung anzuordnen.
+
+#### § 42 – Erkenntnisse
+
+§ 42. (1) Der Verwaltungsgerichtshof hat alle Rechtssachen, soweit in diesem Bundesgesetz nicht anderes bestimmt ist, mit Erkenntnis zu erledigen. Mit dem Erkenntnis ist entweder die Revision als unbegründet abzuweisen, das angefochtene Erkenntnis oder der angefochtene Beschluss aufzuheben oder in der Sache selbst zu entscheiden.
+
+(2) Das angefochtene Erkenntnis oder der angefochtene Beschluss ist aufzuheben
+
+1\. wegen Rechtswidrigkeit seines Inhaltes,
+
+2\. wegen Rechtswidrigkeit infolge Unzuständigkeit des Verwaltungsgerichtes,
+
+3\. wegen Rechtswidrigkeit infolge Verletzung von Verfahrensvorschriften, und zwar weil
+
+a) der Sachverhalt vom Verwaltungsgericht in einem wesentlichen Punkt aktenwidrig angenommen wurde oder
+
+b) der Sachverhalt in einem wesentlichen Punkt einer Ergänzung bedarf oder
+
+c) das Verwaltungsgericht bei Einhaltung der verletzten Verfahrensvorschriften zu einem anderen Erkenntnis oder Beschluss hätte kommen können.
+
+(3) Durch die Aufhebung des angefochtenen Erkenntnisses oder Beschlusses gemäß Abs. 2 tritt die Rechtssache in die Lage zurück, in der sie sich vor Erlassung des angefochtenen Erkenntnisses bzw. Beschlusses befunden hat.
+
+(4) Der Verwaltungsgerichtshof kann in der Sache selbst entscheiden, wenn sie entscheidungsreif ist und die Entscheidung in der Sache selbst im Interesse der Einfachheit, Zweckmäßigkeit und Kostenersparnis liegt. In diesem Fall hat er den maßgeblichen Sachverhalt festzustellen und kann zu diesem Zweck auch das Verwaltungsgericht mit der Ergänzung des Ermittlungsverfahrens beauftragen.
+
+#### § 42a
+
+§ 42a. Ist das Verwaltungsgericht seiner Entscheidungspflicht nicht nachgekommen, so hat ihm der Verwaltungsgerichtshof aufzutragen, das Erkenntnis oder den Beschluss innerhalb einer von ihm festzusetzenden angemessenen Frist nachzuholen.
+
+#### § 43
+
+§ 43. (1) Die Erkenntnisse sind im Namen der Republik zu verkünden und auszufertigen.
+
+(2) Jedes Erkenntnis ist zu begründen. Soweit die Rechtsfrage durch die bisherige Rechtsprechung klargestellt ist, genügt es, diese anzuführen.
+
+(3) Das Erkenntnis ist vom Vorsitzenden/von der Vorsitzenden des Senates und vom Schriftführer/von der Schriftführerin durch ihre Unterschriften zu beurkunden; wurde das Erkenntnis elektronisch erstellt, kann an die Stelle dieser Unterschriften ein Verfahren zum Nachweis der Identität (§ 2 Z 1 E-GovG) des Vorsitzenden/der Vorsitzenden des Senates und des Schriftführers/der Schriftführerin sowie der Authentizität (§ 2 Z 5 E-GovG) des Erkenntnisses treten. Die näheren Regelungen werden in der Geschäftsordnung (§ 19) getroffen.
+
+(3a) Die schriftlichen Ausfertigungen der Erkenntnisse beglaubigt die Kanzlei unter Wiedergabe des Namens des Vorsitzenden/der Vorsitzenden und des Schriftführers/der Schriftführerin mit dem Vermerk „Für die Richtigkeit der Ausfertigung“. Ausfertigungen in Form von elektronischen Dokumenten müssen mit einer Amtssignatur (§ 19 E-GovG) versehen sein; Ausfertigungen in Form von Ausdrucken von mit einer Amtssignatur versehenen elektronischen Dokumenten oder von Kopien solcher Ausdrucke brauchen keine weiteren Voraussetzungen zu erfüllen.
+
+(4) Hat eine Verhandlung stattgefunden, so hat in der Regel der Vorsitzende das Erkenntnis mit den wesentlichen Entscheidungsgründen sogleich zu verkünden.
+
+(5) Die Verkündung des Erkenntnisses entfällt, wenn sich die Parteien vorzeitig entfernt haben bzw. wenn sie sich an einer unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung durchgeführten Verhandlung nicht mehr beteiligen oder wenn die Beratung vertagt werden muss. In diesen Fällen wird das Erkenntnis den Parteien nur in schriftlicher Ausfertigung zugestellt.
+
+(6) Eine schriftliche Ausfertigung des Erkenntnisses ist auch den Parteien zuzustellen, denen es verkündet wurde.
+
+(7) Schreib- oder Rechenfehler oder andere offenbar auf einem Versehen beruhende Unrichtigkeiten im Erkenntnis können jederzeit von Amts wegen berichtigt werden.
+
+(8) Zur Herstellung der für die Kenntnis durch jedermann bestimmten Ausdrucke (Speicherungen auf Datenträgern) sind personenbezogene Daten im Erkenntnis nur so weit unkenntlich zu machen, als es die berechtigten Interessen der Parteien an der Geheimhaltung dieser Daten gebieten (wie etwa Umstände des Privat- und Familienlebens, Steuergeheimnis), ohne hiedurch die Verständlichkeit des Erkenntnisses zu beeinträchtigen. Die Anordnungen hiefür hat der erkennende Senat, in Fällen des § 14 Abs. 2 der Berichter zu beschließen.
+
+(9) Die Abs. 2 bis 8 sind auf Beschlüsse sinngemäß anzuwenden.
+
+#### § 44
+
+§ 44. (1) Im Fall des § 29 ist eine schriftliche Ausfertigung des Erkenntnisses oder Beschlusses auch dem zuständigen Bundesminister bzw. der Landesregierung zuzustellen.
+
+(2) Hat ein Verwaltungsgericht dem Verwaltungsgerichtshof gemäß § 34 Abs. 3 VwGVG die Aussetzung eines Verfahrens mitgeteilt, ist eine Ausfertigung des Erkenntnisses oder Beschlusses in der vom Verwaltungsgericht bezeichneten Rechtssache auch dem Verwaltungsgericht zuzustellen.
+
+#### § 45 – Wiederaufnahme des Verfahrens
+
+§ 45. (1) Die Wiederaufnahme eines durch Erkenntnis oder Beschluss abgeschlossenen Verfahrens ist auf Antrag einer Partei zu bewilligen, wenn
+
+1\. das Erkenntnis oder der Beschluss durch eine gerichtlich strafbare Handlung herbeigeführt oder sonstwie erschlichen worden ist oder
+
+2\. das Erkenntnis oder der Beschluss auf einer nicht von der Partei verschuldeten irrigen Annahme der Versäumung einer in diesem Bundesgesetz vorgesehenen Frist beruht oder
+
+3\. nachträglich eine rechtskräftige gerichtliche Entscheidung bekannt wird, die in dem Verfahren vor dem Verwaltungsgerichtshof die Einwendung der entschiedenen Sache begründet hätte, oder
+
+4\. im Verfahren vor dem Gerichtshof den Vorschriften über das Parteiengehör nicht entsprochen wurde und anzunehmen ist, dass sonst das Erkenntnis oder der Beschluss anders gelautet hätte oder
+
+5\. das Verfahren vor dem Gerichtshof wegen Klaglosstellung oder wegen einer durch Klaglosstellung veranlassten Zurückziehung der Revision eingestellt wurde und der Grund für die Klaglosstellung nachträglich weggefallen ist.
+
+(2) Der Antrag ist beim Verwaltungsgerichtshof binnen zwei Wochen von dem Tag, an dem der Antragsteller von dem Wiederaufnahmegrund Kenntnis erlangt hat, jedoch spätestens binnen drei Jahren nach der Zustellung des Erkenntnisses oder des Beschlusses zu stellen.
+
+(3) Über den Antrag ist mit Beschluss zu entscheiden.
+
+(4) Wenn der Verwaltungsgerichtshof in der Sache selbst entschieden hatte, gilt für die Wiederaufnahme § 69 AVG sinngemäß.
+
+(5) Auf Beschlüsse der Verwaltungsgerichte gemäß den §§ 30a Abs. 1 und 30b Abs. 3 sind die Abs. 1 bis 4 mit der Maßgabe sinngemäß anzuwenden, dass der Antrag beim Verwaltungsgericht zu stellen und über ihn vom Verwaltungsgericht zu entscheiden ist.
+
+(6) In Verfahrenshilfesachen (§ 61) ist die Wiederaufnahme des Verfahrens nicht zulässig.
+
+#### § 46 – Wiedereinsetzung in den vorigen Stand
+
+§ 46. (1) Wenn eine Partei durch ein unvorhergesehenes oder unabwendbares Ereignis – so dadurch, dass sie von einer Zustellung ohne ihr Verschulden keine Kenntnis erlangt hat – eine Frist versäumt und dadurch einen Rechtsnachteil erleidet, so ist dieser Partei auf Antrag die Wiedereinsetzung in den vorigen Stand zu bewilligen. Dass der Partei ein Verschulden an der Versäumung zur Last liegt, hindert die Bewilligung der Wiedereinsetzung nicht, wenn es sich nur um einen minderen Grad des Versehens handelt.
+
+(2) Die Wiedereinsetzung in den vorigen Stand wegen Versäumung der Revisionsfrist und der Frist zur Stellung eines Vorlageantrages ist auch dann zu bewilligen, wenn die Frist versäumt wurde, weil das anzufechtende Erkenntnis, der anzufechtende Beschluss oder die anzufechtende Revisionsvorentscheidung fälschlich einen Rechtsbehelf eingeräumt und die Partei den Rechtsbehelf ergriffen hat oder keine Belehrung zur Erhebung einer Revision oder zur Stellung eines Vorlageantrages, keine Frist zur Erhebung einer Revision oder zur Stellung eines Vorlageantrages oder die Angabe enthält, dass kein Rechtsbehelf zulässig sei.
+
+(3) In den Fällen des Abs. 1 ist der Antrag auf Wiedereinsetzung binnen zwei Wochen nach dem Wegfall des Hindernisses zu stellen und zwar bis zur Vorlage der Revision beim Verwaltungsgericht und ab Vorlage der Revision beim Verwaltungsgerichtshof; ein ab Vorlage der Revision vor Zustellung der Mitteilung über deren Vorlage an den Verwaltungsgerichtshof beim Verwaltungsgericht gestellter Antrag gilt als beim Verwaltungsgerichtshof gestellt und ist diesem unverzüglich vorzulegen. In den Fällen des Abs. 2 ist der Antrag binnen zwei Wochen
+
+1\. nach Zustellung eines Bescheides oder einer gerichtlichen Entscheidung, der bzw. die den Rechtsbehelf als unzulässig zurückgewiesen hat, bzw.
+
+2\. nach dem Zeitpunkt, in dem die Partei von der Zulässigkeit der Erhebung der Revision bzw. der Stellung eines Antrages auf Vorlage Kenntnis erlangt hat,
+
+beim Verwaltungsgericht zu stellen. Die versäumte Handlung ist gleichzeitig nachzuholen.
+
+(4) Bis zur Vorlage der Revision hat über den Antrag das Verwaltungsgericht zu entscheiden. Ab Vorlage der Revision hat über den Antrag der Verwaltungsgerichtshof durch Beschluss zu entscheiden. Das Verwaltungsgericht oder der Verwaltungsgerichtshof können dem Antrag auf Wiedereinsetzung die aufschiebende Wirkung zuerkennen.
+
+(5) Durch die Bewilligung der Wiedereinsetzung tritt das Verfahren in die Lage zurück, in der es sich vor dem Eintritt der Versäumung befunden hat.
+
+(6) Gegen die Versäumung der Frist zur Stellung des Wiedereinsetzungsantrages findet keine Wiedereinsetzung statt.
+
+#### § 47 – Aufwandersatz
+
+§ 47. (1) Die Parteien im Verfahren vor dem Verwaltungsgerichtshof haben einen Anspruch auf Aufwandersatz nach Maßgabe der §§ 47 bis 59.
+
+(2) Unbeschadet der folgenden Bestimmungen hat einen Anspruch auf Aufwandersatz
+
+1\. der Revisionswerber im Fall der Aufhebung des angefochtenen Erkenntnisses oder Beschlusses oder der Entscheidung in der Sache selbst;
+
+2\. der Rechtsträger im Sinne des Abs. 5 im Fall der Abweisung der Revision.
+
+(3) Mitbeteiligte haben einen Anspruch auf Aufwandersatz im Fall der Abweisung der Revision.
+
+(4) In den Fällen des Art. 133 Abs. 6 Z 2 und 3 und Abs. 8 B-VG haben der Revisionswerber und der Rechtsträger im Sinne des Abs. 5 keinen Anspruch auf Aufwandersatz.
+
+(5) Der dem Revisionswerber zu leistende Aufwandersatz ist von jenem Rechtsträger zu tragen, in dessen Namen die Behörde in dem dem Verfahren vor dem Verwaltungsgericht vorangegangenen Verwaltungsverfahren gehandelt hat. Diesem Rechtsträger fließt auch der Aufwandersatz zu, der auf Grund dieses Bundesgesetzes vom Revisionswerber zu leisten ist.
+
+#### § 48
+
+§ 48. (1) Der Revisionswerber hat Anspruch auf Ersatz
+
+1\. der Kommissionsgebühren und der Eingabengebühr gemäß § 24a, die er im Verfahren vor dem Verwaltungsgerichtshof zu entrichten hat, sowie der Barauslagen des Verwaltungsgerichtshofes, für die er aufzukommen hat;
+
+2\. des Aufwandes, der für ihn mit der Einbringung der Revision durch einen Rechtsanwalt (Steuerberater oder Wirtschaftsprüfer) verbunden war (Schriftsatzaufwand);
+
+3\. der Reisekosten (Fahrt- und Aufenthaltskosten), die für ihn mit der Wahrnehmung ihrer Parteirechte in Verhandlungen vor dem Verwaltungsgerichtshof verbunden waren;
+
+4\. des sonstigen Aufwandes, der für ihn mit der Vertretung durch einen Rechtsanwalt (Steuerberater oder Wirtschaftsprüfer) in Verhandlungen vor dem Verwaltungsgerichtshof verbunden war (Verhandlungsaufwand).
+
+(2) Die Partei im Sinne des § 21 Abs. 1 Z 2 hat Anspruch auf Ersatz
+
+1\. des Aufwandes, der für sie mit der Einbringung der Revisionsbeantwortung verbunden war (Schriftsatzaufwand);
+
+2\. der Reisekosten (Fahrt- und Aufenthaltskosten), die für sie mit der Wahrnehmung ihrer Parteirechte in Verhandlungen vor dem Verwaltungsgerichtshof verbunden waren;
+
+3\. des sonstigen Aufwandes, der für sie mit der Wahrnehmung seiner Parteirechte in Verhandlungen vor dem Verwaltungsgerichtshof verbunden war (Verhandlungsaufwand).
+
+(3) Ein Mitbeteiligter hat Anspruch auf Ersatz
+
+1\. der Kommissionsgebühren und der Eingabengebühr gemäß § 24a, die er im Verfahren vor dem Verwaltungsgerichtshof zu entrichten hat, sowie der Barauslagen des Verwaltungsgerichtshofes, für die er aufzukommen hat;
+
+2\. des Aufwandes, der für ihn mit der Einbringung einer Revisionsbeantwortung durch einen Rechtsanwalt (Steuerberater oder Wirtschaftsprüfer) verbunden war (Schriftsatzaufwand);
+
+3\. der Reisekosten (Fahrt- und Aufenthaltskosten), die für ihn mit der Wahrnehmung seiner Parteirechte in Verhandlungen vor dem Verwaltungsgerichtshof verbunden waren;
+
+4\. des sonstigen Aufwandes, der für ihn mit der Vertretung durch einen Rechtsanwalt (Steuerberater oder Wirtschaftsprüfer) in Verhandlungen vor dem Verwaltungsgerichtshof verbunden war (Verhandlungsaufwand).
+
+#### § 49
+
+§ 49. (1) Als Ersatz für den Schriftsatz- und den Verhandlungsaufwand gemäß § 48 Abs. 1 Z 2 und 4 sowie Abs. 3 Z 2 und 4 sind Pauschalbeträge zu zahlen, deren Höhe vom Bundeskanzler durch Verordnung in einem Ausmaß festzustellen ist, das den durchschnittlichen Kosten der Einbringung eines der im § 48 Abs. 1 Z 2 sowie Abs. 3 Z 2 genannten Schriftsätze bzw. der Vertretung durch einen Rechtsanwalt entspricht.
+
+(2) Als Ersatz für den Vorlage-, den Schriftsatz- und den Verhandlungsaufwand gemäß § 48 Abs. 2 Z 1 und 3 sind Pauschalbeträge zu zahlen, deren Ausmaß vom Bundeskanzler durch Verordnung in einem Ausmaß festzustellen ist, das dem durchschnittlichen Aufwand der Behörden für diese Parteihandlungen entspricht. Die Höhe der Pauschalbeträge für den Schriftsatz- und für den Verhandlungsaufwand darf jedoch die Hälfte der Pauschalbeträge nicht übersteigen, die auf Grund des Abs. 1 als Ersatz für den Schriftsatzaufwand gemäß § 48 Abs. 1 Z 2 bzw. für den Verhandlungsaufwand gemäß § 48 Abs. 1 Z 4 festgestellt werden.
+
+(3) Fahrtkosten im Inland (§ 48) sind in dem bei Inanspruchnahme der öffentlichen Verkehrsmittel notwendigen Ausmaß zu ersetzen. Bei Eisenbahnen ist die 1., ansonsten die 2. Tarifklasse maßgebend. Der Fahrpreis ist nach den für das betreffende öffentliche Verkehrsmittel jeweils geltenden Tarifen zu vergüten, wobei bestehende allgemeine Tarifermäßigungen zu berücksichtigen sind.
+
+(4) Aufenthaltskosten im Sinne des § 48 sind die mit dem Aufenthalt am Sitz des Verwaltungsgerichtshofes notwendig verbundenen zusätzlichen Kosten für Verpflegung und Unterkunft. Als Ersatz dieser Kosten sind Pauschalbeträge zu zahlen, deren Höhe vom Bundeskanzler durch Verordnung für alle Fälle des § 48 einheitlich in einem Ausmaß festzustellen ist, das der durchschnittlichen Höhe der in Betracht kommenden Kosten entspricht.
+
+(5) Hat an einer mündlichen Verhandlung in den Fällen der Abs. 1 und 3 des § 48 im Auftrag der Partei ein Rechtsanwalt (Steuerberater oder Wirtschaftsprüfer) teilgenommen, so sind für die Berechnung der Reisekosten dessen Verhältnisse, ansonsten die Verhältnisse der Partei maßgebend. Neben den Reisekosten eines Rechtsanwaltes (Steuerberaters oder Wirtschaftsprüfers) sind die Reisekosten der von ihm vertretenen Partei nur zu ersetzen, wenn die Partei an der mündlichen Verhandlung auf Grund einer Ladung des Verwaltungsgerichtshofes teilzunehmen hatte. In den Fällen des § 48 Abs. 2 sind für die Berechnung der Reisekosten die Verhältnisse der Partei im Sinne des § 21 Abs. 1 Z 2, im Fall einer Vertretung gemäß § 23 Abs. 3 jedoch die Verhältnisse des mit der Vertretung betrauten Organs (Bundesministerium, Finanzprokuratur) maßgebend.
+
+(6) Sind mehrere Mitbeteiligte vorhanden, so sind jene unter ihnen, denen ein Schriftsatz- oder ein Verhandlungsaufwand, Fahrt- oder Aufenthaltskosten erwachsen sind, hinsichtlich des Ersatzes jeder dieser Arten von Aufwendungen als eine Partei anzusehen. Der dieser Partei zustehende Ersatz für Schriftsatz- und für Verhandlungsaufwand ist an die die Partei bildenden Mitbeteiligten zu gleichen Teilen zu leisten. Der Berechnung der Reisekosten sind die Verhältnisse jenes Mitbeteiligten zugrunde zu legen, der die größte Entfernung zurückzulegen hatte. Der so errechnete Betrag für Reisekostenersatz ist an diesen Mitbeteiligten zu zahlen. Die Zahlung hat gegenüber allen Mitbeteiligten, die auf Reisekostenersatz Anspruch haben, schuldbefreiende Wirkung. Welche Ansprüche diese Mitbeteiligten untereinander haben, richtet sich nach dem Verhältnis jener Beträge zueinander, auf die jeder Mitbeteiligte gemäß Abs. 3 im Fall der Abweisung der Revision Anspruch hätte.
+
+#### § 50
+
+§ 50. In Fällen, in denen ein Erkenntnis oder ein Beschluss vom Verwaltungsgerichtshof teilweise aufgehoben wurde, ist die Frage des Anspruches auf Aufwandersatz (§ 47) so zu beurteilen, wie wenn das Erkenntnis bzw. der Beschluss zur Gänze aufgehoben worden wäre.
+
+#### § 51
+
+§ 51. In Fällen, in denen die Revision nach der Vorlage an den Verwaltungsgerichtshof oder die außerordentliche Revision nach der Einleitung des Vorverfahrens zurückgewiesen oder zurückgezogen wurde, ist die Frage des Anspruches auf Aufwandersatz (§ 47) so zu beurteilen, wie wenn die Revision abgewiesen worden wäre.
+
+#### § 52
+
+§ 52. (1) Haben ein oder mehrere Revisionswerber in einer Revision mehrere Erkenntnisse oder Beschlüsse angefochten, ist die Frage des Anspruches auf Aufwandersatz (§ 47) so zu beurteilen, wie wenn jedes der Erkenntnisse bzw. jeder der Beschlüsse in einer gesonderten Revision angefochten worden wäre.
+
+(2) Für Verhandlungen, die im Fall des Abs. 1 am selben Tag oder an unmittelbar aufeinander folgenden Tagen stattgefunden haben, sind einer Partei Fahrtkosten so zu ersetzen, wie wenn nur eine Verhandlung stattgefunden hätte. Aufenthaltskosten sind einer Partei für denselben Zeitraum nur einmal, der Verhandlungsaufwand ist einer Partei für jede mündliche Verhandlung zu ersetzen. Kommissionsgebühren, die Eingabengebühr gemäß § 24a und Barauslagen sind einer Partei in dem Ausmaß zu ersetzen, in dem sie von ihr tatsächlich entrichtet worden sind.
+
+(3) Haben in den Fällen des Abs. 2 erster Satz für die Fahrtkosten einer Partei gemäß § 47 Abs. 5 mehrere Rechtsträger aufzukommen, sind sie von diesen Rechtsträgern zu gleichen Teilen zu tragen.
+
+#### § 53
+
+§ 53. (1) Haben mehrere Revisionswerber ein Erkenntnis oder einen Beschluss gemeinsam in einer Revision angefochten, ist die Frage des Anspruches auf Aufwandersatz (§ 47) so zu beurteilen, wie wenn die Revision nur von dem in der Revision erstangeführten Revisionswerber eingebracht worden wäre. Der Aufwandersatz ist an diesen Revisionswerber zu zahlen. Die Zahlung hat gegenüber allen Revisionswerbern, die auf Aufwandersatz Anspruch haben, schuldbefreiende Wirkung. Welche Ansprüche diese Revisionswerber untereinander haben, ist nach den Bestimmungen des bürgerlichen Rechts zu beurteilen. Aufwandersatz haben die Revisionswerber zu gleichen Teilen zu leisten.
+
+(2) Haben mehrere Revisionswerber ein Erkenntnis oder einen Beschluss in getrennten Revisionen angefochten und sind diese Revisionen durch denselben Rechtsanwalt (Steuerberater oder Wirtschaftsprüfer) eingebracht worden, ist Abs. 1 sinngemäß anzuwenden. An die Stelle des erstangeführten Revisionswerbers tritt in diesem Fall der Revisionswerber, dessen Revision die niedrigste Geschäftszahl des Verwaltungsgerichtshofes trägt.
+
+#### § 54
+
+§ 54. (1) Wird die Wiederaufnahme eines Verfahrens gemäß § 45 Abs. 1 Z 1 oder gemäß § 45 Abs. 4 dieses Bundesgesetzes in Verbindung mit § 69 Abs. 1 Z 1 AVG bewilligt, so hat die Partei, die die Wiederaufnahme beantragt hat, gegen jene Partei, die das Erkenntnis beziehungsweise den Beschluss durch eine gerichtlich strafbare Handlung herbeigeführt oder sonstwie erschlichen hat, einen Anspruch
+
+1\. auf Ersatz des Aufwandes, der für sie mit dem Antrag auf Wiederaufnahme des Verfahrens verbunden war (Schriftsatzaufwand);
+
+2\. auf Ersatz der Geldleistungen, die sie auf Grund der §§ 47 bis 59 dieses Bundesgesetzes im anhängigen Verfahren vor dessen Wiederaufnahme zu erbringen hatte.
+
+(2) Auf den Schriftsatzaufwand gemäß Abs. 1 Z 1 sind die Bestimmungen des § 49 Abs. 1 und 2 über den Schriftsatzaufwand mit der Maßgabe sinngemäß anzuwenden, dass der Pauschalbetrag für den Ersatz des Schriftsatzaufwandes in der Verordnung gemäß § 49 Abs. 1 um die Hälfte niedriger festzusetzen ist als der sonst auf Grund dieser Bestimmung für den Ersatz des Schriftsatzaufwandes festzustellende Pauschalbetrag.
+
+(3) Wurde die Wiederaufnahme des Verfahrens von mehreren Parteien beantragt, so hat jede von ihnen einen Anspruch auf Aufwandersatz gemäß den Abs. 1 und 2. Wurde jedoch von mehreren Parteien ein gemeinsamer Wiederaufnahmeantrag gestellt oder wurden getrennte Wiederaufnahmeanträge von mehreren Parteien durch denselben Rechtsanwalt (Steuerberater oder Wirtschaftsprüfer) eingebracht, so gilt § 53 Abs. 1 und 2 sinngemäß.
+
+(4) Soweit die Abs. 1 und 2 nicht anderes bestimmen, gelten die allgemeinen Bestimmungen über den Aufwandersatz auch für das wiederaufgenommene Verfahren.
+
+#### § 55
+
+§ 55. Wurde der Revisionswerber hinsichtlich einzelner oder aller Revisionspunkte (§ 28 Abs. 1 Z 4) klaglos gestellt (§ 33), ist die Frage des Anspruches auf Aufwandersatz (§ 47) so zu beurteilen, wie im Fall des § 47 Abs. 2 Z 1. Für jene Fälle, in denen die Klaglosstellung hinsichtlich aller Revisionspunkte (§ 28 Abs. 1 Z 4) innerhalb der gemäß § 30a Abs. 4 oder § 36 Abs. 1 gesetzten Frist erfolgte, ist jedoch der Pauschalbetrag für den Ersatz des Schriftsatzaufwandes in der Verordnung gemäß § 49 Abs. 1 um ein Viertel niedriger festzusetzen als der allein auf Grund dieser Bestimmung für den Ersatz des Schriftsatzaufwandes festzustellende Pauschalbetrag.
+
+#### § 56
+
+§ 56. (1) Im Fall eines Fristsetzungsantrages, in dem der Verwaltungsgerichtshof gemäß § 42a vorgeht, ist die Frage des Anspruches auf Aufwandersatz (§ 47) so zu beurteilen, wie im Fall des § 47 Abs. 2 Z 1. Im Fall eines Fristsetzungsantrages, in dem das Verfahren wegen Nachholung des versäumten Erkenntnisses oder Beschlusses eingestellt wurde, ist der Pauschalbetrag für den Ersatz des Schriftsatzaufwandes in der Verordnung gemäß § 49 Abs. 1 um die Hälfte niedriger festzusetzen als der sonst auf Grund dieser Bestimmung für den Ersatz des Schriftsatzaufwandes festzustellende Pauschalbetrag.
+
+(2) Abs. 1 ist nicht anzuwenden, wenn
+
+1\. das Verwaltungsgericht Gründe nachzuweisen vermag, die eine fristgerechte Erlassung des Erkenntnisses oder Beschlusses unmöglich gemacht haben, und diese Gründe dem Antragsteller vor Einbringung des Fristsetzungsantrages bekannt gegeben hat,
+
+2\. die Verzögerung der verwaltungsgerichtlichen Entscheidung ausschließlich auf das Verschulden des Antragstellers zurückzuführen war oder
+
+3\. die dem Fristsetzungsantrag zugrunde liegende Rechtssache mutwillig betrieben wird.
+
+#### § 57
+
+§ 57. Durch die §§ 47 bis 56 wird der Entlohnungsanspruch der Rechtsanwälte (Steuerberater oder Wirtschaftsprüfer) gegenüber den von ihnen vertretenen Parteien nicht berührt.
+
+#### § 58
+
+§ 58. (1) Soweit die §§ 47 bis 56 nicht anderes bestimmen, hat jede Partei den ihr im Verfahren vor dem Verwaltungsgerichtshof erwachsenden Aufwand selbst zu tragen.
+
+(2) Fällt bei einer Revision oder einem Fristsetzungsantrag das Rechtsschutzinteresse nachträglich weg, so ist dies bei der Entscheidung über die Kosten nicht zu berücksichtigen; würde hiebei die Entscheidung über die Kosten einen unverhältnismäßigen Aufwand erfordern, so ist darüber nach freier Überzeugung zu entscheiden.
+
+#### § 59
+
+§ 59. (1) Aufwandersatz ist vom Verwaltungsgerichtshof auf Antrag zuzuerkennen.
+
+(2) Der Antrag auf Zuerkennung von Aufwandersatz ist einzubringen
+
+1\. für Schriftsatzaufwand im Schriftsatz;
+
+2\. für Reisekosten und Verhandlungsaufwand am Schluss der mündlichen Verhandlung;
+
+3\. für Leistungen betreffend Kommissionsgebühren und Barauslagen binnen einer Woche nach dem Entstehen der Leistungspflicht.
+
+Alle Anträge sind schriftlich zu stellen und zu begründen.
+
+(3) Über rechtzeitig gestellte Anträge auf Zuerkennung von Aufwandersatz hat der Verwaltungsgerichtshof in dem das Verfahren abschließenden Erkenntnis bzw. Beschluss, wenn dies jedoch nicht möglich ist, mit abgesondertem Beschluss zu entscheiden. Nicht rechtzeitig gestellte Anträge sind zurückzuweisen. Wurde jedoch bis zur Entscheidung zumindest ein allgemeiner Antrag auf Zuerkennung von Aufwandersatz gestellt, sind die Pauschalbeträge für Schriftsatzaufwand und Verhandlungsaufwand sowie die tatsächlich entrichteten Kommissionsgebühren und die Eingabengebühr gemäß § 24a im gebührenden Ausmaß jedenfalls zuzusprechen.
+
+(4) In der Entscheidung über den Antrag auf Zuerkennung von Aufwandersatz hat der Verwaltungsgerichtshof eine Leistungsfrist von zwei Wochen festzusetzen. Die Exekution dieser Entscheidungen wird von den ordentlichen Gerichten durchgeführt. Der Verwaltungsgerichtshof hat durch seine Geschäftsstelle auf einer Ausfertigung der Entscheidung über den Aufwandersatz der anspruchsberechtigten Partei die Vollstreckbarkeit dieser Entscheidung zu bestätigen.
+
+#### § 61 – Verfahrenshilfe
+
+§ 61. (1) Soweit im Folgenden nicht anderes bestimmt ist, sind die Voraussetzungen und die Wirkungen der Bewilligung der Verfahrenshilfe nach den Vorschriften der Zivilprozessordnung – ZPO, RGBl. Nr. 113/1895, zu beurteilen. Die Bewilligung der Verfahrenshilfe schließt das Recht ein, dass der Partei ohne weiteres Begehren zur Abfassung und Einbringung der Revision, des Fristsetzungsantrages, des Antrages auf Wiederaufnahme des Verfahrens oder auf Wiedereinsetzung in den vorigen Stand oder des Antrages auf Entscheidung eines Kompetenzkonfliktes und zur Vertretung bei der Verhandlung (§ 40) ein Rechtsanwalt beigegeben wird.
+
+(1a) Wurde das Erkenntnis des Verwaltungsgerichts mündlich verkündet (§ 29 Abs. 2 VwGVG), ist ein Antrag auf Verfahrenshilfe nur nach einem Antrag auf Ausfertigung des Erkenntnisses gemäß § 29 Abs. 4 VwGVG durch mindestens einen der hiezu Berechtigten zulässig. Ein Nachweis über einen rechtzeitigen Antrag auf Ausfertigung des Erkenntnisses gemäß § 29 Abs. 4 VwGVG ist anzuschließen.
+
+(2) Hat das Verwaltungsgericht in seinem Erkenntnis oder Beschluss ausgesprochen, dass die Revision gemäß Art. 133 Abs. 4 B-VG zulässig ist, entscheidet über den Antrag auf Verfahrenshilfe das Verwaltungsgericht mit Beschluss. Die Erfolgsaussichten der Rechtsverfolgung (§ 63 Abs. 1 ZPO) sind für seine Entscheidung nicht maßgeblich.
+
+(3) Hat das Verwaltungsgericht in seinem Erkenntnis oder Beschluss ausgesprochen, dass die Revision gemäß Art. 133 Abs. 4 B-VG nicht zulässig ist, entscheidet über den Antrag auf Verfahrenshilfe der Verwaltungsgerichtshof. Im Antrag ist, soweit dies dem Antragsteller zumutbar ist, kurz zu begründen, warum entgegen dem Ausspruch des Verwaltungsgerichtes die Revision für zulässig erachtet wird.
+
+(4) Über Anträge auf Verfahrenshilfe für die Abfassung und Einbringung eines Fristsetzungsantrages oder eines Antrages auf Entscheidung eines Kompetenzkonfliktes entscheidet der Verwaltungsgerichtshof.
+
+(5) Hat das Verwaltungsgericht bzw. der Verwaltungsgerichtshof die Verfahrenshilfe bewilligt, hat es bzw. hat er den Ausschuss der nach dem gewöhnlichen Aufenthalt der Partei zuständigen Rechtsanwaltskammer zu benachrichtigen, damit der Ausschuss einen Rechtsanwalt zum Vertreter bestelle. Wünschen der Partei über die Auswahl dieses Rechtsanwalts ist im Einvernehmen mit dem namhaft gemachten Rechtsanwalt nach Möglichkeit zu entsprechen.
+
+(6) Wird gemäß § 45 Abs. 4 der Rechtsanwaltsordnung – RAO, RGBl. Nr. 96/1868, anstelle des bisher beigegebenen Rechtsanwaltes ein anderer Rechtsanwalt zur Verfahrenshilfe bestellt, hat die Rechtsanwaltskammer den Verwaltungsgerichtshof hievon unverzüglich unter Beischluss eines Zustellnachweises in Kenntnis zu setzen.
+
+(7) Hat der Verfassungsgerichtshof eine Beschwerde gemäß Art. 144 Abs. 3 B-VG dem Verwaltungsgerichtshof abgetreten, gilt eine von ihm bewilligte Verfahrenshilfe und die Bestellung eines Rechtsanwaltes auch für das Revisionsverfahren.
+
+#### § 62 – Anzuwendendes Recht
+
+§ 62. (1) Soweit in diesem Bundesgesetz nicht anderes bestimmt ist, ist auf das Verfahren vor dem Verwaltungsgerichtshof das AVG anzuwenden.
+
+(2) Entscheidet der Verwaltungsgerichtshof in der Sache selbst, so hat er, soweit in diesem Bundesgesetz nicht anderes bestimmt ist, jene Vorschriften anzuwenden, die das Verwaltungsgericht anzuwenden hätte.
+
+#### § 63 – Vollstreckung
+
+§ 63. (1) Wenn der Verwaltungsgerichtshof einer Revision stattgegeben hat, sind die Verwaltungsgerichte und die Verwaltungsbehörden verpflichtet, in der betreffenden Rechtssache mit den ihnen zu Gebote stehenden rechtlichen Mitteln unverzüglich den der Rechtsanschauung des Verwaltungsgerichtshofes entsprechenden Rechtszustand herzustellen.
+
+(2) In einem Erkenntnis, mit dem der Verwaltungsgerichtshof in der Sache selbst entscheidet, hat er auch das Gericht oder die Verwaltungsbehörde zu bestimmen, das bzw. die das Erkenntnis zu vollstrecken hat. Das Vollstreckungsverfahren richtet sich nach den für dieses Gericht bzw. diese Verwaltungsbehörde sonst geltenden Vorschriften.
+
+## 2. Unterabschnitt
+
+### Besondere Bestimmungen über Feststellungsanträge in Amts- und Organhaftungssachen, in Rechtssachen betreffend die Verpflichtungen des Fernsehveranstalters nach dem Fernseh-Exklusivrechtegesetz und in Rechtssachen in den Angelegenheiten der Nachprüfung im Rahmen der Vergabe von Aufträgen
+
+#### § 64 – Parteien
+
+§ 64. Parteien im Verfahren nach diesem Unterabschnitt sind das antragstellende Gericht, die Behörde, die den Bescheid bzw. das Verwaltungsgericht, das das Erkenntnis oder den Beschluss erlassen hat, und die Parteien des Rechtsstreites vor dem antragstellenden Gericht (§ 11 des Amtshaftungsgesetzes – AHG, BGBl. Nr. 20/1949; § 9 des Organhaftpflichtgesetzes – OrgHG, BGBl. Nr. 181/1967; § 3 Abs. 9 des Fernseh-Exklusivrechtegesetzes – FERG, BGBl. I Nr. 85/2001; § 373 Abs. 5 des Bundesvergabegesetzes 2018 – BVergG 2018, BGBl. I Nr. 65/2018; § 142 Abs. 4 des Bundesvergabegesetzes Verteidigung und Sicherheit 2012 – BVergGVS 2012, BGBl. I Nr. 10/2012; § 116 Abs. 5 des Bundesvergabegesetzes Konzessionen 2018 – BVergGKonz 2018, BGBl. I Nr. 65/2018).
+
+#### § 65 – Einleitung des Verfahrens
+
+§ 65. (1) Sobald der Beschluss auf Unterbrechung des Verfahrens (§ 11 des Amtshaftungsgesetzes – AHG, BGBl. Nr. 20/1949; § 9 des Organhaftpflichtgesetzes – OrgHG, BGBl. Nr. 181/1967; § 3 Abs. 9 des Fernseh-Exklusivrechtegesetzes – FERG, BGBl. I Nr. 85/2001; § 373 Abs. 5 des Bundesvergabegesetzes 2018 – BVergG 2018, BGBl. I Nr. 65/2018; § 142 Abs. 4 des Bundesvergabegesetzes Verteidigung und Sicherheit 2012 – BVergGVS 2012, BGBl. I Nr. 10/2012; § 116 Abs. 5 des Bundesvergabegesetzes Konzessionen 2018 – BVergGKonz 2018, BGBl. I Nr. 65/2018) rechtskräftig geworden ist, hat das Gericht beim Verwaltungsgerichtshof den Antrag auf Überprüfung des Bescheides bzw. des Erkenntnisses oder des Beschlusses zu stellen. Den übrigen Parteien steht es frei, binnen zwei Wochen nach Rechtskraft des Unterbrechungsbeschlusses ergänzende Ausführungen zur Frage der Rechtswidrigkeit des Bescheides bzw. des Erkenntnisses oder des Beschlusses zu machen.
+
+(2) Der Antrag (Abs. 1) hat den Bescheid bzw. das Erkenntnis oder den Beschluss und allenfalls die Punkte zu bezeichnen, deren Überprüfung das Gericht verlangt. Dem Antrag sind die Akten des Rechtsstreites anzuschließen.
+
+(3) Der Verwaltungsgerichtshof hat die Behörde, die den Bescheid bzw. das Verwaltungsgericht, das das Erkenntnis oder den Beschluss erlassen hat, aufzufordern, die Akten des Verwaltungsverfahrens bzw. des Gerichtsverfahrens, soweit sie nicht bereits dem Akt des antragstellenden Gerichtes beiliegen, binnen zwei Wochen vorzulegen. Kommt die Behörde dieser Aufforderung nicht nach, kann der Verwaltungsgerichtshof seinen Beschluss
+
+1\. wenn es sich um ein gemäß § 11 AHG eingeleitetes Verfahren handelt, auf Grund der ihm vorliegenden Akten und der Behauptungen des Klägers,
+
+2\. wenn es sich um ein gemäß § 9 OrgHG eingeleitetes Verfahren handelt, auf Grund der ihm vorliegenden Akten und der Behauptungen des Beklagten,
+
+3\. wenn es sich um ein gemäß § 3 Abs. 9 FERG, § 373 Abs. 5 BVergG 2018, § 142 Abs. 4 BVergGVS 2012 oder § 116 Abs. 5 BVergGKonz 2018 eingeleitetes Verfahren handelt, auf Grund der ihm vorliegenden Akten und der Behauptungen der Parteien des Rechtsstreites vor dem antragstellenden Gericht
+
+fassen.
+
+#### § 66 – Verhandlung
+
+§ 66. Die Durchführung einer Verhandlung bleibt dem Gerichtshof überlassen.
+
+#### § 67 – Erkenntnis
+
+§ 67. Das Erkenntnis des Verwaltungsgerichtshofes über die Rechtswidrigkeit eines Bescheides bzw. eines Erkenntnisses oder eines Beschlusses hat lediglich feststellende Bedeutung. Je eine Ausfertigung des Erkenntnisses ist den Parteien zuzustellen.
+
+#### § 68 – Kosten
+
+§ 68. Die in diesem Verfahren erwachsenden Kosten sind Kosten des Rechtsstreites vor dem antragstellenden Gericht.
+
+#### § 69 – Verfahrenshilfe
+
+§ 69. Die Bewilligung der Verfahrenshilfe für den Rechtsstreit vor dem antragstellenden Gericht gilt auch für das Verfahren nach diesem Unterabschnitt.
+
+#### § 70 – Ergänzende Bestimmungen
+
+§ 70. Soweit sich aus den §§ 64 bis 69 nicht anderes ergibt, sind die §§ 22 bis 25, § 29, § 30c, § 31, § 32, § 33 Abs. 2, § 34, § 36, § 37, § 38b, § 40, § 41, § 43 Abs. 1 bis 5 und 7 bis 9 sowie die §§ 45, 46 und 62 Abs. 1 sinngemäß anzuwenden.
+
+## 3. Unterabschnitt
+
+### Besondere Bestimmungen im Verfahren zur Entscheidung von Kompetenzkonflikten zwischen Verwaltungsgerichten oder zwischen einem Verwaltungsgericht und dem Verwaltungsgerichtshof
+
+#### § 71
+
+§ 71. Im Verfahren zur Entscheidung von Kompetenzkonflikten zwischen Verwaltungsgerichten oder zwischen einem Verwaltungsgericht und dem Verwaltungsgerichtshof gemäß Art. 133 Abs. 1 Z 3 B-VG sind die §§ 43 bis 46, 48, 49, 51 und 52 des Verfassungsgerichtshofgesetzes 1953 – VfGG, BGBl. Nr. 85/1953, sinngemäß anzuwenden.
+
+## 4. Unterabschnitt
+
+### Elektronischer Rechtsverkehr
+
+#### § 72
+
+§ 72. (1) Die Schriftsätze können auch im Weg des nach diesem Unterabschnitt eingerichteten elektronischen Rechtsverkehrs wirksam eingebracht werden. Anstelle schriftlicher Ausfertigungen der Erledigungen sowie anstelle von Gleichschriften von Eingaben, die elektronisch eingebracht worden sind, kann der Verwaltungsgerichtshof die darin enthaltenen Daten im Weg des elektronischen Rechtsverkehrs übermitteln.
+
+(2) Ist die Zustellung im elektronischen Rechtsverkehr nach den folgenden Bestimmungen nicht möglich, kann sie auch über elektronische Zustelldienste nach den Bestimmungen des 3. Abschnittes des Zustellgesetzes – ZustG, BGBl. Nr. 200/1982, erfolgen.
+
+#### § 73
+
+§ 73. Der Präsident hat nach Anhörung der Vollversammlung nach Maßgabe der technischen und organisatorischen Möglichkeiten sowie unter Bedachtnahme auf eine einfache und sparsame Verwaltung und eine Sicherung vor Missbrauch die nähere Vorgangsweise bei der elektronischen Einbringung von Schriftsätzen und Übermittlung von Ausfertigungen von Erledigungen des Verwaltungsgerichtshofes durch Verordnung zu regeln. Dazu gehören insbesondere die zulässigen elektronischen Formate und Signaturen, die Regelungen für die Ausgestaltung der automationsunterstützt hergestellten Ausfertigungen einschließlich der technischen Vorgaben für die Amtssignatur und deren Überprüfung sowie Bestimmungen über den Anschriftcode. In der Verordnung kann vorgeschrieben werden, dass sich der Einbringer einer Übermittlungsstelle zu bedienen hat. Diese Verordnung hat nach Maßgabe der technischen und organisatorischen Möglichkeiten den Zeitpunkt zu bestimmen, ab dem Schriftsätze und Ausfertigungen von Erledigungen im Weg des elektronischen Rechtsverkehrs eingebracht bzw. übermittelt werden können.
+
+#### § 74
+
+§ 74. (1) Soweit dies in der Verordnung gemäß § 73 angeordnet ist,
+
+1\. sind die Schriftsätze mit einer geeigneten elektronischen Signatur zu unterschreiben;
+
+2\. kann auch ein anderes sicheres Verfahren, das die Authentizität und die Integrität des übermittelten elektronischen Dokuments sicherstellt, angewandt werden;
+
+3\. sind Beilagen zu elektronisch eingebrachten Schriftsätzen in Form von elektronischen Urkunden (Urschriften oder elektronischen Abschriften von Papierurkunden) anzuschließen.
+
+(2) Die Ausfertigungen von Erledigungen des Verwaltungsgerichtshofes, die im elektronischen Rechtsverkehr übermittelt werden sollen, sind mit der Amtssignatur des Verwaltungsgerichtshofes (§§ 19 und 20 des E–Government-Gesetzes – E-GovG, BGBl. I Nr. 10/2004), zu versehen, soweit dies in der Verordnung nach § 73 vorgesehen ist. Die Bestimmungen des Signatur- und Vertrauensdienstegesetzes – SVG, BGBl. I Nr. 50/2016, und der Verordnung (EU) Nr. 910/2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG, ABl. Nr. L 257 vom 28.08.2014 S. 73, in der Fassung der Berichtigung ABl. Nr. L 155 vom 14.06.2016 S. 44, sind sinngemäß anzuwenden.
+
+(3) Nach Maßgabe der technischen Möglichkeiten sind Rechtsanwälte sowie Steuerberater und Wirtschaftsprüfer zur Teilnahme am elektronischen Rechtsverkehr verpflichtet. Ein Verstoß gegen diese Vorschrift wird wie ein Formmangel behandelt, der zu verbessern ist.
+
+> **Anmerkung:** EG/EU: Art. 25, BGBl. I Nr. 50/2016
+
+#### § 75
+
+§ 75. (1) Schriftsätze, die im Weg des elektronischen Rechtsverkehrs eingebracht werden, gelten als beim Verwaltungsgerichtshof eingebracht, wenn ihre Daten zur Gänze bei der Bundesrechenzentrum GmbH eingelangt sind. Ist vorgesehen, dass die Schriftsätze über eine Übermittlungsstelle zu leiten sind (§ 73), und sind sie auf diesem Weg bei der Bundesrechenzentrum GmbH tatsächlich zur Gänze eingelangt, so gelten sie als beim Verwaltungsgerichtshof mit demjenigen Zeitpunkt eingebracht, an dem die Übermittlungsstelle dem Einbringer rückgemeldet hat, dass sie die Daten des Schriftsatzes zur Weiterleitung an die Bundesrechenzentrum GmbH übernommen hat.
+
+(2) Als Zustellungszeitpunkt elektronisch übermittelter Ausfertigungen von Erledigungen des Verwaltungsgerichtshofes und Eingaben (§ 72 Abs. 1) gilt jeweils der auf das Einlangen in den elektronischen Verfügungsbereich des Empfängers folgende Werktag, wobei Samstage nicht als Werktage gelten.
+
+#### § 76
+
+§ 76. Im Übrigen sind die §§ 89a bis 89g GOG sinngemäß anzuwenden.
+
+## 5. Unterabschnitt
+
+### Datenschutz
+
+#### § 76a
+
+§ 76a. Die §§ 84 und 85 GOG gelten sinngemäß mit der Maßgabe, dass über behauptete Verletzungen solcher Rechte (Art. 133 Abs. 2a B-VG) ein Senat des Verwaltungsgerichtshofes nach den Bestimmungen dieses Bundesgesetzes entscheidet.
+
+## III. ABSCHNITT
+
+### Schlussbestimmungen
+
+#### § 77 – Sprachliche Gleichbehandlung
+
+§ 77. Soweit in diesem Bundesgesetz auf natürliche Personen bezogene Bezeichnungen nur in männlicher Form angeführt sind, beziehen sie sich auf Frauen und Männer in gleicher Weise. Bei der Anwendung der Bezeichnung auf bestimmte natürliche Personen ist die jeweils geschlechtsspezifische Form zu verwenden.
+
+#### § 78 – Vollziehung
+
+§ 78. Mit der Vollziehung des § 24a ist, soweit darin nicht anderes bestimmt ist, der Bundesminister für Finanzen betraut, mit der Vollziehung der sonstigen Bestimmungen dieses Bundesgesetzes, soweit in den §§ 49 und 54 bis 56 nicht anderes bestimmt ist, die Bundesregierung.
+
+#### § 79 – Inkrafttreten
+
+§ 79. (1) § 24 Abs. 1 und Abs. 2 bis 4, § 34 Abs. 2 und 4, § 36 Abs. 2 dritter Satz, § 39 Abs. 2 Z 6, § 43 Abs. 8 sowie die Absatzbezeichnung des Abs. 9, § 48 Abs. 1 Z 1, § 49 Abs. 1, die Änderung in § 55 Abs. 1, § 55 Abs. 4, die Absatzänderung in § 58 und § 58 Abs. 2 und § 72 in der Fassung des Bundesgesetzes BGBl. I Nr. 88/1997 treten mit 1. September 1997 in Kraft. § 33a samt Überschrift in der Fassung des genannten Bundesgesetzes tritt mit 1. Jänner 1998 in Kraft.
+
+(2) § 27 Abs. 1 erster Satz und § 48 Abs. 2 Z 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 158/1998 treten mit 1. Jänner 1999 in Kraft.
+
+(3) § 23 Abs. 1 und § 24 Abs. 2 zweiter Satz treten gleichzeitig mit dem Inkrafttreten des Wirtschaftstreuhandberufsgesetzes, BGBl. I Nr. 58/1999, in Kraft.
+
+(4) Die §§ 24 Abs. 3 und 4, 33a und 74 samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 136/2001 treten mit 1. Jänner 2002 in Kraft.
+
+(5) § 26a in der Fassung des Bundesgesetzes BGBl. I Nr. 124/2002 tritt mit 1. Oktober 2002 in Kraft.
+
+(6) § 21 Abs. 1, § 23, § 24 Abs. 2 und 3, § 28 Abs. 1 Z 1, § 30 Abs. 3, § 33a, § 34 Abs. 1, § 36 Abs. 2 letzter Satz und Abs. 6, § 38a samt Überschrift, § 38b samt Überschrift, § 43 Abs. 3, 8 und 9, § 44, § 47 Abs. 2 Z 1, § 49 Abs. 1 und 5, § 50, § 52 Abs. 1, § 53, § 54 Abs. 1 und 3 und § 57 in der Fassung des Bundesgesetzes BGBl. I Nr. 89/2004 treten mit Ablauf des Monats der Kundmachung dieses Bundesgesetzes in Kraft; zugleich treten § 24 Abs. 4 und § 26a außer Kraft.
+
+(7) Mit Ablauf des Monats der Kundmachung des Bundesgesetzes BGBl. I Nr. 89/2004 treten, soweit sie noch in Geltung stehen, in ihrer zu diesem Zeitpunkt geltenden Fassung außer Kraft:
+
+1\. das Übergangsrecht anläßlich von Novellen zum Verwaltungsgerichtshofgesetz 1965, Anlage 2 zur Kundmachung des Bundeskanzlers vom 20. Dezember 1984, mit der das Verwaltungsgerichtshofgesetz 1965 wiederverlautbart wird, BGBl. Nr. 10/1985;
+
+2\. das Bundesgesetz, mit dem das Verwaltungsgerichtshofgesetz 1985 geändert wird, BGBl. Nr. 564/1985;
+
+3\. das Bundesgesetz, mit dem das Verwaltungsgerichtshofgesetz und das Richterdienstgesetz geändert werden, BGBl. Nr. 330/1990.
+
+Durch die aufgehobenen Bundesgesetze geänderte gesetzliche Bestimmungen bleiben unberührt; durch diese aufgehobene gesetzliche Bestimmungen treten nicht wieder in Kraft.
+
+(8) § 1 Abs. 2 bis 4, § 11 Abs. 2, § 21 Abs. 1, § 22 zweiter Satz, § 23 Abs. 1 zweiter Satz, Abs. 4 und Abs. 5, § 24 Abs. 2 erster Satz, Abs. 2a und Abs. 3 Z 2 und 5, § 25 Abs. 1, § 27, § 28 Abs. 1 Z 2, Abs. 3 und 5, § 31 Abs. 1 Z 1, § 33 Abs. 2, § 34 Abs. 2 und 4, § 36 Abs. 2 zweiter Satz, Abs. 5, Abs. 6 und Abs. 7 letzter Satz, § 38 Abs. 2, § 38a Abs. 3 Z 1 lit. c, § 42 Abs. 4 erster Satz, § 43 Abs. 3, § 47 Abs. 2 Z 1 und Abs. 5, § 48 Abs. 1, Abs. 2 Z 1 und Abs. 3, § 49 Abs. 1, 2, 4 und 5, § 50, § 52 Abs. 2 dritter Satz, § 53 Abs. 2, § 54 Abs. 2 und 3, die §§ 55 bis 57, § 59 Abs. 2 Z 4 und Abs. 3 dritter Satz, § 61 Abs. 2, § 62 Abs. 2, die Überschrift zum 2. Unterabschnitt des II. Abschnittes, § 64, § 65 Abs. 1 und 3, § 70 samt Überschrift, der dritte Unterabschnitt des II. Abschnittes, der bisherige § 71 (§ 79 samt Überschrift neu) und die Paragraphenbezeichnungen der bisherigen §§ 72 bis 74 (§§ 80 bis 82 neu) in der Fassung des Bundesgesetzes BGBl. I Nr. 4/2008 treten mit 1. Juli 2008 in Kraft; gleichzeitig treten § 31 Abs. 1 Z 2, § 36 Abs. 4 und § 60 außer Kraft.
+
+(9) § 24 Abs. 3 Z 5 und 6 in der Fassung des Art. 2 des Budgetbegleitgesetzes 2011, BGBl. I Nr. 111/2010, tritt mit 1. Jänner 2011 in Kraft.
+
+(10) § 14 Abs. 4, § 15 Abs. 3, § 24 Abs. 1, § 25 Abs. 2, § 27 Abs. 2 erster Satz, § 33a, § 37 Abs. 1, § 38a Abs. 2, die Überschrift zu § 38b, § 38b Abs. 1 erster Satz, § 41 Abs. 2, § 42 Abs. 1 und 3a, § 43 Abs. 7, § 45 Abs. 4, § 47 Abs. 1 und Abs. 2 Z 1, § 53 Abs. 2 erster Satz, § 54 Abs. 3 zweiter Satz, § 55 Abs. 2 Z 2, § 62 Abs. 2, § 76 Abs. 3 und 5 und § 80 samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 51/2012 treten mit Ablauf des Monats der Kundmachung dieses Bundesgesetzes in Kraft.
+
+(11) In der Fassung des Art. 3 des Bundesgesetzes BGBl. I Nr. 33/2013 treten in Kraft:
+
+1\. die neue Absatzbezeichnung des § 15 Abs. 3 mit 1. Juli 2012;
+
+2\. § 3 Abs. 1 in der Fassung der Z 2, § 10 Abs. 2 Z 1 in der Fassung der Z 5, § 12 Abs. 1 Z 1 lit. a in der Fassung der Z 11, § 12 Abs. 1 Z 1 lit. c in der Fassung der Z 12, § 12 Abs. 1 Z 2 in der Fassung der Z 13, § 12 Abs. 3 in der Fassung der Z 15, § 14 Abs. 2 in der Fassung der Z 17, § 15 Abs. 4 in der Fassung der Z 20, die Überschrift zum 1. Unterabschnitt des II. Abschnittes in der Fassung der Z 21, § 21 in der Fassung der Z 22 bis 24, § 22 in der Fassung der Z 25, § 23 Abs. 1 in der Fassung der Z 26, die §§ 24 und § 24a in der Fassung der Z 28, § 25 in der Fassung der Z 29, § 25a samt Überschrift in der Fassung der Z 30, § 26 samt Überschrift in der Fassung der Z 31, § 28 samt Überschrift in der Fassung der Z 33, § 29 in der Fassung der Z 34, § 30 in der Fassung der Z 35, diese in der Fassung des Art. 1 Z 1 des Bundesgesetzes BGBl. I Nr. 122/2013, die §§ 30a und 30b samt Überschriften in der Fassung der Z 36, § 31 Abs. 1 in der Fassung der Z 37 bis 40, § 31 Abs. 2 in der Fassung der Z 42, die Überschrift vor § 33 in der Fassung der Z 43, § 33 in der Fassung der Z 44 und 45, § 34 Abs. 1 und 1a in der Fassung der Z 47, § 34 Abs. 2 in der Fassung der Z 48, § 34 Abs. 4 in der Fassung der Z 49, § 35 samt Überschrift in der Fassung der Z 50, die §§ 36 bis 37a samt Überschrift in der Fassung der Z 51, § 38 samt Überschrift in der Fassung der Z 52, § 38a Abs. 1, 3 und 4 in der Fassung der Z 53 bis 57, § 38b Abs. 1 in der Fassung der Z 56, § 39 Abs. 1 und 2 in der Fassung der Z 58 bis 60, § 40 Abs. 4 bis 4c in der Fassung der Z 61, § 41 samt Überschrift in der Fassung der Z 62, § 42 in der Fassung der Z 63, § 42a in der Fassung der Z 64, § 44 in der Fassung der Z 65, § 45 Abs. 1 Z 5 in der Fassung der Z 66, § 45 Abs. 5 und 6 in der Fassung der Z 67, § 46 Abs. 2 bis 4 in der Fassung der Z 68, die §§ 47 und 48 samt Überschrift in der Fassung der Z 69, § 49 Abs. 2 in der Fassung der Z 72, § 49 Abs. 5 in der Fassung der Z 73, § 49 Abs. 6 letzter Satz in der Fassung der Z 74, § 50 in der Fassung der Z 75, § 51 in der Fassung der Z 76, § 52 in der Fassung der Z 77, § 53 in der Fassung der Z 78, § 54 Abs. 2 in der Fassung der Z 79, die §§ 55 und 56 in der Fassung der Z 80, § 58 Abs. 2 in der Fassung der Z 81, § 59 Abs. 2 bis 4 in der Fassung der Z 82 bis 84, § 61 in der Fassung der Z 85, § 62 in der Fassung der Z 86, § 63 in der Fassung der Z 87, die Überschrift zum 2. Unterabschnitt des II. Abschnittes in der Fassung der Z 88, § 64 in der Fassung der Z 90, § 65 Abs. 1 in der Fassung der Z 92, § 65 Abs. 2 in der Fassung der Z 93, diese in der Fassung des Art. 1 Z 2 des Bundesgesetzes BGBl. I Nr. 122/2013, § 65 Abs. 3 Einleitung in der Fassung der Z 94, § 67 in der Fassung der Z 96, § 70 in der Fassung der Z 97, der 3. Unterabschnitt des II. Abschnittes samt Überschrift in der Fassung der Z 98, der 4. Unterabschnitt des II. Abschnittes samt Überschrift in der Fassung der Z 99 und die Paragraphenbezeichnungen der §§ 77 bis 80 neu in der Fassung der Z 100 mit 1. Jänner 2014; gleichzeitig treten § 27 und § 33a samt Überschrift außer Kraft;
+
+3\. die sonstigen Bestimmungen und Änderungen, insbesondere auch die in Z 101 in der Fassung des Art. 1 Z 3 des Bundesgesetzes BGBl. I Nr. 122/2013 vorgesehene Anpassung von in Z 1 dieses Absatzes genannte Bestimmungen an die neue Rechtschreibung, mit Ablauf des Februars 2013; gleichzeitig treten § 9 Abs. 3 und § 15 Abs. 4 letzter Satz außer Kraft.
+
+Soweit durch das Verwaltungsgerichtsbarkeits-Übergangsgesetz – VwGbk-ÜG, BGBl. I Nr. 33/2013, nicht anderes bestimmt ist, sind in den mit Ablauf des 31. Dezember 2013 beim Verwaltungsgerichtshof anhängigen Beschwerdeverfahren die bis zum Ablauf des 31. Dezember 2013 geltenden Bestimmungen weiter anzuwenden.
+
+(12) In der Fassung des Art. 4 des Bundesgesetzes BGBl. I Nr. 122/2013 treten in Kraft:
+
+1\. die Überschrift zum 2. Unterabschnitt des II. Abschnittes und § 65 Abs. 3 Z 1 und 2 mit Ablauf des 28. Februar 2013; gleichzeitig entfällt der Ausdruck **„§ 16.** *(Entfällt samt Überschrift; BGBl. Nr. 192/1973)*“;
+
+2\. § 80 (§ 78 neu) mit 1. Jänner 2014;
+
+3\. die sonstigen Bestimmungen mit Ablauf des Monats der Kundmachung dieses Bundesgesetzes.
+
+(13) § 74 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 50/2016 tritt mit 1. Juli 2016 in Kraft.
+
+(14) § 9a samt Überschrift, § 15 Abs. 4, § 25a Abs. 4a, § 26 Abs. 2, § 28 Abs. 4 letzter Satz, § 61 Abs. 1a, § 72 Abs. 1 zweiter Satz, § 74 Abs. 2 und § 76 in der Fassung des Bundesgesetzes BGBl. I Nr. 24/2017 treten mit 1. Jänner 2017 in Kraft.
+
+(15) § 28 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 138/2017 tritt mit 1. Jänner 2019 in Kraft.
+
+(16) Der 5. Unterabschnitt samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 22/2018 tritt mit 25. Mai 2018 in Kraft.
+
+(17) § 31 Abs. 1 Z 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 58/2018, tritt mit 1. August 2018 in Kraft.
+
+(18) § 1 Abs. 2 zweiter Satz in der Fassung des Bundesgesetzes BGBl. I Nr. 33/2019, tritt mit Ablauf des Monats der Kundmachung des genannten Bundesgesetzes in Kraft.
+
+(19) § 24a Z 4 und 6, jeweils in der Fassung des Bundesgesetzes BGBl. I Nr. 104/2019, treten mit 1. Juli 2020 in Kraft.
+
+(20) § 10 Abs. 1a bis 1d und § 15 Abs. 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 treten mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft. § 64 und § 65 Abs. 1 erster Satz und Abs. 3 Z 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 treten mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft. § 10 Abs. 1a bis 1d in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 tritt mit Ablauf des 30. Juni 2021 außer Kraft.
+
+(21) § 2a in der Fassung des Bundesgesetzes BGBl. I Nr. 24/2020, tritt mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft und mit Ablauf des 30. Juni 2021 außer Kraft.
+
+(22) In der Fassung des Bundesgesetzes BGBl. I Nr. 2/2021 treten in bzw. außer Kraft:
+
+1\. § 5 und § 26 Abs. 1 Z 4 mit Ablauf des Tages der Kundmachung des Bundesgesetzes BGBl. I Nr. 2/2021;
+
+2\. § 2, § 10 Abs. 1, § 12 Abs. 1 Z 2, § 14 Abs. 5, § 30c samt Überschrift, § 33 Abs. 1, § 34 Abs. 1, die Überschrift zu § 35, § 35 Abs. 1 und 2, § 39 Abs. 2 Z 1a, § 40 Abs. 6a, § 43 Abs. 3, 3a, 4, 5 und 9, § 45 Abs. 3, § 46 Abs. 4 und § 70 mit 1. Juli 2021. Die in der Geschäftsordnung (§ 19) zu treffenden näheren Regelungen zu den Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 2/2021 können bereits ab dem auf die Kundmachung des Bundesgesetzes BGBl. I Nr. 2/2021 folgenden Tag erlassen werden; sie dürfen jedoch frühestens mit 1. Juli 2021 in Kraft gesetzt werden.
+
+(23) § 9a in der Fassung des Bundesgesetzes BGBl. I Nr. 87/2021 tritt mit dem der Kundmachung folgenden Tag in Kraft.
+
+(24) In der Fassung des Bundesgesetzes BGBl. I Nr. 109/2021 treten in Kraft:
+
+1\. § 79 Abs. 22 Z 1 und 2 mit 6. Jänner 2021;
+
+2\. das Inhaltsverzeichnis und § 15 Abs. 4 bis 8 mit 1. Juli 2021 (§ 15 Abs. 4 bis 8 in der Fassung des Bundesgesetzes BGBl. I Nr. 2/2021 tritt nicht in Kraft);
+
+3\. § 24 Abs. 1 zweiter Satz, § 30a Abs. 6 bis 8, § 30b Abs. 2 und § 46 Abs. 3 erster Satz mit Ablauf des Tages der Kundmachung des Bundesgesetzes BGBl. I Nr. 109/2021.
+
+(25) Der Eintrag im Inhaltsverzeichnis zu § 30c, § 25a Abs. 4a, § 30a Abs. 8, § 30b Abs. 2, § 30c samt Überschrift, § 44 Abs. 2 und § 47 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 88/2023 treten mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft.
+
+(26) § 24a Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 70/2024 tritt mit 15. Juli 2024 in Kraft.
+
+(27) Das Inhaltsverzeichnis, § 1 Abs. 3 und § 18 samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 88/2024 treten mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft.
+
+(28) § 24a Z 1 tritt mit 1. Juli 2025 in Kraft und ist auf Eingaben anzuwenden, für die die Gebührenschuld nach dem 30. Juni 2025 entsteht.
+
+(29) § 18 Abs. 4 und § 24a Z 1 in der Fassung des Informationsfreiheits-Anpassungsgesetzes, BGBl. I Nr. 50/2025, treten mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft. § 24a Z 1 erster Satz ist auf Eingaben anzuwenden, für die die Gebührenschuld nach Ablauf dieses Tages entsteht.
+
+#### § 80 – Verweisungen
+
+§ 80. Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden.
+
+## Artikel 25
+
+### Notifikationshinweis
+
+#### Art. 25 – *(Anm.: aus BGBl. I Nr. 50/2016, zu § 74, BGBl. Nr. 10/1985)*
+
+Dieses Gesetz wurde unter Einhaltung der Bestimmungen der Richtlinie (EU) 2015/1535 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (kodifizierter Text), ABl. Nr. L 241 vom 17.09.2015 S. 1, notifiziert (Notifikationsnummer: 2016/142/A).

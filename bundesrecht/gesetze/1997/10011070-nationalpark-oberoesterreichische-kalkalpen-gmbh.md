@@ -1,0 +1,58 @@
+---
+title: "Nationalpark Oberösterreichische Kalkalpen GmbH"
+identifier: "10011070"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 50/1997"
+last_amended: 1997-04-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/i/1997/50/P0/NOR11011303"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011070"
+retrieved: 2026-10-11
+documents: 6
+---
+
+# Nationalpark Oberösterreichische Kalkalpen GmbH
+
+Bundesgesetz über die Gründung und Beteiligung an der Nationalpark Oberösterreichische Kalkalpen Gesellschaft m. b. H.
+
+StF: BGBl. I Nr. 50/1997 (NR: GP XX RV 551 AB 635 S. 66. BR: AB 5416 S. 624.)
+
+## § 1
+
+§ 1. (1) Der Bundesminister für Umwelt, Jugend und Familie wird ermächtigt, im Einvernehmen mit dem Bundesminister für Finanzen, unter der Beteiligung des Landes Oberösterreich, eine gemeinnützige Gesellschaft mit beschränkter Haftung mit dem Firmennamen „Nationalpark Oberösterreichische Kalkalpen Gesellschaft m. b. H.“ (im folgenden als „Nationalparkgesellschaft“ bezeichnet) zu gründen, deren Aufgabe die Durchführung von Maßnahmen zur Errichtung und der Betrieb des Nationalparks Oberösterreichische Kalkalpen ist.
+
+(2) Das Stammkapital der Nationalparkgesellschaft beträgt 500 000 Schilling. Die Anteile sind zu 50 vH dem Bund vorbehalten. Die Verwaltung der Anteilsrechte für den Bund obliegt dem Bundesminister für Umwelt, Jugend und Familie.
+
+(3) Sofern in diesem Bundesgesetz nicht anderes bestimmt ist, sind die Bestimmungen des Gesetzes über Gesellschaften mit beschränkter Haftung, RGBl. Nr. 58/1906, anzuwenden.
+
+## § 2
+
+§ 2. (1) Der Sitz der Nationalparkgesellschaft ist Molln. Die Nationalparkgesellschaft kann ihren Sitz in eine andere Nationalparkgemeinde im Gebiet der Oberösterreichischen Kalkalpen verlegen.
+
+(2) Die Nationalparkgesellschaft übt ihre Tätigkeit auf Grund einer Satzung aus, bei deren Gestaltung auf die in einer Vereinbarung gemäß Art. 15a B-VG zwischen dem Bund und dem Land Oberösterreich zur Errichtung und Erhaltung eines Nationalparks Oberösterreichische Kalkalpen festgelegten Rahmenbedingungen Bedacht zu nehmen ist.
+
+(3) Die Organe der Nationalparkgesellschaft sind der Geschäftsführer und die Generalversammlung.
+
+## § 3
+
+§ 3. (1) Der Bund hat zur gemeinsamen Finanzierung der Tätigkeit der Nationalparkgesellschaft folgende Aufwendungen im Ausmaß von 50 vH aufzubringen:
+
+1\. die Gründungskosten der Nationalparkgesellschaft in Höhe von höchstens 200 000 Schilling und das Stammkapital von 500 000 Schilling;
+
+2\. die einmaligen Errichtungskosten für Nationalparkinfrastruktur in Höhe von höchstens 40 Millionen Schilling nach Maßgabe von einstimmigen Beschlüssen der Generalversammlung;
+
+3\. die laut Wirtschafts- und Finanzplan der Nationalparkgesellschaft genehmigten Kosten für den laufenden Betrieb der Nationalparkgesellschaft in Höhe von höchstens 50 Millionen Schilling, die quartalsmäßig aufzubringen und nach Maßgabe des Rechnungsabschlusses abzurechnen sind. In diese Kosten sind auch die Entschädigungsleistungen an die Österreichischen Bundesforste und an sonstige Eigentümer und Nutzungsberechtigte sowie die Kosten für Managementmaßnahmen auf Flächen des Nationalparks enthalten. Die Entschädigung an die Österreichischen Bundesforste beträgt im ersten Jahr 6,55 Millionen Schilling, im zweiten Jahr 8,73 Millionen Schilling, im dritten Jahr 10,91 Millionen Schilling und ab dem vierten Jahr 13,1 Millionen Schilling. Diese Beträge werden bis zum 30. Juni des jeweiligen Kalenderjahres fällig. Die Kosten für die Durchführung von Managementmaßnahmen des Nationalparks auf Flächen der Österreichischen Bundesforste durch die Österreichischen Bundesforste betragen jährlich 11 Millionen Schilling entsprechend einem zu erbringenden Leistungsumfang.
+
+(2) Die in Abs. 1 genannten Leistungen sind der Nationalparkgesellschaft nach Maßgabe der im jeweiligen Bundesfinanzgesetz veranschlagten Ausgabenbeträge zur Verfügung zu stellen und nach Maßgabe des jeweiligen Rechnungsabschlusses abzurechnen.
+
+## § 4
+
+§ 4. Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Umwelt, Jugend und Familie im Einvernehmen mit dem Bundesminister für Finanzen betraut.
+
+## § 5
+
+§ 5. Das Bundesgesetz tritt mit 1. April 1997 in Kraft.

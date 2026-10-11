@@ -1,0 +1,479 @@
+---
+title: "Pflanzenschutzmittelgesetz 2011"
+identifier: "20007152"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 10/2011"
+last_amended: 2021-06-05
+last_amendment: "BGBl. I Nr. 104/2021"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/2011/10/P0/NOR40225267"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007152"
+retrieved: 2026-10-11
+documents: 20
+---
+
+# Pflanzenschutzmittelgesetz 2011
+
+Bundesgesetz über den Verkehr mit Pflanzenschutzmitteln (Pflanzenschutzmittelgesetz 2011)
+
+StF: BGBl. I Nr. 10/2011 (NR: GP XXIV RV 896 AB 1034 S. 93. BR: 8442 AB 8451 S. 793.)
+
+[CELEX-Nr.: 32009L0128, 32009L0143]
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 143/2013 (NR: GP XXIV IA 2370/A AB 2576 S. 216. BR: AB 9106 S. 823.)  
+BGBl. I Nr. 189/2013 (NR: GP XXIV RV 2291 AB 2340 S. 203. BR: 8975 AB 9000 S. 821.)  
+BGBl. I Nr. 163/2015 (NR: GP XXV RV 896 AB 907 S. 107. BR: 9494 AB 9498 S. 849.)  
+BGBl. I Nr. 14/2019 (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.)  
+BGBl. I Nr. 79/2019 (NR: GP XXVI IA 18/A S. 86. BR: 10191 AB 10200 S. 896.)  
+BGBl. I Nr. 93/2020 (NR: GP XXVII RV 236 AB 257 S. 47. BR: AB 10398 S. 910.)  
+[CELEX-Nr.: 32009L0128]  
+BGBl. I Nr. 104/2021 (NR: GP XXVII IA 1380/A AB 816 S. 107. BR: AB 10633 S. 926.)  
+
+</details>
+
+> **Anmerkung:** Das Pflanzenschutzmittelgesetz 2011 wurde in Artikel 1 des Agrarrechtsänderungsgesetzes 2010, BGBl. I Nr. 10/2011, kundgemacht.
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+Inhaltsübersicht
+
+1\. Abschnitt: Allgemeine Bestimmungen
+
+§ 1 Anwendungsbereich
+
+§ 2 Vollziehung
+
+§ 3 Voraussetzungen für das Inverkehrbringen
+
+§ 4 Betriebs- und Pflanzenschutzmittelregister
+
+§ 5 Anträge
+
+§ 6 Verordnungsermächtigung
+
+2\. Abschnitt: Amtliche Pflanzenschutzmittelkontrolle
+
+§ 7 Befugnisse und Pflichten der Aufsichtsorgane
+
+§ 8 Probenahme
+
+§ 9 Maßnahmen
+
+§ 10 Beschlagnahme
+
+§ 11 Pflichten der Geschäfts- und Betriebsinhaber
+
+§ 12 Einfuhr
+
+3\. Abschnitt: Zusammenarbeit und Informationsaustausch
+
+§ 13. Zusammenarbeit
+
+§ 14. Informationsaustausch
+
+4\. Abschnitt: Straf-, Schluss- und Übergangsbestimmungen
+
+§ 15 Strafbestimmungen
+
+§ 16 Verfall
+
+§ 17 Inkrafttreten und Aufhebung von Rechtsvorschriften
+
+§ 18 Übergangs- und sonstige Bestimmungen
+
+§ 19 Vollzugsklausel
+
+## 1. Abschnitt
+
+### Allgemeine Bestimmungen
+
+#### § 1 – Anwendungsbereich
+
+§ 1. (1) Dieses Bundesgesetz dient der
+
+1\. Vollziehung der Verordnung (EG) Nr. 1107/2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates, ABl. Nr. L 309 vom 24.11.2009 S. 1),
+
+2\. Umsetzung der Richtlinie 2009/128/EG über einen Aktionsrahmen der Gemeinschaft für die nachhaltige Verwendung von Pestiziden, ABl. Nr. L 309 vom 24.11.2009 S. 71, und
+
+3\. Vollziehung der Verordnung (EU) 2017/625 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/ 608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. Nr. L 95 vom 07.04.2017 S. 1,
+
+soweit sie das Inverkehrbringen und die Zulassung von Pflanzenschutzmitteln betreffen oder der Bund gegenüber der Europäischen Kommission berichtspflichtig ist.
+
+(2) Es gelten die in der Verordnung (EG) Nr. 1107/2009, in der Richtlinie 2009/128/EG und in der Verordnung (EU) 2017/625 enthaltenen Begriffsbestimmungen. Dieses Bundesgesetz findet auf Gegenstände, die dem Anwendungsbereich der Verordnung (EG) Nr. 1107/2009 unterliegen, einschließlich ihrer Verpackungen, Merkblätter und Werbematerialien – im Folgenden „Gegenstände“ genannt – Anwendung.
+
+#### § 2 – Vollziehung
+
+§ 2. (1) Die Behörde im Sinne dieses Bundesgesetzes zur Wahrnehmung der in den Rechtsvorschriften gemäß § 1 Abs. 1 vorgesehenen Aufgaben ist, soweit nicht anderes bestimmt ist, das Bundesamt für Ernährungssicherheit.
+
+(2) Koordinierende nationale Behörde im Sinne des Art. 75 Abs. 2 der Verordnung (EG) Nr. 1107/2009 und im Sinne der Verordnung (EU) 2017/625 ist die Bundesministerin für Landwirtschaft, Regionen und Tourismus.
+
+#### § 3 – Voraussetzungen für das Inverkehrbringen
+
+§ 3. (1) Pflanzenschutzmittel und Zusatzstoffe dürfen nur dann zum Zwecke des Verkaufs oder der sonstigen Abgabe an andere gelagert oder vorrätig gehalten oder auf sonstige Weise in Verkehr gebracht oder beworben werden, wenn den Bestimmungen dieses Bundesgesetzes einschließlich der darauf beruhenden Verordnungen und den Rechtsvorschriften der Europäischen Union entsprochen wird.
+
+(2) Pflanzenschutzmittel,
+
+1\. auf die nachweislich die Voraussetzungen des Art. 28 Abs. 2 Buchstaben c und d der Verordnung (EG) Nr. 1107/2009 zutreffen oder
+
+2\. die nachweislich zur Entsorgung oder Rückgabe an den Abgeber gelagert werden,
+
+sind unverzüglich so zu kennzeichnen, dass eindeutig der vorgesehene Bestimmungszweck daraus hervorgeht. Die Nachweise sind durch Dokumentation der maßgeblichen Unterlagen, insbesondere hinsichtlich der Herkunft und der Bestimmung der Pflanzenschutzmittel, zu erbringen.
+
+(3) Abnehmer sind berechtigt, Pflanzenschutzmittel, die nicht mehr in Verkehr gebracht werden dürfen, dem Abgeber zurückzugeben. Der Abgeber ist zu deren kostenlosen Rücknahme einschließlich ihrer Verpackungen verpflichtet, sofern die Rückgabe in den Originalverpackungen ohne Beigabe anderer Stoffe oder Zubereitungen erfolgt und der Abnehmer dem Abgeber über dessen Verlangen seine Identität nachgewiesen hat.
+
+(4) Verboten ist das Inverkehrbringen von Pflanzenschutzmitteln mit dem Wirkstoff Glyphosat
+
+1\. hinsichtlich der Indikation Vorerntebehandlung, einschließlich „Sikkation“, sofern das Erntegut für Lebens- oder Futtermittelzwecke bestimmt ist,
+
+2\. für den Anwendungsbereich auf Flächen, die von der Allgemeinheit oder von gefährdeten Personengruppen im Sinne von Art. 3 der Verordnung (EG) Nr. 1107/2009 genutzt werden. Das sind öffentlich zugängliche Sport- und Freizeitplätze, Schwimmbäder, Kinderbetreuungseinrichtungen, Bildungseinrichtungen, Kinderspielplätze, Park- und Gartenanlagen, Friedhöfe, Einrichtungen der Behindertenhilfe, Einrichtungen der Altenbetreuung, und Gesundheits- und Pflegeeinrichtungen;
+
+3\. für den Haus- und Kleingartenbereich;
+
+4\. für die nicht-berufliche Verwendung, sofern kein Sachkundenachweis vorliegt.
+
+Bestehende Zulassungen für Pflanzenschutzmittel, die den Wirkstoff Glyphosat enthalten, sind vom Bundesamt für Ernährungssicherheit von Amts wegen bis spätestens 2 Monate nach Inkrafttreten dieser Bestimmung anzupassen.
+
+#### § 4 – Betriebs- und Pflanzenschutzmittelregister
+
+§ 4. (1) Wer beabsichtigt, eine Tätigkeit nach § 3 Abs. 1 oder sonstige Geschäftstätigkeiten in Verbindung mit dem Inverkehrbringen von Pflanzenschutzmitteln auszuüben, hat dies vor Aufnahme der Tätigkeit dem Bundesamt für Ernähungssicherheit unter Bekanntgabe seines Sitzes oder seiner Niederlassung zum Zwecke der Eintragung in das beim Bundesamt für Ernährungssicherheit zu führende Betriebsregister schriftlich zu melden. Mit der Meldung sind alle Lager- und Abgabestellen bekannt zu geben.
+
+(2) Zugelassene und genehmigte Pflanzenschutzmittel sind in das beim Bundesamt für Ernährungssicherheit zu führende Pflanzenschutzmittelregister einzutragen.
+
+(3) Eine Zulassung oder Genehmigung ist zurückzunehmen, wenn der Zulassungs- oder Genehmigungsinhaber seinen Sitz oder seine Niederlassung in der Europäischen Union aufgegeben hat.
+
+#### § 5 – Anträge
+
+§ 5. (1) Anträge im Sinne der Verordnung (EG) Nr. 1107/2009 sind beim Bundesamt für Ernährungssicherheit schriftlich einzureichen.
+
+(2) Der Antragsteller muss in einem Mitgliedstaat einen Sitz oder eine Niederlassung haben.
+
+#### § 6 – Verordnungsermächtigung
+
+§ 6. Die Bundesministerin für Landwirtschaft, Regionen und Tourismus hat zur Durchführung der Verordnung (EG) Nr. 1107/2009 und zur Umsetzung von Rechtsvorschriften der Europäischen Union sowie zum Schutz der Gesundheit von Menschen und Tieren und der Umwelt und zum Schutz der Verbraucher im geschäftlichen Verkehr durch Verordnung nähere Regelungen zu erlassen, insbesondere über
+
+1\. Abgabe, Erwerb und Lagerung von Pflanzenschutzmitteln;
+
+2\. Fort- und Weiterbildung in Verbindung mit der Einführung eines Bescheinigungssystems;
+
+3\. Betriebs- und Pflanzenschutzmittelregister;
+
+4\. Meldepflichten der Zulassungs-, Genehmigungs- und Registrierungsinhaber;
+
+5\. Pflanzenschutzmittel, die nicht unmittelbar dem Anwendungsbereich der Verordnung (EG) Nr. 1107/2009 unterliegen;
+
+6\. Pflanzenschutzmittel, die unter einer abweichenden Bezeichnung in Verkehr gebracht werden;
+
+7\. Kennzeichnung;
+
+8\. Grenzkontrollstellen für die Durchführung amtlicher Kontrollen.
+
+## 2. Abschnitt
+
+### Amtliche Pflanzenschutzmittelkontrolle
+
+#### § 7 – Befugnisse und Pflichten der Aufsichtsorgane
+
+§ 7. (1) Die Überwachung der Einhaltung der Bestimmungen dieses Bundesgesetzes obliegt dem Bundesamt für Ernährungssicherheit. Bei der Planung, Organisation und Durchführung der Überwachung ist insbesondere so zu verfahren, dass alle sich aus der Verordnung (EU) 2017/625 ergebenden allgemeinen Anforderungen, beispielsweise hinsichtlich der Dokumentation von Überwachungsmaßnahmen, einer allfälligen Übertragung von Überwachungsaufgaben, der Methoden für die Probenahmen, der Anforderungen an Laboratorien, der Planung, der Transparenz und der Berichtspflichten bezüglich der Überwachungstätigkeiten sowie die spezifischen Anforderungen gemäß Art. 24 der Verordnung (EU) 2017/625, nachweislich erfüllt werden.
+
+(2) Das Bundesamt für Ernährungssicherheit hat sich bei der Überwachungstätigkeit fachlich befähigter und erforderlichenfalls gemäß Art. 130 der Verordnung (EU) 2017/625 geschulter Personen als Aufsichtsorgane zu bedienen. Die Aufsichtsorgane haben eine vom Bundesamt für Ernährungssicherheit ausgestellte Ausweisurkunde mit sich zu führen und diese auf Verlangen vorzuweisen.
+
+(3) Die Aufsichtsorgane sind insbesondere berechtigt, während der üblichen Geschäfts- und Betriebszeiten – zu anderen Zeiten bei Gefahr im Verzug – alle für die Kontrolle der Einhaltung der Bestimmungen dieses Bundesgesetzes maßgeblichen Nachforschungen anzustellen, die entsprechenden Grundstücke, Gebäude und Beförderungsmittel zu betreten sowie unentgeltlich Proben im erforderlichen Ausmaß zu entnehmen sowie in alle für die Kontrolle maßgeblichen Unterlagen, insbesondere Lieferscheine und Geschäftsaufzeichnungen, Einsicht zu nehmen.
+
+(4) Die Aufsichtsorgane haben über jede Amtshandlung eine Niederschrift anzufertigen und eine Ausfertigung davon dem Geschäfts- oder Betriebsinhaber auszuhändigen.
+
+(5) Weigert sich der Geschäfts- oder Betriebsinhaber oder sein Stellvertreter oder sein Beauftragter, die Amtshandlung zu dulden, so kann dies erzwungen werden. Die Organe des öffentlichen Sicherheitsdienstes haben in solchen Fällen den Aufsichtsorganen über deren Ersuchen zur Sicherung der Ausübung der Überwachungsbefugnisse im Rahmen ihres gesetzmäßigen Wirkungsbereiches Hilfe zu leisten.
+
+(6) Betrifft die Kontrolle Gegenstände, die der zollamtlichen Überwachung unterliegen, oder Beförderungsmittel, auf denen sich solche Waren befinden, so darf die Kontrolle nur bei einer Zollstelle oder anlässlich einer diese Gegenstände betreffenden Zollamtshandlung vorgenommen werden; in Zolllagern oder einer Zollfreizone ist – während sie für Zollamtshandlungen geöffnet sind – die Kontrolle jederzeit zulässig.
+
+#### § 8 – Probenahme
+
+§ 8. (1) Die entnommene Probe ist, soweit dies ihrer Natur nach möglich ist und hierdurch nicht ihre einwandfreie Beurteilung bei der Untersuchung und Begutachtung vereitelt wird, in zwei annähernd gleiche Teile zu teilen. Ein Teil ist der Untersuchung zuzuführen, ein Teil dem Geschäfts- oder Betriebsinhaber zu Beweiszwecken amtlich verschlossen zurückzulassen.
+
+(2) Ist eine Teilung der entnommenen Probe ihrer Natur nach nicht möglich, so ist die Probe ohne vorherige Teilung der Untersuchung zuzuführen. Sind noch augenscheinlich gleiche Einheiten des Pflanzenschutzmittels vorhanden, so ist eine Einheit zu entnehmen und dem Geschäfts- oder Betriebsinhaber amtlich verschlossen zurückzulassen.
+
+(3) Das Bundesamt für Ernährungssicherheit hat die Untersuchung und Begutachtung der Proben zu veranlassen. Dabei können andere geeignete Anstalten, sonstige Einrichtungen oder fachkundige Personen als Sachverständige herangezogen werden. Die Proben sind darauf zu untersuchen und zu begutachten, ob sie den Vorschriften dieses Bundesgesetzes entsprechen.
+
+#### § 9 – Maßnahmen
+
+§ 9. (1) Liegt ein begründeter Verdacht vor, dass den Bestimmungen dieses Bundesgesetzes nicht entsprochen wurde, können die Aufsichtsorgane – unter einer gleichzeitig zu setzenden angemessenen Frist – die erforderlichen Maßnahmen zur Mängelbehebung anordnen, wie insbesondere
+
+1\. das Verbot des Inverkehrbringens bis zur Herstellung des rechtmäßigen Zustands und der Freigabe durch das Bundesamt für Ernährungssicherheit;
+
+2\. die unschädliche Entsorgung oder Rückgabe an den Abgeber;
+
+3\. die Rückbeförderung an den Ursprungsort im Falle des grenzüberschreitenden Verbringens;
+
+4\. die Rückholung vom Markt, einschließlich bis zum Letztabnehmer;
+
+5\. Informationen der Abnehmer unter Hinweis auf die mögliche Gefahr;
+
+6\. die unverzügliche Berichtspflicht über die Durchführung der von der Behörde angeordneten Maßnahmen;
+
+7\. die Anpassung der Kennzeichnung, Verpackung oder Werbematerialien;
+
+8\. die Durchführung betrieblicher Maßnahmen, insbesondere bei Lagerung, Dokumentation und Eigenkontrolle (einschließlich der Vorlage von Untersuchungszeugnissen in begründeten Fällen);
+
+9\. die Beibringung von Nachweisen im Sinne des § 3 Abs. 2;
+
+10\. die Vernichtung von Werbematerialen;
+
+11\. den Widerruf der Werbung.
+
+(2) Die nach Abs. 1 angeordneten Maßnahmen müssen verhältnismäßig sein und dürfen den Handel nicht stärker beeinträchtigen, als dies zur Erreichung des in der Europäischen Union bestehenden hohen Schutzniveaus für die Gesundheit und Umwelt unter Berücksichtigung der technischen und wirtschaftlichen Durchführbarkeit und anderer berücksichtigungswürdiger Faktoren notwendig ist.
+
+(3) Die Aufsichtsorgane haben bei der Bezirksverwaltungsbehörde Anzeige zu erstatten, wenn
+
+1\. den Bestimmungen dieses Bundesgesetzes nicht entsprochen wird oder
+
+2\. einer behördlich angeordneten Maßnahme zur Mängelbehebung oder sonstigen Verpflichtung nach diesem Bundesgesetz nicht oder nicht innerhalb der gesetzten Frist nachgekommen wurde.
+
+(4) Die Behörde kann von der Erstattung einer Anzeige absehen, wenn die Bedeutung des strafrechtlich geschützten Rechtsgutes und die Intensität seiner Beeinträchtigung durch die Tat und das Verschulden des Beanstandeten gering sind. Der Beanstandete ist in einem solchen Fall in geeigneter Weise auf die Rechtswidrigkeit seines Verhaltens aufmerksam zu machen. Der Beanstandete hat jedenfalls die Kosten, die anlässlich der Kontrolle einschließlich allfälliger Probenahme und Untersuchung gemäß § 6 Abs. 6 des Gesundheits- und Ernährungssicherheitsgesetzes, BGBl. I Nr. 63/2002, angefallen sind, zu tragen.
+
+\*(Anm.: Abs. 5 aufgehoben durch Z 11, BGBl. I Nr. 93/2020)*
+
+#### § 10 – Beschlagnahme
+
+§ 10. (1) Die Aufsichtsorgane haben Gegenstände vorläufig zu beschlagnahmen, wenn den Bestimmungen dieses Bundesgesetzes nicht entsprochen wird oder einer behördlichen Maßnahme zur Mängelbehebung gemäß § 9 nicht oder nicht innerhalb der gesetzten Frist Folge geleistet wurde.
+
+(2) Die Aufsichtsorgane haben die vorläufige Beschlagnahme der Bezirksverwaltungsbehörde unverzüglich anzuzeigen.
+
+(3) Die Bezirksverwaltungsbehörde hat binnen fünf Wochen nach der Durchführung der vorläufigen Beschlagnahme und bei Vorliegen der Voraussetzungen gemäß Abs. 1 die Beschlagnahme mit Bescheid anzuordnen. Andernfalls tritt die vorläufige Beschlagnahme außer Kraft.
+
+(4) Das Verfügungsrecht über die vorläufig beschlagnahmten Gegenstände steht zunächst dem Bundesamt für Ernährungssicherheit zu, ab Erlassung eines Beschlagnahmebescheides der Bezirksverwaltungsbehörde, die den Beschlagnahmebescheid erlassen hat.
+
+(5) Über die vorläufige Beschlagnahme hat das Aufsichtsorgan und über die Beschlagnahme die Bezirksverwaltungsbehörde dem bisher Verfügungsberechtigten eine Bescheinigung auszuhändigen, in welcher der Ort der Lagerung sowie die Art und die Menge der beschlagnahmten Gegenstände anzugeben sind.
+
+(6) Die vorläufig beschlagnahmten oder die beschlagnahmten Gegenstände sind im Betrieb zu belassen. Dies gilt nicht, wenn die sachgerechte Aufbewahrung nicht gewährleistet ist oder bei Belassung der Gegenstände ein Missbrauch zu befürchten ist. Belassene Gegenstände sind tunlichst so zu verschließen oder zu kennzeichnen, dass ihre Veränderung ohne Verletzung der Verpackungen oder der Kennzeichnung nicht möglich ist. Der über die Gegenstände bisher Verfügungsberechtigte ist vom Aufsichtsorgan oder von der Bezirksverwaltungsbehörde schriftlich auf die strafgerichtlichen Folgen der Verbringung oder Veränderung der beschlagnahmten Gegenstände sowie der Verletzung des Dienstsiegels aufmerksam zu machen.
+
+(7) Die Bewahrung der im Betrieb belassenen Gegenstände vor Schäden obliegt dem bisher Verfügungsberechtigten. Sind hierzu besondere Maßnahmen erforderlich, so hat der bisher Verfügungsberechtigte die zuständige Behörde vorher zu verständigen, sofern nicht Gefahr in Verzug besteht. Die Maßnahmen sind in Anwesenheit eines Aufsichtsorgans oder eines Organs der Bezirksverwaltungsbehörde durchzuführen. Das Organ hat über den Vorgang eine Niederschrift aufzunehmen, in der die getroffenen Maßnahmen, die allfällige Entfernung des Dienstsiegels und dessen neuerliche Anbringung festzuhalten sind.
+
+(8) Wenn die vorläufig beschlagnahmten oder die beschlagnahmten Gegenstände nicht im Betrieb belassen werden können, hat der bisher Verfügungsberechtigte die Transport, Lager- und Entsorgungskosten zu tragen. Über die Kostenersatzpflicht hat die Bezirksverwaltungsbehörde mit Bescheid zu entscheiden. Ein Rechtsmittel gegen den Bescheid hat keine aufschiebende Wirkung.
+
+(9) Während der vorläufigen Beschlagnahme und der Beschlagnahme dürfen Proben der Gegenstände nur über Auftrag der zuständigen Behörde entnommen werden.
+
+#### § 11 – Pflichten der Geschäfts- und Betriebsinhaber
+
+§ 11. (1) Inhaber von Geschäften und Betrieben, die den Bestimmungen dieses Bundesgesetzes oder der Verordnung (EU) 2017/625, soweit diese im Rahmen dieses Bundesgesetzes zu vollziehen ist, unterliegen, sowie ihre Stellvertreter oder Beauftragten haben den Aufsichtsorganen unverzüglich
+
+1\. alle Orte und Beförderungsmittel bekanntzugeben, die Bestimmungen dieses Bundesgesetzes unterliegenden Tätigkeiten dienen, und den Zutritt zu diesen Orten und Beförderungsmitteln sowie die unentgeltliche Entnahme von Proben zu gestatten,
+
+2\. die zur Kontrolle erforderliche Unterstützung zu gewähren und die zur Kontrolle notwendigen Auskünfte – insbesondere über die Herstellung, die Herkunft und die Absatzwege der Pflanzenschutzmittel sowie über ihre Bestandteile – zu erteilen, soweit dies möglich und zumutbar ist,
+
+3\. die zur Kontrolle maßgeblichen Unterlagen, insbesondere Lieferscheine und Geschäftsaufzeichnungen, zur Einsichtnahme vorzulegen, Einsichtnahme in elektronische Aufzeichnungen, insbesondere die Buchhaltung, zu gewähren und Abschriften oder Kopien in Papierform oder auf elektronischen Datenträgern auf Verlangen unentgeltlich zur Verfügung zu stellen oder binnen angemessener Frist nachzureichen,
+
+4\. bei der Besichtigung und Probenahme Personen, die mit den Betriebsverhältnissen vertraut sind, sowie erforderliche Geräte zur Verfügung zu stellen und
+
+5\. jene Unterstützung und Mitarbeit zu leisten, zu der sie gemäß Art. 15 der Verordnung (EU) 2017/625 verpflichtet sind.
+
+(2) Die Geschäfts- und Betriebsinhaber haben in allen maßgeblichen Unterlagen, insbesondere Rechnungen, Lieferscheinen, Geschäftsaufzeichnungen, Anbots- und Bestelllisten, die Pflanzenschutzmittel mit der zugelassenen Handelsbezeichnung und der Pflanzenschutzmittelregister-Nummer anzuführen.
+
+(3) Zum Zwecke der Rückverfolgbarkeit haben die Geschäfts- und Betriebsinhaber die für die Kontrolle maßgeblichen schriftlichen Aufzeichnungen und Unterlagen über Lieferanten und Abnehmer für eine Dauer von fünf Jahren aufzubewahren.
+
+(4) Die Geschäfts- und Betriebsinhaber haben die im Abs. 1 genannten Pflichten zu den üblichen Geschäfts- oder Betriebszeiten auch während ihrer Abwesenheit durch einen verantwortlichen Beauftragten zu erfüllen.
+
+#### § 12 – Einfuhr
+
+§ 12. (1) Pflanzenschutzmittel der Position 3808 der kombinierten Nomenklatur (Verordnung (EWG) Nr. 2658/87 vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif) mit Herkunft oder Ursprung in Drittländern dürfen nur eingeführt werden, wenn der Zollstelle eine Bestätigung des Bundesamtes für Ernährungssicherheit vorgelegt wird.
+
+(2) Eine Bestätigung ist auf Antrag dann auszustellen, wenn
+
+1\. aufgrund eines vom Antragsteller vorzulegenden Untersuchungszeugnisses einer akkreditierten Prüfstelle oder aufgrund der Prüfung durch das Bundesamt für Ernährungssicherheit feststeht, dass das Pflanzenschutzmittel zugelassen oder genehmigt ist und vom Zulassungs/Genehmigungsinhaber eingeführt wird, oder
+
+2\. das Pflanzenschutzmittel ausschließlich vorgesehen ist
+
+a) für Zwecke des Art. 28 Abs. 2 Buchstaben a bis c der Verordnung (EG) Nr. 1107/2009,
+
+b) für Prüfungen in Prüfstellen gemäß § 50 des Chemikaliengesetzes 1996 oder
+
+c) als Probe für Verfahren nach diesem Bundesgesetz.
+
+(3) Der Antrag hat die erforderlichen Angaben wie die Kennzeichnung, die Beschaffenheit und die Menge des Pflanzenschutzmittels, die Art und Menge der einzelnen Wirkstoffe und alle sonstigen Bestandteile einschließlich ihrer gefährlichen Eigenschaften, das Ausmaß der Versuchsflächen, die für die vorgesehenen genannten Zwecke maßgeblichen Umstände, die zutreffenden gefährlichen Eigenschaften des Pflanzenschutzmittels, die sich daraus ergebenden besonderen Gefahren, die Verhaltenshinweise im Hinblick auf die Anwendung und Sicherheitsratschläge sowie Namen (Firma) und Anschrift der zur Verwendung berechtigten sachkundigen Person zu enthalten.
+
+(4) Eine Bestätigung für Zwecke des Zollverfahrens ist auf Antrag weiters dann auszustellen, wenn es sich bei Waren der Position 3808 oder bei Waren der in einer gemäß § 6 erlassenen Verordnung angeführten Positionen des Gemeinsamen Zolltarifs nicht um Pflanzenschutzmittel handelt.
+
+(5) Die Bestätigung ist ein Jahr ab Ausstellung gültig.
+
+(6) Der Antrag ist mit Bescheid abzuweisen, wenn die Voraussetzungen für die Ausstellung der Bestätigung nicht vorliegen.
+
+(7) Die Bestätigung bildet bei der Einfuhrabfertigung an der Zollstelle eine erforderliche Unterlage zur Anmeldung gemäß Art. 163 der Verordnung (EU) Nr. 952/2013 zur Festlegung des Zollkodex der Union (Zollkodex), ABl. Nr. L 269 vom 10.10.2013 S. 1, in der Fassung der Berichtigung ABl. Nr. L 287 vom 29.10.2013 S. 90.
+
+(8) Bestätigungen, die unrichtig geworden sind, dürfen den Zollstellen nicht mehr vorgelegt werden.
+
+(9) Wenn die Zollbehörde die Überlassung von Pflanzenschutzmitteln zum zollrechtlich freien Verkehr gemäß Art. 76 Abs. 2 der Verordnung (EU) 2017/625 aussetzt, hat sie dies unverzüglich dem Bundesamt für Ernährungssicherheit mitzuteilen.
+
+## 3. Abschnitt
+
+### Zusammenarbeit und Informationsaustausch
+
+#### § 13 – Zusammenarbeit
+
+§ 13. (1) Die Zuständigkeit zur Vollziehung dieses Bundesgesetzes erstreckt sich auch auf gemäß der Verordnung (EG) Nr. 1107/2009, der Richtlinie 2009/128/EG und der Verordnung (EU) 2017/625 erlassene Durchführungsvorschriften, soweit diese dem in § 1 festgelegten Anwendungsbereich dieses Bundesgesetzes zuzuordnen sind.
+
+(2) Das Bundesamt für Ernährungssicherheit hat alle einschlägigen Unterlagen wie insbesondere Kontrollpläne, Dokumentationen, Berichte und Statistiken jeweils so rechtzeitig der Bundesministerin für Landwirtschaft, Regionen und Tourismus vorzulegen, dass die zentralen Koordinierungsaufgaben sowie Auskunfts- und Berichtspflichten, die gemäß der Verordnung (EU) 2017/625 und sonstiger einschlägiger EU-Rechtsakte zu erfüllen sind, zeitgerecht wahrgenommen werden können.
+
+#### § 14 – Informationsaustausch
+
+§ 14. (1) Bei der Organisation und Durchführung der amtlichen Kontrollen gemäß Art. 4 Abs. 2 der Verordnung (EU) 2017/625 zur Überwachung der Einhaltung der in § 1 Abs. 1 angeführten Rechtsvorschriften ist, insbesondere auch bei der Erstellung der Kontrollpläne und Aktionspläne, in enger Zusammenarbeit vorzugehen und es ist damit eine einheitliche und koordinierte amtliche Kontrolle sicherzustellen. Bei der Erstellung der Jahresberichte über die amtlichen Kontrollen hinsichtlich der in § 1 Abs. 1 angeführten Rechtsvorschriften ist koordiniert vorzugehen, um die Einhaltung der Berichtspflichten an die Europäische Kommission zu gewährleisten. Die Koordinierung hat im Sinne des Art. 113 der Verordnung (EU) 2017/625 insbesondere auch die Benachrichtigung über Anzeigen und Sanktionen wegen Verstößen gegen die Verordnung (EG) Nr. 1107/2009 oder gegen diejenigen Vorschriften, mit denen die Richtlinie 2009/128/EG umgesetzt ist, und die Informationen über angeordnete Maßnahmen bei sicherheitsrelevanten Vorschriftwidrigkeiten zu umfassen.
+
+(2) Soweit bei der Verwendung personenbezogener Daten natürlicher Personen gemäß diesem Bundesgesetz die Bestimmungen der Verordnung (EU) Nr. 2016/679 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung), ABl. Nr. L 119 vom 04.05.2016 S. 1, sowie die Bestimmungen des Datenschutzgesetzes, BGBl. I Nr. 165/1999, zur Anwendung gelangen, ist insbesondere auch sicherzustellen, dass die zu verarbeitenden personenbezogenen Daten natürlicher Personen nicht für andere als die in diesem Bundesgesetz vorgesehenen Zwecke verwendet werden, gesichert und nicht länger als unbedingt erforderlich gespeichert und anschließend gelöscht werden.
+
+(3) Zur Wahrnehmung der mit der Vollziehung dieses Gesetzes und der in § 1 Abs. 1 genannten Rechtsvorschriften verbundenen Aufgaben, nämlich insbesondere zur Mitwirkung an der Genehmigung von Wirkstoffen gemäß der Verordnung (EG) Nr. 1107/2009, zur Durchführung von Verfahren zur Zulassung von Pflanzenschutzmitteln, zur Führung des Pflanzenschutzmittel- und des Betriebsregisters, zur Führung von Bescheinigungssystemen über sachkundige Personen sowie zur Sicherstellung der amtlichen Kontrollen, sind die Behörden ermächtigt, von natürlichen und juristischen Personen die erforderlichen Auskünfte einzuholen und die vorgelegten und ermittelten Daten zu verwenden und an andere Behörden, die diese Daten zur Vollziehung von Gesetzen benötigen, im dazu unbedingt erforderlichen Ausmaß zu übermitteln. Dabei ist für diese Datenkategorien, insbesondere soweit sie sich auf natürliche Personen beziehen, durch die Ergreifung der jeweils nach dem Stand der Technik gebotenen und verhältnismäßigen technischen und organisatorischen Maßnahmen sicherzustellen, dass den Anforderungen der Datenschutz-Grundverordnung, insbesondere auch in Bezug auf die Datensicherheit der verwendeten Daten, entsprochen wird.
+
+## 4. Abschnitt
+
+### Straf-, Schluss- und Übergangsbestimmungen
+
+#### § 15 – Strafbestimmungen
+
+§ 15. (1) Sofern die Tat nicht nach anderen Verwaltungsbestimmungen mit strengerer Strafe bedroht ist, begeht eine Verwaltungsübertretung und ist von der Bezirksverwaltungsbehörde zu bestrafen
+
+1\. mit Geldstrafe bis zu 15 000 €, im Wiederholungsfall bis 30 000 €, wer
+
+a) Tätigkeiten entgegen § 3 Abs. 1 oder 2 oder § 4 Abs. 1 ausübt,
+
+b) Wirkstoffe entgegen die Art. 4, 6, 22, 24 oder 80 der Verordnung (EG) Nr. 1107/2009 in Verkehr bringt,
+
+c) Grundstoffe entgegen Art. 23 der Verordnung (EG) Nr. 1107/2009 in Verkehr bringt,
+
+d) Safener und Synergisten entgegen Art. 25 der Verordnung (EG) Nr. 1107/2009 in Verkehr bringt,
+
+e) Pflanzenschutzmittel entgegen Art. 28, 29, 30, 31, 32, 40, 41 oder 80 der Verordnung (EG) Nr. 1107/2009 in Verkehr bringt,
+
+f) Pflanzenschutzmittel entgegen Art. 46, 47, 48, 51, 52 oder 53 der Verordnung (EG) Nr. 1107/2009 in Verkehr bringt,
+
+g) Versuche entgegen Art. 54 der Verordnung (EG) Nr. 1107/2009 durchführt,
+
+h) Zusatzstoffe entgegen Art. 58 oder 64 der Verordnung (EG) Nr. 1107/2009 in Verkehr bringt,
+
+i) Pflanzenschutzmittel entgegen Art. 64 oder 65 der Verordnung (EG) Nr. 1107/2009 in Verkehr bringt,
+
+j) Notfallsmaßnahmen nach den Art. 69, 70 und 71 der Verordnung (EG) Nr. 1107/2009 und der darauf beruhenden Verordnungen nicht nach kommt,
+
+k) Beistoffe entgegen Anhang III der Verordnung (EG) Nr. 1107/2009 in Verkehr bringt,
+
+l) als Geschäfts- oder Betriebsinhaber oder als dessen Stellvertreter oder Beauftragter oder als Unternehmer im Sinne der Verordnung (EU) 2017/625, gegebenenfalls als Vertretungsbefugter des Unternehmers den in § 11 festgelegten Verpflichtungen nicht nachkommt,
+
+m) Pflanzenschutzmittel entgegen § 12 einführt,
+
+n) Pflanzenschutzmittel entgegen § 3 Abs. 4, § 18 Abs. 10, 11, 13, 14 oder 15 in Verkehr bringt,
+
+2\. mit Geldstrafe bis zu 7 500 €, im Wiederholungsfall bis 15 000 €, wer
+
+a) den Meldepflichten gemäß Art. 56 der Verordnung (EG) Nr. 1107/2009 nicht oder nicht rechtzeitig nachkommt,
+
+b) Werbung betreibt, die nicht dem Art. 66 der Verordnung (EG) Nr. 1107/2009 entspricht,
+
+c) nicht dem Art. 67 der Verordnung (EG) Nr. 1107/2009 entsprechende Aufzeichnungen führt,
+
+\*(Anm.: lit. d aufgehoben durch Z 21, BGBl. I Nr. 93/2020)*
+
+e) einer in der nach § 6 erlassenen Verordnung festgelegten Verpflichtung nicht oder nicht rechtzeitig nachkommt,
+
+f) einer gemäß § 9 angeordneten Maßnahme nicht oder nicht rechtzeitig nachkommt,
+
+g) der Meldepflicht gemäß § 18 Abs. 4 nicht oder nicht rechtzeitig nachkommt.
+
+(2) Der Versuch ist strafbar.
+
+(3) Das Bundesamt für Ernährungssicherheit hat Beschwerde- und Revisionsbefugnis in Verwaltungsstrafverfahren nach diesem Bundesgesetz. Die Entscheidungen der Bezirksverwaltungs-behörden und der Verwaltungsgerichte in diesen Verfahren sind dem Bundesamt für Ernährungssicherheit zuzustellen.
+
+#### § 16 – Verfall
+
+§ 16. (1) Die Bezirksverwaltungsbehörde hat von ihr beschlagnahmte Gegenstände unabhängig von der Verfolgung oder Verurteilung einer bestimmten Person für verfallen zu erklären, wenn der Betroffene nicht durch nachweisliche Maßnahmen gewährleistet, dass nach Freigabe der Gegenstände den Vorschriften dieses Bundesgesetzes Rechnung getragen wird.
+
+(2) Der Verfall darf nicht ausgesprochen werden, wenn der Wert der Gegenstände außer Verhältnis zur Bedeutung der Tat oder zu dem den Täter treffenden Vorwurf steht und mit der Freigabe der Gegenstände keine Gefahr für die Gesundheit von Mensch oder Tier oder die Umwelt verbunden ist.
+
+(3) Die verfallenen Gegenstände sind bestmöglich zu verwerten oder, sofern dies nicht möglich ist, schadlos auf Kosten des früheren Eigentümers zu beseitigen. Ein sich aus der Verwertung ergebender Erlös ist nach Abzug der Transport-, Lager- und Verwertungskosten dem früheren Eigentümer der Gegenstände auszufolgen.
+
+#### § 17 – Inkrafttreten und Aufhebung von Rechtsvorschriften
+
+§ 17. (1) Dieses Bundesgesetz, ausgenommen § 13 und § 14, tritt am 14. Juni 2011 in Kraft. Mit Inkrafttreten dieses Bundesgesetzes tritt das Pflanzenschutzmittelgesetz 1997 – PMG 1997, BGBl. I Nr. 60/1997, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 86/2009, außer Kraft.
+
+(2) § 15 Abs. 4 und 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 189/2013 tritt am 1. Jänner 2014 in Kraft.
+
+(3) Mit Inkrafttreten dieses Bundesgesetzes treten außer Kraft:
+
+1\. Pflanzenschutzmittel-Einfuhrverordnung, BGBl. Nr. 372/1991,
+
+2\. Gleichstellungsverordnung Bundesrepublik Deutschland, BGBl. II Nr. 109/1998,
+
+3\. Gleichstellungsverordnung Königreich der Niederlande, BGBl. II Nr. 52/2002,
+
+4\. Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über das Verbot von Pflanzenschutzmitteln, die bestimmte Wirkstoffe enthalten, BGBl. II Nr. 308/2002, geändert durch die Verordnung BGBl. II Nr. 128/2004,
+
+5\. Pflanzenschutzmittelgebührentarif 2003 – PGT 2003, BGBl. II Nr. 332/2003.
+
+(4) § 12 Abs. 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 163/2015 tritt mit 1. Mai 2016 in Kraft.
+
+(5) § 18 Abs. 10 in der Fassung des Bundesgesetzes BGBl. I Nr. 79/2019 tritt nur unter der Bedingung in Kraft, dass
+
+1\. diese Bestimmung gemäß der Richtlinie (EU) 2015/1535 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft, ABl. Nr. L 241 vom 17.09.2015 S. 1, notifiziert wurde,
+
+2\. die gemäß Art. 6 Abs. 1 dieser Richtlinie einzuhaltende dreimonatige Stillhaltefrist abgelaufen ist und
+
+3\. eine ausführliche Stellungnahme gemäß Art. 6 Abs. 2 dieser Richtlinie nicht abgegeben wurde und innerhalb der dreimonatigen Stillhaltefrist eine Bekanntgabe durch die Europäische Kommission gemäß Art. 6 Abs. 3 oder 4 dieser Richtlinie nicht erfolgt ist.
+
+Der Bundeskanzler hat den Eintritt der genannten Bedingung im Bundesgesetzblatt kundzumachen. § 18 Abs. 10 in der Fassung des Bundesgesetzes BGBl. I Nr. 79/2019 tritt nach Eintritt der Bedingung mit 1. Jänner 2020 in Kraft.
+
+(6) Die Änderungen dieses Bundesgesetzes durch das Bundesgesetz BGBl. I Nr. 93/2020 treten mit dem auf die Kundmachung folgenden Tag in Kraft.
+
+#### § 18 – Übergangs- und sonstige Bestimmungen
+
+§ 18. (1) Die mit Inkrafttreten dieses Bundesgesetzes im Pflanzenschutzmittelregister gemäß § 22 PMG 1997 eingetragenen Pflanzenschutzmittel sind zugelassene oder genehmigte Pflanzenschutzmittel im Sinne dieses Bundesgesetzes.
+
+(2) Das Pflanzenschutzmittelregister gemäß § 22 PMG 1997 ist als Pflanzenschutzmittelregister gemäß § 4 Abs. 2 dieses Bundesgesetzes weiterzuführen. Die Nummern, unter denen die in Abs. 1 genannten Pflanzenschutzmittel in das Pflanzenschutzmittelregister gemäß § 22 PMG 1997 eingetragen sind, sind Pflanzenschutzmittelregister-Nummern nach diesem Bundesgesetz.
+
+(3) In einer Verordnung gemäß § 6 können weitere Übergangsmaßnahmen für Verfahren, die vor dem 14. Juni 2011 bereits zugelassene Pflanzenschutzmittel betreffen, sowie vor dem 14. Juni 2011 bereits anhängige Verfahren festgelegt werden.
+
+(4) Wer vor dem 14. Juni 2011 bereits eine Tätigkeit gemäß § 3 Abs. 1 ausgeübt hat, hat die Voraussetzung des § 4 Abs. 1 binnen sechs Monaten ab diesem Zeitpunkt zu erfüllen.
+
+(5) Anerkennungen als Versuchseinrichtungen für die Prüfung der Wirksamkeit und Phytotoxizität gemäß § 5 des PMG 1997 bleiben bis zum Ablauf der erteilten Anerkennung weiterhin gültig.
+
+(6) Für Tätigkeiten des Bundesamts für Ernährungssicherheit im Rahmen der Vollziehung dieses Bundesgesetzes ist eine Gebühr gemäß § 6 Abs. 6 GESG zu entrichten.
+
+(7) Verweise in diesem Bundesgesetz auf andere Rechtsvorschriften sind als Verweis auf die jeweils geltende Fassung zu verstehen.
+
+(8) Soweit in diesem Bundesgesetz auf natürliche Personen bezogene Bezeichnungen nur in männlicher Form angeführt sind, beziehen sie sich auf Frauen und Männer in gleicher Weise. Bei der Anwendung der Bezeichnung bestimmter natürlicher Personen ist die jeweils geschlechtsspezifische Form zu verwenden.
+
+\*(Anm.: Abs. 9 aufgehoben durch Z 25, BGBl. I Nr. 93/2020)*
+
+(10) Das Inverkehrbringen von Pflanzenschutzmitteln mit dem Wirkstoff Glyphosate ist hinsichtlich der Indikation „Sikkation“ verboten, sofern das Erntegut für Lebens- oder Futtermittelzwecke bestimmt ist.
+
+\*(Anm.: Abs. 10a jetzt § 17 Abs. 2)*
+
+(11) Das Inverkehrbringen von Pflanzenschutzmitteln, die mindestens einen der Wirkstoffe Clothianidin, Thiamethoxam und Imidacloprid enthalten, ist hinsichtlich der Indikation Winterweizen, Winterdinkel, Wintertriticale und Winterroggen (Aussaat zwischen Juli und Dezember), sofern das Erntegut für Lebens- oder Futtermittelzwecke bestimmt ist, verboten.
+
+(12) Das Pflanzenschutzmittelregister gemäß § 4 Abs. 2 ist vom Bundesamt für Ernährungssicherheit hinsichtlich der Anforderungen der Abs. 10 und 11 von Amts wegen zu berichtigen.
+
+(13) Die Aufbrauchfrist gemäß Art. 4 der Verordnung (EU) Nr. 485/2013 zur Änderung der Durchführungsverordnung (EU) Nr. 540/2011 hinsichtlich der Bedingungen für die Genehmigung der Wirkstoffe Clothianidin, Thiamethoxam und Imidacloprid sowie des Verbotes der Anwendung und des Verkaufs von Saatgut, das mit diese Wirkstoffe enthaltenden Pflanzenschutzmitteln behandelt wurde (ABl. Nr. L 139 vom 25.5.2013 S 12), wird mit 1. Oktober 2013 festgelegt.
+
+(14) Die Aufbrauchfrist gem. Art. 46 der Verordnung (EG) Nr. 1107/2009 für Pflanzenschutzmittel, die nicht den Anforderungen des Abs. 10 entsprechen, wird mit dem der Kundmachung dieses Bundesgesetzes folgenden Tag festgelegt.
+
+(15) Die Aufbrauchfrist gem. Art. 46 der Verordnung (EG) Nr. 1107/2009 für Pflanzenschutzmittel, die nicht den Anforderungen des Abs. 11 entsprechen, wird mit 1. Oktober 2013 festgelegt.
+
+(16) Zulassungen im Sinne des Art. 3 der Verordnung (EU) Nr. 485/2013 sind frühestens am 1. Oktober 2016 entsprechend einer neuerlichen Überprüfung durch die Europäische Kommission anzupassen.
+
+(17) Die Aufbrauchfrist gemäß Art. 46 der Verordnung (EG) Nr. 1107/2009 für Pflanzenschutzmittel, die nicht den Anforderungen des § 3 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 104/2021 entsprechen, endet mit Ablauf des 15. Dezember 2021.
+
+> **Beachte:** zum Außerkrafttreten vgl. § 17 Abs. 5
+
+#### § 19 – Vollzugsklausel
+
+§ 19. (1) Mit der Vollziehung dieses Bundesgesetzes ist, sofern die folgenden Absätze nicht anderes bestimmen, die Bundesministerin für Landwirtschaft, Regionen und Tourismus betraut.
+
+(2) Mit der Vollziehung des § 7 Abs. 5 ist die Bundesministerin für Landwirtschaft, Regionen und Tourismus im Einvernehmen mit dem Bundesminister für Inneres betraut.
+
+(3) Mit der Vollziehung des § 7 Abs. 6 ist die Bundesministerin für Landwirtschaft, Regionen und Tourismus im Einvernehmen mit dem Bundesminister für Finanzen betraut.
+
+(4) Mit der Vollziehung des § 12 Abs. 1 und 7 ist der Bundesminister für Finanzen betraut.
+
+\*(Anm.: Abs. 5 aufgehoben durch Z 27, BGBl. I Nr. 93/2020)*

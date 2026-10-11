@@ -1688,7 +1688,9 @@ tritt.
 
 ### Inkrafttreten und Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. I Nr. 135/2009, zu § 1, BGBl. Nr. 100/1993)*
+***(Anm.: aus BGBl. I Nr. 135/2009, zu § 1, BGBl. Nr. 100/1993)***
+
+#### Art. 79
 
 (1) Art. 2 (Änderung des Allgemeinen Bürgerlichen Gesetzbuchs), Art. 3 (Änderung des Ehegesetzes), Art. 4 (Änderung des Fortpflanzungsmedizingesetzes), Art. 6 (Änderung der Jurisdiktionsnorm), Art. 7 (Änderung des Strafgesetzbuches), Art. 27 (Änderung des Einkommensteuergesetzes 1988), Art. 28 (Änderung des Körperschaftsteuergesetzes 1988), Art. 29 (Änderung des Umsatzsteuergesetzes 1994), Art. 30 (Änderung des Bewertungsgesetzes 1955), Art. 31 (Änderung des Gebührengesetzes 1957), Art. 33 (Änderung der Bundesabgabenordnung), Art. 34 (Änderung des Alkoholsteuergesetzes), Art. 61 (Änderung des Ärztegesetzes 1998), Art. 62 (Änderung des Gehaltskassengesetzes 2002), Art. 63 (Änderung des Apothekengesetzes), Art. 72 (Änderung des Studienförderungsgesetzes), Art. 76 (Änderung des Entwicklungshelfergesetzes), Art. 77 (Änderung des Bundesgesetzes über Aufgaben und Organisation des auswärtigen Dienstes – Statut) und Art. 78 (Bundesgesetz über die Einräumung von Privilegien und Immunitäten an internationale Organisationen) treten mit 1. Jänner 2010 in Kraft.
 

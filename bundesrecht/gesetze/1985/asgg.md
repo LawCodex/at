@@ -1767,7 +1767,9 @@ Sprengel des jeweiligen Schiedsgerichts der Sozialversicherung haben.
 
 ### Umsetzung
 
-##### *(Anm.: aus BGBl. I Nr. 118/2002, zu den §§ 49a und 93, BGBl. Nr. 104/1985)*
+***(Anm.: aus BGBl. I Nr. 118/2002, zu den §§ 49a und 93, BGBl. Nr. 104/1985)***
+
+##### Art. 8
 
 Mit diesem Bundesgesetz wird die Richtlinie 2000/35/EG zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr, ABl. Nr. L 200 vom 8. August 2000, S 35, umgesetzt.
 
@@ -1775,7 +1777,9 @@ Mit diesem Bundesgesetz wird die Richtlinie 2000/35/EG zur Bekämpfung von Zahlu
 
 ### Umsetzungshinweis
 
-##### *(Anm.: aus BGBl. I Nr. 50/2013, zu § 49a, BGBl. Nr. 104/1985)*
+***(Anm.: aus BGBl. I Nr. 50/2013, zu § 49a, BGBl. Nr. 104/1985)***
+
+##### Art. 9
 
 Mit diesem Bundesgesetz werden die Richtlinie 2011/7/EU zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr, ABl. Nr. L 48 vom 23. Februar 2011, S. 1, und die Richtlinie 2011/90/EU zur Änderung von Anhang I Teil II der Richtlinie 2008/48/EG mit zusätzlichen Annahmen für die Berechnung des effektiven Jahreszinses, ABl. Nr. L 296 vom 15. November 2011, S. 35, umgesetzt.
 
@@ -1791,7 +1795,9 @@ Mit diesem Bundesgesetz wird die Richtlinie (EU) 2019/2121 zur Änderung der Ric
 
 ### In-Kraft-Treten, Übergangsbestimmungen und Vollziehung
 
-##### *(Anm.: aus BGBl. I Nr. 7/2006, zu § 9, BGBl. Nr. 104/1985)*
+***(Anm.: aus BGBl. I Nr. 7/2006, zu § 9, BGBl. Nr. 104/1985)***
+
+##### Art. 7
 
 (1) Dieses Bundesgesetz tritt mit 1. Juli 2006 in Kraft.
 
@@ -1805,7 +1811,9 @@ Mit diesem Bundesgesetz wird die Richtlinie (EU) 2019/2121 zur Änderung der Ric
 
 ### Justizverwaltungsmaßnahmen
 
-##### *(Anm.: aus BGBl. I Nr. 76/2002, zu den §§ 9, 11a, 11b, 39, 44, 45, 46, 47, 56, 59, 62, 75 und 85, BGBl. Nr. 104/1985)*
+***(Anm.: aus BGBl. I Nr. 76/2002, zu den §§ 9, 11a, 11b, 39, 44, 45, 46, 47, 56, 59, 62, 75 und 85, BGBl. Nr. 104/1985)***
+
+##### Art. 10
 
 Mit Rücksicht auf dieses Bundesgesetz dürfen bereits von dem seiner Kundmachung folgenden Tag an Verordnungen erlassen sowie sonstige organisatorische und personelle Maßnahmen getroffen werden. Die Verordnungen dürfen frühestens mit 1. Jänner 2003 in Wirksamkeit gesetzt werden.
 
@@ -1867,7 +1875,9 @@ im Verhältnis zur Partei bleibt eine andere Vereinbarung über die Höhe der En
 
 ### In-Kraft-Treten, Übergangsbestimmungen
 
-##### *(Anm.: aus BGBl. I Nr. 76/2002, zu den §§ 9, 11a, 44, 45, 46, 47, 59, 62, 75 und 85, BGBl. Nr. 104/1985)*
+***(Anm.: aus BGBl. I Nr. 76/2002, zu den §§ 9, 11a, 44, 45, 46, 47, 59, 62, 75 und 85, BGBl. Nr. 104/1985)***
+
+##### Art. 11
 
 (1) Dieses Bundesgesetz tritt, soweit nicht anderes bestimmt ist, mit 1. Jänner 2003 in Kraft.
 
@@ -1887,7 +1897,9 @@ im Verhältnis zur Partei bleibt eine andere Vereinbarung über die Höhe der En
 
 ### Inkrafttreten, Aufhebung eines Gesetzes, Übergangsbestimmungen
 
-##### *(Anm.: aus BGBl. I Nr. 140/1997, zu den §§ 9, 11a, 38, 44, 45, 46, 47, 48, 49a und 75 ASGG, BGBl. Nr. 104/1985)*
+***(Anm.: aus BGBl. I Nr. 140/1997, zu den §§ 9, 11a, 38, 44, 45, 46, 47, 48, 49a und 75 ASGG, BGBl. Nr. 104/1985)***
+
+##### Art. 32
 
 \*(Anm.: Z 1 Inkrafttretensbestimmung)*
 
@@ -1919,7 +1931,9 @@ Z 10 (§ 75 ASGG) sind anzuwenden, wenn die Entscheidung nach dem 31. Dezember 1
 
 ### Justizverwaltungsmaßnahmen
 
-##### *(Anm.: aus BGBl. Nr. 343/1989, zu §§ 32, 42, 45, 46, 47, 75, 77 und 93, BGBl. Nr. 104/1985)*
+***(Anm.: aus BGBl. Nr. 343/1989, zu §§ 32, 42, 45, 46, 47, 75, 77 und 93, BGBl. Nr. 104/1985)***
+
+##### Art. 40
 
 Mit Rücksicht auf dieses Bundesgesetz dürfen bereits von dem seiner Kundmachung folgenden Tag an Verordnungen erlassen sowie sonstige organisatorische und personelle Maßnahmen getroffen werden. Die Verordnungen dürfen frühestens mit dem 1. August 1989 in Wirksamkeit gesetzt werden.
 
@@ -1927,7 +1941,9 @@ Mit Rücksicht auf dieses Bundesgesetz dürfen bereits von dem seiner Kundmachun
 
 ### Inkrafttreten, Übergangsbestimmungen
 
-##### *(Anm.: aus BGBl. Nr. 343/1989, zu §§ 32, 42, 45, 46, 47, 77 und 93, BGBl. Nr. 104/1985)*
+***(Anm.: aus BGBl. Nr. 343/1989, zu §§ 32, 42, 45, 46, 47, 77 und 93, BGBl. Nr. 104/1985)***
+
+##### Art. 41
 
 1\. Dieses Bundesgesetz tritt mit dem 1. August 1989 in Kraft; dies soweit im folgenden nichts anderes bestimmt wird.
 
@@ -1987,7 +2003,9 @@ c) nach dem 30. Juni 1993 erbracht worden sind, der Art. XXIX Z 1 lit. c (§ 23 
 
 ### In-Kraft-Treten, Übergangsbestimmungen
 
-##### *(Anm.: aus BGBl. I Nr. 98/2001, zu den §§ 42, 44, 46 und 77, BGBl. Nr. 104/1985)*
+***(Anm.: aus BGBl. I Nr. 98/2001, zu den §§ 42, 44, 46 und 77, BGBl. Nr. 104/1985)***
+
+##### Art. 96
 
 1\. Die Bestimmungen dieses Abschnitts treten – soweit im Folgenden nichts anderes bestimmt ist – mit 1. Jänner 2002 in Kraft.
 

@@ -43,7 +43,7 @@ Mit Zustimmung der beiden Häuser des Reichsrates finde Ich anzuordnen, wie folg
 
 ## I. Privatrechtliche Bestimmungen.
 
-#### § 1 – § 1.
+#### § 1
 
 (1) Ein Grundstück kann mit dem dinglichen, veräußerlichen und vererblichen Rechte, auf oder unter der Bodenfläche ein Bauwerk zu haben, belastet werden (Baurecht).
 
@@ -57,19 +57,19 @@ Mit Zustimmung der beiden Häuser des Reichsrates finde Ich anzuordnen, wie folg
 
 (2) Besteht das Entgelt für die Bestellung des Baurechtes in wiederkehrenden Leistungen (Bauzins), so muß deren Ausmaß und Fälligkeit bestimmt sein; Wertsicherungsvereinbarungen sind zulässig, sofern das Ausmaß des Bauzinses nicht durch die Bezugnahme auf den Wert von Grund und Boden bestimmt wird.
 
-#### § 4 – § 4.
+#### § 4
 
 (1) Das Baurecht kann nicht durch eine auflösende Bedingung beschränkt werden.
 
 (2) Das Erlöschen des Baurechtes wegen Verzuges in der Berichtigung des Bauzinses kann nur für den Fall vereinbart werden, daß der Bauzins für wenigstens zwei aufeindanderfolgende Jahre rückständig bleibt.
 
-#### § 5 – § 5.
+#### § 5
 
 (1) Das Baurecht entsteht durch die bücherliche Eintragung als Last des Grundstückes.
 
 (2) Ein Baurecht kann nicht an einem Teile eines Grundbuchskörpers begründet werden. Pfand- und andere Belastungsrechte, die auf Geldzahlung gerichtet sind oder dem Zwecke des Baurechtes entgegenstehen, dürfen dem Baurecht im Range nicht vorgehen. Für das eingetragene Baurecht ist gleichzeitig eine besondere Grundbuchseinlage zu eröffen. Alle Eintragungen gegen den Bauberechtigten sind in dieser Einlage zu vollziehen.
 
-#### § 6 – § 6.
+#### § 6
 
 (1) Das Baurecht gilt als unbewegliche Sache, das auf Grund des Baurechtes erworbene oder hergestellte Bauwerk als Zugehör des Baurechtes.
 
@@ -81,23 +81,23 @@ Mit Zustimmung der beiden Häuser des Reichsrates finde Ich anzuordnen, wie folg
 
 § 6a. Einem Bauberechtigten kann von den anderen Bauberechtigten Wohnungseigentum eingeräumt werden (Baurechtswohnungseigentum). Das Wohnungseigentumsgesetz 1975, BGBl. Nr. 417, in der jeweils geltenden Fassung gilt für das Baurechtswohnungseigentum sinngemäß.
 
-#### § 7 – § 7.
+#### § 7
 
 Ein Pfandrecht an einem Baurecht ist als gesetzmäßig sicher (§ 1374 a. b. G. B.) anzusehen, wenn die Belastung nicht die Hälfte des Wertes des Baurechtes übersteigt und die Schuld durch die vereinbarten Annuitäten oder durch gleichmäßige in Zeitabschnitten von höchstens einem Jahre fällige Ratenzahlungen spätestens im fünften Jahre vor Erlöschen des Baurechtes berichtigt sein wird.
 
-#### § 8 – § 8.
+#### § 8
 
 Die Löschung des Baurechtes kann vor Ablauf der Zeit, für die es bestellt ist, ohne Zustimmung der darauf eingetragenen Pfandgläubiger und anderer dinglich Berechtigten nur mit der Beschränkung bewilligt werden, daß die Rechtswirkung in Ansehung der Pfand- und anderen dinglichen Rechte erst mit deren Löschung einzutreten hat.
 
 > **Beachte:** Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869.
 
-#### § 9 – § 9.
+#### § 9
 
 (1) Bei Erlöschen des Baurechtes fällt das Bauwerk an den Grundeigentümer. Gesetzliche Pfand- und Vorzugsrechte, die auf dem Baurecht haften, gehen auf das Grundstück über, sobald das Baurecht erlischt.
 
 (2) Mangels anderer Vereinbarung ist dem Bauberechtigten eine Entschädigung in der Höhe eines Viertelteiles des vorhandenen Bauwertes zu leisten.
 
-#### § 10 – § 10.
+#### § 10
 
 Wenn dem Bauberechtigten bei Erlöschung des Baurechtes nach Gesetz oder Vertrag eine Entschädigung für das Bauwerk gebührt, erstrecken sich Pfand- und andere dingliche Rechte an dem Baurecht auf die Entschädigung.
 
@@ -105,13 +105,13 @@ Wenn dem Bauberechtigten bei Erlöschung des Baurechtes nach Gesetz oder Vertrag
 
 > **Beachte:** Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869.
 
-#### § 11 – § 11.
+#### § 11
 
 Bei der Exekution auf ein mit Baurecht belastetes Grundstück sind die Vorschriften über die Exekution auf ein mit einer Dienstbarkeit belastetes Grundstück sinngemäß anzuwenden; Bauzinsforderungen sind als Einkünfte der Liegenschaft zu behandeln. Sofern zugunsten öffentlicher Abgaben, die nach den bestehenden Vorschriften ein gesetzliches Pfand- oder Vorzugsrecht am Grundstücke genießen, Zwangsversteigerung stattfindet, muß das Baurecht vom Ersteher ohne Anrechnung auf das Meistbot übernommen werden.
 
 > **Beachte:** Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869.
 
-#### § 12 – § 12.
+#### § 12
 
 Die bestehenden Vorschriften über die Benützung der Unter- und Oberfläche eines Grundstückes bleiben unberührt.
 
@@ -125,13 +125,13 @@ Die bestehenden Vorschriften über die Benützung der Unter- und Oberfläche ein
 
 ## III. Gebührenrechtliche Bestimmungen.
 
-#### § 15 – § 15.
+#### § 15
 
 Bei der Bemessung der Gebühr von der Einräumung oder Weiterübertragung des Baurechtes oder von der Übertragung des mit diesem Rechte belasteten Grundstückes sind die allgemeinen Vorschriften der Gebührengesetze und den in den § 16 bis 19 festgesetzten Abweichungen zu beobachten.
 
 > **Beachte:** Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869.
 
-#### § 16 – § 16.
+#### § 16
 
 Behufs Ermittlung des Wertes des Baurechtes oder des mit diesem Rechte belasteten Grundstückes ist, soweit nicht das bedungene Entgelt die Grundlage der Gebührenbemessung bildet, zunächst der Gesamtwert der Liegenschaft (des Grundstückes samt den etwa darauf befindlichen Baulichkeiten) nach den allgemeinen Vorschriften der Gebührengesetze so zu bestimmen, als ob das Grundstück nicht mit dem Baurechte belastet wäre.
 
@@ -143,7 +143,7 @@ Durch die vorstehenden Bestimmungen wird die Anwendung der in den §§ 50 ff. de
 
 > **Beachte:** Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869.
 
-#### § 17 – § 17.
+#### § 17
 
 Der Wert der im Sinne des § 3, Absatz 2, bedungenen wiederkehrenden Leistungen (Bauzinse) ist folgendermaßen zu veranschlagen:
 
@@ -157,13 +157,13 @@ Sind in den in Z. 2 und 3 angeführten Fällen die wiederkehrenden Leistungen f�
 
 > **Beachte:** Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869.
 
-#### § 18 – § 18.
+#### § 18
 
 Geht die Dauer des Baurechtes aus dem Vertrage, mit dem es eingeräumt wurde, nicht mit Bestimmtheit hervor, aber ist diese Dauer von einer Bedingung abhängig, die im Zeitpunkte der Gebührenbemessung noch in Schwebe ist, so ist in Absicht auf die Anwendung der Vorschriften der §§ 16 und 17 die längste nach dem Vertrag oder, in Ermanglung einer die höchstdauer festsetzenden Vertragsbestimmung, nach § 3, Absatz 1, dieses Gesetzes mögliche Dauer anzunehmen.
 
 > **Beachte:** Zum Inkrafttretensdatum vgl. § 6, RGBl. Nr. 113/1869.
 
-#### § 19 – § 19.
+#### § 19
 
 Insoweit den im Sinne des § 12 des Gesetzes vom 22. Dezember 1910, R. G. Bl. Nr. 242, und des hierzu erlassenen Statuts als gemeinnützig zu behandelnden Bauvereinigungen, welche die im § 4 desselben Gesetzes erwähnten Zwecke verfolgen, hinsichtlich der Gebühren für die Erwerbung oder Veräußerung unbeweglicher Sachen oder hinsichtlich des Gebührenäquivalents von ihrem unbeweglichen Vermögen im Wege der Gesetzgebung Begünstigungen eingeräumt werden, sind diese Begünstigungen auf die Gebühren für die Erwerbung und Weiterveräußerung des Baurechtes durch die angeführten Bauvereinigungen und auf das Gebührenäquivalent von dem Werte des solchen Bauvereinigungen zustehenden Baurechtes sinngemäß anzuwenden. In Absicht auf die Anwendung der einschlägigen Bestimmungen ist das Baurecht, insolange das mit demselben belastete Grundstück unverbaut ist, einem unverbauten Grundstück, nach erfolgter Verbauung aber einem Gebäude rechtlich gleichzuachten; die näheren Vorschriften hierüber werden im Verordnungswege erlassen.
 
@@ -171,7 +171,7 @@ Insoweit den im Sinne des § 12 des Gesetzes vom 22. Dezember 1910, R. G. Bl. Nr
 
 ## IV. Schlussbestimmungen
 
-#### § 20 – § 20.
+#### § 20
 
 Mit dem Vollzuge dieses Gesetzes sind Mein Minister für öffentliche Arbeiten und Meine Minister der Justiz und der Finanzen betraut.
 
@@ -181,7 +181,9 @@ Mit dem Vollzuge dieses Gesetzes sind Mein Minister für öffentliche Arbeiten u
 
 ## Artikel III
 
-#### *(Anm.: aus BGBl. Nr. 258/1990, zu § 3, BGBl. Nr. 86/1912)*
+***(Anm.: aus BGBl. Nr. 258/1990, zu § 3, BGBl. Nr. 86/1912)***
+
+#### Art. 3
 
 (1) Dieses Bundesgesetz tritt mit dem 1. Juli 1990 in Kraft.
 
@@ -211,7 +213,9 @@ Mit dem Vollzuge dieses Gesetzes sind Mein Minister für öffentliche Arbeiten u
 
 ### Inkrafttreten, Schluss- und Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. I Nr. 111/2010, zu § 13, BGBl. Nr. 86/1912)*
+***(Anm.: aus BGBl. I Nr. 111/2010, zu § 13, BGBl. Nr. 86/1912)***
+
+#### Art. 39
 
 \*(Anm.: Abs. 1 bis 4a betreffen andere Rechtsvorschriften)*
 

@@ -1651,7 +1651,9 @@ c) für jede weitere, wenn auch nur begonnene halbe Stunde 25 Euro;
 
 ### Umsetzung von Gemeinschaftsrecht
 
-#### *(Anm.: aus BGBl. I Nr. 111/2007, zu den §§ 1 – 3, 21, 23a, 25, 31 – 35, 38, 39, 40, 41, 43 und 52 – 54, BGBl. Nr. 136/1975)*
+***(Anm.: aus BGBl. I Nr. 111/2007, zu den §§ 1 – 3, 21, 23a, 25, 31 – 35, 38, 39, 40, 41, 43 und 52 – 54, BGBl. Nr. 136/1975)***
+
+#### Art. 16
 
 Durch dieses Bundesgesetz werden
 
@@ -1671,7 +1673,9 @@ Durch dieses Bundesgesetz werden
 
 ### Inkrafttreten, Übergangsbestimmungen
 
-#### ***(****Anm.: aus BGBl. Nr. 623/1994, zu den §§ 25, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 43, 46, 48, 49, 50, 53, 54, 55, 56, 57, 58 und 59 – 63, BGBl. Nr. 136/1975)*
+*****(****Anm.: aus BGBl. Nr. 623/1994, zu den §§ 25, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 43, 46, 48, 49, 50, 53, 54, 55, 56, 57, 58 und 59 – 63, BGBl. Nr. 136/1975)***
+
+#### Art. 4
 
 \*(Anm.: Z 1 Inkrafttretensbestimmung)*
 
@@ -1717,7 +1721,9 @@ Durch dieses Bundesgesetz werden
 
 ### Inkrafttreten, Schluss- und Übergangsbestimmungen zum 1. Abschnitt
 
-#### *(Anm.: aus BGBl. I Nr. 52/2009, zu den §§ 10, 11, 27 und 41, BGBl. Nr. 136/1975)*
+***(Anm.: aus BGBl. I Nr. 52/2009, zu den §§ 10, 11, 27 und 41, BGBl. Nr. 136/1975)***
+
+#### Art. 16
 
 (1) Die Art. 4, 5, 6, 7, 8, 10, 11, 12, 14 und 15 treten, soweit nichts anderes angeordnet ist, mit 1. Juli 2009 in Kraft.
 
@@ -1745,7 +1751,9 @@ Durch dieses Bundesgesetz werden
 
 ### Inkrafttreten, Aufhebung eines Gesetzes, Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. I Nr. 140/1997, zu den §§ 21 und 41, BGBl. Nr. 136/1975)*
+***(Anm.: aus BGBl. I Nr. 140/1997, zu den §§ 21 und 41, BGBl. Nr. 136/1975)***
+
+#### Art. 32
 
 \*(Anm.: Z 1 Inkrafttretensbestimmung)*
 
@@ -1761,7 +1769,9 @@ Durch dieses Bundesgesetz werden
 
 ### Inkrafttreten, Schluss- und Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. I Nr. 111/2010, zu den §§ 20 und 39, BGBl. Nr. 136/1975)*
+***(Anm.: aus BGBl. I Nr. 111/2010, zu den §§ 20 und 39, BGBl. Nr. 136/1975)***
+
+#### Art. 39
 
 (*Anm.: Abs. 1 betrifft andere Rechtsvorschrift)*
 
@@ -1779,7 +1789,9 @@ Durch dieses Bundesgesetz werden
 
 ### Inkrafttreten, Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. Nr. 343/1989, zu den §§ 2, 3, 18, 19, 21, 22 u. 52, BGBl. Nr. 136/1975)*
+***(Anm.: aus BGBl. Nr. 343/1989, zu den §§ 2, 3, 18, 19, 21, 22 u. 52, BGBl. Nr. 136/1975)***
+
+#### Art. 41
 
 1\. Dieses Bundesgesetz tritt mit dem 1. August 1989 in Kraft; dies soweit im folgenden nichts anderes bestimmt wird.
 
@@ -1793,7 +1805,9 @@ Durch dieses Bundesgesetz werden
 
 ### In-Kraft-Treten, Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. I Nr. 98/2001, zu den §§ 12, 14, 15, 18, 20, 21, 31, 32, 33, 34, 35, 36, 39, 41, 43, 44, 45, 46, 47, 48, 51, 54 und 64, BGBl. Nr. 136/1975)*
+***(Anm.: aus BGBl. I Nr. 98/2001, zu den §§ 12, 14, 15, 18, 20, 21, 31, 32, 33, 34, 35, 36, 39, 41, 43, 44, 45, 46, 47, 48, 51, 54 und 64, BGBl. Nr. 136/1975)***
+
+#### Art. 96
 
 1\. Die Bestimmungen dieses Abschnitts treten – soweit im Folgenden nichts anderes bestimmt ist – mit 1. Jänner 2002 in Kraft.
 

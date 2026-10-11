@@ -26,7 +26,7 @@ StF: LGVBlSbg. Nr. 28/1920
 
 Der Landtag von Salzburg hat beschlossen:
 
-## § 1 – § 1.
+## § 1
 
 § 6 des Wasserrechtsgesetzes hat zu lauten:
 
@@ -34,6 +34,6 @@ Die Privatgewässer des Staates, mit Ausnahme der in § 4 bezeichneten, sind den
 
 Die Landesregierung kann im Einvernehmen mit dem Landesrate Privatgewässer, mit Ausnahme der in § 4 bezeichneten, gegen angemessene Schadloshaltung als öffentliches Gut erklären, wenn dies im Interesse einer erheblich besseren wirtschaftlichen Ausnützung des Gewässers oder sonst im öffentlichen Interesse gelegen ist. Werden staatliche Privatgewässer als öffentliches Gut erklärt, so ist dem Staate keine Schadloshaltung zu leisten. Gegen die Entscheidung der Landesregierung findet eine Berufung nicht statt. Kommt über die Schadloshaltung ein gütliches Uebereinkommen nicht zustande, so ist nach § 87 vorzugehen.
 
-## § 2 – § 2.
+## § 2
 
 Das Gesetz tritt am Tage seiner Kundmachung in Wirksamkeit. Mit seinem Vollzuge ist der Staatssekretär für Land- und Forstwirtschaft im Einvernehmen mit den beteiligten Staatssekretären betraut.

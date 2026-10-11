@@ -1,0 +1,1118 @@
+---
+title: "Tabak- und Nichtraucherinnen- bzw. Nichtraucherschutzgesetz"
+abbreviation: "TNRSG"
+identifier: "10010907"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 431/1995"
+last_amended: 2026-08-20
+last_amendment: "BGBl. I Nr. 68/2026"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1995/431/P0/NOR40181126"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010907"
+retrieved: 2026-10-11
+documents: 48
+---
+
+# Tabak- und Nichtraucherinnen- bzw. Nichtraucherschutzgesetz (TNRSG)
+
+Bundesgesetz über das Herstellen und Inverkehrbringen von Tabakerzeugnissen und verwandten Erzeugnissen sowie die Werbung für Tabakerzeugnisse und verwandte Erzeugnisse und den Nichtraucherinnen- bzw. Nichtraucherschutz (Tabak- und Nichtraucherinnen- bzw. Nichtraucherschutzgesetz – TNRSG)
+
+StF: BGBl. Nr. 431/1995 (NR: GP XIX RV 163 AB 202 S. 39. BR: AB 5024 S. 601.)
+
+[CELEX-Nr.: 389L0622, 390L0239, 392L0041]
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 98/2001 (NR: GP XXI RV 621 AB 704 S. 75. BR: 6398 AB 6424 S. 679.)  
+BGBl. I Nr. 74/2003 (NR: GP XXII RV 52 AB 100 S. 29. BR: AB 6816 S. 700.)  
+[CELEX-Nr.: 32001L0037]  
+BGBl. I Nr. 167/2004 (NR: GP XXII RV 700 AB 717 S. 90. BR: AB 7178 S. 717.)  
+[CELEX-Nr.: 32003L0033]  
+BGBl. I Nr. 47/2006 (NR: GP XXII IA 777/A AB 1295 S. 139. BR: 7480 AB 7493 S. 732.)  
+BGBl. I Nr. 105/2007 (NR: GP XXIII AB 392 S. 42. BR: AB 7863 S. 751.)  
+BGBl. I Nr. 120/2008 (NR: GP XXIII RV 610 AB 656 S. 67. BR: AB 7994 S. 759.)  
+BGBl. I Nr. 5/2015 (NR: GP XXV AB 433 S. 55. BR: AB 9295 S. 837.)  
+BGBl. I Nr. 101/2015 (NR: GP XXV RV 672 AB 734 S. 85. BR: AB 9428 S. 844.)  
+BGBl. I Nr. 22/2016 (NR: GP XXV RV 1056 AB 1088 S. 123. BR: 9556 AB 9569 S. 853.)  
+[CELEX-NR.: 32014L0040]  
+BGBl. I Nr. 13/2018 (NR: GP XXVI IA 107/A AB 33 S. 17. BR: AB 9934 S. 878.)  
+BGBl. I Nr. 37/2018 (NR: GP XXVI RV 108 AB 139 S. 23. BR: 9967 AB 9970 S. 880.)  
+[CELEX-Nr.: 32017L2399, 32017L1572]  
+BGBl. I Nr. 66/2019 (NR: GP XXVI IA 859/A S. 84. BR: 10192 AB 10201 S. 896.)  
+BGBl. I Nr. 36/2025 (NR: GP XXVIII RV 126 AB 184 S. 37. BR: AB 11663 S. 980.)  
+[CELEX-Nr.: 32022L2100]  
+BGBl. I Nr. 109/2025 (NR: GP XXVIII IA 628/A AB 361 S. 55. BR: 11721 AB 11731 S. 984.)  
+BGBl. I Nr. 68/2026 (NR: GP XXVIII RV 531 AB 549 S. 87. BR: 11834 AB 11854 S. 994.)  
+
+</details>
+
+> **Anmerkung:** 1\. Der Kurztitel und die Abkürzung wurden mit Wirksamkeit vom 21.5.2016 geändert (vgl. BGBl. I Nr. 22/2016). Aus dokumentalistischen Gründen wurden auch in den Dokumenten bereits außer Kraft getretener Bestimmungen der Titel, der Kurztitel und die Abkürzung angepasst.
+>
+> 2\. Zu dieser Rechtsvorschrift ist eine englische Übersetzung in der Applikation "Austrian Laws" vorhanden: [Tobacco and Non-Smoker Protection Act](http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Erv&Dokumentnummer=ERV_1995_431)
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+### § 1 – Begriffsbestimmungen
+
+§ 1. Im Sinne dieses Bundesgesetzes gilt als
+
+1\. „Tabakerzeugnis“ jedes Erzeugnis, das zum Rauchen, Schnupfen, Lutschen oder Kauen bestimmt ist, sofern es ganz oder teilweise aus Tabak, und zwar unabhängig davon, ob es sich um Tabak in gentechnisch veränderter oder unveränderter Form handelt, besteht,
+
+1a. „neuartiges Tabakerzeugnis“ jedes Tabakerzeugnis, das nicht in eine der Kategorien Zigaretten, Tabak zum Selbstdrehen, Pfeifentabak, Wasserpfeifentabak, Zigarren, Zigarillos, Kautabak, Schnupftabak und Tabak zum oralen Gebrauch fällt und erstmals nach dem 19. Mai 2014 in Verkehr gebracht wurde,
+
+1b. „elektronische Zigarette“ ein Erzeugnis, das zum Konsum nikotinhältigen oder nikotinfreien Dampfes (Nebels) mittels eines Mundstücks verwendet werden kann, oder jeder Bestandteil dieses Produkts, einschließlich einer Kartusche, eines Tanks, und des Gerätes ohne Kartusche oder Tank. Elektronische Zigaretten können Einwegprodukte oder mittels eines Nachfüllbehälters oder Tanks nachfüllbar sein oder mit Einwegkartuschen nachgeladen werden. Elektronische Zigaretten, die Einwegprodukte sind, sind nicht für die Wiederverwendung vorgesehen. Eine elektronische Zigarette ist ein Einwegprodukt, wenn sie nicht nachfüllbar oder nicht nachladbar ist. *Nachfüllbehälter* oder Tanks, die zum Nachfüllen bestimmt sind, sowie Einwegkartuschen, die zum Nachladen bestimmt sind, gelten nicht als elektronische Zigaretten, die Einwegprodukte sind,
+
+1c. „Nachfüllbehälter“ ein Behältnis, das eine nikotinhaltige oder nikotinfreie Flüssigkeit enthält, die zum Nachfüllen einer elektronischen Zigarette verwendet werden kann,
+
+1d. „pflanzliches Raucherzeugnis“ ein Erzeugnis auf der Grundlage von Pflanzen, Kräutern oder Früchten, das keinen Tabak enthält und mittels eines Verbrennungsprozesses konsumiert werden kann,
+
+1e. „verwandtes Erzeugnis“ jedes neuartige Tabakerzeugnis, pflanzliche Raucherzeugnis, die elektronische Zigarette und deren Liquids, jeder Nachfüllbehälter, jedes tabakfreie Nikotinerzeugnis sowie tabakfreie Nikotinersatzerzeugnis,
+
+1f. „Wasserpfeifentabak“ ein Tabakerzeugnis, das mit Hilfe einer Wasserpfeife verwendet werden kann. Kann ein Erzeugnis sowohl in Wasserpfeifen als auch als Tabak zum Selbstdrehen verwendet werden, so gilt es als Tabak zum Selbstdrehen,
+
+1g. „Kautabak“ ein rauchloses Tabakerzeugnis, das ausschließlich zum Kauen bestimmt ist,
+
+1h. „Tabak zum oralen Gebrauch“ ein Tabakerzeugnis zum oralen Gebrauch – mit Ausnahme eines Erzeugnisses, das zum Inhalieren oder Kauen bestimmt ist –, das ganz oder teilweise aus Tabak besteht und in Pulver- oder Granulatform oder in einer Kombination aus beiden Formen, insbesondere in Portionsbeuteln oder porösen Beuteln, angeboten wird,
+
+1i. „Schnupftabak“ ein rauchloses Tabakerzeugnis, das über die Nase konsumiert werden kann,
+
+1j. „Rauchtabakerzeugnis“ jedes Tabakerzeugnis mit Ausnahme rauchloser Tabakerzeugnisse,
+
+1k. „rauchloses Tabakerzeugnis“ ein Tabakerzeugnis, das nicht mittels eines Verbrennungsprozesses konsumiert wird, unter anderem Kautabak, Schnupftabak und Tabak zum oralen Gebrauch,
+
+1l. „Liquid“ jede nikontinhältige oder sonstige nikotinfreie Flüssigkeit, die dafür vorgesehen ist, in elektronischen Zigaretten, E-Shishas oder vergleichbaren Erzeugnissen mit derselben Funktions- und Wirkungsweise verdampft zu werden,
+
+2\. „Inverkehrbringen“ die entgeltliche oder unentgeltliche Bereitstellung von Produkten – unabhängig vom Ort ihrer Herstellung – für Verbraucherinnen bzw. Verbraucher,
+
+3\. „Nikotin“ die Nikotinalkaloide,
+
+4\. „Packung“ die kleinste Einzelverpackung eines Tabakerzeugnisses oder verwandten Erzeugnisses, die in Verkehr gebracht wird,
+
+4a. „Außenverpackung“ eine Verpackung, in der Tabakerzeugnisse oder verwandte Erzeugnisse in Verkehr gebracht werden und in der sich eine Packung oder mehrere Packungen befinden. Transparente Hüllen gelten nicht als Außenverpackung,
+
+4b. „Beutel“ eine Packung Tabak zum Selbstdrehen, entweder in Form einer rechteckigen Tasche mit einer Klappe, die die Öffnung bedeckt, oder in Form eines Standbeutels,
+
+5\. Kondensat (Teer) das wasserfreie (= trockene) nikotinfreie Rauchkondensat,
+
+6\. „Verbraucher“ jede natürliche Person, die das Tabakerzeugnis oder das verwandte Erzeugnis für den Eigenverbrauch oder die Weitergabe an bestimmte Dritte für deren Eigenverbrauch erwirbt,
+
+7\. „Werbung“ jede Form der kommerziellen Kommunikation mit dem Ziel oder der direkten oder der indirekten Wirkung, den Verkauf eines Tabakerzeugnisses oder eines verwandten Erzeugnisses zu fördern,
+
+7a. „Sponsoring“ jede Form des öffentlichen oder privaten Beitrags zu einer Veranstaltung oder Aktivität oder jede Form der Unterstützung von Einzelpersonen mit dem Ziel oder der direkten oder der indirekten Wirkung, den Verkauf eines Tabakerzeugnisses oder eines verwandten Erzeugnisses zu fördern,
+
+8\. „Tabak zum Selbstdrehen“ ein Tabak, der von Verbraucherinnen bzw. Verbrauchern oder Verkaufsstellen zum Fertigen von Zigaretten verwendet werden kann,
+
+9\. „Inhaltsstoff“ Tabak, ein Zusatzstoff sowie jeder in einem endgültigen Tabakerzeugnis oder verwandten Erzeugnis vorhandene Stoff oder Bestandteil, einschließlich Papier, Filter, Druckerfarben, Kapseln und Kleber,
+
+9a. „Emission“ jeder Stoff, der freigesetzt wird, wenn ein Tabakerzeugnis oder ein verwandtes Erzeugnis bestimmungsgemäß verwendet wird,
+
+9b. „Höchstwert“ oder „Emissionshöchstwert“ der maximale Gehalt oder die maximale Emission (einschließlich 0) eines Stoffs in einem Tabakerzeugnis oder verwandten Erzeugnis, gemessen in Milligramm,
+
+9c. „Zusatzstoff“ ein Stoff mit Ausnahme von Tabak, der einem Tabakerzeugnis oder verwandtem Erzeugnis, einer Packung oder einer Außenverpackung zugesetzt wird,
+
+9d. „Aromastoff“ ein Zusatzstoff, der Geruch und/oder Geschmack verleiht,
+
+9e. „charakteristisches Aroma“ ein von Tabakgeruch bzw. -geschmack unterscheidbarer Geruch oder Geschmack, der durch einen Zusatzstoff oder eine Kombination von Zusatzstoffen erzeugt wird – unter anderem Früchte, Gewürze, Kräuter, Alkohol, Süßigkeiten, Menthol oder Vanille – und der vor oder beim Konsum des Tabakerzeugnisses oder verwandten Erzeugnisses bemerkbar ist,
+
+10\. „vermarkten“ die Weitergabe von Tabakerzeugnissen oder verwandten Erzeugnissen durch die Herstellerin oder den Hersteller bzw. die Importeurin oder den Importeur,
+
+11\. „öffentlicher Ort“ jeder Ort, der von einem nicht von vornherein beschränkten Personenkreis ständig oder zu bestimmten Zeiten betreten werden kann einschließlich der nicht ortsfesten Einrichtungen des öffentlichen und privaten Bus-, Schienen-, Flug- und Schiffsverkehrs,
+
+12\. „Versandhandel“ (Fernabsatz) das Anbieten zum Versand oder zur Lieferung, der Versand oder die Lieferung von Tabakerzeugnissen oder verwandten Erzeugnissen, insbesondere durch Herstellerinnen bzw. Hersteller, Importeurinnen bzw. Importeure oder Händlerinnen bzw. Händler an Verbraucherinnen bzw. Verbraucher,
+
+13\. „erhitztes Tabakerzeugnis“ ein neuartiges Tabakerzeugnis, das erhitzt wird, damit Nikotin und andere Chemikalien freigesetzt werden, die dann von der Nutzerin oder dem Nutzer inhaliert werden, und das je nach seinen Eigenschaften den rauchlosen Tabakerzeugnissen oder den Rauchtabakerzeugnissen zugerechnet wird.
+
+14\. „tabakfreies Nikotinerzeugnis“ jedes tabakfreie Erzeugnis, das Nikotin enthält und zur Aufnahme in den menschlichen Körper durch Inhalieren, Schnupfen, Lutschen, Kauen, orale, dermale oder sonstige Aufnahme bestimmt ist, sofern es sich dabei nicht um eine elektronische Zigarette, einen Nachfüllbehälter, Liquids oder ein pflanzliches Raucherzeugnis handelt,
+
+15\. „tabakfreies Nikotinersatzerzeugnis“ ein Erzeugnis, das weder Tabak noch Nikotin enthält, und wie ein Tabakerzeugnis gemäß § 1 Z 1 konsumiert werden kann, sofern es sich dabei nicht um ein pflanzliches Raucherzeugnis, eine elektronische Zigarette oder ein Liquid handelt.
+
+### § 2 – Verbot des Inverkehrbringens
+
+§ 2. (1) Das Inverkehrbringen von
+
+1\. Tabakerzeugnissen und verwandten Erzeugnissen, die den §§ 4 bis 10f, 10h bis 10i oder den nach diesem Bundesgesetz erlassenen Verordnungen nicht entsprechen oder
+
+2\. Tabak zum oralen Gebrauch oder
+
+3\. Kautabak oder
+
+4\. elektronischen Zigaretten, die Einwegprodukte sind,
+
+ist verboten.
+
+(2) Eine Zigarettenpackung muss mindestens 20 Zigaretten enthalten.
+
+(2a) Eine Packung eines tabakfreien Nikotinerzeugnisses muss mindestens 15 Konsumeinheiten enthalten.
+
+(3) Verbote des In-Verkehr-Bringens von Tabakerzeugnissen auf Grund anderer Rechtsvorschriften bleiben unberührt.
+
+\*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 22/2016)*
+
+### § 2a – Verbot des Versandhandels und des Verkaufs an Jugendliche für Tabakerzeugnisse und verwandte Erzeugnisse
+
+§ 2a. Der Versandhandel mit Tabakerzeugnissen gemäß § 1 Z 1 sowie von verwandten Erzeugnissen gemäß § 1 Z 1e ist verboten.
+
+### § 2b
+
+§ 2b. Der Verkauf von Tabakerzeugnissen gemäß § 1 Z 1 sowie von verwandten Erzeugnissen gemäß § 1 Z 1e an Personen, die das 18. Lebensjahr noch nicht vollendet haben, ist verboten.
+
+### § 4 – Begrenzung des Kondensat-(Teer-), Nikotin- und Kohlenmonoxidgehalts im Zigarettenrauch
+
+§ 4. (1) Im Rauch einer Zigarette dürfen
+
+1\. der Kondensat-(Teer-)Gehalt 10 mg,
+
+2\. der Nikotingehalt 1,0 mg und
+
+3\. der Kohlenmonoxidgehalt 10 mg
+
+je Zigarette nicht überschreiten.
+
+(2) Die Bundesministerin oder der Bundesminister für Gesundheit hat aufgrund von erwiesenen gesundheitlichen Gefahren oder, soweit dies nach Vorgabe eines aufgrund des Art. 3 Abs. 2 der Richtlinie 2014/40/EU erlassenen Rechtsaktes der Europäischen Union erforderlich ist, durch Verordnung mit Zustimmung des Hauptausschusses des Nationalrats eine Verringerung der in Abs. 1 genannten Emissionshöchstwerte festzulegen.
+
+(3) Die Bundesministerin oder der Bundesminister für Gesundheit hat aufgrund von erwiesenen gesundheitlichen Gefahren oder, soweit dies nach Vorgabe eines aufgrund des Art. 3 Abs. 4 der Richtlinie 2014/40/EU erlassenen Rechtsaktes der Europäischen Union erforderlich ist, durch Verordnung mit Zustimmung des Hauptausschusses des Nationalrats Höchstwerte für andere als die in Abs. 1 genannten Emissionen von Zigaretten und für Emissionen von Tabakerzeugnissen mit Ausnahme von Zigaretten zu erlassen.
+
+(4) Sollten etwaige Emissionshöchstwerte von Zigaretten, mit Ausnahme der in Abs. 1 genannten Emissionen, und von Emissionen von anderen Tabakerzeugnissen als Zigaretten festgelegt werden, hat dies das Bundesministerium für Gesundheit der Europäischen Kommission mitzuteilen.
+
+### § 4b – Messung und Kontrolle des Kondensat-(Teer-), Nikotin- und Kohlenmonoxidgehalts
+
+§ 4b. (1) Die Bundesministerin oder der Bundesminister für Gesundheit hat aufgrund von erwiesenen gesundheitlichen Gefahren oder, soweit dies nach Vorgabe eines aufgrund des Art. 4 Abs. 3 der Richtlinie 2014/40/EU erlassenen Rechtsaktes der Europäischen Union erforderlich ist, durch Verordnung die Messverfahren einschließlich der Anforderung an deren Genauigkeit für die Teer-, Nikotin- und Kohlenmonoxidemissionen von Zigaretten festzulegen.
+
+(2) Die nach Abs. 1 durchgeführten Messungen sind von einem Labor in einer Einrichtung gemäß § 10 Abs. 2 zu überwachen.
+
+(3) Die Teer-, Nikotin- und Kohlenmonoxidemissionen von Zigaretten sind nach der ISO-Norm 4387 für Teer, ISO-Norm 10315 für Nikotin bzw. ISO-Norm 8454 für Kohlenmonoxid zu messen. Die Genauigkeit der Messung zu Teer, Nikotin und Kohlenmonoxid wird nach der ISO-Norm 8243 bestimmt.
+
+(4) Das Bundesministerium für Gesundheit hat der Europäischen Kommission eine Liste zugelassener Labors einer Einrichtung gemäß § 10 Abs. 2 unter Angabe der verwendeten Zulassungskriterien und Überwachungsmethoden zu übermitteln; gleiches gilt bei jeder Änderung bzw. Aktualisierung dieser Liste.
+
+### § 4c
+
+§ 4c. (1) Das Bundesministerium für Gesundheit hat der Europäischen Kommission die etwaig verwendeten Messverfahren für Emissionen, die nicht von § 4b erfasst sind, und für Emissionen von Tabakerzeugnissen mit Ausnahme von Zigaretten mitzuteilen.
+
+(2) Die Bundesministerin oder der Bundesminister für Gesundheit hat aufgrund von erwiesenen gesundheitlichen Gefahren oder, soweit dies nach Vorgabe eines aufgrund des Art. 4 Abs. 5 der Richtlinie 2014/40/EU erlassenen Rechtsaktes der Europäischen Union erforderlich ist, durch Verordnung Standards für Messverfahren festzulegen.
+
+### § 5 – Allgemeine Warnhinweise und Informationsbotschaften für Rauchtabakerzeugnisse
+
+§ 5. (1) Jede Packung und jede Außenverpackung von Rauchtabakerzeugnissen hat den folgenden allgemeinen Warnhinweis zu tragen:
+
+„Rauchen ist tödlich – hören Sie jetzt auf.“
+
+(2) Jede Packung und jede Außenverpackung von Rauchtabakerzeugnissen hat die folgende Informationsbotschaft zu tragen:
+
+„Tabakrauch enthält über 70 Stoffe, die erwiesenermaßen krebserregend sind.“
+
+(3) Bei Zigarettenpackungen und Tabak zum Selbstdrehen in quaderförmigen Packungen ist der allgemeine Warnhinweis auf dem unteren Teil einer der seitlichen Oberflächen der Packungen, die Informationsbotschaft auf dem unteren Teil der anderen seitlichen Oberfläche anzubringen. Diese gesundheitsbezogenen Warnhinweise müssen mindestens 20 mm breit sein.
+
+(4) Bei Zigarettenpackungen und Packungen für Tabak zum Selbstdrehen in Form einer Kappenschachtel („shoulder box“) mit Deckel, bei denen die seitlichen Oberflächen bei geöffneter Packung zweigeteilt sind, sind der allgemeine Warnhinweis und die Informationsbotschaft vollständig auf der größeren der beiden Teiloberflächen anzubringen. Der allgemeine Warnhinweis muss auch auf der Innenseite des Deckels erscheinen, die bei geöffneter Packung zu sehen ist. Die seitlichen Oberflächen dieser Art von Packung müssen mindestens 16 mm hoch sein.
+
+(4a) Bei Packungen für Tabak zum Selbstdrehen in Form von rechteckigen Taschen mit einer Lasche, die die Öffnung bedeckt, sind der allgemeine Warnhinweis und die Informationsbotschaft auf die beiden Flächen zu drucken, die sichtbar werden, wenn die Packung vollständig geöffnet wird. Der allgemeine Warnhinweis und die Informationsbotschaft sind am oberen Rand anzuordnen und müssen 50 % der jeweiligen Flächen einnehmen, auf denen sie gedruckt sind. Zuoberst ist der allgemeine Warnhinweis zu platzieren.
+
+(4b) Bei Packungen für Tabak zum Selbstdrehen in Form von Standbeuteln sind der allgemeine Warnhinweis und die Informationsbotschaft auf den Bodenflächen des Beutels anzuordnen, die sichtbar werden, wenn der Beutel auf die Rückseite gelegt wird. Der allgemeine Warnhinweis ist auf die Fläche oberhalb der Bodenfalte am Packungsboden, die Informationsbotschaft auf die Fläche unterhalb der Bodenfalte zu drucken. Der allgemeine Warnhinweis und die Informationsbotschaft müssen jeweils 50 % der Flächen einnehmen, auf denen sie gedruckt sind. Die Flächen sind anhand ihrer Abmessungen nach Versiegelung der Ränder zu berechnen.
+
+(5) Bei Tabak zum Selbstdrehen, der in Beuteln verkauft wird, sind der allgemeine Warnhinweis und die Informationsbotschaft auf jenen Flächen anzubringen, bei denen die volle Sichtbarkeit dieser gesundheitsbezogenen Warnhinweise gewährleistet ist. Bei Tabak zum Selbstdrehen in zylinderförmigen Packungen sind der allgemeine Warnhinweis auf der äußeren und die Information auf der inneren Fläche des Deckels anzubringen.
+
+(6) Sowohl der allgemeine Warnhinweis als auch die Information müssen jeweils 50 % der Flächen einnehmen, auf denen sie gedruckt werden.
+
+(7) Der allgemeine Warnhinweis und die Informationsbotschaft nach den Abs. 1 und 2 sind
+
+1\. in Helvetika fett schwarz auf weißem Hintergrund zu drucken,
+
+2\. der Text hat den größtmöglichen Anteil der für diese Warnhinweise vorgesehenen Fläche einzunehmen, sowie
+
+3\. auf der für sie reservierten Fläche zu zentrieren und bei quaderförmigen Packungen und allen Außenverpackungen parallel zur Oberkante der Packung oder Außenverpackung anzubringen.
+
+(8) Die Bundesministerin oder der Bundesminister für Gesundheit hat, soweit dies nach Vorgabe eines aufgrund des Art. 9 Abs. 6 der Richtlinie 2014/40/EU erlassenen Rechtsaktes der Europäischen Union erforderlich ist, durch Verordnung nähere Bestimmungen zur Positionierung der allgemeinen Warnhinweise und der Informationsbotschaft für Verpackungen von Tabak zum Selbstdrehen festzulegen.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 18 Abs. 18
+
+### § 5a – Kombinierte gesundheitsbezogene Warnhinweise für Rauchtabakerzeugnisse
+
+§ 5a. (1) Jede Packung und jede Außenverpackung von Rauchtabakerzeugnissen hat kombinierte gesundheitsbezogene Warnhinweise zu tragen. Die kombinierten gesundheitsbezogenen Warnhinweise
+
+1\. bestehen aus einem der im **Anhang** aufgelisteten textlichen Warnhinweise und einem dazu passenden Bild aus der Bilderbibliothek der gemäß Abs. 4 zu erlassenden Verordnung,
+
+2\. haben die folgende Information über Hilfsprogramme zur Raucherentwöhnung zu enthalten:
+
+„Rauchfrei Telefon: 0800 810 013
+
+www.rauchfrei.at“
+
+3\. nehmen 65 % sowohl der äußeren Vorder- als auch der äußeren Rückseite der Packung und jeder Außenverpackung ein. Zylinderförmige Packungen müssen zwei kombinierte gesundheitsbezogene Warnhinweise aufweisen, die im gleichen Abstand voneinander angebracht sind und die jeweils 65 % ihrer jeweiligen Hälfte der gebogenen Oberfläche einnehmen,
+
+4\. haben auf beiden Seiten der Verpackung und der Außenverpackung denselben textlichen Warnhinweis mit dazupassendem Bild zu zeigen,
+
+5\. sind an der Oberkante einer Packung und jeder Außenverpackung anzubringen und sind in derselben Richtung wie die übrigen Informationen auf dieser Fläche der Packung auszurichten,
+
+6\. haben im Fall von Zigarettenpackungen folgende Abmessungen aufzuweisen:
+
+a) mindestens eine Höhe von 44 mm und
+
+b) mindestens eine Breite von 52 mm.
+
+(2) Die kombinierten gesundheitsbezogenen Warnhinweise sind in den Anlagen der gemäß Abs. 4 zu erlassenden Verordnung hinsichtlich technischer Spezifikationen für das Layout, die Gestaltung und die Form der kombinierten gesundheitsbezogenen Warnhinweise in drei Gruppen unterteilt. Jeder kombinierte gesundheitsbezogene Warnhinweis hat bei jeder Marke von Tabakerzeugnissen in gleicher Anzahl aufzuscheinen.
+
+(3) Die kombinierten gesundheitsbezogenen Warnhinweise sind in drei Gruppen eingeteilt. Jährlich sind aus einer der drei Gruppen, beginnend mit 20. Mai 2016 bis 19. Mai 2017 aus Gruppe 1, 20. Mai 2017 bis 19. Mai 2018 aus Gruppe 2 und vom 20. Mai 2018 bis 19. Mai 2019 aus Gruppe 3 – und dann fortlaufend im Rhythmus Gruppe 1, Gruppe 2, Gruppe 3 wieder jeweils mit 20. Mai beginnend – Bilder auszuwählen, welche bei jeder Marke eines Tabakerzeugnisses in gleicher Anzahl aufzudrucken sind.
+
+(4) Die Bundesministerin oder der Bundesminister für Gesundheit hat, soweit dies nach Vorgabe eines aufgrund des Art. 10 Abs. 4 der Richtlinie 2014/40/EU erlassenen Rechtsaktes der Europäischen Union erforderlich ist, durch Verordnung Details hinsichtlich technischer Spezifikationen für das Layout, die Gestaltung und die Form der kombinierten gesundheitsbezogenen Warnhinweise festzulegen, wobei den verschiedenen Formen von Verpackungen Rechnung zu tragen ist.
+
+(5) Die Bundesministerin oder der Bundesminister für Gesundheit hat, soweit dies nach Vorgabe eines aufgrund des Art. 10 Abs. 3 der Richtlinie 2014/40/EU erlassenen Rechtsaktes der Europäischen Union erforderlich ist, durch Verordnung Änderungen des Anhanges nach Abs. 1 festzulegen.
+
+### § 5b – Kennzeichnung von Rauchtabakerzeugnissen mit Ausnahme von Zigaretten, von Tabak zum Selbstdrehen, von Tabak für Wasserpfeifen und von erhitzten Tabakerzeugnissen
+
+§ 5b. (1) Abweichend von § 5a hat jede Packung und jede Außenverpackung von Rauchtabakerzeugnissen mit Ausnahme von Zigaretten, von Tabak zum Selbstdrehen, von Tabak für Wasserpfeifen und von erhitzten Tabakerzeugnissen zusätzlich zum allgemeinen Warnhinweis gemäß § 5 Abs. 1 einen der textlichen Warnhinweise gemäß dem Anhang zu tragen. Der allgemeine Warnhinweis gemäß § 5 Abs. 1 hat einen Verweis auf das Raucherentwöhnungsangebot des § 5a Abs. 1 Z 2 zu enthalten.
+
+(2) Der allgemeine Warnhinweis ist auf der am ehesten ins Auge fallenden Fläche der Packung und der Außenverpackung anzubringen.
+
+(3) Der textliche Warnhinweis hat bei jeder Marke dieser Tabakerzeugnisse in gleicher Anzahl aufzuscheinen und ist auf der nächsten am ehesten ins Auge fallenden Fläche der Packung und der Außenverpackung anzubringen.
+
+(4) Bei Packungen mit einem Klappdeckel ist die nächste am ehesten ins Auge fallende Fläche jene Fläche, die bei geöffneter Packung sichtbar wird.
+
+(5) Der allgemeine Warnhinweis hat 30 % der entsprechenden Fläche der Packung und der Außenverpackung einzunehmen.
+
+(6) Der textliche Warnhinweis hat 40 % der entsprechenden Fläche der Packung und der Außenverpackung einzunehmen.
+
+(7) Sind die gesundheitsbezogenen Warnhinweise des Abs. 1 auf einer Fläche von mehr als 150 cm<sup>2</sup> aufzubringen, haben sie eine Fläche von 45 cm<sup>2</sup> einzunehmen.
+
+(8) Der gesundheitsbezogene Warnhinweis des Abs. 1 hat den Anforderungen des § 5 Abs. 7 zu entsprechen. Der Text dieses Warnhinweises hat parallel zum Haupttext auf der für den Warnhinweis vorgesehenen Fläche zu verlaufen. Er ist mit einem schwarzen, mindestens 3 mm und höchstens 4 mm breiten Rahmen zu umranden, welcher außerhalb der für den Warnhinweis vorgesehenen Fläche anzubringen ist.
+
+### § 5c – Kennzeichnung rauchloser Tabakerzeugnisse
+
+§ 5c. (1) Jede Packung und jede Außenverpackung eines rauchlosen Tabakerzeugnisses hat den folgenden gesundheitsbezogenen Warnhinweis zu tragen:
+
+„Dieses Tabakerzeugnis schädigt Ihre Gesundheit und macht süchtig.“
+
+(2) Der gesundheitsbezogene Warnhinweis des Abs. 1 hat den Anforderungen des § 5 Abs. 7 zu entsprechen. Der Text dieses Warnhinweises hat parallel zum Haupttext auf der für den Warnhinweis vorgesehenen Fläche zu verlaufen. Außerdem muss er
+
+1\. auf den zwei größten Flächen der Packung und der Außenverpackung angebracht werden und
+
+2\. mindestens 30 % der Fläche der Packung und der Außenverpackung einnehmen.
+
+### § 5d – Erscheinungsbild
+
+§ 5d. (1) Die Kennzeichnung der Packung und der Außenverpackung sowie das Tabakerzeugnis selbst dürfen weder Elemente noch Merkmale aufweisen, die
+
+1\. ein Tabakerzeugnis bewerben oder zu dessen Konsum anregen, indem sie einen irreführenden Eindruck von seinen Eigenschaften, gesundheitlichen Wirkungen, Risiken oder Emissionen erwecken; die Beschriftungen dürfen keine Informationen über den Gehalt des Tabakprodukts an Nikotin, Teer oder Kohlenmonoxid enthalten,
+
+2\. suggerieren, dass ein bestimmtes Tabakerzeugnis weniger schädlich als ein anderes sei oder auf eine Reduzierung einiger schädlicher Bestandteile des Rauchs abziele oder belebende, energetisierende, heilende, verjüngende, natürliche oder ökologische Eigenschaften oder einen sonstigen Nutzen für die Gesundheit oder Lebensführung habe,
+
+3\. sich auf den Geschmack, Geruch, eventuelle Aromastoffe oder sonstige Zusatzstoffe oder auf deren Fehlen beziehen,
+
+4\. einem Lebensmittel- oder Kosmetikerzeugnis ähneln,
+
+5\. suggerieren, dass ein bestimmtes Tabakerzeugnis eine verbesserte biologische Abbaubarkeit oder sonstige Vorteile für die Umwelt aufweise.
+
+(2) Es ist verboten, Packungen und Außenverpackungen zu verwenden, die den Eindruck eines wirtschaftlichen Vorteils erwecken (z. B. durch aufgedruckte Gutscheine, Ermäßigungen, 2-für-1-Angebote, kostenlose Abgabe).
+
+(3) Unter die nach den Abs. 1 und 2 verbotenen Elemente und Merkmale fallen insbesondere Texte, Symbole, Namen, Markennamen, figurative und sonstige Zeichen.
+
+### § 5e – Aufmachung und Inhalt der Packungen
+
+§ 5e. (1) Zigarettenpackungen müssen quaderförmig sein. Packungen für Tabak zum Selbstdrehen müssen Quader- oder Zylinderform oder die Form eines Beutels haben.
+
+(2) Eine Zigarettenpackung hat den Vorgaben des § 2 Abs. 2 zu entsprechen. Eine Packung von Tabak zum Selbstdrehen darf nicht weniger als 30 g Tabak enthalten.
+
+(3) Eine Zigarettenpackung darf aus Karton oder einem weichen Material bestehen und darf keine Öffnung haben, die sich nach dem ersten Öffnen wieder verschließen oder versiegeln lässt; davon ausgenommen sind Packungen mit Klappdeckel (Flip-Top-Deckel) bzw. Kappenschachteln mit Deckel. Bei Packungen mit einem Klappdeckel (Flip-Top-Deckel) und Klappschachtel-Öffnung muss sich das Scharnier des Deckels an der Rückseite der Packung befinden.
+
+### § 6 – Allgemeine Bestimmungen
+
+§ 6. (1) Jede Packung eines Tabakerzeugnisses und jede Außenverpackung haben gesundheitsbezogene Warnhinweise gemäß der §§ 5 bis 5c in deutscher Sprache zu tragen.
+
+(2) Die gesundheitsbezogenen Warnhinweise haben die gesamte für sie vorgesehene Fläche der Packung oder der Außenverpackung zu bedecken und es dürfen darauf keine Kommentare, Umschreibungen oder Bezugnahmen jeglicher Art angebracht werden.
+
+(3) Die gesundheitsbezogenen Warnhinweise auf einer Packung oder Außenverpackung müssen unablösbar aufgedruckt, unverwischbar und vollständig sichtbar sein. Sie dürfen weder vollständig noch teilweise durch Steuerzeichen, Preisaufkleber, Sicherheitsmerkmale, Hüllen, Taschen, Schachteln oder sonstige Gegenstände verdeckt oder getrennt werden.
+
+(4) Auf Verpackungen von Tabakerzeugnissen mit Ausnahme von Zigaretten und Tabak zum Selbstdrehen in Beuteln dürfen die gesundheitsbezogenen Warnhinweise mittels Aufklebern aufgebracht werden, sofern diese nicht entfernt werden können. Die gesundheitsbezogenen Warnhinweise müssen beim Öffnen der Packung intakt bleiben, außer bei Packungen mit Klappdeckel (Flip-Top-Deckel), bei denen die Warnhinweise beim Öffnen der Packung getrennt werden, allerdings nur in einer Weise, die die grafische Integrität und die Sichtbarkeit des Textes, der Fotografien und der Angaben zur Raucherentwöhnung gewährleistet.
+
+(5) Die gesundheitsbezogenen Warnhinweise dürfen die Steuerzeichen, die Preisschilder, die Markierungen für die Verfolgung und Rückverfolgung sowie die Sicherheitsmerkmale auf den Packungen nicht verdecken oder trennen.
+
+(6) Gesundheitsbezogene Warnhinweise, mit Ausnahme jener des § 5b Abs. 1, sind mit einem schwarzen, 1 mm breiten Rahmen innerhalb der für diese Warnhinweise vorgesehenen Fläche zu umranden.
+
+(7) Die Abmessungen der gesundheitsbezogenen Warnhinweise gemäß den §§ 5 bis 5c sind im Verhältnis zur jeweiligen Fläche bei geschlossener Packung zu berechnen.
+
+### § 7 – Rückverfolgbarkeit
+
+§ 7. (1) Alle Packungen von Tabakerzeugnissen haben ein individuelles Erkennungsmerkmal zu tragen. Dieses muss zur Gewährleistung der Unversehrtheit nicht ablösbar aufgedruckt oder befestigt und unverwischbar sein und es darf nicht verdeckt oder getrennt werden, auch nicht durch Preisschilder oder durch das Öffnen der Packung.
+
+(2) Zum Zweck der Bekämpfung des Handels mit illegalen Tabakerzeugnissen und illegal in die Europäische Union eingeführten Tabakerzeugnissen hat das individuelle Erkennungsmerkmal die Feststellung
+
+1\. des Herstellungstags und -orts,
+
+2\. der Herstellungsstätte,
+
+3\. der Maschine, die zur Herstellung des Tabakerzeugnisses verwendet wurde,
+
+4\. der Arbeitsschicht oder der Uhrzeit der Herstellung,
+
+5\. der Produktbeschreibung,
+
+6\. des geplanten Absatzmarktes,
+
+7\. des geplanten Versandwegs,
+
+8\. gegebenenfalls desjenigen, der das Erzeugnis in die Europäische Union einführt,
+
+9\. des tatsächlichen Versandwegs von der Herstellung bis zur ersten Verkaufsstelle, einschließlich aller genutzten Lager sowie des Versanddatums, der Versandadresse, des Versandorts und des Empfängers,
+
+10\. der Identität aller Käuferinnen bzw. Käufer von der Herstellung bis zur ersten Verkaufsstelle und
+
+11\. der Rechnungs- und Bestellnummer sowie der Zahlungsbelege aller Käuferinnen bzw. Käufer von der Herstellung bis zur ersten Verkaufsstelle
+
+zu ermöglichen.
+
+(3) Zum individuellen Erkennungsmerkmal gehören die in Abs. 2 Z 1 bis 7, gegebenenfalls auch in Z 8 genannten Informationen.
+
+(4) Die in Abs. 2 Z 9 bis 11 genannten Informationen haben zur Erreichung des in Abs. 2 angeführten Zwecks durch Verknüpfung mit dem individuellen Erkennungsmerkmal elektronisch zugänglich zu sein.
+
+(5) Von den Herstellerinnen bzw. Herstellern bis zur letzten Wirtschaftsteilnehmerin bzw. zum letzten Wirtschaftsteilnehmer vor der ersten Verkaufsstelle sind zur Erreichung des in Abs. 2 angeführten Zwecks der Übergang aller Packungen in ihren Besitz, alle zwischenzeitlichen Verbringungen und die endgültige Abgabe der Packungen aus ihrem Besitz zu erfassen. Dieser Pflicht kann durch Kennzeichnung und Erfassung aggregierter Verpackungen wie Stangen, „master cases“ oder Paletten nachgekommen werden, sofern dadurch die Verfolgung und die Rückverfolgung aller Packungen möglich bleiben.
+
+(6) Alle natürlichen und juristischen Personen in der Lieferkette der Tabakerzeugnisse haben zur Erreichung des in Abs. 2 angeführten Zwecks vollständige und genaue Aufzeichnungen aller einschlägigen Transaktionen, insbesondere über den Zeitpunkt, den Ort und die Art und Weise der Herstellung, die Art, Menge, Herkunft und Beschaffenheit der Tabakerzeugnisse sowie die Namen und Anschriften aller Abnehmer in der Lieferkette, zu führen. Die erhobenen Daten sind auf die Dauer von 10 Jahren aufzubewahren und sind, soferne nicht verfahrensrechtliche Gründe nach einschlägigen materiellrechtlichen Bestimmungen dagegen sprechen, nach Ablauf dieser Frist zu löschen.
+
+(7) Alle Wirtschaftsteilnehmerinnen und –teilnehmer von der Herstellerin bzw. dem Hersteller bis zur letzten Wirtschaftsteilnehmerin bzw. zum letzten Wirtschaftsteilnehmer vor der ersten Verkaufsstelle haben die notwendige Ausrüstung zu verwenden, um die gekauften, verkauften, gelagerten oder auf andere Weise gehandhabten Tabakerzeugnisse zu erfassen. Diese Ausrüstung muss geeignet sein, die aufgezeichneten Daten elektronisch zu lesen und an einen Datenspeicher gemäß Abs. 8 zu übermitteln.
+
+(8) Die Herstellerinnen bzw. Hersteller und Importeurinnen bzw. Importeure von Tabakerzeugnissen haben mit einem unabhängigen Dritten als Auftragsverarbeiter Datenspeicherungsverträge über die Verwaltung des Speichers aller einschlägigen Daten zu schließen. Der physische Standort des Speichers hat sich in der Europäischen Union zu befinden. Dieser Dritte hat geeignet, insbesondere unabhängig und technisch leistungsfähig, zu sein. Die Eignung und der Datenspeicherungsvertrag sind von der Europäischen Kommission zuzulassen.
+
+(9) Die Tätigkeiten dieses Dritten werden von externen Prüferinnen bzw. Prüfern überwacht, welche von den Herstellerinnen bzw. Herstellern von Tabakerzeugnisse vorgeschlagen und bezahlt und von der Europäischen Kommission zugelassen werden. Die externen Prüferinnen bzw. Prüfer haben dem Bundesministerium für Finanzen und der Europäischen Kommission jährlich einen Bericht vorzulegen.
+
+(10) Der Europäischen Kommission, dem Bundesministerium für Finanzen und den externen Prüferinnen bzw. Prüfern ist der vollständige Zugang zum physischen Standort der Daten zu gewähren. In begründeten Fällen gewähren die Europäische Kommission oder die Mitgliedstaaten Herstellerinnen bzw. Herstellern und Importeurinnen bzw. Importeuren Zugriff auf diese Informationen, sofern Geschäfts- und Betriebsgeheimnisse angemessen geschützt bleiben.
+
+(11) Die erfassten Daten dürfen von keiner bzw. keinem am Handel beteiligten Wirtschaftsteilnehmerin bzw. Wirtschaftsteilnehmer verändert oder gelöscht werden.
+
+(12) Die Bundesministerin oder der Bundesminister für Finanzen hat, soweit dies nach Vorgabe eines aufgrund Art. 15 Abs. 11 oder 12 der Richtlinie 2014/40/EU erlassenen Rechtsaktes der Europäischen Union erforderlich ist, durch Verordnung
+
+1\. die technischen Standards für die Errichtung und den Betrieb der für die Verfolgung und Rückverfolgung eingesetzten Systeme einschließlich der Kennzeichnung mit einem individuellen Erkennungsmerkmal, der Aufzeichnung, Weiterleitung, Verarbeitung und Speicherung der Daten sowie des Zugangs zu gespeicherten Daten,
+
+2\. die technischen Standards, die gewährleisten sollen, dass die Systeme, die für die individuellen Erkennungsmerkmale und die damit zusammenhängenden Funktionen verwendet werden, in der gesamten Europäischen Union kompatibel sind,
+
+3\. die Kernelemente der Datenspeicherung wie insbesondere Laufzeit, Verlängerbarkeit, erforderliche Fachkenntnisse oder Vertraulichkeit, einschließlich der regelmäßigen Überwachung und Bewertung dieser Verträge,
+
+4\. die Anforderungen an die Qualifikation der gemäß Abs. 8 zu bestellenden unabhängigen Dritten und die Details hinsichtlich deren Namhaftmachung und Bestellung und
+
+5\. Details hinsichtlich der Qualifikationserfordernisse der nach Abs. 9 zuzulassenden externen Prüferinnen bzw. Prüfer sowie der Überprüfung des Vorliegens dieser Qualifikationserfordernisse
+
+festzulegen.
+
+> **Beachte:** Abs. 1 bis 11 gelten für Zigaretten und Tabak zum Selbstdrehen ab 20. Mai 2019 und für Tabakerzeugnisse außer Zigaretten und Tabak zum Selbstdrehen ab 20. Mai 2024 (vgl. § 17 Abs. 11).
+
+### § 7a – Sicherheitsmerkmal
+
+§ 7a. (1) Alle Packungen von Tabakerzeugnissen, die in Verkehr gebracht werden, haben zusätzlich zum individuellen Erkennungsmerkmal nach § 7 ein fälschungssicheres Sicherheitsmerkmal aufzuweisen. Dieses besteht aus sichtbaren und unsichtbaren Elementen, es muss unablösbar aufgedruckt oder befestigt werden und unverwischbar sein und es darf nicht verdeckt oder getrennt werden, auch nicht durch andere gesetzlich vorgeschriebene Elemente.
+
+(2) Die Bundesministerin oder der Bundesminister für Gesundheit hat im Einvernehmen mit der Bundesministerin oder dem Bundesminister für Finanzen, soweit dies nach Vorgabe eines aufgrund des Art. 16 Abs. 2 der Richtlinie 2014/40/EU erlassenen Rechtsaktes der Europäischen Union erforderlich ist, durch Verordnung technische Standards für das Sicherheitsmerkmal und dessen mögliche Wechselfolge festzulegen.
+
+> **Beachte:** Abs. 1 gilt für Zigaretten und Tabak zum Selbstdrehen ab 20. Mai 2019 und für Tabakerzeugnisse außer Zigaretten und Tabak zum Selbstdrehen ab 20. Mai 2024 (vgl. § 17 Abs. 11).
+
+### § 8 – Erhebung von verwendeten Inhaltsstoffen und Kondensat-(Teer-), Nikotin- und Kohlenmonoxidgehalt
+
+§ 8. (1) Wer als Herstellerin bzw. Hersteller oder Importeurin bzw. Importeur Tabakerzeugnisse oder verwandte Erzeugnisse im Bundesgebiet in Verkehr bringt, hat längstens bis zum 15. März jeden Kalenderjahres dem Bundesministerium für Gesundheit nach Markennamen und Art des Erzeugnisses in einer Liste aufgeschlüsselt in elektronischer Form zu übermitteln:
+
+1\. eine Liste aller bei der Herstellung der Tabakerzeugnisse und verwandten Erzeugnisse verwendeten Inhaltsstoffe und ihrer Mengen, in absteigender Reihenfolge in Bezug auf das Gewicht jedes Inhaltsstoffs der Tabakerzeugnisse bzw. verwandten Erzeugnisse,
+
+2\. die Emissionswerte gemäß der § 4b Abs. 1 und § 4c,
+
+3\. soweit verfügbar, Informationen über weitere Emissionswerte.
+
+(1a) Wird die Zusammensetzung eines Tabakerzeugnisses bzw. verwandten Erzeugnisses dergestalt verändert, dass davon die gemäß Abs. 1 bereitgestellten Informationen berührt sind, ist dies von der Herstellerin bzw. dem Hersteller oder von der Importeurin bzw. dem Importeur dem Bundesministerium für Gesundheit zu melden. Für neue oder veränderte Tabakerzeugnisse und verwandte Erzeugnisse sind die gemäß Abs. 1 vorgeschriebenen Informationen vor dem Inverkehrbringen unverzüglich in elektronischer Form zu übermitteln.
+
+(2) Werden Tabakerzeugnisse bzw. verwandte Erzeugnisse im Bundesgebiet unter Lizenz oder über Auftrag ohne Verantwortung der Herstellerin bzw. des Herstellers für die Spezifikation bezüglich der verwendeten Inhaltsstoffe hergestellt, kann die Übermittlung der Liste nach Abs. 1 durch die Lizenz- oder Auftraggeberin bzw. den Lizenz- oder Auftraggeber erfolgen. Die Herstellerin bzw. der Hersteller ist in diesem Falle nur dann von seiner Pflicht nach Abs. 1 entbunden, wenn dem Bundesministerium für Gesundheit eine schriftliche Übernahmeerklärung der Lizenz- oder Auftraggeberin bzw. des Lizenz- oder Auftraggebers zur Übernahme dieser Verpflichtung vorgelegt wird.
+
+(3) Abs. 2 gilt auch für Importeure, die nicht in den Herstellungsprozess eingebunden waren, oder die in den Herstellungsprozess im Ausland unter Lizenz oder über Auftrag ohne Verantwortung des Herstellers für die Spezifikation der verwendeten Inhaltsstoffe eingebunden waren.
+
+(4) Der Liste gemäß Abs. 1 ist eine Erklärung beizufügen, in der die Gründe für die Verwendung jedes Inhaltsstoffes erläutert werden. In dieser Erklärung sind Funktion und Kategorie des Inhaltsstoffes anzugeben. Ferner sind toxikologische und sonstige Daten beizufügen, die dem Hersteller oder Importeur über diesen Inhaltsstoff – je nachdem in verbrannter oder unverbrannter Form – vorliegen, insbesondere hinsichtlich seiner gesundheitlichen Auswirkungen und unter dem Gesichtspunkt jedweder süchtig machenden Wirkung.
+
+(4a) Zusätzlich zu den in Abs. 4 genannten Daten hat die Herstellerin bzw. der Hersteller oder die Importeurin bzw. der Importeur bei Zigaretten und Tabak zum Selbstdrehen dem Bundesministerium für Gesundheit ein technisches Dokument mit einer allgemeinen Beschreibung der verwendeten Zusatzstoffe und ihrer Eigenschaften vorzulegen.
+
+(4b) Die Herstellerin bzw. der Hersteller oder die Importeurin bzw. der Importeur haben die verwendeten Verfahren für die Messung der nicht in den §§ 4 und 4c genannten Emissionen dem Bundesministerium für Gesundheit bekanntzugeben.
+
+(4c) Auf Verlangen des Bundesministeriums für Gesundheit haben die Herstellerin bzw. der Hersteller oder die Importeurin bzw. der Importeur Studien hinsichtlich der gesundheitlichen Auswirkungen von Inhaltsstoffen, unter Berücksichtigung ihrer Toxizität und ihres Suchtpotentials, durchzuführen und vorzulegen.
+
+\*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 22/2016)*
+
+(6) Die Bundesministerin für Gesundheit, Familie und Jugend hat unter Bedachtnahme auf allfällige Geschäftsgeheimnisse der Hersteller oder Importeure durch Verordnung festzusetzen, in welchem Umfang und welcher Form die Daten gemäß Abs. 1 bis 5 zu übermitteln sind und veröffentlicht werden.
+
+(7) Das Bundesministerium für Gesundheit hat die nach Abs. 1 bis 4c übermittelten Daten und Studien
+
+1\. an die Europäische Kommission weiterzuleiten,
+
+2\. unter Wahrung der darin enthaltenen Geschäftsgeheimnisse
+
+a) für Zwecke der statistischen Auswertung und Analyse zu verwenden,
+
+b) zu veröffentlichen.
+
+(8) Die Herstellerinnen bzw. Hersteller oder die Importeurinnen bzw. Importeure haben dem Bundesministerium für Gesundheit verfügbare interne und externe Studien zu Marktforschung und zu den Präferenzen verschiedener Verbraucherinnen- und Verbrauchergruppen, einschließlich junger Menschen und aktiver Raucherinnen und Raucher, betreffend Inhaltsstoffe und Emissionen sowie kurze Zusammenfassungen der Marktstudien, die sie anlässlich der Markteinführung neuer Produkte anfertigen, vorzulegen.
+
+(9) Die Herstellerin bzw. der Hersteller oder die Importeurin bzw. der Importeur hat dem Bundesministerium für Gesundheit jährlich bis zum 31. Mai des Folgejahres die Verkaufsmengendaten je Marke und Art (in Stück und Kilogramm bzw. Milliliter) des Vorjahres zu melden.
+
+(10) Die Bundesministerin bzw. der Bundesminister für Gesundheit kann sich bei der Einrichtung und Führung der Datenbank eines Dienstleisters bedienen.
+
+### § 8a – Prioritätenliste der Zusatzstoffe und erweiterte Meldepflichten
+
+§ 8a. (1) Die Bundesministerin oder der Bundesminister für Gesundheit kann aufgrund von erwiesenen gesundheitlichen Gefahren oder, soweit dies nach Vorgabe eines aufgrund des Art. 6 Abs. 1 der Richtlinie 2014/40/EU erlassenen Rechtsaktes der Europäischen Union erforderlich ist, mit Verordnung verschärfte Meldeverpflichtungen für bestimmte Zusatzstoffe in Zigaretten und Tabak zum Selbstdrehen festlegen.
+
+(2) Ist in einer Zigarette oder in Tabak zum Selbstdrehen ein Zusatzstoff der gemäß Abs. 1 erlassenen Verordnung enthalten, ist die Herstellerin bzw. der Hersteller oder die Importeurin bzw. der Importeur verpflichtet, umfassende Studien durchzuführen, bei denen geprüft wird, ob der Zusatzstoff
+
+1\. zur Toxizität oder zum Suchtpotential der betroffenen Erzeugnisse beiträgt und ob dies bewirkt, dass die Toxizität oder das Suchtpotential in einem der betreffenden Erzeugnisse auf signifikante oder messbare Weise erhöht wird,
+
+2\. ein charakteristisches Aroma erzeugt,
+
+3\. das Inhalieren oder die Nikotinaufnahme erleichtert oder
+
+4\. zur Bildung von Stoffen führt, die CMR-Eigenschaften haben, um welche Mengen es sich dabei handelt und ob dies bewirkt, dass die CMR-Eigenschaften in den betreffenden Erzeugnissen in signifikantem oder messbarem Maße verstärkt werden.
+
+In diesen Studien sind die betreffenden Erzeugnisse unter bestimmungsgemäßer Verwendung insbesondere auf die durch den Verbrennungsprozess verursachten Emissionen zu untersuchen. Weiters sind die Wechselwirkungen des betreffenden Zusatzstoffs mit anderen enthaltenen Inhaltsstoffen zu untersuchen. Es steht den Herstellerinnen und Herstellern bzw. Importeurinnen und Importeuren frei, wenn sie denselben Zusatzstoff in vergleichbarer Produktzusammensetzung verwenden, eine gemeinsame Studie durchzuführen.
+
+(3) Über die Ergebnisse der Studien gemäß Abs. 2 haben die Herstellerinnen und Hersteller bzw. Importeurinnen und Importeure einen Bericht zu erstellen, welcher eine Zusammenfassung, einen Überblick über die verfügbare wissenschaftliche Literatur zu diesem Zusatzstoff und eine Zusammenfassung der internen Daten über die Wirkungen des Zusatzstoffs beinhaltet. Diese Berichte sind spätestens 18 Monate nach Aufnahme in die Prioritätenliste gemäß Art. 6 Abs. 1 der Richtlinie 2014/40/EU der Europäischen Kommission im Original und dem Bundesministerium für Gesundheit in Kopie vorzulegen. Sowohl die Europäische Kommission als auch das Bundesministerium für Gesundheit können zusätzliche Informationen über den betreffenden Zusatzstoff verlangen, welche dann Bestandteil des Berichts werden müssen.
+
+(4) Die Europäische Kommission sowie das Bundesministerium für Gesundheit können verlangen, dass die Berichte gemäß Abs. 3 einer vergleichenden Analyse eines unabhängigen wissenschaftlichen Gremiums, welches von der Bundesministerin bzw. vom Bundesminister für Gesundheit eingerichtet wird, insbesondere in Bezug auf ihre Vollständigkeit, ihre Methodik und ihre Schlussfolgerungen, unterzogen werden.
+
+(5) Wenn es bereits einen Bericht über einen Zusatzstoff von einer anderen Herstellerin bzw. einem anderen Hersteller oder einer anderen Importeurin bzw. einem anderen Importeur gibt, sind kleine und mittlere Unternehmen im Sinne der Empfehlung der Kommission 2003/361/EG betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen, ABl. Nr. L 124 vom 20.5.2003 S. 36 von den Verpflichtungen gemäß der Abs. 2 bis 4 befreit.
+
+(6) Alle Daten und Informationen, welche gemäß der §§ 8 und 8a gefordert sind, sind in elektronischer Form bereitzustellen. Sowohl die Europäische Kommission als auch jeder Mitgliedstaat haben für Zwecke der Anwendung der Richtlinie 2014/40/EU Zugriff auf diese Daten, wobei die Geschäftsgeheimnisse und vertrauliche Informationen vertraulich zu behandeln sind.
+
+### § 8b – Inhaltsstoffe
+
+§ 8b. (1) Das Inverkehrbringen von Tabakerzeugnissen mit charakteristischem Aroma ist verboten. Dies gilt nicht für die Verwendung von Zusatzstoffen, die für die Herstellung von Tabakerzeugnissen wesentlich sind, z. B. Zucker als Ersatz für während des Trocknungsprozesses verlorengegangenem Zucker, sofern diese Stoffe nicht zu einem Erzeugnis mit einem charakteristischen Aroma führen und das Suchtpotential, die Toxizität oder die CMR-Eigenschaften des Tabakerzeugnisses nicht auf signifikante oder messbare Weise erhöhen. Der Europäischen Kommission sind vom Bundesministerium für Gesundheit alle diesbezüglichen Maßnahmen zu melden. Die Bundesministerin bzw. der Bundesminister für Gesundheit hat die Meldungen von Verstößen entgegenzunehmen und die weiteren Maßnahmen festzulegen.
+
+(2) Das Inverkehrbringen von Tabakerzeugnissen mit folgenden Zusatzstoffen ist verboten:
+
+1\. Vitamine oder sonstige Zusatzstoffe, die den Eindruck erwecken, dass ein Tabakerzeugnis einen gesundheitlichen Nutzen hätte oder geringere Gesundheitsrisiken berge,
+
+2\. Koffein oder Taurin oder andere Zusatzstoffe und stimulierende Mischungen, die mit Energie und Vitalität assoziiert werden,
+
+3\. Zusatzstoffe mit färbenden Eigenschaften für Emissionen,
+
+4\. Zusatzstoffe, die bei Rauchtabakerzeugnissen das Inhalieren oder die Nikotinaufnahme erleichtern,
+
+5\. Zusatzstoffe, die in unverbrannter Form CMR-Eigenschaften aufweisen.
+
+(3) Wenn Zusatzstoffe in Tabakerzeugnissen in Mengen enthalten sind, welche – gestützt auf wissenschaftliche Erkenntnisse – die toxische und suchterzeugende Wirkung oder die CMR-Eigenschaften eines Tabakerzeugnisses beim Konsum um ein signifikantes oder messbares Maß erhöhen, hat das Bundesministerium für Gesundheit ein Verbot des Inverkehrbringens dieser Tabakerzeugnisse zu verfügen.
+
+(4) Das Inverkehrbringen von Tabakerzeugnissen, die in einem ihrer Bestandteile Aromastoffe enthalten oder die sonstige technische Merkmale enthalten, mit denen sich der Geruch oder Geschmack der betreffenden Tabakprodukte oder deren Rauchintensität verändern lässt, ist verboten. In Filter, Papier oder Kapseln dürfen weder Nikotin noch Tabak enthalten sein.
+
+(5) Der Europäischen Kommission sind vom Bundesministerium für Gesundheit alle Maßnahmen im Zusammenhang mit Abs. 3 zu melden.
+
+(6) Die Abs. 1 und 4 gelten nicht für Tabakprodukte mit Ausnahme von Zigaretten, Tabak zum Selbstdrehen und erhitzten Tabakerzeugnissen.
+
+(7) Die Bundesministerin oder der Bundesminister für Gesundheit kann, wenn es zum Schutz der Verbraucherinnen bzw. Verbraucher vor vermeidbaren Gesundheitsschädigungen erforderlich ist, durch Verordnung Höchstmengen
+
+– für Zusätze und Hilfsstoffe für die Herstellung von Tabakerzeugnissen,
+
+– an Rückständen von Pflanzenschutz- und Vorratsschutzmitteln in Tabakerzeugnissen und
+
+– für Geruchs- und Geschmackstoffe
+
+unter Bedachtnahme auf den jeweiligen Stand der Wissenschaft und Technologie festlegen.
+
+(8) Die Bundesministerin oder der Bundesminister für Gesundheit kann die Maßnahmen aufgrund der Vorgaben in den gemäß Art. 7 der Richtlinie 2014/40/EU erlassenen Rechtsakten in einer Verordnung festlegen.
+
+(9) Die Bundesministerin bzw. der Bundesminister für Gesundheit kann ein Beratungsgremium zur Beurteilung der Zulässigkeit von Inhaltsstoffen als Grundlage für die Erbringung eines wissenschaftlichen Nachweises dazu einrichten. Die Überwachung erfolgt durch die Bundesministerin bzw. den Bundesminister für Gesundheit und diese bzw. dieser kann sich dabei der Österreichischen Agentur für Gesundheit und Ernährungssicherheit GmbH oder einer vergleichbaren inländischen oder ausländischen Einrichtung gemäß § 10 Abs. 2 Z 2 bedienen.
+
+### § 8c – Meldung von Inhaltsstoffen pflanzlicher Raucherzeugnisse
+
+§ 8c. (1) Die Herstellerinnen bzw. Hersteller oder Importeurinnen bzw. Importeure pflanzlicher Raucherzeugnisse haben dem Bundesministerium für Gesundheit eine nach Markennamen und Art der Erzeugnisse gegliederte Liste aller Inhaltsstoffe unter Angabe der Mengen, die bei der Herstellung verwendet werden, in elektronischer Form zu übermitteln.
+
+(2) Wird die Zusammensetzung eines Erzeugnisses derart verändert, dass davon die gemäß Abs. 1 zu übermittelnden Informationen berührt sind, ist dies von den Herstellerinnen und Herstellern bzw. Importeurinnen und Importeuren dem Bundesministerium für Gesundheit unverzüglich in elektronischer Form zu melden.
+
+(3) Für neue oder veränderte pflanzliche Raucherzeugnisse sind die gemäß Abs. 1 vorgeschriebenen Informationen vor dem Inverkehrbringen in elektronischer Form zu übermitteln.
+
+(4) Das Bundesministerium für Gesundheit hat die gemäß Abs. 1 und 2 erhaltenen Daten auf der Homepage des Bundesministeriums für Gesundheit unter Wahrung der darin enthaltenen Geschäftsgeheimnisse, welche von den Herstellerinnen bzw. Herstellern oder Importeurinnen bzw. Importeuren zu bezeichnen sind, zu veröffentlichen.
+
+### § 8d – Meldung von Inhaltsstoffen tabakfreier Nikotinerzeugnisse und tabakfreier Nikotinersatzerzeugnisse
+
+§ 8d. (1) Die Herstellerinnen bzw. Hersteller oder Importeurinnen bzw. Importeure von tabakfreien Nikotinerzeugnissen oder von tabakfreien Nikotinersatzerzeugnissen haben der Bundesministerin oder dem Bundesminister für Gesundheit jegliche derartige Erzeugnisse, die sie in Verkehr zu bringen beabsichtigen zu melden. Die Meldung muss in elektronischer Form mindestens sechs Monate vor dem beabsichtigten Inverkehrbringen erfolgen. Das Produkt darf frühestens sechs Monate nach der Meldung in Verkehr gebracht werden.
+
+(2) Die Meldung gemäß Abs. 1 muss die folgenden Angaben enthalten:
+
+1\. den Namen und die Kontaktangaben der Herstellerin bzw. des Herstellers, einer verantwortlichen juristischen oder natürlichen Person in der Europäischen Union und gegebenenfalls der Importeurin bzw. des Importeurs, die bzw. der das Erzeugnis in die Europäische Union einführt, um den zuständigen Behörden die Wahrnehmung ihrer Aufsichts- und Kontrollaufgaben zu ermöglichen,
+
+2\. eine Liste aller Inhaltsstoffe, unter Angabe der Mengen, die in dem Erzeugnis enthalten sind,
+
+3\. toxikologische Daten bezüglich der Inhaltsstoffe, insbesondere unter Bezugnahme auf ihre Auswirkungen auf die Gesundheit der Verbraucherinnen und Verbraucher bei Konsum und unter Berücksichtigung insbesondere aller etwaigen suchterzeugenden Wirkungen,
+
+4\. bei nikotinhältigen Erzeugnissen Informationen über die Nikotindosis und -aufnahme bei Konsum unter normalen oder vernünftigerweise vorhersehbaren Bedingungen,
+
+5\. eine Erklärung, dass die Herstellerin bzw. der Hersteller und die Importeurin bzw. der Importeur die volle Verantwortung für die Qualität und Sicherheit des Erzeugnisses tragen, wenn es in Verkehr gebracht und unter normalen oder vernünftigerweise vorhersehbaren Bedingungen gebraucht wird.
+
+(3) Werden Inhaltsstoffe oder deren Mengen verändert, ist dies von den Herstellerinnen bzw. Herstellern oder Importeurinnen bzw. Importeuren der Bundesministerin oder dem Bundesminister für Gesundheit sechs Monate vor dem beabsichtigten Inverkehrbringen des veränderten Erzeugnisses zu melden.
+
+(4) Die Bundesministerin oder der Bundesminister für Gesundheit kann bei einer unvollständigen oder fehlerhaften Meldung gemäß Abs. 1 die fehlenden Unterlagen oder Richtigstellungen unter Setzung einer angemessenen Nachfrist verlangen.
+
+(5) Die Bundesministerin oder der Bundesminister für Gesundheit hat auf der Website des Bundesministeriums die gemäß Abs. 2 bis 4 erhaltenen Informationen zu Transparenzzwecken so zu veröffentlichen, dass Geschäftsgeheimnisse vertraulich bleiben.
+
+(6) Die Bundesministerin oder der Bundesminister für Gesundheit hat die gemäß Abs. 1 oder 3 erhaltenen Daten auf der Website des Bundesministeriums unter Wahrung der darin enthaltenen Geschäftsgeheimnisse, welche von den Herstellerinnen bzw. Herstellern oder Importeurinnen bzw. Importeuren zu bezeichnen sind, zu veröffentlichen.
+
+(7) § 10a Abs. 6a und 7 gilt.
+
+### § 9 – Kontrolle
+
+§ 9. (1) Die Bundesministerin oder der Bundesminister für Gesundheit hat die Einhaltung der §§ 4 bis 6, 8 bis 8d, 10 bis 10f und 10h bis 10i durch besonders geschulte Organe mit einschlägigen Kenntnissen der Warenkunde und der einschlägigen Rechtsvorschriften zu überwachen. Die Bundesministerin oder der Bundesminister für Gesundheit kann sich dabei der Mitwirkung der Österreichischen Agentur für Gesundheit- und Ernährungssicherheit GmbH bedienen und insbesondere Kontrollorgane aus dem Kreis der Beschäftigten der Agentur bestellen.
+
+(2) Jede Herstellerin bzw. jeder Hersteller bzw. jene natürliche oder juristische Person, welche das betreffende Produkt in Österreich in Verkehr bringt, hat der Österreichischen Agentur für Gesundheit und Ernährungssicherheit GmbH einmal pro Jahr auf Verlangen Exemplare jedes Produktes zum Zwecke der behördlichen Überprüfung zu übersenden.
+
+(3) Die Kontrollorgane sind darüber hinaus befugt, Betriebe von Herstellerinnen bzw. Herstellern oder Importeurinnen bzw. Importeuren von Tabakerzeugnissen und verwandten Erzeugnissen und sonstige Betriebe, durch die Tabakerzeugnisse und verwandte Erzeugnisse in Verkehr gebracht werden, zu besichtigen, Produktions- und Vertriebszwecken dienende Aufzeichnungen einzusehen sowie Proben von Tabakerzeugnissen und verwandten Erzeugnissen in einem zur Überprüfung erforderlichen Ausmaß zu ziehen.
+
+(4) Diese Amtshandlungen sind außer bei Gefahr im Verzug während der Betriebszeiten durchzuführen. Die Kontrollorgane haben darauf Bedacht zu nehmen, dass jede nicht unbedingt erforderliche Störung oder Behinderung des Betriebes vermieden wird.
+
+(5) Die Betriebsinhaberinnen bzw. Betriebsinhaber haben den Kontrollorganen Zutritt zum Betrieb zu gewähren und ihre Überprüfungstätigkeit zu gestatten.
+
+(6) Eine gemäß Abs. 3 entnommene Probe ist, soweit dies der Natur nach möglich ist und dadurch nicht ihre einwandfreie Beurteilung gefährdet wird, in zwei gleiche Teile zu teilen, welche amtlich zu verschließen sind. Ein Teil der Probe ist, soweit dies zur Durchführung eines ordnungsgemäßen Ermittlungsverfahrens erforderlich ist, der amtlichen Prüfung zuzuführen, der zweite Teil verbleibt zu Beweiszwecken bei der Betriebsinhaberin bzw. dem Betriebsinhaber. Der Betriebsinhaberin bzw. dem Betriebsinhaber ist eine Bestätigung über die Probenziehung auszufolgen. Diese Bestätigung ist gebührenfrei.
+
+(7) Bei Nichtübereinstimmung der Probe mit den Angaben der Herstellerin bzw. des Herstellers oder der Inverkehrbringerin bzw. des Inverkehrbringers trägt die Herstellerin bzw. der Hersteller oder die Importeurin bzw. der Importeur die Kosten.
+
+(8) Für die entnommene amtliche Probe ist auf Verlangen der bzw. des Verfügungsberechtigten eine Entschädigung vom Bund zu leisten, sofern der Wert der Probe 150 € – bezogen auf den Einstandswert der Ware – übersteigt. Die Entschädigung entfällt, wenn es auf Grund dieser Probe zu einer Bestrafung oder Verurteilung gekommen oder auf den Verfall der betreffenden Ware erkannt worden ist. Eine Entschädigung für Gegenproben ist ausgeschlossen.
+
+(8a) Mitarbeiterinnen oder Mitarbeiter des Büros für Tabakkoordination nach § 6e des Gesundheits- und Ernährungssicherheitsgesetzes, BGBl. I Nr. 63/2002, sind befugt, unter falscher Identität Produktproben insbesondere im Wege des Fernabsatzes zu erwerben, zu analysieren und ihre Nichtkonformität festzustellen.
+
+(8b) Wird bei einer Kontrolle festgestellt oder erhält die Bundesministerin oder der Bundesminister für Gesundheit sonst davon Kenntnis, dass ein Erzeugnis nach diesem Bundesgesetz eine ernste Gefahr für die menschliche Gesundheit darstellen könnte, hat sie oder er geeignete vorläufige Maßnahmen zu ergreifen. Geeignete vorläufige Maßnahmen sind befristete Inverkehrbringungsverbote sowie die Beschlagnahme. Sofern mit gelinderen Maßnahmen der Schutz der menschlichen Gesundheit nicht sichergestellt werden kann, kann der Verfall der Waren ausgesprochen werden.
+
+(9) Die Bundesministerin bzw. der Bundesminister für Gesundheit hat im Einvernehmen mit der Bundesministerin bzw. dem Bundesminister für Finanzen durch Verordnung eine kostendeckende Jahresgebühr auf Basis der Verkaufszahlen von verwandten Erzeugnissen und Tabakerzeugnissen des vorangegangen Wirtschaftsjahres unter Berücksichtigung des tatsächlichen finanziellen Aufwands für Kontrolltätigkeiten aus dem Vorjahr und des voraussichtlichen finanziellen Aufwands für Kontrolltätigkeiten angemessen und marktkonform festzulegen. Vor Erlassung einer Verordnung ist der Wirtschaftskammer Österreich Gelegenheit zur Stellungnahme zu geben. Diese Gebühr deckt die nach Maßgabe dieses Bundesgesetzes und der auf dessen Grundlage erlassenen Verordnungen zu erfüllenden Aufgaben, insbesondere hinsichtlich Meldetätigkeiten, Kontrolltätigkeiten, Datenanalyse und -bewertung, Laboruntersuchungen, Risikobewertung und Bewertung von Studien.
+
+(10) Die Jahresgebühr wird auf der Homepage der Österreichischen Agentur für Gesundheit und Ernährungssicherheit GmbH veröffentlicht. Die Evaluierung als Grundlage für die Anpassung findet erstmals mit 31. August 2018 statt und ist jährlich wiederkehrend unter Berücksichtigung des tatsächlichen finanziellen Aufwands für Kontrolltätigkeiten aus dem Vorjahr durchzuführen. Die erstmalige Errechnung der Jahresgebühr ist von den Herstellerinnen bzw. Herstellern oder Importeurinnen bzw. Importeuren aufgrund nachgewiesener Verkaufszahlen des Vorjahres zu ermitteln und an die Österreichische Agentur für Gesundheit und Ernährungssicherheit GmbH zu übermitteln.
+
+### § 10 – Amtliche Untersuchung
+
+§ 10. (1) Gemäß § 9 entnommene Proben sind, soweit dies zur Durchführung eines ordentlichen Ermittlungsverfahrens erforderlich ist, insbesondere darauf zu untersuchen, ob
+
+1\. sie den §§ 4 und 4a und den auf ihrer Grundlage erlassenen Verordnungen entsprechen,
+
+2\. bei der Herstellung der gemäß § 4b erlassenen Verordnung entsprochen wurde,
+
+3\. den Anforderungen der §§ 8a bis 8d, 10a bis 10f und 10h bis 10i entsprochen wurde, und
+
+4\. die Packungen der Tabakerzeugnisse und verwandten Erzeugnisse den Anforderungen der §§ 5 bis 6, 10c, 10f und 10h bis 10i entsprechen.
+
+(2) Das Bundesministerium für Gesundheit hat mit der Begutachtung und Untersuchung von Tabakerzeugnissen und verwandten Erzeugnissen gemäß Abs. 1
+
+1\. die Agentur für Gesundheit und Ernährungssicherheit GmbH, oder
+
+2\. vergleichbare inländische oder ausländische Einrichtungen, die jene Anforderungen erfüllen, die der ISO 17025:2005 entsprechen,
+
+zu beauftragen.
+
+(3) Keine der in Abs. 2 genannten Einrichtungen darf im Besitz oder unter direkter oder indirekter Kontrolle der Tabakindustrie stehen.
+
+### § 10a – Meldung neuartiger Tabakerzeugnisse
+
+§ 10a. (1) Die Herstellerinnen bzw. Hersteller oder Importeurinnen bzw. Importeure von neuartigen Tabakerzeugnissen haben der Bundesministerin oder dem Bundesminister für Gesundheit alle neuartigen Tabakerzeugnisse, die sie in Verkehr zu bringen beabsichtigen, zu melden. Die Meldung muss in elektronischer Form mindestens sechs Monate vor dem beabsichtigten Inverkehrbringen erfolgen und eine detaillierte Beschreibung des gemeldeten neuartigen Tabakerzeugnisses sowie eine Gebrauchsanweisung dafür und Informationen über Inhaltsstoffe und Emissionen gemäß § 8 enthalten. Das Produkt darf frühestens sechs Monate nach der Meldung in Verkehr gebracht werden.
+
+(2) Die Meldepflichtigen gemäß Abs. 1 haben der Bundesministerin oder dem Bundesminister für Gesundheit außerdem Folgendes elektronisch bereitzustellen:
+
+1\. verfügbare wissenschaftliche Studien zu Toxizität, Suchtpotenzial und Attraktivität des neuartigen Tabakerzeugnisses, insbesondere was seine Inhaltsstoffe und Emissionen anbelangt,
+
+2\. verfügbare Studien, Zusammenfassungen davon und Marktforschung zu den Präferenzen verschiedener Verbrauchergruppen, einschließlich junger Menschen und derzeitiger Raucher,
+
+3\. sonstige verfügbare und sachdienliche Informationen, darunter eine Risiko-Nutzen-Analyse des Produkts, dessen erwartete Auswirkungen auf den Ausstieg und den Einstieg in den Tabakkonsum sowie erwartete Verbraucherwahrnehmungen.
+
+(3) Der Bundesministerin oder dem Bundesminister für Gesundheit sind neue oder aktualisierte Informationen gemäß Abs. 2 Z 1 bis 3 elektronisch zu übermitteln.
+
+(4) Die Bundesministerin oder der Bundesminister für Gesundheit kann bei einer unvollständigen oder fehlerhaften Meldung gemäß Abs. 1 die fehlenden Unterlagen oder Richtigstellungen unter Setzung einer angemessenen Nachfrist verlangen.
+
+(5) Die Bundesministerin oder der Bundesminister für Gesundheit hat der Europäischen Kommission alle gemäß Abs. 1 bis 4 erhaltenen Informationen elektronisch zur Verfügung zu stellen.
+
+(6) Neuartige Tabakerzeugnisse, die in Verkehr gebracht werden, müssen den Anforderungen dieses Bundesgesetzes genügen. Welche Bestimmungen dieses Bundesgesetzes auf neuartige Tabakerzeugnisse anwendbar sind, richtet sich danach, ob diese Erzeugnisse unter die Definition der rauchlosen Tabakerzeugnisse oder der Rauchtabakerzeugnisse fallen.
+
+(6a) Der Bundesministerin oder dem Bundesminister für Gesundheit sind jährlich spätestens bis zum 31. Mai des Folgejahres von den Herstellerinnen bzw. Herstellern und Importeurinnen bzw. Importeuren von neuartigen Tabakerzeugnissen folgende Informationen vorzulegen:
+
+1\. umfassende Daten über die Verkaufsmengen, aufgeschlüsselt nach Markennamen und Art des Erzeugnisses,
+
+2\. Informationen über die Präferenzen verschiedener Verbraucherinnen- bzw. Verbrauchergruppen, einschließlich junger Menschen, Nichtraucher bzw. Nichtraucherinnen und der wichtigsten Kategorien derzeitiger Nutzerinnen bzw. Nutzer,
+
+3\. Zusammenfassungen aller diesbezüglich durchgeführten Marktstudien, einschließlich einer englischen Übersetzung.
+
+(7) Die Kosten der Meldung sind von den Meldepflichtigen zu tragen. Die Bundesministerin oder der Bundesminister für Gesundheit hat im Einvernehmen mit dem Bundesminister für Finanzen durch Verordnung nähere Bestimmungen hinsichtlich der kostendeckenden Gebühren für das Meldeverfahren zu erlassen.
+
+### § 10b – Inverkehrbringen elektronischer Zigaretten
+
+§ 10b. (1) Die Bestimmungen für elektronische Zigaretten und deren Nachfüllbehälter im Sinne dieses Bundesgesetzes beziehen sich nicht auf jene Produkte, die einer Genehmigungspflicht gemäß der Richtlinie 2001/83/EG zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel, ABl. Nr. L 311 vom 28.11.2001 S. 67 oder den Anforderungen der Richtlinie 93/42/EWG über Medizinprodukte, ABl. Nr. L 169 vom 12.07.1993 S. 1, zuletzt geändert durch die Richtlinie 2007/47/EG, ABl. Nr. L 247 vom 21.09.2007 S. 21 unterliegen.
+
+(2) Die Herstellerinnen bzw. Hersteller und Importeurinnen bzw. Importeure von elektronischen Zigaretten und Nachfüllbehältern haben dem Bundesministerium für Gesundheit jegliche derartige Erzeugnisse, die sie in Verkehr zu bringen beabsichtigen, zu melden. Die Meldung muss in elektronischer Form mindestens sechs Monate vor dem beabsichtigten Inverkehrbringen erfolgen. Bei elektronischen Zigaretten und Nachfüllbehältern, die bei Inkrafttreten dieser Bestimmung bereits in Verkehr sind, muss die Meldung innerhalb von sechs Monaten ab diesem Zeitpunkt erfolgen. Jede wesentliche Änderung eines Erzeugnisses muss vor dem Inverkehrbringen des veränderten Produktes gemeldet werden. Das Produkt darf frühestens sechs Monate nach der Meldung in Verkehr gebracht werden.
+
+(3) Je nachdem, ob es sich bei dem Erzeugnis um eine elektronische Zigarette oder einen Nachfüllbehälter handelt, muss die Meldung die folgenden Angaben enthalten:
+
+1\. den Namen und die Kontaktangaben der Herstellerin bzw. des Herstellers, einer verantwortlichen juristischen oder natürlichen Person in der Europäischen Union und gegebenenfalls der Importeurin bzw. des Importeurs, die bzw. der das Erzeugnis in die Europäische Union einführt, um den zuständigen Behörden die Wahrnehmung ihrer Aufsichts- und Kontrollaufgaben zu ermöglichen,
+
+2\. eine Liste aller Inhaltsstoffe, die in dem Erzeugnis enthalten sind, und aller Emissionen, die durch den Gebrauch des Erzeugnisses verursacht werden, nach Markennamen und Art, einschließlich der jeweiligen Mengen,
+
+3\. toxikologische Daten bezüglich der Inhaltsstoffe und Emissionen des Erzeugnisses, einschließlich jener, die beim Erhitzen entstehen, insbesondere unter Bezugnahme auf ihre Auswirkungen auf die Gesundheit der Verbraucherinnen und Verbraucher bei Inhalieren und unter Berücksichtigung insbesondere aller etwaigen suchterzeugenden Wirkungen,
+
+4\. bei nikotinhältigen Erzeugnissen Informationen über die Nikotindosis und -aufnahme bei Konsum unter normalen oder vernünftigerweise vorhersehbaren Bedingungen,
+
+5\. eine Beschreibung der Bestandteile des Erzeugnisses, gegebenenfalls einschließlich der Öffnungs- und Nachfüllmechanismen der elektronischen Zigarette oder der Nachfüllbehälter,
+
+6\. eine Beschreibung des Herstellungsverfahrens einschließlich der Information, ob dies eine Serienherstellung beinhaltet, und eine Erklärung, dass die Einhaltung der Anforderungen der §§ 10b bis 10d durch das Herstellungsverfahren gewährleistet ist,
+
+7\. eine Erklärung, dass die Herstellerin bzw. der Hersteller und die Importeurin bzw. der Importeur die volle Verantwortung für die Qualität und Sicherheit des Erzeugnisses tragen, wenn es in Verkehr gebracht und unter normalen oder vernünftigerweise vorhersehbaren Bedingungen gebraucht wird.
+
+(4) Das Bundesministerium für Gesundheit kann – wenn es der Auffassung ist, dass die Informationen unvollständig sind – zusätzliche Angaben zur Vervollständigung der betreffenden Informationen verlangen.
+
+(5) Das Bundesministerium für Gesundheit hat auf seiner Homepage die gemäß der Abs. 2 bis 4 erhaltenen Informationen zu Transparenzzwecken so zu veröffentlichen, dass Geschäftsgeheimnisse vertraulich bleiben.
+
+(6) Auf Antrag der Europäischen Kommission und auch anderer Mitgliedstaaten der Europäischen Union hat das Bundesministerium für Gesundheit dieser bzw. diesen alle erhaltenen Informationen – unter Wahrung von Betriebs- und Geschäftsgeheimnissen – zur Verfügung zu stellen.
+
+(7) Für elektronische Zigaretten gilt, dass
+
+1\. nikotinhaltige Liquids nur in eigens dafür vorgesehenen Nachfüllbehältern mit einem Volumen von höchstens 10 ml oder in Einwegkartuschen in Verkehr gebracht werden dürfen, wobei die Kartuschen oder Tanks ein Volumen von höchstens 2 ml haben dürfen,
+
+\*(Anm.: 1a.)* nicht nikotinhaltige Liquids nur in eigens dafür vorgesehenen Nachfüllbehältern mit einem Volumen von höchstens 10ml, oder in eigens dafür vorgesehenen Nachfüllbehältern mit einem Volumen von höchstens 120 ml Volumen und 10 ml vorgefülltem Liquid, oder in Einwegkartuschen in Verkehr gebacht werden dürfen, wobei die Kartuschen oder Tanks ein Volumen von höchstens 2 ml haben dürfen,
+
+\*(Anm.: 1b.)* Nachfüllbehälter für Basisstoffe für die Herstellung von Liquids, die üblicherweise auch zu anderen Zwecken als solche Basisstoffe eingesetzt werden, (insbesondere Propylenglykol oder Glyzerin – Propan–1,2,3–triol) von den Bestimmungen des § 10b Abs. 7 Z 1a ausgenommen sind,
+
+2\. nikotinhältige Liquids einen Nikotingehalt von höchstens 20 mg/ml aufweisen dürfen,
+
+3\. Liquids keinen der in § 8b Abs. 2 oder 3 angeführten Zusatzstoffe enthalten dürfen,
+
+4\. bei der Herstellung der Liquids nur Inhaltsstoffe von hoher Reinheit verwendet werden dürfen. Andere Stoffe als die in der Liste gemäß Abs. 3 Z 2 genannten Inhaltsstoffe dürfen in der Flüssigkeit nur in Spuren vorhanden sein, wenn ihr Vorhandensein während der Herstellung technisch unvermeidbar ist,
+
+5\. außer Nikotin bei nikotinhältigen Liquids nur Inhaltsstoffe verwendet werden dürfen, die in erhitzter oder nicht erhitzter Form kein Risiko für die menschliche Gesundheit darstellen,
+
+6\. die elektronischen Zigaretten Nikotindosen auf einem gleichmäßigen Niveau unter normalen Gebrauchsbedingungen abzugeben haben,
+
+7\. die elektronischen Zigaretten und Nachfüllbehälter kinder- und manipulationssicher sowie bruch- und auslaufsicher zu sein haben und über einen Mechanismus für eine auslauffreie Nachfüllung verfügen müssen.
+
+(8) Nachfüllbare elektronische Zigaretten und Nachfüllbehälter dürfen nur in Verkehr gebracht werden, wenn sie einen Mechanismus für das Nachfüllen der elektronischen Zigarette aufweisen, der
+
+1\. über einen sicher befestigten Ausgießer von mindestens 9 mm Länge verfügt, welcher dünner ist als die Öffnung des Tanks der elektronischen Zigarette, für die er verwendet wird, und bequem dort hineinpasst, und der über einen Durchflussbegrenzungsmechanismus verfügt, welcher in senkrechter Stellung und bei atmosphärischem Druck bei 20 °C ± 5 °C höchstens 20 Tropfen Nachfüllflüssigkeit pro Minute abgibt, oder
+
+2\. über ein Andocksystem verfügt, das nur dann Nachfüllflüssigkeit in die elektronische Zigarette abgibt, wenn die elektronische Zigarette und der Nachfüllbehälter miteinander verbunden sind.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 18 Abs. 18
+
+### § 10c – Details zur Verpackung elektronischer Zigaretten
+
+§ 10c. (1) Packungen mit elektronischen Zigaretten und Nachfüllbehältern ist ein Beipackzettel in deutscher Sprache mit folgenden Informationen beizulegen:
+
+1\. Gebrauchs- und Aufbewahrungsanweisungen für das Produkt, einschließlich eines Hinweises, dass das Erzeugnis nicht für den Gebrauch durch Kinder, Jugendliche und Nichtraucherinnen und Nichtraucher empfohlen wird. Die Gebrauchsanweisungen müssen geeignete Nachfüllanweisungen und Diagramme umfassen. Bei nachfüllbaren elektronischen Zigaretten und bei Nachfüllbehältern mit einem Nachfüllmechanismus gemäß § 10b Abs. 8 Z 1 ist die Breite des Ausgießers oder der Tanköffnung in den Gebrauchsanweisungen so anzugeben, dass die Verbraucher und Verbraucherinnen feststellen können, ob Nachfüllbehälter und elektronische Zigarette miteinander kompatibel sind. Bei nachfüllbaren elektronischen Zigaretten und bei Nachfüllbehältern mit einem Nachfüllmechanismus gemäß § 10b Abs. 8 Z 2 ist in den Gebrauchsanweisungen anzugeben, welche Andocksysteme mit diesen elektronischen Zigaretten und diesen Nachfüllbehältern kompatibel sind,
+
+2\. Gegenanzeigen,
+
+3\. Warnungen für spezielle Risikogruppen,
+
+4\. mögliche schädliche Auswirkungen,
+
+5\. Suchtpotenzial und Toxizität und
+
+6\. Kontaktangaben der Herstellerin bzw. des Herstellers oder der Importeurin bzw. des Importeurs und einer juristischen oder natürlichen Kontaktperson in der Union.
+
+(2) Jede Packung und jede Außenverpackung von elektronischen Zigaretten und Nachfüllbehältern
+
+1\. hat eine Liste sämtlicher Inhaltsstoffe des Erzeugnisses in absteigender Rangfolge ihres Gewichts, die Nummer der Herstellungscharge und die Empfehlung, dass das Erzeugnis nicht in die Hände von Kindern gelangen darf, sowie bei nikotinhältigen Produkten auch die Angabe des Nikotingehalts des Erzeugnisses und der Nikotinabgabe pro Dosis zu enthalten,
+
+2\. darf unbeschadet Z 1 keine der in § 5d genannten Elemente oder Merkmale enthalten, mit Ausnahme der Informationen über den Nikotingehalt und die Aromastoffe gemäß § 5d Abs. 1 Z 1 und 3,
+
+3\. hat bei nikotinhältigen Erzeugnissen den folgenden gesundheitsbezogenen Warnhinweis zu enthalten:
+
+„Dieses Produkt enthält Nikotin: einen Stoff, der sehr stark abhängig macht. Es wird nicht für den Gebrauch durch Nichtraucher empfohlen.“ und
+
+4\. hat bei nikotinfreien Erzeugnissen den folgenden gesundheitsbezogenen Warnhinweis zu enthalten:
+
+„Der Gebrauch dieses Produktes kann gesundheitliche Schäden verursachen.“
+
+(3) Der gesundheitsbezogene Warnhinweis ist auf die vordere und hintere äußere Fläche der Packung und auf jede Außenverpackung zu drucken.
+
+(4) Der gesundheitsbezogene Warnhinweis muss den Anforderungen des § 5c Abs. 2 entsprechen. Er hat 30 % der entsprechenden Fläche der Packung und der Außenverpackung einzunehmen.
+
+(5) Es ist verboten, Packungen und Außenverpackungen zu verwenden, die den Eindruck eines wirtschaftlichen Vorteils erwecken (z. B. durch aufgedruckte Gutscheine, Ermäßigungen, 2-für-1-Angebote, kostenlose Abgabe).
+
+> **Beachte:** zum Bezugszeitraum vgl. § 18 Abs. 18
+
+### § 10d – Kontrollen und Maßnahmen bei elektronischen Zigaretten
+
+§ 10d. (1) Dem Bundesministerium für Gesundheit sind jährlich spätestens bis zum 31. Mai des Folgejahres von den Herstellerinnen und Herstellern bzw. Importeurinnen und Importeuren von elektronischen Zigaretten und Nachfüllbehältern folgende Informationen vorzulegen:
+
+1\. umfassende Daten über die Verkaufsmengen, aufgeschlüsselt nach Markennamen und Art des Erzeugnisses,
+
+2\. Informationen über die Präferenzen verschiedener Verbraucherinnen- bzw. Verbrauchergruppen, einschließlich Jugendlicher, Nichtraucherinnen bzw. Nichtraucher und der wichtigsten Kategorien derzeitiger Nutzerinnen bzw. Nutzer,
+
+3\. Informationen über die Art des Verkaufs der Erzeugnisse,
+
+4\. Zusammenfassungen aller diesbezüglich durchgeführten Marktstudien, einschließlich einer englischen Übersetzung.
+
+(2) Stellt die Bundesministerin bzw. der Bundesminister für Gesundheit fest, dass bestimmte elektronische Zigaretten und Nachfüllbehälter eine ernsthafte Gefahr für die menschliche Gesundheit darstellen könnten, hat die Bundesministerin bzw. der Bundesminister für Gesundheit geeignete vorläufige Maßnahmen zu ergreifen. Geeignete vorläufige Maßnahmen sind befristete Inverkehrbringungsverbote sowie die Beschlagnahme. Sofern mit gelinderen Maßnahmen der Schutz der menschlichen Gesundheit nicht sichergestellt werden kann, kann der Verfall der Waren ausgesprochen werden. Sowohl die Europäische Kommission als auch die anderen Mitgliedstaaten der Europäischen Union sind im Falle von nikotinhältigen Produkten unverzüglich über die ergriffenen Maßnahmen vom Bundesministerium für Gesundheit zu unterrichten. Werden dem Bundesministerium für Gesundheit von der Europäischen Kommission deren Schlussfolgerungen übermittelt, so sind geeignete Folgemaßnahmen zu treffen.
+
+(3) Die Herstellerinnen bzw. Hersteller, Importeurinnen bzw. Importeure und Vertreiberinnen bzw. Vertreiber von elektronischen Zigaretten und Nachfüllbehältern haben ein System zur Erhebung von Informationen über alle vermuteten schädlichen Auswirkungen dieser Erzeugnisse auf die menschliche Gesundheit einzurichten und zu erhalten. Dem Bundesministerium für Gesundheit und der Österreichischen Agentur für Gesundheit und Ernährungssicherheit GmbH ist der Zugang zu diesem System zu gewähren.
+
+(4) Falls eine Herstellerin bzw. ein Hersteller oder die Importeurin bzw. der Importeur der Ansicht ist oder den Grund zur Annahme hat, dass elektronische Zigaretten oder Nachfüllbehälter, die sich in ihrem bzw. seinem Besitz befinden und in Verkehr gebracht werden sollen oder werden, Sicherheits- oder Qualitätsmängel aufweisen oder auf andere Weise nicht diesem Gesetz oder einer auf seiner Grundlage erlassenen Verordnung entsprechen, so hat diese Akteurin bzw. dieser Akteur unverzüglich die erforderlichen Abhilfemaßnahmen zu ergreifen, um das betreffende Erzeugnis in Einklang mit den dafür maßgebenden gesetzlichen Bestimmungen zu bringen oder es gegebenenfalls unter Anwendung der einschlägigen Bestimmungen des Produktsicherheitsgesetzes 2004 (PSG 2004), BGBl. I Nr. 1/2005, und der Verordnung (EG) Nr. 765/2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93, ABl. L Nr. 218 vom 13.08.2008 S. 30 vom Markt zu nehmen oder von den Konsumentinnen bzw. Konsumenten zurückzurufen. In letzterem Fall hat die Akteurin bzw. der Akteur unverzüglich die zuständigen Behörden in jenen Mitgliedstaaten, in denen das Erzeugnis in Verkehr gebracht wurde bzw. werden soll, zu unterrichten und Einzelheiten über die Risiken für die menschliche Gesundheit und Sicherheit sowie über etwaige ergriffene Abhilfemaßnahmen und über die Ergebnisse dieser Abhilfemaßnahmen mitzuteilen.
+
+(5) Über die Beschlagnahme hat das Kontrollorgan des Bundesministeriums für Gesundheit der bzw. dem bisher Verfügungsberechtigten eine Bescheinigung auszuhändigen, in welcher der Ort der Lagerung sowie Art und Menge der beschlagnahmten Waren anzugeben ist.
+
+(6) Im Fall der Beschlagnahme hat das Kontrollorgan das Bundesministerium für Gesundheit unverzüglich zu informieren.
+
+(7) Das Verfügungsrecht über die beschlagnahmte Ware steht dem Bundesministerium für Gesundheit zu.
+
+(8) Die beschlagnahmten Waren sind im Betrieb zu belassen. Sie sind so zu versiegeln oder zu kennzeichnen, dass eine Veränderung ohne Verletzung der Behältnisse, der Verpackung oder der Kennzeichnung nicht möglich ist. Die bzw. der über die Waren bisher Verfügungsberechtigte ist vom Bundesministerium für Gesundheit schriftlich auf die strafrechtlichen Folgen der Verbringung oder Veränderung der beschlagnahmten Waren sowie der Verletzung des Dienstsiegels aufmerksam zu machen.
+
+(9) Die Verwahrung zum Schutz der im Betrieb belassenen Waren vor Schäden obliegt der bzw. dem bisher Verfügungsberechtigten. Sind hierzu besondere Maßnahmen erforderlich, so hat sie bzw. er das Bundesministerium für Gesundheit im Vorhinein zu verständigen. Das Bundesministerium für Gesundheit hat auf Kosten der bzw. des Betroffenen erforderlichenfalls Anordnungen hinsichtlich des Verbringens, der Lagerung, Versiegelung oder Kennzeichnung zu treffen.
+
+(10) Während der Beschlagnahme dürfen Proben der Waren nur über Auftrag des Bundesministeriums für Gesundheit entnommen werden.
+
+### § 10e – Verfall und Kostenersatz
+
+§ 10e. (1) Das Bundesministerium für Gesundheit hat die beschlagnahmte Ware als Sicherungsmaßnahme für verfallen zu erklären, wenn davon eine ernstliche und erhebliche Gefährdung für Mensch oder Tier ausgeht und die bzw. der Verfügungsberechtigte nicht gewährleistet, dass die Ware nach deren Freigabe nicht in Verkehr gebracht wird.
+
+(2) Vor der Verwertung der für verfallen erklärten Waren hat das Bundesministerium für Gesundheit der bzw. dem Beschuldigten und der durch den Verfall betroffenen Person Gelegenheit zur Äußerung zu geben.
+
+(3) Die verfallenen Waren sind nutzbringend zu verwerten oder auf Kosten der bzw. des Beschuldigten oder der vom Verfall betroffenen Person zu vernichten, wenn eine nutzbringende Verwertung nicht möglich ist oder die Verwertung der Ware nicht erwarten lässt, dass der erzielbare Erlös die Verwertungskosten übersteigen wird. Die Vernichtung der verfallenen Waren hat durch die Beschuldigte bzw. dem Beschuldigten oder durch die vom Verfall betroffene Person auf ihre Kosten unter Aufsicht des Bundesministeriums für Gesundheit zu erfolgen.
+
+(4) Der Erlös der Verwertung ist nach Abzug der damit verbundenen Auslagen und der allfälligen uneinbringlichen Kosten des Strafverfahrens sowie auf der Sache allenfalls lastenden öffentlichen Verbindlichkeiten an die Österreichische Agentur für Gesundheit und Ernährungssicherheit GmbH abzuführen.
+
+(5) Für die entnommene amtliche Probe ist auf Verlangen der bzw. des Verfügungsberechtigten eine Entschädigung vom Bund zu leisten, sofern der Wert der Probe 150 € – bezogen auf den Einstandswert der Ware – übersteigt. Die Entschädigung entfällt, wenn es aufgrund dieser Probe zu einer Bestrafung oder Verurteilung gekommen ist oder die betreffenden Waren für verfallen erklärt wurden. Eine Entschädigung für Gegenproben ist ausgeschlossen.
+
+### § 10f – Pflanzliche Raucherzeugnisse
+
+§ 10f. (1) Jede Packung und jede Außenverpackung von pflanzlichen Raucherzeugnissen haben den folgenden gesundheitsbezogenen Warnhinweis zu tragen:
+
+„Das Rauchen dieses Produkts schädigt Ihre Gesundheit.“
+
+(2) Der gesundheitsbezogene Warnhinweis ist auf die vordere und hintere äußere Fläche der Packung und auf jede Außenverpackung zu drucken.
+
+(3) Der gesundheitsbezogene Warnhinweis muss den Anforderungen des § 5 Abs. 7 entsprechen. Er hat 30 % der entsprechenden Fläche der Packung und der Außenverpackung einzunehmen.
+
+(4) Packungen und Außenverpackungen von pflanzlichen Raucherzeugnissen dürfen keines der Elemente oder Merkmale gemäß § 5d Abs. 1 Z 1, 2 und 4 aufweisen, und es darf nicht angegeben sein, dass das Erzeugnis frei von Zusatz- oder Aromastoffen ist.
+
+(5) Es ist verboten, Packungen und Außenverpackungen zu verwenden, die den Eindruck eines wirtschaftlichen Vorteils erwecken (z. B. durch aufgedruckte Gutscheine, Ermäßigungen, 2-für-1-Angebote, kostenlose Abgabe).
+
+### § 10g – Gebühren
+
+§ 10g. Gebühren gemäß der §§ 9 Abs. 9 und 10a Abs. 7 fließen der Österreichischen Agentur für Gesundheit und Ernährungssicherheit GmbH zu.
+
+### § 10h – Tabakfreie Nikotinerzeugnisse
+
+§ 10h. (1) Jedes tabakfreie Nikotinerzeugnis muss in einer Packung in Verkehr gebracht werden.
+
+(2) Jede Packung und jede Außenverpackung hat den gesundheitsbezogenen Warnhinweis „Dieses Produkt enthält Nikotin, einen Stoff, der sehr stark abhängig macht. Es wird nicht für den Gebrauch durch Nichtraucher empfohlen.“ und die Informationsbotschaft „Dieses Produkt ist nicht zum Konsum für Kinder und Jugendliche bestimmt.“ zu enthalten.
+
+(3) Der gesundheitsbezogene Warnhinweis und die Informationsbotschaft sind an der Seite oder am Boden jeder Packung und Außenverpackung unablösbar anzubringen und müssen klar und deutlich sichtbar sein.
+
+(4) Jede Packung und jede Außenverpackung hat
+
+1\. eine Liste sämtlicher Inhaltsstoffe des Erzeugnisses in absteigender Rangfolge ihres Gewichts, wobei jedoch Inhaltsstoffe mit einem Anteil von mehr als 0,1 % der fertigen Formulierung auf jeden Fall anzugeben sind,
+
+2\. das Gewicht der einzelnen Konsumeinheit,
+
+3\. die Angabe des Nikotingehalts in Milligramm pro Gramm einer Konsumeinheit,
+
+4\. die Nummer der Herstellungscharge und
+
+5\. Kontaktinformationen der Herstellerin bzw. des Herstellers,
+
+zu enthalten.
+
+(5) Die Packung und die Außenverpackung von tabakfreien Nikotinerzeugnissen dürfen keine der in § 5d genannten Elemente oder Merkmale enthalten, wobei entgegen § 5d Abs. 1 Z 1 Informationen zum Nikotingehalt gemäß Abs. 4 Z 3 anzugeben sind.
+
+(6) Aromastoffe dürfen nur in der Liste der Inhaltsstoffe angegeben werden.
+
+(7) Tabakfreie Nikotinerzeugnisse dürfen eine Gesamtmasse von 1,6 Gramm pro Konsumeinheit nicht überschreiten und maximal 16,6 Milligramm Nikotin pro Gramm enthalten.
+
+(8) Das Inverkehrbringen von tabakfreien Nikotinerzeugnissen, welche die in § 8b Abs. 2 Z 5 angeführten Zusatzstoffe enthalten, ist verboten.
+
+### § 10i – Tabakfreie Nikotinersatzerzeugnisse
+
+§ 10i. (1) Jedes tabakfreie Nikotinersatzerzeugnis muss in einer Packung in Verkehr gebracht werden.
+
+(2) Jede Packung und jede Außenverpackung hat den gesundheitsbezogenen Warnhinweis „Der Gebrauch dieses Produktes kann gesundheitliche Schäden verursachen.“ und die Informationsbotschaft „Dieses Produkt ist nicht zum Konsum für Kinder und Jugendliche bestimmt.“ zu enthalten.
+
+(3) Der gesundheitsbezogene Warnhinweis und die Informationsbotschaft sind an der Seite oder am Boden jeder Packung und Außenverpackung unablösbar anzubringen und müssen klar und deutlich sichtbar sein.
+
+(4) Jede Packung und jede Außenverpackung hat
+
+1\. eine Liste sämtlicher Inhaltsstoffe des Erzeugnisses in absteigender Rangfolge ihres Gewichts, wobei jedoch Inhaltsstoffe mit einem Anteil von mehr als 0,1 % der fertigen Formulierung auf jeden Fall anzugeben sind,
+
+2\. das Gewicht der einzelnen Konsumeinheit,
+
+3\. die Nummer der Herstellungscharge und
+
+4\. Kontaktinformationen der Herstellerin bzw. des Herstellers,
+
+zu enthalten.
+
+(5) Die Packung und die Außenverpackung von tabakfreien Nikotinersatzerzeugnissen dürfen keine der in § 5d genannten Elemente oder Merkmale enthalten.
+
+(6) Aromastoffe dürfen nur in der Liste der Inhaltsstoffe angegeben werden.
+
+### § 11 – Werbung und Sponsoring
+
+§ 11. (1) Werbung und Sponsoring für Tabakerzeugnisse und verwandte Erzeugnisse sind verboten.
+
+(2) Das Werbeverbot umfasst dabei insbesondere Werbung in Diensten der Informationsgesellschaft, in der Presse oder anderen gedruckten Veröffentlichungen mit dem Ziel der direkten oder indirekten Verkaufsförderung; davon nicht erfasst ist der allgemeine Geschäftsverkehr.
+
+(3) Vom Werbeverbot umfasst sind auch die Werbung im öffentlichen und privaten Hörfunk mit dem Ziel oder der direkten oder indirekten Wirkung, den Verkauf zu fördern sowie jene Werbung, die in den Anwendungsbereich der Richtlinie 2010/13/EU zur Koordinierung bestimmter Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Bereitstellung audiovisueller Mediendienste (Richtlinie über audiovisuelle Mediendienste), ABl. Nr. L 95 vom 15.04.2010 S. 1, in der Fassung der Berichtigung ABl. Nr. L 263 vom 06.10.2010 S. 15 fällt.
+
+(4) Ausgenommen vom Verbot der Abs. 1 und 2 sind
+
+1\. Mitteilungen, die ausschließlich für im Tabakhandel bzw. im Bereich des Handels mit verwandten Erzeugnissen wie z. B. elektronischen Zigaretten und/oder Nachfüllbehältern tätige Personen bestimmt und ausschließlich diesen zugänglich sind;
+
+2\. Presse und andere gedruckte Veröffentlichungen, die in Drittländern gedruckt und herausgegeben werden, sofern diese Veröffentlichungen nicht hauptsächlich für den Markt der Europäischen Union bestimmt sind;
+
+3\. die Darbietung der zum Verkauf angebotenen Tabakerzeugnisse und verwandten Erzeugnisse sowie Preisangaben für diese Tabakerzeugnisse und verwandte Erzeugnisse an allen zum Verkauf von Tabakerzeugnissen oder verwandten Erzeugnissen befugten Stellen;
+
+4\. Werbung durch Tabaktrafikantinnen und Tabaktrafikanten für Tabakerzeugnisse gemäß § 39 Abs. 1 Tabakmonopolgesetz, BGBl. Nr. 830/1995, sowie Werbung für verwandte Erzeugnisse nach § 1 Z 1e in Trafiken und im darauf spezialisierten Fachhandel.
+
+(5) 1. Werbung für Tabakerzeugnisse gemäß Abs. 4 Z 4 ist mit deutlich lesbarem textlichen Warnhinweis gemäß § 5 Abs. 1 oder 2 bei Rauchtabakerzeugnissen und gemäß § 5c Abs. 1 bei rauchlosen Tabakerzeugnissen in schwarzer Schrift und auf weißem Hintergrund in Gesamtgröße von 10 % des jeweiligen Werbemittels zu versehen, der die Gesundheitsschädlichkeit des Tabakkonsums zu beinhalten hat.
+
+(6) Die Ausnahme gemäß Abs. 4 Z 4 gilt nicht hinsichtlich der Werbung für:
+
+1\. filterlose Zigaretten;
+
+2\. Tabakerzeugnisse unter Verwendung von Aussagen, Aufmachungen oder Darstellungen, durch die der Eindruck hervorgerufen wird, dass der Genuss von Tabakerzeugnissen gesundheitlich unbedenklich sei;
+
+3\. Tabakerzeugnisse unter Verwendung von Aussagen oder Darstellungen, die sich speziell an die Zielgruppe der Jugendlichen richten;
+
+4\. Tabakerzeugnisse durch Darstellung von rauchenden oder zum Rauchen auffordernde Personen, deren Alter unter dem 30. Lebensjahr liegt oder die vom Verbraucher für jünger als 30 Jahre gehalten werden können, sowie durch Darstellung von Leistungssportlerinnen bzw. Leistungssportlern und durch Darstellung oder Nennung von Prominenten jeweils auch in gezeichneter oder karikierter Form sowie durch Wiedergabe von deren Äußerungen über das Rauchen;
+
+5\. Tabakerzeugnisse unter Verwendung von Comics;
+
+6\. Tabakerzeugnisse durch Verteilung von im Zusammenhang mit Tabakerzeugnissen stehenden Werbeartikeln an Kinder und Jugendliche oder mit Werbeartikeln, die üblicherweise für diese bestimmt sind.
+
+(7) Jede verbilligte Abgabe, Gratisverteilung und Zusendung von Tabakerzeugnissen und verwandten Erzeugnissen mit dem Ziel der direkten oder indirekten Verkaufsförderung ist verboten.
+
+(8) Ausgenommen vom Verbot des Abs. 7 ist die stückweise Gratisabgabe von Tabakerzeugnissen und von verwandten Erzeugnissen an Raucherinnen bzw. Raucher, die das 18. Lebensjahr vollendet haben, in Tabaktrafiken anlässlich der Neueinführung einer Marke innerhalb eines Zeitraums von sechs Monaten nach erstmaligem Inverkehrbringen dieser Marke.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 18 Abs. 18
+
+### § 12 – Umfassender Nichtraucherinnen- und Nichtraucherschutz
+
+§ 12. (1) Rauchverbot gilt in Räumen für
+
+1\. Unterrichts- und Fortbildungszwecke,
+
+2\. Verhandlungszwecke,
+
+3\. schulsportliche Betätigung, schulische oder solche Einrichtungen, in denen Kinder oder Jugendliche beaufsichtigt, aufgenommen oder beherbergt werden, einschließlich der dazugehörigen Freiflächen, und
+
+4\. die Herstellung, Verarbeitung, Verabreichung oder Einnahme von Speisen oder Getränken sowie die in Gastronomiebetrieben für alle den Gästen zur Verfügung stehenden Bereiche, ausgenommen Freiflächen.
+
+(2) Rauchverbot gilt auch in Mehrzweckhallen bzw. Mehrzweckräumen. Miterfasst sind auch nicht ortsfeste Einrichtungen, insbesondere Festzelte.
+
+(3) Rauchverbot gilt auch in Räumen, in denen Vereinstätigkeiten im Beisein von Kindern und Jugendlichen ausgeübt werden, sowie in Räumen, in denen Vereine Veranstaltungen, auch ohne Gewinnerzielungsabsicht, abhalten. Es ist dabei unbeachtlich, ob der Zutritt nur auf einen im Vorhinein bestimmten Personenkreis beschränkt ist. Darüber hinaus gilt Rauchverbot für Vereine dann, wenn durch die Vereinsaktivitäten eine Umgehung der Bestimmungen gemäß Abs. 1 oder 2 erfolgt.
+
+(4) Rauchverbot gilt auch für geschlossene öffentliche und private Verkehrsmittel zur entgeltlichen oder gewerblichen Personenbeförderung. Dies gilt auch in nicht der entgeltlichen oder gewerblichen Personenbeförderung dienenden Verkehrsmitteln, wenn sich im Fahrzeug eine Person befindet, die das 18. Lebensjahr noch nicht vollendet hat.
+
+(5) Die Regelungen des Rauchverbotes im Sinne dieser Bestimmung erstrecken sich auch auf die Verwendung von verwandten Erzeugnissen, die mittels Verbrennungsprozesses oder Inhalation konsumiert werden, und von Wasserpfeifen.
+
+(6) Abs. 1 bis 5 gelten nicht in ausschließlich privaten Zwecken dienenden Räumen.
+
+(7) Auf im Freien befindlichen öffentlichen Spielplätzen, die Freizeitaktivitäten von Kindern oder Jugendlichen dienen und dauerhaft als solche abgegrenzt und gekennzeichnet sind, ist das Wegwerfen von Tabakerzeugnissen und verwandten Erzeugnissen einschließlich deren Zubehör und deren Abfallprodukte verboten.
+
+### § 13 – Nichtraucherinnen- und Nichtraucherschutz in sonstigen Räumen öffentlicher Orte
+
+§ 13. (1) Sofern nicht arbeitsrechtliche Bestimmungen ein Rauchverbot vorsehen oder Räume von § 12 erfasst sind, gilt ein Rauchverbot auch in sonstigen Räumen öffentlicher Orte, doch kann in den allgemein zugänglichen Bereichen ein Nebenraum als Raucherraum eingerichtet werden, sofern gewährleistet ist, dass aus diesem Nebenraum weder Tabakrauch in den mit Rauchverbot belegten Bereich dringt, noch das Rauchverbot dadurch umgangen wird.
+
+(2) In Hotels und vergleichbaren Beherbergungsbetrieben gilt Rauchverbot. In den allgemein zugänglichen Bereichen kann, falls nicht § 12 Abs. 1 bis 3 zur Anwendung kommt, ein Nebenraum als Raucherraum eingerichtet werden, sofern gewährleistet ist, dass aus diesem Nebenraum der Tabakrauch nicht in den mit Rauchverbot belegten Bereich dringt, das Rauchverbot dadurch nicht umgangen wird und in dem Raucherraum auch keine Speisen und Getränke hergestellt, verarbeitet, verabreicht oder eingenommen werden.
+
+(3) Das Rauchverbot gilt nicht in Tabaktrafiken, sofern gewährleistet ist, dass Tabakrauch nicht in den mit Rauchverbot belegten Bereich dringt. Ausgenommen von der Möglichkeit, Rauchen zu erlauben, sind jene Tabaktrafiken, die Postpartner sind.
+
+(4) Die Regelungen des Rauchverbotes im Sinne dieser Bestimmung erstrecken sich auch auf die Verwendung von verwandten Erzeugnissen, die mittels Verbrennungsprozesses oder Inhalation konsumiert werden, und von Wasserpfeifen.
+
+### § 13b – Kennzeichnungspflicht
+
+§ 13b. (1) Rauchverbote gemäß den §§ 12 und 13 sind in den unter das Rauchverbot fallenden Räumen, Einrichtungen und auf den Freiflächen durch den Rauchverbotshinweis „Rauchen verboten“ kenntlich zu machen.
+
+(2) Anstatt des Rauchverbotshinweises gemäß Abs. 1 können die Rauchverbote auch durch Rauchverbotssymbole, aus denen eindeutig das Rauchverbot hervorgeht, kenntlich gemacht werden.
+
+(3) Die Rauchverbotshinweise gemäß Abs. 1 oder die Rauchverbotssymbole gemäß Abs. 2 sind in ausreichender Zahl und Größe so anzubringen, dass sie überall im Raum oder der Einrichtung gut sichtbar sind.
+
+(3a) Das Wegwerfverbot gemäß § 12 Abs. 7 ist durch einen deutlich wahrnehmbaren Hinweis zu kennzeichnen.
+
+\*(Anm.: Abs. 4 aufgehoben durch Z 2, BGBl. I Nr. 66/2019)*
+
+(5) Die Bundesministerin für Gesundheit, Familie und Jugend wird ermächtigt, Näheres über Inhalt, Art und Form der Kennzeichnung durch Verordnung festzulegen.
+
+### § 13c – Verpflichtungen betreffend den Nichtraucherschutz
+
+§ 13c. (1) Die Inhaberinnen bzw. Inhaber von Räumen und Einrichtungen gemäß § 12 und von Räumen eines öffentlichen Ortes gemäß § 13 haben für die Einhaltung der Bestimmungen der §§ 12 bis 13b Sorge zu tragen.
+
+(2) Jede Inhaberin bzw. jeder Inhaber gemäß Abs. 1 hat insbesondere dafür Sorge zu tragen, dass
+
+1\. in einem Raum oder einer Einrichtung gemäß § 12 Abs. 1 bis 3 nicht geraucht wird,
+
+2\. in Räumen eines öffentlichen Ortes gemäß § 13, sofern sie vom Rauchverbot umfasst sind, nicht geraucht wird,
+
+3\. der Kennzeichnungspflicht gemäß § 13b entsprochen wird.
+
+### § 14 – Strafbestimmungen
+
+§ 14. (1) Wer
+
+1\. Tabakerzeugnisse oder verwandte Erzeugnisse entgegen § 2 in Verkehr bringt,
+
+2\. gegen das Versandhandelsverbot gemäß § 2a verstößt,
+
+3\. gegen die Meldepflichten gemäß §§ 8, 8a, 8c, 8d, 10a und 10b verstößt,
+
+4\. entgegen § 11 Werbung oder Sponsoring betreibt,
+
+5\. gegen die Bestimmungen hinsichtlich des Erscheinungsbildes gemäß §§ 5 bis 6, 10c, 10f, 10h oder 10i verstößt,
+
+6\. gegen die Bestimmungen in Bezug auf Beschlagnahme, Verfall und Produktrückruf der §§ 10d oder 10e verstößt,
+
+7\. gegen das Verkaufsverbot an Jugendliche gemäß § 2b verstößt,
+
+8\. die Marktüberwachungsbehörde an der Ausübung ihrer gemäß Artikel 14 der Verordnung (EU) 2019/1020 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über Marktüberwachung und die Konformität von Produkten sowie zur Änderung der Richtlinie 2004/42/EG und der Verordnung (EG) Nr. 765/2008 und (EU) Nr. 305/2011 eingeräumten Befugnisse hindert oder nicht gehörig mitwirkt,
+
+begeht, sofern die Tat nicht nach anderen Verwaltungsbestimmungen mit strengerer Strafe bedroht ist, eine Verwaltungsübertretung und ist mit Geldstrafe bis zu 7 500 Euro, im Wiederholungsfall bis zu 15 000 Euro zu bestrafen.
+
+(2) Tabakerzeugnisse und verwandte Erzeugnisse, die den Gegenstand einer nach Abs. 1 strafbaren Handlung bilden, sind einzuziehen und zu vernichten. Die Regelungen der §§ 10d und 10e sind entsprechend anzuwenden.
+
+(3) Wird in einem Verwaltungsstrafverfahren rechtskräftig festgestellt, dass die Herstellerin bzw. der Hersteller oder die Importeurin bzw. der Importeur von Tabakerzeugnissen und verwandten Erzeugnissen die Vorschriften der §§ 2, 2a 4 bis 10f oder der auf ihrer Grundlage erlassenen Verordnungen nicht eingehalten hat, so hat sie bzw. er auch die Kosten der im betreffenden Fall durchgeführten Überwachungs- und Untersuchungsmaßnahmen zu tragen.<sup> *(Anm. 1)*</sup>
+
+(4) Wer als Inhaberin bzw. Inhaber gemäß § 13c Abs. 1 gegen eine Verpflichtung des § 13c verstößt, begeht eine Verwaltungsübertretung und ist mit einer Geldstrafe bis zu 2.000 Euro, im Wiederholungsfall bis zu 10.000 Euro zu bestrafen, sofern die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren Handlung darstellt oder nach einer anderen Verwaltungsbestimmung mit strengerer Strafe bedroht ist.
+
+(5) Wer an einem Ort, an dem gemäß den §§ 12 oder 13 Rauchverbot besteht oder an dem das Rauchen von der Inhaberin bzw. vom Inhaber nicht gestattet wird, raucht, begeht, sofern der Ort gemäß § 13b Abs. 1 bis 3 gekennzeichnet ist und die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren Handlung bildet oder nach einer anderen Verwaltungsstrafbestimmung mit strengerer Strafe bedroht ist, eine Verwaltungsübertretung und ist mit Geldstrafe bis zu 100 Euro, im Wiederholungsfall bis zu 1.000 Euro zu bestrafen.
+
+(6) Wer gegen § 12 Abs. 7 verstößt, begeht, sofern der öffentliche Spielplatz gemäß § 13b Abs. 3a gekennzeichnet ist und die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren Handlung bildet oder nach einer anderen Verwaltungsstrafbestimmung mit strengerer Strafe bedroht ist, eine Verwaltungsübertretung und ist mit Geldstrafe bis zu 500 Euro, im Wiederholungsfall bis zu 2.000 Euro zu bestrafen.
+
+\*(\_\_\_\_\_\_\_\_\_\_\_\_*
+
+\*Anm. 1: Z 48 der Novelle, BGBl. I Nr. 68/2026 lautet: „In § 14 Abs. 3 wird die Zeichenfolge „§§ 2, 2a, 4 bis 10f“ durch die Zeichenfolge „§§ 2 bis 10i“ ersetzt.“. Diese Anweisung konnte nicht eingearbeitet werden.)*
+
+### § 14a
+
+§ 14a. Ergibt sich im Rahmen der dienstlichen Aufgaben von Aufsichtsorganen gemäß §§ 24ff Lebensmittelsicherheits- und Verbraucherschutzgesetz – LMSVG, BGBl. I Nr. 151/2005, und von Organen der zur Vollziehung der gewerberechtlichen Vorschriften zuständigen Behörden der dringende Verdacht, dass offensichtlich trotz Rauchverbotes geraucht wird, haben diese Organe den Verdacht den für die Vollziehung dieses Bundesgesetzes zuständigen Behörden zur Kenntnis zu bringen.
+
+### § 14b – Mitwirkung der Organe des öffentlichen Sicherheitsdienstes
+
+§ 14b. Die Organe des öffentlichen Sicherheitsdienstes haben dem Bundesministerium für Gesundheit und den von diesen beauftragten Kontrollorganen über deren Ersuchen zur Sicherung der Ausübung der Befugnisse gemäß §§ 10d, 10e und 14 Abs. 2 im Rahmen ihres gesetzmäßigen Wirkungsbereiches Hilfe zu leisten. Weiters führen die Organe des öffentlichen Sicherheitsdienstes im Auftrag der zuständigen Bundesminister Kontrollen der Einhaltung des Verbots gemäß § 12 Abs. 4, zweiter Satz, durch.
+
+### § 15 – Übergangs- und Schlußbestimmungen
+
+§ 15. Ausgenommen vom Geltungsbereich dieses Bundesgesetzes sind Arzneimittel im Sinne des Arzneimittelgesetzes, BGBl. Nr. 185/1983 sowie Lebensmittel im Sinne des Lebensmittelsicherheits- und Verbraucherschutzgesetzes, BGBl. I Nr. 13/2006.
+
+### § 16
+
+§ 16. Soweit dieses Bundesgesetz auf andere Bundesgesetze oder Rechtsakte der Europäischen Union verweist, sind deren Bestimmungen in ihrer jeweils geltenden Fassung anzuwenden.
+
+### § 17
+
+§ 17. (1) Die Bestimmungen der § 1 Z 11, § 2 Abs. 2 und 3, § 13 und § 13a treten mit 1. Jänner 2005 in Kraft.
+
+(2) Die Bestimmungen der § 1 Z 7 und 7a sowie § 11 treten mit 31. Juli 2005 in Kraft.
+
+(3) Die Bestimmung des § 14a tritt mit 1. Jänner 2007 in Kraft.
+
+(4) Die Bestimmungen des § 11 Abs. 4 Z 5 und 6 treten mit Ablauf des 31. Dezembers 2006 außer Kraft.
+
+(5) § 5 Abs. 2 Z 10 dieses Bundesgesetzes in der Fassung BGBl. I Nr. 105/2007 tritt mit 1. Juli 2008 in Kraft.
+
+(6) § 7a und § 14 Abs. 1 Z 1a dieses Bundesgesetzes in der Fassung BGBl. I Nr. 105/2007 treten mit 1. Jänner 2008 in Kraft und mit Ablauf des 31. Dezember 2010 außer Kraft.
+
+(7) Die §§ 13 Abs. 1 und 4, 13a, 13b, 13c sowie 14 Abs. 4 und 5 dieses Bundesgesetzes in der Fassung BGBl. I Nr. 120/2008 treten mit 1. Januar 2009 in Kraft. Die §§ 13a und 14a dieses Bundesgesetzes in der Fassung vor der Novelle BGBl. I Nr. 120/2008 treten mit Ablauf des 31. Dezember 2008 außer Kraft.
+
+(8) § 12 samt Überschrift, § 13 samt Überschrift, § 13c, § 14 Abs. 4 und 5 sowie § 14a in der Fassung BGBl. I Nr. 101/2015 treten mit 1. Mai 2018 in Kraft. § 13d in der Fassung BGBl. I Nr. 101/2015 tritt mit 20. Mai 2016 in Kraft und mit Ablauf des 30. April 2018 außer Kraft.
+
+(9) § 2 Abs. 2 und § 2a, §§ 4 bis 6, § 7 Abs. 12, § 7a Abs. 2, § 8 Abs. 1, 1a, 2, 4 bis 4c, 7 bis 10, §§ 8a bis 11, § 14 Abs. 1 bis 3, § 14b, § 19 sowie der Anhang dieses Bundesgesetzes in der Fassung BGBl. I Nr. 22/2016 treten mit 20. Mai 2016 in Kraft. Die § 2 Abs. 4, § 3, § 4a und § 8 Abs. 5 in der Fassung vor der Novelle BGBl. I Nr. 22/2016 treten mit Ablauf des 19. Mai 2016 außer Kraft. § 2 Abs. 1 in der Fassung BGBl. I Nr. 22/2016 tritt mit 20. Mai 2017 in Kraft. Auf Sachverhalte, die den Tatbestand einer Verwaltungsübertretung erfüllen, ist dieses Bundesgesetz erst ab dem seiner Kundmachung folgenden Tag anzuwenden.
+
+(10) Verordnungen aufgrund der Bestimmungen dieses Bundesgesetzes in der Fassung des BGBl. I Nr. 22/2016 können bereits ab dem auf die Kundmachung dieses Gesetzes folgenden Tag erlassen werden. Sie dürfen jedoch frühestens mit 20. Mai 2016 in Kraft treten.
+
+(11) Die § 7 Abs. 1 bis 11 und § 7a Abs. 1 dieses Bundesgesetzes in der Fassung BGBl. I Nr. 22/2016 gelten für Zigaretten und Tabak zum Selbstdrehen ab 20. Mai 2019 und für Tabakerzeugnisse außer Zigaretten und Tabak zum Selbstdrehen ab 20. Mai 2024.
+
+(12) § 2a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 13/2018 tritt am 1. Jänner 2019 in Kraft. § 12 Abs. 1 Z 4, § 12 Abs. 4, § 14 Abs. 1 Z 7 in der Fassung BGBl. I Nr. 13/2018 treten am 1. Mai 2018 in Kraft. In § 17 Abs. 8 entfällt der zweite Satz, sodass § 13a (einschließlich der authentischen Interpretation zu § 13a Abs. 2 in BGBl. I Nr. 12/2014) sowie § 13b Abs. 4, jeweils in der am 30. April 2018 geltenden Fassung, mit Ablauf des 30. April 2018 nicht außer Kraft treten.
+
+(13) § 7 Abs. 2, 4, 5, 6, 8 und 11 in der Fassung BGBl. I Nr. 37/2018 tritt mit 20. Mai 2019 in Kraft. § 10b Abs. 3 Z 1 und Abs. 5 in der Fassung BGBl. I Nr. 37/2018 tritt mit 25. Mai 2018 in Kraft.
+
+### § 18
+
+§ 18. (1) Tabakerzeugnisse, die den Bestimmungen der §§ 4a bis 8 und den auf Grund dieser erlassenen Verordnungen nicht entsprechen, dürfen bis 30. September 2003 vermarktet werden.
+
+(2) In Abweichung zu Abs. 1 dürfen von Zigaretten verschiedene Tabakerzeugnisse, die den Bestimmungen der §§ 4a bis 8 und den auf Grund dieser erlassenen Verordnungen nicht entsprechen, bis 30. September 2004 vermarktet werden.
+
+(3) Tabakerzeugnisse, die dem § 5 Abs. 2 Z 10 in Verbindung mit § 5 Abs. 3 dieses Bundesgesetzes in der Fassung BGBl. I Nr. 105/2007 nicht entsprechen und vor Ablauf des 30. Juni 2008 vermarktet worden sind, dürfen bis zum Ablauf des 31. Dezember 2008 in Verkehr gebracht werden.
+
+(4) Tabakerzeugnisse, die im Zeitraum zwischen dem 1. Jänner 2008 und dem 31. Dezember 2010 den Gegenstand einer nach § 14 Abs. 1 Z 1a strafbaren Handlung bilden, sind einzuziehen.
+
+(5) Tabakerzeugnisse, die dem § 5 Abs. 2 Z 10 in Verbindung mit § 5 Abs. 3 dieses Bundesgesetzes in der Fassung BGBl. I Nr. 120/2008 nicht entsprechen, dürfen noch bis zum Ablauf des 31. Dezember 2008 vermarktet und bis zum Ablauf des 30. Juni 2009 in Verkehr gebracht werden.
+
+(6) Auf
+
+1\. Betriebe des Gastgewerbes gemäß § 111 Abs. 1 Z 2 der GewO,
+
+2\. Betriebe des Gastgewerbes mit einer Berechtigung zur Beherbergung von Gästen gemäß § 111 Abs. 1 Z 1 oder Abs. 2 Z 2 oder 4 der GewO sowie
+
+3\. Betriebe gemäß § 2 Abs. 9 oder § 111 Abs. 2 Z 3 oder 5 der GewO
+
+sind die §§ 13a, 13b, 13c sowie 14 Abs. 4 und 5 dieses Bundesgesetzes in der Fassung BGBl. I Nr. 120/2008 sowie die Bestimmungen einer gemäß § 13b Abs. 5 dieses Bundesgesetzes in der Fassung BGBl. I Nr. 120/2008 erlassenen Verordnung bei Vorliegen der Voraussetzungen gemäß Abs. 7 erst ab dem 1. Juli 2010 anzuwenden.
+
+(7) Voraussetzungen gemäß Abs. 6 sind:
+
+1\. der Betrieb verfügt zum Zeitpunkt des Inkrafttretens dieses Bundesgesetzes in der Fassung BGBl. I Nr. 120/2008 für die Verabreichung von Speisen oder Getränken an Gäste nur über einen Raum,
+
+2\. die Grundfläche des Raumes beträgt mindestens 50 m<sup>2</sup>,
+
+3\. die vom Inhaber beabsichtigten baulichen Maßnahmen zur Schaffung eines gesonderten Raumes für den im § 13a Abs. 2 genannten Zweck sind, einschließlich der allfällig erforderlichen Klärung bau-, feuer- oder denkmalschutzrechtlicher Vorfragen (§ 13a Abs. 3 Z 2), unverzüglich nach Ablauf des Tages, an dem dieses Bundesgesetz in der Fassung BGBl. I Nr. 120/2008 kundgemacht worden ist, in die Wege geleitet worden.
+
+(8) § 2 Abs. 2 in der Fassung BGBl I Nr. 5/2015 tritt ab 1.1.2016 in Kraft
+
+\*(Anm.: Abs. 9 wurde nicht vergeben)*
+
+(10) Für Tabakerzeugnisse mit charakteristischem Aroma iSd § 8b Abs. 1, die eine unionsweite Verkaufsmenge von 3 % oder mehr in einer Erzeugniskategorie darstellen, gilt § 8b ab 20. Mai 2020.
+
+(11) Für jene Produkte, für die noch keine Meldungen iSd § 8 Abs. 1 in der Fassung BGBl. I Nr. 101/2015 abzugeben waren, haben die Herstellerinnen bzw. Hersteller oder Importeurinnen bzw. Importeure spätestens drei Monate nach Inkrafttreten des BGBl. I Nr. 22/2016 die in § 8 Abs. 1 geforderten Daten und Unterlagen zu übermitteln. Bei bereits in Verkehr gebrachten Produkten hat die Meldung spätestens bis zum 20. November 2016 zu erfolgen.
+
+(12) Tabakerzeugnisse, die vor dem 20. Mai 2016 gemäß dem Tabakgesetz in der Fassung BGBl. I Nr. 120/2008 hergestellt oder in Verkehr gebracht und gekennzeichnet wurden, dürfen:
+
+1\. von Großhändler bis 31. August 2016 an Tabaktrafikanten abgegeben werden und
+
+2\. von den Tabaktrafikanten bis 20. Mai 2017 verkauft werden.
+
+(13) Das Inverkehrbringen von
+
+1\. Elektronischen Zigaretten oder Nachfüllbehältern, die vor dem 20. November 2016 hergestellt oder in Verkehr gebracht wurden, und
+
+2\. pflanzlichen Raucherzeugnissen, die vor dem 20. Mai 2016 hergestellt oder in Verkehr gebracht wurden,
+
+ist bis zum 20. Mai 2017 zulässig.
+
+(14) Bei neuartigen Tabakerzeugnissen hat die Meldung zur Zulassung gemäß § 10a spätestens sechs Monate vor dem beabsichtigten Inverkehrbringen zu erfolgen.
+
+(15) § 12 Abs. 1 Z 4 tritt mit 1. November 2019 in Kraft. § 13 a und § 13 b Abs. 4 treten mit 31. Oktober 2019 außer Kraft.
+
+(16) § 1 Z 13, § 5b Abs. 1 samt Überschrift, § 8b Abs. 6, § 18 Abs. 16 sowie § 20 in der Fassung des Bundesgesetzes BGBl. I Nr. 36/2025 treten mit dem der Kundmachung folgenden Tag in Kraft. Erhitzte Tabakerzeugnisse, die den §§ 5b Abs. 1 und 8b Abs. 6 dieses Bundesgesetzes in der Fassung BGBl. I Nr. 36/2025 nicht entsprechen und bereits vor Inkrafttreten dieses Bundesgesetzes in Verkehr gebracht wurden, dürfen noch bis zum Ablauf des 31. Mai 2026 verkauft werden.
+
+(17) § 1 Z 1c und § 10a samt Überschrift treten mit 1. Jänner 2026 in Kraft.
+
+(18) § 1 Z 1b, 1e, Z 3, Z 6, Z 7, Z 7a, Z 10, Z 12, Z 14 und Z 15, § 2 Abs. 1 Z 1, Z 3, Z 4 und Abs. 2a, § 2a, § 2b, § 5 Abs. 4a, Abs. 4b und Abs. 8, § 5a Abs. 4 und Abs. 5, § 8d, § 9 Abs. 1, Abs. 8a, Abs 8b und Abs. 9, § 10 Abs. 1 Z 3 und Z 4, § 10a Abs. 6a, § 10b Abs. 7 Z 1 Z 1a und Z 1b,, Z 2, Z 3, Z 4, Z 5 und Abs. 8, § 10c Abs. 1, § 10g, § 10h, § 10i, § 11 Abs. 5 Z 1 und Abs. 8, § 12 Abs. 5 und Abs. 7, § 13 Abs. 4, § 13b Abs. 1 und Abs. 3a, § 14 Abs. 1 Z 3, Z 5, Z 7 und Z 8, Abs. 2, Abs. 3 und Abs. 6, § 15, § 18 Abs. 18, § 19 sowie § 20 in der Fassung des Bundesgesetzes BGBl. I Nr. 68/2026 treten mit 20. August 2026 in Kraft. § 11 Abs. 5 Z 2 und 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 68/2026 treten mit 31. Dezember 2026 in Kraft, § 11 Abs. 5 Z 3 tritt mit 1. März 2028 außer Kraft. Elektronische Zigaretten oder Nachfüllbehälter, die den Bestimmungen der §§ 10b Abs. 7 Z 1 Z 1a und Z 1b,, Z 2, Z 3, Z 4, Z 5, Abs. 8 Z 1, 2 und § 10c Abs. 1 Z 1 nicht entsprechen und Packungen für Tabak zum Selbstdrehen, die den Bestimmungen des § 5 Abs. 4a und 4b nicht entsprechen sowie tabakfreie Nikotinerzeugnisse und tabakfreie Nikotinersatzerzeugnisse, die diesem Bundesgesetz in der Fassung des Bundesgesetzes BGBl. I Nr. 68/2026, nicht entsprechen, dürfen, soweit sie bereits vor dem Inkrafttreten dieses Bundesgesetzes in der Fassung BGBl. I Nr. 68/2026, hergestellt oder in Verkehr gebracht wurden, von Herstellerinnen oder Herstellern oder Großhändlerinnen oder Großhändlern bis längstens 31. Dezember 2026 an Einzelhändlerinnen oder Einzelhändlern und von diesen bis längstens 30. Juni 2027 an Verbraucherinnen oder Verbraucher abgegeben werden. Tabakfreie Nikotinerzeugnisse und tabakfreie Nikotinersatzerzeugnisse, die vor Inkrafttreten dieses Bundesgesetzes in der Fassung BGBl. I Nr. 68/2026, bereits erstmalig in Verkehr gebracht wurden, sind bis spätestens 31.12.2026 gemäß § 8d elektronisch zu melden. Elektronische Zigaretten, die Einwegprodukte sind, die diesem Bundesgesetz in der Fassung des Bundesgesetzes BGBl. I Nr. 68/2026, nicht entsprechen, dürfen, soweit sie bereits vor dem Inkrafttreten dieses Bundesgesetzes in der Fassung BGBl. I Nr. 68/2026, hergestellt oder in Verkehr gebracht wurden, von Herstellerinnen oder Herstellern oder Großhändlerinnen oder Großhändlern bis längstens 31. August 2026 an Einzelhändlerinnen oder Einzelhändlern und von diesen bis längstens 31. Dezember 2026 an Verbraucherinnen oder Verbraucher abgegeben werden. Auf vertragliche Verpflichtungen in Bezug auf tabakfreie Nikotinerzeugnisse und tabakfreie Nikotinersatzerzeugnisse, die bereits vor Inkrafttreten dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 68/2026 rechtswirksam abgeschlossen wurden, ist § 11 bis 29. Februar 2028 nicht anwendbar.
+
+### § 19
+
+§ 19. Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin oder der Bundesminister für Gesundheit, hinsichtlich der §§ 7a Abs. 2, 9 Abs. 9 und 10a Abs. 7 im Einvernehmen mit der Bundesministerin bzw. dem Bundesminister für Finanzen, betraut. Mit der Vollziehung der §§ 2a und 7 ist die Bundesministerin bzw. der Bundesminister für Finanzen betraut. Hinsichtlich der Bestimmungen des § 4 Abs. 2 und 3 hat die Bundesministerin oder der Bundesminister für Gesundheit die Zustimmung des Hauptausschusses des Nationalrates einzuholen. Mit der Vollziehung des § 12 Abs. 4 ist die Bundesministerin oder der Bundesminister für Gesundheit im Einvernehmen mit dem Bundesminister für Innovation, Mobilität und Infrastruktur betraut.
+
+### § 20
+
+§ 20. Durch dieses Bundesgesetz werden die Richtlinie 2014/40/EU zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Herstellung, die Aufmachung und den Verkauf von Tabakerzeugnissen und verwandten Erzeugnissen und zur Aufhebung der Richtlinie 2001/37/EG, ABl. Nr. L 127 vom 29.04.2014 S. 1, geändert durch die Delegierte Richtlinie 2014/109/EU, ABl. Nr. L 360 vom 17.12.2014 S. 22, sowie der Durchführungsbeschluss (EU) 2015/1735 der Kommission vom 24. September 2015 „zur genauen Anordnung des allgemeinen Warnhinweises und der Informationsbotschaft auf in Beuteln verkauftem Tabak zum Selbstdrehen“, der Durchführungsbeschluss (EU) 2016/586 der Kommission vom 14. April 2016 „zu den technischen Normen für den Nachfüllmechanismus elektronischer Zigaretten“ und die Delegierte Richtlinie (EU) 2022/2100, ABl. L 283 vom 3.11.2022 S. 4-6 und die darauf bezugnehmenden Rechtsakte der Europäischen Union umgesetzt.
+
+## Liste der textlichen Warnhinweise zu § 5a Abs. 1
+
+### Anhang
+
+1\. Rauchen verursacht 9 von 10 Lungenkarzinomen
+
+2\. Rauchen verursacht Mund-, Rachen- und Kehlkopfkrebs
+
+3\. Rauchen schädigt Ihre Lunge
+
+4\. Rauchen verursacht Herzanfälle
+
+5\. Rauchen verursacht Schlaganfälle und Behinderungen
+
+6\. Rauchen verstopft Ihre Arterien
+
+7\. Rauchen erhöht das Risiko zu erblinden
+
+8\. Rauchen schädigt Zähne und Zahnfleisch
+
+9\. Rauchen kann Ihr ungeborenes Kind töten
+
+10\. Wenn Sie rauchen, schaden Sie Ihren Kindern, Ihrer Familie, Ihren Freunden
+
+11\. Kinder von Rauchern werden oft selbst zu Rauchern
+
+12\. Das Rauchen aufgeben – für Ihre Lieben weiterleben
+
+13\. Rauchen mindert Ihre Fruchtbarkeit
+
+14\. Rauchen bedroht Ihre Potenz

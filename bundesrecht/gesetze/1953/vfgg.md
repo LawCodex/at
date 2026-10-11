@@ -1,0 +1,1559 @@
+---
+title: "Verfassungsgerichtshofgesetz 1953"
+abbreviation: "VfGG"
+identifier: "10000245"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 85/1953"
+last_amended: 2025-09-01
+last_amendment: "BGBl. I Nr. 50/2025"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1953/85/P0/NOR30001678"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000245"
+retrieved: 2026-10-11
+documents: 140
+---
+
+# Verfassungsgerichtshofgesetz 1953 (VfGG)
+
+Verfassungsgerichtshofgesetz 1953 – VfGG
+
+StF: BGBl. Nr. 85/1953 (WV)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 11/1955 (NR: GP VII AB 428 S. 58. BR: S. 98)  
+BGBl. Nr. 171/1956 (NR: GP VIII RV 6 AB 63 S. 6. BR: S. 118)  
+BGBl. Nr. 18/1958 (NR: GP VIII RV 316 AB 387 S. 51. BR: S. 130)  
+BGBl. Nr. 232/1961 (VfGH)  
+BGBl. Nr. 185/1964 (NR: GP X RV 414 AB 466 S. 53. BR: S. 220.)  
+BGBl. Nr. 297/1964 (NR: GP X RV 538 AB 557 S. 59 AB 562 S. 71. BR: S. 223.)  
+BGBl. Nr. 200/1967 (NR: GP XI RV 463 AB 494 S. 56. BR: S. 255.)  
+BGBl. Nr. 284/1968 (NR: GP XI RV 850 AB 891 S. 105. BR: 80 AB 89 S. 267.)  
+BGBl. Nr. 275/1972 (NR: GP XIII RV 393 AB 421 S. 38. BR: AB 796 S. 312.)  
+BGBl. Nr. 311/1976 (NR: GP XIV RV 96 AB 265 S. 28. BR: AB 1545 S. 353.)  
+BGBl. Nr. 234/1977 (VfGH)  
+BGBl. Nr. 298/1977 (NR: GP XIV IA 47/A AB 494 S. 56. BR: AB 1657 S. 363.)  
+BGBl. Nr. 670/1977 (NR: GP XIV RV 679 AB 737 S. 78. BR: AB 1754 S. 370.)  
+BGBl. Nr. 683/1978 (NR: GP XIV RV 1094 AB 1109 S. 116. BR: AB 1927 S. 382.)  
+BGBl. Nr. 545/1980 (NR: GP XV IA 82/A AB 494 S. 50. BR: 2216 AB 2224 S. 403.)  
+BGBl. Nr. 353/1981 (NR: GP XV RV 428 AB 767 S. 81. BR: AB 2363 S. 413.)  
+BGBl. Nr. 51/1983 (NR: GP XV IA 232/A AB 1395 S. 142. BR: 2634 AB 2643 S. 431.)  
+BGBl. Nr. 297/1984 (NR: GP XVI AB 346 S. 51. BR: AB 2855 S. 450.)  
+BGBl. Nr. 732/1988 idF BGBl. I Nr. 194/1999 (DFB) (NR: GP XVII RV 645 AB 826 S. 88. BR: AB 3632 S. 510.)  
+BGBl. Nr. 329/1990 (NR: GP XVII RV 1093 AB 1354 S. 145. BR: AB 3893 S. 531.)  
+BGBl. Nr. 334/1993 (NR: GP XVIII RV 1014 AB 1030 S. 114. BR: 4521 AB 4526 S. 569.)  
+BGBl. Nr. 510/1993 (NR: GP XVIII AB 1143 S. 129. BR: AB 4604 S. 573.)  
+BGBl. Nr. 43/1995 (NR: GP XIX RV 45 AB 62 S. 11. BR: 4958 und 4959 AB 4945 S. 593.)  
+BGBl. Nr. 297/1995 (NR: GP XIX RV 134 AB 149 S. 32. BR: 4996, 4997, 4998 AB 5002 S. 598.)  
+BGBl. Nr. 469/1995 (NR: GP XIX RV 199 AB 241 S. 42. BR: AB 5042 S. 602.)  
+BGBl. Nr. 820/1995 (NR: GP XIX RV 373 AB 396 S. 57. BR: 5108 AB 5124 S. 606.)  
+BGBl. Nr. 201/1996 (NR: GP XX RV 72 und Zu 72 AB 95 S. 16. BR: 5161, 5162, 5163, 5164 und 5165 AB 5166 S. 612.)  
+BGBl. Nr. 392/1996 idF BGBl. I Nr. 194/1999 (DFB) (NR: GP XX IA 245/A AB 249 S. 34. BR: 5212 AB 5224 S. 616.)  
+BGBl. I Nr. 3/1997 (NR: GP XX IA 343/A AB 521 S. 51. BR: AB 5370 S. 620.)  
+BGBl. I Nr. 64/1997 (NR: GP XX IA 453/A AB 687 S. 75. BR: 5445, 5447 AB 5448 S. 627.)  
+BGBl. I Nr. 88/1997 idF BGBl. I Nr. 194/1999 (DFB) (NR: GP XX RV 576 AB 784 S. 81. BR: 5487 AB 5510 S. 629.)  
+BGBl. I Nr. 191/1999 (BG) (1. BRBG) (NR: GP XX RV 1811 AB 2031 S. 179. BR: AB 6041 S. 657.)  
+BGBl. I Nr. 95/2000 (NR: GP XXI RV 175 AB 259 S. 32. BR: 6163 AB 6175 S. 667.)  
+BGBl. I Nr. 142/2000 (NR: GP XXI RV 311 AB 369 S. 45. BR: 6250 und 6251 AB 6268 S. 670.)  
+BGBl. I Nr. 34/2001 (VfGH)  
+BGBl. I Nr. 86/2001 (NR: GP XXI IA 438/A AB 699 S. 74. BR: 6372 AB 6406 S. 679.)  
+BGBl. I Nr. 136/2001 (NR: GP XXI RV 742 AB 824 S. 81. BR: 6458 AB 6459 S. 681.)  
+BGBl. I Nr. 123/2002 idF BGBl. I Nr. 19/2005 (VFB) (NR: GP XXI IA 234/A AB 1257 S. 109. BR: AB 6714 S. 690.)  
+BGBl. I Nr. 71/2003 (NR: GP XXII RV 59 AB 111 S. 20. BR: 6788 AB 6790 S. 697.)  
+[CELEX-Nr.: 31997L0078, 32001L0089]  
+BGBl. I Nr. 100/2003 (NR: GP XXII RV 93 AB 243 S. 35. BR: 6872 AB 6886 S. 702.)  
+BGBl. I Nr. 89/2004 (NR: GP XXII RV 447 AB 565 S. 73. BR: AB 7089 S. 712.)  
+BGBl. I Nr. 142/2004 (NR: GP XXII RV 653 AB 694 S. 87. BR: 7153 AB 7155 S. 716.)  
+BGBl. I Nr. 80/2005 (NR: GP XXII RV 953 AB 1031 S. 115. BR: AB 7343 S. 724.)  
+BGBl. I Nr. 165/2005 (NR: GP XXII RV 1190 AB 1243 S. 129. BR: 7434 AB 7448 S. 729.)  
+BGBl. I Nr. 163/2006 (VfGH)  
+BGBl. I Nr. 2/2008 (1. BVRBG) (NR: GP XXIII RV 314 AB 370 S. 41. BR: 7799 AB 7830 S. 751.)  
+BGBl. I Nr. 4/2008 (NR: GP XXIII AB 371 S. 41. BR: AB 7831 S. 751.)  
+BGBl. I Nr. 98/2010 (NR: GP XXIV IA 1187/A AB 989 S. 83. BR: AB 8408 S. 790.)  
+BGBl. I Nr. 111/2010 (NR: GP XXIV RV 981 AB 1026 S. 90. BR: 8437 AB 8439 S. 792.)  
+[CELEX-Nr.: 32010L0012]  
+BGBl. I Nr. 51/2012 (NR: GP XXIV RV 1618 AB 1771 S. 155. BR: 8730 AB 8731 S. 809.)  
+BGBl. I Nr. 33/2013 (NR: GP XXIV RV 2009 AB 2112 S. 187. BR: 8882 AB 8891 S. 817.)  
+BGBl. I Nr. 122/2013 (NR: GP XXIV IA 2294/A AB 2382 S. 207. BR: AB 9026 S. 822.)  
+BGBl. I Nr. 46/2014 (NR: GP XXV RV 140 AB 151 S. 30. BR: 9190 AB: 9194 S. 831.)  
+BGBl. I Nr. 92/2014 (NR: GP XXV RV 263 AB 325 S. 49. BR: 9256 AB 9269 S. 836.)  
+BGBl. I Nr. 101/2014 (NR: GP XXV IA 718/A AB 439 S. 53. BR: AB 9279 S. 837.)  
+BGBl. I Nr. 23/2015 (VfGH)  
+BGBl. I Nr. 124/2015 (VfGH)  
+BGBl. I Nr. 15/2016 (VfGH)  
+BGBl. I Nr. 41/2016 (NR: GP XXV IA 1470/A AB 1081 S. 126. BR: 9560 AB 9567 S. 853.)  
+BGBl. I Nr. 58/2016 (VfGH)  
+BGBl. I Nr. 59/2016 (VfGH)  
+BGBl. I Nr. 78/2016 (VfGH)  
+BGBl. I Nr. 89/2016 (VfGH)  
+BGBl. I Nr. 90/2016 (VfGH)  
+BGBl. I Nr. 107/2016 (VfGH)  
+BGBl. I Nr. 110/2016 (VfGH)  
+BGBl. I Nr. 24/2017 idF BGBl. I Nr. 27/2019 (VFB) (NR: GP XXV RV 1255 AB 1369 S. 158. BR: AB 9723 S. 863.)  
+BGBl. I Nr. 22/2018 (NR: GP XXVI AB 100 S. 21. BR: AB 9959 S. 879.)  
+BGBl. I Nr. 104/2019 (NR: GP XXVI IA 985/A AB 692 S. 88. BR: AB 10252 S. 897.)  
+BGBl. I Nr. 16/2020 (NR: GP XXVII IA 397/A AB 112 S. 19. BR: AB 10288 S. 904.)  
+BGBl. I Nr. 24/2020 (NR: GP XXVII IA 403/A AB 116 S. 22. BR: AB 10292 S. 905.)  
+BGBl. I Nr. 2/2022 (VfGH) idF BGBl. I Nr. 16/2022 (VFB)  
+BGBl. I Nr. 125/2022 (NR: GP XXVII IA 2487/A AB 1637 S. 168. BR: 11005 AB 11021 S. 943.)  
+BGBl. I Nr. 88/2023 (NR: GP XXVII RV 2081 AB 2108 S. 222. BR: AB 11278 S. 957.)  
+BGBl. I Nr. 88/2024 (NR: GP XXVII IA 4099/A AB 2702 S. 270. BR: AB 11591 S. 969.)  
+BGBl. I Nr. 20/2025 (NR: GP XXVIII RV 91 AB 95 S. 27. BR: 11639 AB 11640 S. 978.)  
+BGBl. I Nr. 50/2025 (NR: GP XXVIII RV 129 AB 151 S. 35. BR: 11651 AB 11654 S. 980.)  
+
+</details>
+
+> **Anmerkung:** 1\. Erfassungsstichtag: 1.1.1987
+>
+> 2\. Der gesetzliche Kurztitel und die Abkürzung wurden mit Wirksamkeit vom 1.1.2002 vergeben (vgl. BGBl. I Nr. 136/2001). Aus dokumentalistischen Gründen wurden auch in den bereits aufgehobenen Dokumenten der Kurztitel und die Abkürzung angepasst.
+>
+> 3\. Zu dieser Rechtsvorschrift ist eine englische Übersetzung in der Applikation „Austrian Laws“ vorhanden: [Constitutional Court Act 1953 - VfGG](http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Erv&Dokumentnummer=ERV_1953_85)
+
+## 1. Teil
+
+#### § 1 – Organisation des Verfassungsgerichtshofes
+
+§ 1. (1) Der Verfassungsgerichtshof besteht aus einem Präsidenten, einem Vizepräsidenten, zwölf weiteren Mitgliedern und sechs Ersatzmitgliedern.
+
+(2) Wird die Stelle eines Mitgliedes oder Ersatzmitgliedes des Verfassungsgerichtshofes voraussichtlich innerhalb der nächsten drei Monate frei oder ist ein solches Amt erledigt, so hat der Präsident dies dem Vorsitzenden jenes Organs mitzuteilen, das gemäß Art. 147 Abs. 2 des Bundes-Verfassungsgesetzes – B-VG, BGBl. Nr. 1/1930, den Ernennungsvorschlag zu erstatten hat.
+
+(3) Der Vorsitzende (Abs. 2) hat die Stelle unverzüglich, spätestens jedoch einen Monat nach ihrem Freiwerden zur allgemeinen Bewerbung auszuschreiben. Soweit sie vom selben Vorsitzenden (Abs. 2) auszuschreiben sind, können mehrere Stellen gemeinsam ausgeschrieben werden und kann mit der Ausschreibung einer Stelle die Ausschreibung der durch die Ernennung allenfalls freiwerdenden Stelle verbunden werden.
+
+(4) Die Ausschreibung ist auf der elektronischen Verlautbarungs- und Informationsplattform des Bundes und in den für amtliche Kundmachungen bestimmten Landeszeitungen zu veröffentlichen.
+
+#### § 2
+
+§ 2. Der Verfassungsgerichtshof wählt aus seiner Mitte auf die Dauer von drei Jahren ständige Referenten. Der Vizepräsident kann auch mit der Funktion eines ständigen Referenten betraut werden. Solange keine Wahl vorgenommen werden kann, bestellt die fehlenden ständigen Referenten der Präsident.
+
+#### § 3
+
+§ 3. (1) Die Leitung des Verfassungsgerichtshofes steht dem Präsidenten zu; er führt den Vorsitz bei den Verhandlungen und Beratungen.
+
+(2) Im Fall seiner Verhinderung hat ihn der Vizepräsident zu vertreten. Ein Aufenthalt in einem anderen Mitgliedstaat der Europäischen Union gilt nicht als Verhinderung.
+
+(3) Ist auch der Vizepräsident verhindert, so übernimmt die Leitung das in Wien anwesende an Jahren älteste Mitglied des Verfassungsgerichtshofes.
+
+(4) Die Bestimmungen der Abs. 2 und 3 gelten auch, wenn die Stelle des Präsidenten unbesetzt ist.
+
+(5) Der Präsident kann dem Vizepräsidenten auch, abgesehen vom Fall des Abs. 2, den Vorsitz bei Verhandlungen und Beratungen übertragen. Der Vizepräsident ist berechtigt, an den Verhandlungen, in denen er nicht den Vorsitz führt, als Stimmführer teilzunehmen.
+
+#### § 3a
+
+§ 3a. Die §§ 1 bis 14 und 15a bis 16 des Gerichtsorganisationsgesetzes – GOG, RGBl. Nr. 217/1896, gelten sinngemäß mit der Maßgabe, dass die Hausordnung durch Bereitstellung im Internet kundzumachen ist.
+
+#### § 4
+
+§ 4. (1) Die Mitglieder des Verfassungsgerichtshofes erhalten eine Geldentschädigung, in einem Prozentsatz bezogen auf den Ausgangsbetrag des § 1 des Bundesverfassungsgesetzes über die Begrenzung von Bezügen öffentlicher Funktionäre, BGBl. I Nr. 64/1997, in folgender Höhe:
+
+1\. der Präsident im Ausmaß von 180 vH,
+
+2\. der Vizepräsident und die ständigen Referenten im Ausmaß von 160 vH,
+
+3\. die übrigen Mitglieder im Ausmaß von 90 vH.
+
+Auf die Geldentschädigung ist § 4 des Bundesbezügegesetzes – BBezG, BGBl. I Nr. 64/1997, sinngemäß anzuwenden.
+
+(2) Bekleidet der Vizepräsident auch die Funktion eines ständigen Referenten, so erhält er für diese Funktion keine Entschädigung.
+
+(3) Ersatzmitglieder des Verfassungsgerichtshofes erhalten für jede Sitzung, an der sie teilgenommen haben, eine Entschädigung, die für jeden Sitzungstag ein Zehntel der für einen Monat entfallenden Entschädigung der in Abs. 1 Z 3 genannten Mitglieder beträgt.
+
+(4) Außer den Entschädigungen erhalten die Mitglieder des Verfassungsgerichtshofes Sonderzahlungen in sinngemäßer Anwendung der Bestimmungen der §§ 3 Abs. 3 und 7 Abs. 2 des Gehaltsgesetzes 1956, BGBl. Nr. 54/1956.
+
+(5) Dem Präsidenten gebührt ein Dienstwagen, der mit seinem Einverständnis auch dem Vizepräsidenten und den übrigen Mitgliedern des Verfassungsgerichtshofes für Dienstfahrten zur Verfügung zu stellen ist. § 9 Abs. 2 BBezG gilt.
+
+(6) Außer den Bezügen ist der Präsident einem Bundesminister, der Vizepräsident einem Staatssekretär, der mit der Besorgung bestimmter Aufgaben betraut ist, gleichgestellt.
+
+#### § 5a
+
+§ 5a. Den nicht in Wien wohnenden Mitgliedern und Ersatzmitgliedern wird außer den im § 4 bestimmten Entschädigungen für jede Sitzung eine Vergütung der Reisekosten und überdies eine Vergütung der durch den Aufenthalt in Wien verursachten besonderen Kosten gewährt. Das Ausmaß der Reisekosten und der durch den Aufenthalt in Wien verursachten besonderen Kosten wird von der Bundesregierung besonders geregelt.
+
+#### § 5b
+
+§ 5b. (1) Den Mitgliedern des Verfassungsgerichtshofes ist auf ihren Antrag nach Beendigung ihrer Amtstätigkeit ein monatlicher Ruhebezug zuzuerkennen. Der Ruhebezug gebührt von dem auf den Antrag folgenden Monatsersten an, frühestens jedoch nach Ablauf der Zeit, für die nach § 5 Abs. 1 die Geldentschädigung weiterbezogen wird.
+
+(2) Für den Ruhebezug gelten die pensionsrechtlichen Bestimmungen für öffentlich-rechtliche Bundesbedienstete mit den Maßgaben sinngemäß, dass kein Anspruch auf Ruhebezug besteht, wenn die Amtstätigkeit infolge eines der im § 10 Abs. 1 lit. b und c genannten Gründe endet, dass die Ruhegenussbemessungsgrundlage 80 vH der im § 4 Abs. 1 Z 3 festgesetzten Geldentschädigung beträgt, dass nach Vollendung von acht Jahren der Amtstätigkeit 40 vH der Ruhegenussbemessungsgrundlage gebühren und dass sich der Ruhebezug für jedes weitere volle Jahr der Amtstätigkeit um 5 vH und für jeden restlichen vollen Monat der Amtstätigkeit um 0,417 vH der Ruhegenussbemessungsgrundlage erhöht. § 5 Abs. 2 des Pensionsgesetzes 1965, BGBl. Nr. 340/1965, ist mit den Maßgaben anzuwenden, dass
+
+1\. anstelle der Versetzung in den Ruhestand die Amtsenthebung vor dem vollendeten 65. Lebensjahr nach § 10 Abs. 1 lit. a oder d dieses Bundesgesetzes zu treten hat und
+
+2\. die Ruhegenussbemessungsgrundlage von 80% für jeden Monat, der zwischen dem Zeitpunkt der Amtsenthebung und dem Ablauf des Monats liegt, in dem das Mitglied sein 65. Lebensjahr vollendet haben wird, um 0,28 Prozentpunkte zu kürzen ist.
+
+Der Ruhebezug darf 40% der Ruhegenussbemessungsgrundlage nicht unterschreiten. Auf das nach Z 1 und 2 jeweils in Betracht kommende Lebensjahr ist § 236c Abs. 1 des Beamten-Dienstrechtsgesetzes 1979, BGBl. Nr. 333/1979, anzuwenden. Die bis 31. Dezember 2003 nach der bis zu diesem Tag geltenden Rechtslage erworbenen Anwartschaften bleiben unberührt.
+
+(3) Abschnitt XIII des Pensionsgesetzes 1965 ist mit den Maßgaben anzuwenden, dass
+
+1\. an die Stelle der ruhegenussfähigen Gesamtdienstzeit nach § 99 die Dauer der Amtstätigkeit tritt und
+
+2\. der Pensionsbemessung und dem Pensionskonto nach dem Allgemeinen Pensionsgesetz (APG), BGBl. I Nr. 142/2004, nur die Zeit der Amtstätigkeit zugrunde zu legen ist.
+
+(4) Auf den nach § 5e zu entrichtenden Beitrag ist § 12 Abs. 4 und 5 des Bezügegesetzes, BGBl. Nr. 273/1972, anzuwenden.
+
+(5) Auf Mitglieder, deren Amtstätigkeit nach dem 31. Dezember 2004 beginnt, sind die pensionsrechtlichen Vorschriften dieses Bundesgesetzes nicht anzuwenden. An deren Stelle treten die pensionsrechtlichen Bestimmungen des Allgemeinen Sozialversicherungsgesetzes, BGBl. Nr. 189/1955, und des APG.
+
+#### § 5c
+
+§ 5c. (1) Jenen Mitgliedern, die die Funktion des Präsidenten, des Vizepräsidenten oder eines ständigen Referenten ausgeübt haben, gebühren zu dem Ruhebezug Zulagen. Die Zulage beträgt für jedes volle Jahr, in dem eine dieser Funktionen ausgeübt wurde, 8 vH des Differenzbetrages zwischen der Geldentschädigung nach § 4 Abs. 1 Z 1 und 2 und der Geldentschädigung nach § 4 Abs. 1 Z 3, höchstens jedoch 80 vH des der höchsten innegehabten Funktion entsprechenden Differenzbetrages. Für die höhere Funktion nicht zur Auswirkung gelangende Zeiten sind dabei der Dauer der nächst niedrigeren innegehabten Funktion zuzurechnen. Im Fall einer Kürzung der Ruhegenussbemessungsgrundlage nach § 5b Abs. 2 letzter Satz ist das im zweiten Satz festgelegte Höchstausmaß der Zulage entsprechend zu kürzen.
+
+(2) Hat das Mitglied noch keinen Anspruch auf Ruhebezug im Sinne des § 5b erworben, jedoch zumindest drei Jahre Funktionen nach Abs. 1 innegehabt, so ist ihm auf Antrag ein monatlicher Ruhebezug in Höhe der Zulage zuzuerkennen.
+
+#### § 5e
+
+§ 5e. Das Mitglied kann auf die Anwartschaft auf Ruhebezug nach § 5b, auf die Anwartschaft auf Zulage nach § 5c oder auf beide Anwartschaften verzichten. Soweit ein solcher Verzicht nicht ausgesprochen wurde, hat das Mitglied 22,79% der jeweils gebührenden Geldentschädigung oder im Fall des Teilverzichtes von dem entsprechenden Teil der Geldentschädigung sowie von den Sonderzahlungen im Abzugsweg zu entrichten. Ein Widerruf des Verzichts ist unzulässig.
+
+#### § 5f
+
+§ 5f. Stirbt ein Mitglied des Verfassungsgerichtshofes während der Amtstätigkeit oder stirbt der Empfänger eines Ruhebezuges gemäß § 5b, erhalten seine Hinterbliebenen eine Versorgung. Auf die Versorgung sind die für Bundesbeamte und ihre Hinterbliebenen geltenden gleichartigen Bestimmungen anzuwenden. Der Bemessung der Versorgungsleistungen sind der Ruhebezug nach § 5b und die Zulage nach § 5c zugrunde zu legen. Den Hinterbliebenen eines verstorbenen Mitglieds oder Empfängers eines Ruhebezuges nach § 5b kann ein Sterbekostenbeitrag unter Anwendung der für Bundesbeamte und ihre Hinterbliebenen geltenden gleichartigen Bestimmungen gewährt werden.
+
+#### § 5g
+
+§ 5g. Die §§ 5b bis 5f sind auch auf ehemalige Mitglieder des Verfassungsgerichtshofes und auf deren Hinterbliebene anzuwenden.
+
+#### § 5h
+
+§ 5h. Die Bestimmungen über den Beitrag gemäß § 13a des Pensionsgesetzes 1965, BGBl. Nr. 340/1965, sind mit folgenden Maßgaben anzuwenden:
+
+1\. An die Stelle des Ausdrucks „monatlich wiederkehrende Geldleistungen nach diesem Bundesgesetz“ tritt der Ausdruck „Ruhe(Versorgungs)bezüge nach den §§ 5b bis 5g dieses Bundesgesetzes“.
+
+2\. Für jene Teile der Ansprüche nach Z 1, die bis 150% der jeweils geltenden monatlichen Höchstbeitragsgrundlage des § 45 ASVG betragen, sowie für die diesen Teilen entsprechenden Teile der Sonderzahlungen ist ein um 5,7 Prozentpunkte erhöhter Beitrag zu entrichten.
+
+#### § 5i
+
+§ 5i. **(Verfassungsbestimmung)** (1) Die Geldentschädigung nach § 4 und die sonstigen Bezüge, Ruhebezüge und Entgelte, die ein Mitglied des Verfassungsgerichtshofes von einem Rechtsträger, der der Kontrolle des Rechnungshofes unterliegt, erhält, dürfen insgesamt den Bezug eines Bundesministers nicht übersteigen.
+
+(2) Für ehemalige Mitglieder des Verfassungsgerichtshofes ist Abs. 1 mit der Maßgabe anzuwenden, daß an die Stelle der Geldentschädigung nach § 4 der Ruhebezug (Zulage) nach den §§ 5b und 5c zu treten hat.
+
+(3) Übersteigt die Summe der Ansprüche nach Abs. 1 oder 2 die dort genannten Grenzen, so ist der Bezug nach § 4 entsprechend zu kürzen.
+
+(4) Hat ein Mitglied oder ehemaliges Mitglied des Verfassungsgerichtshofes einen Anspruch auf Geldleistungen auf Grund einer Tätigkeit oder früheren Tätigkeit in einem Organ der Europäischen Union, sind abweichend von Abs. 3 die Ansprüche nach den Abs. 1 oder 2 nur in dem Ausmaß auszuzahlen, um das die Summe der Ansprüche auf Geldleistungen (ausgenommen jene, die ausdrücklich als Abgeltung für durch den Wohnsitz am Dienstort entstehende Aufwendungen gewährt werden) von diesen Organen der Europäischen Union hinter der in den Abs. 1 oder 2 angeführten Höchstgrenze zurückbleibt.
+
+(5) Das Mitglied oder ehemalige Mitglied des Verfassungsgerichtshofes hat sämtliche der in den Abs. 1 bis 4 angeführten Ansprüche auf Geldleistungen sowie Änderungen derselben allen auszahlenden Stellen unverzüglich zu melden.
+
+(6) Die Abs. 1 bis 5 sind auch auf die Versorgungsbezüge der Hinterbliebenen von ehemaligen Mitgliedern des Verfassungsgerichtshofes anzuwenden.
+
+#### § 6
+
+§ 6. (1) Zu jeder Verhandlung des Verfassungsgerichtshofes sind der Vizepräsident und sämtliche übrigen Mitglieder einzuladen.
+
+(2) Im Fall der Verhinderung eines Mitgliedes ist ein Ersatzmitglied zu laden. Dabei ist tunlichst darauf Rücksicht zu nehmen, ob das verhinderte Mitglied auf Vorschlag der Bundesregierung, auf Vorschlag des Nationalrates oder auf Vorschlag des Bundesrates ernannt worden ist. Das Gleiche gilt, falls die Stelle eines Mitgliedes frei geworden ist, bis zu ihrer Besetzung.
+
+#### § 7
+
+§ 7. (1) Der Verfassungsgerichtshof ist beschlussfähig, wenn der Vorsitzende und wenigstens acht Stimmführer anwesend sind.
+
+(2) Zur Beschlussfähigkeit genügt die Anwesenheit des Vorsitzenden und von vier Stimmführern:
+
+1\. bei der Beratung von Rechtssachen, in denen die Rechtsfrage durch die bisherige Rechtsprechung des Verfassungsgerichtshofes bereits genügend klargestellt ist;
+
+2\. bei der Beratung von Anträgen gemäß Abschnitt E des 2. Teiles betreffend die Einsetzung und die Tätigkeit von Untersuchungsausschüssen des Nationalrates und bei Anfechtung von Entscheidungen des Präsidenten des Nationalrates und des Vorsitzenden des Bundesrates betreffend die Klassifizierung von Informationen, die dem Nationalrat bzw. dem Bundesrat zur Verfügung stehen.
+
+Auf Verlangen jedes Mitgliedes hat die (weitere) Beratung nur in Anwesenheit wenigstens der in Abs. 1 genannten Anzahl von Stimmführern stattzufinden.
+
+(3) Sofern der Verfassungsgerichtshof im Fall außergewöhnlicher Verhältnisse nicht in angemessener Frist zusammentreten kann, kann der Vorsitzende die Beratung und Beschlussfassung im Umlaufweg oder mit Mitteln der Telekommunikation durchführen. Die Durchführung der Beratung und Beschlussfassung im Umlaufweg oder mit Mitteln der Telekommunikation bedarf der Zustimmung von neun Stimmführern, in den Fällen des Abs. 2 der Zustimmung von vier Stimmführern. Der Vorsitzende hat die Durchführung des Verfahrens der Beratung und Beschlussfassung im Umlaufweg spätestens eine Woche vor ihrem Beginn unter Angabe der zu beratenden Rechtssachen allen Mitgliedern mitzuteilen. Die näheren Bestimmungen sind in der Geschäftsordnung (§ 14) zu treffen.
+
+#### § 8
+
+§ 8. (1) Die Mitglieder des Verfassungsgerichtshofes geloben vor dem Antritt ihres Amtes die unverbrüchliche Beobachtung der Verfassung und aller anderen Gesetze der Republik sowie die gewissenhafte Erfüllung ihrer Pflichten.
+
+(2) Der Präsident und der Vizepräsident legen das Gelöbnis in die Hand des Bundespräsidenten, die Mitglieder und Ersatzmitglieder in die Hand des Präsidenten ab.
+
+(3) Die Beifügung einer religiösen Beteuerung zu den nach den Abs. 1 und 2 abzulegenden Gelöbnissen ist zulässig.
+
+#### § 8a
+
+§ 8a. (1) Die Mitglieder (Ersatzmitglieder) des Verfassungsgerichtshofes sind zur Geheimhaltung aller ihnen ausschließlich aus ihrer amtlichen Tätigkeit bekannt gewordenen Tatsachen verpflichtet, soweit und solange dies aus den in § 6 Abs. 1 des Informationsfreiheitsgesetzes – IFG, BGBl. I Nr. 5/2024, genannten Gründen erforderlich und verhältnismäßig ist.
+
+(2) Die Pflicht zur Geheimhaltung gemäß Abs. 1 besteht auch nach Beendigung der Amtstätigkeit.
+
+(3) Hat das Mitglied (Ersatzmitglied) vor Gericht oder vor einer Verwaltungsbehörde auszusagen und lässt sich aus der Ladung erkennen, dass der Gegenstand der Aussage der Geheimhaltung nach Abs. 1 unterliegen könnte, hat das Mitglied (Ersatzmitglied) dies dem Präsidenten zu melden. Ob das Mitglied (Ersatzmitglied) von der Verpflichtung zur Geheimhaltung zu entbinden ist, entscheidet der Verfassungsgerichtshof in nichtöffentlicher Sitzung. Der Verfassungsgerichtshof hat dabei das Interesse an der Geheimhaltung gegen das Interesse an der Aussage abzuwägen, wobei der Zweck des Verfahrens sowie der dem Mitglied (Ersatzmitglied) allenfalls drohende Schaden zu berücksichtigen sind. Der Verfassungsgerichtshof kann die Entbindung unter der Voraussetzung aussprechen, dass die Öffentlichkeit von dem Teil der Aussage, der den Gegenstand der Entbindung bildet, ausgeschlossen wird.
+
+(4) Lässt sich aus der Ladung nicht erkennen, dass der Gegenstand der Aussage der Geheimhaltung nach Abs. 1 unterliegen könnte, und stellt sich dies erst bei der Vernehmung des Mitglieds (Ersatzmitglieds) heraus, so hat das Mitglied (Ersatzmitglied) die Beantwortung weiterer Fragen zu verweigern. Bei fortdauerndem Interesse an der Aussage hat das Gericht oder die Verwaltungsbehörde die Entbindung des Mitglieds (Ersatzmitglieds) von der Verpflichtung nach Abs. 1 beim Präsidenten des Verfassungsgerichtshofes zu beantragen. Der Verfassungsgerichtshof entscheidet über die Entbindung nach den in Abs. 3 festgelegten Grundsätzen in nichtöffentlicher Sitzung.
+
+#### § 9
+
+§ 9. Die Erteilung eines Urlaubes an den Präsidenten oder Vizepräsidenten ist dem Bundespräsidenten vorbehalten. Den Mitgliedern und Ersatzmitgliedern des Verfassungsgerichtshofes wird der Urlaub vom Präsidenten des Gerichtshofes erteilt.
+
+#### § 10
+
+§ 10. (1) Ein Mitglied oder Ersatzmitglied ist durch Erkenntnis des Verfassungsgerichtshofes vom Amt zu entheben:
+
+a) wenn ein Umstand eintritt, der nach Art. 147 Abs. 4 B-VG ausschließt, dass das Mitglied (Ersatzmitglied) dem Verfassungsgerichtshof weiter angehöre,
+
+b) wenn die Voraussetzungen des Art. 147 Abs. 7 B-VG gegeben sind,
+
+c) wenn sich das Mitglied (Ersatzmitglied) durch sein Verhalten im Amt oder außerhalb des Amtes der Achtung und des Vertrauens, die sein Amt erfordert, unwürdig gezeigt oder seine Pflicht zur Geheimhaltung (§ 8a Abs. 1) gröblich verletzt hat, oder
+
+d) wenn das Mitglied (Ersatzmitglied) durch körperliche oder geistige Gebrechen zur Erfüllung seiner Amtspflicht untauglich wird.
+
+(2) Das Verfahren zur Enthebung eines Mitgliedes (Ersatzmitgliedes) vom Amt kann in den im Abs. 1 unter lit. a bis c angeführten Fällen nur auf Grund eines nach Vernehmung dieses Mitgliedes (Ersatzmitgliedes) durch den Präsidenten oder das vom Präsidenten damit betraute Mitglied des Verfassungsgerichtshofes gefassten Beschlusses des Verfassungsgerichtshofes eingeleitet werden. Der Beschluss wird in nichtöffentlicher Sitzung nach Anhörung des Generalprokurators gefasst und hat die Anschuldigungspunkte bestimmt zu bezeichnen. Der Verfassungsgerichtshof kann auch in nichtöffentlicher Sitzung die vorläufige Enthebung eines Mitgliedes, gegen das das Verfahren eingeleitet wird, vom Amt verfügen. Auf das weitere Verfahren finden die Vorschriften der §§ 15, 16, 18 bis 23 des Richterdisziplinargesetzes vom 21. Mai 1868, RGBl. Nr. 46, sinngemäß Anwendung. Stellt eine Pflichtverletzung eine gerichtlich strafbare Handlung dar, gelten sinngemäß die Vorschriften der §§ 33 und 34 des letztbezogenen Gesetzes.
+
+(3) Auf das Verfahren im Fall des Abs. 1 lit. d finden die Bestimmungen des § 52 Abs. 2 und des § 53 des erwähnten Richterdisziplinargesetzes sinngemäß Anwendung.
+
+(4) Ein Erkenntnis des Verfassungsgerichtshofes nach Abs. 1 kann nur mit einer Mehrheit von wenigstens zwei Dritteln der Mitglieder beschlossen werden und hat auf Enthebung des Mitgliedes (Ersatzmitgliedes) vom Amt zu lauten. Im Fall des Abs. 1 lit. b hat sich der Verfassungsgerichtshof auf die Feststellung zu beschränken, dass das Mitglied (Ersatzmitglied) drei aufeinanderfolgenden Einladungen zu einer Verhandlung des Verfassungsgerichtshofes ohne genügende Entschuldigung keine Folge geleistet hat; diese Feststellung steht einem Erkenntnis auf Enthebung vom Amt gleich.
+
+> **Anmerkung:** Gem. § 172 Richter- und Staatsanwaltschaftsdienstgesetz (RStDG), BGBl. Nr. 305/1961, traten an die Stelle der Bestimmungen des Richterdisziplinargesetzes "die entsprechenden Vorschriften" des RStDG.
+
+#### § 11
+
+§ 11. (1) Die Mitglieder (Ersatzmitglieder) haben dem Präsidenten innerhalb eines Monats nach ihrer Bestellung folgende Tätigkeiten zu melden:
+
+1\. die Ausübung eines Berufes;
+
+2\. jede leitende Stellung in einer Aktiengesellschaft, Gesellschaft mit beschränkter Haftung, Genossenschaft, Stiftung oder Sparkasse, insbesondere als Mitglied des Vorstandes oder Aufsichtsrates einer Aktiengesellschaft, als Geschäftsführer oder Mitglied des Aufsichtsrates einer Gesellschaft mit beschränkter Haftung oder einer Genossenschaft, als Stiftungsvorstand oder Mitglied des Aufsichtsrates einer Stiftung oder als Mitglied des Vorstandes oder Sparkassenrates einer Sparkasse.
+
+Wird eine der in den Z 1 und 2 genannten Tätigkeiten nach erfolgter Bestellung zum Mitglied (Ersatzmitglied) aufgenommen oder beendet, so ist auch dies dem Präsidenten innerhalb eines Monats zu melden.
+
+(2) Der Präsident hat die gemäß Abs. 1 gemeldeten Tätigkeiten bei den auf der Website www.vfgh.gv.at veröffentlichten Lebensläufen der Mitglieder (Ersatzmitglieder) zu veröffentlichen.
+
+(3) Die Veröffentlichungen gemäß Abs. 2 sind für die Dauer von drei Jahren nach Beendigung der jeweiligen Tätigkeit gemäß Abs. 1 aufrechtzuerhalten.
+
+#### § 12
+
+§ 12. (1) Die Ablehnung eines Mitgliedes (Ersatzmitgliedes) in einer vor dem Verfassungsgerichtshof zur Verhandlung gelangenden Angelegenheit ist nicht zulässig.
+
+(2) Mitglieder (Ersatzmitglieder) des Verfassungsgerichtshofes sind von der Ausübung ihres Amtes ausgeschlossen:
+
+1\. in den Fällen, in denen ein Richter gemäß § 20 der Jurisdiktionsnorm – JN, RGBl. Nr. 111/1895, oder nach den in diesem Gesetz verwiesenen Prozessgesetzen ausgeschlossen wäre;
+
+2\. wenn sie in einem dem Verfahren vor dem Verfassungsgerichtshof vorangegangenen Gerichts- oder Verwaltungsverfahren mitgewirkt haben;
+
+3\. wenn sonstige wichtige Gründe vorliegen, die geeignet sind, in ihre volle Unbefangenheit Zweifel zu setzen.
+
+(3) Von der Verhandlung und Entscheidung über eine Wahlanfechtung sind die Mitglieder (Ersatzmitglieder) ausgeschlossen, die in der Sache an der Entscheidung einer Wahlbehörde teilgenommen haben.
+
+(4) Bei Prüfung der Gesetzmäßigkeit von Verordnungen oder Kundmachungen über die Wiederverlautbarung eines Gesetzes (Staatsvertrages) sind die Mitglieder (Ersatzmitglieder) ausgeschlossen, die im Zeitpunkt der Erlassung der Verordnung oder Kundmachung der Bundesregierung oder der jeweiligen Landesregierung angehört haben. Bei Prüfung der Verfassungsmäßigkeit von Gesetzen sind die Mitglieder (Ersatzmitglieder) ausgeschlossen, die der gesetzgebenden Körperschaft, die das Gesetz beschlossen hat, im Zeitpunkt des Gesetzesbeschlusses angehört haben. Ebenso sind bei Prüfung der Verfassungsmäßigkeit von Bundesgesetzen auch die Mitglieder (Ersatzmitglieder) ausgeschlossen, die dem Bundesrat im Zeitpunkt der Abstimmung über den Gesetzesbeschluss des Nationalrates angehört haben. Bei Prüfung der Rechtmäßigkeit von Staatsverträgen sind die Bestimmungen des ersten Satzes, und, soweit es sich um politische, gesetzändernde oder gesetzesergänzende Staatsverträge oder Staatsverträge, durch die die vertraglichen Grundlagen der Europäischen Union geändert werden, handelt, auch die Bestimmungen des zweiten und dritten Satzes sinngemäß anzuwenden.
+
+(5) Bei Prüfung der Gesetzmäßigkeit von Verordnungen, der Gesetzmäßigkeit von Kundmachungen über die Wiederverlautbarung eines Gesetzes (Staatsvertrages), der Verfassungsmäßigkeit von Gesetzen oder der Rechtmäßigkeit von Staatsverträgen sind ausgeschlossen:
+
+1\. wenn die Prüfung auf Antrag eines Gerichtes durchzuführen ist, die Mitglieder (Ersatzmitglieder), die dem antragstellenden Gericht angehören;
+
+2\. wenn die Prüfung auf Antrag einer Person durchzuführen ist, die als Partei einer von einem ordentlichen Gericht in erster Instanz entschiedenen Rechtssache in ihren Rechten verletzt zu sein behauptet, die Mitglieder (Ersatzmitglieder), die dem ordentlichen Gericht angehören, das die Rechtssache in erster Instanz entschieden hat oder das über das gegen die Entscheidung erhobene Rechtsmittel zu entscheiden hat.
+
+(6) Ob ein Ausschließungsgrund vorliegt, entscheidet der Verfassungsgerichtshof selbst, und zwar in nichtöffentlicher Sitzung.
+
+#### § 13
+
+§ 13. (1) Unbeschadet des Art. 65 Abs. 2 lit. a B-VG werden die Angelegenheiten, die das dem Verfassungsgerichtshof angehörende Verwaltungspersonal und die sachlichen Erfordernisse betreffen, vom Präsidenten geführt.
+
+(2) Vor wichtigen Personalmaßnahmen, insbesondere vor Aufnahmen in den Personalstand und vor der Betrauung von Angehörigen des Verwaltungspersonals mit leitenden Funktionen, ist der aus dem Präsidenten, dem Vizepräsidenten und den ständigen Referenten des Verfassungsgerichtshofes bestehende Personalsenat zu hören.
+
+#### § 13a
+
+§ 13a. (1) Die Mitglieder des Verfassungsgerichtshofes werden bei der Ausübung ihres Amtes von verfassungsrechtlichen Mitarbeiterinnen und Mitarbeitern unterstützt. Diese müssen das Studium der Rechtswissenschaften abgeschlossen haben.
+
+(2) Ein auf bestimmte Zeit eingegangenes Dienstverhältnis einer verfassungsrechtlichen Mitarbeiterin bzw. eines verfassungsrechtlichen Mitarbeiters verlängert sich um Zeiten eines Beschäftigungsverbotes gemäß den §§ 3 bis 5 des Mutterschutzgesetzes 1979 – MSchG, BGBl. Nr. 221/1979, und um Zeiten einer Karenz gemäß dem MSchG bzw. dem Väter-Karenzgesetz – VKG, BGBl. Nr. 651/1989. Eine solche Verlängerung gilt nicht als Verlängerung gemäß § 4 Abs. 4 des Vertragsbedienstetengesetzes 1948 – VBG, BGBl. Nr. 86/1948.
+
+#### § 13b
+
+§ 13b. (1) Beim Verfassungsgerichtshof ist ein Evidenzbüro einzurichten. Betraut der Präsident ein Mitglied des Verfassungsgerichtshofes mit der Leitung des Evidenzbüros, so ist jenes hinsichtlich der geldentschädigungs- und pensionsrechtlichen Ansprüche einem ständigen Referenten gleichgestellt.
+
+(2) Dem Evidenzbüro obliegt insbesondere die übersichtliche Erfassung der Erkenntnisse des Verfassungsgerichtshofes, im Bedarfsfall auch der Entscheidungen anderer oberster Gerichte und des einschlägigen Schrifttums.
+
+> **Anmerkung:** vorher § 13a
+
+#### § 14
+
+§ 14. (1) Der Verfassungsgerichtshof beschließt seine Geschäftsordnung selbst. Sie ist durch den Bundeskanzler kundzumachen.
+
+(2) In der Geschäftsordnung wird auch geregelt, welche Mittel – abgesehen von der Verhängung von Mutwillens- und Ordnungsstrafen nach § 28 – dem Präsidenten bei der Handhabung der Geschäftsordnung und zur Aufrechterhaltung der Ruhe und Ordnung bei den Verhandlungen und Beratungen des Verfassungsgerichtshofes zur Verfügung stehen.
+
+(3) Der Verfassungsgerichtshof verfasst nach Abschluss eines jeden Jahres einen Bericht über seine Tätigkeit und die hiebei gesammelten Erfahrungen und teilt diesen Bericht dem Bundeskanzler mit.
+
+#### § 14a
+
+§ 14a. (1) Schriftsätze und Beilagen zu Schriftsätzen, Ausfertigungen von Erledigungen des Verfassungsgerichtshofes sowie Kopien von Schriftsätzen und Beilagen können nach Maßgabe der technischen Möglichkeiten auf folgende Weise wirksam elektronisch eingebracht bzw. übermittelt werden:
+
+1\. im Weg des elektronischen Rechtsverkehrs oder
+
+2\. über elektronische Zustelldienste nach den Bestimmungen des 3. Abschnittes des Zustellgesetzes – ZustG, BGBl. Nr. 200/1982.
+
+(2) Der Präsident kann nach Anhörung der sonstigen Mitglieder durch Verordnung nach Maßgabe der technischen Möglichkeiten die Einbringung bzw. Übermittlung von Dokumenten im Sinne des Abs. 1 durch Anwendung eines anderen sicheren Verfahrens, das die Authentizität und die Integrität des übermittelten elektronischen Dokuments sicherstellt, insbesondere durch elektronische Vorschreibung im elektronischen Akt oder mit auf der Website www.vfgh.gv.at abrufbaren elektronischen Formblättern, für zulässig erklären.
+
+(3) Auf den elektronischen Rechtsverkehr (Abs. 1 Z 1) sind die §§ 89a Abs. 2, 89c Abs. 1 und 89d des Gerichtsorganisationsgesetzes – GOG, RGBl. Nr. 217/1896, sinngemäß anzuwenden. Der Präsident hat nach Anhörung der sonstigen Mitglieder durch Verordnung die nähere Vorgangsweise bei der Einbringung bzw. Übermittlung von Schriftsätzen und von Beilagen zu Schriftsätzen, von Ausfertigungen von Erledigungen des Verfassungsgerichtshofes sowie von Kopien von Schriftsätzen und Beilagen im Weg des elektronischen Rechtsverkehrs (Abs. 1 Z 1) festzulegen; dazu gehören insbesondere Regelungen über die zulässigen elektronischen Formate und Signaturen sowie über die Ausgestaltung der automationsunterstützt hergestellten Ausfertigungen einschließlich der technischen Vorgaben für die elektronische Signatur des Verfassungsgerichtshofes und deren Überprüfung. In der Verordnung kann vorgesehen werden, dass sich die Einbringer einer Übermittlungsstelle zu bedienen haben.
+
+(4) Soweit eine elektronische Einbringung von Schriftsätzen und von Beilagen zu Schriftsätzen für zulässig erklärt ist, sind Rechtsanwälte (§ 17 Abs. 2) zu dieser Form der Einbringung verpflichtet. Soweit Behörden über die technischen Möglichkeiten verfügen, sind auch sie zu dieser Form der Einbringung verpflichtet. Ein Verstoß gegen diese Verpflichtung ist wie ein Mangel im Sinne des § 18 zu behandeln, der zu verbessern ist.
+
+(5) Für die durch den Einsatz der Informations- und Kommunikationstechnik verursachten Schäden aus Fehlern bei der Führung der Geschäfte des Verfassungsgerichtshofes einschließlich der Angelegenheiten der Justizverwaltung haftet der Bund. Die Haftung ist ausgeschlossen, wenn der Schaden durch ein unabwendbares Ereignis verursacht wird, das weder auf einem Fehler in der Beschaffenheit noch auf einem Versagen der Mittel der automationsunterstützten Datenverarbeitung beruht. Im Übrigen ist das Amtshaftungsgesetz – AHG, BGBl. Nr. 20/1949, anzuwenden. Bei Daten, die an den Verfassungsgerichtshof übermittelt worden sind, haftet der Bund im Fall des Abs. 1 Z 1 ab ihrem Einlangen bei der Bundesrechenzentrum GmbH, sonst ab ihrem Einlangen in den elektronischen Verfügungsbereich des Verfassungsgerichtshofes; bei Daten, die vom Verfassungsgerichtshof zu übermitteln sind, haftet der Bund bis zu ihrem Einlangen in den elektronischen Verfügungsbereich des Empfängers.
+
+(6) Der Bundesrechenzentrum GmbH und der ARGE ELAK GmbH &amp; Co OG obliegt nach Maßgabe ihrer maschinellen und personellen Ausstattung die Mitwirkung an der automationsunterstützten Abwicklung von gesetzlichen Aufgaben des Verfassungsgerichtshofes als Auftragsverarbeiter (Art. 4 Z 8 der Verordnung [EU] 2016/679 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG [Datenschutz-Grundverordnung] – DSGVO, ABl. Nr. L 119 vom 4. 5. 2016, S. 1), soweit dies im Interesse der Zweckmäßigkeit, Einfachheit und Kostenersparnis gelegen ist.
+
+## 2. Teil
+
+### Verfahren vor dem Verfassungsgerichtshof — 1. Hauptstück
+
+### Allgemeine Bestimmungen
+
+#### § 15
+
+§ 15. (1) Die an den Verfassungsgerichtshof gemäß den Art. 126a, 127c Z 1, 137 bis 145, 148f und 148i B-VG gerichteten Anträge sind schriftlich zu stellen.
+
+(2) Der Antrag hat zu enthalten die Bezugnahme auf den Artikel des B-VG, auf Grund dessen der Verfassungsgerichtshof angerufen wird, die Darstellung des Sachverhaltes, aus dem der Antrag hergeleitet wird, und ein bestimmtes Begehren.
+
+#### § 16
+
+§ 16. Der Präsident weist jede anfallende Rechtssache einem ständigen Referenten zu. Er kann aber ausnahmsweise auch ein anderes Mitglied des Verfassungsgerichtshofes mit einem Referat betrauen.
+
+#### § 17
+
+§ 17. (1) Alle Schriftsätze und Beilagen können einfach eingebracht werden. Der Referent kann der Partei unter Setzung einer angemessenen Frist die Beibringung so vieler Ausfertigungen in Papierform auftragen, dass jeder nach dem Gesetz zu ladenden Partei (Behörde) ein Exemplar zugestellt werden kann.
+
+(2) Klagen gemäß § 37, Anträge gemäß den §§ 46, 48, 50, 57, 57a, 62, 62a und 66 und Beschwerden gemäß den §§ 56i und 82 sind durch einen bevollmächtigten Rechtsanwalt abzufassen und einzubringen (Anwaltspflicht).
+
+(3) Der Anwaltspflicht unterliegen nicht
+
+1\. Anträge der in § 24 Abs. 2 genannten Körperschaften sowie von deren Behörden;
+
+2\. Anträge gemäß § 62, die von Mitgliedern des Nationalrates, des Bundesrates oder eines Landtages gestellt werden.
+
+(4) Die Schriftsätze können auch Rechtsausführungen enthalten.
+
+#### § 17a
+
+§ 17a. Für Anträge gemäß § 15 Abs. 1 einschließlich der Beilagen ist nach Maßgabe der folgenden Bestimmungen eine Eingabengebühr zu entrichten:
+
+1\. Die Gebühr beträgt 340 Euro. Der Bundeskanzler und der Bundesminister für Finanzen werden ermächtigt, zur Abgeltung der Inflation diesen Gebührensatz zu erhöhen. Der neue Gebührensatz ist aus dem Gebührensatz des ersten Satzes im Verhältnis der Veränderung der für Jänner 2025 oder für Jänner des Jahres der letzten Erhöhung verlautbarten Indexzahl zu der für die Neufestsetzung maßgebenden Indexzahl zu berechnen. Maßgeblich ist der von der Bundesanstalt „Statistik Österreich“ verlautbarte Verbraucherpreisindex 2020 oder ein an dessen Stelle tretender Index. Der sich daraus ergebende Gebührensatz ist auf ganze Euro kaufmännisch auf- oder abzurunden.
+
+2\. Gebietskörperschaften und Mitglieder des Nationalrates in den Angelegenheiten des Art. 138b Abs. 1 Z 1 bis 6 B-VG sind von der Entrichtung der Gebühr befreit.
+
+3\. Die Gebührenschuld entsteht im Zeitpunkt der Überreichung der Eingabe; die Gebühr wird mit diesem Zeitpunkt fällig. Bei elektronisch eingebrachten Schriftsätzen ist in den Fällen des § 14a Abs. 1 jener Zeitpunkt maßgeblich, der sich aus den für die jeweilige Form der Einbringung maßgeblichen Bestimmungen des GOG bzw. des ZustG ergibt; soweit eine andere Form der Einbringung für zulässig erklärt ist (§ 14a Abs. 2), ist der Zeitpunkt des Einlangens in den elektronischen Verfügungsbereich des Verfassungsgerichtshofes maßgeblich.
+
+4\. Die Gebühr ist unter Angabe des Verwendungszwecks durch Überweisung auf ein entsprechendes Konto des Finanzamtes Österreich zu entrichten. Die Entrichtung der Gebühr ist durch einen von einer Post-Geschäftsstelle oder einem Kreditinstitut bestätigten Zahlungsbeleg in Urschrift nachzuweisen. Dieser Beleg ist der Eingabe anzuschließen. Die Einlaufstelle hat den Beleg dem Beschwerdeführer (Antragsteller) auf Verlangen zurückzustellen, zuvor darauf einen deutlichen Sichtvermerk anzubringen und auf der im Akt verbleibenden Ausfertigung der Eingabe zu bestätigen, dass die Gebührenentrichtung durch Vorlage des Zahlungsbeleges nachgewiesen wurde. Für jede Eingabe ist die Vorlage eines gesonderten Beleges erforderlich. Rechtsanwälte können die Entrichtung der Gebühr auch durch einen schriftlichen Beleg des spätestens zugleich mit der Eingabe weiterzuleitenden Überweisungsauftrages nachweisen, wenn sie darauf mit Datum und Unterschrift bestätigen, dass der Überweisungsauftrag unter einem unwiderruflich erteilt wird.
+
+5\. Wird der Antrag im Weg des elektronischen Rechtsverkehrs (§ 14a Abs. 1 Z 1) eingebracht, so hat der Gebührenentrichter das Konto, von dem die Eingabengebühr einzuziehen ist, oder einen Anschriftcode, unter dem ein Konto zur Einziehung der Eingabengebühr gespeichert ist, anzugeben. Gibt der Gebührenentrichter sowohl einen Anschriftcode, unter dem ein Konto zur Einziehung der Eingabengebühr gespeichert ist, als auch ein Konto zur Einziehung der Eingabengebühr an, so ist die Eingabengebühr von diesem Konto einzuziehen. Die Abbuchung und die Einziehung der Eingabengebühr sind im Weg der automationsunterstützten Datenverarbeitung durchzuführen.
+
+6\. Für die Erhebung der Gebühr (Z 4 und 5) ist das Finanzamt Österreich zuständig.
+
+7\. Im Übrigen sind auf die Gebühr die Bestimmungen des Gebührengesetzes 1957, BGBl. Nr. 267/1957, über Eingaben mit Ausnahme der §§ 11 Z 1 und 14 anzuwenden.
+
+#### § 18
+
+§ 18. Schriftsätze, die den Anforderungen der §§ 15, 17, 57 Abs. 2 letzter Satz, 57a Abs. 3 und 4, 62 Abs. 2 letzter Satz und 62a Abs. 3 und 4 oder anderen durch dieses Gesetz aufgestellten Formerfordernissen nicht entsprechen, sind, sofern die Mängel voraussichtlich zu beheben sind, vom Referenten dem Einbringer zur Verbesserung innerhalb einer Frist zurückzustellen.
+
+#### § 19
+
+§ 19. (1) Die Erkenntnisse des Verfassungsgerichtshofes werden mit Ausnahme der Erkenntnisse nach § 10, § 36d, § 92 und § 93 in Verbindung mit § 92 nach einer öffentlichen mündlichen Verhandlung geschöpft, zu der der Antragsteller, die Gegenpartei und die etwa sonst Beteiligten zu laden sind.
+
+(2) Die Erkenntnisse werden im Namen der Republik verkündet und ausgefertigt.
+
+(3) Ohne weiteres Verfahren und ohne vorangegangene Verhandlung können in nichtöffentlicher Sitzung auf Antrag des Referenten beschlossen werden:
+
+1\. die Ablehnung der Behandlung eines Antrages bzw. einer Beschwerde gemäß Art. 139 Abs. 1b B–VG, Art. 140 Abs. 1b B–VG und Art. 144 Abs. 2 B–VG;
+
+2\. die Zurückweisung eines Antrages bzw. einer Beschwerde wegen
+
+a) offenbarer Nichtzuständigkeit des Verfassungsgerichtshofes,
+
+b) Versäumung einer gesetzlichen Frist,
+
+c) nicht behobenen Mangels der formellen Erfordernisse,
+
+d) rechtskräftig entschiedener Sache und
+
+e) Mangels der Legitimation;
+
+3\. die Einstellung des Verfahrens wegen Zurücknahme des Antrages oder wegen Klaglosstellung (§ 86);
+
+4\. die Entscheidung in Rechtssachen, in denen die Rechtsfrage durch die bisherige Rechtsprechung des Verfassungsgerichtshofes bereits genügend klargestellt ist.
+
+(4) Der Verfassungsgerichtshof kann von einer mündlichen Verhandlung absehen, wenn die Schriftsätze der Parteien des verfassungsgerichtlichen Verfahrens und die dem Verfassungsgerichtshof vorgelegten Akten erkennen lassen, dass die mündliche Erörterung eine weitere Klärung der Rechtssache nicht erwarten lässt. Dies gilt nicht bei Anträgen auf Mandatsverlust gemäß Art. 141 Abs. 1 lit. c B-VG.
+
+\*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 92/2014)*
+
+#### § 19a
+
+§ 19a. (1) Beschlüsse des Verfassungsgerichtshofes, dem Gerichtshof der Europäischen Union eine Frage zur Vorabentscheidung nach Art. 267 des Vertrags über die Arbeitsweise der Europäischen Union vorzulegen, sind den Parteien zuzustellen. Hat der Verfassungsgerichtshof einen solchen Beschluss gefasst, so darf er bis zum Einlangen der Vorabentscheidung nur solche Handlungen vornehmen und nur solche Anordnungen und Entscheidungen treffen, die durch die Vorabentscheidung nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+(2) Ist die beantragte Vorabentscheidung noch nicht ergangen und hat der Verfassungsgerichtshof die Bestimmung, die Gegenstand seines Vorabentscheidungsantrages war, nicht mehr anzuwenden, so hat er diesen unverzüglich zurückzuziehen.
+
+#### § 20
+
+§ 20. (1) Verfahrensleitende Anordnungen im Vorverfahren und verfahrensleitende Anordnungen, die nur zur Vorbereitung der Entscheidung dienen, trifft der Referent ohne Gerichtsbeschluss.
+
+(2) Entscheidungen über die Gewährung von Verfahrenshilfe einschließlich jener über den Ersatz von Barauslagen trifft der Referent, solche über die Ab- oder die Zurückweisung eines Antrages auf Verfahrenshilfe im Falle, dass der Verfassungsgerichtshof nicht versammelt ist, der Präsident auf Antrag des Referenten.
+
+(3) Insbesondere kann der Referent zur Vorbereitung der Entscheidung die Vernehmung von Beteiligten, Zeugen, Sachverständigen und Auskunftspersonen, die Vornahme eines Augenscheines, die Herbeischaffung von Urkunden sowie Amts- und Gerichtsakten anordnen sowie Auskünfte von Verwaltungsbehörden und Gerichten einholen.
+
+(4) Die Verwaltungsbehörden und Gerichte können anlässlich der Vorlage von Akten an den Verfassungsgerichtshof verlangen, dass bestimmte Akten oder Aktenbestandteile im öffentlichen Interesse von der Akteneinsicht ausgenommen werden. Hält der Referent das Verlangen für zu weitgehend, hat er die Verwaltungsbehörde bzw. das Gericht über seine Bedenken zu hören und allenfalls einen in nichtöffentlicher Sitzung zu fassenden Beschluss des Gerichtshofes einzuholen. In Aktenbestandteile, die im Verwaltungsverfahren oder im Verfahren vor dem Gericht von der Akteneinsicht ausgenommen waren, darf Akteneinsicht jedoch nicht gewährt werden. Die Verwaltungsbehörde bzw. das Gericht hat die in Betracht kommenden Aktenbestandteile anlässlich der Vorlage der Akten zu bezeichnen.
+
+(5) Der Referent kann die vorbereitenden Erhebungen selbst durchführen oder die zuständige Verwaltungsbehörde oder das zuständige Gericht darum ersuchen.
+
+(6) Die schriftlichen Ausfertigungen der Erkenntnisse, Beschlüsse und sonstigen Erledigungen des Verfassungsgerichtshofes werden unter Wiedergabe der auf der Urschrift beigesetzten Fertigungen von der Kanzlei mit dem Vermerk „Für die Richtigkeit der Ausfertigung“ beglaubigt.
+
+#### § 20a
+
+§ 20a. Unbeschadet des § 85 kann der Verfassungsgerichtshof in bei ihm anhängigen Rechtssachen durch Beschluss einstweiligen Rechtsschutz zuerkennen, wenn dies nach den Vorschriften des Unionsrechts erforderlich ist.
+
+#### § 21
+
+§ 21. (1) Eine Verhandlung, die anberaumt ist, kann nur aus erheblichen Gründen verlegt werden. Für einen darauf gerichteten Antrag ist die Zustimmung der Gegenpartei weder erforderlich noch ausreichend.
+
+(2) Die Verlegung wird durch den Gerichtshof beschlossen, wenn dieser versammelt ist, sonst von dem Präsidenten verfügt.
+
+#### § 22
+
+§ 22. Der Präsident ordnet die Verhandlung an. Die Verhandlung ist an der Amtstafel und auf der elektronischen Verlautbarungs- und Informationsplattform des Bundes vorher kundzumachen. Darüber hinaus kann sie im Internet auf der Website www.vfgh.gv.at bekannt gemacht werden.
+
+#### § 23
+
+§ 23. Das Ausbleiben der Geladenen steht der Verhandlung und Entscheidung nicht entgegen.
+
+#### § 24
+
+§ 24. (1) Die Parteien können unbeschadet des § 17 Abs. 2 ihre Sache vor dem Verfassungsgerichtshof selbst führen oder sich durch einen Rechtsanwalt vertreten lassen.
+
+(2) Der Bund, die Länder, die Gemeinden und die Gemeindeverbände, die Stiftungen, Fonds und Anstalten, die von Organen dieser Körperschaften oder von Personen (Personengemeinschaften) verwaltet werden, die hiezu von diesen Körperschaften bestellt sind, und die sonstigen Selbstverwaltungskörperschaften sowie deren Behörden werden durch ihre vertretungsbefugten oder bevollmächtigten Organe vertreten.
+
+(3) Mit der Vertretung des Bundes, der Länder und der Stiftungen, Fonds und Anstalten, die von Organen des Bundes oder der Länder oder von Personen (Personengemeinschaften) verwaltet werden, die hiezu von Organen dieser Körperschaften bestellt sind, sowie deren Behörden kann auch die Finanzprokuratur, mit der Vertretung der Länder, der Gemeinden und Gemeindeverbände und der Stiftungen, Fonds und Anstalten, die von Organen dieser Körperschaften oder von Personen (Personengemeinschaften) verwaltet werden, die hiezu von Organen dieser Körperschaften bestellt sind, sowie deren Behörden können auch Organe der sachlich in Betracht kommenden Bundesministerien betraut werden. Die Finanzprokuratur und die Organe der Bundesministerien dürfen jedoch die Vertretung eines anderen Rechtsträgers als des Bundes nur übernehmen, wenn weder eine Bundesbehörde noch der Bund selbst am Verfahren beteiligt ist und bei der Vertretung von Behörden der sachlich in Betracht kommende Bundesminister, sonst der Bundesminister für Finanzen zustimmt.
+
+(4) In Anträgen gemäß den §§ 56c bis 56h und in Anträgen gemäß § 62 und § 71, die von Mitgliedern des Nationalrates, des Bundesrates oder eines Landtages gestellt und nicht von einem bevollmächtigten Rechtsanwalt eingebracht werden, haben die Antragsteller einen oder mehrere Bevollmächtigte namhaft zu machen. Wird ein solcher nicht ausdrücklich namhaft gemacht, so gilt der erstangeführte Antragsteller als Bevollmächtigter.
+
+(5) Die Vertretung durch einen Rechtsanwalt oder durch die Finanzprokuratur schließt nicht aus, dass auch die Parteien selbst erscheinen und im eigenen Namen Erklärungen abgeben.
+
+(6) Die für die Parteien auftretenden Organe und Vertreter haben ihre Bevollmächtigung nachzuweisen.
+
+(7) Durch Verordnung der Bundesregierung wird bestimmt, ob und für welche in den Abs. 1 und 3 bezeichneten Vertreter das Tragen von Amtskleidern bei den Verhandlungen des Verfassungsgerichtshofes vorgeschrieben oder für zulässig erklärt wird.
+
+#### § 25
+
+§ 25. Die Verhandlung beginnt mit dem Vortrag des Referenten. Sein Bericht hat den aus den Akten sich ergebenden Sachverhalt, den Wortlaut der von den Parteien gestellten Anträge und das Ergebnis der etwa gepflogenen Erhebungen zu enthalten. In Schriftsätzen enthaltene Rechtsausführungen sind nur dann vorzulesen, wenn der Schriftsatz von einer Partei herrührt, die zur Verhandlung nicht erschienen ist, oder wenn eine der erschienenen Parteien die Verlesung verlangt.
+
+#### § 26
+
+§ 26. (1) Das Erkenntnis ist, wenn möglich, sogleich nach Schluss der mündlichen Verhandlung zu fällen und mit den wesentlichen Entscheidungsgründen sofort mündlich zu verkünden. Die Verkündung des Erkenntnisses ist von der Anwesenheit der Parteien nicht abhängig.
+
+(2) Wenn das Erkenntnis nicht sofort nach Schluss der mündlichen Verhandlung gefällt werden kann, so wird es entweder mündlich in einer besonderen, den Beteiligten nach Schluss der Verhandlung sofort bekanntzugebenden öffentlichen Tagsatzung verkündet oder nach Ermessen des Gerichtshofes auf schriftlichem Wege durch Zustellung einer Ausfertigung bekanntgemacht.
+
+#### § 27
+
+§ 27. Der Ersatz der Kosten des Verfahrens findet nur statt, wenn er in diesem Gesetz ausdrücklich vorgesehen ist. Wird der Zuspruch von Kosten beantragt, so brauchen regelmäßig anfallende Kosten, insbesondere für den Antrag (die Beschwerde) und für die Teilnahme an Verhandlungen, nicht ziffernmäßig verzeichnet zu werden.
+
+#### § 28
+
+§ 28. (1) Über Personen, die die Amtshandlung des Verfassungsgerichtshofes stören oder durch ungeziemendes Benehmen den Anstand verletzen, kann der Vorsitzende, wenn Ermahnung erfolglos geblieben ist, eine Ordnungsstrafe bis zur Höhe von 109 Euro und, falls diese uneinbringlich ist, Haft bis zu drei Tagen verhängen. Bei erschwerenden Umständen ist die selbstständige oder gleichzeitige Verhängung einer Haftstrafe bis zur angegebenen Dauer zulässig. Die gleichen Ordnungsstrafen kann der Verfassungsgerichtshof über Personen verhängen, die sich in Schriftsätzen einer beleidigenden Schreibweise bedienen. Die Verhängung einer Ordnungsstrafe schließt die strafgerichtliche Verfolgung wegen derselben Handlung nicht aus.
+
+(2) Gegen Personen, die die Tätigkeit des Verfassungsgerichtshofes offenbar mutwillig in Anspruch nehmen oder in der Absicht einer Verschleppung der Angelegenheit unrichtige Angaben machen, kann der Verfassungsgerichtshof eine Mutwillensstrafe bis 109 Euro und im Fall der Uneinbringlichkeit Haft bis zu drei Tagen verhängen.
+
+(3) Die Ordnungs- und Mutwillensstrafen fließen dem Bund zu.
+
+(4) Zur Exekution der Beschlüsse des Vorsitzenden gemäß Abs. 1 oder des Verfassungsgerichtshofes gemäß Abs. 1 oder 2 sind die ordentlichen Gerichte berufen.
+
+#### § 29
+
+§ 29. (1) Über die Verhandlung ist ein Protokoll zu führen; es hat den Namen des Vorsitzenden, der anwesenden Stimmführer des Verfassungsgerichtshofes, die erschienenen Parteien und deren Vertreter sowie die wesentlichen Vorkommnisse der Verhandlung, insbesondere die von den Parteien gestellten Anträge, zu enthalten.
+
+(2) Über die nichtöffentliche Beratung und Abstimmung ist ein besonderes Protokoll zu führen. Jedes Protokoll ist von dem Vorsitzenden und dem Schriftführer zu unterschreiben.
+
+#### § 30
+
+§ 30. (1) Die Beratung und Abstimmung sind nicht öffentlich.
+
+(2) Die Beratung beginnt mit der Antragstellung des Referenten, worauf die Wechselrede eingeleitet wird. Nach Abschluss der Wechselrede erfolgt die Abstimmung.
+
+(3) Der Vorsitzende stellt fest, in welcher Ordnung über die gestellten Anträge abgestimmt werden soll. Auf Antrag eines Stimmführers ist hierüber vom Gerichtshof ein Beschluss einzuholen. Die Stimmführer haben ihre Stimmen nach dem Lebensalter vom ältesten angefangen, abzugeben.
+
+#### § 31
+
+§ 31. Die Beschlüsse werden mit unbedingter Stimmenmehrheit gefasst. Der Vorsitzende stimmt nicht mit. Hat aber von mehreren Meinungen wenigstens eine die Hälfte aller Stimmen auf sich vereinigt, ist auch der Vorsitzende verpflichtet, seine Stimme abzugeben. Tritt er in diesem Fall einer Meinung bei, die die Hälfte der Stimmen auf sich vereinigt hat, ist sie zum Beschluss erhoben. Besteht zwischen zwei gleichgeteilten Meinungen der Unterschied nur über Summen, kann der Vorsitzende auch eine mittlere Summe bestimmen. Beschlüsse gemäß § 19 Abs. 3 Z 1 bedürfen der Einstimmigkeit.
+
+#### § 32
+
+§ 32. (1) Hat sich für keine Meinung die zu einem Beschluss erforderliche Stimmenmehrheit ergeben, ist die Umfrage zu wiederholen.
+
+(2) Ergibt sich auch hiebei nicht die erforderliche Stimmenmehrheit, ist eine neue Abstimmung vorzunehmen, bei der die gestellten Anträge nötigenfalls in mehrere Fragepunkte zu zerlegen sind.
+
+(3) Der über einen Punkt gefasste Beschluss ist der Beratung und Beschlussfassung über alle folgenden Punkte in der Art zugrunde zu legen, dass ihn auch die Stimmführer, die dem früheren Beschluss nicht zugestimmt haben, als Grundlage anzunehmen und danach weiter abzustimmen haben.
+
+#### § 35
+
+§ 35. (1) Soweit in diesem Gesetz nicht anderes bestimmt ist, ist auf das Verfahren vor dem Verfassungsgerichtshof die Zivilprozessordnung – ZPO, RGBl. Nr. 113/1895, sinngemäß anzuwenden.
+
+(2) Insbesondere finden die Bestimmungen dieses Gesetzes auch auf die Berechnung von Fristen Anwendung; die Tage des Postlaufs werden in die Fristen nicht eingerechnet.
+
+#### § 36
+
+§ 36. Für Exekutionen, die auf Grund des Art. 126a, des Art. 127c Z 1 oder des Art. 137 B-VG durchzuführen sind, bildet das Erkenntnis des Verfassungsgerichtshofes den Exekutionstitel.
+
+## 2. Hauptstück
+
+### Besondere Bestimmungen
+
+#### § 36a – A. Bei Meinungsverschiedenheiten über die Auslegung der gesetzlichen Bestimmungen, die die Zuständigkeit des Rechnungshofes oder eines Landesrechnungshofes regeln (Art. 126a und Art. 127c Z 1 B-VG und § 10 Abs. 10 des Parteiengesetzes 2012)
+
+§ 36a. (1) Bei Meinungsverschiedenheiten zwischen dem Rechnungshof und einem Rechtsträger (Art. 121 Abs. 1 B-VG) über die Auslegung der gesetzlichen Bestimmungen, die die Zuständigkeit des Rechnungshofes regeln, können der Rechnungshof sowie in Angelegenheiten der Bundesgebarung die Bundesregierung und in Angelegenheiten der Länder-, Gemeindeverbände- und Gemeindegebarung die Landesregierung den Antrag auf Entscheidung durch den Verfassungsgerichtshof stellen. Eine Meinungsverschiedenheit liegt vor, wenn ein Rechtsträger die Zuständigkeit des Rechnungshofes zur Gebarungsüberprüfung ausdrücklich bestreitet oder die Gebarungsüberprüfung tatsächlich nicht zulässt, oder aber der Rechnungshof sich weigert, besondere Akte der Gebarungsüberprüfung durchzuführen.
+
+(2) Ein Antrag ist nicht mehr zulässig, wenn seit dem Auftreten der Meinungsverschiedenheit ein Jahr vergangen ist.
+
+#### § 36b
+
+§ 36b. Wird der Verfassungsgerichtshof angerufen, so hat dies den Aufschub oder die Unterbrechung der betreffenden Amtshandlung des Rechnungshofes bis zur Entscheidung durch den Verfassungsgerichtshof zur Folge.
+
+#### § 36c
+
+§ 36c. (1) Parteien sind der Antragsteller, der Rechtsträger, mit dem eine Meinungsverschiedenheit über die Zuständigkeit des Rechnungshofes entstanden ist, und der Rechnungshof.
+
+(2) Hat sich die Meinungsverschiedenheit mit einem Rechtsträger ergeben, der nicht eine Gebietskörperschaft ist, so sind im Fall einer Unternehmung jene Gebietskörperschaften, die an dieser beteiligt sind, wenn es sich jedoch um einen anderen Rechtsträger handelt, jene Gebietskörperschaften, in deren Gebarungsbereich der betreffende Rechtsträger fällt, vom Verfassungsgerichtshof zu einer Äußerung aufzufordern und als mitbeteiligte Parteien dem Verfahren beizuziehen.
+
+#### § 36d
+
+§ 36d. In einem Erkenntnis, mit dem festgestellt wird, dass der Rechnungshof zur Überprüfung der Gebarung eines Rechtsträgers zuständig ist, ist auch auszusprechen, dass der Rechtsträger schuldig ist, die Gebarungsüberprüfung bei sonstiger Exekution zu ermöglichen.
+
+#### § 36e
+
+§ 36e. Das Erkenntnis des Verfassungsgerichtshofes ist tunlichst binnen sechs Monaten nach Einlangen des Antrages zu fällen und den Parteien des Verfahrens zuzustellen.
+
+#### § 36f
+
+§ 36f. (1) In Verfahren über eine Meinungsverschiedenheit zwischen einer Gebietskörperschaft und dem Rechnungshof werden Kosten nicht zugesprochen.
+
+(2) In Verfahren über eine Meinungsverschiedenheit zwischen anderen Rechtsträgern und dem Rechnungshof kann der unterlegenen Partei sowie einer Partei, die ihren Antrag vor der mündlichen Verhandlung zurückgezogen hat, auf Antrag der Ersatz der Prozesskosten auferlegt werden.
+
+#### § 36g
+
+§ 36g. Bei Meinungsverschiedenheiten zwischen dem Rechnungshof und einer politischen Partei über die Zulässigkeit einer Überprüfung kann der Rechnungshof oder die politische Partei den Antrag auf Entscheidung durch den Verfassungsgerichtshof stellen (§ 10 Abs. 10 des Parteiengesetzes 2012, BGBl. I Nr. 56/2012). Die vorstehenden Bestimmungen dieses Abschnittes sind sinngemäß anzuwenden
+
+## B. Bei vermögensrechtlichen Ansprüchen gegen den Bund, die Länder, die Gemeinden und die Gemeindeverbände, die weder im ordentlichen Rechtsweg auszutragen noch durch Bescheid einer Verwaltungsbehörde zu erledigen sind (Art. 137 B-VG)
+
+#### § 37
+
+§ 37. Das Begehren ist in einer Klage zu stellen, die gegen den Bund, gegen ein Land, gegen eine Gemeinde oder gegen einen Gemeindeverband als beklagte Partei gerichtet wird.
+
+#### § 38
+
+§ 38. Die Klage kann auch auf Feststellung des Bestehens oder Nichtbestehens eines Rechtes oder Rechtsverhältnisses gerichtet werden, wenn die klagende Partei ein rechtliches Interesse daran hat, dass das Recht oder das Rechtsverhältnis alsbald festgestellt werde.
+
+#### § 39
+
+§ 39. (1) Eine Ausfertigung der Klage samt deren Beilagen ist der beklagten Partei mit dem Auftrage zuzustellen, innerhalb einer bestimmten Frist eine Gegenschrift einzubringen. Die Frist ist mit mindestens zwei Wochen zu bemessen.
+
+(2) Zur Vorbereitung der Entscheidung kann den Parteien auch die Erstattung weiterer Äußerungen und Gegenäußerungen innerhalb zu bestimmender Fristen freigestellt werden.
+
+(3) Eine Verlängerung dieser Fristen kann nur aus erheblichen Gründen bewilligt werden; die Zustimmung der Gegenpartei ist hiezu weder erforderlich noch ausreichend.
+
+#### § 40
+
+§ 40. Nach Einlangen der Gegenschrift und weiterer etwa verlangter Äußerungen oder nach Ablauf der Fristen beraumt der Präsident die Verhandlung an.
+
+#### § 41
+
+§ 41. Dem unterliegenden Teil kann auf Antrag der Ersatz der Prozesskosten auferlegt werden. Der Ersatz von Kosten kann auf Antrag auch der klagenden Partei auferlegt werden, wenn sie die von ihr eingebrachte Klage vor Beginn der öffentlichen mündlichen Verhandlung zurückzieht und der beklagten Partei bereits Kosten erwachsen sind.
+
+## C. Bei Entscheidungen in Kompetenzfragen (Art. 138 B-VG)
+
+### a) In den Fällen des Art. 138 Abs. 1 B-VG (Kompetenzkonflikte)
+
+#### § 42
+
+§ 42. (1) Der Antrag auf Entscheidung eines Kompetenzkonfliktes, der dadurch entstand, dass ein Gericht und eine Verwaltungsbehörde (Art. 138 Abs. 1 Z 1 B-VG) die Entscheidung derselben Sache in Anspruch genommen oder in der Sache selbst entschieden haben (bejahender Kompetenzkonflikt), kann nur so lange gestellt werden, als nicht in der Hauptsache ein rechtskräftiger Spruch gefällt ist.
+
+(2) Der Antrag ist von der zuständigen obersten Verwaltungsbehörde des Bundes oder eines Landes binnen der Frist von vier Wochen nach Ablauf des Tages zu stellen, an dem diese Behörde von dem Kompetenzkonflikt amtlich Kenntnis erlangt hat.
+
+(3) Die Versäumung dieser Frist hat die Zuständigkeit des Gerichtes zur Entscheidung der Rechtssache zur Folge.
+
+(4) Die antragstellende Behörde hat sofort dem betreffenden Gerichte mitzuteilen, dass sie den Antrag gestellt hat.
+
+(5) Das Einlangen dieser Mitteilung unterbricht das anhängige Verfahren bis zur Entscheidung des Verfassungsgerichtshofes.
+
+#### § 43
+
+§ 43. (1) Ist ein Kompetenzkonflikt dadurch entstanden, dass ein ordentliches Gericht und ein Verwaltungsgericht, ein ordentliches Gericht und der Verwaltungsgerichtshof oder der Verfassungsgerichtshof selbst und ein anderes Gericht (Art. 138 Abs. 1 Z 2 B-VG) die Entscheidung derselben Sache in Anspruch genommen haben (bejahender Kompetenzkonflikt), so hat der Verfassungsgerichtshof nur dann ein Erkenntnis zu fällen, wenn von einem der genannten Gerichte ein rechtskräftiger Spruch in der Hauptsache noch nicht gefällt ist.
+
+(2) Hat ein Gericht bereits einen rechtskräftigen Spruch in der Hauptsache gefällt, so bleibt die alleinige Zuständigkeit dieses Gerichtes aufrecht.
+
+(3) Lag ein rechtskräftiger Spruch in der Hauptsache noch nicht vor, so ist das Verfahren zur Entscheidung des Kompetenzkonfliktes einzuleiten, sobald der Verfassungsgerichtshof von dem Entstehen des Konfliktes, sei es durch Anzeige eines im Abs. 1 bezeichneten Gerichtes oder der an der Sache beteiligten Behörden oder Parteien, sei es durch den Inhalt seiner eigenen Akten, Kenntnis erlangt.
+
+(4) Die im Abs. 3 genannten Behörden sind zu dieser Anzeige verpflichtet.
+
+(5) Die Einleitung des Verfahrens beim Verfassungsgerichtshof unterbricht das bei dem betreffenden Gericht anhängige Verfahren bis zur Entscheidung des Kompetenzkonfliktes.
+
+#### § 44
+
+§ 44. Während der Unterbrechung kann die Aufschiebung einer bewilligten Exekution, die Exekution zur Sicherstellung, eine einstweilige Verfügung oder deren Aufschiebung von dem zuständigen Gerichte nach Maßgabe der Bestimmungen der Exekutionsordnung – EO, RGBl. Nr. 79/1896, bewilligt werden.
+
+#### § 45
+
+§ 45. Zur Verhandlung sind die beteiligten Parteien zu laden. Den beteiligten Behörden, einschließlich der Gerichte, ist das Erscheinen freizustellen.
+
+#### § 46
+
+§ 46. (1) Der Antrag auf Entscheidung eines Kompetenzkonfliktes, der dadurch entstanden ist, dass in derselben Sache
+
+1\. ein Gericht und eine Verwaltungsbehörde (Art. 138 Abs. 1 Z 1 B-VG) oder
+
+2\. ein ordentliches Gericht und ein Verwaltungsgericht, ein ordentliches Gericht und der Verwaltungsgerichtshof oder der Verfassungsgerichtshof selbst und ein anderes Gericht (Art. 138 Abs. 1 Z 2 B-VG)
+
+die Zuständigkeit abgelehnt haben (verneinender Kompetenzkonflikt), kann nur von der beteiligten Partei gestellt werden.
+
+(2) Zur Verhandlung ist die beteiligte Partei zu laden. Den beteiligten Behörden, einschließlich der Gerichte, ist das Erscheinen freizustellen.
+
+#### § 47
+
+§ 47. (1) Entsteht ein Kompetenzkonflikt zwischen zwei Ländern oder zwischen einem Land und dem Bund (Art. 138 Abs. 1 Z 3 B-VG) dadurch, dass jedes der Länder oder das Land und der Bund das Verfügungs- oder Entscheidungsrecht in derselben Verwaltungsangelegenheit beansprucht haben (bejahender Kompetenzkonflikt), so kann jede der beteiligten Regierungen den Antrag auf Entscheidung stellen.
+
+(2) Der Antrag ist binnen der Frist von vier Wochen nach Ablauf des Tages zu stellen, an dem die antragstellende Regierung von dem Kompetenzkonflikt amtlich Kenntnis erlangt hat.
+
+(3) Die antragstellende Regierung hat sofort der beteiligten Regierung den Antrag mitzuteilen.
+
+(4) Die Anrufung des Verfassungsgerichtshofes hat die Unterbrechung des bei den Verwaltungsbehörden anhängigen Verfahrens zur Folge.
+
+#### § 48
+
+§ 48. Die am Verfahren beteiligten Personen sind berechtigt, im Fall eines Kompetenzkonfliktes gemäß den §§ 42, 43 und 47 an die zur Antragstellung berufene Verwaltungs- oder Gerichtsbehörde das Begehren zu richten, den Antrag auf Entscheidung des Kompetenzkonfliktes im Sinne des Gesetzes zu stellen. Wird diesem Antrag binnen einer Frist von vier Wochen nicht entsprochen, so ist die Partei selbst berechtigt, den Antrag auf Entscheidung des Kompetenzkonfliktes binnen weiteren vier Wochen beim Verfassungsgerichtshof zu stellen.
+
+#### § 49
+
+§ 49. Zur Verhandlung sind die beteiligten Regierungen und die an der Sache beteiligten Parteien zu laden.
+
+#### § 50
+
+§ 50. (1) Entsteht ein Kompetenzkonflikt (Art. 138 Abs. 1 Z 3 B-VG) dadurch, dass zwei Länder oder ein Land und der Bund das Verfügungs- oder Entscheidungsrecht in derselben Verwaltungsangelegenheit abgelehnt haben (verneinender Kompetenzkonflikt), so kann die abgewiesene Partei den Antrag auf Entscheidung stellen.
+
+(2) Zur Verhandlung sind der Antragsteller und die beteiligten Regierungen zu laden.
+
+#### § 51
+
+§ 51. Das Erkenntnis des Verfassungsgerichtshofes über die Kompetenz hat auch die Aufhebung der diesem Erkenntnis entgegenstehenden behördlichen Akte auszusprechen.
+
+#### § 52
+
+§ 52. Im Fall eines im Sinne der §§ 46, 48 und 50 durch die Partei anhängig gemachten Kompetenzkonfliktes kann der Verfassungsgerichtshof der Gebietskörperschaft, deren Behörde die Kompetenz mit Unrecht abgelehnt oder mit Unrecht in Anspruch genommen hat, den Ersatz der der Partei erwachsenen Prozesskosten auferlegen. Der Ersatz von Kosten kann der Partei auch dann auferlegt werden, wenn sie ihren Antrag vor Beginn der mündlichen öffentlichen Verhandlung zurückzieht und anderen Beteiligten bereits Kosten erwachsen sind.
+
+#### § 53 – b) In den Fällen des Art. 138 Abs. 2 B-VG
+
+§ 53. Der Antrag im Sinne des Art. 138 Abs. 2 B-VG hat die Feststellung zu begehren, ob eine Angelegenheit nach Gesetzgebung oder Vollziehung in die Zuständigkeit des Bundes oder der Länder fällt.
+
+#### § 54
+
+§ 54. Handelt es sich um die Zuständigkeit der Gesetzgebung, dann hat der Antrag einen Gesetzentwurf zu enthalten, der den Gegenstand der Beschlussfassung in einer gesetzgebenden Körperschaft bilden soll.
+
+#### § 55
+
+§ 55. Handelt es sich um die Zuständigkeit der Vollziehung, dann hat der Antrag zu enthalten:
+
+a) bei Verordnungen: den Entwurf der in Aussicht genommenen Verordnung und die Bezeichnung der Behörde, von der die Verordnung erlassen werden soll;
+
+b) bei sonstigen Akten der Vollziehung: den gegebenen Tatbestand, der einer Regelung unterzogen werden soll, und die Angabe der Behörde, von der der Bescheid ergehen soll.
+
+#### § 56
+
+§ 56. (1) Das Erkenntnis des Verfassungsgerichtshofes über einen Antrag nach § 53 wird nach öffentlicher mündlicher Verhandlung gefällt.
+
+(2) Zur Verhandlung sind außer der antragstellenden Regierung die Bundesregierung und sämtliche Landesregierungen mit dem Beifügen zu laden, dass es ihnen freisteht, an der Verhandlung teilzunehmen.
+
+(3) Zugleich mit der Anberaumung der Verhandlung werden die nichtantragstellenden Regierungen aufgefordert, eine schriftliche Äußerung über den Gegenstand dem Verfassungsgerichtshof so rechtzeitig vorzulegen, dass diese Äußerung spätestens eine Woche vor der Verhandlung dem Gerichtshof vorliegt.
+
+(4) Der Verfassungsgerichtshof fasst seine Feststellung in einem Rechtssatz zusammen. Der Rechtssatz ist vom Bundeskanzler unverzüglich im Bundesgesetzblatt kundzumachen.
+
+## D. Bei einem Antrag auf Feststellung des Vorliegens und der Erfüllung von Vereinbarungen zwischen Bund und Ländern oder der Länder untereinander (Art. 138a B-VG)
+
+#### § 56a
+
+§ 56a. (1) Der Antrag im Sinne des Art. 138a Abs. 1 B-VG hat die Feststellung zu begehren, dass
+
+1\. eine Vereinbarung zwischen dem Bund und einem oder mehreren Ländern vorliegt oder nicht vorliegt oder
+
+2\. eine aus einer Vereinbarung zwischen dem Bund und einem oder mehreren Ländern folgende Verpflichtung erfüllt oder nicht erfüllt worden ist.
+
+(2) Der Abs. 1 gilt für Vereinbarungen der Länder untereinander sinngemäß.
+
+(3) Der Antrag ist im Einzelnen zu begründen.
+
+#### § 56b
+
+§ 56b. (1) Der Präsident ordnet ohne Verzug die öffentliche mündliche Verhandlung an. Zu dieser sind die an der Vereinbarung beteiligten Regierungen zu laden. Der Bundesregierung obliegt die Vertretung des Bundes, der jeweiligen Landesregierung die Vertretung des Landes.
+
+(2) Zugleich mit der Anberaumung der Verhandlung werden die an der Sache beteiligten Regierungen aufgefordert, eine schriftliche Äußerung dem Verfassungsgerichtshof so rechtzeitig vorzulegen, dass sie spätestens eine Woche vor der Verhandlung dem Gerichtshof vorliegt. Der Verfassungsgerichtshof kann auch die anderen an der Vereinbarung beteiligten Regierungen zur Abgabe von Äußerungen auffordern.
+
+## E. Bei Anträgen betreffend die Einsetzung und die Tätigkeit von Untersuchungsausschüssen des Nationalrates und bei Anfechtung von Entscheidungen des Präsidenten des Nationalrates und des Vorsitzenden des Bundesrates betreffend die Klassifizierung von Informationen, die dem Nationalrat bzw. dem Bundesrat zur Verfügung stehen (Art. 138b B–VG)
+
+#### § 56c – a) Bei Anfechtung von Beschlüssen des Geschäftsordnungsausschusses des Nationalrates, mit denen ein Verlangen auf Einsetzung eines Untersuchungsausschusses des Nationalrates für ganz oder teilweise unzulässig erklärt wird
+
+§ 56c. (1) Die Frist zur Anfechtung eines Beschlusses des Geschäftsordnungsausschusses des Nationalrates, mit dem ein Verlangen auf Einsetzung eines Untersuchungsausschusses des Nationalrates für ganz oder teilweise unzulässig erklärt wird, beträgt zwei Wochen. Sie beginnt mit dem Zeitpunkt, den der Präsident des Nationalrates gemäß § 4 Abs. 2 der Anlage 1 zum Bundesgesetz über die Geschäftsordnung des Nationalrates: „Verfahrensordnung für parlamentarische Untersuchungsausschüsse“ festgestellt hat. Wurde ein Verlangen für gänzlich unzulässig erklärt, beginnt die Frist mit Beginn der Behandlung des Berichts des Geschäftsordnungsausschusses im Nationalrat.
+
+(2) Die Anfechtung hat zu enthalten:
+
+1\. die Bezeichnung des Beschlusses bzw. Berichts des Geschäftsordnungsausschusses;
+
+2\. den Sachverhalt;
+
+3\. die Gründe, auf die sich die Behauptung der Rechtswidrigkeit stützt;
+
+4\. die erforderlichen Beweise;
+
+5\. die Angaben und Unterlagen, die erforderlich sind, um zu beurteilen, ob der Beschluss rechtzeitig angefochten wurde.
+
+(3) Der Anfechtung ist eine Ausfertigung, Abschrift oder Kopie des Verlangens der Anfechtungswerber sowie des Beschlusses bzw. Berichts des Geschäftsordnungsausschusses anzuschließen.
+
+(4) Parteien des Verfahrens sind die Anfechtungswerber, die beschlussfassende Mehrheit im Geschäftsordnungsausschuss und die Bundesregierung.
+
+(5) Eine Ausfertigung der Anfechtung samt Beilagen ist der Bundesregierung mit der Mitteilung zuzustellen, dass es ihr freisteht, innerhalb einer Frist von zwei Wochen eine Äußerung zu erstatten.
+
+(6) Der Verfassungsgerichtshof entscheidet auf Grund der Aktenlage ohne unnötigen Aufschub, tunlichst aber binnen vier Wochen.
+
+(7) Der Beschluss des Geschäftsordnungsausschusses ist für rechtswidrig zu erklären, wenn die Anfechtung nicht zurückzuweisen oder als unbegründet abzuweisen ist. Der Untersuchungsausschuss gilt in dem Umfang, in dem der Verfassungsgerichtshof den Beschluss für rechtswidrig erklärt hat, als eingesetzt.
+
+#### § 56d – b) Bei einem Antrag auf Feststellung des hinreichenden Umfangs von grundsätzlichen Beweisbeschlüssen des Geschäftsordnungsausschusses des Nationalrates
+
+§ 56d. (1) Der Antrag im Sinne des Art. 138b Abs. 1 Z 2 B-VG hat die Feststellung zu begehren, dass der Umfang des grundsätzlichen Beweisbeschlusses des Geschäftsordnungsausschusses des Nationalrates nicht hinreichend ist, oder in welchem Umfang die gemäß § 24 Abs. 5 der Anlage 1 zum Bundesgesetz über die Geschäftsordnung des Nationalrates: „Verfahrensordnung für parlamentarische Untersuchungsausschüsse“ beschlossene Ergänzung des grundsätzlichen Beweisbeschlusses zu erweitern ist.
+
+(2) Der Antrag hat zu enthalten:
+
+1\. die Bezeichnung des Beschlusses bzw. Berichts des Geschäftsordnungsausschusses;
+
+2\. den Sachverhalt;
+
+3\. die Gründe, auf die sich die Behauptung des nicht hinreichenden Umfangs des grundsätzlichen Beweisbeschlusses oder seiner Ergänzung stützt;
+
+4\. die erforderlichen Beweise;
+
+5\. die Angaben und Unterlagen, die erforderlich sind, um zu beurteilen, ob der Antrag rechtzeitig gestellt wurde.
+
+(3) Dem Antrag ist eine Ausfertigung, Abschrift oder Kopie des Beschlusses bzw. Berichts des Geschäftsordnungsausschusses anzuschließen.
+
+(4) Ein Antrag betreffend den grundsätzlichen Beweisbeschluss ist nicht mehr zulässig, wenn seit dem Zeitpunkt, den der Präsident des Nationalrates gemäß § 4 Abs. 2 der Anlage 1 zum Bundesgesetz über die Geschäftsordnung des Nationalrates festgestellt hat, zwei Wochen vergangen sind. Ein Antrag betreffend die Ergänzung des grundsätzlichen Beweisbeschlusses ist nicht mehr zulässig, wenn seit dem Zeitpunkt der Veröffentlichung des grundsätzlichen Beweisbeschlusses samt Ergänzung gemäß § 24 Abs. 5 der Anlage 1 zum Bundesgesetz über die Geschäftsordnung des Nationalrates zwei Wochen vergangen sind.
+
+(5) Parteien des Verfahrens sind die Antragsteller, die beschlussfassende Mehrheit im Geschäftsordnungsausschuss und die Organe des Bundes, der Länder, der Gemeinden und der Gemeindeverbände sowie der sonstigen Selbstverwaltungskörper, die zur Vorlage der Beweismittel verpflichtet werden.
+
+(6) Der Verfassungsgerichtshof entscheidet auf Grund der Aktenlage ohne unnötigen Aufschub, tunlichst aber binnen vier Wochen, nachdem der Antrag vollständig eingebracht wurde.
+
+(7) Mit der Entscheidung über einen Antrag betreffend die Ergänzung des grundsätzlichen Beweisbeschlusses wird diese in dem vom Verfassungsgerichtshof festgestellten erweiterten Umfang wirksam.
+
+#### § 56e – c) Bei einem Antrag auf Feststellung der Rechtmäßigkeit eines Beschlusses, mit dem das Bestehen eines sachlichen Zusammenhanges eines Verlangens eines Viertels der Mitglieder eines Untersuchungsausschusses des Nationalrates betreffend die Erhebung weiterer Beweise mit dem Untersuchungsgegenstand bestritten wird
+
+§ 56e. (1) Der Antrag im Sinne des Art. 138b Abs. 1 Z 3 B-VG hat die Feststellung zu begehren, dass der Beschluss eines Untersuchungsausschusses des Nationalrates, mit dem das Bestehen eines sachlichen Zusammenhanges eines Verlangens eines Viertels seiner Mitglieder betreffend die Erhebung weiterer Beweise mit dem Untersuchungsgegenstand bestritten wird, rechtswidrig ist.
+
+(2) Der Antrag hat zu enthalten:
+
+1\. die Bezeichnung des Verlangens;
+
+2\. die Bezeichnung des Beschlusses;
+
+3\. den Sachverhalt;
+
+4\. die Gründe, auf die sich die Behauptung der Rechtswidrigkeit stützt;
+
+5\. die erforderlichen Beweise;
+
+6\. die Angaben und Unterlagen, die erforderlich sind, um zu beurteilen, ob der Antrag rechtzeitig gestellt wurde.
+
+(3) Dem Antrag ist eine Ausfertigung, Abschrift oder Kopie des Verlangens der Antragsteller, der gegenständlichen Teile des Protokolls der Ausschusssitzung sowie des Beschlusses des Untersuchungsausschusses anzuschließen.
+
+(4) Ein Antrag ist nicht mehr zulässig, wenn seit dem Beschluss des Untersuchungsausschusses zwei Wochen vergangen sind.
+
+(5) Bis zur Verkündung bzw. Zustellung des Erkenntnisses des Verfassungsgerichtshofes dürfen nur solche Handlungen vorgenommen oder Anordnungen und Entscheidungen getroffen werden, die durch das Erkenntnis des Verfassungsgerichtshofes nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+(6) Der Verfassungsgerichtshof entscheidet auf Grund der Aktenlage ohne unnötigen Aufschub, tunlichst aber binnen vier Wochen, nachdem der Antrag vollständig eingebracht wurde.
+
+(7) Mit der Feststellung des Verfassungsgerichtshofes über die Rechtswidrigkeit des Beschlusses wird das Verlangen auf Erhebung weiterer Beweise wirksam.
+
+#### § 56f – d) Bei Meinungsverschiedenheiten zwischen einem Untersuchungsausschuss des Nationalrates, einem Viertel seiner Mitglieder und informationspflichtigen Organen über die Verpflichtung, dem Untersuchungsausschuss Informationen zur Verfügung zu stellen
+
+§ 56f. (1) Ein Antrag auf Entscheidung einer Meinungsverschiedenheit zwischen einem Untersuchungsausschuss des Nationalrates, einem Viertel der Mitglieder dieses Untersuchungsausschusses und informationspflichtigen Organen über die Verpflichtung, dem Untersuchungsausschuss Informationen zur Verfügung zu stellen, ist nicht mehr zulässig, wenn seit dem Ablauf der Frist gemäß § 27 Abs. 4 der Anlage 1 zum Bundesgesetz über die Geschäftsordnung des Nationalrates: „Verfahrensordnung für parlamentarische Untersuchungsausschüsse“ zwei Wochen vergangen sind.
+
+(2) Bis zur Verkündung bzw. Zustellung des Erkenntnisses des Verfassungsgerichtshofes dürfen nur solche Handlungen vorgenommen oder Anordnungen und Entscheidungen getroffen werden, die durch das Erkenntnis des Verfassungsgerichtshofes nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+(3) Der Verfassungsgerichtshof entscheidet auf Grund der Aktenlage ohne unnötigen Aufschub, tunlichst aber binnen vier Wochen, nachdem der Antrag vollständig eingebracht wurde.
+
+#### § 56g – e) Bei einem Antrag auf Feststellung der Rechtmäßigkeit eines Beschlusses, mit dem das Bestehen eines sachlichen Zusammenhanges eines Verlangens eines Viertels der Mitglieder eines Untersuchungsausschusses des Nationalrates betreffend die Ladung einer Auskunftsperson mit dem Untersuchungsgegenstand bestritten wird
+
+§ 56g. (1) Der Antrag im Sinne des Art. 138b Abs. 1 Z 5 B-VG hat die Feststellung zu begehren, dass der Beschluss eines Untersuchungsausschusses des Nationalrates, mit dem das Bestehen eines sachlichen Zusammenhanges eines Verlangens eines Viertels seiner Mitglieder betreffend die Ladung einer Auskunftsperson mit dem Untersuchungsgegenstand bestritten wird, rechtswidrig ist.
+
+(2) Der Antrag hat zu enthalten:
+
+1\. die Bezeichnung des Verlangens;
+
+2\. die Bezeichnung des Beschlusses;
+
+3\. den Sachverhalt;
+
+4\. die Gründe, auf die sich die Behauptung der Rechtswidrigkeit stützt;
+
+5\. die erforderlichen Beweise;
+
+6\. die Angaben und Unterlagen, die erforderlich sind, um zu beurteilen, ob der Antrag rechtzeitig gestellt wurde.
+
+(3) Dem Antrag ist eine Ausfertigung, Abschrift oder Kopie des Verlangens der Antragsteller, der gegenständlichen Teile des Protokolls der Ausschusssitzung sowie des Beschlusses des Untersuchungsausschusses anzuschließen.
+
+(4) Ein Antrag ist nicht mehr zulässig, wenn seit dem Beschluss des Untersuchungsausschusses zwei Wochen vergangen sind.
+
+(5) Bis zur Verkündung bzw. Zustellung des Erkenntnisses des Verfassungsgerichtshofes dürfen nur solche Handlungen vorgenommen oder Anordnungen und Entscheidungen getroffen werden, die durch das Erkenntnis des Verfassungsgerichtshofes nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+(6) Der Verfassungsgerichtshof entscheidet auf Grund der Aktenlage ohne unnötigen Aufschub, tunlichst aber binnen vier Wochen, nachdem der Antrag vollständig eingebracht wurde.
+
+(7) Mit der Feststellung des Verfassungsgerichtshofes über die Rechtswidrigkeit des Beschlusses wird das Verlangen auf Ladung einer Auskunftsperson wirksam.
+
+#### § 56h – f) Bei Meinungsverschiedenheiten zwischen einem Untersuchungsausschuss des Nationalrates und dem Bundesminister für Justiz über das Erfordernis und die Auslegung einer Vereinbarung über die Rücksichtnahme auf die Tätigkeit der Strafverfolgungsbehörden
+
+§ 56h. (1) Ein Antrag auf Entscheidung einer Meinungsverschiedenheit zwischen einem Untersuchungsausschuss des Nationalrates und dem Bundesminister für Justiz über das Erfordernis und die Auslegung einer Vereinbarung über die Rücksichtnahme auf die Tätigkeit der Strafverfolgungsbehörden ist nicht mehr zulässig, wenn seit dem Ablauf der Frist gemäß § 58 Abs. 5 der Anlage 1 zum Bundesgesetz über die Geschäftsordnung des Nationalrates: „Verfahrensordnung für parlamentarische Untersuchungsausschüsse“ zwei Wochen vergangen sind.
+
+(2) Bis zur Verkündung bzw. Zustellung des Erkenntnisses des Verfassungsgerichtshofes dürfen nur solche Handlungen vorgenommen oder Anordnungen und Entscheidungen getroffen werden, die durch das Erkenntnis des Verfassungsgerichtshofes nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+#### § 56i – g) Bei Beschwerden wegen Verletzung in Persönlichkeitsrechten im Zusammenhang mit der Tätigkeit eines Untersuchungsausschusses
+
+§ 56i. (1) Personen, wegen deren Verhaltens in Ausübung ihrer Funktionen im Verfahren vor dem Untersuchungsausschuss Beschwerde erhoben werden kann (im Folgenden Funktionäre genannt), sind:
+
+1\. der Verfahrensrichter und sein Stellvertreter;
+
+2\. der Verfahrensanwalt und sein Stellvertreter;
+
+3\. der Ermittlungsbeauftragte;
+
+4\. der Vorsitzende und seine Stellvertreter.
+
+(2) Die Frist zur Erhebung der Beschwerde wegen eines Verhaltens
+
+1\. eines Untersuchungsausschusses des Nationalrates,
+
+2\. eines Mitgliedes eines solchen Ausschusses in Ausübung seines Berufes als Mitglied des Nationalrates oder
+
+3\. eines Funktionärs eines Untersuchungsausschusses
+
+beträgt sechs Wochen. Sie beginnt mit dem Zeitpunkt, in dem der Betroffene Kenntnis von dem Verhalten erlangt hat, wenn er aber durch dieses Verhalten behindert war, von seinem Beschwerderecht Gebrauch zu machen, mit dem Wegfall dieser Behinderung.
+
+(3) Die Beschwerde hat zu enthalten:
+
+1\. die Bezeichnung des angefochtenen Verhaltens und, soweit dies zumutbar ist, die Angabe, wer es gesetzt hat;
+
+2\. den Sachverhalt;
+
+3\. die Bezeichnung der Persönlichkeitsrechte, in denen der Beschwerdeführer verletzt zu sein behauptet;
+
+4\. die erforderlichen Beweise;
+
+5\. die Angaben, die erforderlich sind, um zu beurteilen, ob das Verhalten rechtzeitig angefochten wurde.
+
+(4) Parteien des Verfahrens sind der Beschwerdeführer und der Präsident des Nationalrates.
+
+(5) Eine Ausfertigung der Beschwerde ist dem Präsidenten des Nationalrates mit der Aufforderung zuzustellen, dass es ihm freisteht, eine Äußerung zu erstatten. Er hat gegebenenfalls jene Mitglieder oder Funktionäre, wegen deren Verhaltens Beschwerde erhoben worden ist, unter Setzung einer angemessenen Frist aufzufordern, ihm gegenüber zu dieser schriftlich Stellung zu nehmen. Die zur Erstattung der Äußerung gesetzte Frist hat mindestens vier Wochen, wenn sich die Beschwerde jedoch auch gegen ein Verhalten von Mitgliedern des Untersuchungsausschusses oder Funktionären richtet, mindestens sechs Wochen zu betragen.
+
+(6) Die Äußerung hat zu enthalten:
+
+1\. den Sachverhalt;
+
+2\. die erforderlichen Beweise;
+
+3\. die Stellungnahmen gemäß Abs. 5.
+
+(7) Der Verfassungsgerichtshof entscheidet ohne unnötigen Aufschub.
+
+(8) Das angefochtene Verhalten ist für rechtswidrig zu erklären, wenn die Beschwerde nicht zurückzuweisen oder als unbegründet abzuweisen ist.
+
+#### § 56j – h) Bei Anfechtung von Entscheidungen des Präsidenten des Nationalrates und des Vorsitzenden des Bundesrates betreffend die Klassifizierung von Informationen, die dem Nationalrat bzw. dem Bundesrat zur Verfügung stehen
+
+§ 56j. (1) Die Frist zur Anfechtung einer Entscheidung des Präsidenten des Nationalrates oder des Vorsitzenden des Bundesrates betreffend die Klassifizierung von Informationen, die dem Nationalrat bzw. dem Bundesrat zur Verfügung stehen, beträgt zwei Wochen. Sie beginnt mit dem Zeitpunkt, in dem das informationspflichtige Organ von der Entscheidung Kenntnis erlangt hat.
+
+(2) Die Anfechtung hat zu enthalten:
+
+1\. die Bezeichnung der Entscheidung;
+
+2\. den Sachverhalt;
+
+3\. die Gründe, auf die sich die Behauptung der Rechtswidrigkeit stützt;
+
+4\. die erforderlichen Beweise;
+
+5\. die Angaben, die erforderlich sind, um zu beurteilen, ob die Entscheidung rechtzeitig angefochten wurde.
+
+(3) Der Anfechtung ist eine Ausfertigung, Abschrift oder Kopie der Entscheidung des Präsidenten des Nationalrates oder Vorsitzenden des Bundesrates anzuschließen.
+
+(4) Parteien des Verfahrens sind der Präsident des Nationalrates bzw. der Vorsitzende des Bundesrates und das informationspflichtige Organ.
+
+(5) Der Verfassungsgerichtshof entscheidet auf Grund der Aktenlage ohne unnötigen Aufschub, tunlichst aber binnen vier Wochen, nachdem die Anfechtung vollständig eingebracht wurde.
+
+(6) Die Anfechtung hat aufschiebende Wirkung.
+
+(7) Die Entscheidung des Präsidenten des Nationalrates bzw. des Vorsitzenden des Bundesrates ist für rechtswidrig zu erklären, wenn die Anfechtung nicht zurückzuweisen oder als unbegründet abzuweisen ist.
+
+#### § 56k – i) Ausfertigungen in den Verfahren gemäß diesem Abschnitt
+
+§ 56k. In den Verfahren gemäß den §§ 56c bis 56j sind alle Schriftsätze der Parteien des Verfahrens und Entscheidungen des Verfassungsgerichtshofes auch dem Präsidenten des Nationalrates zuzustellen.
+
+#### § 57 – F. Bei Prüfung der Gesetzmäßigkeit von Verordnungen (Art. 139 B-VG)
+
+§ 57. (1) Der Antrag, eine Verordnung als gesetzwidrig aufzuheben, muss begehren, dass entweder die Verordnung ihrem ganzen Inhalt nach oder dass bestimmte Stellen der Verordnung als gesetzwidrig aufgehoben werden. Der Antrag hat die gegen die Gesetzmäßigkeit der Verordnung sprechenden Bedenken im Einzelnen darzulegen. Wird ein solcher Antrag von einer Person gestellt, die unmittelbar durch die Gesetzwidrigkeit der Verordnung in ihren Rechten verletzt zu sein behauptet (Art. 139 Abs. 1 Z 3 B-VG), so ist auch darzutun, inwieweit die Verordnung ohne Fällung einer gerichtlichen Entscheidung oder ohne Erlassung eines Bescheides für sie wirksam geworden ist.
+
+(2) Von einem Gericht und einer Person gemäß § 57a kann der Antrag auf Aufhebung einer Verordnung oder von bestimmten Stellen einer solchen nur dann gestellt werden, wenn die Verordnung vom Gericht in der anhängigen Rechtssache unmittelbar anzuwenden bzw. wenn die Gesetzmäßigkeit der Verordnung eine Vorfrage für die Entscheidung der beim Gericht anhängigen Rechtssache ist oder nach Ansicht der Antragsteller wäre. Der Antrag hat darzulegen, inwiefern das Gericht die Verordnung anzuwenden und welche Auswirkungen die Entscheidung des Verfassungsgerichtshofes auf die beim Gericht anhängige Rechtssache hätte.
+
+(3) Hat ein Gericht (Art. 139 Abs. 1 Z 1 B-VG) einen Antrag auf Aufhebung einer Verordnung oder von bestimmten Stellen einer solchen gestellt, so dürfen in dem bei ihm anhängigen Verfahren bis zur Verkündung bzw. Zustellung des Erkenntnisses des Verfassungsgerichtshofes nur solche Handlungen vorgenommen oder Anordnungen und Entscheidungen getroffen werden, die durch das Erkenntnis des Verfassungsgerichtshofes nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+(4) Hat das Gericht (Art. 139 Abs. 1 Z 1 B-VG) die Verordnung, deren Aufhebung beantragt wurde, nicht mehr anzuwenden, so ist der Antrag unverzüglich zurückzuziehen.
+
+#### § 57a
+
+§ 57a. (1) Eine Person, die als Partei einer von einem ordentlichen Gericht in erster Instanz entschiedenen Rechtssache wegen Anwendung einer gesetzwidrigen Verordnung in ihren Rechten verletzt zu sein behauptet, kann einen Antrag stellen, die Verordnung als gesetzwidrig aufzuheben (Art. 139 Abs. 1 Z 4 B-VG). Die Stellung eines solchen Antrages ist unzulässig:
+
+1\. im Verfahren zur Anordnung oder Durchsetzung der Rückstellung widerrechtlich verbrachter oder zurückgehaltener Kinder (§ 111a AußStrG);
+
+2\. im Besitzstörungsverfahren (§§ 454 bis 459 ZPO);
+
+3\. im Beweissicherungsverfahren (§§ 384 bis 389 ZPO);
+
+\*(Anm.: Z 4 aufgehoben durch Art. 5 Z 2, BGBl. I Nr. 88/2023)*
+
+\*(Anm.: Z 5 aufgehoben durch Art. 5 Z 2, BGBl. I Nr. 88/2023)*
+
+6\. im Verfahren betreffend mittlerweilige Vorkehrungen gemäß § 180 der Notariatsordnung – NO, RGBl. Nr. 75/1871;
+
+7\. im Verfahren gemäß den Bestimmungen des Unterhaltsvorschußgesetzes 1985 – UVG, BGBl. Nr. 451/1985;
+
+8\. im Insolvenzverfahren;
+
+9\. im Exekutionsverfahren und im Verfahren betreffend einstweilige Verfügungen gemäß den Bestimmungen der Exekutionsordnung – EO, RGBl. Nr. 79/1896, einschließlich des Verfahrens über die Vollstreckbarerklärung.
+
+\*(Anm.: Z 10 aufgehoben durch Art. 5 Z 2, BGBl. I Nr. 88/2023)*
+
+(2) Der gesetzliche Vertreter eines jugendlichen Beschuldigten (§ 38 des Jugendgerichtsgesetzes 1988 – JGG, BGBl. Nr. 599/1988) hat das Recht, auch gegen den Willen des Beschuldigten zu dessen Gunsten einen Antrag zu stellen, die Verordnung als gesetzwidrig aufzuheben.
+
+(3) Der Antrag hat über die Erfordernisse des § 57 hinaus zu enthalten:
+
+1\. die Bezeichnung der Entscheidung und des ordentlichen Gerichtes, das sie erlassen hat;
+
+2\. die Angaben, die erforderlich sind, um zu beurteilen, ob der Antrag rechtzeitig eingebracht ist.
+
+(4) Dem Antrag sind eine Ausfertigung, Abschrift oder Kopie der Entscheidung sowie eine Abschrift oder Kopie dieses Rechtsmittels anzuschließen.
+
+(5) Der Verfassungsgerichtshof hat das ordentliche Gericht erster Instanz von der Stellung eines Antrages gemäß Abs. 1 unverzüglich zu verständigen. Dieses hat dem Verfassungsgerichtshof seine Entscheidung über die Rechtzeitigkeit und Zulässigkeit des Rechtsmittels mitzuteilen.
+
+(6) In dem beim Rechtsmittelgericht anhängigen Verfahren dürfen bis zur Verkündung bzw. Zustellung des Erkenntnisses des Verfassungsgerichtshofes nur solche Handlungen vorgenommen oder Anordnungen und Entscheidungen getroffen werden, die durch das Erkenntnis des Verfassungsgerichtshofes nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+#### § 58
+
+§ 58. (1) Der Präsident ordnet ohne Verzug die Verhandlung an. Zu dieser sind der Antragsteller, die Verwaltungsbehörde, die die Verordnung erlassen hat, und die zuständige oberste Verwaltungsbehörde des Bundes oder des Landes, die zur Vertretung der angefochtenen Verordnung berufen ist, zu laden. In den Fällen des Art. 139 Abs. 1 Z 1 und 4 B-VG sind auch die an der Rechtssache beteiligten Parteien zu laden.
+
+(2) Die Verwaltungsbehörde, die die Verordnung erlassen hat, und die zuständige oberste Verwaltungsbehörde des Bundes oder des Landes haben binnen zwei Wochen nach Empfang der Ladung eine schriftliche Äußerung über den Gegenstand zu erstatten.
+
+#### § 59
+
+§ 59. (1) Das Erkenntnis des Verfassungsgerichtshofes hat auszusprechen, ob der ganze Inhalt der Verordnung oder bestimmte Stellen derselben als gesetzwidrig aufgehoben werden.
+
+(2) Das Erkenntnis ist auch der Verwaltungsbehörde, die die Verordnung erlassen hat, und der zuständigen obersten Verwaltungsbehörde des Bundes oder des Landes zuzustellen. Lautet es auf Aufhebung, so muss in der gemäß Art. 139 Abs. 5 B-VG zu erlassenden Kundmachung zum Ausdruck gebracht werden, dass die Verordnung oder bestimmte Stellen derselben durch das genau zu bezeichnende Erkenntnis des Verfassungsgerichtshofes aufgehoben worden ist bzw. sind.
+
+#### § 60
+
+§ 60. Im Fall außergewöhnlicher Verhältnisse kann der Verfassungsgerichtshof auf Antrag der zuständigen obersten Verwaltungsbehörde des Bundes oder des Landes die in einem aufhebenden Erkenntnis für das Außerkrafttreten bestimmte Frist gemäß Art. 139 Abs. 5 B–VG erstrecken, wenn die erforderlichen rechtlichen Vorkehrungen aus rechtlichen oder tatsächlichen Gründen nicht innerhalb dieser Frist getroffen werden können. Die Höchstdauer der Fristen gemäß Art. 139 Abs. 5 B–VG darf dadurch nicht überschritten werden. Der Verfassungsgerichtshof entscheidet in nichtöffentlicher Sitzung durch Beschluss. Ein Beschluss des Verfassungsgerichtshofes, mit dem die im aufhebenden Erkenntnis bestimmte Frist gemäß Art. 139 Abs. 5 B–VG erstreckt wird, verpflichtet die zuständige oberste Behörde des Bundes oder des Landes zur unverzüglichen Kundmachung dieses Ausspruches.
+
+#### § 61
+
+§ 61. Die vorstehenden Bestimmungen dieses Abschnittes sind sinngemäß anzuwenden:
+
+1\. auf Anträge eines Gerichtes (Art. 139 Abs. 1 Z 1 B-VG), die die Entscheidung begehren, dass die angefochtene Verordnung oder bestimmte Stellen einer solchen gesetzwidrig waren (Art. 89 Abs. 3 B-VG);
+
+2\. wenn der Verfassungsgerichtshof über die Gesetzwidrigkeit einer Verordnung oder von bestimmten Stellen einer solchen von Amts wegen zu erkennen hat (Art. 139 Abs. 1 Z 2 B-VG).
+
+#### § 61a
+
+§ 61a. Wurde das Verordnungsprüfungsverfahren auf Antrag einer Person, die unmittelbar durch die Gesetzwidrigkeit der Verordnung in ihren Rechten verletzt zu sein behauptet (Art. 139 Abs. 1 Z 3 B-VG), eingeleitet, so sind ihr im Fall des Obsiegens die erwachsenen Prozesskosten von dem Rechtsträger zu ersetzen, für den die Behörde bei Erlassung der Verordnung gehandelt hat.
+
+## G. Bei Prüfung der Gesetzmäßigkeit von Kundmachungen über die Wiederverlautbarung eines Gesetzes (Staatsvertrages) (Art. 139a B-VG)
+
+#### § 61b
+
+§ 61b. Bei Prüfung der Gesetzmäßigkeit von Kundmachungen über die Wiederverlautbarung eines Gesetzes (Staatsvertrages) sind die Bestimmungen des Abschnittes F sinngemäß anzuwenden.
+
+## H. Bei Prüfung der Verfassungsmäßigkeit von Gesetzen (Art. 140 B-VG)
+
+#### § 62
+
+§ 62. (1) Der Antrag, ein Gesetz als verfassungswidrig aufzuheben, muss begehren, dass entweder das Gesetz seinem ganzen Inhalt nach oder dass bestimmte Stellen des Gesetzes als verfassungswidrig aufgehoben werden. Der Antrag hat die gegen die Verfassungsmäßigkeit des Gesetzes sprechenden Bedenken im Einzelnen darzulegen. Wird ein solcher Antrag von einer Person gestellt, die unmittelbar durch die Verfassungswidrigkeit des Gesetzes in ihren Rechten verletzt zu sein behauptet (Art. 140 Abs. 1 Z 1 lit. c B-VG), so ist auch darzutun, inwieweit das Gesetz ohne Fällung einer gerichtlichen Entscheidung oder ohne Erlassung eines Bescheides für sie wirksam geworden ist.
+
+(2) Von einem Gericht oder einer Person gemäß § 62a kann der Antrag auf Aufhebung eines Gesetzes oder von bestimmten Stellen eines solchen nur dann gestellt werden, wenn das Gesetz vom Gericht in der anhängigen Rechtssache unmittelbar anzuwenden bzw. wenn die Verfassungsmäßigkeit des Gesetzes eine Vorfrage für die Entscheidung der beim Gericht anhängigen Rechtssache ist oder nach Ansicht der Antragsteller wäre. Der Antrag hat darzulegen, inwiefern das Gericht das Gesetz anzuwenden und welche Auswirkungen die Entscheidung des Verfassungsgerichtshofes auf die beim Gericht anhängige Rechtssache hätte.
+
+(3) Hat ein Gericht (Art. 140 Abs. 1 Z 1 lit. a B-VG) einen Antrag auf Aufhebung eines Gesetzes oder von bestimmten Stellen eines solchen gestellt, so dürfen in dem bei ihm anhängigen Verfahren bis zur Verkündung bzw. Zustellung des Erkenntnisses des Verfassungsgerichtshofes nur solche Handlungen vorgenommen oder Anordnungen und Entscheidungen getroffen werden, die durch das Erkenntnis des Verfassungsgerichtshofes nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+(4) Hat das Gericht (Art. 140 Abs. 1 Z 1 lit. a B-VG) das Gesetz, dessen Aufhebung beantragt wurde, nicht mehr anzuwenden, so ist der Antrag unverzüglich zurückzuziehen.
+
+#### § 62a
+
+§ 62a. (1) Eine Person, die als Partei einer von einem ordentlichen Gericht in erster Instanz entschiedenen Rechtssache wegen Anwendung eines verfassungswidrigen Gesetzes in ihren Rechten verletzt zu sein behauptet, kann einen Antrag stellen, das Gesetz als verfassungswidrig aufzuheben (Art. 140 Abs. 1 Z 1 lit. d B-VG). Die Stellung eines solchen Antrages ist unzulässig:
+
+1\. im Verfahren zur Anordnung oder Durchsetzung der Rückstellung widerrechtlich verbrachter oder zurückgehaltener Kinder (§ 111a AußStrG);
+
+2\. im Besitzstörungsverfahren (§§ 454 bis 459 ZPO);
+
+3\. im Beweissicherungsverfahren (§§ 384 bis 389 ZPO);
+
+\*(Anm.: Z 4 aufgehoben durch VfGH, BGBl. I Nr. 107/2016)*
+
+\*(Anm.: Z 5 aufgehoben durch VfGH, BGBl. I Nr. 15/2016)*
+
+6\. im Verfahren betreffend mittlerweilige Vorkehrungen gemäß § 180 NO;
+
+7\. im Verfahren gemäß den Bestimmungen des UVG;
+
+8\. im Insolvenzverfahren;
+
+9\. im Exekutionsverfahren und im Verfahren betreffend einstweilige Verfügungen gemäß den Bestimmungen der EO, einschließlich des Verfahrens über die Vollstreckbarerklärung.
+
+\*(Anm.: Z 10 aufgehoben durch VfGH, BGBl. I Nr. 58/2016)*
+
+(2) Der gesetzliche Vertreter eines jugendlichen Beschuldigten (§ 38 JGG) hat das Recht, auch gegen den Willen des Beschuldigten zu dessen Gunsten einen Antrag zu stellen, das Gesetz als verfassungswidrig aufzuheben.
+
+(3) Der Antrag hat über die Erfordernisse des § 62 hinaus zu enthalten:
+
+1\. die Bezeichnung der Entscheidung und des ordentlichen Gerichtes, das sie erlassen hat;
+
+2\. die Angaben, die erforderlich sind, um zu beurteilen, ob der Antrag rechtzeitig eingebracht ist.
+
+(4) Dem Antrag sind eine Ausfertigung, Abschrift oder Kopie der Entscheidung sowie eine Abschrift oder Kopie dieses Rechtsmittels anzuschließen.
+
+(5) Der Verfassungsgerichtshof hat das ordentliche Gericht erster Instanz von der Stellung eines Antrages gemäß Abs. 1 unverzüglich zu verständigen. Dieses hat dem Verfassungsgerichtshof seine Entscheidung über die Rechtzeitigkeit und Zulässigkeit des Rechtsmittels mitzuteilen.
+
+(6) In dem beim Rechtsmittelgericht anhängigen Verfahren dürfen bis zur Verkündung bzw. Zustellung des Erkenntnisses des Verfassungsgerichtshofes nur solche Handlungen vorgenommen oder Anordnungen und Entscheidungen getroffen werden, die durch das Erkenntnis des Verfassungsgerichtshofes nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+#### § 63
+
+§ 63. (1) Der Präsident ordnet ohne Verzug die Verhandlung an. Zu dieser sind der Antragsteller und die zur Vertretung des angefochtenen Gesetzes berufene Regierung zu laden. Zur Vertretung eines angefochtenen Bundesgesetzes ist die Bundesregierung, eines angefochtenen Landesgesetzes die Landesregierung berufen. In den Fällen des Art. 140 Abs. 1 Z 1 lit. a und d B-VG sind auch die an der Rechtssache beteiligten Parteien zu laden.
+
+(2) Zugleich mit der Anberaumung der Verhandlung wird die berufene Regierung aufgefordert, eine schriftliche Äußerung über den Gegenstand dem Verfassungsgerichtshof so rechtzeitig vorzulegen, dass die Äußerung spätestens eine Woche vor der Verhandlung dem Gerichtshof vorliegt.
+
+\*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 33/2013)*
+
+#### § 64
+
+§ 64. (1) Das Erkenntnis des Verfassungsgerichtshofes hat auszusprechen, ob der ganze Inhalt des Gesetzes oder bestimmte Stellen desselben als verfassungswidrig aufgehoben werden.
+
+(2) Das Erkenntnis ist auch dem Bundeskanzler oder dem zuständigen Landeshauptmann zuzustellen. Lautet es auf Aufhebung, so muss in der gemäß Art. 140 Abs. 5 B-VG zu erlassenden Kundmachung zum Ausdruck gebracht werden, dass das Gesetz oder bestimmte Stellen desselben durch das genau zu bezeichnende Erkenntnis des Verfassungsgerichtshofes aufgehoben worden ist bzw. sind.
+
+#### § 64a
+
+§ 64a. Im Fall außergewöhnlicher Verhältnisse kann der Verfassungsgerichtshof auf Antrag der Bundesregierung oder der Landesregierung die in einem aufhebenden Erkenntnis für das Außerkrafttreten bestimmte Frist gemäß Art. 140 Abs. 5 B–VG erstrecken, wenn die erforderlichen gesetzlichen Vorkehrungen aus rechtlichen oder tatsächlichen Gründen nicht innerhalb dieser Frist getroffen werden können. Die Höchstdauer der Frist gemäß Art. 140 Abs. 5 B–VG darf dadurch nicht überschritten werden. Der Verfassungsgerichtshof entscheidet in nichtöffentlicher Sitzung durch Beschluss. Ein Beschluss des Verfassungsgerichtshofes, mit dem die im aufhebenden Erkenntnis für das Außerkrafttreten bestimmte Frist gemäß Art. 140 Abs. 5 B–VG erstreckt wird, verpflichtet den Bundeskanzler oder den zuständigen Landeshauptmann zur unverzüglichen Kundmachung dieses Ausspruches.
+
+#### § 65
+
+§ 65. Die vorstehenden Bestimmungen dieses Abschnittes sind sinngemäß anzuwenden:
+
+1\. auf Anträge eines Gerichtes (Art. 140 Abs. 1 Z 1 lit. a B-VG), die die Entscheidung begehren, dass das angefochtene Gesetz oder bestimmte Stellen eines solchen verfassungswidrig waren (Art. 89 Abs. 3 B-VG);
+
+2\. wenn der Verfassungsgerichtshof über die Verfassungswidrigkeit eines Gesetzes oder von bestimmten Stellen eines solchen von Amts wegen zu erkennen hat (Art. 140 Abs. 1 Z 1 lit. b B-VG).
+
+#### § 65a
+
+§ 65a. Wurde das Gesetzesprüfungsverfahren auf Antrag einer Person, die unmittelbar durch die Verfassungswidrigkeit des Gesetzes in ihren Rechten verletzt zu sein behauptet (Art. 140 Abs. 1 Z 1 lit. c B-VG), eingeleitet, so sind ihr im Fall des Obsiegens die erwachsenen Prozesskosten im Fall eines Bundesgesetzes vom Bund, im Fall eines Landesgesetzes vom betreffenden Land zu ersetzen.
+
+#### § 66 – I. Bei Prüfung der Rechtmäßigkeit von Staatsverträgen (Art. 140a B-VG)
+
+§ 66. Bei Prüfung der Rechtmäßigkeit von Staatsverträgen sind auf die politischen, gesetzändernden und gesetzesergänzenden Staatsverträge und auf die Staatsverträge, durch die die vertraglichen Grundlagen der Europäischen Union geändert werden, die Bestimmungen des Abschnittes H, auf alle anderen Staatsverträge die Bestimmungen des Abschnittes F sinngemäß mit folgenden Maßgaben anzuwenden:
+
+1\. Zur Verhandlung sind der Antragsteller und die Verwaltungsbehörde, die den Staatsvertrag abgeschlossen hat, zu laden. Zur Vertretung eines vom Bundespräsidenten abgeschlossenen Staatsvertrages ist die Bundesregierung, handelt es sich jedoch um einen Staatsvertrag gemäß Art. 16 Abs. 1 B-VG, die Landesregierung berufen.
+
+2\. Das Erkenntnis hat auszusprechen, ob der ganze Inhalt des Staatsvertrages oder bestimmte Stellen wegen Rechtswidrigkeit von den zu seiner Vollziehung berufenen Organen nicht anzuwenden sind.
+
+3\. Das Erkenntnis des Verfassungsgerichtshofes ist auch jener Verwaltungsbehörde zuzustellen, die den Staatsvertrag abgeschlossen hat. Hat der Bundespräsident den Staatsvertrag abgeschlossen, so ist das Erkenntnis der Bundesregierung, handelt es sich jedoch um einen Staatsvertrag gemäß Art. 16 Abs. 1 B-VG, der Landesregierung zuzustellen. Betrifft das Erkenntnis einen Staatsvertrag, der mit Genehmigung des Nationalrates abgeschlossen wurde, so ist es überdies dem Bundeskanzler zuzustellen, betrifft das Erkenntnis einen Staatsvertrag, der mit Genehmigung eines Landtages abgeschlossen wurde, so ist es überdies dem Landeshauptmann zuzustellen.
+
+4\. Wird in dem Erkenntnis des Verfassungsgerichtshofes die Rechtswidrigkeit festgestellt, so muss in der nach Art. 140a B-VG im Zusammenhang mit Art. 139 Abs. 5 oder Art. 140 Abs. 5 B-VG zu erlassenden Kundmachung zum Ausdruck gebracht werden, dass der Staatsvertrag nach dem genau zu bezeichnenden Erkenntnis des Verfassungsgerichtshofes von den zu seiner Vollziehung berufenen Organen nicht anzuwenden und die Wirksamkeit eines allfälligen, diesen Staatsvertrag betreffenden Genehmigungsbeschlusses oder einer allfälligen Anordnung, den Staatsvertrag durch Verordnung zu erfüllen, erloschen ist.
+
+## J. Bei Anfechtungen von Wahlen, bei Anträgen auf Mandatsverlust, bei Anfechtungen des Ergebnisses von Volksbegehren, Volksabstimmungen, Volksbefragungen und Europäischen Bürgerinitiativen, bei der Aufnahme von Personen in Wählerevidenzen und der Streichung von Personen aus Wählerevidenzen und bei der Anfechtung von selbstständig anfechtbaren Bescheiden und Entscheidungen der Verwaltungsbehörden und Erkenntnissen und Beschlüssen der Verwaltungsgerichte in allen diesen Fällen (Art. 141 B-VG)
+
+#### § 67
+
+§ 67. (1) Die Wahl des Bundespräsidenten, die Wahlen zu den allgemeinen Vertretungskörpern, zum Europäischen Parlament und zu den satzungsgebenden Organen (Vertretungskörpern) der gesetzlichen beruflichen Vertretungen, die Wahlen in die Landesregierung und in die mit der Vollziehung betrauten Organe einer Gemeinde (im Folgenden Gemeindevorstand genannt) und die Ergebnisse von Volksbegehren, Volksabstimmungen, Volksbefragungen und Europäischen Bürgerinitiativen können wegen jeder behaupteten Rechtswidrigkeit des Verfahrens (im Folgenden Wahlverfahren genannt) angefochten werden. Eine solche Anfechtung (im Folgenden Wahlanfechtung genannt) hat den begründeten Antrag auf Nichtigerklärung des Wahlverfahrens oder eines bestimmten Teiles desselben zu enthalten.
+
+(2) Die Anfechtung der Wahl in die Landesregierung bedarf eines Antrages eines Zehntels der Mitglieder des Landtages, mindestens aber von zwei Mitgliedern, die Anfechtung der Wahl in den Gemeindevorstand des Antrages eines Zehntels der Mitglieder des Gemeinderates, mindestens aber von zwei Mitgliedern. Zur Anfechtung der übrigen im Abs. 1 genannten Wahlen sind Wählergruppen (Parteien) berechtigt, die bei einer durch die Wahlordnung vorgeschriebenen Wahlbehörde Wahlvorschläge für die angefochtene Wahl rechtzeitig vorgelegt haben, und zwar durch ihren zustellungsbevollmächtigten Vertreter. Sieht die Wahlordnung keine derartige Anmeldung von Wahlvorschlägen vor, so richtet sich die Berechtigung zur Anfechtung von Wahlen vor dem Verfassungsgerichtshof nach den besonderen Bestimmungen solcher Wahlordnungen. Eine Wahlanfechtung kann auch der Wahlwerber einbringen, der behauptet, dass ihm die Wählbarkeit im Wahlverfahren rechtswidrig aberkannt wurde.
+
+(3) Der Verfassungsgerichtshof hat einer auf die Rechtswidrigkeit eines Bescheides oder einer Entscheidung einer Verwaltungsbehörde oder eines Erkenntnisses oder Beschlusses eines Verwaltungsgerichtes gegründeten Wahlanfechtung auf Antrag der anfechtenden Partei in sinngemäßer Anwendung des § 85 Abs. 2 erster Satz die aufschiebende Wirkung zuzuerkennen. § 85 Abs. 2 zweiter Satz, Abs. 3 und Abs. 4 ist sinngemäß anzuwenden.
+
+(4) Auf das Verfahren über die Aufnahme von Personen in Wählerevidenzen und die Streichung von Personen aus Wählerevidenzen sind die Bestimmungen dieses Abschnittes über Wahlanfechtungen, die auf die Rechtswidrigkeit eines Bescheides oder einer Entscheidung einer Verwaltungsbehörde oder eines Erkenntnisses oder Beschlusses eines Verwaltungsgerichtes gegründet werden, sinngemäß anzuwenden.
+
+#### § 68
+
+§ 68. (1) Soweit das in Betracht kommende Gesetz (im Folgenden Wahlordnung genannt) nicht anderes bestimmt, ist die Wahlanfechtung binnen vier Wochen nach Beendigung des Wahlverfahrens oder, wenn sie auf die Rechtswidrigkeit eines Bescheides oder einer Entscheidung einer Verwaltungsbehörde oder eines Erkenntnisses oder Beschlusses eines Verwaltungsgerichtes gegründet wird, binnen vier Wochen nach seiner bzw. ihrer Zustellung einzubringen. In den Angelegenheiten des eigenen Wirkungsbereiches der Gemeinde kann die Wahlanfechtung erst nach Erschöpfung des Instanzenzuges eingebracht werden. Wird in der Wahlanfechtung zum Zweck der Beweisführung auf Urkunden Bezug genommen, so sind ihr Ausfertigungen, Abschriften oder Kopien dieser Urkunden anzuschließen.
+
+(2) Der Verfassungsgerichtshof hat eine Ausfertigung der eingebrachten Wahlanfechtung der nach der in Betracht kommenden Wahlordnung höchsten Wahlbehörde mit dem Auftrag zu übermitteln, die Wahlakten binnen einer bestimmten Frist vorzulegen. Dieser Wahlbehörde steht es frei, eine Gegenschrift spätestens bei Vorlage der Wahlakten zu erstatten.
+
+#### § 69
+
+§ 69. (1) Zur öffentlichen mündlichen Verhandlung vor dem Verfassungsgerichtshof sind außer der anfechtenden Partei alle Wählergruppen (Parteien) zu laden, die an der Bewerbung zu der angefochtenen Wahl teilgenommen haben, oder die sonst nach der betreffenden Wahlordnung zur Anfechtung der Wahl berechtigten Parteien. Der im § 68 Abs. 2 bezeichneten Wahlbehörde ist die Entsendung eines Vertreters freizustellen.
+
+(2) Besteht die in der Wahlanfechtung behauptete Rechtswidrigkeit des Wahlverfahrens darin, dass eine nicht wählbare Person für gewählt erklärt oder einer wählbaren Person die Wählbarkeit zu Unrecht aberkannt worden ist, ist auch diese Person zu laden.
+
+#### § 70
+
+§ 70. (1) Einer gemäß § 67 eingebrachten Wahlanfechtung hat der Verfassungsgerichtshof stattzugeben, wenn die behauptete Rechtswidrigkeit des Wahlverfahrens erwiesen wurde und auf das Wahlergebnis von Einfluss war. In dem der Anfechtung stattgebenden Erkenntnis hat der Verfassungsgerichtshof entweder das ganze Wahlverfahren oder von ihm genau zu bezeichnende Teile des Wahlverfahrens aufzuheben.
+
+(2) Gibt der Verfassungsgerichtshof einer Wahlanfechtung statt, weil eine nicht wählbare Person für gewählt erklärt worden ist, so hat er die Wahl dieser Person für nichtig zu erklären. In diesem Fall finden die Bestimmungen der betreffenden Wahlordnung Anwendung, die sich auf das Freiwerden eines Mandats beziehen.
+
+(3) Gibt der Verfassungsgerichtshof einer Wahlanfechtung statt, weil einer wählbaren Person die Wählbarkeit zu Unrecht aberkannt worden ist, so hat das Erkenntnis auszusprechen, ob hiedurch die Wahl anderer Personen nichtig geworden ist, und in diesem Fall die Wahl dieser Personen aufzuheben. Hat die angefochtene Wahl auf Grund von angemeldeten Parteilisten stattgefunden, so hat die zuständige Wahlbehörde ihre Verlautbarung des Wahlergebnisses richtigzustellen.
+
+(4) Die Wahlbehörden, die nach Stattgebung der Wahlanfechtung in der Sache die weiteren Verfügungen zu treffen haben, sind an die tatsächlichen Feststellungen und an die Rechtsanschauung gebunden, von denen der Verfassungsgerichtshof bei seinem Erkenntnis ausgegangen ist.
+
+(5) In den Fällen der Abs. 1 bis 3 ist das Erkenntnis des Verfassungsgerichtshofes dem Vorsitzenden des betreffenden Vertretungskörpers (der gesetzlichen beruflichen Vertretung selbst) unverzüglich zuzustellen. Jene Personen, deren Wahl durch das Erkenntnis als aufgehoben oder als nichtig erklärt anzusehen ist, haben von dem dieser Zustellung folgenden Tag an den Beratungen des betreffenden Vertretungskörpers fernzubleiben und sich der Führung der Geschäfte in der Landesregierung (im Gemeindevorstand, in der gesetzlichen beruflichen Vertretung) zu enthalten. Ist jedoch auf Grund des aufhebenden Erkenntnisses des Verfassungsgerichtshofes die teilweise oder gänzliche Wiederholung der Wahl zu einem allgemeinen Vertretungskörper, zum Europäischen Parlament oder zu einem satzungsgebenden Organ (Vertretungskörper) einer gesetzlichen beruflichen Vertretung erforderlich, so verlieren die betroffenen Mitglieder dieses Vertretungskörpers ihr Mandat erst im Zeitpunkt der Übernahme desselben durch die in der Wiederholungswahl gewählten Mitglieder.
+
+#### § 71
+
+§ 71. (1) Die allgemeinen Vertretungskörper oder – sofern in den das Verfahren des jeweiligen Vertretungskörpers regelnden Rechtsvorschriften vorgesehen – der Vorsitzende oder ein Drittel der Mitglieder des Vertretungskörpers können beim Verfassungsgerichtshof den Antrag stellen, ein Mitglied des Vertretungskörpers aus einem gesetzlich vorgesehenen Grund seines Mandates für verlustig zu erklären. Dies gilt entsprechend für die Gemeinderäte gegenüber den Mitgliedern des Gemeindevorstandes hinsichtlich dieser Funktion und für die in den Wahlordnungen der gesetzlichen beruflichen Vertretungen hiezu bestimmten Organe gegenüber den satzungsgebenden Organen (Vertretungskörpern) einer gesetzlichen beruflichen Vertretung. Wird ein solcher Beschluss von einem dieser Vertretungskörper gefasst, so hat dessen Vorsitzender, wenn es sich aber um ihn selbst handelt, sein Stellvertreter den Antrag namens des Vertretungskörpers beim Verfassungsgerichtshof einzubringen.
+
+(2) Tritt der Verlust der Wählbarkeit infolge strafgerichtlicher Verurteilung ein, ist der Verfassungsgerichtshof an das rechtskräftige Strafurteil gebunden.
+
+(3) Auf das Verfahren finden die Bestimmungen über Wahlanfechtungen sinngemäß Anwendung. Zur öffentlichen mündlichen Verhandlung ist auch diejenige Person, die ihres Mandates verlustig erklärt werden soll, zu laden.
+
+(4) Die Abs. 1 bis 3 sind sinngemäß anzuwenden, wenn der Antrag auf Mandatsverlust gemäß den §§ 9 und 10 des Unvereinbarkeits- und Transparenz-Gesetzes – Unv-Transparenz-G, BGBl. Nr. 330/1983, gestellt wird.
+
+(5) Stellt der Vorsitzende eines Vertretungskörpers einen Antrag auf Mandatsverlust, ist dieser vom Vorsitzenden zu unterzeichnen.
+
+(6) Die Abs. 1 bis 3 sind auf Anträge auf Amtsverlust gemäß Art. 141 Abs. 1 lit. d, e und f B–VG sinngemäß anzuwenden.
+
+#### § 71a
+
+§ 71a. (1) Die Anfechtung eines Bescheides oder einer Entscheidung einer Verwaltungsbehörde oder eines Erkenntnisses oder Beschlusses eines Verwaltungsgerichtes, mit dem bzw. mit der der Verlust des Mandates in einem allgemeinen Vertretungskörper, der Funktion in einem Gemeindevorstand oder in einem satzungsgebenden Organ (Vertretungskörper) einer gesetzlichen beruflichen Vertretung ausgesprochen wird, ist binnen sechs Wochen nach seiner bzw. ihrer Zustellung einzubringen.
+
+(2) In dem Verfahren vor dem Verfassungsgerichtshof hat auch der Vertretungskörper (die gesetzliche berufliche Vertretung) Parteistellung.
+
+(3) Die Anfechtung hat aufschiebende Wirkung.
+
+(4) Der Verfassungsgerichtshof hat der Anfechtung stattzugeben und den angefochtenen Bescheid, die angefochtene Entscheidung, das angefochtene Erkenntnis bzw. den angefochtenen Beschluss aufzuheben, wenn die behauptete Rechtswidrigkeit stattgefunden hat.
+
+(5) Auf das Verfahren sind im Übrigen die §§ 82 Abs. 2 bis 3b, 83, 84 Abs. 1, 86 und 88 sinngemäß anzuwenden. Zur öffentlichen mündlichen Verhandlung sind der Anfechtungswerber sowie die Behörde zu laden.
+
+## K. Bei Anklagen, mit denen die verfassungsmäßige Verantwortlichkeit der obersten Bundes- und Landesorgane für die durch ihre Amtstätigkeit erfolgten schuldhaften Rechtsverletzungen geltend gemacht wird (Art. 142 und 143 B-VG)
+
+#### § 72
+
+§ 72. (1) Die von der Bundesversammlung, von dem Nationalrat oder von einem Landtag beschlossenen Anklagen werden beim Verfassungsgerichtshof durch Übermittlung einer beglaubigten Abschrift des Protokolls über die Sitzung erhoben, in der der Anklagebeschluss gefasst worden ist.
+
+(2) Der betreffende Vertretungskörper hat zugleich die Mitglieder zu bezeichnen, die mit der Vertretung der Anklage vor dem Verfassungsgerichtshof beauftragt sind.
+
+(3) Die von der Bundesregierung beschlossenen Anklagen sind vom Bundeskanzler einzubringen. Der Anklage muss die beglaubigte Abschrift der Stellen des Ministerratsprotokolls beigelegt werden, aus denen der Beschluss der Bundesregierung auf Erhebung der Anklage hervorgeht. Dies gilt sinngemäß auch für den Fall der nachträglichen Ausdehnung der Anklage auf ein nach Art. 103 Abs. 2 B-VG mit Angelegenheiten der mittelbaren Bundesverwaltung befasstes Mitglied der Landesregierung.
+
+#### § 73
+
+§ 73. Wird eine Anklage auch gemäß Art. 143 B-VG erhoben, so sind in der Anklageschrift die dem Beschuldigten zur Last gelegten strafbaren Handlungen nach allen ihren gesetzlichen, die Anwendung eines bestimmten Strafsatzes bedingenden Merkmalen, ihre gesetzliche Benennung und die Stellen des Strafgesetzes, deren Anwendung beantragt wird, anzuführen.
+
+#### § 74
+
+§ 74. (1) Der Anordnung der öffentlichen mündlichen Verhandlung hat eine Voruntersuchung voranzugehen.
+
+(2) Diese Voruntersuchung führt ein vom Präsidenten aus den Mitgliedern des Verfassungsgerichtshofes bestellter Untersuchungsrichter.
+
+(3) Öffentlich Bedienstete sind bei ihrer Vernehmung durch den Untersuchungsrichter und in der öffentlichen mündlichen Verhandlung von einer gesetzlichen Pflicht zur Geheimhaltung entbunden.
+
+(4) Die Untersuchung ist mit tunlichster Beschleunigung durchzuführen.
+
+(5) Die Voruntersuchung ist einzustellen, wenn der Vertretungskörper (die Vertretungskörper) oder die Bundesregierung ihre Anklage zurückziehen. Hierüber entscheidet der Verfassungsgerichtshof in nichtöffentlicher Sitzung.
+
+#### § 75
+
+§ 75. (1) Nach geschlossener Voruntersuchung legt der Untersuchungsrichter die Akten dem Präsidenten vor, der die öffentliche mündliche Verhandlung anzuordnen hat.
+
+(2) Der Tag der öffentlichen mündlichen Verhandlung ist derart zu bestimmen, dass dem Angeklagten insoweit er nicht selbst eine Abkürzung begehrt, zur Vorbereitung seiner Verteidigung eine Frist von wenigstens zwei Wochen bleibt.
+
+(3) Zur öffentlichen mündlichen Verhandlung sind sowohl der Angeklagte als auch dessen Verteidiger sowie die mit der Vertretung der Anklage Beauftragten zu laden.
+
+#### § 76
+
+§ 76. Der Untersuchungsrichter ist von der Mitwirkung bei der öffentlichen mündlichen Verhandlung ausgeschlossen.
+
+#### § 77
+
+§ 77. Die Öffentlichkeit der mündlichen Verhandlung darf nur wegen Gefährdung der Sicherheit des Staates ausgeschlossen werden.
+
+#### § 78
+
+§ 78. Die öffentliche mündliche Verhandlung beginnt mit der Verlesung der Anklage durch den Schriftführer.
+
+#### § 79
+
+§ 79. (1) Wenn der Angeklagte verurteilt wird, hat der Verfassungsgerichtshof in der Regel auch über geltend gemachte Ersatzansprüche zu erkennen.
+
+(2) Das Urteil kann sich darauf beschränken, die Verpflichtung zur Ersatzleistung auszusprechen und die Feststellung des Betrages dem ordentlichen Rechtsweg vorzubehalten.
+
+#### § 80
+
+§ 80. (1) Die Anklage muss beim Verfassungsgerichtshof binnen einem Jahr nach dem Tag erhoben werden, an dem die beschuldigte Person aus der Amtstätigkeit geschieden ist, auf die sich die zu erhebende Anklage beziehen würde.
+
+(2) In die einjährige Frist gemäß Abs. 1 ist der Zeitraum von dem Tag, an dem der Antrag auf Erhebung der Anklage im Vertretungskörper (im jeweiligen Vertretungskörper) gestellt worden ist, bis zur endgültigen Beschlussfassung über diesen Antrag – jedoch höchstens in der Dauer von sechs Monaten – nicht einzurechnen.
+
+(3) Durch den Ablauf der Gesetzgebungsperiode des Vertretungskörpers (eines der Vertretungskörper) oder durch das Ausscheiden der Bundesregierung aus dem Amt wird das Verfahren über eine beschlossene Anklage nicht gehindert.
+
+#### § 81
+
+§ 81. Auf das Verfahren über die gemäß den Art. 142 und 143 B-VG erhobenen Anklagen ist, soweit in diesem Gesetz nicht anderes bestimmt ist, die Strafprozeßordnung 1975 – StPO, BGBl. Nr. 631/1975, sinngemäß anzuwenden.
+
+## L. Bei Beschwerden wegen Verletzung in verfassungsgesetzlich gewährleisteten Rechten oder Verletzung in Rechten wegen Anwendung einer gesetzwidrigen Verordnung, einer gesetzwidrigen Kundmachung über die Wiederverlautbarung eines Gesetzes (Staatsvertrages), eines verfassungswidrigen Gesetzes oder eines rechtswidrigen Staatsvertrages (Art. 144 B-VG)
+
+#### § 82
+
+§ 82. (1) Die Frist zur Erhebung einer Beschwerde gegen ein Erkenntnis eines Verwaltungsgerichtes gemäß Art. 144 B-VG (Beschwerdefrist) beträgt sechs Wochen. Sie beginnt mit dem Tag der Zustellung des Erkenntnisses.
+
+(2) Ist das Erkenntnis bereits einer anderen Partei zugestellt worden, kann die Beschwerde bereits ab dem Zeitpunkt erhoben werden, in dem der Beschwerdeführer von dem Erkenntnis Kenntnis erlangt hat.
+
+(3) Hat die Partei innerhalb der Beschwerdefrist die Bewilligung der Verfahrenshilfe beantragt (§ 64 ZPO), so beginnt für sie die Beschwerdefrist mit der Zustellung des Bescheides über die Bestellung des Rechtsanwaltes an diesen. Der Bescheid ist durch den Verfassungsgerichtshof zuzustellen. Wird der rechtzeitig gestellte Antrag auf Bewilligung der Verfahrenshilfe abgewiesen, so beginnt die Beschwerdefrist mit der Zustellung des abweisenden Beschlusses an die Partei.
+
+(3a) Wurde das Erkenntnis des Verwaltungsgerichts mündlich verkündet (§ 29 Abs. 2 des Verwaltungsgerichtsverfahrensgesetzes – VwGVG, BGBl. I Nr. 33/2013), ist ein Antrag auf Verfahrenshilfe nur nach einem Antrag auf Ausfertigung des Erkenntnisses gemäß § 29 Abs. 4 VwGVG durch mindestens einen der hiezu Berechtigten zulässig. Ein Nachweis über einen rechtzeitigen Antrag auf Ausfertigung des Erkenntnisses gemäß § 29 Abs. 4 VwGVG ist anzuschließen.
+
+(3b) Die Beschwerde ist nicht mehr zulässig, wenn nach Verkündung oder Zustellung des Erkenntnisses oder Beschlusses ausdrücklich auf die Beschwerde verzichtet wurde. Der Verzicht ist bis zur Zustellung der Ausfertigung des Erkenntnisses oder Beschlusses dem Verwaltungsgericht, nach Zustellung der Ausfertigung des Erkenntnisses oder Beschlusses dem Verfassungsgerichtshof schriftlich bekanntzugeben oder zu Protokoll zu erklären. Wurde der Verzicht nicht von einem berufsmäßigen Parteienvertreter oder im Beisein eines solchen abgegeben, so kann er binnen drei Tagen schriftlich oder zur Niederschrift widerrufen werden. Ein Verzicht ist nur zulässig, wenn die Partei zuvor über die Folgen des Verzichts belehrt wurde. Wurde das Erkenntnis des Verwaltungsgerichts mündlich verkündet (§ 29 Abs. 2 VwGVG), ist eine Beschwerde nur nach einem Antrag auf Ausfertigung des Erkenntnisses gemäß § 29 Abs. 4 VwGVG durch mindestens einen der hiezu Berechtigten zulässig.
+
+(4) Die Beschwerde hat zu enthalten:
+
+1\. die Bezeichnung des angefochtenen Erkenntnisses und des Verwaltungsgerichtes, das es erlassen hat;
+
+2\. den Sachverhalt;
+
+3\. die Angabe, ob der Beschwerdeführer durch das angefochtene Erkenntnis in verfassungsgesetzlich gewährleisteten Rechten oder wegen Anwendung einer gesetzwidrigen Verordnung, einer gesetzwidrigen Kundmachung über die Wiederverlautbarung eines Gesetzes (Staatsvertrages), eines verfassungswidrigen Gesetzes oder eines rechtswidrigen Staatsvertrages in seinen Rechten verletzt zu sein behauptet, im letzteren Fall auch die Bezeichnung der für rechtswidrig erachteten Rechtsvorschrift;
+
+4\. ein bestimmtes Begehren;
+
+5\. die Angaben, die erforderlich sind, um zu beurteilen, ob die Beschwerde rechtzeitig eingebracht ist.
+
+(5) Der Beschwerde ist eine Ausfertigung, Abschrift oder Kopie des angefochtenen Erkenntnisses anzuschließen, wenn es dem Beschwerdeführer zugestellt worden ist. Andernfalls ist das Vorliegen der Voraussetzungen des Abs. 1 letzter Satz oder des Abs. 2 nachzuweisen.
+
+#### § 83
+
+§ 83. *(Anm.: Abs. 1 aufgehoben durch BGBl. I Nr. 23/2015)*
+
+(2) Der Verfassungsgerichtshof kann die Parteien auffordern, binnen angemessener Frist weitere schriftliche Äußerungen und Gegenäußerungen zu erstatten. Die Parteien können auch unaufgefordert schriftliche Äußerungen und Gegenäußerungen erstatten.
+
+(3) § 20 Abs. 4 ist sinngemäß mit der Maßgabe anzuwenden, dass die belangte Behörde, soweit sie dies nicht bereits bei Vorlage von Akten an das Verwaltungsgericht getan hat, anlässlich der Vorlage von Akten durch das Verwaltungsgericht an den Verfassungsgerichtshof verlangen kann, dass bestimmte Akten oder Aktenbestandteile im öffentlichen Interesse von der Akteneinsicht ausgenommen werden.
+
+#### § 84
+
+§ 84. (1) Nach Einlangen der Gegenschrift und allfälliger Äußerungen und Gegenäußerungen oder nach Ablauf der Fristen und wenn die Behandlung der Beschwerde nicht gemäß § 19 Abs. 3 Z 1 mit Beschluss, der durch eine kurze Angabe der dafür wesentlichen rechtlichen Gesichtspunkte zu begründen und den Parteien zuzustellen ist, abgelehnt wurde, beraumt der Präsident die Verhandlung an.
+
+(2) Zu dieser Verhandlung sind die Parteien zu laden.
+
+#### § 85
+
+§ 85. (1) Die Beschwerde hat keine aufschiebende Wirkung.
+
+(2) Der Verfassungsgerichtshof hat der Beschwerde auf Antrag des Beschwerdeführers die aufschiebende Wirkung mit Beschluss zuzuerkennen, wenn dem nicht zwingende öffentliche Interessen entgegenstehen und nach Abwägung der berührten öffentlichen Interessen und Interessen anderer Parteien mit dem Vollzug des angefochtenen Erkenntnisses oder mit der Ausübung der durch das angefochtene Erkenntnis eingeräumten Berechtigung für den Beschwerdeführer ein unverhältnismäßiger Nachteil verbunden wäre. Die Zuerkennung der aufschiebenden Wirkung bedarf nur dann einer Begründung, wenn durch sie Interessen anderer Parteien berührt werden. Wenn sich die Voraussetzungen, die für die Entscheidung über die aufschiebende Wirkung der Beschwerde maßgebend waren, wesentlich geändert haben, ist von Amts wegen oder auf Antrag einer Partei neu zu entscheiden.
+
+(3) Beschlüsse gemäß Abs. 2 sind den Parteien zuzustellen. Wird die aufschiebende Wirkung zuerkannt, ist der Vollzug des angefochtenen Erkenntnisses aufzuschieben und sind die hiezu erforderlichen Anordnungen zu treffen; der durch das angefochtene Erkenntnis Berechtigte darf diese Berechtigung nicht ausüben.
+
+(4) Wenn der Verfassungsgerichtshof nicht versammelt ist, so sind Beschlüsse gemäß Abs. 2 auf Antrag des Referenten vom Präsidenten zu fassen.
+
+#### § 86
+
+§ 86. Wird vor Schluss der Verhandlung über die Beschwerde der Nachweis erbracht, dass der Beschwerdeführer klaglos gestellt erscheint, so hat der Verfassungsgerichtshof nach Einvernehmung des Beschwerdeführers die Beschwerde als gegenstandslos geworden zu erklären und das Verfahren einzustellen.
+
+#### § 86a
+
+§ 86a. (1) Ist beim Verfassungsgerichtshof eine erhebliche Anzahl von Verfahren über Beschwerden anhängig, in denen gleichartige Rechtsfragen zu lösen sind, oder besteht Grund zur Annahme, dass eine erhebliche Anzahl solcher Beschwerden eingebracht werden wird, so kann der Verfassungsgerichtshof dies mit Beschluss aussprechen. Ein solcher Beschluss hat zu enthalten:
+
+1\. die in diesen Verfahren anzuwendenden Rechtsvorschriften;
+
+2\. die auf Grund dieser Rechtsvorschriften zu lösenden Rechtsfragen;
+
+3\. die Angabe, welche der Beschwerden der Verfassungsgerichtshof behandeln wird.
+
+(2) Beschlüsse gemäß Abs. 1 verpflichten, soweit es sich bei den darin genannten Rechtsvorschriften zumindest auch um Gesetze, politische, gesetzändernde oder gesetzesergänzende Staatsverträge oder Staatsverträge, durch die die vertraglichen Grundlagen der Europäischen Union geändert werden, handelt, den Bundeskanzler oder den zuständigen Landeshauptmann, ansonsten die zuständige oberste Behörde des Bundes oder des Landes zu ihrer unverzüglichen Kundmachung.
+
+(3) Mit Ablauf des Tages der Kundmachung des Beschlusses gemäß Abs. 1 treten folgende Wirkungen ein:
+
+1\. in Rechtssachen, in denen ein Verwaltungsgericht die im Beschluss genannten Rechtsvorschriften anzuwenden und eine darin genannte Rechtsfrage zu beurteilen hat:
+
+a) Es dürfen nur solche Handlungen vorgenommen oder Anordnungen und Entscheidungen getroffen werden, die durch das Erkenntnis des Verfassungsgerichtshofes nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+b) Die Beschwerdefrist beginnt nicht zu laufen; eine laufende Beschwerdefrist wird unterbrochen.
+
+2\. in allen beim Verfassungsgerichtshof anhängigen Verfahren gemäß Abs. 1, die im Beschluss gemäß Abs. 1 nicht genannt sind:
+
+Es dürfen nur solche Handlungen vorgenommen oder Anordnungen und Entscheidungen getroffen werden, die durch das Erkenntnis des Verfassungsgerichtshofes nicht beeinflusst werden können oder die die Frage nicht abschließend regeln und keinen Aufschub gestatten.
+
+(4) In seinem Erkenntnis fasst der Verfassungsgerichtshof seine Rechtsanschauung in einem oder mehreren Rechtssätzen zusammen, die nach Maßgabe des Abs. 2 unverzüglich kundzumachen sind. Mit Ablauf des Tages der Kundmachung beginnt eine unterbrochene Beschwerdefrist neu zu laufen und enden die sonstigen Wirkungen des Abs. 3.
+
+#### § 87
+
+§ 87. (1) Das Erkenntnis hat auszusprechen, ob der Beschwerdeführer durch das angefochtene Erkenntnis in einem verfassungsgesetzlich gewährleisteten Recht oder wegen Anwendung einer gesetzwidrigen Verordnung, einer gesetzwidrigen Kundmachung über die Wiederverlautbarung eines Gesetzes (Staatsvertrages), eines verfassungswidrigen Gesetzes oder eines rechtswidrigen Staatsvertrages in seinen Rechten verletzt worden ist, und bejahendenfalls das angefochtene Erkenntnis aufzuheben.
+
+(2) Wenn der Verfassungsgerichtshof einer Beschwerde stattgegeben hat, sind die Verwaltungsgerichte und die Verwaltungsbehörden verpflichtet, in der betreffenden Rechtssache mit den ihnen zu Gebote stehenden rechtlichen Mitteln unverzüglich den der Rechtsanschauung des Verfassungsgerichtshofes entsprechenden Rechtszustand herzustellen.
+
+(3) Lehnt der Verfassungsgerichtshof die Behandlung einer Beschwerde ab oder weist er die Beschwerde ab, so hat, wenn bis dahin ein darauf abzielender Antrag des Beschwerdeführers gestellt worden ist, der Verfassungsgerichtshof, wenn dieser Antrag innerhalb von zwei Wochen nach Zustellung der Entscheidung des Verfassungsgerichtshofes gestellt wird, der Referent, auszusprechen, dass die Beschwerde gemäß Art. 144 Abs. 3 B-VG dem Verwaltungsgerichtshof abgetreten wird.
+
+#### § 88
+
+§ 88. Der Partei, die unterliegt oder die den Beschwerdeführer klaglos gestellt hat, kann auf Antrag der Ersatz der Prozesskosten auferlegt werden. Das Gleiche gilt sinngemäß für den Fall, dass der Beschwerdeführer die Beschwerde vor der mündlichen Verhandlung zurückzieht, ohne klaglos gestellt worden zu sein.
+
+#### § 88a
+
+§ 88a. (1) Auf die Beschlüsse der Verwaltungsgerichte sind die für deren Erkenntnisse geltenden Bestimmungen dieses Abschnittes sinngemäß anzuwenden.
+
+(2) Eine Beschwerde ist nicht zulässig gegen:
+
+1\. Aussprüche gemäß § 25a Abs. 1 des Verwaltungsgerichtshofgesetzes 1985 – VwGG, BGBl. Nr. 10/1985;
+
+2\. Beschlüsse gemäß § 30a Abs. 1, 3, 8 und 9 VwGG;
+
+3\. Beschlüsse gemäß § 30b Abs. 3 VwGG;
+
+4\. Beschlüsse gemäß § 61 Abs. 2 VwGG.
+
+(3) Gegen verfahrensleitende Beschlüsse ist eine abgesonderte Beschwerde nicht zulässig. Sie können erst in der Beschwerde gegen das die Rechtssache erledigende Erkenntnis angefochten werden.
+
+## M. Bei Beschwerden wegen Verletzung in Rechten gemäß der DSGVO durch den Verfassungsgerichtshof
+
+#### § 88b
+
+§ 88b. Die §§ 84 und 85 GOG gelten sinngemäß mit der Maßgabe, dass über behauptete Verletzungen solcher Rechte durch den Verfassungsgerichtshof der Gerichtshof in nichtöffentlicher Sitzung durch Beschluss nach den Bestimmungen dieses Bundesgesetzes entscheidet.
+
+## N. Bei Meinungsverschiedenheiten über die Auslegung der gesetzlichen Bestimmungen, die die Zuständigkeit der Volksanwaltschaft oder eines Landesvolksanwalts regeln (Art. 148f und Art. 148i Abs. 1 und 2 B-VG)
+
+#### § 89
+
+§ 89. (1) Bei Meinungsverschiedenheiten zwischen der Volksanwaltschaft und der Bundesregierung oder einem Bundesminister über die Auslegung der gesetzlichen Bestimmungen, die die Zuständigkeit der Volksanwaltschaft regeln, kann die Bundesregierung oder die Volksanwaltschaft den Antrag auf Entscheidung durch den Verfassungsgerichtshof stellen.
+
+(2) Der Antrag ist binnen der Frist von vier Wochen zu stellen. Diese Frist beginnt für die Bundesregierung mit Ablauf des Tages, an dem sie amtlich Kenntnis davon erhält, dass die Volksanwaltschaft ihre Zuständigkeit zu einer in Angriff genommenen oder von ihr beabsichtigten Amtshandlung entgegen dem Einspruch der Bundesregierung oder des zuständigen Bundesministers für sich in Anspruch nimmt und auf der Fortsetzung der begonnenen oder auf dem Vollzug der beabsichtigten Amtshandlung besteht; für die Volksanwaltschaft beginnt die Frist mit Ablauf des Tages, an dem sie amtlich Kenntnis von der endgültigen ablehnenden Stellungnahme der Bundesregierung erhält oder an dem sie am Vollzug der strittigen Amtshandlung mit Kenntnis der Bundesregierung behindert wird.
+
+(3) Die antragstellende Bundesregierung hat den Antrag sofort der Volksanwaltschaft mitzuteilen, die antragstellende Volksanwaltschaft der Bundesregierung.
+
+#### § 90
+
+§ 90. Die Anrufung des Verfassungsgerichtshofes hat den Aufschub oder die Unterbrechung der Amtshandlung der Volksanwaltschaft bis zur Entscheidung durch den Verfassungsgerichtshof zur Folge.
+
+#### § 91
+
+§ 91. Parteien des Verfahrens sind die Bundesregierung und die Volksanwaltschaft.
+
+#### § 92
+
+§ 92. Das Erkenntnis des Verfassungsgerichtshofes ist tunlichst binnen sechs Monaten nach Einlangen des Antrages zu fällen und sowohl der Bundesregierung als auch der Volksanwaltschaft zuzustellen.
+
+#### § 93
+
+§ 93. Die vorstehenden Bestimmungen sind sinngemäß anzuwenden auf Verfahren bei Meinungsverschiedenheiten
+
+1\. zwischen der Volksanwaltschaft und einer Landesregierung oder einem Mitglied der Landesregierung über die Auslegung der gesetzlichen Bestimmungen, die die Zuständigkeit der Volksanwaltschaft regeln (Art. 148i Abs. 1 B-VG);
+
+2\. zwischen einem Landesvolksanwalt und der Landesregierung oder einem Mitglied der Landesregierung über die Auslegung der gesetzlichen Bestimmungen, die die Zuständigkeit des Landesvolksanwalts regeln (Art. 148i Abs. 2 B-VG).
+
+## 3. Teil
+
+#### § 94 – Schlussbestimmungen
+
+§ 94. (1) § 5h in der Fassung des Bundesgesetzes BGBl. Nr. 334/1993 tritt mit 1. Juli 1993 in Kraft.
+
+(2) § 5e und § 5h in der Fassung des Bundesgesetzes BGBl. Nr. 43/1995 treten mit 1. Jänner 1995 in Kraft.
+
+(3) § 5e in der Fassung des Bundesgesetzes BGBl. Nr. 297/1995 tritt mit 1. Mai 1995 in Kraft.
+
+(4) § 5e Abs. 2 und § 5h Abs. 2 in der Fassung des Bundesgesetzes BGBl. Nr. 820/1995 treten mit 1. Jänner 1996 in Kraft.
+
+(5) In der Fassung des Bundesgesetzes BGBl. Nr. 201/1996 treten in Kraft:
+
+1\. § 5b Abs. 2 und § 5c Abs. 1 mit 1. Mai 1996,
+
+2\. § 5h mit 1. Juni 1996.
+
+(6) Auf Mitglieder des Verfassungsgerichtshofes, deren Amtsenthebung vor dem 16. Februar 1996 eingeleitet wurde, ist § 5b Abs. 2 in der bis zum Ablauf des 30. April 1996 geltenden Fassung anzuwenden.
+
+\*(Anm.: Abs. 7 durch Art. 2 § 2 Abs. 2 Z 1, BGBl. I Nr. 2/2008, als nicht mehr geltend festgestellt)*
+
+(8) § 5e Abs. 2 und § 5h Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 3/1997 treten mit 1. Jänner 1997 in Kraft.
+
+(9) § 4 Abs. 1, 3, 5 und 6, § 5b Abs. 2, § 5c Abs. 1, § 5d, § 5e und § 5h in der Fassung des Bundesgesetzes BGBl. I Nr. 64/1997 und die Aufhebung des § 5 durch das Bundesgesetz BGBl. I Nr. 64/1997 treten mit 1. August 1997 in Kraft. Soweit Personen mit 1. August 1997 die zeitlichen Voraussetzungen für eine Geldentschädigung nach § 5 erfüllen, ist § 5 weiter anzuwenden.
+
+\*(Anm.: Abs. 10 durch Art. 2 § 2 Abs. 2 Z 1, BGBl. I Nr. 2/2008, als nicht mehr geltend festgestellt)*
+
+(11) § 17a und § 90 in der Fassung des Bundesgesetzes BGBl. I Nr. 88/1997 treten mit 1. August 1997 in Kraft.
+
+(12) § 5b Abs. 2 und § 5f in der Fassung des Bundesgesetzes BGBl. I Nr. 86/2001 und die Aufhebung des § 5d durch das Bundesgesetz BGBl. I Nr. 86/2001 treten mit 1. Oktober 2000 in Kraft.
+
+(13) Es treten in Kraft:
+
+1\. § 5h in der Fassung des Art. 65 Z 4 lit. a des Bundesgesetzes BGBl. I Nr. 142/2000 mit 1. Oktober 2000,
+
+2\. § 5e, § 5f erster Satz und § 5g in der Fassung des Bundesgesetzes BGBl. I Nr. 142/2000 und § 5h in der Fassung des Art. 65 Z 4 lit. b des Bundesgesetzes BGBl. I Nr. 142/2000 mit 1. Jänner 2001.
+
+(14) Der Titel und die §§ 17a, 28 Abs. 1 und 2 und 91 in der Fassung des Bundesgesetzes BGBl. I Nr. 136/2001 treten mit 1. Jänner 2002 in Kraft.
+
+(15) § 7 Abs. 2 lit. a, § 13, die Überschrift zu den §§ 37 bis 41, § 71 Abs. 4, § 71a Abs. 5, § 72 Abs. 3, § 74 Abs. 5, § 80 Abs. 2 und 3, § 82 Abs. 3 und § 90 in der Fassung des Bundesgesetzes BGBl. I Nr. 123/2002 treten mit 1. Oktober 2002 in Kraft.
+
+(16) § 5b Abs. 2 und § 5h Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2003 treten mit 1. Jänner 2004 in Kraft.
+
+(17) Die Überschrift zum 1. Teil (zum bisherigen Ersten Abschnitt), § 5a Abs. 2, § 7 Abs. 2 lit. a, § 12, die Überschriften zum 2. Teil (zum bisherigen Zweiten Abschnitt) und zu dessen 1. Hauptstück (zu den §§ 15 bis 36), § 17 Abs. 2, § 19 Abs. 1 und Abs. 4 Z 3, § 22, § 24 Abs. 1 bis 3, § 28 Abs. 4, § 36, die Überschriften zum 2. Hauptstück (zu den §§ 36a bis 88) und zu dessen Abschnitt A, § 36c Abs. 2, § 36d, die Überschrift zu Abschnitt B, § 37, die Überschrift zu Abschnitt E, § 57 Abs. 2 bis 4, § 58 Abs. 1, § 60 Abs. 1, der neu eingefügte Abschnitt F samt Überschrift, die Überschrift zu Abschnitt G (zum bisherigen Abschnitt F), § 62 Abs. 3 und 4, § 63 Abs. 1, die Überschrift zu Abschnitt H (zum bisherigen Abschnitt G), § 66 Einleitung und Z 1, die Überschriften zu den Abschnitten I und J (zu den bisherigen Abschnitten H und I), § 67 Abs. 1 erster Satz, § 70 Abs. 5 letzter Satz, § 71a Abs. 1, die Überschrift zu Abschnitt K (zum bisherigen Abschnitt J), § 82 Abs. 1 und 2, § 85 Abs. 3, § 87 Abs. 1, der neu eingefügte Abschnitt L samt Überschrift, die Überschrift zum 3. Teil (zum bisherigen Dritten Abschnitt), die Paragraphenbezeichnungen der §§ 94 bis 96 (der bisherigen §§ 89 bis 91) sowie die sonstigen Überschriften und Bestimmungen in der Fassung des Bundesgesetzes BGBl. I Nr. 100/2003 treten mit 1. Jänner 2004 in Kraft. Zugleich tritt § 36g außer Kraft.
+
+(18) § 15 Abs. 1, § 17a und § 24 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 89/2004 treten mit Ablauf des Monats der Kundmachung dieses Bundesgesetzes in Kraft.
+
+(19) Soweit das Bundesgesetz, mit dem das Verfassungsgerichtshofgesetz geändert wird, BGBl. Nr. 329/1990, noch in Geltung steht, tritt es mit Ablauf des Monats der Kundmachung des Bundesgesetzes BGBl. I Nr. 89/2004 außer Kraft. Durch dieses Bundesgesetz geänderte gesetzliche Bestimmungen bleiben unberührt; durch dieses aufgehobene gesetzliche Bestimmungen treten nicht wieder in Kraft.
+
+(20) § 5b Abs. 3 bis 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 142/2004 tritt am 1. Jänner 2005 in Kraft.
+
+(21) Die §§ 5f und 5g in der Fassung des Bundesgesetzes BGBl. I Nr. 80/2005 treten mit 1. Juli 2005 in Kraft.
+
+(22) § 1 Abs. 2 bis 4, § 2 Abs. 1 letzter Satz, § 7 Abs. 2 lit. b, § 8 Abs. 2, § 13a Abs. 2, § 17a Z 1 und 4, § 19 Abs. 3 Z 1, § 19a samt Überschrift, § 28 Abs. 1 erster Satz und Abs. 2, § 33, § 34, § 36c Abs. 1, § 42 Abs. 1, § 43 Abs. 1, § 46 Abs. 1, § 47 Abs. 1, § 50 Abs. 1, § 56 Abs. 3, § 68 Abs. 1 letzter Satz, § 72 Abs. 3, § 74 Abs. 3 und Abs. 5 erster Satz, § 75 Abs. 1, § 80 Abs. 2 und 3, die Überschrift zu Abschnitt K, § 82 Abs. 1a, Abs. 2 Z 2 und Abs. 3, § 83 Abs. 1, § 84, § 85 Abs. 2 bis 4, § 86a, § 88a, die Überschrift zu Abschnitt L, § 93 Z 1 und § 94a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 4/2008 treten mit 1. Juli 2008 in Kraft; gleichzeitig tritt § 11 außer Kraft.
+
+(23) § 15 Abs. 1, § 22, § 36 und die Überschrift zu Abschnitt A des 2. Hauptstückes in der Fassung des Bundesgesetzes BGBl. I Nr. 98/2010 treten mit 1. Jänner 2011 in Kraft.
+
+(24) § 17a Z 4 und 5 in der Fassung des Art. 1 des Budgetbegleitgesetzes 2011, BGBl. I Nr. 111/2010, tritt mit 1. Jänner 2011 in Kraft.
+
+(25) § 1 Abs. 3, § 12 Abs. 4 letzter Satz, § 19a Abs. 1 erster Satz, § 66 Einleitung und § 86a Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 51/2012 treten mit Ablauf des Monats der Kundmachung dieses Bundesgesetzes in Kraft; gleichzeitig treten die Überschriften zu § 19a und § 94a außer Kraft.
+
+(26) In der Fassung des Art. 4 des Bundesgesetzes BGBl. I Nr. 33/2013 treten in Kraft:
+
+1\. § 17 Abs. 3 in der Fassung der Z 19, § 17a Z 6 in der Fassung der Z 25, § 19 Abs. 3 Z 1 in der Fassung der Z 29, § 19a Abs. 1 in der Fassung der Z 31, § 20 Abs. 1 in der Fassung der Z 32, § 20 Abs. 2 in der Fassung der Z 33, § 28 Abs. 4 in der Fassung der Z 38, § 33 in der Fassung der Z 39, § 34 in der Fassung der Z 40, § 43 Abs. 1 in der Fassung der Z 43, § 46 Abs. 1 in der Fassung der Z 45, § 57 Abs. 1 in der Fassung der Z 49, § 57 Abs. 3 (Abs. 2 neu) in der Fassung der Z 31, 50 und 51, § 57 Abs. 4 (Abs. 3 neu) in der Fassung der Z 50 und 52, § 58 in der Fassung der Z 53 und 54, § 59 in der Fassung der Z 55, § 61 in der Fassung der Z 56, § 61a in der Fassung der Z 49, § 62 Abs. 1 in der Fassung der Z 57, § 62 Abs. 2 in der Fassung der Z 58, § 62 Abs. 3 in der Fassung der Z 31 und 59, § 62 Abs. 4 in der Fassung der Z 60, § 63 Abs. 1 in der Fassung der Z 61, die §§ 64 und 65 in der Fassung der Z 64, § 65a in der Fassung der Z 57, die Überschrift zu Abschnitt I des 2. Hauptstückes in der Fassung der Z 65, § 67 in der Fassung der Z 66 bis 69, § 68 Abs. 1 in der Fassung der Z 70, § 71 Abs. 1 in der Fassung der Z 71, § 71a Abs. 1 in der Fassung der Z 73, die Überschrift zu Abschnitt K des 2. Hauptstückes in der Fassung der Z 77, § 82 in der Fassung der Z 78, § 83 in der Fassung der Z 79, § 84 in der Fassung der Z 80 und 81, § 85 Abs. 2 in der Fassung der Z 82, diese in der Fassung des Art. 1 Z 5 des Bundesgesetzes BGBl. I Nr. 122/2013, § 85 Abs. 3 in der Fassung der Z 83, § 86a Abs. 3 in der Fassung der Z 31 und 84, § 87 Abs. 2 in der Fassung der Z 85 und § 88a in der Fassung der Z 87 mit 1. Jänner 2014; gleichzeitig treten § 57 Abs. 2, § 63 Abs. 3 und § 87 Abs. 3 letzter Satz außer Kraft;
+
+2\. die sonstigen Bestimmungen und Änderungen, insbesondere auch Z 11 in der Fassung des Art. 1 Z 4 des Bundesgesetzes BGBl. I Nr. 122/2013 sowie die in Z 88 vorgesehene Anpassung von in Z 1 dieses Absatzes genannte Bestimmungen an die neue Rechtschreibung, mit Ablauf des Februars 2013.
+
+(27) In der Fassung des Art. 5 des Bundesgesetzes BGBl. I Nr. 122/2013 treten in Kraft:
+
+1\. § 12 Abs. 5, § 66 Z 1 und § 87 Abs. 1 mit 1. Jänner 2014;
+
+2\. die sonstigen Bestimmungen mit Ablauf des Monats der Kundmachung dieses Bundesgesetzes.
+
+(28) § 5h Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 46/2014 tritt am 1. Jänner 2015 in Kraft und ist auch auf Personen anzuwenden, die im Zeitpunkt des Inkrafttretens dieses Bundesgesetzes bereits Ruhe(Versorgungs)bezüge nach den §§ 5b bis 5g dieses Bundesgesetzes bezogen haben.
+
+(29) In der Fassung des Bundesgesetzes BGBl. I Nr. 92/2014 treten in bzw. außer Kraft:
+
+1\. die Überschrift zu Abschnitt I des 2. Hauptstückes des 2. Teiles, § 67 Abs. 3 und 4, § 68 Abs. 1, § 71a Abs. 1 und 4, § 82 Abs. 1 zweiter Satz und § 83 Abs. 3 mit Ablauf des Tages der Kundmachung dieses Bundesgesetzes;
+
+2\. § 11, § 12 Abs. 2 und 5, § 17 Abs. 1, § 18, § 19 Abs. 3 bis 5, § 20 Abs. 1a bis 5, § 20a, § 31, § 35 Abs. 1, § 57 Abs. 2 bis 4, § 57a, § 58 Abs. 1 letzter Satz, § 62a, § 63 Abs. 1 letzter Satz und § 66 Z 1 letzter Satz mit 1. Jänner 2015.
+
+Art. 1 Z 1, Z 1e und Z 4a dieses Bundesgesetzes entfallen, § 7 Abs. 2, § 17 Abs. 2 und § 62 Abs. 3 bis 5 treten also nicht in Kraft.
+
+(30) § 7 Abs. 2, § 17 Abs. 2 und 3, § 17a Z 2, § 24 Abs. 4 bis 7, Abschnitt E samt Überschrift, die Abschnittsbezeichnungen der Abschnitte F bis M des 2. Hauptstückes des 2. Teils, § 61b, § 62 Abs. 2 und § 66 in der Fassung des Bundesgesetzes BGBl. I Nr. 101/2014 treten mit 1. Jänner 2015 in Kraft.
+
+(31) § 19 Abs. 4, § 24 Abs. 4 und § 71 Abs. 1, 5 und 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 41/2016 treten mit 1. Jänner 2017 in Kraft.
+
+(32) In der Fassung des Bundesgesetzes BGBl. I Nr. 24/2017 treten in Kraft:
+
+1\. § 94 Abs. 29 Z 1 mit 17. Dezember 2014;
+
+2\. § 17 Abs. 3 Z 1, § 18, § 19 Abs. 3 Z 4, § 20, § 22, die Überschrift zu Abschnitt E des 2. Hauptstückes, § 83 Abs. 3 und § 94 Abs. 26 Z 1 mit Ablauf des Monats der Kundmachung dieses Bundesgesetzes;
+
+3\. § 3a, § 71a Abs. 5 und § 82 Abs. 2, 3a, 3b und 5 letzter Satz mit 1. Jänner 2017.
+
+(33) § 14a Abs. 6, der Abschnitt M samt Überschrift und die Abschnittsbezeichnung des Abschnitts N in der Fassung des Bundesgesetzes BGBl. I Nr. 22/2018 treten mit 25. Mai 2018 in Kraft.
+
+(34) § 17a Z 4 und 6, jeweils in der Fassung des Bundesgesetzes BGBl. I Nr. 104/2019, treten mit 1. Juli 2020 in Kraft.
+
+(35) § 7 Abs. 3, § 60 und § 64a in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 treten mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft.
+
+(36) Die §§ 60 und 64a in der Fassung des Bundesgesetzes BGBl. I Nr. 24/2020 treten mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft.
+
+(37) Die Überschrift zu Abschnitt A des 2. Hauptstückes und § 36g in der Fassung des Bundesgesetzes BGBl. I Nr. 125/2022 treten mit 1. Jänner 2023 in Kraft.
+
+(38) § 20 Abs. 3, § 39 Abs. 2, § 57a Abs. 1 Z 9, § 62a Abs. 1 Z 9 und § 74 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 88/2023 treten mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft. Gleichzeitig tritt § 57a Abs. 1 Z 4, 5 und 10 außer Kraft.
+
+(39) § 1 Abs. 4, § 3a, § 13a, die Paragraphenbezeichnung des § 13b, § 22 und § 27 in der Fassung des Bundesgesetzes BGBl. I Nr. 88/2024 treten mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft.
+
+(40) **(Verfassungsbestimmung)** § 5i Abs. 1 und 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 88/2024 tritt mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft.
+
+(41) § 17a Z 1 tritt mit 1. Juli 2025 in Kraft und ist auf Eingaben anzuwenden, für die die Gebührenschuld nach dem 30. Juni 2025 entsteht.
+
+(42) In der Fassung des Informationsfreiheits-Anpassungsgesetzes, BGBl. I Nr. 50/2025, treten in Kraft:
+
+1\. § 2, § 3 Abs. 2 und 3, § 4 Abs. 1 und 5 und § 5a mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes;
+
+2\. § 8a, § 10 Abs. 1 lit. c und § 74 Abs. 3 mit 1. September 2025;
+
+3\. § 17a Z 1 mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes. § 17a Z 1 erster Satz ist auf Eingaben anzuwenden, für die die Gebührenschuld nach Ablauf dieses Tages entsteht.
+
+#### § 94a
+
+§ 94a. Soweit in diesem Bundesgesetz auf natürliche Personen bezogene Bezeichnungen nur in männlicher Form angeführt sind, beziehen sie sich auf Frauen und Männer in gleicher Weise. Bei der Anwendung der Bezeichnung auf bestimmte natürliche Personen ist die jeweils geschlechtsspezifische Form zu verwenden.
+
+#### § 95
+
+§ 95. Soweit in den vorstehenden Bestimmungen nichts anderes vorgesehen ist, ist mit der Vollziehung dieses Bundesgesetzes der Präsident des Verfassungsgerichtshofes betraut.
+
+#### § 96
+
+§ 96. Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden.
+
+## Artikel XV
+
+### (Verfassungsbestimmung) — Bemessung von Versorgungsbezügen
+
+#### Art. 15 – *(Anm.: aus BGBl. Nr. 334/1993, zu den §§ 5h und 88a (jetzt: § 89), BGBl. Nr. 85/1953)*
+
+Bei der Bemessung von Versorgungsbezügen des überlebenden Ehegatten ist dessen sonstiges Einkommen zu berücksichtigen. Soweit es sich bei dieser Bemessung nicht um eine Erhöhung von Versorgungsbezügen auf eine Mindestversorgungsleistung handelt, ist dieses Einkommen nur in dem Ausmaß zu berücksichtigen, als es für Ansprüche oder Anwartschaften aus der Altersversorgung zugrunde zu legen ist.

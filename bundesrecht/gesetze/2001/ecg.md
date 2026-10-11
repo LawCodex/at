@@ -521,7 +521,9 @@ zu veröffentlichen.
 
 (3) Die Änderung dieses Bundesgesetzes durch das DSA–Begleitgesetz, BGBl. I Nr. 182/2023, dient der Durchführung der Verordnung (EU) 2022/2065 über einen Binnenmarkt für digitale Dienste und zur Änderung der Richtlinie 2000/31/EG (Gesetz über digitale Dienste), ABl. Nr. L 277 vom 27.10.2022.
 
-#### Notifikation – Artikel 12 – *(Anm.: aus BGBl. I Nr. 148/2020, zu § 18, BGBl. I Nr. 152/2001)*
+**Notifikation**
+
+#### Art. 12 – Artikel 12 – *(Anm.: aus BGBl. I Nr. 148/2020, zu § 18, BGBl. I Nr. 152/2001)*
 
 Der Inhalt dieser Vorschrift wurde nach den Bestimmungen der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft zu den Notifizierungsnummern 2020/547/A und 2020/548/A notifiziert.
 

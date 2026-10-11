@@ -1439,7 +1439,9 @@ Dieses Gesetz tritt mit dem Tage der Kundmachung in Wirksamkeit.
 
 ### Übergangsbestimmung
 
-#### *(Anm.: aus BGBl. Nr. 362/1990, zu § 29, RGBl. Nr. 5/1907)*
+***(Anm.: aus BGBl. Nr. 362/1990, zu § 29, RGBl. Nr. 5/1907)***
+
+#### Art. 2
 
 (1) Die gemäß § 29 Abs. 4 und 5 betroffenen Ärzte, die nach dem 1. Jänner 1985 und vor dem Inkrafttreten dieses Bundesgesetzes in einem Verfahren betreffend die Neuerrichtung einer öffentlichen Apotheke nicht als Partei beigezogen waren, können ihre Parteienrechte bis längstens sechs Monate nach Inkrafttreten dieses Bundesgesetzes geltend machen.
 
@@ -1449,7 +1451,9 @@ Dieses Gesetz tritt mit dem Tage der Kundmachung in Wirksamkeit.
 
 ### Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. Nr. 502/1984, zu den §§ 12 und 47, RGBl. Nr. 5/1907)*
+***(Anm.: aus BGBl. Nr. 502/1984, zu den §§ 12 und 47, RGBl. Nr. 5/1907)***
+
+#### Art. 3
 
 (1) Auf die im Zeitpunkt des Inkrafttretens dieses Bundesgesetzes bestehenden Personengesellschaften ist § 12 Abs. 2 Z 2 des Apothekengesetzes in der Fassung des Art. I Z 12 erst beim nächsten Wechsel des Konzessionsinhabers anzuwenden.
 
@@ -1465,7 +1469,9 @@ Dieses Gesetz tritt mit dem Tage der Kundmachung in Wirksamkeit.
 
 ### Inkrafttreten und Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. I Nr. 135/2009, zu § 15, BGBl. Nr. 5/1907)*
+***(Anm.: aus BGBl. I Nr. 135/2009, zu § 15, BGBl. Nr. 5/1907)***
+
+#### Art. 79
 
 (1) Art. 2 (Änderung des Allgemeinen Bürgerlichen Gesetzbuchs), Art. 3 (Änderung des Ehegesetzes), Art. 4 (Änderung des Fortpflanzungsmedizingesetzes), Art. 6 (Änderung der Jurisdiktionsnorm), Art. 7 (Änderung des Strafgesetzbuches), Art. 27 (Änderung des Einkommensteuergesetzes 1988), Art. 28 (Änderung des Körperschaftsteuergesetzes 1988), Art. 29 (Änderung des Umsatzsteuergesetzes 1994), Art. 30 (Änderung des Bewertungsgesetzes 1955), Art. 31 (Änderung des Gebührengesetzes 1957), Art. 33 (Änderung der Bundesabgabenordnung), Art. 34 (Änderung des Alkoholsteuergesetzes), Art. 61 (Änderung des Ärztegesetzes 1998), Art. 62 (Änderung des Gehaltskassengesetzes 2002), Art. 63 (Änderung des Apothekengesetzes), Art. 72 (Änderung des Studienförderungsgesetzes), Art. 76 (Änderung des Entwicklungshelfergesetzes), Art. 77 (Änderung des Bundesgesetzes über Aufgaben und Organisation des auswärtigen Dienstes – Statut) und Art. 78 (Bundesgesetz über die Einräumung von Privilegien und Immunitäten an internationale Organisationen) treten mit 1. Jänner 2010 in Kraft.
 

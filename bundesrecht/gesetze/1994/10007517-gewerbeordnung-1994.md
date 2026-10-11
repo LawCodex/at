@@ -8506,13 +8506,17 @@ III. Lebensversicherungszweige gemäß Anhang II der Richtlinie 2009/138/EG
 
 ## Artikel 1
 
-##### *(Anm.: aus BGBl. I Nr. 60/2007, zu den §§ 2, 136a und 138, BGBl. Nr. 194/1994)*
+***(Anm.: aus BGBl. I Nr. 60/2007, zu den §§ 2, 136a und 138, BGBl. Nr. 194/1994)***
+
+##### Art. 1
 
 Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. Nr. L 145 vom 30.04.2004, S. 1) in der Fassung der Richtlinie 2006/31/EG des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2004/39/EG über Märkte für Finanzinstrumente in Bezug auf bestimmte Fristen (ABl. Nr. L 114 vom 27.04.2006, S. 60) und der Richtlinie 2006/73/EG der Kommission zur Durchführung der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates in Bezug auf die organisatorischen Anforderungen an Wertpapierfirmen und die Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie (ABl. Nr. L 241 vom 02.09.2006, S. 26).
 
 ## Artikel 1
 
-##### *(Anm.: aus BGBl. I Nr. 107/2010, zu den §§ 2, 365n und 365r, BGBl. Nr. 194/1994)*
+***(Anm.: aus BGBl. I Nr. 107/2010, zu den §§ 2, 365n und 365r, BGBl. Nr. 194/1994)***
+
+##### Art. 1
 
 Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2009/110/EG des Europäischen Parlaments und des Rates vom 16. September 2009 über die Aufnahme, Ausübung und Beaufsichtigung der Tätigkeit von E-Geld-Instituten, zur Änderung der Richtlinien 2005/60/EG und 2006/48/EG sowie zur Aufhebung der Richtlinie 2000/46/EG (ABl. Nr. L 267 vom 10.10.2009, S. 7).
 
@@ -8520,7 +8524,9 @@ Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2009/110/EG des Europäis
 
 ### Notifikationshinweis gemäß Artikel 12 der Richtlinie 98/34/EG
 
-##### *(Anm.: aus BGBl. I Nr. 8/2008, zu § 365s, BGBl. Nr. 194/1994)*
+***(Anm.: aus BGBl. I Nr. 8/2008, zu § 365s, BGBl. Nr. 194/1994)***
+
+##### Art. 5
 
 Dieses Gesetz wurde unter Einhaltung der Bestimmungen der Richtlinie 98/34/EG über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft, ABl. Nr. L 204 vom 21.7.1998, S. 37 in der Fassung der Richtlinie 98/48/EG, ABl. Nr. L 217 vom 5.8.1998, S. 18, unter der Notifikationsnummer 2007/456/A notifiziert.
 
@@ -8556,13 +8562,17 @@ Dieses Gesetz wurde unter Einhaltung der Bestimmungen der Richtlinie (EU) 2015/1
 
 ### Umsetzung von Richtlinien der Europäischen Union
 
-##### *(Anm.: aus BGBl. I Nr. 34/2015, zu den §§ 137g und 338, BGBl. Nr. 194/1994)*
+***(Anm.: aus BGBl. I Nr. 34/2015, zu den §§ 137g und 338, BGBl. Nr. 194/1994)***
+
+##### Art. 1
 
 Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2009/138/EG betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (Neufassung), (ABl. Nr. L 335 vom 17.12.2009 S. 1), zuletzt geändert durch die Richtlinie 2014/51/EU ABl. Nr. L 153 vom 22.05.2014 S. 1.
 
 ## Artikel III
 
-##### *(Anm.: aus BGBl. I Nr. 63/1997, zu den §§ 77, 79, 81, 82a, 83, 353, 356, 356b, 356c, 359b und 360, BGBl. Nr. 194/1994)*
+***(Anm.: aus BGBl. I Nr. 63/1997, zu den §§ 77, 79, 81, 82a, 83, 353, 356, 356b, 356c, 359b und 360, BGBl. Nr. 194/1994)***
+
+##### Art. 3
 
 (1) Art. I Z 18.4 (§ 359b Abs. 4) tritt gleichzeitig mit der gemäß Art. I Z 18.4 (§ 359b Abs. 7) zu erlassenden Verordnung in Kraft.
 
@@ -8582,7 +8592,9 @@ Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2009/138/EG betreffend di
 
 ### Inkrafttreten und Übergangsbestimmungen
 
-##### *(Anm.: aus BGBl. I Nr. 135/2009, zu den §§ 41, 43, 65, 74 und 351, BGBl. Nr. 194/1994)*
+***(Anm.: aus BGBl. I Nr. 135/2009, zu den §§ 41, 43, 65, 74 und 351, BGBl. Nr. 194/1994)***
+
+##### Art. 79
 
 (1) Art. 2 (Änderung des Allgemeinen Bürgerlichen Gesetzbuchs), Art. 3 (Änderung des Ehegesetzes), Art. 4 (Änderung des Fortpflanzungsmedizingesetzes), Art. 6 (Änderung der Jurisdiktionsnorm), Art. 7 (Änderung des Strafgesetzbuches), Art. 27 (Änderung des Einkommensteuergesetzes 1988), Art. 28 (Änderung des Körperschaftsteuergesetzes 1988), Art. 29 (Änderung des Umsatzsteuergesetzes 1994), Art. 30 (Änderung des Bewertungsgesetzes 1955), Art. 31 (Änderung des Gebührengesetzes 1957), Art. 33 (Änderung der Bundesabgabenordnung), Art. 34 (Änderung des Alkoholsteuergesetzes), Art. 61 (Änderung des Ärztegesetzes 1998), Art. 62 (Änderung des Gehaltskassengesetzes 2002), Art. 63 (Änderung des Apothekengesetzes), Art. 72 (Änderung des Studienförderungsgesetzes), Art. 76 (Änderung des Entwicklungshelfergesetzes), Art. 77 (Änderung des Bundesgesetzes über Aufgaben und Organisation des auswärtigen Dienstes – Statut) und Art. 78 (Bundesgesetz über die Einräumung von Privilegien und Immunitäten an internationale Organisationen) treten mit 1. Jänner 2010 in Kraft.
 

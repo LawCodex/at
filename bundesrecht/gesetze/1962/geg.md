@@ -447,7 +447,9 @@ Jeder Bescheid, der nach Ablauf des 30. September 2013 genehmigt wird, hat einen
 
 ### In-Kraft-Treten, Aufhebungen, Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. I Nr. 131/2001, zu den §§ 1, 2, 6, 6a, 7, 9, 11, 13, 14a und 18, BGBl. Nr. 288/1962)*
+***(Anm.: aus BGBl. I Nr. 131/2001, zu den §§ 1, 2, 6, 6a, 7, 9, 11, 13, 14a und 18, BGBl. Nr. 288/1962)***
+
+#### Art. 13
 
 1\. Dieses Bundesgesetz tritt mit 1. Jänner 2002 in Kraft.
 
@@ -463,7 +465,9 @@ Jeder Bescheid, der nach Ablauf des 30. September 2013 genehmigt wird, hat einen
 
 ### Inkrafttreten, Aufhebung eines Gesetzes, Übergangsbestimmungen
 
-#### *(Anm.: aus BGBl. I Nr. 140/1997, zu den §§ 2 und 9 GEG, BGBl. Nr. 288/1962)*
+***(Anm.: aus BGBl. I Nr. 140/1997, zu den §§ 2 und 9 GEG, BGBl. Nr. 288/1962)***
+
+#### Art. 32
 
 \*(Anm.: Z 1 Inkrafttretensbestimmung)*
 
@@ -483,7 +487,9 @@ Jeder Bescheid, der nach Ablauf des 30. September 2013 genehmigt wird, hat einen
 
 ### Schlussbestimmungen zu Art. 3 bis 8, 11 und 27 bis 29
 
-#### *(Anm.: aus BGBl. I Nr. 26/2000, zu BGBl. Nr. 288/1962)*
+***(Anm.: aus BGBl. I Nr. 26/2000, zu BGBl. Nr. 288/1962)***
+
+#### Art. 33
 
 (1) Dieses Bundesgesetz tritt – soweit sich dies nicht bereits aus den einzelnen Artikeln ergibt – in Kraft:
 

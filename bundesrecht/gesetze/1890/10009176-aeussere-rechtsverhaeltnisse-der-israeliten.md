@@ -296,12 +296,16 @@ b) den Gegenwert der jeweiligen Bezüge von 23 Bediensteten der Kultusgemeinden 
 
 ## Artikel II
 
-#### *(Anm.: aus BGBl. Nr. 61/1984, zu § 2, RGBl. Nr. 57/1890)*
+***(Anm.: aus BGBl. Nr. 61/1984, zu § 2, RGBl. Nr. 57/1890)***
+
+#### Art. 2
 
 Die bereits mit Rechtspersönlichkeit bestehenden israelitischen Kultusgemeinden in Wien (mit dem Sprengel der Bundesländer Wien und Niederösterreich und der politischen Bezirke Oberpullendorf, Mattersburg, Eisenstadt und Neusiedl am See sowie der Freistädte Eisenstadt und Rust des Bundeslandes Burgenland), Linz (mit dem Spengel des Bundeslandes Oberösterreich), Salzburg (mit dem Sprengel des Bundeslandes Salzburg), Innsbruck (mit dem Sprengel der Bundesländer Tirol und Vorarlberg) und Graz (mit dem Sprengel der Bundesländer Steiermark und Kärnten und der politischen Bezirke Oberwart, Güssing und Jennersdorf des Bundeslandes Burgenland) haben unbeschadet des letzten Absatzes von § 2 ihre Aufgaben gemäß § 25 weiter zu erfüllen.
 
 ## Artikel III
 
-#### *(Anm.: aus BGBl. Nr. 61/1984, zu § 1, RGBl. Nr. 57/1890)*
+***(Anm.: aus BGBl. Nr. 61/1984, zu § 1, RGBl. Nr. 57/1890)***
+
+#### Art. 3
 
 Das Gesetz vom 21. März 1890, RGBl. Nr. 57, betreffend die Regelung der äußeren Rechtsverhältnisse der israelitischen Religionsgesellschaft, gilt auch im Burgenland.
