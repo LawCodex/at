@@ -44,11 +44,11 @@ BGBl. Nr. 422/1974 (NR: GP XIII RV 850 AB 1236 S. 113. BR: S. 334.)
 
 Ueber Antrag beider Häuser Meines Reichsrathes finde Ich zum Schutze des Hausrechtes gegen Uebergriffe der Organe der öffentlichen Gewalt, Folgendes zu verordnen:
 
-## § 1 – §. 1.
+## § 1
 
 Eine Hausdurchsuchung, das ist die Durchsuchung der Wohnung oder sonstiger zum Hauswesen gehörigen Räumlichkeiten darf in der Regel nur kraft eines mit Gründen versehenen richterlichen Befehles unternommen werden. Dieser Befehl ist den Betheiligten sogleich oder doch innerhalb der nächsten 24 Stunden zuzustellen.
 
-## § 2 – §. 2.
+## § 2
 
 Zum Zwecke der Strafgerichtspflege kann bei Gefahr am Verzuge auch ohne richterlichen Befehl eine Hausdurchsuchung von Gerichtsbeamten, Beamten der Sicherheitsbehörden oder Gemeindevorstehern angeordnet werden. Der zur Vornahme Abgeordnete ist mit einer schriftlichen Ermächtigung zu versehen, welche er dem Betheiligten vorzuweisen hat.
 
@@ -56,11 +56,11 @@ Zu demselben Zwecke kann eine Hausdurchsuchung auch durch die Sicherheitsorgane 
 
 In beiden Fällen ist dem Betheiligten auf sein Verlangen sogleich oder doch binnen der nächsten 24 Stunden die Bescheinigung über die Vornahme der Hausdurchsuchung und deren Gründe zuzustellen.
 
-## § 3 – §. 3.
+## § 3
 
 Zum Behufe der polizeilichen und finanziellen Aufsicht dürfen von den Organen derselben Hausdurchsuchungen nur in den durch das Gesetz bestimmten Fällen vorgenommen werden. Jedoch gelten auch hier die Vorschriften des vorhergehenden Paragraphes bezüglich der Ermächtigung zur Hausdurchsuchung und der Bescheinigung über deren Vornahme.
 
-## § 4 – §. 4.
+## § 4
 
 Jede in Ausübung des Amtes oder Dienstes gegen die vorstehenden Bestimmungen vorgenommene Hausdurchsuchung ist im Falle des bösen Vorsatzes als das Verbrechen des Mißbrauches der Amtsgewalt (§. 101 des Strafgesetzes), außer diesem Falle aber als Uebertretung gegen die Pflichten eines öffentlichen Amtes nach Vorschrift der §§. 331 und 332 des Strafgesetzes zu bestrafen.
 
@@ -70,7 +70,7 @@ Jede in Ausübung des Amtes oder Dienstes gegen die vorstehenden Bestimmungen vo
 >
 > Gem. Art. VIII Abs. 1 iVm. Art. X StRAG statt "als Uebertretung gegen die Pflichten eines öffentlichen Amtes nach Vorschrift der §§. 331 und 332 des Strafgesetzes" heute vermutlich: „als Vergehen der fahrlässigen Verletzung der Freiheit der Person oder des Hausrechts nach § 303 des Strafgesetzbuches“.
 
-## § 5 – §. 5.
+## § 5
 
 Die Hausdurchsuchungen zum Behufe der polizeilichen Aufsicht sind, sowie jene zum Zwecke der Strafgerichtspflege, nach den Vorschriften der Strafproceßordnung vorzunehmen.
 
@@ -80,7 +80,7 @@ Die Vornahme der Hausdurchsuchungen zum Behufe der finanziellen Aufsicht hat nac
 
 > **Beachte:** XII. Hauptstück der StPO
 
-## § 6 – §. 6.
+## § 6
 
 Bei jeder Hausdurchsuchung, bei welcher nichts Verdächtiges ermittelt wurde, ist dem Betheiligten auf sein Verlangen eine Bestätigung hierüber zu ertheilen.
 

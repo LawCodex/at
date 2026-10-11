@@ -50,7 +50,7 @@ Die Nationalversammlung hat beschlossen:
 
 ## I. Abschnitt.
 
-### § 1 – § 1.
+### § 1
 
 1\. Alle Herrscherrechte und sonstige Vorrechte des Hauses Habsburg-Lothringen sowie aller Mitglieder dieses Hauses sind in Österreich für immerwährende Zeiten aufgehoben.
 
@@ -62,23 +62,23 @@ Die Nationalversammlung hat beschlossen:
 
 > **Anmerkung:** Die Promulgationsklausel des BVG BGBl. Nr. 172/1963 bezeichnet die Neufassung des § 2 als authentische Interpretation.
 
-### § 3 – § 3.
+### § 3
 
 Der Gebrauch von Titeln und Ansprachen, die mit den Bestimmungen des § 1 im Widerspruch stehen, ist verboten. Eide, die dem Kaiser in seiner Eigenschaft als Staatsoberhaupt geleistet worden sind, sind unverbindlich.
 
-### § 4 – § 4.
+### § 4
 
 In der Republik Österreich ist jedes Privatfürstenrecht aufgehoben.
 
 ## II. Abschnitt.
 
-### § 5 – § 5.
+### § 5
 
 Die Republik Österreich ist Eigentümerin des gesamten in ihrem Staatsgebiet befindlichen beweglichen und unbeweglichen hofärarischen sowie des für das früher regierende Haus oder für eine Zweiglinie desselben gebundenen Vermögens.
 
 > **Anmerkung:** Die auf Grund der nach Art. 1 Abs. 1 des BVG BGBl. Nr. 30/1928 außer Kraft tretenden Bestimmungen des § 5 dieses Gesetzes erfolgten grundbücherlichen Anmerkungen des Veräußerungsverbotes zugunsten der Republik Österreich sind auf Grund des Art. 1 Abs. 2 des BVG BGBl. Nr. 30/1928 im Grundbuch zu löschen.
 
-### § 6 – § 6.
+### § 6
 
 Als hofärarisches Vermögen gilt das bisher von den Hofstäben und deren Ämtern verwaltete Vermögen, soweit es nicht ein für das früher regierende Haus oder für eine Zweiglinie desselben gebundenes Vermögen oder aber nachweisbar freies persönliches Privatvermögen ist.
 
@@ -102,7 +102,7 @@ f) die Hofbibliothek.
 
 > **Anmerkung:** Die Absatzbezeichnungen „(1)“ bis „(3)“ beruhen auf einem Redaktionsversehen in der Novelle StGBl. Nr. 501/1919.
 
-### § 7 – § 7.
+### § 7
 
 (1) Das Reinerträgnis des auf Grund dieses Gesetzes in das Eigentum der Republik Österreich gelangenden Vermögens ist nach Abzug der mit der Übernahme dieses Vermögens verbundenen oder dem Staate durch diese Übernahme erwachsenden Lasten zur Fürsorge für die durch den Weltkrieg in ihrer Gesundheit geschädigten oder ihres Ernährers beraubten Staatsbürger zu verwenden.
 
@@ -110,6 +110,6 @@ f) die Hofbibliothek.
 
 (3) Aufwendungen der bisherigen Fideikommißinhaber für das gebundene Vermögen sind von der Republik Österreich nicht zu ersetzen.
 
-### § 8 – § 8.
+### § 8
 
 Mit dem Vollzuge dieses Gesetzes sind der Staatskanzler, der Staatssekretär für Finanzen und der Staatssekretär für soziale Verwaltung betraut.

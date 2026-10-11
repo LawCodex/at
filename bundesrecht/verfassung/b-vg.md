@@ -184,7 +184,9 @@ BGBl. I Nr. 41/2026 (NR: GP XXVIII IA 765/A AB 488 S. 77. BR: 11812 AB 11819 S. 
 
 ### Allgemeine Bestimmungen. Europäische Union
 
-#### A. Allgemeine Bestimmungen
+**A. Allgemeine Bestimmungen**
+
+#### Art. 1
 
 Artikel 1. Österreich ist eine demokratische Republik. Ihr Recht geht vom Volk aus.
 

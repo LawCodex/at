@@ -52,7 +52,9 @@ BGBl. Nr. 971/1993 (NR: GP XVIII IA 653/A AB 1426 S. 149. BR: AB 4703 S. 578.)
 
 ## Artikel III
 
-### Übergangsbestimmung
+**Übergangsbestimmung**
+
+### Art. 3
 
 (1) Die zum Zeitpunkt des Inkrafttretens dieses Bundesverfassungsgesetzes an Elektrizitätsversorgungsunternehmen bestehenden Eigentumsverhältnisse werden durch Art. I nicht berührt.
 
@@ -66,7 +68,9 @@ BGBl. Nr. 971/1993 (NR: GP XVIII IA 653/A AB 1426 S. 149. BR: AB 4703 S. 578.)
 
 ## Artikel IV
 
-### Aufhebung von Rechtsvorschriften
+**Aufhebung von Rechtsvorschriften**
+
+### Art. 4
 
 (1) § 110 Abs. 9 des Arbeitsverfassungsgesetzes, BGBl. Nr. 22/1974, wird aufgehoben.
 
@@ -76,7 +80,9 @@ BGBl. Nr. 971/1993 (NR: GP XVIII IA 653/A AB 1426 S. 149. BR: AB 4703 S. 578.)
 
 ## Artikel V
 
-### Vollzugsklausel
+**Vollzugsklausel**
+
+### Art. 5
 
 Mit der Vollziehung des Artikels I ist die Bundesregierung, des Artikels II Abs. 1 und 2 der Bundesminister für wirtschaftliche Angelegenheiten im Einvernehmen mit dem Bundesminister für Finanzen, des Artikels II Abs. 3 die Bundesregierung, des Artikels II Abs. 4 und 5 sowie des Artikels IV Abs. 3 der Bundesminister für Finanzen, des Artikels III der Bundesminister für wirtschaftliche Angelegenheiten und des Artikels IV Abs. 1 und 2 der Bundesminister für Arbeit und Soziales betraut.
 
