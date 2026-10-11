@@ -1,0 +1,46 @@
+---
+title: "Madrider Abkommen (Stockholmer Fassung)"
+identifier: "20000997"
+type: notice
+ris_type: "K (Geltungsbereich)"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 194/2000"
+last_amended: 2000-11-22
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2000/194/P0/NOR30001067"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000997"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Madrider Abkommen (Stockholmer Fassung)
+
+Kundmachung des Bundeskanzlers betreffend den Geltungsbereich des Madrider Abkommens über die internationale Registrierung von Marken
+
+StF: BGBl. III Nr. 194/2000
+
+## Art. 1
+
+Nach Mitteilungen des Generaldirektors der Weltorganisation für geistiges Eigentum haben folgende weitere Staaten ihre Beitrittsurkunden zum Madrider Abkommen über die internationale Registrierung von Marken (BGBl. Nr. 400/1973 idF BGBl. Nr. 123/1984, letzte Kundmachung des Geltungsbereichs BGBl. III Nr. 100/1997) hinterlegt:
+
+`            Staaten:               Datum der Hinterlegung`
+
+`                                    der Beitrittsurkunde:`
+
+`            Bhutan                     4. Mai 2000`
+
+`            Kenia                     26. März 1998`
+
+`            Lesotho                   12. November 1998`
+
+`            Mosambik                   7. Juli 1998`
+
+`            Swasiland                 14. September 1998`
+
+Anlässlich der Hinterlegung ihrer Beitrittsurkunde haben folgende Staaten Erklärungen gemäß Art. 3bis Abs. 1 des Abkommens abgegeben:
+
+Bhutan, Kenia, Lesotho, Mosambik.
+
+Einer weiteren Mitteilung des Generaldirektors zufolge hat Kroatien erklärt, sich mit Wirksamkeit vom 8. Oktober 1991 an das Abkommen gebunden zu erachten.

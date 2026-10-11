@@ -1,0 +1,30 @@
+---
+title: "VfGH-Ausspruch, dass eine Wortfolge im § 130 Abs. 1 des GSVG verfassungswidrig war"
+identifier: "10001154"
+type: notice
+ris_type: "K"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 852/1992"
+last_amended: 1992-12-31
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1992/852/P0/NOR11001159"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001154"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# VfGH-Ausspruch, dass eine Wortfolge im § 130 Abs. 1 des GSVG verfassungswidrig war
+
+Kundmachung des Bundeskanzlers über den Ausspruch des Verfassungsgerichtshofes, daß eine Wortfolge im § 130 Abs. 1 des Gewerblichen Sozialversicherungsgesetzes verfassungswidrig war
+
+StF: BGBl. Nr. 852/1992
+
+## Präambel/Promulgationsklausel
+
+Gemäß Art. 140 Abs. 4 und 5 B-VG und gemäß § 64 Abs. 2 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:
+
+## Art. 1
+
+Der Verfassungsgerichtshof hat mit Erkenntnis vom 2. Dezember 1992, G 132/92-8, G 133/92-8, G 156/92-8, G 158/92-6, G 188/92-6, G 189/92-6, G 190/92-6, G 195/92-6, G 205/92-6, dem Bundeskanzler zugestellt am 11. Dezember 1992, ausgesprochen, daß die Wortfolge „nach Vollendung des 65. Lebensjahres, die Versicherte“ im § 130 Abs. 1 des Gewerblichen Sozialversicherungsgesetzes, BGBl. Nr. 560/1978, in der Fassung des Art. II Z 6 lit. a des Sozialrechts-Änderungsgesetzes 1991, BGBl. Nr. 157, bis zum Ablauf des 30. November 1991 verfassungswidrig war.

@@ -1,0 +1,46 @@
+---
+title: "Rechtspersönlichkeit von Gemeinden und Einrichtungen der Evangelischen Kirche"
+identifier: "20005220"
+type: notice
+ris_type: "K"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 16/2007"
+last_amended: 2007-01-13
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2007/16/P0/NOR30005690"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005220"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Rechtspersönlichkeit von Gemeinden und Einrichtungen der Evangelischen Kirche
+
+Kundmachung der Bundesministerin für Bildung, Wissenschaft und Kultur über die Rechtspersönlichkeit von Gemeinden und Einrichtungen der Evangelischen Kirche sowie Namens- und Adressänderungen derselben
+
+StF: BGBl. II Nr. 16/2007
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 6 des Bundesgesetzes vom 6. Juli 1961, BGBl. Nr. 182, über äußere Rechtsverhältnisse der Evangelischen Kirche, wird kundgemacht:
+
+## Art. 1
+
+1\. Der Sitz der Evangelischen Superintendentur A.B. Steiermark wurde mit Wirkung vom 21. April 2005 von 8010 Graz, Mozartgasse 9, nach 8010 Graz, Kaiser-Josef-Platz 9, verlegt.
+
+2\. Der Sitz der Evangelischen Superintendentur A.B. Salzburg und Tirol wurde mit Wirkung vom 15. September 2005 von 5020 Salzburg, Sinnhubstraße 10/1209, nach 6020 Innsbruck, Rennweg 13, verlegt.
+
+3\. Der als Werk der Evangelischen Kirche A.B. errichtete Verband der Wiener Evangelischen Pfarrgemeinden A.B. (Evangelische Pfarrgemeinde A.B. Wien) wurde mit Wirkung vom 31. Dezember 2005 aufgelöst. Er hat damit die Stellung als Körperschaft des öffentlichen Rechts verloren.
+
+4\. Der Pfarrgemeindeverband A.B. Wien wurde mit Wirkung vom 1. Jänner 2006 als Werk der Evangelischen Kirche A.B. errichtet. Er genießt gemäß § 4 Abs. 1 leg.cit. die Stellung einer Körperschaft des öffentlichen Rechts.
+
+5\. Der mit Wirkung vom 2. Juli 2001 errichtete Evangelische Gemeindeverband A.B. für Kaisermühlen-Kagran, dem als kirchliche Einrichtung mit Rechtspersönlichkeit gemäß §§ 8 und 60 der Kirchenverfassung die Stellung einer Körperschaft des öffentlichen Rechts zukam, wurde mit Wirkung vom 1. Jänner 2006 zur selbständigen Evangelischen Pfarrgemeinde A.B. Kaisermühlen und Kagran umgewandelt. Gemäß § 4 Abs. 1 leg.cit. genießt sie die Stellung einer Körperschaft des öffentlichen Rechts.
+
+6\. Die Predigtstation Leonding der Evangelischen Pfarrgemeinde A.B. Linz-Innere Stadt wurde mit Wirkung vom 1. Jänner 2006 zur selbständigen Evangelischen Pfarrgemeinde A.B. Leonding umgewandelt. Gemäß § 4 Abs. 1 leg.cit. genießt sie die Stellung einer Körperschaft des öffentlichen Rechts.
+
+7\. Der Name der Evangelischen Pfarrgemeinde A.B. Wien-Leopoldstadt wurde mit Wirkung vom 18. September 2006 geändert in:
+
+Evangelische Pfarrgemeinde A.B.Wien-Leopoldstadt und Brigittenau.
+
+8\. Die Schwedische Evangelische Gemeinde A.B. (Lutherische Gemeinde) in Österreich mit Sitz in 1180 Wien, Gentzgasse 10, wurde mit Wirkung vom 8. November 2006 als Pfarrgemeinde (Personalgemeinde) der Evangelischen Kirche A.B. in Österreich errichtet. Gemäß § 4 Abs. 1 leg.cit. genießt sie die Stellung einer Körperschaft des öffentlichen Rechts.

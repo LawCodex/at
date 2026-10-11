@@ -56,7 +56,9 @@ b) nach Maßgabe des § 5 Abs. 4 Z 1 lit. e beziehungsweise Z 2 sonstige Zeiten.
 
 ## Artikel II.
 
-### *(Anm.: aus BGBl. Nr. 212/1962, zu § 2a, BGBl. Nr. 202/1956)*
+***(Anm.: aus BGBl. Nr. 212/1962, zu § 2a, BGBl. Nr. 202/1956)***
+
+### Art. 2
 
 1\. Beschäftigungszeiten und sonstige Zeiten, die von Beamten in den im § 1 Abs. 3 des Auslandsrenten-Übernahmegesetzes – ARÜG., BGBl. Nr. 290/1961, angeführten Staaten in der Zeit vom 13. März 1938 bis zum 27. November 1961 zurückgelegt wurden, sind, sofern nicht § 2 a anzuwenden ist, nach den für die Anrechnung von Ruhegenußvordienstzeiten allgemein geltenden Bestimmungen beitragsfrei für die Bemessung des Ruhegenusses anzurechnen, wenn für diese Zeiten, wären sie auf dem Gebiet der Republik Österreich zurückgelegt worden, ein Überweisungsbetrag aus der gesetzlichen Pensionsversicherung zu leisten wäre.
 

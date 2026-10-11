@@ -1,0 +1,34 @@
+---
+title: "VfGH-Ausspruch, dass eine Wortfolge in § 607 Abs. 12 des ASVG verfassungswidrig war"
+identifier: "20008548"
+type: notice
+ris_type: "K"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 166/2013"
+last_amended: 2013-08-03
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/2013/166/P0/NOR40154619"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008548"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# VfGH-Ausspruch, dass eine Wortfolge in § 607 Abs. 12 des ASVG verfassungswidrig war
+
+Kundmachung des Bundeskanzlers über den Ausspruch des Verfassungsgerichtshofes, dass eine Wortfolge in § 607 Abs. 12 des Allgemeinen Sozialversicherungsgesetzes idF des Budgetbegleitgesetzes 2011 verfassungswidrig war
+
+StF: BGBl. I Nr. 166/2013
+
+## Präambel/Promulgationsklausel
+
+Gemäß Art. 140 Abs. 5 und 7 B-VG und gemäß § 64 Abs. 2 und § 65 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, wird kundgemacht:
+
+## Art. 1
+
+Der Verfassungsgerichtshof hat mit Erkenntnis vom 25. Juni 2013, G 3-9/2013-15, G 50/2013-10, dem Bundeskanzler zugestellt am 25. Juli 2013, zu Recht erkannt:
+
+„I. Die Wortfolge “, wenn für sie ein Beitrag in der Höhe von 22,8% der dreißigfachen Mindestbeitragsgrundlage nach § 76a Abs. 3 je Ersatzmonat unter sinngemäßer Anwendung des § 227 Abs. 4 entrichtet wird“ in § 607 Abs. 12 des Bundesgesetzes vom 9. September 1955 über die Allgemeine Sozialversicherung (Allgemeines Sozialversicherungsgesetz – ASVG), BGBl. Nr. 189, in der Fassung des Budgetbegleitgesetzes 2011, BGBl. I Nr. 111/2010, war bis einschließlich 1. Juli 2011 verfassungswidrig.
+
+II. Die als verfassungswidrig erkannte Wortfolge ist auch im Verfahren 10 ObS 20/13h vor dem Obersten Gerichtshof nicht mehr anzuwenden.“

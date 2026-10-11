@@ -1,0 +1,31 @@
+---
+title: "VfGH-Aufhebung V d. Bürgermeisters von Etsdorf - Haitzendorf"
+identifier: "10000829"
+type: notice
+ris_type: "K"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 9/1986"
+date: 1985-12-17
+last_amended: 1986-01-11
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1986/9/P0/NOR11000831"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000829"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# VfGH-Aufhebung V d. Bürgermeisters von Etsdorf - Haitzendorf
+
+Kundmachung des Bundesministers für Handel, Gewerbe und Industrie vom 17. Dezember 1985 über die Aufhebung von Bestimmungen der Verordnung des Bürgermeisters der Marktgemeinde Etsdorf-Haitzendorf, durch welche die Ausübung gewerblicher Tätigkeiten mittels Automaten untersagt wird, durch den Verfassungsgerichtshof
+
+StF: BGBl. Nr. 9/1986
+
+## Präambel/Promulgationsklausel
+
+Gemäß Art. 139 Abs. 5 B-VG und gemäß §§ 60 Abs. 2 und 61 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85, in der Fassung des Bundesgesetzes BGBl. Nr. 311/1976 wird kundgemacht:
+
+## Art. 1
+
+Der Verfassungsgerichtshof hat mit Erkenntnis vom 2. Oktober 1985, V 36/84-12, dem Bundesminister für Handel, Gewerbe und Industrie zugestellt am 2. Dezember 1985, die Worte „Etsdorf und'' in der lit. a, „Etsdorf,'' in der lit. b, „des Kirchenplatzes und der Aufbahrungshalle in Etsdorf,'' in der lit. d, sowie die gesamte lit. c der Z 1 der Verordnung des Bürgermeisters der Marktgemeinde Etsdorf-Haitzendorf vom 13. April 1982, durch welche die Ausübung gewerblicher Tätigkeiten mittels Automaten auf Grund der Bestimmungen der §§ 39, 59 NÖ Gemeindeordnung, LGBl. 1000-3 in Verbindung mit § 52 Abs. 4 der Gewerbeordnung 1973 in der Fassung der Gewerbeordnungs-Novelle 1981, BGBl. Nr. 619, untersagt wird, als gesetzwidrig aufgehoben.

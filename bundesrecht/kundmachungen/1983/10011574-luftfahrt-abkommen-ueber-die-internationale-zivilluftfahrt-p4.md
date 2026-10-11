@@ -1,0 +1,73 @@
+---
+title: "Luftfahrt - Abkommen über die Internationale Zivilluftfahrt - P4"
+identifier: "10011574"
+type: notice
+ris_type: "K (Geltungsbereich)"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 319/1983"
+date: 1983-06-07
+last_amended: 1983-06-22
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1983/319/P0/NOR11011839"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011574"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Luftfahrt - Abkommen über die Internationale Zivilluftfahrt - P4
+
+Kundmachung des Bundeskanzlers vom 7. Juni 1983 betreffend den Geltungsbereich des Protokolls über eine Änderung des Abkommens über die Internationale Zivilluftfahrt
+
+StF: BGBl. Nr. 319/1983
+
+## Art. 1
+
+Nach Mitteilungen des Generalsekretariats der Internationalen Zivilluftfahrtorganisation (ICAO) haben folgende weitere Staaten ihre Ratifikationsurkunden zum Protokoll über eine Änderung des Abkommens über die Internationale Zivilluftfahrt
+
+(BGBl. Nr. 533/1973) hinterlegt:
+
+`Staaten:                                Datum der Hinterlegung`
+
+`                                        der Ratifikationsurkunde:`
+
+`Kostarika                               14. November 1973`
+
+`Sudan                                   21. Novemter 1973`
+
+`Swasiland                               31. Jänner 1974`
+
+`China                                   28. Feber 1974`
+
+`Italien                                  3. Juli 1974`
+
+`Nauru                                    3. September 1975`
+
+`Lesotho                                 11. September 1975`
+
+`Uruguay                                 19. September 1975`
+
+`Irak                                    10. Feber 1976`
+
+`Guinea                                  19. August 1976`
+
+`Mauretanien                             28. Jänner 1977`
+
+`Angola                                  10. April 1977`
+
+`Türkei                                  14. September 1977`
+
+`Gambia                                  25. Jänner 1978`
+
+`Israel                                  21. März 1978`
+
+`Koreanische Demokratische`
+
+`  Volksrepublik                         27. Juni 1978`
+
+`Papua Neuguinea                         25. Juli 1979`
+
+`Sao Tomé und Principe                   18. September 1980`
+
+`Seychellen                              22. Jänner 1981`

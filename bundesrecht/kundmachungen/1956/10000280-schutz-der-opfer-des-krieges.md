@@ -1,0 +1,37 @@
+---
+title: "Schutz der Opfer des Krieges"
+identifier: "10000280"
+type: notice
+ris_type: "K (Geltungsbereich)"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 200/1956"
+date: 1956-10-06
+last_amended: 1956-11-06
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1956/200/P0/NOR11000281"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000280"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Schutz der Opfer des Krieges
+
+Kundmachung des Bundeskanzleramtes vom 6. Oktober 1956 über den Beitritt Griechenlands, Libyens und Marokkos zu den Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949, BGBl. Nr. 155/1953.
+
+StF: BGBl. Nr. 200/1956
+
+## Art. 1
+
+Nach Mitteilungen der schweizerischen Gesandtschaft in Wien sind in der Zeit vom 16. Feber 1956 bis 18. Juli 1956 folgende weitere Staaten die Genfer Abkommen zum Schutze der Opfer des Krieges vom 12. August 1949, BGBl. Nr. 155/1953, beigetreten:
+
+`                           Datum der Hinterlegung der`
+
+`  Staaten:                      Beitrittsurkunden:`
+
+`Griechenland ....................  5. Juni 1956`
+
+`Libyen .......................... 22. Mai 1956`
+
+`Marokko ......................... 26. Juli 1956`

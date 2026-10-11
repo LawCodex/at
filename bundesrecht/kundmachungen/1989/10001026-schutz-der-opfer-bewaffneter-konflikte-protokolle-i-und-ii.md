@@ -1,0 +1,49 @@
+---
+title: "Schutz der Opfer bewaffneter Konflikte (Protokolle I und II)"
+identifier: "10001026"
+type: notice
+ris_type: "K (Geltungsbereich)"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 196/1989"
+date: 1989-04-04
+last_amended: 1989-04-29
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1989/196/P0/NOR11001029"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001026"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Schutz der Opfer bewaffneter Konflikte (Protokolle I und II)
+
+Kundmachung des Bundeskanzlers vom 4. April 1989 betreffend den Geltungsbereich des Zusatzprotokolls zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer internationaler bewaffneter Konflikte (Protokoll I) und des Zusatzprotokolls zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer nicht internationaler bewaffneter Konflikte (Protokoll II)
+
+StF: BGBl. Nr. 196/1989
+
+## Art. 1
+
+Nach Mitteilungen des Schweizerischen Bundesrates haben folgende weitere Staaten ihre Beitrittsurkunden zum Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer internationaler bewaffneter Konflikte (Protokoll I) und zum Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer nicht internationaler bewaffneter Konflikte (Protokoll II) (BGBl. Nr. 527/1982, letzte Kundmachung des Geltungsbereiches BGBl. Nr. 252/1988) hinterlegt:
+
+`Staaten:                               Datum der Hinterlegung der`
+
+`                                       Beitrittsurkunde:`
+
+`Gambia                                 12. Jänner 1989`
+
+`Katar (nur Protokoll I)                 5. April 1988`
+
+`Demokratische                           9. März 1988`
+
+`  Volksrepublik Korea`
+
+`  (nur Protokoll I)`
+
+`Liberia                                30. Juni 1988`
+
+`Mali                                    8. Februar 1989`
+
+`Nigeria                                10. Oktober 1988`
+
+`Salomonen                              19. September 1988`

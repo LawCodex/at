@@ -1,0 +1,61 @@
+---
+title: "Sicherheitsrat der Vereinten Nationen - Resolution 665 (1990)"
+identifier: "10001078"
+type: notice
+ris_type: "K"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 562/1990"
+date: 1990-08-30
+last_amended: 1990-09-04
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1990/562/P0/NOR11001082"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001078"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Sicherheitsrat der Vereinten Nationen - Resolution 665 (1990)
+
+Kundmachung des Bundeskanzlers vom 30. August 1990 betreffend Resolution 665 (1990), verabschiedet auf der 2938. Sitzung des Sicherheitsrates am 25. August 1990
+
+StF: BGBl. Nr. 562/1990
+
+## Präambel/Promulgationsklausel
+
+Nach Mitteilung des Generalsekretärs der Vereinten Nationen hat der Sicherheitsrat folgende Resolution verabschiedet:
+
+#### Art. 1
+
+<table>
+<tr>
+<td>(Übersetzung)</td>
+</tr>
+</table>
+
+## RESOLUTION 665 (1990)
+
+### verabschiedet auf der 2938. Sitzung des Sicherheitsrates am 25. August 1990
+
+DER SICHERHEITSRAT,
+
+UNTER HINWEIS AUF seine Resolutionen 660 (1990), 661 (1990), 662 (1990) und 664 (1990) und ihre vollständige und sofortige Durchführung verlangend,
+
+IN ANBETRACHT SEINES BESCHLUSSES in der Resolution 661 (1990), Wirtschaftssanktionen nach Kapitel VII der Charta der Vereinten Nationen zu verhängen,
+
+ENTSCHLOSSEN, der Besetzung Kuwaits durch Irak, welche die Existenz eines Mitgliedstaates gefährdet, ein Ende zu bereiten und die rechtmäßige Herrschaft sowie die Souveränität, Unabhängigkeit und territoriale Integrität Kuwaits wiederherzustellen, wozu die schnelle Durchführung der vorgenannten Resolutionen erforderlich ist,
+
+BEKLAGEND, daß bei der irakischen Invasion Kuwaits unschuldige Menschen ihr Leben lassen mußten, und entschlossen, weitere Todesopfer zu verhindern,
+
+IN HÖCHSTEM MASSE BEUNRUHIGT darüber, daß Irak sich nach wie vor weigert, den Resolutionen 660 (1990), 661 (1990), 662 (1990) und 664 (1990) Folge zu leisten, und insbesondere über das Verhalten der Regierung Iraks, die Schiffe unter irakischer Flagge zur Ausfuhr von Erdöl verwendet,
+
+1\. FORDERT diejenigen Mitgliedstaaten, die mit der Regierung Kuwaits zusammenarbeiten und Seestreitkräfte in das Gebiet verlegen, auf, unter der Weisungsbefugnis des Sicherheitsrates die erforderlichen, den Umständen angemessenen Maßnahmen anzuwenden, um alle einlaufenden und auslaufenden Seetransporte zur Kontrolle und Überprüfung ihrer Fracht und ihres Bestimmungsortes anzuhalten und die strikte Anwendung der auf derartige Transporte bezüglichen Bestimmungen der Resolution 661 (1990) sicherzustellen;
+
+2\. BITTET infolgedessen die Mitgliedstaaten, den Erfordernissen entsprechend zusammenzuarbeiten, um die Einhaltung der Bestimmungen der Resolution 661 (1990) sicherzustellen, unter größtmöglicher Zuhilfenahme politischer und diplomatischer Maßnahmen, in Übereinstimmung mit Ziffer 1;
+
+3\. ERSUCHT alle Staaten, in Übereinstimmung mit der Charta den in Ziffer 1 dieser Resolution erwähnten Staaten die erforderliche Unterstützung zu gewähren;
+
+4\. ERSUCHT FERNER die betreffenden Staaten, ihre Maßnahmen in Befolgung der vorstehenden Ziffern dieser Resolution zu koordinieren und dabei nach Bedarf auf das Instrumentarium des Generalstabsausschusses zurückzugreifen und im Benehmen mit dem Generalsekretär dem Sicherheitsrat und seinem gemäß Resolution 661 (1990) eingesetzten Ausschuß Berichte vorzulegen, um die Überwachung der Durchführung dieser Resolution zu erleichtern;
+
+5\. BESCHLIESST, mit dieser Angelegenheit aktiv befaßt zu bleiben.
