@@ -137,13 +137,13 @@ def inline_el(c, mode):
         return f"<sup>{inline(c, mode)}</sup>"
     if t == "sub":
         return f"<sub>{inline(c, mode)}</sub>"
-    if t in ("gldsym", "n", "gs", "span", "feld", "aw", "fnoten", "fnotenref", "kursiv", "fett", "beschr", "unterschrift"):
+    if t in ("gldsym", "n", "gs", "listelem", "pdvorlage", "span", "feld", "aw", "fnoten", "fnotenref", "kursiv", "fett", "beschr", "unterschrift"):
         return inline(c, mode)
     if t == "symbol":
         return inline(c, mode) + " "
     if t in ("nbsp", "tab", "en", "em"):
         return " "
-    if t in ("bdash", "abstand"):
+    if t in ("bdash", "abstand", "wechsel", "pdeinst"):
         return ""
     if t == "gdash":
         return "–"
@@ -274,7 +274,7 @@ def parse_doc(path):
 def block_lines(b):
     """Render one non-heading block element as a list of markdown paragraphs."""
     t = local(b)
-    if t in ("absatz", "schluss", "schlussteil", "inhaltsvz", "beschr", "unterschrift"):
+    if t in ("absatz", "schluss", "schlussteil", "inhaltsvz", "beschr", "unterschrift", "pdvorlage"):
         if t == "absatz" and b.get("typ") == "abbobj":
             s = para_text(b)
             return [s] if s else []
@@ -290,7 +290,7 @@ def block_lines(b):
                 s = para_text(c)
                 if s:
                     out.append(escape_line_start(s))
-            elif isinstance(ct, str) and ct.endswith("liste") or ct == "aufzaehlung":
+            elif isinstance(ct, str) and (ct.endswith("liste") or ct == "aufzaehlung" or ct.startswith("betragliste")):
                 for le in c:
                     if local(le) == "listelem":
                         s = para_text(le)
@@ -301,7 +301,7 @@ def block_lines(b):
             else:
                 out.extend(block_lines(c))
         return out
-    if isinstance(t, str) and (t.endswith("liste") or t == "aufzaehlung"):
+    if isinstance(t, str) and (t.endswith("liste") or t == "aufzaehlung" or t.startswith("betragliste")):
         out = []
         for le in b:
             if local(le) == "listelem":
@@ -577,17 +577,21 @@ def render_text_blocks(blocks, m, levels, art_level, hx, header=False, state=Non
         if started:
             return
         main = None
-        if art_text and not has_para:
+        if art_text and not has_para and re.match(r"^\W*(art\.?|artikel|article)\b", art_text, re.I):
             main = art_text
+        elif art_text and not has_para:
+            # e.g. B-VG "A. Allgemeine Bestimmungen": a sub-heading, not the article label
+            out.append(f"**{art_text}**")
+            main = md_escape(label)
         elif anl_text and label.startswith("Anl"):
             main = anl_text
         else:
             main = md_escape(label)
             if anl_text:
                 pending_titles.insert(0, anl_text)
-            if art_text and not has_para:
-                pending_titles.insert(0, art_text)
         t = main
+        key = re.sub(r"[\s.\\]", "", label)
+        pending_titles[:] = [p for p in pending_titles if re.sub(r"[\s.\\]", "", p) != key]
         if pending_titles:
             t += " – " + " – ".join(pending_titles)
         out.append(hx(art_level, t.replace("\n", " ")))

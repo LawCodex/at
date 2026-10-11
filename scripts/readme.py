@@ -127,6 +127,19 @@ landesrecht/<land>/<same categories>/...
   `consolidated` (RIS version date), `eli`, `source` (RIS "Gesamte Rechtsvorschrift" page),
   `retrieved`, `documents` (number of RIS documents merged).
 
+## Notes and known limitations
+
+* Categories follow the RIS field *Typ* as recorded by RIS. Re-promulgated laws
+  (*Wiederverlautbarungen*) are typed "Kundmachung" in RIS and therefore sit in `kundmachungen/`
+  (e.g. the Wiener Stadtverfassung: `landesrecht/wien/kundmachungen/1968/wstv.md`); some
+  Länder record Art. 15a agreements as LG or K. Every file carries the original `ris_type`.
+* Heading levels are derived from RIS markup (`g1`, `g2`, `g1min`, `art`, `para`), which is
+  not applied uniformly across all laws; a few laws therefore have uneven heading levels.
+  Paragraph labels in headings come from the RIS field "§/Artikel/Anlage"; the original
+  paragraph symbol remains in the text (`§ 1. (1) …`).
+* Enumerations (Z 1, lit. a, –) are kept as separate paragraphs with their original symbols,
+  not as Markdown lists.
+
 ## Not covered
 
 * Repealed law and historical versions (only the version in force on {retrieved} is included;
