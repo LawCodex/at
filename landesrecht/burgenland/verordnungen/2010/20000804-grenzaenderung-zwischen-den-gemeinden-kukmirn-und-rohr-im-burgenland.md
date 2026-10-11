@@ -1,0 +1,54 @@
+---
+title: "Grenzänderung zwischen den Gemeinden Kukmirn und Rohr im Burgenland"
+identifier: "20000804"
+type: regulation
+ris_type: "V"
+jurisdiction: at-1
+land: "Burgenland"
+language: de
+promulgation: "LGBl.Nr. 59/2010"
+date: 2010-10-19
+last_amended: 2011-01-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/lgbl/BU/2010/59/P0/LBG40010673"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrBgld&Gesetzesnummer=20000804"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# Grenzänderung zwischen den Gemeinden Kukmirn und Rohr im Burgenland
+
+Verordnung der Burgenländischen Landesregierung vom 19. Oktober 2010 betreffend die Grenzänderung zwischen den Gemeinden Kukmirn (KG 31025 Kukmirn und KG 31007 Eisenhüttl) und Rohr im Burgenland (KG 31041 Rohr)
+
+StF: [LGBl. Nr. 59/2010](http://www.ris.bka.gv.at/Dokumente/Lgbl/LGBL_BU_20101110_59/LGBL_BU_20101110_59.pdf)&lt;br /&gt;
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 7 Abs. 1 der Burgenländischen Gemeindeordnung 2003 - Bgld. GemO 2003, LGBl. Nr. 55, zuletzt geändert durch das Gesetz LGBl. Nr. 33/2010, wird verordnet:
+
+## § 1
+
+### § 1
+
+Die Gemeindegrenze zwischen den Gemeinden Kukmirn und Rohr im Burgenland wird nach Maßgabe des § 2 geändert.
+
+## § 2
+
+### § 2
+
+(1) Die Gemeindegrenze in der Gemeinde Kukmirn zwischen den Ortsteilen KG 31025 Kukmirn und KG 31007 Eisenhüttl verläuft ausgehend vom unverändert gebliebenen Grenzpunkt Nr. 3380 der KG Kukmirn über die neuen Grenzpunkte Nr. 11137, 11136, 10374, 4044, 9165, 6214, 6215, 11722, 11721, 12227, 31872, 31873, 31878, 31901, 31902, 31900, 31898, 31822, 31823, 31821, 31895, 31812, 31810, 31899, 31897, 31820, 25733, 25731, 25729, 25727, 25725, 25723 zum unverändert gebliebenen Grenzpunkt Nr. 7834 der KG Eisenhüttl.
+
+(2) Die Gemeindegrenze im ersten Teilbereich zwischen den Gemeinden Kukmirn (KG 31007 Eisenhüttl) und Rohr im Burgenland (KG 31041 Rohr) verläuft ausgehend vom unverändert gebliebenen Grenzpunkt Nr. 1025 der KG Rohr über die neuen Grenzpunkte Nr. 15296, 12033, 12035, 1187, 11077, 15306, 15295, 15309, 15310, 15312, 15314, 15316, 1195, 15324, 15323, 1193, 1096, 1095, 1088, 15321, 15297, 15307, 15319, 15318, 12063, 12062, 12042, 12041, 12040 zum unverändert gebliebenen Grenzpunkt Nr. 4033 der KG Eisenhüttl.
+
+(3) Die Gemeindegrenze im zweiten Teilbereich zwischen den Gemeinden Kukmirn (KG 31007 Eisenhüttl) und Rohr im Burgenland (KG 31041 Rohr) verläuft ausgehend vom unverändert gebliebenen Grenzpunkt Nr. 30 der KG Rohr über die neuen Grenzpunkte Nr. 1869, 1868, 1866, 11216, 11217, 11218, 12522, 11220, 11221, 11222, 11223, 12521, 11224, 11225, 11226, 11227, 11228, 11229, 11230, 10859, 10858, 298, 296, 294, 10832 zum unverändert gebliebenen Grenzpunkt Nr. 10831 der KG Eisenhüttl sowie ausgehend vom unverändert gebliebenen Grenzpunkt Nr. 10824 der KG Eisenhüttl über die neuen Grenzpunkte Nr. 10825, 10823, 11144, 11143, 11142, 11141, 11140, 11139, 11138 zum unverändert gebliebenen Grenzpunkt Nr. 6205 der KG Eisenhüttl.
+
+(4) Der neue Grenzverlauf und die Koordinaten der Grenzpunkte, die im Gauß-Krüger-System berechnet und im Koordinatenverzeichnis des Amtes der Burgenländischen Landesregierung, Abteilung 4b - Hauptreferat Agrartechnik, ausgewiesen sind, sind zu Abs. 1 in der Anlage 1 und zu Abs. 2 und 3 in der Anlage 2 ersichtlich.
+
+## § 3
+
+### § 3
+
+(1) Die Verordnung LGBl. Nr. 59/2010 tritt mit dem der Kundmachung im Landesgesetzblatt für das Burgenland folgenden 1. Jänner in Kraft.
+
+(2) Die im § 2 Abs. 4 genannten Anlagen werden gemäß § 6 Bgld. Verlautbarungsgesetz 1990 kundgemacht und sind für die Dauer ihrer Wirksamkeit bei der Marktgemeinde Kukmirn, bei der Gemeinde Rohr im Burgenland, bei der Bezirkshauptmannschaft Güssing und bei der für Gemeindewesen zuständigen Abteilung des Amtes der Burgenländischen Landesregierung während der Amtsstunden zur öffentlichen Einsicht aufzulegen. Ohne Auswirkungen auf die Kundmachung sind sie auch im Internet unter http://e-government.bgld.gv.at/landesrecht abrufbar.

@@ -1,0 +1,260 @@
+---
+title: "Anerkennung des Qualitätsrahmens für die Erwachsenenbildung Ö-Cert"
+identifier: "20000905"
+type: agreement
+ris_type: "Vereinbarung gem. Art. 15a B-VG"
+jurisdiction: at-1
+land: "Burgenland"
+language: de
+promulgation: "LGBl.Nr. 69/2012"
+date: 2012-09-27
+last_amended: 2012-04-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/lgbl/BU/2012/69/P0/LBG40013809"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrBgld&Gesetzesnummer=20000905"
+retrieved: 2026-10-11
+documents: 13
+---
+
+# Anerkennung des Qualitätsrahmens für die Erwachsenenbildung Ö-Cert
+
+Kundmachung des Landeshauptmannes von Burgenland vom 27. September 2012 betreffend die Vereinbarung zwischen dem Bund und den Ländern gemäß Art. 15a B-VG über die Anerkennung des Qualitätsrahmens für die Erwachsenenbildung Ö-Cert
+
+StF: [LGBl. Nr. 69/2012](http://www.ris.bka.gv.at/Dokumente/Lgbl/LGBL_BU_201201008_69/LGBL_BU_20121008_69.pdf)
+
+## Präambel/Promulgationsklausel
+
+Gemäß Art. 34, 35 und 81 L-VG wird nachstehende Vereinbarung kundgemacht:
+
+## Artikel 1
+
+### Zielsetzung und Anerkennung
+
+#### Art. 1
+
+(1) Der Qualitätsrahmen für die Erwachsenenbildung Ö-Cert (im Folgenden „Ö-Cert“ genannt) hat das Ziel, die österreichweite Anerkennung von Qualitätsmanagement-Systemen und Qualitätssicherungsverfahren in der Erwachsenenbildung zwischen den einzelnen Ländern sowie zwischen dem Bund und den Ländern sicher zu stellen.
+
+(2) Durch Ö-Cert soll Klarheit für Teilnehmerinnen und Teilnehmer an Bildungsmaßnahmen, Fördergeber und Erwachsenenbildungsorganisationen darüber geschaffen werden, welche Qualitätsmanagement-Systeme und Qualitätssicherungsverfahren in der Erwachsenenbildung im gesamten Bundesgebiet von den Vertragsparteien anerkannt sind, sowie eine Verwaltungsvereinfachung für Fördergeber und Erwachsenenbildungsorganisationen bewirkt werden.
+
+(3) Zur Erreichung der im Abs. 1 und 2 festgelegten Ziele verpflichten sich die Vertragsparteien, bei der Vergabe von Förderungen entsprechend ihren jeweiligen Bestimmungen, sofern diese für Erwachsenenbildungsorganisationen ein Qualitätsmanagement-System oder ein Qualitätssicherungsverfahren vorsehen, die Erfüllung von Ö-Cert jedenfalls als ausreichenden Nachweis anzuerkennen.
+
+## Artikel 2
+
+### Qualitätsrahmen für die Erwachsenenbildung Ö-Cert
+
+#### Art. 2
+
+(1) Es wird nach Maßgabe der folgenden Bestimmungen zwischen den Vertragsparteien Ö-Cert vereinbart.
+
+(2) Ö-Cert ist von einer Erwachsenenbildungsorganisation erfüllt, wenn die folgenden Voraussetzungen vorliegen:
+
+1\. Nachweis des Vorliegens eines der Qualitätsmanagement-Systeme oder Qualitätssicherungsverfahren aus Anlage 1; die aktuelle Liste der von Ö-Cert anerkannten Qualitätsmanagement-Systemen und Qualitätssicherungsverfahren wird über die Website www.oe-cert.at veröffentlicht;
+
+2\. Erfüllung der Grundvoraussetzungen aus Anlage 2.
+
+(3) Die Erfüllung von Ö-Cert wird durch den Eintrag in ein Verzeichnis der Qualitätsanbieter, unter Beachtung des Datenschutzes, kenntlich gemacht. Der Eintrag in das Verzeichnis erfolgt für die Dauer der jeweiligen Zertifizierung zuzüglich sechs Monate. Dieses Verzeichnis wird über die Website www.oe-cert.at veröffentlicht.
+
+(4) Eine Aberkennung von Ö-Cert und eine Streichung aus dem Verzeichnis erfolgt bei Überschreitung der sechsmonatigen Toleranzgrenze nach Ablauf des jeweiligen Zertifikats oder wenn die Grundvoraussetzungen nicht mehr erfüllt werden.
+
+(5) Die Vertragsparteien vereinbaren die Kriterien für die Anerkennung von Qualitätsmanagement-Systemen und Qualitätssicherungsverfahren gemäß Anlage 3 als Grundlage für allfällige Aktualisierungen der Anlage 1.
+
+(6) Zur Umsetzung von Ö-Cert werden eine Lenkungs- und eine Akkreditierungsgruppe eingerichtet.
+
+## Artikel 3
+
+### Lenkungsgruppe
+
+#### Art. 3
+
+(1) Der Lenkungsgruppe gehören als Mitglieder eine Vertreterin oder ein Vertreter pro Land und vier Vertreterinnen oder Vertreter des Bundes an; Fachexpertinnen oder Fachexperten können mit beratender Stimme beigezogen werden. Die Vertreterinnen oder Vertreter der Länder werden von den jeweiligen Ländern nominiert. Die Vertreterinnen oder Vertreter des Bundes werden von der Bundesministerin für Unterricht, Kunst und Kultur nominiert.
+
+(2) Die Aufgaben der Lenkungsgruppe sind:
+
+1\. Aktualisierung der Anlage 1 gemäß Art. 2 Abs. 5
+
+2\. Auswahl der Mitglieder der Akkreditierungsgruppe gemäß Art. 4
+
+3\. Akkordierung der Öffentlichkeitsarbeit und
+
+4\. Erlassung einer Geschäftsordnung für die Lenkungsgruppe und die Akkreditierungsgruppe.
+
+(3) Entscheidungen gemäß Abs. 2 Z 2, 3 und 4 werden bei Anwesenheit von mindestens der Hälfte der stimmberechtigten Mitglieder mit Dreiviertelmehrheit der anwesenden stimmberechtigten Mitglieder getroffen. Entscheidungen gemäß Abs. 2 Z 1 bedürfen der Zustimmung aller Mitglieder der Lenkungsgruppe. Die Vorsitzende oder den Vorsitzenden wählt die Lenkungsgruppe aus ihrer Mitte.
+
+## Artikel 4
+
+### Akkreditierungsgruppe
+
+#### Art. 4
+
+(1) Der Akkreditierungsgruppe gehören fünf Mitglieder an, die wissenschaftlich im Bereich der Erwachsenenbildung tätig oder Expertinnen oder Experten im Bereich der Erwachsenenbildung sind. Die Funktionsperiode der Mitglieder beträgt zwei Jahre. Entscheidungen werden bei Anwesenheit von mindestens vier Mitgliedern einstimmig getroffen.
+
+(2) Die Aufgaben der Akkreditierungsgruppe sind:
+
+1\. Prüfung der vorgelegten Bewerbungen für Ö-Cert und der Beschluss über die Vergabe bzw. Nicht-Vergabe von Ö-Cert (Eintrag in das Verzeichnis) gemäß Art. 2 Abs. 3 sowie Prüfung und Beschluss der Verlängerung bzw. Aberkennung dieses Eintrages in das Verzeichnis; die Entscheidungen der Akkreditierungsgruppe sind der Lenkungsgruppe zur Kenntnis zu bringen;
+
+2\. Überprüfung der halbjährlichen Berichte der Erwachsenenbildungsorganisationen, die vorläufig in das Verzeichnis aufgenommen wurden und
+
+3\. Herausgabe eines Jahresberichts.
+
+## Artikel 5
+
+### Geschäftsstelle und Finanzierung
+
+#### Art. 5
+
+Die Geschäftsstelle als operative Ebene wird von der Bundesministerin für Unterricht, Kunst und Kultur eingerichtet und finanziert. Die Geschäftsstelle stellt auch die Infrastruktur für die Tätigkeit der Lenkungs- und Akkreditierungsgruppe bereit. Die Kosten für die Akkreditierungsgruppe trägt das Bundesministerium für Unterricht, Kunst und Kultur.
+
+Die Dienstreisekosten der Ländervertreterinnen oder Ländervertreter in der Lenkungsgruppe werden von den entsendenden Ländern getragen.
+
+## Artikel 6
+
+### Verhältnis zu Rechtsvorschriften
+
+#### Art. 6
+
+Von dieser Vereinbarung bleibt § 8 des Bundesgesetzes über die Berufsreifeprüfung, BGBl. I Nr. 68/1997, in der Fassung BGBl. I Nr. 45/2010, unberührt.
+
+## Artikel 7
+
+### In-Kraft-Treten
+
+#### Art. 7
+
+(1) Diese Vereinbarung tritt für alle Vertragsparteien, deren Mitteilungen über die Erfüllung der nach der Bundesverfassung bzw. nach den Landesverfassungen für das In-Kraft-Treten erforderlichen Voraussetzungen bis zu diesem Zeitpunkt beim Bundesministerium für Unterricht, Kunst und Kultur eingelangt sind, mit 1. Dezember 2011 in Kraft, sofern bis zu diesem Zeitpunkt die Mitteilungen des Bundes und von zumindest sechs Ländern eingelangt sind. Ist dies nicht der Fall, tritt sie zu jenem folgenden Monatsersten in Kraft, an dem die Mitteilungen des Bundes und von zumindest sechs Ländern eingelangt sind.
+
+(2) Für jede andere Vertragspartei tritt diese Vereinbarung mit dem Monatsersten nach Einlangen der Mitteilung in Kraft.
+
+(3) Das Bundesministerium für Unterricht, Kunst und Kultur informiert die Länder über das In-Kraft-Treten.
+
+## Artikel 8
+
+### Geltungsdauer
+
+#### Art. 8
+
+Die Vereinbarung wird auf unbestimmte Zeit abgeschlossen und kann jederzeit unter Einhaltung einer Frist von zwölf Monaten von jeder Vertragspartei schriftlich gekündigt werden. Im Falle einer Kündigung bleibt die Vereinbarung für die verbleibenden Vertragsparteien aufrecht, sofern der Bund und mindestens sechs Länder Vertragsparteien bleiben.
+
+## Artikel 9
+
+### Hinterlegung
+
+#### Art. 9
+
+Diese Vereinbarung wird in einer Urschrift ausgefertigt. Die Urschrift wird beim Bundesministerium für Unterricht, Kunst und Kultur hinterlegt. Dieses hat allen Vertragsparteien beglaubigte Abschriften der Vereinbarung zu übermitteln.
+
+Der Burgenländische Landtag hat die Vereinbarung zwischen dem Bund und den Ländern gemäß Art. 15a B-VG über die Anerkennung des Qualitätsrahmens für die Erwachsenenbildung Ö-Cert am 1. März 2012 gemäß Art. 81 Abs. 3 L-VG zur Kenntnis genommen.
+
+Diese Vereinbarung tritt gemäß ihrem Art. 7 für den Bund, die Länder Kärnten, Niederösterreich, Oberösterreich, Salzburg und Vorarlberg mit 1. Dezember 2011, für das Land Wien mit 1. Jänner 2012, für das Land Tirol mit 1. März 2012 und für das Land Burgenland am 1. April 2012 in Kraft.
+
+**Liste der für den Qualitätsrahmen für die Erwachsenenbildung Ö-Cert anerkannten Qualitätsmanagement-Systeme und Qualitätssicherungsverfahren**
+
+#### Anl. 1
+
+| 1. | ÖNORM EN ISO 9001:2008 | Österreichische Norm, Europäische Norm, International Organisation for Standardization 9001:2008 |
+|---|---|---|
+| 2. | EFQM | European Foundation for Quality Management: "committed to", "recognised for excellence" |
+| 3. | LQW | Lernerorientierte Qualitätstestierung in der Weiterbildung |
+| 4. | QVB | Qualitätsentwicklung im Verbund von Bildungseinrichtungen |
+| 5. | EduQua | Schweizerisches Qualitätszertifikat für Weiterbildungsinstitutionen |
+| 6. | OÖ-EBQS | Qualitätssiegel der Oberösterreichischen Erwachsenen- und Weiterbildungseinrichtungen |
+| 7. | CERT-NÖ | CERT-Niederösterreich, Zertifizierungsstelle für Aus- und Weiterbildungsanbieter Donau-Universität Krems |
+| 8. | S-QS | Salzburger Qualitätssicherungs-/Qualitätsentwicklungsverfahren |
+| 9. | wien-cert | Qualitäts-Zeichen für Wiener Bildungsträger. Wiener ArbeitnehmerInnen Förderungsfonds - ein Fonds der Stadt Wien |
+
+**Grundvoraussetzungen für die Aufnahme in den Qualitätsrahmen für die Erwachsenenbildung Ö-Cert**
+
+#### Anl. 2
+
+<table>
+<tr>
+<td>A.) Allgemeine Grundvoraussetzungen - Leitende Paradigmen der Erwachsenenbildungseinrichtung</td>
+</tr>
+<tr>
+<td>1. Grundlegende Bildungsphilosophie<br>Bildung hat einen eigenen Wert in allen Lebensphasen: Sie wirkt sich positiv auf politische Teilhabe, gesellschaftliches Zusammenleben, berufliche Leistungsfähigkeit und die persönliche Identität aus. Bildung ist mehr als instrumentelles Lernen, als Qualifizierung und Schulung.<br>2. Lebenslanges Lernen<br>Lebenslanges Lernen umfasst alles formale, nicht-formale und informelle Lernen an verschiedenen Lernorten von der Kindheit bis einschließlich der Phase des Ruhestands. Lebenslanges Lernen wird definiert als jede zielgerichtete Lerntätigkeit, die einer kontinuierlichen Verbesserung von Kenntnissen, Fähigkeiten und Kompetenzen dient. Dabei wird ‚Lernen’ verstanden als Verarbeiten von Informationen und Erfahrungen zu Kenntnissen, Einsichten und Kompetenzen.<br>3. Erwachsenenbildung/Weiterbildung<br>Die Erwachsenenbildung (synonym: Weiterbildung) umfasst alle Formen des formalen, nicht-formalen und zielgerichteten informellen Lernens durch Erwachsene nach Beendigung einer unterschiedlich ausgedehnten ersten Bildungsphase unabhängig von dem in diesem Prozess erreichten Niveau.<br>Erwachsenenbildung/Weiterbildung umfasst alle beruflichen, allgemeinbildenden, politischen und kulturellen Lehr- und Lernprozesse für Erwachsene, die im öffentlichen, privaten und wirtschaftlichen Kontext von anderen und/oder selbst gesteuert werden.<br>Erwachsenenbildnerisches Handeln basiert auf bildungspolitischen Strategien und gesellschaftlicher Verantwortung, Organisationsstrukturen sowie rechtlichen und finanziellen Grundlagen.<br>4. Anbieterdefinition<br>Als Anbieter von Erwachsenenbildung/Weiterbildung gelten alle Organisationsformen (Vereine, Unternehmen, Institutionen, koordinierende Organisationen von Netzwerken und Kooperationen) die Erwachsenenbildung/Weiterbildung im Sinne der oben genannten Definition anbieten.</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>B.) Organisationsbezogene Grundvoraussetzungen</td>
+</tr>
+<tr>
+<td>1. Die Organisation* benötigt zumindest ein Angebot in Österreich, das regelmäßig, geplant und systematisch ist und öffentlich kommuniziert werden muss; es herrscht Angebotstransparenz.<br>2. Erwachsenenbildung/Weiterbildung ist Kernaufgabe der Organisation.<br>3. Die Organisation muss zum Zeitpunkt der Bewerbung seit mindestens 3 Wirtschafts-/Kalenderjahren Erwachsenenbildungs-/Weiterbildungsmaßnahmen durchgeführt haben.<br>4. Die Leiterin oder der Leiter der Organisation oder zumindest eine Mitarbeiterin oder ein Mitarbeiter müssen über eine pädagogisch fundierte Aus- bzw. Weiterbildung und eine 2-jährige einschlägige Berufspraxis verfügen.<br>5. Die Geschäftsbedingungen der Organisation müssen öffentlich transparent bzw. allgemein zugänglich sein.<br>*Unter Organisation werden in Folge auch Organisationseinheiten verstanden, die über ein hohes Maß an Autonomie, finanzielle und qualitätsrelevante Verantwortlichkeiten und Handlungsbefugnisse verfügen. Die Organisationseinheiten müssen daher wesentliche Elemente einer eigenständigen Organisation aufweisen.</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>C.) Angebotsbezogene Grundvoraussetzungen</td>
+</tr>
+<tr>
+<td>1. Das Bildungsangebot der Organisation ist grundsätzlich öffentlich oder gegebenenfalls zielgruppenspezifisch (ua. Frauen, Ältere, Migrantinnen oder Migranten, Bibliothekarsausbildungen, Gewerkschaften) zugänglich.<br>2. Angebote des formalen schulischen und hochschulischen Bildungswesens werden anerkannt, wenn sie sich an Erwachsene richten und deren weitere Qualifikation im Rahmen einer Fortbildung/Weiterbildung zum Ziel haben. Grundständige Studienprogramme der öffentlichen und privaten Universitäten, Fachhochschulen und pädagogischen Hochschulen fallen nicht darunter.<br>3. Organisationen fühlen sich mit ihren Angeboten den ausgewiesenen demokratischen Werten der Verantwortungsträger von Ö-Cert (Länder, Bund) verpflichtet.<br>4. Das öffentliche Büchereiwesen ist ein wichtiger Leistungsträger der Erwachsenenbildung/Weiterbildung. Im Sinne von Ö-Cert gelten allerdings nur Organisationen, die Angebote im Sinne einer aktiven Vermittlung (ua. Kurse, Lesungen) durchführen.<br>5. Organisationen, die primär Produktschulungen und/oder Veranstaltungen die primär auf die Kundinnen oder Kunden und Mitgliederwerbung abzielen anbieten, sind von Ö-Cert ausgeschlossen. Schulungen im Bereich von Anwenderprogrammen wie zB Office-Programme fallen nicht in die Kategorie Produktschulungen.<br>6. Organisationen, die individuelle Bildungsberatung und Coaching als angewandte Methode im Rahmen eines Bildungsprozesses durchführen, werden im Sinne von Ö-Cert anerkannt. Organisationen, deren Angebote sich ausschließlich an Einzelpersonen im Sinne eines Coachings wenden, bleiben unberücksichtigt.<br>7. Organisationen, die primär Angebote zur reinen Sportausübung und im Freizeitbereich anbieten, werden im Sinne von Ö-Cert nicht berücksichtigt.<br>8. Organisationen, die kulturelle Angebote machen, werden im Sinne von Ö-Cert berücksichtigt, wenn die Veranstaltungen der Vermittlung von Kultur dienen. Darunter fallen nicht Aufführungen, Darbietungen und Ausstellungen.<br>9. Im religiösen weltanschaulichen Bereich muss bei den Organisationen im Sinne von Ö-Cert der vermittelnde Aspekt den ausübenden Aspekt übertreffen. Das heißt, Veranstaltungen der Glaubensverkündigung werden nicht berücksichtigt.</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>D.) Grundvoraussetzungen hinsichtlich ethischer und demokratischer Prinzipen</td>
+</tr>
+<tr>
+<td>1. Die Organisation erkennt die gültige Allgemeine Erklärung der Menschenrechte an. Das heißt, der Zugang zu den Bildungsangeboten muss für alle Personen unabhängig von ihrem Geschlecht und Alter, ihrer Bildung, ihrer sozialen oder beruflichen Stellung, ihrer politischen oder weltanschaulichen Orientierung und ihrer Nationalität möglich sein. In den Bildungsmaßnahmen wird die Freiheit der Meinungsäußerung gewährleistet und gefördert.<br>2. Die Organisation ist der Demokratie verpflichtet. Diesem Selbstverständnis entsprechend werden keine antidemokratischen, rassistischen, antisemitischen, sexistischen und andere Menschengruppen diskriminierenden Inhalte und Verhaltensweisen zugelassen. Diesen Inhalten, Tendenzen und Verhaltensweisen wird in den Bildungsveranstaltungen entgegengewirkt. Zudem bietet die Organisation keinen Ort für die Verbreitung von antidemokratischen Weltbildern, sie bietet keine Möglichkeit Propaganda, Agitation oder Produktwerbung zu machen oder „Klientel“ für politische, religiöse und andere ideologische Gruppierungen zu rekrutieren.</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>E.) Grundvoraussetzungen hinsichtlich Qualität</td>
+</tr>
+<tr>
+<td>1. Die Organisation muss ein von Ö-Cert anerkanntes externes Qualitätstestat nach Anlage 1 aufweisen.<br>2. Bis 31. Dezember 2012 kann eine vorläufige Aufnahme in das Verzeichnis der Qualitätsanbieter erfolgen, wenn die Organisation den Nachweis begonnener Qualitätssicherungsmaßnahmen mit dem Ziel der Aufnahme in ein Qualitätsmanagement-System bzw. Qualitätssicherungsverfahren nach Anlage 1 nachweist.</td>
+</tr>
+</table>
+
+**Kriterien für die Anerkennung von Qualitätsmanagement-Systemen und Qualitätssicherungsverfahren als Grundlage für allfällige Aktualisierungen der Anlage 1**
+
+#### Anl. 3
+
+<table>
+<tr>
+<td>1. Kriterium Externe Begutachtung</td>
+</tr>
+<tr>
+<td>Es erfolgt eine externe Begutachtung, die rechtlich und faktisch trägerunabhängig durchgeführt wird und eine Vor-Ort-Begehung (zumindest prinzipiell) vorsieht.</td>
+</tr>
+<tr>
+<td>2. Kriterium Verbreitung</td>
+</tr>
+<tr>
+<td>Das Verfahren findet in der Erwachsenenbildung/Weiterbildung allgemein Anwendung, es ist nicht auf einzelne Bereiche oder Organisationen beschränkt.</td>
+</tr>
+<tr>
+<td>3. Kriterium Zertifikatsbefristung und Folgeverfahren</td>
+</tr>
+<tr>
+<td>Die Gültigkeit des Zertifikats ist auf maximal vier Jahre begrenzt. Es gibt klare Aussagen zur Überwachung und zu Folgeverfahren.</td>
+</tr>
+<tr>
+<td>4. Kriterium Qualitätsbegriff (v.a. Teilnehmer- und Teilnehmerinnenbezug sowie Teilnehmer- und Teilnehmerinnenschutz)</td>
+</tr>
+<tr>
+<td>Es liegt ein expliziter Qualitätsbegriff vor, der Teilnehmer- und Teilnehmerinnenbezug sowie Teilnehmer- und Teilnehmerinnenschutz aufweist.</td>
+</tr>
+<tr>
+<td>5. Kriterium Entwicklungsbezug (Bestandteil der Organisations- und Personalentwicklung)</td>
+</tr>
+<tr>
+<td>Es wird im Verfahren Bezug auf künftige Entwicklungen genommen; dieser Entwicklungsbezug ist Bestandteil der Organisations- und Personalentwicklung.</td>
+</tr>
+</table>
+
+## Ratifikationstext
+
+**VEREINBARUNG**
+
+**gemäß Art. 15a B-VG zwischen dem Bund und den Ländern über die Anerkennung  
+des Qualitätsrahmens für die Erwachsenenbildung Ö-Cert**
+
+## Sonstige Textteile
+
+Der Bund - vertreten durch die Bundesministerin für Unterricht, Kunst und Kultur - und die Länder Burgenland, Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg und Wien, jeweils vertreten durch den Landeshauptmann bzw. die Landeshauptfrau - im Folgenden Vertragsparteien genannt - sind übereingekommen, gemäß Art. 15a des Bundes-Verfassungsgesetzes nachstehende Vereinbarung über Angelegenheiten der Privatwirtschaftsverwaltung zu schließen:

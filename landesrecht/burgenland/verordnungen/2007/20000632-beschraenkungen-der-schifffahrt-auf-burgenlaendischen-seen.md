@@ -1,0 +1,117 @@
+---
+title: "Beschränkungen der Schifffahrt auf burgenländischen Seen"
+identifier: "20000632"
+type: regulation
+ris_type: "V"
+jurisdiction: at-1
+land: "Burgenland"
+language: de
+promulgation: "LGBl.Nr. 49/2007"
+date: 2007-07-20
+last_amended: 2022-10-01
+last_amendment: "LGBl. Nr. 69/2022"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/lgbl/BU/2007/49/P0/LBG30000661"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrBgld&Gesetzesnummer=20000632"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Beschränkungen der Schifffahrt auf burgenländischen Seen
+
+Verordnung des Landeshauptmannes von Burgenland vom 20. Juli 2007 über Beschränkungen der Schifffahrt auf burgenländischen Seen
+
+StF: [LGBl. Nr. 49/2007](http://www.ris.bka.gv.at/Dokumente/Lgbl/LGBL_BU_20070809_49/LGBL_BU_20070809_49.pdf)
+
+<details>
+<summary>Änderungen</summary>
+
+LGBl. Nr. 36/2021  
+LGBl. Nr. 69/2022  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der § 17 Abs. 2 und § 37 Abs. 5 des Bundesgesetzes über die Binnenschifffahrt (Schifffahrtsgesetz - SchFG), BGBl. I Nr. 62/1997, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 123/2005, wird verordnet:
+
+## § 1
+
+### § 1
+
+(1) Auf den Lacken im Seewinkel, dem Neufelder See und dem Neusiedlersee ist die Schifffahrt mit Fahrzeugen und Schwimmkörpern, die mit einem Verbrennungsmotor ausgestattet sind, verboten; dieses Verbot gilt auch für stillliegende Fahrzeuge und Schwimmkörper.
+
+(2) Als Ausstattung gemäß Abs. 1 gelten Einbau, Anhängen oder sonstiges Mitführen eines Verbrennungsmotors.
+
+## § 2
+
+### § 2
+
+(1) Vom Verbot des § 1 sind ausgenommen:
+
+1\. Fahrzeuge der mit behördlichen Angelegenheiten der Schifffahrt, der Gewässeraufsicht, der Fischereiaufsicht und des Naturschutzes, der mit Angelegenheiten der öffentlichen Wasserbauverwaltung, der Vermessung, der Grenzmarkierung, der Hydrographie, der Meteorologie und Geodynamik befassten Organe sowie Fahrzeuge der Biologischen Station Neusiedlersee;
+
+2\. Fahrzeuge des öffentlichen Sicherheitsdienstes und des Bundesheeres;
+
+3\. Fahrzeuge des Rettungsdienstes und des Feuerlöschdienstes sowie die im Rahmen von Such- und Rettungsmaßnahmen verwendeten Fahrzeuge;
+
+4\. Fahrzeuge zur Reparatur oder Instandhaltung der Sturm- und Gewitterwarnanlagen am Neusiedlersee;
+
+5\. Fahrzeuge der Seefestspiele Mörbisch;
+
+6\. die beim Schilfschnitt verwendeten Fahrzeuge;
+
+6a. Fahrzeuge, die im Eigentum des Landes Burgenland sowie seiner Unternehmen und deren Subunternehmer stehen, soweit diese Fahrzeuge zur Durchführung oder Vorbereitung von behördlich bewilligten wasser- oder naturschutzrechtlichen Maßnahmen zur Entschlammung (wie Schlammbaggerung, Schlammabsaugung) der in § 1 Abs. 1 genannten Gewässer verwendet werden.
+
+7\. die bei Ausübung der Berufsfischerei verwendeten Fahrzeuge;
+
+8\. Fahrzeuge, die von befugten Gewerbetreibenden oder Gebietskörperschaften entweder bei behördlich bewilligten Bauarbeiten auf dem Neusiedlersee sowie an dessen Ufer zur Güterbeförderung oder zur Entsorgung von in Gebäuden im Neusiedlersee anfallenden Schmutzwässern verwendet werden, ausgenommen an Samstagen, Sonntagen und gesetzlichen Feiertagen;
+
+9\. Fahrzeuge bei Fahrten anlässlich behördlicher Prüfungen für Schiffsführerinnen oder Schiffsführer;
+
+10\. Probefahrten von Fahrzeugen auf dem Neusiedlersee, die von Bootsbauerinnen oder Bootsbauern mit Unternehmensstandort am Neusiedlersee repariert oder erzeugt werden. Diese Ausnahme gilt nicht an Samstagen, Sonntagen und gesetzlichen Feiertagen. Probefahrten sind Fahrten zur Feststellung der Fahrtauglichkeit oder Leistungsfähigkeit von Fahrzeugen, Fahrzeugteilen oder Ausrüstungsgegenständen;
+
+11\. Fahrzeuge, die im Rahmen von gemäß § 27 Seen- und Fluss-Verkehrsordnung (SFVO), BGBl. II Nr. 98/2013, zuletzt geändert durch die Verordnung BGBl. II Nr. 32/2019, bewilligten Veranstaltungen zu Rettungs- und Hilfszwecken eingesetzt werden - ab einer Stunde vor Beginn der Veranstaltung und bis eine Stunde nach Beendigung der Veranstaltung. Diese Ausnahme gilt nicht für Veranstaltungen, die mit Fahrzeugen mit Verbrennungsmotoren ausgetragen werden und
+
+12\. Motorfahrzeuge im Rahmen der Ausübung der gewerbsmäßigen Schifffahrt (§ 77 Abs. 1 Z 1 bis 4 und 7 Schifffahrtsgesetz), die von der burgenländischen Schifffahrtsbehörde unter einer einheitlichen europäischen Schiffsnummer (ENI) oder unter der ersten Ordnungsziffer 1 des amtlichen Kennzeichens zugelassen sind, oder die im Rahmen einer grenzüberschreitenden Konzession verwendet werden, die in Ungarn vor Inkrafttreten dieser Verordnung erteilt wurde.
+
+(2) Die burgenländische Schifffahrtsbehörde darf höchstens 86 Motorfahrzeuge gemäß Abs. 1 Z 12 mit einer einheitlichen europäischen Schiffsnummer (ENI) oder mit der ersten Ordnungsziffer 1 des amtlichen Kennzeichens zulassen.
+
+(3) Innerhalb der Beschränkung gemäß Abs. 2 wird die Anzahl der Motorfahrzeuge für
+
+1\. die Personenbeförderung auf 73,
+
+2\. die Güterbeförderung, den Remork, die Erbringung von sonstigen Leistungen (zB Abschleppen und Bergen von Wasserfahrzeugen, Schwimmbagger, Einsatz im Rahmen von Segelschulen und Kite-Surf-Schulen) auf 13 Fahrzeuge
+
+eingeschränkt.
+
+(4) Die zahlenmäßigen Beschränkungen des Abs. 3 dürfen überschritten werden, wenn
+
+1\. die Gesamtzahl der Motorfahrzeuge gemäß Abs. 2 nicht überschritten wird und
+
+2\. keine Erhöhung der Beeinträchtigung der geschützten Interessen des § 16 Abs. 1 Z 1, 3 bis 6 sowie 11 Schifffahrtsgesetz durch die Überschreitung eintritt.
+
+> **Anmerkung:** zu Abs. 1: LGBl. Nr. 36/2021, LGBl. Nr. 69/2022
+>
+> zu Abs. 2: LGBl. Nr. 69/2022
+
+## § 3
+
+### § 3
+
+Zuwiderhandlungen gegen das Verbot des § 1 werden gemäß § 42 Schifffahrtsgesetz als Verwaltungsübertretungen bestraft.
+
+## § 4
+
+### § 4
+
+(1) Die Verordnung tritt mit dem der Kundmachung im Landesgesetzblatt für Burgenland folgenden Tag in Kraft. Gleichzeitig tritt die Verordnung LGBl. Nr. 10/1987, in der Fassung der Verordnung LGBl. Nr. 28/1992, außer Kraft.
+
+(2) § 2 Abs. 1 Z 8 und 11 in der Fassung der Verordnung LGBl. Nr. 36/2021 treten mit dem der Kundmachung folgenden Tag in Kraft.
+
+(3) § 2 Abs. 1 Z 6a und 12 sowie § 2 Abs. 2 in der Fassung der Verordnung LGBl. Nr. 69/2022 treten mit 1. Oktober 2022 in Kraft.
+
+> **Anmerkung:** LGBl. Nr. 36/2021
+>
+> zu Abs. 3: LGBl. Nr. 69/2022
