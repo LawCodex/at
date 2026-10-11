@@ -1,0 +1,373 @@
+---
+title: "Vereinbarung zur Sicherstellung der Patientenrechte (Patientencharta)"
+identifier: "20000124"
+type: agreement
+ris_type: "Vereinbarung gem. Art. 15a B-VG"
+jurisdiction: at-4
+land: "Oberösterreich"
+language: de
+promulgation: "LGBl. Nr. 89/2001"
+last_amended: 2001-09-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/lgbl/OB/2001/89/P0/LOO30000126"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrOO&Gesetzesnummer=20000124"
+retrieved: 2026-10-11
+documents: 38
+---
+
+# Vereinbarung zur Sicherstellung der Patientenrechte (Patientencharta)
+
+Vereinbarung zur Sicherstellung der Patientenrechte (Patientencharta)
+
+StF: LGBl. Nr. 89/2001 (GP XXV RV 988/2001 LT 33)
+
+## Präambel/Promulgationsklausel
+
+Der Bund, vertreten durch die Bundesregierung, und das Land Oberösterreich, vertreten durch den Landeshauptmann, - im Folgenden Vertragsparteien genannt - kommen überein, gemäß Art. 15a B-VG die nachstehende Vereinbarung zu schließen:
+
+## Art. 1
+
+\**Zielsetzung und Definition**
+
+\**Artikel 1**
+
+(1) Die Vertragsparteien verpflichten sich, im Rahmen ihrer Zuständigkeit in Gesetzgebung und Vollziehung dafür zu sorgen, dass die folgenden Patientenrechte sichergestellt sind.
+
+(2) Träger von Patientenrechten im Sinne dieser Vereinbarung ist jede Person, die Leistungen auf dem Gebiet des Gesundheitswesens in Anspruch nimmt oder ihrer auf Grund ihres Gesundheitszustandes bedarf.
+
+(3) Leistungen auf dem Gebiet des Gesundheitswesens werden durch freiberuflich tätige Angehörige der Gesundheitsberufe und Einrichtungen erbracht, die der Erhaltung und dem Schutz der Gesundheit, der Feststellung des Gesundheitszustandes, der Behandlung von Krankheiten, der Vornahme operativer Eingriffe, der Geburtshilfe sowie der Pflege und Betreuung von Kranken und Genesenden dienen.
+
+## Art. 2
+
+\**ABSCHNITT 1**
+
+\**Grundsätzliches**
+
+\**Artikel 2**
+
+Die Persönlichkeitsrechte der Patienten und Patientinnen sind besonders zu schützen. Ihre Menschenwürde ist unter allen Umständen zu achten und zu wahren.
+
+## Art. 3
+
+\**Artikel 3**
+
+Patienten und Patientinnen dürfen auf Grund des Verdachtes oder des Vorliegens einer Krankheit nicht diskriminiert werden.
+
+## Art. 4
+
+\**ABSCHNITT 2**
+
+\**Recht auf Behandlung und Pflege**
+
+\**Artikel 4**
+
+(1) Die Vertragsparteien verpflichten sich, die zweckmäßigen und angemessenen Leistungen auf dem Gebiet des Gesundheitswesens für alle Patienten und Patientinnen ohne Unterschied des Alters, des Geschlechts, der Herkunft, des Vermögens, des Religionsbekenntnisses, der Art und Ursache der Erkrankung oder ähnliches rechtzeitig sicherzustellen.
+
+(2) Durch die zuständige Gesetzgebung kann unter Beachtung der Verpflichtungen der Republik Österreich angeordnet werden, dass die Behandlung nichtösterreichischer Staatsangehöriger nur dann zu erfolgen hat, wenn die Kosten der Behandlung von den Patienten und Patientinnen oder einem Dritten getragen werden; dies gilt nicht in den Fällen drohender Lebensgefahr, unmittelbar bevorstehender Entbindung oder schwerer gesundheitlicher Schädigung, die eine sofortige Behandlung gebieten.
+
+## Art. 5
+
+\**Artikel 5**
+
+(1) Die Leistungen auf dem Gebiet des Gesundheitswesens (Art. 4 Abs. 1) sind durch Krankenanstalten, ambulante Einrichtungen, Dienste der extramuralen medizinischen Betreuung einschließlich der Hauskrankenpflege sowie durch freiberuflich tätige Angehörige der Gesundheitsberufe und Apotheken sicherzustellen. Dies gilt insbesondere auch für die Betreuung psychisch Kranker.
+
+(2) Die Leistungen auf dem Gebiet des Gesundheitswesens sind auch auf den Gebieten der Gesundheitsförderung, der Vorsorge- und Arbeitsmedizin sowie der Rehabilitation und des Kurwesens sicherzustellen.
+
+(3) Die Kontinuität der Behandlung und Pflege ist durch organisatorische Maßnahmen zu wahren.
+
+## Art. 6
+
+\**Artikel 6**
+
+(1) Die medizinisch gebotene, nach den Umständen des Einzelfalles jeweils mögliche notärztliche Versorgung, Rettung und Transport sind sicherzustellen.
+
+(2) Weiters ist die notwendige Versorgung mit Arzneimitteln und Medizinprodukten sicherzustellen.
+
+## Art. 7
+
+\**Artikel 7**
+
+(1) Diagnostik, Behandlung und Pflege haben entsprechend dem jeweiligen Stand der Wissenschaften bzw. nach anerkannten Methoden zu erfolgen. Dabei ist auch der Gesichtspunkt der bestmöglichen Schmerztherapie besonders zu beachten.
+
+(2) Kann nach dem Anstaltszweck und dem Leistungsangebot einer Krankenanstalt eine dem jeweiligen Stand der medizinischen Wissenschaft entsprechende Versorgung eines Patienten oder einer Patientin nicht gewährleistet werden, ist sicherzustellen, dass der Patient oder die Patientin mit seiner bzw. ihrer Zustimmung in eine geeignete andere Krankenanstalt überstellt wird.
+
+(3) In Krankenanstalten hat die ärztliche Betreuung grundsätzlich auf fachärztlichem Niveau zu erfolgen.
+
+## Art. 8
+
+\**Artikel 8**
+
+Die Vertragsparteien kommen überein, dass Leistungen im Bereich des Gesundheitswesens einer Qualitätskontrolle unterzogen und dem Stand der Wissenschaft entsprechend Qualitätssicherungsmaßnahmen gesetzt werden.
+
+## Art. 9
+
+\**ABSCHNITT 3**
+
+\**Recht auf Achtung der Würde und Integrität**
+
+\**Artikel 9**
+
+(1) Die Privatsphäre der Patienten und Patientinnen ist zu wahren.
+
+(2) Bei der Aufnahme oder Behandlung mehrerer Patienten oder Patientinnen in einem Raum ist durch angemessene bauliche oder organisatorische Maßnahmen sicherzustellen, dass die Intim- und die Privatsphäre gewahrt werden.
+
+(3) Insbesondere bei stationärer Aufnahme von Langzeitpatienten und -patientinnen ist dafür zu sorgen, dass eine vertraute Umgebung geschaffen werden kann.
+
+## Art. 10
+
+\**Artikel 10**
+
+Die Organisations-, Behandlungs- und Pflegeabläufe in Kranken- und Kuranstalten sind soweit wie möglich dem allgemein üblichen Lebensrhythmus anzupassen.
+
+## Art. 11
+
+\**Artikel 11**
+
+Die Vertragsparteien verpflichten sich, dass klinische Prüfungen von Arzneimitteln, von Medizinprodukten sowie die Anwendung neuer medizinischer Methoden erst nach eingehender ethischer Beurteilung vorgenommen werden dürfen.
+
+## Art. 12
+
+\**Artikel 12**
+
+Die religiöse Betreuung stationär aufgenommener Patienten und Patientinnen ist auf deren Wunsch zu ermöglichen.
+
+## Art. 13
+
+\**Artikel 13**
+
+(1) Gesundheitsbezogene Daten sowie sonstige Umstände, die aus Anlass der Erbringung von Leistungen im Bereich des Gesundheitswesens bekannt werden und an denen Patienten und Patientinnen ein Geheimhaltungsinteresse haben, unterliegen dem Datenschutzgesetz.
+
+(2) Ausnahmen sind nur in den im Datenschutzgesetz vorgesehenen Fällen zulässig.
+
+(3) Auskunfts- und Richtigstellungsrechte sind auch für Daten vorzusehen, die nicht automationsunterstützt verarbeitet werden.
+
+## Art. 14
+
+\**Artikel 14**
+
+(1) Es ist sicherzustellen, dass im Rahmen stationärer Versorgung Besuche empfangen werden können und sonstige Kontakte gepflogen werden können. Weiters ist der Wunsch eines Patienten oder einer Patientin zu respektieren, keinen Besuch oder bestimmte Personen nicht empfangen zu wollen.
+
+(2) Es ist dafür zu sorgen, dass die Patienten und Patientinnen Vertrauenspersonen nennen können, die insbesondere im Fall einer nachhaltigen Verschlechterung des Gesundheitszustandes zu verständigen sind und denen in solchen Fällen auch außerhalb der Besuchszeit ein Kontakt mit den Patienten und Patientinnen zu ermöglichen ist.
+
+## Art. 15
+
+\**Artikel 15**
+
+(1) In stationären Einrichtungen ist ein Sterben in Würde zu ermöglichen. Auch dabei ist dem Gebot der bestmöglichen Schmerztherapie Rechnung zu tragen.
+
+(2) Vertrauenspersonen der Patienten und Patientinnen ist Gelegenheit zum Kontakt mit Sterbenden zu geben. Andererseits sind Personen vom Kontakt auszuschließen, wenn der Sterbende dies wünscht.
+
+## Art. 16
+
+\**ABSCHNITT 4**
+
+\**Recht auf Selbstbestimmung und Information**
+
+\**Artikel 16**
+
+(1) Patienten und Patientinnen haben das Recht, im Vorhinein über mögliche Diagnose- und Behandlungsarten sowie deren Risken und Folgen aufgeklärt zu werden. Sie haben das Recht auf Aufklärung über ihren Gesundheitszustand, weiters sind sie über ihre erforderliche Mitwirkung bei der Behandlung sowie eine therapieunterstützende Lebensführung aufzuklären.
+
+(2) Die Art der Aufklärung hat der Persönlichkeitsstruktur und dem Bildungsstand der Patienten und Patientinnen angepasst und den Umständen des Falles entsprechend zu erfolgen.
+
+(3) Ist eine Behandlung dringend geboten und würde nach den besonderen Umständen des Einzelfalles durch eine umfassende Aufklärung das Wohl des Patienten oder der Patientin gefährdet werden, so hat sich der Umfang der Aufklärung am Wohl des Patienten oder der Patientin zu orientieren.
+
+(4) Auf die Aufklärung kann von den Patienten und Patientinnen verzichtet werden; sie dürfen zu einem Verzicht nicht beeinflusst werden.
+
+(5) Patienten und Patientinnen sind im Vorhinein über die sie voraussichtlich treffenden Kosten zu informieren.
+
+## Art. 17
+
+\**Artikel 17**
+
+(1) Patienten und Patientinnen dürfen nur mit ihrer Zustimmung behandelt werden.
+
+(2) Ohne Zustimmung darf eine Behandlung nur vorgenommen werden, wenn eine Willensbildungsfähigkeit der Patienten oder Patientinnen nicht gegeben ist und durch den Aufschub der Behandlung das Leben oder die Gesundheit der Patienten oder der Patientinnen ernstlich gefährdet würde.
+
+(3) Für Patienten und Patientinnen, die den Grund und die Bedeutung einer Behandlung nicht einsehen oder ihren Willen nach dieser Einsicht bestimmen können, ist sicherzustellen, dass eine Behandlung nur mit Zustimmung eines nach Maßgabe der Gesetze zu bestimmenden Vertreters und erforderlichenfalls mit Genehmigung des Gerichtes durchgeführt wird.
+
+(4) Ohne Zustimmung des Vertreters und allenfalls erforderlicher Genehmigung des Gerichtes darf eine Behandlung nur bei Gefahr in Verzug vorgenommen werden, wenn der mit der Einholung der Zustimmung oder der Genehmigung verbundene Zeitaufwand für den Patienten oder die Patientin eine Lebensgefahr oder die Gefahr einer schweren gesundheitlichen Schädigung bedeuten würde.
+
+(5) Maßnahmen, die mit einer Beschränkung der persönlichen Freiheit oder sonstigen Eingriffen in die Persönlichkeitsrechte der Patienten und Patientinnen verbunden sind und ohne deren gültige Zustimmung vorgenommen werden, sind - sofern nicht der mit der Einholung der Zustimmung verbundene Aufschub mit Lebensgefahr oder mit der Gefahr einer schweren gesundheitlichen Schädigung für den Patienten oder die Patientin verbunden wäre - nur nach entsprechender Befassung des gesetzlichen Vertreters, erforderlichenfalls des Gerichtes, zulässig.
+
+## Art. 18
+
+\**Artikel 18**
+
+Patienten und Patientinnen haben das Recht, im Vorhinein Willensäußerungen abzugeben, durch die sie für den Fall des Verlustes ihrer Handlungsfähigkeit das Unterbleiben einer Behandlung oder bestimmter Behandlungsmethoden wünschen, damit bei künftigen medizinischen Entscheidungen soweit wie möglich darauf Bedacht genommen werden kann.
+
+## Art. 19
+
+\**Artikel 19**
+
+(1) Das Recht der Patienten und Patientinnen auf Einsichtnahme in die über sie geführte Dokumentation der diagnostischen, therapeutischen und pflegerischen Maßnahmen einschließlich allfälliger Beilagen, wie Röntgenbilder, ist sicherzustellen.
+
+(2) Einschränkungen sind nur insoweit zulässig, als sie auf Grund der besonderen Umstände des Einzelfalles zum Wohl des Patienten oder der Patientin unvermeidlich sind. Einem Vertreter des Patienten oder der Patientin kommt auch in einem solchen Fall ein uneingeschränktes Einsichtsrecht zu, sofern der Patient oder die Patientin dies nicht ausgeschlossen hat.
+
+## Art. 20
+
+\**Artikel 20**
+
+(1) Niemand darf ohne seine ausdrückliche Zustimmung zu klinischen Prüfungen und zu Forschungs- und Unterrichtszwecken herangezogen werden. Die Zustimmung kann jederzeit widerrufen werden.
+
+(2) Die Verwendung personenbezogener Daten für medizinische Forschungszwecke bedarf der ausdrücklichen Zustimmung des Betroffenen. Dabei ist besonders zu achten, dass die aus dem Grundrecht auf Datenschutz erfließenden Rechte des Betroffenen gewahrt werden.
+
+## Art. 21
+
+\**ABSCHNITT 5**
+
+\**Recht auf Dokumentation**
+
+\**Artikel 21**
+
+(1) Die notwendige Dokumentation der diagnostischen, therapeutischen und pflegerischen Maßnahmen ist sicherzustellen. Weiters ist die Aufklärung der Patienten und Patientinnen und ihre Zustimmung zur Behandlung oder die Ablehnung einer Behandlung zu dokumentieren.
+
+(2) Es ist sicherzustellen, dass in der Dokumentation auch Willensäußerungen der Patienten und Patientinnen festgehalten werden.
+
+(3) Willensäußerungen nach Abs. 2 können insbesondere Widersprüche gegen die Entnahme von Organen gemäß § 62a Krankenanstaltengesetz oder Willensäußerungen gemäß Art. 18 sein.
+
+## Art. 22
+
+\**Artikel 22**
+
+Patienten und Patientinnen haben das Recht, auf ihren Wunsch gegen angemessenen Kostenersatz Abschriften aus der Dokumentation zur Verfügung gestellt zu bekommen. Artikel 19 Abs. 2 gilt sinngemäß.
+
+## Art. 23
+
+\**ABSCHNITT 6**
+
+\**Besondere Bestimmungen für Kinder**
+
+\**Artikel 23**
+
+Die Aufklärung von Minderjährigen hat ihrem jeweiligen Entwicklungsstand entsprechend zu erfolgen.
+
+## Art. 24
+
+\**Artikel 24**
+
+Eine Behandlung, die wegen Lebensgefahr oder Gefahr einer schweren gesundheitlichen Schädigung geboten ist, ist bei Gefahr im Verzug auch gegen den erklärten Willen des Erziehungsberechtigten durchzuführen, ansonsten ist die Genehmigung des Gerichtes einzuholen.
+
+## Art. 25
+
+\**Artikel 25**
+
+(1) Unter Berücksichtigung der jeweiligen Gegebenheiten ist unmündigen Minderjährigen eine Begleitung durch eine Bezugsperson zu ermöglichen.
+
+(2) Bei der stationären Aufnahme von unmündigen Minderjährigen bis zur Vollendung des 10. Lebenjahres ist auf Wunsch die Mitaufnahme einer Begleitperson zu ermöglichen. Sofern dies aus räumlichen Gründen nicht möglich ist, ist Bezugspersonen ein umfassendes Besuchsrecht einzuräumen, das lediglich aus zwingenden medizinischen oder organisatorischen Gründen eingeschränkt werden darf.
+
+(3) Bezugspersonen sollen auf ihren Wunsch soweit wie möglich an der Betreuung beteiligt werden.
+
+## Art. 26
+
+\**Artikel 26**
+
+Einrichtungen, Abteilungen und Bereiche, die überwiegend der Behandlung von Minderjährigen dienen, sind altersgerecht auszustatten.
+
+## Art. 27
+
+\**Artikel 27**
+
+(1) Soweit dies organisatorisch möglich ist, hat eine stationäre Aufnahme von unmündigen Minderjährigen getrennt von erwachsenen Patienten zu erfolgen.
+
+(2) Angehörige der Gesundheitsberufe, denen die Behandlung und Pflege von Minderjährigen obliegt, sollen durch ihre Ausbildung befähigt werden, auf die alters- und entwicklungsbedingten Bedürfnisse von Minderjährigen eingehen zu können.
+
+## Art. 28
+
+\**Artikel 28**
+
+Die Träger von Krankenanstalten haben organisatorisch dafür vorzusorgen, dass schulpflichtigen Kindern bei einem längeren stationären Aufenthalt nach Maßgabe schulrechtlicher Bestimmungen Unterricht erteilt werden kann.
+
+## Art. 29
+
+\**ABSCHNITT 7**
+
+\**Vertretung von Patienteninteressen**
+
+\**Artikel 29**
+
+(1) Zur Vertretung von Patienteninteressen sind unabhängige Patientenvertretungen einzurichten und mit den notwendigen Personal- und Sacherfordernissen auszustatten. Die unabhängigen Patientenvertretungen sind bei ihrer Tätigkeit weisungsfrei zu stellen und zur Verschwiegenheit zu verpflichten. Es ist ihnen die Behandlung von Beschwerden von Patienten und Patientinnen und Angehörigen, die Aufklärung von Mängeln und Missständen und die Erteilung von Auskünften zu übertragen. Patientenvertretungen können Empfehlungen abgeben.
+
+(2) Die unabhängigen Patientenvertretungen haben mit Patientenselbsthilfegruppen, die Patienteninteressen wahrnehmen, die Zusammenarbeit zu suchen.
+
+(3) Patienten und Patientinnen haben das Recht auf Prüfung ihrer Beschwerden und auf Vertretung ihrer Interessen durch die unabhängigen Patientenvertretungen. Sie sind vom Ergebnis der Überprüfung zu informieren. Die Inanspruchnahme der Patientenvertretungen ist für die Patienten und Patientinnen mit keinen Kosten verbunden.
+
+## Art. 30
+
+\**Artikel 30**
+
+(1) Es ist sicherzustellen, dass unabhängigen Patientenvertretungen Gelegenheit geboten wird, vor Entscheidungen in grundlegenden allgemeinen patientenrelevanten Fragen ihre Stellungnahme abzugeben. Dies gilt insbesondere vor der Errichtung neuer stationärer und ambulanter Versorgungsstrukturen, für die öffentliche Mittel eingesetzt werden, für die Durchführung von Begutachtungsverfahren zu Gesetzes- und Verordnungsentwürfen sowie für grundlegende Planungsvorhaben.
+
+(2) Dachorganisationen von Patientenselbsthilfegruppen ist Gelegenheit zu geben, in Begutachtungsverfahren zu patientenrelevanten Gesetzes- und Verordnungsentwürfen gehört zu werden.
+
+## Art. 31
+
+\**Artikel 31**
+
+(1) Die Vertragsparteien haben sicherzustellen, dass Informationen über Leistungen im Bereich des Gesundheitswesens für jedermann zur Verfügung stehen.
+
+(2) Es ist sicherzustellen, dass freiberuflich tätige Angehörige der Gesundheitsberufe und Träger von Einrichtungen im Bereich des Gesundheitswesens über ihre Leistungen in sachlicher Weise informieren.
+
+## Art. 32
+
+\**ABSCHNITT 8**
+
+\**Durchsetzung von Schadenersatzansprüchen**
+
+\**Artikel 32**
+
+Im Zusammenhang mit der Haftung für Leistungen auf dem Gebiet des Gesundheitswesens dürfen Abweichungen vom Schadenersatzrecht und von allgemeinen Beweislast- und Gewährleistungsregeln im Sinne der Bestimmungen des ABGB nur zugunsten der Patienten und Patientinnen getroffen werden.
+
+## Art. 33
+
+\**Artikel 33**
+
+Vergleichsgespräche vor ärztlichen Schlichtungsstellen und vergleichbaren Einrichtungen hemmen den Ablauf der Verjährung bis zum Verstreichen einer angemessenen Klagsfrist nach Abbruch des Verfahrens oder nach einer sonstigen, zuungunsten des Patienten oder der Patientin erfolgenden Beendigung des Schlichtungsverfahrens.
+
+## Art. 34
+
+\**ABSCHNITT 9**
+
+\**Schlussbestimmungen**
+
+\**Artikel 34**
+
+\**Inkrafttreten**
+
+(1) Diese Vereinbarung tritt mit dem Monatsersten nach Einlangen der Mitteilungen der Vertragsparteien beim Bundesministerium für soziale Sicherheit und Generationen, dass die nach der Bundesverfassung bzw. nach der Verfassung des Landes Oberösterreich erforderlichen Voraussetzungen für das Inkrafttreten erfüllt sind, in Kraft.
+
+(2) Das Bundesministerium für soziale Sicherheit und Generationen hat die Vertragsparteien in Kenntnis zu setzen, wenn die Mitteilungen nach Abs. 1 eingelangt sind.
+
+## Art. 35
+
+\**Artikel 35**
+
+\**Durchführung**
+
+Die Vertragsparteien verpflichten sich, die in ihre jeweiligen Kompetenzbereiche fallenden gesetzlichen Regelungen, die zur Durchführung dieser Vereinbarung erforderlich sind, zu erlassen.
+
+## Art. 36
+
+\**Artikel 36**
+
+\**Abänderung**
+
+Eine Abänderung dieser Vereinbarung ist nur schriftlich im Einvernehmen der Vertragsparteien möglich.
+
+## Art. 37
+
+\**Artikel 37**
+
+\**Hinterlegung**
+
+Diese Vereinbarung wird in einer Urschrift ausgefertigt. Die Urschrift wird beim Bundesministerium für soziale Sicherheit und Generationen hinterlegt. Dieses hat dem Land Oberösterreich eine beglaubigte Abschrift der Vereinbarung zu übermitteln.
+
+## Ratifikationstext
+
+Gemäß Art. 56 Oö. L-VG wird kundgemacht:
+
+1\. Der Oö. Landtag hat beschlossen:
+
+Der Abschluss der in der Anlage kundgemachten Vereinbarung gemäß Art. 15a B-VG wird genehmigt.
+
+2\. Die Vereinbarung tritt mit 1. September 2001 in Kraft.
