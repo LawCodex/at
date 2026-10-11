@@ -1,0 +1,897 @@
+---
+title: "Tierschutz-Sonderhaltungsverordnung"
+abbreviation: "TSch-SV"
+identifier: "20010231"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 139/2018"
+last_amended: 2026-06-19
+last_amendment: "BGBl. II Nr. 146/2026"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2018/139/P0/NOR40204338"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010231"
+retrieved: 2026-10-11
+documents: 39
+---
+
+# Tierschutz-Sonderhaltungsverordnung (TSch-SV)
+
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz über Mindestanforderungen zum Schutz von Tieren in besonderen Haltungen (Tierschutz-Sonderhaltungsverordnung – TSch-SV)
+
+StF: BGBl. II Nr. 139/2018
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 146/2026  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 14, 29 und 31 Abs. 2 und 3 des Bundesgesetzes über den Schutz der Tiere (Tierschutzgesetz – TSchG), BGBl. I Nr. 118/2004, zuletzt geändert durch BGBl. I Nr. 61/2017, wird im Einvernehmen mit der Bundesministerin für Digitalisierung und Wirtschaftsstandort verordnet:
+
+## 1. Abschnitt
+
+### Allgemeine Bestimmungen
+
+#### § 1 – Anwendungsbereich
+
+§ 1. (1) Diese Verordnung regelt die Haltung von Tieren in einem Tierheim, einer Tierpension, einem Tierasyl oder einem Gnadenhof (§ 29 TSchG), im Rahmen einer gewerbsmäßigen oder sonstigen wirtschaftlichen Tätigkeit (§ 31 TSchG), die Haltung von Tieren zum Zwecke der Zucht (§ 31b TSchG) sowie nähere Bestimmungen und Ausnahmen von der Meldepflicht für die Haltung von Tieren zum Zwecke der Zucht.
+
+(2) Der 2. Abschnitt gilt für Gewerbetreibende, die im Rahmen einer von ihnen ausgeübten gewerblichen Tätigkeit Tiere in Zoofachhandlungen und vergleichbaren Einrichtungen halten.
+
+(3) Der 3. Abschnitt gilt für natürliche oder juristische Personen, die Tiere im Rahmen einer sonstigen wirtschaftlichen Tätigkeit halten, die im Rahmen dieser Verordnung nicht besonders geregelt ist. Der 3. Abschnitt ist auf die Haltung von in § 24 Abs. 1 Z 1 TSchG genannten Tieren nicht anwendbar.
+
+(4) Der 4. Abschnitt gilt für die Haltung von Tieren in Tierheimen.
+
+(5) Der 5. Abschnitt gilt für die Haltung von Tieren in Tierpensionen.
+
+(6) Der 6. Abschnitt gilt für die Haltung von Tieren in Tierasylen oder Gnadenhöfen.
+
+(6a) Der 7. Abschnitt gilt für die Haltung von Tieren zum Zwecke der Zucht mit Ausnahme der von der Meldepflicht ausgenommenen Tiere gemäß § 33 Abs. 1 Z 1 und 2.
+
+(6b) Der 8. Abschnitt enthält nähere Bestimmungen über Ausnahmen von der Meldepflicht für die Haltung von Tieren zum Zwecke der Zucht.
+
+(7) Nicht als Tierhaltung im Sinne dieser Verordnung gilt die Unterbringung lebender Tiere während des Transports und aufgrund veterinärbehördlich erforderlicher Maßnahmen.
+
+#### § 2 – Begriffsbestimmungen
+
+§ 2. Im Sinne dieser Verordnung bedeuten:
+
+1\. „Unterkunft“: alle Arten von Haltungseinrichtungen, in welchen Tiere untergebracht sind oder zur Schau gestellt werden (zB Käfige, Volieren, Boxen, Terrarien, Aquarien);
+
+2\. „Pflegestelle“: jede natürliche oder juristische Person, die Tiere wiederholt aufnimmt, weitergibt, selbst vermittelt oder für andere vermittelt, ohne eine gemäß § 29 oder § 31 TSchG bewilligte Einrichtung zu sein (§ 31a TSchG). Eine Pflegestelle kann auch als Außenstelle einer gemäß § 31 Abs. 1 TSchG genehmigten Haltung oder eines Tierheimes tätig sein;
+
+3\. „domestizierte Ziervögel“: Wellensittich (Melopsittacus undulatus), Nymphensittich (Nymphicus hollandicus), Kanarienvogel (Serinus canaria), Reisfink (Padda oryzivora), Zebrafink (Taeniopygia guttata forma domestica) und Japanisches Mövchen (Lonchura striata forma domestica);
+
+4\. „domestiziertes Geflügel“:
+
+a) Haushuhn (Gallus gallus domesticus),
+
+b) Haustruthuhn: domestizierte Form des Truthuhns (Meleagris gallopavo),
+
+c) Warzenente: domestizierte Form der Moschusente (Carina moschata),
+
+d) Hausente: domestizierte Form der Stockente (Anas platyrhynchos),
+
+e) Hausgans: domestizierte Form der Graugans (Anser anser) und Höckergans (Anser cygnoides forma domestica),
+
+f) Haustaube: domestizierte Form der Felsentaube (Columba livia domestica),
+
+g) Hauslachtaube: domestizierte Form der Lachtaube (Streptopelia risoria),
+
+h) Hausperlhuhn: domestizierte Form des Helmperlhuhns (Numida meleagris),
+
+i) Japanwachtel (Coturnix japonica);
+
+5\. „Kleinnager“: die in **Anlage 1** Punkt 3 der 2. Tierhaltungsverordnung, BGBl. II Nr. 486/2004, genannten Tierarten.
+
+#### § 3 – Mindestanforderungen an die Haltung von Tieren
+
+§ 3. (1) Für die Haltung der Tiere gelten, sofern in dieser Verordnung nichts anderes festgelegt ist, die Mindestanforderungen der 1. Tierhaltungsverordnung, BGBl. II Nr. 485/2004, und der 2. Tierhaltungsverordnung, BGBl. II Nr. 486/2004.
+
+(2) Bedingungen für die Haltung von Tieren in Tierheimen, welche die Mindestanforderungen gemäß Abs. 1 unterschreiten, sind nur zur vorübergehenden, die Dauer eines Jahres nicht überschreitenden Unterbringung in Tierheimen zulässig, sofern sichergestellt ist, dass die Tiere durch die Art und Weise der Haltung nicht in ihrem Verhalten gestört oder in ihrer Anpassungsfähigkeit überfordert werden.
+
+## 2. Abschnitt
+
+### Haltung von Tieren in Zoofachhandlungen und vergleichbaren Einrichtungen
+
+#### § 4 – Mindestanforderungen an die räumliche Ausstattung
+
+§ 4. Betriebsstätten und sonstige für die Tierhaltung bestimmte Betriebsmittel müssen folgenden Mindestanforderungen entsprechen:
+
+1\. Jede Betriebsstätte muss neben den Verkaufsräumlichkeiten über in geeigneter Weise abgegrenzte Unterkünfte zur vorübergehenden Absonderung kranker Tiere verfügen.
+
+2\. In jeder Betriebsstätte muss ein Anschluss für Kalt- und Warmwasser vorhanden sein.
+
+3\. Die Unterkünfte und Räumlichkeiten, in welchen Tiere gehalten werden, müssen so beschaffen sein, dass sie leicht zu reinigen und zu desinfizieren sind.
+
+4\. Größe und Ausstattung der Unterkünfte müssen den artspezifischen Bedürfnissen der darin untergebrachten Tiere entsprechen.
+
+5\. Fische dürfen nicht in kugelförmigen Behältnissen und Vögel nicht in Rundvolieren mit einem Durchmesser von weniger als 2 m gehalten werden.
+
+6\. Die Unterkünfte müssen ausreichend beleuchtet und belüftet sein. Die Beleuchtung hat dem artgemäßen Tag-Nacht-Rhythmus der Tiere zu entsprechen. In Räumen, in denen Vögel gehalten werden, dürfen keine Beleuchtungskörper Verwendung finden, die bei den Tieren einen Stroboskopeffekt bewirken.
+
+7\. Die Fenster der für die Tierhaltung bestimmten Räumlichkeiten sowie Schaufenster müssen mit geeigneten Sonnenschutzvorrichtungen versehen sein.
+
+#### § 5 – Mindestanforderungen an eine kurzfristige Haltung
+
+§ 5. (1) Werden Tiere nur kurzfristig in einer Zoofachhandlung oder in einer vergleichbaren Einrichtung, in welchen Tiere zum Verkauf angeboten werden, gehalten, so dürfen die in der **Anlage 1** festgelegten Unterkünfte Verwendung finden, sofern
+
+1\. die darin gehaltenen Tiere keine Anzeichen zeigen, die darauf hindeuten, dass sie in ihrer Anpassungsfähigkeit überfordert oder in ihrem Verhalten gestört sind,
+
+2\. die Ausstattung der Unterkünfte und die Betreuung der Tiere den Anforderungen der **Anlage 2** entspricht,
+
+3\. die oder der Gewerbetreibende über Aufzeichnungen verfügt, aus denen hervorgeht, zu welchem Zeitpunkt die Tiere in die Zoofachhandlung eingebracht wurden,
+
+4\. die oder der Gewerbetreibende diese Aufzeichnungen zur jederzeitigen Einsicht für die Behörde bereithält,
+
+5\. sichergestellt ist, dass Säugetiere, Vögel, Reptilien und Zierfische nicht länger als drei Monate in diesen Unterkünften gehalten werden und
+
+6\. es sich nicht um Wildfänge bei den Tieren, ausgenommen Fische, handelt.
+
+\*(Anm.: Abs. 2 aufgehoben durch BGBl. II Nr. 146/2026)*
+
+(3) Übernehmen Zoofachhandlungen oder vergleichbare Einrichtungen, die Tiere zum Verkauf anbieten, Tiere von Privatpersonen zur vorübergehenden Betreuung, so sind diese räumlich getrennt vom Verkaufsraum zu halten. Für die Haltung gelten die Bestimmungen des 2. Abschnitts dieser Verordnung.
+
+#### § 6 – Mindestanforderungen an die Betreuung von Tieren
+
+§ 6. (1) Die Tiere sind vor konkurrierenden, stärkeren Artgenossen und Beutegreifern (Prädatoren) zu schützen.
+
+(2) Die Tiere sind vor nachteiligen Einwirkungen durch Sonneneinstrahlung, Zugluft, Lärm, Geruch, Erschütterungen und ähnlichen Einflüssen zu schützen.
+
+(3) In allen Räumen, in denen Tiere gehalten werden, ist ein Rauchverbot vorzusehen.
+
+(4) Die Schaustellung und Haltung von Tieren im Schaufensterbereich ist verboten. Der Schaufensterbereich in einer Zoofachhandlung bzw. die Grenze des Geschäftslokales zu einem Einkaufszentrum ist jener Bereich direkt hinter der Grenze des Geschäftslokales (zur Straße oder zum Einkaufszentrum), in der die Gefahr besteht, dass die im Geschäft gehaltenen Tiere durch außen entstehende nachteilige Einwirkungen wie insbesondere Lärm, Licht, Sonneneinstrahlung, Zugluft, Gerüche oder Klopfen an die Scheiben oder ähnliches Verhalten durch Passanten in ihrer Anpassungsfähigkeit überfordert werden.
+
+(5) Können sich Tiere im Geschäftsbereich frei bewegen, so ist sicherzustellen, dass sie sich nicht verletzen können und andere Tiere nicht zu Schaden kommen oder in schwere Angst versetzt werden. Weiters ist sicherzustellen, dass die Tiere den Geschäftsbereich nicht verlassen können.
+
+#### § 7 – Besondere Anforderungen
+
+§ 7. (1) Das Halten von Tieren, die ihrer Art nach für die Tierhaltung ungeeignet sind, ist verboten.
+
+(2) Es dürfen keine Tiere zum Verkauf angeboten werden, an denen verbotene Eingriffe im Sinne des § 7 des Tierschutzgesetzes vorgenommen wurden.
+
+(3) Reptilien dürfen erst zum Verkauf angeboten werden, wenn eine Gewöhnung an die Futteraufnahme im künstlichen Lebensraum erfolgt ist und die Tiere futterfest sind.
+
+(4) Jungvögel müssen so aufgezogen werden, dass sie artgeprägt sind. Eine Handaufzucht darf nur in begründeten Ausnahmefällen und nur zum Wohl des Tieres vorgenommen werden.
+
+(5) Die Abgabe von Tieren im Wege der Selbstbedienung durch Kunden ist verboten.
+
+#### § 9 – Kundeninformation
+
+§ 9. (1) Die oder der Gewerbetreibende ist verpflichtet, leicht verständliche Merkblätter mit ausreichenden Informationen über Haltung und Pflege aller von ihm zum Verkauf angebotenen Tierarten sowie über allfällige Artenschutzbestimmungen und behördliche Bewilligungs- oder Anzeigepflichten bereit zu halten und der Kundin oder dem Kunden beim Kauf eines Tieres auszuhändigen oder auf Verlangen der Kundin oder des Kunden nach Maßgabe der technischen Möglichkeiten elektronisch zur Verfügung zu stellen. Die Merkblätter müssen zu folgenden Punkten entsprechende Informationen enthalten:
+
+1\. natürliches Vorkommen/Lebensraum;
+
+2\. Haltungssysteme (Platzbedarf, Klima, Beleuchtung, Ausgestaltung) und Sozialgefüge;
+
+3\. Ernährung;
+
+4\. Fortpflanzung (Zucht, Kastration);
+
+5\. allfällige Artenschutzbestimmungen sowie behördliche Bewilligungs- oder Meldepflichten;
+
+6\. sonstige, für die Haltung bedeutsame Informationen, wie zum Beispiel Notwendigkeit der Zuziehung eines Tierarztes oder einer Tierärztin im Krankheitsfall sowie zur Beratung hinsichtlich empfohlener Impfungen und Behandlungen, Beschäftigung der Tiere, spezifische Merkmale und Anforderungen gemäß der 2. Tierhaltungsverordnung, üblicherweise zu erwartende Körpergröße sowie Lebenserwartung;
+
+7\. Information über die allfällig erforderliche Absolvierung eines Sachkundenachweises vor Aufnahme der Haltung.
+
+8\. Information über ein allfällig erhöhtes Risiko für das Auftreten von Qualzuchtsymptomen.
+
+(2) Werden in einer Zoofachhandlung auch Hunde und Katzen angeboten, die nicht in der Zoofachhandlung gehalten werden,, sind die Kunden beim Kauf jedenfalls zusätzlich über Folgendes aufzuklären:
+
+1\. Hund:
+
+a) Kennzeichnung des Hundes durch Mikrochip;
+
+b) Verpflichtung zur Registrierung in der Datenbank gemäß § 24a TSchG;
+
+c) Verpflichtung sich über die allenfalls erforderliche Entrichtung der Hundeabgabe, des Abschlusses einer Haftpflichtversicherung sowie sicherheitspolizeiliche Haltungsbeschränkungen gemäß der landesrechtlichen Bestimmungen zu informieren;
+
+d) Verbot von Eingriffen gemäß § 7 TSchG;
+
+e) Informationen über die Eingewöhnung in neuer Umgebung;
+
+f) Information über die Notwendigkeit der Auseinandersetzung mit altersspezifischen Ernährungsgewohnheiten;
+
+g) Informationen zur Erziehung und Ausbildung durch entsprechend qualifizierte Personen.
+
+h) Verhaltensregeln im Alm- und Weidegebiet zur Konfliktprävention zwischen Hunden und Weidetieren sowie Notfallmaßnahmen.
+
+2\. Katze:
+
+a) Verpflichtung zur Notwendigkeit der Kastration von Freigängerkatzen, die nicht zur Zucht verwendet werden;
+
+b) Verpflichtung zur Kennzeichnung und Registrierung von Zuchtkatzen mit Freigang in der Datenbank gemäß § 24a TSchG;
+
+c) Hinweis auf die Möglichkeit zur Kennzeichnung von Katzen mittels Mikrochip;
+
+d) Hinweis auf die notwendige Montage von Schutzvorrichtungen gemäß Anlage 1 Punkt 2 Abs. 11 der 2. Tierhaltungsverordnung;
+
+e) Informationen über die Eingewöhnung in neuer Umgebung;
+
+f) Information über die Notwendigkeit der Auseinandersetzung mit altersspezifischen Ernährungsgewohnheiten.
+
+#### § 10 – Nachzuweisende Fachkenntnisse
+
+§ 10. (1) Die erforderliche Eignung sowie die erforderlichen Kenntnisse und beruflichen Fähigkeiten zur Betreuung von Tieren in Zoofachhandlungen und vergleichbaren Einrichtungen liegt vor, wenn die Betreuungsperson
+
+1\. über eine akademische Ausbildung wie das Studium der Tierproduktion der Studienrichtung Landwirtschaft, das Studium der Zoologie der Studienrichtung Biologie oder das Studium der Veterinärmedizin verfügt oder
+
+2\. über eine schulische Ausbildung an einer höheren land- und forstwirtschaftlichen Lehranstalt der Fachrichtungen allgemeine Landwirtschaft oder alpenländische Landwirtschaft oder Landwirtschaft oder an einer landwirtschaftlichen Fachschule verfügt oder
+
+3\. über eine Lehrabschlussprüfung im Lehrberuf Tierpfleger entsprechend der Tierpfleger-Ausbildungsordnungen oder im Lehrberuf Einzelhandelskaufmann oder Einzelhandelskauffrau, wenn die Lehre in einem tierführenden Zoofachhandel erfolgt ist, oder
+
+4\. eine mindestens einjährige einschlägige, im Umgang mit lebenden Tieren bestehende Tätigkeit und den erfolgreichen Besuch der Module 1 (Grundmodul) und 2 (Aufbaumodul) des in **Anlage 3** festgelegten Lehrgangs über Tierhaltung und Tierschutz nachweisen kann oder
+
+5\. eine aufgrund eines Staatsvertrags im Rahmen der Europäischen Integration einer Ausbildung nach Z 1 bis 4 als gleichwertig anerkannte oder als gleichwertig zu geltende Ausbildung absolviert hat.
+
+(2) Die erfolgreiche Absolvierung des Lehrgangs gemäß **Anlage 2** der Verordnung über den Schutz von Tieren gegen Quälereien und das artgemäße Halten von Tieren im Rahmen gewerblicher Tätigkeiten, BGBl. Nr. 132/1991, gilt als theoretische Qualifikation im Sinne des Abs. 1 Z 4.
+
+## 3. Abschnitt
+
+### Haltung von Tieren im Rahmen einer sonstigen wirtschaftlichen Tätigkeit
+
+#### § 11 – Mindestanforderungen an die räumliche Ausstattung
+
+§ 11. Die Betriebsstätte einer sonstigen wirtschaftlich tätigen Einrichtung muss jedenfalls über folgende Möglichkeiten verfügen:
+
+1\. ausreichend Unterkünfte, je nach gehaltener Tierart räumlich getrennt für Hunde, Katzen und andere Tiere,
+
+2\. eine in geeigneter Weise ausgestattete zusätzliche Räumlichkeit mit Unterkünften zur vorübergehenden, getrennten Unterbringung kranker Tiere,
+
+3\. eine in geeigneter Weise ausgestattete Räumlichkeit zur getrennten Unterbringung untereinander unverträglicher Tiere derselben Tierart.
+
+#### § 12 – Personal
+
+§ 12. (1) Eine Person mit Kenntnissen über tiergerechte Tierhaltung muss in der Betriebsstätte regelmäßig und dauernd tätig sein.
+
+(2) Für die Betreuung der Tiere muss nach Maßgabe der Anzahl und Art der gehaltenen Tiere Hilfspersonal in ausreichender Zahl zur Verfügung stehen.
+
+(3) Eine sonstige wirtschaftlich tätige Einrichtung kann sich für die Betreuung von Tieren Pflegestellen innerhalb Österreichs als Außenstellen bedienen. Diese sind von der Bewilligungsinhaberin oder vom Bewilligungsinhaber der Behörde unter Angabe der Höchstzahl der dort maximal zu betreuenden Tiere einmal jährlich bekanntzugeben. Sofern die Behörde nicht in der für die Pflegestelle zuständigen Landesregierung liegt, ist diese von der Bewilligungsbehörde über die Meldung der Pflegestelle in Kenntnis zu setzen.
+
+#### § 13 – Mindestanforderungen an die Betreuung und Einbringung
+
+§ 13. (1) Die Tiere sind vor konkurrierenden, stärkeren Artgenossen und Beutegreifern (Prädatoren) zu schützen.
+
+(2) Die Tiere sind vor nachteiligen Einwirkungen durch Sonneneinstrahlung, Zugluft, Lärm, Geruch, Erschütterungen und ähnlichen Einflüssen zu schützen.
+
+(3) Die Räume und Unterkünfte, in denen die gehaltenen Tiere untergebracht sind, sind stets sauber zu halten und müssen so beschaffen sein, dass sie leicht zu reinigen und zu desinfizieren sind.
+
+(4) Ein Betreuungsvertrag mit einer Tierärztin oder einem Tierarzt ist abzuschließen. Die Betreuungstierärztin oder der Betreuungstierarzt hat alle eingebrachten Tiere innerhalb von fünf Werktagen nach der Einbringung tierärztlich zu untersuchen.
+
+(5) Kranke und krankheitsverdächtige Tiere sind abzusondern und unverzüglich einer tierärztlichen Untersuchung zuzuführen.
+
+(6) Tiere, die direkt aus dem Ausland in eine sonstige wirtschaftliche Haltung eingebracht werden, sind jedenfalls vor jeder Weitergabe an eine Pflegestelle in der Betriebsstätte aufzunehmen und tierärztlich zu untersuchen. Die Unterbringung von Tieren, die die Behörde gemäß § 30 Abs. 1 TSchG übergibt, kann direkt an eine Pflegestelle erfolgen.
+
+#### § 14 – Aufzeichnungen
+
+§ 14. (1) Unbeschadet des § 21 TSchG sind zur behördlichen Überprüfung der Haltungsbedingungen über die in einer sonstigen wirtschaftlich tätigen Einrichtung untergebrachten Tiere folgende Aufzeichnungen zu führen:
+
+1\. Tierart, Rasse, Geschlecht und Alter,
+
+2\. bei Hunden und Katzen die Chipnummer,
+
+3\. Einlieferungsdatum in die sonstige wirtschaftlich tätige Einrichtung sowie allfälliges Abgabedatum an eine Pflegestelle,
+
+4\. Datum der Abholung sowie Name und Wohnanschrift der abholenden Person.
+
+(2) Die Aufzeichnungen und Nachweise gemäß Abs. 1 sind, sofern sie nicht gemäß § 21 TSchG fünf Jahre aufzubewahren sind, mindestens drei Jahre nach der Abgabe oder dem Tod des betreffenden Tieres zur jederzeitigen Einsichtnahme durch Organe der Behörde aufzubewahren.
+
+#### § 15 – Besondere Voraussetzungen für das Halten von Hunden und Katzen im Rahmen einer sonstigen wirtschaftlichen Tätigkeit
+
+§ 15. (1) Unbeschadet des § 21 TSchG ist bei der Haltung von Hunden und Katzen im Rahmen einer sonstigen wirtschaftlichen Tätigkeit Folgendes zu überprüfen und zu dokumentieren:
+
+1\. Impfpässe oder EU-Heimtierausweise (inklusive Nationale des Tieres),
+
+2\. Name und Anschrift der Züchterin oder des Züchters, wenn Zwischenhändler vorhanden, auch von diesen,
+
+3\. im Falle des Einbringens von Tieren aus anderen Mitgliedstaaten der EU die Bescheinigung für den innergemeinschaftlichen Handel gemäß Anhang E Teil I der Richtlinie 92/65/EWG, oder im Falle des Einbringens von Tieren aus Drittstaaten die grenztierärztliche Bescheinigung,
+
+4\. Datum der Einbringung in die Betriebsstätte,
+
+5\. Datum der Weitergabe.
+
+(2) Bei der Eingangsuntersuchung gemäß § 13 Abs. 4 ist insbesondere auch Folgendes zu überprüfen und unter Angabe des Datums der Eingangsuntersuchung zu dokumentieren:
+
+1\. Übereinstimmung der in Abs. 1 Z 1 und 3 genannten Dokumente mit den eingebrachten Tieren, wobei vor allem das Alter und die Chipnummer mit den Angaben in den Dokumenten zu überprüfen sind,
+
+2\. Gesundheitszustand: Katzenwelpen aus einem Wurf sind gemeinsam in einem Raum zu halten. Eine weitere Vergesellschaftung mit anderen Katzen ist frühestens nach je einer Woche Aufenthalt, nach tierärztlicher Freigabe und unter Berücksichtigung des Ergebnisses von allfälligen veterinärmedizinisch begründeten weiterführenden Untersuchungen, wie beispielsweise der Testung auf Retrovirusinfektionen (Felines Leukose Virus – Antigentest sowie Felines Immundefiziens Virus – Antikörpertest), möglich) und Bestätigung, dass die Tiere zur Haltung in der Betriebsstätte oder in einer Pflegestelle und zum Zwecke einer Übergabe an Dritte geeignet sind,
+
+3\. Überprüfung auf Qualzuchtmerkmale gemäß § 5 Abs. 2 Z 1 TSchG und auf stattgefundene Eingriffe.
+
+(3) Weiters ist von der Betreuungstierärztin oder vom Betreuungstierarzt Folgendes zu dokumentieren:
+
+1\. Freigabedatum zur Vergesellschaftung mit anderen Tiergruppen derselben Tierart,
+
+2\. Dokumentation von durchgeführter Medikation und Therapie.
+
+(4) Die Aufzeichnungen und Nachweise gemäß Abs. 1 bis 3 sind, sofern sie nicht gemäß § 21 TSchG fünf Jahre aufzubewahren sind, mindestens drei Jahre nach der Weitergabe oder dem Tod des betreffenden Tieres aufzubewahren. Diese Aufzeichnungen sind der Behörde anlässlich einer Kontrolle oder auf Anforderung zur Verfügung zu stellen. Stellt der Betreuungstierarzt bei den in Abs. 2 geforderten Überprüfungen Verstöße gegen die veterinärrechtlichen oder tierschutzrechtlichen Bestimmungen fest, ist von der Betreuungstierärztin oder vom Betreuungstierarzt die Behörde zu informieren.
+
+## 4. Abschnitt
+
+### Haltung von Tieren in Tierheimen
+
+#### § 16 – Mindestanforderungen an die räumliche Ausstattung
+
+§ 16. (1) Ein Tierheim muss folgende, entsprechend gekennzeichnete Abteilungen umfassen:
+
+1\. ausreichend Unterkünfte, je nach gehaltener Tierart räumlich getrennt für Hunde, Katzen und andere Tiere,
+
+2\. abgetrennte geeignete Unterbringungsmöglichkeiten für kranke Tiere, um eine Ansteckung anderer Tiere zu verhindern, und
+
+3\. Auslaufflächen, getrennt für Hunde, Katzen und andere Tiere, die ihrer Art nach einen Auslauf benötigen.
+
+(2) Die Räumlichkeiten und Unterkünfte, in denen Tiere gehalten werden, müssen leicht zu reinigen und zu desinfizieren sein.
+
+(3) Die Räumlichkeiten und Unterkünfte, in denen Tiere gehalten werden, sind sauber zu halten. Vor jedem neuen Besatz hat eine gründliche Reinigung und Desinfektion zu erfolgen.
+
+(4) Untereinander unverträgliche Tiere oder Tierarten sind räumlich getrennt zu halten. Im Bereich der Auslaufflächen ist für derartige Tiere und Tierarten ein Sichtschutz vorzusehen.
+
+#### § 17 – Leitung und Betreuungspersonen
+
+§ 17. (1) Ein Tierheim muss über eine verantwortliche Leiterin oder einen verantwortlichen Leiter verfügen, die oder der mit den Grundsätzen der Tierhaltung und des Tierschutzes vertraut ist. Diese oder dieser ist für die Einhaltung der Bestimmungen des Tierschutzgesetzes und der darauf begründeten Verordnungen und Bescheide verantwortlich.
+
+(2) Nach Maßgabe des Umfanges und der Art der Tierhaltung müssen mindestens eine ausreichend qualifizierte Person sowie eine ausreichende Anzahl von Hilfskräften als Betreuungspersonen im Tierheim beschäftigt sein.
+
+(3) Als ausreichend qualifiziert nach Abs. 2 gelten Personen, welche
+
+1\. über eine akademische Ausbildung wie das Studium der Tierproduktion der Studienrichtung Landwirtschaft, das Studium der Zoologie der Studienrichtung Biologie oder das Studium der Veterinärmedizin verfügen oder
+
+2\. über eine schulische Ausbildung an einer höheren land- und forstwirtschaftlichen Lehranstalt der Fachrichtungen allgemeine Landwirtschaft oder alpenländische Landwirtschaft oder Landwirtschaft oder an einer landwirtschaftlichen Fachschule verfügen oder
+
+3\. über eine Lehrabschlussprüfung im Lehrberuf Tierpfleger entsprechend der Tierpfleger-Ausbildungsordnungen oder im Lehrberuf Einzelhandelskaufmann oder Einzelhandelskauffrau, wenn die Lehre in einem tierführenden Zoofachhandel erfolgt ist, verfügen oder
+
+4\. eine mindestens einjährige einschlägige, im Umgang mit lebenden Tieren bestehende Tätigkeit und den erfolgreichen Besuch des in **Anlage 3** festgelegten Lehrgangs über Tierhaltung und Tierschutz nachweisen können, wobei Modul 1 (Grundmodul) verpflichtend zu absolvieren ist und Modul 2 zusätzlich von all jenen zu absolvieren ist, die andere Heimtiere als Hunde, Katzen und Frettchen halten, oder
+
+5\. eine aufgrund eines Staatsvertrags im Rahmen der Europäischen Integration als gleichwertig anerkannte oder zu geltende Ausbildung absolviert haben.
+
+(4) Werden in einem Tierheim Wildtiere gehalten, die im Sinne der 2. Tierhaltungsverordnung besondere Ansprüche an Haltung und Pflege stellen, so muss sichergestellt sein, dass die tägliche Betreuung der Tiere durch eine der gehaltenen Tierarten entsprechende Anzahl von Personen mit einschlägigen Fachkenntnissen erfolgt.
+
+(5) Ein Tierheim kann sich für die Betreuung von Tieren Pflegestellen innerhalb Österreichs als Außenstelle bedienen. Diese sind von der Bewilligungsinhaberin bzw. dem Bewilligungsinhaber des Tierheims der Behörde unter Angabe der Höchstzahl der dort maximal zu betreuenden Tiere einmal jährlich bekannt zu geben. Sofern die Behörde nicht in der für die Pflegestelle zuständigen Landesregierung liegt, ist diese von der Bewilligungsbehörde über die Meldung der Pflegestelle in Kenntnis zu setzen.
+
+#### § 18 – Mindestanforderungen an die Betreuung der Tiere
+
+§ 18. (1) Sämtliche Unterkünfte und Räumlichkeiten sind verschlossen zu halten und dürfen nur in Begleitung des Personals betreten werden. Die Fütterung, Tränkung oder anderweitige Versorgung ist durch das Personal zu kontrollieren.
+
+(2) Für Tiere, die besonderer Pflege bedürfen, sind Qualität und Menge des Futters und Trinkwassers sowie allenfalls erforderliche Einschränkungen hinsichtlich der Haltungsbedingungen von der verantwortlichen Leiterin oder vom verantwortlichen Leiter oder einer Tierärztin oder einem Tierarzt festzulegen.
+
+(3) Allen Tieren ist, über die Zeiten der Fütterung und Reinigung hinausgehend, entsprechend ihrer Art Kontakt zu Menschen zu ermöglichen.
+
+(4) Jungtiere und verhaltensgestörte Tiere sind ihren besonderen Anforderungen entsprechend zu betreuen.
+
+(5) Hunde, ausgenommen aggressive Hunde, sind in Gruppen zu halten, sofern die räumlichen Möglichkeiten für eine kontrollierte Gruppenhaltung vorliegen.
+
+(6) Neu aufgenommene Tiere sind unverzüglich entweder in einem abgesonderten Bereich oder in einer zur Eingewöhnung geeigneten Ruhezone unterzubringen. Offensichtlich gesunde Tiere sind ehestmöglich, jedoch jedenfalls innerhalb von drei Tagen nach ihrer Aufnahme, einer Erstuntersuchung durch eine Tierärztin oder einen Tierarzt zu unterziehen. Ein Kontakt mit anderen Tieren ist erst dann zu ermöglichen, wenn diese Tiere tierärztlich untersucht, entsprechend versorgt und als frei von ansteckenden Krankheiten befunden worden sind.
+
+(7) Kranke oder krankheitsverdächtige Tiere sind sofort entsprechend abzusondern und unverzüglich einer tierärztlichen Untersuchung zuzuführen. Dabei sind der Tierärztin oder dem Tierarzt allenfalls vorhandene Aufzeichnungen über die bisherige Krankengeschichte des Tieres vorzulegen.
+
+(8) In angemessenen Zeitabständen ist eine umfassende tierärztliche Untersuchung aller untergebrachten Tiere vorzunehmen.
+
+#### § 19 – Aufzeichnungen
+
+§ 19. Die Leiterin oder der Leiter des Tierheimes hat ein Vormerkbuch gemäß § 29 Abs. 3 TSchG zu führen, wobei er zur Führung der erforderlichen Aufzeichnungen Hilfspersonen heranziehen darf. Das Vormerkbuch kann auch elektronisch geführt werden.
+
+## 5. Abschnitt
+
+### Haltung von Tieren in Tierpensionen
+
+#### § 20 – Mindestanforderungen an die räumliche Ausstattung
+
+§ 20. Eine Tierpension muss jedenfalls über folgende Räumlichkeiten verfügen:
+
+1\. ausreichend Unterkünfte, je nach gehaltener Tierart räumlich getrennt für Hunde, Katzen und andere Tiere,
+
+2\. eine in geeigneter Weise ausgestattete Räumlichkeit mit Unterkünften zur vorübergehenden, getrennten Unterbringung kranker Tiere,
+
+3\. eine in geeigneter Weise ausgestattete Räumlichkeit zur getrennten Unterbringung untereinander unverträglicher Tiere.
+
+#### § 21 – Mindestanforderungen an Räumlichkeiten und Unterkünfte, in denen Tiere gehalten werden
+
+§ 21. (1) Die Räumlichkeiten und Unterkünfte, in denen Tiere gehalten werden, sind sauber zu halten und müssen leicht zu reinigen und zu desinfizieren sein. Vor jedem neuen Besatz hat eine gründliche Reinigung zu erfolgen.
+
+(2) Es dürfen nur gesunde und verträgliche Tiere vergesellschaftet werden.
+
+(3) Werden Hunde, Katzen oder Frettchen übernommen, hat die Überbringerin oder der Überbringer des Tieres den gültigen Impfpass oder den Heimtierausweis (Petpass) vorzulegen. Für Papageien (Psittacidae) muss die Überbringerin oder der Überbringer ein gültiges Gesundheitszeugnis vorlegen, außer die Tiere werden nur kurzfristig und von anderen Tieren gesondert untergebracht.
+
+(4) Kranke oder krankheitsverdächtige Tiere sind sofort entsprechend abzusondern und unverzüglich einer tierärztlichen Untersuchung zuzuführen. Dabei sind allenfalls vorhandene Aufzeichnungen über die bisherige Krankengeschichte des Tieres der Tierärztin oder dem Tierarzt vorzulegen.
+
+(5) In angemessenen Zeitabständen ist eine tierärztliche Untersuchung aller in der Tierpension untergebrachten Tiere vornehmen zu lassen.
+
+#### § 22 – Personal
+
+§ 22. (1) Für die Betreuung der Tiere muss nach Maßgabe der Anzahl und Art der gehaltenen Tiere qualifiziertes Personal sowie Hilfspersonal in ausreichender Zahl zur Verfügung stehen.
+
+(2) Als ausreichend qualifiziert gelten Personen mit Fachkenntnissen gemäß § 17 Abs. 3.
+
+#### § 23 – Aufzeichnungen
+
+§ 23. Die Leiterin oder der Leiter der Tierpension hat ein Vormerkbuch gemäß § 29 Abs. 3 TSchG zu führen, wobei sie oder er zur Führung der erforderlichen Aufzeichnungen Hilfspersonen heranziehen darf. Das Vormerkbuch kann auch elektronisch geführt werden.
+
+## 6. Abschnitt
+
+### Haltung von Tieren in Tierasylen und Gnadenhöfen
+
+#### § 24 – Mindestanforderungen an die räumliche Ausstattung
+
+§ 24. Tierasyle und Gnadenhöfe müssen jedenfalls über folgende Räumlichkeiten verfügen:
+
+1\. getrennte Unterkünfte für Hunde, Katzen und andere Tiere,
+
+2\. eine in geeigneter Weise ausgestattete zusätzliche Räumlichkeit mit Unterkünften zur vorübergehenden, getrennten Unterbringung kranker Tiere,
+
+3\. eine in geeigneter Weise ausgestattete Räumlichkeit zur getrennten Unterbringung untereinander unverträglicher Tiere.
+
+#### § 25 – Mindestanforderungen an Räumlichkeiten und Unterkünfte von Tierasylen und Gnadenhöfen
+
+§ 25. (1) Die Räumlichkeiten und Unterkünfte, in denen Tiere gehalten werden, sind sauber zu halten und müssen leicht zu reinigen und zu desinfizieren sein. Vor jedem neuen Besatz hat eine gründliche Reinigung zu erfolgen.
+
+(2) Es dürfen nur gesunde und verträgliche Tiere vergesellschaftet werden.
+
+(3) Kranke oder krankheitsverdächtige Tiere sind sofort entsprechend abzusondern und unverzüglich einer tierärztlichen Untersuchung zuzuführen. Dabei sind allenfalls vorhandene Aufzeichnungen über die bisherige Krankengeschichte des Tieres der Tierärztin oder dem Tierarzt vorzulegen.
+
+(4) In angemessenen Zeitabständen, zumindest einmal jährlich, ist eine tierärztliche Untersuchung aller im Tierasyl oder Gnadenhof untergebrachten Tiere vornehmen zu lassen.
+
+#### § 26 – Aufzeichnungen
+
+§ 26. (1) Unbeschadet des § 21 TSchG sind zur behördlichen Überprüfung der Haltungsbedingungen über die in einem Tierasyl oder Gnadenhof untergebrachten Tiere folgende Aufzeichnungen zu führen:
+
+1\. Tierart, Rasse, Geschlecht und Alter,
+
+2\. bei Hunden und Katzen die Chipnummer,
+
+3\. Einlieferungsdatum, Name und Wohnanschrift des Überbringers.
+
+(2) Die Aufzeichnungen und Nachweise gemäß Abs. 1 sind, sofern sie nicht gemäß § 21 TSchG fünf Jahre aufzubewahren sind, mindestens drei Jahre nach dem Tod des betreffenden Tieres zur jederzeitigen Einsichtnahme durch Organe der Behörde aufzubewahren.
+
+## 7. Abschnitt
+
+### Haltung von Tieren zum Zwecke der Zucht mit Ausnahme der von der Meldepflicht ausgenommenen Tiere gemäß § 33 Abs. 1 Z 1 und 2
+
+#### § 27 – Mindestanforderungen an die räumliche Ausstattung
+
+§ 27. (1) Wer Tiere zum Zwecke der Zucht hält, hat je nach Tierart ausreichend Räumlichkeiten oder Unterkünfte zur Verfügung zu stellen. Die Räumlichkeiten und Unterkünfte, in denen die Tiere untergebracht sind, sind stets sauber zu halten.
+
+(2) Neben den Anforderungen des Abs. 1 haben Räumlichkeiten, in welchen Tiere im Rahmen einer bewilligungspflichtigen Zucht gemäß § 31b Abs. 2 TSchG gehalten werden, jedenfalls über Folgendes zu verfügen:
+
+1\. eine in geeigneter Weise ausgestattete, leicht zu reinigende und zu desinfizierende Unterbringungsmöglichkeit zur vorübergehenden, getrennten Haltung kranker Tiere;
+
+2\. eine in geeigneter Weise ausgestattete Unterbringungsmöglichkeit zur vorübergehenden, getrennten Haltung untereinander unverträglicher Tiere und
+
+3\. eine in geeigneter Weise ausgestattete, leicht zu reinigende und zu desinfizierende Unterbringungsmöglichkeit zur vorübergehenden Haltung von neu eingebrachten Tieren.
+
+#### § 28 – Aufzeichnungen
+
+§ 28. (1) Unbeschadet des § 21 TSchG sind zur behördlichen Überprüfung der Haltungsbedingungen über die zum Zwecke der Zucht untergebrachten Tiere folgende Aufzeichnungen zu führen:
+
+1\. Tierart, Rasse, Geschlecht und Alter der aktiv zur Verpaarung eingesetzten Zuchttiere;
+
+2\. bei Hunden und Katzen die Chipnummer, bei anderen Tierarten eine Einzeltierkennzeichnung zur Identifizierung, soweit diese möglich ist;
+
+3\. Datum des Todes der aktiv zur Verpaarung eingesetzten Zuchttiere und Ursache, sofern bekannt;
+
+4\. Dokumentation über die durchgeführten Verpaarungen bei Hunden und Katzen;
+
+5\. Dokumentation der Geburten mit Geburtsdatum bzw. Würfe mit Wurfdatum, Anzahl der geborenen Tiere, Geschlecht und Aussehen der Jungtiere bei Hunden und Katzen;
+
+6\. Dokumentation der Aborte, Kaiserschnitte, tot geborenen Jungtiere und verstorbenen Jungtiere inklusive Datum und Ursache, sofern bekannt, bei Hunden und Katzen;
+
+7\. Dokumentation über medizinische Behandlungen, wie beispielsweise Impfungen oder Entwurmungen.
+
+(2) Die Aufzeichnungen sind mindestens fünf Jahre nach dem Wurfdatum des betreffenden Tieres zur jederzeitigen Einsichtnahme durch Organe der Behörde aufzubewahren.
+
+(3) Erfolgt die Haltung von Katzen ausschließlich im Freien sind lediglich die Aufzeichnungen gemäß Abs. 1 Z 1, 2 und 7 zu führen.
+
+#### § 30 – Mindestanforderungen an die Betreuung der Tiere
+
+§ 30. (1) Kranke und krankheitsverdächtige Tiere sind abzusondern und unverzüglich ordnungsgemäß zu versorgen, erforderlichenfalls unter Heranziehung einer Tierärztin bzw. eines Tierarztes.
+
+(2) Für die Tiere muss nach Maßgabe der Anzahl und der Art der gehaltenen Tiere eine ausreichende Betreuung sichergestellt sein. Dies ist jedenfalls erfüllt, wenn
+
+1\. die Unterkünfte sauber gehalten werden;
+
+2\. die Tiere gesund und in einem gepflegten Zustand sind;
+
+3\. eine artspezifische Betreuung und Beschäftigung sichergestellt ist und
+
+4\. die Aufzeichnungen ordnungsgemäß geführt sind.
+
+(3) Bei der Haltung von Hunden und Katzen im Rahmen einer Zucht hat eine regelmäßige tierärztliche Betreuung nachweislich bei allen gehaltenen Tieren zu erfolgen.
+
+#### § 31 – Besondere Voraussetzungen für die Haltung von Hunden zum Zwecke der Zucht
+
+§ 31. (1) Unbeschadet der allgemeinen Bestimmungen dieses Abschnitts gelten für die Zucht von Hunden zusätzlich die nachstehenden Absätze.
+
+(2) Für die Haltung gelten folgende Mindestanforderungen:
+
+1\. Werden Welpen ohne ständigen Zugang ins Freie in Räumen, die nach ihrer Zweckbestimmung dem gewöhnlichen Aufenthalt von Menschen dienen, gehalten, muss bis zu einem Gewicht der Hündin von 15 kg dieser und ihren Welpen ab dem Mobilwerden eine uneingeschränkt benutzbare Fläche von mindestens 10 m² zur Verfügung stehen. Bei einem Gewicht der Hündin über 15 kg erhöht sich diese Mindestfläche auf 20 m² ab dem Mobilwerden ihrer Welpen.
+
+2\. Ab dem Mobilwerden, spätestens ab dem 28. Lebenstag, muss den Welpen zusätzlich mindestens einmal täglich für eine angemessene Dauer von mindestens einer Stunde Auslauf im Freien gewährt werden. Die uneingeschränkt benutzbare Bodenfläche des Auslaufs muss mindestens 20 m² groß und der Rasse, Größe und Anzahl der Welpen entsprechend angemessen sein.
+
+3\. Besteht ein ständiger Zugang ins Freie, muss die gesamte zur Verfügung stehende Fläche (innen und außen) mindestens 20 m² betragen. Davon ausgenommen ist die Haltung von Welpen innerhalb der ersten vier Lebenswochen, sofern die Haltung in Wohnräumen erfolgt.
+
+4\. Der Auslauf muss so beschaffen sein, dass von ihm keine Verletzungsgefahr oder sonstige Gesundheitsgefahr für die Welpen ausgeht. Die Einfriedung des Auslaufs muss aus gesundheitsunschädlichem Material bestehen und so beschaffen sein, dass die Welpen sie nicht überwinden und sich nicht daran verletzen können.
+
+(3) Im Rahmen der Zucht sind folgende gesundheitliche Voraussetzungen zu erfüllen:
+
+1\. Hündinnen dürfen frühestens ab der zweiten Läufigkeit gedeckt werden, nicht jedoch vor einem Alter von 15 Monaten.
+
+2\. Hündinnen dürfen nach zwei erfolgten Kaiserschnitten nicht mehr zur Zucht verwendet werden.
+
+3\. Hündinnen dürfen ab Vollendung des achten Lebensjahres nicht mehr zur Zucht verwendet werden, außer eine Tierärztin bzw. ein Tierarzt bestätigt schriftlich die Unbedenklichkeit einer Trächtigkeit für die Gesundheit der Hündin zum Zeitpunkt der Untersuchung.
+
+4\. Zwischen zwei Würfen ist ein Mindestzeitraum von zwölf Monaten einzuhalten.
+
+5\. Die Tiere sind vor Endo- und Ektoparasiten zu schützen.
+
+6\. Die Welpen sind spätestens in der zehnten Lebenswoche, jedenfalls aber vor der ersten Abgabe, tierärztlich zu untersuchen und nach Empfehlung der behandelnden Tierärztin bzw. des behandelnden Tierarztes zu entwurmen und zu impfen.
+
+(4) Einer trächtigen Hündin ist spätestens drei Tage vor der zu erwartenden Geburt bis mindestens vier Wochen nach der Geburt eine Wurfbox zur Verfügung zu stellen. Die Haltung in einer Wurfbox hat unter folgenden Voraussetzungen zu erfolgen:
+
+1\. Die Wurfbox muss:
+
+a) unter Berücksichtigung der Größe der Hündin und der zu erwartenden Zahl und Größe der Welpen angemessen sein, so dass die Hündin in Seitenlage ausgestreckt in der Wurfbox liegen kann;
+
+b) genügend Liegefläche für alle Welpen bieten;
+
+c) so gestaltet sein, dass die Gesundheit der Hündin und der Welpen kontrolliert werden kann;
+
+d) an der Innenseite der Seitenwände mit Abstandshaltern ausgestattet sein und
+
+e) eine leicht zu reinigende und zu desinfizierende Oberfläche haben.
+
+2\. Die Haltung der Hündin mit Welpen muss so erfolgen, dass die Hündin sich jederzeit von ihren Welpen zurückziehen und die Wurfbox verlassen kann.
+
+3\. Innerhalb einer Wurfbox ist von der Züchterin bzw. dem Züchter im Liegebereich der Welpen eine Lufttemperatur zu gewährleisten, die unter Berücksichtigung rassespezifischer Besonderheiten eine Unterkühlung oder Überhitzung der Welpen verhindert. In den ersten zwei Lebenswochen ist bei Bedarf eine zusätzliche Wärmequelle zur Verfügung zu stellen, um punktuell höhere Temperaturen für die Welpen zu gewährleisten.
+
+(5) Erfolgt die Haltung im Freien, im Zwinger oder in nicht beheizbaren Räumen, kann eine Schutzhütte im Sinne der **Anlage 1** Punkt 1.2. Abs. 2 und 3 der 2. Tierhaltungsverordnung die Anforderungen einer Wurfbox erfüllen. Für die Haltung in der Schutzhütte gelten die Voraussetzungen des Abs. 4 sinngemäß.
+
+(6) Die Betreuung und Sozialisierung der Tiere muss folgenden Anforderungen entsprechen:
+
+1\. Halten Züchterinnen bzw. Züchter gleichzeitig mehr als zwei Hündinnen mit Welpen, so ist sicherzustellen, dass für je weitere zwei Hündinnen mit Welpen eine zusätzliche Betreuungsperson vorhanden ist.
+
+2\. Ab einem Alter von drei Wochen müssen Welpen dem Alter angemessen täglich Möglichkeiten für sozialen Kontakt mit Artgenossen und Menschen und, wenn möglich und zumutbar, mit anderen Tierarten haben. Weiters sind die Welpen mit möglichst vielen Alltagssituationen, wie etwa Geräuschen und Bodenuntergründen, vertraut zu machen.
+
+#### § 32 – Besondere Voraussetzungen für das Halten von Katzen zum Zwecke der Zucht
+
+§ 32. (1) Unbeschadet der allgemeinen Bestimmungen dieses Abschnitts gelten für die Zucht von Katzen zusätzlich die nachstehenden Absätze.
+
+(2) Im Rahmen der Zucht sind folgende gesundheitliche Voraussetzungen zu erfüllen:
+
+1\. Kätzinnen dürfen frühestens ab einem Alter von zwölf Monaten, mit tierärztlicher Bestätigung und Freigabe ab einem Alter von zehn Monaten, zur Zucht eingesetzt werden.
+
+2\. Kätzinnen dürfen nach zwei erfolgten Kaiserschnitten nicht mehr zur Zucht verwendet werden.
+
+3\. Kätzinnen dürfen ab Vollendung des sechsten Lebensjahres nicht mehr zur Zucht verwendet werden, außer eine Tierärztin bzw. ein Tierarzt bestätigt schriftlich die Unbedenklichkeit einer Trächtigkeit für die Gesundheit der Kätzin zum Zeitpunkt der Untersuchung.
+
+4\. Eine Kätzin darf innerhalb von zwei Jahren nicht mehr als drei Würfe zur Welt bringen. Für Kätzinnen, die innerhalb von zwei Jahren drei Würfe, einschließlich Totgeburten, zur Welt gebracht haben, muss eine Erholungsphase von mindestens einem Jahr eingehalten werden.
+
+5\. Die Tiere sind vor Endo- und Ektoparasiten zu schützen.
+
+6\. Die Welpen sind spätestens in der zehnten Lebenswoche, jedenfalls aber vor der ersten Abgabe, tierärztlich zu untersuchen und nach Empfehlung der behandelnden Tierärztin bzw. des behandelnden Tierarztes zu entwurmen und zu impfen.
+
+(3) Einer trächtigen Kätzin ist spätestens drei Tage vor der zu erwartenden Geburt bis mindestens vier Wochen nach der Geburt eine Wurfbox zur Verfügung zu stellen. Die Haltung in einer Wurfbox hat unter folgenden Voraussetzungen zu erfolgen:
+
+1\. Die Wurfbox muss:
+
+a) der Größe der Kätzin und der zu erwartenden Zahl und Größe der Welpen angemessen sein, so dass die Kätzin in Seitenlage ausgestreckt in der Wurfbox liegen kann;
+
+b) genügend Liegefläche für alle Welpen bieten;
+
+c) so gestaltet sein, dass die Gesundheit der Kätzin und der Welpen kontrolliert werden kann und
+
+d) eine leicht zu reinigende und zu desinfizierende Oberfläche haben.
+
+2\. Die Haltung der Kätzin mit Welpen muss so erfolgen, dass die Kätzin sich jederzeit von ihren Welpen zurückziehen und die Wurfbox verlassen kann.
+
+3\. Innerhalb einer Wurfbox ist von der Züchterin bzw. dem Züchter im Liegebereich der Welpen eine Lufttemperatur zu gewährleisten, die unter Berücksichtigung rassespezifischer Besonderheiten eine Unterkühlung oder Überhitzung der Kätzinnen und ihrer Welpen verhindert. Bei Bedarf ist eine zusätzliche Wärmequelle zur Verfügung zu stellen, um punktuell höhere Temperaturen für die trächtige Kätzin bzw. ihre Welpen zu gewährleisten.
+
+(4) Erfolgt die Haltung der Katzen ausschließlich im Freien sind der trächtigen Kätzin abweichend von Abs. 3 spätestens drei Tage vor der zu erwartenden Geburt bis mindestens vier Wochen nach der Geburt geeignete Räumlichkeiten zur Verfügung zu stellen.
+
+(5) Die Betreuung und Sozialisierung der Tiere muss folgenden Anforderungen entsprechen:
+
+1\. Halten Züchterinnen bzw. Züchter gleichzeitig mehr als drei Kätzinnen mit Welpen, so ist sicherzustellen, dass für je weitere drei Kätzinnen mit Welpen eine zusätzliche Betreuungsperson vorhanden ist.
+
+2\. Ab einem Alter von drei Wochen müssen Welpen dem Alter angemessen täglich Möglichkeiten für sozialen Kontakt mit Artgenossen und Menschen und, wenn möglich und zumutbar, mit anderen Tierarten haben. Weiters sind die Welpen mit möglichst vielen Alltagssituationen, wie etwa Geräuschen und Bodenuntergründen vertraut zu machen.
+
+## 8. Abschnitt
+
+### Ausnahmen von der Meldepflicht für die Haltung von Tieren zum Zwecke der Zucht
+
+#### § 33 – Ausnahmen von der Meldepflicht
+
+§ 33. (1) Nicht meldepflichtig gemäß § 31b Abs. 1 TSchG ist die Haltung von Tieren zum Zwecke der Zucht in folgenden Fällen:
+
+1\. die private Haltung zum Zwecke der Zucht folgender Haus- und Heimtiere:
+
+a) Zierfische,
+
+b) domestizierte Ziervögel,
+
+c) domestiziertes Geflügel,
+
+d) Kleinnager und
+
+e) Kaninchen,
+
+wenn dies nicht regelmäßig und nicht mit Gewinnabsicht erfolgt;
+
+2\. die Zucht von Kopffüßern und Zehnfußkrebsen;
+
+3\. die Zucht von Tieren im Eigentum des Bundes.
+
+(2) Ebenfalls von der Meldepflicht gemäß § 31b Abs. 1 TSchG ausgenommen ist die Haltung jener Tiere zum Zwecke der Zucht, für die bereits eine Meldung gemäß § 31 Abs. 4 TSchG in der Fassung des Bundesgesetzes BGBl. I Nr. 130/2022 an die Behörde ergangen ist.
+
+#### § 34 – Wildtiere
+
+§ 34. Im Falle von Wildtieren ist eine gesonderte Meldung gemäß § 31b Abs. 1 TSchG dann nicht erforderlich, wenn eine solche Meldung bereits im Rahmen der Anzeige gemäß § 25 TSchG erfolgt oder erfolgt ist.
+
+#### § 35 – Zuchtverbände und -vereine
+
+§ 35. Im Vereinsregister eingetragene Zuchtverbände und -vereine können als Meldestellen für ihre Mitglieder fungieren und sich gegenüber diesen bereit erklären, die Meldung gemäß § 31b Abs. 1 TSchG zu übernehmen. Zuchtverbände und -vereine, die als Meldestellen fungieren, haben der Behörde dies spätestens anlässlich der ersten Meldung mitzuteilen und innerhalb von vier Wochen ab Anmeldung der Züchterin bzw. des Züchters beim Zuchtverband oder -verein die behördliche Meldung für die Züchterin bzw. den Züchter an die jeweils örtlich zuständige Behörde zu übernehmen.
+
+#### § 36 – Vorlage von Zucht- bzw. Maßnahmenprogrammen
+
+§ 36. (1) Personen, welche mit Hunden, Katzen oder bestimmten in der Verordnung gemäß § 22b Abs. 1 TSchG genannten Tierrassen oder Tieren mit speziellen Merkmalen, bei denen besondere Maßnahmen zur Verhinderung von Qualzucht erforderlich sind, züchten, haben anlässlich einer Meldung gemäß § 31b Abs. 1 TSchG der Behörde ein Programm oder zumindest eine Dokumentation über tierärztlich diagnostische Untersuchungen und über die Abklärung von Risikofaktoren vorzulegen. Weiters ist darzulegen, wie dafür Sorge getragen wird, dass für diese Tiere die Wahrscheinlichkeit von Erbschäden reduziert und Qualzucht verhindert wird.
+
+(2) Erfolgt die Zucht im Rahmen eines Vereins oder Verbandes, der nach § 22b Abs. 3 TSchG verpflichtet ist, sein Zucht- bzw. Maßnahmenprogramm der gemäß § 22c Abs. 1 TSchG eingerichteten Kommission zur Beurteilung der Tauglichkeit zur Umsetzung des Qualzuchtverbots vorzulegen, so ist das von der Kommission begutachtete Programm im Rahmen der Zuchtmeldung vorzulegen. Mit Vorlage eines von der Kommission als tauglich befundenen Programmes ist die Verpflichtung nach Abs. 1 erfüllt. Vor Inkrafttreten des Bundesgesetzes BGBl. I Nr. 124/2024 bestehende Programme, die bis längstens 30. Juni 2025 der Kommission zur Begutachtung vorgelegt wurden und für die eine Entscheidung der Kommission noch aussteht, können mit dem Hinweis auf diesen Umstand ebenfalls als Zucht- bzw. Maßnahmenprogramme vorgelegt werden und gelten damit die Verpflichtungen nach Abs. 1 sowie nach § 22a Abs. 1 Z 3 und 4 TSchG bis zur Entscheidung der Kommission als erfüllt.
+
+## 9. Abschnitt
+
+### Schlussbestimmungen
+
+#### § 37 – Inkrafttretens- und Übergangsbestimmungen
+
+§ 37. (1) Diese Verordnung tritt mit 1. Juli 2018 in Kraft.
+
+(2) Die Tierhaltungs-Gewerbeverordnung, BGBl. II Nr. 487/2004, sowie die Tierheim-Verordnung, BGBl. II Nr. 490/2004, treten mit Inkrafttreten dieser Verordnung außer Kraft.
+
+(3) Bei Inkrafttreten dieser Verordnung bestehende Bewilligungen gemäß der Tierhaltungs-Gewerbeverordnung oder gemäß der Tierheim-Verordnung gelten mit Inkrafttreten dieser Verordnung als Bewilligungen gemäß dieser Verordnung.
+
+(4) § 1 Abs. 1, 6a und 6b, § 2 Z 1, 2, 3, 4 und 5, § 5 Abs. 1 Z 5, § 9 Abs. 1 Z 6 und 7, § 9 Abs. 2, § 15 Abs. 2, § 17 Abs. 3 Z 3, der nunmehrige 7. Abschnitt mit Ausnahme des § 29 sowie der nunmehrige 8. Abschnitt, die Abschnittsbezeichnung des 9. Abschnitts sowie Punkt 4 der Anlage 1 in der Fassung der Verordnung BGBl. II Nr. 146/2026 treten mit dem der Kundmachung folgenden Tag in Kraft, gleichzeitig treten § 5 Abs. 2, § 8 samt Überschrift sowie die Anlage 4 außer Kraft. § 29 in der Fassung der Verordnung BGBl. II Nr. 146/2026 tritt mit 1. Jänner 2027 in Kraft. Mit Inkrafttreten des nunmehrigen 8. Abschnitts dieser Verordnung tritt die Verordnung betreffend Ausnahmen von der Meldepflicht für die Haltung von Tieren zum Zweck der Zucht und des Verkaufs, BGBl. II Nr. 70/2016, außer Kraft.
+
+#### Anlage 1
+
+**zu § 5 Abs. 1**
+
+**Mindestabmessungen der Unterkünfte für die kurzfristige Haltung von Tieren in Zoofachgeschäften sowie vergleichbaren Einrichtungen, die Tiere zum Verkauf anbieten**
+
+**1. Säugetiere**
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+| Tierart | Mindestgrundfläche in m² für das 1., 11., 21. usw. Tier | Zusätzliche Mindestgrundfläche in m² für jedes weitere Tier | Mindesthöhe in m | Beispiel Grundfläche in m<sup>2 </sup>für 10 Tiere |
+| Zwergkaninchen | 0,5 | 0,1 | 0,5 | 1,4 |
+| Meerschweinchen | 0,5 | 0,1 | 0,5 | 1,4 |
+| Degus\*/\*\*/\*\*\* | 0,4 | 0,08 | 1,2 | 1,12 |
+| Goldhamster | 0,1 | 0,02 | 0,3 | 0,28 |
+| Zwerghamster | 0,1 | 0,02 | 0,3 | 0,28 |
+| Mäuse\* | 0,1 | 0,02 | 0,3 | 0,28 |
+| Gerbils\*\* | 0,3 | 0,06 | 0,3 | 0,84 |
+| Ratten | 0,3 | 0,06 | 0,5 | 0,84 |
+| Chinchillas\*/\*\*/\*\*\*\* | 0,5 | 0,1 | 1,2 | (max. 4 Tiere: 0,8) |
+|  |  |  |  |  |
+
+\*Es müssen strukturierte Klettermöglichkeiten angeboten werden. Die gesamte Käfighöhe muss genutzt werden können, zB durch mehrere Ebenen oder Sitzbretter in unterschiedlicher Höhe.
+
+\*\*Es muss ein Sandbad angeboten werden.
+
+\*\*\*Bei der Haltung von bis zu 6 Tieren müssen zumindest 0,4 m² als Bodenfläche zur Verfügung stehen. Die restliche erforderliche Grundfläche ist auf zwei erhöhte Ebenen aufzuteilen.
+
+\*\*\*\*Es dürfen maximal 4 Tiere pro Unterkunft gehalten werden. Zumindest 0,5 m² müssen als Bodenfläche zur Verfügung stehen. Die restliche erforderliche Grundfläche kann auf zwei erhöhte Ebenen aufgeteilt werden.
+
+Anmerkungen:
+
+Die Spalte 1 bezeichnet die Tierarten, die in den jeweiligen Unterkünften gehalten werden dürfen.
+
+Die Spalte 2 bezeichnet die Mindestgrundfläche der Unterkünfte für das 1., 11., 21., usw. gehaltene Tier, die in keinem Fall unterschritten werden darf.
+
+Die Spalte 3 bezeichnet bei der Haltung mehrerer Tiere die zusätzliche Mindestfläche für jedes weitere gehaltene Tier, die 20% der Mindestgrundfläche in Spalte 2 entspricht.
+
+Die Spalte 4 bezeichnet die Mindesthöhe der Unterkünfte, unabhängig von der Anzahl der darin gehaltenen Tiere.
+
+**2. Vögel**
+
+| 1 | 2 | 3 | 4 |
+|---|---|---|---|
+| Tierart | Mindestgrundfläche in m² | Mindestfläche für jedes weitere Tier in m² | Mindesthöhe |
+| Sperlingsvögel, Finkenvögel (wie zB Kardinäle, Kanarienvögel, Webervögel) | 0,15 m² (1 bis 6 Vögel) | 0,04 m² | 0,40 m |
+| Sittiche und Zwergpapageien bis 30 cm Kopf-Schwanz-Länge) | 0,2 m² (1 bis 3 Vögel) | 0,05 m² | 0,40 m |
+| Papageien, Amazonenpapageien, Graupapageien, Kleine Kakadus (über 30 cm) | 0,5 m² (1 bis 3 Vögel) | 0,25 m² | 1,5 m |
+| Wachteln, Zwergwachteln | 0,5 m² (1 bis 10 Vögel) | 0,05 m² | 0,4 m |
+| Ara, Große Kakadus | 1,5 m² (bis zu 2 Vögel) | 0,45 m² | 2,0 m |
+|  |  |  |  |
+
+Anmerkungen:
+
+Die Spalte 1 bezeichnet die Tierarten, die in den jeweiligen Unterkünften gehalten werden dürfen.
+
+Die Spalte 2 bezeichnet die Mindestgrundfläche der Unterkunft, die in keinem Fall unterschritten werden darf.
+
+Die Spalte 3 bezeichnet den Mindestplatzbedarf pro zusätzlich in derselben Unterkunft gehaltenes Tier.
+
+Die Spalte 4 bezeichnet die Mindesthöhe der Unterkunft.
+
+**3. Reptilien**
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+| Tierart | Mindestgrundfläche in m² | Mindestfläche pro Tier in m² | Mindestfläche für jedes weitere Tier in m² | Mindesthöhe (Wassertiefe bei Wasserschildkröten) |
+| Landschildkröte | 0,18 m² | L3 x L3 | L3 x L | 0,3 m |
+| Wasserschildkröte Landteil | 0,06 m² | L2 x L | L x L | 0,3 m |
+| Wasserschildkröte Wasserteil | 0,12 m² | L3 x L2 | L2 x L | 10 cm |
+| Bodenschlangen | 0,18 m² | LS0,66 xLS0,5 | LS0,2 xLS0,1 | 0,6 m |
+| Kletternde Schlangen | 0,18 m² | LS0,66 xLS0,5 | LS0,2 xLS.0,1 | 0,8 m |
+| Bodenlebende Echsen | 0,18 m² | LS2 x LS2 | LS0,5 x LS0,5 | 0,35 m |
+| Kletternde Echsen | 0,18 m² | LS2 x LS | LS0,5 x LS0,2 | 0,6 m |
+|  |  |  |  |  |
+
+Anmerkungen:
+
+L bezeichnet die Körperlänge des Tieres ohne Schwanz.
+
+LS bezeichnet die Körperlänge des Tieres mit Schwanz.
+
+Die **Spalte 1** bezeichnet die Tierarten, die in den jeweiligen Unterkünften gehalten werden dürfen.
+
+Die **Spalte 2** bezeichnet die Mindestgrundfläche der Unterkunft, die in keinem Fall unterschritten werden darf.
+
+Die **Spalte 3** bezeichnet bei der Haltung mehrerer Tiere die Mindestfläche für das größte gehaltene Tier.
+
+Die **Spalte 4** bezeichnet bei der Haltung mehrerer Tiere die Mindestfläche für jedes weitere gehaltene Tier.
+
+Die **Spalte 5** bezeichnet die Mindesthöhe (Wassertiefe) der Unterkunft, unabhängig von der Anzahl der darin gehaltenen Tiere.
+
+**4. Zierfische**
+
+Bei Süßwasserfischen sind Aquarien mit mindestens 54 Liter Rauminhalt (Länge 60 cm x Breite 30 cm x Höhe 30 cm) zu verwenden. Bei Meerwasserfischen sind Aquarien mit mindestens 200 Liter Rauminhalt (Länge 100 cm x Breite 50 cm x Höhe 40 cm) zu verwenden. Zur Therapie und Aufzucht von Jungfischen bis zur stabilen Futteraufnahme dürfen die Mindestmaße vorübergehend unterschritten werden. Kleinere Aquarien sind nur stabil, wenn sie in direktem Zusammenhang mit Aquarien der Mindestgröße stehen.
+
+#### Anlage 2
+
+## zu § 5 Abs. 1 Z 2
+
+### Mindestanforderungen an die Ausstattung der Tierunterkünfte und die Betreuung der Tiere bei kurzfristiger Haltung im Zoofachhandel und in vergleichbaren Einrichtungen, die Tiere zum Verkauf anbieten
+
+**1. Kleinsäugetiere**
+
+**1.1. Einstreu**
+
+1.1.1. Die Bodenfläche der Unterkünfte, in welchen Kleinsäugetiere gehalten werden, muss zur Gänze gleichmäßig mit Einstreu bedeckt sein.
+
+1.1.2. Die Einstreu muss saugfähig und gesundheitlich unbedenklich sein. Als Einstreu sind Stroh, Sägespäne oder Holzpellets oder vorzugsweise eine Kombination aus diesen Materialien zu verwenden. Heu darf als Einstreu verwendet werden, wenn bei heufressenden Tieren Heu zusätzlich in einer Futterraufe angeboten wird.
+
+1.1.3. Mineralische Katzenstreu, Torfmull, Sand und Futter dürfen als Einstreu nicht verwendet werden.
+
+**1.2. Rückzugsmöglichkeiten**
+
+Allen Tieren müssen ausreichende Rückzugsmöglichkeiten, zum Beispiel in Form von Häuschen, Höhlen, Rohren und Wurzeln, angeboten werden. Alle Tiere müssen diese Einrichtungen gleichzeitig nützen können.
+
+**1.3. Nagematerial**
+
+Allen Nagetieren und Kaninchen muss unbehandeltes Nagematerial, beispielsweise in Form von gesundheitlich unbedenklichem Holz oder Nagersteinen, ständig zur Verfügung stehen.
+
+**1.4. Trinkwasser und Futter**
+
+1.4.1. Alle Kleinsäugetiere müssen ständig Zugang zu Wasser in Trinkwasserqualität haben und mit einer ausreichenden Menge an art- und altersgerechter Nahrung versorgt werden.
+
+1.4.2. Futterheu ist den Tieren in einer Raufe anzubieten.
+
+1.4.3. Das Trinkwasser muss in Trinkflaschen oder standfesten offenen Gefäßen angeboten werden.
+
+1.4.4. Die Trinkgefäße sind täglich zu reinigen und mit frischem Wasser zu befüllen. Wasser- und Futtergefäße sind so zu platzieren, dass sie möglichst nicht verschmutzt werden.
+
+**1.5. Temperatur**
+
+Bei handelsüblichen Kleinsäugetieren ist eine der Tierart entsprechende Umgebungstemperatur einzuhalten.
+
+Aufgrund des hohen Sauerstoffbedarfs und zur Verhinderung von Wärmestaus muss ein ausreichender
+
+Luftaustausch ohne Zugluftbildung gesichert sein.
+
+**1.6. Sozialkontakt**
+
+1.6.1. Sozial lebende Kleinsäugetiere (zB Meerschweinchen, Kaninchen) dürfen nur gemeinsam mit Artgenossen in einer Gruppe gehalten werden.
+
+1.6.2. Unverträgliche Tiere und Tiere von solitär lebenden Arten sind einzeln zu halten.
+
+**2. Vögel**
+
+**2.1. Beschaffenheit und Aufstellung der Unterkünfte**
+
+2.1.1. Vogelkäfige müssen rechteckige Grundflächen haben. Rundvolieren sind erst ab einem Durchmesser von 2 m zulässig. Käfige mit weniger als 1 m² Grundfläche dürfen von mindestens einer Seite nicht einsehbar sein.
+
+2.1.2. Die Vergitterung muss aus korrosionsbeständigem Material bestehen. Die Gitterweite und Gitterfestigkeit muss der Größe der gehaltenen Vögel angepasst sein. Käfige, in denen Papageienvögel gehalten werden, müssen querverdrahtet sein.
+
+2.1.3. Wände müssen glatt, leicht zu reinigen und desinfizierbar sein. Die Käfige und die Ausstattung sind sauber zu halten und müssen mindestens einmal wöchentlich gründlich gereinigt werden.
+
+2.1.4. Der Standort für Unterkünfte der Vögel muss hell und zugluftfrei sein.
+
+2.1.5. Vogelkäfige müssen in einer Höhe von mindestens 60 cm aufgestellt werden; davon sind lediglich Volieren ab 1,5 m Höhe ausgenommen.
+
+**2.2. Einstreu**
+
+2.2.1. Die gesamte Bodenfläche muss gleichmäßig mit gesundheitlich unbedenklicher Einstreu bedeckt sein.
+
+2.2.2. Sand darf für Weichfresser nicht als Einstreu verwendet werden.
+
+2.2.3. Bodenlebende Vögel (zB Wachteln) müssen die Möglichkeit zum Scharren haben.
+
+**2.3. Sitzstangen**
+
+Der Durchmesser der Sitzstangen muss der Größe der gehaltenen Vögel entsprechen. In jedem Käfig müssen mindestens zwei Sitzstangen in unterschiedlicher Höhe und versetzt zueinander angebracht sein. Von dieser Bestimmung darf nur dann abgewichen werden, wenn verzweigte Naturäste verwendet werden; diese müssen für die Vögel gesundheitlich unbedenklich sein.
+
+**2.4. Trinkwasser und Futter**
+
+2.4.1. Das Futter muss den Bedürfnissen der jeweiligen Vogelart und dem Alter der Vögel entsprechen. Körnerfressern muss regelmäßig auch ungespritztes Grün- und Saftfutter angeboten werden.
+
+2.4.2. Wasser- und Futtergefäße sind so zu platzieren, dass Verschmutzung des Inhalts vermieden wird. Futter und Wasser sind täglich frisch zu verabreichen.
+
+2.4.3. Als Verdauungshilfe ist Grit anzubieten.
+
+2.4.4. Es muss gewährleistet sein, dass auch rangniedrigere Tiere jederzeit Zugang zu Futter- und Wasserstellen haben.
+
+**2.5. Temperatur**
+
+2.5.1. Bei handelsüblichen Vögeln ist eine der Tierart entsprechende Umgebungstemperatur einzuhalten.
+
+2.5.2. Glasvitrinen müssen über entsprechend große Be- und Entlüftungsöffnungen verfügen. Extrembedürfnisse der Vögel sind zu berücksichtigen.
+
+**2.6. Bademöglichkeit**
+
+Allen Vögeln muss täglich frische Bademöglichkeit zur Verfügung stehen. Alternativ dürfen sie mit Wasser besprüht werden.
+
+**2.7. Beschäftigungsmöglichkeit**
+
+Allen Vögeln sind geeignete Beschäftigungsmöglichkeiten (zB frische, gesundheitlich unbedenkliche Äste) anzubieten.
+
+**3. Zierfische**
+
+**3.1. Wasserbeschaffenheit**
+
+3.1.1. Der ph-Wert sowie die Werte für GH (Gesamthärte) und KH (Karbonathärte) im Hälterungswasser müssen den Werten der Herkunftsgewässer der jeweils gehaltenen Spezies entsprechen. Der Nitratgehalt darf maximal 150 mg/l betragen. Nitrit darf im Hälterungswasser nicht nachweisbar sein.
+
+3.1.2. Die Wassertemperatur muss den natürlichen Bedürfnissen der jeweiligen Fischart entsprechen. Das Aquarium muss erforderlichenfalls mit einem Heizgerät ausgestattet sein, welche die Einhaltung des spezifischen Temperaturbereichs unabhängig von der Außentemperatur gewährleistet.
+
+3.1.3. Jedes Aquarium muss so betrieben werden, dass die spezifischen Wasserwerte eingehalten werden können.
+
+**3.2. Vergesellschaftung**
+
+3.2.1. Es dürfen nur untereinander verträgliche Fischarten mit ähnlichen Ansprüchen an die Wasserbeschaffenheit und -temperatur vergesellschaftet werden.
+
+3.2.2. Bei der Haltung von Kampffischmännchen (Betta) ist zu gewährleisten, dass den Tieren bei Einzelhaltung ein Wasservolumen von mindestens einem Liter zur Verfügung steht. Der dauernde Sichtkontakt zu anderen Kampffischmännchen ist zu unterbinden.
+
+#### Anlage 3
+
+## zu § 10 Z 4
+
+### Lehrgang über Tierhaltung und Tierschutz (einheitliche Fassung)
+
+**1. Der Lehrgang ist am Wirtschaftsförderungsinstitut, einer Kammer der gewerblichen Wirtschaft oder an einer vergleichbaren sonstigen nichtschulischen berufsbildenden Einrichtung zu absolvieren.**
+
+**2. Der Lehrgang wird in 2 Module aufgebaut. Modul 1 (Grundmodul) ist verpflichtend von all jenen zu absolvieren, die Tiere im Rahmen einer gewerblichen oder sonstigen wirtschaftlichen Tätigkeit halten und hat in jedem Fall folgende Gegenstände zu umfassen:**
+
+2.1. Recht (Firmengründung, Bewilligungen, Tierschutz, Tierhaltung, Tierseuchen, landespolizeiliche Bestimmungen, Schadenersatz)
+
+2.2. Grundlagen der Hygiene und Immunologie
+
+2.3. Grundlagen der Infektionskunde – Entstehung von Krankheiten
+
+2.4. Grundlagen der Tierernährung – Anatomie, Physiologie
+
+2.5. Grundlagen der Tierhaltung von Hunden, Katzen und Frettchen
+
+**3. Modul 2 (Aufbaumodul) ist zusätzlich von all jenen zu absolvieren, die andere Heimtiere als Hunde, Katzen und Frettchen im Rahmen einer gewerblichen oder sonstigen wirtschaftlichen Tätigkeit halten. Modul 2 hat in jedem Fall folgende Gegenstände zu umfassen:**
+
+3.1. Besondere Haltungsvorschriften für Vögel,
+
+3.2. Besondere Haltungsvorschriften für Kleinsäuger,
+
+3.3. Besondere Haltungsvorschriften für Reptilien und
+
+3.4. Besondere Haltungsvorschriften für Fische
+
+**4. Der Lehrplan ist von der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz nach Anhörung der Wirtschaftskammer Österreichs und dem Tierschutzrat (§ 42 TSchG ) auszuarbeiten, in regelmäßigen Abständen auf seine Aktualität zu überprüfen und in den Amtlichen Veterinärnachrichten (AVN) zu verlautbaren.**

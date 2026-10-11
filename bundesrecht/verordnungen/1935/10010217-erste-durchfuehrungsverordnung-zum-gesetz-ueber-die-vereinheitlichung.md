@@ -29,17 +29,17 @@ Auf Grund des § 10 des Gesetzes über die Vereinheitlichung des Gesundheitswese
 
 ### Gemeinsame Vorschriften — Bezirk und Sitz der Gesundheitsämter
 
-#### § 1 – § 1
+#### § 1
 
 (1) In der Regel ist für jeden Stadt- und jeden Landkreis am Sitze der unteren Verwaltungsbehörde ein Gesundheitsamt einzurichten.
 
 (2) Ausnahmen bestimmt die oberste Landesbehörde im Einvernehmen mit dem Reichsminister des Innern.
 
-#### § 2 – § 2
+#### § 2
 
 \*(Anm.: Abs. 1 und 2 gegenstandslos)*
 
-#### § 3 – § 3
+#### § 3
 
 (1) In Stadtkreisen mit mehr als 400 000 Einwohnern können Bezirksstellen des Gesundheitsamts eingerichtet werden.
 
@@ -51,7 +51,7 @@ Auf Grund des § 10 des Gesetzes über die Vereinheitlichung des Gesundheitswese
 
 ## Aufgabengebiet der Gesundheitsämter
 
-#### § 4 – § 4
+#### § 4
 
 (1) Das Gesetz überträgt im § 3 Abs. 1 Nr. I den Gesundheitsämtern die ärztlichen Aufgaben auf den dort bezeichneten Gebieten. Den Gesundheitsämtern liegt danach nur die ärztliche Feststellung und die Begutachtung ob, wie etwaige gesundheitliche Gefahren oder Mißstände zu beheben oder sonst Maßnahmen zur Förderung der Volksgesundheit zu treffen sind. Die Durchführung der von ihnen vorgeschlagenen Maßnahmen verbleibt denjenigen Stellen, die bisher dazu verpflichtet waren oder sie freiwillig übernommen hatten. Danach ist insbesondere die wirtschaftliche Fürsorge keine Aufgabe der Gesundheitsämter. Diese haben aber die ärztlichen Maßnahmen bei der nachgehenden gesundheitlichen Fürsorge im Rahmen der Familienfürsorge durchzuführen. Darüber hinaus kann in einem kleinen Bezirk ein Kreis freiwillig und widerruflich mit Genehmigung der obersten Landesbehörde oder der von ihr bestimmten Behörde dem Gesundheitsamt auch die auf Grund ärztlicher Feststellung vorzuschlagenden Maßnahmen zur Durchführung im Wege wirtschaftlicher Fürsorge übertragen und ihm hierfür Haushaltsmittel zur Verfügung stellen.
 
@@ -81,41 +81,41 @@ Auf Grund des § 10 des Gesetzes über die Vereinheitlichung des Gesundheitswese
 
 > **Anmerkung:** vgl. § 1 R-ÜG 1945, StGBl. Nr. 6/1945
 
-#### § 5 – § 5
+#### § 5
 
 Zur Förderung der Körperpflege und Leibesübungen (§ 3 Abs. 1 Nr. II des Gesetzes) hat das Gesundheitsamt durch ärztlichen Rat mitzuwirken, wie gesundheitliche Schädigungen der dabei Beteiligten vermieden werden können; gegebenenfalls sind von ihm Veranstaltungen auf den bezeichneten Gebieten ärztlich zu überwachen.
 
-#### § 6 – § 6
+#### § 6
 
 In größeren Gesundheitsämtern kann die Bearbeitung einzelner Aufgabengebiete, z. B. die der ärztlichen Mitwirkung bei Maßnahmen zur Förderung der Körperpflege und Leibesübungen, besonders zusammengefaßt werden.
 
 > **Anmerkung:** vgl. § 1 R-ÜG 1945, StGBl. Nr. 6/1945
 
-#### § 7 – § 7
+#### § 7
 
 \*(Anm.: Abs. 1 und 2 gegenstandslos)*
 
-#### § 8 – § 8
+#### § 8
 
 Zu den Anstalten und Einrichtungen, die nach § 3 Abs. 3 des Gesetzes in der Verwaltung der bisherigen Träger verbleiben, gehören auch Medizinal- und bakteriologische Untersuchungsstellen sowie Lebensmitteluntersuchungsstellen.
 
-#### § 9 – § 9
+#### § 9
 
 Auf der durch § 3 des Gesetzes den Gesundheitsämtern übertragenen Gebieten haben sich kreisangehörige Gemeinden (Gemeindeverbände) jeder eigenen Tätigkeit zu enthalten.
 
-#### § 10 – § 10
+#### § 10
 
 Die Durchführung der nach § 3 des Gesetzes den Gesundheitsämtern obliegenden Aufgaben wird in der Dienstordnung (§ 2 des Gesetzes) näher geregelt.
 
 ## Besetzung der Gesundheitsämter mit Ärzten
 
-#### § 11 – § 11
+#### § 11
 
 (1) Beamtete Ärzte sind der Amtsarzt als Leiter des Gesundheitsamts und die neben ihm beim Gesundheitsamt als Beamte im Haupt- oder Nebenamt angestellten Ärzte.
 
 (2) Hilfsärzte sind die beim Gesundheitsamt auf Grund eines Dienstvertrages als voll oder teilweise beschäftigte Angestellte tätigen Ärzte.
 
-#### § 12 – § 12
+#### § 12
 
 (1) Der Amtsarzt ist als vollbesoldeter Beamter anzustellen.
 
@@ -131,13 +131,13 @@ Die Durchführung der nach § 3 des Gesetzes den Gesundheitsämtern obliegenden 
 
 (3) Ärzte, die bisher ein kommunales Gesundheitsamt geleitet haben und nicht dem Erfordernis der Nr. 3 genügen, können als Amtsarzt in den Staatsdienst übernommen werden (§ 5 Abs. 3 des Gesetzes), wenn sie sich mindestens fünf Jahre als leitender Arzt eines Gesundheitsamts bewährt haben. Darüber, ob diese Voraussetzung im Einzelfall vorliegt, entscheidet der Reichsminister des Innern.
 
-#### § 13 – § 13
+#### § 13
 
 (1) Die Vertretung des Amtsarztes ist durch einen Arzt zu sichern, der in der Regel beamteter Arzt sein muß.
 
 (2) Wird der Stellvertreter als beamteter Arzt angestellt, ohne daß er die staatsärztliche Prüfung abgelegt hat, so soll er diese innerhalb eines Jahres nach seiner Anstellung im Gesundheitsamt ablegen. Der Reichsminister des Innern kann während einer Übergangszeit von drei Jahren nach dem Inkrafttreten des Gesetzes Erleichterungen hinsichtlich einzelner Bedingungen der Prüfung gewähren.
 
-#### § 14 – § 14
+#### § 14
 
 (1) Inwieweit ein Gesundheitsamt neben dem Amtsarzt und seinem Stellvertreter mit beamteten Ärzten oder Hilfsärzten zu besetzen ist, richtet sich nach der Größe und der Bevölkerungszahl seines Bezirks. Auch die Hilfsärzte müssen deutsche Reichsangehörige sein. Falls beamtete Ärzte oder Hilfsärzte die staatsärztliche Prüfung ablegen, gilt § 13 Abs. 2 Satz 2 entsprechend.
 
@@ -145,13 +145,13 @@ Die Durchführung der nach § 3 des Gesetzes den Gesundheitsämtern obliegenden 
 
 ## Besetzung der Gesundheitsämter mit Hilfskräften
 
-#### § 15 – § 15
+#### § 15
 
 Art und Umfang der bei einem Gesundheitsamt anzustellenden Hilfskräfte (Gesundheitsaufseher, Gesundheitspflegerinnen, technische Assistentinnen, Schwestern und Helferinnen sowie Bürokräfte) richten sich jeweils nach dem Bedürfnis. Die bei Fürsorge- oder Beratungsstellen des Gesundheitsamts tätigen Gesundheitspflegerinnen können vom Gesundheitsamt dem Kreise zur Erledigung bestimmter Aufgaben, wie z. B. beim Wohlfahrts- oder Jugendamt, zur Verfügung gestellt werden.
 
 ## Ausstattung der Gesundheitsämter mit Räumen und Einrichtungsgegenständen
 
-#### § 16 – § 16
+#### § 16
 
 (1) Für jedes Gesundheitsamt sollen mindestens ein Dienstzimmer für den Amtsarzt, ein Warteraum und ein Zimmer für die Gesundheitspflegerin und die Schreibhilfe vorhanden sein.
 
@@ -161,7 +161,7 @@ Art und Umfang der bei einem Gesundheitsamt anzustellenden Hilfskräfte (Gesundh
 
 ## Zuschüsse zu den Kosten der Gesundheitsämter
 
-#### § 17 – § 17
+#### § 17
 
 (1) Die nach § 4 Absätze 1 und 2 des Gesetzes zu leistenden Zuschüsse setzt die Aufsichtsbehörde fest. Die Art der Einziehung der Zuschüsse bestimmt die oberste Landesbehörde.
 
@@ -169,7 +169,7 @@ Art und Umfang der bei einem Gesundheitsamt anzustellenden Hilfskräfte (Gesundh
 
 ## Gebühren der Gesundheitsämter
 
-#### § 18 – § 18
+#### § 18
 
 Die vom Gesundheitsamt erhobenen Gebühren (§ 7 des Gesetzes) sind Einnahmen des Kostenträgers des Gesundheitsamts.
 
@@ -177,7 +177,7 @@ Die vom Gesundheitsamt erhobenen Gebühren (§ 7 des Gesetzes) sind Einnahmen de
 
 ### Sondervorschriften — Staatliche Gesundheitsämter
 
-#### § 19 – § 19
+#### § 19
 
 (1) Die staatlichen Gesundheitsämter üben ihre Tätigkeit in Anlehnung an die untere Verwaltungsbehörde aus und haben ihre Aufgaben in steter Fühlungnahme und enger Zusammenarbeit mit dieser Behörde durchzuführen.
 
@@ -187,17 +187,17 @@ Die vom Gesundheitsamt erhobenen Gebühren (§ 7 des Gesetzes) sind Einnahmen de
 
 ## Kommunale Gesundheitsämter
 
-#### § 20 – § 20
+#### § 20
 
 (1) Einrichtungen eines Stadt- oder eines Landkreises können als Gesundheitsamt anerkannt werden (§ 4 Abs. 2 des Gesetzes), wenn sie schon bisher die ärztlichen Aufgaben auf den im § 3 Abs. 1 Nrn. I und II des Gesetzes angegebenen Gebieten allein oder im Zusammenwirken mit anderen Einrichtungen des Kreises erfüllt haben. Dabei ist es unerheblich, wenn ihre Tätigkeit auf einzelnen dieser Gebiete noch nicht voll ausgebaut war. Sie müssen jedoch für die Übernahme dieser Aufgaben nach ihrem Personalbestand und ihrer räumlichen und sonstigen Ausgestaltung geeignet und ihr Weiterbestehen muß finanziell gesichert sein. Die Kosten dieser Einrichtung sind im Haushalt in Einnahme und Ausgabe abgesondert zu behandeln.
 
 (2) Die Anerkennung und ihr Widerruf (§ 6 des Gesetzes) erfolgt nach Anhören der obersten Landesbehörde durch den Reichsminister des Innern.
 
-#### § 21 – § 21
+#### § 21
 
 Eine als Gesundheitsamt anerkannte kommunale Einrichtung erledigt die ihr obliegenden amtlichen Aufgaben als Auftragsangelegenheiten.
 
-#### § 22 – § 22
+#### § 22
 
 (1) Der staatliche Amtsarzt eines kommunalen Gesundheitsamts hat den auf die Durchführung der Aufgaben des Gesundheitsamts bezüglichen Weisungen des Leiters des Kreises Folge zu leisten. Er untersteht jedoch nicht dessen Dienststrafgewalt.
 
@@ -207,10 +207,10 @@ Eine als Gesundheitsamt anerkannte kommunale Einrichtung erledigt die ihr oblieg
 
 ### Übergangsvorschriften
 
-#### § 23 – § 23
+#### § 23
 
 Solange für die Gesundheitsämter keine Reichsgebührenordnung erlassen ist (§ 7 des Gesetzes), haben die Ämter für die Erfüllung der ihnen im § 3 des Gesetzes übertragenen Aufgaben Gebühren nach Gebührenordnungen des Landes oder der Kreise zu erheben. Das Nähere regelt die oberste Landesbehörde.
 
-#### § 24 – § 24
+#### § 24
 
 Macht der Übertritt eines Beamten in den Dienst des Landes oder eines Kreises einen Wechsel des Wohnsitzes notwendig, so ist der neue Dienstherr verpflichtet, Umzugskosten und Trennungsentschädigung (Wohnungsbeihilfe) wie für unmittelbare Staatsbeamte zu leisten.

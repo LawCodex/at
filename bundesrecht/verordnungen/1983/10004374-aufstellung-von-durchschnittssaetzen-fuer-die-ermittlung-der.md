@@ -853,6 +853,8 @@ b) die entrichtete Einfuhrumsatzsteuer für Einfuhren, die den unter lit. a beze
 
 ## Artikel II
 
-#### *(Anm.: aus BGBl. II Nr. 6/1997, zu den §§ 3 und 9, BGBl. Nr. 627/1983)*
+***(Anm.: aus BGBl. II Nr. 6/1997, zu den §§ 3 und 9, BGBl. Nr. 627/1983)***
+
+#### Art. 2
 
 Artikel I ist erstmals auf Vorsteuerbeträge anzuwenden, die in das Kalenderjahr 1997 fallen.

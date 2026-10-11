@@ -213,18 +213,26 @@ zu erwarten sind, sind diese in den Erläuterungen zur voraussichtlichen Entwick
 
 (2) Die Controllingverordnung, BGBl. II Nr. 16/2009, tritt mit Ablauf des 31. Dezember 2012 außer Kraft.
 
-## Controlling der Finanzierungsrechnung
+**Controlling der Finanzierungsrechnung**
+
+## Anl. 1
 
 \*(Anm.: Anlage 1 ist als PDF dokumentiert.)*
 
-## Controlling der Ergebnisrechnung
+**Controlling der Ergebnisrechnung**
+
+## Anl. 2
 
 \*(Anm.: Anlage 2 ist als PDF dokumentiert.)*
 
-## Stand der Verfügungen gemäß den §§ 73 bis 76 BHG 2013
+**Stand der Verfügungen gemäß den §§ 73 bis 76 BHG 2013**
+
+## Anl. 3
 
 \*(Anm.: Anlage 3 ist als PDF dokumentiert.)*
 
-## Abkürzungsverzeichnis
+**Abkürzungsverzeichnis**
+
+## Anl. 4
 
 \*(Anm.: Anlage 4 ist als PDF dokumentiert.)*

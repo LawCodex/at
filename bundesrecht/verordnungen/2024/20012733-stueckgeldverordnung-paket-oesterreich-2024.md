@@ -1,0 +1,46 @@
+---
+title: "Stückgeldverordnung Paket Österreich 2024"
+identifier: "20012733"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 313/2024"
+last_amended: 2025-01-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2024/313/P0/NOR40266287"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012733"
+retrieved: 2026-10-11
+documents: 3
+---
+
+# Stückgeldverordnung Paket Österreich 2024
+
+Verordnung des Vorsitzenden des Vorstandes der Österreichischen Post Aktiengesellschaft über die Festsetzung einer pauschalierten Erschwerniszulage im Paketzustelldienst für Bedienstete, die der Österreichischen Post Aktiengesellschaft oder einem Unternehmen, das durch Maßnahmen der Umgründung im Rahmen des bestehenden Gesellschaftsrechts aus dieser Gesellschaft hervorgegangen ist, zur Dienstleistung zugewiesen sind. (Stückgeldverordnung Paket Österreich 2024)
+
+StF: BGBl. II Nr. 313/2024
+
+## Präambel/Promulgationsklausel
+
+Auf Grundlage des § 19a Gehaltsgesetz 1956, BGBl. Nr. 54 in der Fassung BGBl. I Nr. 153/2020 in Verbindung mit § 15 Abs. 2 Gehaltsgesetz 1956, BGBl. Nr. 54 in der Fassung BGBl. I Nr. 153/2020 und des § 17 a Abs. 3 Poststrukturgesetz 1996, in der Fassung BGBl. I Nr. 210/2013, wird verordnet:
+
+## § 1
+
+§ 1. (1) Der mit der Zustellung von Paketen beschäftigte Mitarbeiter erhält als Abgeltung für die mit seinem Dienst verbundenen Erschwernisse ein Stückgeld.
+
+(2) Das Stückgeld beträgt:
+
+\**für** **jedes erfolgreich zugestellte Paket** **0,15 EUR,**
+
+das sind 0,00422 % des Gehaltes der Gehaltsstufe 2 der Dienstklasse V (Gehaltsansatz V/2 Österreichische Post AG)
+
+\**für** **jedes Paket mit erfolglosem Zustellversuch**
+
+gemäß den Bestimmungen der AGB **0,07 EUR,**
+
+das sind 0,00211 % des Gehaltes der Gehaltsstufe 2 der Dienstklasse V (Gehaltsansatz V/2 Österreichische Post AG)
+
+## § 2
+
+§ 2. (1) Diese Verordnung tritt mit 1. Jänner 2025 in Kraft und ersetzt die Verordnung BGBl. II Nr. 221/2012 vom 28. Juni 2012.

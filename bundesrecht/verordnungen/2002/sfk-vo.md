@@ -1,0 +1,38 @@
+---
+title: "Stmk. Fachausbildung der Sicherheitsfachkräfte"
+abbreviation: "SFK-VO"
+identifier: "20010989"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "LGBlStmk. Nr. 86/2002"
+date: 2002-07-08
+last_amended: 2020-01-01
+last_amendment: "BGBl. I Nr. 14/2019"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/lgblstmk/2002/86/P0/NOR40220947"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010989"
+retrieved: 2026-10-11
+documents: 1
+---
+
+# Stmk. Fachausbildung der Sicherheitsfachkräfte (SFK-VO)
+
+Verordnung der Steiermärkischen Landesregierung vom 8. Juli 2002 über die Fachausbildung der Sicherheitsfachkräfte (SFK-VO)
+
+StF: LGBlStmk. Nr. 86/2002
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 14/2019 (NR: GP XXVI RV 301 AB 463 S. 57. BR: AB 10104 S. 888.)  
+
+</details>
+
+> **Beachte:** Diese Rechtsvorschrift gilt in ihrer [Fassung vom 31. Dezember 2019](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrStmk&Gesetzesnummer=20000087&FassungVom=2019-12-31) für das Land Steiermark als Verordnung des Bundes, soweit sie „Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt“ (Art. 11 Abs. 1 Z 9 B-VG, BGBl. Nr. 1/1930, in der Fassung des Bundesgesetzes BGBl. I Nr. 14/2019) regelt; soweit diese Fassung (allenfalls) den Bestimmungen des Bundes-Verfassungsgesetzes betreffend die Zuständigkeit der Behörden widerspricht, gilt sie als „sinngemäß geändert“ (Art. 151 Abs. 63 Z 4 B-VG).
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 135 Abs. 2 und 142 der Steiermärkischen Landarbeitsordnung 2001, LGBl. Nr. 39/2002, wird verordnet:

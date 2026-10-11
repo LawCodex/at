@@ -1,0 +1,80 @@
+---
+title: "Psychologische Studentenberatung"
+identifier: "20001030"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 384/2000"
+last_amended: 2000-12-08
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2000/384/P0/NOR30001101"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001030"
+retrieved: 2026-10-11
+documents: 7
+---
+
+# Psychologische Studentenberatung
+
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über die Psychologische Studentenberatung
+
+StF: BGBl. II Nr. 384/2000
+
+## Präambel/Promulgationsklausel
+
+Gemäß § 68a Abs. 1 des Studienförderungsgesetzes 1992 – StudFG, BGBl. Nr. 305/1992, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 23/1999, wird verordnet:
+
+## § 1
+
+§ 1. (1) Die gemäß § 96 Abs. 1 des Universitätsorganisationsgesetzes, BGBl. Nr. 258/1975, mit Verordnung des Bundesministers für Wissenschaft und Forschung BGBl. Nr. 536/1990 eingerichteten Psychologischen Beratungsstellen für Studierende in Wien, Graz, Innsbruck, Salzburg, Linz und Klagenfurt werden gemäß § 68a Abs. 1 StudFG weitergeführt.
+
+(2) Die einzelnen Beratungsstellen führen die Bezeichnung „Psychologische Beratungsstelle für Studierende ...“ mit einem den jeweiligen Studienort kennzeichnenden Zusatz.
+
+## § 2
+
+§ 2. (1) Aufgaben und Ziele der Psychologischen Beratungsstellen für Studierende sind insbesondere:
+
+1\. Studieninteressenten und Studierende zu unterstützen, damit sie bei der Studienwahl, bei einem Studienwechsel oder bei einem beabsichtigten Studienabbruch möglichst fundierte Entscheidungen treffen können;
+
+2\. Studierende zu unterstützen, die Anforderungen des Studiums im Leistungsbereich, im persönlichen und sozialen Bereich zu Bewältigen sowie in diesem Zusammenhang auftretende persönliche, arbeitsmäßige und psychische Probleme zu lösen;
+
+3\. die Förderung der Leistungsfähigkeit und Persönlichkeitsentwicklung
+
+von Studierenden mit psychologischen Mitteln;
+
+4\. die Vorbeugung von Studienproblemen.
+
+(2) Die Aufgaben werden insbesondere durch folgende Maßnahmen umgesetzt:
+
+1\. psychologische Beratung, Diagnostik und Trainings;
+
+2\. psychologische Behandlung und Psychotherapie;
+
+3\. informative Beratung und präventive Maßnahmen;
+
+4\. Kooperation mit Bildungs- und Betreuungseinrichtungen;
+
+5\. wissenschaftliche Untersuchungen, Projekte und Veröffentlichungen in den angeführten Bereichen.
+
+## § 3
+
+§ 3. (1) Die Psychologischen Beratungsstellen für Studierende unterstehen unmittelbar dem Bundesminister für Bildung, Wissenschaft und Kultur.
+
+(2) Die Leiterinnen bzw. Leiter der Psychologischen Beratungsstellen für Studierende müssen ein Studium der Studienrichtung Psychologie gemäß § 1 des Psychologengesetzes, BGBl. Nr. 360/1990 sowie eine Zusatzausbildung als klinische Psychologin bzw. klinischer Psychologe gemäß dem Psychologengesetz, BGBl. Nr. 360/1990, und eine Psychotherapieausbildung gemäß Psychotherapiegesetz, BGBl. Nr. 361/1990, abgeschlossen haben.
+
+(3) Die Psychologischen Beratungsstellen für Studierende können nach fachlichen und organisatorischen Gesichtspunkten in Abteilungen gegliedert werden.
+
+## § 4
+
+§ 4. (1) Die Psychologischen Beratungsstellen für Studierende haben bei der Durchführung ihrer Aufgaben mit den zuständigen Organen der Universitäten und Fachhochschulen, der Österreichischen Hochschülerschaft und den Hochschülerschaften an den Universitäten sowie mit anderen Beratungs- und Informationseinrichtungen für Studierende, Studieninteressenten und Absolventen sowie mit psychosozialen Einrichtungen und niedergelassenen Psychologinnen bzw. Psychologen und Psychotherapeutinnen bzw. Psychotherapeuten zusammenzuarbeiten.
+
+(2) Die Leiterinnen bzw. die Leiter der Psychologischen Beratungsstellen für Studierende haben den Universitäten, den Hochschülerschaften und den Fachhochschulen in ihrem Einzugsbereich jährlich über Art, Umfang und Wirkung der Tätigkeit im letzten Studienjahr zu berichten und dabei auch die entsprechenden Maßnahmen zur Qualitätssicherung darzustellen. Dem Bundesminister für Bildung, Wissenschaft und Kultur ist zusätzlich jährlich über die Verteilung der Arbeitskapazität auf die einzelnen Aufgabenbereiche und über die Maßnahmen zur kostengünstigen Durchführung der Aufgaben zu berichten.
+
+## § 5
+
+§ 5. Die bisherigen Leiterinnen bzw. Leiter der Psychologischen Studentenberatungsstellen in Wien, Graz, Innsbruck, Salzburg, Linz und Klagenfurt bleiben als Leiterinnen bzw. Leiter der entsprechenden Psychologischen Beratungsstellen für Studierende im Amt.
+
+## § 6
+
+§ 6. Mit Inkrafttreten dieser Verordnung tritt die Verordnung des Bundesministers für Wissenschaft und Forschung über die Einrichtung Psychologischer Beratungsstellen für Studierende BGBl. Nr. 536/1990 außer Kraft.

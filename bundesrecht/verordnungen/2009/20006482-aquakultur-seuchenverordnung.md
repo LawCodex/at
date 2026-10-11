@@ -864,7 +864,9 @@ Weiters hat die Bezirksverwaltungsbehörde durch den Amtstierarzt oder andere ge
 </tr>
 </table>
 
-#### Gesundheitsstatus
+**Gesundheitsstatus**
+
+#### Anl. 2
 
 **Kategorie I:**
 
@@ -898,7 +900,9 @@ Im Betrieb ist eine Infektion bekannt. Er fällt unter die im 4. Hauptstück vor
 
 \* sofern nicht Sperrmaßnahmen auf Grund des 4. Hauptstückes dieser Verordnung entgegenstehen
 
-#### Behördliche Kontroll- und Überwachungsmaßnahmen
+**Behördliche Kontroll- und Überwachungsmaßnahmen**
+
+#### Anl. 3
 
 <table>
 <tr>
@@ -1049,7 +1053,9 @@ c) Untersuchung der Tierpopulation in der Aquakulturanlange auf klinische Krankh
 
 d) Entnahme von Proben bei unklaren Symptomen oder bei Feststellung erhöhter Mortalität im Rahmen einer Kontrolle zu Diagnosezwecken und Durchführung von Abklärungs- und Ausschlussuntersuchungen auf das Vorliegen einer im **Anhang 1** genannten Krankheit.
 
-#### Eigenkontrollmaßnahmen
+**Eigenkontrollmaßnahmen**
+
+#### Anl. 4
 
 Ziel der Eigenkontrollen durch mit der Gesundheit von Wassertieren befasste Betreuungstierärzte ist die Überprüfung des Gesundheitsstatus der Tiere, die Beratung des Aquakulturbetreibers in Fragen der Wassertiergesundheit und gegebenenfalls die Durchführung der erforderlichen Veterinärmaßnahmen.
 
@@ -1182,7 +1188,9 @@ d) Untersuchung der Tierpopulation in der Aquakulturanlange auf klinische Krankh
 
 e) Entnahme von Proben zu Diagnosezwecken und Durchführung von Abklärungs-und Ausschlussuntersuchungen bei unklaren Symptomen oder bei Feststellung erhöhter Mortalität im Rahmen einer Kontrolle.
 
-#### Zugelassene Laboratorien
+**Zugelassene Laboratorien**
+
+#### Anl. 5
 
 1\. Klinik für Geflügel, Ziervögel, Reptilien und Fische der Veterinärmedizinischen Universität Wien (Nationales Referenzlabor für Fischkrankheiten)
 
@@ -1190,7 +1198,9 @@ e) Entnahme von Proben zu Diagnosezwecken und Durchführung von Abklärungs-und 
 
 3\. Landesanstalt für vet.med. Untersuchungen Kärnten im Institut für Lebensmittelsicherheit und Veterinärwesen –ILV-Kärnten (Nationales Referenzlabor für Krankheiten der Krebse)
 
-#### Seuchenfreiheitsstatus in Österreich
+**Seuchenfreiheitsstatus in Österreich**
+
+#### Anl. 6
 
 **1. Gebiete (Zonen, Kompartimente) in denen ein Überwachungsprogramm oder ein Tilgungsprogramm durchgeführt wird:**
 
@@ -1233,6 +1243,8 @@ d) Entnahme von Proben von Tieren der Aquakultur und Untersuchung dieser Proben 
 
 e) Meldung der Kontrollergebnisse an die Behörde.
 
-#### Probeziehung zur Seuchenermittlung
+**Probeziehung zur Seuchenermittlung**
+
+#### Anl. 7
 
 Entnahme von Proben von Tieren der Aquakultur und Untersuchung dieser Proben auf das Vorliegen des spezifischen Krankheitserregers gemäß den vom Bundesminister für Gesundheit in den Amtlichen Veterinärnachrichten veröffentlichten Kriterien.

@@ -2662,7 +2662,9 @@ Andere Methoden dürfen angewendet werden, wenn sie zu zumindest gleichwertigen 
 
 ### (zu § 57) — Anforderungen an den Ortsbefund für wasserhygienische Gutachten gemäß § 14 Abs. 2 ff BHygG über die Beschaffenheit des Wassers von Warmsprudelwannen
 
-#### (gemäß Bäderhygieneverordnung 2012 – BHygV 2012, BGBl. II Nr. 321/2012)
+**(gemäß Bäderhygieneverordnung 2012 – BHygV 2012, BGBl. II Nr. 321/2012)**
+
+#### Anl. 9
 
 | Auftraggeber: |  |
 |---|---|

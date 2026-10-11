@@ -26,14 +26,14 @@ StF: BGBl. Nr. 276/1963
 
 Auf Grund des § 9 der Notariatsordnung vom 25. Juli 1871, RGBl. Nr. 75, wird verordnet:
 
-## § 1 – § 1.
+## § 1
 
 Im Sprengel des Landesgerichtes Innsbruck wird eine weitere Notarstelle mit dem Amtssitz in Innsbruck errichtet.
 
-## § 2 – § 2.
+## § 2
 
 Im Sprengel des Landesgerichtes Feldkirch wird eine weitere Notarstelle mit dem Amtssitz in Feldkirch errichtet.
 
-## § 3 – § 3.
+## § 3
 
 Diese Verordnung tritt mit 1. Juli 1964 in Kraft.

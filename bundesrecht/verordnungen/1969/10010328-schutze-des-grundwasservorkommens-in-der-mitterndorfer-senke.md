@@ -1,0 +1,77 @@
+---
+title: "Schutze des Grundwasservorkommens in der Mitterndorfer Senke"
+identifier: "10010328"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 126/1969"
+date: 1969-04-11
+last_amended: 2000-06-17
+last_amendment: "BGBl. II Nr. 167/2000"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1969/126/P0/NOR11010547"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010328"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Schutze des Grundwasservorkommens in der Mitterndorfer Senke
+
+Verordnung des Bundesministers für Land- und Forstwirtschaft vom 11. April 1969 zum Schutze des Grundwasservorkommens in der Mitterndorfer Senke
+
+StF: BGBl. Nr. 126/1969
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 167/2000  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 34, 35 und 54 des Wasserrechtsgesetzes 1959, BGBl. Nr. 215, wird verordnet:
+
+## § 1
+
+§ 1. Das Grundwasservorkommen des im § 6 umschriebenen Gebietes (Grundwasserschongebiet) wird – unbeschadet bestehender Rechte – vorzugsweise der Trinkwasserversorgung und der örtlichen Feldbewässerung, soweit diese nicht mit gleichem Aufwand aus einem Oberflächengewässer erfolgen kann, gewidmet.
+
+## § 2
+
+§ 2. Im Grundwasserschongebiet bedürfen nachstehende Maßnahmen vor ihrer Durchführung einer Bewilligung der Wasserrechtsbehörde:
+
+a) Die Lagerung und Leitung von flüssigen Brenn- und Treibstoffen einschließlich der Errichtung und Erweiterung von Tankstellen und Ölfeuerungsanlagen; ausgenommen von der Bewilligungspflicht ist die Lagerung von Treibstoffen bis 800 l in höchstens 200 l fassenden verschließbaren Stahlfässern oder Kanistern, wenn die Lagerung so erfolgt, daß bei Ausfließen des Treibstoffes ein Einsickern in den Boden ausgeschlossen ist; weiters ist die Aufbewahrung und Verwendung der eingangs bezeichneten Stoffe in kleineren Mengen zur Deckung des laufenden Bedarfes von der Bewilligungspflicht ausgenommen, wenn hiebei die zur Reinhaltung des Grundwassers entsprechende Sorgfalt angewendet wird;
+
+b) die Ablagerung von Müll und anderen für das Grundwasser schädlichen Stoffen, ausgenommen die übliche land- und forstwirtschaftliche Bodennutzung (§ 32 Abs. 1 WRG.);
+
+c) die Aufnahme und Erweiterung des Betriebes von Sand-, Schotter-, Kies- und Lehmgruben;
+
+d) die Lagerung, Verwendung und Beförderung von radioaktiven Stoffen;
+
+e) die Errichtung, Erweiterung oder wesentliche Änderung von Anlagen, bei deren Betrieb chemisch oder biologisch schwer abbaubare Stoffe in einer Art und in einem Ausmaß anfallen, welche die Beschaffenheit des Grundwassers gefährden.
+
+## § 3
+
+§ 3. Auf dem militärischen Zwecken dauernd dienenden Gelände im Grundwasserschongebiet tritt bei den in § 2 genannten Maßnahmen an die Stelle der Bewilligungspflicht die Anzeigepflicht.
+
+## § 4
+
+§ 4. Für die Handhabung der Bestimmungen der §§ 9, 10, 28 bis 35, 38 und 112 des Wasserrechtsgesetzes 1959 im Grundwasserschongebiet ist der Vorrang der Trinkwasserversorgung und der örtlichen Feldbewässerung maßgebend. Vor der Bewilligung von Wasserentnahmen ist der Bedarf zu prüfen und Vorsorge zu treffen, daß die Auswirkungen der Wasserentnahme in unschädlichen Grenzen gehalten oder abgegolten werden. In allen Verfahren ist die Vermeidung von Wasserverschwendungen, der Schutz der Gewässer von Verunreinigung und die Sanierung unzulänglicher Abwasser- und Abfallbeseitigungen anzustreben.
+
+## § 5
+
+§ 5. Das Ausfließen von chemisch oder biologisch nicht oder nur schwer abbaubaren Stoffen, wie insbesondere von Mineralölen, Pflanzenschutzmitteln u. dgl., innerhalb des Grundwasserschongebietes ist unverzüglich vom Verursacher sowie vom Eigentümer, Besitzer oder Nutznießer des betroffenen Grundstückes der Wasserrechtsbehörde (Gewässeraufsicht) anzuzeigen. Darunter fällt jedenfalls das Auslaufen eines 200 l und mehr fassenden Treibstoffbehälters oder eines Behälters mit unverdünnten Pflanzenschutzmitteln.
+
+## § 6
+
+§ 6. (1) Die Grenzen dieses Grundwasserschongebietes verlaufen von der Eisenbahnbrücke nördlich Sollenau über den Wiener Neustädter Kanal den Kanal entlang in Richtung Wiener Neustadt bis zur Kote 263, dann längs des Weges und der Straße nach Lichtenwörth bis zur Warmen Fischa, dieser flußabwärts folgend bis Eggendorf, durch den Verbindungskanal zwischen Warmer Fischa und Leitha knapp unterhalb der Brücke in Untereggendorf, dann der Leitha entlang flußabwärts bis zur Überspannung durch die 110-kV-Leitung Ternitz-Ebenfurht, dieser Hochspannungsleitung folgend über die Masten Nr. 137 und 138 und der in derselben Richtung anschließenden 110-kV-Leitung Ebenfuhrth-Wien über die Maste Nr. 5, 6 und 7 bis zur Eisenbahn, der Eisenbahnlinie über Pottendorf entlang bis zur Bahnbrücke über den Reisenbach (Kote 209), dann diesen entlang bis zur Gemeindegrenze Götzendorf-Margarethen am Moos, entlang dieser Gemeindegrenze und dem ihr folgenden Feldweg bis zur Landesstraße 2061 in Wienerherberg, dieser Straße in westlicher Richtung folgend bis zur Landeshauptstraße 156 Schwadorf-Traiskirchen, entlang dieser Landeshauptstraße über Ebergassing, Moosbrunn und Trumau bis zur Eisenbahnstrecke Traiskirchen-Sollenau und schließlich diese Bahntrasse entlang bis zur Eisenbahnbrücke an der Kreuzung mit dem Wiener Neustädter Kanal nördlich Sollenau.
+
+(2) Soweit die angeführten Grenzen entlang von Straßen- und Eisenbahnlinien führen, bleiben Bahn- und Straßengrund außerhalb des Grundwasserschongebietes, während Grenzen entlang von Gewässern diese in das Grundwasserschongebiet einbeziehen.
+
+(3) Die Grenzen dieses Grundwasserschongebietes sind in der Anlage dieser Verordnung festgehalten.
+
+## § 7
+
+§ 7. Das Interesse des Wasserverbandes „Südliches Wiener Becken“ am Schutz des Grundwasservorkommens im Widmungs- und Schongebiet wird gemäß § 54 Abs. 2 lit. e WRG 1959 als rechtliches Interesse anerkannt.

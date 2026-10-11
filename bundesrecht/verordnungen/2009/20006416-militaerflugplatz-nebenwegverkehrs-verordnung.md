@@ -1,0 +1,76 @@
+---
+title: "Militärflugplatz-Nebenwegverkehrs-Verordnung"
+identifier: "20006416"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 254/2009"
+last_amended: 2021-01-01
+last_amendment: "BGBl. II Nr. 579/2020"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2009/254/P0/NOR40108999"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006416"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Militärflugplatz-Nebenwegverkehrs-Verordnung
+
+Verordnung des Bundesministers für Finanzen zur Durchführung des Nebenwegverkehrs auf Militärflugplätzen (Militärflugplatz-Nebenwegverkehrs-Verordnung)
+
+StF: BGBl. II Nr. 254/2009
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 579/2020  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Aufgrund § 21 Abs. 1 lit. d Zollrechts-Durchführungsgesetz (ZollR-DG), BGBl. Nr. 659/1994, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 52/2009, wird verordnet:
+
+## § 1
+
+§ 1. (1) Die örtlich zuständige Militärflugleitung hat die Landung des aus einem Drittstaat einfliegenden und den Abflug des nach einem Drittstaat abfliegenden Luftfahrzeuges im Sinne von § 31 Abs. 1 Z 3 ZollR-DG jeweils 90 Minuten vorher dem Zollamt Österreich zu melden. Die Meldung hat folgende Mindestangaben zu enthalten:
+
+\- Daten des Flugzeuges (Kennzeichen und Type)
+
+\- Flugplatz im Herkunfts- oder Bestimmungsland
+
+\- Abflug-/Landungszeit
+
+\- Name und Staatsangehörigkeit des Piloten
+
+\- Passagierdaten (Anzahl, Namen und Staatsangehörigkeit)
+
+Sämtliche Änderungen wie der Ausfall des Fluges oder auch allfällige zeitliche Verschiebungen sind unverzüglich zu melden.
+
+(2) Sollte im Falle einer Landung keine rechtzeitige Meldung erfolgt sein, dürfen frühestens 90 Minuten nach dem Zeitpunkt der später erfolgten Meldung die Reisenden den Militärflugplatz verlassen und die mitgeführten Waren sowie das benutzte Luftfahrzeug vom Flugfeld weggebracht werden. Im Falle eines Starts hat die Meldung spätestens 90 Minuten vorher zu erfolgen. Ein Start vor Ablauf dieser Zeit ist nicht gestattet.
+
+(3) Wenn sich zum angegebenen Zeitpunkt der Landung oder des Starts ein Organ der Zollbehörde am Flugplatz zu einer Kontrolle nicht einfindet, ist die örtlich zuständige Militärflugleitung befugt, den Flug ohne Zollkontrolle abzufertigen.
+
+(4) Als Drittstaat gilt ein Staat, der nicht der Europäischen Union angehört.
+
+## § 2
+
+§ 2. (1) Der zuständige Kasernkommandant ist verpflichtet, den Zollbeamten die Kontrolle ohne hohen personellen und administrativen Aufwand sowie ohne Verursachung zusätzlicher Kosten zu ermöglichen. Den Erfordernissen der militärischen Sicherheit ist dabei Rechnung zu tragen.
+
+(2) Kontrollen der Zollbehörde können auch außerhalb einer angemeldeten Drittlandsflugbewegung durchgeführt werden. Im Zuge dieser Kontrollen kann in die bei der örtlich zuständigen Militärflugleitung zu führenden Aufzeichnungen Einsicht genommen werden.
+
+(3) Die zollrechtlichen Vorgaben bei den Abläufen sind einzuhalten, und es sind keine unbefugten Drittlandsflüge von oder zu den Militärflugplätzen durchzuführen.
+
+(4) Über Flüge aus und in Drittstaaten sind Aufzeichnungen zu führen, welche den Zollbehörden auf Verlangen vorzulegen sind.
+
+## § 3
+
+§ 3. Folgende Militärflugplätze in Österreich fallen unter diese Verordnung und befinden sich im Zuständigkeitsbereich des Zollamtes Österreich: Tulln-Langenlebarn, Wiener Neustadt West, Linz (Hörsching), Zeltweg und Aigen.
+
+## § 4
+
+§ 4. (1) Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft.
+
+(2) § 1 Abs. 1 und § 3, jeweils in der Fassung der Verordnung BGBl. II Nr. 579/2020, treten mit 1. Jänner 2021 in Kraft.

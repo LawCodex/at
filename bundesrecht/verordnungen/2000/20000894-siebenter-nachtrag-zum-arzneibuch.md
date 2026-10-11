@@ -1,0 +1,42 @@
+---
+title: "Siebenter Nachtrag zum Arzneibuch"
+identifier: "20000894"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 298/2000"
+last_amended: 2000-09-15
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2000/298/P0/NOR30000959"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000894"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Siebenter Nachtrag zum Arzneibuch
+
+Verordnung der Bundesministerin für soziale Sicherheit und Generationen über den siebenten Nachtrag zum Arzneibuch
+
+StF: BGBl. II Nr. 298/2000
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 2 des Arzneibuchgesetzes, BGBl. Nr. 195/1980, zuletzt geändert durch BGBl. I Nr. 16/2000, wird verordnet:
+
+## § 1
+
+§ 1. Die deutschsprachige Fassung des Nachtrages 2000 zum Europäischen Arzneibuch, dritte Ausgabe 1997, Amtliche österreichische Ausgabe, wird in Kraft gesetzt.
+
+## § 2
+
+§ 2. Die Monographien und Texte des Europäischen Arzneibuches, dritte Ausgabe 1997 und dessen Nachtrages 1999 sowie die Monographien und Texte des Österreichischen Arzneibuches, die jeweils durch Vorschriften des Nachtrages 2000 zum Europäischen Arzneibuch ersetzt werden, werden außer Kraft gesetzt.
+
+## § 3
+
+§ 3. Unbeschadet des § 2 werden im Österreichischen Arzneibuch zusätzlich die Monographien „Chlorjodhydroxychinolinum“ und „Oleum ad injectionem“ außer Kraft gesetzt.
+
+## § 4
+
+§ 4. Der Nachtrag wird bei der Print Media Austria AG verlegt.

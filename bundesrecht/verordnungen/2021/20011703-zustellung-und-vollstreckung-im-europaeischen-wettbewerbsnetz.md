@@ -1,0 +1,96 @@
+---
+title: "Zustellung und Vollstreckung im Europäischen Wettbewerbsnetz"
+identifier: "20011703"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 486/2021"
+last_amended: 2021-11-25
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2021/486/P0/NOR40239071"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011703"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Zustellung und Vollstreckung im Europäischen Wettbewerbsnetz
+
+Verordnung der Bundesministerin für Digitalisierung und Wirtschaftsstandort über die Zustellung und Vollstreckung im Europäischen Wettbewerbsnetz
+
+StF: BGBl. II Nr. 486/2021
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 14a Abs. 5 des Wettbewerbsgesetzes – WettbG, BGBl. I Nr. 62/2002, zuletzt geändert durch das Bundesgesetzblatt BGBl. I Nr. 176/2021, wird nach Anhörung der Bundeswettbewerbsbehörde verordnet:
+
+## § 1 – Geltungsbereich
+
+§ 1. Diese Verordnung gilt für Zustell- und Vollstreckungsersuchen einer nationalen Wettbewerbsbehörde im Europäischen Wettbewerbsnetz nach § 14a des Wettbewerbsgesetzes – WettbG, BGBl. I Nr. 62/2002.
+
+## § 2 – Verfahren bei Zustellersuchen aus dem Europäischen Wettbewerbsnetz
+
+§ 2. (1) Die Bundeswettbewerbsbehörde ist die im Inland zuständige Behörde für die Veranlassung der Zustellung der in Vollziehung des § 14a Abs. 1 Z 1 bis 3 WettbG zu übermittelnden Schriftstücke.
+
+(2) Einem Zustellersuchen ist ein einheitlicher Titel in deutscher Sprache, sofern zwischen der ersuchenden Wettbewerbsbehörde und der Bundeswettbewerbsbehörde im Einzelfall keine andere Sprache vereinbart wurde, und eine Kopie des zuzustellenden Schriftstückes anzuschließen. Der einheitliche Titel hat folgende Angaben zu enthalten:
+
+1\. Name und Anschrift des Empfängers sowie sonstige für die Identifizierung dieser Person erforderliche Angaben,
+
+2\. eine Zusammenfassung der einschlägigen Fakten und Umstände,
+
+3\. eine Zusammenfassung des zuzustellenden Dokuments,
+
+4\. Name, Anschrift und andere Kontaktangaben der ersuchten Behörde und
+
+5\. den Zeitraum, in dem die Zustellung erfolgen soll, beispielsweise aufgrund von gesetzlichen Fristen oder Verjährungsfristen.
+
+(3) Stimmt der Empfänger des gemäß Abs. 1 zuzustellenden Schriftstücks dessen Zustellung nach § 12 Abs. 2 des Zustellgesetzes – ZustG, BGBl. Nr. 200/1982, nicht zu, weil es sich um ein fremdsprachiges Dokument handelt, hat die Bundeswettbewerbsbehörde die ersuchende Wettbewerbsbehörde aufzufordern, dem Zustellersuchen binnen angemessener Frist eine deutschsprachige Übersetzung des zuzustellenden Schriftstücks anzuschließen und darauf hinzuweisen, dass bei fruchtlosem Ablauf der Frist dem Zustellersuchen nicht entsprochen werden kann.
+
+(4) Sind einem Zustellersuchen nicht die erforderlichen Beilagen angeschlossen oder enthält der einheitliche Titel nicht die erforderlichen Angaben, so hat die Bundeswettbewerbsbehörde die ersuchende Wettbewerbsbehörde aufzufordern, binnen einer angemessenen Frist Ergänzungen vorzunehmen, und darauf hinzuweisen, dass bei fruchtlosem Ablauf der Frist dem Zustellersuchen nicht entsprochen werden kann.
+
+(5) Wenn die Zustellung nach Abs. 1 der öffentlichen Ordnung offensichtlich widerspricht, hat die Bundeswettbewerbsbehörde das Zustellersuchen nach Einholung einer Stellungnahme der ersuchenden Wettbewerbsbehörde ebenfalls abzulehnen. Ein Zustellersuchen ist überdies abzulehnen, wenn es nicht die Zustellung eines Schriftstücks nach Abs. 1 betrifft oder nicht von einer Wettbewerbsbehörde gestellt wird. Ansonsten lässt die Bundeswettbewerbsbehörde die Schriftstücke unverzüglich zustellen.
+
+(6) Streitigkeiten über die Rechtmäßigkeit eines gemäß Abs. 1 zuzustellenden Schriftstückes und des einheitlichen Titels nach Abs. 2 sind bei der zuständigen Behörde des Staates der ersuchenden Wettbewerbsbehörde nach dessen Recht geltend zu machen.
+
+## § 3 – Verfahren bei Zustellersuchen im Ausland
+
+§ 3. (1) Ein Zustellersuchen, welches die Bundeswettbewerbsbehörde an andere nationale Behörden eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Europäischen Wirtschaftsraums stellt, muss den Vorgaben in § 2 Abs. 2 entsprechen und in der oder einer der Amtssprachen des Staates der ersuchten Behörde übermittelt werden, wenn dies nach dessen Recht vorgesehen ist und sofern zwischen der ersuchten Behörde und der Bundeswettbewerbsbehörde im Einzelfall keine andere Sprache vereinbart wurde.
+
+(2) Dem Zustellersuchen ist überdies eine Übersetzung des zuzustellenden Schriftstücks anzuschließen, wenn dies nach dem Recht des Staates der ersuchten Behörde vorgesehen ist.
+
+(3) Bei Streitigkeiten über die Wirksamkeit einer Zustellung kann die Bundeswettbewerbsbehörde die ersuchte Behörde um Feststellung ersuchen, ob die für den Zustellvorgang maßgeblichen Zustellvorschriften des Rechtes des Staates der ersuchten Behörde eingehalten wurden. Als Zustellnachweis genügt die Verständigung der ersuchten Behörde über die erfolgte Zustellung.
+
+## § 4 – Verfahren bei Vollstreckungsersuchen im Ausland
+
+§ 4. (1) Einem Vollstreckungsersuchen, welches die Bundeswettbewerbsbehörde an andere nationale Behörden eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Europäischen Wirtschaftsraums stellt, ist ein einheitlicher Titel und eine Kopie der zu vollstreckenden Entscheidung anzuschließen. Der einheitliche Titel hat neben den in § 2 Abs. 2 Z 1 bis 5 sinngemäß genannten Angaben folgende weitere Angaben zu enthalten:
+
+1\. das Datum der Rechtskraft und das Datum der Vollstreckbarkeit der Entscheidung,
+
+2\. Angaben über die Schritte zur Einbringung der Geldstrafe nach § 11a Abs. 5 WettbG oder des Zwangsgelds nach § 11a Abs. 4 WettbG oder zur Aussichtslosigkeit solcher Schritte und
+
+3\. den Betrag und die Währung der Geldstrafe nach § 11a Abs. 5 WettbG oder des Zwangsgelds nach § 11a Abs. 4 WettbG.
+
+(2) Der einheitliche Titel ist in der oder einer der Amtssprachen des Staates der ersuchten Behörde zu übermitteln, wenn dies nach dessen Recht vorgesehen ist und sofern zwischen der ersuchten Behörde und der Bundeswettbewerbsbehörde im Einzelfall keine andere Sprache vereinbart wurde. Überdies ist eine Übersetzung der zu vollstreckenden Entscheidung zu übermitteln, wenn dies nach dem Recht des Staates der ersuchten Behörde vorgesehen ist.
+
+(3) Die Bundeswettbewerbsbehörde hat die ersuchte Behörde unverzüglich davon in Kenntnis zu setzen, wenn
+
+1\. der Unternehmer oder die Unternehmervereinigung die Geldstrafe oder das Zwangsgeld ganz oder teilweise gezahlt hat,
+
+2\. die Entscheidung über die Geldstrafe oder das Zwangsgeld oder ihre Vollstreckbarkeit aufgehoben, abgeändert oder herabgesetzt wurde oder
+
+3\. die Vollstreckung aus anderen Gründen nicht mehr begehrt wird.
+
+(4) Bei Streitigkeiten über von der ersuchten Behörde getroffene Vollstreckungsmaßnahmen kann die Bundeswettbewerbsbehörde die ersuchte Behörde um Feststellung ersuchen, ob die für die Vollstreckung maßgeblichen Vollstreckungsvorschriften des Rechtes des Staates der ersuchten Behörde eingehalten wurden.
+
+## § 5 – Personenbezogene Bezeichnungen
+
+§ 5. Personenbezogene Bezeichnungen in dieser Verordnung beziehen sich auf alle Geschlechtsformen in gleicher Weise.
+
+## § 6 – Verweisungen
+
+§ 6. Soweit in dieser Verordnung auf Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden.
+
+## § 7 – Inkrafttreten
+
+§ 7. Diese Verordnung in der Fassung des Bundesgesetzblattes BGBl. II Nr. 486/2021 tritt mit dem der Kundmachung folgenden Tag in Kraft.

@@ -1,0 +1,95 @@
+---
+title: "PT-Personalverrechnungs- und Pensionsdatenübermittlungsverordnung"
+abbreviation: "PT-PVPDÜV"
+identifier: "20007191"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 63/2011"
+last_amended: 2011-02-23
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2011/63/P0/NOR40127460"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007191"
+retrieved: 2026-10-11
+documents: 3
+---
+
+# PT-Personalverrechnungs- und Pensionsdatenübermittlungsverordnung (PT-PVPDÜV)
+
+Verordnung der Bundesministerin bzw. des Bundesministers für Finanzen betreffend die von Unternehmen nach dem Poststrukturgesetz an die Bundesministerin bzw. den Bundesminister für Finanzen zu übermittelnden Daten (PT-Personalverrechnungs- und Pensionsdatenübermittlungsverordnung – PT-PVPDÜV)
+
+StF: BGBl. II Nr. 63/2011
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 17 Abs. 7b Z 3 des Poststrukturgesetzes, BGBl. I Nr. 201/1996, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 52/2009, wird verordnet:
+
+## § 1 – Auszuwertende Daten
+
+§ 1. (1) Die Unternehmen gemäß § 17 Abs. 1a des Poststrukturgesetzes (PTSG) haben die in § 17 Abs. 7b Z 1 PTSG angeführten Unterlagen (Daten) über die bei diesen Unternehmen beschäftigten Bundesbeamtinnen und Bundesbeamten der Bundesministerin bzw. dem Bundesminister für Finanzen spätestens bis zum sechsten Arbeitstag vor Ablauf eines jeden Monats zur Verfügung zu stellen. Die zu übermittelnden Auswertungen bzw. Daten sind dabei in folgender Aufgliederung zur Verfügung zu stellen:
+
+1\. Personalausgaben für aktive Bundesbeamtinnen und Bundesbeamte jeweils für den Folgemonat,
+
+2\. Personalausgaben für aktive Bundesbeamtinnen und Bundesbeamte im Karenzurlaub vor Ruhestandsversetzung gemäß § 25 Abs. 5 des Bundesbediensteten-Sozialplangesetzes, BGBl. I Nr. 138/1997 in der jeweils geltenden Fassung, jeweils für den Folgemonat, und
+
+3\. Überweisungsbeträge gemäß § 311 des Allgemeinen Sozialversicherungsgesetzes (ASVG), BGBl. Nr. 189/1955 in der jeweils geltenden Fassung, jeweils für den laufenden Monat.
+
+(2) Die in Abs. 1 genannten Unternehmen haben der Bundesministerin bzw. dem Bundesminister für Finanzen weiters bis zum fünften Arbeitstag eines jeden Monats einen Monatsvoranschlag - bezogen auf den jeweils darauf folgenden Monat - betreffend die in § 17 Abs. 7b PTSG, BGBl. I Nr. 201/1996 in der jeweils geltenden Fassung, genannten Daten zur Verfügung zu stellen.
+
+(3) Die gemäß Abs. 1 und 2 auszuwertenden Daten sind auf Basis der Darstellungsgrundsätze des Bundesvoranschlages nach folgenden Kriterien aufzugliedern:
+
+\- Finanzpositionen (Voranschlags-Ansätze, Voranschlags-Posten),
+
+\- Voranschlags-Ansätze mit ansatzbezogenen Zwischensummen.
+
+Die Bezeichnungen dieser Kriterien ändern sich mit Inkrafttreten der 2. Etappe der Haushaltsrechtsreform ab 1. Jänner 2013 in:
+
+\- Budgetpositionen (Voranschlags-Stellen, Konten),
+
+\- Voranschlags-Stellen mit stellenbezogenen Zwischensummen.
+
+(4) Abweichend von den in Abs. 1 genannten Zeitpunkten sind die in Abs. 5 näher bezeichneten Daten
+
+1\. a) der neu hinzugekommenen Pensionen des vorangegangenen Kalendervierteljahres,
+
+b) der weggefallenen Pensionen des vorangegangenen Kalendervierteljahres
+
+jeweils bis zum zehnten Arbeitstag im Jänner, April, Juli und Oktober jeden Jahres und
+
+2\. bis zum 31. Jänner jedes Kalenderjahres die Daten sämtlicher am 31. Dezember des Vorjahres bestehenden Pensionen
+
+zur Verfügung zu stellen.
+
+(5) Die in Abs. 4 genannten Pensionsdaten sind nach folgenden Kriterien aufzugliedern:
+
+1\. Pensionsantrittsdatum,
+
+2\. Geburtsmonat und -jahr,
+
+3\. Unternehmenszugehörigkeit zum Zeitpunkt des Pensionsantritts,
+
+4\. Geschlecht,
+
+5\. Verwendungsgruppe zum Zeitpunkt des Pensionsantritts,
+
+6\. Rechtsgrundlage der Versetzung oder des Übertritts in den Ruhestand oder des Versorgungsanspruchs (z.B. § 14 oder § 15 oder § 15 in Verbindung mit § 236b des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333, oder § 14 des Pensionsgesetzes 1965 (PG 1965), BGBl. Nr. 340,
+
+7\. Pensionsart (z.B. Ruhebezug, Witwen- oder Witwerversorgungsbezug, Waisenversorgungsbezug),
+
+8\. die monatliche Pensionshöhe, aufgegliedert in die jeweiligen Bezugsbestandteile (brutto).
+
+## § 2 – Art der Übermittlung
+
+§ 2. Die Daten nach § 1 sind von den dort genannten Unternehmen wie folgt zu übermitteln:
+
+1\. die in § 1 Abs. 1 Z 1 und 2, sowie Abs. 2 genannten Daten monatlich elektronisch in einer dem Aufbau des Bundesvoranschlages entsprechenden Form, elektronisch weiterverarbeitbar unter Verwendung eines Tabellenkalkulationsprogramms, sowie zusätzlich in elektronisch nicht weiterverarbeitbarer Form,
+
+2\. die in § 1 Abs. 1 Z 3 genannten Daten für jeden Einzelfall und für den Fälligkeitsmonat durch Übermittlung einer anonymisierten Kopie des Rückschreibens des zuständigen Pensionsversicherungsträgers oder des Dienstgebers des neuen Dienstverhältnisses, mit dem die Berechnung des gemäß § 311 ASVG zu leistenden Überweisungsbetrages bestätigt wird.
+
+3\. die in § 1 Abs. 4 und 5 genannten Daten in einem mit der Bundesministerin bzw. dem Bundesminister für Finanzen zu vereinbarenden Datenformat elektronisch durch zwei anonymisierte Individualdatensätze je Person,
+
+a) der erste Datensatz nach dem Geburtsmonat und -jahr sortiert und die in § 1 Abs. 5 Z 1 bis 7 angeführten Datenarten umfassend,
+
+b) der zweite Datensatz nach der Pensionshöhe sortiert und die in § 1 Abs. 5 Z 4 bis 8 angeführten Datenarten umfassend.

@@ -1,0 +1,142 @@
+---
+title: "Prozentsätze für die Verteilung der Ertragsanteile in den Jahren 2011 bis 2014"
+identifier: "20007405"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 248/2011"
+last_amended: 2011-08-09
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2011/248/P0/NOR40131090"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007405"
+retrieved: 2026-10-11
+documents: 6
+---
+
+# Prozentsätze für die Verteilung der Ertragsanteile in den Jahren 2011 bis 2014
+
+Verordnung der Bundesministerin für Finanzen über die Prozentsätze für die Verteilung der Ertragsanteile in den Jahren 2011 bis 2014
+
+StF: BGBl. II Nr. 248/2011
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 24 Abs. 5 des Finanzausgleichsgesetzes 2008 (FAG 2008), BGBl. I Nr. 103/2007, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 56/2011, wird verordnet:
+
+## § 1
+
+§ 1. Die hier geregelten Schlüssel sind bei der Verteilung der Ertragsanteile der Länder und Gemeinden an den gemeinschaftlichen Bundesabgaben für die Jahre 2011 bis 2014 anzuwenden. Bei den im Jahr 2011 fälligen Vorschüssen auf die Ertragsanteile sind sie ab der Kundmachung dieser Verordnung anzuwenden.
+
+## § 2 – Zu § 9 Abs. 1 FAG 2008
+
+§ 2. Die Erträge der Abgaben mit einheitlichem Schlüssel werden zwischen dem Bund, den Ländern (Wien als Land) und den Gemeinden (Wien als Gemeinde) in folgendem Hundertsatzverhältnis geteilt:
+
+|  | Bund | Länder | Gemeinden |
+|---|---|---|---|
+| Abgaben mit einheitlichem Schlüssel: | 67,417 | 20,700 | 11,883 |
+
+## § 3 – Zu § 9 Abs. 7 Z 5 FAG 2008
+
+§ 3. (1) Die Teile der auf die Länder und Gemeinden entfallenden Erträge an den Abgaben mit einheitlichem Schlüssel mit Ausnahme des Ausgleichs für die Abschaffung der Selbstträgerschaft und mit Ausnahme der auf die Länder entfallenden Anteile an der Erbschafts- und Schenkungssteuer werden auf die Länder und länderweise auf die Gemeinden nach den folgenden Schlüsseln aufgeteilt:
+
+|  | Länder | Gemeinden |
+|---|---|---|
+| nach der Volkszahl | 77,017% | 17,235 % |
+| nach dem abgestuften Bevölkerungsschlüssel | - | 58,515 % |
+| nach Fixschlüsseln | 22,983% | 24,250 % |
+
+Bei den Ertragsanteilen der Länder werden 1 780 500 000 Euro von den nach der Volkszahl zu verteilenden Mitteln abgezogen und den nach dem Fixschlüssel zu verteilenden Mitteln hinzugerechnet.
+
+(2) Von den nach Fixschlüsseln zu verteilenden Mitteln werden bei den Ländern ein Betrag in Höhe von 0,949 % und bei den Gemeinden als Getränkesteuerausgleich ein Betrag in Höhe von 1,888 % des Aufkommens an der Umsatzsteuer nach Abzug des in § 8 Abs. 2 Z 1 FAG 2008 genannten Betrages als Anteile an der Umsatzsteuer in folgenden Verhältnissen verteilt:
+
+|  | Länder | Gemeinden |
+|---|---|---|
+| Burgenland | 2,572 % | 2,505 % |
+| Kärnten | 6,897 % | 8,496 % |
+| Niederösterreich | 14,451 % | 15,185 % |
+| Oberösterreich | 13,692 % | 14,587 % |
+| Salzburg | 6,429 % | 9,426 % |
+| Steiermark | 12,884 % | 13,086 % |
+| Tirol | 7,982 % | 14,512 % |
+| Vorarlberg | 3,717 % | 4,811 % |
+| Wien | 31,376 % | 17,392 % |
+
+und die verbleibenden Anteile in folgendem Verhältnis:
+
+|  | Länder | Gemeinden |
+|---|---|---|
+| Burgenland | 3,250 % | 1,260 % |
+| Kärnten | 6,881 % | 5,291 % |
+| Niederösterreich | 17,898 % | 13,549 % |
+| Oberösterreich | 15,829 % | 16,499 % |
+| Salzburg | 6,976 % | 8,251 % |
+| Steiermark | 13,744 % | 9,338 % |
+| Tirol | 8,813 % | 8,939 % |
+| Vorarlberg | 4,923 % | 5,981 % |
+| Wien | 21,686 % | 30,892 % |
+
+(3) Der Anteil des Landes Vorarlberg am Ertrag der Umsatzsteuer wird in acht gleichen Halbjahresraten um insgesamt 39,97 Millionen Euro zu Lasten aller anderen Länder erhöht. Dieser Vorweganteil verringert die Anteile der anderen Länder am Ertrag der Umsatzsteuer in folgendem Verhältnis:
+
+| Burgenland | 5,43 % |
+|---|---|
+| Kärnten | 10,80 % |
+| Niederösterreich | 23,07 % |
+| Oberösterreich | 14,90 % |
+| Salzburg | 9,72 % |
+| Steiermark | 16,39 % |
+| Tirol | 11,98 % |
+| Wien | 7,71 % |
+
+Die erste Halbjahresrate wird erstmals bei der auf den Baubeginn der Umfahrung Feldkirch-Süd folgenden Überweisung der Vorschüsse auf die Ertragsanteile überwiesen. Die restlichen sieben Halbjahresraten sind jeweils in Abständen von sechs Monaten zu überweisen. Durch einen späteren – auch nach 2014 gelegenen – Baubeginn wird der Anspruch des Landes Vorarlberg auf den Vorweganteil in Höhe von 39,97 Millionen Euro nicht berührt.
+
+## § 4 – Zu § 9 Abs. 10 und 11 FAG 2008
+
+§ 4. Der abgestufte Bevölkerungsschlüssel wird folgendermaßen gebildet:
+
+Die ermittelte Volkszahl der Gemeinden wird
+
+bei Gemeinden mit höchstens 10 000 Einwohnern mit 1 41/67,
+
+bei Gemeinden mit 10 001 bis 20 000 Einwohnern mit 1 2/3,
+
+bei Gemeinden mit 20 001 bis 50 000 Einwohnern und
+
+bei Städten mit eigenem Statut mit höchstens 50 000 Einwohnern mit 2
+
+und bei Gemeinden mit über 50 000 Einwohnern und der Stadt Wien mit 2 1/3
+
+vervielfacht. Zu diesen Beträgen wird bei Gemeinden, deren Einwohnerzahl im Bereich von 9 000 bis 10 000, von 18 000 bis 20 000 oder von 45 000 bis 50 000 liegt, bei Städten mit eigenem Statut jedoch nur bei solchen, deren Einwohnerzahl im Bereich von 45 000 bis 50 000 liegt, ein weiterer Betrag dazugezählt. Dieser beträgt bei Gemeinden bis 10 000 Einwohnern 110/201, bei den anderen Gemeinden 3 1/3 vervielfacht mit der Zahl, mit der die Einwohnerzahl die untere Bereichsgrenze übersteigt. Die länderweise Zusammenzählung der so ermittelten Gemeindezahlen ergibt die abgestuften Bevölkerungszahlen der Länder.
+
+## § 5 – Zu § 11 Abs. 6 FAG 2008
+
+§ 5. Die Gemeinden erhalten je Einwohner folgende Beträge in Euro, wobei hier Statutarstädte bis 20 000 Einwohner Gemeinden von 20 001 bis 45 000 Einwohnern gleichgestellt sind:
+
+| Einwohnerzahl | 10.001–18.000 | 20.001–45.000 | über 50.000 |
+|---|---|---|---|
+| Burgenland | - | 35,10 | - |
+| Kärnten | 22,94 | 27,53 | 32,12 |
+| Niederösterreich | 27,64 | 33,16 | 38,69 |
+| Oberösterreich | 27,21 | 32,65 | 38,10 |
+| Salzburg | 26,64 | - | 37,29 |
+| Steiermark | 25,45 | 30,54 | 35,63 |
+| Tirol | 30,16 | - | 42,22 |
+| Vorarlberg | 25,29 | 30,35 | - |
+
+Die Anteile der weiteren Gemeinden betragen jährlich je Einwohner in Euro:
+
+| Ebreichsdorf | 7,12 |
+|---|---|
+| Gänserndorf | 21,10 |
+| Gerasdorf bei Wien | 19,76 |
+| Altmünster | 6,17 |
+| Laakirchen | 4,19 |
+| Hallein | 30,70 |
+| Seekirchen am Wallersee | 10,14 |
+| Zell am See | 9,24 |
+| Köflach | 24,35 |
+| Voitsberg | 13,87 |
+| Imst | 3,65 |
+
+Diese Beträge werden erstmals für die Ertragsanteile des Jahres 2012 gemäß § 11 Abs. 7 FAG 2008 valorisiert.

@@ -165,13 +165,17 @@ Die angeführten Fertigkeiten und Kenntnisse sind dem Lehrling spätestens in de
 
 ## Artikel V
 
-#### *(Anm.: aus BGBl. Nr. 161/1984, zu BGBl. Nr. 253/1977)*
+***(Anm.: aus BGBl. Nr. 161/1984, zu BGBl. Nr. 253/1977)***
+
+#### Art. 5
 
 Die Bestimmungen der Artikel I bis IV (Anm.: jeder Artikel der Sammelnovelle BGBl. Nr. 161/1984 ändert die Ausbildungsvorschriften bzw. das Lehrberufsbild eines oder mehrerer Lehrberufe) sind, soweit sie das Berufsbild betreffen, auf die Fälle der gleichzeitigen Ausbildung eines Lehrlings in zwei Lehrberufen sinngemäß mit der Maßgabe anzuwenden, daß dem Lehrling die Inhalte der jeweils in Betracht kommenden beiden Berufsbilder in der in diesen Berufsbildern festgelegten zeitlichen Reihenfolge und unter Bedachtnahme auf die sich in solchen Fällen gemäß § 6 Abs. 2 des Berufsausbildungsgesetzes ergebende Lehrzeitdauer vermittelt werden.
 
 ## Artikel VI
 
-#### *(Anm.: aus BGBl. Nr. 161/1984, zu BGBl. Nr. 253/1977)*
+***(Anm.: aus BGBl. Nr. 161/1984, zu BGBl. Nr. 253/1977)***
+
+#### Art. 6
 
 Die Bestimmungen der Artikel I bis IV (Anm.: jeder Artikel der Sammelnovelle BGBl. Nr. 161/1984 ändert die Ausbildungsvorschriften bzw. das Lehrberufsbild eines oder mehrerer Lehrberufe) sind, soweit sie das Berufsbild betreffen, auf Lehrlinge, deren Ausbildung vor dem 1. Jänner 1983 begonnen hat, nicht anzuwenden; auf diese Lehrlinge finden die am 31. März 1984 geltenden Bestimmungen über Berufsbilder Anwendung.
 

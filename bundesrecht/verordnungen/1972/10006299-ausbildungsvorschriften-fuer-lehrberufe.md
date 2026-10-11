@@ -289,7 +289,9 @@ Die Bestimmungen der Artikel I bis VI *(Anm.: jeder Artikel der Sammelnovelle BG
 
 ## Artikel VIII
 
-#### *(Anm.: aus BGBl. Nr. 253/1983, zu BGBl. Nr. 171/1972)*
+***(Anm.: aus BGBl. Nr. 253/1983, zu BGBl. Nr. 171/1972)***
+
+#### Art. 8
 
 \*(Anm.: Z 1 Inkrafttretensdatum der V BGBl. Nr. 253/1983)*
 

@@ -35,7 +35,7 @@ Auf Grund des § 10 des Gesetzes über die Vereinheitlichung des Gesundheitswese
 
 ### Medizinalpersonen.
 
-#### § 1 – § 1
+#### § 1
 
 (1) Das Gesundheitsamt führt Listen über diejenigen Personen, die in seinem Bezirk selbständig oder in abhängiger Stellung Behandlung, Pflege oder gesundheitliche Fürsorge am Menschen ausüben, die Leichenschau betätigen oder die Entkeimungen von Wohnungen und Gegenständen vornehmen. Die polizeilichen Meldelisten sind die Grundlage dieser Listenführung. Das Gesundheitsamt erhält von den An- und Abmeldungen rechtzeitig Kenntnis und ist verpflichtet, etwaige Ergänzungen anzufordern. Es prüft die Berechtigungsausweise und kann hiebei polizeiliche Hilfe in Anspruch nehmen.
 
@@ -229,7 +229,7 @@ Besondere Aufmerksamkeit hat der Amtsarzt auf die gewerbsmäßige Vornahme gebur
 
 ### Sonstiges ärztliches Hilfspersonal.
 
-#### § 20 – § 20
+#### § 20
 
 (1) Bei Gesundheits- und Volkspflegerinnen, technischen Assistentinnen, Krankenpflegepersonen, Säuglings- und Kleinkinderschwestern und -pflegerinnen, Heilgymnastinnen, Wochenpflegerinnen, Massierern (-innen), Heilgehilfe und weiteren Angehörigen von Berufen des Heilwesens, die sich als „staatlich anerkannt“ bezeichnen, hat das Gesundheitsamt nachzuprüfen, ob sie die Berechtigung hierzu besitzen. Das gesamte ärztliche Hilfspersonal des Bezirks untersteht, unbeschadet der Dienstaufsicht des zuständigen Arbeitgebers, in seiner Berufstätigkeit der Aufsicht des Gesundheitsamts. Dieses hat insbesondere darauf zu achten, daß die in den Befähigungszeugnissen gesetzten Grenzen der Betätigung nicht überschritten werden.
 

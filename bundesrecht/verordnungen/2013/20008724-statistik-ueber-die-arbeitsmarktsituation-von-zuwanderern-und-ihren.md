@@ -1,0 +1,80 @@
+---
+title: "Statistik über die Arbeitsmarktsituation von Zuwanderern und ihren direkten Nachkommen im Jahr 2014"
+identifier: "20008724"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 496/2013"
+last_amended: 2014-01-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2013/496/P0/NOR40159329"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008724"
+retrieved: 2026-10-11
+documents: 9
+---
+
+# Statistik über die Arbeitsmarktsituation von Zuwanderern und ihren direkten Nachkommen im Jahr 2014
+
+Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz betreffend die Statistik über die Arbeitsmarktsituation von Zuwanderern und ihren direkten Nachkommen im Jahr 2014
+
+StF: BGBl. II Nr. 496/2013
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 4 bis 10 und 30 des Bundesstatistikgesetzes 2000, BGBl. I Nr. 163/1999, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 111/2010, wird im Einvernehmen mit dem Bundeskanzler sowie hinsichtlich des § 6 zusätzlich im Einvernehmen mit dem Bundesminister für Finanzen verordnet:
+
+## § 1 – Erstellung der Statistik über die Arbeitsmarktsituation von Zuwanderern und ihren direkten Nachkommen
+
+§ 1. Die Bundesanstalt Statistik Österreich (Bundesanstalt) hat im Jahr 2014 nach dieser Verordnung statistische Erhebungen durchzuführen und auf Grundlage der erhobenen Daten Statistiken über die Arbeitsmarktsituation von Zuwanderern und ihren direkten Nachkommen für das Kalenderjahr 2014 zu erstellen und zu veröffentlichen.
+
+## § 2 – Erhebungsmerkmale, Statistische Einheiten
+
+§ 2. (1) Es sind folgende Merkmale der 15- bis 64-jährigen Angehörigen privater Haushalte, die gemäß § 6 und § 7 Abs. 2 bis 5 der Erwerbs- und Wohnungsstatistikverordnung 2010, BGBl. II Nr. 111, als Stichprobenhaushalte ausgewählt wurden, zu erheben:
+
+1\. Ausländischer Bildungsabschluss,
+
+2\. Hindernisse für höhere formale Ausbildungen,
+
+3\. Land der letzten Arbeitsstätte im Ausland,
+
+4\. Gründe für die Zuwanderung,
+
+5\. Deutschkenntnisse und Teilnahme an Deutschkursen,
+
+6\. Angewandte Methode bei der Suche nach der derzeitigen Erwerbstätigkeit,
+
+7\. Hindernisse, die einer Teilhabe am Arbeitsmarkt bzw. einer der Qualifikation entsprechenden beruflichen Tätigkeit entgegenstehen, sowie
+
+8\. Bildungsabschlüsse der nicht im Haushalt lebenden Eltern.
+
+(2) Beim Merkmal gemäß Abs. 1 Z 4 darf nicht erhoben werden, ob die Zuwanderung aus Gründen rassischer oder ethnischer Herkunft, politischer, religiöser oder philosophischer Überzeugungen, der Gewerkschaftszugehörigkeit oder sexueller Ausrichtung erfolgt ist.
+
+## § 3 – Art der Erhebung, Periodizität, Kontinuität
+
+§ 3. Die Erhebung der Daten gemäß § 2 ist im Jahr 2014 in jedem Kalenderquartal in Form von Zusatzfragen gemeinsam mit der statistischen Erhebung gemäß der Erwerbs- und Wohnungsstatistikverordnung 2010 durchzuführen.
+
+## § 4 – Auskunftspflicht
+
+§ 4. (1) Alle unter 65-jährigen volljährigen Angehörigen der Privathaushalte sind zur Auskunftserteilung über die Erhebungsmerkmale gemäß § 2 verpflichtet. Bei minderjährigen Personen obliegt die Auskunftserteilung dem zum Haushalt zugehörenden gesetzlichen Vertreter. Die Auskunft ist vollständig und nach bestem Wissen zu erteilen.
+
+(2) Der Auskunftspflichtige kann jedoch einen anderen volljährigen Haushalts- oder Familienangehörigen mit der Auskunftserteilung betrauen. Sind Auskunftspflichtige auf Grund eines körperlichen oder geistigen Gebrechens nicht befragbar, obliegt die Auskunftserteilung einem anderen volljährigen Haushaltsangehörigen.
+
+(3) Die Bundesanstalt hat die Auskunftspflichtigen über die Rechtsfolgen gemäß § 66 des Bundesstatistikgesetzes 2000 bei Verweigerung der Auskunft oder bei wissentlich unvollständigen oder nicht dem besten Wissen entsprechenden Angaben zu belehren.
+
+## § 5 – Veröffentlichung
+
+§ 5. Die Bundesanstalt hat die Hauptergebnisse der Statistik über die Arbeitsmarktsituation von Zuwanderern und ihren direkten Nachkommen bis 31. Dezember 2015 in druckbarer Form und unentgeltlich im Internet unter Beachtung von § 19 Abs. 2 Bundesstatistikgesetz 2000 zu veröffentlichen.
+
+## § 6 – Kostenersatz
+
+§ 6. Der Bundesminister für Arbeit, Soziales und Konsumentenschutz hat der Bundesanstalt den mit der Erhebung der Merkmale gemäß § 2 verbundenen Mehraufwand mit einem pauschalen Kostenersatz von 31 250 Euro spätestens nach Veröffentlichung der Hauptergebnisse abzugelten.
+
+## § 7 – Verwendung der geschlechtsspezifischen Form
+
+§ 7. Soweit in dieser Verordnung personenbezogene Begriffe verwendet werden, kommt ihnen keine geschlechtsspezifische Bedeutung zu. Sie sind bei der Anwendung auf bestimmte Personen in der jeweils geschlechtsspezifischen Form zu verwenden.
+
+## § 8 – Inkrafttreten
+
+§ 8. Diese Verordnung tritt mit 1. Jänner 2014 in Kraft.

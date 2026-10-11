@@ -1,0 +1,128 @@
+---
+title: "WLV-Aufgabenverordnung"
+abbreviation: "WLV-AufgabenV"
+identifier: "10010409"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 507/1979"
+date: 1979-12-04
+last_amended: 2026-06-23
+last_amendment: "BGBl. II Nr. 148/2026"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1979/507/P0/NOR40278594"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010409"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# WLV-Aufgabenverordnung (WLV-AufgabenV)
+
+Verordnung des Bundesministers für Land- und Forstwirtschaft vom 4. Dezember 1979 über den Aufgabenbereich der Dienststellen und des Bundesministeriums für Land- und Forstwirtschaft in Angelegenheiten der Wildbach- und Lawinenverbauung (WLV-Aufgabenverordnung – WLV-AufgabenV)
+
+StF: BGBl. Nr. 507/1979
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 148/2026  
+
+</details>
+
+> **Anmerkung:** Der Kurztitel und die Abkürzung wurden mit Wirksamkeit vom 23.6.2026 neu vergeben (vgl. BGBl. II Nr. 148/2026). Aus dokumentalistischen Gründen wurden auch in den bereits außer Kraft getretenen Bestimmungen der Kurztitel und die Abkürzung angepasst.
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 102 Abs. 7 des Forstgesetzes 1975, BGBl. Nr. 440, wird verordnet:
+
+## I. ABSCHNITT
+
+### § 1 – Aufgabenbereich der Dienststellen
+
+§ 1. Der Gebietsbauleitung obliegen innerhalb ihres örtlichen Zuständigkeitsbereichs folgende Aufgaben:
+
+1\. Ausarbeitung des Arbeitsplanes für Gefahrenzonenplanung, Projektierung, Verbauungstätigkeit und Betreuungsdienst;
+
+2\. Ausarbeitung von Gefahrenzonenplänen, Projekten und Kollaudierungsoperaten;
+
+3\. Planung der kurz-, mittel- und langfristigen Verbauungstätigkeit, des Bedarfes an Personal, finanziellen Mitteln und Investitionen;
+
+4\. Durchführung der Verbauungsmaßnahmen
+
+5\. Durchführung der Überwachungs- und Erhebungstätigkeit in den Einzugsgebieten der Wildbäche und Lawinen einschließlich der Überwachung durchgeführter Maßnahmen und der Obsorge für die Erhaltung der im Zusammenhang mit diesen Maßnahmen errichteten Anlagen;
+
+6\. Wahrnehmung des Anhörungsrechtes bei gemäß § 100 Abs. 1 des Forstgesetzes 1975 vorgesehenen Maßnahmen;
+
+7\. Bewirtschaftung von Bannwäldern in den Fällen und unter den Voraussetzungen des § 100 Abs. 2 des Forstgesetzes 1975;
+
+8\. Vertretung des öffentlichen Interesses am Schutz vor Wildbächen und Lawinen in den im § 101 Abs. 5 des Forstgesetzes 1975 näher bezeichneten Verfahren;
+
+9\. Bewirtschaftung der von der Sektion zugewiesenen finanziellen Mittel und der Interessentenbeiträge;
+
+10\. Erhebungen für den Wildbach- und Lawinenkataster und die Statistik, Führung von Statistiken;
+
+11\. Entsendung von Angehörigen der Gebietsbauleitung zur Mitwirkung als Sachverständige gemäß § 173 des Forstgesetzes 1975, Beratungstätigkeit;
+
+12\. Mitwirkung bei Einsätzen im Falle von Wildbach- und Lawinenkatastrophen;
+
+13\. Abwicklung des Geschäftsverkehrs im Rahmen der Durchführung der Aufgaben der Gebietsbauleitung.
+
+### § 2
+
+§ 2. Der Sektion obliegen innerhalb ihres örtlichen Zuständigkeitsbereiches folgende Aufgaben:
+
+1\. Koordinierung und Überwachung aller Planungen und sonstigen Tätigkeiten der Gebietsbauleitungen;
+
+2\. Erhebungen für den Wildbach- und Lawinenkataster und die Statistik, Führung von Statistiken;
+
+3\. Ausübung des Vorschlagsrechtes gemäß § 99 Abs. 5 des Forstgesetzes 1975;
+
+4\. Wahrnehmung des Anhörungsrechtes bei gemäß § 100 Abs. 1 des Forstgesetzes 1975 vorgesehenen Maßnahmen;
+
+5\. Vertretung des öffentlichen Interesses am Schutz vor Wildbächen und Lawinen in den im § 101 Abs. 5 des Forstgesetzes 1975 näher bezeichneten Verfahren;
+
+6\. Wahrnehmung der Tätigkeit von Angehörigen der Sektion als Mitglieder der Kommission gemäß § 11 Abs. 5 des Forstgesetzes 1975;
+
+7\. Entsendung von Angehörigen der Sektion zur Mitwirkung als Sachverständige gemäß § 173 Forstgesetz 1975, Beratungstätigkeit;
+
+8\. Verwaltung der finanziellen Mittel;
+
+9\. Mitwirkung bei Einsätzen im Falle von Wildbach- und Lawinenkatastrophen;
+
+10\. Abwicklung des Geschäftsverkehrs im Rahmen der Durchführung der Aufgaben der Sektion.
+
+## II. ABSCHNITT
+
+### § 3 – Aufgaben des Bundesministeriums für Land- und Forstwirtschaft
+
+§ 3. (1) Dem Bundesministerium für Land- und Forstwirtschaft sind folgende Aufgaben vorgehalten:
+
+1\. Koordinierung aller Aufgaben der Wildbach- und Lawinenverbauung;
+
+2\. Planungen besonderer oder grundsätzlicher Art;
+
+3\. Verwaltung der finanziellen Mittel einschließlich derer Zuweisung;
+
+4\. Überprüfung von Projekten und Durchführung von Kollaudierungen;
+
+5\. Ausübung der fachlichen Aufsicht;
+
+6\. Führung des Wildbach- und Lawinenkatasters und von Statistiken;
+
+7\. Leitung der Kommissionen gemäß § 11 Abs. 5 des Forstgesetzes 1975;
+
+8\. Entsendung von Angehörigen des Bundesministeriums für Land- und Forstwirtschaft zur Mitwirkung als Sachverständige gemäß § 173 Forstgesetz 1975;
+
+9\. Beratungstätigkeit;
+
+10\. Erlassung von Richtlinien;
+
+11\. Mitwirkung bei Einsätzen gemäß § 1 Z 12 und § 2 Z 9 im Falle des Vorliegens besonderer Umstände.
+
+(2) Das Bundesministerium kann sich bei der Erfüllung der Aufgaben gemäß Abs. 1 nachstehender, jeweils einer Sektion im Sinne des § 2 zugeordneter Kompetenzzentren bedienen:
+
+1\. Strategischer Fachzentren, insbesondere für die Fachgebiete Geologie, Schnee und Lawinen, Wildbachprozesse, Naturgefahreninformation und Wissensmanagement, Monitoring sowie Schutzwald;
+
+2\. Zentraler Dienste, insbesondere für die Fachgebiete digitale Infrastruktur sowie Rechnungswesen und Lohnverrechnung.

@@ -1,0 +1,117 @@
+---
+title: "Stadterneuerungs-Verordnung 1987"
+identifier: "10011646"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 490/1987"
+date: 1987-09-28
+last_amended: 1987-10-16
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1987/490/P0/NOR11011911"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011646"
+retrieved: 2026-10-11
+documents: 10
+---
+
+# Stadterneuerungs-Verordnung 1987
+
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten vom 28. September 1987 über die Förderung von Maßnahmen zur Stadterneuerung und zur Sanierung denkmalgeschützter Bauwerke sowie über Verzugs- und Stundungszinsen bei Darlehen nach dem Wohnhaus-Wiederaufbaugesetz (Stadterneuerungs-Verordnung 1987)
+
+StF: BGBl. Nr. 490/1987
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 33 des Stadterneuerungsgesetzes, BGBl. Nr. 287/1974, in der Fassung des Bundesgesetzes BGBl. Nr. 340/1987 wird – hinsichtlich des § 1 Z 1 im Einvernehmen mit dem Bundesminister für Finanzen – verordnet:
+
+## § 1 – Mittel
+
+§ 1. Dem Wohnhaus-Wiederaufbau- und Stadterneuerungsfonds stehen für Zwecke der Stadterneuerung (§ 33 Abs. 1 Z 1 Stadterneuerungsgesetz) und der Sanierung (§ 33 Abs. 1 Z 2 und 3 Stadterneuerungsgesetz) folgende Mittel zur Verfügung:
+
+1\. 25 vH des gemäß § 7 des Wohnhaussanierungsgesetzes, BGBl. Nr. 483/1984, aufgebrachten Kapitals, höchstens jedoch der 750 Millionen Schilling übersteigende Teil dieses Kapitals,
+
+2\. Mehrerträge aus der erhöhten Tilgung gemäß § 33 Abs. 3 des Stadterneuerungsgesetzes in der Fassung des Bundesgesetzes BGBl. Nr. 340/1987,
+
+3\. gemäß § 11 Abs. 3 des Startwohnungsgesetzes in der Fassung des Bundesgesetzes BGBl. Nr. 340/1987 überwiesene Beträge,
+
+4\. Rückflüsse (Zinsen) aus nach dieser Verordnung gewährten Förderungsmitteln,
+
+5\. Erträgnisse veranlagter Mittel nach Z 1 bis 4 und sonstige Zuwendungen.
+
+## § 2 – Förderbare Maßnahmen
+
+§ 2. Förderbare Maßnahmen sind:
+
+1\. vorbereitende Untersuchungen, die zur Beurteilung
+
+a) struktureller, städtebaulicher oder sozialer Verhältnisse und Zusammenhänge,
+
+b) der rechtlichen, wirtschaftlichen und technischen Durchführbarkeit geplanter Maßnahmen der Stadt- oder Ortserneuerung oder
+
+c) der Notwendigkeit und Zweckmäßigkeit der Sanierung einzelner Gebäude
+
+erforderlich sind;
+
+2\. die Durchführung von Ideenwettbewerben und die Erstellung von Gutachten im Zusammenhang mit oder als Folge von vorbereitenden Untersuchungen nach Z 1;
+
+3\. die Tätigkeit von Assanierungsbeauftragten nach dem Stadterneuerungsgesetz;
+
+4\. die Einrichtung von Gebietsbetreuungen zur Information und Beratung der betroffenen Bevölkerung sowie zur technischen Kontrolle der Sanierungsarbeiten;
+
+5\. die Anmietung von Räumen zur vorübergehenden Unterbringung umzusiedelnder Bewohner, Geschäftslokale oder Betriebe während des hiefür unumgänglich notwendigen Zeitraumes, längstens jedoch auf zwei Jahre, wobei es sich jedoch nicht um die Beschaffung von Ersatzwohnungen gemäß § 21 Abs. 2 des Stadterneuerungsgesetzes handeln darf;
+
+6\. die Schaffung von Wohnstraßen und von verkehrsberuhigten Zonen;
+
+7\. die Errichtung von Sammelgaragen;
+
+8\. die Herstellung von Anschlüssen an Fernwärmeeinrichtungen;
+
+9\. die beispielhafte Sanierung von Einzelobjekten, sofern sie von besonderer Bedeutung für die Stadt- oder Ortsbildpflege ist;
+
+10\. Sanierungsmaßnahmen gemäß § 33 Abs. 1 Z 2 und 3 des Stadterneuerungsgesetzes.
+
+## § 3 – Förderungswerber
+
+§ 3. Als Förderungswerber für Maßnahmen nach § 33 Abs. 1 Z 1 des Stadterneuerungsgesetzes kommen neben Gemeinden und Gemeindeverbänden auch von Gemeinden verwaltete Fonds, die sich mit Maßnahmen zur Stadterneuerung befassen, für Maßnahmen nach seinen Z 2 und 3 der Eigentümer des Gebäudes (Bauwerkes) oder der Bauberechtigte in Betracht.
+
+## § 4 – Förderungsausmaß
+
+§ 4. (1) Die Förderung nach § 33 Abs. 1 Z 1 des Stadterneuerungsgesetzes besteht
+
+1\. für Maßnahmen gemäß § 2 Z 1, 2 und 5 in der Gewährung eines nicht-rückzahlbaren Beitrages bis zur vollen Höhe der Kosten,
+
+2\. für Maßnahmen gemäß § 2 Z 3 und 4 sowie 6 bis 9 in der Gewährung eines einmaligen Zuschusses zu den Zinsen in der Höhe von 15 vH der Darlehenssumme zu Darlehen, die aus dem gemäß § 7 Abs. 1 Z 2 des Wohnhaussanierungsgesetzes gewidmeten Kapital gewährt werden.
+
+(2) Die Förderung nach § 33 Abs. 1 Z 3 des Stadterneuerungsgesetzes besteht in der Gewährung eines nicht-rückzahlbaren Beitrages bis zu 70 vH der Kosten der Sanierungsmaßnahmen; die Förderung nach § 33 Abs. 1 Z 2 des Stadterneuerungsgesetzes hingegen erfolgt in der im Abs. 1 Z 2 festgelegten Weise.
+
+(3) Das Förderungsausmaß kann bis zu den in den vorstehenden Absätzen festgelegten Obergrenzen nach Art der Maßnahme und des Förderungswerbers nach gleichen Grundsätzen abgestuft werden.
+
+## § 5 – Darlehen
+
+§ 5. (1) Bei Anträgen auf Förderung nach § 4 Abs. 1 Z 2 ist gleichzeitig mit der Vorlage der Nachweise über das Vorliegen der Förderungsvoraussetzungen und der Unterlagen über die beabsichtigten Maßnahmen und deren voraussichtliche Kosten jene Kreditunternehmung bekanntzugeben, über die die Auszahlung und sonstige Abwicklung des Darlehens erfolgen soll.
+
+(2) Darlehen können bis zur vollen Höhe der Kosten gewährt werden. Den Tilgungsplänen ist eine Laufzeit von höchstens zwölf Jahren und eine jährliche Verzinsung von höchstens 6 vH zugrunde zu legen.
+
+## § 6 – Zusicherung
+
+§ 6. In der schriftlichen Zusicherung können Bedingungen und Auflagen vorgesehen werden, die der Sicherung des Förderungszweckes und der sparsamen Verwendung der hiefür bestimmten Mittel dienen.
+
+## § 7 – Zuzählung der Förderungsmittel
+
+§ 7. Zugesicherte Förderungsbeträge sind in Teilbeträgen nach Maßgabe des Arbeitsfortschrittes zuzuzählen. Die Vereinbarung, wonach die Zuzählung der Förderungsmittel in einem Betrag oder in bestimmten Teilbeträgen und in regelmäßigen Zeitabständen erfolgt, sowie die Vereinbarung eines Rückbehaltes ist zulässig.
+
+## § 8 – Verzugs- und Stundungszinsen
+
+§ 8. Der Wohnhaus-Wiederaufbau- und Stadterneuerungsfonds ist bei nach dem Wohnhaus-Wiederaufbaugesetz, BGBl. Nr. 130/1948, gewährten Darlehen berechtigt,
+
+1\. von nicht rechtzeitig entrichteten Tilgungsbeträgen für die Dauer des Verzuges Verzugszinsen in der Höhe von 3 vH über dem jeweils geltenden Zinsfuß für Eskontierungen der Oesterreichischen Nationalbank (Anm.: Basiszinssatz) pro Jahr zu verlangen,
+
+2\. bei Stundung Stundungszinsen in der Höhe von 6 vH pro Jahr vorzuschreiben.
+
+> **Anmerkung:** Soweit der Zinsfuß für Eskontierungen der Oesterreichischen Nationalbank in dieser oder einer anderen Bezeichnung als Bezugsgröße in Bundesgesetzen oder in Verordnungen von mit Aufgaben der Bundesverwaltung betrauten Organen verwendet wird, tritt mit 1. Jänner 1999 an seine Stelle der Basiszinssatz. vgl. § 1 BGBl. I Nr. 125/1998
+
+## § 9 – Außerkrafttreten
+
+§ 9. Die Stadterneuerungs-Verordnung 1984, BGBl. Nr. 528, in der Fassung der Verordnungen BGBl. Nr. 158/1985 und 513/1986 und der Kundmachung BGBl. Nr. 671/1986 tritt mit dem Inkrafttreten dieser Verordnung außer Kraft.

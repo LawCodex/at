@@ -1,0 +1,67 @@
+---
+title: "Pensionsdatenübermittlungsverordnung"
+abbreviation: "PDÜV"
+identifier: "20006174"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 15/2009"
+last_amended: 2009-01-16
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2009/15/P0/NOR30006984"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006174"
+retrieved: 2026-10-11
+documents: 3
+---
+
+# Pensionsdatenübermittlungsverordnung (PDÜV)
+
+Verordnung der Bundesministerin für Frauen und öffentlichen Dienst über die von der Versicherungsanstalt öffentlich Bediensteter an den Bundeskanzler und den Bundesminister für Finanzen zu übermittelnden Pensionsdaten (Pensionsdatenübermittlungsverordnung - PDÜV)
+
+StF: BGBl. II Nr. 15/2009
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 2 Abs. 4 des Bundespensionsamtübertragungs-Gesetzes (BPAÜG), BGBl. I Nr. 89/2006, wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:
+
+## § 1 – Zu übermittelnde Auswertungen
+
+§ 1. (1) Die Versicherungsanstalt öffentlich Bediensteter (im Folgenden: Versicherungsanstalt) hat dem Bundeskanzler und dem Bundesminister für Finanzen bis zum fünften Arbeitstag jedes Monats elektronisch folgende Auswertungen von Pensionsdaten für den Vormonat zur Verfügung zu stellen:
+
+1\. Anzahl der Pensionen,
+
+2\. Alter bei Pensionsantritt,
+
+3\. Sterbealter,
+
+4\. Pensionshöhe,
+
+5\. Anzahl der Pensionszugänge,
+
+6\. Anzahl der Pensionsabgänge,
+
+7\. Anzahl der BezieherInnen von Pflegegeld in den einzelnen Pflegestufen,
+
+8\. Anzahl der BezieherInnen einer Familienbeihilfe.
+
+(2) Die in Abs. 1 Z 1 bis 5 angeführten Auswertungen sind nach folgenden Kriterien aufzugliedern:
+
+1\. Rechtsgrundlage der Pensionierung,
+
+2\. Pensionsart,
+
+3\. Geschlecht,
+
+4\. Verwendungsgruppe zum Zeitpunkt der Pensionierung und
+
+5\. organisatorische Zugehörigkeit vor der Pensionierung.
+
+## § 2 – Art der Übermittlung
+
+§ 2. Die Auswertungen nach § 1 werden zur Verfügung gestellt
+
+1\. durch Abfragen im Personalmanagementverfahren des Bundes einschließlich des Managementinformationssystems (MIS) durch dafür berechtigte Bedienstete des Bundeskanzleramtes und des Bundesministeriums für Finanzen oder,
+
+2\. wenn die Versicherungsanstalt im Rahmen ihrer Zuständigkeit nach § 1 Abs. 1 Z 1 bis 3 BPAÜG ein anderes als das in Z 1 genannte Verfahren verwendet, durch monatliche elektronische Übermittlung der Daten in den zu diesem Zeitpunkt existierenden Datenstrukturen in geeigneter Form durch die Versicherungsanstalt.

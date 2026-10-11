@@ -1,0 +1,49 @@
+---
+title: "Nikotin-, Nikotinersatzerzeugnis- und Tabakmeldeverordnung"
+abbreviation: "NTMelV"
+identifier: "20013086"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 344/2025"
+last_amended: 2026-08-20
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2025/344/P0/NOR40280481"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013086"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# Nikotin-, Nikotinersatzerzeugnis- und Tabakmeldeverordnung (NTMelV)
+
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz hinsichtlich der Festlegung von kostendeckenden Gebühren für die Meldung neuartiger Tabakerzeugnisse, tabakfreier Nikotinerzeugnisse und tabakfreier Nikotinersatzerzeugnisse (Nikotin-, Nikotinersatzerzeugnis- und Tabakmeldeverordnung – NTMelV)
+
+StF: BGBl. II Nr. 344/2025
+
+> **Anmerkung:** Mit Wirksamkeit vom 19.8.2026 wurden der Titel geändert und der Kurztitel neu vergeben (vgl. BGBl. II Nr. 246/2026). Aus dokumentalistischen Gründen wurden auch in den bereits außer Kraft getretenen Bestimmungen der Kurztitel angepasst.
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 10a Abs. 7 des Tabak- und Nichtraucherinnen- bzw. Nichtraucherschutzgesetzes (TNRSG), BGBl. Nr. 431/1995, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 109/2025, wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:
+
+## § 1 – Geltungsbereich
+
+§ 1. Diese Verordnung enthält nähere Bestimmungen zur Entrichtung kostendeckender Gebühren für die Meldung von neuartigen Tabakerzeugnissen, tabakfreien Nikotinerzeugnissen und tabakfreien Nikotinersatzerzeugnissen.
+
+## § 2 – Gebühr für die Meldung neuartiger Tabakerzeugnisse, tabakfreier Nikotinerzeugnisse und tabakfreier Nikotinersatzerzeugnisse
+
+§ 2. (1) Die Gebühr für die Meldung neuartiger Tabakerzeugnisse gemäß § 10a TNRSG sowie für die Meldung tabakfreier Nikotinerzeugnisse und tabakfreier Nikotinersatzerzeugnisse gemäß § 8d TNRSG beträgt 3.000 Euro. Werden mit einer Meldung mehrere Produktvarianten gemeldet, so ist die Meldegebühr für jede Produktvariante zu entrichten.
+
+(2) Die Meldegebühr gemäß Abs. 1 umfasst die Prüfung und Bewertung gemäß § 8d oder § 10a TNRSG. Die gemäß § 8d oder § 10a TNRSG bereitzustellenden Unterlagen sind von der Herstellerin bzw. dem Hersteller oder der Importeurin bzw. dem Importeur über eine von der Bundesministerin oder dem Bundesminister für Gesundheit zur Verfügung gestellte und dem Stand der Wissenschaft und Technik entsprechend gesicherte Website in deutscher oder englischer Sprache zu übermitteln. Der Zugang zur Website wird der meldepflichtigen Herstellerin bzw. dem meldepflichtigen Hersteller oder der meldepflichtigen Importeurin bzw. dem meldepflichtigen Importeur auf schriftlichen Antrag von der Bundesministerin oder dem Bundesminister für Gesundheit erteilt.
+
+(3) Die Meldegebühr gemäß Abs. 1 ist von der Herstellerin bzw. dem Hersteller oder der Importeurin bzw. dem Importeur an das Büro für Tabakkoordination der Österreichischen Agentur für Gesundheit und Ernährungssicherheit GmbH zu entrichten. Ein Nachweis der entrichteten Meldegebühr ist dem Büro für Tabakkoordination elektronisch unter Angabe der entsprechenden Product-ID zu übermitteln. Erfolgt binnen 14 Tagen nach der Meldung keine oder keine vollständige Entrichtung der Meldegebühr, so gilt die Meldung als nicht eingebracht.
+
+(4) Die Product-ID gemäß Abs. 3 ist eine 12-stellige Identifikationsnummer, die die eindeutige Zuordnung eines Produktes erlaubt und im Zuge der erstmaligen Produktmeldung unveränderbar vergeben wird.
+
+## § 3 – Inkrafttreten
+
+§ 3. (1) Diese Verordnung tritt mit 1. Jänner 2026 in Kraft.
+
+(2) Die §§ 1 und 2 in der Fassung der Verordnung BGBl. II Nr. 246/2026 treten mit 20. August 2026 in Kraft.

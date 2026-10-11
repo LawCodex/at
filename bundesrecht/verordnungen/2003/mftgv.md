@@ -1,0 +1,57 @@
+---
+title: "Magnetfeldtherapiegeräteverordnung"
+abbreviation: "MFTGV"
+identifier: "20002826"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 343/2003"
+last_amended: 2003-07-26
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2003/343/P0/NOR30003074"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002826"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Magnetfeldtherapiegeräteverordnung (MFTGV)
+
+Verordnung der Bundesministerin für Gesundheit und Frauen über die Abgabe von Magnetfeldtherapiegeräten zur Eigenanwendung (Magnetfeldtherapiegeräteverordnung – MFTGV)
+
+StF: BGBl. II Nr. 343/2003
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 100 des Medizinproduktegesetzes, BGBl. Nr. 657/1996, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 33/2002, wird verordnet:
+
+## § 1
+
+§ 1. „Magnetfeldtherapiegeräte zur Eigenanwendung“ sind Medizinprodukte, deren medizinische Zweckbestimmung gemäß § 2 Abs. 1 des Medizinproduktegesetzes durch die Einwirkung von Magnetfeldern auf den menschlichen Körper erreicht werden soll und die nach der vom Hersteller festgelegten Zweckbestimmung von Laien in der häuslichen Umgebung angewendet werden können.
+
+## § 2
+
+§ 2. Magnetfeldtherapiegeräte zur Eigenanwendung an Laien dürfen nur auf Grund ärztlicher Verschreibung abgegeben werden.
+
+## § 3
+
+§ 3. Eine ärztliche Verschreibung gemäß § 2 hat zu enthalten:
+
+1\. den Namen und den Berufssitz der/des verschreibenden Ärztin/Arztes,
+
+2\. den Namen der Person, für die das Magnetfeldtherapiegerät zur Eigenanwendung bestimmt ist,
+
+3\. die Bezeichnung oder den Typ des verordneten Magnetfeldtherapiegerätes zur Eigenanwendung,
+
+4\. die Angabe der vorgesehenen Therapiemodalitäten (einschließlich allfälliger behandlungsspezifischer Einstellparameter) und die vorgesehene Dauer der Behandlung,
+
+5\. bei Verschreibung für ein Kind dessen Geburtsjahr,
+
+6\. das Ausstellungsdatum und
+
+7\. die Unterschrift oder sichere elektronische Signatur der/des Verschreibenden.
+
+## § 4
+
+§ 4. Der Abgeber von Magnetfeldtherapiegeräten zur Eigenanwendung hat die ärztliche Verschreibung drei Jahre aufzubewahren und für die behördliche Überwachung bereitzuhalten. Der Abgeber von Magnetfeldtherapiegeräten zur Eigenanwendung hat weiters bei der Übergabe eines Magnetfeldtherapiegerätes zur Eigenanwendung an den Laien diesem nachweislich die Gebrauchsanweisung des Gerätes (§ 9 Abs. 3 Medizinproduktegesetz) mit Angabe der konkreten Anwendungshinweise und Leistungsdaten gemäß Anhang I der Richtlinie 93/42/EWG, insbesondere Indikationen und Kontraindikationen, Warnhinweise, genaue Gerätebeschreibung und technischen Daten, zu übergeben. Der Nachweis dieser Übergabe ist gleichfalls drei Jahre aufzubewahren und für die behördliche Überwachung bereitzuhalten.

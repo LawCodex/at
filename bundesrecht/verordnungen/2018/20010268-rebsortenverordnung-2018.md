@@ -1,0 +1,58 @@
+---
+title: "Rebsortenverordnung 2018"
+identifier: "20010268"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 184/2018"
+last_amended: 2024-09-17
+last_amendment: "BGBl. II Nr. 250/2024"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2018/184/P0/NOR40205540"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010268"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Rebsortenverordnung 2018
+
+Verordnung der Bundesministerin für Nachhaltigkeit und Tourismus über Rebsorten für Qualitätswein, Landwein und Wein ohne geschützte Ursprungsbezeichnung oder geografische Angabe mit Rebsorten- oder Jahrgangsbezeichnung (Rebsortenverordnung°2018)
+
+StF: BGBl. II Nr. 184/2018
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 30/2022  
+BGBl. II Nr. 191/2023  
+BGBl. II Nr. 250/2024  
+
+</details>
+
+> **Anmerkung:** Die Rebsortenverordnung 2018 wurde in Artikel 3 der Weinrechts-Sammelnovelle 2018, BGBl. II Nr. 184/2018, kundgemacht.
+
+## § 1
+
+§ 1. Für die Erzeugung von Qualitätswein oder Qualitätswein besonderer Reife und Leseart (Prädikatswein) sowie von Landwein dürfen folgende Rebsorten verwendet werden:
+
+1\. Weißweinrebsorten: Blütenmuskateller, Bouvier, Chardonnay (Morillon), Donauriesling, Donauveltliner, Frühroter Veltliner (Malvasier), Furmint, Goldburger, Goldmuskateller, Grauer Burgunder (Grauburgunder, Pinot Gris, Ruländer), Grüner Veltliner (Weißgipfler), Jubiläumsrebe, Müller-Thurgau (Rivaner), Muscaris, Muskateller (in der „Spielart“ Gelber Muskateller oder Roter Muskateller), Muskat-Ottonel (Muscato), Neuburger, Roter Veltliner, Rotgipfler, Sauvignon Blanc, Scheurebe (Sämling 88), Souvignier gris, Sylvaner (Grüner Sylvaner), Traminer (in der „Spielart“ Gewürztraminer oder Roter Traminer und in der „Spielart“ Gelber Traminer), Weißer Burgunder (Weißburgunder, Pinot Blanc, Klevner), Riesling (in der „Spielart“ Weißer Riesling oder Rheinriesling und in der „Spielart“ Roter Riesling), Welschriesling, Zierfandler (Spätrot);
+
+2\. Rotweinrebsorten: Blauburger, Blauer Burgunder (Blauer Spätburgunder, Blauburgunder, Pinot Noir), Blauer Portugieser, Blauer Wildbacher, Blaufränkisch (Frankovka), Cabernet Franc, Cabernet Sauvignon, Merlot, Rathay, Roesler, Rosenmuskateller, St. Laurent, Syrah (Shiraz), Zweigelt (Blauer Zweigelt, Rotburger).
+
+## § 2
+
+§ 2. Für die Erzeugung von Wein ohne geschützte Ursprungsbezeichnung oder geografische Angabe mit Rebsorten- oder Jahrgangsbezeichnung dürfen zusätzlich zu den in § 8 Abs. 2 des Weingesetzes 2009, BGBl. I Nr. 111/2009 genannten Rebsorten folgende Rebsorten verwendet werden:
+
+1\. Weißweinrebsorten: Bronner, Cabernet blanc, Johanniter und Orangetraube; Solaris jedoch ausschließlich für Weine, die aus in der Weinbauregion Bergland geernteten Trauben hergestellt werden;
+
+2\. Rotweinrebsorten: Cabernet Jura, Pinot Nova, Regent.
+
+## § 3
+
+§ 3. Die Aufnahme einer Rebsorte in die Liste gemäß § 1 (für Qualitätswein und Landwein geeignete Rebsorten) und in die Liste gemäß § 2 (für Rebsortenweine geeignete Rebsortenbe) bedarf einer eingehenden Prüfung des Namens der betroffenen Rebsorte, um eine Täuschung des Konsumenten hinsichtlich einer Herkunft oder einer Verwechslungsfähigkeit mit bestehenden Rebsorten auszuschließen.
+
+## § 4
+
+§ 4. Mit dem Inkrafttreten dieser Verordnung tritt die Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über Rebsorten für Qualitätswein, Landwein und Wein ohne geschützte Ursprungsbezeichnung oder geografische Angabe mit Rebsorten- oder Jahrgangsbezeichnung, BGBl. II Nr. 161/2010, in der Fassung BGBl. II Nr. 365/2016, außer Kraft.

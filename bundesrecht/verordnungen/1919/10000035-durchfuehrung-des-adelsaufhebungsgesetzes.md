@@ -36,11 +36,11 @@ StGBl. Nr. 484/1919
 
 Auf Grund des Gesetzes vom 3. April 1919, St. G. Bl. Nr. 211, wird verordnet, wie folgt:
 
-## § 1 – § 1.
+## § 1
 
 Die Aufhebung des Adels, seiner äußeren Ehrenvorzüge, weiters der bloß zur Auszeichnung verliehenen, mit einer amtlichen Stellung, dem Berufe oder einer wissenschaftlichen oder künstlerischen Befähigung nicht im Zusammenhange stehenden Titel und Würden und der damit verbundenen Ehrenvorzüge trifft alle österreichischen Staatsbürger, und zwar, gleichviel, ob es sich um im Inlande erworbene, oder um ausländische Vorzüge handelt.
 
-## § 2 – § 2.
+## § 2
 
 Durch § 1 des Gesetzes vom 3. April 1919, St. G. Bl. Nr. 211, sind aufgehoben:
 
@@ -54,17 +54,17 @@ Durch § 1 des Gesetzes vom 3. April 1919, St. G. Bl. Nr. 211, sind aufgehoben:
 
 5\. das Recht zur Führung von Familienwappen, insbesondere auch der fälschlich „bürgerlich“ genannten Wappen, sowie das Recht zur Führung gewisser ausländischer, an sich nicht immer mit einem Adelsvorzuge verbundener Titel, wie z. B. Conte, Conta Palatino, Marchese, Marchio Romanus, Comes Romanus, Baro Romanus ⁊c, selbst wenn es nichtadeligen Familien zukam.
 
-## § 3 – § 3.
+## § 3
 
 Auf Grund des § 4 des Gesetzes vom 3. April 1919, St. G. Bl. Nr. 211, werden folgende Titel und Würden als aufgehoben erklärt:
 
 die Würde eines Geheimen Rates, der Titel und die Vorrechte einer Geheimen Ratsfrau, die Würde eines Kämmerers und eines Truchsessen, die Würde einer Palastdame, die Anredeform „Exzellenz“, der Titel eines kaiserlichen Rates, ferner alle mit nicht mehr bestehenden Hof-, Lehens- und landesständischen Einrichtungen verbunden gewesenen Titel, insbesondere die Titel der Landeserbämter und der Landeserzämter, die sonstigen Würdelehenstitel und die aus der Verbindung mit den vorangesetzten Worten „Hof“, „Kammer“ oder „Hof- und Kammer“ gebildeten, nicht mit einer amtlichen Stellung im Zusammenhange stehenden Titel.
 
-## § 4 – § 4.
+## § 4
 
 Unter die aufgehobenen Titel fallen nicht die den öffentlichen Angestellten verliehenen staatlichen Amtstitel, insbesondere nicht die den Staatsangestellten verliehenen Titel höherer Rangsklassen, sowie die Titel der V. und VI. Rangsklasse (Hofrat, Regierungsrat), bei Professoren der Hoch- und Mittelschulen oder bei Beamten der Handels- und Gewerbekammern u. dgl.
 
-## § 5 – § 5.
+## § 5
 
 (1) Die Führung von Adelsbezeichnungen (§ 2), sowie von aufgehobenen Titeln und Würden (§ 3) wird von den politischen Behörden gemäß § 2 des Gesetzes vom 3. April 1919, St. G. Bl. Nr. 211, mit Geld bis zu 20.000 K oder Arrest bis zu sechs Monaten bestraft.
 
@@ -74,22 +74,22 @@ Unter die aufgehobenen Titel fallen nicht die den öffentlichen Angestellten ver
 
 > **Anmerkung:** zum Betrag 20.000 K in Abs. 1 siehe [VfGH-Erkenntnis](https://www.ris.bka.gv.at/Dokument.wxe?ResultFunctionToken=3c926400-8434-46fb-aa03-d5463aa03e7a&Position=1&SkipToDocumentPage=True&Abfrage=Vfgh&Entscheidungsart=Undefined&Sammlungsnummer=&Index=&SucheNachRechtssatz=False&SucheNachText=True&GZ=&VonDatum=&BisDatum=05.02.2020&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=Adels&Dokumentnummer=JFT_20191009_19E01851_00)
 
-## § 6 – § 6.
+## § 6
 
 Bereits vor Inkrafttreten dieser Vollzugsanweisung erfolgte Eintragungen in Geburts-, Ehe- und Sterbematriken, in öffentliche Bücher (Grundbuch, Bergbuch, Wasserbuch usw.), dann in öffentliche Register (Handelsregister, Genossenschaftsregister usw.), die mit den Bestimmungen dieser Vollzugsanweisung nicht im Einklange stehen, sind von Amts wegen nicht abzuändern; für die Erteilung von Abschriften und Auszügen (Zeugnissen) bleiben die ursprünglichen Eintragungen maßgebend, insolange die Richtigstellung nicht durchgeführt ist. Neueintragungen haben jedoch den Bestimmungen dieser Vollzugsanweisung zu entsprechen. Für Eintragungen in die öffentlichen Bücher bei Personen, deren Namens- oder Titelbezeichnung geändert wurde, genügt die Bestätigung ihrer Identität im Beglaubigungsvermerk.
 
 > **Anmerkung:** Handelsregister, Genossenschaftsregister jetzt Firmenbuch, vgl. BGBl. Nr. 10/1991
 
-## § 7 – § 7.
+## § 7
 
 Inhaber von Firmen und andere vertretungsberechtigte Personen, deren Namens- oder Titelbezeichnung nicht mit den Bestimmungen dieser Vollzugsanweisung im Einklange steht, haben die Richtigstellung im Handels- oder Genossenschaftsregister innerhalb eines Jahres beim zuständigen Gerichte in der vorgeschriebenen Form (Artikel 19, 21 und 25 des Handelsgesetzbuches) anzumelden. Die Frist beginnt am 1. Juli 1919. Bei Nichteinhaltung der Frist hat das Gericht im Sinne des Artikels 26 des Handelsgesetzbuches vorzugehen.
 
 > **Anmerkung:** Handels- oder Genossenschaftsregister jetzt Firmenbuch, vgl. BGBl. Nr. 10/1991
 
-## § 8 – § 8.
+## § 8
 
 Wo die Bezeichnung „kaiserlich königlich privilegiert“ (k. k. priv.) im Wortlaute von Firmen vorkommt, entfallen diese Worte mit dem Tage der Kundmachung dieser Vollzugsanweisung.
 
-## § 10 – § 10.
+## § 10
 
 Die Vollzugsanweisung tritt am Tage der Kundmachung in Kraft.

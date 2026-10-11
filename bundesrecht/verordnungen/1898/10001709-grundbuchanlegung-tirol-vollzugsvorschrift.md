@@ -36,7 +36,7 @@ BGBl. Nr. 504/1994 (NR: GP XVIII IA 617/A, 618/A, 620/A und 719/A AB 1642 S. 168
 
 ### Citation der Gesetze und der Vollzugsvorschrift.
 
-#### § 1 – § 1.
+#### § 1
 
 In dieser Verordnung werden die auf die Grundbuchsanlegung in Tirol sich beziehenden Gesetze in folgender abgekürzter Form berufen:
 
@@ -52,29 +52,29 @@ Wo in der Vollzugsvorschrift der Ausdruck „Grundbuchsgericht“ gebraucht wird
 
 ## IV. Legalisatoren (§§ 102 bis 112).
 
-#### § 102 – § 102.
+#### § 102
 
 Den Legalisatoren steht nur die Beglaubigung von Unterschriften in Grundbuchssachen, mithin nur auf solchen Urkunden zu, die für eine grundbücherliche Eintragung bestimmt sind.
 
-#### § 103 – § 103.
+#### § 103
 
 Hinsichtlich der Nothwendigkeit der Aufstellung von Legalisatoren in Gemeinden, in denen sich nicht der Sitz eines Gerichtes befindet, werden die Wünsche der Gemeindeausschüsse als maßgebend erachtet, derart, dass beim Vorhandensein der im Gesetze vorgeschriebenen Erfordernisse die vom Gemeindeausschusse beantragte Bestellung eines Legalisators nicht zu verweigern ist.
 
-#### § 104 – § 104.
+#### § 104
 
 Sofern die persönlichen Verhältnisse, die bei der Bestellung eines Legalisators gemäß Art. X, § 3 G.-A.-R.-G. in Betracht zu kommen haben, dem Vorsteher des betreffenden Bezirksgerichtes nicht genügend bekannt sind, hat derselbe hierüber die nöthigen Auskünfte bei der politischen Bezirksbehörde einzuholen.
 
-#### § 105 – § 105.
+#### § 105
 
 Das dem Legalisator auszufolgende Bestellungsdecret hat in einem Anhange den Wortlaut der §§ 8 und 9 des Art. X G.-A.-R.-G. zu enthalten.
 
 Auf dem Decrete ist die Bestätigung über die erfolgte Beeidigung beizusetzen.
 
-#### § 106 – § 106.
+#### § 106
 
 Der Legalisator hat vor seiner Beeidigung die Genehmigung seines Amtssiegels durch den Präsidenten des Gerichtshofes erster Instanz zu erwirken. Zu diesem Behufe hat derselbe die erforderliche Anzahl von Exemplaren des Siegelabdruckes mit beigefügter Unterschrift, welch letztere seinen Vor- und Zunamen und seine Eigenschaft als Legalisator in Grundbuchssachen enthalten muss, dem Präsidenten des Gerichtshofes erster Instanz vorzulegen. Ein Exemplar des Siegelabdruckes bleibt bei dem Gerichtshofpräsidenten zurück, je eines wird den sämmtlichen Grundbuchsgerichten des betreffenden Gerichtshofsprengels mitgetheilt und eines dem Oberlandesgerichte vorgelegt.
 
-#### § 107 – § 107.
+#### § 107
 
 Dem Präsidenten des Gerichtshofes erster Instanz liegt ob, die erfolgte Bestellung eines Legalisators, dessen Wohnsitz und Amtsgebiet, sowie den Tag des Beginnens der Wirksamkeit desselben im Amtsblatte zum “Boten für Tirol und Vorarlberg” (rücksichtlich der Gerichtshofsprengel Innsbruck und Bozen) oder in der Zeitschrift “La Patria” (rücksichtlich der Gerichtshofssprengel Trient und Rovereto), ferner durch Anschlag an der Amtstafel des Bezirksgerichtes, in dessen Sprengel der Legalisator seinen Hauptwohnsitz hat, kundzumachen und außerdem die ortsübliche Verlautbarung im Amtsgebiete des Legalisators zu veranlassen.
 
@@ -84,11 +84,11 @@ Das Oberlandesgericht hat von drei zu drei Jahren eine Liste aller gemäß Art. 
 
 Die Grundbuchsgerichte sind verpflichtet, in diesen Listen die jeweils vorfallenden Aenderungen, soweit sie ihnen durch die öffentlichen Kundmachungen bekannt werden, durchzuführen.
 
-#### § 108 – § 108.
+#### § 108
 
 Die dem Legalisator für die Beglaubigung einer Unterschrift von der Partei zu entrichtende Gebür (Legalisierungsgebür) wird auf 20 kr. festgesetzt. Bei gleichzeitiger Beglaubigung mehrerer Unterschriften auf derselben Urkunde findet Abs. 2, bei Legalisierungen in geringfügigen Grundbuchssachen Abs. 4 des § 10 des Art. X G.-A.-R.-G. Anwendung.
 
-#### § 109 – § 109.
+#### § 109
 
 Der Legalisator ist verpflichtet, ein Legalisierungsregister nach Form. 50 zu führen, in welches er jede von ihm vorgenommene Beglaubigung in der Ordnung der Zeitfolge einzutragen hat.
 
@@ -96,17 +96,17 @@ Das Legalisierungsregister wird dem Legalisator auf seine Kosten, mit den Seiten
 
 Der Legalisator darf sich keines anderen Legalisierungsregisters bedienen und darf ein neues erst benützen, wenn das alte vollgeschrieben ist. Das Register ist deutlich zu führen und soll von einer Geschäftszahl zur anderen kein Raum für eine ganze Zeile leer bleiben. In die Spalten 6 und 7 ist, wenn sie zutreffen, ein Kopfstrich (Anm.: Zeichen nicht darstellbar) einzusetzen; falls eine Spalte nicht zutrifft, ist ein wagrechter Strich über dieselbe zu ziehen.
 
-#### § 110 – § 110.
+#### § 110
 
 Der Vorsteher des Bezirksgerichtes, in dessen Sprengel der Legalisator seinen Hauptwohnsitz hat, ist berufen, von Zeit zu Zeit in das Legalisierungsregister Einsicht zu nehmen, um sich von dessen ordnungsmäßiger Führung und von einer entsprechenden Geschäftsgebarung des Legalisators Ueberzeugung zu verschaffen.
 
-#### § 111 – § 111.
+#### § 111
 
 Der Legalisator muss sein Amtssiegel und das Legalisierungsregister sorgfältig verwahren.
 
 Soll das bisher verwendete Amtssiegel außer Gebrauch kommen, so hat der Vorsteher des Bezirksgerichtes dafür zu sorgen, dass selbes durch einen Einschnitt, der das Erkennen nicht hindert, unbrauchbar gemacht werde.
 
-#### § 112 – § 112.
+#### § 112
 
 Das Legalisierungsregister kann auch von dem Nachfolger eines Legalisators fortgeführt werden; der Beginn der Eintragungen des neuen Legalisators ist in geeigneter Weise ersichtlich zu machen.
 
@@ -114,12 +114,12 @@ Die vollgeschriebenen Legalisierungsregister sind, am Schlusse mit der Unterschr
 
 ## V. Protokollarische Aufnahme von Urkunden bei Gericht.
 
-#### § 113 – § 113.
+#### § 113
 
 Die nach Art. XI G.-A.-R.-G. zulässige protokollarische Aufnahme von Urkunden durch das Grundbuchsgericht kann auch auf den außerhalb des Gerichtssitzes abgehaltenen Amtstagen stattfinden. Voraussetzung hiefür ist, dass dem Richter die einschlägigen Grundbuchsdaten (Bezeichnung des Objectes, Grundbuchseinlage, Grundbuchsstand) durch die Partei bekanntgegeben werden, oder dass derselbe allenfalls schon vorher Veranlassung hatte, diese Daten zu erheben. Auf die betreffenden Protokolle finden die hinsichtlich der Grundbuchssachen in den §§ 57 Abs. 2 und 61 der Geschäftsordnung enthaltenen Bestimmungen Anwendung.
 
 ## VI. Schlussbestimmung.
 
-#### § 114 – § 114.
+#### § 114
 
 Diese Verordnung tritt mit dem Tage ihrer Kundmachung in Wirksamkeit.

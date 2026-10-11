@@ -181,6 +181,8 @@ Auf Grund des § 55 des Gesetzes vom 19. Mai 1874, R. G. Bl. Nr. 70 (EAG.), und 
 
 ### Geltungsbereich
 
-#### *(Anm.: aus BGBl. Nr. 183/1993, zu den §§ 3 bis 8, 11 bis 13, 17 bis 21 und 23a, BGBl. Nr. 77/1930)*
+***(Anm.: aus BGBl. Nr. 183/1993, zu den §§ 3 bis 8, 11 bis 13, 17 bis 21 und 23a, BGBl. Nr. 77/1930)***
+
+#### Art. 2
 
 Art. I gilt nur für das umgestellte Grundbuch (§ 1 Abs. 2 Grundbuchsumstellungsgesetz).

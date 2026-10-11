@@ -1,0 +1,102 @@
+---
+title: "Saatgut-Gentechnik-Verordnung"
+identifier: "20001731"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 478/2001"
+last_amended: 2011-03-01
+last_amendment: "BGBl. II Nr. 76/2011"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2001/478/P0/NOR30001881"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001731"
+retrieved: 2026-10-11
+documents: 7
+---
+
+# Saatgut-Gentechnik-Verordnung
+
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft über die Verunreinigung von Saatgut mit gentechnisch veränderten Organismen und die Kennzeichnung von GVO-Sorten und Saatgut von GVO-Sorten (Saatgut-Gentechnik-Verordnung)
+
+StF: BGBl. II Nr. 478/2001
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 76/2011  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 5, 6, 14, 15, 18, 19, 20, 52, 65 und 70 des Saatgutgesetzes 1997, BGBl. I Nr. 72, zuletzt geändert durch das Agrarrechtsänderungsgesetz 2001, BGBl. I Nr. 109, wird verordnet:
+
+## § 1 – Begriffsbestimmungen
+
+§ 1. Im Sinne dieser Verordnung sind:
+
+1\. „GVO“: gentechnisch veränderte Organismen im Sinne des Gentechnikgesetzes, BGBl. Nr. 510/1994, in der Fassung des Bundesgesetzes BGBl. I Nr. 127/2005;
+
+2\. „zugelassene GVO“: GVO, deren Inverkehrbringen für Zwecke des Anbaus gemäß der Richtlinie 2001/18/EG über die absichtliche Freisetzung genetisch veränderter Organismen in die Umwelt und zur Aufhebung der Richtlinie 90/220/EWG des Rates, ABl. Nr. L 106 vom 17.4.2001 S. 1, zuletzt geändert durch die Richtlinie 2008/27/EG, ABl. Nr. L 81 vom 20.3.2008 S. 45, oder gemäß der Verordnung (EG) Nr. 1829/2003 über genetisch veränderte Lebensmittel und Futtermittel, ABl. Nr. L 268 vom 18.10.2003 S. 1, zuletzt geändert durch die Verordnung (EG) Nr. 298/2008, ABl. Nr. L 97 vom 9.4.2008 S. 64, zulässig ist;
+
+3\. „nicht zugelassene GVO“: GVO, die nicht den Voraussetzungen der Z 2 entsprechen.
+
+## § 2 – Verkehrsfähigkeit
+
+§ 2. (1) Die Verordnung ist auf folgende Arten anzuwenden:
+
+1\. Kohlrübe (Brassica napus L. var. napobrassica),
+
+2\. Mais (Zea mays),
+
+3\. Raps (Brassica napus),
+
+4\. Rübsen (Brassica rapa),
+
+5\. Sojabohne (Glycine max),
+
+6\. Stoppelrübe, Herbstrübe, Mairübe (Brassica rapa L. var. rapa),
+
+7\. Tomate (Lycopersicon lycopersicum) als Verarbeitungssorten,
+
+8\. Zichorie (Cichorium intybus L.),
+
+9\. Kartoffel (Solanum tuberosum L., Solanum tuberosum).
+
+(2) Saatgut, das GVO enthält, darf nur in Verkehr gebracht werden, wenn es den Anforderungen des Saatgutgesetzes 1997 und dieser Verordnung in Verbindung mit den Methoden für Saatgut und Sorten gemäß § 5 Saatgutgesetz 1997 entspricht.
+
+## § 3 – Grenzwerte für Verunreinigungen von Saatgut nicht gentechnisch veränderter Sorten mit GVO
+
+§ 3. (1) Zufällig oder auf technisch nicht vermeidbare Weise entstandene Verunreinigungen von Saatgut nicht gentechnisch veränderter Sorten mit GVO dürfen in der Erstuntersuchung in Verfahren nach dem Saatgutgesetz 1997 nicht vorhanden sein und bei der Nachkontrolle im Rahmen der Saatgutverkehrskontrolle den Wert von 0,1% nicht überschreiten. Bei Pflanzgut von Kartoffeln dürfen solche Verunreinigungen auch bei der Nachkontrolle nicht vorhanden sein.
+
+(2) Die Anforderungen an die Methodik zur Untersuchung und die statistischen Anforderungen an die Untersuchungsergebnisse auf Verunreinigung von Saatgut mit gentechnischen Veränderungen zugelassener und nicht zugelassener GVO sind in den Methoden für Saatgut und Sorten gemäß § 5 Saatgutgesetz festgelegt.
+
+## § 4 – Anträge nach dem Saatgutgesetz 1997
+
+§ 4. (1) Der Antragsteller hat der Saatgutanerkennungs- oder Sortenzulassungsbehörde in jedem Verfahren nach dem Saatgutgesetz 1997 die Einhaltung der Anforderungen dieser Verordnung schriftlich zu bestätigen. Unbeschadet davon kann die Saatgutanerkennungs- oder Sortenzulassungsbehörde Überwachungsmaßnahmen durchführen. Diese können sich insbesondere auf die „gute Herstellungspraxis“ und Berichte über Untersuchungen auf Verunreinigungen mit GVO beziehen.
+
+(2) Unter „guter Herstellungspraxis“ sind alle vom Antragsteller ergriffenen Maßnahmen zu verstehen, um Verunreinigungen von Saatgut mit GVO zu vermeiden, wobei die gute Praxis für die Saatgutproduktion und Saatgutaufbereitung zur Vermeidung solcher Verunreinigungen mit GVO in allen Produktionsschritten in der Verantwortung des Saatguterzeugers und des Saatgutaufbereiters umzusetzen ist, insbesondere bei der Anbauvorbereitung, dem Anbau selbst, allen kulturtechnischen Maßnahmen auf der Vermehrungsfläche, der Ernte, sämtlichen Transporten, der Lagerung und der Saatgutaufbereitung bis hin zur Plombierung des saatfertigen Saatgutes und der Lagerung.
+
+(3) Der Berechtigte für das erstmalige Inverkehrbringen von Standardsaatgut von Gemüse muss über Nachweise, die die Einhaltung der Anforderungen dieser Verordnung bestätigen, verfügen. Diese sind zumindest sieben Jahre aufzubewahren und der Saatgutanerkennungsbehörde im Zuge der Überwachung gemäß Saatgutgesetz 1997 unentgeltlich zur Verfügung zu stellen.
+
+(4) Für Verfahren nach dem Saatgutgesetz 1997, deren Anträge seit dem 1. Juli 2001 bis zum In-Kraft-Treten dieser Verordnung gestellt wurden, ist der Saatgutanerkennungs- oder Sortenzulassungsbehörde binnen eines Monates nach In-Kraft-Treten dieser Verordnung eine Erklärung gemäß Abs. 1 nachzureichen. Wird eine solche Erklärung nicht vorgelegt, so können noch nicht abgeschlossene Verfahren nicht fortgesetzt werden.
+
+(5) In jedem Anbringen im Rahmen von Verfahren nach dem SaatG 1997 ist eine gentechnisch veränderte Sorte oder Saatgut einer gentechnisch veränderten Sorte klar als „gentechnisch veränderte Sorte“ oder „gentechnisch verändertes Saatgut“ gemeinsam mit dem Namen des GVO zu kennzeichnen.
+
+## § 5 – Kennzeichnung
+
+§ 5. (1) Jede Kategorie von Saatgut einer zugelassenen gentechnisch veränderten Sorte ist auf jedem Etikett oder jedem amtlichen oder sonstigen Begleitpapier, das an der Saatgutpartie befestigt oder dieser beigelegt ist, klar als „gentechnisch veränderte Sorte“ gemeinsam mit dem Namen des GVO zu kennzeichnen.
+
+(2) Eine zugelassene gentechnisch veränderte Sorte muss im öffentlichen Teil der Sortenliste klar als „gentechnisch veränderte Sorte“ gemeinsam mit dem Namen des GVO gekennzeichnet werden.
+
+(3) Wer eine zugelassene gentechnisch veränderte Sorte oder Saatgut einer gentechnisch veränderten Sorte in Verkehr bringt, hat diese oder dieses in den Verkaufskatalogen oder sonstigen Informations- oder Werbematerialien klar als „gentechnisch veränderte Sorte“ gemeinsam mit dem Namen des GVO zu kennzeichnen.
+
+(4) Die Kennzeichnung gemäß Abs. 1 bis 3 hat Angaben über die durch die gentechnische Veränderung erwirkten besonderen Eigenschaften des Erzeugnisses (zB Herbizidtoleranz) zu enthalten.
+
+(5) Die Abs. 1 bis 4 gelten nicht für Saatgut, das den Voraussetzungen des § 3 entspricht.
+
+## § 6 – In-Kraft-Treten
+
+§ 6. Mit dem In-Kraft-Treten dieser Verordnung tritt die Saatgut-Gentechnik-Kennzeichnungsverordnung, BGBl. II Nr. 74/1999, außer Kraft.

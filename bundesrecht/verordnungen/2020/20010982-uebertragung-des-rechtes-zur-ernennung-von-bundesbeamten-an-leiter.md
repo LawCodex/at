@@ -1,0 +1,71 @@
+---
+title: "Übertragung des Rechtes zur Ernennung von Bundesbeamten an Leiter von nachgeordneten Dienstbehörden"
+identifier: "20010982"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 33/2020"
+last_amended: 2021-01-01
+last_amendment: "BGBl. II Nr. 370/2020"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2020/33/P0/NOR40220933"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010982"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# Übertragung des Rechtes zur Ernennung von Bundesbeamten an Leiter von nachgeordneten Dienstbehörden
+
+Verordnung des Bundesministers für Finanzen betreffend die Übertragung des Rechtes zur Ernennung von Bundesbeamten an Leiter von nachgeordneten Dienstbehörden
+
+StF: BGBl. II Nr. 33/2020
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 249/2020  
+BGBl. II Nr. 370/2020  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des Art. 66 Abs. 1 des Bundes-Verfassungsgesetzes (B-VG), BGBl. Nr. 1/1930, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 57/2019, in Verbindung mit der Entschließung des Bundespräsidenten betreffend die Ausübung des Rechtes zur Ernennung von Bundesbeamten, BGBl. Nr. 54/1995, in der Fassung der Verordnung, BGBl. II Nr. 245/2018, wird verordnet:
+
+## § 1
+
+§ 1. (1) Dem Leiter des Finanzamtes Österreich, des Zollamtes Österreich, des Amtes für Betrugsbekämpfung, des Finanzamtes für Großbetriebe, des Prüfdienstes für Lohnabgaben und Beiträge und der Zentralen Services, denen im Sinne des § 2 Abs. 3 des Dienstrechtsverfahrensgesetzes 1984, BGBl. Nr. 29, in der geltenden Fassung des Bundesgesetzes BGBl. I Nr. 61/2018, die Dienstbehördeneigenschaft zuerkannt wurde, sowie dem Präsidenten der Finanzprokuratur und der Präsidentin des Bundesfinanzgerichts wird das Recht auf Ernennung von Bundesbeamten auf die im § 2 genannten Planstellen übertragen.
+
+(2) Dem Geschäftsführer des Amtes der Buchhaltungsagentur und dem leitenden Angestellten des Amtes für Bundespensionen wird betreffend die zur Dienstleistung zugewiesenen Bundesbeamten das Recht auf Ernennung auf die im § 2 genannten Planstellen übertragen.
+
+## § 2
+
+§ 2. Das Ernennungsrecht umfasst
+
+1\. für Beamte der Allgemeinen Verwaltung und in handwerklicher Verwendung in den Verwendungsgruppen
+
+a) A die Dienstklassen III bis VII
+
+b) B die Dienstklassen III bis VI
+
+c) C die Dienstklassen III bis IV
+
+d) D, E und P 1 bis P 5 alle Planstellen
+
+2\. für Beamte des Allgemeinen Verwaltungsdienstes in den Verwendungsgruppen
+
+a) A 1 die Grundlaufbahn und die Funktionsgruppe 1
+
+b) A 2 und A 3 die Grundlaufbahn und die Funktionsgruppen 1 und 2
+
+c) A 4 bis A 7 alle Planstellen
+
+## § 3
+
+§ 3. (1) Die Verordnung BGBl. II Nr. 293/2012 in der Fassung der Verordnung BGBl. II Nr. 59/2015 tritt mit Ablauf des 31. Dezember 2020 außer Kraft.
+
+(2) Diese Verordnung tritt mit 1. Jänner 2021 in Kraft.
+
+(3) § 1 Abs.1 in der Fassung der Verordnung BGBl. II Nr. 370/2020 tritt mit 1. Jänner 2021 in Kraft.

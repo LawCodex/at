@@ -1,0 +1,511 @@
+---
+title: "Recyclinggips-Verordnung"
+identifier: "20012808"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 415/2024"
+last_amended: 2025-04-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2024/415/P0/NOR40267599"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012808"
+retrieved: 2026-10-11
+documents: 11
+---
+
+# Recyclinggips-Verordnung
+
+Verordnung der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie über die Behandlung von Gipsabfällen und die Herstellung und das Abfallende von Recyclinggips (Recyclinggips-Verordnung)
+
+StF: BGBl. II Nr. 415/2024
+
+## Präambel/Promulgationsklausel
+
+Auf Grund
+
+1\. des § 23 Abs. 1 und 3 des Abfallwirtschaftsgesetzes 2002 (AWG 2002), BGBl. I Nr. 102/2002, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 84/2024, und
+
+2\. der §§ 4 und 5 des AWG 2002
+
+wird – hinsichtlich des § 4 dieser Verordnung im Einvernehmen mit dem Bundesminister für Arbeit und Wirtschaft – durch die Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie verordnet:
+
+### § 1 – Ziele
+
+§ 1. Ziel dieser Verordnung ist die Erfüllung unionsrechtlicher Zielvorgaben in Bezug auf das hochwertige Recycling und die Kreislaufführung von Gips durch den Rückbau und die Trennpflicht beim Bau oder Abbruch von Bauwerken und die Sicherstellung einer hohen Qualität von Recyclinggips.
+
+### § 2 – Geltungsbereich
+
+§ 2. Diese Verordnung gilt für
+
+1\. bei Bau- oder Abbruchtätigkeiten anfallende Gipsplattenabfälle und Calciumsulfatestrichabfälle,
+
+2\. Gipsabfälle gemäß **Anhang 1** zur Verwendung für die Herstellung von Gipsplatten im Baubereich, bei denen die Abfalleigenschaft gemäß § 5 Abs. 2 des Abfallwirtschaftsgesetzes 2002 (AWG 2002), BGBl. I Nr. 102/2002, endet (Recyclinggips).
+
+### § 3 – Begriffsbestimmungen
+
+§ 3. Im Sinne dieser Verordnung ist bzw. sind
+
+1\. Calciumsulfatestrichabfälle: Abfälle von Estrichen, deren Bindemittel aus Calciumsulfathalbhydrat oder aus wasserfreiem natürlichem oder synthetischem Calciumsulfat (Anhydrit) bestehen;
+
+2\. Deklaration: die in den Aufzeichnungen dokumentierte Zuordnung eines Gipsabfalls zu einer bestimmungsgemäßen Verwendung als Produkt auf Basis eines gültigen Beurteilungsnachweises;
+
+3\. Feldprobe: eine Probe, aus der die Laborprobe für die nachfolgende Untersuchung hergestellt wird;
+
+4\. Gipsabfälle: Gipsplattenabfälle und andere Gipsabfälle (zB Gipsformen aus der keramischen Industrie, Stuckgips), die der Abfallart mit der SN (Schlüsselnummer) 31438 gemäß der Abfallverzeichnisverordnung 2020, BGBl. II Nr. 409/2020, zugeordnet sind, ausgenommen Tunnelausbruchmaterial und Calciumsulfatestrichabfälle;
+
+5\. Gipsplattenabfälle: Abfälle von Gipsplatten, Gips-Wandbauplatten, Gips-Feuerschutzplatten, Gipsplatten mit Vliesarmierung (Gipsvliesplatten), imprägnierten Gipsplatten, imprägnierten Gips-Wandbauplatten, imprägnierten Gips-Feuerschutzplatten und imprägnierten Gipsplatten mit Vliesarmierung (Gipsvliesplatten), Abfälle von Gipsfaserplatten;
+
+6\. Laborprobe: eine Probe, die nach Aufbereitung, Verjüngung und erforderlichenfalls Konservierung aus der Feldprobe erhalten und für die Laboruntersuchung verwendet wird;
+
+7\. Los: Menge eines Abfalls, die für die Entnahme einer Stichprobe für die Überprüfung der Qualitätsanforderungen vorgesehen ist;
+
+8\. qualifizierte Stichprobe: eine Probe, die aus mehreren Stichproben besteht und die einem Los zugeordnet werden kann;
+
+9\. Recyclinggips (RC-Gips): ein aus aufbereitetem Gipsabfall hergestellter Baustoff gemäß EU-Bauprodukte-Verordnung, der das Ende der Abfalleigenschaft gemäß dieser Verordnung erreicht hat und als Ersatz für Naturgips verwendet werden kann;
+
+10\. Rückstellprobe: ein aliquoter Anteil der Feldprobe, der für allfällige Kontrolluntersuchungen aufbewahrt wird und
+
+11\. Stichprobe: eine Probe, die an einem bestimmten Ort zu einem bestimmten Zeitpunkt gezogen wird; eine Stichprobe wird nicht einzeln untersucht, sondern mit anderen Stichproben zu einer qualifizierten Stichprobe zusammengefasst.
+
+### § 4 – Pflichten bei Bau- oder Abbruchtätigkeiten (Trennpflicht)
+
+§ 4. (1) Gipsplattenabfälle, einschließlich der Verschnitte, und Calciumsulfatestrichabfälle sind im Zuge des Abbruchs oder des Neubaus eines Bauwerks vor Ort von anderen Abfällen in folgende drei Gruppen zu trennen und trocken zu lagern:
+
+1\. Gipsplatten, Gips-Wandbauplatten, Gips-Feuerschutzplatten und Gipsplatten mit Vliesarmierung (Gipsvliesplatten) sowie imprägnierte Gipsplatten, imprägnierte Gips-Wandbauplatten, imprägnierte Gips-Feuerschutzplatten und imprägnierte Gipsplatten mit Vliesarmierung (Gipsvliesplatten);
+
+2\. Gipsfaserplatten;
+
+3\. Calciumsulfatestrich.
+
+Sofern eine Schad- und Störstofferkundung gemäß der Recycling-Baustoffverordnung (RBV), BGBl. II Nr. 181/2015, durch eine externe befugte Fachperson oder Fachanstalt oder durch eine externe rückbaukundige Person gemäß RBV durchgeführt wurde, sind auch die nicht für eine Verwertung geeigneten Gipsplattenabfälle und Calciumsulfatestrichabfälle vor Ort zu trennen.
+
+(2) Ist die Trennung gemäß Abs. 1 am Anfallsort technisch nicht möglich oder mit unverhältnismäßigen Kosten verbunden, so hat sie in einer dafür genehmigten Behandlungsanlage zu erfolgen.
+
+(3) Calciumsulfatestrichabfälle sind der Abfallart SN 31438 24 „Gips“ mit der Spezifizierung „Calciumsulfatestrich (Anhydritestrich)“ zuzuordnen.
+
+(4) Der Bauherr und der Bauunternehmer sind für die Trennung und die trockene Lagerung der Abfälle verantwortlich. Der Bauherr ist weiters für die Bereitstellung der hiefür erforderlichen Flächen und Einrichtungen verantwortlich. Der Bauherr und der Bauunternehmer haben die Trennung zu dokumentieren und die Dokumentation mindestens sieben Jahre nach Abschluss des Abbruchs oder des Neubaus eines Bauwerks aufzubewahren und der Behörde auf Verlangen vorzulegen.
+
+### § 5 – Zulässige Eingangsmaterialien für RC-Gips
+
+§ 5. RC-Gips gemäß dieser Verordnung darf ausschließlich aus Abfällen gemäß **Anhang 1** hergestellt werden. Insbesondere sind Verunreinigungen mit folgenden Stoffen oder Abfällen weitestgehend zu vermeiden:
+
+1\. Asbest;
+
+2\. künstliche Mineralfasern;
+
+3\. Fliesen und Fliesenklebern;
+
+4\. Gipsputzen;
+
+5\. (Zement) putzen;
+
+6\. Kalksandstein;
+
+7\. Porenbeton
+
+8\. Ziegeln;
+
+9\. Fließestrichen (zB Calciumsulfatestrich);
+
+10\. Elektroinstallationen (zB Kabel, Rohre);
+
+11\. Isolierungen, Wärmedämmungen (auch Verbundplatten);
+
+12\. Folien, Plastik und andere Kunststoffteilen;
+
+13\. Holz und Holzwolle (zB Leichtbauplatten);
+
+14\. Schilf- und Strohmatten (auch in Gipsplatten);
+
+15\. organische Substanzen (zB Dichtungen, Kleber);
+
+16\. anderen Abfällen (zB Dosen, Jausenreste, Leergebinde, Schutzausrüstungen, Sperrmüll).
+
+Abfälle, bei denen eine Kontamination, die im Rahmen der nachfolgenden Aufbereitung nicht entfernt werden kann, bekannt oder zu vermuten ist (zB aufgrund von Un- oder Störfällen), dürfen nicht für die Herstellung von RC-Gips verwendet werden.
+
+### § 6 – Abfallende für RC-Gips
+
+§ 6. (1) RC-Gips muss die Anforderungen gemäß **Anhang 1** erfüllen und verliert mit der Deklaration auf Basis der Übermittlung eines Beurteilungsnachweises der Erstuntersuchung an die Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie einschließlich der Erklärung über die Einhaltung des Vermischungsverbotes gemäß § 15 Abs. 2 AWG 2002 seine Abfalleigenschaft für die bestimmungsgemäße Verwendung. In den Aufzeichnungen gemäß der Verordnung über Jahresabfallbilanzen (AbfallbilanzV), BGBl. II Nr. 497/2008, in der jeweils geltenden Fassung, ist das Ende der Abfalleigenschaft in Form einer Buchung in ein Produktlager zu dokumentieren. Die Beurteilungsnachweise der Erstuntersuchung müssen elektronisch – soweit eingerichtet im Wege des Registers gemäß § 22 AWG 2002 – übermittelt werden.
+
+(2) Aufbereitete Gipsabfälle, die die Vorgaben gemäß **Anhang 1** erfüllen und für die das Ende der Abfalleigenschaft gemäß dieser Verordnung deklariert werden soll, sind der Abfallart SN 31443 „Recyclinggips, qualitätsgesichert“ zuzuordnen.
+
+(3) RC-Gips und die daraus hergestellten Produkte haben die für Produkte geltenden Anforderungen insbesondere die (bau)technischen und chemikalienrechtlichen Anforderungen (REACH) gemäß dem Stand der Technik einzuhalten.
+
+(4) RC-Gips gemäß dieser Verordnung darf nur für die Herstellung von Gipsplatten im Baubereich verwendet werden (bestimmungsgemäße Verwendung).
+
+(5) Der Hersteller von RC-Gips hat diesen eindeutig zu bezeichnen. Die Bezeichnung hat gemäß dem Stand der Technik ((bau)technische Eigenschaften, wie zB Hauptbestandteile, Korngröße, Feuchte) zu erfolgen und die Benennung „RC-Gips“ sowie die Zuordnung zur jeweiligen bestimmungsgemäßen Verwendung zu enthalten.
+
+(6) Der Hersteller von RC-Gips muss der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie bis zum Ablauf des 15. März jeden Jahres die Abnehmer (Name und Adresse) des RC-Gipses des vorangegangenen Kalenderjahres elektronisch – soweit eingerichtet im Wege des Registers gemäß § 22 AWG 2002 – übermitteln. Personenbezogene Daten sind längstens sieben Jahre aufzubewahren.
+
+(7) Der Hersteller von RC-Gips muss dem Abnehmer die Konformitätserklärung entsprechend **Anhang 2** übergeben oder in elektronischer Form zur Verfügung stellen.
+
+(8) Der Hersteller von RC-Gips muss fortlaufende Aufzeichnungen über die Abnehmer des abgegebenen RC-Gipses (Name, Adresse, Menge, Datum der Übergabe) führen und sieben Jahre aufbewahren.
+
+(9) Der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie müssen auf Verlangen die Beurteilungsnachweise gemäß Abs. 1 und Aufzeichnungen gemäß Abs. 8 vorgelegt werden. Beurteilungsnachweise und Konformitätserklärungen, die nicht elektronisch im Wege des Registers gemäß § 22 AWG 2002 übermittelt wurden, müssen mindestens sieben Jahre nach Ablauf der Gültigkeit aufbewahrt werden.
+
+(10) Nicht verwertbare Rückstände, die bei der Herstellung von RC-Gips anfallen, sind ordnungsgemäß zu beseitigen.
+
+### § 7 – Beginn der verpflichtenden Verwendung elektronischer Spezifikationen und Anwendungen
+
+§ 7. Für elektronische Übermittlungen sind die durch die Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie am EDM-Portal (edm.gv.at) veröffentlichten Spezifikationen und die für die elektronischen Übermittlungen über das Register eingerichteten Anwendungen zu verwenden. Die Verwendung der jeweiligen Anwendung ist nach Ablauf eines Monats nach ihrer Übernahme in den Regelbetrieb verpflichtend. Die Information über die Übernahme in den Regelbetrieb erfolgt am EDM-Portal.
+
+### § 8 – Inkrafttreten und Übergangsbestimmungen
+
+§ 8. (1) Diese Verordnung tritt mit dem der Kundmachung folgenden Monatsersten in Kraft, soweit Abs. 2 nichts anderes bestimmt.
+
+(2) § 4 tritt mit 1. April 2025 in Kraft.
+
+(3) Abweichend von **Anhang 1** Punkt 4 dürfen Analysen der Umweltparameter bis zum Ablauf des 31. Dezember 2025 durch externe befugte Fachpersonen oder Fachanstalten durchgeführt werden, die keine dafür akkreditierten Konformitätsbewertungsstellen sind.
+
+(4) Bescheidmäßige Bestimmungen, die dieser Verordnung widersprechen, treten mit Inkrafttreten dieser Verordnung außer Kraft.
+
+## Qualitätsanforderungen für RC-Gips
+
+### Anhang 1
+
+**1. Zulässige Abfallarten für die Herstellung von RC-Gips**
+
+Folgende Abfallarten gemäß der Verordnung über ein Abfallverzeichnis (Abfallverzeichnisverordnung 2020), BGBl. II Nr. 409/2020, in der jeweils geltenden Fassung, sind für die Herstellung von RC-Gips zulässig:
+
+<table>
+<tr>
+<td>SN</td>
+<td>g/gn</td>
+<td>Abfallbezeichnung</td>
+</tr>
+<tr>
+<td>31438 <sup>1) 2) 3)</sup></td>
+<td></td>
+<td>Gips</td>
+</tr>
+<tr>
+<td colspan="3"><sup>1)</sup> Kein Gips, dessen Asbestgehalt ≥ 0,008 M% ist<br><sup>2)</sup> Kein Tunnelausbruchmaterial<br><sup>3)</sup> Keine Calciumsulfatestrichabfälle</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+****2.** Vorgaben **für die Herstellung von RC-Gips****
+
+Der Hersteller von RC-Gips muss durch die Eingangskontrolle sicherstellen, dass nur Abfälle behandelt werden, die von der Genehmigung für die Behandlungsanlage umfasst und für die Herstellung von RC-Gips geeignet sind. Insbesondere ist der Abfall auf unzulässige Verunreinigungen gemäß § 5 zu prüfen. Der Hersteller muss bei der Annahme des Abfalls die Masse der Abfallart SN 31438 bestimmen. Diese Eingangskontrolle umfasst insbesondere eine visuelle Kontrolle, die Überprüfung der relevanten Dokumente und stichprobenartige Identitätskontrollen. Identitätskontrollen sind zumindest einmal pro 5.000 t Abfall durchzuführen. Verbleibende Verunreinigungen gemäß § 5 sind im Rahmen der Aufbereitung abzutrennen.
+
+**3. Vorgaben für RC-Gips**
+
+Tabelle 1: Technische Parameter und Grenzwerte für RC-Gips
+
+<table>
+<tr>
+<td>Parameter</td>
+<td>Einheit</td>
+<td colspan="2">Grenzwert</td>
+</tr>
+<tr>
+<td>Feuchte</td>
+<td>M%</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>CaSO<sub>4</sub> x 2H<sub>2</sub>0</td>
+<td>M%</td>
+<td>mindestens 80</td>
+<td></td>
+</tr>
+<tr>
+<td>TOC</td>
+<td>M%</td>
+<td>2,0</td>
+<td></td>
+</tr>
+<tr>
+<td>Geruch</td>
+<td></td>
+<td>neutral</td>
+<td></td>
+</tr>
+<tr>
+<td>MgO (wasserlöslich)</td>
+<td>M%</td>
+<td>0,10</td>
+<td></td>
+</tr>
+<tr>
+<td>Na<sub>2</sub>O (wasserlöslich)</td>
+<td>M%</td>
+<td>0,04</td>
+<td></td>
+</tr>
+<tr>
+<td>K<sub>2</sub>O (wasserlöslich)</td>
+<td>M%</td>
+<td>0,06</td>
+<td></td>
+</tr>
+<tr>
+<td>Chlorid</td>
+<td>M%</td>
+<td>0,02</td>
+<td></td>
+</tr>
+<tr>
+<td>pH-Wert</td>
+<td></td>
+<td>5 bis 9</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Tabelle 2: Umweltparameter und Grenzwerte für RC-Gips
+
+<table>
+<tr>
+<td>Parameter</td>
+<td>Einheit</td>
+<td colspan="2">Grenzwert</td>
+</tr>
+<tr>
+<td colspan="4">Gesamtgehalt</td>
+</tr>
+<tr>
+<td>As</td>
+<td>mg/kg TM</td>
+<td>5,1</td>
+<td></td>
+</tr>
+<tr>
+<td>Ba</td>
+<td>mg/kg TM</td>
+<td>58</td>
+<td></td>
+</tr>
+<tr>
+<td>Sb</td>
+<td>mg/kg TM</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>Be</td>
+<td>mg/kg TM</td>
+<td>3,0</td>
+<td></td>
+</tr>
+<tr>
+<td>Pb</td>
+<td>mg/kg TM</td>
+<td>84</td>
+<td></td>
+</tr>
+<tr>
+<td>Cd</td>
+<td>mg/kg TM</td>
+<td>2,4</td>
+<td></td>
+</tr>
+<tr>
+<td>Cr</td>
+<td>mg/kg TM</td>
+<td>30</td>
+<td></td>
+</tr>
+<tr>
+<td>Co</td>
+<td>mg/kg TM</td>
+<td>8,0</td>
+<td></td>
+</tr>
+<tr>
+<td>Cu</td>
+<td>mg/kg TM</td>
+<td>32</td>
+<td></td>
+</tr>
+<tr>
+<td>Mn</td>
+<td>mg/kg TM</td>
+<td>76</td>
+<td></td>
+</tr>
+<tr>
+<td>Mo</td>
+<td>mg/kg TM</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>Ni</td>
+<td>mg/kg TM</td>
+<td>40</td>
+<td></td>
+</tr>
+<tr>
+<td>Hg</td>
+<td>mg/kg TM</td>
+<td>1,4</td>
+<td></td>
+</tr>
+<tr>
+<td>Se</td>
+<td>mg/kg TM</td>
+<td>92</td>
+<td></td>
+</tr>
+<tr>
+<td>Sn</td>
+<td>mg/kg TM</td>
+<td>6,0</td>
+<td></td>
+</tr>
+<tr>
+<td>Te</td>
+<td>mg/kg TM</td>
+<td>4,0</td>
+<td></td>
+</tr>
+<tr>
+<td>Tl</td>
+<td>mg/kg TM</td>
+<td>6,0</td>
+<td></td>
+</tr>
+<tr>
+<td>V</td>
+<td>mg/kg TM</td>
+<td>30</td>
+<td></td>
+</tr>
+<tr>
+<td>Zn</td>
+<td>mg/kg TM</td>
+<td>94</td>
+<td></td>
+</tr>
+<tr>
+<td>Summe 16 PAK</td>
+<td>mg/kg TM</td>
+<td>0,20</td>
+<td></td>
+</tr>
+<tr>
+<td>PCDD/PCDF<sup>1)</sup></td>
+<td>ng TE/kg TM</td>
+<td>1,0</td>
+<td></td>
+</tr>
+<tr>
+<td>Asbest</td>
+<td>M%</td>
+<td>0,008</td>
+<td></td>
+</tr>
+<tr>
+<td>Radioaktivität gemäß RP 112 (Index)</td>
+<td></td>
+<td>0,5</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"><sup>1)</sup> Toxizitätsäquivalente (TE) gemäß Abfallverbrennungsverordnung 2024, BGBl. II Nr. 118/2024</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+**4. Qualitätsmanagement von RC-Gips**
+
+Jeder RC-Gips ist wie folgt zu beproben und zu untersuchen:
+
+Die Probenahmeplanung, Probenahme, Probenvorbereitung und Untersuchungen müssen von einer externen befugten Fachperson oder Fachanstalt sowie die Analysen der Umweltparameter von einer dafür akkreditierten Konformitätsbewertungsstelle durchgeführt werden.
+
+Für die Erstuntersuchung müssen aus dem ersten Los (Mindestmenge 200 t) zwei qualifizierte Stichproben gemäß ÖNORM S 2127 „Grundlegende Charakterisierung von Abfallhaufen oder von festen Abfällen aus Behältnissen und Transportfahrzeugen“, ausgegeben am 15. Juli 2024, hergestellt und getrennt voneinander untersucht werden. Im Rahmen der Erstuntersuchung sind folgende Parameter zu bestimmen: Technische Parameter und Umweltparameter (Gesamtgehalte) gemäß Kapitel 3 Tabellen 1 und 2. Eine Erstuntersuchung ist mindestens alle zwei Jahre durchzuführen.
+
+Für die Folgeuntersuchungen müssen mindestens zwei qualifizierte Stichproben pro Quartal aus einem beliebigen Los (Mindestmenge 200 t) hergestellt und getrennt voneinander untersucht werden, wobei folgende Parameter zu bestimmen sind: Technische Parameter und Umweltparameter (Gesamtgehalte) gemäß Kapitel 3 Tabellen 1 und 2. Folgeuntersuchungen sind mindestens einmal pro Quartal durchzuführen.
+
+Von allen Laborproben müssen Rückstellproben hergestellt und mindestens ein Jahr aufbewahrt werden.
+
+Hinsichtlich der Aufschluss- und Bestimmungsmethoden zur chemisch-analytischen Untersuchung gelten die Vorgaben des Anhangs 4 Teil 1 Kapitel 5 der Verordnung über Deponien (Deponieverordnung 2008 – DVO 2008), BGBl. II Nr. 39/2008, in der jeweils geltenden Fassung. Dort nicht festgelegte Parameter sind nach dem Stand der Technik zu bestimmen.
+
+Die Untersuchungsergebnisse sind in einem Beurteilungsnachweis zu dokumentieren. Der Beurteilungsnachweis muss von einer externen befugten Fachperson oder Fachanstalt erstellt werden und Folgendes enthalten:
+
+a) eindeutige Kennung;
+
+b) den Bezug zu vorangegangenen Beurteilungen;
+
+c) Name, Anschrift und GLN der externen befugten Fachperson oder Fachanstalt;
+
+d) Ausstellungsdatum, Stempel und Unterschrift;
+
+e) Name, Anschrift und GLN des Herstellers des RC-Gipses;
+
+f) grundlegende Angaben zum RC-Gips:
+
+i) Art der Gipsabfälle deren Abfalleigenschaft endet: Abfallart SN 31443 „Recyclinggips, qualitätsgesichert“;
+
+ii) Abfallersterzeuger der für die Herstellung des RC-Gipses verwendeten Gipsabfälle und seinen Standort; sofern die Gipsabfälle im Rahmen der kommunalen Sammlung gesammelt wurden, ist die Angabe der Gemeinde ausreichend;
+
+iii) Foto(s) des RC-Gipses;
+
+iv) die voraussichtliche jährliche Masse in t;
+
+g) Probenahmeprotokoll;
+
+h) angewandte Probenaufbereitungs-, Aufschluss- und Bestimmungsmethoden;
+
+i) Prüfbericht mit allen Analysenergebnissen;
+
+j) eine Erklärung, dass das Vermischungsverbot gemäß § 15 Abs. 2 AWG 2002 eingehalten wird und
+
+k) Angabe der bestimmungsgemäßen Verwendung und der vorgesehenen Abnehmer.
+
+Ein Beurteilungsnachweis für eine Erstuntersuchung ist längstens zwei Jahre gültig. Ein Beurteilungsnachweis für eine Folgeuntersuchung ist bis zur nächsten Folgeuntersuchung aber maximal sechs Monate gültig.
+
+Bei jeder Änderung des Aufbereitungsprozesses für RC-Gips, die Auswirkungen auf die Qualität des RC-Gipses haben kann, muss eine neue Erstuntersuchung durchgeführt werden.
+
+Der Hersteller von RC-Gips hat nachweislich ein Managementsystem gemäß ÖNORM EN ISO 9001 „Qualitätsmanagementsysteme – Anforderungen“, ausgegeben am 15. November 2015, oder gemäß ÖNORM EN ISO 14001 „Umweltmanagementsysteme – Anforderungen mit Anleitung zur Anwendung“, ausgegeben am 15. November 2015, einzurichten oder ist eine im EMAS-Register eingetragene Organisation gemäß Umweltmanagementgesetz (UMG), BGBl. I Nr. 96/2001, zuletzt geändert durch BGBl. I Nr. 98/2013, oder eine eingetragene Organisation gemäß einer Verordnung nach § 15 Abs. 5 UMG. Die Einhaltung der Vorgaben dieser Verordnung sind im Rahmen dieser Managementsysteme zu dokumentieren.
+
+## Konformitätserklärung
+
+### Anhang 2
+
+<table>
+<tr>
+<td><b>Konformitätserklärung</b></td>
+</tr>
+<tr>
+<td>1) Nr.</td>
+</tr>
+<tr>
+<td>2) Name des Ausstellers:<br>Anschrift des Ausstellers:</td>
+</tr>
+<tr>
+<td>3) Gegenstand der Erklärung:</td>
+</tr>
+<tr>
+<td>4) Das oben beschriebene Produkt ist konform mit den Anforderungen der folgenden Dokumente:<br>§ 6 und Anhang 1 der Recyclinggips-Verordnung, BGBl. II Nr. 415/2024</td>
+</tr>
+<tr>
+<td>5) Zusätzliche Angaben:<br>– Kennung des zugehörigen Beurteilungsnachweises:<br>– Gültigkeit des zugehörigen Beurteilungsnachweises:<br>– Die Untersuchungen wurden von folgender externen befugten Fachperson oder Fachanstalt durchgeführt:<br>– Angabe zur bestimmungsgemäßen Verwendung:</td>
+</tr>
+<tr>
+<td>6) Unterzeichnet für und im Namen von:<br>(Ort und Datum der Ausstellung)<br>(Name, Funktion) (Unterschrift oder Äquivalent, autorisiert durch den Aussteller)</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>

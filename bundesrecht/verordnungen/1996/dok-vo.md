@@ -1,0 +1,126 @@
+---
+title: "Sicherheits- und Gesundheitsschutzdokumente"
+abbreviation: "DOK-VO"
+identifier: "10009021"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 478/1996"
+last_amended: 1997-02-21
+last_amendment: "BGBl. II Nr. 53/1997"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1996/478/P0/NOR11009192"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009021"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Sicherheits- und Gesundheitsschutzdokumente (DOK-VO)
+
+Verordnung des Bundesministers für Arbeit und Soziales über die Sicherheits- und Gesundheitsschutzdokumente (DOK-VO)
+
+StF: BGBl. Nr. 478/1996 [CELEX-Nr.: 389L0391]
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 53/1997  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 5 und 18 Z 1 des Bundesgesetzes über Sicherheit und Gesundheitsschutz bei der Arbeit (ArbeitnehmerInnenschutzgesetz – ASchG), BGBl. Nr. 450/1994, wird vom Bundesminister für Arbeit und Soziales sowie auf Grund des § 132 Abs. 3 Z 6 in Verbindung mit § 18 Z 1 ASchG wird für Betriebe und Tätigkeiten, die der Gewerbeordnung 1994, BGBl. Nr. 194, unterliegen, vom Bundesminister für Arbeit und Soziales im Einvernehmen mit dem Bundesminister für wirtschaftliche Angelegenheiten verordnet:
+
+#### § 1 – Allgemeine Bestimmungen
+
+§ 1. (1) Das Sicherheits- und Gesundheitsschutzdokument im Sinne des § 5 ASchG ist übersichtlich zu gestalten. Gleichartige Arbeitsplätze oder Arbeitsvorgänge oder Gefahrenbereiche können zusammengefaßt dokumentiert werden. Die für eine Arbeitsstätte erstellten Sicherheits- und Gesundheitsschutzdokumente sind möglichst einheitlich zu gestalten.
+
+(2) Die Dokumentation kann auch in graphischer Form erfolgen, soweit dies zweckmäßig ist, insbesondere durch Verwendung von Symbolen, Plänen, Layouts, und Skizzen.
+
+(3) Die Dokumentation kann auch automationsunterstützt erfolgen. Es muß gewährleistet sein, daß alle Berechtigten Zugang zu den Sicherheits- und Gesundheitsschutzdokumenten haben. Ist der ausreichende Zugang nicht auf andere Weise gewährleistet, muß ein Ausdruck der Sicherheits- und Gesundheitsschutzdokumente zur Einsichtnahme aufliegen.
+
+#### § 2 – Inhalt
+
+§ 2. (1) Das Sicherheits- und Gesundheitsschutzdokument muß jedenfalls enthalten:
+
+1\. Angaben über die Person, die die Ermittlung und Beurteilung der Gefahren durchgeführt hat; wenn die Ermittlung und Beurteilung der Gefahren von mehreren Personen durchgeführt wurde, weiters Angaben über ihren Aufgabenbereich; Angaben über allfällige für Messungen, Berechnungen und Analysen beigezogene fachkundige Personen;
+
+2\. Angaben über den Tag oder den Zeitraum der erstmaligen Ermittlung und Beurteilung der Gefahren;
+
+3\. Angaben über den Bereich (insbesondere Arbeitsplatz, Arbeitsraum, Organisationseinheit, Arbeitsstätte), auf den sich das Sicherheits- und Gesundheitsschutzdokument bezieht und über die Anzahl der in diesem Bereich zum Zeitpunkt der Ermittlung und Beurteilung der Gefahren beschäftigten Arbeitnehmer/innen;
+
+4\. die festgestellten Gefahren;
+
+5\. die durchzuführenden Maßnahmen zur Gefahrenverhütung auf technischem und organisatorischem Gebiet;
+
+6\. bei jenen vorgesehenen Maßnahmen, die nicht umgehend umgesetzt werden können, zusätzlich Angaben über die Zuständigkeit für die Umsetzung und über die Umsetzungsfrist.
+
+(2) Soweit dies für den Bereich, auf den sich das Sicherheits- und Gesundheitsschutzdokument bezieht, zutrifft, muß es auch enthalten:
+
+1\. die Festlegung der Arbeitsplätze oder Arbeitsbereiche, für die nach dem 5. Abschnitt des ASchG Eignungsuntersuchungen, Folgeuntersuchungen, Untersuchungen bei Lärmeinwirkung oder sonstige besondere Untersuchungen vorgesehen sind;
+
+2\. die Festlegung der Tätigkeiten, für die ein Nachweis der Fachkenntnisse im Sinne des § 63 ASchG notwendig ist;
+
+3\. Angaben über die notwendigen persönlichen Schutzausrüstungen;
+
+4\. Angaben über Bereiche, die besonders zu kennzeichnen sind, oder für die Zutrittsbeschränkungen bestehen;
+
+5\. Vorkehrungen für ernste und unmittelbare Gefahren im Sinne des § 3 Abs. 3 und 4 ASchG.
+
+(3) Soweit dies für den Bereich, auf den sich das Sicherheits- und Gesundheitsschutzdokument bezieht, zutrifft, muß es auch enthalten:
+
+1\. ein Verzeichnis der verwendeten gefährlichen Arbeitsstoffe im Sinne des § 40 ASchG;
+
+2\. ein Verzeichnis der Arbeitsmittel, für die Prüfungen im Sinne des § 37 ASchG notwendig sind, samt allfälligen Prüfplänen;
+
+gegebenenfalls Wartungspläne für Arbeitsmittel;
+
+3\. Brandschutzordnung, Evakuierungspläne, Explosionsschutzdokument.
+
+(4) Die in Abs. 3 angeführten Unterlagen können auch gesondert geführt werden. In diesem Fall muß das Sicherheits- und Gesundheitsschutzdokument einen Verweis auf diese Unterlagen enthalten.
+
+(5) Werden in dem Bereich, auf den sich das Sicherheits- und Gesundheitsschutzdokument bezieht, gefährliche Arbeitsstoffe verwendet, für die Grenzwerte im Sinne des § 45 ASchG gelten, sind im Dokument auch die zur Anwendung kommenden MAK-Werte oder TRK-Werte anzuführen.
+
+(6) Werden bei der Festlegung von Maßnahmen zur Gefahrenverhütung ÖNORMEN, harmonisierte europäische Normen (EN oder ÖNORM EN), ÖVE-Vorschriften, Unfallverhütungsvorschriften, Technische Richtlinien oder sonstige anerkannte Regeln der Technik zugrundegelegt, sind diese im Sicherheits- und Gesundheitsschutzdokument anzuführen.
+
+#### § 2a
+
+§ 2a. Die Sicherheits- und Gesundheitsschutzdokumente für Arbeitsstätten, in denen nicht mehr als zehn Arbeitnehmer/innen regelmäßig beschäftigt werden und in denen keine Gefahren bestehen, für die Schutzmaßnahmen festzulegen sind, können entsprechend der Anlage zu dieser Verordnung gestaltet werden.
+
+#### § 3 – Überprüfung und Anpassung
+
+§ 3. (1) Bei einer Überprüfung und Anpassung der Ermittlung und Beurteilung der Gefahren oder der Maßnahmen zur Gefahrenverhütung im Sinne des § 4 Abs. 4 und 5 ASchG muß auch eine Anpassung des Sicherheits- und Gesundheitsschutzdokumentes erfolgen.
+
+(2) Aus dem Sicherheits- und Gesundheitsschutzdokument muß sich ergeben, wer die Überprüfung und Anpassung der Ermittlung und Beurteilung der Gefahren vorgenommen hat, wann sie erfolgt ist und auf welchen Bereich sie sich bezieht.
+
+#### § 4 – Zuständige Personen
+
+§ 4. Aus dem Sicherheits- und Gesundheitsschutzdokument muß sich ergeben, welche Personen innerbetrieblich für Fragen der Sicherheit und des Gesundheitsschutzes zuständig sind, oder welche innerbetriebliche Stelle nähere Auskünfte über Personen und Dienste mit besonderen Aufgaben auf diesem Gebiet erteilt.
+
+#### § 5 – Inkrafttreten
+
+§ 5. (1) Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft.
+
+(2) § 2a in der Fassung der Verordnung BGBl. II Nr. 53 tritt mit 1. Jänner 1997 in Kraft.
+
+## Sicherheits- und Gesundheitsschutzdokument
+
+### für Arbeitsstätten mit bis zu zehn Arbeitnehmern, in denen bei der Gefahrenermittlung und -beurteilung keine Gefährdungen von Arbeitnehmern festgestellt wurden, für die Schutzmaßnahmen festzulegen sind
+
+#### Anlage
+
+| Bezeichnung der Arbeitsstätte: |  |
+|---|---|
+| Adresse: |  |
+| Zahl der im Zeitpunkt der Gefahrenermittlung und –beurteilung beschäftigten AN: |  |
+|  |  |
+
+Bei der Gefahrenermittlung und -beurteilung (§ 4 ASchG) wurden **keine Gefährdungen** von Arbeitnehmern festgestellt, für die Schutzmaßnahmen festzulegen wären.
+
+| Ermittlung durchgeführt von: |  |
+|---|---|
+| Datum, Unterschrift: |  |
+|  |  |

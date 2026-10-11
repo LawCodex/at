@@ -1,0 +1,647 @@
+---
+title: "Zimmereitechnik-Ausbildungsordnung"
+identifier: "20009173"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 130/2015"
+last_amended: 2021-07-01
+last_amendment: "BGBl. II Nr. 197/2021"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2015/130/P0/NOR40170680"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009173"
+retrieved: 2026-10-11
+documents: 15
+---
+
+# Zimmereitechnik-Ausbildungsordnung
+
+Verordnung des Bundesministers für Wissenschaft, Forschung und Wirtschaft über die Berufsausbildung im Lehrberuf Zimmereitechnik (Zimmereitechnik-Ausbildungsordnung)
+
+StF: BGBl. II Nr. 130/2015
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 197/2021  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 8, 24 und 27 des Berufsausbildungsgesetzes (BAG), BGBl. Nr. 142/1969, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 129/2013, wird verordnet:
+
+### § 1 – Lehrberuf Zimmereitechnik
+
+§ 1.(1) Der Lehrberuf Zimmereitechnik ist mit einer Lehrzeit von vier Jahren eingerichtet.
+
+(2) In den Lehrverträgen, Lehrzeugnissen, Lehrabschlussprüfungszeugnissen und Lehrbriefen ist der Lehrberuf in der dem Geschlecht des Lehrlings entsprechenden Form (Zimmereitechniker oder Zimmereitechnikerin) zu bezeichnen.
+
+### § 2 – Berufsprofil
+
+§ 2. (1) Durch die Berufsausbildung im Lehrbetrieb und in der Berufsschule soll der im Lehrberuf Zimmereitechnik ausgebildete Lehrling befähigt werden, die nachfolgenden Tätigkeiten fachgerecht, selbständig und eigenverantwortlich ausführen zu können:
+
+1\. Lagern, Pflegen und Auswählen des Werkstoffes Holz und anderer Bau- und Bauhilfsstoffe,
+
+2\. Einrichten und Absichern von Baustellen und Arbeitsplätzen sowie Erstellen von Arbeits-, Schutz- und Traggerüsten,
+
+3\. manuelles und maschinelles Bearbeiten von Holz sowie Herstellen von Holzverbindungen,
+
+4\. Herstellen unterschiedlichster Holzkonstruktionen wie zB Dachkonstruktionen, Wände, Decken, Treppen, Türen, Tore, Türme, Brücken,
+
+5\. Bearbeiten und konstruktives sowie chemisches Schützen von Holzkonstruktionen,
+
+6\. Einbauen von Holzkonstruktionen wie zB Dachkonstruktionen, Wände und Decken sowie von vorgefertigten Bauteilen wie zB Türen und Fenster, Treppen, Wand- und Deckenverkleidungen und Holzfußböden mittels verschiedener Befestigungs- und Montagemethoden,
+
+7\. Durchführen von Erhaltungs- und Instandsetzungsarbeiten an Holzkonstruktionen,
+
+8\. Ausführen des Trockenbaus sowie Herstellen von Schalungen, Lattungen und Eindeckungen,
+
+9\. Einbauen von Dämmstoffen zum Wärme-, Kälte-, Brand- und Schallschutz,
+
+10\. Planen und Herstellen von Produkten, Einzelteilen oder Baugruppen für Holzkonstruktionen nach eigenen Ideen oder nach Vorgaben sowie Erstellen der dazu notwendigen Pläne (Abbund-, Fertigungs- und Montagepläne) sowie Durchführen von Berechnungen (zB Kalkulieren des Materialverbrauchs),
+
+11\. Durchführen von Berechnungen im Zusammenhang mit der Gestaltung von Produkten, Einzel-teilen oder Baugruppen für Holzkonstruktionen,
+
+12\. Auswählen und Zusammenstellen von Werkstoffen und Hilfsstoffen sowie Mitarbeiten bei Kalkulationen,
+
+13\. Mitwirken bei der Auftragsabwicklung wie Arbeitsvorbereitung, beim Organisieren, Durchführen und Überwachen des Auftrages, bei der Koordination mit anderen Gewerken sowie Organisieren der betrieblichen Logistik,
+
+14\. Anlegen von Dokumentationen über die Arbeitsabläufe sowie über Arbeitsstunden und Materialverbrauch (wie zB Pflichtenhefte, Übergabeprotokolle, Aufmassabrechnung, Aufmasstabellen, Bautagebücher) auch unter Verwendung rechnergestützter Systeme,
+
+15\. Beraten von Kunden und Kundinnen im Bereich Holzbau (Instandhaltung, Wartung, Ausführung usw.),
+
+16\. Ausführen der Arbeiten unter Berücksichtigung der einschlägigen Sicherheitsvorschriften, Normen und Umweltstandards.
+
+### § 3 – Berufsbild
+
+§ 3. (1) Für die Ausbildung im Lehrberuf Zimmereitechnik wird folgendes Berufsbild festgelegt. Die angeführten Fertigkeiten und Kenntnisse sind spätestens in dem jeweils angeführten Lehrjahr beginnend derart zu vermitteln, dass der Lehrling zur Ausübung qualifizierter Tätigkeiten im Sinne des Berufsprofils befähigt wird, die insbesondere selbstständiges Planen, Durchführen, Kontrollieren und Optimieren einschließt.
+
+<table>
+<tr>
+<td><br>Pos.</td>
+<td>1. Lehrjahr</td>
+<td>2. Lehrjahr</td>
+<td>3. Lehrjahr</td>
+<td>4. Lehrjahr</td>
+</tr>
+<tr>
+<td>1.</td>
+<td>Kenntnis der Betriebs- und Rechtsform des Lehrbetriebes</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>2.</td>
+<td colspan="2">Kenntnis des organisatorischen Aufbaus und der Aufgaben und Zuständigkeiten der einzelnen Betriebsbereiche</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Einführung in die Aufgaben, die Branchenstellung und das Angebot des Lehrbetriebs</td>
+<td colspan="2">Kenntnis der Marktposition und des Kundenkreises des Lehrbetriebes</td>
+<td>–</td>
+</tr>
+<tr>
+<td>4.</td>
+<td colspan="4"><b>Fachübergreifende Ausbildung (Schlüsselqualifikationen)</b><br>In der <b>Art der Vermittlung </b>der fachlichen Kenntnisse und Fertigkeiten ist auf die Förderung folgender fachübergreifender Kompetenzen des Lehrlings Bedacht zu nehmen:</td>
+</tr>
+<tr>
+<td>4.1</td>
+<td colspan="4"><b>Methodenkompetenz:</b> zB Lösungsstrategien entwickeln, Informationen selbstständig beschaffen, auswählen und strukturieren, Entscheidungen treffen etc.</td>
+</tr>
+<tr>
+<td>4.2</td>
+<td colspan="4"><b>Soziale Kompetenz:</b> zB in Teams arbeiten, Mitarbeiter/innen führen etc.</td>
+</tr>
+<tr>
+<td>4.3</td>
+<td colspan="4"><b>Personale Kompetenz:</b> zB Selbstvertrauen und Selbstbewusstsein, Bereitschaft zur Weiterbildung, Bedürfnisse und Interessen artikulieren etc.</td>
+</tr>
+<tr>
+<td>4.4</td>
+<td colspan="4"><b>Kommunikative Kompetenz:</b> zB mit Kunden/innen, Vorgesetzten, Kollegen/innen und anderen Personengruppen zielgruppengerecht kommunizieren; Englisch auf branchen- und betriebsüblichem Niveau zum Bestreiten von Alltags- und Fachgesprächen beherrschen</td>
+</tr>
+<tr>
+<td>4.5</td>
+<td colspan="4"><b>Arbeitsgrundsätze:</b> zB Sorgfalt, Zuverlässigkeit, Verantwortungsbewusstsein, Pünktlichkeit etc.</td>
+</tr>
+<tr>
+<td>4.6</td>
+<td colspan="4"><b>Kundenorientierung: i</b>m Zentrum aller Tätigkeiten im Betrieb hat die Orientierung an den Bedürfnissen der Kunden/innen unter Berücksichtigung der Sicherheit zu stehen</td>
+</tr>
+<tr>
+<td>5.</td>
+<td colspan="4">Ergonomisches Gestalten des Arbeitsplatzes</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Kenntnis der Arbeitsplanung und Arbeitsvorbereitung</td>
+<td colspan="2">Durchführen der Arbeitsplanung; Festlegen von Arbeitsschritten, Arbeitsmitteln und Arbeitsmethoden</td>
+<td>–</td>
+</tr>
+<tr>
+<td>7.</td>
+<td colspan="4">Kenntnis des Aufbaus, der Funktion und der Anwendung von Zimmererwerkzeug, Handmaschinen, stationären Holzbearbeitungsmaschinen und CNC-gesteuerten Maschinen (wie zB Abbundmaschinen)</td>
+</tr>
+<tr>
+<td>8.</td>
+<td colspan="4">Handhaben, Warten, Pflegen und Instandhalten der zu verwendenden Werkzeuge, Maschinen, Geräte, Vorrichtungen, Einrichtungen und Arbeitsbehelfe unter fachgerechter Verwendung der Schutzausrüstung</td>
+</tr>
+<tr>
+<td>9.</td>
+<td colspan="4">Kenntnis des Werkstoffes Holz und anderer Bau- und Bauhilfsstoffe, ihrer Eigenschaften, Bearbeitungsmöglichkeiten, Verarbeitungsmöglichkeiten und Verwendungsmöglichkeiten</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Kenntnis über die Lagerung Pflege und Auswahl des Werkstoffes Holz und anderer Bau- und Bauhilfsstoffe sowie über die schädlichen Einflüsse auf die Werkstoffe und deren Abwehr</td>
+<td>Mitwirken beim Lagern, Pflegen und Auswählen des Werkstoffes Holz und anderer Bau- und Bauhilfsstoffe</td>
+<td>Lagern, Pflegen und Auswählen des Werkstoffes Holz und anderer Bau- und Bauhilfsstoffe</td>
+<td>–</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Grundkenntnisse der Verladung und des Transports von Holzbauteilen und Holzkonstruktionen</td>
+<td colspan="2">Mitarbeiten beim Verladen und Transportieren von Holzbauteilen und Holzkonstruktionen</td>
+<td>–</td>
+</tr>
+<tr>
+<td>12.</td>
+<td colspan="2">Mitarbeit beim Einrichten und Absichern von Baustellen und Arbeitsplätzen</td>
+<td>Einrichten und Absichern von Baustellen und Arbeitsplätzen</td>
+<td>–</td>
+</tr>
+<tr>
+<td>13.</td>
+<td colspan="2">Kenntnis des Erstellens (Aufstellen, Instand halten, Bedienen, Abtragen) von Arbeits-, Schutz- und Traggerüsten</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>14</td>
+<td></td>
+<td colspan="2">Erstellen von Arbeits-, Schutz- und Traggerüsten</td>
+<td>–</td>
+</tr>
+<tr>
+<td>15.</td>
+<td colspan="4">Lesen von Skizzen und Zeichnungen samt Stücklisten sowie Anwenden von Materiallisten</td>
+</tr>
+<tr>
+<td>16.</td>
+<td colspan="2">Anfertigen von Skizzen und einfachen Zeichnungen auch unter Verwendung rechnergestützter Systeme</td>
+<td>Anfertigen von Zeichnungen auch unter Verwendung rechnergestützter Systeme</td>
+<td>–</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Messen mit einfachen Messgeräten</td>
+<td colspan="2">Messen mit Spezialgeräten (zB Laser und Nivelliergeräte)</td>
+<td>–</td>
+</tr>
+<tr>
+<td>18.</td>
+<td colspan="2">Prüfen (Ebenheit, Höhenlage, Maßhaltigkeit, Feuchtigkeit) und Vorbereiten von Untergründen</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>19.</td>
+<td colspan="4">Kenntnis der diversen Dachformen sowie des Aufbaus von Dachkonstruktionen</td>
+</tr>
+<tr>
+<td>20.</td>
+<td colspan="4">Kenntnis der Arbeitsweisen und Arbeitsschritte (Anreißen, Bearbeiten, Zusammenpassen und Kennzeichnen) des traditionellen, zeichnerischen, rechnerischen und computergestützten (inklusive Abbundsoftware) Abbindens zur Herstellung verschiedenster Holzkonstruktionen (zB Dachkonstruktionen, Wände, Decken, Treppen, Türen, Tore, Türme, Brücken)</td>
+</tr>
+<tr>
+<td>21.</td>
+<td colspan="2">Kenntnis der Anrisszeichen (zB Bundzeichen, Abschnitt, Mauer- oder Kantenriss, Mittel- bzw. Achsriss oder Fehlriss) und der Abbundzeichen</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>22.</td>
+<td colspan="2">Manuelles und maschinelles Bearbeiten von Holz durch Sägen, Stemmen, Schlitzen, Hobeln, Raspeln, Schleifen, Bohren, Graten, Fasen, Behauen</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>23.</td>
+<td colspan="2">Herstellen von Holzverbindungen durch Dübeln, Nageln, Schrauben, Blatt, Versatz und Zapfen sowie Kleben</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>24.</td>
+<td>Mitarbeiten beim traditionellen und zeichnerischen Abbinden zur Herstellung von Holzkonstruktionen</td>
+<td colspan="2">Traditionelles und zeichnerisches Abbinden zur Herstellung von Holzkonstruktionen</td>
+<td>–</td>
+</tr>
+<tr>
+<td>25.</td>
+<td>–</td>
+<td>Mitarbeiten beim rechnerischen und computergestützten Abbinden zur Herstellung von Holzkonstruktionen</td>
+<td>Rechnerisches und computergestütztes Abbinden zur Herstellung von Holzkonstruktionen</td>
+<td>–</td>
+</tr>
+<tr>
+<td>26.</td>
+<td>–</td>
+<td colspan="2">Kenntnis der Holztrocknung und Holzfeuchtemessung</td>
+<td>–</td>
+</tr>
+<tr>
+<td>27.</td>
+<td colspan="4">Bearbeiten von Holzoberflächen mit handgeführten Maschinen sowie konstruktives und chemisches Schützen von Holzkonstruktionen</td>
+</tr>
+<tr>
+<td>28.</td>
+<td colspan="2">Kenntnis der Anwendung von Befestigungs- und Montagehilfsmittel wie Dübel, Verankerungen, Abstandhalter, Stahlblechverbindungsmittel usw.</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>29.</td>
+<td colspan="2">Mitarbeiten beim Einbauen von Holzkonstruktionen wie zB Dachkonstruktionen, Wände und Decken</td>
+<td>Einbauen von Holzkonstruktionen wie zB Dachkonstruktionen, Wände und Decken mittels verschiedener Befestigungs- und Montagemethoden</td>
+<td>–</td>
+</tr>
+<tr>
+<td>30.</td>
+<td>–</td>
+<td colspan="2">Berechnen und Ausführen von Dachlattungen</td>
+<td>–</td>
+</tr>
+<tr>
+<td>31.</td>
+<td colspan="2">Kenntnis des Einbaus von vorgefertigten Bauteilen wie zB Türen und Fenster, Treppen, Wand- und Deckenverkleidungen und Holzfußböden mittels verschiedener Befestigungs- und Montagemethoden</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>32.</td>
+<td>–</td>
+<td colspan="2">Einbauen von vorgefertigten Bauteilen wie zB Türen und Fenster, Treppen, Wand- und Deckenverkleidungen und Holzfußböden mittels verschiedener Befestigungs- und Montagemethoden</td>
+<td>–</td>
+</tr>
+<tr>
+<td>33.</td>
+<td colspan="2">Kenntnis des Ausbildens von Fugen und Ecken bei Holzkonstruktionen (Schlagregen, Winddichtigkeit) sowie des Herstellens von Anschlüssen</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>34.</td>
+<td>Mitarbeiten beim Ausbilden von Fugen und Ecken bei Holzkonstruktionen sowie beim Herstellen von Anschlüssen</td>
+<td colspan="2">Ausbilden von Fugen und Ecken bei Holzkonstruktionen sowie beim Herstellen von Anschlüssen</td>
+<td>–</td>
+</tr>
+<tr>
+<td>35.</td>
+<td>–</td>
+<td colspan="2">Durchführen von Erhaltungs- und Instandsetzungsarbeiten an Holzkonstruktionen</td>
+<td>–</td>
+</tr>
+<tr>
+<td>36.</td>
+<td colspan="2">Kenntnis des Trockenbaus wie Herstellen von Unterkonstruktionen, Verarbeiten von Gipskarton- und Gipsfaserplatten, Verspachteln, Herstellen der Anschluss- und Bewegungsfugen</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>37.</td>
+<td>–</td>
+<td colspan="2">Ausführen des Trockenbaus wie Herstellen von Unterkonstruktionen, Verarbeiten von Gipskarton- und Gipsfaserplatten, Verspachteln, Herstellen der Anschluss- und Bewegungsfugen</td>
+<td>–</td>
+</tr>
+<tr>
+<td>38.</td>
+<td>Grundkenntnisse der Bauökologie und der Bauphysik inklusive Statik</td>
+<td>Kenntnis des Wärme-, Kälte-, Feuchte-, Brand- und Schallschutzes inklusive An- und Abschlüssen</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>39.</td>
+<td>–</td>
+<td colspan="2">Einbauen von Dämmstoffen zum Wärme-, Kälte-, Feuchte-, Brand- und Schallschutz sowie von Abdichtungsmaterialien</td>
+<td>–</td>
+</tr>
+<tr>
+<td>40.</td>
+<td>–</td>
+<td>Kenntnis des Einbaus bzw. der Montage von Energieanlagen wie zB Photovoltaik- und Solaranlagen und der von solchen Anlagen ausgehenden Gefahren</td>
+<td>Einbauen bzw. Montieren von Energieanlagen (ohne Anschlussarbeiten) wie zB Photovoltaik und Solaranlagen unter Beachtung der von solchen Anlagen ausgehenden Gefahren</td>
+<td>–</td>
+</tr>
+<tr>
+<td>41.</td>
+<td colspan="2">Kenntnis der Herstellung von Schalungen (zB für Fundamente, Stützen, Wände)</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>42.</td>
+<td>Mitarbeiten beim Herstellen von Schalungen, Lattungen und Eindeckungen</td>
+<td colspan="2">Herstellen von Schalungen, Lattungen und Eindeckungen</td>
+<td>–</td>
+</tr>
+<tr>
+<td>43.</td>
+<td>–</td>
+<td colspan="2">Kontrollieren und Prüfen der ausgeführten Arbeiten sowie Erkennen und Beheben von Mängeln</td>
+<td>–</td>
+</tr>
+<tr>
+<td>44.</td>
+<td colspan="4">Kenntnis der berufsspezifischen Normen und Rechtsvorschriften (zB technische Bauvorschriften, Bauordnungen)</td>
+</tr>
+<tr>
+<td>45.</td>
+<td>–</td>
+<td>–</td>
+<td>Mitwirken beim Beraten von Kunden/innen im Bereich Holzbau (Instandhaltung, Wartung, Ausführung usw.)</td>
+<td>Beraten von Kunden/innen im Bereich Holzbau (Instandhaltung, Wartung, Ausführung usw.)</td>
+</tr>
+<tr>
+<td>46.</td>
+<td>–</td>
+<td>–</td>
+<td colspan="2">Grundkenntnisse der Garantie, Gewährleistung und des Schadenersatzes</td>
+</tr>
+<tr>
+<td>47.</td>
+<td>–</td>
+<td>–</td>
+<td colspan="2">Kenntnis der neuestens Trends im betrieblichen Produktbereich</td>
+</tr>
+<tr>
+<td>48.</td>
+<td>–</td>
+<td>–</td>
+<td colspan="2">Kenntnis des Ingenieurholzbaus insbesondere der Bearbeitungs- und Montagetechnik (Verbindungsmittel)</td>
+</tr>
+<tr>
+<td>49.</td>
+<td>–</td>
+<td>–</td>
+<td colspan="2">Kenntnis der Besonderheiten des Bauelementebaus insbesondere der Produktionsverfahren, der Logistik und der Montagevorbereitungen</td>
+</tr>
+<tr>
+<td>50.</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>Kenntnis der branchenspezifischen Bauphysik wie zB<br>U-Wert und Energieausweis</td>
+</tr>
+<tr>
+<td>51.</td>
+<td>–</td>
+<td colspan="3">Kenntnis der berufsspezifischen EDV sowie Anwenden der betriebsspezifischen EDV und von verschiedenen Informationstechniken (zB Internet, Datenbanken)</td>
+</tr>
+<tr>
+<td>52.</td>
+<td>–</td>
+<td>–</td>
+<td colspan="2">Kenntnis der Möglichkeiten des Computereinsatzes (Holzbauprogramme) bei der Planung von Produkten, Einzelteilen oder Baugruppen von Holzkonstruktionen</td>
+</tr>
+<tr>
+<td>53.</td>
+<td>–</td>
+<td>–</td>
+<td colspan="2">Planen und Herstellen von Produkten, Einzelteilen oder Baugruppen für Holzkonstruktionen nach eigenen Ideen oder nach Vorgaben sowie Erstellen der dazu notwendigen Pläne (Abbund-, Fertigungs- und Montagepläne)</td>
+</tr>
+<tr>
+<td>54.</td>
+<td>–</td>
+<td>–</td>
+<td>Mitwirken bei Berechnungen im Zusammenhang mit der Planung von Produkten, Einzelteilen oder Baugruppen für Holzkonstruktionen (zB Kalkulieren des Materialverbrauchs)</td>
+<td>Durchführen von Berechnungen im Zusammenhang mit der Planung von Produkten, Einzelteilen oder Baugruppen für Holzkonstruktionen (zB Kalkulieren des Materialverbrauchs)</td>
+</tr>
+<tr>
+<td>55.</td>
+<td>–</td>
+<td>–</td>
+<td colspan="2">Auswählen und Zusammenstellen von Werkstoffen und Hilfsstoffen</td>
+</tr>
+<tr>
+<td>56.</td>
+<td colspan="2">Grundkenntnisse der betrieblichen Kosten, deren Beeinflussbarkeit und deren Auswirkungen<br>–</td>
+<td colspan="2">Kenntnis der betriebsspezifischen Kostenrechnung und Kalkulation sowie Mitarbeiten bei Kalkulationen</td>
+</tr>
+<tr>
+<td>57.</td>
+<td>–</td>
+<td colspan="2">Kenntnis der Auftragsabwicklung wie Arbeitsvorbereitung (Werkzeuge, Maschinen, Personal, Materialplanung, Baustellenorganisation), Organisieren, Durchführen und Überwachen des Auftrages (Qualität, Termine) sowie Koordination mit anderen Gewerken</td>
+<td>Mitwirken bei der Auftragsabwicklung wie Arbeits-vorbereitung, beim Organisieren, Durchführen und Überwachen des Auftrages sowie bei der Koordination mit anderen Gewerken</td>
+</tr>
+<tr>
+<td>58.</td>
+<td>–</td>
+<td colspan="2">Kenntnis der betrieblichen Logistik wie Beschaffung, Lagerhaltung und Transport</td>
+<td>Organisieren der betrieblichen Logistik</td>
+</tr>
+<tr>
+<td>59.</td>
+<td>–</td>
+<td colspan="3">Anwenden von Textverarbeitungs- und Tabellenkalkulationsprogrammen zur Erstellung von technischen Unterlagen wie zB Stücklisten und Dokumentationen</td>
+</tr>
+<tr>
+<td>60.</td>
+<td>–</td>
+<td>–</td>
+<td colspan="2">Anlegen von Dokumentationen über die Arbeitsabläufe sowie über Arbeitsstunden und Materialverbrauch (wie zB Pflichtenhefte, Übergabeprotokolle, Aufmassabrechnung, Aufmasstabellen, Bautagebücher) auch unter Verwendung rechnergestützter Systeme</td>
+</tr>
+<tr>
+<td>61.</td>
+<td>–</td>
+<td>–</td>
+<td colspan="2">Präsentieren von Arbeitsergebnissen unter Anwendung von Präsentationshilfen</td>
+</tr>
+<tr>
+<td>62.</td>
+<td colspan="4">Kenntnis der Qualitätssicherung einschließlich der Reklamationsbearbeitung und Durchführung von betriebsspezifischen, qualitätssichernden Maßnahmen</td>
+</tr>
+<tr>
+<td>63.</td>
+<td colspan="4">Kenntnis über Inhalt und Ziel der Ausbildung sowie über wesentliche einschlägige Weiterbildungsmöglichkeiten</td>
+</tr>
+<tr>
+<td>64.</td>
+<td colspan="4">Kenntnis der einschlägigen Sicherheitsvorschriften, insbesondere über den Brandschutz, sowie der sonstigen in Betracht kommenden Vorschriften zum Schutze des Lebens und der Gesundheit, insbesondere Erste-Hilfe-Maßnahmen</td>
+</tr>
+<tr>
+<td>65.</td>
+<td colspan="4">Die für den Lehrberuf relevanten Maßnahmen und Vorschriften zum Schutze der Umwelt: Grundkenntnisse der betrieblichen Maßnahmen zum sinnvollen Energieeinsatz im berufs-relevanten Arbeitsbereich; Grundkenntnisse der im berufsrelevanten Arbeitsbereich anfallenden Reststoffe und deren Trennung, Verwertung sowie über die Entsorgung des Abfalls</td>
+</tr>
+<tr>
+<td>66.</td>
+<td colspan="4">Kenntnis der sich aus dem Lehrvertrag ergebenden Verpflichtungen (§§ 9 und 10 BAG)</td>
+</tr>
+<tr>
+<td>67.</td>
+<td colspan="4">Grundkenntnisse der aushangpflichtigen arbeitsrechtlichen Vorschriften</td>
+</tr>
+</table>
+
+(2) Bei der Vermittlung sämtlicher Berufsbildpositionen ist den Bestimmungen des Kinder- und Jugendlichen-Beschäftigungsgesetzes 1987 (KJBG), BGBl. Nr. 599/1987, zu entsprechen.
+
+## Lehrabschlussprüfung
+
+### § 4 – Gliederung
+
+§ 4. (1) Die Lehrabschlussprüfung gliedert sich in eine theoretische und in eine praktische Prüfung.
+
+(2) Die theoretische Prüfung umfasst die Gegenstände Fachkunde, Angewandte Mathematik und Fachzeichnen.
+
+(3) Die theoretische Prüfung entfällt, wenn der/die Prüfungskandidat/in das Erreichen des Lehrziels der letzten Klasse der fachlichen Berufsschule oder den erfolgreichen Abschluss einer die Lehrzeit ersetzenden berufsbildenden mittleren oder höheren Schule nachgewiesen hat.
+
+(4) Die praktische Prüfung umfasst die Gegenstände Prüfarbeit und Fachgespräch.
+
+## Theoretische Prüfung
+
+### § 5 – Allgemeine Bestimmungen
+
+§ 5. (1) Die theoretische Prüfung hat schriftlich zu erfolgen. Sie kann für eine größere Anzahl von Prüfungskandidaten/innen gemeinsam durchgeführt werden, wenn dies ohne Beeinträchtigung des Prüfungsablaufs möglich ist. Die theoretische Prüfung kann auch in rechnergestützter Form erfolgen, wobei jedoch alle wesentlichen Schritte für die Prüfungskommission nachvollziehbar sein müssen.
+
+(2) Die theoretische Prüfung ist grundsätzlich vor der praktischen Prüfung abzuhalten.
+
+(3) Die Aufgaben haben nach Umfang und Niveau dem Zweck der Lehrabschlussprüfung und den Anforderungen der Berufspraxis zu entsprechen. Sie sind den Prüfungskandidaten/innen anlässlich der Aufgabenstellung getrennt zu erläutern.
+
+### § 6 – Fachkunde
+
+§ 6. (1) Die Prüfung hat die stichwortartige Beantwortung von Fragen aus sämtlichen nachstehenden Bereichen zu umfassen:
+
+1\. Werkstoffe und Hilfsstoffe,
+
+2\. Werkzeuge und Arbeitsbehelfe,
+
+3\. Maschinen und Anlagen,
+
+4\. Arbeitsverfahren,
+
+5\. Unfallverhütung.
+
+(2) Die Prüfung kann auch in programmierter Form mit Fragebögen erfolgen. In diesem Fall sind aus jedem Bereich je vier Fragen zu stellen.
+
+(3) Die Aufgaben sind so zu stellen, dass sie in der Regel in 60 Minuten durchgeführt werden können.
+
+(4) Die Prüfung ist nach 80 Minuten zu beenden.
+
+### § 7 – Angewandte Mathematik
+
+§ 7. (1) Die Prüfung hat Aufgaben aus sämtlichen nachstehenden Bereichen zu umfassen:
+
+1\. Längenberechnung und Flächenberechnung,
+
+2\. Volumsberechnung und Masseberechnung,
+
+3\. Prozentrechnung,
+
+4\. Materialbedarfsberechnung,
+
+5\. Winkelfunktionsberechnung.
+
+(2) Die Verwendung von Rechenbehelfen, Formeln und Tabellen ist zulässig.
+
+(3) Die Aufgaben sind so zu stellen, dass sie in der Regel in 60 Minuten durchgeführt werden können.
+
+(4) Die Prüfung ist nach 80 Minuten zu beenden.
+
+### § 8 – Fachzeichnen
+
+§ 8. (1) Die Prüfung hat das Anfertigen einer maßstäblichen Werkzeichnung einer einschlägigen Holzbaukonstruktion nach Angabe zu umfassen.
+
+(2) Die Aufgabe ist so zu stellen, dass sie in der Regel in 60 Minuten durchgeführt werden kann.
+
+(3) Die Prüfung ist nach 80 Minuten zu beenden.
+
+## Praktische Prüfung
+
+### § 9 – Prüfarbeit
+
+§ 9. (1) Die Prüfung ist nach Angabe der Prüfungskommission in Form der Bearbeitung eines betrieblichen Arbeitsauftrages durchzuführen.
+
+(2) Die Prüfarbeit hat folgende Aufgaben unter Einschluss von Arbeitsplanung, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, allenfalls erforderliche Maßnahmen zum Umweltschutz und Maßnahmen der Qualitätskontrolle zu umfassen:
+
+1\. Herstellung eines Teiles einer Holzkonstruktion,
+
+2\. Erstellen von Plänen sowie Durchführen von Berechnungen im Zusammenhang mit der Planung von Produkten, Einzelteilen oder Baugruppen für Holzkonstruktionen.
+
+Die einzelnen Schritte bei der Durchführung der Aufgabe sind händisch oder rechnergestützt zu dokumentieren. Die Prüfungskommission kann dem/der Prüfungskandidaten/in anlässlich der Aufgabenstellung dafür entsprechende Unterlagen zur Verfügung stellen.
+
+(3) Die Prüfungskommission hat unter Bedachtnahme auf den Zweck der Lehrabschlussprüfung, die Anforderungen der Berufspraxis und das Tätigkeitsgebiet des Lehrbetriebs jedem/jeder Prüfungskandidaten/in eine Prüfarbeit zu stellen, die in der Regel in acht Arbeitsstunden ausgearbeitet werden kann. Hierbei ist der Aufgabe gemäß Abs. 2 Z 1 eine Dauer von sechs Stunden und der Aufgabe gemäß Abs. 2 Z 2 eine Dauer von zwei Stunden zugrunde zu legen
+
+(4) Die Prüfung ist nach neun Stunden zu beenden.
+
+(5) Für die Bewertung sind folgende Kriterien maßgebend:
+
+1\. Aufgabe gemäß Abs. 2 Z 1:
+
+a) Maßhaltigkeit und Sauberkeit,
+
+b) Winkeligkeit und Ebenheit,
+
+c) Verwenden der richtigen Werkzeuge,
+
+d) richtiger Zusammenbau.
+
+2\. Aufgabe gemäß Abs. 2 Z 2:
+
+a) Anordnung und Darstellung der Ansichten und Schnitte,
+
+b) normgerechte Ausführung der Zeichnungen,
+
+c) korrekte Berechnungen,
+
+d) fachgerechte Arbeitsweise.
+
+### § 10 – Fachgespräch
+
+§ 10. (1) Das Fachgespräch ist vor der gesamten Prüfungskommission abzulegen.
+
+(2) Das Fachgespräch hat sich aus der praktischen Tätigkeit heraus zu entwickeln. Hierbei ist unter Verwendung von Fachausdrücken das praktische Wissen des/der Prüfungskandidaten/in festzustellen. Der/die Prüfungskandidat/in hat fachbezogene Probleme und deren Lösungen darzustellen, die für den Auftrag relevanten fachlichen Hintergründe aufzuzeigen und die Vorgehensweise bei der Ausführung des Auftrags zu begründen.
+
+(3) Die Themenstellung hat dem Zweck der Lehrabschlussprüfung und den Anforderungen der Berufspraxis zu entsprechen. Hierbei sind Materialproben, Werkzeuge, Demonstrationsobjekte oder Schautafeln heranzuziehen. Fragen über einschlägige Sicherheitsvorschriften, Schutzmaßnahmen und Unfallverhütung sowie über einschlägige Umweltschutzmaßnahmen und Entsorgungsmaßnahmen sind mit einzubeziehen. Die Prüfung ist in Form eines möglichst lebendigen Gesprächs mit Gesprächsvorgabe durch Schilderung von Situationen oder Problemen durchzuführen.
+
+(4) Das Fachgespräch soll für jeden/jede Prüfungskandidaten/in 30 Minuten dauern. Eine Verlängerung um höchstens zehn Minuten hat im Einzelfall zu erfolgen, wenn der Prüfungskommission ansonsten eine zweifelsfreie Bewertung der Leistung des/der Prüfungskandidaten/in nicht möglich ist.
+
+### § 11 – Wiederholungsprüfung
+
+§ 11. (1) Die Lehrabschlussprüfung kann wiederholt werden.
+
+(2) Bei der Wiederholung der Prüfung sind nur die mit „Nicht genügend“ bewerteten Prüfungsgegenstände zu prüfen.
+
+### § 12 – Eingeschränkte Zusatzprüfung
+
+§ 12. Nach erfolgreich abgelegter Lehrabschlussprüfung in den Lehrberufen Zimmerer oder Zimmerei kann eine eingeschränkte Zusatzprüfung gemäß § 27 Abs. 2 des Berufsausbildungsgesetzes (BAG) im Lehrberuf Zimmereitechnik abgelegt werden. Diese erstreckt sich auf den Gegenstand Prüfarbeit, eingeschränkt auf das Erstellen von Plänen sowie Durchführen von Berechnungen im Zusammenhang mit der Planung von Produkten, Einzelteilen oder Baugruppen für Holzkonstruktionen. Für diese Zusatzprüfung gelten §§ 9 und 11 subsidiär.
+
+### § 13 – Ablegung der Teilprüfung über den Fachbereich der Berufsreifeprüfung anlässlich der Lehrabschlussprüfung
+
+§ 13. (1) Gemäß § 4 Abs. 3 des Bundesgesetzes über die Berufsreifeprüfung, BGBl. I Nr. 68/1997, in der geltenden Fassung, in Verbindung mit § 22a Abs. 1 des Berufsausbildungsgesetzes kann anlässlich der erfolgreichen Ablegung der Lehrabschlussprüfung für einen Lehrberuf mit vierjähriger Ausbildungszeit zur Teilprüfung über den Fachbereich der Berufsreifeprüfung angetreten werden.
+
+(2) Die Teilprüfung über den Fachbereich der Berufsreifeprüfung besteht gemäß § 3 Abs. 1 Z 4 des Bundesgesetzes über die Berufsreifeprüfung aus einer schriftlichen Klausurarbeit und einer mündlichen Prüfung. Sie ist mit einer Note zu beurteilen.
+
+(3) Die Klausurarbeit ist fünfstündig. Das Thema muss aus dem Berufsfeld, einschließlich des fachlichen Umfelds, des/der Prüfungskandidaten/in stammen.
+
+(4) Die mündliche Prüfung ist in Form einer Auseinandersetzung mit der Klausurarbeit unter Einschluss des fachlichen Umfelds auf höherem Niveau durchzuführen. Sie hat vor der gesamten Prüfungskommission stattzufinden.
+
+(5) Die Prüfungskommission für die Teilprüfung über den Fachbereich der Berufsreifeprüfung anlässlich der Lehrabschlussprüfung eines Lehrberufes mit vierjähriger Ausbildungszeit besteht aus einem/einer fachkundigen Experten/in gemäß § 8a des Bundesgesetzes über die Berufsreifeprüfung als Vorsitzenden/er und zwei Beisitzern der Lehrabschlussprüfungskommission, die für die Durchführung der Prüfung und die Beurteilung der Leistungen als Prüfer im Sinne des § 8a des Bundesgesetzes über die Berufsreifeprüfung fungieren.
+
+(6) Die Lehrlingsstelle hat spätestens drei Monate vor dem voraussichtlichen Prüfungstermin dem Landesschulrat gegenüber die für die Vorsitzführung in Aussicht genommene Person vorzuschlagen und den in Aussicht genommenen Prüfungstermin bekannt zu geben. Die Lehrlingsstelle hat gemeinsam mit dem/der Vorsitzenden unverzüglich, längstens jedoch binnen vier Wochen nach dessen Bestellung die konkreten Prüfungstermine festzulegen.
+
+(7) Gleichzeitig mit dem Vorschlag des/der für die Vorsitzführung in Aussicht genommenen fachkundigen Experten/in sind dem Landesschulrat die Aufgabenstellungen der schriftlichen Klausurarbeiten zu übermitteln. Die Aufgabenstellungen der mündlichen Prüfung sind dem/der Vorsitzenden spätestens am Prüfungstag vor Beginn der Prüfung zur Genehmigung vorzulegen.
+
+(8) Die Beurteilung der Prüfung gemäß Abs. 2 erfolgt durch die Prüfer/innen im Einvernehmen mit dem/der Vorsitzenden. Im Zweifel gibt die Stimme des/der Vorsitzenden den Ausschlag.
+
+(9) Die Prüfung gemäß Abs. 2 kann anlässlich der Lehrabschlussprüfung nicht wiederholt werden. Bei Nichtbestehen erfolgt die Zulassung zur Berufsreifeprüfung nach den Bestimmungen des Bundesgesetzes über die Berufsreifeprüfung.
+
+### § 14 – Evaluierung
+
+§ 14. (1) Diese Verordnung tritt mit 1. Juni 2015 in Kraft.
+
+(2) Die §§ 1, 14 und 15 in der Fassung der Verordnung BGBl. II Nr. 197/2021 treten mit 1. Juli 2021 in Kraft.

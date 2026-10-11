@@ -257,6 +257,8 @@ Auf Grund des ersten, zweiten, vierten und elften Abschnittes des Waffengesetzes
 
 \*(Anm.: Anlage 9 als PDF dokumentiert)*
 
-### Bewilligung zum Besitz von Schusswaffen gemäß § 39 WaffG – Bewilligung zum Führen von Schusswaffen gemäß § 40 WaffG
+**Bewilligung zum Besitz von Schusswaffen gemäß § 39 WaffG**
+
+### Anl. 10 – Bewilligung zum Führen von Schusswaffen gemäß § 40 WaffG
 
 \*(Anm.: Anlage 10 als PDF dokumentiert)*

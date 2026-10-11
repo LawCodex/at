@@ -1374,7 +1374,9 @@ bekannt zu geben.
 
 ## BASISAUSBILDUNG IN DER INTENSIVPFLEGE, ANÄSTHESIEPFLEGE UND PFLEGE BEI NIERENERSATZTHERAPIE
 
-#### Theoretische Ausbildung
+**Theoretische Ausbildung**
+
+#### Anl. 3
 
 | **Unterrichtsfach** | **Lehrinhalte** | **Mindest-stunden** | **Lehrkraft** | **Leistungs-feststellung** |
 |---|---|---|---|---|
@@ -1428,7 +1430,9 @@ bekannt zu geben.
 
 ## SPEZIELLE ZUSATZAUSBILDUNG IN DER INTENSIVPFLEGE
 
-#### Theoretische Ausbildung
+**Theoretische Ausbildung**
+
+#### Anl. 4
 
 | **Unterrichtsfach** | **Lehrinhalte** | **Mindest-stunden** | **Lehrkraft** | **Leistungs-feststellung** |
 |---|---|---|---|---|
@@ -1490,7 +1494,9 @@ bekannt zu geben.
 
 ## SPEZIELLE ZUSATZAUSBILDUNG IN DER KINDERINTENSIVPFLEGE
 
-#### Theoretische Ausbildung
+**Theoretische Ausbildung**
+
+#### Anl. 5
 
 | **Unterrichtsfach** | **Lehrinhalte** | **Mindest-stunden** | **Lehrkraft** | **Leistungs-feststellung** |
 |---|---|---|---|---|
@@ -1516,7 +1522,9 @@ bekannt zu geben.
 
 ## SPEZIELLE ZUSATZAUSBILDUNG IN DER ANÄSTHESIEPFLEGE
 
-#### Theoretische Ausbildung
+**Theoretische Ausbildung**
+
+#### Anl. 6
 
 | **Unterrichtsfach** | **Lehrinhalte** | **Mindest-stunden** | **Lehrkraft** | **Leistungs-feststellung** |
 |---|---|---|---|---|
@@ -1562,7 +1570,9 @@ bekannt zu geben.
 
 ## SPEZIELLE ZUSATZAUSBILDUNG IN DER PFLEGE BEI NIERENERSATZTHERAPIE
 
-#### Theoretische Ausbildung
+**Theoretische Ausbildung**
+
+#### Anl. 7
 
 | **Unterrichtsfach** | **Lehrinhalte** | **Mindest-stunden** | **Lehrkraft** | **Leistungs-feststellung** |
 |---|---|---|---|---|
@@ -1609,7 +1619,9 @@ bekannt zu geben.
 
 ## SONDERAUSBILDUNG IN DER PFLEGE IM OPERATIONSBEREICH
 
-#### Theoretische Ausbildung
+**Theoretische Ausbildung**
+
+#### Anl. 8
 
 | **Unterrichtsfach** | **Lehrinhalte** | **Mindest-stunden** | **Lehrkraft** | **Leistungs-feststellung** |
 |---|---|---|---|---|
@@ -1639,7 +1651,9 @@ bekannt zu geben.
 
 ## SONDERAUSBILDUNG IN DER KRANKENHAUSHYGIENE
 
-#### Theoretische Ausbildung
+**Theoretische Ausbildung**
+
+#### Anl. 9
 
 | **Unterrichtsfach** | **Lehrinhalte** | **Mindest-stunden** | **Lehrkraft** | **Leistungs-feststellung** |
 |---|---|---|---|---|

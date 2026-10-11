@@ -1,0 +1,76 @@
+---
+title: "SchiCGmbH-Kostenbeitragsverordnung"
+identifier: "20003782"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 442/2004"
+last_amended: 2022-12-29
+last_amendment: "BGBl. II Nr. 501/2022"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2004/442/P0/NOR30004104"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003782"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# SchiCGmbH-Kostenbeitragsverordnung
+
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie über die Kostenbeiträge an die Schienen-Control GmbH (SchiCGmbH-Kostenbeitragsverordnung)
+
+StF: BGBl. II Nr. 442/2004
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 501/2022  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 74a und 80 des Eisenbahngesetzes 1957, BGBl. Nr. 60, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 106/2004, wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:
+
+## § 1 – Kostenbeitragspflicht
+
+§ 1. (1) Die Schienen-Control GmbH hat zur Finanzierung des Personal- und Sachaufwandes, der für die Erfüllung der ihr durch das Eisenbahngesetz 1957 übertragenen Aufgaben notwendig ist, den Eisenbahnverkehrsunternehmen, die Zugang auf von § 56 Eisenbahngesetz 1957 erfasster Schieneninfrastruktur ausüben – im Folgenden als Zugangsberechtigte bezeichnet – pro Kalenderjahr anteilige Kostenbeiträge mit Bescheid vorzuschreiben und unter Berücksichtigung der entrichteten Vorauszahlungen einzuheben.
+
+(2) Der Personal- und Sachaufwand im Sinne des Abs. 1 schließt auch jenen ein, der sich aus der Geschäftsführungstätigkeit der Schienen-Control GmbH für die Schienen-Control Kommission gemäß § 81 Abs. 3 Eisenbahngesetz 1957 ergibt.
+
+## § 2 – Höhe und Berechnung der Kostenbeiträge
+
+§ 2. (1) Die Summe der Kostenbeiträge darf den im jeweiligen Kalenderjahr für die Erfüllung der im § 1 genannten Aufgaben tatsächlich entstandenen Finanzierungsaufwand und insgesamt 7,5‰ der Summe der für den Zugang zur Schieneninfrastruktur der Haupt- und Nebenbahnen, die mit anderen Haupt- oder Nebenbahnen vernetzt sind, in Österreich für dieses Kalenderjahr zu entrichtenden Benützungsentgelte nicht übersteigen.
+
+(2) Der jeweilige Anteil an der Gesamthöhe der Kostenbeiträge bemisst sich nach dem Verhältnis der von den Zugangsberechtigten für ein Kalenderjahr zu entrichtenden Benützungsentgelte an der Summe der von Zugangsberechtigten insgesamt für dieses Kalenderjahr zu entrichtenden Benützungsentgelte.
+
+## § 3 – Pflichten von Eisenbahninfrastrukturunternehmen und Zugangsberechtigten
+
+§ 3. (1) Eisenbahninfrastrukturunternehmen haben bis spätestens 30. April des dem abgelaufenen Kalenderjahr folgenden Kalenderjahres der Schienen-Control GmbH Auskünfte über die an sie von den einzelnen Zugangsberechtigten für das abgelaufene Kalenderjahr zu entrichtenden Benützungsentgelte zu erteilen und zwecks Ermittlung geeigneter Nachweise (z. B. Eingangs- oder Ausgangsrechnungen, Kassabelege, Bankbelege oder Buchungsanweisungen) Einschau in Aufzeichnungen und Bücher zu gewähren.
+
+(2) Bis zu diesem Zeitpunkt haben auch Zugangsberechtigte der Schienen-Control GmbH Auskünfte über die von ihnen für das abgelaufene Kalenderjahr an Eisenbahninfrastrukturunternehmen zu entrichtenden Benützungsentgelte zu erteilen und zwecks Ermittlung geeigneter Nachweise (z. B. Eingangs- oder Ausgangsrechnungen, Kassabelege, Bankbelege oder Buchungsanweisungen) Einschau in Aufzeichnungen und Bücher zu gewähren.
+
+(3) Können die für die Bemessung des jeweiligen Kostenbeitrages erforderlichen Nachweise nur nach Abs. 1 ermittelt werden, so hat die Berechnung der Kostenbeiträge auf Grundlage dieser ermittelten Nachweise zu erfolgen.
+
+## § 4 – Vorschreibung von Vorauszahlungen
+
+§ 4. (1) Die Schienen-Control GmbH kann jenen Zugangsberechtigten, die über einen Vertrag oder eine Urkunde über die Zuweisung von Zugtrassen (§ 70a Eisenbahngesetz 1957) verfügen, vierteljährliche Vorauszahlungen für ein Kalenderjahr vorschreiben, wobei die Gesamthöhe der den Zugangsberechtigten vorgeschriebenen Vorauszahlungen mit dem für dieses Kalenderjahr im Finanzplan der Schienen-Control GmbH geschätzten Finanzierungsaufwand begrenzt ist.
+
+(2) Die Vorschreibung der Vorauszahlungen hat anteilig nach dem Verhältnis der von den Vorauszahlungspflichtigen voraussichtlich in diesem Kalenderjahr für den Zugang zur Schieneninfrastruktur jeweils zu entrichtenden Benützungsentgelte zur Gesamtsumme der voraussichtlich für den Zugang zur Schieneninfrastruktur insgesamt in diesem Kalenderjahr zu entrichtenden Benützungsentgelte zu erfolgen.
+
+(3) Vorauszahlungspflichtige haben der Schienen-Control GmbH bis spätestens 31. Dezember eines jeden Jahres schriftlich mitzuteilen, in welcher Höhe sie für das unmittelbar darauf folgende Kalenderjahr voraussichtlich Benützungsentgelt für den Zugang zur Schieneninfrastruktur zu entrichten haben werden. Bis zu diesem Zeitpunkt haben auch Eisenbahninfrastrukturunternehmen der Schienen-Control GmbH schriftlich bekanntzugeben, mit welchen Zugangsberechtigten bis zu Beginn der laufenden Netzfahrplanperiode ein Vertrag über die Zuweisung von Zugtrassen abgeschlossen oder für welche Zugangsberechtigte eine Urkunde über die Zuweisung von Zugtrassen erstellt wurde.
+
+## § 5 – Jährliche Endabrechnung
+
+§ 5. Die Schienen-Control GmbH hat bis zum 31. August des Folgejahres auf Grundlage des für das abgelaufene Kalenderjahr erstellten Jahresabschlusses die gemäß § 2 berechneten Kostenbeiträge der Kostenbeitragspflichtigen den von diesen entrichteten Vorauszahlungen gegenüberzustellen und allfällige Guthaben den Kostenbeitragspflichtigen auszubezahlen oder eine Nachforderung zu stellen. Guthaben können im Einvernehmen mit dem Kostenbeitragspflichtigen auch für den Kostenbeitrag im unmittelbar darauf folgenden Kalenderjahr angerechnet werden.
+
+## § 6 – Übergangsbestimmung
+
+§ 6. Abweichend von § 1 sind für den Zeitraum vom 1. Jänner 2004 bis 31. Mai 2004 auch jene Eisenbahnunternehmen, die in diesem Zeitraum Zugang zur Schieneninfrastruktur von Nebenbahnen, die nicht mit anderen Haupt- oder Nebenbahnen vernetzt sind, ausgeübt haben, kostenbeitragspflichtig.
+
+## § 7 – In-Kraft-Treten, Außer-Kraft-Treten
+
+§ 7. (1) Diese Verordnung tritt mit 1. Jänner 2005 in Kraft. Mit dem In-Kraft-Treten dieser Verordnung tritt die SchiCGmbH-Kostenbeitragsverordnung, BGBl. II Nr. 365/2000, außer Kraft.
+
+(2) § 2 Abs. 1 in der Fassung der Verordnung BGBl. II Nr. 501/2022 tritt mit 1. Juli 2022 in Kraft.

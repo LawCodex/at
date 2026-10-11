@@ -55,13 +55,13 @@ BGBl. II Nr. 114/2026
 
 Auf Grund der §§ 7, 17 und 21 des Gesetzes vom 14. April 1913, R. G. Bl. Nr. 67, betreffend die Verhütung und Bekämpfung übertragbarer Krankheiten, wird verordnet, wie folgt:
 
-#### § 1 – § 1.
+#### § 1
 
 Zur Verhütung der Weiterverbreitung einer anzeigepflichtigen Krankheit (§ 1 des Gesetzes vom 14. April 1913, R. G. Bl. Nr. 67, und Artikel I des Bundesgesetzes vom 3. Dezember 1925, B. G. Bl. Nr. 449) können gegenüber kranken, krankheitsverdächtigen oder ansteckungsverdächtigen Personen Maßnahmen zum Zwecke der räumlichen Absonderung oder anderweitiger bestimmter Verkehrsbeschränkungen verfügt werden.
 
 Als krank gelten jene Personen, bei denen die Krankheit bereits festgestellt ist, als krankheitsverdächtig solche, die Erscheinungen zeigen, die das Vorhandensein der Krankheit vermuten lassen, als ansteckungsverdächtig solche, die zwar keine Krankheitserscheinungen aufweisen, bei denen jedoch bakteriologisch nachgewiesen ist, daß sie als Träger des Krankheitskeimes anzusehen sind, oder bei denen sonst feststeht oder erfahrungsgemäß anzunehmen ist, daß sie der Ansteckung ausgesetzt waren und die Weiterverbreitung vermitteln können.
 
-#### § 2 – § 2.
+#### § 2
 
 Die Absonderung oder Verkehrsbeschränkung der Kranken, Krankheitsverdächtigen und Ansteckungsverdächtigen hat auf die Dauer der Ansteckungsgefahr derart zu erfolgen, daß eine Weiterverbreitung der Krankheit hintangehalten wird.
 
@@ -75,7 +75,7 @@ Auch kann angeordnet werden, daß Tiere, insbesondere Ungeziefer, Fliegen, Stech
 
 Welche der vorstehenden Verfügungen zu treffen sind, ist nach Maßgabe der Bestimmungen dieser Verordnung fallweise auf Grund des Gutachtens des zuständigen, im öffentlichen Sanitätsdienste stehenden Arztes anzuordnen.
 
-#### § 3 – § 3.
+#### § 3
 
 Die Absonderung muß in einem sanitär einwandfreien Raume erfolgen, der eine wirksame Absonderung gewährleistet. Im Absonderungsraume dürfen nur die unbedingt notwendigen Gebrauchsgegenstände vorhanden sein. Gegenstände, die eine abgesonderte Person benützt hat, dürfen vor erfolgter Desinfektion nicht aus dem Absonderungsraume entfernt werden.
 
@@ -93,11 +93,11 @@ Auch sind, nach Infektionskrankheiten getrennt, für Kranke, Krankheitsverdächt
 
 Es kann angeordnet werden, daß den für die Wartung und Pflege notwendigen Personen ein eigener, mit dem Krankenraume unmittelbar verbundener sanitär einwandfreier Schlafraum zur Verfügung stehe.
 
-#### § 4 – § 4.
+#### § 4
 
 Bei Diphtherie, Abdominaltyphus, Paratyphus, Ruhr (Dysenterie), epidemischer Genickstarre, Flecktyphus, Blattern, asiatischer Cholera, Pest, Rückfalltyphus, gelbem Fieber, Rotz der Poliomyelitis anterior acuta, SARS (Severe Acute Respiratory Syndrome),viralem hämorrhagischem Fieber oder MERS-CoV (Middle East Respiratory Syndrome Coronavirus/“neues Corona-Virus“) sind die Kranken oder Krankheitsverdächtigen abzusondern und Influenzainfektion mit dem Virus A/H5N1 oder einem anderen Vogelgrippevirus. Bei Wochenbettfieber, Aussatz (Lepra) oder Wutkrankheit und wenn eine besondere Gefahr der Übertragung besteht, auch bei ägyptischer Augenentzündung (Trachom) oder Milzbrand, sind die Kranken abzusondern oder nach den Umständen des Falles lediglich bestimmten Verkehrsbeschränkungen zu unterwerfen. Bei von Mensch zu Mensch übertragbaren Hanta-Virus-Infektionen, Masern oder Mpox sind die Kranken und Krankheitsverdächtigen abzusondern oder nach den Umständen des Falles lediglich bestimmten Verkehrsbeschränkungen zu unterwerfen.
 
-#### § 5 – § 5.
+#### § 5
 
 Bei Ansteckungsverdächtigen sind jene der in § 2 bezeichneten Maßnahmen anzuwenden, die fallweise nach dem Gutachten des im öffentlichen Sanitätsdienste stehenden Arztes erforderlich sind.
 
@@ -109,7 +109,7 @@ Gleichartig ist auch hinsichtlich der Bazillenträger vorzugehen.
 
 Gegenüber Personen, die aus Gebieten kommen, in denen asiatische Cholera, Pest oder Flecktyphus herrschen oder eine Blatternepidemie besteht, kann eine sanitätspolizeiliche Überwachung ohne Verkehrsbeschränkung oder eine sanitätspolizeiliche Beobachtung angeordnet werden.
 
-#### § 6 – § 6.
+#### § 6
 
 Der Zutritt zu den Abgesonderten ist außer bei Wochenbettfieber, Aussatz und ägyptischer Augenentzündung (Trachom) nur den im öffentlichen Sanitätsdienste stehenden sowie den zugezogenen Ärzten, den Seelsorgern und den mit der Wartung und Pflege der Abgesonderten betrauten Familienangehörigen und Pflegepersonen gegen Einhaltung der gebotenen Vorsichtsmaßregeln gestattet.
 
@@ -125,7 +125,7 @@ Bei Diphtherie, Flecktyphus, Blattern und asiatischer Cholera ist ihnen der Zutr
 
 Bei Blattern ist der Zutritt nur solchen Studierenden gestattet, die nachgewiesenermaßen mit Erfolg geimpft und zeitgerecht wiedergeimpft sind.
 
-#### § 7 – § 7.
+#### § 7
 
 Personen, die sich mit der Krankenbehandlung oder Krankenpflege beschäftigen, müssen beim Betreten eines zur Absonderung benützten Raumes alle je nach der Natur der Krankheit gebotenen Vorsichtsmaßregeln (Anziehen waschbarer Überkleider, eines eigenen Schuhwerkes, Gamaschen u. dgl.) beobachten.
 
@@ -139,7 +139,7 @@ Pflegepersonen, die einen Kranken oder Krankheitsverdächtigen im Privatpflege h
 
 Die für das Pflegepersonal angeordneten Vorschriften haben auf die mit dem Transporte Infektionskranker oder Krankheitsverdächtiger, oder mit der Desinfektion, oder mit der Wartung Ansteckungsverdächtiger betrauten Personen sinngemäße Anwendung zu finden.
 
-#### § 8 – § 8.
+#### § 8
 
 Die für die Absonderung geltenden Anordnungen sind auch bei dem Transport der Kranken oder Krankheitsverdächtigen entsprechend zu beachten.
 
@@ -149,21 +149,21 @@ Dem öffentlichen Verkehre dienende Beförderungsmittel (Mietwagen, Stellwagen, 
 
 Für den Transport mit der Eisenbahn oder im Schiffsverkehre gelten die bezüglichen besonderen Vorschriften.
 
-#### § 9 – § 9.
+#### § 9
 
 Richtlinien über die Art und Weise der Absonderung bei jeder einzelnen Krankheit enthält die beiliegende Belehrung.
 
-#### § 10 – § 10.
+#### § 10
 
 Die Absonderung einer Person wegen Erkrankung an Aussatz ist von der politischen Bezirksbehörde dem Bezirksgerichte des Wohnortes des Abgesonderten und, wenn dieser nicht bekannt oder im Auslande gelegen ist, dem Bezirksgericht anzuzeigen, in dessen Sprengel der Ort der Absonderung liegt. Die Anzeige ist binnen 48 Stunden nach Einleitung der Absonderung zu erstatten und soll die Feststellung veranlassen, ob Vorkehrungen zum Schutze der Interessen des Abgesonderten oder unter seiner Obhut stehender Personen notwendig sind.
 
-#### § 11 – § 11.
+#### § 11
 
 Die von der politischen Bezirksbehörde auf Grund des § 21 des Gesetzes verfügte Bezeichnung von Häusern oder Wohnungen hat durch Tafeln zu erfolgen, die in schwarzen, gut lesbaren Schriftzeichen, womöglich auf gelbem Grunde, den Namen der betreffenden Infektionskrankheit tragen. Die Höhe der Schriftzeichen hat mindestens 12 Zentimeter, ihre Stärke im Grundstriche mindestens 2 Zentimeter zu betragen.
 
 Diese Tafeln sind an augenfälligen Stellen anzubringen und bei Nacht entsprechend zu beleuchten.
 
-#### § 12 – § 12.
+#### § 12
 
 (1) Diese Verordnung tritt am Tage der Kundmachung in Kraft.
 

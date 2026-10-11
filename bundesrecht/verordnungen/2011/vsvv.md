@@ -1,0 +1,49 @@
+---
+title: "Verschmelzungsvertrags- und Spaltungsplan-Veröffentlichungsverordnung"
+abbreviation: "VSVV"
+identifier: "20007410"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 256/2011"
+last_amended: 2011-08-12
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2011/256/P0/NOR40131154"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007410"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Verschmelzungsvertrags- und Spaltungsplan-Veröffentlichungsverordnung (VSVV)
+
+Verordnung der Bundesministerin für Justiz über die Veröffentlichung von Verschmelzungsverträgen und Spaltungsplänen in der Ediktsdatei (Verschmelzungsvertrags- und Spaltungsplan-Veröffentlichungsverordnung – VSVV)
+
+StF: BGBl. II Nr. 256/2011
+
+## Präambel/Promulgationsklausel
+
+Aufgrund des § 221a Abs. 1a AktG sowie des § 7 Abs. 1a SpaltG jeweils in der Fassung des Gesellschaftsrechts-Änderungsgesetzes 2011, BGBl. I Nr. 53/2011, wird verordnet:
+
+## § 1
+
+§ 1. Die Veröffentlichung von Verschmelzungsverträgen (deren Entwürfen) und Spaltungsplänen in der Ediktsdatei hat durch einen Rechtsanwalt oder Notar über die auf der Internetseite www.edikte.justiz.gv.at im Bereich „Kundmachungen der Justiz“ bekannt gegebenen Zugangspunkte zu erfolgen.
+
+## § 2
+
+§ 2. Der Rechtsanwalt oder Notar hat sich für die Veröffentlichung auf die ihm von der Gesellschaft erteilte Vollmacht zu berufen (§ 8 Abs. 1 RAO, § 5 Abs. 4a NO). Die Authentifizierung des Rechtsanwalts oder Notars erfolgt durch Verwendung der elektronischen Anwaltssignatur (§ 21 Abs. 2 RAO), der elektronischen Notarsignatur (§ 13 Abs. 1 NO) oder eines anderen geeigneten Zertifikats (§ 2 Z 8 SigG), das von einem Rechtsanwalt oder Notar autorisiert wurde.
+
+## § 3
+
+§ 3. Die Veröffentlichung hat zu enthalten:
+
+1\. den Verschmelzungsvertrag (dessen Entwurf) oder den Spaltungsplan als pdf-Datei;
+
+2\. den Hinweis auf Rechte sowie allfällige zusätzliche Angaben (§ 221a Abs. 1 zweiter Satz AktG, § 7 Abs. 1 zweiter Satz SpaltG, § 8 Abs. 2 EU-VerschG, § 19 Abs. 1 SEG);
+
+3\. Metadaten zur Veröffentlichung entsprechend den vorgegebenen Eingabefeldern in der Anwendung.
+
+## § 4
+
+§ 4. Die Veröffentlichung gilt mit Freischaltung in der Anwendung als bewirkt. Der Nachweis der Veröffentlichung (§ 225 Abs. 1 Z 7 AktG, § 13 Z 6 SpaltG, § 14 Abs. 1 Z 7 EU-VerschG, § 24 Abs. 1 Z 7 SEG) hat durch einen Ausdruck aus der Ediktsdatei zu erfolgen, auf dem das Veröffentlichungsdatum sowie das Datum der Erstellung des Ausdrucks ersichtlich sind.

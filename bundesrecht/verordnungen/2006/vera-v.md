@@ -1,0 +1,1087 @@
+---
+title: "Vermögens-, Erfolgs- und Risikoausweis-Verordnung"
+abbreviation: "VERA-V"
+identifier: "20005165"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 471/2006"
+last_amended: 2026-01-01
+last_amendment: "BGBl. II Nr. 235/2025"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2006/471/P0/NOR30005634"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005165"
+retrieved: 2026-10-11
+documents: 45
+---
+
+# Vermögens-, Erfolgs- und Risikoausweis-Verordnung (VERA-V)
+
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+StF: BGBl. II Nr. 471/2006
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 88/2010  
+BGBl. II Nr. 297/2010  
+BGBl. II Nr. 463/2011  
+BGBl. II Nr. 218/2012  
+BGBl. II Nr. 425/2012  
+BGBl. II Nr. 28/2014  
+BGBl. II Nr. 144/2014  
+BGBl. II Nr. 343/2014  
+BGBl. II Nr. 301/2015  
+BGBl. II Nr. 372/2016  
+BGBl. II Nr. 100/2017  
+BGBl. II Nr. 277/2017  
+BGBl. II Nr. 111/2018  
+BGBl. II Nr. 14/2019  
+BGBl. II Nr. 328/2020  
+BGBl. II Nr. 230/2022  
+BGBl. II Nr. 102/2021  
+BGBl. II Nr. 432/2021  
+BGBl. II Nr. 36/2022  
+BGBl. II Nr. 230/2022  
+BGBl. II Nr. 67/2023  
+BGBl. II Nr. 79/2023  
+BGBl. II Nr. 144/2024  
+BGBl. II Nr. 83/2025  
+BGBl. II Nr. 235/2025  
+
+</details>
+
+> **Anmerkung:** Dokumentalistische Gliederung:
+>
+> Anlage A1a = Anlage 1/1a
+>
+> Anlage A1b = Anlage 1/1b (gemäß BGBl. II Nr. 372/2016 mit Ablauf des 30.3.2017 außer Kraft getreten)
+>
+> Anlage A1c = Anlage 1/1c
+>
+> Anlage A1d = Anlage 1/1d
+>
+> Anlage A1e = Anlage 1/1e
+>
+> Anlage A2 = Anlage 1/2
+>
+> Anlage A3a = Anlage 1/3a (gemäß BGBl. II Nr. 301/2015 mit Ablauf des 30.12.2015 außer Kraft getreten)
+>
+> Anlage A3b = Anlage 1/3b (gemäß BGBl. II Nr. 144/2024 mit Ablauf des 30.6.2024 außer Kraft getreten)
+>
+> Anlage A3c = Anlage 1/3c (gemäß BGBl. II Nr. 432/2021 mit Ablauf des 30.9.2021 außer Kraft getreten)
+>
+> Anlage A3d = Anlage 1/3d (gemäß BGBl. II Nr. 301/2015 mit Ablauf des 29.9.2016 außer Kraft getreten)
+>
+> Anlage A3e = Anlage 1/3e (gemäß BGBl. II Nr. 67/2023 mit Ablauf des 16.3.2023 außer Kraft getreten)
+>
+> Anlage A3f = Anlage 1/3f (gemäß BGBl. II Nr. 67/2023 mit Ablauf des 16.3.2023 außer Kraft getreten)
+>
+> Anlage A3g = Anlage 1/3g
+>
+> Anlage B1 = Anlage 2/1
+>
+> Anlage B3a und C3a = Anlage 2/3a\_u.\_3\_3a (Anlage C3a gemäß BGBl. II Nr. 144/2014 mit Ablauf des 30.6.2014 und Anlage B3a gemäß BGBl. II Nr. 301/2015 mit Ablauf des 30.12.2015 außer Kraft getreten)
+>
+> Anlage B3b und C3b = Anlage 2/3b\_u.\_3\_3b (gemäß BGBl. II Nr. 144/2024 mit Ablauf des 30.6.2024 außer Kraft getreten)
+>
+> Anlage B3c und C3c = Anlage 2/3c\_u.\_3\_3c (Anlage C3c gemäß BGBl. II Nr. 144/2014 mit Ablauf des 30.6.2014 und Anlage B3c gemäß BGBl. II Nr. 301/2015 mit Ablauf des 30.12.2015 außer Kraft getreten)
+>
+> Anlage B3d und C3d = Anlage 2/3d\_u.\_3\_3d (Anlage C3d gemäß BGBl. II Nr. 144/2014 mit Ablauf des 30.6.2014 und Anlage B3d gemäß BGBl. II Nr. 301/2015 mit Ablauf des 29.9.2016 außer Kraft getreten)
+>
+> Anlage C1 = Anlage 3/1 (gemäß BGBl. II Nr. 144/2014 mit Ablauf des 30.6.2014 außer Kraft getreten)
+>
+> Anlage D1 = Anlage 4/1
+>
+> Anlage D3a und E3a = Anlage 4/3a\_u.\_5\_3a (Anlage E3a gemäß BGBl. II Nr. 144/2014 mit Ablauf des 30.6.2014 und Anlage D3a gemäß BGBl. II Nr. 301/2015 mit Ablauf des 30.12.2015 außer Kraft getreten)
+>
+> Anlage D3b und E3b = Anlage 4/3b\_u.\_5\_3b (gemäß BGBl. II Nr. 144/2024 mit Ablauf des 30.6.2024 außer Kraft getreten)
+>
+> Anlage D3d und E3d = Anlage 4/3d\_u.\_5\_3d (Anlage E3d gemäß BGBl. II Nr. 144/2014 mit Ablauf des 30.6.2014 und Anlage D3d gemäß BGBl. II Nr. 301/2015 mit Ablauf des 29.9.2016 außer Kraft getreten)
+>
+> Anlage E1 = Anlage 5/1 (gemäß BGBl. II Nr. 144/2014 mit Ablauf des 30.6.2014 außer Kraft getreten)
+>
+> Anlage F3e = Anlage 6/3e (gemäß BGBl. II Nr. 67/2023 mit Ablauf des 16.3.2023 außer Kraft getreten)
+>
+> Anlage F3f = Anlage 6/3f (gemäß BGBl. II Nr. 67/2023 mit Ablauf des 16.3.2023 außer Kraft getreten)
+>
+> Anlage G1 = Anlage 7/1
+>
+> Anlage H = Anlage 8
+>
+> Anlage I1a = Anlage 9/1a
+>
+> Anlage I1b = Anlage 9/1b
+>
+> Anlage I2a = Anlage 9/2a
+>
+> Anlage I2b = Anlage 9/2b
+>
+> Anlage I3 = Anlage 9/3
+>
+> Anlage J1 = Anlage 10/1 (gemäß BGBl. II Nr. 67/2023 mit Ablauf des 12.5.2023 außer Kraft getreten)
+>
+> Anlage J2 = Anlage 10/2 (gemäß BGBl. II Nr. 67/2023 mit Ablauf des 12.5.2023 außer Kraft getreten)
+>
+> Anlage REMBM = Anlage 11
+>
+> Anlage REMGAP = Anlage 12
+>
+> Anlage REMHE = Anlage 13
+>
+> Anlage REMHR = Anlage 14
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 74 Abs. 1 und 7 des Bankwesengesetzes – BWG, BGBl. Nr. 532/1993, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 141/2006, wird mit Zustimmung des Bundesministers für Finanzen verordnet:
+
+#### § 1 – Vermögensausweis
+
+§ 1. (1) Kreditinstitute haben den Vermögensausweis gemäß § 74 Abs. 1 BWG entsprechend folgender Anlagen zu gliedern:
+
+1\. **Anlage A1a**;
+
+\*(Anm.: Z 2 gemäß § 17 Abs. 14* *außer Kraft getreten)*
+
+3\. **Anlage A1c**;
+
+4\. **Anlage A1d**, sofern es sich um ein Kreditinstitut gemäß Art. 4 Abs. 1 Nr. 1 der Verordnung (EU) Nr. 575/2013 handelt;
+
+5\. **Anlage A1e**.
+
+(2) Kreditinstitute, die über Zweigstellen in Mitgliedstaaten (§ 10 Abs. 1 BWG) oder über Zweigstellen in Drittländern tätig werden, haben die Meldung gemäß der **Anlage A1c** zusätzlich bezogen auf jeden Mitgliedstaat und jedes Drittland, in dem das Kreditinstitut über eine Zweigstelle tätig wird und diesbezüglich einer österreichischen Sicherungseinrichtung unterliegt, zu erstatten.
+
+(3) Kreditinstitute aus Mitgliedstaaten, die in Österreich gemäß § 9 Abs. 1 BWG über eine Zweigstelle tätig werden, haben den Vermögensausweis gemäß § 74 Abs. 1 BWG entsprechend der **Anlage A1a** zu gliedern.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 28
+
+#### § 2
+
+§ 2. (1) Der Vermögensausweis gemäß der **Anlage A1a** ist unverzüglich nach Ablauf eines jeden Kalendervierteljahres, spätestens aber bis zum zwanzigsten Bankarbeitstag des Folgemonats zu übermitteln.
+
+(2) Der Vermögensausweis gemäß der **Anlage A1c** ist unverzüglich nach Ablauf eines jeden Kalendervierteljahres, spätestens aber bis zum sechzehnten Bankarbeitstag des Folgemonats zu übermitteln.
+
+(3) Der Vermögensausweis gemäß der **Anlage A1d** ist unverzüglich nach Ablauf eines jeden Kalenderhalbjahres, spätestens aber bis zum zwanzigsten Bankarbeitstag des Folgemonats zu übermitteln.
+
+(4) Der Vermögensausweis gemäß der **Anlage A1e** ist mit Stand an den Meldestichtagen gemäß Art. 2 Abs. 1 Buchstabe b der Durchführungsverordnung (EU) 2021/451 unverzüglich, spätestens aber bis zu den in Art. 3 Abs. 1 Buchstabe b der Durchführungsverordnung (EU) 2021/451 festgelegten Einreichungsterminen zu übermitteln.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 28
+
+#### § 3 – Erfolgsausweis
+
+§ 3. (1) Kreditinstitute und Kreditinstitute aus Mitgliedstaaten, die in Österreich gemäß § 9 Abs. 1 BWG über eine Zweigstelle tätig werden, haben den Erfolgsausweis gemäß § 74 Abs. 1 BWG entsprechend der **Anlage A2** zu gliedern.
+
+(2) Die Daten des Erfolgsausweises sind unterjährig auf kumulierter Basis zu ermitteln.
+
+(3) Durchschnittsstände im Sinne der **Anlage A2** sind auf Basis der Tagesendstände zu ermitteln.
+
+#### § 4
+
+§ 4. Der Erfolgsausweis gemäß der **Anlage A2** ist unverzüglich nach Ablauf eines jeden Kalendervierteljahres, spätestens aber bis zum zwanzigsten Bankarbeitstag des Folgemonats zu übermitteln.
+
+#### § 5 – Risikoausweis
+
+§ 5. (1) Kreditinstitute haben den Risikoausweis gemäß § 74 Abs. 1 BWG entsprechend folgender Anlagen zu gliedern:
+
+\*(Anm.: Z 1 aufgehoben durch Art. 1 Z 1,* *BGBl. II Nr. 144/2024)*
+
+\*(Anm.: Z 2 aufgehoben durch BGBl. II Nr. 432/2021)*
+
+3\. **Anlage** **REMBM**, **REMGAP, REMHE** und **REMHR**, wobei hievon abweichend
+
+a) kleine und nicht komplexe Institute gemäß Art. 4 Abs. 1 Nr. 145 der Verordnung (EU) Nr. 575/2013 von der **Anlage** **REMBM** nur die Tabellen R01.00, R03.00 und R12.00 melden,
+
+b) Kreditinstitute mit insgesamt zumindest 250 Mitarbeitern, aber weniger als 250 gemäß § 39b Abs. 1 und 2 BWG identifizierten Mitarbeitern von der Tabelle R06.00.b in der **Anlage** **REMGAP** zu den Spalten 0040, 0050, 0080 und 0090 nur die Zeile 0050 melden,
+
+c) Kreditinstitute mit insgesamt weniger als 250, aber zumindest 50 Mitarbeitern von der Tabelle R06.00.b in der **Anlage** **REMGAP** nur die Zeile 0050 melden,
+
+d) Kreditinstitute mit insgesamt weniger als 50 Mitarbeitern die **Anlage** **REMGAP** nicht melden, sowie
+
+e) Kreditinstitute, die nachgeordnete Institute einer Kreditinstitutsgruppe gemäß § 30 BWG sind oder die gemäß § 30a BWG einer Zentralorganisation ständig zugeordnet sind und deren verantwortliches Unternehmen gemäß § 30 Abs. 6 BWG oder deren Zentralorganisation die **Anlage** **REMHE** gemäß § 10a für die Kreditinstitutsgruppe oder den Kreditinstitute-Verbund meldet, die **Anlage** **REMHE** nicht melden.
+
+4\. **Anlage A3g**, wobei eine Beschwerde im Sinne der **Anlage A3g** jede Äußerung der Unzufriedenheit ist, die eine natürliche oder juristische Person im Zusammenhang mit der Erbringung
+
+a) einer Bankdienstleistung gemäß § 1 Abs. 1 BWG, mit Ausnahme der Bankgeschäfte gemäß § 1 Abs. 1 Z 13, Z 13a und Z 21 BWG,
+
+b) einer Wertpapierdienstleistung gemäß § 1 Z 3 des Wertpapieraufsichtsgesetzes 2018 – WAG 2018, BGBl. I Nr. 107/2017,
+
+d) eines Zahlungsdienstes gemäß § 4 Z 3 des Zahlungsdienstegesetzes 2018 – ZaDiG 2018, BGBl. I Nr. 17/2018,
+
+e) der Ausstellung von E-Geld gemäß § 1 Abs. 1 des E-Geldgesetzes 2010, BGBl. I Nr. 107/2010,
+
+an ein gemäß dieser Ziffer meldendes Kreditinstitut richtet.
+
+\*(Anm.: Z 5 aufgehoben durch Art. 1 Z 2, BGBl. II Nr. 328)*
+
+(2) Kreditinstitute aus Mitgliedstaaten, die in Österreich gemäß § 9 Abs. 1 BWG über eine Zweigstelle tätig werden, haben den Risikoausweis gemäß § 74 Abs. 1 BWG gemäß der **Anlage A3g** zu gliedern.
+
+#### § 6
+
+§ 6. *(Anm.: Abs. 1 aufgehoben durch Art. 1 Z 1, BGBl. II Nr. 144/2024)*
+
+(2) Der Risikoausweis gemäß den **Anlagen** **REMBM** und **REMHE** ist nach Ablauf eines jeden Geschäftsjahres, spätestens aber bis zum 15. Tag des sechstfolgenden Monats zu melden. Der Risikoausweis gemäß der **Anlage** **REMHR** ist nach Ablauf jedes zweiten Geschäftsjahres, spätestens aber bis zum 15. Tag des sechstfolgenden Monats zu melden. Der Risikoausweis gemäß der **Anlage** **REMGAP** ist nach Ablauf jedes dritten Geschäftsjahres, spätestens aber bis zum 15. Tag des sechstfolgenden Monats zu melden.
+
+(3) Der Risikoausweis gemäß der **Anlage A3g** ist unverzüglich nach Ablauf eines jeden Kalenderjahres, spätestens aber bis zum zwanzigsten Bankarbeitstag nach dem Meldestichtag zu übermitteln.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 24
+
+#### § 6a – Meldungen zu Fremdkapitalfinanzierungen von Immobilien
+
+§ 6a. (1) CRR-Kreditinstitute gemäß § 1a Abs. 1 Z 1 BWG mit Sitz im Inland sowie CRR-Kreditinstitute aus Mitgliedstaaten, die in Österreich gemäß § 9 Abs. 1 BWG über eine Zweigstelle tätig werden, haben die Meldungen zu privaten Wohnimmobilienfinanzierungen entsprechend der **Anlage H** vierteljährlich auf unkonsolidierter Basis zu übermitteln.
+
+(2) Für die Zwecke von Meldungen gemäß Abs. 1 sind:
+
+1\. Private Wohnimmobilienfinanzierung: Fremdkapitalfinanzierungen von Immobilien gemäß § 2 Z 46 BWG,
+
+a) die für den Bau oder Erwerb von Wohnimmobilien gemäß Art. 4 Abs. 1 Nr. 75 der Verordnung (EU) Nr. 575/2013 bestimmt sind,
+
+b) deren Kreditnehmer eine oder mehrere, höchstens aber vier natürliche Personen als Verbraucher gemäß § 1 Abs. 1 Z 2 oder Abs. 3 des Konsumentenschutzgesetzes – KSchG, BGBl. Nr. 140/1979, sind, und
+
+c) die
+
+aa) mit einer Liegenschaft im Inland besichert werden oder
+
+bb) mit keiner Liegenschaft im Inland besichert werden, wenn zumindest ein Kreditnehmer gemäß lit. b seinen Hauptwohnsitz im Inland hat;
+
+1a. neu vereinbarte private Wohnimmobilienfinanzierung: eine private Wohnimmobilienfinanzierung, die vom Kreditinstitut mit dem Kreditnehmer neu vereinbart wird, wobei als Zeitpunkt der Neu-Vereinbarung der Zeitpunkt des Abschlusses des Finanzierungsvertrags gilt. Wird das Finanzierungsvolumen einer bestehenden Finanzierungsvereinbarung erhöht, liegt die Vereinbarung einer neuen Finanzierung nur in Höhe der Differenz des neu vereinbarten Finanzierungsvolumens zum bisher aushaftenden Restbetrag vor, bei einem Rahmenkredit liegt die Vereinbarung einer neuen Finanzierung nur in Höhe des Differenzbetrags zwischen bisherigem und neu vereinbartem Rahmen vor. Sonstige Änderungen oder Erneuerungen der Finanzierungsvereinbarung, einschließlich Änderungen des Finanzierungszwecks, des Zinssatzes, der Laufzeit, des Tilgungsplans, Währungskonvertierungen, Konsolidierungen oder Aufspaltungen von Finanzierungen sowie Stundungen und andere Maßnahmen für notleidende Kredite gelten nicht als neue Vereinbarung einer privaten Wohnimmobilienfinanzierung;
+
+2\. Junger Kreditnehmer: ein Kreditnehmer, welcher zum Zeitpunkt der Kreditvergabe sein 35. Lebensjahr noch nicht vollendet hat;
+
+3\. Vermietung: die dauerhafte entgeltliche Überlassung einer Wohnimmobilie gemäß Art. 4 Abs. 1 Nr. 75 der Verordnung (EU) Nr. 575/2013;
+
+4\. Eigenbedarf: jede Nutzung einer Wohnimmobilie gemäß Art. 4 Abs. 1 Nr. 75 der Verordnung (EU) Nr. 575/2013 außer einer Nutzung zur Vermietung gemäß Z 3;
+
+5\. Beleihungsquote: die Beleihungsquote gemäß § 23h Abs. 2 Z 1 BWG unter Berücksichtigung der Berechnungsvorschriften gemäß Abs. 2a;
+
+6\. Schuldenquote: die Schuldenquote gemäß § 23h Abs. 2 Z 2 BWG;
+
+7\. Schuldendienstquote: die Schuldendienstquote gemäß § 23h Abs. 2 Z 3 BWG unter Berücksichtigung der Berechnungsvorschriften gemäß Abs. 2b;
+
+8\. Eigenfinanzierungsanteil: der Quotient aus den Gesamtinvestitionskosten nach Abzug des Kreditvolumens, das zur Finanzierung der Gesamtinvestitionskosten gewährt wurde, und den Gesamtinvestitionskosten für den Bau oder Erwerb der Immobilien, für die die Fremdkapitalfinanzierung gewährt wurde;
+
+9\. Leveragequote: der Quotient aus dem Kreditvolumen und der Summe der Marktwerte der als Sicherheit dienenden Immobilien, wobei von den Marktwerten der als Sicherheit dienenden Immobilien die auf diesen lastenden Vorlasten abgezogen werden;
+
+10\. Anfänglich zins-/tilgungsfrei: Fremdkapitalfinanzierungen, für die eine zins- oder tilgungsfreie Periode von mindestens zwölf Monaten vereinbart wurde, in der der Kreditnehmer keine Zins- oder Tilgungszahlungen zu leisten hat. Die zins-/tilgungsfreie Periode beginnt
+
+a) bei Fremdkapitalfinanzierungen, die für den Bau von Immobilien gewährt werden, mit Baufertigstellung;
+
+b) bei allen anderen Fremdkapitalfinanzierungen mit Auszahlung der Kreditsumme, im Falle einer Auszahlung in mehreren Teilen mit Auszahlung des ersten Teilbetrags;
+
+11\. Marktwert: im Hinblick auf Immobilien der Marktwert gemäß Art. 4 Abs. 1 Nr. 76 der Verordnung (EU) Nr. 575/2013;
+
+12\. Einkommen: bei natürlichen Personen als Kreditnehmern das Einkommen gemäß Abs. 2b Z 4;
+
+13\. Laufzeit: die Laufzeit beginnend mit der Auszahlung der Kreditsumme, bei Auszahlungen in mehreren Teilen mit der Auszahlung des ersten Teils, bei Rahmenkrediten mit der ersten Möglichkeit des Abrufs durch den Kreditnehmer;
+
+14\. Geringfügigkeitsgrenze: die Summe von höchstens 50 000 Euro sämtlicher aushaftender Kreditverbindlichkeiten des Kreditnehmers aus privaten Wohnimmobilienfinanzierungen einschließlich der neu vereinbarten Finanzierung unter Berücksichtigung der Berechnungsvorschriften gemäß Abs. 2c;
+
+15\. Zwischenfinanzierung: private Wohnimmobilienfinanzierungen mit einer vereinbarten Laufzeit von höchstens zwei Jahren, bei denen das Kreditinstitut mit dem Kreditnehmer vereinbart hat,
+
+a) den Kredit aus dem Verkaufserlös einer Immobilie zu tilgen, die zum Zeitpunkt des Abschlusses der Zwischenfinanzierung
+
+aa) im Eigentum des Kreditnehmers steht, von ihm oder seinen Angehörigen im Sinne des § 72 des Strafgesetzbuches – StGB, BGBl. Nr. 60/1974, bewohnt wird und für die das Kreditinstitut eine eintragungsfähige Pfandurkunde einholt, oder
+
+bb) gemäß Abs. 2a Z 3 lit. a für die Zwischenfinanzierung als Sicherheit dient, wobei die Kreditsumme 90% des Betrags der Hypothek nicht übersteigt,
+
+wobei die Kreditsumme zuzüglich Vorlasten der Immobilie 80% des Marktwerts der Immobilie gemäß Art. 4 Abs. 1 Nr. 76 der Verordnung (EU) Nr. 575/2013 nicht übersteigt. Der Marktwert ist unter Einhaltung der Anforderungen gemäß den Rz. 209 bis 214 der Leitlinien für die Kreditvergabe und Überwachung der Europäischen Bankenaufsichtsbehörde vom 29. Mai 2020 (EBA/GL/2020/06) festzustellen und zu dokumentieren. Vorlasten sind nicht zu berücksichtigen, wenn das Kreditinstitut im Zeitpunkt der Vereinbarung der Zwischenfinanzierung sicherstellt und dokumentiert, dass die Vorlast durch die Zwischenfinanzierung getilgt und im Grundbuch gelöscht wird; oder
+
+b) die Kreditsumme aus einer Förderung für den Bau oder Erwerb von Wohnimmobilien zu tilgen,
+
+aa) die als Geldleistung gewährt wird und vom Kreditnehmer nicht zurückzuzahlen ist (Zuschuss),
+
+bb) die von einem Rechtsträger gemäß Art. 112 Buchstabe a bis c der Verordnung (EU) Nr. 575/2013 gewährt wird und
+
+cc) für die der Kreditnehmer zum Zeitpunkt der Auszahlung der Zwischenfinanzierung über eine verbindliche Förderzusage auf Gewährung und Auszahlung der Förderung verfügt;
+
+16\. Vorfinanzierungen von Bauspardarlehen und Förderkrediten: Kredite mit einer vereinbarten Laufzeit von höchstens zwei Jahren, bei denen das Kreditinstitut mit dem Kreditnehmer vereinbart hat, die Kreditsumme
+
+a) aus einem Darlehen einer Bausparkasse gemäß § 2 Abs. 1 Z 1 und Z 2 lit. a und b des Bausparkassengesetzes – BSpG, BGBl. Nr. 532/1993, zu tilgen, für das der Kreditnehmer zum Zeitpunkt der Auszahlung der Vorfinanzierung über eine verbindliche Zusage zur Gewährung und Auszahlung des Darlehens verfügt, welche die Bausparkasse nach Prüfung der Anforderungen des BSpG vorbehaltlich deren vollständiger Erfüllung erteilt hat, oder
+
+b) aus einer privaten Wohnimmobilienfinanzierung zu tilgen, für die der Kreditnehmer zum Zeitpunkt der Auszahlung der Vorfinanzierung über eine verbindliche Zusage eines Rechtsträgers gemäß Art. 112 Buchstabe a bis c der Verordnung (EU) Nr. 575/2013 zur Gewährung, Förderung oder Besicherung dieser privaten Wohnimmobilienfinanzierung verfügt (Förderkredit).
+
+(2a) Bei der Berechnung der Beleihungsquote für die Zwecke der Meldungen zu privaten Wohnimmobilienfinanzierungen entsprechend der **Anlage H** gilt:
+
+1\. Kreditinstitute haben die Beleihungsquote gemäß § 23h Abs. 2 Z 1 BWG nach folgender Formel zu berechnen:
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img1is.png)
+
+2\. ![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img2is.png) ist die Summe der neu vereinbarten privaten Wohnimmobilienfinanzierungen, bei denen es sich um keine Zwischenfinanzierung handelt, zuzüglich des aushaftenden Restbetrags bestehender privater Wohnimmobilienfinanzierungen, bei denen es sich um keine Zwischenfinanzierung handelt. Solche bestehenden privaten Wohnimmobilienfinanzierungen sind zu berücksichtigen, wenn sie vom selben Kreditinstitut an denselben oder dieselben Kreditnehmer wie die neu vereinbarte private Wohnimmobilienfinanzierung, bei der es sich um keine Zwischenfinanzierung handelt, vergeben worden sind. Bestehende private Wohnimmobilienfinanzierungen, bei denen es sich um keine Zwischenfinanzierung handelt, sind mit dem im Zeitpunkt der Vereinbarung der neuen Finanzierungen aushaftenden Restbetrag zuzüglich nicht ausgenutzter Kreditrahmen anzusetzen.
+
+3\. ![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img3is.png) ist die Summe der gemäß lit. a als Sicherheit dienenden Immobilien mit ihren gemäß lit. b berechneten Werten:
+
+a) „Als Sicherheit dienende Immobilien“ sind jene Immobilien, zu denen im Zeitpunkt der Vereinbarung der neuen Finanzierung im Grundbuch eine Hypothek für eine gemäß Z 2 im Zähler berücksichtigte Finanzierung eingetragen ist. Immobilien, aus deren Verkaufserlös gemäß Abs. 2 Z 15 lit. a eine Zwischenfinanzierung getilgt werden soll, stellen keine geeignete Sicherheit für die neu vereinbarte Finanzierung dar. Eine Immobilie ist darüber hinaus auch zu berücksichtigen, wenn das Kreditinstitut die grundbücherliche Eintragung einer Hypothek ohne unnötigen Verzug,
+
+aa) längstens aber sechs Monate nach Vereinbarung der Finanzierung vornimmt oder sichergestellt ist, dass die Auszahlung der Kreditsumme erst nach der grundbücherlichen Eintragung erfolgt oder
+
+bb) die Kreditsumme an einen Treuhänder ausbezahlt wird, der die grundbücherliche Eintragung der Hypothek sicherstellt.
+
+b) Immobilien gemäß lit. a sind mit ihrem Marktwert gemäß Art. 4 Abs. 1 Nr. 76 der Verordnung (EU) Nr. 575/2013 abzüglich des Werts etwaiger Vorlasten, höchstens aber mit dem Betrag der im Grundbuch eingetragenen oder gemäß lit. a dritter Satz einzutragenden Hypothek zu berücksichtigen. Wurde eine gemäß Z 2 im Zähler berücksichtigte Finanzierung für den Bau einer Wohnimmobilie vergeben, ist der Marktwert dieser Immobilie der erwartete Wert nach Baufertigstellung, wobei auch hier der Betrag der im Grundbuch eingetragenen oder gemäß lit. a dritter Satz einzutragenden Hypothek die Höchstgrenze bildet. Vorlasten sind nicht zu berücksichtigen, wenn das Kreditinstitut im Zeitpunkt der Vereinbarung der neuen privaten Wohnimmobilienfinanzierung, bei der es sich um keine Zwischenfinanzierung handelt, sicherstellt und dokumentiert, dass die Vorlast durch die neu vereinbarte Finanzierung getilgt und im Grundbuch gelöscht wird. Mehrere Immobilien, zu denen eine gemeinsame Simultanhypothek (§ 15 des Allgemeinen Grundbuchsgesetzes 1955 – GBG 1955, BGBl. Nr. 39/1955) eingetragen ist, sind gemeinsam höchstens mit dem Betrag der Simultanhypothek zu berücksichtigen.
+
+4\. Im Nenner der Beleihungsquote gemäß Z 1 sind unabhängig von Ansatz und Methode zur Berücksichtigung von Sicherheiten gemäß Teil 3, Titel II, Kapitel 4 der Verordnung (EU) Nr. 575/2013 als „sonstige Sicherheiten <sub>CRR</sub>“ Besicherungen mit Sicherheitsleistung gemäß den Art. 197, 198 und 200 der Verordnung (EU) Nr. 575/2013 anzusetzen,
+
+a) die die Anforderungen der Art. 207 und 212 der Verordnung (EU) Nr. 575/2013 erfüllen,
+
+b) die zur Besicherung einer gemäß Z 2 im Zähler berücksichtigten Finanzierung dienen und
+
+c) die nicht bereits gemäß Z 3 berücksichtigt werden.
+
+Sonstige Sicherheiten <sub>CRR</sub> sind mit ihrem gemäß internem Risikomanagement ausgewiesenen Wert anzusetzen, wobei adäquate Volatilitätsanpassungen zu berücksichtigen sind.
+
+(2b) Bei der Berechnung der Schuldendienstquote für die Zwecke der Meldungen zu privaten Wohnimmobilienfinanzierungen entsprechend der **Anlage H** gilt:
+
+1\. Kreditinstitute haben die Schuldendienstquote gemäß § 23h Abs. 2 Z 3 BWG nach folgender Formel zu berechnen:
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img4is.png)
+
+2\. Im Zähler der Schuldendienstquote gemäß Z 1 ist als Gesamtschuldendienst die Summe der Zins- und Tilgungsleistungen aus der Bedienung sämtlicher Kreditverbindlichkeiten des Kreditnehmers, berechnet über den Zeitraum eines Jahres, anzusetzen. Zins- und Tilgungsleistungen des Kreditnehmers gegenüber dritten Kreditgebern sind ebenfalls zu berücksichtigen. Unabhängig vom tatsächlichen Tilgungsplan ist rechnerisch von einer laufenden Tilgung mit über die gesamte Laufzeit konstanten Annuitäten sowohl der bestehenden Finanzierungen als auch der neu vereinbarten Finanzierung auszugehen. Im Hinblick auf die neu vereinbarte Finanzierung ist von einer vollständigen Tilgung am Ende der Laufzeit auszugehen. Dies gilt auch für endfällige Finanzierungen. Bei Zwischenfinanzierungen (Abs. 2 Z 15) ist der Resttilgungsbetrag am Laufzeitende nicht im Gesamtschuldendienst zu berücksichtigen. Vorfinanzierungen von Bauspardarlehen und Förderkrediten (Abs. 2 Z 16) sind für die Zwecke der Berechnung der Schuldendienstquote gemeinsam mit dem vorfinanzierten Bauspardarlehen (Abs. 2 Z 16 lit. a) oder Förderkredit (Abs. 2 Z 16 lit. b) als einheitliche Finanzierung zu behandeln. Bestehende Finanzierungen sind nicht zu berücksichtigen, soweit das Kreditinstitut sicherstellt und dokumentiert, dass die bestehende Finanzierung durch die neu vereinbarte private Wohnimmobilienfinanzierung getilgt wird. Sind Kreditnehmer der neu vereinbarten Finanzierung mehrere Personen (Abs. 2 Z 1 lit. b) oder haften Personen für die neu vereinbarte Finanzierung als Bürgen und Zahler (§ 1357 des Allgemeinen bürgerlichen Gesetzbuchs – ABGB, JGS Nr. 946/1811), ist die Summe der Zins- und Tilgungsleistungen aller Kreditnehmer und der Bürgen und Zahler zusammenzuzählen. Ist ein Kreditnehmer oder ein Bürge und Zahler der neu vereinbarten Finanzierung zu Zins- oder Tilgungsleistungen für eine weitere Kreditverbindlichkeit verpflichtet, bei welcher er gemeinsam mit einer oder mehreren dritten Personen Kreditnehmer ist, so sind die Zins- und Tilgungsleistungen aus dieser weiteren Kreditverbindlichkeit im Gesamtschuldendienst mit ihrem Anteil gemäß Z 3 zu berücksichtigen.
+
+3\. Der im Gesamtschuldendienst gemäß Z 2 zu berücksichtigende Anteil von Drittverbindlichkeiten im Sinne der Z 2 letzter Satz ist wie folgt zu berechnen:
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img5is.png)
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img6is.png)…im Gesamtschuldendienst zu berücksichtigender Anteil des Schuldendienstes für eine Drittverbindlichkeit
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img7is.png)…Gesamter Schuldendienst für die Drittverbindlichkeit
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img8is.png)…Einkommen gemäß Z 4 der Kreditnehmer der Drittverbindlichkeit, die auch Kreditnehmer oder Bürgen und Zahler der neu vereinbarten Finanzierung sind
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img9is.png)…Einkommen aller Kreditnehmer der Drittverbindlichkeit
+
+4\. Im Nenner der Schuldendienstquote gemäß Z 1 ist als Einkommen das jährliche Einkommen gemäß § 2 Abs. 2 des Einkommensteuergesetzes 1988 – EStG 1988, BGBl. Nr. 400/1988, nach Abzug von Steuern und Abgaben und zuzüglich Transferzahlungen anzusetzen. Einkommensbestandteile einschließlich Transferzahlungen sind nur zu berücksichtigen, soweit sie verifiziert, regelmäßig und nachhaltig sind. Sie sind verifiziert, wenn sich das Kreditinstitut über ihren tatsächlichen Bestand oder ihre gesicherte zukünftige Erzielung vergewissert und dies auch dokumentiert hat. Einkommensbestandteile sind regelmäßig und nachhaltig, wenn im Zeitpunkt der Vereinbarung der Finanzierung davon auszugehen ist, dass während der gesamten Laufzeit ein entsprechendes Gesamteinkommen regelmäßig erzielt wird. Bei schwankenden Einkommensbestandteilen ist bei der Prüfung der Regelmäßigkeit und Nachhaltigkeit vom Kreditinstitut die Entwicklung zumindest in den vergangenen drei Jahren im Rahmen einer Gesamtbetrachtung zu berücksichtigen. Transferzahlungen sind nur zu berücksichtigen, wenn der Kreditnehmer auf ihre regelmäßige, nachhaltige Zahlung einen Rechtsanspruch hat. Sind Kreditnehmer der neu vereinbarten Finanzierung mehrere Personen (Abs. 2 Z 1 lit. b) oder haften Personen für die neu vereinbarte Finanzierung als Bürgen und Zahler (§ 1357 ABGB), ist das Gesamteinkommen aller Kreditnehmer und der Bürgen und Zahler zusammenzuzählen. Zins- oder Tilgungsleistungen, die gemäß Z 2 oder 3 im Zähler der Schuldendienstquote berücksichtigt werden, mindern ungeachtet ihrer steuerrechtlichen Behandlung das Einkommen gemäß Z 4 nicht.
+
+5\. Die Schuldendienstquote ist ausgehend von den im Zeitpunkt der Vereinbarung der neuen Finanzierung verfügbaren Informationen zu berechnen. Kreditinstitute haben geeignete Handlungen zu setzen und zu dokumentieren, um die zur Berechnung der Schuldendienstquote relevanten Informationen über das Einkommen und die Zins- und Tilgungsverpflichtungen des Kreditnehmers zu erlangen und zu verifizieren.
+
+(2c) Bei der Berechnung der Geringfügigkeitsgrenze für die Zwecke der Meldungen zu privaten Wohnimmobilienfinanzierungen entsprechend der **Anlage H** gilt:
+
+1\. Ob eine neu vereinbarte Finanzierung unter die Geringfügigkeitsgrenze gemäß Abs. 2 Z 14 fällt, haben Kreditinstitute nach folgender Formel zu berechnen:
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img10is.png)
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img11is.png) bezeichnet dabei die Summe der neu vereinbarten privaten Wohnimmobilienfinanzierungen, bei denen es sich um keine Zwischenfinanzierung handelt, zuzüglich des aushaftenden Restbetrags sämtlicher bestehender privater Wohnimmobilienfinanzierungen des Kreditnehmers. Private Wohnimmobilienfinanzierungen des Kreditnehmers gegenüber dritten Kreditgebern sind ebenfalls zu berücksichtigen. Sind Kreditnehmer der neu vereinbarten Finanzierung mehrere Personen (Abs. 2 Z 1 lit. b), ist die Summe der privaten Wohnimmobilienfinanzierungen aller Kreditnehmer zusammenzuzählen. Kreditinstitute haben geeignete Handlungen zu setzen und zu dokumentieren, um die zur Berechnung der Gesamtverschuldung des Kreditnehmers relevanten Informationen des Kreditnehmers zu erlangen und zu verifizieren. Ist ein Kreditnehmer der neu vereinbarten Finanzierung Schuldner einer weiteren privaten Wohnimmobilienfinanzierung, bei welcher er gemeinsam mit einer oder mehreren dritten Personen Kreditnehmer ist, so ist diese weitere Kreditverbindlichkeit in der Gesamtverschuldung mit ihrem gemäß Z 2 berechneten Anteil zu berücksichtigen.
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img12is.png) ist der in Abs. 2 Z 14 genannte Betrag (50 000 Euro). Bei neu vereinbarten Finanzierungen, deren gemeinsame Kreditnehmer Ehegatten, eingetragene Partner oder Personen sind, die gemäß § 72 Abs. 2 StGB miteinander in Lebensgemeinschaft leben, erhöht sich dieser Betrag auf die doppelte Summe (100 000 Euro).
+
+2\. Drittverbindlichkeiten gemäß Z 1 zweiter Unterabsatz letzter Satz sind in der Gesamtverschuldung anteilig wie folgt zu berücksichtigen:
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img13is.png)
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img14is.png)…in der Gesamtverschuldung zu berücksichtigender Anteil der Drittverbindlichkeit
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img15is.png)…Gesamter aushaftender Restbetrag der Drittverbindlichkeit
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img16is.png)…Einkommen gemäß Abs. 2b Z 4 der Kreditnehmer der Drittverbindlichkeit, die auch Kreditnehmer der neu vereinbarten Finanzierung sind
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269287/hauptdokument.img17is.png)…Einkommen aller Kreditnehmer der Drittverbindlichkeit
+
+(3) Bei der Angabe des Kreditvolumens sowie bei der Berechnung der jeweiligen Kennzahlen und Indikatoren sind für die Abschnitte A bis C der **Anlage H** die Werte zum Zeitpunkt der Vergabe der privaten Wohnimmobilienfinanzierung heranzuziehen und für Abschnitt D der **Anlage H** die Werte zum Meldestichtag gemäß Abs. 4.
+
+(4) Meldestichtage für Meldungen gemäß Abs. 1 sind der 31. März für den Berichtszeitraum 1. Jänner bis 31. März, der 30. Juni für den Berichtszeitraum 1. April bis 30. Juni, der 30. September für den Berichtszeitraum 1. Juli bis 30. September und der 31. Dezember für den Berichtszeitraum 1. Oktober bis 31. Dezember. Meldungen zu den Abschnitten A bis C der **Anlage H** sind anhand der im jeweiligen Berichtszeitraum neu vereinbarten privaten Wohnimmobilienfinanzierungen zu erstatten. Meldungen zu Abschnitt D der **Anlage H** sind anhand der am jeweiligen Meldestichtag bestehenden privaten Wohnimmobilienfinanzierungen zu erstatten. Die Meldungen sind unverzüglich, spätestens aber bis zum 45. Bankarbeitstag nach dem Meldestichtag zu übermitteln.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 27
+
+#### § 6b – Meldungen von Plandaten auf unkonsolidierter Ebene
+
+§ 6b. (1) Weniger bedeutende Kreditinstitute gemäß Art. 6 Abs. 4 der Verordnung (EU) Nr. 1024/2013 sowie Kreditinstitute gemäß § 1a Abs. 2 BWG, auf die Teil 3 der Verordnung (EU) Nr. 575/2013 anzuwenden ist und die nicht Teil einer bedeutenden Gruppe gemäß Art. 6 Abs. 4 der Verordnung (EU) Nr. 1024/2013 sind, haben Plandaten entsprechend folgender Anlagen zu gliedern:
+
+1\. **Anlage I1a,** sofern die zuständige Behörde gemäß Art. 24 Abs. 2 der Verordnung (EU) Nr. 575/2013 verlangt hat, die Bewertung von Vermögenswerten und außerbilanziellen Posten und die Ermittlung der Eigenmittel gemäß den Internationalen Rechnungslegungsstandards nach Maßgabe der Verordnung (EG) Nr. 1606/2002 vorzunehmen;
+
+2\. **Anlage I1b,** sofern keine Meldung gemäß Z 1 vorzunehmen ist;
+
+3\. **Anlage I2b.**
+
+(2) Bedeutende Kreditinstitute gemäß Art. 6 Abs. 4 der Verordnung (EU) Nr. 1024/2013, die übergeordnete Kreditinstitute gemäß § 30 Abs. 5 BWG sind, haben Plandaten zu Eigenmittelpositionen entsprechend der **Anlage I2a** zu gliedern.
+
+(3) Die Meldung gemäß Abs. 1 Z 1 und 2 ist unverzüglich nach Ablauf eines jeden Geschäftsjahres, spätestens aber bis zum 15. des drittfolgenden Monats zu übermitteln. Die Meldung gemäß Abs. 1 Z 3 ist unverzüglich nach Ablauf eines jeden Geschäftsjahres, spätestens aber bis zum 11. des zweitfolgenden Monats zu übermitteln. Die Meldung gemäß Abs. 2 ist unverzüglich nach Ablauf eines jeden Kalenderhalbjahres, spätestens aber bis zum 11. des zweitfolgenden Kalendermonats zu übermitteln.
+
+#### § 7 – Konsolidierter Vermögens-, Erfolgs- und Risikoausweis
+
+§ 7. (1) Verantwortliche Unternehmen gemäß § 30 Abs. 6 BWG haben den Vermögens- und Erfolgsausweis gemäß § 74 Abs. 1 BWG für die im Konzernabschluss nach § 59 BWG dargestellte Kreditinstitutsgruppe entsprechend den **Anlagen A1e und B1** zu gliedern.
+
+(2) Die Daten des Vermögensausweises sind auf Basis des entsprechenden Meldestichtages, jene des Erfolgsausweises sind unterjährig auf kumulierter Basis zu melden.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 28
+
+#### § 8
+
+§ 8. Der Vermögens- und Erfolgsausweis gemäß der **Anlage B1** ist unverzüglich nach Ablauf eines jeden Kalendervierteljahres, spätestens aber zwei Monate nach dem Meldestichtag zu übermitteln.
+
+> **Beachte:** Ist erstmals auf Meldungen zum Meldestichtag 30. September 2014 anzuwenden (vgl. § 17 Abs. 10).
+
+#### § 10
+
+§ 10. (1) Verantwortliche Unternehmen gemäß § 30 Abs. 6 BWG haben den Vermögens-, Erfolgs- und Risikoausweis gemäß §§ 7 und 8 im laufenden Jahr nicht zu übermitteln, sofern ein Konzernabschluss gemäß § 59 BWG erstellt wird und wenn die Differenz zwischen dem Betriebsergebnis des Konzerns und dem gemäß der Anlage 2 zu Art. I § 43 BWG, Teil 2, IV. zusammengesetzten Betriebsergebnis des nicht-konsolidierten Jahresabschlusses des übergeordneten Kreditinstitutes nicht mehr als 5 vH dieses Betriebsergebnisses des übergeordneten Kreditinstituts beträgt, wobei für die Feststellung der Meldebefreiung jeweils die Werte des vorangegangenen Geschäftsjahres heranzuziehen sind. Die Befreiung von der Meldeverpflichtung gilt auch für übergeordnete Kreditinstitute, die einen Konzernabschluss gemäß § 59a BWG erstellen, wobei als Maßstab für die Freigrenze das Betriebsergebnis des Konzerns heranzuziehen ist.
+
+(2) Wird die in Abs. 1 normierte Grenze überschritten, so hat die Übermittlung des Vermögens-, Erfolgs- und Risikoausweises gemäß §§ 7 und 8 ab dem ersten Meldestichtag des auf den Bilanzstichtag, an dem das Überschreiten festgestellt wurde, folgenden Geschäftsjahres zu erfolgen.
+
+#### § 10a
+
+§ 10a. Verantwortliche Unternehmen gemäß § 30 Abs. 6 BWG haben den Risikoausweis für die Kreditinstitutsgruppe gemäß § 30 BWG entsprechend den **Anlagen REMBM** und **REMHE** zu gliedern, wobei hievon abweichend verantwortliche Unternehmen von Kreditinstitutsgruppen, in denen alle Institute kleine und nicht komplexe Institute gemäß Art. 4 Abs. 1 Nr. 145 der Verordnung (EU) Nr. 575/2013 sind, von der **Anlage** **REMBM** nur die Tabellen R01.00, R03.00 und R12.00 melden.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 24
+
+#### § 10b
+
+§ 10b. (1) Verantwortliche Unternehmen gemäß § 30 Abs. 6 BWG haben den Risikoausweis zu Finanzierungsplänen für die Kreditinstitutsgruppe entsprechend der Abschnitte 1 bis 5 der **Anlage G1** zu gliedern, sofern
+
+1\. das übergeordnete Kreditinstitut der Kreditinstitutsgruppe gemäß § 30 Abs. 5 BWG ein CRR-Kreditinstitut gemäß § 1a Abs. 1 Z 1 BWG ist,
+
+2\. die konsolidierte Bilanzsumme zum 31. Dezember 2023 5 Milliarden Euro überstieg und
+
+3\. § 59a BWG auf die Erstellung des Konzernabschlusses anzuwenden ist.
+
+(2) Abschnitt 2D der **Anlage G1** ist nur zu übermitteln, wenn eine substanzielle Bilanzrestrukturierung geplant ist.
+
+(3) Abschnitt 1B der **Anlage G1** ist nur zu übermitteln, wenn Teil 6 der Verordnung (EU) Nr. 575/2013 auf den Meldepflichtigen gemäß Abs. 1 anzuwenden ist.
+
+#### § 10c – Meldungen von Plandaten auf konsolidierter Ebene
+
+§ 10c. (1) Verantwortliche Unternehmen gemäß § 30 Abs. 6 BWG haben auf Basis der konsolidierten Lage Plandaten entsprechend folgender Anlagen zu gliedern, sofern das übergeordnete Kreditinstitut der Kreditinstitutsgruppe gemäß § 30 Abs. 5 BWG entweder ein weniger bedeutendes Kreditinstitut gemäß Art. 6 Abs. 4 der Verordnung (EU) Nr. 1024/2013 oder ein Kreditinstitut gemäß § 1a Abs. 2 BWG ist, auf welches Teil 3 der Verordnung (EU) Nr. 575/2013 anzuwenden ist:
+
+1\. **Anlage I1a,** sofern ein Konzernabschluss gemäß § 59a BWG erstellt wird. Verantwortliche Unternehmen gemäß § 30 Abs. 6 BWG, die der Meldung gemäß § 10b unterliegen, haben keine Meldung gemäß Abschnitt B der **Anlage I1a** zu erstatten;
+
+2\. **Anlage I1b,** sofern ein Konzernabschluss gemäß § 59 BWG erstellt wird;
+
+3\. **Anlage I2b**.
+
+(2) Verantwortliche Unternehmen gemäß § 30 Abs. 6 BWG haben auf Basis der konsolidierten Lage Plandaten entsprechend folgender Anlagen zu gliedern, sofern das übergeordnete Kreditinstitut der Kreditinstitutsgruppe gemäß § 30 Abs. 5 BWG ein bedeutendes Kreditinstitut gemäß Art. 6 Abs. 4 der Verordnung (EU) Nr. 1024/2013 ist:
+
+1\. **Anlage I2a** zu Eigenmittelpositionen;
+
+2\. **Anlage I3** zum sonstigen Ergebnis, sofern das verantwortliche Unternehmen gemäß § 30 Abs. 6 BWG der Meldung gemäß § 10b unterliegt.
+
+(3) Die Meldung gemäß den **Anlagen I1a**, **I1b** und **I3** ist unverzüglich nach Ablauf eines jeden Geschäftsjahres, spätestens aber bis zum 15. des drittfolgenden Monats zu übermitteln. Die Meldung gemäß der **Anlage I2b** ist unverzüglich nach Ablauf eines jeden Geschäftsjahres, spätestens aber bis zum 11. des zweitfolgenden Monats zu übermitteln. Die Meldung gemäß der **Anlage I2a** ist unverzüglich nach Ablauf eines jeden Kalenderhalbjahres, spätestens aber bis zum 11. des zweitfolgenden Kalendermonats zu übermitteln.
+
+#### § 11
+
+§ 11. *(Anm.: Abs. 1 aufgehoben durch Art. 1 Z 4, BGBl. II Nr. 144/2024)*
+
+(2) Der Risikoausweis gemäß den **Anlagen** **REMBM** und **REMHE** für die Kreditinstitutsgruppe ist nach Ablauf eines jeden Geschäftsjahres, spätestens aber bis zum 15. Tag des sechstfolgenden Monats zu melden.
+
+(3) Der Risikoausweis gemäß der **Anlage G1** ist unverzüglich nach Ablauf eines jeden Kalenderjahres, spätestens aber bis zum 15. März des auf den Meldestichtag folgenden Jahres zu übermitteln.
+
+#### § 11a – Kreditinstitute-Verbund
+
+§ 11a. Die Zentralorganisation hat den für verantwortliche Unternehmen gemäß § 30 Abs. 6 BWG geltenden Meldepflichten dieser Verordnung für den Kreditinstitute-Verbund nachzukommen.
+
+#### § 12 – Vollkonsolidierte ausländische Kreditinstitute
+
+§ 12. (1) Verantwortliche Unternehmen gemäß § 30 Abs. 6 BWG haben den Vermögens- und Erfolgsausweis gemäß § 74 Abs. 1 BWG für die im geprüften Konzernabschluss gemäß § 59 vollkonsolidierten ausländischen Kreditinstitute entsprechend der **Anlage D1** zu gliedern.
+
+(2) Die Daten des Vermögensausweises sind auf Basis des entsprechenden Meldestichtages, jene des Erfolgsausweises sind unterjährig auf kumulierter Basis zu melden.
+
+#### § 14
+
+§ 14. Der Vermögens-, Erfolgs- und Risikoausweis gemäß **Anlage D1** ist unverzüglich nach Ablauf eines jeden Kalendervierteljahres, spätestens aber bis zum fünfzehnten Kalendertag des zweiten Folgemonats, zum vierten Quartal spätestens innerhalb von zwei Monaten nach Abschluss des Kalenderjahres zu übermitteln.
+
+#### § 14a – Ausnahmen von der Meldung
+
+§ 14a. (1) Auf verantwortliche Unternehmen gemäß § 30 Abs. 6 BWG sind die §§ 7, 8, 12 und 14 nicht anzuwenden, sofern das übergeordnete Kreditinstitut der Kreditinstitutsgruppe gemäß § 30 Abs. 5 BWG der Meldeverpflichtung gemäß Art. 5 der Verordnung (EU) 2015/534 unterliegt.
+
+(2) Kreditinstitute, von denen die zuständige Behörde gemäß Art. 24 Abs. 2 der Verordnung (EU) Nr. 575/2013 verlangt, die Bewertung von Vermögenswerten und außerbilanziellen Posten und die Ermittlung der Eigenmittel gemäß den Internationalen Rechnungslegungsstandards nach Maßgabe der Verordnung (EG) Nr. 1606/2002 vorzunehmen, sind von der Verpflichtung zur Meldung des Vermögensausweises **Anlage A1a** (§ 1 Abs. 1 Z 1 in Verbindung mit § 2) sowie des Erfolgsausweises **Anlage A2** (§ 3 Abs. 1 in Verbindung mit § 4) ausgenommen. Diese Kreditinstitute haben folgende Meldungen unter Anwendung der Internationalen Rechnungslegungsstandards nach Maßgabe der Verordnung (EG) Nr. 1606/2002 zu melden:
+
+1\. den Vermögensausweis **Anlage A1c** (§ 1 Abs. 1 Z 3),
+
+\*(Anm.: Z 1 aufgehoben durch Art. 1 Z 8,* *BGBl. II Nr. 144/2024)*
+
+3\. sofern eine Meldeverpflichtung gemäß Art. 7, Art. 13 oder Art. 14 der Verordnung (EU) 2015/534
+
+a) nicht besteht, die Meldung von Finanzinformationen gemäß Anhang III Teil 1 der Durchführungsverordnung (EU) 2021/451 im Umfang der Meldebögen F 01.01 bis F 01.03, F 02.00, F 03.00 und F 07.01,
+
+b) besteht, zusätzlich die Meldung von Finanzinformationen gemäß Anhang III Teil 1 der Durchführungsverordnung (EU) 2021/451 im Umfang der Meldebögen F 03.00 und F 07.01.
+
+Die Meldungen gemäß dieser Ziffer sind mit Stand an den Meldestichtagen gemäß Art. 2 in Verbindung mit Art. 11 Abs. 2 lit. a der Durchführungsverordnung (EU) 2021/451 zu den in Art. 3 der Durchführungsverordnung (EU) 2021/451 festgelegten Einreichungsterminen und gemäß den Erläuterungen in Anhang V der Durchführungsverordnung (EU) 2021/451 an die Oesterreichische Nationalbank zu übermitteln.
+
+(3) Auf Kreditinstitute, die zur Erbringung von Bankgeschäften gemäß § 1 Abs. 1 Z 13, Z 13a oder Z 21 BWG berechtigt sind, ist diese Verordnung nicht anzuwenden.
+
+#### § 14b – Meldungen gemäß der Verordnung (EU) 2015/534
+
+§ 14b. (1) Kreditinstitute, die gemäß Art. 6, 7, 13 oder 14 der Verordnung (EU) 2015/534 zur Meldung aufsichtlicher Finanzinformationen verpflichtet sind, haben diese Meldungen nach den Meldestichtagen gemäß der Verordnung (EU) 2015/534 zu den in Art. 3 der Durchführungsverordnung (EU) 2021/451 festgelegten Einreichungsterminen an die Oesterreichische Nationalbank zu übermitteln.
+
+(2) Verantwortliche Unternehmen gemäß § 30 Abs. 6 BWG, die gemäß Art. 11 Abs. 4 oder 6 der Verordnung (EU) 2015/534 zur Meldung aufsichtlicher Finanzinformationen verpflichtet sind, haben diese Meldungen nach den Meldestichtagen gemäß der Verordnung (EU) 2015/534 zu den in Art. 3 der Durchführungsverordnung (EU) 2021/451 festgelegten Einreichungsterminen an die Oesterreichische Nationalbank zu übermitteln.
+
+#### § 14c – Meldungen zum Zinsrisiko für bestimmte Nicht-CRR-Kreditinstitute
+
+§ 14c. Kreditinstitute gemäß § 3 Abs. 6 und 10 BWG haben Meldungen entsprechend Art. 20a der Durchführungsverordnung (EU) 2021/451 im dort für kleine und nicht komplexe Institute vorgesehenen Umfang zu den in den Art. 2 und 3 dieser Verordnung festgelegten Meldestichtagen und Einreichungsterminen an die Oesterreichische Nationalbank zu übermitteln.
+
+#### § 15 – Meldetechnische Bestimmungen
+
+§ 15. (1) Sofern in den Anlagen nicht anders angegeben, sind Beträge in Eurocent und Prozentsätze auf die zweite Kommastelle genau anzugeben. Dabei sind nachfolgende Stellen von eins bis vier abzurunden, von fünf bis neun aufzurunden.
+
+(2) Fremdwährungspositionen sind unter Zugrundelegung des Euro-Referenzkurses der Europäischen Zentralbank (EZB) zum Meldestichtag in Euro umzurechnen. Ist für eine Währung kein Euro-Referenzkurs der EZB verfügbar, so sind die Devisenmittelkurse zum Meldestichtag heranzuziehen.
+
+#### § 16
+
+§ 16. Die Meldungen sind in standardisierter Form mittels elektronischer Übermittlung an die Oesterreichische Nationalbank zu erstatten. Die Übermittlung muss bestimmten, von der FMA nach Anhörung der Oesterreichischen Nationalbank bekannt gegebenen Mindestanforderungen entsprechen.
+
+#### § 16a – Verweise
+
+§ 16a. Für Verweise auf Rechtsakte in dieser Verordnung gilt Folgendes:
+
+1\. soweit auf Bestimmungen des Bankwesengesetzes – BWG, BGBl. Nr. 532/1993, verwiesen wird, ist dieses in der Fassung des Bundesgesetzes BGBl. I Nr. 37/2025 anzuwenden;
+
+2\. soweit auf Bestimmungen der Verordnung (EU) Nr. 575/2013 verwiesen wird, bezieht sich dies auf die Verordnung (EU) Nr. 575/2013 über Aufsichtsanforderungen an Kreditinstitute und zur Änderung der Verordnung (EU) Nr. 648/2012, ABl. Nr. L 176 vom 27.06.2013 S. 1, in der Fassung der Verordnung (EU) 2025/1215, ABl. Nr. L 2025/1215 vom 25.06.2025;
+
+3\. soweit auf Bestimmungen der Durchführungsverordnung (EU) 2021/451 verwiesen wird, bezieht sich dies auf die Durchführungsverordnung (EU) 2021/451 zur Festlegung technischer Durchführungsstandards für die Anwendung der Verordnung (EU) Nr. 575/2013 auf die aufsichtlichen Meldungen der Institute und zur Aufhebung der Durchführungsverordnung (EU) Nr. 680/2014, ABl. Nr. L 97 vom 19.03.2021 S. 1, in der Fassung der Durchführungsverordnung (EU) 2024/855, ABl. Nr. L 2024/855 vom 24.04.2024;
+
+4\. soweit auf Bestimmungen der Verordnung (EU) Nr. 1024/2013 verwiesen wird, bezieht sich dies auf die Verordnung (EU) Nr. 1024/2013 zur Übertragung besonderer Aufgaben im Zusammenhang mit der Aufsicht über Kreditinstitute auf die Europäische Zentralbank, ABl. Nr. L 287 vom 29.10.2013 S. 63, in der Fassung der Berichtigung ABl. Nr. L 218 vom 19.08.2015 S. 82;
+
+5\. soweit auf Bestimmungen der Verordnung (EG) Nr. 1606/2002 verwiesen wird, bezieht sich dies auf die Verordnung (EG) Nr. 1606/2002 betreffend die Anwendung internationaler Rechnungslegungsstandards, ABl. Nr. L 243 vom 11.09.2002 S. 1, in der Fassung der Verordnung (EG) Nr. 297/2008, ABl. Nr. L 97 vom 09.04.2008 S. 62;
+
+6\. soweit auf Bestimmungen der Verordnung (EU) 2015/534 verwiesen wird, bezieht sich dies auf die Verordnung (EU) 2015/534 über die Meldung aufsichtlicher Finanzinformationen (EZB/2015/13), ABl. Nr. L 86 vom 31.03.2015 S. 13, in der Fassung der Verordnung (EU) 2023/1678, ABl. Nr. L 216 vom 01.09.2023 S. 93;
+
+7\. soweit auf Bestimmungen des Wertpapieraufsichtsgesetzes 2018 – WAG 2018, BGBl. I Nr. 107/2017, verwiesen wird, ist dieses in der Fassung des Bundesgesetzes BGBl. I Nr. 50/2025 anzuwenden;
+
+8\. soweit auf Bestimmungen des Zahlungsdienstegesetzes 2018 – ZaDiG 2018, BGBl. I Nr. 17/2018, verwiesen wird, ist dieses in der Fassung des Bundesgesetzes BGBl. I Nr. 112/2024 anzuwenden;
+
+9\. soweit auf Bestimmungen des E-Geldgesetzes 2010, BGBl. I Nr. 107/2010, verwiesen wird, ist dieses in der Fassung des Bundesgesetzes BGBl. I Nr. 5/2025 anzuwenden;
+
+10\. soweit auf Bestimmungen des Konsumentenschutzgesetzes – KSchG, BGBl. Nr. 140/1979, verwiesen wird, ist dieses in der Fassung des Bundesgesetzes BGBl. I Nr. 85/2024 anzuwenden;
+
+11\. soweit auf Bestimmungen des Strafgesetzbuches – StGB, BGBl. Nr. 60/1974, verwiesen wird, ist dieses in der Fassung des Bundesgesetzes BGBl. I Nr. 135/2023 anzuwenden;
+
+12\. soweit auf Bestimmungen des Bausparkassengesetzes – BSpG, BGBl. Nr. 532/1993, verwiesen wird, ist dieses in der Fassung des Bundesgesetzes BGBl. I Nr. 199/2021 anzuwenden;
+
+13\. soweit auf Bestimmungen des Allgemeinen Grundbuchsgesetzes 1955 – GBG 1955, BGBl. Nr. 39/1955, verwiesen wird, ist dieses in der Fassung des Bundesgesetzes BGBl. I Nr. 81/2020 anzuwenden;
+
+14\. soweit auf Bestimmungen des Allgemeinen bürgerlichen Gesetzbuchs – ABGB, JGS Nr. 946/1811, verwiesen wird, ist dieses in der Fassung des Bundesgesetzes BGBl. I Nr. 25/2025 anzuwenden;
+
+15\. soweit auf Bestimmungen des Einkommensteuergesetzes 1988 – EStG 1988, BGBl. Nr. 400/1988, verwiesen wird, ist dieses in der Fassung des Bundesgesetzes BGBl. I Nr. 25/2025 anzuwenden.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 28
+
+#### § 17 – Übergangs- und Schlussbestimmungen
+
+§ 17. (1) Diese Verordnung tritt mit 1. Jänner 2007 in Kraft. § 5 Abs. 1 Z 1 sowie die §§ 7 bis 14, ausgenommen § 9 Abs. 1 Z 4 in Verbindung mit § 10, und § 13 Abs. 1 Z 3 sind erstmalig auf Meldungen zum Stichtag 31. März 2008 anzuwenden.
+
+(2) Unbeschadet ihrer Anwendung auf Meldungen, die sich auf bis zum 31. Dezember 2007 endende Geschäftsjahre beziehen, treten die Vermögens- und Erfolgsausweisverordnung für vollkonsolidierte Kreditinstitute im Ausland, BGBl. II Nr. 211/2002, und die Vermögens- und Erfolgsausweisverordnung für Konzerne, BGBl. II Nr. 212/2002, mit Ablauf des 31. Dezember 2007 außer Kraft.
+
+(3) Unbeschadet ihrer Anwendung auf Meldungen, die sich auf das Kalenderjahr 2006 beziehen, tritt die 2. Quartalsberichtsverordnung, BGBl. II Nr. 198/2001, mit Ablauf des 31. Dezember 2006 außer Kraft.
+
+(4) Die **Anlagen** in der Fassung der Verordnung BGBl. II Nr. 88/2010 sind erstmals auf die Meldung zum Stichtag 30. Juni 2010 anzuwenden.
+
+(5) § 5 Abs. 1 Z 4 und die **Anlage A3d** in der Fassung der Verordnung BGBl. II Nr. 297/2010 sind erstmals auf Meldungen zum Meldestichtag 31. Dezember 2010 anzuwenden.
+
+(6) § 5 Abs. 1 Z 4 und Abs. 2, § 9 Abs. 1 Z 4 sowie die **Anlagen A1a**, **A3d**, **B3d** und **C3d** in der Fassung der Verordnung BGBl. II Nr. 463/2011 sind erstmals auf Meldungen zum Meldestichtag 31. Dezember 2011 anzuwenden.
+
+(7) § 11a in der Fassung der Verordnung BGBl. II Nr. 218/2012 ist erstmals auf Meldungen zum Meldestichtag 30. Juni 2012 anzuwenden.
+
+(8) § 5 Abs. 1 Z 5, § 6, § 10a und § 11 sowie die **Anlagen A3e, A3f, F3e** und **F3f** in der Fassung der Verordnung BGBl. II Nr. 425/2012 treten mit 31. Dezember 2012 in Kraft.
+
+(9) § 9 Abs. 2 tritt mit dem der Kundmachung folgenden Tag in Kraft. Die **Anlagen** **A1a**, **A2**, **A3d**, **B1**, **B3d**, **C1**, **C3d**, **D3d** und **E3d** in der Fassung der Verordnung BGBl. II Nr. 28/2014 sind erstmals auf Meldungen zum Meldestichtag 31. März 2014 anzuwenden.
+
+(10) § 7 Abs. 1, § 8, § 9, § 10 Abs. 1, § 11 Abs. 1, § 12 Abs. 1, § 13 und § 14 sowie die **Anlagen** **A3b**, **B3b**, **C3b**, **D3b** und **E3b** in der Fassung der Verordnung BGBl. II Nr. 144/2014 treten mit 1. Juli 2014 in Kraft und sind erstmals auf Meldungen zum Meldestichtag 30. September 2014 anzuwenden.
+
+(11) Die **Anlagen** **C1**, **C3a**, **C3c**, **C3d**, **E1**, **E3a** und **E3d** treten mit Ablauf des 30. Juni 2014 außer Kraft; sie sind letztmalig auf Meldungen zum Meldestichtag 30. Juni 2014 anzuwenden.
+
+(12) Die **Anlagen A3e, A3f, F3e** und **F3f** in der Fassung der Verordnung BGBl. II Nr. 343/2014 treten mit 31. Dezember 2014 in Kraft. Die **Anlage B1** in der Fassung der Verordnung BGBl. II Nr. 343/2014 tritt mit 1. Jänner 2015 in Kraft und ist erstmals auf Meldungen zum Meldestichtag 31. März 2015 anzuwenden.
+
+(13) § 6 Abs. 1, § 11 Abs. 1 und § 14b samt Überschrift in der Fassung der Verordnung BGBl. II Nr. 301/2015 treten mit dem der Kundmachung folgenden Tag in Kraft. § 14a samt Überschrift tritt mit 31. Dezember 2015 in Kraft und ist erstmalig auf Meldungen zum Meldestichtag 31. Dezember 2015 anzuwenden. § 1 Abs. 1, § 2 sowie die **Anlagen A1a** und **A1c** treten mit 31. März 2016 in Kraft und sind erstmalig auf Meldungen zum Meldestichtag 31. März 2016 anzuwenden. § 5 Abs. 1 Z 1, § 6 Abs. 1 Z 1, § 9 Abs. 1 Z 1 und 3, § 11 Abs. 1 Z 1 und 3, § 13 Abs. 1 Z 1 sowie die **Anlagen A3a**, **B3a**, **B3c** und **D3a** treten mit Ablauf des 30. Dezember 2015 außer Kraft und sind letztmalig auf Meldungen zum Meldestichtag 30. September 2015 anzuwenden. § 5 Abs. 1 Z 4 und Abs. 2, § 6 Abs. 1 Z 4, § 9 Abs. 1 Z 4, § 11 Abs. 1 Z 4, § 13 Abs. 1 Z 3 sowie die **Anlagen A3d**, **B3d** und **D3d** treten mit Ablauf des 29. September 2016 außer Kraft und sind letztmalig auf Meldungen zum Meldestichtag 30. Juni 2016 anzuwenden.
+
+(14) § 1 Abs. 1 Z 1 bis 3 in der Fassung der Verordnung BGBl. II Nr. 372/2016 tritt mit dem der Kundmachung folgenden Tag in Kraft. § 1 Abs. 1 Z 4, § 1 Abs. 2, § 2 Abs. 2, § 5 samt Überschrift, § 6 Abs. 1, § 9, § 11 Abs. 1, § 13 Abs. 1, § 14, § 14a samt Überschrift und § 16 sowie die **Anlagen A1c**, **A1d**, **A3b**, **A3c**, **A3e**, **A3f**, **B3b**, **C3b**, **D3b** und **E3b** treten mit 31. Dezember 2016 in Kraft. § 1 Abs. 1 Z 4, § 2 Abs. 2 sowie die **Anlage A1d** sind erstmalig auf Meldungen zum Meldestichtag 31. Dezember 2016 anzuwenden, wobei für die erstmalige Meldung zum Meldestichtag 31. Dezember 2016 abweichend von § 2 Abs. 2 gilt, dass die Meldeperiode den 18. September 2016 bis 31. Dezember 2016 umfasst und die Meldung spätestens bis zum zwanzigsten Bankarbeitstag nach dem 30. Juni 2017 zu übermitteln ist. § 2 Abs. 1 tritt mit 31. März 2017 in Kraft. Die **Anlagen A1a** und **B1** treten mit 31. Dezember 2017 in Kraft und sind erstmalig auf den Meldestichtag 31. Dezember 2017 anzuwenden. § 1 Abs. 1 Z 2 sowie die **Anlage A1b** treten mit Ablauf des 30. März 2017 außer Kraft und sind letztmalig auf Meldungen zum Meldestichtag 31. Dezember 2016 anzuwenden.
+
+(15) § 5, § 6 Abs. 3 sowie die **Anlage A3g** in der Fassung der Verordnung BGBl. II Nr. 100/2017 treten mit 31. Dezember 2017 in Kraft und sind erstmalig auf Meldungen zum Meldestichtag 31. Dezember 2017 anzuwenden. Die **Anlage F3f** tritt mit dem der Kundmachung folgenden Tag in Kraft.
+
+(16) § 2, § 4, § 5 Abs. 1 Z 5, § 6, § 10b und § 11 Abs. 3 sowie die **Anlage A1a** und die **Anlage G1** in der Fassung der Verordnung BGBl. II Nr. 277/2017 treten mit 31. Dezember 2017 in Kraft und sind erstmalig auf Meldungen zum Meldestichtag 31. Dezember 2017 anzuwenden.
+
+(17) Die **Anlagen A1a, A3f** und **F3f** in der Fassung der Verordnung BGBl. II Nr. 111/2018 treten mit dem der Kundmachung folgenden Tag in Kraft.
+
+(18) § 6a samt Überschrift sowie die **Anlage H** in der Fassung der Verordnung BGBl. II Nr. 14/2019 treten mit 1. Jänner 2020 in Kraft. Meldungen gemäß § 6a Abs. 1 sind erstmals zum Meldestichtag 30. Juni 2020 zu erstatten.
+
+(19) § 5 Abs. 1 Z 4 und die **Anlage A3g** in der Fassung der Verordnung BGBl. II Nr. 328/2020 treten mit 31. Dezember 2020 in Kraft und sind erstmals auf Meldungen zum Meldestichtag 31. Dezember 2021 anzuwenden. § 6a Abs. 2 Z 1 lit. a, § 6b samt Überschrift, § 10b, § 10c samt Überschrift, § 11, § 15 Abs. 1 sowie die **Anlagen A1a**, **A3b**, **B1**, **B3b und C3b**, **D1**, **D3b und E3b**, **G1**, **I1a**, **I1b**, **I2a**, **I2b** und **I3** in der Fassung der Verordnung BGBl. II Nr. 328/2020 treten mit 31. Dezember 2020 in Kraft und sind erstmals auf Meldungen zum Meldestichtag 31. Dezember 2020 anzuwenden. § 5 Abs. 1 Z 5 und § 6 Abs. 5 treten mit Ablauf des 30. Dezember 2020 außer Kraft und sind letztmalig auf Meldungen zum Meldestichtag 30. Dezember 2020 anzuwenden. § 6c samt Überschrift und § 10d samt Überschrift sowie die **Anlagen J1** und **J2** in der Fassung der Verordnung BGBl. II Nr. 328/2020 treten mit dem auf die Kundmachung folgenden Tag in Kraft und sind erstmals auf Meldungen anzuwenden, die spätestens bis zum 11. August 2020 zu übermitteln sind. Die Übermittlung der Meldungen gemäß §§ 6c und 10d für den Übermittlungstermin 11. August 2020 kann bis zum 18. August 2020 erfolgen.
+
+(20) § 5 Abs. 1 Z 4 und § 14a Abs. 3 in der Fassung der Verordnung BGBl. II Nr. 102/2021 treten mit 1. Jänner 2022 in Kraft und sind erstmals auf Meldungen anwendbar, deren Meldestichtage nach dem 31. Dezember 2021 liegt.
+
+(21) § 5 Abs. 1 Z 2 und die **Anlage A3c** treten mit Ablauf des 30. September 2021 außer Kraft und sind letztmals auf Meldungen anwendbar, deren Meldestichtag vor dem 1. Oktober 2021 liegt. § 6, § 6a Abs. 2 Z 1 lit. a, § 6b Abs. 1, § 14a Abs. 2 letzter Satz <sup>*(Anm. 1)*</sup>, § 14b Abs. 1, § 16a samt Überschrift sowie die **Anlagen I2a** und **I2b** in der Fassung der Verordnung BGBl. II Nr. 432/2021 treten mit 30. Dezember 2021 in Kraft. § 5 Abs. 1 Z 3, § 7 Abs. 1, § 9 Abs. 1 und 2, § 10 Abs. 1, § 10a, § 10b Abs. 1, § 10b Abs. 1 Z 1, § 10c Abs. 1 und 2, § 10d Abs. 1, § 11a, § 12 Abs. 1, § 13 Abs. 1 und 2, § 14a Abs. 1, § 14b Abs. 2 in der Fassung der Verordnung BGBl. II Nr. 432/2021 treten mit dem der Kundmachung folgenden Tag in Kraft.
+
+(22) § 6a Abs. 2 Z 5, 6 und 7, § 16a Z 1 und 3 sowie § 17 Abs. 19 in der Fassung der Verordnung BGBl. II Nr. 36/2022 treten mit dem der Kundmachung folgenden Tag in Kraft.
+
+(23) § 6a Abs. 2 Z 1 lit. c sublit. bb, 6a Abs. 2 Z 1a, 5 bis 7 und 12 bis 14, § 16a Z 6 und 7 sowie die **Anlage H** in der Fassung der Verordnung BGBl. II Nr. 230/2022 treten mit 1. Oktober 2022 in Kraft und sind erstmalig auf Meldungen zum Stichtag 31. Dezember 2022 anzuwenden. Abweichend von § 6a Abs. 1 und 4 ist
+
+1\. für den Zeitraum 1. Juli 2022 bis 30. September 2022 mit Stichtag 30. September 2022 sowie
+
+2\. für den Zeitraum 1. Oktober 2022 bis 31. Dezember 2022 mit Stichtag 31. Dezember 2022
+
+eine Meldung gemäß § 6a Abs. 1 zu erstatten. Für den Zeitraum von 1. Juli bis 31. Dezember 2022 ist keine über Z 1 und 2 hinausgehende halbjährliche Meldung zu erstatten.
+
+(24) Die **Anlage A1a** in der Fassung der Verordnung BGBl. II Nr. 67/2023 tritt mit 31. März 2023 in Kraft und ist erstmals auf Meldungen zum Stichtag 31. März 2023 anzuwenden. Die **Anlagen** **A3b, B3b und C3b, D3b und E3b** in der Fassung der Verordnung BGBl. II Nr. 67/2023 treten mit 30. Juni 2023 in Kraft und sind erstmals auf Meldungen zum Stichtag 30. Juni 2023 anzuwenden. Die **Anlage A1c** in der Fassung der Verordnung BGBl. II Nr. 67/2023 tritt mit 31. Dezember 2023 in Kraft und ist erstmals auf Meldungen zum Stichtag 31. Dezember 2023 anzuwenden. § 5 Abs. 1 Z 3, § 6 Abs. 2, § 10a und § 11 Abs. 2 sowie die **Anlagen** **REMBM**, **REMGAP, REMHE** und **REMHR** in der Fassung der Verordnung BGBl. II Nr. 67/2023 treten mit dem auf die Kundmachung folgenden Tag in Kraft und sind erstmals auf nach diesem Datum zu erstattende Meldungen mit der Maßgabe anzuwenden, dass Meldungen aufgrund dieser Bestimmungen im Kalenderjahr 2023 jedenfalls bis zum 31. August 2023 erstattet werden können. Der Risikoausweis ist erstmals für im Kalenderjahr 2023 zu erstattende Meldungen entsprechend den **Anlagen REMBM, REMHE** und **REMHR** und erstmals für im Kalenderjahr 2024 zu erstattende Meldungen entsprechend der **Anlage** **REMGAP** zu gliedern. § 9 Abs. 3 sowie die **Anlagen A3e, A3f, F3e** und **F3f** treten mit Ablauf des Tags der Kundmachung der Verordnung BGBl. II Nr. 67/2023 außer Kraft. § 6c und § 10d sowie die **Anlagen J1** und **J2** treten mit Ablauf des 12. Mai 2023 außer Kraft und sind letztmalig auf Meldungen zum Meldestichtag 31. März 2023 anzuwenden.
+
+(25) § 6a Abs. 2 Z 14 und 15 sowie die **Anlage H** in der Fassung der Verordnung BGBl. II Nr. 79/2023 treten mit 1. April 2023 in Kraft. Für den Berichtszeitraum 1. Jänner bis 31. März 2023 sowie für den Berichtszeitraum 1. April bis 30. Juni 2023 sind dazu getrennte Meldungen jeweils bis zum 45. Bankarbeitstag nach dem 30. Juni 2023 zu erstatten. Meldungen sind erstmals für den Berichtszeitraum 1. April bis 30. Juni 2023 gemäß § 6a sowie gemäß der **Anlage H** in der Fassung der Verordnung BGBl. II Nr. 79/2023 zu erstatten.
+
+(26) § 10 Abs. 1 und 2, § 14, § 14a Abs. 1, § 14c samt Überschrift und § 16a in der Fassung der Verordnung BGBl. II Nr. 144/2024 treten mit 1. Juli 2024 in Kraft und sind erstmals auf Meldungen zum 3. Quartal 2024 anzuwenden. § 5 Abs. 1 Z 1, § 6 Abs. 1, § 9, § 11 Abs. 1, § 13 und § 14a Abs. 2 Z 2 sowie die **Anlagen A3b, B3b und C3b sowie D3b und E3b** treten mit Ablauf des 30. Juni 2024 außer Kraft und sind letztmalig auf Meldungen zum 2. Quartal 2024 anzuwenden. § 10b Abs. 1 Z 2 in der Fassung der Verordnung BGBl. II Nr. 144/2024 tritt mit 31. Dezember 2024 in Kraft und ist auf ab diesem Datum zu erstattende Meldungen anzuwenden. § 14b Abs. 2 in der Fassung der Verordnung BGBl. II Nr. 144/2024 tritt mit 31. Dezember 2024 in Kraft und ist erstmals auf Meldungen zu diesem Meldestichtag anzuwenden. **Anlage I2b** in der Fassung der Verordnung BGBl. II Nr. 144/2024 tritt mit 31. Dezember 2024 in Kraft und ist erstmals auf die Meldung zum Geschäftsjahr 2024 anzuwenden.
+
+(27) § 6a, § 16a Z 1, 2 und 7 bis 15 sowie die Anlage H in der Fassung der Verordnung BGBl. II Nr. 83/2025 treten mit 1. Juli 2025 in Kraft und sind erstmals auf Meldungen zum Meldestichtag 30. September 2025 anzuwenden. § 6a sowie die Anlage H in der Fassung der Verordnung BGBl. II Nr. 144/2024 sind letztmalig auf Meldungen zum Meldestichtag 30. Juni 2025 anzuwenden. Die Anlage A1a in der Fassung der Verordnung BGBl. II Nr. 83/2025 tritt mit Ablauf des Tages ihrer Kundmachung in Kraft und ist erstmals auf Meldungen zum Stichtag 31. März 2025 anzuwenden.
+
+(28) § 1 Abs. 1 Z 4 und 5, § 2 Abs. 4, § 7 Abs. 1, § 16a Z 1, 2, 7, 14 und 15 sowie die **Anlage A1e** in der Fassung der Verordnung BGBl. II Nr. 235/2025 treten mit 1. Jänner 2026 in Kraft und sind erstmals auf Meldungen zum Meldestichtag 31. März 2026 anzuwenden.
+
+\*(\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+\*Anm. 1: richtig wäre „§ 15 Abs. 2 vorletzter und letzter Satz“)*
+
+## Vermögensausweis unkonsolidiert gemäß § 1 Abs. 1 VERA-V
+
+#### Anlage A1a – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+\*(Anm.: Anlage A1a als PDF dokumentiert)*
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 27
+
+## Vermögensausweis gesicherte Einlagen und Wertpapierdienstleistungen gemäß § 1 Abs. 1 Z 3 VERA-V
+
+#### Anlage A1c – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+\*(Anm.: Anlage A1c als PDF dokumentiert)*
+
+## Meldung gemäß § 1 Abs. 1 Z 4 VERA-V — Informationen gemäß § 29 Abs. 7 Z 3 und 4 Verbraucherzahlungskontogesetz – VZKG
+
+#### Anlage A1d – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+\*(Anm.: Anlage A1d als PDF dokumentiert)*
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 14
+
+#### Anlage A1e – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+**Stille Reserven und Lasten gemäß § 1 Abs. 1 Z 5 und § 7 Abs. 1 VERA-V**
+
+**A. UGB-Meldung**
+
+<table>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3">Grundgeschäfte</td>
+<td colspan="2">Sicherungsderivate<sup>2</sup></td>
+</tr>
+<tr>
+<td rowspan="2">Stille Reserven (+) /Stille Lasten (-)</td>
+<td rowspan="2">Buchwert</td>
+<td rowspan="2">Beizulegender Zeitwert gemäß § 189a Z 4 UGB<sup>1</sup></td>
+<td>Absicherungen von Wertänderungen<sup>3</sup></td>
+<td>Absicherung zukünftiger Zahlungsströme und erwarteter Transaktionen<sup>4</sup></td>
+</tr>
+<tr>
+<td colspan="2">Beizulegender Zeitwert abzüglich etwaiger Drohverlust-rückstellungen (+/-)</td>
+</tr>
+<tr>
+<td colspan="6"><b>Aktiva</b></td>
+</tr>
+<tr>
+<td>Schuldtitel öffentlicher Stellen und Wechsel, die zur Refinanzierung bei der Zentralnotenbank zugelassen sind</td>
+<td></td>
+<td><sup><i>5</i></sup></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Forderungen an Kreditinstitute</td>
+<td></td>
+<td><sup><i>5</i></sup></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Forderungen an Kunden</td>
+<td></td>
+<td><sup><i>5</i></sup></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Schuldverschreibungen und andere festverzinsliche Wertpapiere</td>
+<td></td>
+<td><sup><i>5</i></sup></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Aktien und andere nicht festverzinsliche Wertpapiere</td>
+<td></td>
+<td><sup><i>5</i></sup></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Beteiligungen</td>
+<td></td>
+<td><sup><i>5</i></sup></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Anteile an verbundenen Unternehmen</td>
+<td></td>
+<td><sup><i>5</i></sup></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Grundstücke und Gebäude</td>
+<td></td>
+<td><sup><i>5</i></sup></td>
+<td></td>
+<td>xxx</td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Gruppen-Hedge zur Absicherung von Wertänderungen der Aktivseite</td>
+<td>xxx</td>
+<td>xxx</td>
+<td>xxx</td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Absicherung zukünftig erwarteter Zahlungsströme</td>
+<td>xxx</td>
+<td>xxx</td>
+<td>xxx</td>
+<td>xxx</td>
+<td></td>
+</tr>
+<tr>
+<td>Aktiva mit stillen Reserven/Lasten, zugerechnet dem LCR HQLA-Puffer zum Stichtag</td>
+<td></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Aktiva mit stillen Reserven/Lasten, nicht zugerechnet dem LCR HQLA-Puffer, aber handelbar</td>
+<td></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+<td>xxx</td>
+</tr>
+<tr>
+<td colspan="6"><b>Passiva</b></td>
+</tr>
+<tr>
+<td>Verbindlichkeiten gegenüber Kreditinstituten</td>
+<td></td>
+<td><sup><i>5</i></sup></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Verbindlichkeiten gegenüber Kunden</td>
+<td></td>
+<td><sup><i>5</i></sup></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Verbriefte Verbindlichkeiten</td>
+<td></td>
+<td><sup><i>5</i></sup></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Abfertigungs- und Pensionsrückstellungen</td>
+<td></td>
+<td></td>
+<td></td>
+<td>xxx</td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Gruppen-Hedge zur Absicherung von Wertänderungen der Passivseite</td>
+<td>xxx</td>
+<td>xxx</td>
+<td>xxx</td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td>Absicherung zukünftig erwarteter Zahlungsströme</td>
+<td>xxx</td>
+<td>xxx</td>
+<td>xxx</td>
+<td>xxx</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6"><b>Sonstige Informationen</b></td>
+</tr>
+<tr>
+<td>Macro-Hedge</td>
+<td>xxx</td>
+<td>xxx</td>
+<td>xxx</td>
+<td></td>
+<td>xxx</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<sup>1</sup> Angabe inklusive allfälliger Zinsabgrenzungen.
+
+<sup>2</sup> Interne Derivate werden bei der Erfüllung der entsprechenden Voraussetzungen für Sicherungsderivate gemäß AFRAC 15 externen Derivaten gleichgestellt. Beispiel: Ein Sicherungsderivat weist einen negativen Marktwert ("clean present value") von 11 GE auf. Davon entfallen 10 GE auf den effektiven und 1 GE auf den ineffektiven Teil der Sicherungsbeziehung. Da für den Erfolg aus dem ineffektiven Teil der Sicherungsbeziehung eine Drohverlustrückstellung zu bilden ist, ist in den beiden Spalten ein Wert von -10 GE (= -11+1) zu berücksichtigen.
+
+<sup>3 </sup>Angabe exklusive allfälliger Zinsabgrenzungen. Unterscheidung von Mikro- und Gruppen-Hedges: Handelt es sich bei einer Sicherungsbeziehung um eine Micro-Hedge Beziehung gemäß AFRAC-Stellungnahme 15 sind die entsprechenden Werte in der Zeile des korrespondierenden Grundgeschäfts anzugeben. Handelt es sich bei einer Sicherungsbeziehung um einen Gruppen-Hedge gemäß AFRAC Stellungnahme 15 oder einen Macro-Hedge gemäß FMA-Rundschreiben 06/2012, sind die entsprechenden Werte aus den entsprechenden Sicherungsderivaten in den dafür vorgesehenen Zeilen, „Gruppen-Hedge zur Absicherung von Wertänderungen der Aktivseite“ bzw. „Macro-Hedge“, anzugeben.
+
+<sup>4</sup> Angabe exklusive allfälliger Zinsabgrenzungen. Keine Unterscheidung von Mikro- und Gruppen-Hedges.
+
+<sup>*5*</sup> Entspricht **Anlage A1a** der VERA-V Meldung und ist daher nicht nochmals zu übermitteln.
+
+**B. IFRS-Meldung**
+
+<table>
+<tr>
+<td></td>
+<td>Stille Reserven (+)<br>/ Stille Lasten (-)</td>
+<td>Buchwert</td>
+<td>Beizulegender Zeitwert<sup>1</sup></td>
+</tr>
+<tr>
+<td colspan="4"><b>Aktiva</b></td>
+</tr>
+<tr>
+<td>Zu fortgeführten Anschaffungskosten bewertete Vermögenswerte</td>
+<td></td>
+<td><sup><i>2</i></sup></td>
+<td></td>
+</tr>
+<tr>
+<td>hievon: Schuldverschreibungen</td>
+<td></td>
+<td><sup><i>2</i></sup></td>
+<td></td>
+</tr>
+<tr>
+<td>hievon: Darlehen und Kredite</td>
+<td></td>
+<td><sup><i>2</i></sup></td>
+<td></td>
+</tr>
+<tr>
+<td>Assoziierte Unternehmen</td>
+<td></td>
+<td><sup><i>2</i></sup></td>
+<td></td>
+</tr>
+<tr>
+<td>Sachanlagen und Investment Property</td>
+<td></td>
+<td><sup><i>2</i></sup></td>
+<td></td>
+</tr>
+<tr>
+<td>Aktiva mit stillen Reserven/Lasten, zugerechnet dem LCR HQLA-Puffer zum Stichtag</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Aktiva mit stillen Reserven/Lasten, nicht zugerechnet dem LCR HQLA-Puffer, aber handelbar</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4"><b>Passiva</b></td>
+</tr>
+<tr>
+<td>Zu fortgeführten Anschaffungskosten bewertete Verbindlichkeiten</td>
+<td></td>
+<td><sup><i>2</i></sup></td>
+<td></td>
+</tr>
+<tr>
+<td>hievon: Einlagen</td>
+<td></td>
+<td><sup><i>2</i></sup></td>
+<td></td>
+</tr>
+<tr>
+<td>hievon: Begebene Schuldverschreibungen</td>
+<td></td>
+<td><sup><i>2</i></sup></td>
+<td></td>
+</tr>
+<tr>
+<td>hievon: Sonstige finanzielle Verbindlichkeiten</td>
+<td></td>
+<td><sup><i>2</i></sup></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<sup>1</sup> Angabe inklusive allfälliger Zinsabgrenzungen.
+
+<sup>2</sup> Entspricht der Verordnung (EU) 2015/534 (F01.01, F01.02) und ist daher nicht nochmals zu übermitteln.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 28
+
+## Erfolgsausweis
+
+### unkonsolidiert
+
+## gemäß § 3 Abs. 1 VERA-V
+
+#### Anlage A2
+
+\*(Anm.: Anlage A2 als PDF dokumentiert)*
+
+> **Beachte:** Ist erstmals auf Meldungen zum Meldestichtag 31. März 2014 anzuwenden (vgl. § 17 Abs. 9).
+
+## Beschwerdeabwicklung gemäß § 5 Abs. 1 Z 4 VERA-V
+
+#### Anlage A3g – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+\*(Anm.: Anlage A3g als PDF dokumentiert)*
+
+> **Beachte:** ist erstmals auf Meldungen zum Meldestichtag 31. Dezember 2021 anzuwenden (vgl. § 17 Abs. 19).
+
+## Vermögens- und Erfolgsausweis der Bankkonzerne nach § 59 BWG konsolidiert
+
+## gemäß § 7 Abs. 1 VERA-V
+
+#### Anlage B1 – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+\*(Anm.: Anlage B1 als PDF dokumentiert)*
+
+## Vermögens- und Erfolgsausweis für Auslandstöchter nach § 59 BWG
+
+## gemäß § 12 Abs. 1 VERA-V
+
+#### Anlage D1 – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+\*(Anm.: Anlage D1 als PDF dokumentiert)*
+
+> **Beachte:** Ist erstmals auf die Meldung zum Stichtag 30. Juni 2010 anzuwenden (vgl. § 17 Abs. 4).
+
+## Finanzierungspläne gemäß § 10b VERA-V
+
+#### Anlage G1 – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+\*(Anm.: Anlage G1 als PDF dokumentiert)*
+
+#### Anlage H
+
+**zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)**
+
+## Private Wohnimmobilienfinanzierung
+
+### unkonsolidiert — gemäß § 6a VERA-V
+
+\*(Anm.: Anlage H als PDF dokumentiert)*
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 27
+
+## Meldungen und Plandaten
+
+### zu Bilanz- und GuV-Positionen
+
+## gemäß § 6b Abs. 1 Z 1 und § 10c Abs. 1 Z 1 VERA-V
+
+#### Anlage I1a – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+\*(Anm.: Anlage I1a als PDF dokumentiert)*
+
+## Meldungen und Plandaten
+
+### zu Bilanz- und GuV-Positionen
+
+## gemäß § 6b Abs. 1 Z 2 und § 10c Abs. 1 Z 2 VERA-V
+
+#### Anlage I1b – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+\*(Anm.: Anlage I1b als PDF dokumentiert)*
+
+## Meldungen und Plandaten
+
+### zu Eigenmittelpositionen
+
+## gemäß § 6b Abs. 2 und § 10c Abs. 2 Z 1 VERA-V
+
+#### Anlage I2a – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+\*(Anm.: Anlage I2a als PDF dokumentiert)*
+
+## Meldungen und Plandaten
+
+### zu Eigenmittelpositionen
+
+## gemäß § 6b Abs. 1 Z 3 und § 10c Abs. Z 3 VERA-V
+
+#### Anlage I2b – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+\*(Anm.: Anlage I2b als PDF dokumentiert)*
+
+## Meldungen und Plandaten
+
+### zur Gesamtergebnisrechnung
+
+## gemäß § 10c Abs. 2 Z 2 VERA-V
+
+#### Anlage I3 – zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V)
+
+\*(Anm.: Anlage I3 als PDF dokumentiert)*
+
+### zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V
+
+## Vergütungspolitik – Allgemeine Daten — konsolidiert/unkonsolidiert
+
+#### Anlage REMBM
+
+\*(Anm.: Anlage REMBM als PDF dokumentiert)*
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 24
+
+### zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V
+
+## Vergütungspolitik – Informationen zum geschlechtsspezifischen Lohngefälle
+
+#### Anlage REMGAP
+
+\*(Anm.: Anlage REMGAP als PDF dokumentiert)*
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 24
+
+### zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V
+
+## Vergütungspolitik – Höchstverdiener — konsolidiert/unkonsolidiert
+
+#### Anlage REMHE
+
+\*(Anm.: Anlage REMHE als PDF dokumentiert)*
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 24
+
+### zur Verordnung der Finanzmarktaufsichtsbehörde (FMA) zum Vermögens-, Erfolgs- und Risikoausweis (Vermögens-, Erfolgs- und Risikoausweis-Verordnung – VERA-V
+
+## Vergütungspolitik – Gebilligte höhere Höchstwerte für das Verhältnis zwischen variabler und fester Vergütung — unkonsolidiert
+
+#### Anlage REMHR
+
+\*(Anm.: Anlage REMHR als PDF dokumentiert)*
+
+> **Beachte:** zum Bezugszeitraum vgl. § 17 Abs. 24

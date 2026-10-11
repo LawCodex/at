@@ -1,0 +1,81 @@
+---
+title: "Studienstandortverordnung Technische Universität Graz"
+identifier: "20001313"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 181/2001"
+last_amended: 2002-06-15
+last_amendment: "BGBl. II Nr. 221/2002"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2001/181/P0/NOR30001409"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001313"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# Studienstandortverordnung Technische Universität Graz
+
+Verordnung der Bundesministerin für Bildung, Wissenschaft und Kultur über die Einrichtung von Bakkalaureats-, Magister-, Diplom- und Doktoratsstudien an der Technischen Universität Graz (Studienstandortverordnung Technische Universität Graz)
+
+StF: BGBl. II Nr. 181/2001
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 260/2001  
+BGBl. II Nr. 221/2002  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 11 Abs. 5, 11a Abs. 6 und 18 Abs. 4 des Bundesgesetzes über die Studien an den Universitäten (Universitäts-Studiengesetz – UniStG), BGBl. INr. 48/1997, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 142/2000, wird verordnet:
+
+## § 1
+
+§ 1. An der Technischen Universität Graz werden eingerichtet:
+
+(1) An der Fakultät für Bauingenieurwesen:
+
+| Studienrichtung | Art des Studiums | Studiendauer in Semestern | akademischer Grad |
+|---|---|---|---|
+| Vermessung und Geoinformation | Bakkalaureatsstudium Geomatics Engineering. | 6 | „Bakkalaurea der Technik“ bzw. „Bakkalaureus der Technik“, abgekürzt jeweils „Bakk. techn.“ |
+|  | Magisterstudium Geomatics Science. | 4 | „Diplom-Ingenieurin“ bzw. „Diplom-Ingenieur“, abgekürzt jeweils „Dipl.-Ing.“ oder „DI“. |
+|  |  |  |  |
+
+(2) An der Fakultät für Elektrotechnik und Informationstechnik:
+
+Studienrichtung
+
+| Studienrichtung | Art des Studiums | Studiendauer in Semestern | akademischer Grad |
+|---|---|---|---|
+| Telematik (gemeinsam mit der Technisch-Naturwissenschaftlichen Fakultät) | Bakkalaureatsstudium Telematik | 6 | „Bakkalaurea der technischen Wissenschaften“ bzw. „Bakkalaureus der technischen Wissenschaften“, abgekürzt jeweils „Bakk. techn.“ |
+|  | Magisterstudium Telematik | 4 | „Diplom-Ingenieurin“ bzw. „Diplom-Ingenieur“ abgekürzt jeweils „Dipl.-Ing.“ oder „DI“ |
+|  |  |  |  |
+
+(3) An der Technisch-Naturwissenschaftlichen Fakultät:
+
+Studienrichtung
+
+| Studienrichtung | Art des Studiums | Studiendauer in Semestern | akademischer Grad |
+|---|---|---|---|
+| Telematik (gemeinsam mit der Fakultät für Elektrotechnik und Informationstechnik) | Bakkalaureatsstudium Telematik | 6 | „Bakkalaurea der technischen Wissenschaften“ bzw. „Bakkalaureus der technischen Wissenschaften“, abgekürzt jeweils „Bakk. techn.“ |
+|  | Magisterstudium Telematik | 4 | „Diplom-Ingenieurin“ bzw. „Diplom-Ingenieur“ abgekürzt jeweils „Dipl.-Ing.“ oder „DI“ |
+| Informatikmanagement | Bakkalaureatsstudium Softwareentwicklung und Wissensmanagement | 6 | „Bakkalaurea der Sozial- und Wirtschaftswissenschaften“ bzw. „Bakkalaureus der Sozial- und Wirtschaftswissenschaften“, abgekürzt jeweils „Bakk. rer. soc. oec.“ |
+|  | Magisterstudium Softwareentwicklung und Wissensmanagement | 2 | „Magistra der Sozial- und Wirtschaftswissenschaften“ bzw. „Magister der Sozial- und Wirtschaftswissenschaften“, abgekürzt jeweils „Mag. rer. soc. oec.“ |
+|  |  |  |  |
+
+## § 2
+
+§ 2. Die Bestimmungen der Verordnung über die befristete Einrichtung von Diplom- und Doktoratsstudien an den Universitäten, BGBl. II Nr. 212/1997, bleiben unberührt.
+
+## § 3
+
+§ 3. (1) Diese Verordnung tritt mit 1. Juni 2001 in Kraft.
+
+(2) § 1 in der Fassung der Verordnung BGBl. II Nr. 260/2001 tritt mit 1. September 2001 in Kraft.
+
+(3) § 1 in der Fassung der Verordnung BGBl. II Nr. 221/2002 tritt mit 15. Juni 2002 in Kraft.

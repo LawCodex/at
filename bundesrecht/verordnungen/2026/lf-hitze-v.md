@@ -1,0 +1,189 @@
+---
+title: "Land- und forstwirtschaftliche Hitzeschutzverordnung"
+abbreviation: "LF-Hitze-V"
+identifier: "20013115"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 45/2026"
+last_amended: 2026-03-06
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2026/45/P0/NOR40276532"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013115"
+retrieved: 2026-10-11
+documents: 10
+---
+
+# Land- und forstwirtschaftliche Hitzeschutzverordnung (LF-Hitze-V)
+
+Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz über den Schutz der Arbeitnehmerinnen und Arbeitnehmer in der Land- und Forstwirtschaft vor den Gefahren durch Hitze und natürliche UV-Strahlung bei Arbeiten im Freien (Land- und forstwirtschaftliche Hitzeschutzverordnung – LF-Hitze-V)
+
+StF: BGBl. II Nr. 45/2026
+
+> **Anmerkung:** Die Land- und forstwirtschaftliche Hitzeschutzverordnung wurde in Artikel 1 des BGBl. II Nr. 45/2026 kundgemacht.
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der Unterabschnitte 20a, 20b und 20e des Abschnitts 20, insbesondere der §§ 216 und 239 des Landarbeitsgesetzes 2021 (LAG), BGBl. I Nr. 78/2021, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 111/2025, wird verordnet:
+
+<table>
+<tr>
+<td colspan="2">Inhaltsverzeichnis</td>
+</tr>
+<tr>
+<td>§ 1.</td>
+<td>Geltungsbereich</td>
+</tr>
+<tr>
+<td>§ 2.</td>
+<td>Begriffsbestimmungen</td>
+</tr>
+<tr>
+<td>§ 3.</td>
+<td>Ermittlung und Beurteilung der Gefahren</td>
+</tr>
+<tr>
+<td>§ 4.</td>
+<td>Festlegung von Maßnahmen</td>
+</tr>
+<tr>
+<td>§ 5.</td>
+<td>Besondere Schutzmaßnahmen</td>
+</tr>
+<tr>
+<td>§ 6.</td>
+<td>Arbeiten in Arbeitsmitteln im Freien</td>
+</tr>
+<tr>
+<td>§ 7.</td>
+<td>Information und Unterweisung</td>
+</tr>
+<tr>
+<td>§ 8.</td>
+<td>Geltende Strafbestimmungen</td>
+</tr>
+<tr>
+<td>§ 9.</td>
+<td>Schluss- und Übergangsbestimmungen</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## § 1 – Geltungsbereich
+
+§ 1. (1) Die Verordnung gilt für Arbeiten, die im Freien in Arbeitsstätten und im Freien auf auswärtigen Arbeitsstellen im Sinne des § 202 Abs. 1 Z 2 und Abs. 2 LAG verrichtet werden und bei denen Arbeitnehmerinnen und Arbeitnehmer Hitze oder natürlicher UV-Strahlung ausgesetzt sind oder ausgesetzt sein können.
+
+(2) Arbeiten von kurzer Dauer sind ausgenommen.
+
+## § 2 – Begriffsbestimmungen
+
+§ 2. (1) Unter Hitze im Sinne dieser Verordnung ist die Hitze zu verstehen, die durch die Sonneneinstrahlung entsteht.
+
+(2) Unter natürlicher UV-Strahlung im Sinn dieser Verordnung ist natürliche UV-Strahlung zu verstehen, die bei Hitze gemäß § 2 Abs. 1 auftreten kann.
+
+(3) Der UV-Index der Weltgesundheitsorganisation beschreibt den am Boden erwarteten Tagesspitzenwert der sonnenbrandwirksamen UV-Strahlung. Je höher der UV-Index, desto höher ist die UV-Belastung und desto kürzer ist die Zeitdauer bis ein UV-induzierter Schaden bei Exposition eintritt.
+
+## § 3 – Ermittlung und Beurteilung der Gefahren
+
+§ 3. Arbeitgeberinnen und Arbeitgeber haben bei der Ermittlung und Beurteilung der Gefahren gemäß § 187 LAG die Gefahren durch Hitze und natürliche UV-Strahlung, welchen Arbeitnehmerinnen und Arbeitnehmer beim Arbeiten im Freien ausgesetzt sind oder ausgesetzt sein können, zu ermitteln und beurteilen. Dabei ist insbesondere Folgendes zu berücksichtigen:
+
+1\. Ausmaß der Belastung durch Hitze und UV-Strahlung entsprechend UV-Index,
+
+2\. Dauer der Exposition der Arbeitnehmerinnen und Arbeitnehmer gegenüber Hitze und UV–Strahlung,
+
+3\. Arbeitsschwere
+
+a. leichte Arbeiten, zB leichte Handarbeit mit kleinen Handwerkzeugen bzw. Maschinen mit geringer Leistung, leichte Montagetätigkeiten,
+
+b. mittelschwere Arbeiten, zB anhaltende Hand- und Armarbeiten wie Einschlagen von Nägeln oder
+
+c. schwere Arbeiten, zB Tragen von schwerem Material, Graben,
+
+4\. tätigkeitstypische zusätzliche Wärmequellen oder Wärmebelastungen wie direkte oder reflektierende Sonneneinstrahlung, Arbeitsmittel, durch Sonneneinstrahlung erwärmte Oberflächen, Asphaltier- oder Flämmarbeiten, Hitzestau auf Arbeitsplätzen mit geringer oder keiner Luftbewegung (zB Grube, Schacht, Künette, Windschott),
+
+5\. Belastung durch bodennahes Ozon,
+
+6\. Ausgestaltung der erforderlichen Kleidung oder persönlichen Schutzausrüstung,
+
+7\. Stand der Technik, zB wissenschaftliche Erkenntnisse, Normen,
+
+8\. mögliche Auswirkungen auf die Gesundheit und Sicherheit der Arbeitnehmerinnen und Arbeitnehmer,
+
+9\. mögliche Auswirkungen auf die Gesundheit und Sicherheit besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer, zB aufgrund des Alters, körperlicher Konstitution, Schwangerschaft, bekannter Vorerkrankungen,
+
+10\. eine mögliche Erhöhung der UV-Belastung durch Oberflächenreflexion, zB bei Arbeiten mit Metallblechen oder Glasflächen,
+
+11\. Akklimatisierung der Arbeitnehmerinnen und Arbeitnehmer oder
+
+12\. besondere Gefahren aufgrund von Hitzewellen, zB zunehmende Erschöpfung von Arbeitnehmerinnen und Arbeitnehmern.
+
+## § 4 – Festlegung von Maßnahmen
+
+§ 4. (1) Arbeitgeberinnen und Arbeitgeber haben auf Grundlage der Ermittlung und Beurteilung nach § 3 geeignete Maßnahmen zum Hitze- und UV-Schutz gemäß § 187 Abs. 5 LAG festzulegen, insbesondere
+
+1\. Maßnahmenprogramm zum Schutz vor Gefahren durch Hitze und natürliche UV-Strahlung, welches unter Anwendung der Grundsätze der Gefahrenverhütung (§ 190 LAG) vorsieht:
+
+a. Maßnahmen zur Gefahrenvermeidung, zB Verlagerung der Arbeitszeit, Reduzierung der Arbeitsschwere,
+
+b. technische Maßnahmen, zB Beschattung der Arbeitsplätze, Wasservernebelung und Besprühen, Duschgelegenheiten,
+
+c. organisatorische Maßnahmen, zB Tätigkeitswechsel, Verlagerung der Tätigkeit in den Schatten, Akklimatisierung oder
+
+d. persönliche Maßnahmen, zB leichte Kleidung, Kopfschutz, Nackenschutz, Schutzkleidung, Sonnenbrille und Sonnenschutzcreme (alles mit UV-Schutzfunktion), kühlende Kleidung, ausreichend trinken,
+
+2\. Notfallmaßnahmen für die Erste Hilfe bei Symptomen einer hitzebedingten Gesundheitsbeeinträchtigung, zB Hitzekrämpfe, Schwindel, Kopfschmerzen, Kreislaufprobleme, Kollaps, Hitzeschlag.
+
+(2) Bei der Festlegung der Maßnahmen zum Hitze- und UV-Schutz nach Abs. 1 sind die betroffenen Arbeitnehmerinnen und Arbeitnehmer zumindest in dem in § 196 LAG vorgesehenen Ausmaß zu beteiligen.
+
+(3) Die Maßnahmen zum Hitze- und UV-Schutz nach Abs. 1 müssen in Arbeitsstätten für alle Arbeitnehmerinnen und Arbeitnehmer sowie für die Land- und Forstwirtschaftsinspektion elektronisch oder in Papierform einsehbar sein.
+
+(4) Die Maßnahmen zum Hitze- und UV-Schutz nach Abs. 1 sind umzusetzen, wenn die GeoSphere Austria eine Hitzewarnung mindestens der Stufe 2 (Vorsicht, gelb) ausweist.
+
+(5) Werden in einer Arbeitsstätte oder auf einer auswärtigen Arbeitsstelle Arbeitnehmerinnen und Arbeitnehmer mehrerer Arbeitgeberinnen und Arbeitgeber beschäftigt, so haben die betroffenen Arbeitgeberinnen und Arbeitgeber bei der Durchführung der Maßnahmen gegen Gefahren durch Hitze und natürliche UV-Strahlung zusammenzuarbeiten, insbesondere hat eine Koordination zu Maßnahmen zum Hitze- und UV-Schutz nach Abs. 1 zu erfolgen.
+
+## § 5 – Besondere Schutzmaßnahmen
+
+§ 5. (1) Bei Arbeiten auf Feldern, Wäldern und sonstigen auswärtigen Arbeitsstellen muss den Arbeitnehmerinnen und Arbeitnehmern ein den hygienischen Anforderungen entsprechendes Trinkwasser oder ein anderes alkoholfreies Getränk zur Verfügung gestellt werden. § 32 der Land- und forstwirtschaftlichen Arbeitsstättenverordnung – LF-AStV, BGBl. II Nr. 122/2023, ist anzuwenden.
+
+(2) Für persönliche Schutzausrüstung gilt der Vorrang von Kopfschutz mit UV-Schutzfunktion und UV-Schutzkleidung vor Hautschutz (Sonnenschutzcreme). Arbeitgeberinnen und Arbeitgeber müssen Schutzkleidung im Sinn des § 16 Abs. 2 Z 6 der Land- und forstwirtschaftlichen Verordnung Persönliche Schutzausrüstung – LF-PSA-V, BGBl. II Nr. 53/2024, gegen natürliche UV-Strahlung zur Verfügung stellen, die den Körper ausreichend bedeckt, wie zumindest T-Shirts mit UV-Schutzfunktion bis zur Mitte des Oberarms und Hosen mit UV-Schutzfunktion bis zum Knie, und dafür sorgen, dass diese getragen werden. Arbeitnehmerinnen und Arbeitnehmer sind verpflichtet, gemäß ihrer Unterweisung und den Anweisungen der Arbeitgeberin bzw. des Arbeitgebers die ihnen zur Verfügung gestellte, dieser Verordnung entsprechende persönliche Schutzausrüstung zweckentsprechend zu benutzen. Die Geltung der LF-PSA-V bleibt unberührt.
+
+(3) Für Aufenthaltsräume in Containern oder ähnlichen Einrichtungen in Arbeitsstätten und auf auswärtigen Arbeitsstellen sind alle Maßnahmen auszuschöpfen, damit eine übermäßige Erwärmung nicht eintritt. Erforderlichenfalls ist für eine ausreichende Kühlung zu sorgen.
+
+## § 6 – Arbeiten in Arbeitsmitteln im Freien
+
+§ 6. Arbeitgeberinnen und Arbeitgeber dürfen in Tagbauen, die im Rahmen von land- und forstwirtschaftlichen Nebengewerbe betrieben werden, nur selbstfahrende Arbeitsmittel zur Verfügung stellen, deren Fahrzeugkabinen mit einer Klimatisierung ausgestattet sind. Dies gilt auch für auswärtige Arbeitsstellen mit ähnlichen Bedingungen.
+
+> **Beachte:** zum Bezugszeitraum vgl. § 9 Abs. 3
+
+## § 7 – Information und Unterweisung
+
+§ 7. Die Information und Unterweisung der Arbeitnehmerinnen und Arbeitnehmer nach § 195 und § 197 LAG hat sich jedenfalls zu beziehen auf:
+
+1\. potenzielle Gefahren für Arbeitnehmerinnen und Arbeitnehmer, die von Hitze und natürlicher UV-Strahlung ausgehen,
+
+2\. Erkennen von hitzebedingten Gesundheitsbeeinträchtigungen,
+
+3\. Zugang zur aktuellen Hitzewarnung und zum aktuellen UV-Index sowie Bedeutung der Informationen,
+
+4\. Schutzmaßnahmen gegen Hitze und natürliche UV-Strahlung und
+
+5\. Möglichkeit einer Untersuchung nach § 6 Abs. 1 Z 7 der Land- und forstwirtschaftlichen Gesundheitsüberwachungsverordnung – LF-VGÜ, BGBl. II Nr. 54/2024.
+
+## § 8 – Geltende Strafbestimmungen
+
+§ 8. Übertretungen der Bestimmungen dieser Verordnung sind nach § 424 Abs. 1 Z 2 LAG strafbar.
+
+## § 9 – Schluss- und Übergangsbestimmungen
+
+§ 9. (1) Die Land- und forstwirtschaftliche Verordnung optische Strahlung – LF-VOPST, BGBl. II Nr. 52/2024, und die LF-AStV bleiben unberührt.
+
+(2) Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft.
+
+(3) § 6 ist auf Arbeitsmittel mit Fahrzeugkabinen ohne Klimatisierung, die im Zeitpunkt des Inkrafttretens der Verordnung bereits eingesetzt werden, nicht anwendbar. Für die Verwendung betroffener Arbeitsmittel sind andere geeignete Maßnahmen gemäß § 4 festzulegen. Ein Umstieg auf Klimatisierung muss bei der Anschaffung eines entsprechenden anderen Arbeitsmittels erfolgen.
+
+(4) Soweit in dieser Verordnung auf andere Bundesgesetze oder Verordnungen verwiesen wird, sind diese in der jeweils geltenden Fassung anzuwenden.

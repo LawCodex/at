@@ -26,25 +26,25 @@ StF: StGBl. Nr. 208/1919
 
 Auf Grund des Artikels V des Gesetzes vom 8. Juli 1868, R. G. Bl. Nr. 96, und des § 9 des Gesetzes vom 6. Februar 1919, St. G. Bl. Nr. 95, wird verordnet, wie folgt:
 
-## § 1 – § 1.
+## § 1
 
 Rechtsanwälte, die in der Liste einer Rechtsanwaltskammer Deutschösterreichs eingetragen sind, können sich einer schriftlichen Legitimation bedienen.
 
 > **Anmerkung:** Deutschösterreich nunmehr Republik Österreich
 
-## § 2 – § 2.
+## § 2
 
 Die Legitimation ist vom Ausschusse der zuständigen Rechtsanwaltskammer nach untenstehendem Formulare auszustellen und von dem Präsidenten oder einem Präsidentenstellvertreter zu unterfertigen. Sie muß den Namen und den Wohnsitz des Rechtsanwaltes enthalten und mit dem Lichtbilde und der eigenhändigen Unterschrift des Rechtsanwaltes versehen sein.
 
 > **Anmerkung:** Unter dem Wohnsitz des Rechtsanwaltes ist sein Kanzleisitz zu verstehen.
 
-## § 3 – § 3.
+## § 3
 
 Nähere Bestimmungen über die Ausfertigung der Legitimationen können von den Ausschüssen der Rechtsanwaltskammern getroffen werden.
 
 > **Anmerkung:** Solche Bestimmungen enthalten zum Teil die Geschäftsordnungen der Rechtsanwaltskammer.
 
-## § 4 – § 4.
+## § 4
 
 Diese Vollzugsanweisung tritt mit dem Tage ihrer Kundmachung in Wirksamkeit.
 

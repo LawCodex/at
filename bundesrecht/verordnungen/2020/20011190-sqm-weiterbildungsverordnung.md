@@ -1,0 +1,82 @@
+---
+title: "SQM-Weiterbildungsverordnung"
+identifier: "20011190"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 258/2020"
+last_amended: 2020-06-10
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2020/258/P0/NOR40223776"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011190"
+retrieved: 2026-10-11
+documents: 7
+---
+
+# SQM-Weiterbildungsverordnung
+
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung betreffend die Weiterbildung der Bediensteten des Schulqualitätsmanagements (SQM-Weiterbildungsverordnung)
+
+StF: BGBl. II Nr. 258/2020
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 225 Abs. 7 des Beamten-Dienstrechtsgesetzes 1979 – BDG 1979, BGBl. Nr. 333/1979, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 24/2020, sowie des § 48r Abs. 8 des Vertragsbedienstetengesetzes 1948 – VBG, BGBl. Nr. 86/1948, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 31/2020, wird verordnet:
+
+### § 1 – Anwendungsbereich
+
+§ 1. Diese Verordnung regelt die verpflichtende Weiterbildung für die Bediensteten des Schulqualitätsmanagements.
+
+### § 2 – Ziel der Weiterbildung
+
+§ 2. Ziel der Weiterbildung ist, die Bediensteten des Schulqualitätsmanagements für deren Aufgaben gemäß der Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung betreffend das Schulqualitätsmanagement (SQM-VO), BGBl. II Nr. 158/2019, zu qualifizieren.
+
+### § 3 – Inhalt und Umfang der Weiterbildung
+
+§ 3. (1) Die in der **Anlage** angeführten Kompetenzen werden in den Weiterbildungsveranstaltungen erworben.
+
+(2) Die Bediensteten des Schulqualitätsmanagements sind verpflichtet, an einem Lehrgang für Bedienstete des Schulqualitätsmanagements im in der **Anlage** festgesetzten Umfang teilzunehmen.
+
+(3) Die Bediensteten des Schulqualitätsmanagements einschließlich der Leiterinnen und Leiter einer Bildungsregion sind verpflichtet, an dem jährlich stattfindenden Schulaufsichtskongress teilzunehmen.
+
+### § 4 – Sonderbestimmung für die Leitung einer Bildungsregion
+
+§ 4. Gemäß § 226 Abs. 2 und § 273 Abs. 6 des Beamten-Dienstrechtsgesetzes 1979 – BDG 1979, BGBl. Nr. 333/1979, sowie § 48s Abs. 2 des Vertragsbedienstetengesetzes 1948 – VBG, BGBl. Nr. 86/1948, sind die Leiterinnen und Leiter einer Bildungsregion verpflichtet, in einem Zeitraum von vier Jahren und sechs Monaten ab dem Zeitpunkt ihrer Bestellung als Leiterinnen und Leiter einer Bildungsregion den Lehrgang für Bedienstete des Schulqualitätsmanagements sowie spezifische Weiterbildungsveranstaltungen im Ausmaß von 50 Stunden zu absolvieren.
+
+### § 5 – Inkraftreten
+
+§ 5. Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft.
+
+## Kompetenzen
+
+### Anlage 1 – Zu § 3 Abs. 1
+
+Für die Wahrnehmung der Aufgaben gemäß der SQM-VO, BGBl. II Nr. 158/2019, werden im Lehrgang für Bedienstete des Schulqualitätsmanagements, beim Schulaufsichtskongress sowie in den Weiterbildungsveranstaltungen für die Leitung einer Bildungsregion Inhalte zu folgenden Kompetenzen vermittelt:
+
+1\. Methodisch-analytische Kompetenzen: Die Wirksamkeit von Unterricht im Mittelpunkt
+
+2\. Fachkompetenzen: Qualitätsmanagement als Basis für eine regionale und standortspezifische Weiterentwicklung
+
+3\. Rechtliche Kompetenzen: Rechtliche Absicherung gewährleisten
+
+4\. Managementkompetenzen: Neue Aufgaben kompetent bewältigen
+
+5\. Führungskompetenzen: Professionalität im Spannungsfeld der Führungsaufgaben
+
+6\. Kommunikationskompetenzen: Professionell im Team und mit Schulen kommunizieren
+
+7\. Reflexions- und personale Kompetenzen: Der Weg zur Wirksamkeit im Beruf
+
+8\. Genderkompetenz: Geschlechteraspekte erkennen und gleichstellungsorientiert bearbeiten
+
+9\. Interkulturelle Kompetenz: Erfolgreiches Interagieren mit Menschen aus unterschiedlichen Kulturen
+
+**Zu § 3 Abs. 2**
+
+## Organisationsform des Lehrgangs
+
+Der Lehrgang für Bedienstete des Schulqualitätsmanagements ist modular aufgebaut. Er wird blockweise bzw. über einen Zeitraum von ca. acht Monaten (300 Stunden – wobei sich diese in Präsenzstunden und Selbststudium unterteilen) angeboten.
+
+Nach Absolvierung des Lehrgangs wird seitens des Bundesministeriums für Bildung, Wissenschaft und Forschung ein Zertifikat ausgestellt.
