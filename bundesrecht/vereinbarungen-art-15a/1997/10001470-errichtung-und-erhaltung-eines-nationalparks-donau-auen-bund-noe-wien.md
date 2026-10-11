@@ -179,13 +179,17 @@ Bei Meinungsverschiedenheiten über die Auslegung von oder den Verstoß gegen Ve
 
 ## Artikel XII
 
-### Überprüfung der Leistungen
+**Überprüfung der Leistungen**
+
+### Art. 12
 
 Die Vertragsparteien kommen überein, nach fünf Jahren die Regelungen der gegenständlichen Vereinbarung, insbesondere die Organisationsform und die Umsetzung der Maßnahmen (Artikel V und VI) einer Überprüfung zu unterziehen und allfällige Änderungen einvernehmlich festzulegen.
 
 ## Artikel XIII
 
-### Geltungsdauer, Kündigung
+**Geltungsdauer, Kündigung**
+
+### Art. 13
 
 (1) Diese Vereinbarung wird auf unbestimmte Zeit geschlossen. Sie kann von den Vertragsparteien frühestens zehn Jahre nach ihrem Inkrafttreten schriftlich gekündigt werden.
 
@@ -193,7 +197,9 @@ Die Vertragsparteien kommen überein, nach fünf Jahren die Regelungen der gegen
 
 ## Artikel XIV
 
-### Hinterlegung, Mitteilungen
+**Hinterlegung, Mitteilungen**
+
+### Art. 14
 
 Diese Vereinbarung wird in drei Urschriften ausgefertigt. Eine Urschrift wird beim Bundeskanzleramt hinterlegt. Die beiden anderen Urschriften werden beim Amt der Niederösterreichischen Landesregierung sowie beim Magistrat der Stadt Wien als Amt der Wiener Landesregierung hinterlegt. An diese Stellen sind auch alle die Vereinbarung betreffenden Erklärungen und Mitteilungen schriftlich zu richten.
 
