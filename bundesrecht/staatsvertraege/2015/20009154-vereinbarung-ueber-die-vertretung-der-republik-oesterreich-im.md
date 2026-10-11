@@ -1,0 +1,130 @@
+---
+title: "Vereinbarung über die Vertretung der Republik Österreich im Verfahren der Erteilung von Schengenvisa (Deutschland)"
+identifier: "20009154"
+type: treaty
+ris_type: "Vertrag – Deutschland"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 59/2015"
+last_amended: 2020-08-01
+last_amendment: "BGBl. III Nr. 53/2020"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2015/59/P0/NOR40170344"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009154"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Vereinbarung über die Vertretung der Republik Österreich im Verfahren der Erteilung von Schengenvisa (Deutschland)
+
+Vereinbarung zwischen dem Bundesministerium für Europa, Integration und Äußeres der Republik Österreich und dem Auswärtigen Amt der Bundesrepublik Deutschland über die Vertretung der Republik Österreich im Verfahren der Erteilung von Schengenvisa
+
+StF: BGBl. III Nr. 59/2015
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. III Nr. 88/2015  
+BGBl. III Nr. 86/2018  
+BGBl. III Nr. 55/2019  
+BGBl. III Nr. 168/2019  
+BGBl. III Nr. 4/2020  
+BGBl. III Nr. 53/2020  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Die vorliegende Vereinbarung tritt mit 1. Mai 2015 in Kraft.
+
+### Art. 1
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image001.png)
+
+GZ: BERLIN-ÖB/KONS/2353/2015
+
+## VERBALNOTE
+
+Die Österreichische Botschaft Berlin entbietet dem Auswärtigen Amt der Bundesrepublik Deutschland seine Empfehlungen und beehrt sich, den Erhalt der Note des Auswärtigen Amtes vom 27. März 2015 zu GZ 510-02-516.20/9-12 AUT mit folgendem Inhalt zu bestätigen:
+
+\*„Das Auswärtige Amt begrüßt die Botschaft der Republik Österreich und beehrt sich einen Vorschlag zur Erweiterung der Schengenvertretung zu unterbreiten:*
+
+\*Die Bundesrepublik Deutschland vertritt die Republik Österreich bei der Annahme und Bearbeitung von Anträgen auf Erteilung eines Schengen-Visums gemäß Artikel 8 Abs. 1 Satz 1 und Abs. 2 Visakodex an folgenden Orten:*
+
+| *Aschgabat* |  |  |
+|---|---|---|
+| *Colombo* | *Doha* | *Duschanbe* |
+|  | *Gaborone* | *Harare* |
+| *Ho-Chi-Minh-Stadt* |  |  |
+| *Kampala ab 1.10.2019 auf Inhaber von ugandischen Diplomaten- und Dienstpässen beschränkt* | *Kathmandu* |  |
+| *Lusaka* | *Minsk* | *Phnom Penh* |
+| *Pjöngjang* | *Quito* | *Rangun* |
+| *Reykjavik* | *Taschkent ab 1.04.2019 auf Inhaber von usbekischen Diplomaten- und Dienstpässen beschränkt* | *Toronto* |
+|  | *Vientiane* | *Wellington* |
+| *Windhuk* |  |  |
+|  |  |  |
+
+\*Das Auswärtige Amt schlägt der Republik Österreich nunmehr vor, an diesen Orten eine Vertretung nach Artikel 8 Absatz 1 in Verbindung mit Artikel 8 Absatz 4 Anstrich d Visakodex zu vereinbaren. Demnach würde die Vertretung an den oben genannten Orten mit Abschluss dieses Notenwechsels folgendes beinhalten:*
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image002.png) *Entgegennahme von Anträgen auf Ausstellung eines Schengen-Visums einschließlich der Erfassung biometrischer Identifikatoren, sofern notwendig,*
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image003.png) Prüfung der Anträge auf Erteilung eines Schengen-Visums,
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image003.png) Erteilung von Schengen-Visa und
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image003.png) Verweigerung/ Ablehnung der Visumerteilung.
+
+\*Das Auswärtige Amt schlägt außerdem vor, künftige Vertretungsvereinbarungen ausschließlich gemäß Artikel 8 Abs. 1 und Absatz 4 Anstrich d Visakodex zu treffen.*
+
+\*Mit Abschluss dieses Notenwechsels treten folgende Notenwechsel außer Kraft:*
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image003.png) *Notenwechsel vom 24. September 1997 sowie vom 07. Oktober 1997 (betreffend die Übernahme der Schengenvertretung Ö durch D in einer Reihe von Drittstaaten)*
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image003.png) Notenwechsel vom 5. Mai 2010 sowie vom 28. Januar 2011 und 04. April 2011 (betreffend die Übereinstimmung, dass Abschluss einer neuen Schengenvertretungsvereinbarung nicht zwingend erforderlich sei)
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image003.png) Notenwechsel vom 22. Juni 2011 und vom 29. Juni 2011 (betreffend die Beendigung der Vertretung Ö durch D in Antananarivo)
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image003.png) Verbalnote vom 31. August 2011 (betreffend die Beendigung der Vertretung Ö durch D in Lilongwe)
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image003.png) Verbalnote vom 31. August 2011 (betreffend die Beendigung der Vertretung Ö durch D in Lilongwe)
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image003.png) Notenwechsel vom 19. Juli 2013 und 05. Juli 2013 (betreffend die Ergänzung der Vertretungsvereinbarung um den Dienstort Chicago)<sup>1</sup>
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image003.png) Notenwechsel vom 30. August 2013 und 27. November 2013 (betreffend die Ergänzung der Vertretungsvereinbarung um den Dienstort Harare)<sup>2</sup>
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image003.png) Notenwechsel vom 21.März 2014 und 25. März 2014 (betreffend die Ergänzung der Vertretungsvereinbarung um den Dienstort Houston)<sup>3</sup>
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40222891/image003.png) Verbalnote vom 10. Juni 2014 (betreffend die Beendigung der Vertretung Ö durch D in Vancouver)
+
+\*Sollte die österreichische Seite diesem Vorschlag zustimmen, schlägt das Auswärtige Amt vor, dass diese Note und die bestätigende Antwortnote die Vereinbarung zwischen dem Bundesministerium für Europa, Integration und Äußeres der Republik Österreich und dem Auswärtigen Amt der Bundesrepublik Deutschland über die Vertretung der Republik Österreich im Verfahren der Erteilung von Schengenvisa gemäß Artikel 8 Absatz 1 in Verbindung mit Artikel 8 Absatz 4 Anstrich d Visakodex darstellen, die am 01. Mai 2015 in Kraft tritt und von jeder Seite jederzeit auf diplomatischem Wege schriftlich gekündigt werden kann.“*
+
+Die Österreichische Botschaft Berlin beehrt sich zu bestätigen, dass sie dem Vorschlag dankend zustimmt, wonach die Note des Auswärtigen Amtes und diese Note eine Vereinbarung zwischen dem Bundesministerium für Europa, Integration und Äußeres der Republik Österreich und dem Auswärtigen Amt der Bundesrepublik Deutschland über die Vertretung der Republik Österreich im Verfahren der Erteilung von Schengenvisa gemäß Artikel 8 Absatz 1 in Verbindung mit Artikel 8 Absatz 4 Anstrich d Visakodex darstellen, die am 1. Mai 2015 in Kraft tritt.
+
+Die Österreichische Botschaft Berlin benützt diese Gelegenheit, dem Auswärtigen Amt der Bundesrepublik Deutschland die Versicherung seiner ausgezeichneten Hochachtung zu erneuern.
+
+Berlin, am 21. April 2015
+
+## L. S.
+
+An das
+
+Auswärtige Amt
+
+Referat 510
+
+Werderscher Markt 1
+
+10117 Berlin
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup> Kundgemacht in BGBl. III Nr. 47/2014.
+
+<sup>2</sup> Kundgemacht in BGBl. III Nr. 48/2014.
+
+<sup>3</sup> Kundgemacht in BGBl. III Nr. 77/2014.
+
+\*(Anm.: die Deutsche Eröffnungsnote ist als PDF dokumentiert.*
+
+\*Die Streichung des Dienstortes „Kabul“ mit Wirkung vom 1. Juni 2018 aus der Liste der Orte, an denen die Bundesrepublik Deutschland die Republik Österreich vertritt, konnte nicht eingearbeitet werden, vgl. BGBl. III Nr. 86/2018.)*

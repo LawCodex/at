@@ -430,7 +430,9 @@ ix) „vorgeschrieben“ wie im Vertrag, in diesen Durchführungsvorschriften od
 
 x) „Beratungsausschuß“ den in Artikel 5 (3) a) vii) des Vertrags genannten Beratungsausschuß.
 
-#### Regel 2 – *Antrag*
+**Regel 2**
+
+#### Anl. 1/2 – *Antrag*
 
 (1) *[Formulare]* Ein Antrag ist mittels des entsprechenden vorgeschriebenen Formulars zu stellen.
 
@@ -472,7 +474,9 @@ d) Das Internationale Registeramt hat dem Vertreter jede für die antragstellend
 
 (13) *[Gebühren]* Für jeden Antrag hat die antragstellende Person die vorgeschriebene Gebühr zu zahlen, die beim Internationalen Registeramt spätestens am selben Tag wie der Antrag einlangen muß. Wenn die Gebühr beim Internationalen Registeramt innerhalb von 30 Tagen nach dem Zeitpunkt einlangt, zu welchem der Antrag selbst tatsächlich beim Internationalen Registeramt eingegangen ist, wird der Antrag so behandelt, als ob er beim Internationalen Registeramt am selben Tag wie die Gebühr eingelangt wäre.
 
-#### Regel 3 – *Bearbeitung des Antrags*
+**Regel 3**
+
+#### Anl. 1/3 – *Bearbeitung des Antrags*
 
 (1) *[Berichtigungen]* Stellt das Internationale Registeramt fest, daß nach seiner Auffassung im Antrag etwas irrtümlich unterlassen wurde, daß zwei oder mehrere Erklärungen zueinander im Widerspruch stehen, daß ein Abschreibfehler oder daß irgendein anderer offensichtlicher Irrtum vorliegt, so hat es die antragstellende Person einzuladen, den Antrag zu berichtigen. Eine von der antragstellenden Person vorgenommene Berichtigung muß beim Internationalen Registeramt innerhalb von 30 Tagen nach dem Zeitpunkt der Einladung, den Antrag zu berichtigen, einlangen, um beachtet werden zu können.
 
@@ -502,25 +506,33 @@ d) Jede nach diesem Absatz getroffene, auf Zurückweisung lautende Entscheidung 
 
 (4) *[Anmerkung des Einlangens des Antrags im Internationalen Register]* Wenn das Internationale Registeramt den Antrag aus irgendeinem Grund nicht innerhalb von drei Arbeitstagen nach seinem Einlangen registriert, hat es die wesentlichen Elemente des Antrags ebenso wie eine Angabe des Grundes für die Nichtregistrierung und, wenn dieser Grund mit den Absätzen (1), (2) a) oder – (3) d) verbunden ist, auch eine Angabe der auf Grund einer dieser Bestimmungen getroffenen Maßnahmen in die der öffentlichen Einsicht zugängliche Datenbank des Internationalen Registeramts einzutragen. Wenn die Registrierung durchgeführt wird, ist diese Eintragung in der Datenbank zugleich zu löschen.
 
-#### Regel 4 – *Datum und Zahl der Registrierung*
+**Regel 4**
+
+#### Anl. 1/4 – *Datum und Zahl der Registrierung*
 
 (1) *[Datum]* Das Internationale Registeramt hat gemäß Regel 2 (13) auf jedem Antrag das Datum des Einlangens des Antrags als Eingangsdatum anzubringen. Wird der Antrag registriert, so ist ihm als Registrierungsdatum das Eingangsdatum zuzuordnen.
 
 (2) *[Nummer]* Das Internationale Registeramt hat für jeden Antrag eine Nummer zu vergeben. Wenn sich der Antrag auf ein Werk bezieht, dessen Titel in einer bereits bestehenden werkbezogenen Registrierung aufscheint oder das in einer bereits bestehenden personenbezogenen Registrierung beschrieben ist, dann hat die zugewiesene Nummer auch die Nummer dieser früheren Registrierung zu enthalten. Die Registrierungsnummer besteht aus der Antragsnummer.
 
-#### Regel 5 – *Registrierung*
+**Regel 5**
+
+#### Anl. 1/5 – *Registrierung*
 
 (1) *[Registrierung]* Wird ein Antrag nicht zurückgewiesen, so sind alle darin enthaltenen Erklärungen wie vorgeschrieben im Internationalen Register zu registrieren.
 
 (2) *[Mitteilung und Veröffentlichung der Registrierung]* Jede durchgeführte Registrierung ist, wie vorgeschrieben, der antragstellenden Person mitzuteilen und in dem in Regel 6 genannten Amtsblatt zu veröffentlichen.
 
-#### Regel 6 – *Das Amtsblatt*
+**Regel 6**
+
+#### Anl. 1/6 – *Das Amtsblatt*
 
 (1) *[Veröffentlichung]* Das Internationale Registeramt hat ein Amtsblatt („Das Amtsblatt“) herauszugeben, in dem es hinsichtlich aller Registrierungen die vorgeschriebenen Einzelheiten bekanntzugeben hat. Das Amtsblatt ist mit der Maßgabe in englischer Sprache herauszugeben, daß Einzelheiten betreffend Anträge, die in französischer Sprache eingegangen sind, ebenso in Französisch veröffentlicht werden.
 
 (2) *[Verkauf]* Das Internationale Registeramt hat sowohl Jahresabonnements als auch Einzelstücke des Amtsblattes zum Verkauf anzubieten. Die Preise sind in derselben Weise festzusetzen wie die Gebühren gemäß Regel 8 (1) festgesetzt werden.
 
-#### Regel 7 – *Anfragen*
+**Regel 7**
+
+#### Anl. 1/7 – *Anfragen*
 
 (1) *[Auskunft und Kopien]* Das Internationale Registeramt hat gegen Bezahlung der vorgeschriebenen Gebühr Auskunft über jede Registrierung zu erteilen und beglaubigte Kopien jeder Registrierungsbestätigung oder Urkunde betreffend eine solche Registrierung auszustellen.
 
@@ -532,7 +544,9 @@ d) Jede nach diesem Absatz getroffene, auf Zurückweisung lautende Entscheidung 
 
 (5) *[elektronische Speicherung]* Das Internationale Registeramt kann den gesamten Inhalt des Internationalen Registers oder Teile desselben im Weg der elektronischen Datenverarbeitung speichern und bei Erfüllung seiner in den Absätzen (1) bis (4) oder in Regel 3 (4) bezeichneten Aufgaben auf diese gespeicherten Daten zurückgreifen.
 
-#### Regel 8 – *Gebühren*
+**Regel 8**
+
+#### Anl. 1/8 – *Gebühren*
 
 (1) *[Festsetzung der Gebühren]* Der Generaldirektor hat den Beratungsausschuß zu konsultieren, bevor das System und die Höhe der Gebühren bestimmt werden und bevor in diesem System oder hinsichtlich dieser Höhe der Gebühren Änderungen vorgenommen werden. Die Versammlung kann dem Generaldirektor den Auftrag erteilen, das erwähnte System, die erwähnte Gebührenhöhe oder beides zu ändern.
 
@@ -542,7 +556,9 @@ d) Jede nach diesem Absatz getroffene, auf Zurückweisung lautende Entscheidung 
 
 (4) *[Wahrung und Zahlungsart]* Die Gebühren sind in der vorgeschriebenen Art und in der vorgeschriebenen Währung oder, wenn mehrere Währungen zugelassen sind, in der Währung, die die antragstellende Person aus diesen Währungen auswählt, zu entrichten.
 
-#### Regel 9 – *Verwaltungsvorschriften*
+**Regel 9**
+
+#### Anl. 1/9 – *Verwaltungsvorschriften*
 
 (1) *[Bereich]* a) Die Verwaltungsvorschriften haben Bestimmungen über Einzelheiten hinsichtlich der Anwendung des Vertrags und dieser Durchführungsvorschriften zu enthalten.
 

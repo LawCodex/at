@@ -37,7 +37,9 @@ Die Parteien des Übereinkommens zur Durchführung des Artikels VII des Allgemei
 
 \*) Kundgemacht in BGBl. Nr. 31/1981
 
-## I.
+**I.**
+
+## Art. 1
 
 1\. **kommen überein**, die Bestimmung des Artikels 1 Abs. 2 lit. b (iv) des Übereinkommens zu streichen;
 
@@ -63,7 +65,9 @@ Machen Entwicklungsländer einen solchen Vorbehalt, so geben die Vertragsparteie
 
 8\. **kommen überein,** daß der tatsächlich gezahlte oder zu zahlende Preis alle Zahlungen einschließt, die als Bedingung für das Kaufgeschäft über die eingeführte Ware vom Käufer an den Verkäufer oder vom Käufer an einen Dritten zur Erfüllung einer Verpflichtung des Verkäufers tatsächlich entrichtet werden oder zu entrichten sind.
 
-## II.
+**II.**
+
+## Art. 2
 
 1\. Bei Inkrafttreten des Übereinkommens gelten die Bestimmungen dieses Protokolls als Bestandteil des Übereinkommens.
 

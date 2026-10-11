@@ -55,7 +55,9 @@ sind die beiden Vertragsstaaten übereingekommen wie folgt:
 
 ### Bau und Betrieb — Artikel 1
 
-#### Der Karawankenstraßentunnel
+**Der Karawankenstraßentunnel**
+
+#### Art. 1
 
 (1) Die Vertragsstaaten verpflichten sich, gemeinsam die Projektierung, den Bau, die Erhaltung und den Betrieb eines Straßentunnels sicherzustellen, der die Karawanken zwischen St. Jakob im Rosental und Jesenice durchquert.
 
@@ -65,7 +67,9 @@ sind die beiden Vertragsstaaten übereingekommen wie folgt:
 
 ## Artikel 2
 
-#### Allgemeine Merkmale und Umfang des Bauwerkes
+**Allgemeine Merkmale und Umfang des Bauwerkes**
+
+#### Art. 2
 
 (1) Die Länge des Tunnels beträgt ungefähr 7,6 km. Das Nordportal liegt auf einer Höhe von 655 m ü. M.; das Südportal liegt auf einer Höhe von 625 m ü. M. Die höchstzulässige Längsneigung im Tunnel beträgt 1,5%. Der Regelquerschnitt des Tunnels erlaubt eine Fahrbahnbreite von 7,50 m und eine lichte Höhe des Fahrraumes von 4,70 m. Der Trassenverlauf ist in der beigefügten, einen Bestandteil dieses Vertrages bildenden Karte 1 : 50.000 dargestellt.
 
@@ -89,7 +93,9 @@ die Länge der jugoslawischen Rampenstrecke einschließlich der Anschlußstelle 
 
 ## Artikel 3
 
-#### Rechtliche Verhältnisse
+**Rechtliche Verhältnisse**
+
+#### Art. 3
 
 (1) Die Vertragsstaaten kommen überein, mit Projektierung, Bau, Betrieb, Erhaltung und Finanzierung der auf ihrem Hoheitsgebiet gelegenen Teilstrecken des Bauwerkes sowie der zusätzlichen Bauten und Einrichtungen – mit Ausnahme der Grenzabfertigungsanlagen – in Österreich eine Gesellschaft und in Jugoslawien eine Organisation zu betrauen.
 
@@ -111,7 +117,9 @@ die Länge der jugoslawischen Rampenstrecke einschließlich der Anschlußstelle 
 
 ## Artikel 4
 
-#### Finanzierung
+**Finanzierung**
+
+#### Art. 4
 
 Die Vertragsstaaten kommen überein:
 
@@ -125,7 +133,9 @@ Die Vertragsstaaten kommen überein:
 
 ## Artikel 5
 
-#### Grenzübertritte
+**Grenzübertritte**
+
+#### Art. 5
 
 Die beim Bau und Betrieb sowie bei der Erhaltung des Bauwerkes beschäftigten Personen sind für die im Zuge dieser Aufgaben notwendigen Grenzübertritte und den jeweils anschließenden Aufenthalt in der erforderlichen Tiefe auf dem Gebiet des anderen Vertragsstaates vom Sichtvermerkszwang befreit; sie müssen jedoch im Besitz eines gültigen Reisepasses oder eines anderen amtlichen Lichtbildausweises sein.
 
@@ -133,7 +143,9 @@ Die beim Bau und Betrieb sowie bei der Erhaltung des Bauwerkes beschäftigten Pe
 
 ## Artikel 5a
 
-#### Ein- und Ausfuhr von Waren für den Tunnel
+**Ein- und Ausfuhr von Waren für den Tunnel**
+
+#### Art. 5a
 
 (1) Materialien und Betriebsmittel, die in Erfüllung der Verpflichtung gemäß Artikel 1 Absatz 1 aus dem Gebiet des einen Vertragsstaates in das Gebiet des anderen Vertragsstaates unter zollamtlicher Überwachung für Zwecke der Projektierung, des Baues, der Erhaltung und des Betriebes des Karawankenstraßentunnels samt den zugehörigen Objekten eingeführt und verwendet werden, sind von allen Ein- und Ausgangsabgaben befreit; diese Regelung gilt auch für Projekte und für die gesamte technische Dokumentation.
 
@@ -149,7 +161,9 @@ Die beim Bau und Betrieb sowie bei der Erhaltung des Bauwerkes beschäftigten Pe
 
 ## Artikel 6
 
-#### Genehmigung des Projektes
+**Genehmigung des Projektes**
+
+#### Art. 6
 
 (1) Die Ausführungspläne und -entwürfe für das Bauwerk sind durch die Gesellschaft bzw. Organisation zu erstellen. Sie sind zum Zwecke der Genehmigung dem jeweiligen Vertragsstaat mit allen zweckdienlichen Erläuterungen zuzuleiten. Eine Kalkulation der Ausgaben ist diesen Unterlagen anzuschließen.
 
@@ -161,7 +175,9 @@ Die beim Bau und Betrieb sowie bei der Erhaltung des Bauwerkes beschäftigten Pe
 
 ## Artikel 7
 
-#### Zwischenstaatliche Kommission
+**Zwischenstaatliche Kommission**
+
+#### Art. 7
 
 (1) Eine „Zwischenstaatliche Kommission für den Karawankenstraßentunnel“ wird von den Vertragsstaaten errichtet. Diese wird „Kommission“ genannt.
 
@@ -177,7 +193,9 @@ Die beim Bau und Betrieb sowie bei der Erhaltung des Bauwerkes beschäftigten Pe
 
 ## Artikel 8
 
-#### Aufgaben der Kommission
+**Aufgaben der Kommission**
+
+#### Art. 8
 
 (1) Über die Befugnisse hinaus, die der Kommission durch Artikel 3 Absatz 5, Artikel 6, Artikel 7, Artikel 9 Absatz 2, Artikel 10 Absatz 3, Artikel 12 Absatz 3, Artikel 27 und Artikel 28 zugewiesen werden, kann sie Empfehlungen aller Art im Zusammenhang mit der Durchführung dieses Vertrages an die Regierungen der Vertragsstaaten richten.
 
@@ -187,7 +205,9 @@ Die beim Bau und Betrieb sowie bei der Erhaltung des Bauwerkes beschäftigten Pe
 
 ## Artikel 9
 
-#### Tunnelbetriebsordnung
+**Tunnelbetriebsordnung**
+
+#### Art. 9
 
 (1) Der Betrieb ist durch eine Betriebsordnung einheitlich für den gesamten Tunnel festzulegen.
 
@@ -197,7 +217,9 @@ Die beim Bau und Betrieb sowie bei der Erhaltung des Bauwerkes beschäftigten Pe
 
 ## Artikel 10
 
-#### Gemeinsames Baukomitee
+**Gemeinsames Baukomitee**
+
+#### Art. 10
 
 (1) Vor Beginn der Bauarbeiten haben die Gesellschaft und die Organisation ein gemeinsames Baukomitee einzurichten, das sich je zur Hälfte aus Vertretern der österreichischen Gesellschaft und der jugoslawischen Organisation zusammensetzt. Diese Vertreter sind durch diejenigen Organe der Gesellschaft bzw. Organisation in das Baukomitee zu entsenden, die nach der jeweiligen Rechtslage der Vertragsstaaten dazu befugt sind.
 
@@ -211,7 +233,9 @@ Die beim Bau und Betrieb sowie bei der Erhaltung des Bauwerkes beschäftigten Pe
 
 ## Artikel 11
 
-#### Funde
+**Funde**
+
+#### Art. 11
 
 Wasseradern, Erzvorkommen, Fossilien und andere Fundobjekte, die im Lauf der Errichtung des Bauwerkes zutage treten, unterliegen der Rechtsordnung des Vertragsstaates, auf dessen Gebiet sie gefunden werden, wer auch immer der Finder sein mag.
 
@@ -219,7 +243,9 @@ Wasseradern, Erzvorkommen, Fossilien und andere Fundobjekte, die im Lauf der Err
 
 ## Artikel 12
 
-#### Benützungsentgelt
+**Benützungsentgelt**
+
+#### Art. 12
 
 (1) Die Vertragsstaaten kommen überein, für die Benützung des Bauwerkes ein Entgelt einzuheben und mit dessen Einhebung die Gesellschaft bzw. Organisation zu betrauen.
 
@@ -233,7 +259,9 @@ Wasseradern, Erzvorkommen, Fossilien und andere Fundobjekte, die im Lauf der Err
 
 ## Artikel 13
 
-#### Gemeinsames Betriebskomitee
+**Gemeinsames Betriebskomitee**
+
+#### Art. 13
 
 (1) Die Gesellschaft und die Organisation errichten ein gemeinsames Betriebskomitee; diesem obliegt die Koordinierung des Betriebes und der Erhaltung des Bauwerkes. Die Erhaltung enthält nicht die Arbeiten für die Ausführung neuer Bauwerke oder von Teilen derselben.
 
@@ -243,7 +271,9 @@ Wasseradern, Erzvorkommen, Fossilien und andere Fundobjekte, die im Lauf der Err
 
 ## Artikel 14
 
-#### Grenzverlauf
+**Grenzverlauf**
+
+#### Art. 14
 
 Der Verlauf der österreichisch-jugoslawischen Staatsgrenze im Tunnel wird durch die lotrechte Projektion der Grenzlinie an der Erdoberfläche bestimmt und im Tunnel markiert.
 
@@ -253,7 +283,9 @@ Der Verlauf der österreichisch-jugoslawischen Staatsgrenze im Tunnel wird durch
 
 ### Grenzabfertigung — Artikel 15
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 15
 
 Es bedeuten:
 
@@ -271,7 +303,9 @@ Es bedeuten:
 
 ## Artikel 16
 
-#### Grenzabfertigungsstellen
+**Grenzabfertigungsstellen**
+
+#### Art. 16
 
 (1) Beim Grenzübergang „Karawankentunnel“ wird zur Durchführung der österreichischen und zur Durchführung der jugoslawischen Eingangsabfertigung jeweils auf dem Gebiet des anderen Vertragsstaates (Artikel 2 Absatz 2) eine Grenzabfertigungsstelle errichtet. Diese Grenzabfertigungsstellen sind durch Amtstafeln in deutscher und in slowenischer Sprache kenntlich zu machen, wobei die Sprache jenes Vertragsstaates den Vorrang genießt, um dessen Grenzabfertigungsstelle es sich handelt.
 
@@ -281,7 +315,9 @@ Es bedeuten:
 
 ## Artikel 17
 
-#### Zone
+**Zone**
+
+#### Art. 17
 
 (1) Die Zone umfaßt den auf dem Hoheitsgebiet des Gebietsstaates gelegenen Bereich der Grenzabfertigungsstelle des Nachbarstaates (Gebäude, Räumlichkeiten, Straßenabschnitte, Abstellflächen und sonstige Anlagen) sowie die zwischen dieser Grenzabfertigungsstelle und der Staatsgrenze gelegenen Straßenstücke. Welche Flächen, Gebäude, Gebäudeteile und sonstigen Anlagen den örtlichen Bereich der Grenzabfertigungsstelle bilden, wird durch Vereinbarung zwischen den Vertragsstaaten festgelegt.
 
@@ -293,7 +329,9 @@ Es bedeuten:
 
 ## Artikel 18
 
-#### Umfang und Durchführung der Grenzabfertigung
+**Umfang und Durchführung der Grenzabfertigung**
+
+#### Art. 18
 
 (1) Die Grenzabfertigungsorgane des Nachbarstaates dürfen die Grenzabfertigung in der Zone, soweit im folgenden nichts anderes bestimmt wird, im gleichen Umfang und mit den gleichen Rechtsfolgen wie auf dem Hoheitsgebiet des eigenen Staates durchführen.
 
@@ -311,7 +349,9 @@ Es bedeuten:
 
 ## Artikel 19
 
-#### Sonderfälle des Festnahmerechtes
+**Sonderfälle des Festnahmerechtes**
+
+#### Art. 19
 
 (1) Festgenommene Personen dürfen von den Grenzabfertigungsorganen des Nachbarstaates in diesen verbracht werden, wenn sie nicht Staatsbürger des Gebietsstaates sind und wenn dieser Verbringung keine Verpflichtung des Gebietsstaates aus der Konvention über die Rechtsstellung der Flüchtlinge vom 28. Juli 1951 samt Protokoll über die Rechtsstellung der Flüchtlinge vom 31. Jänner 1967 entgegensteht. In diesen Fällen dürfen die Festgenommenen von den Grenzabfertigungsorganen des Nachbarstaates in ihre im Gebietsstaat gelegene Grenzabfertigungsstelle zur Feststellung der Identität und zur Vernehmung vorgeführt werden. Diesen Amtshandlungen ist unverzüglich ein Organ des Gebietsstaates beizuziehen.
 
@@ -321,7 +361,9 @@ Es bedeuten:
 
 ## Artikel 20
 
-#### Grenzabfertigungsstellen des Nachbarstaates
+**Grenzabfertigungsstellen des Nachbarstaates**
+
+#### Art. 20
 
 (1) Der Gebietsstaat gewährt der Grenzabfertigungsstelle des Nachbarstaates den gleichen Schutz wie den entsprechenden eigenen Amtsräumlichkeiten und Anlagen. Die im Gebietsstaat geltenden strafrechtlichen Bestimmungen zum Schutz von Amtsräumlichkeiten und Anlagen sind auch auf strafbare Handlungen anzuwenden, die im Gebietsstaat gegen Amtsräumlichkeiten und Anlagen des Nachbarstaates begangen werden. Jedoch haben die Grenzabfertigungsorgane des Nachbarstaates das Recht, Personen auch unter Anwendung körperlicher Gewalt aus ihren Amtsräumen zu entfernen, wenn diese Personen durch ein Verhalten, das Ärgernis zu erregen geeignet ist, die Ordnung in diesen Amtsräumlichkeiten stören.
 
@@ -333,7 +375,9 @@ Es bedeuten:
 
 ## Artikel 21
 
-#### Fernmeldeanlagen
+**Fernmeldeanlagen**
+
+#### Art. 21
 
 (1) Der Gebietsstaat wird die Einrichtung der für die Tätigkeit der Dienststellen des Nachbarstaates im Gebietsstaat erforderlichen telefonischen, telegraphischen und Funkanlagen, einschließlich der Fernschreiber und Datenferneingabegeräte, den Anschluß dieser Anlagen an die entsprechenden Einrichtungen des Nachbarstaates sowie den unmittelbaren Austausch von ausschließlich dienstlichen Zwecken dienenden Nachrichten mit diesen Dienststellen gebührenfrei bewilligen, vorbehaltlich der Tragung allfälliger Kosten für die Einrichtung und die Miete der Anlagen. Solche Nachrichtenübermittlungen gelten als interner Verkehr des Nachbarstaates.
 
@@ -343,7 +387,9 @@ Es bedeuten:
 
 ## Artikel 22
 
-#### Dienstsendungen
+**Dienstsendungen**
+
+#### Art. 22
 
 Die von oder an Dienststellen des Nachbarstaates abgehenden dienstlichen Sendungen dürfen von den Grenzabfertigungsorganen dieses Staates ohne Einschaltung der Postverwaltung befördert werden und sind frei von Gebühren. Sie müssen mit einem Zeichen der betreffenden Dienststelle versehen sein.
 
@@ -351,7 +397,9 @@ Die von oder an Dienststellen des Nachbarstaates abgehenden dienstlichen Sendung
 
 ## Artikel 23
 
-#### Durchgang
+**Durchgang**
+
+#### Art. 23
 
 (1) Organe eines Vertragsstaates, die auf dem Hoheitsgebiet ihres Staates im Tunnel Amtshandlungen durchführen, dürfen zur Rückkehr auf das eigene Hoheitsgebiet durch den Tunnel den Weg über die auf dem Hoheitsgebiet des anderen Vertragsstaates gelegenen Zone nehmen und sich kurzfristig dort aufhalten (Durchgang).
 
@@ -361,7 +409,9 @@ Die von oder an Dienststellen des Nachbarstaates abgehenden dienstlichen Sendung
 
 ## Artikel 24
 
-#### Rechtsstellung der Organe des Nachbarstaates
+**Rechtsstellung der Organe des Nachbarstaates**
+
+#### Art. 24
 
 (1) Der Gebietsstaat gewährt den Organen des Nachbarstaates den gleichen Schutz und Beistand wie den entsprechenden eigenen Organen. Die im Gebietsstaat geltenden strafrechtlichen Bestimmungen zum Schutz der eigenen Organe in Ausübung ihres Dienstes oder in Beziehung auf diesen Dienst sowie zum Schutz von Amtshandlungen selbst sind auch auf strafbare Handlungen anzuwenden, die im Gebietsstaat gegen Organe des Nachbarstaates begangen werden.
 
@@ -381,7 +431,9 @@ Die von oder an Dienststellen des Nachbarstaates abgehenden dienstlichen Sendung
 
 ## Artikel 25
 
-#### Abgabenfreiheit
+**Abgabenfreiheit**
+
+#### Art. 25
 
 (1) Die für den dienstlichen Gebrauch der Grenzabfertigungsstellen erforderlichen und die von den Organen des Nachbarstaates für ihre Dienstausübung benötigten Sachen sind von allen Ein- und Ausgangsabgaben befreit. Es sind hiefür keine Sicherheiten zu leisten. Auf diese Sachen sind die wirtschaftlichen Verbote und Beschränkungen bezüglich der Ein- und Ausfuhr nicht anzuwenden. Das gleiche gilt für die Dienst- oder Privatfahrzeuge, die von den Organen des Nachbarstaates zur Ausübung ihres Dienstes im Gebietsstaat sowie auf der Strecke zwischen den Grenzabfertigungsstellen oder zur Zurücklegung des Weges zwischen ihrem Wohnort und ihrem Dienstort gelegentlich ihrer Dienstausübung benützt werden.
 
@@ -391,7 +443,9 @@ Die von oder an Dienststellen des Nachbarstaates abgehenden dienstlichen Sendung
 
 ## Artikel 25a
 
-#### Tätigkeit von Speditionsunternehmungen bzw. Speditionsorganisationen
+**Tätigkeit von Speditionsunternehmungen bzw. Speditionsorganisationen**
+
+#### Art. 25a
 
 Hinsichtlich der Tätigkeit von Speditionsunternehmungen bzw. Speditionsorganisationen im Zusammenhang mit dem grenzüberschreitenden Verkehr durch den Karawankenstraßentunnel gelten die Bestimmungen des Anhanges, welcher ein integrierender Bestandteil des Vertrages ist.
 
@@ -401,7 +455,9 @@ Hinsichtlich der Tätigkeit von Speditionsunternehmungen bzw. Speditionsorganisa
 
 ### Sonstige Bestimmungen — Artikel 26
 
-#### Maßnahmen allgemeiner Art
+**Maßnahmen allgemeiner Art**
+
+#### Art. 26
 
 (1) Im Laufe der Projektierung, des Baues, des Betriebes und der Erhaltung auftretende Fragen aller Art, einschließlich der Maßnahmen zur Sicherung des Verkehrs und zur Verhinderung von Unfällen und Bränden, sind Gegenstand besonderer Vereinbarungen zwischen den Vertragsstaaten, soweit sie nicht in diesem Vertrag geregelt sind.
 
@@ -411,7 +467,9 @@ Hinsichtlich der Tätigkeit von Speditionsunternehmungen bzw. Speditionsorganisa
 
 ## Artikel 27
 
-#### Meinungsverschiedenheiten zwischen der Gesellschaft und der Organisation
+**Meinungsverschiedenheiten zwischen der Gesellschaft und der Organisation**
+
+#### Art. 27
 
 Die Gesellschaft und die Organisation haben Meinungsverschiedenheiten über die Projektierung, den Bau, den Betrieb und die Erhaltung des Bauwerks einvernehmlich beizulegen. Falls eine Einigung nicht erzielt wird, haben die Gesellschaft bzw. die Organisation hierüber ehestens der Kommission zu berichten. Falls diese binnen angemessener Frist, längstens jedoch innerhalb eines Monats, keine Einigung herbeiführen kann, ist die Gesellschaft oder Organisation berechtigt, die Angelegenheiten einem Schiedsverfahren zu unterwerfen. Das anzurufende Schiedsgericht wird von der Gesellschaft und der Organisation vereinbart.
 
@@ -419,7 +477,9 @@ Die Gesellschaft und die Organisation haben Meinungsverschiedenheiten über die 
 
 ## Artikel 28
 
-#### Schiedsverfahren
+**Schiedsverfahren**
+
+#### Art. 28
 
 (1) Meinungsverschiedenheiten über die Auslegung oder Anwendung dieses Vertrages, die nicht binnen drei Monaten nach ihrem Entstehen in der Kommission geschlichtet werden, sind auf Antrag eines der Vertragsstaaten einem Schiedsgericht zu unterbreiten.
 
@@ -431,7 +491,9 @@ Die Gesellschaft und die Organisation haben Meinungsverschiedenheiten über die 
 
 ## Artikel 29
 
-#### Vorübergehende Unanwendbarkeit Kündigung
+**Vorübergehende Unanwendbarkeit Kündigung**
+
+#### Art. 29
 
 (1) Im Fall der Gefährdung seiner Sicherheit oder bei Vorliegen anderweitiger zwingender öffentlicher Interessen kann jeder Vertragsstaat den Abschnitt II dieses Vertrages ganz oder teilweise für die Dauer dieses Zustandes für unanwendbar erklären. Der andere Vertragsstaat ist hievon unverzüglich zu benachrichtigen.
 
@@ -441,7 +503,9 @@ Die Gesellschaft und die Organisation haben Meinungsverschiedenheiten über die 
 
 ## Artikel 30
 
-#### Schlußbestimmungen
+**Schlußbestimmungen**
+
+#### Art. 30
 
 Der Vertrag ist zu ratifizieren und tritt am ersten Tag des dritten Monats, der auf den Austausch der Ratifikationsurkunden folgt, in Kraft. Der Austausch der Ratifikationsurkunden wird so bald wie möglich in Wien stattfinden.
 

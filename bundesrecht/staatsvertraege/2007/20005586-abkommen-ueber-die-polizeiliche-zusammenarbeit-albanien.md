@@ -53,7 +53,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 1
 
-### Bereiche und Ziel der Zusammenarbeit
+**Bereiche und Ziel der Zusammenarbeit**
+
+### Art. 1
 
 Die Vertragsparteien verpflichten sich, nach Maßgabe ihres nationalen Rechts durch ihre im Sinne dieses Abkommens zuständigen Behörden bei der Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung sowie bei der Verhütung und der Aufklärung von gerichtlich strafbaren Handlungen zusammenzuarbeiten und Amtshilfe zu leisten. Diese Zusammenarbeit umfasst insbesondere folgende Bereiche:
 
@@ -65,7 +67,9 @@ Die Vertragsparteien verpflichten sich, nach Maßgabe ihres nationalen Rechts du
 
 ## Artikel 2
 
-### Formen der Zusammenarbeit
+**Formen der Zusammenarbeit**
+
+### Art. 2
 
 (1) Die Zusammenarbeit der zuständigen Behörden der Vertragsparteien im Sinne dieses Abkommens erfolgt nach Maßgabe des jeweiligen nationalen Rechts sowie im Rahmen des jeweiligen Zuständigkeitsbereiches und umfasst insbesondere
 
@@ -89,7 +93,9 @@ Die Vertragsparteien verpflichten sich, nach Maßgabe ihres nationalen Rechts du
 
 ## Artikel 3
 
-### Zeugenschutz
+**Zeugenschutz**
+
+### Art. 3
 
 (1) Die zuständigen Behörden der Vertragsparteien unterstützen einander beim Schutz von Zeugen und deren Angehörigen (in der Folge „die zu schützende Person“).
 
@@ -105,7 +111,9 @@ Die Vertragsparteien verpflichten sich, nach Maßgabe ihres nationalen Rechts du
 
 ## Artikel 4
 
-### Zuständige Behörden
+**Zuständige Behörden**
+
+### Art. 4
 
 (1) Für die Zusammenarbeit im Sinne dieses Abkommens gemäß dem nationalen Recht zuständige Behörden sind:
 
@@ -119,7 +127,9 @@ Die Vertragsparteien verpflichten sich, nach Maßgabe ihres nationalen Rechts du
 
 ## Artikel 5
 
-### Datenschutz
+**Datenschutz**
+
+### Art. 5
 
 Die wechselseitige Übermittlung personenbezogener Daten (in der Folge: Daten) zwischen den zuständigen Behörden der Vertragsparteien erfolgt nach Maßgabe des jeweiligen nationalen Rechts unter Beachtung der von der übermittelnden Behörde erteilten Auflagen und nach Maßgabe folgender Grundsätze, welche gleichermaßen auf automationsunterstützt oder nicht automationsunterstützt verarbeitete Daten Anwendung finden:
 
@@ -153,19 +163,25 @@ c) die Daten nicht mehr zur Erfüllung der für die Übermittlung maßgeblichen 
 
 ## Artikel 6
 
-### Geheimhaltung
+**Geheimhaltung**
+
+### Art. 6
 
 Die für Zwecke dieses Abkommens übermittelten Informationen unterliegen grundsätzlich dem Amtsgeheimnis. Die gemäß diesem Abkommen Informationen erhaltende Vertragspartei gewährleistet für diese zumindest eine gleichwertige Geheimhaltung wie die übermittelnde Vertragspartei.
 
 ## Artikel 7
 
-### Konsultationen
+**Konsultationen**
+
+### Art. 7
 
 Im Bedarfsfall können leitende Beamte der zuständigen Behörden der Vertragsparteien Konsultationen führen, um Mittel und Wege zur effektiven Anwendung des vorliegenden Abkommens sowie mögliche Maßnahmen zur Weiterentwicklung und Verbesserung der Zusammenarbeit zu erörtern.
 
 ## Artikel 8
 
-### Ausnahmeregelung
+**Ausnahmeregelung**
+
+### Art. 8
 
 (1) Ist eine Vertragspartei der Ansicht, dass die Erledigung eines Ersuchens oder eine andere Art der Zusammenarbeit geeignet ist, ihre Souveränität, ihre Sicherheit, ihre öffentliche Ordnung oder andere wesentliche Interessen ihres Landes zu beeinträchtigen oder gegen Grundsätze ihrer Rechtsordnung zu verstoßen, so kann sie die Unterstützung ganz oder teilweise verweigern oder von bestimmten Bedingungen abhängig machen.
 
@@ -173,19 +189,25 @@ Im Bedarfsfall können leitende Beamte der zuständigen Behörden der Vertragspa
 
 ## Artikel 9
 
-### Kosten
+**Kosten**
+
+### Art. 9
 
 Soweit in diesem Abkommen nichts anderes bestimmt ist, trägt jede Vertragspartei die ihr aus der Anwendung dieses Abkommens entstehenden Kosten selbst.
 
 ## Artikel 10
 
-### Verhältnis zu anderen Regelungen
+**Verhältnis zu anderen Regelungen**
+
+### Art. 10
 
 Durch die Bestimmungen dieses Abkommens werden Rechte und Pflichten der Vertragsparteien aus internationalen Verträgen nicht berührt.
 
 ## Artikel 11
 
-### Auslegung des Abkommens
+**Auslegung des Abkommens**
+
+### Art. 11
 
 (1) Meinungsverschiedenheiten über die Auslegung oder Anwendung dieses Abkommens werden im Wege von direkten Verhandlungen zwischen den zuständigen Behörden der Vertragsparteien entschieden.
 
@@ -193,13 +215,17 @@ Durch die Bestimmungen dieses Abkommens werden Rechte und Pflichten der Vertrags
 
 ## Artikel 12
 
-### Beendigung der Geltung eines früheren Abkommens
+**Beendigung der Geltung eines früheren Abkommens**
+
+### Art. 12
 
 Am Tag des Inkrafttretens dieses Abkommens tritt die Vereinbarung zwischen dem Bundesminister für Inneres der Republik Österreich und dem Ministerium für öffentliche Ordnung der Republik Albanien über die Zusammenarbeit bei der Bekämpfung der internationalen organisierten Kriminalität und des internationalen illegalen Suchtgifthandels vom 12. Dezember 1996 außer Kraft.
 
 ## Artikel 13
 
-### Inkrafttreten und Kündigung
+**Inkrafttreten und Kündigung**
+
+### Art. 13
 
 (1) Dieses Abkommen tritt am ersten Tag des dritten Monats in Kraft, der auf den Zeitpunkt folgt, in dem die Vertragsparteien einander mitteilen, dass die jeweiligen hiefür erforderlichen innerstaatlichen Voraussetzungen erfüllt sind.
 

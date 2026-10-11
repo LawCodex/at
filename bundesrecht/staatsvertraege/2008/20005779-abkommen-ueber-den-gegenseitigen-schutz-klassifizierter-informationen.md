@@ -35,13 +35,17 @@ sind wie folgt übereingekommen:
 
 ## Artikel 1
 
-### Klassifizierte Informationen
+**Klassifizierte Informationen**
+
+### Art. 1
 
 „Klassifizierte Informationen“ im Sinne dieses Abkommens sind Informationen und Gegenstände, unabhängig von Darstellungsform und Datenträger, die gemäß dem jeweiligen innerstaatlichen Recht als solche eingestuft und gekennzeichnet worden sind, um sie vor unbefugter Preisgabe zu schützen.
 
 ## Artikel 2
 
-### Gleichwertigkeit der Klassifizierungsstufen
+**Gleichwertigkeit der Klassifizierungsstufen**
+
+### Art. 2
 
 Die Vertragsparteien legen fest, dass folgende Klassifizierungsstufen gleichwertig sind:
 
@@ -54,7 +58,9 @@ Die Vertragsparteien legen fest, dass folgende Klassifizierungsstufen gleichwert
 
 ## Artikel 3
 
-### Kennzeichnung
+**Kennzeichnung**
+
+### Art. 3
 
 (1) Die übermittelten klassifizierten Informationen werden von der für ihren Empfänger zuständigen staatlichen Stelle mit der nach Artikel 2 gleichwertigen Klassifizierungsstufe gekennzeichnet.
 
@@ -64,7 +70,9 @@ Die Vertragsparteien legen fest, dass folgende Klassifizierungsstufen gleichwert
 
 ## Artikel 4
 
-### Grundsätze des Schutzes klassifizierter Informationen
+**Grundsätze des Schutzes klassifizierter Informationen**
+
+### Art. 4
 
 (1) Die Vertragsparteien treffen gemäß diesem Abkommen und dem jeweiligen innerstaatlichen Recht alle geeigneten Maßnahmen zum Schutz der übermittelten klassifizierten Informationen und sorgen für die erforderliche Kontrolle dieses Schutzes.
 
@@ -78,7 +86,9 @@ Die Vertragsparteien legen fest, dass folgende Klassifizierungsstufen gleichwert
 
 ## Artikel 5
 
-### Sicherheitsüberprüfung von Personen
+**Sicherheitsüberprüfung von Personen**
+
+### Art. 5
 
 (1) Für den Zugang zu klassifizierten Informationen ist eine Sicherheitsüberprüfung nach dem jeweiligen innerstaatlichen Recht der Vertragsparteien erforderlich.
 
@@ -90,7 +100,9 @@ Die Vertragsparteien legen fest, dass folgende Klassifizierungsstufen gleichwert
 
 ## Artikel 6
 
-### Klassifizierte Verträge
+**Klassifizierte Verträge**
+
+### Art. 6
 
 (1) Ein „klassifizierter Vertrag“ ist ein Vertrag zwischen einer staatlichen Stelle oder einem Unternehmen aus dem Staat der einen Vertragspartei (Auftraggeber) und einer staatlichen Stelle oder einem Unternehmen aus dem Staat der anderen Vertragspartei (Auftragnehmer), dessen Erfüllung den Zugang zu klassifizierten Informationen oder deren Herstellung voraussetzt.
 
@@ -100,13 +112,17 @@ Die Vertragsparteien legen fest, dass folgende Klassifizierungsstufen gleichwert
 
 ## Artikel 7
 
-### Übermittlung
+**Übermittlung**
+
+### Art. 7
 
 Klassifizierte Informationen werden auf diplomatischem Weg oder auf andere zwischen den zuständigen staatlichen Stellen der Vertragsparteien vereinbarte und gegen unbefugte Preisgabe gesicherte Weise übermittelt. Der Empfang klassifizierter Informationen wird schriftlich bestätigt.
 
 ## Artikel 8
 
-### Vervielfältigung und Übersetzung
+**Vervielfältigung und Übersetzung**
+
+### Art. 8
 
 (1) Die Vervielfältigung klassifizierter Informationen erfolgt im Einklang mit dem jeweiligen innerstaatlichen Recht. Die Vervielfältigung klassifizierter Informationen der Klassifizierungsstufen VERTRAULICH/DÔVERNÉ und GEHEIM/TAJNÉ durch den Empfänger kann von der zuständigen staatlichen Stelle des Herausgeberstaats eingeschränkt oder ausgeschlossen werden. Die Vervielfältigung klassifizierter Informationen der Klassifizierungsstufe „STRENG GEHEIM/PRÍSNE TAJNÉ“ durch den Empfänger ist unzulässig.
 
@@ -116,13 +132,17 @@ Klassifizierte Informationen werden auf diplomatischem Weg oder auf andere zwisc
 
 ## Artikel 9
 
-### Vernichtung
+**Vernichtung**
+
+### Art. 9
 
 Klassifizierte Informationen werden gemäß dem jeweiligen innerstaatlichen Recht nachweislich und auf eine Weise vernichtet, die die teilweise oder vollständige Rekonstruktion verhindert. Klassifizierte Informationen der Klassifizierungsstufe „STRENG GEHEIM/PRÍSNE TAJNÉ“ dürfen nicht vernichtet werden, sondern sind rückzuübermitteln.
 
 ## Artikel 10
 
-### Besuche
+**Besuche**
+
+### Art. 10
 
 (1) Besuchern aus dem Herausgeberstaat wird im Empfängerstaat nur im notwendigen Ausmaß und nur mit Erlaubnis der zuständigen staatlichen Stelle Zugang zu klassifizierten Informationen sowie zu Einrichtungen, in denen klassifizierte Informationen bearbeitet oder aufbewahrt werden, gewährt. Die Erlaubnis wird nur solchen Personen erteilt, die aufgrund des auf sie anwendbaren innerstaatlichen Rechts zum Zugang zu klassifizierten Informationen der jeweiligen Klassifizierungsstufe
 
@@ -146,7 +166,9 @@ f) Stellen, Ansprechpartner und Einrichtungen, die besucht werden sollen.
 
 ## Artikel 11
 
-### Verletzungen des Schutzes klassifizierter Informationen
+**Verletzungen des Schutzes klassifizierter Informationen**
+
+### Art. 11
 
 (1) Wenn der Verdacht einer unbefugten Preisgabe übermittelter klassifizierter Informationen besteht oder eine solche festgestellt wird, ist dies der zuständigen staatlichen Stelle der anderen Vertragspartei unverzüglich schriftlich mitzuteilen.
 
@@ -156,19 +178,25 @@ f) Stellen, Ansprechpartner und Einrichtungen, die besucht werden sollen.
 
 ## Artikel 12
 
-### Kosten
+**Kosten**
+
+### Art. 12
 
 Jede Vertragspartei trägt die Kosten, die ihr im Zusammenhang mit der Durchführung dieses Abkommens entstehen.
 
 ## Artikel 13
 
-### Zuständige staatliche Stellen
+**Zuständige staatliche Stellen**
+
+### Art. 13
 
 Die Vertragsparteien unterrichten einander auf diplomatischem Weg über die für die Durchführung dieses Abkommens zuständigen staatlichen Stellen.
 
 ## Artikel 14
 
-### Konsultationen
+**Konsultationen**
+
+### Art. 14
 
 (1) Die zuständigen staatlichen Stellen der Vertragsparteien unterrichten einander über das jeweils geltende innerstaatliche Recht zum Schutz klassifizierter Informationen und über dessen allfällige Änderung.
 
@@ -176,13 +204,17 @@ Die Vertragsparteien unterrichten einander auf diplomatischem Weg über die für
 
 ## Artikel 15
 
-### Beilegung von Streitigkeiten
+**Beilegung von Streitigkeiten**
+
+### Art. 15
 
 Alle Streitigkeiten über die Anwendung und Auslegung dieses Abkommens werden im Wege direkter Gespräche zwischen den zuständigen staatlichen Stellen der Vertragsparteien oder auf diplomatischem Wege beigelegt.
 
 ## Artikel 16
 
-### Schlussbestimmungen
+**Schlussbestimmungen**
+
+### Art. 16
 
 (1) Dieses Abkommen wird auf unbestimmte Zeit geschlossen und tritt am ersten Tag des zweiten Monats nach seiner Unterzeichnung in Kraft.
 

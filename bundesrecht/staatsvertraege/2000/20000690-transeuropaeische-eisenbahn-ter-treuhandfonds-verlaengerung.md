@@ -1,0 +1,78 @@
+---
+title: "Transeuropäische Eisenbahn (TER) - Treuhandfonds - Verlängerung"
+identifier: "20000690"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 95/2000"
+last_amended: 2000-05-26
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2000/95/P0/NOR30000729"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000690"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Transeuropäische Eisenbahn (TER) - Treuhandfonds - Verlängerung
+
+Wirtschaftskommission für Europa; Transeuropäische Eisenbahn (TER); Verlängerung des Kooperationsübereinkommens über den Treuhandfonds
+
+StF: BGBl. III Nr. 95/2000
+
+## Art. 1
+
+(Übersetzung)
+
+VEREINTE NATIONEN
+
+WIRTSCHAFTSKOMMISSION FÜR EUROPA
+
+S. E.
+
+Herrn Botschafter
+
+Harald Kreid
+
+Ständiger Vertreter Österreichs
+
+bei den Vereinten Nationen in Genf
+
+26\. März 1996
+
+Sehr geehrter Herr Botschafter!
+
+Ich würde gerne das Transeuropäische Schienen Projekt (TER) und das Abkommen über den Cooperation Trust Fund \*1), das von elf Ländern unterzeichnet wurde, Ihres eingeschlossen, zur Sprache bringen.
+
+Ich würde gerne daran erinnern, daß dieses Abkommen ursprünglich für eine Dauer von 1992 bis 1996 ausgelegt war.
+
+Angesichts der Langfristigkeit der Projektziele, und auf Grund der Erkenntnis, daß eine weitere Entwicklung des Projektes von allgemeinem Interesse für die Teilnehmerländer das Abkommens ist, schlage ich eine Verlängerung für die Zeit von 1997 bis 2000 vor.
+
+Falls daher innerhalb von 90 Tagen vom Datum dieses Schreibens kein Einwand von seiten Ihrer Regierung erhoben wird, ist das als Ihre Zustimmung zu werten.
+
+Ich würde es begrüßen, wenn es möglich wäre, dieses Schreiben an die zuständigen Stellen in Ihrem Land weiterzuleiten.
+
+In der Überzeugung, daß die an dem Projekt beteiligten Länder von der fortgesetzten Kooperation profitieren werden, verbleibe ich
+
+`                                             mit freundlichen Grüßen`
+
+`                                                 Yves Berthelot`
+
+`                                                Exekutivsekretär`
+
+`---------------------------------------------------------------------`
+
+`*1) Kundgemacht in BGBl. Nr. 776/1995`
+
+## Ratifikationstext
+
+Der Bundespräsident hat genehmigt, gegen diese Verlängerung keinen Einspruch zu erheben.
+
+Laut Mitteilung des Exekutivsekretärs der Wirtschaftskommission für Europa ist die Verlängerung des Projekts vom 1. Jänner 1997 bis 31. Dezember 2000 wirksam.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluss des nachstehenden Staatsvertrages wird genehmigt.

@@ -25,7 +25,9 @@ StF: BGBl. III Nr. 106/2016
 
 Die gegenständliche Vereinbarung ist mit 1. Juni 2016 in Kraft getreten.
 
-## (Übersetzung)
+**(Übersetzung)**
+
+## Art. 1
 
 No. BMEIA-GR.4.36.10/0001-IV.2/2015
 

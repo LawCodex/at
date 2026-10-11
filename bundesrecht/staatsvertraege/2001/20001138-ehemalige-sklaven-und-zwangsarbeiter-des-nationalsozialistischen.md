@@ -39,7 +39,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -49,13 +51,17 @@ Für die Zwecke dieses Abkommens
 
 ## Artikel 2
 
-### Gegenstand des Abkommens
+**Gegenstand des Abkommens**
+
+### Art. 2
 
 Die Österreichische Bundesregierung wird den Fonds veranlassen, in einem Höchstmaß von ÖS 501 Millionen über den Rat einmalige finanzielle Beiträge an natürliche Personen zu leisten, die vom nationalsozialistischen Regime auf das Gebiet der heutigen Republik Österreich deportiert und zur Sklaven- oder Zwangsarbeit verpflichtet wurden, im Zeitpunkt ihrer Deportation tschechoslowakische Staatsbürger waren, heute tschechische Staatsbürger sind und am 15. Februar 2000 ihren ständigen Wohnsitz in der Tschechischen Republik hatten.
 
 ## Artikel 3
 
-### Grundsätze für den Empfang von Leistungen
+**Grundsätze für den Empfang von Leistungen**
+
+### Art. 3
 
 (1) Als Leistungsempfänger kommen ehemalige vom nationalsozialistischen Regime auf das Gebiet der heutigen Republik Österreich deportierte Sklaven- oder Zwangsarbeiter, insofern sie keine Leistungen aus dem Titel ehemalige Sklaven- und Zwangsarbeit von der Stiftung „Erinnerung, Verantwortung und Zukunft“ der Bundesrepublik Deutschland erhalten können, in Betracht, nämlich
 
@@ -79,7 +85,9 @@ im Zeitpunkt ihrer Deportation tschechoslowakische Staatsbürger waren, heute ts
 
 ## Artikel 4
 
-### Grundsätze für die Erbringung der Leistung
+**Grundsätze für die Erbringung der Leistung**
+
+### Art. 4
 
 (1) Die Auszahlung der vom Fonds zur Verfügung gestellten Mittel erfolgt durch den Rat. Mittel des Fonds werden je nach Bedarf innerhalb kürzest möglicher Frist auf Grund der vom Rat übermittelten und vom Fonds stichprobenartig überprüften Listen der Personen gemäß den in Artikel 3 Absatz 1 genannten Kategorien, die die Leistungsvoraussetzungen erfüllen, zugewiesen.
 
@@ -97,7 +105,9 @@ im Zeitpunkt ihrer Deportation tschechoslowakische Staatsbürger waren, heute ts
 
 ## Artikel 5
 
-### Datenschutz
+**Datenschutz**
+
+### Art. 5
 
 (1) Der Rat und der Fonds sind berechtigt, von Behörden und anderen öffentlichen Einrichtungen Auskünfte einzuholen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Eine Auskunftserteilung unterbleibt, soweit besondere gesetzliche Bestimmungen dem entgegenstehen oder die schutzwürdigen Geheimhaltungsinteressen des Betroffenen die berechtigten Informationsinteressen des Rates oder des Fonds überwiegen.
 
@@ -105,7 +115,9 @@ im Zeitpunkt ihrer Deportation tschechoslowakische Staatsbürger waren, heute ts
 
 ## Artikel 6
 
-### Vertretung
+**Vertretung**
+
+### Art. 6
 
 (1) Die Regierung der Tschechischen Republik kann einen Vertreter als Mitglied in das Kuratorium des Versöhnungsfonds entsenden.
 
@@ -113,19 +125,25 @@ im Zeitpunkt ihrer Deportation tschechoslowakische Staatsbürger waren, heute ts
 
 ## Artikel 7
 
-### Rechtssicherheit
+**Rechtssicherheit**
+
+### Art. 7
 
 Die Tschechische Republik wird weitere Forderungen gegenüber der Republik Österreich oder österreichischen Unternehmen aus dem Titel ehemalige Sklaven- und Zwangsarbeit unter dem nationalsozialistischen Regime auf dem heutigen Gebiet der Republik Österreich nicht geltend machen und weder vertreten noch unterstützen.
 
 ## Artikel 8
 
-### Anträge früherer tschechoslowakischer und tschechischer oder heutiger tschechischer Staatsbürger außerhalb des Abkommens
+**Anträge früherer tschechoslowakischer und tschechischer oder heutiger tschechischer Staatsbürger außerhalb des Abkommens**
+
+### Art. 8
 
 Dieses Abkommen berührt nicht die Möglichkeit früherer tschechoslowakischer und tschechischer oder heutiger tschechischer Staatsbürger, die nicht unter dieses Abkommen fallen, Anträge direkt an den Fonds zu richten.
 
 ## Artikel 9
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 9
 
 Dieses Abkommen tritt an dem Tage in Kraft, an dem die letzte schriftliche Mitteilung in Empfang genommen wird, mit denen die Vertragsparteien einander über die Erfüllung der innerstaatlichen Voraussetzungen für das Inkrafttreten des Abkommens in Kenntnis gesetzt haben.
 

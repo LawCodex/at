@@ -37,7 +37,9 @@ Daher haben die Regierung und der Fonds folgendes Übereinkommen geschlossen:
 
 ## Artikel I.
 
-### Beistellung von Hilfsgütern und Dienstleistungen.
+**Beistellung von Hilfsgütern und Dienstleistungen.**
+
+### Art. 1
 
 A. Der Fonds wird nach Maßgabe der Anforderungen und innerhalb der Grenzen seiner Hilfsmittel Lebensmittel und andere Hilfsgüter und Dienstleistungen zur Hilfe und Unterstützung von Kindern, Jugendlichen, werdenden und stillenden Müttern Österreichs beistellen.
 
@@ -49,7 +51,9 @@ D. Der Fonds wird für seine Dienstleistungen und Hilfsgüter im Rahmen dieses A
 
 ## Artikel II.
 
-### Übertragung und Verteilung der Hilfsgüter.
+**Übertragung und Verteilung der Hilfsgüter.**
+
+### Art. 2
 
 A. Der Fonds behält sich das volle Eigentumsrecht an seinen Hilfsgütern bis zum Verbrauch oder zur Verwertung durch den letzten Empfänger, für den die Hilfe vorgesehen ist, vor und wird seine Hilfsgüter der Regierung zu treuen Handen übergeben. Die Regierung wird dafür Sorge tragen, daß die von der Regierung und vom Fonds bevollmächtigten Behörden die Verteilung im Namen des Fonds zugunsten von Kindern, Jugendlichen, werdenden und stillenden Müttern von Österreich im Einklang mit dem beiliegenden Arbeitsplan und den Richtlinien des Fonds vornehmen werden.
 
@@ -67,13 +71,17 @@ G. Die Regierung erklärt sich bereit, alle Vorkehrungen für Einfuhr, Umladung,
 
 ## Artikel III.
 
-### Ausfuhr.
+**Ausfuhr.**
+
+### Art. 3
 
 Die Regierung erklärt, nicht zu erwarten, daß der Fonds Hilfsgüter für Kinder, Jugendliche, werdende und stillende Mütter von Österreich einführt, wenn die Regierung Güter derselben oder ähnlicher Art ausführt. Sollten sich Ausnahmefälle, durch besondere Umstände bedingt, ergeben, müßten sie vom Exekutivkomitee beraten und beschlossen werden.
 
 ## ARTIKEL IV.
 
-### Meldungen und Berichte.
+**Meldungen und Berichte.**
+
+### Art. 4
 
 A. Die Regierung wird den Fonds mit Statistiken und Nachrichten versehen, die für den Operationsplan notwendig sind, und auch mit dem Fonds wegen Beistellung solcher Berichte und Nachrichten beraten.
 
@@ -81,7 +89,9 @@ B. Die Regierung wird dem Fonds solche Meldungen, Berichte und Informationen zur
 
 ## Artikel V.
 
-### Beziehungen zwischen Regierung und Fonds in der Ausführung dieses Vertrages.
+**Beziehungen zwischen Regierung und Fonds in der Ausführung dieses Vertrages.**
+
+### Art. 5
 
 A. Es wird anerkannt und durch die Regierung und den Fonds vereinbart, daß bei der Ausführung der Bedingungen des Vertrages eine enge und herzliche Zusammenarbeit zwischen den Repräsentanten beider Stellen vorgesehen ist. Zu diesem Zweck wird vereinbart, daß der Fonds bevollmächtigte Beamte in Österreich stationiert und zur Beratung und Zusammenarbeit mit den zuständigen Regierungsbehörden in bezug auf Transport, Empfang und Verteilung von Fondsgütern, zur Feststellung des Bedarfes für Kinder, Jugendliche, werdende und stillende Mütter von Österreich sowie zur Ausführung dieses Vertrages und zur Beratung des Hauptquartiers des Fonds in bezug auf dieses Abkommen und für alle Probleme, die aus der Zusammenarbeit der Regierung mit dem Fonds erwachsen, ermächtigt.
 
@@ -95,7 +105,9 @@ E. Die Regierung wird im Einvernehmen mit dem Fonds Vorkehrungen treffen, die er
 
 ## ARTIKEL VI.
 
-### Gebührenfeiheit.
+**Gebührenfeiheit.**
+
+### Art. 6
 
 A. Der Fonds, sein Eigentum, Einkommen und alle seine Unternehmungen und Geschäfte irgendwelcher Art sind befreit von allen Abgaben, Steuern, Zöllen oder Gebühren, die durch die Regierung oder irgendwelche Behörden oder andere öffentliche Körperschaften in Österreich eingehoben werden. Der Fonds wird ebenso befreit sein von der Verbindlichkeit zur Einhebung oder Bezahlung von Steuern, Abgaben, Zöllen oder Gebühren, die durch die Regierung oder irgendeine Behörde oder eine andere öffentliche Körperschaft vorgeschrieben sind.
 
@@ -105,19 +117,25 @@ C. Die Regierung wird dies als Grundsatz dieses Vertrages betrachten und alle An
 
 ## Artikel VII.
 
-### Privilegien, Vorrechte und Immunität.
+**Privilegien, Vorrechte und Immunität.**
+
+### Art. 7
 
 Die Regierung gewährt dem Fonds und seinen Angestellten die Vorrechte und Immunität, die in der allgemeinen Konvention der Generalversammlung der Vereinten Nationen vom 13. Februar 1946 hinsichtlich Privilegien und Immunität beschlossen worden sind.
 
 ## Artikel VIII.
 
-### Veröffentlichungen.
+**Veröffentlichungen.**
+
+### Art. 8
 
 Die Regierung gibt dem Fonds alle notwendigen Erleichterungen zur Information der Öffentlichkeit bezüglich der Zustellung und Verteilung der Fondsgüter und wird ihn bei Abfassung solcher Veröffentlichungen unterstützen.
 
 ## ARTIKEL IX.
 
-### Dauer des Abkommens.
+**Dauer des Abkommens.**
+
+### Art. 9
 
 Dieses Abkommen tritt mit heutigem Tage in Kraft. Es wird mindestens bis zum Verbrauch der Fondsgüter zusätzlich einer entsprechenden Zeit für die Durchführung einer ordentlichen Liquidierung der Tätigkeit des Fonds in Österreich in Kraft bleiben. Für den Fall einer Meinungsverschiedenheit über Einhaltung der Vertragsbedingungen wird die Angelegenheit dem Programmausschuß des Exekutionskomitees des Internationalen Kinderhilfsfonds zur geeigneten Veranlassung vorgelegt werden.
 

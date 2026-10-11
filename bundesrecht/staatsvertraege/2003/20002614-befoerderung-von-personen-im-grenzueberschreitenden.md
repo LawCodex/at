@@ -27,7 +27,9 @@ Die Regierung der Republik Österreich und die Regierung der Tschechischen Repub
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Dieses Abkommen bezeichnet:
 
@@ -47,7 +49,9 @@ g) als Unternehmer jede natürliche oder juristische Person oder Gesellschaft, d
 
 ## Artikel 2
 
-### Konzession (Genehmigung)
+**Konzession (Genehmigung)**
+
+### Art. 2
 
 (1) Ein grenzüberschreitender Kraftfahrlinienverkehr darf nur auf Grund von Konzessionen (Genehmigungen) der zuständigen Behörden beider Vertragsparteien sowie im Falle einer multilateralen Kraftfahrlinie der Erteilung einer Konzession (Genehmigung) berührter Staaten geführt werden.
 
@@ -81,7 +85,9 @@ Die Heimatbehörde übersendet eine Ausfertigung des Antrages an die zuständige
 
 ## Artikel 3
 
-### Transitverkehr
+**Transitverkehr**
+
+### Art. 3
 
 (1) Der Transitverkehr über das Hoheitsgebiet der Vertragsparteien bedarf ebenfalls einer Konzession (Genehmigung).
 
@@ -89,19 +95,25 @@ Die Heimatbehörde übersendet eine Ausfertigung des Antrages an die zuständige
 
 ## Artikel 4
 
-### Kabotage
+**Kabotage**
+
+### Art. 4
 
 Die Konzessionen (Genehmigungen) für den internationalen Kraftfahrlinienverkehr berechtigen nur zur grenzüberschreitenden Personenbeförderung. Die Bedienung des Lokalverkehrs (Kabotage) im Hoheitsgebiet der anderen Vertragspartei bedarf einer gesonderten Konzession (Genehmigung).
 
 ## Artikel 5
 
-### Einhaltung nationaler Rechtsvorschriften
+**Einhaltung nationaler Rechtsvorschriften**
+
+### Art. 5
 
 Die Unternehmer sind verpflichtet, beim Betrieb des Kraftfahrlinienverkehrs alle einschlägigen innerstaatlichen Rechtsvorschriften zu beachten.
 
 ## Artikel 6
 
-### Zurücknahme der Konzession (Genehmigung)
+**Zurücknahme der Konzession (Genehmigung)**
+
+### Art. 6
 
 (1) Die zuständige Behörde kann die Konzession (Genehmigung) nach den nationalen Vorschriften zurücknehmen, insbesondere wenn der Unternehmer den Betrieb zu dem ihm vorgeschriebenen Zeitpunkt nicht aufnimmt, oder die Kraftfahrlinie trotz mindestens zweimaliger schriftlicher Verwarnung nicht den gesetzlichen Vorschriften und den Konzessions(Genehmigungs)Bedingungen entsprechend betreibt.
 
@@ -109,7 +121,9 @@ Die Unternehmer sind verpflichtet, beim Betrieb des Kraftfahrlinienverkehrs alle
 
 ## Artikel 7
 
-### Auslegung des Abkommens und Abhaltung von Kraftfahrlinienkonferenzen
+**Auslegung des Abkommens und Abhaltung von Kraftfahrlinienkonferenzen**
+
+### Art. 7
 
 (1) Die zuständigen Behörden der Vertragsparteien regeln alle Fragen, die sich bei der Auslegung und Anwendung dieses Abkommens ergeben.
 
@@ -131,7 +145,9 @@ Die Unternehmer sind verpflichtet, beim Betrieb des Kraftfahrlinienverkehrs alle
 
 ## Artikel 8
 
-### Fahrpläne
+**Fahrpläne**
+
+### Art. 8
 
 (1) Fahrpläne und Beförderungspreise werden für die Dauer eines Jahres genehmigt und sind auf Kosten des Unternehmers in gleichartigen offiziellen Veröffentlichungen (Kursbüchern) zu verlautbaren. Werden Kraftfahrlinienverkehre reziprok betrieben, so kann vereinbart werden, dass jeder Reziprokpartner vorläufig die Kosten der Veröffentlichung des gesamten Fahrplanbildes der Kraftfahrlinie im nationalen Kursbuch übernimmt und den auf den anderen Reziprokpartner entfallenden Anteil mit diesem verrechnet.
 
@@ -139,19 +155,25 @@ Die Unternehmer sind verpflichtet, beim Betrieb des Kraftfahrlinienverkehrs alle
 
 ## Artikel 9
 
-### Gebühren
+**Gebühren**
+
+### Art. 9
 
 Hinsichtlich der Vorschreibung von Gebühren und Abgaben gelten jeweils die innerstaatlichen Vorschriften.
 
 ## Artikel 10
 
-### Ausstellung von Dauerfreifahrtausweisen
+**Ausstellung von Dauerfreifahrtausweisen**
+
+### Art. 10
 
 Zum Zwecke der Ausübung der Aufsicht stellen die Unternehmer auf Grund dieses Abkommens jeder zuständigen Behörde zwei nicht auf Namen lautende Dauerfreifahrtausweise unentgeltlich zur Verfügung.
 
 ## Artikel 11
 
-### In-Kraft-Treten
+**In-Kraft-Treten**
+
+### Art. 11
 
 (1) Dieses Abkommen tritt am Tag der Unterzeichnung in Kraft.
 
@@ -159,7 +181,9 @@ Zum Zwecke der Ausübung der Aufsicht stellen die Unternehmer auf Grund dieses A
 
 ## Artikel 12
 
-### Vertragsdauer
+**Vertragsdauer**
+
+### Art. 12
 
 Dieses Abkommen bleibt bis zur Kündigung durch eine der beiden Vertragsparteien in Kraft. Es kann nur unter Einhaltung einer sechsmonatigen Kündigungsfrist zum 1. Jänner schriftlich gekündigt werden.
 

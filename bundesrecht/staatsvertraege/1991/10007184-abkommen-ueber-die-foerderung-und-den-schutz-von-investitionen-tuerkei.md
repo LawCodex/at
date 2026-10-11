@@ -33,7 +33,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -61,7 +63,9 @@ b) jede juristische Person, Organisation oder Vereinigung, die gemäß den Geset
 
 ## Artikel 2
 
-### Förderung und Schutz von Investitionen
+**Förderung und Schutz von Investitionen**
+
+### Art. 2
 
 (1) Jede Vertragspartei fördert nach Möglichkeit in ihrem Hoheitsgebiet Investitionen der Investoren der anderen Vertragspartei, läßt diese in Übereinstimmung mit ihren Rechtsvorschriften zu und behandelt sie in jedem Fall gerecht und billig.
 
@@ -69,7 +73,9 @@ b) jede juristische Person, Organisation oder Vereinigung, die gemäß den Geset
 
 ## Artikel 3
 
-### Behandlung von Investitionen
+**Behandlung von Investitionen**
+
+### Art. 3
 
 (1) Jede Vertragspartei behandelt Investitionen von Investoren der anderen Vertragspartei, die in ihrem Hoheitsgebiet nach Einhaltung aller für ihre Einrichtung und Nutzung geltenden Rechtsvorschriften begründet worden sind, nicht weniger günstig als Investitionen eigener Investoren oder von Investoren dritter Staaten.
 
@@ -85,7 +91,9 @@ c) Regelungen zur Erleichterung des Grenzverkehrs.
 
 ## Artikel 4
 
-### Entschädigung
+**Entschädigung**
+
+### Art. 4
 
 (1) Investitionen von Investoren einer Vertragspartei dürfen im Hoheitsgebiet der anderen Vertragspartei nur im öffentlichen Interesse, auf Grund eines rechtmäßigen Verfahrens und gegen Entschädigung enteignet werden. Die Entschädigung muß dem Wert der Investition zu dem Zeitpunkt entsprechen, in dem die tatsächliche Maßnahme der Enteignung gesetzt oder die drohende Enteignung öffentlich bekannt wurde. Die Entschädigung muß ohne ungebührliche Verzögerung geleistet werden und ist bis zum Zeitpunkt der Zahlung zu verzinsen; sie muß tatsächlich verwertbar und frei transferierbar sein. Spätestens im Zeitpunkt der Enteignung muß in geeigneter Weise für die Festsetzung und Leistung der Entschädigung Vorsorge getroffen sein.
 
@@ -95,13 +103,17 @@ c) Regelungen zur Erleichterung des Grenzverkehrs.
 
 ## Artikel 5
 
-### Verluste
+**Verluste**
+
+### Art. 5
 
 Investoren einer Vertragspartei, die im Hoheitsgebiet der anderen Vertragspartei durch Krieg, andere bewaffnete Auseinandersetzungen, Ausnahmezustand oder andere vergleichbare Ereignisse Verluste an ihren Investitionen erleiden, werden von dieser anderen Vertragspartei hinsichtlich aller Maßnahmen, die sie in diesem Zusammenhang trifft, nicht weniger günstig behandelt als eigene Investoren oder Investoren dritter Staaten.
 
 ## Artikel 6
 
-### Überweisungen
+**Überweisungen**
+
+### Art. 6
 
 (1) Jede Vertragspartei gewährleistet den Investoren der anderen Vertragspartei ohne ungebührliche Verzögerung den freien Transfer in frei konvertierbarer Währung der im Zusammenhang mit einer Investition stehenden Zahlungen, insbesondere,
 
@@ -121,7 +133,9 @@ d) einer Entschädigung gemäß Artikel 4 Absatz 1.
 
 ## Artikel 7
 
-### Eintrittsrecht
+**Eintrittsrecht**
+
+### Art. 7
 
 (1) Besteht für die Investitionen eines Investors einer Vertragspartei im Hoheitsgebiet der anderen Vertragspartei eine Garantie gegen nicht wirtschaftliche Risken auf Grund eines durch Gesetz geschaffenen Systems, erkennt diese andere Vertragspartei jedes Eintrittsrecht des Garantiegebers in die Rechte des genannten Investors gemäß den Bestimmungen dieser Garantie unbeschadet der Rechte des Investors aus Artikel 9 dieses Abkommens an.
 
@@ -131,13 +145,17 @@ d) einer Entschädigung gemäß Artikel 4 Absatz 1.
 
 ## Artikel 8
 
-### Andere Verpflichtungen
+**Andere Verpflichtungen**
+
+### Art. 8
 
 Jede Vertragspartei hält jede vertragliche Verpflichtung ein, die sie gegenüber Investoren der anderen Vertragspartei in bezug auf von ihr genehmigte Investitionen in ihrem Hoheitsgebiet übernommen hat.
 
 ## Artikel 9
 
-### Beilegung von Investitionsstreitigkeiten
+**Beilegung von Investitionsstreitigkeiten**
+
+### Art. 9
 
 (1) Für die Zwecke dieses Artikels bedeutet Investitionsstreitigkeit eine Meinungsverschiedenheit, in der berührt werden:
 
@@ -159,7 +177,9 @@ b) Schiedsverfahren über solche Meinungsverschiedenheiten werden gemäß den Be
 
 ## Artikel 10
 
-### Streitigkeiten zwischen den Vertragsparteien
+**Streitigkeiten zwischen den Vertragsparteien**
+
+### Art. 10
 
 (1) Meinungsverschiedenheiten zwischen den Vertragsparteien über die Auslegung oder Anwendung dieses Abkommens sollen, soweit wie möglich, durch direkte und sinnvolle Verhandlungen beigelegt werden.
 
@@ -181,13 +201,17 @@ b) Schiedsverfahren über solche Meinungsverschiedenheiten werden gemäß den Be
 
 ## Artikel 11
 
-### Anwendung dieses Abkommens
+**Anwendung dieses Abkommens**
+
+### Art. 11
 
 Dieses Abkommen gilt für Investitionen, die Investoren der einen Vertragspartei in Übereinstimmung mit den Rechtsvorschriften der anderen Vertragspartei in deren Hoheitsgebiet sowohl vor als auch nach dem Inkrafttreten dieses Abkommens vorgenommen haben.
 
 ## Artikel 12
 
-### Inkrafttreten und Dauer
+**Inkrafttreten und Dauer**
+
+### Art. 12
 
 (1) Dieses Abkommen bedarf der Ratifikation und tritt am ersten Tage des dritten Monats in Kraft, der auf den Monat folgt, in welchem die Ratifikationsurkunden ausgetauscht worden sind.
 

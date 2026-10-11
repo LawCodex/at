@@ -39,7 +39,9 @@ sind über nachstehende Bestimmungen übereingekommen:
 
 ## Artikel 1.
 
-### Heimbeförderung der ehemaligen Kriegsgefangenen und Zivilinternierten.
+**Heimbeförderung der ehemaligen Kriegsgefangenen und Zivilinternierten.**
+
+### Art. 1
 
 Die vertragschließenden Regierungen übernehmen die Verpflichtung, die Heimbeförderung der noch nicht heimgeschafften Kriegsgefangenen und Zivilinternierten mit größter Beschleunigung durchzuführen.
 
@@ -55,7 +57,9 @@ Solche ehemalige Kriegsgefangene und Zivilinternierte, die wieder in den Hoheits
 
 ## Artikel 2.
 
-### Lebenshaltung.
+**Lebenshaltung.**
+
+### Art. 2
 
 Jeder der Vertragsteile verpflichtet sich:
 
@@ -75,7 +79,9 @@ Bei ohne Wissen der Vertretung in Spitälern abgegebenen Kranken besteht die geg
 
 ## Artikel 3.
 
-### Nachforschungen.
+**Nachforschungen.**
+
+### Art. 3
 
 Die beiderseitigen Vertretungen sind befugt, Nachforschungen nach Vermißten und Verstorbenen anzustellen sowie Todesurkunden und Mitteilungen über Grabstätten zu beschaffen.
 
@@ -87,7 +93,9 @@ Die Instandhaltung der Grabstätten übernimmt die Regierung des betreffenden St
 
 ## Artikel 4.
 
-### Begriff Kriegsgefangener und Zivilinternierter.
+**Begriff Kriegsgefangener und Zivilinternierter.**
+
+### Art. 4
 
 Kriegsgefangene im Sinne des Kopenhagener und des gegenwärtigen Abkommens sind Angehörige der ehemaligen russischen, beziehungsweise österreichisch-ungarischen Armee, einschließlich der Mitglieder der früheren humanitären Missionen, die sich seit ihrer Gefangennahme ununterbrochen auf dem Gebiete des anderen vertragschließenden Teiles aufhalten und von den Behörden an ihrer Rückkehr behindert, beziehungsweise in ihrer Freiheit beschränkt waren.
 
@@ -97,7 +105,9 @@ In zweifelhaften Fällen wird eine Entscheidung zwischen der beteiligten Vertret
 
 ## Artikel 5.
 
-### Eigentumsrechte der ehemaligen Kriegsgefangenen und Zivilinternierten.
+**Eigentumsrechte der ehemaligen Kriegsgefangenen und Zivilinternierten.**
+
+### Art. 5
 
 Vorbehaltlich einer grundsätzlichen Regelung der Eigentumsrechte der Staatsangehörigen der vertragschließenden Teile wird Nachstehendes über das persönliche, dem eigenen Bedarf dienende, auch den Hausrat umfassende Privateigentum (weiter nur Eigentum genannt) vorläufig vereinbart:
 
@@ -117,7 +127,9 @@ Soweit ein den Kommissionen vorgelegter Antrag sich auf greifbares Eigentum bezi
 
 ## Artikel 9.
 
-### Registrierung.
+**Registrierung.**
+
+### Art. 9
 
 Die Zusammenstellung der Transportlisten der Heimkehrer bewerkstelligen die zuständigen Stellen des Aufenthaltsstaates.
 
@@ -127,13 +139,17 @@ Die Kriegsgefangenen und Zivilinternierten besitzen innerhalb der bestehenden al
 
 ## Artikel 10.
 
-### Mitnahme von Familienmitgliedern.
+**Mitnahme von Familienmitgliedern.**
+
+### Art. 10
 
 Den auf Grund des Kopenhagener Vertrages heimkehrenden Personen steht das Recht zu, gleichzeitig ihre Familie mitzunehmen, das sind: die Frau, wenn sie in gemeinsamem Haushalt mit ihrem Manne lebt, und die Kinder.
 
 ## Artikel 11.
 
-### Entsendung von Organen zur Nachforschung.
+**Entsendung von Organen zur Nachforschung.**
+
+### Art. 11
 
 Zum Zwecke der Fürsorge für Kriegsgefangene und Zivilinternierte, der Nachforschungen nach Vermißten, beziehungsweise Erhebungen nach Verstorbenen ist die Entsendung von Vertretungsorganen oder Bevollmächtigten, sowie die Mitnahme von Fürsorgezwecken dienenden Material durch diese nach vorher gepflogenem Einvernehmen mit der kompetenten Regierungsstelle gestattet. Werden bei dieser Gelegenheit eigene Staatsangehörige aufgefunden, so können diese Delegierten deren Heimtransport durch die zuständigen staatlichen Stellen veranlassen.
 
@@ -141,7 +157,9 @@ Zur Erleichterung der Aufgabe der Vertretungen verpflichten sich die vertragschl
 
 ## Artikel 12.
 
-### Rückschaffung der Kriegsgefangenen.
+**Rückschaffung der Kriegsgefangenen.**
+
+### Art. 12
 
 Die Rückschaffung der österreichischen Kriegsgefangenen und Zivilinternierten geschieht auf den derzeit bestehenden, beziehungsweise etwa neu zu eröffnenden See- und Landwegen.
 

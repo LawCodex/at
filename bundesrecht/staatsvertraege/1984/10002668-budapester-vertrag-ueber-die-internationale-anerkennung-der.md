@@ -76,13 +76,17 @@ Der Nationalrat hat in seiner Sitzung vom 14. Dezember 1983 folgende Beschlüsse
 
 ### Artikel 1
 
-#### Bildung eines Verbands
+**Bildung eines Verbands**
+
+#### Art. 1
 
 Die Staaten, die Vertragsparteien dieses Vertrags sind (im folgenden als „Vertragsstaaten“ bezeichnet), bilden einen Verband zur internationalen Anerkennung der Hinterlegung von Mikroorganismen für die Zwecke von Patentverfahren.
 
 ## Artikel 2
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 2
 
 Im Sinne dieses Vertrags und der Ausführungsordnung
 
@@ -120,7 +124,9 @@ xv) bedeutet „Ausführungsordnung“ die Ausführungsordnung, auf die in Artik
 
 ### MATERIELLRECHTLICHE BESTIMMUNGEN — Artikel 3
 
-#### Anerkennung und Wirkung der Hinterlegung von Mikroorganismen
+**Anerkennung und Wirkung der Hinterlegung von Mikroorganismen**
+
+#### Art. 3
 
 (1) a) Vertragsstaaten, die die Hinterlegung von Mikroorganismen für die Zwecke von Patentverfahren zulassen oder verlangen, erkennen für diese Zwecke die Hinterlegung eines Mikroorganismus bei jeder internationalen Hinterlegungsstelle an. Diese Anerkennung schließt die Anerkennung der Tatsache und des Zeitpunkts der Hinterlegung, wie sie von der internationalen Hinterlegungsstelle angegeben sind, sowie die Anerkennung der Tatsache ein, daß die gelieferte Probe eine Probe des hinterlegten Mikroorganismus ist.
 
@@ -132,7 +138,9 @@ b) Jeder Vertragsstaat kann eine Abschrift der von der internationalen Hinterleg
 
 ## Artikel 4
 
-#### Erneute Hinterlegung
+**Erneute Hinterlegung**
+
+#### Art. 4
 
 (1) a) Kann eine internationale Hinterlegungsstelle Proben des hinterlegten Mikroorganismus aus irgendeinem Grund nicht abgeben, insbesondere
 
@@ -158,13 +166,17 @@ e) Ist Buchstabe b Ziffer i anwendbar und geht die unter Buchstabe a genannte Mi
 
 ## Artikel 5
 
-#### Aus- und Einfuhrbeschränkungen
+**Aus- und Einfuhrbeschränkungen**
+
+#### Art. 5
 
 Jeder Vertragsstaat erkennt an, daß es besonders wünschenswert ist, daß eine etwaige Beschränkung der Aus- oder Einfuhr bestimmter Arten von Mikroorganismen aus seinem oder in sein Hoheitsgebiet für nach diesem Vertrag hinterlegte oder für die Hinterlegung bestimmte Mikroorganismen nur dann gelten soll, wenn die Beschränkung im Hinblick auf die nationale Sicherheit oder die Gefahren für Gesundheit oder Umwelt notwendig ist.
 
 ## Artikel 6
 
-#### Status einer internationalen Hinterlegungsstelle
+**Status einer internationalen Hinterlegungsstelle**
+
+#### Art. 6
 
 (1) Als Voraussetzung für den Status einer internationalen Hinterlegungsstelle muß eine Hinterlegungsstelle im Hoheitsgebiet eines Vertragsstaats belegen sein und eine von diesem Staat zu ihren Gunsten abgegebene Versicherung erhalten haben, daß diese Stelle die in Absatz 2 genannten Erfordernisse erfüllt und weiterhin erfüllen wird. Diese Versicherung kann auch von einer zwischenstaatlichen Organisation für gewerbliches Eigentum abgegeben werden; in diesem Fall muß die Hinterlegungsstelle im Hoheitsgebiet eines Mitgliedsstaats dieser Organisation belegen sein.
 
@@ -194,7 +206,9 @@ ii) für den Fall der Beendigung oder Einschränkung des Status einer internatio
 
 ## Artikel 7
 
-#### Erwerb des Status einer internationalen Hinterlegungsstelle
+**Erwerb des Status einer internationalen Hinterlegungsstelle**
+
+#### Art. 7
 
 (1) a) Eine Hinterlegungsstelle erwirbt den Status einer internationalen Hinterlegungsstelle auf Grund einer von dem Vertragsstaat, in dessen Hoheitsgebiet die Hinterlegungsstelle belegen ist, an den Generaldirektor gerichteten schriftlichen Mitteilung, die eine Erklärung mit der Versicherung einschließt, daß die genannte Stelle die in Artikel 6 Absatz 2 genannten Anforderungen erfüllt und weiterhin erfüllen wird. Dieser Status kann auch auf Grund einer von einer zwischenstaatlichen Organisation für gewerbliches Eigentum an den Generaldirektor gerichteten schriftlichen Mitteilung erworben werden, welche die oben erwähnte Erklärung einschließt.
 
@@ -208,7 +222,9 @@ b) Der Status einer internationalen Hinterlegungsstelle wird zum Zeitpunkt der V
 
 ## Artikel 8
 
-#### Beendigung und Einschränkung des Status einer internationalen Hinterlegungsstelle
+**Beendigung und Einschränkung des Status einer internationalen Hinterlegungsstelle**
+
+#### Art. 8
 
 (1) a) Jeder Vertragsstaat oder jede zwischenstaatliche Organisation für gewerbliches Eigentum kann die Versammlung ersuchen, einer Stelle den Status einer internationalen Hinterlegungsstelle zu entziehen oder ihn auf bestimmte Arten von Mikroorganismen zu beschränken mit der Begründung, daß die in Artikel 6 angegebenen Erfordernisse nicht erfüllt wurden oder nicht mehr erfüllt sind. Dieser Antrag kann jedoch nicht von einem Vertragsstaat oder einer zwischenstaatlichen Organisation für gewerbliches Eigentum im Hinblick auf eine internationale Hinterlegungsstelle gestellt werden, für die dieser Staat oder diese Organisation die in Artikel 7 Absatz 1 Buchstabe a genannte Erklärung abgegeben hat.
 
@@ -224,7 +240,9 @@ b) Die Mitteilung hat von dem in der Ausführungsordnung vorgesehenen Zeitpunkt 
 
 ## Artikel 9
 
-#### Zwischenstaatliche Organisationen für gewerbliches Eigentum
+**Zwischenstaatliche Organisationen für gewerbliches Eigentum**
+
+#### Art. 9
 
 (1) a) Jede zwischenstaatliche Organisation, die von mehreren Staaten mit der Erteilung regionaler Patente beauftragt worden ist und deren sämtliche Mitgliedstaaten dem Internationalen (Pariser) Verband zum Schutz des gewerblichen Eigentums angehören, kann beim Generaldirektor eine Erklärung einreichen, daß sie die in Artikel 3 Absatz 1 Buchstabe a vorgesehene Anerkennungsverpflichtung, die Verpflichtung betreffend die in Artikel 3 Absatz 2 vorgesehenen Erfordernisse sowie alle Wirkungen der auf zwischenstaatliche Organisationen für gewerbliches Eigentum anwendbaren Bestimmungen dieses Vertrags und der Ausführungsordnung anerkennt. Wird die in Satz 1 bezeichnete Erklärung vor Inkrafttreten dieses Vertrags nach Artikel 16 Absatz 1 eingereicht, so wird sie im Zeitpunkt des Inkrafttretens wirksam. Wird diese Erklärung nach dem Inkrafttreten eingereicht, so wird sie drei Monate nach ihrer Einreichung wirksam, soweit in der Erklärung nicht ein späterer Zeitpunkt angegeben ist. Im letzteren Fall tritt die Erklärung zu dem auf dieses Weise angegebenen Zeitpunkt in Kraft.
 
@@ -246,7 +264,9 @@ ii) wenn die Mitteilung nach dem unter Ziffer i genannten Zeitpunkt eingeht, zu 
 
 ### VERWALTUNGSBESTIMMUNGEN — Artikel 10
 
-#### Versammlung
+**Versammlung**
+
+#### Art. 10
 
 (1) a) Die Versammlung setzt sich aus den Vertragsstaaten zusammen.
 
@@ -296,7 +316,9 @@ b) Die Versammlung tritt nach Einberufung durch den Generaldirektor zu einer au�
 
 ## Artikel 11
 
-#### Internationales Büro
+**Internationales Büro**
+
+#### Art. 11
 
 (1) Das Internationale Büro
 
@@ -322,7 +344,9 @@ d) Der Generaldirektor oder ein von ihm bestimmtes Mitglied des Personals ist vo
 
 ## Artikel 12
 
-#### Ausführungsordnung
+**Ausführungsordnung**
+
+#### Art. 12
 
 (1) Die Ausführungsordnung enthält Regeln über
 
@@ -346,7 +370,9 @@ b) Für die Annahme einer Änderung betreffend die Abgabe von Proben hinterlegte
 
 ### REVISION UND ÄNDERUNG — Artikel 13
 
-#### Revision des Vertrags
+**Revision des Vertrags**
+
+#### Art. 13
 
 (1) Dieser Vertrag kann von Zeit zu Zeit von Konferenzen der Vertragsstaaten Revisionen unterzogen werden.
 
@@ -356,7 +382,9 @@ b) Für die Annahme einer Änderung betreffend die Abgabe von Proben hinterlegte
 
 ## Artikel 14
 
-#### Änderung einzelner Bestimmungen des Vertrags
+**Änderung einzelner Bestimmungen des Vertrags**
+
+#### Art. 14
 
 (1) a) Vorschläge nach diesem Artikel zur Änderung der Artikel 10 und 11 können von jedem Vertragsstaat oder vom Generaldirektor unterbreitet werden.
 
@@ -376,7 +404,9 @@ c) Jede angenommene und nach Buchstabe a in Kraft getretene Änderung bindet all
 
 ### SCHLUSSBESTIMMUNGEN — Artikel 15
 
-#### Möglichkeiten, Vertragspartei zu werden
+**Möglichkeiten, Vertragspartei zu werden**
+
+#### Art. 15
 
 (1) Jeder Mitgliedstaat des Internationalen (Pariser) Verbands zum Schutz des gewerblichen Eigentums kann Vertragspartei dieses Vertrags werden durch
 
@@ -388,7 +418,9 @@ ii) Hinterlegung einer Beitrittsurkunde.
 
 ## Artikel 16
 
-#### Inkrafttreten des Vertrags
+**Inkrafttreten des Vertrags**
+
+#### Art. 16
 
 (1) Der Vertrag tritt für die ersten fünf Staaten, die ihre Ratifikations- oder Beitrittsurkunden hinterlegt haben, drei Monate nach dem Zeitpunkt in Kraft, zu dem die fünfte Ratifikations- oder Beitrittsurkunde hinterlegt worden ist.
 
@@ -396,7 +428,9 @@ ii) Hinterlegung einer Beitrittsurkunde.
 
 ## Artikel 17
 
-#### Kündigung des Vertrags
+**Kündigung des Vertrags**
+
+#### Art. 17
 
 (1) Jeder Vertragsstaat kann diesen Vertrag durch eine an den Generaldirektor gerichtete Notifikation kündigen.
 
@@ -422,7 +456,9 @@ c) Amtliche Texte dieses Vertrags werden vom Generaldirektor nach Beratung mit d
 
 ### Hinterlegung des Vertrags; — Übermittlung von Abschriften;
 
-#### Registrierung des Vertrags
+**Registrierung des Vertrags**
+
+#### Art. 19
 
 (1) Die Urschrift dieses Vertrags wird, wenn sie nicht mehr zur Unterzeichnung aufliegt, beim Generaldirektor hinterlegt.
 
@@ -434,7 +470,9 @@ c) Amtliche Texte dieses Vertrags werden vom Generaldirektor nach Beratung mit d
 
 ## Artikel 20
 
-#### Notifikationen
+**Notifikationen**
+
+#### Art. 20
 
 Der Generaldirektor notifiziert den Vertragsstaaten, den zwischenstaatlichen Organisationen für gewerbliches Eigentum und denjenigen Staaten, die dem Verband nicht angehören, jedoch Mitglieder des Internationalen (Pariser) Verbands zum Schutz des gewerblichen Eigentums sind,
 

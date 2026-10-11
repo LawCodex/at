@@ -116,7 +116,9 @@ HABEN folgendes VEREINBART:
 
 ## ARTIKEL I
 
-### Errichtung und Status
+**Errichtung und Status**
+
+### Art. 1
 
 1\. Die Akademie wird hiermit als Internationale Organisation errichtet.
 
@@ -136,7 +138,9 @@ HABEN folgendes VEREINBART:
 
 ## ARTIKEL II
 
-### Zweck und Tätigkeiten
+**Zweck und Tätigkeiten**
+
+### Art. 2
 
 1\. Der Zweck der Akademie ist die Förderung von effektiver und effizienter Korruptionsprävention und Korruptionsbekämpfung durch:
 
@@ -152,7 +156,9 @@ HABEN folgendes VEREINBART:
 
 ## ARTIKEL III
 
-### Sitz
+**Sitz**
+
+### Art. 3
 
 1\. Der Sitz der Akademie ist Laxenburg, Österreich, im Einklang mit den zwischen der Akademie und der Republik Österreich vereinbarten Bedingungen.
 
@@ -160,7 +166,9 @@ HABEN folgendes VEREINBART:
 
 ## ARTIKEL IV
 
-### Organe
+**Organe**
+
+### Art. 4
 
 Die Akademie besitzt
 
@@ -176,7 +184,9 @@ Die Akademie besitzt
 
 ## ARTIKEL V
 
-### Versammlung der Vertragsparteien
+**Versammlung der Vertragsparteien**
+
+### Art. 5
 
 1\. Die Versammlung dient als Forum für die Vertragsparteien, um über die allgemeine Politik der Akademie und über weitere Angelegenheiten, die im Zusammenhang mit diesem Übereinkommen von Interesse sind, zu beraten.
 
@@ -204,7 +214,9 @@ Die Akademie besitzt
 
 ## ARTIKEL VI
 
-### Gouverneursrat
+**Gouverneursrat**
+
+### Art. 6
 
 1\. Die Akademie wird von einem Rat geleitet, der aus insgesamt elf Mitgliedern besteht. Neun Mitglieder werden von der Versammlung unter Berücksichtigung ihrer Qualifikationen und Erfahrung sowie des Prinzips der ausgewogenen geographischen Verteilung gewählt,. Zusätzlich sind UNODC und die Republik Österreich berechtigt, jeweils ein Mitglied zu ernennen. Die Mitglieder des Rates sind in ihrer persönlichen Eigenschaft für eine Amtsperiode von sechs Jahren tätig und können nicht öfter als einmal wiedergewählt bzw. wiederbestellt werden. Bei der ersten Wahl werden fünf Mitglieder für eine Amtsperiode von nur drei Jahren gewählt.
 
@@ -244,7 +256,9 @@ Die Akademie besitzt
 
 ## ARTIKEL VII
 
-### Der Internationale Leitende Beirat
+**Der Internationale Leitende Beirat**
+
+### Art. 7
 
 1\. Der Rat wird vom Internationalen Leitenden Beirat beraten, der aus bis zu fünfzehn Mitgliedern besteht, die bedeutende Persönlichkeiten mit herausragenden Qualifikationen sind und breitgefächerte berufliche Hintergründe haben, die für die Tätigkeiten der Akademie von Bedeutung sind.
 
@@ -258,7 +272,9 @@ Die Akademie besitzt
 
 ## ARTIKEL VIII
 
-### Der Internationale Akademische Beirat
+**Der Internationale Akademische Beirat**
+
+### Art. 8
 
 1\. Der Rat wird im Zusammenhang mit Ausbildung, Training und Forschung vom Internationalen Akademischen Beirat beraten, der aus bis zu fünfzehn Mitgliedern besteht; diese sind bedeutende akademische Persönlichkeiten oder Experten höchster Qualifikation in den Bereichen Anti-Korruptionspraxis, –training und –forschung und/oder Strafjustiz und Strafverfolgung mit Bezug auf Korruptionsbekämpfung, sowie in anderen Bereichen, die für die Tätigkeiten der Akademie von Bedeutung sind.
 
@@ -270,7 +286,9 @@ Die Akademie besitzt
 
 ## ARTIKEL IX
 
-### Dekan
+**Dekan**
+
+### Art. 9
 
 1\. Der Dekan ist für das Tagesgeschäft und das inhaltliche Programm der Akademie verantwortlich. Der Dekan berichtet dem Rat und ist diesem gegenüber rechenschaftspflichtig.
 
@@ -298,7 +316,9 @@ Die Akademie besitzt
 
 ## ARTIKEL X
 
-### Wissenschaftliche und administrative Mitarbeiter
+**Wissenschaftliche und administrative Mitarbeiter**
+
+### Art. 10
 
 1\. Die Akademie bemüht sich, wissenschaftliche und administrative Mitarbeiter mit den höchstmöglichen Qualifikationen einzustellen und zu erhalten.
 
@@ -306,7 +326,9 @@ Die Akademie besitzt
 
 ## ARTIKEL XI
 
-### Finanzierung der Akademie
+**Finanzierung der Akademie**
+
+### Art. 11
 
 1\. Ungeachtet des langfristigen Ziels der Akademie, selbsterhaltend zu sein, beinhalten die Ressourcen der Akademie folgendes:
 
@@ -326,7 +348,9 @@ Die Akademie besitzt
 
 ## ARTIKEL XII
 
-### Beratung und Informationsaustausch
+**Beratung und Informationsaustausch**
+
+### Art. 12
 
 1\. Die Vertragsparteien unterrichten einander und beraten über Angelegenheiten, die im Zusammenhang mit diesem Übereinkommen von Interesse sind, entweder anlässlich der Sitzungen der Versammlung oder zu anderen entsprechenden Zeitpunkten.
 
@@ -334,13 +358,17 @@ Die Akademie besitzt
 
 ## ARTIKEL XIII
 
-### Kooperationsbeziehungen
+**Kooperationsbeziehungen**
+
+### Art. 13
 
 Die Akademie kann Kooperationsbeziehungen mit Staaten, anderen Internationalen Organisationen sowie mit öffentlichen oder privaten Einrichtungen aufbauen, die zur Arbeit der Akademie beitragen können.
 
 ## ARTIKEL XIV
 
-### Privilegien und Immunitäten
+**Privilegien und Immunitäten**
+
+### Art. 14
 
 1\. Die Akademie, die Mitglieder der Versammlung, die Mitglieder des Rates, die Mitglieder des Internationalen Leitenden Beirates und des Internationalen Akademischen Beirates, der Dekan, die Mitarbeiter und Experten genießen solche Privilegien und Immunitäten, wie zwischen der Akademie und der Republik Österreich vereinbart.
 
@@ -348,19 +376,25 @@ Die Akademie kann Kooperationsbeziehungen mit Staaten, anderen Internationalen O
 
 ## ARTIKEL XV
 
-### Haftung
+**Haftung**
+
+### Art. 15
 
 Die Vertragsparteien haften nicht, weder einzeln noch gemeinsam, für Schulden, Verbindlichkeiten oder andere Verpflichtungen der Akademie; eine diesbezügliche Bestimmung wird in jedem Abkommen der Akademie gemäß Artikel XIV enthalten sein.
 
 ## ARTIKEL XVI
 
-### Änderungen
+**Änderungen**
+
+### Art. 16
 
 Dieses Übereinkommen kann nur mit Zustimmung aller Vertragsparteien geändert werden. Die Mitteilung dieser Zustimmung erfolgt schriftlich beim Depositär. Die Änderung tritt bei Erhalt der Mitteilungen aller Vertragsparteien durch den Depositär, oder an einem anderen von den Vertragsparteien vereinbarten Datum in Kraft.
 
 ## ARTIKEL XVII
 
-### Übergangsbestimmungen
+**Übergangsbestimmungen**
+
+### Art. 17
 
 1\. Die Vertragsparteien erkennen die Übergangsregelungen für die Errichtung und Inbetriebnahme der Akademie an, die im Memorandum betreffend die Errichtung der Internationalen Antikorruptionsakademie in Laxenburg, Österreich vom 29. Jänner 2010 enthalten sind und stimmen zu, diese zu respektieren bis die beschlussfassenden Organe der Akademie voll funktionsfähig sind.
 
@@ -368,7 +402,9 @@ Dieses Übereinkommen kann nur mit Zustimmung aller Vertragsparteien geändert w
 
 ## ARTIKEL XVIII
 
-### Inkrafttreten und Depositär
+**Inkrafttreten und Depositär**
+
+### Art. 18
 
 1\. Dieses Übereinkommen liegt für Mitgliedstaaten der Vereinten Nationen (im Folgenden „Staaten“ genannt) und zwischenstaatliche Organisationen (im Folgenden „Internationale Organisationen“ genannt) bis zum 31. Dezember 2010 zur Unterzeichnung auf. Es bedarf der Ratifizierung, Annahme oder Genehmigung.
 
@@ -382,7 +418,9 @@ Dieses Übereinkommen kann nur mit Zustimmung aller Vertragsparteien geändert w
 
 ## ARTIKEL XIX
 
-### Beilegung von Meinungsverschiedenheiten
+**Beilegung von Meinungsverschiedenheiten**
+
+### Art. 19
 
 Alle Meinungsverschiedenheiten zwischen der Akademie und einer Vertragspartei oder zwischen Vertragsparteien unter einander über die Auslegung oder Anwendung dieses Übereinkommens oder irgendeines Zusatzabkommens sowie alle Fragen, die die Akademie oder die Beziehungen der Vertragsparteien beeinträchtigen, welche nicht im Verhandlungswege oder nach einem anderen einvernehmlich festgelegten Verfahren beigelegt werden, sind zur endgültigen Entscheidung einem aus drei Schiedsrichtern zusammengesetzten Schiedsgericht zu unterbreiten:
 
@@ -390,7 +428,9 @@ von diesen ist jeweils einer von den Streitparteien und der dritte, der als Vors
 
 ## ARTIKEL XX
 
-### Rücktritt
+**Rücktritt**
+
+### Art. 20
 
 1\. Jede Vertragspartei kann von diesem Übereinkommen durch eine schriftliche Mitteilung an den Depositär zurücktreten. Der Rücktritt wird drei Monate nach Erhalt der Mitteilung durch den Depositär wirksam.
 
@@ -398,7 +438,9 @@ von diesen ist jeweils einer von den Streitparteien und der dritte, der als Vors
 
 ## ARTIKEL XXI
 
-### Beendigung
+**Beendigung**
+
+### Art. 21
 
 1\. Die Vertragsparteien können dieses Übereinkommen zu jeder Zeit einstimmig beenden und die Akademie durch eine schriftliche Mitteilung an den Depositär auflösen. Über die nach Erfüllung der rechtlichen Verbindlichkeiten bestehenden Vermögenswerte wird im Einklang mit einer einstimmigen Entscheidung der Versammlung verfügt.
 

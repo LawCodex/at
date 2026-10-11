@@ -33,13 +33,17 @@ IN ANBETRACHT dessen haben die Vereinten Nationen und die österreichische Bunde
 
 ## ARTIKEL I
 
-### Zeit und Ort der Konferenz
+**Zeit und Ort der Konferenz**
+
+### Art. 1
 
 Die internationale Konferenz für die unverzügliche Unabhängigkeit von Namibia (in der Folge als „die Konferenz“ bezeichnet) wird im Kongreßzentrum Hofburg in der Zeit vom 7. bis 11. Juli 1986 stattfinden.
 
 ## ARTIKEL II
 
-### Teilnahme an der Konferenz
+**Teilnahme an der Konferenz**
+
+### Art. 2
 
 1\. Die Teilnahme an der Konferenz steht auf Grund Benennung oder Einladung durch den Generalsekretär den folgenden Personen offen:
 
@@ -57,7 +61,9 @@ e) Vertretern der internationalen zwischenstaatlichen Organisationen, die zur Te
 
 ## ARTIKEL III
 
-### Konferenzort
+**Konferenzort**
+
+### Art. 3
 
 1\. Die Regierung wird Konferenzräumlichkeiten und Konferenzeinrichtungen im Kongreßzentrum Hofburg in dem für die Abhaltung der Konferenz nötigen Ausmaß kostenlos zur Verfügung stellen.
 
@@ -65,13 +71,17 @@ e) Vertretern der internationalen zwischenstaatlichen Organisationen, die zur Te
 
 ## ARTIKEL IV
 
-### Polizeischutz
+**Polizeischutz**
+
+### Art. 4
 
 Die Regierung wird auf ihre Kosten die Polizeikräfte zur Verfügung stellen, die erforderlich sind, um einen geordneten und in jeder Hinsicht ungestörten Ablauf der Konferenz zu gewährleisten. Diese Polizeikräfte stehen unter der direkten Aufsicht und Überwachung eines von der Regierung zu bestellenden höheren Polizeibeamten. Dieser wird mit dem Vertreter des Generalsekretärs für die Konferenz oder einem für diesen für den vorliegenden Zweck ernannten Beamten des Sekretariates eng zusammenarbeiten, um eine angemessene Atmosphäre von Sicherheit und Ruhe zu gewährleisten.
 
 ## ARTIKEL V
 
-### Privilegien und Immunitäten
+**Privilegien und Immunitäten**
+
+### Art. 5
 
 1\. Hinsichtlich der Konferenz werden die Bestimmungen betreffend Privilegien und Immunitäten des zwischen den Vereinten Nationen und der Republik Österreich über den Amtssitz der UNIDO am 13. April 1967 unterzeichneten Abkommens zur Anwendung gelangen; die Konvention über Privilegien und Immunitäten der Vereinten Nationen wird hierdurch nicht berührt.
 
@@ -87,13 +97,17 @@ Die Regierung wird auf ihre Kosten die Polizeikräfte zur Verfügung stellen, di
 
 ## ARTIKEL VI
 
-### Beilegung von Meinungsverschiedenheiten
+**Beilegung von Meinungsverschiedenheiten**
+
+### Art. 6
 
 Jegliche Meinungsverschiedenheit zwischen den Vereinten Nationen und der Regierung betreffend die Auslegung dieses Abkommens, die nicht durch Verhandlung oder eine andere Art der Streitschlichtung beigelegt werden kann, wird auf Verlangen einer der beiden Parteien zur endgültigen Entscheidung an ein Gericht von drei Schiedsrichtern verwiesen werden, von welchen einer vom Generalsekretär der Vereinten Nationen, einer von der Regierung ausgewählt und der dritte von diesen beiden oder, wenn sie sich innerhalb von 60 Tagen ab ihrer Ernennung nicht auf den dritten Schiedsrichter einigen können, vom Präsidenten des Internationalen Gerichtshofes benannt wird.
 
 ## ARTIKEL VII
 
-### Schlußbestimmungen
+**Schlußbestimmungen**
+
+### Art. 7
 
 1\. Dieses Abkommen kann durch schriftliche Vereinbarung zwischen den Vereinten Nationen und der Regierung abgeändert werden.
 

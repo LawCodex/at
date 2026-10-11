@@ -27,7 +27,9 @@ StF: BGBl. III Nr. 244/2013 (NR: GP XXIV RV 1906 AB 2351 S. 203. BR: AB 8986 S. 
 
 <sup>1</sup> Kundgemacht in BGBl. III Nr. 17/1998 idF BGBl. III Nr. 52/2010.
 
-### (Übersetzung)
+**(Übersetzung)**
+
+### Anl. 1
 
 **ÄNDERUNGSURKUNDE DER SATZUNG**
 
@@ -155,7 +157,9 @@ Geschehen zu Guadalajara, den 22. Oktober 2010
 
 ## ERKLÄRUNGEN UND VORBEHALTE
 
-### (Übersetzung)
+**(Übersetzung)**
+
+### Anl. 3
 
 **Zum Abschluss**
 

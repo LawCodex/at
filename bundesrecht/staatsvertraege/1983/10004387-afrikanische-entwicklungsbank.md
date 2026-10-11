@@ -67,7 +67,9 @@ Zweck der Bank ist es, zur nachhaltigen wirtschaftlichen Entwicklung und zum soz
 
 ## Artikel 2
 
-#### Aufgaben
+**Aufgaben**
+
+#### Art. 2
 
 (1) Zur Erfüllung ihres Zweckes hat die Bank die Aufgabe,
 

@@ -35,7 +35,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ### Artikel 1
 
-#### Definitionen
+**Definitionen**
+
+#### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -75,7 +77,9 @@ g) jedes sonstige Eigentum an körperlichen und unkörperlichen, beweglichen und
 
 ## Artikel 2
 
-#### Förderung und Zulassung von Investitionen
+**Förderung und Zulassung von Investitionen**
+
+#### Art. 2
 
 (1) Jede Vertragspartei fördert und lässt in Übereinstimmung mit ihren Gesetzen und Rechtsvorschriften Investitionen von Investoren der anderen Vertragspartei zu.
 
@@ -83,7 +87,9 @@ g) jedes sonstige Eigentum an körperlichen und unkörperlichen, beweglichen und
 
 ## Artikel 3
 
-#### Behandlung von Investitionen
+**Behandlung von Investitionen**
+
+#### Art. 3
 
 (1) Jede Vertragspartei gewährt Investitionen durch Investoren der anderen Vertragspartei eine gerechte und billige Behandlung sowie vollen und dauerhaften Schutz und Sicherheit.
 
@@ -99,7 +105,9 @@ b) einem internationalen Abkommen, einer internationalen Vereinbarung oder inner
 
 ## Artikel 4
 
-#### Transparenz
+**Transparenz**
+
+#### Art. 4
 
 (1) Jede Vertragspartei tut ihr Möglichstes, um ihre Gesetze, Rechtsvorschriften, Verfahren sowie internationale Vereinbarungen, die die Wirksamkeit dieses Abkommens beeinflussen können, unverzüglich zu veröffentlichen oder diese in anderer Form öffentlich zugänglich zu machen.
 
@@ -109,7 +117,9 @@ b) einem internationalen Abkommen, einer internationalen Vereinbarung oder inner
 
 ## Artikel 5
 
-#### Enteignung und Entschädigung
+**Enteignung und Entschädigung**
+
+#### Art. 5
 
 (1) Eine Vertragspartei darf Investitionen eines Investors der anderen Vertragspartei weder direkt noch indirekt enteignen oder verstaatlichen oder sonstige Maßnahmen mit gleicher Wirkung wie das Einfrieren oder Sperren von Vermögenswerten (im Folgenden „Enteignung“ genannt) ergreifen, ausgenommen
 
@@ -135,7 +145,9 @@ d) ist in ein von den betroffenen Anspruchswerbern bezeichnetes Land frei transf
 
 ## Artikel 6
 
-#### Entschädigung für Verluste
+**Entschädigung für Verluste**
+
+#### Art. 6
 
 (1) Ein Investor einer Vertragspartei, der im Zusammenhang mit seiner Investition im Hoheitsgebiet der anderen Vertragspartei auf Grund eines Krieges oder anderen bewaffneten Konfliktes, eines Notstands, einer Revolution, eines Aufstands, ziviler Unruhen oder eines sonstigen ähnlichen Ereignisses im Hoheitsgebiet der letztgenannten Vertragspartei einen Verlust erleidet, erfährt hinsichtlich Rückerstattung, Entschädigung, Schadenersatz oder anderer Regelung durch die letztgenannte Vertragspartei eine nicht weniger günstige Behandlung als jene, die sie ihren eigenen Investoren oder Investoren eines Drittstaates gewährt, je nachdem, welche die günstigere für den Investor ist.
 
@@ -149,7 +161,9 @@ erhält auf jeden Fall durch die letztgenannte Vertragspartei eine Rückerstattu
 
 ## Artikel 7
 
-#### Transfers
+**Transfers**
+
+#### Art. 7
 
 (1) Jede Vertragspartei garantiert, dass sämtliche Zahlungen in Zusammenhang mit einer Investition eines Investors der anderen Vertragspartei ohne Verzögerung in ihr und aus ihrem Hoheitsgebiet frei transferiert werden können. Diese Transfers umfassen insbesondere:
 
@@ -175,13 +189,17 @@ g) Einkünfte und andere Bezüge von Beschäftigten aus dem Ausland, die in Zusa
 
 ## Artikel 8
 
-#### Eintrittsrecht
+**Eintrittsrecht**
+
+#### Art. 8
 
 Leistet eine Vertragspartei oder eine von ihr hierzu ermächtigte Institution auf Grund einer Schadloshaltung, Garantie oder eines Versicherungsvertrages nach In-Kraft-Treten dieses Abkommens für eine Investition durch einen Investor im Hoheitsgebiet der anderen Vertragspartei eine Zahlung, so anerkennt die letztgenannte Vertragspartei unbeschadet der Rechte des Investors gemäß Artikel 10 die Übertragung aller Rechte und Ansprüche dieses Investors auf die erstgenannte Vertragspartei oder der von ihr hierzu ermächtigten Institution sowie das Recht der erstgenannten Vertragspartei oder der von ihr hierzu ermächtigten Institution, alle diese Rechte und Ansprüche auf Grund des Eintrittsrechts im gleichen Umfang wie ihr Rechtsvorgänger auszuüben. Artikel 13 ist anwendbar.
 
 ## Artikel 9
 
-#### Andere Verpflichtungen
+**Andere Verpflichtungen**
+
+#### Art. 9
 
 (1) Jede Vertragspartei hält jede Verpflichtung, die sie hinsichtlich spezieller Investitionen durch Investoren der anderen Vertragspartei eingegangen ist, ein.
 
@@ -191,7 +209,9 @@ Leistet eine Vertragspartei oder eine von ihr hierzu ermächtigte Institution au
 
 ### Artikel 10
 
-#### Beilegung von Streitigkeiten zwischen einem Investor und einer Vertragspartei
+**Beilegung von Streitigkeiten zwischen einem Investor und einer Vertragspartei**
+
+#### Art. 10
 
 (1) Streitigkeiten über Investitionen zwischen einer Vertragspartei und einem Investor der anderen Vertragspartei im Zusammenhang mit derartigen Investitionen im Hoheitsgebiet der letztgenannten Vertragspartei sind freundschaftlich beizulegen.
 
@@ -225,7 +245,9 @@ ii) einem Ad-hoc-Schiedsgericht, das, sofern die Streitparteien nicht etwas ande
 
 ## Artikel 11
 
-#### Beilegung von Streitigkeiten zwischen den Vertragsparteien
+**Beilegung von Streitigkeiten zwischen den Vertragsparteien**
+
+#### Art. 11
 
 (1) Streitigkeiten zwischen den Vertragsparteien über die Auslegung oder Anwendung dieses Abkommens werden, soweit wie möglich, auf freundschaftlichem Weg oder durch Konsultationen, Vermittlungs- oder Vergleichsverfahren beigelegt.
 
@@ -253,19 +275,25 @@ ii) einem Ad-hoc-Schiedsgericht, das, sofern die Streitparteien nicht etwas ande
 
 ### Artikel 12
 
-#### Anwendung des Abkommens
+**Anwendung des Abkommens**
+
+#### Art. 12
 
 Dieses Abkommen gilt für alle Investitionen, die vor oder nach dem In-Kraft-Treten dieses Abkommens vorgenommen wurden oder werden, nicht jedoch für Streitigkeiten im Zusammenhang mit einer Investition, die vor seinem In-Kraft-Treten entstanden sind bzw. Forderungen im Zusammenhang mit einer Investition, die vor seinem In-Kraft-Treten geregelt wurden.
 
 ## Artikel 13
 
-#### Konsultationen
+**Konsultationen**
+
+#### Art. 13
 
 Unbeschadet Artikel 8 und 10 kann jede Vertragspartei der anderen Vertragspartei Konsultationen über jede mit diesem Abkommen in Zusammenhang stehende Frage vorschlagen. Diese Konsultationen werden an einem Ort und zu einem Zeitpunkt, der auf diplomatischem Wege vereinbart wurde, abgehalten.
 
 ## Artikel 14
 
-#### In-Kraft-Treten und Dauer
+**In-Kraft-Treten und Dauer**
+
+#### Art. 14
 
 (1) Dieses Abkommen bedarf der Ratifikation und tritt am ersten Tag des dritten Monats in Kraft, der auf den Monat folgt, in dem die Ratifikationsurkunden ausgetauscht wurden.
 

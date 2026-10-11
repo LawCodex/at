@@ -145,7 +145,9 @@ HABEN BESCHLOSSEN, DIESES ABKOMMEN ZU SCHLIESSEN:
 
 ## ARTIKEL 1
 
-#### Grundsätze
+**Grundsätze**
+
+#### Art. 1
 
 (1) Die Wahrung der Grundsätze der Demokratie und die Achtung der Menschenrechte, wie sie in der Allgemeinen Erklärung der Menschenrechte der Vereinten Nationen niedergelegt sind, sowie die Wahrung des Rechtsstaatsprinzips sind Richtschnur der Innen- und der Außenpolitik der Vertragsparteien und wesentlicher Bestandteil dieses Abkommens.
 
@@ -155,7 +157,9 @@ HABEN BESCHLOSSEN, DIESES ABKOMMEN ZU SCHLIESSEN:
 
 ## ARTIKEL 2
 
-#### Ziele und Geltungsbereich
+**Ziele und Geltungsbereich**
+
+#### Art. 2
 
 (1) Mit diesem Abkommen wird auf der Grundlage der Gegenseitigkeit, des beiderseitigen Interesses und der Vertiefung der Beziehungen in allen Anwendungsbereichen eine politische und wirtschaftliche Assoziation zwischen den Vertragsparteien gegründet.
 
@@ -177,7 +181,9 @@ d) Ausweitung und Diversifizierung der bilateralen Handelsbeziehungen der Vertra
 
 ### INSTITUTIONELLER RAHMEN — ARTIKEL 3
 
-#### Assoziationsrat
+**Assoziationsrat**
+
+#### Art. 3
 
 (1) Es wird ein Assoziationsrat eingesetzt, der die Durchführung dieses Abkommens überwacht. Der Assoziationsrat tritt auf Ministerebene in regelmäßigen Abständen mindestens alle zwei Jahre und im Einvernehmen der Vertragsparteien zu außerordentlichen Tagungen zusammen, sooft die Umstände dies erfordern.
 
@@ -187,7 +193,9 @@ d) Ausweitung und Diversifizierung der bilateralen Handelsbeziehungen der Vertra
 
 ## ARTIKEL 4
 
-#### Zusammensetzung und Geschäftsordnung
+**Zusammensetzung und Geschäftsordnung**
+
+#### Art. 4
 
 (1) Der Assoziationsrat setzt sich aus dem Präsidenten des Rates der Europäischen Union, der vom Generalsekretär/Hohen Vertreter unterstützt wird, dem folgenden Vorsitz, weiteren Mitgliedern des Rates der Europäischen Union oder ihren Vertretern und Mitgliedern der Kommission der Europäischen Gemeinschaften einerseits und dem Minister für auswärtige Angelegenheiten Chiles andererseits zusammen.
 
@@ -199,7 +207,9 @@ d) Ausweitung und Diversifizierung der bilateralen Handelsbeziehungen der Vertra
 
 ## ARTIKEL 5
 
-#### Beschlussfassungsbefugnisse
+**Beschlussfassungsbefugnisse**
+
+#### Art. 5
 
 (1) Zur Verwirklichung der Ziele dieses Abkommens ist der Assoziationsrat befugt, in den in diesem Abkommen vorgesehenen Fällen Beschlüsse zu fassen.
 
@@ -211,7 +221,9 @@ d) Ausweitung und Diversifizierung der bilateralen Handelsbeziehungen der Vertra
 
 ## ARTIKEL 6
 
-#### Assoziationsausschuss
+**Assoziationsausschuss**
+
+#### Art. 6
 
 (1) Der Assoziationsrat wird bei der Erfüllung seiner Aufgaben von einem Assoziationsausschuss unterstützt, der sich aus Vertretern der Mitglieder des Rates der Europäischen Union und der Kommission der Europäischen Gemeinschaften einerseits und Vertretern der Regierung Chiles andererseits zusammensetzt, bei denen es sich normalerweise um hohe Beamte handelt.
 
@@ -225,7 +237,9 @@ d) Ausweitung und Diversifizierung der bilateralen Handelsbeziehungen der Vertra
 
 ## ARTIKEL 7
 
-#### Sonderausschüsse
+**Sonderausschüsse**
+
+#### Art. 7
 
 (1) Der Assoziationsrat wird bei der Erfüllung seiner Aufgaben von den mit diesem Abkommen eingesetzten Sonderausschüssen unterstützt.
 
@@ -235,13 +249,17 @@ d) Ausweitung und Diversifizierung der bilateralen Handelsbeziehungen der Vertra
 
 ## ARTIKEL 8
 
-#### Politischer Dialog
+**Politischer Dialog**
+
+#### Art. 8
 
 Der politische Dialog zwischen den Vertragsparteien wird in dem in Teil II vorgesehenen Rahmen geführt.
 
 ## ARTIKEL 9
 
-#### Parlamentarischer Assoziationsausschuss
+**Parlamentarischer Assoziationsausschuss**
+
+#### Art. 9
 
 (1) Es wird ein Parlamentarischer Assoziationsausschuss eingesetzt. In diesem Gremium kommen Mitglieder des Europäischen Parlaments und des chilenischen Nationalkongresses (Congreso Nacional de Chile) zu einem Meinungsaustausch zusammen. Er tagt in regelmäßigen Abständen, die er selbst festlegt.
 
@@ -259,7 +277,9 @@ Der politische Dialog zwischen den Vertragsparteien wird in dem in Teil II vorge
 
 ## ARTIKEL 10
 
-#### Gemischter Beratender Ausschuss
+**Gemischter Beratender Ausschuss**
+
+#### Art. 10
 
 (1) Es wird ein Gemischter Beratender Ausschuss mit der Aufgabe eingesetzt, den Assoziationsrat bei der Förderung von Dialog und Zusammenarbeit zwischen den verschiedenen wirtschaftlichen und sozialen Organisationen der Zivilgesellschaft in der Europäischen Union und in Chile zu unterstützen. Der Dialog und die Zusammenarbeit erstrecken sich auf alle wirtschaftlichen und sozialen Aspekte der Beziehungen zwischen der Gemeinschaft und Chile, die sich bei der Durchführung dieses Abkommens ergeben. Der Ausschuss kann zu den sich in diesen Bereichen ergebenden Fragen Stellung nehmen.
 
@@ -271,7 +291,9 @@ Der politische Dialog zwischen den Vertragsparteien wird in dem in Teil II vorge
 
 ## ARTIKEL 11
 
-#### Zivilgesellschaft
+**Zivilgesellschaft**
+
+#### Art. 11
 
 Die Vertragsparteien fördern auch regelmäßige Zusammenkünfte von Vertretern der Zivilgesellschaft der Europäischen Union und Chiles, einschließlich der Akademiker, der Wirtschafts- und Sozialpartner und der nichtstaatlichen Organisationen, um sie über die Durchführung dieses Abkommens auf dem Laufenden zu halten und ihre Anregungen für Verbesserungen entgegenzunehmen.
 
@@ -279,7 +301,9 @@ Die Vertragsparteien fördern auch regelmäßige Zusammenkünfte von Vertretern 
 
 ### POLITISCHER DIALOG — ARTIKEL 12
 
-#### Ziele
+**Ziele**
+
+#### Art. 12
 
 (1) Die Vertragsparteien kommen überein, ihren regelmäßigen Dialog über bilaterale und internationale Fragen von beiderseitigem Interesse zu verstärken. Sie streben eine Intensivierung und Vertiefung dieses politischen Dialogs an, um die mit diesem Abkommen gegründete Assoziation zu festigen.
 
@@ -289,7 +313,9 @@ Die Vertragsparteien fördern auch regelmäßige Zusammenkünfte von Vertretern 
 
 ## ARTIKEL 13
 
-#### Verfahren
+**Verfahren**
+
+#### Art. 13
 
 (1) Die Vertragsparteien kommen überein, ihren politischen Dialog in folgender Form zu führen:
 
@@ -309,13 +335,17 @@ d) jährliche Zusammenkünfte hoher Beamter der beiden Vertragsparteien.
 
 ## ARTIKEL 14
 
-#### Zusammenarbeit im Bereich der Außen- und Sicherheitspolitik
+**Zusammenarbeit im Bereich der Außen- und Sicherheitspolitik**
+
+#### Art. 14
 
 Die Vertragsparteien koordinieren ihre Standpunkte und unternehmen gemeinsame Initiativen in den zuständigen internationalen Gremien, so weit dies möglich ist, und arbeiten im Bereich der Außen- und Sicherheitspolitik zusammen.
 
 ## ARTIKEL 15
 
-#### Zusammenarbeit bei der Terrorismusbekämpfung
+**Zusammenarbeit bei der Terrorismusbekämpfung**
+
+#### Art. 15
 
 Die Vertragsparteien kommen überein, bei der Bekämpfung des Terrorismus im Einklang mit den einschlägigen internationalen Übereinkünften und ihren Gesetzen und sonstigen Vorschriften zusammenzuarbeiten. Sie arbeiten insbesondere zusammen
 
@@ -329,7 +359,9 @@ c) durch einen Meinungsaustausch über Mittel und Methoden zur Bekämpfung des T
 
 ### ZUSAMMENARBEIT — ARTIKEL 16
 
-#### Allgemeine Ziele
+**Allgemeine Ziele**
+
+#### Art. 16
 
 (1) Die Vertragsparteien nehmen eine enge Zusammenarbeit auf, mit der unter anderem angestrebt wird,
 
@@ -347,7 +379,9 @@ d) unter Berücksichtigung der Assoziationsbeziehungen zwischen den Vertragspart
 
 ### WIRTSCHAFTLICHE ZUSAMMENARBEIT — ARTIKEL 17
 
-#### Industrielle Zusammenarbeit
+**Industrielle Zusammenarbeit**
+
+#### Art. 17
 
 (1) Mit der industriellen Zusammenarbeit werden industriepolitische Maßnahmen zur Verstärkung und Vereinigung der Anstrengungen der Vertragsparteien unterstützt und gefördert und ein dynamisches, integriertes und dezentrales Konzept für das Management der industriellen Zusammenarbeit entwickelt, um günstige Rahmenbedingungen zu schaffen, die den beiderseitigen Interessen dienen.
 
@@ -363,7 +397,9 @@ d) die Innovation, die Diversifizierung, die Modernisierung, die Entwicklung und
 
 ## ARTIKEL 18
 
-#### Zusammenarbeit in den Bereichen Normen, technische Vorschriften und Konformitätsbewertungsverfahren
+**Zusammenarbeit in den Bereichen Normen, technische Vorschriften und Konformitätsbewertungsverfahren**
+
+#### Art. 18
 
 (1) Die Zusammenarbeit in den Bereichen Normen, technische Vorschriften und Konformitätsbewertung ist ein wichtiges Ziel im Hinblick auf die Beseitigung bestehender und die Verhinderung neuer technischer Handelshemmnisse und auf die Gewährleistung des zufrieden stellenden Funktionierens der in Teil IV Titel II vorgesehenen Liberalisierung des Handels.
 
@@ -385,7 +421,9 @@ c) Förderung von Maßnahmen, mit denen die Annäherung und die Kompatibilität 
 
 ## ARTIKEL 19
 
-#### Zusammenarbeit im Bereich der kleinen und mittleren Unternehmen
+**Zusammenarbeit im Bereich der kleinen und mittleren Unternehmen**
+
+#### Art. 19
 
 (1) Die Vertragsparteien fördern günstige Rahmenbedingungen für die Entwicklung kleiner und mittlerer Unternehmen (KMU).
 
@@ -401,13 +439,17 @@ d) Erleichterung des Zugangs zu Finanzierungsmöglichkeiten, Bereitstellung von 
 
 ## ARTIKEL 20
 
-#### Zusammenarbeit im Dienstleistungsbereich
+**Zusammenarbeit im Dienstleistungsbereich**
+
+#### Art. 20
 
 Im Einklang mit dem Allgemeinen Übereinkommen der WTO über den Handel mit Dienstleistungen (GATS) und im Rahmen ihrer Zuständigkeiten unterstützen und intensivieren die Vertragsparteien ihre gegenseitige Zusammenarbeit, um der wachsenden Bedeutung der Dienstleistungen für Entwicklung und Wachstum ihrer Wirtschaft Rechnung zu tragen. Die Zusammenarbeit zur Förderung der Entwicklung und Diversifizierung der Produktivität und der Wettbewerbsfähigkeit im Dienstleistungssektor Chiles wird intensiviert. Die Vertragsparteien bestimmen die Sektoren, auf die sich die Zusammenarbeit konzentrieren soll, und befassen sich vorrangig auch mit den für diesen Zweck zur Verfügung stehenden Mitteln. Die Maßnahmen richten sich vor allem an KMU und sollen diesen den Zugang zu Kapital und Markttechnologie erleichtern. In diesem Zusammenhang wird der Förderung des Handels zwischen den Vertragsparteien und Drittländern besondere Aufmerksamkeit gewidmet.
 
 ## ARTIKEL 21
 
-#### Investitionsförderung
+**Investitionsförderung**
+
+#### Art. 21
 
 (1) Die Zusammenarbeit soll den Vertragsparteien dabei helfen, im Rahmen ihrer Zuständigkeiten ein günstiges und stabiles Klima für Investitionen beider Seiten zu fördern.
 
@@ -423,7 +465,9 @@ d) die Entwicklung einheitlicher, vereinfachter Verwaltungsverfahren.
 
 ## ARTIKEL 22
 
-#### Zusammenarbeit im Energiebereich
+**Zusammenarbeit im Energiebereich**
+
+#### Art. 22
 
 (1) Mit der Zusammenarbeit der Vertragsparteien sollen die Wirtschaftsbeziehungen in Schlüsselsektoren wie Wasserkraft, Erdgas und Erdöl, erneuerbare Energie, energiesparende Technologie und Elektrifizierung des ländlichen Raums gefestigt werden.
 
@@ -443,7 +487,9 @@ f) die Unterstützung der für Energiefragen und für die Formulierung der Energ
 
 ## ARTIKEL 23
 
-#### Verkehr
+**Verkehr**
+
+#### Art. 23
 
 (1) Die Zusammenarbeit konzentriert sich auf die Umstrukturierung und Modernisierung der Verkehrssysteme in Chile, die Verbesserung des Personen- und Güterverkehrs sowie die Erleichterung des Zugangs zum Nah-, Luft-, See- und Straßenverkehrsmarkt durch Verfeinerung des Verkehrsmanagements in betrieblicher und administrativer Hinsicht und durch Förderung von Betriebsnormen.
 
@@ -457,7 +503,9 @@ c) Kooperationsprojekte für den Transfer europäischer Technologie für das glo
 
 ## ARTIKEL 24
 
-#### Zusammenarbeit in den Bereichen Landwirtschaft und ländlicher Raum sowie Gesundheits- und Pflanzenschutz
+**Zusammenarbeit in den Bereichen Landwirtschaft und ländlicher Raum sowie Gesundheits- und Pflanzenschutz**
+
+#### Art. 24
 
 (1) Mit der Zusammenarbeit in diesem Bereich sollen landwirtschaftspolitische Maßnahmen unterstützt und gefördert werden, um die Bemühungen der Vertragsparteien um eine nachhaltige Landwirtschaft und eine nachhaltige Entwicklung der Landwirtschaft und des ländlichen Raums zu fördern und zu festigen.
 
@@ -479,7 +527,9 @@ g) technische Hilfe bei der Stärkung der Kontrollsysteme für den Gesundheits- 
 
 ## ARTIKEL 25
 
-#### Fischerei
+**Fischerei**
+
+#### Art. 25
 
 (1) Angesichts der Bedeutung der Fischereipolitik für ihre Beziehungen verpflichten sich die Vertragsparteien zu einer engeren wirtschaftlichen und technischen Zusammenarbeit, die gegebenenfalls zum Abschluss von Abkommen und/oder Übereinkünften über die Hochseefischerei führen kann.
 
@@ -487,7 +537,9 @@ g) technische Hilfe bei der Stärkung der Kontrollsysteme für den Gesundheits- 
 
 ## ARTIKEL 26
 
-#### Zusammenarbeit im Zollbereich
+**Zusammenarbeit im Zollbereich**
+
+#### Art. 26
 
 (1) Die Vertragsparteien fördern und erleichtern die Zusammenarbeit zwischen ihren Zollverwaltungen, um für die Verwirklichung der Ziele des Artikels 79 zu sorgen und insbesondere, um die Vereinfachung der Zollverfahren zu gewährleisten und dadurch den rechtmäßigen Handel zu vereinfachen, gleichzeitig jedoch ihre Kontrollmöglichkeiten zu behalten.
 
@@ -503,7 +555,9 @@ c) die Verbesserung und Vereinfachung von Zollfragen im Zusammenhang mit dem Mar
 
 ## ARTIKEL 27
 
-#### Zusammenarbeit im Bereich der Statistik
+**Zusammenarbeit im Bereich der Statistik**
+
+#### Art. 27
 
 (1) Wichtigstes Ziel ist die Angleichung der Methoden, damit die Vertragsparteien die Statistiken der anderen Vertragspartei über den Waren- und Dienstleistungsverkehr sowie generell in allen Bereichen nutzen können, die unter dieses Abkommen fallen und für die Erstellung von Statistiken in Betracht kommen.
 
@@ -521,7 +575,9 @@ e) Ausbildungsprogramme im Bereich der Statistik, in die andere Länder der Regi
 
 ## ARTIKEL 28
 
-#### Zusammenarbeit im Umweltschutz
+**Zusammenarbeit im Umweltschutz**
+
+#### Art. 28
 
 (1) Ziel der Zusammenarbeit ist es, im Interesse einer nachhaltigen Entwicklung die Erhaltung und Verbesserung der Umwelt, die Verhütung der Verunreinigung und Degradation natürlicher Ressourcen und Ökosysteme und deren rationelle Nutzung zu fördern.
 
@@ -543,7 +599,9 @@ g) technische Hilfe und gemeinsame regionale Forschungsprogramme.
 
 ## ARTIKEL 29
 
-#### Verbraucherschutz
+**Verbraucherschutz**
+
+#### Art. 29
 
 Mit der Zusammenarbeit in diesem Bereich wird angestrebt, die Verbraucherschutzprogramme der Vertragsparteien kompatibel zu machen; sie erstreckt sich nach Möglichkeit auf folgende Bereiche:
 
@@ -557,7 +615,9 @@ d) Organisation von Ausbildungsprojekten und technische Hilfe.
 
 ## ARTIKEL 30
 
-#### Datenschutz
+**Datenschutz**
+
+#### Art. 30
 
 (1) Die Vertragsparteien kommen überein, beim Schutz personenbezogener Daten zusammenzuarbeiten, um das Schutzniveau zu erhöhen und die Entstehung von Handelshemmnissen zu verhindern, die eine Übermittlung personenbezogener Daten erfordern.
 
@@ -565,7 +625,9 @@ d) Organisation von Ausbildungsprojekten und technische Hilfe.
 
 ## ARTIKEL 31
 
-#### Gesamtwirtschaftlicher Dialog
+**Gesamtwirtschaftlicher Dialog**
+
+#### Art. 31
 
 (1) Die Vertragsparteien fördern einen Informationsaustausch über ihre Gesamtwirtschaftspolitik und ihre gesamtwirtschaftlichen Trends sowie einen Erfahrungsaustausch über die Koordinierung der Gesamtwirtschaftspolitik im Rahmen der regionalen Integration.
 
@@ -601,7 +663,9 @@ d) Erstellung von Studien zu Fragen von beiderseitigem Interesse.
 
 ## ARTIKEL 32
 
-#### Rechte an geistigem Eigentum
+**Rechte an geistigem Eigentum**
+
+#### Art. 32
 
 (1) Die Vertragsparteien kommen überein, im Rahmen ihrer Möglichkeiten in Fragen zusammenzuarbeiten, die im Zusammenhang stehen mit der Praxis, der Förderung, der Verbreitung, der Vereinfachung, der Verwaltung, der Harmonisierung, dem Schutz und der wirksamen Anwendung der Rechte an geistigem Eigentum, der Verhinderung des Missbrauchs dieser Rechte, der Bekämpfung von Nachahmung und Nachbildung sowie der Einrichtung und Stärkung nationaler Organisationen für die Überwachung und den Schutz dieser Rechte.
 
@@ -619,13 +683,17 @@ e) Sensibilisierung der Privatwirtschaft und der Zivilgesellschaft.
 
 ## ARTIKEL 33
 
-#### Öffentliches Beschaffungswesen
+**Öffentliches Beschaffungswesen**
+
+#### Art. 33
 
 Mit der Zusammenarbeit der Vertragsparteien in diesem Bereich wird angestrebt, technische Hilfe bei Fragen zu leisten, die mit dem öffentlichen Beschaffungswesen, insbesondere auf kommunaler Ebene, zusammenhängen.
 
 ## ARTIKEL 34
 
-#### Zusammenarbeit im Tourismus
+**Zusammenarbeit im Tourismus**
+
+#### Art. 34
 
 (1) Die Vertragsparteien fördern ihre Zusammenarbeit bei der Entwicklung des Tourismus.
 
@@ -647,7 +715,9 @@ g) Einsatz von Förderungsinstrumenten zur Entwicklung des Tourismus auf örtlic
 
 ## ARTIKEL 35
 
-#### Zusammenarbeit im Bergbaubereich
+**Zusammenarbeit im Bergbaubereich**
+
+#### Art. 35
 
 Die Vertragsparteien verpflichten sich, die Zusammenarbeit im Bergbaubereich zu fördern, vor allem durch Abkommen zur
 
@@ -659,7 +729,9 @@ b) Förderung gemeinsamer Anstrengungen zur Entwicklung wissenschaftlicher und t
 
 ### WISSENSCHAFT, TECHNOLOGIE UND INFORMATIONSGESELLSCHAFT — ARTIKEL 36
 
-#### Zusammenarbeit in Wissenschaft und Technologie
+**Zusammenarbeit in Wissenschaft und Technologie**
+
+#### Art. 36
 
 (1) In Wissenschaft und Technologie arbeiten die Vertragsparteien im beiderseitigen Interesse und im Einklang mit ihrer Politik in diesem Bereich, insbesondere den Vorschriften für die Nutzung des sich aus der Forschung ergebenden geistigen Eigentums, mit folgenden Zielen zusammen:
 
@@ -691,7 +763,9 @@ e) Ausbau der Verbindungen zwischen dem öffentlichen und dem privaten Sektor.
 
 ## ARTIKEL 37
 
-#### Informationsgesellschaft, Informationstechnologie und Telekommunikation
+**Informationsgesellschaft, Informationstechnologie und Telekommunikation**
+
+#### Art. 37
 
 (1) Informationstechnologie und Kommunikation sind Schlüsselsektoren einer modernen Gesellschaft und von entscheidender Bedeutung für die wirtschaftliche und soziale Entwicklung sowie für den reibungslosen Übergang zur Informationsgesellschaft.
 
@@ -715,7 +789,9 @@ g) Austausch und Verbreitung von Erfahrungen mit staatlichen Maßnahmen, bei den
 
 ### KULTUR, BILDUNG UND AUDIOVISUELLE MEDIEN — ARTIKEL 38
 
-#### Bildung und Ausbildung
+**Bildung und Ausbildung**
+
+#### Art. 38
 
 (1) Im Rahmen ihrer Zuständigkeiten unterstützen die Vertragsparteien in erheblichem Maße Vorschulerziehung, Primar-, Sekundar- und Hochschulbildung, Berufsausbildung und lebensbegleitendes Lernen. Innerhalb dieser Bereiche wird dem Zugang empfindlicher sozialer Gruppen wie Behinderten, ethnischen Minderheiten oder extrem Armen zu Bildung besondere Aufmerksamkeit gewidmet.
 
@@ -723,13 +799,17 @@ g) Austausch und Verbreitung von Erfahrungen mit staatlichen Maßnahmen, bei den
 
 ## ARTIKEL 39
 
-#### Zusammenarbeit im audiovisuellen Bereich
+**Zusammenarbeit im audiovisuellen Bereich**
+
+#### Art. 39
 
 Die Vertragsparteien kommen überein, die Zusammenarbeit in diesem Bereich zu fördern, vor allem durch Ausbildungsprogramme im audiovisuellen und im Kommunikationsmittelsektor, einschließlich Maßnahmen in den Bereichen Koproduktion, Ausbildung, Entwicklung und Vertrieb.
 
 ## ARTIKEL 40
 
-#### Informationsaustausch und kulturelle Zusammenarbeit
+**Informationsaustausch und kulturelle Zusammenarbeit**
+
+#### Art. 40
 
 (1) Angesichts der sehr engen kulturellen Bindungen der Vertragsparteien sollte die Zusammenarbeit in diesem Bereich, einschließlich der Informations- und Medienkontakte, intensiviert werden.
 
@@ -759,7 +839,9 @@ h) sonstige Bereiche.
 
 ### ÖFFENTLICHE VERWALTUNG UND INTERINSTITUTIONELLE ZUSAMMENARBEIT — ARTIKEL 41
 
-#### Öffentliche Verwaltung
+**Öffentliche Verwaltung**
+
+#### Art. 41
 
 (1) Die Zusammenarbeit in diesem Bereich hat die Modernisierung und Dezentralisierung der öffentlichen Verwaltung zum Ziel und umfasst die Effizienz der Verwaltungsorganisation, den rechtlichen und institutionellen Rahmen sowie die Nutzbarmachung der am besten geeigneten Methoden beider Vertragsparteien.
 
@@ -799,7 +881,9 @@ e) Ausbildung und logistische Unterstützung.
 
 ## ARTIKEL 42
 
-#### Interinstitutionelle Zusammenarbeit
+**Interinstitutionelle Zusammenarbeit**
+
+#### Art. 42
 
 (1) Zweck der interinstitutionellen Zusammenarbeit zwischen den Vertragsparteien ist die Förderung einer engeren Zusammenarbeit zwischen den zuständigen Organen.
 
@@ -817,7 +901,9 @@ c) Transfer von Know-how.
 
 ### ZUSAMMENARBEIT IM SOZIALBEREICH — ARTIKEL 43
 
-#### Sozialer Dialog
+**Sozialer Dialog**
+
+#### Art. 43
 
 Die Vertragsparteien erkennen an,
 
@@ -827,7 +913,9 @@ b) dass der Notwendigkeit, bei der Behandlung von Staatsangehörigen der einen V
 
 ## ARTIKEL 44
 
-#### Zusammenarbeit im Sozialbereich
+**Zusammenarbeit im Sozialbereich**
+
+#### Art. 44
 
 (1) Die Vertragsparteien erkennen die Bedeutung der sozialen Entwicklung an, die mit der wirtschaftlichen Entwicklung einhergehen muss. Sie räumen der Schaffung von Arbeitsplätzen und der Achtung der sozialen Grundrechte Priorität ein und fördern zu diesem Zweck die einschlägigen Übereinkommen der Internationalen Arbeitsorganisation zu Themen wie Koalitionsfreiheit, Recht auf Tarifverhandlungen und Diskriminierungsverbot, Abschaffung von Zwangsarbeit und Kinderarbeit sowie Gleichbehandlung von Männern und Frauen.
 
@@ -859,7 +947,9 @@ j) Förderung der Achtung der Menschenrechte, der Demokratie und der Beteiligung
 
 ## ARTIKEL 45
 
-#### Zusammenarbeit bei geschlechterspezifischen Fragen
+**Zusammenarbeit bei geschlechterspezifischen Fragen**
+
+#### Art. 45
 
 (1) Die Vertragsparteien tragen mit ihrer Zusammenarbeit zur Stärkung der Politik und der Programme bei, mit denen die gleichberechtigte Beteiligung von Mann und Frau in allen Bereichen des politischen, wirtschaftlichen, gesellschaftlichen und kulturellen Lebens verbessert, gewährleistet und erweitert wird. Die Vertragsparteien tragen mit ihrer Zusammenarbeit zur Erleichterung des Zugangs von Frauen zu allen Ressourcen bei, die sie zur uneingeschränkten Ausübung ihrer Grundrechte benötigen.
 
@@ -873,7 +963,9 @@ b) um positive Maßnahmen zugunsten von Frauen zu fördern.
 
 ### SONSTIGE BEREICHE DER ZUSAMMENARBEIT — ARTIKEL 46
 
-#### Zusammenarbeit in Fragen der illegalen Einwanderung
+**Zusammenarbeit in Fragen der illegalen Einwanderung**
+
+#### Art. 46
 
 (1) Die Gemeinschaft und Chile kommen überein, bei der Verhütung und Kontrolle der illegalen Einwanderung zusammenzuarbeiten. Zu diesem Zweck
 
@@ -891,7 +983,9 @@ b) erklären sich die Mitgliedstaaten bereit, ihre Staatsangehörigen im Sinne d
 
 ## ARTIKEL 47
 
-#### Zusammenarbeit bei der Bekämpfung von Drogen und organisiertem Verbrechen
+**Zusammenarbeit bei der Bekämpfung von Drogen und organisiertem Verbrechen**
+
+#### Art. 47
 
 (1) Die Vertragsparteien verpflichten sich im Rahmen ihrer jeweiligen Zuständigkeiten, ihre Anstrengungen zur Verhinderung und Verringerung der illegalen Drogenherstellung, des illegalen Drogenhandels und des illegalen Drogenkonsums sowie des Waschens von Erlösen aus dem Drogenhandel zu koordinieren und zu verstärken und das damit zusammenhängende organisierte Verbrechen im Rahmen der in diesem Bereich tätigen internationalen Organisationen und Gremien zu bekämpfen.
 
@@ -915,7 +1009,9 @@ g) Maßnahmen zur Verhinderung der Abzweigung von Grundstoffen und sonstigen fü
 
 ### ALLGEMEINE BESTIMMUNGEN — ARTIKEL 48
 
-#### Beteiligung der Zivilgesellschaft an der Zusammenarbeit
+**Beteiligung der Zivilgesellschaft an der Zusammenarbeit**
+
+#### Art. 48
 
 Die Vertragsparteien erkennen die komplementäre Rolle der Zivilgesellschaft (soziale Gesprächspartner und nichtstaatliche Organisationen) und ihren möglichen Beitrag zum Kooperationsprozess an. Zu diesem Zweck können die Akteure der Zivilgesellschaft vorbehaltlich der Rechts- und Verwaltungsvorschriften der Vertragsparteien
 
@@ -927,7 +1023,9 @@ c) an der Durchführung der Kooperationsprojekte und -programme in den sie betre
 
 ## ARTIKEL 49
 
-#### Regionale Zusammenarbeit und regionale Integration
+**Regionale Zusammenarbeit und regionale Integration**
+
+#### Art. 49
 
 (1) Beide Vertragsparteien müssen alle vorhandenen Instrumente der Zusammenarbeit einsetzen, um die Entwicklung einer aktiven und auf Gegenseitigkeit beruhenden Zusammenarbeit zwischen den Vertragsparteien und dem Mercado Común del Sur (Mercosur) als Ganzem zu fördern.
 
@@ -953,7 +1051,9 @@ b) Verfahren für den Austausch von Informationen und Know-how einrichten.
 
 ## ARTIKEL 50
 
-#### Dreiseitige und biregionale Zusammenarbeit
+**Dreiseitige und biregionale Zusammenarbeit**
+
+#### Art. 50
 
 (1) Die Vertragsparteien erkennen den Wert der internationalen Zusammenarbeit für die Förderung ausgewogener und nachhaltiger Entwicklungsprozesse an und kommen überein, Programmen für dreiseitige Zusammenarbeit und Programmen mit Drittländern in Bereichen von beiderseitigem Interesse Impulse zu geben.
 
@@ -961,13 +1061,17 @@ b) Verfahren für den Austausch von Informationen und Know-how einrichten.
 
 ## ARTIKEL 51
 
-#### Künftige Entwicklungen
+**Künftige Entwicklungen**
+
+#### Art. 51
 
 Kein Bereich, der im Rahmen der Zuständigkeiten der Vertragsparteien für eine Zusammenarbeit in Frage kommt, wird von vornherein ausgeschlossen; die Vertragsparteien können im Assoziationsausschuss gemeinsam konkrete Möglichkeiten für eine Zusammenarbeit im beiderseitigen Interesse prüfen.
 
 ## ARTIKEL 52
 
-#### Zusammenarbeit im Rahmen der Assoziationsbeziehungen
+**Zusammenarbeit im Rahmen der Assoziationsbeziehungen**
+
+#### Art. 52
 
 (1) Die Vertragsparteien tragen mit ihrer Zusammenarbeit zur Verwirklichung der allgemeinen Ziele von Teil III bei und ermitteln und entwickeln zu diesem Zweck innovative Kooperationsprogramme, die einen zusätzlichen Nutzen für ihre neuen Beziehungen als assoziierte Partner bieten können.
 
@@ -977,7 +1081,9 @@ Kein Bereich, der im Rahmen der Zuständigkeiten der Vertragsparteien für eine 
 
 ## ARTIKEL 53
 
-#### Mittel
+**Mittel**
+
+#### Art. 53
 
 (1) Um zur Verwirklichung der in diesem Abkommen festgelegten Ziele der Zusammenarbeit beizutragen, verpflichten sich die Vertragsparteien, im Rahmen ihrer Möglichkeiten und durch ihre eigenen Kanäle angemessene Mittel bereitzustellen, einschließlich Finanzmitteln.
 
@@ -985,7 +1091,9 @@ Kein Bereich, der im Rahmen der Zuständigkeiten der Vertragsparteien für eine 
 
 ## ARTIKEL 54
 
-#### Besondere Aufgaben des Assoziationsausschusses in Fragen der Zusammenarbeit
+**Besondere Aufgaben des Assoziationsausschusses in Fragen der Zusammenarbeit**
+
+#### Art. 54
 
 (1) Wenn der Assoziationsausschuss die ihm mit Teil III übertragenen Aufgaben erfüllt, setzt er sich aus für Fragen der Zusammenarbeit zuständigen Vertretern der Gemeinschaft und Chiles zusammen, bei denen es sich in der Regel um hohe Beamte handelt.
 
@@ -1007,7 +1115,9 @@ d) dem Assoziationsrat in regelmäßigen Abständen über die Behandlung und Ver
 
 ## ARTIKEL 55
 
-#### Ziele
+**Ziele**
+
+#### Art. 55
 
 Die Ziele dieses Teils sind die Folgenden:
 
@@ -1031,7 +1141,9 @@ i) Einrichtung eines wirksamen Streitbeilegungsmechanismus.
 
 ## ARTIKEL 56
 
-#### Zollunionen und Freihandelszonen
+**Zollunionen und Freihandelszonen**
+
+#### Art. 56
 
 (1) Dieses Abkommen steht der Aufrechterhaltung oder Errichtung von Zollunionen, Freihandelszonen oder sonstigen Regelungen zwischen einer Vertragspartei und Drittländern nicht entgegen, soweit diese keine Änderung der in diesem Abkommen vorgesehenen Rechte und Pflichten bewirken.
 
@@ -1041,7 +1153,9 @@ i) Einrichtung eines wirksamen Streitbeilegungsmechanismus.
 
 ### FREIER WARENVERKEHR — ARTIKEL 57
 
-#### Ziel
+**Ziel**
+
+#### Art. 57
 
 Während einer Übergangszeit, die mit dem Inkrafttreten dieses Abkommens beginnt, liberalisieren die Vertragsparteien nach Maßgabe dieses Abkommens und im Einklang mit Artikel XXIV des GATT 1994 schrittweise beiderseitig den Warenverkehr.
 
@@ -1053,7 +1167,9 @@ Während einer Übergangszeit, die mit dem Inkrafttreten dieses Abkommens beginn
 
 ## ARTIKEL 58
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 58
 
 (1) Die Bestimmungen dieses Kapitels über die Beseitigung der Einfuhrzölle gelten für Erzeugnisse mit Ursprung in der einen Vertragspartei, die in die andere Vertragspartei ausgeführt werden. Für die Zwecke dieses Kapitels sind „Erzeugnisse mit Ursprung in“ oder „Ursprungserzeugnisse“ Waren, die die Ursprungsregeln des Anhangs III erfüllen.
 
@@ -1061,7 +1177,9 @@ Während einer Übergangszeit, die mit dem Inkrafttreten dieses Abkommens beginn
 
 ## ARTIKEL 59
 
-#### Zölle
+**Zölle**
+
+#### Art. 59
 
 Zölle sind Abgaben jeder Art, die im Zusammenhang mit der Einfuhr oder der Ausfuhr einer Ware erhoben werden, einschließlich Ergänzungsabgaben und Zuschlägen in jeder Form im Zusammenhang mit einer solchen Einfuhr oder Ausfuhr, nicht jedoch
 
@@ -1073,7 +1191,9 @@ c) Gebühren und sonstige Abgaben, die im Einklang mit Artikel 63 erhoben werden
 
 ## ARTIKEL 60
 
-#### Beseitigung der Zölle
+**Beseitigung der Zölle**
+
+#### Art. 60
 
 (1) Die Einfuhrzölle der Vertragsparteien werden nach Maßgabe der Artikel 64 bis 72 beseitigt.
 
@@ -1087,7 +1207,9 @@ c) Gebühren und sonstige Abgaben, die im Einklang mit Artikel 63 erhoben werden
 
 ## ARTIKEL 61
 
-#### Stillhalteregelung
+**Stillhalteregelung**
+
+#### Art. 61
 
 (1) Nach Inkrafttreten dieses Abkommens werden im Handel zwischen den Vertragsparteien weder neue Zölle eingeführt noch die bereits geltenden Zölle erhöht.
 
@@ -1095,13 +1217,17 @@ c) Gebühren und sonstige Abgaben, die im Einklang mit Artikel 63 erhoben werden
 
 ## ARTIKEL 62
 
-#### Einreihung der Waren
+**Einreihung der Waren**
+
+#### Art. 62
 
 Für die Einreihung der Waren im Handel zwischen den Vertragsparteien gilt die im Einklang mit dem Harmonisierten System zur Bezeichnung und Codierung der Waren (im Folgenden „HS“ genannt) festgelegte Zolltarifnomenklatur der Vertragsparteien.
 
 ## ARTIKEL 63
 
-#### Gebühren und sonstige Abgaben
+**Gebühren und sonstige Abgaben**
+
+#### Art. 63
 
 Die in Artikel 59 genannten Gebühren und sonstigen Abgaben müssen sich auf die ungefähren Kosten der erbrachten Leistungen beschränken und dürfen weder ein indirekter Schutz für inländische Waren noch ein Finanzzoll auf Einfuhren oder Ausfuhren sein. Sie beruhen auf spezifischen Sätzen, die dem tatsächlichen Wert der erbrachten Leistungen entsprechen.
 
@@ -1113,13 +1239,17 @@ Die in Artikel 59 genannten Gebühren und sonstigen Abgaben müssen sich auf die
 
 ## ARTIKEL 64
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 64
 
 Die Bestimmungen dieses Unterabschnitts gelten für die Waren der HS-Kapitel 25 bis 97, die keine landwirtschaftlichen Erzeugnisse oder landwirtschaftlichen Verarbeitungserzeugnisse im Sinne des Artikels 70 sind.
 
 ## ARTIKEL 65
 
-#### Einfuhrzölle auf gewerbliche Erzeugnisse mit Ursprung in Chile
+**Einfuhrzölle auf gewerbliche Erzeugnisse mit Ursprung in Chile**
+
+#### Art. 65
 
 Die Einfuhrzölle der Gemeinschaft auf die in Anhang I (Zeitplan der Gemeinschaft für die Beseitigung der Zölle) unter den Kategorien „Jahr 0“ und „Jahr 3“ aufgeführten gewerblichen Erzeugnisse mit Ursprung in Chile werden nach folgendem Zeitplan beseitigt, so dass diese Zölle bei Inkrafttreten des Abkommens bzw. am 1. Januar 2006 vollständig beseitigt sind.
 
@@ -1132,7 +1262,9 @@ Jährliche Zollsenkungen (vom Hundert)
 
 ## ARTIKEL 66
 
-#### Einfuhrzölle auf gewerbliche Erzeugnisse mit Ursprung in der Gemeinschaft
+**Einfuhrzölle auf gewerbliche Erzeugnisse mit Ursprung in der Gemeinschaft**
+
+#### Art. 66
 
 Die Einfuhrzölle Chiles auf die in Anhang II (Zeitplan Chiles für die Beseitigung der Zölle) unter den Kategorien „Jahr 0“, „Jahr 5“ und „Jahr 7“ aufgeführten Erzeugnisse mit Ursprung in der Gemeinschaft werden nach folgendem Zeitplan beseitigt, so dass diese Zölle bei Inkrafttreten dieses Abkommens, am 1. Januar 2008 bzw. am 1. Januar 2010 vollständig beseitigt sind.
 
@@ -1148,7 +1280,9 @@ Jährliche Zollsenkungen (vom Hundert)
 
 ### Fisch und Fischereierzeugnisse — ARTIKEL 67
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 67
 
 Die Bestimmungen dieses Unterabschnitts gelten für Fisch und Fischereierzeugnisse des HS-Kapitels 3, der HS-Positionen 1604 und 1605, der HS-Unterpositionen 051191 und 230120 und der HS-Unterposition ex 190220 <sup>1</sup>.
 
@@ -1158,7 +1292,9 @@ Die Bestimmungen dieses Unterabschnitts gelten für Fisch und Fischereierzeugnis
 
 ## ARTIKEL 68
 
-#### Einfuhrzölle auf Fisch und Fischereierzeugnisse mit Ursprung in Chile
+**Einfuhrzölle auf Fisch und Fischereierzeugnisse mit Ursprung in Chile**
+
+#### Art. 68
 
 (1) Die Einfuhrzölle der Gemeinschaft auf den in Anhang I unter den Kategorien „Jahr 0“, „Jahr 4“, „Jahr 7“, und „Jahr 10“ aufgeführten Fisch und die dort aufgeführten Fischereierzeugnisse mit Ursprung in Chile werden nach folgendem Zeitplan beseitigt, so dass diese Zölle bei Inkrafttreten des Abkommens, am 1. Januar 2007, am 1. Januar 2010 bzw. am 1. Januar 2013 vollständig beseitigt sind.
 
@@ -1175,7 +1311,9 @@ Jährliche Zollsenkungen (vom Hundert)
 
 ## ARTIKEL 69
 
-#### Einfuhrzölle auf Fisch und Fischereierzeugnisse mit Ursprung in der Gemeinschaft
+**Einfuhrzölle auf Fisch und Fischereierzeugnisse mit Ursprung in der Gemeinschaft**
+
+#### Art. 69
 
 (1) Die Einfuhrzölle Chiles auf den in Anhang II unter der Kategorie „Jahr 0“ aufgeführten Fisch und die dort aufgeführten Fischereierzeugnisse mit Ursprung in der Gemeinschaft werden bei Inkrafttreten dieses Abkommens beseitigt.
 
@@ -1185,13 +1323,17 @@ Jährliche Zollsenkungen (vom Hundert)
 
 ### Landwirtschaftliche Erzeugnisse und landwirtschaftliche Verarbeitungserzeugnisse — ARTIKEL 70
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 70
 
 Die Bestimmungen dieses Unterabschnitts gelten für die in Anhang I des WTO-Übereinkommens über die Landwirtschaft aufgeführten landwirtschaftlichen Erzeugnisse und landwirtschaftlichen Verarbeitungserzeugnisse.
 
 ## ARTIKEL 71
 
-#### Einfuhrzölle auf landwirtschaftliche Erzeugnisse und landwirtschaftliche Verarbeitungserzeugnisse mit Ursprung in Chile
+**Einfuhrzölle auf landwirtschaftliche Erzeugnisse und landwirtschaftliche Verarbeitungserzeugnisse mit Ursprung in Chile**
+
+#### Art. 71
 
 (1) Die Einfuhrzölle der Gemeinschaft auf die in Anhang I unter den Kategorien „Jahr 0“, „Jahr 4“, „Jahr 7“, und „Jahr 10“ aufgeführten landwirtschaftlichen Erzeugnisse und landwirtschaftlichen Verarbeitungserzeugnisse mit Ursprung in Chile werden nach folgendem Zeitplan beseitigt, so dass diese Zölle bei Inkrafttreten dieses Abkommens, am 1. Januar 2007, am 1. Januar 2010 bzw. am 1. Januar 2013 vollständig beseitigt sind.
 
@@ -1216,7 +1358,9 @@ Jährliche Zollsenkungen (vom Hundert)
 
 ## ARTIKEL 72
 
-#### Einfuhrzölle auf landwirtschaftliche Erzeugnisse und landwirtschaftliche Verarbeitungserzeugnisse mit Ursprung in der Gemeinschaft
+**Einfuhrzölle auf landwirtschaftliche Erzeugnisse und landwirtschaftliche Verarbeitungserzeugnisse mit Ursprung in der Gemeinschaft**
+
+#### Art. 72
 
 (1) Die Einfuhrzölle Chiles auf die in Anhang II unter den Kategorien „Jahr 0“, „Jahr 5“ und „Jahr 10“ aufgeführten landwirtschaftlichen Erzeugnisse und landwirtschaftlichen Verarbeitungserzeugnisse mit Ursprung in der Gemeinschaft werden nach folgendem Zeitplan beseitigt, so dass diese Zölle bei Inkrafttreten dieses Abkommens, am 1. Januar 2008 bzw. am 1. Januar 2013 vollständig beseitigt sind.
 
@@ -1232,7 +1376,9 @@ Jährliche Zollsenkungen (vom Hundert)
 
 ## ARTIKEL 73
 
-#### Notstandsklausel für landwirtschaftliche Erzeugnisse und landwirtschaftliche Verarbeitungserzeugnisse
+**Notstandsklausel für landwirtschaftliche Erzeugnisse und landwirtschaftliche Verarbeitungserzeugnisse**
+
+#### Art. 73
 
 (1) Wird ein Erzeugnis mit Ursprung in der einen Vertragspartei in derart erhöhten Mengen und unter solchen Bedingungen in das Gebiet der anderen Vertragspartei eingeführt, dass wegen der besonderen Empfindlichkeit der Agrarmärkte ein erheblicher Schaden oder eine ernste Störung auf den Märkten der anderen Vertragspartei für gleichartige oder unmittelbar konkurrierende Erzeugnisse verursacht wird oder droht, so kann diese Vertragpartei ungeachtet des Artikels 92 dieses Abkommens und des Artikels 5 des WTO-Übereinkommens über die Landwirtschaft unter den Voraussetzungen und nach den Verfahren dieses Artikels geeignete Maßnahmen treffen.
 
@@ -1262,7 +1408,9 @@ b) Ein erheblicher Schaden „droht“, wenn aufgrund von Tatsachen, und nicht n
 
 ## ARTIKEL 74
 
-#### Evolutivklausel
+**Evolutivklausel**
+
+#### Art. 74
 
 Im dritten Jahr nach Inkrafttreten dieses Abkommens prüfen die Vertragsparteien die Lage und berücksichtigen dabei die Struktur ihres Handels mit landwirtschaftlichen Erzeugnissen und landwirtschaftlichen Verarbeitungserzeugnissen, deren besondere Empfindlichkeit und die Entwicklung der Agrarpolitik auf beiden Seiten. Die Vertragsparteien prüfen im Assoziationsausschuss für alle Erzeugnisse, welche weiteren Zugeständnisse sie einander auf der Grundlage der Ordnungsmäßigkeit und der angemessenen Gegenseitigkeit einräumen können, um die Liberalisierung des Handels mit landwirtschaftlichen Erzeugnissen und landwirtschaftlichen Verarbeitungserzeugnissen zu verbessern.
 
@@ -1274,19 +1422,25 @@ Im dritten Jahr nach Inkrafttreten dieses Abkommens prüfen die Vertragsparteien
 
 ## ARTIKEL 75
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 75
 
 Die Bestimmungen dieses Kapitels gelten für den Warenverkehr zwischen den Vertragsparteien.
 
 ## ARTIKEL 76
 
-#### Verbot mengenmäßiger Beschränkungen
+**Verbot mengenmäßiger Beschränkungen**
+
+#### Art. 76
 
 Alle Einfuhr- und Ausfuhrverbote und -beschränkungen im Handel zwischen den Vertragsparteien, bei denen es sich nicht um Zölle oder Steuern handelt, werden bei Inkrafttreten dieses Abkommens unabhängig davon beseitigt, ob sie in Form von Kontingenten, Einfuhr- oder Ausfuhrlizenzen oder sonstigen Maßnahmen eingeführt worden sind. Neue Maßnahmen dieser Art werden nicht eingeführt.
 
 ## ARTIKEL 77
 
-#### Inländerbehandlung bei internen Steuern und interner Regulierung <sup>1</sup>
+**Inländerbehandlung bei internen Steuern und interner Regulierung <sup>1</sup>**
+
+#### Art. 77
 
 (1) Auf Waren, die aus dem Gebiet der anderen Vertragspartei eingeführt werden, dürfen weder unmittelbar noch mittelbar interne Steuern oder sonstige interne Abgaben erhoben werden, die höher sind als die unmittelbar oder mittelbar auf gleichartige inländische Waren erhobenen Abgaben. Ferner machen die Vertragsparteien von internen Steuern oder sonstigen internen Abgaben nicht in sonstiger Weise Gebrauch, um die Inlandsproduktion zu schützen. <sup>2</sup>
 
@@ -1310,7 +1464,9 @@ Alle Einfuhr- und Ausfuhrverbote und -beschränkungen im Handel zwischen den Ver
 
 ### Antidumping- und Ausgleichsmaßnahmen — ARTIKEL 78
 
-#### Antidumping- und Ausgleichsmaßnahmen
+**Antidumping- und Ausgleichsmaßnahmen**
+
+#### Art. 78
 
 Stellt eine Vertragspartei im Handel mit der anderen Vertragspartei Dumping und/oder anfechtbare Subventionen fest, so kann sie im Einklang mit dem WTO-Übereinkommen zur Durchführung des Artikels VI des GATT 1994 und dem WTO-Übereinkommen über Subventionen und Ausgleichsmaßnahmen geeignete Maßnahmen treffen.
 
@@ -1318,7 +1474,9 @@ Stellt eine Vertragspartei im Handel mit der anderen Vertragspartei Dumping und/
 
 ### Zoll und Zollfragen — ARTIKEL 79
 
-#### Zoll und damit zusammenhängende Handelsfragen
+**Zoll und damit zusammenhängende Handelsfragen**
+
+#### Art. 79
 
 (1) Um die Einhaltung der Bestimmungen dieses Titels zu gewährleisten, soweit sie Zoll- und Handelsfragen betreffen, und um unbeschadet der Notwendigkeit effizienter Kontrollen den Handel zu erleichtern, verpflichten sich die Vertragsparteien,
 
@@ -1386,13 +1544,17 @@ d) zu gewährleisten, dass ihre Vorschriften und Verfahren im Zollbereich und da
 
 ## ARTIKEL 80
 
-#### Zollwert
+**Zollwert**
+
+#### Art. 80
 
 Die im Handel zwischen den Vertragsparteien angewandten Regeln über den Zollwert unterliegen dem WTO-Übereinkommen zur Durchführung des Artikels VII des GATT 1994, mit Ausnahme der Vorbehalte und Optionen des Artikels 20 und der Absätze 2, 3 und 4 des Anhangs III des genannten Übereinkommens.
 
 ## ARTIKEL 81
 
-#### Sonderausschuss für Zusammenarbeit im Zollbereich und Ursprungsregeln
+**Sonderausschuss für Zusammenarbeit im Zollbereich und Ursprungsregeln**
+
+#### Art. 81
 
 (1) Die Vertragsparteien setzen einen Sonderausschuss für Zusammenarbeit im Zollbereich und Ursprungsregeln ein, der sich aus Vertretern der Vertragsparteien zusammensetzt. Der Ausschuss tritt zu einem Termin und mit einer Tagesordnung zusammen, die von den Vertragsparteien im Voraus vereinbart werden. Der Vorsitz im Ausschuss wird abwechselnd von den Vertragsparteien geführt. Der Ausschuss erstattet dem Assoziationsausschuss Bericht.
 
@@ -1410,7 +1572,9 @@ d) nach Vereinbarung der Vertragsparteien sonstige Fragen zu behandeln.
 
 ## ARTIKEL 82
 
-#### Durchsetzung der Präferenzregelung
+**Durchsetzung der Präferenzregelung**
+
+#### Art. 82
 
 (1) Die Vertragsparteien sind sich darüber einig, dass die Zusammenarbeit der Verwaltungen für die Anwendung und Überwachung der in diesem Titel vorgesehenen Präferenzregelung von entscheidender Bedeutung ist, und bekräftigen erneut ihre Verpflichtung, Unregelmäßigkeiten und Betrug im Zusammenhang mit dem Ursprung der Waren, einschließlich der zolltariflichen Einreihung und des Zollwertes, zu bekämpfen.
 
@@ -1438,31 +1602,41 @@ Die vorübergehende Aussetzung darf nicht über das zum Schutz der finanziellen 
 
 ### Normen, technische Vorschriften und Konformitätsbewertungsverfahren — ARTIKEL 83
 
-#### Ziel
+**Ziel**
+
+#### Art. 83
 
 Ziel dieses Abschnitts ist es, den Warenverkehr durch Beseitigung bzw. Verhinderung unnötiger Handelshemmnisse zu erleichtern und auszubauen und dabei den legitimen Zielen der Vertragsparteien und dem Diskriminierungsverbot im Sinne des WTO-Übereinkommens über technische Handelshemmnisse Rechnung zu tragen.
 
 ## ARTIKEL 84
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 84
 
 Die Bestimmungen dieses Abschnitts gelten für den Warenverkehr im Bereich der Normen, technischen Vorschriften und Konformitätsbewertungsverfahren im Sinne des Übereinkommens über technische Handelshemmnisse. Sie gelten nicht für die unter Abschnitt 5 dieses Kapitels fallenden Maßnahmen. Technische Spezifikationen, die von staatlichen Stellen für die Zwecke der öffentlichen Beschaffung ausgearbeitet werden, unterliegen nicht den Bestimmungen dieses Abschnitts, sondern werden in Titel IV dieses Teils behandelt.
 
 ## ARTIKEL 85
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 85
 
 Für die Zwecke dieses Abschnitts gelten die Begriffsbestimmungen des Anhangs I des Übereinkommens über technische Handelshemmnisse. Der Beschluss des WTO-Ausschusses für technische Handelshemmnisse über die Grundsätze für die Ausarbeitung internationaler Normen, Leitlinien und Empfehlungen im Zusammenhang mit den Artikeln 2 und 5 sowie Anhang 3 jenes Übereinkommens findet in diesem Zusammenhang ebenfalls Anwendung.
 
 ## ARTIKEL 86
 
-#### Grundlegende Rechte und Pflichten
+**Grundlegende Rechte und Pflichten**
+
+#### Art. 86
 
 Die Vertragsparteien bekräftigen ihre Rechte und Pflichten aus dem Übereinkommen über technische Handelshemmnisse und ihr Eintreten für dessen umfassende Durchführung. In diesem Zusammenhang und im Einklang mit dem Ziel dieses Abschnitts werden die in diesem Abschnitt vorgesehenen Maßnahmen der Zusammenarbeit im Hinblick auf die Intensivierung und Verstärkung der Umsetzung dieser Rechte und Pflichten durchgeführt.
 
 ## ARTIKEL 87
 
-#### Spezifische Maßnahmen im Rahmen dieses Abkommens
+**Spezifische Maßnahmen im Rahmen dieses Abkommens**
+
+#### Art. 87
 
 Zur Verwirklichung des Ziels dieses Abschnitts treffen die Vertragsparteien folgende Maßnahmen:
 
@@ -1500,7 +1674,9 @@ f) ihre bilaterale Zusammenarbeit in den internationalen Organisationen und Grem
 
 ## ARTIKEL 88
 
-#### Ausschuss für Normen, technische Vorschriften und Konformitätsbewertung
+**Ausschuss für Normen, technische Vorschriften und Konformitätsbewertung**
+
+#### Art. 88
 
 (1) Die Vertragsparteien setzen einen Ausschuss für technische Vorschriften, Normen und Konformitätsbewertung ein, um das Ziel dieses Abschnitts zu verwirklichen. Der Ausschuss setzt sich aus Vertretern der Vertragsparteien zusammen; der Vorsitz wird von je einem Vertreter der Vertragsparteien gemeinsam geführt. Der Ausschuss tritt mindestens einmal jährlich zusammen, sofern von den Vertragsparteien nichts anderes vereinbart wird. Der Ausschuss erstattet dem Assoziationsausschuss Bericht.
 
@@ -1520,7 +1696,9 @@ e) Möglichkeiten für die Erleichterung des Zugangs zu den Märkten der Vertrag
 
 ### Gesundheitspolizeiliche und pflanzenschutzrechtliche Maßnahmen — ARTIKEL 89
 
-#### Gesundheitspolizeiliche und pflanzenschutzrechtliche Maßnahmen
+**Gesundheitspolizeiliche und pflanzenschutzrechtliche Maßnahmen**
+
+#### Art. 89
 
 (1) Ziel dieses Abschnitts ist es, den Handel zwischen den Vertragsparteien im Bereich der gesundheitspolizeilichen und pflanzenschutzrechtlichen Vorschriften zu erleichtern, gleichzeitig jedoch die öffentliche Gesundheit und die Gesundheit von Tieren und Pflanzen durch weitere Umsetzung der Grundsätze des WTO-Übereinkommens über die Anwendung gesundheitspolizeilicher und pflanzenschutzrechtlicher Maßnahmen zu schützen. Ein weiteres Ziel dieses Abschnitts ist die Prüfung von Tierschutznormen.
 
@@ -1534,7 +1712,9 @@ e) Möglichkeiten für die Erleichterung des Zugangs zu den Märkten der Vertrag
 
 ### Wein und Spirituosen — ARTIKEL 90
 
-#### Wein und Spirituosen
+**Wein und Spirituosen**
+
+#### Art. 90
 
 Das Abkommen über den Handel mit Wein und das Abkommen über den Handel mit Spirituosen und aromatisierten Getränken sind als Anhang V bzw. VI beigefügt.
 
@@ -1542,7 +1722,9 @@ Das Abkommen über den Handel mit Wein und das Abkommen über den Handel mit Spi
 
 ### AUSNAHMEN — ARTIKEL 91
 
-#### Allgemeine Ausnahmeklausel
+**Allgemeine Ausnahmeklausel**
+
+#### Art. 91
 
 Unter der Voraussetzung, dass die Maßnahmen nicht so angewandt werden, dass sie zu einer willkürlichen oder ungerechtfertigten Diskriminierung zwischen den Vertragsparteien, soweit gleiche Umstände gegeben sind, oder zu einer verschleierten Beschränkung des Handels zwischen den Vertragsparteien führen, ist dieser Titel nicht so auszulegen, als hindere er eine Vertragspartei daran, Maßnahmen zu treffen und durchzusetzen,
 
@@ -1562,7 +1744,9 @@ g) die in Strafvollzugsanstalten hergestellte Waren betreffen.
 
 ## ARTIKEL 92
 
-#### Schutzklausel
+**Schutzklausel**
+
+#### Art. 92
 
 (1) Sofern in diesem Artikel nichts anderes bestimmt ist, finden zwischen den Vertragsparteien Artikel XIX des GATT 1994 und das WTO-Übereinkommen über Schutzmaßnahmen Anwendung. Die Absätze 2, 3, 4, 5, 7, 8 und 9 finden nur Anwendung, wenn eine Vertragspartei als Ausführer der betreffenden Ware ein wesentliches Interesse im Sinne des Absatzes 10 hat.
 
@@ -1588,7 +1772,9 @@ g) die in Strafvollzugsanstalten hergestellte Waren betreffen.
 
 ## ARTIKEL 93
 
-#### Knappheitsklausel
+**Knappheitsklausel**
+
+#### Art. 93
 
 (1) Führt die Befolgung der Bestimmungen dieses Titels
 
@@ -1610,7 +1796,9 @@ und verursacht dies der ausführenden Vertragspartei erhebliche Schwierigkeiten 
 
 ### DIENSTLEISTUNGSVERKEHR UND NIEDERLASSUNG — ARTIKEL 94
 
-#### Ziele
+**Ziele**
+
+#### Art. 94
 
 (1) Die Vertragsparteien liberalisieren den Dienstleistungsverkehr auf der Grundlage der Gegenseitigkeit nach Maßgabe dieses Titels und im Einklang mit Artikel V des GATS.
 
@@ -1624,7 +1812,9 @@ und verursacht dies der ausführenden Vertragspartei erhebliche Schwierigkeiten 
 
 ## ARTIKEL 95
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 95
 
 (1) Für die Zwecke dieses Kapitels ist „Dienstleistungsverkehr“ die Erbringung einer Dienstleistung durch folgende Erbringungsweisen:
 
@@ -1660,7 +1850,9 @@ iii) Dienstleistungen von Computerreservierungssystemen (CRS).
 
 ## ARTIKEL 96
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 96
 
 Für die Zwecke dieses Kapitels gelten folgende Begriffsbestimmungen:
 
@@ -1692,7 +1884,9 @@ g) „natürliche Person“ ist eine Person, die nach den betreffenden internen 
 
 ## ARTIKEL 97
 
-#### Marktzugang
+**Marktzugang**
+
+#### Art. 97
 
 (1) Hinsichtlich des Marktzugangs durch die in Artikel 95 definierten Erbringungsweisen gewähren die Vertragsparteien für die Dienstleistungen und Dienstleistungserbringer der anderen Vertragspartei eine Behandlung, die nicht weniger günstig ist als die Behandlung, die nach den in ihrer Liste nach Artikel 99 vereinbarten und festgelegten Bestimmungen, Beschränkungen und Bedingungen vorgesehen ist.
 
@@ -1716,7 +1910,9 @@ f) Beschränkungen der Beteiligung ausländischen Kapitals durch Festsetzung ein
 
 ## ARTIKEL 98
 
-#### Inländerbehandlung
+**Inländerbehandlung**
+
+#### Art. 98
 
 (1) In den in ihrer Liste aufgeführten Sektoren gewähren die Vertragsparteien unter den darin festgelegten Bedingungen und Voraussetzungen für die Dienstleistungen und Dienstleistungserbringer der anderen Vertragspartei hinsichtlich aller Maßnahmen, die die Erbringung von Dienstleistungen betreffen, eine Behandlung, die nicht weniger günstig ist als die Behandlung, die sie für ihre eigenen gleichen Dienstleistungen und Dienstleistungserbringer gewähren. <sup>1</sup>
 
@@ -1730,7 +1926,9 @@ f) Beschränkungen der Beteiligung ausländischen Kapitals durch Festsetzung ein
 
 ## ARTIKEL 99
 
-#### Liste der besonderen Verpflichtungen
+**Liste der besonderen Verpflichtungen**
+
+#### Art. 99
 
 (1) Die von den Vertragsparteien nach den Artikeln 97 und 98 übernommenen besonderen Verpflichtungen sind in den Listen in Anhang VII festgelegt. Jede Liste enthält für die Sektoren, für die diese Verpflichtungen übernommen werden, folgende Angaben:
 
@@ -1748,7 +1946,9 @@ d) gegebenenfalls den Zeitrahmen für die Durchführung dieser Verpflichtungen u
 
 ## ARTIKEL 100
 
-#### Überprüfung
+**Überprüfung**
+
+#### Art. 100
 
 (1) Drei Jahre nach Inkrafttreten dieses Abkommens überprüfen die Vertragsparteien dieses Kapitel, um auf einer für beide Seiten vorteilhaften Grundlage unter Gewährleistung eines insgesamt ausgewogenen Verhältnisses zwischen Rechten und Pflichten die Liberalisierung weiter zu vertiefen und die noch bestehenden Beschränkungen zu verringern oder aufzuheben.
 
@@ -1756,13 +1956,17 @@ d) gegebenenfalls den Zeitrahmen für die Durchführung dieser Verpflichtungen u
 
 ## ARTIKEL 101
 
-#### Freizügigkeit
+**Freizügigkeit**
+
+#### Art. 101
 
 Zwei Jahre nach Inkrafttreten dieses Abkommens überprüfen die Vertragsparteien die Vorschriften und Bedingungen für die Freizügigkeit (Erbringungsweise 4), um zu einer weiteren Liberalisierung zu gelangen. Bei dieser Überprüfung kann auch die Änderung der Bestimmung des Begriffs „natürliche Person“ in Artikel 96 Buchstabe g behandelt werden.
 
 ## ARTIKEL 102
 
-#### Interne Rechtsvorschriften
+**Interne Rechtsvorschriften**
+
+#### Art. 102
 
 (1) Um zu gewährleisten, dass Maßnahmen, die die Zulassungs- und Zertifizierungserfordernisse und -verfahren für Dienstleistungserbringer der anderen Vertragspartei betreffen, keine unnötigen Hemmnisse für den Dienstleistungsverkehr darstellen, bemühen sich die Vertragsparteien, in den Sektoren, in denen sie in ihrer Liste besondere Verpflichtungen übernommen haben, zu gewährleisten, dass diese Maßnahmen
 
@@ -1780,7 +1984,9 @@ c) nicht eine verschleierte Beschränkung der Erbringung einer Dienstleistung da
 
 ## ARTIKEL 103
 
-#### Gegenseitige Anerkennung
+**Gegenseitige Anerkennung**
+
+#### Art. 103
 
 (1) Die Vertragsparteien gewährleisten, dass ihre zuständigen Behörden innerhalb einer angemessenen Frist nach Stellung eines Antrags auf Zulassung oder Zertifizierung durch einen Dienstleistungserbringer der anderen Vertragspartei,
 
@@ -1800,7 +2006,9 @@ b) sofern der Antrag unvollständig ist, dem Antragsteller unverzüglich mitteil
 
 ## ARTIKEL 104
 
-#### Elektronischer Geschäftsverkehr <sup>1</sup>
+**Elektronischer Geschäftsverkehr <sup>1</sup>**
+
+#### Art. 104
 
 Die Vertragsparteien erkennen an, dass die Anwendung elektronischer Mittel in vielen Sektoren neue Geschäftsmöglichkeiten eröffnet, und kommen überein, die Entwicklung ihres elektronischen Geschäftsverkehrs zu fördern, insbesondere durch Zusammenarbeit beim Marktzugang und bei den durch den elektronischen Geschäftsverkehr aufgeworfenen Regelungsfragen.
 
@@ -1810,7 +2018,9 @@ Die Vertragsparteien erkennen an, dass die Anwendung elektronischer Mittel in vi
 
 ## ARTIKEL 105
 
-#### Transparenz
+**Transparenz**
+
+#### Art. 105
 
 Die Vertragsparteien beantworten unverzüglich die Ersuchen der anderen Vertragspartei um konkrete Informationen über ihre allgemein anwendbaren Maßnahmen oder internationalen Übereinkünfte, die dieses Kapitel betreffen. Die in Artikel 190 genannte Kontaktstelle stellt den Dienstleistungserbringern der anderen Vertragspartei auf Anfrage konkrete Informationen zu allen diesen Fragen zur Verfügung. Bei den Kontaktstellen braucht es sich nicht um Verwahrer für Gesetze und sonstige Vorschriften zu handeln.
 
@@ -1818,7 +2028,9 @@ Die Vertragsparteien beantworten unverzüglich die Ersuchen der anderen Vertrags
 
 ### Internationaler Seeverkehr — ARTIKEL 106
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 106
 
 (1) Ungeachtet des Artikels 95 Absatz 5 gelten die Bestimmungen dieses Abschnitts für Reedereien, die außerhalb der Gemeinschaft bzw. Chiles niedergelassen sind und von Staatsangehörigen eines Mitgliedstaates bzw. Chiles kontrolliert werden, sofern ihre Schiffe in diesem Mitgliedstaat bzw. in Chile nach den dort geltenden Rechtsvorschriften registriert sind und unter der Flagge eines Mitgliedstaats bzw. Chiles fahren.
 
@@ -1826,7 +2038,9 @@ Die Vertragsparteien beantworten unverzüglich die Ersuchen der anderen Vertrags
 
 ## ARTIKEL 107
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 107
 
 Für die Zwecke dieses Abschnitts gelten folgende Begriffsbestimmungen:
 
@@ -1836,7 +2050,9 @@ b) „Erbringer internationaler Seeverkehrsdienstleistungen“ sind die Erbringe
 
 ## ARTIKEL 108
 
-#### Marktzugang und Inländerbehandlung
+**Marktzugang und Inländerbehandlung**
+
+#### Art. 108
 
 (1) Angesichts des zwischen den Vertragsparteien erreichten Niveaus der Liberalisierung im internationalen Seeverkehr
 
@@ -1858,7 +2074,9 @@ c) heben die Vertragsparteien bei Inkrafttreten dieses Abkommens alle einseitige
 
 ### Telekommunikationsdienstleistungen — ARTIKEL 109
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 109
 
 Für die Zwecke dieses Abschnitts gelten folgende Begriffsbestimmungen:
 
@@ -1878,7 +2096,9 @@ ii) die bei der Erbringung einer Dienstleistung wirtschaftlich oder technisch pr
 
 ## ARTIKEL 110
 
-#### Regulierungsbehörde
+**Regulierungsbehörde**
+
+#### Art. 110
 
 (1) Die Regulierungsbehörden für Telekommunikationsdienstleistungen sind von den Anbietern der Basis-Telekommunikationsdienste unabhängig und diesen gegenüber nicht rechenschaftspflichtig.
 
@@ -1888,7 +2108,9 @@ ii) die bei der Erbringung einer Dienstleistung wirtschaftlich oder technisch pr
 
 ## ARTIKEL 111
 
-#### Erbringung von Dienstleistungen
+**Erbringung von Dienstleistungen**
+
+#### Art. 111
 
 (1) Soweit eine Lizenz erforderlich ist, werden die Voraussetzungen und Bedingungen für die Lizenz und die Frist, die in der Regel für eine Entscheidung über den Antrag auf Erteilung der Lizenz benötigt wird, der Öffentlichkeit zugänglich gemacht.
 
@@ -1896,7 +2118,9 @@ ii) die bei der Erbringung einer Dienstleistung wirtschaftlich oder technisch pr
 
 ## ARTIKEL 112
 
-#### Wichtige Anbieter
+**Wichtige Anbieter**
+
+#### Art. 112
 
 (1) Ein wichtiger Anbieter ist ein Anbieter, der in der Lage ist, auf dem relevanten Markt für Basis-Telekommunikationsdienste die Teilnahmebedingungen hinsichtlich Preis und Angebot erheblich zu beeinflussen, und zwar aufgrund
 
@@ -1916,7 +2140,9 @@ c) anderen Diensteanbietern technische Informationen über wesentliche Einrichtu
 
 ## ARTIKEL 113
 
-#### Zusammenschaltung
+**Zusammenschaltung**
+
+#### Art. 113
 
 (1) Dieser Abschnitt gilt für die Herstellung einer Verbindung zu Anbietern, die öffentliche Telekommunikationsnetze oder -dienste anbieten, damit die Nutzer des einen Anbieters mit den Nutzern eines anderen Anbieters kommunizieren können und Zugang zu den von diesem angebotenen Diensten erhalten.
 
@@ -1936,13 +2162,17 @@ c) auf Anfrage außer an den Netzabschlusspunkten, die der Mehrheit der Nutzer a
 
 ## ARTIKEL 114
 
-#### Knappe Ressourcen
+**Knappe Ressourcen**
+
+#### Art. 114
 
 Verfahren für die Zuteilung und Nutzung knapper Ressourcen, einschließlich der Frequenzen und Verkehrszahlen und -rechte, werden objektiv, rechtzeitig, transparent und ohne Diskriminierung durchgeführt.
 
 ## ARTIKEL 115
 
-#### Universaldienst
+**Universaldienst**
+
+#### Art. 115
 
 (1) Jede Vertragspartei kann die Universaldienstverpflichtung festlegen, die sie aufrechtzuerhalten wünscht.
 
@@ -1952,7 +2182,9 @@ Verfahren für die Zuteilung und Nutzung knapper Ressourcen, einschließlich der
 
 ### FINANZDIENSTLEISTUNGEN — ARTIKEL 116
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 116
 
 (1) Dieses Kapitel gilt für die von den Vertragsparteien eingeführten oder aufrechterhaltenen Maßnahmen, die den Finanzdienstleistungsverkehr betreffen.
 
@@ -1982,7 +2214,9 @@ iii) sonstige Tätigkeiten, die eine öffentliche Stelle für staatliche Rechnun
 
 ## ARTIKEL 117
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 117
 
 Für die Zwecke dieses Kapitels gelten folgende Begriffsbestimmungen:
 
@@ -2072,7 +2306,9 @@ xvi) Beratungs-, Vermittlungs- und sonstige Zusatzfinanzdienstleistungen in Bezu
 
 ## ARTIKEL 118
 
-#### Marktzugang
+**Marktzugang**
+
+#### Art. 118
 
 (1) Hinsichtlich des Marktzugangs durch die in Artikel 116 definierten Erbringungsweisen gewähren die Vertragsparteien für die Finanzdienstleistungen und Finanzdienstleistungserbringer der anderen Vertragspartei eine Behandlung, die nicht weniger günstig ist als die Behandlung, die nach den in ihrer Liste nach Artikel 120 vereinbarten und festgelegten Bestimmungen, Beschränkungen und Bedingungen vorgesehen ist.
 
@@ -2096,7 +2332,9 @@ f) Beschränkungen der Beteiligung ausländischen Kapitals durch Festsetzung ein
 
 ## ARTIKEL 119
 
-#### Inländerbehandlung
+**Inländerbehandlung**
+
+#### Art. 119
 
 (1) In den in ihrer Liste aufgeführten Sektoren gewähren die Vertragsparteien unter den darin festgelegten Bedingungen und Voraussetzungen für die Finanzdienstleistungen und Finanzdienstleistungserbringer der anderen Vertragspartei hinsichtlich aller Maßnahmen, die die Erbringung von Finanzdienstleistungen betreffen, eine Behandlung, die nicht weniger günstig ist als die Behandlung, die sie für ihre eigenen gleichen Finanzdienstleistungen und Finanzdienstleistungserbringer gewähren. <sup>1</sup>
 
@@ -2110,7 +2348,9 @@ f) Beschränkungen der Beteiligung ausländischen Kapitals durch Festsetzung ein
 
 ## ARTIKEL 120
 
-#### Liste der besonderen Verpflichtungen
+**Liste der besonderen Verpflichtungen**
+
+#### Art. 120
 
 (1) Die von den Vertragsparteien nach den Artikeln 118 und 119 übernommenen besonderen Verpflichtungen sind in den Listen in Anhang VIII festgelegt. Jede Liste enthält für die Sektoren, für die diese Verpflichtungen übernommen werden, folgende Angaben:
 
@@ -2128,7 +2368,9 @@ d) gegebenenfalls den Zeitrahmen für die Durchführung dieser Verpflichtungen u
 
 ## ARTIKEL 121
 
-#### Neue Finanzdienstleistungen
+**Neue Finanzdienstleistungen**
+
+#### Art. 121
 
 (1) Die Vertragsparteien gestatten den in ihrem Gebiet niedergelassenen Finanzdienstleistungserbringern der anderen Vertragspartei, in ihrem Gebiet neue Finanzdienstleistungen im Rahmen der in ihrer Liste aufgeführten Teilsektoren und Dienstleistungen vorbehaltlich der in dieser Liste festgelegten Bestimmungen, Beschränkungen, Bedingungen und Voraussetzungen anzubieten, sofern die Einführung dieser neuen Finanzdienstleistungen nicht den Erlass neuer oder die Änderung bestehender Rechtsvorschriften erfordern.
 
@@ -2136,7 +2378,9 @@ d) gegebenenfalls den Zeitrahmen für die Durchführung dieser Verpflichtungen u
 
 ## ARTIKEL 122
 
-#### Datenverarbeitung im Finanzdienstleistungssektor
+**Datenverarbeitung im Finanzdienstleistungssektor**
+
+#### Art. 122
 
 (1) Die Vertragsparteien gestatten den Finanzdienstleistungserbringern der anderen Vertragspartei, Informationen in elektronischer oder sonstiger Form für die Zwecke der Datenverarbeitung in ihr Gebiet und aus ihrem Gebiet zu übertragen, sofern diese Datenverarbeitung für den gewöhnlichen Geschäftsverkehr des betreffenden Finanzdienstleistungserbringers erforderlich ist.
 
@@ -2144,7 +2388,9 @@ d) gegebenenfalls den Zeitrahmen für die Durchführung dieser Verpflichtungen u
 
 ## ARTIKEL 123
 
-#### Wirksame und transparente Regulierung im Finanzdienstleistungssektor
+**Wirksame und transparente Regulierung im Finanzdienstleistungssektor**
+
+#### Art. 123
 
 (1) Die Vertragsparteien unterrichten, soweit dies praktisch durchführbar ist, alle interessierten Personen im Voraus über die allgemein anwendbaren Maßnahmen, die sie zu treffen beabsichtigen, um diesen Personen Gelegenheit zu geben, zu der Maßnahme Stellung zu nehmen. Die Maßnahme wird bekannt gemacht
 
@@ -2160,7 +2406,9 @@ b) in sonstiger schriftlicher oder elektronischer Form.
 
 ## ARTIKEL 124
 
-#### Vertrauliche Informationen
+**Vertrauliche Informationen**
+
+#### Art. 124
 
 Dieses Kapitel
 
@@ -2170,7 +2418,9 @@ b) ist nicht so auszulegen, als verpflichte es eine Vertragspartei, Informatione
 
 ## ARTIKEL 125
 
-#### Aufsichtsrechtliche Ausnahmeregelung
+**Aufsichtsrechtliche Ausnahmeregelung**
+
+#### Art. 125
 
 (1) Dieses Kapitel ist nicht so auszulegen, als hindere es eine Vertragspartei daran, geeignete Maßnahmen unter anderem aus folgenden aufsichtsrechtlichen Gründen einzuführen oder aufrechtzuerhalten:
 
@@ -2184,7 +2434,9 @@ c) Gewährleistung der Integrität und Stabilität des Finanzsystems einer Vertr
 
 ## ARTIKEL 126
 
-#### Anerkennung
+**Anerkennung**
+
+#### Art. 126
 
 (1) Eine Vertragspartei kann bei der Festlegung, wie ihre Finanzdienstleistungen betreffenden Maßnahmen anzuwenden sind, aufsichtsrechtliche Maßnahmen der anderen Vertragspartei anerkennen. Diese Anerkennung kann im Wege der Harmonisierung und auf andere Weise erreicht werden und kann auf einer Übereinkunft oder Vereinbarung beruhen oder einseitig gewährt werden.
 
@@ -2192,7 +2444,9 @@ c) Gewährleistung der Integrität und Stabilität des Finanzsystems einer Vertr
 
 ## ARTIKEL 127
 
-#### Sonderausschuss für Finanzdienstleistungen
+**Sonderausschuss für Finanzdienstleistungen**
+
+#### Art. 127
 
 (1) Die Vertragsparteien setzen einen Sonderausschuss für Finanzdienstleistungen ein. Der Sonderausschuss setzt sich aus Vertretern der Vertragsparteien zusammen. Hauptvertreter jeder Vertragspartei ist ein Beamter der in Anhang IX aufgeführten für Finanzdienstleistungen zuständigen Behörde der betreffenden Vertragspartei.
 
@@ -2208,7 +2462,9 @@ b) Fragen zu Finanzdienstleistungen zu prüfen, die ihm von einer Vertragspartei
 
 ## ARTIKEL 128
 
-#### Konsultationen
+**Konsultationen**
+
+#### Art. 128
 
 (1) Die eine Vertragspartei kann die andere Vertragspartei um Konsultationen zu allen Fragen ersuchen, die sich aus diesem Kapitel ergeben. Die andere Vertragspartei prüft das Ersuchen wohlwollend. Die Vertragsparteien erstatten dem Sonderausschuss für Finanzdienstleistungen über die Ergebnisse ihrer Konsultationen Bericht.
 
@@ -2220,7 +2476,9 @@ b) Fragen zu Finanzdienstleistungen zu prüfen, die ihm von einer Vertragspartei
 
 ## ARTIKEL 129
 
-#### Besondere Bestimmungen über die Streitbeilegung
+**Besondere Bestimmungen über die Streitbeilegung**
+
+#### Art. 129
 
 (1) Sofern in diesem Artikel nichts anderes bestimmt ist, werden Streitigkeiten im Zusammenhang mit diesem Kapitel nach den Bestimmungen von Titel VIII beigelegt.
 
@@ -2238,13 +2496,17 @@ c) wird der Vorsitzende des Schiedspanels innerhalb von drei Tagen nach dem Ersu
 
 ### NIEDERLASSUNG — ARTIKEL 130
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 130
 
 Dieses Kapitel gilt für die Niederlassung in allen Sektoren mit Ausnahme sämtlicher Dienstleistungssektoren, einschließlich des Finanzdienstleistungssektors.
 
 ## ARTIKEL 131
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 131
 
 Für die Zwecke dieses Kapitels gelten folgende Begriffsbestimmungen:
 
@@ -2270,19 +2532,25 @@ dem Arbeitsmarkt und verleiht nicht das Recht auf Zugang zum Arbeitsmarkt einer 
 
 ## ARTIKEL 132
 
-#### Inländerbehandlung
+**Inländerbehandlung**
+
+#### Art. 132
 
 In den in Anhang X aufgeführten Sektoren gewähren die Vertragsparteien unter den darin festgelegten Bedingungen und Voraussetzungen den juristischen und natürlichen Personen der anderen Vertragspartei hinsichtlich der Niederlassung eine Behandlung, die nicht weniger günstig ist als die Behandlung, die sie ihren eigenen juristischen und natürlichen Personen gewähren.
 
 ## ARTIKEL 133
 
-#### Reglementierungsrecht
+**Reglementierungsrecht**
+
+#### Art. 133
 
 Vorbehaltlich des Artikels 132 kann jede Vertragspartei die Niederlassung juristischer und natürlicher Personen reglementieren.
 
 ## ARTIKEL 134
 
-#### Schlussbestimmungen
+**Schlussbestimmungen**
+
+#### Art. 134
 
 (1) Hinsichtlich dieses Kapitels bekräftigen die Vertragsparteien ihre Rechte und Pflichten aus den bilateralen und multilateralen Übereinkünften, deren Vertragsparteien sie sind.
 
@@ -2292,7 +2560,9 @@ Vorbehaltlich des Artikels 132 kann jede Vertragspartei die Niederlassung jurist
 
 ### AUSNAHMEN — ARTIKEL 135
 
-#### Ausnahmen
+**Ausnahmen**
+
+#### Art. 135
 
 (1) Unter der Voraussetzung, dass die Maßnahmen nicht so angewandt werden, dass sie zu einer willkürlichen oder ungerechtfertigten Diskriminierung zwischen den Vertragsparteien, soweit gleiche Umstände gegeben sind, oder zu einer verschleierten Beschränkung des Dienstleistungsverkehrs, des Finanzdienstleistungsverkehrs oder der Niederlassung führen, ist dieser Titel nicht so auszulegen, als hindere er die Vertragsparteien daran, Maßnahmen zu treffen und durchzusetzen,
 
@@ -2324,13 +2594,17 @@ iii) die Sicherheit.
 
 ### ÖFFENTLICHES BESCHAFFUNGSWESEN — ARTIKEL 136
 
-#### Ziel
+**Ziel**
+
+#### Art. 136
 
 Im Einklang mit den Bestimmungen dieses Titels gewährleisten die Vertragsparteien die wirksame beiderseitige Öffnung ihrer öffentlichen Beschaffungsmärkte.
 
 ## ARTIKEL 137
 
-#### Ziel und Geltungsbereich
+**Ziel und Geltungsbereich**
+
+#### Art. 137
 
 (1) Dieser Titel gilt vorbehaltlich der von den Vertragsparteien in den Anhängen XI, XII und XIII festgelegten Bedingungen für die Gesetze, sonstigen Vorschriften und Verfahren sowie die Praxis für die Beschaffung von Waren und Dienstleistungen einschließlich Bauleistungen durch die Beschaffungsstellen der Vertragsparteien.
 
@@ -2366,7 +2640,9 @@ d) Finanzdienstleistungen.
 
 ## ARTIKEL 138
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 138
 
 Für die Zwecke dieses Titels gelten folgende Begriffsbestimmungen:
 
@@ -2408,7 +2684,9 @@ n) „Liberalisierung“ ist ein Verfahren, als dessen Ergebnis ein Unternehmen 
 
 ## ARTIKEL 139
 
-#### Inländerbehandlung und Diskriminierungsverbot
+**Inländerbehandlung und Diskriminierungsverbot**
+
+#### Art. 139
 
 (1) Die Vertragsparteien gewährleisten, dass die unter diesen Titel fallende Beschaffung durch ihre Beschaffungsstellen transparent, fair und ohne Diskriminierung erfolgt und dass dabei die Anbieter beider Vertragsparteien gleich behandelt werden und der Grundsatz des offenen und wirksamen Wettbewerbs beachtet wird.
 
@@ -2424,13 +2702,17 @@ b) dass ihre Beschaffungsstellen einen im Inland niedergelassenen Anbieter nicht
 
 ## ARTIKEL 140
 
-#### Verbot von Kompensationen und nationalen Präferenzen
+**Verbot von Kompensationen und nationalen Präferenzen**
+
+#### Art. 140
 
 Die Vertragsparteien gewährleisten, dass ihre Beschaffungsstellen bei der Prüfung der Qualifikation und der Auswahl der Anbieter, Waren und Dienstleistungen, der Wertung der Angebote und der Vergabe der Aufträge weder Kompensationen berücksichtigen, anstreben oder vorschreiben noch Bedingungen hinsichtlich nationaler Präferenzen wie Spannen, die Preispräferenzen ermöglichen.
 
 ## ARTIKEL 141
 
-#### Bewertungsregeln
+**Bewertungsregeln**
+
+#### Art. 141
 
 (1) Bei der Prüfung, ob ein Auftrag unter die Disziplinen dieses Titels fällt, dürfen die Beschaffungsstellen vorbehaltlich der Bedingungen der Anhänge XI und XII Anlagen 1 bis 3 weder einen Auftrag teilen noch eine andere Methode der Auftragsbewertung in der Absicht anwenden, die Anwendung der Bestimmungen dieses Titels zu umgehen.
 
@@ -2440,7 +2722,9 @@ Die Vertragsparteien gewährleisten, dass ihre Beschaffungsstellen bei der Prüf
 
 ## ARTIKEL 142
 
-#### Transparenz
+**Transparenz**
+
+#### Art. 142
 
 (1) Die Vertragsparteien veröffentlichen alle Gesetze, sonstigen Vorschriften, Gerichtsentscheidungen und allgemein anwendbaren Verwaltungsentscheidungen sowie Verfahrensvorschriften, einschließlich Standardvertragsbestimmungen, die das unter diesen Titel fallende öffentliche Beschaffungswesen betreffen, unverzüglich in den entsprechenden in Anhang XIII Anlage 2 aufgeführten Veröffentlichungen, einschließlich der von amtlicher Seite angegebenen elektronischen Medien.
 
@@ -2448,7 +2732,9 @@ Die Vertragsparteien gewährleisten, dass ihre Beschaffungsstellen bei der Prüf
 
 ## ARTIKEL 143
 
-#### Ausschreibungsverfahren
+**Ausschreibungsverfahren**
+
+#### Art. 143
 
 (1) Die Beschaffungsstellen vergeben ihre öffentlichen Aufträge in offenen oder beschränkten Ausschreibungsverfahren nach den für sie geltenden internen Verfahren, im Einklang mit diesem Titel und ohne Diskriminierung.
 
@@ -2464,7 +2750,9 @@ b) „beschränkte Ausschreibungsverfahren“ sind Verfahren, in denen nach Arti
 
 ## ARTIKEL 144
 
-#### Beschränkte Ausschreibungsverfahren
+**Beschränkte Ausschreibungsverfahren**
+
+#### Art. 144
 
 (1) In beschränkten Ausschreibungsverfahren können die Beschaffungsstellen die Zahl der qualifizierten Anbieter, die sie zur Abgabe eines Angebots auffordern, in einer mit dem effizienten Funktionieren des Beschaffungsverfahrens vereinbaren Weise beschränken, sofern sie so viele inländische Anbieter und Anbieter der anderen Vertragspartei wie möglich auswählen und die Auswahl fair und ohne Diskriminierung anhand der in der Bekanntmachung der Ausschreibung oder in den Ausschreibungsunterlagen angegebenen Kriterien treffen.
 
@@ -2472,7 +2760,9 @@ b) „beschränkte Ausschreibungsverfahren“ sind Verfahren, in denen nach Arti
 
 ## ARTIKEL 145
 
-#### Andere Verfahren
+**Andere Verfahren**
+
+#### Art. 145
 
 (1) Vorausgesetzt, dass von dem Ausschreibungsverfahren nicht Gebrauch gemacht wird, um einen möglichst uneingeschränkten Wettbewerb zu verhindern oder um inländische Anbieter zu schützen, können die Beschaffungsstellen unter folgenden Umständen und Bedingungen Aufträge auf andere Weise als in einem offenen oder beschränkten Ausschreibungsverfahren vergeben:
 
@@ -2498,7 +2788,9 @@ i) wenn notierte Waren auf einem Warenmarkt oder zu außerordentlich günstigen 
 
 ## ARTIKEL 146
 
-#### Qualifizierung der Anbieter
+**Qualifizierung der Anbieter**
+
+#### Art. 146
 
 (1) Die Voraussetzungen für die Teilnahme an der Ausschreibung sind auf die Voraussetzungen zu beschränken, die unerlässlich sind, um zu gewährleisten, dass der potenzielle Anbieter in der Lage ist, die Anforderungen der Ausschreibung zu erfüllen, und die für die Ausführung des betreffenden Auftrags erforderliche fachliche Eignung besitzt.
 
@@ -2524,7 +2816,9 @@ d) Verwendet eine Beschaffungsstelle, die im Versorgungssektor tätig ist, eine 
 
 ## ARTIKEL 147
 
-#### Veröffentlichung von Bekanntmachungen
+**Veröffentlichung von Bekanntmachungen**
+
+#### Art. 147
 
 Allgemeine Bestimmungen
 
@@ -2572,7 +2866,9 @@ Gemeinsame Bestimmungen
 
 ## ARTIKEL 148
 
-#### Ausschreibungsunterlagen
+**Ausschreibungsunterlagen**
+
+#### Art. 148
 
 (1) Die den Anbietern übermittelten Ausschreibungsunterlagen enthalten alle Informationen, die diese benötigen, um ein den Anforderungen entsprechendes Angebot abgeben zu können.
 
@@ -2582,7 +2878,9 @@ Gemeinsame Bestimmungen
 
 ## ARTIKEL 149
 
-#### Technische Spezifikationen
+**Technische Spezifikationen**
+
+#### Art. 149
 
 (1) Die technischen Spezifikationen werden in den Bekanntmachungen, in den Ausschreibungsunterlagen oder in zusätzlichen Unterlagen mitgeteilt.
 
@@ -2610,7 +2908,9 @@ b) beruhen auf internationalen Normen oder, sofern internationale Normen nicht b
 
 ## ARTIKEL 150
 
-#### Fristen
+**Fristen**
+
+#### Art. 150
 
 (1) Die von den Beschaffungsstellen festgesetzten Fristen für die Einreichung der Angebote und Teilnahmeanträge müssen so bemessen sein, dass die Anbieter der anderen Vertragspartei wie die inländischen Anbieter ihre Angebote bzw. Teilnahmeanträge oder Anträge auf Qualifizierung ausarbeiten und einreichen können. Bei der Festsetzung dieser Fristen berücksichtigen die Beschaffungsstellen im Einklang mit ihren eigenen angemessenen Bedürfnissen Faktoren wie die Komplexität des Auftrags und die übliche Zeit für die Übermittlung der Angebote aus dem Ausland wie aus dem Inland.
 
@@ -2620,7 +2920,9 @@ b) beruhen auf internationalen Normen oder, sofern internationale Normen nicht b
 
 ## ARTIKEL 151
 
-#### Verhandlungen
+**Verhandlungen**
+
+#### Art. 151
 
 (1) Die Vertragsparteien können vorsehen, dass ihre Beschaffungsstellen Verhandlungen führen
 
@@ -2640,7 +2942,9 @@ c) dass alle verbleibenden Teilnehmer auf der Grundlage der geänderten Anforder
 
 ## ARTIKEL 152
 
-#### Einreichung, Eingang und Eröffnung der Angebote
+**Einreichung, Eingang und Eröffnung der Angebote**
+
+#### Art. 152
 
 (1) Die Angebote und die Anträge auf Teilnahme an einem Verfahren sind schriftlich einzureichen.
 
@@ -2648,7 +2952,9 @@ c) dass alle verbleibenden Teilnehmer auf der Grundlage der geänderten Anforder
 
 ## ARTIKEL 153
 
-#### Vergabe der Aufträge
+**Vergabe der Aufträge**
+
+#### Art. 153
 
 (1) Um für die Vergabe in Betracht zu kommen, muss ein Angebot zum Zeitpunkt seiner Eröffnung den wesentlichen Anforderungen der Bekanntmachungen oder Ausschreibungsunterlagen entsprechen und von einem Anbieter eingereicht worden sein, der die Teilnahmevoraussetzungen erfüllt.
 
@@ -2656,7 +2962,9 @@ c) dass alle verbleibenden Teilnehmer auf der Grundlage der geänderten Anforder
 
 ## ARTIKEL 154
 
-#### Unterrichtung über die Auftragsvergabe
+**Unterrichtung über die Auftragsvergabe**
+
+#### Art. 154
 
 (1) Die Vertragsparteien gewährleisten, dass ihre Beschaffungsstellen für eine effiziente Verbreitung der Ergebnisse der öffentlichen Beschaffungsverfahren sorgen.
 
@@ -2666,7 +2974,9 @@ c) dass alle verbleibenden Teilnehmer auf der Grundlage der geänderten Anforder
 
 ## ARTIKEL 155
 
-#### Widerspruchsverfahren
+**Widerspruchsverfahren**
+
+#### Art. 155
 
 (1) Beschwerden von Anbietern mit der Behauptung, dass die Bestimmungen dieses Titels in einem Beschaffungsverfahren verletzt worden sind, werden von den Beschaffungsstellen unparteiisch und rasch geprüft.
 
@@ -2682,7 +2992,9 @@ b) dass die Verletzung der Bestimmungen dieses Titels gegebenenfalls behoben ode
 
 ## ARTIKEL 156
 
-#### Informationstechnologie
+**Informationstechnologie**
+
+#### Art. 156
 
 (1) Die Vertragsparteien bemühen sich soweit wie möglich, elektronische Kommunikationsmittel einzusetzen, um unter Beachtung des Grundsatzes der Transparenz und des Diskriminierungsverbotes eine effiziente Verbreitung von Informationen über öffentliche Beschaffungen zu ermöglichen, insbesondere über die Ausschreibungen der Beschaffungsstellen.
 
@@ -2692,19 +3004,25 @@ b) dass die Verletzung der Bestimmungen dieses Titels gegebenenfalls behoben ode
 
 ## ARTIKEL 157
 
-#### Zusammenarbeit und Hilfe
+**Zusammenarbeit und Hilfe**
+
+#### Art. 157
 
 Die Vertragsparteien bemühen sich, durch Entwicklung von Ausbildungsprogrammen im technischen Bereich zusammenzuarbeiten und einander Hilfe zu leisten, um ein besseres Verständnis der Verfahren und Statistiken im öffentlichen Beschaffungswesen und einen leichteren Zugang zu den Märkten der anderen Vertragspartei zu erreichen.
 
 ## ARTIKEL 158
 
-#### Statistische Berichte
+**Statistische Berichte**
+
+#### Art. 158
 
 Gewährleistet eine Vertragspartei die Einhaltung des Artikels 147 Absatz 11 nicht auf einem annehmbaren Niveau, so erstellt sie auf Ersuchen der anderen Vertragspartei jährliche Statistiken über ihre unter diesen Titel fallenden Beschaffungen und übermittelt sie der anderen Vertragspartei. Diese Berichte enthalten die in Anhang XIII Anlage 4 festgelegten Informationen.
 
 ## ARTIKEL 159
 
-#### Änderung des Geltungsbereichs
+**Änderung des Geltungsbereichs**
+
+#### Art. 159
 
 (1) Eine Vertragspartei kann den sie betreffenden Geltungsbereich dieses Titels ändern, sofern sie der anderen Vertragspartei
 
@@ -2722,13 +3040,17 @@ b) Beschaffungsstellen, bei denen die staatliche Kontrolle oder der staatliche E
 
 ## ARTIKEL 160
 
-#### Weitere Verhandlungen
+**Weitere Verhandlungen**
+
+#### Art. 160
 
 Bietet eine Vertragspartei künftig einer dritten Partei zusätzliche Vorteile beim Zugang zu ihren Beschaffungsmärkten, die über die in diesem Titel getroffenen Vereinbarungen hinausgehen, so erklärt sie sich bereit, in Verhandlungen mit der anderen Vertragspartei mit dem Ziel einzutreten, diese Vorteile durch Beschluss des Assoziationsausschusses auf der Grundlage der Gegenseitigkeit auf die andere Vertragspartei auszudehnen.
 
 ## ARTIKEL 161
 
-#### Ausnahmen
+**Ausnahmen**
+
+#### Art. 161
 
 Unter der Voraussetzung, dass die Maßnahmen nicht so angewandt werden, dass sie zu einer willkürlichen oder ungerechtfertigten Diskriminierung zwischen den Vertragsparteien oder zu einer verschleierten Beschränkung des Handels zwischen den Vertragsparteien führen, ist dieser Titel nicht so auszulegen, als hindere er die Vertragsparteien daran, Maßnahmen einzuführen oder aufrechtzuerhalten,
 
@@ -2744,7 +3066,9 @@ e) die Waren oder Dienstleistungen betreffen, die von Behinderten, Wohltätigkei
 
 ## ARTIKEL 162
 
-#### Überprüfung und Durchführung
+**Überprüfung und Durchführung**
+
+#### Art. 162
 
 Der Assoziationsausschuss überprüft die Durchführung dieses Titels alle zwei Jahre, sofern von den Vertragsparteien nichts anderes vereinbart wird; er prüft die sich daraus ergebenden Fragen und trifft in Ausübung seiner Befugnisse geeignete Maßnahmen. Er hat vor allem die Aufgabe,
 
@@ -2758,7 +3082,9 @@ c) in den in diesem Titel vorgesehenen Fällen Beschlüsse zu fassen.
 
 ### LAUFENDE ZAHLUNGEN UND KAPITALVERKEHR — ARTIKEL 163
 
-#### Ziel und Geltungsbereich
+**Ziel und Geltungsbereich**
+
+#### Art. 163
 
 (1) Die Vertragsparteien streben an, die laufenden Zahlungen und den Kapitalverkehr zwischen den Vertragsparteien im Einklang mit den im Rahmen der internationalen Finanzinstitutionen übernommenen Verpflichtungen und unter Berücksichtigung der Stabilität der Währungen der Vertragsparteien zu liberalisieren.
 
@@ -2766,19 +3092,25 @@ c) in den in diesem Titel vorgesehenen Fällen Beschlüsse zu fassen.
 
 ## ARTIKEL 164
 
-#### Leistungsbilanz
+**Leistungsbilanz**
+
+#### Art. 164
 
 Die Vertragsparteien genehmigen Leistungsbilanzzahlungen und -transfers zwischen den Vertragsparteien in frei konvertierbarer Währung nach dem Übereinkommen über den Internationalen Währungsfonds.
 
 ## ARTIKEL 165
 
-#### Kapitalbilanz
+**Kapitalbilanz**
+
+#### Art. 165
 
 Hinsichtlich der Kapitalbilanztransaktionen genehmigen die Vertragsparteien ab Inkrafttreten des Abkommens den freien Kapitalverkehr im Zusammenhang mit nach den Rechtsvorschriften des Aufnahmestaates getätigten Direktinvestitionen und nach den Bestimmungen von Titel III dieses Teils getätigten Investitionen sowie die Liquidation oder Rückführung dieses Kapitals und daraus resultierender Gewinne.
 
 ## ARTIKEL 166
 
-#### Ausnahmen und Schutzmaßnahmen
+**Ausnahmen und Schutzmaßnahmen**
+
+#### Art. 166
 
 (1) In Ausnahmefällen, in denen die Zahlungen und der Kapitalverkehr zwischen den Vertragsparteien ernste Schwierigkeiten für die Durchführung der Währungs- oder Wechselkurspolitik einer Vertragspartei verursacht oder zu verursachen droht, kann die betreffende Vertragspartei für höchstens ein Jahr die unbedingt notwendigen Schutzmaßnahmen hinsichtlich des Kapitalverkehrs treffen. Die Anwendung der Schutzmaßnahmen kann durch förmliche Wiedereinführung verlängert werden.
 
@@ -2786,7 +3118,9 @@ Hinsichtlich der Kapitalbilanztransaktionen genehmigen die Vertragsparteien ab I
 
 ## ARTIKEL 167
 
-#### Schlussbestimmungen
+**Schlussbestimmungen**
+
+#### Art. 167
 
 (1) Hinsichtlich dieses Titels bekräftigen die Vertragsparteien ihre Rechte und Pflichten aus den bilateralen und multilateralen Übereinkünften, deren Vertragsparteien sie sind.
 
@@ -2796,19 +3130,25 @@ Hinsichtlich der Kapitalbilanztransaktionen genehmigen die Vertragsparteien ab I
 
 ### RECHTE AN GEISTIGEM EIGENTUM — ARTIKEL 168
 
-#### Ziel
+**Ziel**
+
+#### Art. 168
 
 Die Vertragsparteien gewähren und gewährleisten einen angemessenen und wirksamen Schutz der Rechte an geistigem Eigentum nach den strengsten internationalen Normen; dazu gehören auch die in internationalen Übereinkünften vorgesehenen wirksamen Mittel zur Durchsetzung dieser Rechte.
 
 ## ARTIKEL 169
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 169
 
 Für die Zwecke dieses Abkommens umfassen die „Rechte an geistigem Eigentum“ das Urheberrecht einschließlich des Urheberrechts an Computerprogrammen und Datenbanken und die verwandten Schutzrechte, die Rechte an Patenten, gewerblichen Mustern und Modellen, geografischen Angaben einschließlich der Ursprungsbezeichnungen, Marken und Layout-Designs (Topografien) integrierter Schaltkreise sowie den Schutz vertraulicher Informationen und den Schutz gegen unlauteren Wettbewerb im Sinne des Artikels 10bis der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums (Stockholmer Fassung von 1967).
 
 ## ARTIKEL 170
 
-#### Schutz der Rechte an geistigem Eigentum
+**Schutz der Rechte an geistigem Eigentum**
+
+#### Art. 170
 
 Zur Verwirklichung der Ziele des Artikels 168
 
@@ -2856,7 +3196,9 @@ iii) Wiener Abkommen zur Errichtung einer internationalen Klassifikation der Bil
 
 ## ARTIKEL 171
 
-#### Überprüfung
+**Überprüfung**
+
+#### Art. 171
 
 Die Vertragsparteien geben ihrem Eintreten für die Erfüllung der Verpflichtungen Ausdruck, die sich aus den genannten multilateralen Übereinkünften ergeben; der Assoziationsrat kann beschließen, weitere multilaterale Übereinkünfte in diesem Bereich in Artikel 170 einzubeziehen.
 
@@ -2864,7 +3206,9 @@ Die Vertragsparteien geben ihrem Eintreten für die Erfüllung der Verpflichtung
 
 ### WETTBEWERB — ARTIKEL 172
 
-#### Ziele
+**Ziele**
+
+#### Art. 172
 
 (1) Die Vertragsparteien verpflichten sich, ihr Wettbewerbsrecht in einer mit diesem Teil vereinbaren Weise anzuwenden, um zu verhindern, dass die aus der Liberalisierung des Waren- und Dienstleistungsverkehrs erwachsenden Vorteile durch wettbewerbsfeindliche Verhaltensweisen verringert oder zunichte gemacht werden. Zu diesem Zweck vereinbaren die Vertragsparteien eine Zusammenarbeit und Koordinierung zwischen ihren Wettbewerbsbehörden nach Maßgabe der Bestimmungen dieses Titels.
 
@@ -2874,7 +3218,9 @@ Die Vertragsparteien geben ihrem Eintreten für die Erfüllung der Verpflichtung
 
 ## ARTIKEL 173
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 173
 
 Für die Zwecke dieses Titels gelten folgende Begriffsbestimmungen:
 
@@ -2896,7 +3242,9 @@ b) im Falle Chiles die „Fiscalía Nacional Económica“ und die „Comisión 
 
 ## ARTIKEL 174
 
-#### Notifizierungen
+**Notifizierungen**
+
+#### Art. 174
 
 (1) Die Wettbewerbsbehörden notifizieren der Wettbewerbsbehörde der anderen Vertragspartei Vollzugsmaßnahmen, die
 
@@ -2914,13 +3262,17 @@ c) wettbewerbsfeindliche Handlungen betreffen, die hauptsächlich im Gebiet der 
 
 ## ARTIKEL 175
 
-#### Koordinierung der Vollzugsmaßnahmen
+**Koordinierung der Vollzugsmaßnahmen**
+
+#### Art. 175
 
 Die Wettbewerbsbehörde der einen Vertragspartei kann der Wettbewerbsbehörde der anderen Vertragspartei ihre Bereitschaft notifizieren, die einen bestimmten Fall betreffenden Vollzugsmaßnahmen zu koordinieren. Diese Koordinierung hindert die Vertragsparteien nicht daran, autonome Entscheidungen zu treffen.
 
 ## ARTIKEL 176
 
-#### Konsultationen im Falle der Beeinträchtigung wichtiger Interessen der einen Vertragspartei im Gebiet der anderen Vertragspartei
+**Konsultationen im Falle der Beeinträchtigung wichtiger Interessen der einen Vertragspartei im Gebiet der anderen Vertragspartei**
+
+#### Art. 176
 
 (1) Bei der Durchführung ihrer Vollzugsmaßnahmen berücksichtigen die Vertragsparteien im Einklang mit ihren Rechtsvorschriften gegebenenfalls wichtige Interessen der anderen Vertragspartei. Ist die Wettbewerbsbehörde der einen Vertragspartei der Auffassung, dass eine Untersuchung oder ein Verfahren der Wettbewerbsbehörde der anderen Vertragspartei wichtige Interessen ihrer Vertragspartei beeinträchtigen könnte, so kann sie der anderen Wettbewerbsbehörde ihre Auffassung zu der Frage mitteilen oder sie um Konsultationen ersuchen. Unbeschadet der Fortsetzung der Maßnahmen nach ihrem Wettbewerbsrecht und ihrer letztlich uneingeschränkten Entscheidungsfreiheit sollte die ersuchte Wettbewerbsbehörde die Auffassung der ersuchenden Wettbewerbsbehörde eingehend und wohlwollend prüfen.
 
@@ -2928,7 +3280,9 @@ Die Wettbewerbsbehörde der einen Vertragspartei kann der Wettbewerbsbehörde de
 
 ## ARTIKEL 177
 
-#### Informationsaustausch und Vertraulichkeit
+**Informationsaustausch und Vertraulichkeit**
+
+#### Art. 177
 
 (1) Die Wettbewerbsbehörden können nichtvertrauliche Informationen austauschen, um die wirksame Anwendung ihres Wettbewerbsrechts zu erleichtern.
 
@@ -2944,13 +3298,17 @@ Die Wettbewerbsbehörde der einen Vertragspartei kann der Wettbewerbsbehörde de
 
 ## ARTIKEL 178
 
-#### Technische Hilfe
+**Technische Hilfe**
+
+#### Art. 178
 
 Die Vertragsparteien können einander technische Hilfe leisten, um die Erfahrung der anderen Vertragspartei zu nutzen und die Anwendung ihrer Wettbewerbsgesetze und ihrer Wettbewerbspolitik zu verbessern.
 
 ## ARTIKEL 179
 
-#### Öffentliche Unternehmen und Unternehmen mit besonderen oder ausschließlichen Rechte, einschließlich Monopolen
+**Öffentliche Unternehmen und Unternehmen mit besonderen oder ausschließlichen Rechte, einschließlich Monopolen**
+
+#### Art. 179
 
 (1) Dieser Titel hindert die Vertragsparteien nicht daran, nach ihrem Recht öffentliche oder private Monopole zu bestimmen oder aufrechtzuerhalten.
 
@@ -2958,7 +3316,9 @@ Die Vertragsparteien können einander technische Hilfe leisten, um die Erfahrung
 
 ## ARTIKEL 180
 
-#### Streitbeilegung
+**Streitbeilegung**
+
+#### Art. 180
 
 Die Vertragsparteien dürfen für Fragen, die sich aus diesem Titel ergeben, nicht die in diesem Abkommen vorgesehene Streitbeilegung in Anspruch nehmen.
 
@@ -2970,13 +3330,17 @@ Die Vertragsparteien dürfen für Fragen, die sich aus diesem Titel ergeben, nic
 
 ## ARTIKEL 181
 
-#### Ziel
+**Ziel**
+
+#### Art. 181
 
 Ziel dieses Titels ist es, Streitigkeiten zwischen den Vertragsparteien über die Anwendung dieses Teils nach Treu und Glauben zu vermeiden und beizulegen und zu einer beide Seiten zufrieden stellenden Lösung aller Fragen zu gelangen, die sein Funktionieren beeinträchtigen könnten.
 
 ## ARTIKEL 182
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 182
 
 Die Bestimmungen dieses Titels gelten für alle Fragen, die sich aus der Auslegung und Anwendung dieses Teils ergeben, sofern nicht ausdrücklich etwas anderes bestimmt ist.
 
@@ -2984,7 +3348,9 @@ Die Bestimmungen dieses Titels gelten für alle Fragen, die sich aus der Auslegu
 
 ### STREITVERMEIDUNG — ARTIKEL 183
 
-#### Konsultationen
+**Konsultationen**
+
+#### Art. 183
 
 (1) Die Vertragsparteien bemühen sich stets um eine einvernehmliche Auslegung und Anwendung dieses Teils und unternehmen im Rahmen von Zusammenarbeit und Konsultationen alle Anstrengungen, um Streitigkeiten zu vermeiden und beizulegen und zu einer beide Seiten zufrieden stellenden Lösung aller Fragen zu gelangen, die sein Funktionieren beeinträchtigen könnten.
 
@@ -2996,7 +3362,9 @@ Die Bestimmungen dieses Titels gelten für alle Fragen, die sich aus der Auslegu
 
 ### STREITBEILEGUNGSVERFAHREN — ARTIKEL 184
 
-#### Einleitung des Verfahrens
+**Einleitung des Verfahrens**
+
+#### Art. 184
 
 (1) Die Vertragsparteien bemühen sich stets, zu einer beide Seiten zufrieden stellenden Beilegung der Streitigkeit zu gelangen.
 
@@ -3006,7 +3374,9 @@ Die Bestimmungen dieses Titels gelten für alle Fragen, die sich aus der Auslegu
 
 ## ARTIKEL 185
 
-#### Bestellung der Schiedsrichter
+**Bestellung der Schiedsrichter**
+
+#### Art. 185
 
 (1) Ein Schiedspanel setzt sich aus drei Schiedsrichtern zusammen.
 
@@ -3022,13 +3392,17 @@ Die Bestimmungen dieses Titels gelten für alle Fragen, die sich aus der Auslegu
 
 ## ARTIKEL 186
 
-#### Informationen und fachliche Beratung
+**Informationen und fachliche Beratung**
+
+#### Art. 186
 
 Das Panel kann auf Ersuchen einer Vertragspartei oder von sich aus die Personen oder Stellen, die es für geeignet erachtet, um Informationen oder fachliche Beratung ersuchen. Die auf diese Weise erlangten Informationen werden den Vertragsparteien zur Stellungnahme übermittelt.
 
 ## ARTIKEL 187
 
-#### Entscheidung des Schiedspanels
+**Entscheidung des Schiedspanels**
+
+#### Art. 187
 
 (1) Das Schiedspanel übermittelt seine Entscheidung mit seinen Feststellungen und Schlussfolgerungen in der Regel spätestens drei Monate nach dem Tag der Einsetzung des Schiedspanels den Vertragsparteien und dem Assoziationsausschuss. Auf keinen Fall übermittelt es sie später als fünf Monate nach diesem Tag. Das Schiedspanel stützt seine Entscheidung auf die Schriftsätze und Mitteilungen der Vertragsparteien und auf die nach Artikel 186 erhaltenen Informationen. Die Entscheidung ist endgültig und wird der Öffentlichkeit zugänglich gemacht.
 
@@ -3048,7 +3422,9 @@ Das Panel kann auf Ersuchen einer Vertragspartei oder von sich aus die Personen 
 
 ## ARTIKEL 188
 
-#### Durchführung der Entscheidung
+**Durchführung der Entscheidung**
+
+#### Art. 188
 
 (1) Die Vertragsparteien sind verpflichtet, die für die Durchführung der Entscheidung des Schiedspanels erforderlichen Maßnahmen zu treffen.
 
@@ -3082,7 +3458,9 @@ c) einen konkreten Vorschlag für einen vorübergehenden Ausgleich für die Zeit
 
 ### ALLGEMEINE BESTIMMUNGEN — ARTIKEL 189
 
-#### Allgemeine Bestimmungen
+**Allgemeine Bestimmungen**
+
+#### Art. 189
 
 (1) Die in diesem Titel genannten Fristen können im gegenseitigen Einvernehmen der Vertragsparteien geändert werden.
 
@@ -3102,7 +3480,9 @@ d) Wenn ein Streitbeilegungsverfahren eingeleitet ist, wird ausschließlich das 
 
 ### TRANSPARENZ — ARTIKEL 190
 
-#### Kontaktstellen und Informationsaustausch
+**Kontaktstellen und Informationsaustausch**
+
+#### Art. 190
 
 (1) Um die Kommunikation zwischen den Vertragsparteien über die unter diesen Teil fallenden Handelsfragen zu erleichtern, benennt jede Vertragspartei eine Kontaktstelle. Auf Ersuchen einer Vertragspartei gibt die Kontaktstelle der anderen Vertragspartei die für die betreffende Frage zuständigen Stellen oder Beamten an und leistet die erbetene Hilfe, um die Kommunikation mit der ersuchenden Vertragspartei zu erleichtern.
 
@@ -3112,13 +3492,17 @@ d) Wenn ein Streitbeilegungsverfahren eingeleitet ist, wird ausschließlich das 
 
 ## ARTIKEL 191
 
-#### Zusammenarbeit bei der Erhöhung der Transparenz
+**Zusammenarbeit bei der Erhöhung der Transparenz**
+
+#### Art. 191
 
 Die Vertragsparteien kommen überein, in bilateralen und multilateralen Gremien bei der Suche nach Möglichkeiten zusammenzuarbeiten, die Transparenz in Handelsfragen zu erhöhen.
 
 ## ARTIKEL 192
 
-#### Veröffentlichung
+**Veröffentlichung**
+
+#### Art. 192
 
 Die Vertragsparteien gewährleisten, dass ihre Gesetze, sonstigen Vorschriften, Verfahren und allgemein anwendbaren Verwaltungsentscheidungen, die unter diesen Teil fallende Handelsfragen betreffen, unverzüglich veröffentlicht oder der Öffentlichkeit zugänglich gemacht werden.
 
@@ -3126,7 +3510,9 @@ Die Vertragsparteien gewährleisten, dass ihre Gesetze, sonstigen Vorschriften, 
 
 ### BESONDERE AUFGABEN DER MIT DIESEM ABKOMMEN EINGESETZTEN ORGANE IN HANDELSFRAGEN — ARTIKEL 193
 
-#### Besondere Aufgaben
+**Besondere Aufgaben**
+
+#### Art. 193
 
 (1) Wenn der Assoziationsausschuss die ihm mit diesem Teil übertragenen Aufgaben erfüllt, setzt er sich aus für Handelsfragen zuständigen Vertretern der Gemeinschaft und Chiles zusammen, bei denen es sich in der Regel um hohe Beamte handelt.
 
@@ -3164,7 +3550,9 @@ d) im Zusammenhang mit Handelsfragen nach Artikel 6 Beschlüsse fassen oder Empf
 
 ### AUSNAHMEN IM HANDELSBEREICH — ARTIKEL 194
 
-#### Klausel über die nationale Sicherheit
+**Klausel über die nationale Sicherheit**
+
+#### Art. 194
 
 (1) Dieses Abkommen ist nicht so auszulegen,
 
@@ -3186,7 +3574,9 @@ c) als hindere es eine Vertragspartei daran, Maßnahmen in Erfüllung ihrer Verp
 
 ## ARTIKEL 195
 
-#### Zahlungsbilanzschwierigkeiten
+**Zahlungsbilanzschwierigkeiten**
+
+#### Art. 195
 
 (1) Bei bereits eingetretenen oder drohenden ernsten Zahlungsbilanzschwierigkeiten und externen finanziellen Schwierigkeiten kann eine Vertragspartei Beschränkungen des Waren- und Dienstleistungsverkehrs sowie der Zahlungen und des Kapitalverkehrs einschließlich der Direktinvestitionen einführen oder aufrechterhalten.
 
@@ -3208,7 +3598,9 @@ In den Konsultationen wird geprüft, ob die Beschränkungen mit den Absätzen 3 
 
 ## ARTIKEL 196
 
-#### Steuern
+**Steuern**
+
+#### Art. 196
 
 (1) Dieser Teil und die aufgrund dieses Abkommens getroffenen Regelungen sind nicht so auszulegen, als hinderten sie die Vertragsparteien daran, bei der Anwendung ihrer Steuervorschriften die Steuerpflichtigen unterschiedlich zu behandeln, die sich insbesondere hinsichtlich ihres Wohnsitzes oder des Ortes, an dem ihr Kapital investiert ist, nicht in einer gleichartigen Situation befinden.
 
@@ -3220,13 +3612,17 @@ In den Konsultationen wird geprüft, ob die Beschränkungen mit den Absätzen 3 
 
 ### SCHLUSSBESTIMMUNGEN — ARTIKEL 197
 
-#### Bestimmung des Begriffs „Vertragsparteien“
+**Bestimmung des Begriffs „Vertragsparteien“**
+
+#### Art. 197
 
 Für die Zwecke dieses Abkommens sind „Vertragsparteien“ die Gemeinschaft oder ihre Mitgliedstaaten oder die Gemeinschaft und ihre Mitgliedstaaten im Rahmen ihrer sich aus dem Vertrag zur Gründung der Europäischen Gemeinschaft ergebenden Zuständigkeiten einerseits und die Republik Chile andererseits.
 
 ## ARTIKEL 198
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 198
 
 (1) Dieses Abkommen tritt am ersten Tag des Monats in Kraft, der auf den Monat folgt, in dem die Vertragsparteien einander den Abschluss der hierfür erforderlichen Verfahren notifiziert haben.
 
@@ -3240,7 +3636,9 @@ Für die Zwecke dieses Abkommens sind „Vertragsparteien“ die Gemeinschaft od
 
 ## ARTIKEL 199
 
-#### Laufzeit
+**Laufzeit**
+
+#### Art. 199
 
 (1) Dieses Abkommen wird auf unbegrenzte Zeit geschlossen.
 
@@ -3250,7 +3648,9 @@ Für die Zwecke dieses Abkommens sind „Vertragsparteien“ die Gemeinschaft od
 
 ## ARTIKEL 200
 
-#### Erfüllung der Verpflichtungen
+**Erfüllung der Verpflichtungen**
+
+#### Art. 200
 
 (1) Die Vertragsparteien treffen die allgemeinen oder besonderen Maßnahmen, die für die Erfüllung ihrer Verpflichtungen aus diesem Abkommen erforderlich sind, und gewährleisten, dass sie den in diesem Abkommen festgelegten Zielen entsprechen.
 
@@ -3270,7 +3670,9 @@ Die andere Vertragspartei kann darum ersuchen, dass die Vertragsparteien innerha
 
 ## ARTIKEL 201
 
-#### Künftige Entwicklungen
+**Künftige Entwicklungen**
+
+#### Art. 201
 
 (1) Die Vertragsparteien können dieses Abkommen im gegenseitigen Einvernehmen ausdehnen, um seinen Geltungsbereich auf der Grundlage der bei seiner Durchführung gewonnenen Erfahrung durch Abschluss von Abkommen über einzelne Bereiche oder Maßnahmen im Einklang mit ihren Rechtsvorschriften zu erweitern und zu ergänzen.
 
@@ -3278,31 +3680,41 @@ Die andere Vertragspartei kann darum ersuchen, dass die Vertragsparteien innerha
 
 ## ARTIKEL 202
 
-#### Datenschutz
+**Datenschutz**
+
+#### Art. 202
 
 Die Vertragsparteien kommen überein, bei der Verarbeitung personenbezogener und sonstiger Daten ein hohes Schutzniveau zu gewährleisten, das mit den strengsten internationalen Normen vereinbar ist.
 
 ## ARTIKEL 203
 
-#### Nationale Sicherheit
+**Nationale Sicherheit**
+
+#### Art. 203
 
 Artikel 194 gilt für das gesamte Abkommen.
 
 ## ARTIKEL 204
 
-#### Räumlicher Geltungsbereich
+**Räumlicher Geltungsbereich**
+
+#### Art. 204
 
 Dieses Abkommen gilt für die Gebiete, in denen der Vertrag zur Gründung der Europäischen Gemeinschaft angewandt wird, und nach Maßgabe dieses Vertrages einerseits und für das Hoheitsgebiet der Republik Chile andererseits.
 
 ## ARTIKEL 205
 
-#### Verbindlicher Wortlaut
+**Verbindlicher Wortlaut**
+
+#### Art. 205
 
 Dieses Abkommen ist in zwei Urschriften in dänischer, deutscher, englischer, finnischer, französischer, griechischer, italienischer, niederländischer, portugiesischer, schwedischer und spanischer Sprache abgefasst, wobei jeder Wortlaut gleichermaßen verbindlich ist.
 
 ## ARTIKEL 206
 
-#### Anhänge, Anlagen, Protokolle und Schreiben
+**Anhänge, Anlagen, Protokolle und Schreiben**
+
+#### Art. 206
 
 Die Anhänge, Anlagen, Protokolle und Schreiben sind Bestandteil dieses Abkommens.
 

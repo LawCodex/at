@@ -43,7 +43,9 @@ vom Wunsche geleitet, die wirtschaftliche, kulturelle, industrielle und wissensc
 
 ## ARTIKEL 1
 
-### Persönlicher Geltungsbereich
+**Persönlicher Geltungsbereich**
+
+### Art. 1
 
 1\. Dieses Abkommen gilt für Personen, die hinsichtlich der Besteuerung in einem oder in beiden Vertragsstaaten als ansässig gelten.
 
@@ -67,7 +69,9 @@ d) wird die Person von beiden Staaten jeweils als ihr Staatsangehöriger behande
 
 ## ARTIKEL 2
 
-### Unter das Abkommen fallende Steuern
+**Unter das Abkommen fallende Steuern**
+
+### Art. 2
 
 1\. Dieses Abkommen gilt für die nach dem Recht der Vertragsstaaten von den juristischen und natürlichen Personen zu erhebenden Steuern vom Einkommen und vom Vermögen und zwar:
 
@@ -79,7 +83,9 @@ b) In bezug auf Österreich: die Einkommensteuer; die Körperschaftsteuer; die A
 
 ## ARTIKEL 3
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 3
 
 1\. Im Sinne dieses Abkommens bedeuten die nachstehend angeführten Ausdrücke:
 
@@ -99,7 +105,9 @@ c) „zuständige Behörden“:
 
 ## ARTIKEL 4
 
-### Repräsentanz
+**Repräsentanz**
+
+### Art. 4
 
 1\. Im Sinne dieses Abkommens bedeutet der Ausdruck „Repräsentanz“ eine in einem Vertragsstaat gelegene feste Betriebsstätte, in der eine im anderen Vertragsstaat ansässige Person ganz oder teilweise eine Geschäftstätigkeit ausübt.
 
@@ -129,7 +137,9 @@ Eine juristische Person, die in einem der beiden Vertragsstaaten als Makler, Kom
 
 ## ARTIKEL 5
 
-### Einkünfte der Repräsentanz
+**Einkünfte der Repräsentanz**
+
+### Art. 5
 
 1\. Einkünfte, die von einer in einem Vertragsstaat ansässigen Person im anderen Vertragsstaat aus einer gewerblichen Tätigkeit erzielt werden, dürfen in dem anderen Vertragsstaat nur besteuert werden, wenn sie durch die Tätigkeit einer in diesem anderen Vertragsstaat gelegenen Repräsentanz erzielt werden und nur in dem Ausmaß, in dem die Einkünfte dieser Repräsentanz zugerechnet werden können.
 
@@ -143,7 +153,9 @@ Eine juristische Person, die in einem der beiden Vertragsstaaten als Makler, Kom
 
 ## ARTIKEL 6
 
-### Einkünfte aus internationalen Transporten
+**Einkünfte aus internationalen Transporten**
+
+### Art. 6
 
 1\. Einkünfte, die eine in einem Vertragsstaat ansässige Person aus internationalen Transportleistungen mit Schiffen und Luftfahrzeugen erzielt, dürfen im anderen Vertragsstaat nicht besteuert werden.
 
@@ -151,7 +163,9 @@ Eine juristische Person, die in einem der beiden Vertragsstaaten als Makler, Kom
 
 ## ARTIKEL 7
 
-### Einkünfte aus Autorenrechten und Lizenzen
+**Einkünfte aus Autorenrechten und Lizenzen**
+
+### Art. 7
 
 1\. Einkünfte aus Urheberrechten und Lizenzgebühren, die aus einer Quelle in einem der Vertragsstaaten durch eine im anderen Vertragsstaat ansässige Person bezogen werden, dürfen im erstgenannten Vertragsstaat nicht besteuert werden.
 
@@ -185,7 +199,9 @@ c) aus der Herstellung von Aufzeichnungen auf Schallplatten, Filmen und auf ande
 
 ## ARTIKEL 8
 
-### Dividenden
+**Dividenden**
+
+### Art. 8
 
 1\. Dividenden, die eine in einem Vertragsstaat ansässige juristische Person an eine im anderen Vertragsstaat ansässige Person zahlt, dürfen im erstgenannten Staat nicht besteuert werden.
 
@@ -193,13 +209,17 @@ c) aus der Herstellung von Aufzeichnungen auf Schallplatten, Filmen und auf ande
 
 ## ARTIKEL 9
 
-### Zinsen
+**Zinsen**
+
+### Art. 9
 
 Zinsen, die eine in einem Vertragsstaat ansässige Person aus dem anderen Vertragsstaat bezieht, dürfen in diesem anderen Staat nicht besteuert werden.
 
 ## ARTIKEL 10
 
-### Einkünfte aus unbeweglichem Vermögen
+**Einkünfte aus unbeweglichem Vermögen**
+
+### Art. 10
 
 1\. Einkünfte, die eine in einem Vertragsstaat ansässige Person aus der Vermietung und Verpachtung oder einer anderen Art der Nutzung sowie aus der Veräußerung unbeweglichen Vermögens, das im anderen Vertragsstaat liegt, bezieht, dürfen in diesem anderen Vertragsstaat besteuert werden.
 
@@ -207,7 +227,9 @@ Zinsen, die eine in einem Vertragsstaat ansässige Person aus dem anderen Vertra
 
 ## ARTIKEL 11
 
-### Arbeitslohn und einige andere Einkünfte natürlicher Personen
+**Arbeitslohn und einige andere Einkünfte natürlicher Personen**
+
+### Art. 11
 
 1\. Arbeitslöhne und andere Einkünfte, die eine in einem der Vertragsstaaten ansässige natürliche Person für eine im anderen Vertragsstaat ausgeübte Tätigkeit bezieht, dürfen in diesem anderen Staat nur dann besteuert werden, wenn sich die Person dort länger als insgesamt 183 Tage aufgehalten hat.
 
@@ -229,13 +251,17 @@ e) Vergütungen, die von einer in einem der Vertragsstaaten ansässigen Person a
 
 ## ARTIKEL 12
 
-### Andere Einkünfte
+**Andere Einkünfte**
+
+### Art. 12
 
 Einkünfte einer in einem Vertragsstaat ansässigen Person, die in den vorstehenden Artikeln dieses Abkommens nicht genannt wurden, dürfen ohne Rücksicht auf ihre Herkunft nur in diesem Staat besteuert werden.
 
 ## ARTIKEL 13
 
-### Vermögensbesteuerung
+**Vermögensbesteuerung**
+
+### Art. 13
 
 1\. Unbewegliches Vermögen, das einer in einem Vertragsstaat ansässigen Person gehört und im anderen Vertragsstaat liegt, darf in diesem anderen Staat besteuert werden.
 
@@ -249,7 +275,9 @@ Einkünfte einer in einem Vertragsstaat ansässigen Person, die in den vorstehen
 
 ## ARTIKEL 14
 
-### Vermeidung einer steuerlichen Diskriminierung
+**Vermeidung einer steuerlichen Diskriminierung**
+
+### Art. 14
 
 1\. Eine in einem Vertragsstaat ansässige natürliche Person darf im anderen Vertragsstaat keiner Besteuerung unterworfen werden, die anders, höher oder belastender ist als die Besteuerung, der Staatsbürger des anderen Staates unter den gleichen Verhältnissen unterworfen werden dürfen.
 
@@ -259,7 +287,9 @@ Einkünfte einer in einem Vertragsstaat ansässigen Person, die in den vorstehen
 
 ## ARTIKEL 15
 
-### Steuerprivilegien
+**Steuerprivilegien**
+
+### Art. 15
 
 1\. Die Bestimmungen dieses Abkommens berühren nicht die steuerlichen Privilegien, die den diplomatischen und konsularischen Vertretungen, anderen, hinsichtlich der steuerlichen Privilegien gleichgestellten Institutionen und Organisationen der Vertragsstaaten, den Leitern und Mitgliedern des diplomatischen Personals und den Mitarbeitern dieser Vertretungen, Institutionen und Organisationen sowie den Mitgliedern ihrer Familien zustehen.
 
@@ -267,7 +297,9 @@ Einkünfte einer in einem Vertragsstaat ansässigen Person, die in den vorstehen
 
 ## ARTIKEL 16
 
-### Anwendungsbedingungen des Abkommens
+**Anwendungsbedingungen des Abkommens**
+
+### Art. 16
 
 1\. Dieses Abkommen wird nur auf die Besteuerung der Einkünfte aus einer Tätigkeit angewendet, welche im Vertragsstaat dem dort geltenden Recht entspricht.
 
@@ -275,13 +307,17 @@ Einkünfte einer in einem Vertragsstaat ansässigen Person, die in den vorstehen
 
 ## ARTIKEL 17
 
-### Informationsaustausch
+**Informationsaustausch**
+
+### Art. 17
 
 Die zuständigen Behörden der Vertragsstaaten werden einander erforderlichenfalls die in ihren Steuergesetzgebungen eingetretenen Änderungen mitteilen und sie werden die nach ihrem innerstaatlichen Recht zulässigen Informationen austauschen, die für die Durchführung der Bestimmungen dieses Abkommens erforderlich sind. Alle nach diesem Artikel erhaltenen Informationen dürfen nur zum Zwecke der Durchführung dieses Abkommens verwendet werden.
 
 ## ARTIKEL 18
 
-### Regelung von Streitfragen
+**Regelung von Streitfragen**
+
+### Art. 18
 
 1\. Ist eine in einem der Vertragsstaaten ansässige Person der Auffassung, daß Maßnahmen eines Vertragsstaates oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie unbeschadet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde des Vertragsstaates, in dem sie ansässig ist, unterbreiten. Hält die zuständige Behörde die Einwendung für begründet, so wird sie sich bemühen, den Fall durch Verständigung mit der zuständigen Behörde des anderen Vertragsstaates so zu regeln, daß eine dem Abkommen nicht entsprechende Besteuerung vermieden wird.
 
@@ -293,7 +329,9 @@ Die zuständigen Behörden der Vertragsstaaten werden einander erforderlichenfal
 
 ## ARTIKEL 19
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 19
 
 1\. Die Vertragsstaaten verständigen einander auf diplomatischem Wege über die Erfüllung der notwendigen Formalitäten, die für das Inkrafttreten dieses Abkommens erforderlich sind.
 
@@ -301,7 +339,9 @@ Die zuständigen Behörden der Vertragsstaaten werden einander erforderlichenfal
 
 ## ARTIKEL 20
 
-### Außerkrafttreten
+**Außerkrafttreten**
+
+### Art. 20
 
 Dieses Abkommen bleibt so lange in Kraft, bis einer der Vertragsstaaten es kündigt. Jeder der Vertragsstaaten kann das Abkommen nach Ablauf von drei Jahren ab dem Tag des Inkrafttretens auf diplomatischem Wege schriftlich nicht später als sechs Monate vor Ablauf jedes Kalenderjahres kündigen. In einem solchen Fall wird das Abkommen letztmalig auf die Steuern und Abgaben angewendet, die für das Kalenderjahr erhoben werden, für das die Kündigung erfolgt ist.
 

@@ -55,7 +55,9 @@ folgendes vereinbart:
 
 ### ZWECK – BEZEICHNUNG – SITZ – FUNKTIONEN. — ARTIKEL I.
 
-#### *Zweck – Bezeichnung – Sitz.*
+***Zweck – Bezeichnung – Sitz.***
+
+#### Art. 1
 
 1\. Die Vertragschließenden Staaten haben beschlossen, zum Zwecke des Studiums der wissenschaftlichen und technischen Probleme, die mit dem Kühlwesen und der Entwicklung der Anwendungsmöglichkeiten der Kältetechnik zur Verbesserung der Lebensbedingungen der Menschheit zusammenhängen, engstens zusammenzuarbeiten.
 
@@ -63,7 +65,9 @@ folgendes vereinbart:
 
 ## ARTIKEL II.
 
-#### *Funktionen.*
+***Funktionen.***
+
+#### Art. 2
 
 Das Institut hat mit Rücksicht auf alle Fragen des Studiums, der Produktion und der Verwendung von technischer Kälte auf internationalem Gebiet folgende Ziele:
 
@@ -89,7 +93,9 @@ i) und im allgemeinen alle Schritte zu unternehmen, die geeignet sind, die Idee 
 
 ### MITGLIEDER. — ARTIKEL III.
 
-#### *Mitgliedstaaten – Zulassung zur Mitgliedschaft.*
+***Mitgliedstaaten – Zulassung zur Mitgliedschaft.***
+
+#### Art. 3
 
 Dem Institut gehören als Mitgliedstaaten, welche die Rechte genießen und den Pflichten unterworfen sind, wie sie in diesem Abkommen festgelegt sind, an:
 
@@ -103,7 +109,9 @@ d) Territorien, die nicht in der beigeschlossenen Liste angeführt sind, wenn si
 
 ## ARTIKEL IV.
 
-#### *Kategorien der Mitgliedstaaten.*
+***Kategorien der Mitgliedstaaten.***
+
+#### Art. 4
 
 1\. Um die Mitgliedstaaten in die Lage zu versetzen, an den Arbeiten des Instituts entsprechend dem Ausmaß ihrer wirtschaftlichen Tätigkeit und des Interesses, das sie an den Problemen des Kältewesens besitzen, teilzunehmen, sind sechs Kategorien von Mitgliedstaaten vorgesehen. Diese Kategorien unterscheiden sich untereinander hauptsächlich durch die Höhe des finanziellen Beitrages, die Zahl der Stimmen und die Zahl der kostenlos zur Verfügung gestellten Veröffentlichungen.
 
@@ -111,31 +119,41 @@ d) Territorien, die nicht in der beigeschlossenen Liste angeführt sind, wenn si
 
 ## ARTIKEL V.
 
-#### *Austritt – Wechsel der Kategorie.*
+***Austritt – Wechsel der Kategorie.***
+
+#### Art. 5
 
 Jeder Mitgliedstaat hat das Recht, unter Einhaltung einer mindestens einjährigen Kündigungsfrist aus dem Institut auszutreten oder in eine niedrigere Kategorie eingereiht zu werden. Ein Übertritt in eine höhere Kategorie kann nach Aufzahlung des entsprechenden Beitragszuschlags jederzeit erfolgen.
 
 ## ARTIKEL VI.
 
-#### *Übertragung von Rechten und Pflichten an eine geeignete Organisation oder Vereinigung.*
+***Übertragung von Rechten und Pflichten an eine geeignete Organisation oder Vereinigung.***
+
+#### Art. 6
 
 Die Mitgliedstaaten können sich auf eigene Verantwortung hinsichtlich aller oder einiger ihrer Rechte oder Pflichten gegenüber dem Institut durch eine geeignete Vereinigung oder Organisation vertreten lassen.
 
 ## ARTIKEL VII.
 
-#### *Verbindung zu innerstaatlichen Vereinigungen.*
+***Verbindung zu innerstaatlichen Vereinigungen.***
+
+#### Art. 7
 
 Jeder Mitgliedstaat wird bestrebt sein, die wichtigsten wissenschaftlichen, technischen, kulturellen oder beruflichen Körperschaften, die an den Fragen der Kältetechnik interessiert sind, mit den Arbeiten des Instituts in Verbindung zu bringen.
 
 ## ARTIKEL VIII.
 
-#### *Ehrenmitglieder.*
+***Ehrenmitglieder.***
+
+#### Art. 8
 
 Personen, die eine hervorragende Stellung in der Wissenschaft und Industrie der Kältetechnik eingenommen haben oder sich in wohltätiger Form dem Institut gegenüber erwiesen, können in Ausnahmsfällen über Beschluß des Exekutivkomitees den Titel eines „Ehrenmitgliedes“ des Instituts erhalten.
 
 ## ARTIKEL IX.
 
-#### *Außerordentliche Mitglieder.*
+***Außerordentliche Mitglieder.***
+
+#### Art. 9
 
 1\. Qualifizierte Personen, Firmen oder Institute, die an der Entwicklung der Kältewissenschaft und -industrie beteiligt sind und einen regelmäßigen Beitrag zahlen, dessen Höhe und Zahlungsweise vom Leitungsausschuß festgelegt wird, können auf Grund eines Beschlusses dieses Ausschusses zu „Außerordentlichen Mitgliedern“ des Instituts ernannt werden.
 
@@ -147,7 +165,9 @@ Personen, die eine hervorragende Stellung in der Wissenschaft und Industrie der 
 
 ### ARTIKEL X.
 
-#### *Befugnisse der Generalversammlung.*
+***Befugnisse der Generalversammlung.***
+
+#### Art. 10
 
 1\. Das Institut steht unter der Leitung und Kontrolle der Generalversammlung.
 
@@ -163,7 +183,9 @@ d) den Präsidenten und die Vizepräsidenten des Technischen Rates und die Präs
 
 ## ARTIKEL XI.
 
-#### *Zusammensetzung und Verfahren der Generalversammlung.*
+***Zusammensetzung und Verfahren der Generalversammlung.***
+
+#### Art. 11
 
 1\. Die Generalversammlung setzt sich aus den Vertretern zusammen, die von den Mitgliedstaaten oder von für diese handelnden Organisationen beziehungsweise Vereinigungen ernannt werden.
 
@@ -191,7 +213,9 @@ d) den Präsidenten und die Vizepräsidenten des Technischen Rates und die Präs
 
 ## ARTIKEL XII.
 
-#### *Präsident der Generalversammlung.*
+***Präsident der Generalversammlung.***
+
+#### Art. 12
 
 1\. Die Ordentliche Tagung der Generalversammlung beginnt mit der Wahl des Präsidenten.
 
@@ -205,7 +229,9 @@ d) den Präsidenten und die Vizepräsidenten des Technischen Rates und die Präs
 
 ### ARTIKEL XIII.
 
-#### *Befugnisse des Exekutivkomitees.*
+***Befugnisse des Exekutivkomitees.***
+
+#### Art. 13
 
 Die Exekutivgewalt des Instituts ist dem Exekutivkomitee übertragen.
 
@@ -227,7 +253,9 @@ h) das Exekutivkomitee ist zwischen den Tagungen der Generalversammlung berechti
 
 ## ARTIKEL XIV.
 
-#### *Zusammensetzung und Verfahren des Exekutivkomitees.*
+***Zusammensetzung und Verfahren des Exekutivkomitees.***
+
+#### Art. 14
 
 1\. Das Exekutivkomitee setzt sich aus den Vertretern zusammen, die von den Mitgliedstaaten oder von geeigneten Organisationen und Vereinigungen ernannt werden, und zwar ein Vertreter pro Mitgliedstaat.
 
@@ -247,7 +275,9 @@ h) das Exekutivkomitee ist zwischen den Tagungen der Generalversammlung berechti
 
 ## ARTIKEL XV.
 
-#### *Präsident und Vizepräsidenten des Exekutivkomitees.*
+***Präsident und Vizepräsidenten des Exekutivkomitees.***
+
+#### Art. 15
 
 1\. Der Präsident des Exekutivkomitees und die drei bis sechs Vizepräsidenten werden bei den Ordentlichen Tagungen der Generalversammlung gewählt.
 
@@ -261,7 +291,9 @@ h) das Exekutivkomitee ist zwischen den Tagungen der Generalversammlung berechti
 
 ### ARTIKEL XVI.
 
-#### *Befugnisse – Verfahren – Zusammensetzung des Leitungsausschusses.*
+***Befugnisse – Verfahren – Zusammensetzung des Leitungsausschusses.***
+
+#### Art. 16
 
 1\. Der Leitungsausschuß hat die Aufgabe, in der Zeit zwischen den Sitzungen des Exekutivkomitees und in Übereinstimmung mit den Beschlüssen der Generalversammlung und des Exekutivkomitees die Arbeit des Instituts zu überwachen und insbesondere die finanziellen Angelegenheiten zu überprüfen sowie das Jahresbudget dem Exekutivkomitee vorzulegen.
 
@@ -279,7 +311,9 @@ h) das Exekutivkomitee ist zwischen den Tagungen der Generalversammlung berechti
 
 ### ARTIKEL XVII.
 
-#### *Befugnisse – Zusammensetzung und Verfahren des Technischen Rates.*
+***Befugnisse – Zusammensetzung und Verfahren des Technischen Rates.***
+
+#### Art. 17
 
 1\. Die technischen und wissenschaftlichen Angelegenheiten innerhalb des Aufgabenbereichs des Instituts werden vom Technischen Rat und den Kommissionen studiert.
 
@@ -303,7 +337,9 @@ h) das Exekutivkomitee ist zwischen den Tagungen der Generalversammlung berechti
 
 ## ARTIKEL XVIII.
 
-#### *Befugnisse – Zusammensetzung und Verfahren der Kommissionen.*
+***Befugnisse – Zusammensetzung und Verfahren der Kommissionen.***
+
+#### Art. 18
 
 1\. Die Anzahl der Kommissionen und ihre Befugnisse werden in den Allgemeinen Vorschriften festgelegt.
 
@@ -323,7 +359,9 @@ h) das Exekutivkomitee ist zwischen den Tagungen der Generalversammlung berechti
 
 ### ARTIKEL XIX.
 
-#### *Arbeitsgruppen.*
+***Arbeitsgruppen.***
+
+#### Art. 19
 
 Es können Arbeitsgruppen gebildet werden, um an der Lösung gewisser Probleme zu arbeiten, die für das Institut von Interesse sind.
 
@@ -331,7 +369,9 @@ Es können Arbeitsgruppen gebildet werden, um an der Lösung gewisser Probleme z
 
 ### ARTIKEL XX.
 
-#### *Der Direktor.*
+***Der Direktor.***
+
+#### Art. 20
 
 1\. Das Institut steht unter der Führung eines Direktors, dem beamtete Funktionäre und Hilfspersonal zur Seite stehen.
 
@@ -341,7 +381,9 @@ Es können Arbeitsgruppen gebildet werden, um an der Lösung gewisser Probleme z
 
 ## ARTIKEL XXI.
 
-#### *Beamtete Funktionäre und Hilfspersonal.*
+***Beamtete Funktionäre und Hilfspersonal.***
+
+#### Art. 21
 
 1\. Die beamteten Funktionäre und das Hilfspersonal werden vom Direktor ernannt und entlassen. Ihre Rechte und Pflichten sind in den Allgemeinen Vorschriften niedergelegt.
 
@@ -351,7 +393,9 @@ Es können Arbeitsgruppen gebildet werden, um an der Lösung gewisser Probleme z
 
 ### ARTIKEL XXII.
 
-#### *Internationale Kongresse für Kältetechnik.*
+***Internationale Kongresse für Kältetechnik.***
+
+#### Art. 22
 
 1\. Das Institut übernimmt die Verantwortung für die Organisation eines Internationalen Kongresses für Kältetechnik, der normalerweise alle vier Jahre stattfinden soll.
 
@@ -361,7 +405,9 @@ Es können Arbeitsgruppen gebildet werden, um an der Lösung gewisser Probleme z
 
 ### ARTIKEL XXIII.
 
-#### *Veröffentlichungen.*
+***Veröffentlichungen.***
+
+#### Art. 23
 
 1\. Die Arbeiten des Technischen Rates und der Kommissionen sowie Informationen aller Art, die vom Institut gesammelt werden, bilden Gegenstand von periodischen Veröffentlichungen, die vom Institut in den offiziellen Sprachen herausgegeben werden.
 
@@ -373,7 +419,9 @@ Es können Arbeitsgruppen gebildet werden, um an der Lösung gewisser Probleme z
 
 ### FINANZEN. — ARTIKEL XXIV.
 
-#### *Geldmittel des Instituts.*
+***Geldmittel des Instituts.***
+
+#### Art. 24
 
 Die für die Arbeiten des Instituts nötigen Ausgaben werden gedeckt:
 
@@ -387,7 +435,9 @@ d) durch den Ertrag seiner Vermögenswerte.
 
 ## ARTIKEL XXV.
 
-#### *Budget.*
+***Budget.***
+
+#### Art. 25
 
 1\. Das Exekutivkomitee prüft bei seiner Ordentlichen Jahrestagung den Finanzbericht über das vergangene Jahr. Das Budget für das kommende Jahr wird vom Exekutivkomitee bei seiner Ordentlichen Jahrestagung genehmigt.
 
@@ -395,7 +445,9 @@ d) durch den Ertrag seiner Vermögenswerte.
 
 ## ARTIKEL XXVI.
 
-#### *Höhe der Jahresbeiträge der Mitgliedstaaten.*
+***Höhe der Jahresbeiträge der Mitgliedstaaten.***
+
+#### Art. 26
 
 1\. Die ordentlichen Jahresbeiträge der Mitgliedstaaten sind in französischen Franken oder in Form von in Frankreich umwechselbaren Devisen zu bezahlen, für deren Konvertibilität das Schuldnerland die Garantie übernimmt. Die Beiträge sind in Goldfranken mit einem Gewicht von 10/31 g bei 0,900 Feingehalt festgesetzt und errechnen sich nach der Kategorie, der der Mitgliedstaat angehört, auf folgender Grundlage:
 
@@ -415,7 +467,9 @@ d) durch den Ertrag seiner Vermögenswerte.
 
 ## ARTIKEL XXVII.
 
-#### *Nichtzahlung von Beiträgen.*
+***Nichtzahlung von Beiträgen.***
+
+#### Art. 27
 
 Mitgliedstaaten, die mehr als zwei Jahre mit ihrer Beitragsleistung im Rückstand sind, verlieren die Vorrechte, die mit ihrer Mitgliedschaft verbunden sind, insbesondere ihr Stimmrecht, bis sie ihre finanziellen Verpflichtungen geregelt haben.
 
@@ -423,25 +477,33 @@ Mitgliedstaaten, die mehr als zwei Jahre mit ihrer Beitragsleistung im Rückstan
 
 ### VERSCHIEDENE BESTIMMUNGEN. — ARTIKEL XXVIII.
 
-#### *Beziehungen zu anderen Internationalen Organisationen.*
+***Beziehungen zu anderen Internationalen Organisationen.***
+
+#### Art. 28
 
 Das Institut stellt mit den Spezialorganisationen der Vereinten Nationen und den anderen internationalen Körperschaften jene Verbindungen her, die geeignet sind, in Form einer Zusammenarbeit den gemeinsamen Zielsetzungen sowie seinen eigenen zu dienen.
 
 ## ARTIKEL XXIX.
 
-#### *Rechtsfähigkeit – Privilegien und Immunitäten.*
+***Rechtsfähigkeit – Privilegien und Immunitäten.***
+
+#### Art. 29
 
 Das Institut genießt auf dem Gebiet jedes Mitgliedstaates jene Rechtsfähigkeit und jenen Status, die für die Ausübung seiner Funktionen und die Erreichung seiner Ziele notwendig sind, und zwar gemäß von Einzelabkommen, die mit den einzelnen Mitgliedstaaten vereinbart werden.
 
 ## ARTIKEL XXX.
 
-#### *Offizielle Sprachen.*
+***Offizielle Sprachen.***
+
+#### Art. 30
 
 Die offiziellen Sprachen des Instituts sind Englisch und Französisch.
 
 ## ARTIKEL XXXI.
 
-#### *Abänderungen des Abkommens.*
+***Abänderungen des Abkommens.***
+
+#### Art. 31
 
 1\. Abänderungen dieses Abkommens, die nicht die grundsätzlichen Zielsetzungen des Instituts berühren und keine Erweiterung der Verpflichtungen der Mitgliedstaaten mit sich bringen, werden nach Genehmigung durch die Generalversammlung wirksam.
 
@@ -451,19 +513,25 @@ Die offiziellen Sprachen des Instituts sind Englisch und Französisch.
 
 ## ARTIKEL XXXII.
 
-#### *Dauer des Abkommens.*
+***Dauer des Abkommens.***
+
+#### Art. 32
 
 Dieses Abkommen wird für die Dauer von zehn Jahren abgeschlossen, es sei denn, es wird gemäß den Bestimmungen des Artikels V gekündigt. Nach Ablauf dieser Frist wird es stillschweigend auf jeweils weitere vier Jahre verlängert.
 
 ## ARTIKEL XXXIII.
 
-#### *Auslegung.*
+***Auslegung.***
+
+#### Art. 33
 
 Der französische und englische Text dieses Abkommens sind in gleicher Weise authentisch. Jede Streitfrage hinsichtlich der Auslegung dieses Abkommens wird entweder dem Internationalen Gerichtshof oder gemäß den von der Generalversammlung beschlossenen Bedingungen einem Schiedsgericht unterbreitet.
 
 ## ARTIKEL XXXIV.
 
-#### *Ratifikation – Inkrafttreten.*
+***Ratifikation – Inkrafttreten.***
+
+#### Art. 34
 
 1\. Dieses Abkommen steht den Mitgliedstaaten des Internationalen Instituts für Kältetechnik bis zum 1. Juni 1955 zur Unterzeichnung offen.
 

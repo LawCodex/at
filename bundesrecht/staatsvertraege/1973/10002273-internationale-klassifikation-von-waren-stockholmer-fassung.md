@@ -35,7 +35,9 @@ BGBl. I Nr. 2/2008 (1. BVRBG) (NR: GP XXIII RV 314 AB 370 S. 41. BR: 7799 AB 783
 
 ## Artikel 1
 
-### [Einrichtung eines besonderen Verbandes - Annahme der Internationalen Klassifikation - Sprachen) <sup>2</sup>]
+**[Einrichtung eines besonderen Verbandes - Annahme der Internationalen Klassifikation - Sprachen) <sup>2</sup>]**
+
+### Art. 1
 
 (1) Die Länder, auf die dieses Abkommen Anwendung findet, bilden einen besonderen Verband.
 
@@ -59,7 +61,9 @@ b) einer alphabetischen Liste der Waren und Dienstleistungen mit Angabe der Klas
 
 ## Artikel 2
 
-### [Rechtliche Bedeutung und Anwendung der Internationalen Klassifikation]
+**[Rechtliche Bedeutung und Anwendung der Internationalen Klassifikation]**
+
+### Art. 2
 
 (1) Vorbehaltlich der sich aus diesem Abkommen ergebenden Verpflichtungen hat die Internationale Klassifikation die Bedeutung, die ihr jedes Vertragsland beilegt. Insbesondere bindet die Internationale Klassifikation die Vertragsländer weder hinsichtlich der Beurteilung des Schutzumfangs der Marke noch hinsichtlich der Anerkennung der Dienstleistungsmarken.
 
@@ -71,7 +75,9 @@ b) einer alphabetischen Liste der Waren und Dienstleistungen mit Angabe der Klas
 
 ## Artikel 3
 
-### [Änderungen und Ergänzungen der Internationalen Klassifikation – Sachverständigenausschuß]
+**[Änderungen und Ergänzungen der Internationalen Klassifikation – Sachverständigenausschuß]**
+
+### Art. 3
 
 (1) Beim Internationalen Büro wird ein Sachverständigenausschuß gebildet, der über alle Änderungen oder Ergänzungen der Internationalen Klassifikation der Waren und Dienstleistungen zu beschließen hat. Jedes Vertragsland ist in dem Sachverständigenausschuß vertreten; dieser gibt sich eine Geschäftsordnung, deren Annahme der Mehrheit der vertretenen Länder bedarf. Das Internationale Büro ist in dem Ausschuß vertreten.
 
@@ -87,7 +93,9 @@ b) einer alphabetischen Liste der Waren und Dienstleistungen mit Angabe der Klas
 
 ## Artikel 4
 
-### [Notifizierung, Inkrafttreten und Veröffentlichung von Änderungen und Ergänzungen]
+**[Notifizierung, Inkrafttreten und Veröffentlichung von Änderungen und Ergänzungen]**
+
+### Art. 4
 
 (1) Alle vom Sachverständigenausschuß beschlossenen Änderungen und Ergänzungen werden vom Internationalen Büro den Behörden der Vertragsländer notifiziert. Diese Beschlüsse treten, wenn sie Ergänzungen betreffen, mit dem Eingang der Notifikation und, wenn sie Änderungen betreffen, sechs Monate nach dem Zeitpunkt der Absendung der Notifikation in Kraft.
 
@@ -95,7 +103,9 @@ b) einer alphabetischen Liste der Waren und Dienstleistungen mit Angabe der Klas
 
 ## Artikel 5
 
-### [Versammlung des besonderen Verbandes]
+**[Versammlung des besonderen Verbandes]**
+
+### Art. 5
 
 (1) a) Der besondere Verband hat eine Versammlung, die sich aus den Ländern zusammensetzt, die diese Fassung des Abkommens ratifiziert haben oder ihr beigetreten sind.
 
@@ -153,7 +163,9 @@ c) Die Tagesordnung jeder Tagung wird vom Generaldirektor vorbereitet.
 
 ## Artikel 6
 
-### [Internationales Büro]
+**[Internationales Büro]**
+
+### Art. 6
 
 (1) a) Die Verwaltungsaufgaben des besonderen Verbandes werden vom Internationalen Büro wahrgenommen.
 
@@ -173,7 +185,9 @@ c) Der Generaldirektor und die von ihm bestimmten Personen nehmen ohne Stimmrech
 
 ## Artikel 7
 
-### [Finanzen)]
+**[Finanzen)]**
+
+### Art. 7
 
 (1) a) Der besondere Verband hat einen Haushaltsplan.
 
@@ -221,7 +235,9 @@ b) Das unter Buchstabe a) bezeichnete Land und die Organisation sind berechtigt,
 
 ## Artikel 8
 
-### [Änderungen der Artikel 5 bis 8]
+**[Änderungen der Artikel 5 bis 8]**
+
+### Art. 8
 
 (1) Vorschläge zur Änderung der Artikel 5, 6, 7 und dieses Artikels können von jedem Mitgliedland der Versammlung oder vom Generaldirektor vorgelegt werden. Diese Vorschläge werden vom Generaldirektor mindestens sechs Monate, bevor sie in der Versammlung beraten werden, den Mitgliedländern der Versammlung mitgeteilt.
 
@@ -231,7 +247,9 @@ b) Das unter Buchstabe a) bezeichnete Land und die Organisation sind berechtigt,
 
 ## Artikel 9
 
-### [Ratifikation und Beitritt - Inkrafttreten - Wirkung - Beitritt zur Fassung von 1957]
+**[Ratifikation und Beitritt - Inkrafttreten - Wirkung - Beitritt zur Fassung von 1957]**
+
+### Art. 9
 
 (1) Jedes Land des besonderen Verbandes kann diese Fassung des Abkommens ratifizieren, wenn es sie unterzeichnet hat, oder ihr beitreten, wenn es sie nicht unterzeichnet hat.
 
@@ -249,13 +267,17 @@ b) Für jedes andere Land tritt diese Fassung des Abkommens drei Monate nach dem
 
 ## Artikel 10
 
-### [Geltung und Dauer]
+**[Geltung und Dauer]**
+
+### Art. 10
 
 Dieses Abkommen hat dieselbe Geltung und Dauer wie die Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums.
 
 ## Artikel 11
 
-### [Revision]
+**[Revision]**
+
+### Art. 11
 
 (1) Dieses Abkommen soll Revisionen unterzogen werden, um wünschenswerte Verbesserungen einzuführen.
 
@@ -263,7 +285,9 @@ Dieses Abkommen hat dieselbe Geltung und Dauer wie die Pariser Verbandsübereink
 
 ## Artikel 12
 
-### [Anwendung der früheren Fassung]
+**[Anwendung der früheren Fassung]**
+
+### Art. 12
 
 (1) a) Diese Fassung des Abkommens ersetzt in den Beziehungen zwischen den Ländern des besonderen Verbandes, die sie ratifiziert haben oder ihr beigetreten sind, die Fassung vom 15. Juni 1957.
 
@@ -273,7 +297,9 @@ b) Jedoch bleibt jedes Land des besonderen Verbandes, das diese Fassung des Abko
 
 ## Artikel 13
 
-### [Kündigung]
+**[Kündigung]**
+
+### Art. 13
 
 (1) Jedes Land kann diese Fassung des Abkommens durch eine an den Generaldirektor gerichtete Notifikation kündigen. Diese Kündigung bewirkt zugleich die Kündigung der Fassung vom 15. Juni 1957 dieses Abkommens und hat nur Wirkung für das Land, das sie erklärt hat; für die übrigen Länder des besonderen Verbandes bleibt das Abkommen in Kraft und wirksam.
 
@@ -283,13 +309,17 @@ b) Jedoch bleibt jedes Land des besonderen Verbandes, das diese Fassung des Abko
 
 ## Artikel 14
 
-### [Verweisung auf Artikel 24 der Pariser Verbandsübereinkunft (Hoheitsgebiete)]
+**[Verweisung auf Artikel 24 der Pariser Verbandsübereinkunft (Hoheitsgebiete)]**
+
+### Art. 14
 
 Artikel 24 der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums ist auf dieses Abkommen anzuwenden.
 
 ## Artikel 15
 
-### [Unterzeichnung - Sprachen – Wahrnehmung der Verwahreraufgaben]
+**[Unterzeichnung - Sprachen – Wahrnehmung der Verwahreraufgaben]**
+
+### Art. 15
 
 (1) a) Diese Fassung des Abkommens wird in einer Urschrift in französischer Sprache unterzeichnet und bei der schwedischen Regierung hinterlegt.
 
@@ -305,7 +335,9 @@ b) Amtliche Texte werden vom Generaldirektor nach Konsultierung der beteiligten 
 
 ## Artikel 16
 
-### [Übergangsbestimmungen]
+**[Übergangsbestimmungen]**
+
+### Art. 16
 
 (1) Bis zur Amtsübernahme durch den ersten Generaldirektor gelten Bezugnahmen in dieser Fassung des Abkommens auf das Internationale Büro der Organisation oder den Generaldirektor als Bezugnahmen auf das Büro des durch die Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums errichteten Verbandes oder seinen Direktor.
 

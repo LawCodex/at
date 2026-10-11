@@ -76,7 +76,9 @@ HABEN FOLGENDES VEREINBART:
 
 ## ARTIKEL EINS
 
-### BEGRIFFSBESTIMMUNGEN
+**BEGRIFFSBESTIMMUNGEN**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens gelten folgende Begriffsbestimmungen:
 
@@ -94,7 +96,9 @@ Für die Zwecke dieses Abkommens gelten folgende Begriffsbestimmungen:
 
 ## ARTIKEL ZWEI
 
-### ZIEL UND ZWECK
+**ZIEL UND ZWECK**
+
+### Art. 2
 
 2.1 Ziel dieses Abkommens ist die Festlegung der Verpflichtungen der Parteien in Hinblick auf die Übung wie auch die Festsetzung der Verfahren des HNS, der den Truppen seitens des Gastgeberstaates gewährt wird.
 
@@ -104,7 +108,9 @@ Für die Zwecke dieses Abkommens gelten folgende Begriffsbestimmungen:
 
 ## ARTIKEL DREI
 
-### VERPFLICHTUNGEN DES GASTGEBERSTAATES
+**VERPFLICHTUNGEN DES GASTGEBERSTAATES**
+
+### Art. 3
 
 Im Rahmen der Bestimmungen dieses Abkommens wird der Gastgeberstaat
 
@@ -126,7 +132,9 @@ Im Rahmen der Bestimmungen dieses Abkommens wird der Gastgeberstaat
 
 ## ARTIKEL VIER
 
-### VERPFLICHTUNGEN DER ENTSENDEPARTEIEN
+**VERPFLICHTUNGEN DER ENTSENDEPARTEIEN**
+
+### Art. 4
 
 Die Entsendeparteien
 
@@ -150,37 +158,49 @@ Die Entsendeparteien
 
 ## ARTIKEL FÜNF
 
-### SCHADENERSATZFORDERUNGEN
+**SCHADENERSATZFORDERUNGEN**
+
+### Art. 5
 
 Alle Schadenersatzforderungen, die aus Tätigkeiten der Truppen oder des Gastgeberstaates im Zusammenhang mit diesem Abkommen entstehen, werden in Übereinstimmung mit den einschlägigen Bestimmungen des PfP SOFA gelöst.
 
 ## ARTIKEL SECHS
 
-### FLUGUNFÄLLE ODER -ZWISCHENFÄLLE
+**FLUGUNFÄLLE ODER -ZWISCHENFÄLLE**
+
+### Art. 6
 
 Im Falle von Unfällen oder größeren Zwischenfällen auf dem Hoheitsgebiet eines Staates, dessen Truppen an der Übung teilnehmen, in die ein Luftfahrzeug eines anderen teilnehmenden Staates verwickelt ist, ist es den militärischen Experten dieses Staates gestattet, an der Untersuchungskommission des Staates, wo sich der Unfall oder der Zwischenfall ereignet hat, teilzunehmen.
 
 ## ARTIKEL SIEBEN
 
-### GERICHTSBARKEIT
+**GERICHTSBARKEIT**
+
+### Art. 7
 
 Alle die Gerichtsbarkeit betreffenden Angelegenheiten werden gemäß den einschlägigen Bestimmungen des PfP SOFA behandelt.
 
 ## ARTIKEL ACHT
 
-### BEILEGUNG VON STREITIGKEITEN
+**BEILEGUNG VON STREITIGKEITEN**
+
+### Art. 8
 
 Alle Meinungsverschiedenheiten zwischen den Parteien im Zusammenhang mit der Auslegung oder Anwendung dieses Abkommens werden im Wege von Verhandlungen und ohne die Inanspruchnahme einer außenstehenden Gerichtsbarkeit gelöst.
 
 ## ARTIKEL NEUN
 
-### ÄNDERUNGEN
+**ÄNDERUNGEN**
+
+### Art. 9
 
 Dieses Abkommen kann, auf Vorschlag jeder Partei, durch schriftliche Vereinbarung der Parteien geändert werden.
 
 ## ARTIKEL ZEHN
 
-### IN-KRAFT-TRETEN UND GELTUNGSDAUER
+**IN-KRAFT-TRETEN UND GELTUNGSDAUER**
+
+### Art. 10
 
 Dieses Abkommen, bestehend aus den Artikeln 1 bis 10 und dem Annex, tritt am zwanzigsten Tag nach dem Tag der letzten Unterzeichnung in Kraft. Es bleibt solange in Kraft, bis die Truppen das Hoheitsgebiet des Gastgeberstaates verlassen haben oder bis alle finanziellen Angelegenheiten und Ansprüche vollständig und endgültig beigelegt sind, je nachdem, was später eintritt.
 

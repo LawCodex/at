@@ -72,7 +72,9 @@ folgendes VEREINBART:
 
 ## Artikel 1
 
-#### EUROPÄISCHER FONDS UND MULTILATERALES SYSTEM DES ZAHLUNGSAUSGLEICHS
+**EUROPÄISCHER FONDS UND MULTILATERALES SYSTEM DES ZAHLUNGSAUSGLEICHS**
+
+#### Art. 1
 
 Die Vertragsparteien errichten hiermit gemeinsam einen Europäischen Fonds (im folgenden „Fonds“ genannt) und ein Multilaterales System des Zahlungsausgleichs (im folgenden „System des Zahlungsausgleichs“ genannt), deren Tätigkeit sich im Rahmen der Organisation vollzieht.
 
@@ -80,7 +82,9 @@ Die Vertragsparteien errichten hiermit gemeinsam einen Europäischen Fonds (im f
 
 ### EUROPÄISCHER FONDS — Artikel 2
 
-#### ZWECK DES FONDS
+**ZWECK DES FONDS**
+
+#### Art. 2
 
 Der Fonds hat den Zweck,
 
@@ -90,7 +94,9 @@ Der Fonds hat den Zweck,
 
 ## Artikel 3
 
-#### KAPITAL DES FONDS
+**KAPITAL DES FONDS**
+
+#### Art. 3
 
 Das Kapital des Fonds besteht aus
 
@@ -127,7 +133,9 @@ b) Beiträgen der Vertragsparteien im Gesamtbetrage von 328,425.000 Rechnungsein
 
 ## Artikel 4
 
-#### EINZAHLUNG DES KAPITALS
+**EINZAHLUNG DES KAPITALS**
+
+#### Art. 4
 
 a) Der im vorangehenden Artikel genannte Betrag von 113,037.000 Rechnungseinheiten wird auf dem Fonds in Gold, in US-Dollar oder in konvertierbaren Währungen dritter, nicht zu den Vertragsparteien des Abkommens über die Gründung einer Europäischen Zahlungsunion gehörenden Ländern übertragen, sobald das vorliegende Abkommen in Kraft tritt.
 
@@ -147,7 +155,9 @@ d) Die Beiträge der Vertragsparteien sind an den Fonds gemäß den Beschlüssen
 
 ## Artikel 5
 
-#### RÜCKZAHLUNGEN
+**RÜCKZAHLUNGEN**
+
+#### Art. 5
 
 a) Der im vorangehenden Artikel 4 ganz oder teilweise gezahlten Beträge vom Fonds nicht mehr benötigt werden, können sie auf Beschluß der Organisation zurückgezahlt oder auf einem Sonderkonto des Fonds gesperrt werden.
 
@@ -159,13 +169,17 @@ d) Die auf Grund des vorangehenden Absatzes gesperrten Beträge dürften für di
 
 ## Artikel 6
 
-#### ZINSEN
+**ZINSEN**
+
+#### Art. 6
 
 Die auf Grund des Artikels 4 an den Fonds geleisteten Beiträge sind aus den Einnahmen des Fonds zu einem von der Organisation festzusetzenden Zinssatz zu verzinsen. Die Zahlung der Zinsen erfolgt in Gold.
 
 ## Artikel 7
 
-#### KREDITGEWÄHRUNG
+**KREDITGEWÄHRUNG**
+
+#### Art. 7
 
 a) Der Fonds kann jeder Vertragspartei auf Antrag Kredit gewähren. Beschlüsse über die Gewährung solcher Kredite sind von der Organisation zu fassen, die auch über die Rückzahlungstermine, den Zinssatz und die Höhe der Dienstleistungsgebühren sowie über alle mit dem Kredit verbundenen finanziellen oder sonstigen Bedingungen entscheidet.
 
@@ -177,7 +191,9 @@ d) In Anspruch genommene Kredite können in einer Urkunde verbrieft werden, welc
 
 ## Artikel 7A
 
-#### SONDERKREDITE
+**SONDERKREDITE**
+
+#### Art. 7a
 
 Der Fonds kann von Vertragsparteien Sonderkredite zu Bedingungen erhalten, die von der Organisation festzusetzen sind.
 
@@ -185,13 +201,17 @@ Der Fonds kann von Vertragsparteien Sonderkredite zu Bedingungen erhalten, die v
 
 ### TEIL II — MULTILATERALES SYSTEM DES ZAHLUNGSAUSGLEICHS
 
-#### ZWECK DES SYSTEMS DES ZAHLUNGSAUSGLEICHS
+**ZWECK DES SYSTEMS DES ZAHLUNGSAUSGLEICHS**
+
+#### Art. 8
 
 Zweck dieses Systems ist es, den Ausgleich des Zahlungsverkehrs in den Währungen und zwischen den Währungsgebieten der Vertragsparteien zu erleichtern, indem es diesen Zwischenfinanzierungen sowie einen regelmäßigen Ausgleich ihrer Forderungen zu im voraus festgesetzten Bedingungen ermöglicht, und ihnen so hilft, die Ziele zu erreichen und die Bedingungen zu erfüllen, die in der Präambel dieses Abkommens angeführt sind.
 
 ## Artikel 9
 
-#### WECHSELKURS-MARGEN
+**WECHSELKURS-MARGEN**
+
+#### Art. 9
 
 a) Jede Vertragspartei wird, um die Schwankungen ihrer Währung zu begrenzen, An- und Verkaufskurse für Gold, US-Dollar oder eine andere Währung festsetzen und wird jeder anderen Vertragspartei und der Organisation die so festgesetzten Kurse mitteilen, welche für die in diesem Teil des Abkommens vorgesehenen Berechnungen und Zahlungsausgleiche zugrunde gelegt werden sollen.
 
@@ -201,7 +221,9 @@ c) Die Verpflichtungen unter diesem Artikel entfallen für die Währung einer Ve
 
 ## Artikel 10
 
-#### ZWISCHENFINANZIERUNG
+**ZWISCHENFINANZIERUNG**
+
+#### Art. 10
 
 a) Jede Vertragspartei soll einer anderen Vertragspartei auf Verlangen in der Zeit zwischen den in Artikel 12 vorgesehenen Abrechnungsterminen Beträge in ihrer Währung zur Verfügung stellen, ohne einen Ausgleich in Gold oder in der Währung eines dritten Landes zu fordern.
 
@@ -231,7 +253,9 @@ c).Die einer Vertragspartei auf Grund dieses Artikels zur Verfügung gestellten 
 
 ## Artikel 11
 
-#### FORDERUNGEN UND SCHULDEN
+**FORDERUNGEN UND SCHULDEN**
+
+#### Art. 11
 
 a) Jede Vertragspartei meldet am Ende jeder Periode, für die der Zahlungsausgleich erfolgt (im folgenden „Abrechnungsperiode“ genannt),
 
@@ -255,7 +279,9 @@ d) Die Netto-Forderung oder –Schuld einer Vertragspartei am Ende einer Abrechn
 
 ## Artikel 12
 
-#### ZAHLUNGSAUSGLEICH
+**ZAHLUNGSAUSGLEICH**
+
+#### Art. 12
 
 a) Die Netto-Forderung oder –Schuld jeder Vertragspartei am Ende jeder Abrechnungsperiode wird durch eine Zahlung in US-Dollar durch den Fonds oder an den Fonds abgedeckt, die entsprechenden bilateralen Forderungen und Schulden der Vertragsparteien werden ausgeglichen.
 
@@ -267,7 +293,9 @@ d) Die Schulden der Vertragsparteien gegenüber dem Fonds, die sich auf Grund di
 
 ## Artikel 13
 
-#### ÄNDERUNGEN DER WECHSELKURS-MARGEN
+**ÄNDERUNGEN DER WECHSELKURS-MARGEN**
+
+#### Art. 13
 
 Wenn die gemäß Artikel 9 gemeldeten An- oder Verkaufskurse von einer Vertragspartei während einer Abrechnungsperiode geändert werden,
 
@@ -279,7 +307,9 @@ Wenn die gemäß Artikel 9 gemeldeten An- oder Verkaufskurse von einer Vertragsp
 
 ## Artikel 14
 
-#### ÄNDERUNG DES GOLDPREISES ODER DER GOLDPOLITIK DER VEREINIGTEN STAATEN
+**ÄNDERUNG DES GOLDPREISES ODER DER GOLDPOLITIK DER VEREINIGTEN STAATEN**
+
+#### Art. 14
 
 a) Im Falle einer Änderung des von den Vereinigten Staaten von Amerika festgesetzten Goldpreises oder einer Einschränkung der Goldkaufs- oder Goldverkaufspolitik der Währungsbehörden der Vereinigten Staaten gegenüber einer Vertragspartei,
 
@@ -307,7 +337,9 @@ d) Falls eine Änderung oder Einschränkung im Sinne des vorliegenden Artikels s
 
 ## Artikel 16
 
-#### BILATERALE ZAHLUNGSABKOMMEN
+**BILATERALE ZAHLUNGSABKOMMEN**
+
+#### Art. 16
 
 a) Falls bilateralen Zahlungsabkommen, welche Kreditmargen vorsehen, aufrechterhalten bleiben oder zwischen zwei Vertragsparteien neu abgeschlossen werden, sind diese Abkommen der Organisation zu melden unter genauer Angabe ihrer Laufzeit und der in ihnen enthaltenen finanziellen Abmachungen, im besonderen der Höhe der Kreditgrenzen, der Verrechnungswährung und der für die Berechnung und die Abrechnung im Rahmen des vorliegenden Teils des Abkommens vereinbarten Wechselkurse. Die betreffenden Vertragsparteien haben der Organisation auch alle Änderungen zu melden, welche hinsichtlich der finanziellen Abmachungen vereinbart werden.
 
@@ -321,13 +353,17 @@ d) Die Bestimmungen des vorhergehenden Absatzes finden auch Anwendung, falls ein
 
 ### VERWALTUNG UND FINANZEN — Artikel 17
 
-#### VERWALTUNGSORGANE
+**VERWALTUNGSORGANE**
+
+#### Art. 17
 
 Die Tätigkeit des Fonds und des Systems des Zahlungsausgleichs wird nach den Weisungen und unter der Aufsicht des Rates durch ein Direktorium und durch die Bank für Internationalen Zahlungsausgleich ausgeübt, die auf Grund eines Vertrages zwischen der Organisation und der Bank als Agent der Organisation (im folgenden „Agent“ genannt) handelt.
 
 ## Artikel 18
 
-#### DER RAT
+**DER RAT**
+
+#### Art. 18
 
 a) Vorbehaltlich der Bestimmungen des Artikels 19 hat der Rat die Befugnis, die zur Durchführung dieses Abkommens notwendigen Entscheidungen zu treffen.
 
@@ -353,7 +389,9 @@ f) Jede Ratsentscheidung auf Grund von Artikel 33 Absatz (b) oder (c) erfordert 
 
 ## Artikel 19
 
-#### DIREKTORIUM
+**DIREKTORIUM**
+
+#### Art. 19
 
 a) Das Direktorium soll aus höchstens sieben Mitgliedern bestehen, die der Rat aus einem Kreis von Persönlichkeiten ernennt, die von den Vertragsparteien vorgeschlagen werden. Endigt die Anwendung dieses Abkommens für eine Vertragspartei gemäß Artikel 30 oder 32, so scheidet das auf Vorschlag dieser Vertragspartei ernannte Mitglied aus dem Direktorium aus. Sofern die Organisation nichts anderes bestimmt, darf ein Mitglied, das auf Vorschlag einer Vertragspartei ernannt ist, der gegenüber die Anwendung dieses Abkommens auf Grund des Artikels 29 suspendiert ist, während der Dauer dieser Suspension an den Sitzungen des Direktoriums nicht teilnehmen. Sofern der Rat nichts anderes bestimmt, ist die Amtszeit der Mitglieder des Direktoriums ein Jahr; sie können wiederernannt werden.
 
@@ -375,7 +413,9 @@ i) Das Direktorium bestimmt seine Geschäftsordnung selbst.
 
 ## Artikel 20
 
-#### DER AGENT
+**DER AGENT**
+
+#### Art. 20
 
 a) Der Agent hat in Übereinstimmung mit den Entscheidungen des Rates und des Direktorium für die Durchführung aller finanziellen Operationen im Rahmen dieses Abkommens zu sorgen, die sich auf den Fonds und das System des Zahlungsausgleich beziehen, und insbesondere die in Artikel 22 erwähnten Vermögenswerte des Fonds zu verwalten.
 
@@ -385,13 +425,17 @@ c) Der Agent erstattet der Organisation in regelmäßigen Zeitabständen Bericht
 
 ## Artikel 21
 
-#### DIE ZENTRALBANKEN
+**DIE ZENTRALBANKEN**
+
+#### Art. 21
 
 Alle finanziellen Operationen einer Vertragspartei im Rahmen dieses Abkommens werden durch ihre Zentralbank durchgeführt. Zentralbank einer Vertragspartei im Sinne dieses Abkommens ist entweder die Zentralbank oder die von dieser Vertragspartei bestimmte andere Währungsbehörde.
 
 ## Artikel 22
 
-#### VERMÖGENSWERTE DES FONDS
+**VERMÖGENSWERTE DES FONDS**
+
+#### Art. 22
 
 a) Die Vermögenswerte des Fonds werden der Organisation für die Zwecke dieses Abkommens anvertraut.
 
@@ -401,7 +445,9 @@ c) Die Vermögenswerte des Fonds sind für Zahlungen zu benutzen, die der Fonds 
 
 ## Artikel 23
 
-#### KONTEN
+**KONTEN**
+
+#### Art. 23
 
 a) die Konten des Fonds werden von dem Agenten geführt, der jedes Jahr eine Bilanz sowie eine Einnahmen- und Ausgabenrechnung aufstellt und dem Direktorium vorlegt.
 
@@ -411,13 +457,17 @@ c) Die Bilanz und die Einnahmen- und Ausgabenrechnung sind dem Rat durch das Dir
 
 ## Artikel 24
 
-#### RECHNUNGSEINHEIT
+**RECHNUNGSEINHEIT**
+
+#### Art. 24
 
 Die Konten des Fonds werden in einer Rechnungseinheit von 0.88867088 Gramm Feingold geführt.
 
 ## Artikel 25
 
-#### PRIVILEGIEN UND IMMUNITÄTEN
+**PRIVILEGIEN UND IMMUNITÄTEN**
+
+#### Art. 25
 
 (a) Die Bestimmungen des Teiles II und III des Zusatzprotokolls Nr. 1 zur Konvention über die Europäische Wirtschaftliche Zusammenarbeit vom 16. April 1948 finden gemäß Zusatzprotokoll Nr. 2 zu dem Übereinkommen über die Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung vom 14. Dezember 1960 Anwendung auf den Fonds und seine Vermögenswerte, einschließlich ihrer Erträgnisse, unbeschadet der Bestimmungen in Absatz (b) und (c) dieses Artikels.
 
@@ -429,13 +479,17 @@ Die Konten des Fonds werden in einer Rechnungseinheit von 0.88867088 Gramm Feing
 
 ### SCHLUSSBESTIMMUNGEN — Artikel 26
 
-#### ÄNDERUNG VON BESTIMMUNGEN
+**ÄNDERUNG VON BESTIMMUNGEN**
+
+#### Art. 26
 
 Die Bestimmungen der Artikel 3 (einschließlich Tabelle A), 4 d, 5 b, 7, 7 A, 9 bis 16 (einschließlich Tabelle B), 19, 24 und 28 bis 33 können durch Beschluß der Organisation abgeändert werden.
 
 ## Artikel 27
 
-#### RATIFIZIERUNG
+**RATIFIZIERUNG**
+
+#### Art. 27
 
 a) Dieses Abkommen ist von den Unterzeichnern zu ratifizieren, die es zu diesem Zweck unverzüglich ihren verfassungsmäßig zuständigen Stellen vorlegen werden.
 
@@ -455,7 +509,9 @@ e) Genehmigen die verfassungsmäßig zuständigen Stellen eines Signatars die Ra
 
 ## Artikel 28
 
-#### BEITRITT
+**BEITRITT**
+
+#### Art. 28
 
 a) Ein Mitglied der Organisation, das dieses Abkommen nicht unterzeichnet hat, kann der Organisation mitteilen, daß es ihm beizutreten wünscht.
 
@@ -467,7 +523,9 @@ d) Vom Tage seines rechtskräftigen Beitritts an finden die Bestimmungen des Tei
 
 ## Artikel 29
 
-#### SUSPENSION
+**SUSPENSION**
+
+#### Art. 29
 
 a) Sofern der Fall vom Direktorium oder einer anderen vorher von der Organisation zu diesem Zweck errichteten oder bestimmten Stelle geprüft worden ist, kann die Organisation entscheiden, daß die Anwendung dieses Abkommens gegenüber einer Vertragspartei unter Bedingungen, die von der Organisation festgesetzt werden, suspendiert wird, und zwar
 
@@ -487,7 +545,9 @@ c) In Fällen, in denen die Bestimmungen dieses Artikels Anwendung finden, gilt,
 
 ## Artikel 30
 
-#### AUSSCHEIDEN VON VERTRAGSPARTEIEN
+**AUSSCHEIDEN VON VERTRAGSPARTEIEN**
+
+#### Art. 30
 
 a) Dieses Abkommen endigt für eine Vertragspartei, die aus der Organisation ausscheidet, an dem Tage, an dem ihr Ausscheiden wirksam wird, oder, falls die Bestimmungen des Teiles II dieses Abkommens auf diese Vertragspartei Anwendung finden, mit dem Ablauf der Abrechnungsperiode, in der das Ausscheiden wirksam wird, sofern die Organisation nicht einen anderen Zeitpunkt bestimmt.
 
@@ -511,7 +571,9 @@ f) Die Bestimmungen von Absatz (e) (3) und (4) dieses Artikels finden jedoch auf
 
 ## Artikel 31
 
-#### VERLÄNGERUNG VON TEIL II DES ABKOMMENS
+**VERLÄNGERUNG VON TEIL II DES ABKOMMENS**
+
+#### Art. 31
 
 a) Spätestens drei Monate vor Ablauf des ersten seit dem Inkrafttreten dieses Abkommens verflossenen Jahres wird die Organisation unbeschadet der Bestimmungen des Artikels 14, Absatz (c) eine eingehende Untersuchung über die Durchführung der Bestimmungen des Teiles II dieses Abkommens vornehmen, um zu entscheiden, und zwar in Beratung der Regierung der Vereinigten Staaten von Amerika, unter welchen Bedingungen die Bestimmungen des Teiles II vom Ende des genannten Jahres an weiter in Kraft bleiben können.
 
@@ -521,7 +583,9 @@ c) Für die anderen Vertragsparteien bleiben die Bestimmungen dieses Abkommens z
 
 ## Artikel 32
 
-#### VERLÄNGERUNG DES ABKOMMENS
+**VERLÄNGERUNG DES ABKOMMENS**
+
+#### Art. 32
 
 a) Spätestens am 30. September 1968 wird die Organisation unbeschadet der Bestimmungen in Artikels 31 eine eingehende Untersuchung über die Durchführung dieses Abkommens vornehmen, um zu entscheiden, und zwar in Beratung mit der Regierung der Vereinigten Staaten von Amerika, unter welchen Bedingungen das Abkommen nach dem 31. Dezember 1968 weiter in Kraft bleiben kann.
 
@@ -531,7 +595,9 @@ c) Für die anderen Vertragsparteien bleibt dieses Abkommen zu den von ihnen fes
 
 ## Artikel 33
 
-#### BEENDIGUNG DES ABKOMMENS
+**BEENDIGUNG DES ABKOMMENS**
+
+#### Art. 33
 
 a) Dieses Abkommen kann jederzeit durch Entscheidung der Organisation außer Kraft gesetzt werden.
 

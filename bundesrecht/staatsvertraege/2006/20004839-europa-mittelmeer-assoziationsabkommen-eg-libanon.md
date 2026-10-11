@@ -479,7 +479,9 @@ Hinsichtlich öffentlicher Unternehmen und Unternehmen, denen besondere oder aus
 
 ### WIRTSCHAFTLICHE UND SEKTORALE ZUSAMMENARBEIT — ARTIKEL 40
 
-#### Ziele
+**Ziele**
+
+#### Art. 40
 
 (1) Die beiden Vertragsparteien legen gemeinsam die für die Zusammenarbeit in den unter diesen Titel fallenden Bereichen erforderlichen Strategien und Verfahren fest.
 
@@ -489,7 +491,9 @@ Hinsichtlich öffentlicher Unternehmen und Unternehmen, denen besondere oder aus
 
 ## ARTIKEL 41
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 41
 
 (1) Die Zusammenarbeit wird zunächst und hauptsächlich auf die Bereiche ausgerichtet, die unter internen Sachzwängen und Schwierigkeiten leiden oder die durch die Liberalisierung der libanesischen Wirtschaft insgesamt und insbesondere durch die Liberalisierung des Handels zwischen Libanon und der Gemeinschaft betroffen sind.
 
@@ -501,7 +505,9 @@ Hinsichtlich öffentlicher Unternehmen und Unternehmen, denen besondere oder aus
 
 ## ARTIKEL 42
 
-#### Methoden und Modalitäten
+**Methoden und Modalitäten**
+
+#### Art. 42
 
 Die wirtschaftliche Zusammenarbeit wird insbesondere mit folgenden Mitteln durchgeführt:
 
@@ -519,7 +525,9 @@ f) Verbreitung von Informationen über die Zusammenarbeit.
 
 ## ARTIKEL 43
 
-#### Bildung und Ausbildung
+**Bildung und Ausbildung**
+
+#### Art. 43
 
 Mit der Zusammenarbeit wird angestrebt,
 
@@ -531,7 +539,9 @@ c) den Zugang insbesondere der weiblichen Bevölkerung zu Bildung, einschließli
 
 ## ARTIKEL 44
 
-#### Zusammenarbeit in Wissenschaft, Technik und Technologie
+**Zusammenarbeit in Wissenschaft, Technik und Technologie**
+
+#### Art. 44
 
 Ziel der Zusammenarbeit ist es,
 
@@ -549,7 +559,9 @@ d) Möglichkeiten für eine Beteiligung Libanons an den europäischen Forschungs
 
 ## ARTIKEL 45
 
-#### Umwelt
+**Umwelt**
+
+#### Art. 45
 
 (1) Die Vertragsparteien fördern die Zusammenarbeit bei der Verhinderung einer Verschlechterung der Umweltlage, der Überwachung der Verschmutzung und der rationellen Nutzung der natürlichen Ressourcen, um eine nachhaltige Entwicklung zu gewährleisten.
 
@@ -579,7 +591,9 @@ k) gemeinsame Forschungs- und Überwachungsmaßnahmen sowie Programme und Projek
 
 ## ARTIKEL 46
 
-#### Industrielle Zusammenarbeit
+**Industrielle Zusammenarbeit**
+
+#### Art. 46
 
 Ziel der Zusammenarbeit ist es,
 
@@ -605,7 +619,9 @@ f) die Entwicklung der KMU zu fördern, insbesondere durch
 
 ## ARTIKEL 47
 
-#### Investitionsförderung und Investitionsschutz
+**Investitionsförderung und Investitionsschutz**
+
+#### Art. 47
 
 (1) Ziel der Zusammenarbeit ist es, den Kapital-, Fachwissen- und Technologietransfer nach Libanon zu verstärken, u.a. durch
 
@@ -623,7 +639,9 @@ e) Schaffung günstiger rechtlicher Rahmenbedingungen für beiderseitige Investi
 
 ## ARTIKEL 48
 
-#### Zusammenarbeit in den Bereichen Normung und Konformitätsbewertung
+**Zusammenarbeit in den Bereichen Normung und Konformitätsbewertung**
+
+#### Art. 48
 
 Die Vertragsparteien arbeiten auf folgenden Gebieten zusammen:
 
@@ -637,13 +655,17 @@ d) Ausbau der libanesischen Einrichtungen, die für Normung, Qualität sowie das
 
 ## ARTIKEL 49
 
-#### Angleichung der Rechtsvorschriften
+**Angleichung der Rechtsvorschriften**
+
+#### Art. 49
 
 Die Vertragsparteien bemühen sich nach besten Kräften, ihre Rechtsvorschriften einander anzugleichen, um die Durchführung dieses Abkommens zu erleichtern.
 
 ## ARTIKEL 50
 
-#### Finanzdienstleistungen
+**Finanzdienstleistungen**
+
+#### Art. 50
 
 Die Vertragsparteien arbeiten mit dem Ziel zusammen, ihre Normen und Vorschriften einander anzunähern, insbesondere
 
@@ -653,7 +675,9 @@ b) um die Verfahren für Rechnungslegung und Rechnungsprüfung, die Aufsichts- u
 
 ## ARTIKEL 51
 
-#### Landwirtschaft und Fischerei
+**Landwirtschaft und Fischerei**
+
+#### Art. 51
 
 Mit der Zusammenarbeit werden folgende Ziele verfolgt:
 
@@ -687,7 +711,9 @@ n) Stärkung des landwirtschaftlichen Kreditsystems.
 
 ## ARTIKEL 52
 
-#### Verkehr
+**Verkehr**
+
+#### Art. 52
 
 Ziel der Zusammenarbeit ist
 
@@ -703,7 +729,9 @@ e) die Umorganisierung und Umstrukturierung des Massenverkehrssektors einschlie�
 
 ## ARTIKEL 53
 
-#### Informationsgesellschaft und Telekommunikation
+**Informationsgesellschaft und Telekommunikation**
+
+#### Art. 53
 
 (1) Die Vertragsparteien erkennen an, dass die Informations- und Kommunikationstechnologien ein wichtiger Faktor für die moderne Gesellschaft, von entscheidender Bedeutung für die wirtschaftliche und soziale Entwicklung und der Grundstein für den Aufbau der Informationsgesellschaft sind.
 
@@ -725,7 +753,9 @@ g) ein Dialog über die Zusammenarbeit in den die internationalen Dienstleistung
 
 ## ARTIKEL 54
 
-#### Energie
+**Energie**
+
+#### Art. 54
 
 Die Zusammenarbeit konzentriert sich auf Folgendes:
 
@@ -739,7 +769,9 @@ d) Unterstützung der Modernisierung und des Ausbaus der Energieversorgungsnetze
 
 ## ARTIKEL 55
 
-#### Tourismus
+**Tourismus**
+
+#### Art. 55
 
 Mit der Zusammenarbeit wird Folgendes angestrebt:
 
@@ -763,7 +795,9 @@ i) Veranstaltung eines Erfahrungsaustauschs zur Gewährleistung einer ausgewogen
 
 ## ARTIKEL 56
 
-#### Zusammenarbeit im Zollbereich
+**Zusammenarbeit im Zollbereich**
+
+#### Art. 56
 
 (1) Die Vertragsparteien bauen die Zusammenarbeit im Zollbereich aus, um die Einhaltung der Handelsvorschriften zu gewährleisten. Zu diesem Zweck richten sie einen Dialog über Zollfragen ein.
 
@@ -781,13 +815,17 @@ d) technische Hilfe, soweit erforderlich.
 
 ## ARTIKEL 57
 
-#### Zusammenarbeit im Bereich der Statistik
+**Zusammenarbeit im Bereich der Statistik**
+
+#### Art. 57
 
 Ziel der Zusammenarbeit ist die Angleichung der von den Vertragsparteien angewandten Methoden und die Nutzung von Daten, einschließlich Datenbanken, in allen unter dieses Abkommen fallenden Bereichen, für die die Erstellung von Statistiken in Betracht kommt.
 
 ## ARTIKEL 58
 
-#### Verbraucherschutz
+**Verbraucherschutz**
+
+#### Art. 58
 
 Die Zusammenarbeit in diesem Bereich sollte darauf gerichtet sein, die Verbraucherschutzprogramme in der Gemeinschaft und in Libanon miteinander in Einklang zu bringen, und sollte nach Möglichkeit Folgendes umfassen:
 
@@ -801,13 +839,17 @@ d) Veranstaltung von Ausbildungsprogrammen und technische Hilfe.
 
 ## ARTIKEL 59
 
-#### Zusammenarbeit beim Ausbau der Institutionen und des Rechtsstaates
+**Zusammenarbeit beim Ausbau der Institutionen und des Rechtsstaates**
+
+#### Art. 59
 
 Die Vertragsparteien bekräftigen die Bedeutung des Rechtsstaatsprinzips und des reibungs-losen Funktionierens der Institutionen auf allen Ebenen im Bereich der Verwaltung im Allgemeinen und in den Bereichen Gesetzesvollzug und Rechtspflege im Besonderen. Einer unabhängigen und effizienten Justiz und gut ausgebildeten Juristen kommt in diesem Zusammenhang eine besondere Bedeutung zu.
 
 ## ARTIKEL 60
 
-#### Geldwäsche
+**Geldwäsche**
+
+#### Art. 60
 
 (1) Die Vertragsparteien sind sich über die Notwendigkeit einig, alle Anstrengungen zu unternehmen und zusammenzuarbeiten, um zu verhindern, dass ihre Finanzsysteme zum Waschen von Erlösen aus Straftaten im Allgemeinen und aus Drogendelikten im Besonderen missbraucht werden.
 
@@ -815,7 +857,9 @@ Die Vertragsparteien bekräftigen die Bedeutung des Rechtsstaatsprinzips und des
 
 ## ARTIKEL 61
 
-#### Verhütung und Bekämpfung des organisierten Verbrechens
+**Verhütung und Bekämpfung des organisierten Verbrechens**
+
+#### Art. 61
 
 (1) Die Vertragsparteien kommen überein, bei der Verhütung und Bekämpfung des organisierten Verbrechens insbesondere in folgenden Bereichen zusammenzuarbeiten: Menschenhandel, sexuelle Ausbeutung, Korruption, Fälschung von Finanzinstrumenten, illegaler Handel mit verbotenen oder gefälschten Waren oder unerlaubt hergestellten Vervielfältigungsstücken oder Nachbildungen, illegale Geschäfte insbesondere mit Industrieabfällen oder radioaktivem Material, Waffen- und Sprengstoffhandel, Computerkriminalität und Handel mit gestohlenen Kraftfahrzeugen.
 
@@ -825,7 +869,9 @@ Die Vertragsparteien bekräftigen die Bedeutung des Rechtsstaatsprinzips und des
 
 ## ARTIKEL 62
 
-#### Zusammenarbeit bei der Bekämpfung illegaler Drogen
+**Zusammenarbeit bei der Bekämpfung illegaler Drogen**
+
+#### Art. 62
 
 (1) Die Vertragsparteien arbeiten im Rahmen ihrer Zuständigkeiten und Befugnisse zusammen, um ein ausgewogenes und integriertes Vorgehen gegen Drogen zu gewährleisten. Mit der Drogenpolitik und entsprechenden Maßnahmen wird angestrebt, das Angebot an illegalen Drogen, den Handel damit und die Nachfrage danach zu verringern und die Ausgangsstoffe effizienter zu kontrollieren.
 
@@ -1105,7 +1151,9 @@ Dieses Abkommen ist in zwei Urschriften in arabischer, dänischer, deutscher, en
 
 ## ARTIKEL 93
 
-#### Interimsabkommen
+**Interimsabkommen**
+
+#### Art. 93
 
 Für den Fall, dass vor Abschluss der für das Inkrafttreten dieses Abkommens erforderliche Verfahren die Bestimmungen einiger Teile dieses Abkommens, insbesondere die Bestimmungen über den freien Warenverkehr, durch ein Interimsabkommen zwischen der Gemeinschaft und Libanon in Kraft gesetzt werden, kommen die Vertragsparteien überein, dass unter diesen Umständen für die Zwecke der Titel II und IV dieses Abkommens und der Anhänge 1 und 2 sowie der Protokolle 1 bis 5 dazu unter „Zeitpunkt des Inkrafttretens dieses Abkommens“ der Zeitpunkt des Inkrafttretens des Interimabkommens für die in diesen Artikeln, Anhängen und Protokollen enthaltenen Verpflichtungen zu verstehen ist.
 

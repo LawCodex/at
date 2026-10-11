@@ -72,13 +72,17 @@ sind wie folgt übereingekommen:
 
 ### Artikel 1
 
-#### GEGENSTAND UND ZWECK
+**GEGENSTAND UND ZWECK**
+
+#### Art. 1
 
 Zweck dieses Übereinkommens ist es, im Hoheitsgebiet jeder Vertragspartei für jedermann ungeachtet seiner Staatsangehörigkeit oder seines Wohnortes sicherzustellen, daß seine Rechte und Grundfreiheiten, insbesondere sein Recht auf einen Persönlichkeitsbereich, bei der automatischen Verarbeitung personenbezogener Daten geschützt werden („Datenschutz“).
 
 ## Artikel 2
 
-#### BEGRIFFSBESTIMMUNGEN
+**BEGRIFFSBESTIMMUNGEN**
+
+#### Art. 2
 
 In diesem Übereinkommen:
 
@@ -92,7 +96,9 @@ d) bedeutet „Verantwortlicher für die Datei/Datensammlung“, die natürliche
 
 ## Artikel 3
 
-#### GELTUNGSBEREICH
+**GELTUNGSBEREICH**
+
+#### Art. 3
 
 1\. Die Vertragsparteien verpflichten sich, dieses Übereinkommen auf automatisierte Dateien/Datensammlungen und automatische Verarbeitungen von personenbezogenen Daten im öffentlichen und privaten Bereich anzuwenden.
 
@@ -118,7 +124,9 @@ Dateien/Datensammlungen mit personenbezogenen Daten durch eine Erklärung nach A
 
 ### Artikel 4
 
-#### PFLICHTEN DER VERTRAGSPARTEIEN
+**PFLICHTEN DER VERTRAGSPARTEIEN**
+
+#### Art. 4
 
 1\. Jede Vertragspartei trifft in ihrem innerstaatlichen Recht die erforderlichen Maßnahmen, um die in diesem Kapitel aufgestellten Grundsätze für den Datenschutz zu verwirklichen.
 
@@ -126,7 +134,9 @@ Dateien/Datensammlungen mit personenbezogenen Daten durch eine Erklärung nach A
 
 ## Artikel 5
 
-#### QUALITÄT DER DATEN
+**QUALITÄT DER DATEN**
+
+#### Art. 5
 
 Personenbezogene Daten, die automatisch verarbeitet werden,
 
@@ -142,19 +152,25 @@ e) müssen so aufbewahrt werden, daß der Betroffene nicht länger identifiziert
 
 ## Artikel 6
 
-#### BESONDERE ARTEN VON DATEN
+**BESONDERE ARTEN VON DATEN**
+
+#### Art. 6
 
 Personenbezogene Daten, welche die rassische Herkunft, politische Anschauungen oder religiöse oder andere Überzeugungen erkennen lassen, sowie personenbezogene Daten, welche die Gesundheit oder das Sexualleben betreffen, dürfen nur automatisch verarbeitet werden, wenn das innerstaatliche Recht einen geeigneten Schutz gewährleistet. Dasselbe gilt für personenbezogene Daten über Strafurteile.
 
 ## Artikel 7
 
-#### DATENSICHERUNG
+**DATENSICHERUNG**
+
+#### Art. 7
 
 Für den Schutz personenbezogener Daten, die in automatisierten Dateien/Datensammlungen gespeichert sind, werden geeignete Sicherungsmaßnahmen getroffen gegen die zufällige oder unbefugte Zerstörung, gegen zufälligen Verlust sowie unbefugten Zugang, unbefugte Veränderung oder unbefugtes Bekanntgeben.
 
 ## Artikel 8
 
-#### ZUSÄTZLICHER SCHUTZ FÜR DEN BETROFFENEN
+**ZUSÄTZLICHER SCHUTZ FÜR DEN BETROFFENEN**
+
+#### Art. 8
 
 Jedermann muß die Möglichkeit haben,
 
@@ -168,7 +184,9 @@ d) über ein Rechtsmittel zu verfügen, wenn seiner Forderung nach Bestätigung 
 
 ## Artikel 9
 
-#### AUSNAHMEN UND EINSCHRÄNKUNGEN
+**AUSNAHMEN UND EINSCHRÄNKUNGEN**
+
+#### Art. 9
 
 1\. Ausnahmen von den Artikeln 5, 6 und 8 sind nicht zulässig, abgesehen von den in diesem Artikel vorgesehenen.
 
@@ -182,13 +200,17 @@ b) zum Schutz des Betroffenen oder der Rechte und Freiheiten Dritter.
 
 ## Artikel 10
 
-#### SANKTIONEN UND RECHTSMITTEL
+**SANKTIONEN UND RECHTSMITTEL**
+
+#### Art. 10
 
 Jede Vertragspartei verpflichtet sich, geeignete Sanktionen und Rechtsmittel für Verletzungen der Vorschriften des innerstaatlichen Rechts, welche die in diesem Kapitel aufgestellten Grundsätze für den Datenschutz verwirklichen, festzulegen.
 
 ## Artikel 11
 
-#### WEITERGEHENDER SCHUTZ
+**WEITERGEHENDER SCHUTZ**
+
+#### Art. 11
 
 Dieses Kapitel ist nicht so auszulegen, als ob es die Möglichkeit begrenze oder auf andere Weise beeinträchtige, daß eine Vertragspartei den Betroffenen ein größeres Maß an Schutz als das in diesem Übereinkommen vorgeschriebene gewährt.
 
@@ -196,7 +218,9 @@ Dieses Kapitel ist nicht so auszulegen, als ob es die Möglichkeit begrenze oder
 
 ### Artikel 12
 
-#### GRENZÜBERSCHREITENDER VERKEHR PERSONENBEZOGENER DATEN UND INNERSTAATLICHES RECHT
+**GRENZÜBERSCHREITENDER VERKEHR PERSONENBEZOGENER DATEN UND INNERSTAATLICHES RECHT**
+
+#### Art. 12
 
 1\. Werden personenbezogene Daten, die automatisch verarbeitet werden oder für eine solche Verarbeitung beschafft worden sind – mittels welcher Datenträger auch immer –, über die Staatsgrenzen hinweg weitergegeben, so finden die folgenden Bestimmungen Anwendung.
 
@@ -212,7 +236,9 @@ b) um zu verhindern, daß ihr Recht dadurch umgangen wird, daß eine Weitergabe 
 
 ### Artikel 13
 
-#### ZUSAMMENARBEIT ZWISCHEN DEN VERTRAGSPARTEIEN
+**ZUSAMMENARBEIT ZWISCHEN DEN VERTRAGSPARTEIEN**
+
+#### Art. 13
 
 1\. Die Vertragsparteien verpflichten sich, einander bei der Durchführung dieses Übereinkommens Hilfe zu leisten.
 
@@ -230,7 +256,9 @@ b) in Übereinstimmung mit dem innerstaatlichen Recht und allein zum Zweck des S
 
 ## Artikel 14
 
-#### UNTERSTÜTZUNG VON BETROFFENEN, DIE IM AUSLAND WOHNEN
+**UNTERSTÜTZUNG VON BETROFFENEN, DIE IM AUSLAND WOHNEN**
+
+#### Art. 14
 
 1\. Jede Vertragspartei unterstützt Personen, die im Ausland wohnen, bei der Ausübung der Rechte, die ihnen nach dem innerstaatlichen Recht zustehen, das die in Artikel 8 aufgestellten Grundsätze verwirklicht.
 
@@ -246,7 +274,9 @@ c) den Zweck des Antrags.
 
 ## Artikel 15
 
-#### SICHERHEITEN BEI HILFELEISTUNG DURCH BEZEICHNETE BEHÖRDEN
+**SICHERHEITEN BEI HILFELEISTUNG DURCH BEZEICHNETE BEHÖRDEN**
+
+#### Art. 15
 
 1\. Hat eine bezeichnete Behörde einer Vertragspartei von einer bezeichneten Behörde einer anderen Vertragspartei Auskünfte erhalten, die einem Antrag auf Unterstützung dienen oder Antwort auf ein eigenes Ersuchen geben, so darf sie diese Auskünfte nur zu den Zwecken verwenden, die dem Antrag oder Ersuchen zugrunde liegen.
 
@@ -256,7 +286,9 @@ c) den Zweck des Antrags.
 
 ## Artikel 16
 
-#### ABLEHNUNG VON ERSUCHEN UND ANTRÄGEN
+**ABLEHNUNG VON ERSUCHEN UND ANTRÄGEN**
+
+#### Art. 16
 
 Eine bezeichnete Behörde, an die nach Artikel 13 ein Ersuchen oder nach Artikel 14 ein Antrag gerichtet wird, kann nur ablehnen, ihnen stattzugeben, wenn
 
@@ -268,7 +300,9 @@ c) ihre Erfüllung mit der Souveränität, der Sicherheit oder der öffentlichen
 
 ## Artikel 17
 
-#### KOSTEN UND VERFAHREN
+**KOSTEN UND VERFAHREN**
+
+#### Art. 17
 
 1\. Für Hilfe, welche die Vertragsparteien einander nach Artikel 13 leisten, oder für Unterstützung, die sie Betroffenen im Ausland nach Artikel 14 leisten, werden keine Auslagen oder Gebühren außer für Sachverständige und Dolmetscher erhoben. Diese Auslagen oder Gebühren werden von der Vertragspartei getragen, welche die ersuchende Behörde bezeichnet hat.
 
@@ -280,7 +314,9 @@ c) ihre Erfüllung mit der Souveränität, der Sicherheit oder der öffentlichen
 
 ### Artikel 18
 
-#### ZUSAMMENSETZUNG DES AUSSCHUSSES
+**ZUSAMMENSETZUNG DES AUSSCHUSSES**
+
+#### Art. 18
 
 1\. Nach dem Inkrafttreten dieses Übereinkommens wird ein Beratender Ausschuß eingesetzt.
 
@@ -290,7 +326,9 @@ c) ihre Erfüllung mit der Souveränität, der Sicherheit oder der öffentlichen
 
 ## Artikel 19
 
-#### AUFGABEN DES AUSSCHUSSES
+**AUFGABEN DES AUSSCHUSSES**
+
+#### Art. 19
 
 Der Beratende Ausschuß
 
@@ -304,7 +342,9 @@ d) kann auf Ersuchen einer Vertragspartei zu allen Fragen im Zusammenhang mit de
 
 ## Artikel 20
 
-#### VERFAHREN
+**VERFAHREN**
+
+#### Art. 20
 
 1\. Der Beratende Ausschuß wird vom Generalsekretär des Europarats einberufen. Seine erste Sitzung findet innerhalb von zwölf Monaten nach Inkrafttreten dieses Übereinkommens statt. Danach tritt er mindestens alle zwei Jahre sowie immer dann zusammen, wenn ein Drittel der Vertreter der Vertragsparteien dies verlangt.
 
@@ -318,7 +358,9 @@ d) kann auf Ersuchen einer Vertragspartei zu allen Fragen im Zusammenhang mit de
 
 ### Artikel 21
 
-#### ÄNDERUNGEN
+**ÄNDERUNGEN**
+
+#### Art. 21
 
 1\. Änderungen dieses Übereinkommens können von einer Vertragspartei, vom Ministerkomitee des Europarates oder vom Beratenden Ausschuß vorgeschlagen werden.
 
@@ -336,7 +378,9 @@ d) kann auf Ersuchen einer Vertragspartei zu allen Fragen im Zusammenhang mit de
 
 ### Artikel 22
 
-#### INKRAFTTRETEN
+**INKRAFTTRETEN**
+
+#### Art. 22
 
 1\. Dieses Übereinkommen liegt für die Mitgliedstaaten des Europarats zur Unterzeichnung auf. Es bedarf der Ratifikation, Annahme oder Genehmigung. Die Ratifikations-, Annahme- oder Genehmigungsurkunden werden beim Generalsekretär des Europarates hinterlegt.
 
@@ -346,7 +390,9 @@ d) kann auf Ersuchen einer Vertragspartei zu allen Fragen im Zusammenhang mit de
 
 ## Artikel 23
 
-#### BEITRITT VON NICHTMITGLIEDSTAATEN
+**BEITRITT VON NICHTMITGLIEDSTAATEN**
+
+#### Art. 23
 
 1\. Nach Inkrafttreten dieses Übereinkommens kann das Ministerkomitee des Europarats durch einen mit der in Artikel 20 Buchstabe d der Satzung vorgesehenen Mehrheit und mit einhelliger Zustimmung der Vertreter der Vertragsstaaten, die Anspruch auf einen Sitz im Komitee haben, gefaßten Beschluß jeden Nichtmitgliedstaat des Rates einladen, dem Übereinkommen beizutreten.
 
@@ -354,7 +400,9 @@ d) kann auf Ersuchen einer Vertragspartei zu allen Fragen im Zusammenhang mit de
 
 ## Artikel 24
 
-#### RÄUMLICHER GELTUNGSBEREICH
+**RÄUMLICHER GELTUNGSBEREICH**
+
+#### Art. 24
 
 1\. Jeder Staat kann bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde einzelne oder mehrere Hoheitsgebiete bezeichnen, auf die dieses Übereinkommen Anwendung findet.
 
@@ -364,13 +412,17 @@ d) kann auf Ersuchen einer Vertragspartei zu allen Fragen im Zusammenhang mit de
 
 ## Artikel 25
 
-#### VORBEHALTE
+**VORBEHALTE**
+
+#### Art. 25
 
 Vorbehalte zu diesem Übereinkommen sind nicht zulässig.
 
 ## Artikel 26
 
-#### KÜNDIGUNG
+**KÜNDIGUNG**
+
+#### Art. 26
 
 1\. Jede Vertragspartei kann dieses Übereinkommen jederzeit durch eine an den Generalsekretär des Europarats gerichtete Notifikation kündigen.
 
@@ -378,7 +430,9 @@ Vorbehalte zu diesem Übereinkommen sind nicht zulässig.
 
 ## Artikel 27
 
-#### NOTIFIKATIONEN
+**NOTIFIKATIONEN**
+
+#### Art. 27
 
 Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates und jedem Staat, der diesem Übereinkommen beigetreten ist,
 

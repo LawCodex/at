@@ -211,7 +211,9 @@ Das mit dem Schutz von Kulturgut betraute Personal ist, soweit mit den Erfordern
 
 ## KAPITEL V
 
-#### DAS KENNZEICHEN – ARTIKEL 16 – DAS KENNZEICHEN
+**DAS KENNZEICHEN**
+
+#### Art. 16 – ARTIKEL 16 – DAS KENNZEICHEN
 
 1\. Das Kennzeichen der Konvention besteht aus einem mit einem schrägen Kreuz versehenen Schild in Blau und Weiß, dessen Spitze nach unten gerichtet ist; (der Schild wird aus einem ultramarinblauen Quadrat, dessen eine Ecke die Spitze des Schildes darstellt, und aus einem oberhalb des Quadrates befindlichen ultramarinblauen Dreieck gebildet, wobei der verbleibende Raum auf beiden Seiten von je einem weißen Dreieck ausgefüllt wird).
 

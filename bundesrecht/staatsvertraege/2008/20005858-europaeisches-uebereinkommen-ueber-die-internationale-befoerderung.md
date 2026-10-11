@@ -1669,7 +1669,9 @@ haben Folgendes VEREINBART:
 
 ### ALLGEMEINE BESTIMMUNGEN — Artikel 1
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 1
 
 1\. Dieses Übereinkommen findet Anwendung auf die internationale Beförderung von gefährlichen Gütern mit Schiffen auf Binnenwasserstraßen.
 
@@ -1679,7 +1681,9 @@ haben Folgendes VEREINBART:
 
 ## Artikel 2
 
-#### Verordnung in der Anlage des Übereinkommens
+**Verordnung in der Anlage des Übereinkommens**
+
+#### Art. 2
 
 1\. Die Verordnung in der Anlage dieses Übereinkommens ist fester Bestandteil dieses Übereinkommens. Jeder Hinweis auf dieses Übereinkommen bedeutet gleichzeitig einen Hinweis auf die in der Anlage beigefügte Verordnung.
 
@@ -1695,7 +1699,9 @@ d) zusätzliche Übergangsbestimmungen, die auf besonderen Binnenwasserstraßen 
 
 ## Artikel 3
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 3
 
 Für die Anwendung dieses Übereinkommens bedeutet:
 
@@ -1719,7 +1725,9 @@ h) „Untersuchungsstelle“ eine von der Vertragspartei benannte oder anerkannt
 
 ### BESTIMMUNGEN TECHNISCHER ART — Artikel 4
 
-#### Beförderungsverbote, Beförderungsbedingungen, Kontrollen
+**Beförderungsverbote, Beförderungsbedingungen, Kontrollen**
+
+#### Art. 4
 
 1\. Vorbehaltlich der Bestimmungen der Artikel 7 und 8 dürfen gefährliche Güter, deren Beförderung nach der beigefügten Verordnung ausgeschlossen ist, nicht Gegenstand einer internationalen Beförderung sein.
 
@@ -1729,19 +1737,25 @@ h) „Untersuchungsstelle“ eine von der Vertragspartei benannte oder anerkannt
 
 ## Artikel 5
 
-#### Befreiungen
+**Befreiungen**
+
+#### Art. 5
 
 Dieses Übereinkommen findet insoweit keine Anwendung auf die Beförderung von gefährlichen Gütern, als deren Freistellung in der beigefügten Verordnung vorgesehen ist. Befreiungen können nur vorgesehen werden, wenn auf Grund der Menge der freigestellten Güter oder der Art der freigestellten Beförderungen oder der Verpackung die Sicherheit der Beförderung gewährleistet ist.
 
 ## Artikel 6
 
-#### Rechte der Staaten
+**Rechte der Staaten**
+
+#### Art. 6
 
 Jede Vertragspartei behält das Recht, den Eingang von gefährlichen Gütern in ihr Hoheitsgebiet aus Gründen, die nicht die Sicherheit während der Fahrt betreffen, zu regeln oder zu verbieten.
 
 ## Artikel 7
 
-#### Sonderregelungen, Ausnahmegenehmigungen
+**Sonderregelungen, Ausnahmegenehmigungen**
+
+#### Art. 7
 
 1\. Die Vertragsparteien behalten das Recht, für eine in der beigefügten Verordnung festgelegte befristete Dauer und sofern sich daraus keine Beeinträchtigung der Sicherheit ergibt, durch zweiseitige oder mehrseitige Sonderabkommen zu vereinbaren,
 
@@ -1761,7 +1775,9 @@ b) ein Schiff mit technischen Neuerungen, die von den Bestimmungen der beigefüg
 
 ## Artikel 8
 
-#### Übergangsbestimmungen
+**Übergangsbestimmungen**
+
+#### Art. 8
 
 1\. Die Zulassungszeugnisse und andere Urkunden, die gemäß den bis zum Zeitpunkt der Anwendung der beigefügten Verordnung gemäß Artikel 11 Absatz 1 gültigen Vorschriften der Verordnung über die Beförderung gefährlicher Güter auf dem Rhein (ADNR), der Verordnung über die Beförderung gefährlicher Güter auf der Donau (ADN-D) oder innerstaatlicher Verordnungen, welche die europäischen Vorschriften für die Beförderung von gefährlichen Gütern auf Binnenwasserstraßen in der Fassung der Anlage der Resolution Nr. 223 des Binnenverkehrsausschusses der Wirtschaftskommission für Europa oder in ihrer geänderten Fassung übernehmen, erteilt wurden, behalten ihre Gültigkeit gemäß der bis zum Zeitpunkt dieser Anwendung gültigen Rechtslage, insbesondere in Bezug auf ihre Anerkennung durch andere Vertragsparteien, bis zu ihrem Ablaufdatum. Darüber hinaus bleiben diese Zeugnisse für ein Jahr ab dem Zeitpunkt der Anwendung der beigefügten Verordnung gültig, wenn sie in dieser Zeit ablaufen. Die Gültigkeitsdauer darf jedoch in keinem Fall fünf Jahre nach dem Zeitpunkt der Anwendung der beigefügten Verordnung überschreiten.
 
@@ -1773,7 +1789,9 @@ b) ein Schiff mit technischen Neuerungen, die von den Bestimmungen der beigefüg
 
 ## Artikel 9
 
-#### Anwendbarkeit anderer Verordnungen
+**Anwendbarkeit anderer Verordnungen**
+
+#### Art. 9
 
 Beförderungen, die von diesem Übereinkommen erfasst werden, unterliegen auch künftig den örtlichen, regionalen oder internationalen Vorschriften, die generell für Güterbeförderungen auf Binnenwasserstraßen gelten.
 
@@ -1781,7 +1799,9 @@ Beförderungen, die von diesem Übereinkommen erfasst werden, unterliegen auch k
 
 ### SCHLUSSBESTIMMUNGEN — Artikel 10
 
-#### Vertragsparteien
+**Vertragsparteien**
+
+#### Art. 10
 
 1\. Die Mitgliedstaaten der Wirtschaftskommission für Europa, auf deren Gebiet sich Binnenwasserstraßen ohne Küstenstrecken befinden, die Bestandteil des Binnenschifffahrtsnetzes von internationaler Bedeutung sind, wie es im Europäischen Übereinkommen über die Hauptbinnenwasserstraßen von internationaler Bedeutung (AGN) definiert wird, können Vertragsparteien dieses Übereinkommens werden:
 
@@ -1797,7 +1817,9 @@ c) durch Hinterlegung einer Beitrittsurkunde.
 
 ## Artikel 11
 
-#### In-Kraft-Treten
+**In-Kraft-Treten**
+
+#### Art. 11
 
 1\. Dieses Übereinkommen tritt einen Monat nach dem Zeitpunkt in Kraft, zu dem die Zahl der in Artikel 10 Absatz 1 genannten Staaten, die es endgültig unterzeichnet oder ihre Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunden hinterlegt haben, sieben erreicht hat.
 
@@ -1809,7 +1831,9 @@ Die beigefügte Verordnung ist zum gleichen Zeitpunkt anzuwenden. Falls die in A
 
 ## Artikel 12
 
-#### Kündigung
+**Kündigung**
+
+#### Art. 12
 
 1\. Jede Vertragspartei kann dieses Übereinkommen durch schriftliche Notifikation an den Generalsekretär der Vereinten Nationen kündigen.
 
@@ -1817,7 +1841,9 @@ Die beigefügte Verordnung ist zum gleichen Zeitpunkt anzuwenden. Falls die in A
 
 ## Artikel 13
 
-#### Erlöschen
+**Erlöschen**
+
+#### Art. 13
 
 1\. Fällt nach In-Kraft-Treten dieses Übereinkommens die Anzahl der Vertragsparteien während eines Zeitraums von zwölf Monaten in Folge auf unter fünf, wird dieses Übereinkommen nach Ablauf dieses zwölfmonatigen Zeitraums unwirksam.
 
@@ -1825,7 +1851,9 @@ Die beigefügte Verordnung ist zum gleichen Zeitpunkt anzuwenden. Falls die in A
 
 ## Artikel 14
 
-#### Erklärungen
+**Erklärungen**
+
+#### Art. 14
 
 1\. Jeder Staat kann bei endgültiger Unterzeichnung dieses Übereinkommens oder bei Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde oder zu jedem späteren Zeitpunkt durch schriftliche Notifikation an den Generalsekretär der Vereinten Nationen erklären, dass dieses Übereinkommen für alle oder für einen Teil der Gebiete gelten soll, deren internationale Beziehungen er wahrnimmt. Das Übereinkommen wird für das oder die in der Notifikation genannten Gebiete einen Monat nach Eingang dieser Notifikation beim Generalsekretär wirksam.
 
@@ -1839,7 +1867,9 @@ b) Jedoch kann jeder Staat, auf dessen Gebiet sich Binnenwasserstraßen befinden
 
 ## Artikel 15
 
-#### Streitigkeiten
+**Streitigkeiten**
+
+#### Art. 15
 
 1\. Streitigkeiten zwischen zwei oder mehr Vertragsparteien über die Auslegung oder Anwendung dieses Übereinkommens werden nach Möglichkeit im Wege von Verhandlungen zwischen den streitenden Parteien beigelegt.
 
@@ -1851,7 +1881,9 @@ b) Jedoch kann jeder Staat, auf dessen Gebiet sich Binnenwasserstraßen befinden
 
 ## Artikel 16
 
-#### Vorbehalte
+**Vorbehalte**
+
+#### Art. 16
 
 1\. Jeder Staat kann bei endgültiger Unterzeichnung dieses Übereinkommens oder bei Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde erklären, dass er Artikel 15 nicht als für ihn verbindlich betrachtet. Für die übrigen Vertragsparteien ist Artikel 15 gegenüber einer Vertragspartei, die einen solchen Vorbehalt eingelegt hat, nicht verbindlich.
 
@@ -1861,7 +1893,9 @@ b) Jedoch kann jeder Staat, auf dessen Gebiet sich Binnenwasserstraßen befinden
 
 ## Artikel 17
 
-#### Verwaltungsausschuss
+**Verwaltungsausschuss**
+
+#### Art. 17
 
 1\. Es wird ein Verwaltungsausschuss eingesetzt, der die Umsetzung dieses Übereinkommens prüft, alle dazu vorgeschlagenen Änderungen untersucht und Maßnahmen für eine einheitliche Auslegung und Anwendung des genannten Übereinkommens erörtert.
 
@@ -1891,13 +1925,17 @@ d) Alle anderen als die in den Buchstaben a bis c genannten Vorschläge oder Bes
 
 ## Artikel 18
 
-#### Sicherheitsausschuss
+**Sicherheitsausschuss**
+
+#### Art. 18
 
 Es wird ein Sicherheitsausschuss eingesetzt, der mit der Prüfung aller Änderungsvorschläge zu der beigefügten Verordnung beauftragt wird, insbesondere derjenigen, die die Sicherheit der Schifffahrt, den Bau, die Ausrüstung und die Besatzungen der Schiffe betreffen. Dieser Ausschuss arbeitet im Rahmen der Tätigkeit der Organe der Wirtschaftskommission für Europa, der Zentralkommission für die Rheinschifffahrt und der Donaukommission, die zuständig für den Bereich der Beförderung von gefährlichen Gütern auf Binnenwasserstraßen sind.
 
 ## Artikel 19
 
-#### Verfahren zur Änderung dieses Übereinkommens ausschließlich seiner beigefügten Verordnung
+**Verfahren zur Änderung dieses Übereinkommens ausschließlich seiner beigefügten Verordnung**
+
+#### Art. 19
 
 1\. Dieses Übereinkommen, ausschließlich seiner beigefügten Verordnung, kann auf Vorschlag einer Vertragspartei nach dem in diesem Artikel vorgesehenen Verfahren geändert werden.
 
@@ -1907,7 +1945,9 @@ Es wird ein Sicherheitsausschuss eingesetzt, der mit der Prüfung aller Änderun
 
 ## Artikel 20
 
-#### Verfahren zur Änderung der beigefügten Verordnung
+**Verfahren zur Änderung der beigefügten Verordnung**
+
+#### Art. 20
 
 1\. Die beigefügte Verordnung kann auf Vorschlag einer Vertragspartei geändert werden.
 
@@ -1927,13 +1967,17 @@ b) Der Verwaltungsausschuss kann bei der Annahme eines Änderungsentwurfs eine l
 
 ## Artikel 21
 
-#### Anträge, Mitteilungen und Einsprüche
+**Anträge, Mitteilungen und Einsprüche**
+
+#### Art. 21
 
 Der Generalsekretär der Vereinten Nationen unterrichtet alle Vertragsparteien und alle in Artikel 10 Absatz 1 genannten Staaten über alle Anträge, Mitteilungen oder Einsprüche nach Artikel 19 und 20, über die Annahme und den Tag des Inkrafttretens der Änderungen.
 
 ## Artikel 22
 
-#### Revisionskonferenz
+**Revisionskonferenz**
+
+#### Art. 22
 
 1\. Unabhängig von dem Verfahren nach Artikel 19 und 20 kann eine Vertragspartei durch schriftliche Notifikation an den Generalsekretär der Vereinten Nationen die Einberufung einer Konferenz zum Zwecke der Revision dieses Übereinkommens fordern.
 
@@ -1947,7 +1991,9 @@ Eine Revisionskonferenz, zu der alle Vertragsparteien und alle in Artikel 10 Abs
 
 ## Artikel 23
 
-#### Verwahrer
+**Verwahrer**
+
+#### Art. 23
 
 Der Generalsekretär der Vereinten Nationen ist der Verwahrer dieses Übereinkommens.
 

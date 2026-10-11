@@ -39,7 +39,9 @@ HABEN Folgendes VEREINBART:
 
 ## Artikel 1
 
-### ZUSTÄNDIGE BEHÖRDEN UND VERPFLICHTUNG ZUR ZUSAMMENARBEIT
+**ZUSTÄNDIGE BEHÖRDEN UND VERPFLICHTUNG ZUR ZUSAMMENARBEIT**
+
+### Art. 1
 
 (1) Bei den zuständigen Behörden, die für Umsetzung dieser Vereinbarung verantwortlich sind, handelt es sich um -
 
@@ -55,7 +57,9 @@ HABEN Folgendes VEREINBART:
 
 ## Artikel 2
 
-### GEBIETE DER ZUSAMMENARBEIT
+**GEBIETE DER ZUSAMMENARBEIT**
+
+### Art. 2
 
 (1) Die zuständigen Behörden verpflichten sich im Rahmen ihrer Möglichkeiten zusammen zu arbeiten bei der Vorbeugung, Bekämpfung und Aufklärung von Straftaten, einschließlich, jedoch nicht beschränkt auf
 
@@ -83,7 +87,9 @@ HABEN Folgendes VEREINBART:
 
 ## Artikel 3
 
-### FORM DER ZUSAMMENARBEIT
+**FORM DER ZUSAMMENARBEIT**
+
+### Art. 3
 
 Um die Bestimmungen des Artikel 2 umzusetzen, arbeiten die zuständigen Behörden auf folgende Weise zusammen:
 
@@ -109,7 +115,9 @@ Um die Bestimmungen des Artikel 2 umzusetzen, arbeiten die zuständigen Behörde
 
 ## Artikel 4
 
-### ERSUCHEN UM AMTSHILFE
+**ERSUCHEN UM AMTSHILFE**
+
+### Art. 4
 
 (1) Die Zusammenarbeit im Rahmen dieser Vereinbarung erfolgt auf der Grundlage von Amtshilfeersuchen seitens der ersuchenden zuständigen Behörde oder auf Initiative der zuständigen Behörde, nach deren Auffassung eine solche Amtshilfe für die andere zuständige Behörde von Interesse ist.
 
@@ -129,7 +137,9 @@ Um die Bestimmungen des Artikel 2 umzusetzen, arbeiten die zuständigen Behörde
 
 ## Artikel 5
 
-### VERWEIGERUNG DER AMTSHILFE
+**VERWEIGERUNG DER AMTSHILFE**
+
+### Art. 5
 
 (1) Hilfeleistung im Rahmen dieser Vereinbarung kann zum Teil oder zur Gänze verweigert werden, wenn die ersuchte zuständige Behörde der Auffassung ist, daß die Durchführung eines Ersuchens der Souveränität, der Sicherheit, der öffentlichen Ordnung oder anderen wesentlichen Interessen des Staates abträglich ist, oder im Konflikt mit dem nationalen Recht oder internationalen Verpflichtungen steht.
 
@@ -141,7 +151,9 @@ Um die Bestimmungen des Artikel 2 umzusetzen, arbeiten die zuständigen Behörde
 
 ## Artikel 6
 
-### DURCHFÜHRUNG VON ERSUCHEN
+**DURCHFÜHRUNG VON ERSUCHEN**
+
+### Art. 6
 
 (1) Die ersuchte zuständige Behörde ergreift alle Maßnahmen, die umgehende und vollständige Durchführung von Ersuchen zu gewährleisten.
 
@@ -159,7 +171,9 @@ Um die Bestimmungen des Artikel 2 umzusetzen, arbeiten die zuständigen Behörde
 
 ## Artikel 7
 
-### BESCHRÄNKUNGEN HINSICHTLICH VERWENDUNG VON INFORMATIONEN UND DOKUMENTEN
+**BESCHRÄNKUNGEN HINSICHTLICH VERWENDUNG VON INFORMATIONEN UND DOKUMENTEN**
+
+### Art. 7
 
 (1) Jede zuständige Behörde gewährleistet die Vertraulichkeit der von der anderen zuständigen Behörde erhaltenen Informationen und Dokumente, falls es sich um Daten mit beschränktem Zugang handelt oder die letztere zuständige Behörde die Weitergabe untersagt. Der Grad der Beschränkung wird von der die Daten liefernden zuständige Behörde bestimmt.
 
@@ -169,7 +183,9 @@ Um die Bestimmungen des Artikel 2 umzusetzen, arbeiten die zuständigen Behörde
 
 ## Artikel 8
 
-### SCHUTZ PERSONENBEZOGENER DATEN
+**SCHUTZ PERSONENBEZOGENER DATEN**
+
+### Art. 8
 
 Die wechselseitige Übermittlung personenbezogener Daten zwischen den zuständigen Behörden der Vertragsparteien erfolgt unter Beachtung der von der übermittelnden Behörde erteilten Auflagen und folgender Grundsätze, welche gleichermaßen auf automationsunterstützt und nicht automationsunterstützt verarbeitete Daten Anwendung finden:
 
@@ -197,37 +213,49 @@ c) die Daten nicht mehr zur Erfüllung der für die Übermittlung maßgeblichen 
 
 ## Artikel 9
 
-### KOSTEN
+**KOSTEN**
+
+### Art. 9
 
 Übliche Kosten, die im Zuge der Bearbeitung eines Ersuchens im Rahmen dieses Abkommens entstehen, werden von der ersuchten Behörde getragen, soferne von den zuständigen Behörden nicht anders vereinbart wird. Sollte das Ersuchen höhere oder außerordentliche Ausgaben erfordern, beraten sich die zuständigen Behörden, um die Bedingungen, unter denen das Ersuchen bearbeitet werden kann und auf welche Weise die Kosten zu tragen sind, festzulegen.
 
 ## Artikel 10
 
-### SPRACHE
+**SPRACHE**
+
+### Art. 10
 
 Die zuständigen Behörden verwenden im Rahmen Ihrer Zusammenarbeit gemäß diesem Abkommen Englisch als Mittel der Kommunikation.
 
 ## Artikel 11
 
-### TAGUNGEN UND BERATUNGEN
+**TAGUNGEN UND BERATUNGEN**
+
+### Art. 11
 
 Um die Durchführung dieses Abkommens zu erleichtern, werden Vertreter der zuständigen Behörden, wenn erforderlich, bilaterale Treffen und Beratungen abhalten, um Zusammenarbeit zu erörtern und zu verbessern.
 
 ## Artikel 12
 
-### SCHLICHTUNG VON STREITIGKEITEN
+**SCHLICHTUNG VON STREITIGKEITEN**
+
+### Art. 12
 
 Meinungsverschiedenheiten, die sich aus der Interpretation oder Anwendung dieses Abkommens ergeben, sind freundschaftlich im Geiste des gegenseitigen Verständnisses im Wege von Beratungen und Verhandlungen zwischen den Vertragsparteien zu regeln.
 
 ## Artikel 13
 
-### VERHÄLTNIS ZU ANDEREN INTERNATIONALEN VERTRÄGEN
+**VERHÄLTNIS ZU ANDEREN INTERNATIONALEN VERTRÄGEN**
+
+### Art. 13
 
 Die Bestimmungen dieses Abkommens berühren nicht die Rechte und Verpflichtungen der Vertragsparteien, die sich aus anderen internationalen Verträgen ergeben.
 
 ## Artikel 14
 
-### IN- KRAFT-TRETEN UND KÜNDIGUNG
+**IN- KRAFT-TRETEN UND KÜNDIGUNG**
+
+### Art. 14
 
 (1) Dieses Abkommen tritt am ersten Tag des zweiten Monates, nachdem die Vertragsparteien einander durch Austausch diplomatischer Noten notifiziert haben, dass die erforderlichen verfassungsrechtlichen und anderen internen Voraussetzungen für das In-Kraft-Treten erfüllt sind, in Kraft.
 

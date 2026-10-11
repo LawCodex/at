@@ -51,7 +51,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ### Einleitung — Artikel 1
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 1
 
 Im Sinne dieses Protokolls bedeutet
 
@@ -79,13 +81,17 @@ k) „Erstes Protokoll“ das am 14. Mai 1954 in Den Haag beschlossene Protokoll
 
 ## Artikel 2
 
-#### Zusammenhang mit der Konvention
+**Zusammenhang mit der Konvention**
+
+#### Art. 2
 
 Dieses Protokoll ergänzt die Konvention in den Beziehungen zwischen den Vertragsparteien.
 
 ## Artikel 3
 
-#### Anwendungsbereich
+**Anwendungsbereich**
+
+#### Art. 3
 
 (1) Zusätzlich zu den Bestimmungen, die in Friedenszeiten Anwendung finden, findet dieses Protokoll in den in Artikel 18 Absätze 1 und 2 der Konvention und in Artikel 22 Absatz 1 bezeichneten Situationen Anwendung.
 
@@ -93,7 +99,9 @@ Dieses Protokoll ergänzt die Konvention in den Beziehungen zwischen den Vertrag
 
 ## Artikel 4
 
-#### Zusammenhang zwischen Kapitel 3 und anderen Bestimmungen der Konvention und dieses Protokolls
+**Zusammenhang zwischen Kapitel 3 und anderen Bestimmungen der Konvention und dieses Protokolls**
+
+#### Art. 4
 
 Die Anwendung des Kapitels 3 dieses Protokolls berührt nicht
 
@@ -105,13 +113,17 @@ b) die Anwendung des Kapitels II der Konvention, außer daß zwischen den Vertra
 
 ### Allgemeine Schutzbestimmungen — Artikel 5
 
-#### Sicherung des Kulturguts
+**Sicherung des Kulturguts**
+
+#### Art. 5
 
 Die nach Artikel 3 der Konvention in Friedenszeiten getroffenen Vorbereitungsmaßnahmen zur Sicherung des Kulturguts gegen die absehbaren Folgen eines bewaffneten Konflikts umfassen gegebenenfalls die Erstellung von Verzeichnissen, die Planung von Notfallmaßnahmen zum Schutz gegen Feuer oder Gebäudeeinsturz, die Vorbereitung der Verlagerung von beweglichem Kulturgut oder die Bereitstellung von angemessenem Schutz dieses Gutes an Ort und Stelle und die Bestimmung von für die Sicherung des Kulturguts zuständigen Behörden.
 
 ## Artikel 6
 
-#### Respektierung des Kulturguts
+**Respektierung des Kulturguts**
+
+#### Art. 6
 
 Um die Respektierung des Kulturguts nach Artikel 4 der Konvention zu gewährleisten,
 
@@ -129,7 +141,9 @@ d) wird im Fall eines Angriffs auf Grund einer nach Buchstabe a getroffenen Ents
 
 ## Artikel 7
 
-#### Vorsichtsmaßnahmen beim Angriff
+**Vorsichtsmaßnahmen beim Angriff**
+
+#### Art. 7
 
 Unbeschadet der durch das humanitäre Völkerrecht erforderlichen anderen Vorsichtsmaßnahmen bei der Durchführung militärischer Operationen wird jede an einem Konflikt beteiligte Vertragspartei
 
@@ -147,7 +161,9 @@ ii) daß mit dem Angriff eine Beschädigung von nach Artikel 4 der Konvention ge
 
 ## Artikel 8
 
-#### Vorsichtsmaßnahmen gegen die Auswirkungen von Feindseligkeiten
+**Vorsichtsmaßnahmen gegen die Auswirkungen von Feindseligkeiten**
+
+#### Art. 8
 
 Die an einem Konflikt beteiligten Vertragsparteien werden, soweit irgend möglich,
 
@@ -157,7 +173,9 @@ b) es vermeiden, militärische Ziele in der Nähe von Kulturgut zu schaffen.
 
 ## Artikel 9
 
-#### Schutz von Kulturgut in besetztem Gebiet
+**Schutz von Kulturgut in besetztem Gebiet**
+
+#### Art. 9
 
 (1) Unbeschadet der Artikel 4 und 5 der Konvention verbietet und verhindert eine Vertragspartei, die das Hoheitsgebiet einer anderen Vertragspartei ganz oder zum Teil besetzt hält, in bezug auf das besetzte Gebiet folgendes:
 
@@ -173,7 +191,9 @@ c) die Veränderung von Kulturgut oder die Änderung seiner Verwendung mit dem Z
 
 ### Verstärkter Schutz — Artikel 10
 
-#### Verstärkter Schutz
+**Verstärkter Schutz**
+
+#### Art. 10
 
 Kulturgut kann unter verstärkten Schutz gestellt werden, vorausgesetzt, daß es die folgenden drei Bedingungen erfüllt:
 
@@ -185,7 +205,9 @@ c) es wird weder für militärische Zwecke verwendet noch dafür, militärische 
 
 ## Artikel 11
 
-#### Gewährung des verstärkten Schutzes
+**Gewährung des verstärkten Schutzes**
+
+#### Art. 11
 
 (1) Jede Vertragspartei soll dem Ausschuß eine Liste des Kulturguts vorlegen, für das sie die Gewährung des verstärkten Schutzes zu beantragen beabsichtigt.
 
@@ -213,13 +235,17 @@ Artikel 10 lit. a und c eingehalten wird.
 
 ## Artikel 12
 
-#### Unverletzlichkeit des Kulturguts unter verstärktem Schutz
+**Unverletzlichkeit des Kulturguts unter verstärktem Schutz**
+
+#### Art. 12
 
 Die an einem Konflikt beteiligten Vertragsparteien gewährleisten die Unverletzlichkeit des unter verstärktem Schutz stehenden Kulturguts, indem sie es unterlassen, dieses Gut zum Ziel eines Angriffs zu machen oder das Gut oder seine unmittelbare Umgebung zur Unterstützung militärischer Handlungen zu verwenden.
 
 ## Artikel 13
 
-#### Verlust des verstärkten Schutzes
+**Verlust des verstärkten Schutzes**
+
+#### Art. 13
 
 (1) Kulturgut unter verstärktem Schutz verliert diesen nur,
 
@@ -243,7 +269,9 @@ iii) den gegnerischen Streitkräften ausreichend Zeit eingeräumt wird, den Miß
 
 ## Artikel 14
 
-#### Aussetzen oder Aufheben des verstärkten Schutzes
+**Aussetzen oder Aufheben des verstärkten Schutzes**
+
+#### Art. 14
 
 (1) Erfüllt Kulturgut die Kriterien des Artikels 10 dieses Protokolls nicht mehr, so kann der Ausschuß den Status des verstärkten Schutzes aussetzen oder aufheben, indem er das Kulturgut von der Liste streicht.
 
@@ -257,7 +285,9 @@ iii) den gegnerischen Streitkräften ausreichend Zeit eingeräumt wird, den Miß
 
 ### Strafrechtliche Verantwortlichkeit und Gerichtsbarkeit — Artikel 15
 
-#### Schwere Verletzungen dieses Protokolls
+**Schwere Verletzungen dieses Protokolls**
+
+#### Art. 15
 
 (1) Eine Straftat im Sinne dieses Protokolls begeht, wer vorsätzlich und unter Verletzung der Konvention oder dieses Protokolls
 
@@ -275,7 +305,9 @@ e) Kulturgut, das nach der Konvention geschützt ist, stiehlt, plündert, verunt
 
 ## Artikel 16
 
-#### Gerichtsbarkeit
+**Gerichtsbarkeit**
+
+#### Art. 16
 
 (1) Unbeschadet des Absatzes 2 trifft jede Vertragspartei die notwendigen gesetzgeberischen Maßnahmen, um ihre Gerichtsbarkeit über die in Artikel 15 genannten Straftaten in den folgenden Fällen zu begründen:
 
@@ -293,7 +325,9 @@ b) entsteht für die Mitglieder der Streitkräfte und die Angehörigen eines Nic
 
 ## Artikel 17
 
-#### Strafverfolgung
+**Strafverfolgung**
+
+#### Art. 17
 
 (1) Die Vertragspartei, in deren Hoheitsgebiet sich der Verdächtige einer der in Artikel 15 Absatz 1 lit. a bis c genannten Straftat befindet, unterbreitet den Fall, wenn sie diese Person nicht ausliefert, ohne irgendeine Ausnahme und ohne ungebührliche Verzögerung ihren zuständigen Behörden zum Zweck der strafrechtlichen Verfolgung in einem Verfahren nach ihrem innerstaatlichen Recht oder nach den einschlägigen Regeln des Völkerrechts, falls anwendbar.
 
@@ -301,7 +335,9 @@ b) entsteht für die Mitglieder der Streitkräfte und die Angehörigen eines Nic
 
 ## Artikel 18
 
-#### Auslieferung
+**Auslieferung**
+
+#### Art. 18
 
 (1) Die in Artikel 15 Absatz 1 lit. a bis c genannten Straftaten gelten als in jeden zwischen Vertragsparteien vor dem Inkrafttreten dieses Protokolls bestehenden Auslieferungsvertrag einbezogene auslieferungsfähige Straftaten. Die Vertragsparteien verpflichten sich, diese Straftaten in jeden künftig zwischen ihnen zu schließenden Auslieferungsvertrag aufzunehmen.
 
@@ -313,7 +349,9 @@ b) entsteht für die Mitglieder der Streitkräfte und die Angehörigen eines Nic
 
 ## Artikel 19
 
-#### Rechtshilfe
+**Rechtshilfe**
+
+#### Art. 19
 
 (1) Die Vertragsparteien gewähren einander die weitestgehende Hilfe im Zusammenhang mit Ermittlungen sowie Straf- und Auslieferungsverfahren, die in bezug auf die in Artikel 15 genannten Straftaten eingeleitet werden, einschließlich der Hilfe bei der Beschaffung der ihnen zur Verfügung stehenden und für das Verfahren erforderlichen Beweismittel.
 
@@ -321,7 +359,9 @@ b) entsteht für die Mitglieder der Streitkräfte und die Angehörigen eines Nic
 
 ## Artikel 20
 
-#### Gründe für die Verweigerung der Rechtshilfe
+**Gründe für die Verweigerung der Rechtshilfe**
+
+#### Art. 20
 
 (1) Für die Zwecke der Auslieferung werden die in Artikel 15 Absatz 1 lit. a bis c genannten Straftaten und für die Zwecke der Rechtshilfe die in Artikel 15 genannten Straftaten nicht als politische Straftaten, als mit politischen Straftaten zusammenhängende oder als auf politischen Beweggründen beruhende Straftaten angesehen. Folglich darf ein Ersuchen um Auslieferung oder Rechtshilfe, das auf solchen Straftaten beruht, nicht allein mit der Begründung verweigert werden, daß es sich um eine politische Straftat, um eine mit einer politischen Straftat zusammenhängende oder um eine auf politischen Beweggründen beruhende Straftat handle.
 
@@ -329,7 +369,9 @@ b) entsteht für die Mitglieder der Streitkräfte und die Angehörigen eines Nic
 
 ## Artikel 21
 
-#### Maßnahmen bezüglich anderer Verletzungen
+**Maßnahmen bezüglich anderer Verletzungen**
+
+#### Art. 21
 
 Unbeschadet des Artikels 28 der Konvention trifft jede Vertragspartei die gesetzgeberischen Maßnahmen sowie die Verwaltungs- und Disziplinarmaßnahmen, die notwendig sind, um folgende Handlungen, wenn vorsätzlich verübt, zu unterbinden:
 
@@ -341,7 +383,9 @@ b) die unerlaubte Ausfuhr oder sonstige Entfernung von Kulturgut oder die unerla
 
 ### Schutz von Kulturgut bei bewaffneten Konflikten nichtinternationalen Charakters — Artikel 22
 
-#### Bewaffnete Konflikte nichtinternationalen Charakters
+**Bewaffnete Konflikte nichtinternationalen Charakters**
+
+#### Art. 22
 
 (1) Dieses Protokoll findet im Fall eines bewaffneten Konflikts, der keinen internationalen Charakter hat und im Hoheitsgebiet einer Vertragspartei stattfindet, Anwendung.
 
@@ -361,7 +405,9 @@ b) die unerlaubte Ausfuhr oder sonstige Entfernung von Kulturgut oder die unerla
 
 ### Institutionelle Fragen — Artikel 23
 
-#### Tagungen der Vertragsparteien
+**Tagungen der Vertragsparteien**
+
+#### Art. 23
 
 (1) Die Tagung der Vertragsparteien wird zur selben Zeit einberufen wie die Generalkonferenz der UNESCO und in Abstimmung mit der Tagung der Hohen Vertragsparteien, wenn eine solche vom Generaldirektor einberufen wurde.
 
@@ -383,7 +429,9 @@ e) Erörterung von Problemen im Zusammenhang mit der Anwendung dieses Protokolls
 
 ## Artikel 24
 
-#### Ausschuß für den Schutz von Kulturgut bei bewaffneten Konflikten
+**Ausschuß für den Schutz von Kulturgut bei bewaffneten Konflikten**
+
+#### Art. 24
 
 (1) Hiermit wird der Ausschuß für den Schutz von Kulturgut bei bewaffneten Konflikten eingesetzt. Ihm gehören zwölf Vertragsparteien an; sie werden von der Tagung der Vertragsparteien gewählt.
 
@@ -395,7 +443,9 @@ e) Erörterung von Problemen im Zusammenhang mit der Anwendung dieses Protokolls
 
 ## Artikel 25
 
-#### Amtszeit
+**Amtszeit**
+
+#### Art. 25
 
 (1) Eine Vertragspartei wird für vier Jahre in den Ausschuß gewählt; eine unmittelbare Wiederwahl ist einmal zulässig.
 
@@ -403,7 +453,9 @@ e) Erörterung von Problemen im Zusammenhang mit der Anwendung dieses Protokolls
 
 ## Artikel 26
 
-#### Geschäftsordnung
+**Geschäftsordnung**
+
+#### Art. 26
 
 (1) Der Ausschuß gibt sich eine Geschäftsordnung.
 
@@ -413,7 +465,9 @@ e) Erörterung von Problemen im Zusammenhang mit der Anwendung dieses Protokolls
 
 ## Artikel 27
 
-#### Aufgaben
+**Aufgaben**
+
+#### Art. 27
 
 (1) Der Ausschuß hat folgende Aufgaben:
 
@@ -437,13 +491,17 @@ g) Wahrnehmung anderer Aufgaben, die ihm von der Tagung der Vertragsparteien zug
 
 ## Artikel 28
 
-#### Sekretariat
+**Sekretariat**
+
+#### Art. 28
 
 Dem Ausschuß steht das Sekretariat der UNESCO zur Seite, das die Dokumentation des Ausschusses und die Tagesordnung seiner Sitzungen vorbereitet und für die Durchführung seiner Beschlüsse verantwortlich ist.
 
 ## Artikel 29
 
-#### Fonds für den Schutz von Kulturgut bei bewaffneten Konflikten
+**Fonds für den Schutz von Kulturgut bei bewaffneten Konflikten**
+
+#### Art. 29
 
 (1) Hiermit wird ein Fonds für die folgenden Zwecke errichtet:
 
@@ -479,7 +537,9 @@ e) allen sonstigen Mitteln, die durch die auf den Fonds anzuwendenden Richtlinie
 
 ### Verbreitung von Informationen und internationale Unterstützung — Artikel 30
 
-#### Verbreitung
+**Verbreitung**
+
+#### Art. 30
 
 (1) Die Vertragsparteien bemühen sich unter Einsatz geeigneter Mittel, insbesondere durch Erziehungs- und Informationsprogramme, die Würdigung und Achtung von Kulturgut durch die Gesamtheit der Bevölkerung zu stärken.
 
@@ -497,13 +557,17 @@ d) einander über den Generaldirektor so bald wie möglich die Gesetze und Verwa
 
 ## Artikel 31
 
-#### Internationale Zusammenarbeit
+**Internationale Zusammenarbeit**
+
+#### Art. 31
 
 Die Vertragsparteien verpflichten sich, im Fall schwerer Verletzungen dieses Protokolls gemeinsam durch den Ausschuß oder einzeln in Zusammenarbeit mit der UNESCO und den Vereinten Nationen und im Einklang mit der Charta der Vereinten Nationen zu handeln.
 
 ## Artikel 32
 
-#### Internationale Unterstützung
+**Internationale Unterstützung**
+
+#### Art. 32
 
 (1) Eine Vertragspartei kann beim Ausschuß internationale Unterstützung für Kulturgut unter verstärktem Schutz und Unterstützung für die Vorbereitung, Entwicklung oder Umsetzung der in Artikel 10 bezeichneten Gesetze, Verwaltungsvorschriften und Maßnahmen beantragen.
 
@@ -515,7 +579,9 @@ Die Vertragsparteien verpflichten sich, im Fall schwerer Verletzungen dieses Pro
 
 ## Artikel 33
 
-#### Unterstützung durch die UNESCO
+**Unterstützung durch die UNESCO**
+
+#### Art. 33
 
 (1) Die Vertragsparteien können um die technische Unterstützung der UNESCO bei der Organisierung des Schutzes ihres Kulturguts, wie etwa Vorbereitungen zur Sicherung von Kulturgut, vorbeugende und organisatorische Maßnahmen für Notfälle und nationale Verzeichnisse des Kulturguts, oder in Zusammenhang mit jedem anderen Problem, das sich aus der Anwendung dieses Protokolls ergibt, nachsuchen. Die UNESCO gewährt diese Unterstützung im Rahmen ihrer Zielsetzung und ihrer Mittel.
 
@@ -527,13 +593,17 @@ Die Vertragsparteien verpflichten sich, im Fall schwerer Verletzungen dieses Pro
 
 ### Durchführung dieses Protokolls — Artikel 34
 
-#### Schutzmächte
+**Schutzmächte**
+
+#### Art. 34
 
 Dieses Protokoll wird unter Mitwirkung der Schutzmächte angewandt, die mit der Wahrnehmung der Interessen der an dem Konflikt beteiligten Parteien betraut sind.
 
 ## Artikel 35
 
-#### Schlichtungsverfahren
+**Schlichtungsverfahren**
+
+#### Art. 35
 
 (1) Die Schutzmächte stellen ihre guten Dienste in allen Fällen zur Verfügung, in denen sie dies im Interesse des Kulturguts für angezeigt erachten, insbesondere wenn zwischen den an dem Konflikt beteiligten Parteien Meinungsverschiedenheiten über die Anwendung oder Auslegung dieses Protokolls bestehen.
 
@@ -541,7 +611,9 @@ Dieses Protokoll wird unter Mitwirkung der Schutzmächte angewandt, die mit der 
 
 ## Artikel 36
 
-#### Schlichtung ohne Schutzmächte
+**Schlichtung ohne Schutzmächte**
+
+#### Art. 36
 
 (1) In einem Konflikt, bei dem keine Schutzmächte bestellt sind, kann der Generaldirektor seine guten Dienste anbieten oder durch eine andere Art der Schlichtung oder Vermittlung handeln, um die Meinungsverschiedenheit beizulegen.
 
@@ -549,7 +621,9 @@ Dieses Protokoll wird unter Mitwirkung der Schutzmächte angewandt, die mit der 
 
 ## Artikel 37
 
-#### Übersetzung und Berichte
+**Übersetzung und Berichte**
+
+#### Art. 37
 
 (1) Die Vertragsparteien übersetzen dieses Protokoll in ihre Amtssprachen und übermitteln dem Generaldirektor diese amtlichen Übersetzungen.
 
@@ -557,7 +631,9 @@ Dieses Protokoll wird unter Mitwirkung der Schutzmächte angewandt, die mit der 
 
 ## Artikel 38
 
-#### Verantwortung der Staaten
+**Verantwortung der Staaten**
+
+#### Art. 38
 
 Eine Bestimmung dieses Protokolls über die individuelle strafrechtliche Verantwortlichkeit berührt nicht die Verantwortung der Staaten nach dem Völkerrecht, einschließlich der Pflicht, Wiedergutmachung zu leisten.
 
@@ -565,19 +641,25 @@ Eine Bestimmung dieses Protokolls über die individuelle strafrechtliche Verantw
 
 ### Schlußklauseln — Artikel 39
 
-#### Sprachen
+**Sprachen**
+
+#### Art. 39
 
 Dieses Protokoll ist in arabischer, chinesischer, englischer, französischer, russischer und spanischer Sprache abgefaßt, wobei jeder Wortlaut gleichermaßen verbindlich ist.
 
 ## Artikel 40
 
-#### Unterzeichnung
+**Unterzeichnung**
+
+#### Art. 40
 
 Dieses Protokoll trägt das Datum des 26. März 1999. Es liegt vom 17. Mai 1999 bis zum 31. Dezember 1999 in Den Haag für alle Hohen Vertragsparteien zur Unterzeichnung auf.
 
 ## Artikel 41
 
-#### Ratifikation
+**Ratifikation**
+
+#### Art. 41
 
 (1) Dieses Protokoll bedarf der Ratifikation durch die Hohen Vertragsparteien, die dieses Protokoll unterzeichnet haben, nach Maßgabe ihrer eigenen verfassungsrechtlichen Verfahren.
 
@@ -585,7 +667,9 @@ Dieses Protokoll trägt das Datum des 26. März 1999. Es liegt vom 17. Mai 1999 
 
 ## Artikel 42
 
-#### Beitritt
+**Beitritt**
+
+#### Art. 42
 
 (1) Dieses Protokoll steht den anderen Hohen Vertragsparteien ab dem 1. Januar 2000 zum Beitritt offen.
 
@@ -593,7 +677,9 @@ Dieses Protokoll trägt das Datum des 26. März 1999. Es liegt vom 17. Mai 1999 
 
 ## Artikel 43
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 43
 
 (1) Dieses Protokoll tritt drei Monate nach Hinterlegung von zwanzig Ratifikations- oder Beitrittsurkunden in Kraft.
 
@@ -601,13 +687,17 @@ Dieses Protokoll trägt das Datum des 26. März 1999. Es liegt vom 17. Mai 1999 
 
 ## Artikel 44
 
-#### Inkrafttreten während bewaffneter Konflikte
+**Inkrafttreten während bewaffneter Konflikte**
+
+#### Art. 44
 
 Die in den Artikeln 18 und 19 der Konvention bezeichneten Situationen bewirken, daß die vor oder nach Beginn der Feindseligkeiten oder der Besetzung von an dem Konflikt beteiligten Parteien hinterlegten Ratifikations- und Beitrittserklärungen mit sofortiger Wirkung in Kraft treten. In diesen Fällen macht der Generaldirektor auf dem schnellsten Weg die in Artikel 46 vorgesehenen Mitteilungen.
 
 ## Artikel 45
 
-#### Kündigung
+**Kündigung**
+
+#### Art. 45
 
 (1) Jede der Vertragsparteien kann dieses Protokoll kündigen.
 
@@ -617,13 +707,17 @@ Die in den Artikeln 18 und 19 der Konvention bezeichneten Situationen bewirken, 
 
 ## Artikel 46
 
-#### Notifikationen
+**Notifikationen**
+
+#### Art. 46
 
 Der Generaldirektor benachrichtigt alle Hohen Vertragsparteien und die Vereinten Nationen von der Hinterlegung aller in den Artikeln 41 und 42 vorgesehenen Ratifikations- und Beitrittsurkunden sowie von den in Artikel 45 vorgesehenen Kündigungen.
 
 ## Artikel 47
 
-#### Registrierung bei den Vereinten Nationen
+**Registrierung bei den Vereinten Nationen**
+
+#### Art. 47
 
 Dieses Protokoll wird auf Ersuchen des Generaldirektors nach Artikel 102 der Charta der Vereinten Nationen beim Sekretariat der Vereinten Nationen registriert.
 

@@ -33,7 +33,9 @@ SIND die Republik Österreich und die Kommission somit wie folgt übereingekomme
 
 ### Begriffsbestimmungen
 
-#### Abschnitt 1
+**Abschnitt 1**
+
+#### Art. 1
 
 In diesem Abkommen
 
@@ -79,7 +81,9 @@ m) bezeichnet der Begriff „Wiener Übereinkommen“ das Wiener Übereinkommen 
 
 ### Der Amtssitz der Kommission in Wien
 
-#### Abschnitt 2
+**Abschnitt 2**
+
+#### Art. 2
 
 a) Die Regierung stellt der Kommission für den Gebrauch und die Inbesitznahme das Gebiet und die Liegenschaften zur Verfügung, die in dem diesem Abkommen angeschlossenen Liegenschaftsplan als Amtssitz der Kommission in Wien aufscheinen und die Kommission nimmt dies an.
 
@@ -109,7 +113,9 @@ Sollte die Kommission ihren Amtssitz wieder verlassen, wird sie den Amtssitzbere
 
 ### Änderungen und Reparaturen
 
-#### Abschnitt 6
+**Abschnitt 6**
+
+#### Art. 3
 
 a) Für Änderungen und Reparaturen an den Gebäuden, die Bestandteil des Amtssitzbereiches der Kommission sind, um die Gebäude für den erstmaligen Bezug durch die Kommission im Einklang mit den Raum-, technischen und Sicherheitserfordernissen der Kommission anzupassen, ist auf eigene Kosten die Regierung gemäß Annex I verantwortlich. Solche Änderungen und Reparaturen werden zwischen der Kommission und der Regierung vereinbart und schriftlich in einem Annex zu diesem Abkommen festgeschrieben, wenn es abgeschlossen ist. Dieser Annex kann durch eine Vereinbarung zwischen der Regierung und der Kommission ergänzt werden.
 
@@ -137,7 +143,9 @@ Hat die Kommission einen Versicherungsvertrag abgeschlossen, um ihre Haftung fü
 
 ### Technische Einrichtungen und Anlagen
 
-#### Abschnitt 10
+**Abschnitt 10**
+
+#### Art. 4
 
 a) Unbeschadet der wesentlichen Bedingungen, die sich aus den einschlägigen österreichischen Standards und aus der gängigen internationalen Übung ergeben, hat die Kommission das Recht, aus jeglicher Quelle ihrer Wahl (durch Kauf, Kredit oder anders) Ausrüstung und Material zu erwerben, installieren, betreiben, erhalten und ersetzen, welches für die Zwecke und Aufgaben der Kommission erforderlich ist, und welches inter alia Radios, Telefone, Telexgeräte, Fernmeßgeräte, Satelliten, Computer, Faxgeräte und Fernsehausrüstung umfaßt.
 
@@ -167,7 +175,9 @@ Die Regierung stellt der Kommission im Austria Center Vienna oder in entsprechen
 
 ### Unverletzlichkeit des Amtssitzes der Kommission
 
-#### Abschnitt 14
+**Abschnitt 14**
+
+#### Art. 5
 
 a) Die Regierung anerkennt die Unverletzlichkeit des Amtssitzbereiches der Kommission, der nach den Bestimmungen dieses Abkommens der Aufsicht und Verfügungsgewalt der Kommission unterworfen ist.
 
@@ -199,7 +209,9 @@ e) Die Kommission wird unbeschadet der Bestimmungen des Allgemeinen Übereinkomm
 
 ### Schutz des Amtssitzbereiches der Kommission
 
-#### Abschnitt 17
+**Abschnitt 17**
+
+#### Art. 6
 
 a) Die Regierung und die zuständigen österreichischen Behörden werden entsprechende Vorsorge treffen, um zu gewährleisten, daß die Ruhe im Amtssitzbereich der Kommission nicht durch Personen oder Personengruppen gestört wird, die ihn ohne Erlaubnis zu betreten versuchen oder in der unmittelbaren Umgebung des Amtssitzbereiches der Kommission Unruhe stiften; sie werden ferner an den Grenzen des Amtssitzbereiches der Kommission den zu diesem Zweck erforderlichen Polizeischutz beistellen.
 
@@ -217,7 +229,9 @@ Die zuständigen österreichischen Behörden werden alle entsprechenden Vorkehru
 
 ### Öffentliche Leistungen im Amtssitzbereich der Kommission
 
-#### Abschnitt 19
+**Abschnitt 19**
+
+#### Art. 7
 
 a) Die zuständigen österreichischen Behörden werden in dem vom Exekutivsekretär erbetenen Ausmaß ihre Befugnisse dahingehend geltend machen, daß für den Amtssitzbereich der Kommission die notwendigen öffentlichen Einrichtungen und Leistungen, inter alia Elektrizität, Wasser, Kanalisierung, Gas, Post, Telefon, Fernschreibverbindungen, örtliche Verkehrsmittel, Entwässerung, Müllabfuhr, Feuerschutz und Schneeräumung auf öffentlichen Fahrbahnen beigestellt werden, und daß diese öffentlichen Leistungen zu den günstigsten, der österreichischen staatlichen Verwaltung gewährten Bedingungen erbracht werden.
 
@@ -231,7 +245,9 @@ d) Soweit die Gas-, Strom-, Wasser- oder Wärmezufuhr von den zuständigen öste
 
 ### Nachrichtenverkehr, Veröffentlichungen und Transportmittel
 
-#### Abschnitt 20
+**Abschnitt 20**
+
+#### Art. 8
 
 a) Die amtlichen Mitteilungen, die an die Kommission oder einen ihrer Angestellten in ihrem Amtssitzbereich gerichtet sind, sowie die von der Kommission abgehenden amtlichen Mitteilungen, auf welchem Wege und in welcher Form sie auch immer übermittelt werden, unterliegen keiner Zensur und dürfen auch sonst nicht abgefangen oder in ihrem vertraulichen Charakter verletzt werden. Diese Immunität erstreckt sich - inter alia - auf Veröffentlichungen, fotografische Aufnahmen, Filmaufnahmen, Filme, computergestützte Kommunikation, Satellitenkommunikation, Radio, Fernsehen, Telefon, Facsimile, Telex, Ton- und Videoaufnahmen sowie andere Arten von Mitteilungen.
 
@@ -251,7 +267,9 @@ Die Kommission ist berechtigt, für ihre amtlichen Zwecke das Eisenbahnnetz der 
 
 ### Rechtspersönlichkeit und Immunität vor gerichtlicher Verfolgung
 
-#### Abschnitt 23
+**Abschnitt 23**
+
+#### Art. 9
 
 Die Kommission hat Rechtspersönlichkeit und damit die Fähigkeit
 
@@ -269,7 +287,9 @@ Die Kommission, ihr Eigentum und ihre Vermögenswerte genießen, wo immer sie si
 
 ### Steuerfreiheit
 
-#### Abschnitt 25
+**Abschnitt 25**
+
+#### Art. 10
 
 a) Die Kommission, ihre Vermögenswerte, Einkünfte und anderes Eigentum sind von jeder Form der Besteuerung befreit, soweit solche von der Regierung oder anderen zuständigen österreichischen Behörden eingehoben werden; eine solche Steuerbefreiung bezieht sich jedoch nicht auf den Eigentümer oder Bestandgeber des von der Kommission in Bestand genommenen Eigentums.
 
@@ -291,7 +311,9 @@ h) Die Kommission ist von der Verpflichtung zur Entrichtung des Dienstgeberbeitr
 
 ### Finanzielle Erleichterungen
 
-#### Abschnitt 26
+**Abschnitt 26**
+
+#### Art. 11
 
 Die Kommission kann, ohne irgendwelchen finanziellen Kontrollen, Vorschriften oder zeitlichen Einschränkungen unterworfen zu sein, unbehindert:
 
@@ -321,7 +343,9 @@ Die Kommission wird bei der Ausübung ihrer Rechte im Rahmen dieses Abschnittes 
 
 ### Sozialversicherung
 
-#### Abschnitt 30
+**Abschnitt 30**
+
+#### Art. 12
 
 Die Kommission und ihre Angestellten sind mit Ausnahme von Regelungen, die in einem Zusatzabkommen getroffen werden, von der Anwendbarkeit aller Gesetze betreffend Sozialversicherung befreit.
 
@@ -333,7 +357,9 @@ Die Kommission und die Republik Österreich treffen durch ein Zusatzabkommen die
 
 ### Durchreise und Aufenthalt
 
-#### Abschnitt 32
+**Abschnitt 32**
+
+#### Art. 13
 
 Hinsichtlich der nachstehend angeführten Personen wird die Regierung alle erforderlichen Maßnahmen treffen, um deren Einreise nach und den Aufenthalt im Gebiet der Republik Österreich zu erleichtern und wird ihrer Ausreise aus dem Gebiet der Republik Österreich keine Hindernisse in den Weg legen und dafür sorgen, daß sie bei ihren Reisen zum und vom Amtssitz der Kommission nicht behindert werden, sowie ihnen während der Reise jeden erforderlichen Schutz zuteil werden lassen:
 
@@ -389,7 +415,9 @@ Der Exekutivsekretär und die zuständigen österreichischen Behörden setzen si
 
 ### Privilegien und Immunitäten für Vertreter bei der Kommission
 
-#### Abschnitt 39
+**Abschnitt 39**
+
+#### Art. 14
 
 Über die in diesem Abschnitt enthaltenen spezifischen Rechte hinaus, genießen Ständige Vertretungen, die bei den Signatarstaaten bei der Kommission in Wien beglaubigt sind, die gleichen Privilegien und Immunitäten, wie sie diplomatischen Missionen in der Republik Österreich eingeräumt werden, zu Bedingungen, die jedenfalls nicht weniger vorteilhaft sind als jene, die diplomatischen Vertretungsbehörden gewährt werden. Der Bereich des Parkens wird in Annex II geregelt.
 
@@ -423,7 +451,9 @@ Die Kommission wird der Regierung eine Liste der unter die Bestimmungen dieses A
 
 ### Privilegien und Immunitäten der Angestellten der Kommission
 
-#### Abschnitt 45
+**Abschnitt 45**
+
+#### Art. 15
 
 Unbeschadet aller anderen Privilegien und Immunitäten, die ihnen in Ausübung ihrer Funktion und während ihrer Reisen von und zum Amtssitz der Kommission zustehen, genießen die Angestellten der Kommission in und gegenüber der Republik Österreich folgende Privilegien und Immunitäten:
 
@@ -501,7 +531,9 @@ Der Exekutivsekretär übermittelt der Regierung eine Liste der Angestellten der
 
 ### Sachverständige im Auftrag der Kommission
 
-#### Abschnitt 52
+**Abschnitt 52**
+
+#### Art. 16
 
 a) Sachverständige gemäß der Definition in Artikel I genießen in und gegenüber der Republik Österreich jene Privilegien und Immunitäten, die Sachverständigen im Auftrag der Vereinten Nationen gemäß Artikel XIII, Abschnitte 42 und 43 des Übereinkommens zwischen den Vereinten Nationen und der Republik Österreich über den Amtssitz der Vereinten Nationen in Wien vom 29. November 1995 zustehen.
 
@@ -511,7 +543,9 @@ b) Die Kommission übermittelt der Regierung eine Liste der von diesem Artikel b
 
 ### Identitätsausweise
 
-#### Abschnitt 53
+**Abschnitt 53**
+
+#### Art. 17
 
 Über Ersuchen der Kommission oder, in Bezug auf Vertreter der Signatarstaaten über Ersuchen der Ständigen Vertretung eines Signatarstaates, wird die Regierung für alle in den Artikeln XIV, XV und XVI genannten Personen einen Identitätsausweis, der mit dem Lichtbild des Inhabers versehen ist, zur Verfügung stellen. Dieser Ausweis dient zur Legitimierung des Inhabers gegenüber allen österreichischen Behörden sowie als mehrfaches Einreisevisum.
 
@@ -519,7 +553,9 @@ b) Die Kommission übermittelt der Regierung eine Liste der von diesem Artikel b
 
 ### Beilegung von Meinungsverschiedenheiten
 
-#### Abschnitt 54
+**Abschnitt 54**
+
+#### Art. 18
 
 Die Kommission trifft Maßnahmen hinsichtlich geeigneter Verfahren zur Beilegung von:
 
@@ -537,7 +573,9 @@ b) Die Regierung oder der Exekutivsekretär der Kommission können die Generalve
 
 ### Allgemeine Bestimmungen
 
-#### Abschnitt 56
+**Abschnitt 56**
+
+#### Art. 19
 
 Außer derjenigen völkerrechtlichen Verantwortlichkeit, die sich aus der Eigenschaft der Republik Österreich als Signatarstaat ergeben könnte, erwächst der Republik Österreich aus der Tatsache, daß sich der Amtssitzbereich der Kommission innerhalb ihres Gebietes befindet, keine völkerrechtliche Verantwortlichkeit für Handlungen oder Unterlassungen der Kommission oder für Handlungen oder Unterlassungen der Angestellten der Kommission im Rahmen ihrer Funktionen.
 

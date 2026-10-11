@@ -37,7 +37,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 1
 
-### Begriffbestimmungen
+**Begriffbestimmungen**
+
+### Art. 1
 
 (1) Im Sinne dieses Abkommens sind Verschlusssachen
 
@@ -73,7 +75,9 @@ d) EINGESCHRÄNKT, wenn die unbefugte Weitergabe der Informationen den Interesse
 
 ## Artikel 2
 
-### Vergleichbarkeit
+**Vergleichbarkeit**
+
+### Art. 2
 
 Die Vertragsparteien legen fest, dass folgende Geheimhaltungsgrade vergleichbar sind:
 
@@ -86,7 +90,9 @@ Die Vertragsparteien legen fest, dass folgende Geheimhaltungsgrade vergleichbar 
 
 ## Artikel 3
 
-### Kennzeichnung
+**Kennzeichnung**
+
+### Art. 3
 
 (1) Die übermittelten Verschlusssachen werden von der für ihren Empfänger zuständigen Behörde oder Stelle oder auf deren Veranlassung mit dem nach Artikel 2 vergleichbaren nationalen Geheimhaltungsgrad gekennzeichnet.
 
@@ -98,7 +104,9 @@ Die Vertragsparteien legen fest, dass folgende Geheimhaltungsgrade vergleichbar 
 
 ## Artikel 4
 
-### Innerstaatliche Maßnahmen
+**Innerstaatliche Maßnahmen**
+
+### Art. 4
 
 (1) Die Vertragsparteien treffen im Rahmen ihres innerstaatlichen Rechts alle geeigneten Maßnahmen, um Verschlusssachen, die nach diesem Abkommen übermittelt werden oder beim Auftragnehmer im Zusammenhang mit einem Verschlusssachenauftrag entstehen, zu schützen. Sie gewähren derartigen Verschlusssachen mindestens den gleichen Geheimschutz, wie er im Verfahren für eigene Verschlusssachen des entsprechenden Geheimhaltungsgrads gilt.
 
@@ -112,7 +120,9 @@ Die Vertragsparteien legen fest, dass folgende Geheimhaltungsgrade vergleichbar 
 
 ## Artikel 5
 
-### Vergabe von Verschlusssachenaufträgen an Unternehmen
+**Vergabe von Verschlusssachenaufträgen an Unternehmen**
+
+### Art. 5
 
 (1) Ein „Verschlusssachenauftrag“ ist ein „Vertrag“ zwischen einer Behörde, Stelle oder einem Unternehmen aus dem Staat der einen Vertragspartei (Auftraggeber) und einem Unternehmen aus dem Staat der anderen Vertragspartei (Auftragnehmer); im Rahmen eines derartigen Vertrags sind Verschlusssachen aus dem Staat des Auftraggebers dem Auftragnehmer zu überlassen oder Mitarbeitern des Auftragnehmers, die Arbeiten in Einrichtungen des Auftraggebers durchzuführen haben, zugänglich zu machen.
 
@@ -140,7 +150,9 @@ Die Vertragsparteien legen fest, dass folgende Geheimhaltungsgrade vergleichbar 
 
 ## Artikel 6
 
-### Übermittlung von Verschlusssachen
+**Übermittlung von Verschlusssachen**
+
+### Art. 6
 
 (1) Verschlusssachen werden von einem Staat in den anderen grundsätzlich durch den diplomatischen oder militärischen Kurierdienst befördert. Die zuständige Behörde oder Stelle bestätigt den Empfang der Verschlusssache und leitet sie nach Maßgabe der innerstaatlichen Geheimschutzvorschriften an den Empfänger weiter.
 
@@ -178,7 +190,9 @@ Die Vertragsparteien legen fest, dass folgende Geheimhaltungsgrade vergleichbar 
 
 ## Artikel 7
 
-### Besuche
+**Besuche**
+
+### Art. 7
 
 (1) Besuchern aus dem Hoheitsgebiet einer Vertragspartei wird im Hoheitsgebiet der anderen Vertragspartei Zugang zu Verschlusssachen sowie zu Einrichtungen, in denen an diesen gearbeitet wird, grundsätzlich nur mit vorheriger Erlaubnis der zuständigen Behörde oder Stelle der zu besuchenden Vertragspartei gewährt. Sie wird nur Personen erteilt, die zum Zugang zu Verschlusssachen ermächtigt sind und die Bedingung „Kenntnis nur, wenn nötig“ erfüllen.
 
@@ -208,7 +222,9 @@ Die Vertragsparteien legen fest, dass folgende Geheimhaltungsgrade vergleichbar 
 
 ## Artikel 8
 
-### Konsultationen
+**Konsultationen**
+
+### Art. 8
 
 (1) Die zuständigen Behörden oder Stellen der Vertragsparteien nehmen von den im Hoheitsgebiet der jeweils anderen Vertragspartei geltenden Bestimmungen über den Schutz von Verschlusssachen Kenntnis.
 
@@ -218,7 +234,9 @@ Die Vertragsparteien legen fest, dass folgende Geheimhaltungsgrade vergleichbar 
 
 ## Artikel 9
 
-### Verletzung der Bestimmungen über den gegenseitigen Schutz von Verschlusssachen
+**Verletzung der Bestimmungen über den gegenseitigen Schutz von Verschlusssachen**
+
+### Art. 9
 
 (1) Wenn eine unbefugte Bekanntgabe von Verschlusssachen nicht auszuschließen ist, vermutet oder festgestellt wird, ist dies der anderen Vertragspartei unverzüglich mitzuteilen.
 
@@ -226,25 +244,33 @@ Die Vertragsparteien legen fest, dass folgende Geheimhaltungsgrade vergleichbar 
 
 ## Artikel 10
 
-### Kosten
+**Kosten**
+
+### Art. 10
 
 Die den Behörden oder Stellen einer Vertragspartei bei der Durchführung von Sicherheitsmaßnahmen entstehenden Kosten werden von der anderen Vertragspartei nicht erstattet.
 
 ## Artikel 11
 
-### Zuständige Behörden oder Stellen
+**Zuständige Behörden oder Stellen**
+
+### Art. 11
 
 Die Vertragsparteien unterrichten einander darüber, welche Behörden oder Stellen für die Durchführung dieses Abkommens zuständig sind.
 
 ## Artikel 12
 
-### Verhältnis zu anderen Übereinkünften
+**Verhältnis zu anderen Übereinkünften**
+
+### Art. 12
 
 Mit Inkrafttreten dieses Abkommens tritt die Vereinbarung zwischen dem Bundesministerium für Landesverteidigung der Republik Österreich und dem Bundesministerium der Verteidigung der Bundesrepublik Deutschland über den gegenseitigen Schutz von ausgetauschten militärischen Verschlusssachen vom 5. September 1997 außer Kraft. Ab diesem Zeitpunkt werden alle gemäß dieser Vereinbarung übermittelten Verschlusssachen nach den Bestimmungen dieses Abkommens geschützt.
 
 ## Artikel 13
 
-### Schlussbestimmungen
+**Schlussbestimmungen**
+
+### Art. 13
 
 (1) Dieses Abkommen tritt am ersten Tag des zweiten Monats nach seiner Unterzeichnung in Kraft.
 

@@ -41,13 +41,17 @@ Sind wie folgt übereingekommen:
 
 1 Kundgemacht in BGBl. Nr. 390/1970 idF BGBl. Nr. 585/1978 und BGBl. Nr. 835/1994.
 
-## <u>Artikel I</u>
+**<u>Artikel I</u>**
+
+## Art. 1
 
 Artikel 28 des Abkommens wird aufgehoben und durch folgende Bestimmung ersetzt:
 
 \*(Anm.: es folgt der Text des Art. 28)*
 
-## <u>Artikel II</u>
+**<u>Artikel II</u>**
+
+## Art. 2
 
 Die Vertragsstaaten teilen einander auf diplomatischem Weg mit, dass die rechtlichen Voraussetzungen für das Inkrafttreten dieses Protokolls abgeschlossen sind. Das Protokoll tritt am Tag der späteren der oben genannten Mitteilungen in Kraft und findet Anwendung auf Steuerzeiträume, die am oder nach dem 1. Jänner des Kalenderjahres beginnen, das dem Jahr des Inkrafttretens dieses Protokolls folgt.
 

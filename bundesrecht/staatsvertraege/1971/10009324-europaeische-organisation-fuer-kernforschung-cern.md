@@ -52,7 +52,9 @@ HABEN folgendes VEREINBART:
 
 ## Artikel I
 
-#### Errichtung der Organisation
+**Errichtung der Organisation**
+
+#### Art. 1
 
 (1) Hiermit wird eine Europäische Organisation für Kernforschung errichtet (im folgenden als „Organisation“ bezeichnet).
 
@@ -60,7 +62,9 @@ HABEN folgendes VEREINBART:
 
 ## Artikel II
 
-#### Ziele
+**Ziele**
+
+#### Art. 2
 
 (1) Die Organisation hat die Zusammenarbeit europäischer Staaten auf dem Gebiet der rein wissenschaftlichen und grundlegenden Kernforschung sowie der hiermit wesentlich zusammenhängenden Forschung zum Ziel. Die Organisation befaßt sich nicht mit Arbeiten für militärische Zwecke; die Ergebnisse ihrer experimentellen und theoretischen Arbeiten werden veröffentlicht oder anderweit allgemein zugänglich gemacht.
 
@@ -104,7 +108,9 @@ d) jedes weitere Programm im Sinne von Absatz 2.
 
 ## Artikel III
 
-#### Bedingungen für die Mitgliedschaft
+**Bedingungen für die Mitgliedschaft**
+
+#### Art. 3
 
 (1) Staaten, die Vertragsparteien der in der Präambel genannten Vereinbarung vom 15. Februar 1952 sind oder an den durch diese Vereinbarung errichteten Rat Geld- oder Sachbeiträge geleistet und tatsächlich an seinen Arbeiten teilgenommen haben, können Mitglieder der Organisation werden, indem sie nach Maßgabe der Artikel XV, XVI und XVII Vertragsparteien dieses Übereinkommens werden.
 
@@ -126,13 +132,17 @@ b) kein Mitgliedstaat verpflichtet ist, in seinem Besitz befindliche Information
 
 ## Artikel IV
 
-#### Organe
+**Organe**
+
+#### Art. 4
 
 Die Organisation besteht aus einem Rat und für jedes Laboratorium einem durch entsprechendes Personal unterstützten Generaldirektor.
 
 ## Artikel V
 
-#### Der Rat
+**Der Rat**
+
+#### Art. 5
 
 (1) Dem Rat gehören höchstens zwei Delegierte eines jeden Mitgliedstaates an, die bei Sitzungen des Rates von Beratern begleitet sein können.
 
@@ -176,7 +186,9 @@ g) die sonstigen Befugnisse und Aufgaben wahrzunehmen, die zur Durchführung die
 
 ## Artikel VI
 
-#### Generaldirektoren und Personal
+**Generaldirektoren und Personal**
+
+#### Art. 6
 
 (1) a) Der Rat ernennt mit Zweidrittelmehrheit aller Mitgliedstaaten auf eine bestimmte Zeit einen Generaldirektor für jedes Laboratorium; er kann diesen mit der gleichen Stimmenmehrheit entlassen. In bezug auf das unter seiner Leitung stehende Laboratorium ist jeder Generaldirektor das oberste Vollzugsorgan der Organisation und ihr gesetzlicher Vertreter. Hinsichtlich der finanziellen Verwaltung verfährt er nach Maßgabe des diesem Übereinkommen beigefügten Finanzprotokolls. Der Rat kann mit Zweidrittelmehrheit aller Mitgliedstaaten den Generaldirektoren einzeln oder gemeinsam die Befugnis übertragen, für die Organisation in anderen Angelegenheiten zu handeln. Jeder Generaldirektor legt dem Rat einen Jahresbericht vor und nimmt ohne Stimmrecht an allen Sitzungen des Rates teil.
 
@@ -190,7 +202,9 @@ b) Der Rat kann die Ernennung eines Generaldirektors nach Inkrafttreten dieses �
 
 ## Artikel VII
 
-#### Finanzielle Beiträge
+**Finanzielle Beiträge**
+
+#### Art. 7
 
 (1) Jeder Mitgliedstaat trägt zum Kapitalaufwand und zu den laufenden Betriebskosten der Organisation bei, und zwar
 
@@ -216,19 +230,25 @@ b) Alle nach Buchstabe a entrichteten Beiträge werden für die Senkung der Beit
 
 ## Artikel VIII
 
-#### Zusammenarbeit mit der UNESCO und anderen Organisationen
+**Zusammenarbeit mit der UNESCO und anderen Organisationen**
+
+#### Art. 8
 
 Die Organisation arbeitet mit der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur zusammen. Sie kann ferner auf Grund eines mit Zweidrittelmehrheit aller Mitgliedstaaten gefaßten Ratsbeschlusses mit anderen Organisationen zusammenarbeiten.
 
 ## Artikel IX
 
-#### Rechtsstellung
+**Rechtsstellung**
+
+#### Art. 9
 
 Die Organisation hat Rechtspersönlichkeit im Mutterland jedes Mitgliedstaates. Der Organisation und den Vertretern der Mitgliedstaaten im Rat, den Mitgliedern aller nachgeordneten, nach Artikel V Absatz 12 eingesetzten Gremien, den Generaldirektoren sowie dem Personal der Organisation werden im Mutterland der Mitgliedstaaten auf Grund von Vereinbarungen, die zwischen der Organisation und jedem in Betracht kommenden Mitgliedstaat zu schließen sind, solche Vorrechte und Immuninäten gewährt, die für die Wahrnehmung der Aufgaben der Organisation im gegenseitigen Einvernehmen möglicherweise für erforderlich gehalten werden. Die zwischen der Organisation und den Mitgliedstaaten, in deren Hoheitsgebieten die Laboratorien der Organisation ihren Sitz haben, zu schließenden Vereinbarungen enthalten außer Bestimmungen über Vorrechte und Immunitäten auch Bestimmungen zur Regelung der besonderen Beziehungen zwischen der Organisation und diesen Mitgliedstaaten.
 
 ## Artikel X
 
-#### Änderungen
+**Änderungen**
+
+#### Art. 10
 
 (1) Der Rat kann den Mitgliedstaaten Änderungen dieses Übereinkommens empfehlen. Jeder Mitgliedstaat, der eine Änderung vorzuschlagen wünscht, notifiziert den Änderungsvorschlag dem Präsidenten des Rates. Der Präsident setzt alle Mitgliedstaaten von jedem ihm notifizierten Änderungsvorschlag in Kenntnis, und zwar spätestens drei Monate, bevor er vom Rat erörtert wird.
 
@@ -238,37 +258,49 @@ Die Organisation hat Rechtspersönlichkeit im Mutterland jedes Mitgliedstaates. 
 
 ## Artikel XI
 
-#### Streitigkeiten
+**Streitigkeiten**
+
+#### Art. 11
 
 Jede Streitigkeit zwischen zwei oder mehr Mitgliedstaaten über die Auslegung oder Anwendung dieses Übereinkommens, die nicht nur die guten Dienste des Rates beigelegt wird, ist dem Internationalen Gerichtshof vorzulegen, sofern sich die betreffenden Mitgliedstaaten nicht auf eine andere Art der Beilegung einigen.
 
 ## Artikel XII
 
-#### Austritt
+**Austritt**
+
+#### Art. 12
 
 Nachdem dieses Übereinkommen sieben Jahre lang in Kraft gewesen ist, kann ein Mitgliedstaat vorbehaltlich des Artikels III Absatz 4 dem Präsidenten des Rates schriftlich seinen Austritt aus der Organisation notifizieren; der Austritt wird am Ende des auf das Rechnungsjahr der Notifikation folgenden Rechnungsjahres oder zu einem von dem Mitgliedstaat vorgeschlagenen späteren Zeitpunkt wirksam.
 
 ## Artikel XIII
 
-#### Nichterfüllung von Verpflichtungen
+**Nichterfüllung von Verpflichtungen**
+
+#### Art. 13
 
 Erfüllt ein Mitgliedstaat seine Verpflichtungen aus diesem Übereinkommen nicht, so endet seine Mitgliedschaft in der Organisation auf Grund eines vom Rat zu fassenden Beschlusses, der einer Zweidrittelmehrheit aller Mitgliedstaaten bedarf.
 
 ## Artikel XIV
 
-#### Auflösung
+**Auflösung**
+
+#### Art. 14
 
 Die Organisation wird aufgelöst, wenn die Anzahl der Mitgliedstaaten unter fünf absinkt. Sie kann jederzeit durch Übereinkunft der Mitgliedstaaten aufgelöst werden. Vorbehaltlich einer Vereinbarung, die gegebenenfalls im Zeitpunkt der Auflösung zwischen den Mitgliedstaaten getroffen wird, ist der Staat, in dessen Hoheitsgebiet sich der Sitz der Organisation zu diesem Zeitpunkt befindet, für die Abwicklung verantwortlich; ein Überschuß ist unter diejenigen Staaten zu verteilen, die im Zeitpunkt der Auflösung Mitglieder sind, und zwar im Verhältnis der Beiträge, die sie entrichtet haben, seit sie Vertragsparteien dieses Übereinkommens wurden. Ergibt sich ein Fehlbetrag, so ist er von diesen Mitgliedstaaten im Verhältnis ihrer für das dann laufende Rechnungsjahr festgesetzten Beiträge zu decken.
 
 ## Artikel XV
 
-#### Unterzeichnung
+**Unterzeichnung**
+
+#### Art. 15
 
 Dieses Übereinkommen und das beigefügte Finanzprotokoll, welches Bestandteil dieses Übereinkommens ist, liegen bis zum 31. Dezember 1953 zur Unterzeichnung für jeden Staat auf, der die Voraussetzungen des Artikels III Absatz 1 erfüllt.
 
 ## Artikel XVI
 
-#### Ratifizierung
+**Ratifizierung**
+
+#### Art. 16
 
 (1) Dieses Übereinkommen und das beigefügte Finanzprotokoll bedürfen der Ratifizierung.
 
@@ -276,7 +308,9 @@ Dieses Übereinkommen und das beigefügte Finanzprotokoll, welches Bestandteil d
 
 ## Artikel XVII
 
-#### Beitritt
+**Beitritt**
+
+#### Art. 17
 
 (1) Jeder Staat, der dieses Übereinkommen und das beigefügte Finanzprotokoll nicht unterzeichnet hat, kann ihnen vom 1. Jänner 1954 an beitreten, wenn er die Voraussetzungen des Artikels III Absatz 1 oder 2 erfüllt.
 
@@ -284,7 +318,9 @@ Dieses Übereinkommen und das beigefügte Finanzprotokoll, welches Bestandteil d
 
 ## Artikel XVIII
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 18
 
 (1) Dieses Übereinkommen und das beigefügte Finanzprotokoll treten in Kraft, nachdem sieben Staaten sie ratifiziert haben oder ihnen beigetreten sind, vorausgesetzt,
 
@@ -296,7 +332,9 @@ b) daß sich die Schweiz als das Land, in dem die Organisation ihren Sitz haben 
 
 ## Artikel XIX
 
-#### Notifikationen
+**Notifikationen**
+
+#### Art. 19
 
 (1) Der Generaldirektor der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur notifiziert allen Unterzeichner- und beitretenden Staaten sowie allen sonstigen Staaten, die an der Konferenz über die Durchführung von Studien zur Errichtung eines europäischen Kernforschungslaboratoriums im Dezember 1951 in Paris und im Februar 1952 in Genf teilgenommen haben, die Hinterlegung einer jeden Ratifikations- oder Beitrittsurkunde und das Inkrafttreten dieses Übereinkommens.
 
@@ -304,7 +342,9 @@ b) daß sich die Schweiz als das Land, in dem die Organisation ihren Sitz haben 
 
 ## Artikel XX
 
-#### Registrierung
+**Registrierung**
+
+#### Art. 20
 
 Nach dem Inkrafttreten dieses Übereinkommens läßt es der Generaldirektor der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur nach Artikel 102 der Charta der Vereinten Nationen bei deren Generalsekretär registrieren.
 

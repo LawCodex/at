@@ -1,0 +1,50 @@
+---
+title: "Personen- und Güterverkehr auf der Straße (Protokoll) (Jugoslawien)"
+identifier: "10011343"
+type: treaty
+ris_type: "Vertrag – Jugoslawien"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 257/1961"
+last_amended: 1961-10-19
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1961/257/P0/NOR11011608"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011343"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Personen- und Güterverkehr auf der Straße (Protokoll) (Jugoslawien)
+
+PROTOKOLL
+
+StF: BGBl. Nr. 257/1961 (NR: GP IX RV 426 AB 443 S. 69. BR: S. 177.)
+
+**Unterzeichnungsdatum:** 14.04.1961
+
+**Sprachen:** Deutsch, Serbokroatisch
+
+> **Beachte:** Für die mit einer BGBl. Nr. ausgewiesenen Staaten wurde eine Kopie des Vertrages (einschließlich etwaiger Änderungen) erstellt bzw. die Nichtanwendung angezeigt. Republik Slowenien Republik Kroatien, BGBl. Nr. 474/1996 (keine Weiteranwendung) Bundesrepublik Jugoslawien Bosnien und Herzegowina Ehem. Jugosl. Republik Mazedonien
+
+## Art. 1
+
+Die Republik Österreich und die Föderative Volksrepublik Jugoslawien sind übereingekommen, daß jugoslawische Unternehmungen im Kraftfahrlinienverkehr (ausgenommen Transitlinienverkehr) für Beförderungen in Österreich von der Beförderungssteuer unter der Voraussetzung befreit sind, daß österreichische Unternehmungen im Kraftfahrlinienverkehr (ausgenommen Transitlinienverkehr) für Beförderungen in Jugoslawien von jugoslawischen Straßentaxen befreit sind.
+
+Dieses Protokoll ist zu ratifizieren. Es wird mit dem Tage des Austausches der Ratifikationsurkunden, welcher in Belgrad stattfinden wird, in Kraft treten und kann unter Einhaltung einer zwölfmonatigen Kündigungsfrist jederzeit gekündigt werden.
+
+Geschehen zu Wien, am 14. April eintausendneunhunderteinundsechzig, in zwei Ausfertigungen, in deutscher und serbokroatischer Sprache, wobei beide Texte in gleicher Weise maßgebend sind.
+
+## Ratifikationstext
+
+Die Ratifikationsurkunden wurden am 19. Oktober 1961 ausgetauscht.
+
+## Sonstige Textteile
+
+Nachdem das Protokoll zum Abkommen zwischen der Österreichischen Bundesregierung und der Regierung der Föderativen Volksrepublik Jugoslawien über den grenzüberschreitenden Personen- und Güterverkehr auf der Straße, BGBl. Nr. 223/1961, welches also lautet:...
+
+die verfassungsmäßige Genehmigung des Nationalrates erhalten hat, erklärt der Bundespräsident dieses Protokoll für ratifiziert und verspricht im Namen der Republik Österreich die gewissenhafte Erfüllung der in diesem Protokoll enthaltenen Bestimmungen.
+
+Zu Urkund dessen ist die vorliegende Ratifikationsurkunde vom Bundespräsidenten unterzeichnet, vom Bundeskanzler, vom Bundesminister für Finanzen, vom Bundesminister für Handel und Wiederaufbau, vom Bundesminister für Verkehr und Elektrizitätswirtschaft und vom Bundesminister für Auswärtige Angelegenheiten gegengezeichnet und mit dem Staatssiegel der Republik Österreich versehen worden.
+
+Geschehen zu Wien, am 29. Juli 1961.

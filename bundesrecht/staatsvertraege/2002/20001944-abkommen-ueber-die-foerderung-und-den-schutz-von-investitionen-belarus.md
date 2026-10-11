@@ -33,7 +33,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## ARTIKEL 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -69,7 +71,9 @@ c) jede juristische Person oder Personengesellschaft, die in Übereinstimmung mi
 
 ## ARTIKEL 2
 
-### Förderung und Schutz von Investitionen
+**Förderung und Schutz von Investitionen**
+
+### Art. 2
 
 (1) Jede Vertragspartei fördert nach Möglichkeit in ihrem Hoheitsgebiet Investitionen von Investoren der anderen Vertragspartei, lässt diese Investitionen und damit verbundene Aktivitäten in Übereinstimmung mit ihren Rechtsvorschriften zu und behandelt derartige Investitionen und damit verbundene Aktivitäten in jedem Fall gerecht und billig.
 
@@ -77,7 +81,9 @@ c) jede juristische Person oder Personengesellschaft, die in Übereinstimmung mi
 
 ## ARTIKEL 3
 
-### Behandlung von Investitionen
+**Behandlung von Investitionen**
+
+### Art. 3
 
 (1) Jede Vertragspartei gewährt Investoren der anderen Vertragspartei und deren Investitionen eine nicht weniger günstige Behandlung als ihren eigenen Investoren und deren Investitionen oder Investoren dritter Staaten und deren Investitionen.
 
@@ -93,7 +99,9 @@ c) einer Regelung zur Erleichterung des Grenzverkehrs.
 
 ## ARTIKEL 4
 
-### Enteignung und Entschädigung
+**Enteignung und Entschädigung**
+
+### Art. 4
 
 (1) Investitionen von Investoren einer Vertragspartei dürfen im Hoheitsgebiet der anderen Vertragspartei nicht verstaatlicht, enteignet oder Maßnahmen, deren Auswirkungen einer Verstaatlichung oder Enteignung gleichkommen würde (im Folgenden „Enteignung“ genannt) unterworfen werden, es sei denn zu einem Zweck von öffentlichem Interesse, auf Grund eines rechtmäßigen Verfahrens, auf der Grundlage der Nichtdiskriminierung sowie in Verbindung mit einer umgehenden, angemessenen und wirksamen Entschädigung. Eine derartige Entschädigung hat dem tatsächlichen Marktwert der enteigneten Investition unmittelbar vor der Enteignung oder bevor die drohende Enteignung öffentlich bekannt wurde, je nachdem, welches der frühere Zeitpunkt ist, zu entsprechen, beinhaltet Zinsen vom Zeitpunkt der Enteignung bis zum Zeitpunkt der Zahlung berechnet auf der Basis des LIBOR Satzes oder eines äquivalenten Wertes, wird umgehend geleistet, ist tatsächlich verwertbar und frei transferierbar. Derartige Transfers werden ohne ungebührliche Verzögerung in der konvertierbaren Währung, in der die Investition ursprünglich getätigt wurde oder in einer anderen konvertierbaren Währung, auf die sich der Investor und die betreffende Vertragspartei einigen, geleistet. Die Maßnahmen zur Festlegung und Zahlung einer derartigen Entschädigung erfolgen in geeigneter Weise nicht später als zum Zeitpunkt der Enteignung.
 
@@ -105,7 +113,9 @@ c) einer Regelung zur Erleichterung des Grenzverkehrs.
 
 ## ARTIKEL 5
 
-### Entschädigung für Verluste
+**Entschädigung für Verluste**
+
+### Art. 5
 
 (1) Investoren einer Vertragspartei deren Investitionen im Hoheitsgebiet der anderen Vertragspartei auf Grund eines Krieges oder anderen bewaffneten Konfliktes, einer Revolution, eines nationalen Notstands, einer Revolte, eines Aufstands, eines Aufruhrs oder eines sonstigen ähnlichen Ereignisses im Hoheitsgebiet der letztgenannten Vertragspartei einen Verlust erleiden, erfahren hinsichtlich Rückerstattung, Entschädigung, Schadenersatz oder anderer Regelung durch die letztgenannte Vertragspartei eine nicht weniger günstige Behandlung als jene, die die letztgenannte Vertragspartei ihren eigenen Investoren oder Investoren eines Drittstaates gewährt. Die sich daraus ergebenden Zahlungen sind frei transferierbar.
 
@@ -119,7 +129,9 @@ von Seiten der letztgenannten Vertragspartei eine Rückerstattung oder Entschäd
 
 ## ARTIKEL 6
 
-### Transfers
+**Transfers**
+
+### Art. 6
 
 (1) Jede Vertragspartei garantiert ohne ungebührliche Verzögerung Investoren der anderen Vertragspartei den freien Transfer in einer frei konvertierbaren Währung von Zahlungen im Zusammenhang mit einer Investition, insbesondere aber nicht ausschließlich:
 
@@ -147,13 +159,17 @@ g) Zahlungen auf Grund einer Streitbeilegung.
 
 ## ARTIKEL 7
 
-### Eintrittsrecht
+**Eintrittsrecht**
+
+### Art. 7
 
 Leistet eine Vertragspartei oder eine von ihr hierzu ermächtigte Institution ihrem Investor Zahlungen auf Grund einer Garantie für Investitionen im Hoheitsgebiet der anderen Vertragspartei, so anerkennt die andere Vertragspartei, unbeschadet der Rechte des Investors der erstgenannten Vertragspartei gemäß Artikel 9 dieses Abkommens und der Rechte der erstgenannten Vertragspartei gemäß Artikel 10 dieses Abkommens, die Übertragung aller Rechte und Ansprüche dieses Investors kraft Gesetzes oder auf Grund eines Rechtsgeschäfts auf die erstgenannte Vertragspartei. Ferner anerkennt die letztgenannte Vertragspartei den Eintritt der erstgenannten Vertragspartei in alle diese Rechte oder Ansprüche, welche die erstgenannte Vertragspartei im gleichen Umfang wie ihr Rechtsvorgänger auszuüben berechtigt ist. Für den Transfer von Zahlungen an die betreffende Vertragspartei auf Grund einer solchen Übertragung, gelten die Artikel 4, 5 und 6 dieses Abkommens sinngemäß.
 
 ## ARTIKEL 8
 
-### Andere Verpflichtungen
+**Andere Verpflichtungen**
+
+### Art. 8
 
 (1) Enthalten die Rechtsvorschriften und Bestimmungen einer Vertragspartei oder völkerrechtliche Verpflichtungen, die neben diesem Abkommen zwischen den Vertragsparteien bestehen oder in Zukunft begründet werden, eine allgemeine oder besondere Regelung, durch die Investitionen von Investoren der anderen Vertragspartei eine günstigere Behandlung als nach diesem Abkommen zu gewähren ist, so geht diese Regelung dem vorliegenden Abkommen insoweit vor, als sie günstiger ist.
 
@@ -161,7 +177,9 @@ Leistet eine Vertragspartei oder eine von ihr hierzu ermächtigte Institution ih
 
 ## ARTIKEL 9
 
-### Beilegung von Investitionsstreitigkeiten
+**Beilegung von Investitionsstreitigkeiten**
+
+### Art. 9
 
 (1) Jede Streitigkeit aus einer Investition zwischen einer Vertragspartei und einem Investor der anderen Vertragspartei wird, soweit wie möglich, zwischen den Streitparteien freundschaftlich beigelegt.
 
@@ -181,7 +199,9 @@ b) einem Schiedsverfahren durch drei Schiedsrichter gemäß den UNCITRAL Schieds
 
 ## ARTIKEL 10
 
-### Beilegung von Streitigkeiten zwischen den Vertragsparteien
+**Beilegung von Streitigkeiten zwischen den Vertragsparteien**
+
+### Art. 10
 
 (1) Streitigkeiten zwischen den Vertragsparteien über die Auslegung oder Anwendung dieses Abkommens werden, soweit wie möglich, durch freundschaftliche Verhandlungen beigelegt.
 
@@ -201,7 +221,9 @@ Jede Vertragspartei bestellt ein Mitglied und diese beiden Mitglieder einigen si
 
 ## ARTIKEL 11
 
-### Anwendung des Abkommens
+**Anwendung des Abkommens**
+
+### Art. 11
 
 (1) Dieses Abkommen gilt für Investitionen, die im Hoheitsgebiet einer Vertragspartei gemäß ihren geltenden Rechtsvorschriften von Investoren der anderen Vertragspartei sowohl vor als auch nach dem In-Kraft-Treten dieses Abkommens vorgenommen wurden oder werden.
 
@@ -211,7 +233,9 @@ Jede Vertragspartei bestellt ein Mitglied und diese beiden Mitglieder einigen si
 
 ## ARTIKEL 12
 
-### In-Kraft-Treten und Dauer
+**In-Kraft-Treten und Dauer**
+
+### Art. 12
 
 (1) Dieses Abkommen bedarf der Ratifikation und tritt am ersten Tag des dritten Monats in Kraft, der auf den Monat folgt, in welchem die Ratifikationsurkunden ausgetauscht worden sind.
 

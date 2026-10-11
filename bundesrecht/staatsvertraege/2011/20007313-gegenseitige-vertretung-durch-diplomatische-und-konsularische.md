@@ -44,7 +44,9 @@ Folgendes vereinbart:
 
 ## Artikel 1
 
-### Gegenseitige Vertretung
+**Gegenseitige Vertretung**
+
+### Art. 1
 
 (1) Die Republik Österreich und die Republik Lettland vertreten einander bei der Bearbeitung und Erteilung einheitlicher, grundsätzlich für das Hoheitsgebiet aller Vertragsparteien des Übereinkommens vom 19. Juni 1990 zur Durchführung des Übereinkommens von Schengen vom 14. Juni 1985 betreffend den schrittweisen Abbau der Kontrollen an den gemeinsamen Grenzen<sup>1</sup> (Schengener Durchführungsabkommen) gültiger Visa.
 
@@ -56,7 +58,9 @@ Folgendes vereinbart:
 
 ## Artikel 2
 
-### Verfahren
+**Verfahren**
+
+### Art. 2
 
 (1) Die vertretende zuständige Vertretungsbehörde nimmt den Visumantrag entgegen, erfasst die Antragsdaten sowie ab dem Einführungszeitpunkt der Aufnahme biometrischer Identifikatoren in Visa die biometrischen Daten und führt die materielle Prüfung des Antrags durch.
 
@@ -70,7 +74,9 @@ Folgendes vereinbart:
 
 ## Artikel 3
 
-### Zuständige Behörden
+**Zuständige Behörden**
+
+### Art. 3
 
 (1) Zuständige Behörde für die Umsetzung der Vereinbarung ist:
 
@@ -110,7 +116,9 @@ Mail: schengen.representation@mfa.gov.lv
 
 ## Artikel 4
 
-### Aufnahme der Vertretungstätigkeit
+**Aufnahme der Vertretungstätigkeit**
+
+### Art. 4
 
 (1) Die vertretende zuständige Vertretungsbehörde nimmt die Tätigkeiten zur Durchführung der Vereinbarung selbständig vor.
 
@@ -120,13 +128,17 @@ Mail: schengen.representation@mfa.gov.lv
 
 ## Artikel 5
 
-### Gebühren
+**Gebühren**
+
+### Art. 5
 
 Die Visumgebühren stehen in allen Fällen der vertretenden Vertretungsbehörde zu.
 
 ## Artikel 6
 
-### Inkrafttreten, Änderung, Geltungsdauer und Kündigung
+**Inkrafttreten, Änderung, Geltungsdauer und Kündigung**
+
+### Art. 6
 
 (1) Diese Vereinbarung wird auf unbestimmte Zeit geschlossen und tritt durch Unterzeichnung in Kraft.
 

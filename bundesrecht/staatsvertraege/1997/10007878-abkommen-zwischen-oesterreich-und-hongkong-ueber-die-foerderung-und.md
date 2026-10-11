@@ -41,7 +41,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -85,7 +87,9 @@ e) „Erträge“ bedeutet diejenigen Beträge, die eine Investition erbringt, u
 
 ## Artikel 2
 
-### Förderung und Schutz von Investitionen und Erträgen
+**Förderung und Schutz von Investitionen und Erträgen**
+
+### Art. 2
 
 (1) Jede Vertragspartei fördert und schafft günstige Bedingungen für Investoren der anderen Vertragspartei, um Investitionen auf ihrem Gebiet zu tätigen, und genehmigt solche Investitionen im Einklang mit ihren Gesetzen und sonstigen Regelungen.
 
@@ -95,7 +99,9 @@ e) „Erträge“ bedeutet diejenigen Beträge, die eine Investition erbringt, u
 
 ## Artikel 3
 
-### Behandlung von Investitionen und Erträgen
+**Behandlung von Investitionen und Erträgen**
+
+### Art. 3
 
 (1) Keine der beiden Vertragsparteien behandelt auf ihrem Gebiet Investitionen oder Erträge der Investoren der anderen Vertragspartei weniger günstig als Investitionen oder Erträge ihrer eigenen Investoren oder als Investitionen oder Erträge der Investoren dritter Staaten.
 
@@ -103,7 +109,9 @@ e) „Erträge“ bedeutet diejenigen Beträge, die eine Investition erbringt, u
 
 ## Artikel 4
 
-### Ausnahmen
+**Ausnahmen**
+
+### Art. 4
 
 (1) Die Bestimmungen in diesem Abkommen betreffend die Gewährung einer Behandlung, die nicht weniger günstig ist als jene, die den Investoren der beiden Vertragsparteien oder Investoren dritter Staaten gewährt wird, dürfen nicht so ausgelegt werden, daß sie eine Vertragspartei verpflichten, den gegenwärtigen oder zukünftigen Nutzen
 
@@ -117,7 +125,9 @@ Investoren der anderen Vertragspartei zu gewähren.
 
 ## Artikel 5
 
-### Entschädigung für Verluste
+**Entschädigung für Verluste**
+
+### Art. 5
 
 (1) Investoren einer Vertragspartei, deren Investitionen auf dem Gebiet der anderen Vertragspartei wegen Krieges oder anderer bewaffneter Konflikte, Revolution, nationalen Notstandes, Aufstandes oder Unruhen im Gebiet der letzteren Vertragspartei Schaden erleiden, erfahren hinsichtlich Rückerstattung, Schadloshaltung, Entschädigung oder anderer Regelungen seitens der letzteren Vertragspartei keine weniger günstige Behandlung als eigene Investoren oder Investoren aus Drittstaaten. Daraus folgende Zahlungen sind frei konvertierbar.
 
@@ -133,7 +143,9 @@ eine Rückerstattung oder eine angemessene Entschädigung. Daraus folgende Zahlu
 
 ## Artikel 6
 
-### Entschädigung für Enteignung
+**Entschädigung für Enteignung**
+
+### Art. 6
 
 (1) Investitionen der Investoren einer Vertragspartei werden auf dem Gebiet der anderen Vertragspartei nicht enteignet und auch nicht sonstigen Maßnahmen unterworfen, die gleiche Auswirkungen haben wie eine Enteignung, außer auf Grund gesetzlicher Maßnahmen im öffentlichen Interesse im Zusammenhang mit den internen Bedürfnissen dieser Vertragspartei und gegen Entschädigung. Die Entschädigung muß dem echten Wert der Investition entweder unmittelbar vor dem Zeitpunkt der Enteignung oder vor dem Zeitpunkt des öffentlichen Bekanntwerdens der drohenden Enteignung entsprechen, je nachdem welches Ereignis früher eintritt, und muß die Zinsen zum handelsüblichen Zinssatz bis zum Zeitpunkt der Zahlung enthalten, ohne ungebührliche Verzögerung erfolgen, sowie tatsächlich verfügbar und frei konvertierbar sein.
 
@@ -143,7 +155,9 @@ eine Rückerstattung oder eine angemessene Entschädigung. Daraus folgende Zahlu
 
 ## Artikel 7
 
-### Transfer
+**Transfer**
+
+### Art. 7
 
 (1) Jede Vertragspartei gewährleistet in bezug auf Investitionen den Investoren der anderen Vertragspartei das uneingeschränkte Recht, ihre Investitionen, wie sie im Artikel 1 (c) definiert sind, und ihre Erträge, wie sie im Artikel 1 (e) definiert sind, ins Ausland zu transferieren. Investoren haben außerdem das uneingeschränkte Recht, ins Ausland im besonderen, aber nicht auschließlich *(Anm.: richtig: ausschließlich)* zu transferieren:
 
@@ -161,7 +175,9 @@ e) eine Entschädigung gemäß Artikel 5 und Artikel 6 dieses Abkommens.
 
 ## Artikel 8
 
-### Eintrittsrecht
+**Eintrittsrecht**
+
+### Art. 8
 
 (1) Leistet eine Vertragspartei oder eine von ihr benannte Institution eine Zahlung auf Grund einer Garantie für eine Investition im Gebiet der anderen Vertragspartei, so anerkennt diese andere Vertragspartei die kraft Gesetzes oder auf Grund eines Rechtsgeschäfts auf die erstgenannte Vertragspartei erfolgte Übertragung aller Rechte oder Ansprüche des entschädigten Investors und anerkennt ferner, daß die erstgenannte Vertragspartei oder eine von ihr hiezu benannte Institution alle diese Rechte oder diese Ansprüche auf Grund des Eintrittes im gleichen Umfange wie der Investor geltend machen kann. Dies berührt nicht die Rechte des Investors der erstgenannten Vertragspartei gemäß Artikel 9 dieses Abkommens oder die Rechte der erstgenannten Vertragspartei gemäß Artikel 10 dieses Abkommens.
 
@@ -173,13 +189,17 @@ e) eine Entschädigung gemäß Artikel 5 und Artikel 6 dieses Abkommens.
 
 ## Artikel 9
 
-### Beilegung von Investitionsstreitigkeiten
+**Beilegung von Investitionsstreitigkeiten**
+
+### Art. 9
 
 Jede Streitigkeit zwischen einem Investor der einen Vertragspartei und der anderen Vertragspartei über eine Investition des Erstgenannten auf dem Gebiet der Letztgenannten, die nicht freundschaftlich beigelegt wurde, wird nach einem Zeitraum von sechs Monaten ab der schriftlichen Mitteilung betreffend den Anspruch in einem solchen Verfahren zur Beilegung der Streitigkeit behandelt, über das sich die beiden Streitparteien geeinigt haben. Wenn es innerhalb dieser sechs Monate zu keiner Einigung über ein solches Verfahren kommt, sind die Streitparteien verpflichtet, die Streitigkeit einem Schiedsverfahren gemäß der UNCITRAL-Schiedsgerichtsordnung zu unterwerfen, insoweit sie auf Grund der letzten Abänderung, die für beide Vertragsparteien anwendbar ist, abgeändert wurde. Die Parteien können sich in schriftlicher Form über eine Abänderung dieser Regeln einigen.
 
 ## Artikel 10
 
-### Streitigkeiten zwischen den Vertragsparteien
+**Streitigkeiten zwischen den Vertragsparteien**
+
+### Art. 10
 
 (1) Wenn es zu einer Streitigkeit zwischen den Vertragsparteien über die Auslegung oder Anwendung dieses Abkommens kommt, werden diese, soweit wie möglich, durch Verhandlungen beigelegt.
 
@@ -203,19 +223,25 @@ b) Wenn innerhalb der obenerwähnten Fristen keine Ernennung erfolgt, kann jede 
 
 ## Artikel 11
 
-### Anwendung
+**Anwendung**
+
+### Art. 11
 
 Die Bestimmungen dieses Abkommens gelten für alle Investitionen, unabhängig davon, ob sie vor oder nach dem Datum des Inkrafttretens dieses Abkommens vorgenommen wurden.
 
 ## Artikel 12
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 12
 
 Dieses Abkommen tritt am ersten Tag des dritten Monats in Kraft, der auf den Monat folgt, in welchem sich die Vertragsparteien gegenseitig auf schriftlichem Wege informiert haben, daß die jeweiligen Voraussetzungen für das Inkrafttreten dieses Abkommens erfüllt sind.
 
 ## Artikel 13
 
-### Vertragsdauer und Kündigung
+**Vertragsdauer und Kündigung**
+
+### Art. 13
 
 (1) Das Abkommen bleibt für die Dauer von fünfzehn Jahren in Kraft und bleibt danach für unbestimmte Zeit in Kraft, außer es wird in Übereinstimmung mit Absatz 2 dieses Artikels gekündigt.
 

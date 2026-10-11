@@ -24,13 +24,17 @@ StF: BGBl. Nr. 406/1996
 
 ## Artikel 1
 
-### Örtlicher Bereich
+**Örtlicher Bereich**
+
+### Art. 1
 
 Im Sinne dieser Vereinbarung ist der örtliche Bereich im Sinne des Artikels 4 Absatz 6 des Abkommens zu verstehen.
 
 ## Artikel 2
 
-### Pfronten-Steinach/Schönbichl
+**Pfronten-Steinach/Schönbichl**
+
+### Art. 2
 
 (1) Am Grenzübergang Pfronten-Steinach/Schönbichl werden auf deutschem Gebiet vorgeschobene österreichische Grenzdienststellen errichtet.
 
@@ -54,7 +58,9 @@ b) den den österreichischen Bediensteten im Dienstgebäude zur alleinigen Benut
 
 ## Artikel 3
 
-### Niederndorf/Oberaudorf
+**Niederndorf/Oberaudorf**
+
+### Art. 3
 
 (1) Am Grenzübergang Niederndorf/Oberaudorf werden auf österreichischem Gebiet vorgeschobene deutsche Grenzdienststellen errichtet.
 
@@ -78,7 +84,9 @@ b) die den deutschen Bediensteten zur alleinigen Benutzung überlassenen Räume 
 
 ## Artikel 4
 
-### Erl/Windshausen
+**Erl/Windshausen**
+
+### Art. 4
 
 (1) Am Grenzübergang Erl/Windshausen werden auf österreichischem Gebiet vorgeschobene deutsche Grenzdienststellen errichtet.
 
@@ -98,7 +106,9 @@ b) den den deutschen Bediensteten im Dienstgebäude zur alleinigen Benutzung üb
 
 ## Artikel 5
 
-### Sachrang/Wildbichl
+**Sachrang/Wildbichl**
+
+### Art. 5
 
 (1) Am Grenzübergang Sachrang/Wildbichl werden auf deutschem Gebiet vorgeschobene österreichische Grenzdienststellen errichtet.
 
@@ -116,7 +126,9 @@ b) den den österreichischen Bediensteten im Dienstgebäude zur alleinigen Benut
 
 ## Artikel 6
 
-### Schellenberg/Hangendenstein
+**Schellenberg/Hangendenstein**
+
+### Art. 6
 
 (1) Am Grenzübergang Schellenberg/Hangendenstein werden auf deutschem Gebiet vorgeschobene österreichische Grenzdienststellen errichtet.
 
@@ -136,7 +148,9 @@ b) den den österreichischen Bediensteten im Dienstgebäude zur alleinigen Benut
 
 ## Artikel 7
 
-### Ainring/Siezenheim
+**Ainring/Siezenheim**
+
+### Art. 7
 
 (1) Am Grenzübergang Ainring/Siezenheim werden auf deutschem Gebiet vorgeschobene österreichische Grenzdienststellen errichtet.
 
@@ -150,7 +164,9 @@ b) den den österreichischen Bediensteten im Dienstgebäude zur alleinigen Benut
 
 ## Artikel 8
 
-### Oberndorf/Laufen
+**Oberndorf/Laufen**
+
+### Art. 8
 
 (1) Am Grenzübergang Oberndorf/Laufen werden auf österreichischem Gebiet vorgeschobene deutsche Grenzdienststellen errichtet.
 
@@ -168,7 +184,9 @@ b) die beiden den deutschen Bediensteten im Dienstgebäude zur alleinigen Benutz
 
 ## Artikel 9
 
-### Tittmoning/Ettenau
+**Tittmoning/Ettenau**
+
+### Art. 9
 
 (1) Am Grenzübergang Tittmoning/Ettenau werden auf deutschem Gebiet vorgeschobene österreichische Grenzdienststellen errichtet.
 
@@ -184,7 +202,9 @@ b) das den österreichischen Bediensteten zur alleinigen Benutzung überlassene,
 
 ## Artikel 10
 
-### Neuhaus am Inn-Alte Innbrücke/Schärding
+**Neuhaus am Inn-Alte Innbrücke/Schärding**
+
+### Art. 10
 
 (1) Am Grenzübergang Neuhaus am Inn-Alte Innbrücke/Schärding werden auf deutschem Gebiet vorgeschobene österreichische Grenzdienststellen errichtet.
 
@@ -202,7 +222,9 @@ b) den den österreichischen Bediensteten im Dienstgebäude zur alleinigen Benut
 
 ## Artikel 11
 
-### Passau-Haibach/Haibach
+**Passau-Haibach/Haibach**
+
+### Art. 11
 
 (1) Am Grenzübergang Passau-Haibach/Haibach werden auf deutschem Gebiet vorgeschobene österreichische Grenzdienststellen errichtet.
 
@@ -220,7 +242,9 @@ b) die beiden den österreichischen Bediensteten im Dienstgebäude zur alleinige
 
 ## Artikel 12
 
-### Oberkappel/Kappel
+**Oberkappel/Kappel**
+
+### Art. 12
 
 (1) Am Grenzübergang Oberkappel/Kappel werden auf österreichischem Gebiet vorgeschobene deutsche Grenzdienststellen errichtet.
 
@@ -234,7 +258,9 @@ b) die beiden den österreichischen Bediensteten im Dienstgebäude zur alleinige
 
 ## Artikel 13
 
-### Schwarzenberg/Lackenhäuser
+**Schwarzenberg/Lackenhäuser**
+
+### Art. 13
 
 (1) Am Grenzübergang Schwarzenberg/Lackenhäuser werden auf österreichischem Gebiet vorgeschobene deutsche Grenzdienststellen errichtet.
 
@@ -252,7 +278,9 @@ b) den den deutschen Bediensteten im Dienstgebäude zur alleinigen Benutzung üb
 
 ## Artikel 14
 
-### Füssen/Pinswang
+**Füssen/Pinswang**
+
+### Art. 14
 
 (1) Beim Grenzübergang Füssen/Pinswang kann die österreichische Grenzabfertigung zu bestimmten Zeiten auf deutschem Gebiet vorgenommen werden.
 

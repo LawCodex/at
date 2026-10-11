@@ -27,13 +27,17 @@ Die Republik Österreich und die Bundesrepublik Deutschland – in dem Bestreben
 
 ## Artikel 1
 
-### Gegenstand des Abkommens
+**Gegenstand des Abkommens**
+
+### Art. 1
 
 Gegenstand dieses Abkommens ist der Bau und die Instandhaltung einer Grenzbrücke über den Steinbach, nachfolgend als „Brücke“ bezeichnet, die auf österreichischem Hoheitsgebiet im Zuge der Loferer Ersatzstraße B 312, auf deutschem Hoheitsgebiet im Zuge der Bundesstraße B 21 liegt.
 
 ## Artikel 2
 
-### Planung und Bauausführung
+**Planung und Bauausführung**
+
+### Art. 2
 
 (1) Das Bauvorhaben umfaßt die Erstellung des Durchlaßbauwerks einschließlich Überschüttung. Die Planung und Bauausführung übernimmt die Bundesrepublik Deutschland nach Herstellung des Einvernehmens mit der Republik Österreich.
 
@@ -45,19 +49,25 @@ Gegenstand dieses Abkommens ist der Bau und die Instandhaltung einer Grenzbrück
 
 ## Artikel 3
 
-### Grunderwerb
+**Grunderwerb**
+
+### Art. 3
 
 Jeder Vertragsstaat sorgt dafür, daß auf seinem Hoheitsgebiet die für den Bau der Brücke dauernd oder zeitweise erforderlichen Grundstücke rechtzeitig zur Verfügung stehen, und trägt die dabei anfallenden Kosten.
 
 ## Artikel 4
 
-### Instandhaltung
+**Instandhaltung**
+
+### Art. 4
 
 Mit Abnahme der Brücke übernimmt die Bundesrepublik Deutschland die Instandhaltung des Durchlaßbauwerks.
 
 ## Artikel 5
 
-### Kostenverteilung
+**Kostenverteilung**
+
+### Art. 5
 
 (1) Jeder Vertragsstaat trägt die Hälfte der Kosten für die Herstellung und Instandhaltung des Durchlaßbauwerks ohne Umsatzsteuer; die Umsatzsteuer trägt jeweils der Vertragsstaat, dem sie zufließt.
 
@@ -65,13 +75,17 @@ Mit Abnahme der Brücke übernimmt die Bundesrepublik Deutschland die Instandhal
 
 ## Artikel 6
 
-### Verwaltungsvereinbarung
+**Verwaltungsvereinbarung**
+
+### Art. 6
 
 Die Einzelheiten der Planung, der Ausschreibung, der Vergabe, der Bauausführung und -überwachung, der Abnahme, der Instandhaltung sowie der Abrechnung und Kostenerstattung werden in einer Verwaltungsvereinbarung geregelt, die der Bundesminister für Bauten und Technik vertreten durch den Landeshauptmann von Salzburg und das Bayerische Staatsministerium des Inneren schließen.
 
 ## Artikel 7
 
-### Schiedsverfahren
+**Schiedsverfahren**
+
+### Art. 7
 
 (1) Streitigkeiten über die Auslegung oder Anwendung dieses Abkommens werden, soweit möglich, durch die Vertragsstaaten gütlich beigelegt.
 
@@ -87,19 +101,25 @@ Die Einzelheiten der Planung, der Ausschreibung, der Vergabe, der Bauausführung
 
 ## Artikel 8
 
-### Berlin-Klausel
+**Berlin-Klausel**
+
+### Art. 8
 
 Dieses Abkommen gilt auch für das Land Berlin, sofern nicht die Regierung der Bundesrepublik Deutschland gegenüber der Regierung der Republik Österreich innerhalb von drei Monaten nach Inkrafttreten dieses Abkommens eine gegenteilige Erklärung abgibt.
 
 ## Artikel 9
 
-### Gültigkeitsdauer
+**Gültigkeitsdauer**
+
+### Art. 9
 
 Dieses Abkommen wird auf unbestimmte Zeit abgeschlossen; es ist für die Dauer von zehn Jahren nach seinem Inkrafttreten unkündbar, danach mit einer Frist von zwei Jahren kündbar.
 
 ## Artikel 10
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 10
 
 Dieses Abkommen bedarf der Ratifikation. Die Ratifikationsurkunden werden so bald wie möglich in Wien ausgetauscht werden. Dieses Abkommen tritt am ersten Tag des dritten Monats nach Austausch der Ratifikationsurkunden in Kraft.
 

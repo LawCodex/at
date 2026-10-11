@@ -86,7 +86,9 @@ Die Tätigkeit der Gesellschaft wird in Übereinstimmung mit der Geschäfts-, Fi
 
 ### Mitgliedschaft und Kapital
 
-#### Abschnitt 1 – Mitgliedschaft
+**Abschnitt 1**
+
+#### Art. 2 – Mitgliedschaft
 
 a) Gründungsmitglieder der Gesellschaft sind diejenigen Mitgliedstaaten der Bank, die dieses Übereinkommen bis zu dem in Artikel XI Abschnitt 1 Buchstabe a genannten Zeitpunkt unterzeichnet und die in Abschnitt 3 Buchstabe b dieses Artikels geforderte ursprüngliche Einzahlung vorgenommen haben.
 

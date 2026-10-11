@@ -32,7 +32,9 @@ etwaige idF-Liste siehe Stammvertrag, BGBl. Nr. 95/1987
 
 ## Artikel 1
 
-### Allgemeine Grundsätze
+**Allgemeine Grundsätze**
+
+### Art. 1
 
 Das Finanzmanagement der Organisation dient den in Artikel II des Übereinkommens dargelegten Zwecken und unterstützt die Durchführung der vom Rat genehmigten langfristigen europäischen Weltraumpolitik. Die Organisation wendet international anerkannte Rechnungslegungsnormen an und folgt den Grundsätzen des soliden Finanzmanagements, der Sparsamkeit und der Wirtschaftlichkeit bei der Planung und Verwaltung der Mittel, der Transparenz, der Rechenschaftspflicht und der Kontrolle bei der Verwendung öffentlicher Mittel und der Finanzierungskapazität der Mitgliedstaaten und der Ausgewogenheit bei der Inanspruchnahme ihrer Mittel. Das Finanzsystem spiegelt den mehrjährigen Charakter der Tätigkeiten und Programme der Organisation wider. Es wird einer wirksamen internen Kontrolle und einer unabhängigen Rechnungsprüfung unterzogen.
 
@@ -42,7 +44,9 @@ Das Rechnungsjahr der Organisation läuft vom 1. Januar bis zum 31. Dezember des
 
 ## Artikel 2
 
-### Planung
+**Planung**
+
+### Art. 2
 
 (1) Der Generaldirektor erstellt die für die Optimierung der Verwendung der Mittel der Organisation, die Gewährleistung der laufenden Konsolidierung der Programmdurchführung und die Aufstellung der entsprechenden Finanzierung durch die Mitgliedstaaten als zweckmäßig erachteten Planungswerkzeuge. Diese umfassen unter anderem:
 
@@ -54,7 +58,9 @@ Das Rechnungsjahr der Organisation läuft vom 1. Januar bis zum 31. Dezember des
 
 ## Artikel 3
 
-### Finanzierung
+**Finanzierung**
+
+### Art. 3
 
 (1) Die Jahreshaushaltspläne der Organisation stellen für die Mitgliedstaaten und die anderen Finanzierungsstellen das jährliche Instrument zur schrittweisen Erfüllung ihrer mehrjährigen Verpflichtungen dar und gewährleisten die kontinuierliche Durchführung der genehmigten Programme und Tätigkeiten der Organisation. Sie bilden die verbindliche Grundlage für den Abruf der Beiträge der Mitgliedstaaten.
 
@@ -64,7 +70,9 @@ Das Rechnungsjahr der Organisation läuft vom 1. Januar bis zum 31. Dezember des
 
 ## Artikel 4
 
-### Haushaltspläne
+**Haushaltspläne**
+
+### Art. 4
 
 (1) Der Generaldirektor erstellt auf der Grundlage der in Artikel 2 Absatz 2 genannten Pläne die folgenden Entwürfe von Haushaltsplänen mit den Mittelanforderungen für das Folgejahr und unterbreitet sie dem Rat:
 
@@ -80,13 +88,17 @@ c) die Entwürfe von Haushaltsplänen für die in Artikel V Absatz 1 Buchstabe b
 
 ## Artikel 5
 
-### Kassenführung
+**Kassenführung**
+
+### Art. 5
 
 Die der Organisation von den Mitgliedstaaten bereitgestellten Zahlungsmittel werden vom Generaldirektor als Gemeinsame Kassenmittel verwaltet. Die Zinserträge werden jedem Mitgliedstaat im Einklang mit den in der Finanzordnung festgelegten Vorschriften gutgeschrieben.
 
 ## Artikel 6
 
-### Rechnungslegung
+**Rechnungslegung**
+
+### Art. 6
 
 (1) Das Finanzbuchführungs und Kostenrechnungssystem der Organisation ist ihr wichtigstes Instrument zur finanziellen Erfassung ihrer Tätigkeiten und Geschäftsvorfälle. Es unterstützt die wirksame Verwaltung und Kontrolle der Mittel der Organisation durch die genaue und zeitnahe Erfassung der Finanzgeschäfte und die Ermittlung und Messung der Kosten.
 
@@ -98,7 +110,9 @@ Die der Organisation von den Mitgliedstaaten bereitgestellten Zahlungsmittel wer
 
 ## Artikel 7
 
-### Beiträge
+**Beiträge**
+
+### Art. 7
 
 (1) Die in Artikel V des Übereinkommens vorgesehenen Tätigkeiten und Programme werden aus den nach Artikel XIII des Übereinkommens festgesetzten Beiträgen der Mitgliedstaaten finanziert.
 
@@ -110,13 +124,17 @@ Die der Organisation von den Mitgliedstaaten bereitgestellten Zahlungsmittel wer
 
 ## Artikel 8
 
-### Interne Kontrolle
+**Interne Kontrolle**
+
+### Art. 8
 
 Der Generaldirektor richtet ein umfassendes System der internen Kontrolle ein, das der Überwachung der Leistung und der Erfüllung der Ziele, der Bewertung der Sparsamkeit, Wirksamkeit und Effizienz der Vorgänge sowie der Überprüfung ihrer Ordnungsmäßigkeit und der Befolgung der anwendbaren Regeln und Vorschriften dient.
 
 ## Artikel 9
 
-### Externe Kontrolle
+**Externe Kontrolle**
+
+### Art. 9
 
 (1) Die Konten der Organisation, ihr Jahresabschluss und ihr Finanzmanagement werden von einer unabhängigen Rechnungsprüfungskommission geprüft. Der Rat bestimmt mit Zweidrittelmehrheit aller Mitgliedstaaten diejenigen Mitgliedstaaten, die in angemessenem Wechsel aufzufordern sind, Rechnungsprüfer für diese Kommission zu benennen, und zwar vorzugsweise erfahrene Rechnungsprüfer ihres öffentlichen Dienstes. Ein Mitglied der Rechnungsprüfungskommission amtiert im vorletzten Jahr seiner Dienstzeit als Vorsitzender der Kommission.
 
@@ -126,6 +144,8 @@ Der Generaldirektor richtet ein umfassendes System der internen Kontrolle ein, d
 
 ## Artikel 10
 
-### Finanzordnung
+**Finanzordnung**
+
+### Art. 10
 
 Die genaue Anwendung dieser Anlage und anderer einschlägiger Bestimmungen des Übereinkommens ist in der vom Rat genehmigten Finanzordnung geregelt.

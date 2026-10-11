@@ -41,7 +41,9 @@ haben folgendes vereinbart:
 
 ### Durchreise bosnisch-herzegowinischer Kriegsflüchtlinge — Artikel 1
 
-#### Durchreise zum Zwecke der Rückkehr
+**Durchreise zum Zwecke der Rückkehr**
+
+#### Art. 1
 
 (1) Die Vertragsparteien gestatten unentgeltlich nach Maßgabe dieses Abschnitts die Durchreise von bosnisch-herzegowinischen Kriegsflüchtlingen durch ihr Hoheitsgebiet zum Zwecke der Rückkehr.
 
@@ -53,13 +55,17 @@ haben folgendes vereinbart:
 
 ## Artikel 2
 
-#### Mehrmalige Durchreisen aus besonderem Anlaß
+**Mehrmalige Durchreisen aus besonderem Anlaß**
+
+#### Art. 2
 
 Die mehrmalige Durchreise von bosnisch-herzegowinischen Kriegsflüchtlingen wird unentgeltlich auch zu Besuchszwecken im Zielstaat gestattet. Voraussetzung ist der Besitz eines gültigen Reisepasses der Republik Bosnien und Herzegowina, aus dem sich die Rückkehrberechtigung in den Staat des vorübergehenden Aufenthalts ergibt. Artikel 1 Absatz 3 gilt entsprechend.
 
 ## Artikel 3
 
-#### Aufzeichnungspflicht
+**Aufzeichnungspflicht**
+
+#### Art. 3
 
 Die Vertragsparteien führen Aufzeichnungen über die Personalien (Name, Vorname, Geburtsdatum, Geburtsort), Art und Nummer des Reisepasses zur Einhaltung der Rückübernahmegarantie gemäß Artikel 1 Absatz 3.
 
@@ -87,7 +93,9 @@ In allen Fällen wird von der ersuchenden Vertragspartei bestätigt, daß Durchb
 
 ## Artikel 5
 
-#### Übernahmeverfahren
+**Übernahmeverfahren**
+
+#### Art. 5
 
 (1) Der Antrag auf Durchbeförderung nach Artikel 4 ist bei den ersuchten Vertragsparteien schriftlich zu stellen. Der Antrag muß, soweit möglich, die persönlichen Daten des bosnisch-herzegowinischen Kriegsflüchtlings (Vornamen, Namen, Geburtsdatum, Geburtsort, Staatsangehörigkeit, Art und Nummer des Reisedokuments) und stets die Erklärung enthalten, daß die Voraussetzungen gemäß Artikel 4 Absatz 1 erfüllt sind und daß keine Gründe für die Ablehnung gemäß Artikel 4 Absatz 2 bekannt sind. Ferner müssen der Grenzübergang und der Zeitpunkt der Übergabe sowie im Falle der beabsichtigten Durchbeförderung über einen Flughafen einer anderen Vertragspartei die Flugdaten (Tag, Flugnummer, Flugzeiten) sowie die Daten etwaiger amtlicher Begleitpersonen angegeben werden.
 
@@ -97,7 +105,9 @@ In allen Fällen wird von der ersuchenden Vertragspartei bestätigt, daß Durchb
 
 ## Artikel 6
 
-#### Transportmittel, Begleitung
+**Transportmittel, Begleitung**
+
+#### Art. 6
 
 (1) Die Durchreise gemäß den Artikeln 1 und 2 wird auch mit eigenen Transportmitteln der Personen gestattet.
 
@@ -107,13 +117,17 @@ In allen Fällen wird von der ersuchenden Vertragspartei bestätigt, daß Durchb
 
 ### Gemeinsame Bestimmungen — Artikel 7
 
-#### Kosten
+**Kosten**
+
+#### Art. 7
 
 Die Kosten der Durchbeförderung in den Durchgangsstaaten und bis an die Grenze des Zielstaats und gegebenenfalls auch die aus dem Rücktransport und dem Aufenthalt erwachsenen Kosten gemäß Abschnitten A und B trägt die ersuchende Vertragspartei.
 
 ## Artikel 8
 
-#### Zuständige Stellen
+**Zuständige Stellen**
+
+#### Art. 8
 
 Die zuständigen Stellen für die Durchführung der Aufgaben nach den Artikeln 1, 4, 5, 6 und 7 sind auf:
 
@@ -197,7 +211,9 @@ Fax: + 386 61 214-300
 
 ## Artikel 9
 
-#### Datenschutzklausel
+**Datenschutzklausel**
+
+#### Art. 9
 
 (1) Soweit für die Durchführung dieser Vereinbarung personenbezogene Daten zu übermiteln (Anm.: richtig: übermitteln) sind, dürfen diese Informationen ausschließlich betreffen
 
@@ -235,25 +251,33 @@ Fax: + 386 61 214-300
 
 ## Artikel 10
 
-#### Konsultationspflicht
+**Konsultationspflicht**
+
+#### Art. 10
 
 Die Vertragsparteien verpflichten sich, Probleme, die bei der Anwendung dieser Vereinbarung entstehen, einvernehmlich zu lösen und alle hierzu notwendigen Informationen zu übermitteln.
 
 ## Artikel 11
 
-#### Vorrang zwischenstaatlicher Sonderregelungen
+**Vorrang zwischenstaatlicher Sonderregelungen**
+
+#### Art. 11
 
 Die Verpflichtungen der Vertragsparteien aus zwischenstaatlichen Rückübernahme- und Schubabkommen bleiben unberührt.
 
 ## Artikel 12
 
-#### Inkrafttreten, Geltungsdauer
+**Inkrafttreten, Geltungsdauer**
+
+#### Art. 12
 
 Diese Vereinbarung tritt am ersten Tag des zweiten Monats nach ihrer Unterzeichnung in Kraft. Sie wird auf unbestimmte Zeit geschlossen.
 
 ## Artikel 13
 
-#### Suspendierung, Kündigung
+**Suspendierung, Kündigung**
+
+#### Art. 13
 
 (1) Jede Vertragspartei kann diese Vereinbarung aus wichtigem Grund, insbesondere bei einer Störung oder Gefahr der nationalen Sicherheit, nach Kosultation mit den anderen Vertragsparteien durch eine an den Verwahrer gerichtete Notifikation suspendieren oder kündigen.
 
@@ -261,7 +285,9 @@ Diese Vereinbarung tritt am ersten Tag des zweiten Monats nach ihrer Unterzeichn
 
 ## Artikel 14
 
-#### Verwahrer
+**Verwahrer**
+
+#### Art. 14
 
 Das Innenministerium der Bundesrepublik Deutschland ist Verwahrer dieser Vereinbarung.
 

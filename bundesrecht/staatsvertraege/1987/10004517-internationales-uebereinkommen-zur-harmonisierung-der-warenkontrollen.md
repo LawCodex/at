@@ -69,7 +69,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ### Artikel 1
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 1
 
 Im Sinne dieses Übereinkommens gelten als:
 
@@ -91,13 +93,17 @@ h) „Kontrolldienste“ jede für die Durchführung aller oder eines Teils der 
 
 ## Artikel 2
 
-#### Ziel
+**Ziel**
+
+#### Art. 2
 
 Zur Erleichterung des internationalen Warenverkehrs zielt dieses Übereinkommen darauf ab, die Anforderungen bezüglich der zu erfüllenden Förmlichkeiten sowie Zahl und Dauer der Kontrollen, insbesondere durch die innerstaatliche und internationale Koordinierung der Kontrollverfahren und ihrer Anwendungsmethoden, herabzusetzen.
 
 ## Artikel 3
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 3
 
 1\. Dieses Übereinkommen gilt für sämtliche Waren bei der Ein-, Aus- oder Durchfuhr, wenn sie über eine oder mehrere See-, Luft- oder Landgrenzen befördert werden.
 
@@ -107,13 +113,17 @@ Zur Erleichterung des internationalen Warenverkehrs zielt dieses Übereinkommen 
 
 ### Artikel 4
 
-#### Koordinierung der Kontrollen
+**Koordinierung der Kontrollen**
+
+#### Art. 4
 
 Die Vertragsparteien verpflichten sich, den Einsatz der Zollstellen und sonstigen Kontrolldienste soweit wie möglich zu harmonisieren.
 
 ## Artikel 5
 
-#### Ausstattung der Dienststellen
+**Ausstattung der Dienststellen**
+
+#### Art. 5
 
 Um das ordnungsgemäße Funktionieren der Kontrolldienste sicherzustellen, sorgen die Vertragsparteien dafür, daß diese soweit wie möglich und im Rahmen des innerstaatlichen Rechts ausgestattet werden mit:
 
@@ -125,13 +135,17 @@ c) Anweisungen für die Bediensteten, gemäß den geltenden internationalen Übe
 
 ## Artikel 6
 
-#### Internationale Zusammenarbeit
+**Internationale Zusammenarbeit**
+
+#### Art. 6
 
 Die Vertragsparteien verpflichten sich, untereinander zusammenzuarbeiten und jede notwendige Zusammenarbeit mit den zuständigen internationalen Organen zu suchen, um die Ziele dieses Übereinkommens zu erreichen; sie verpflichten sich ferner, erforderlichenfalls den Abschluß neuer multilateraler oder bilateraler Übereinkünfte oder Vereinbarungen anzustreben.
 
 ## Artikel 7
 
-#### Zusammenarbeit zwischen benachbarten Staaten
+**Zusammenarbeit zwischen benachbarten Staaten**
+
+#### Art. 7
 
 Wird eine gemeinsame Landgrenze überschritten, treffen die beteiligten Vertragsparteien, wenn möglich, geeignete Maßnahmen, um den Grenzübergang der Waren zu erleichtern, und bemühen sich insbesondere:
 
@@ -149,13 +163,17 @@ sicherzustellen.
 
 ## Artikel 8
 
-#### Informationsaustausch
+**Informationsaustausch**
+
+#### Art. 8
 
 Die Vertragsparteien übermitteln sich gegenseitig auf Ersuchen die für die Durchführung dieses Übereinkommens erforderlichen Informationen nach Maßgabe der in den Anlagen festgelegten Bedingungen.
 
 ## Artikel 9
 
-#### Dokumente
+**Dokumente**
+
+#### Art. 9
 
 1\. Die Vertragsparteien bemühen sich, untereinander und in Zusammenarbeit mit den zuständigen internationalen Organen die Verwendung von Dokumenten zu fördern, die an das Rahmenmuster der Vereinten Nationen angepaßt sind.
 
@@ -167,7 +185,9 @@ Die Vertragsparteien übermitteln sich gegenseitig auf Ersuchen die für die Dur
 
 ### Artikel 10
 
-#### Transitwaren
+**Transitwaren**
+
+#### Art. 10
 
 1\. Die Vertragsparteien sehen für Transitwaren, insbesondere für solche, die im Rahmen eines internationalen Anweisungsverfahrens befördert werden, wenn möglich, eine vereinfachte und zügige Behandlung vor, indem sie ihre Kontrolle auf die Fälle beschränken, in denen diese auf Grund der gegebenen Umstände oder Gefahren gerechtfertigt ist. Außerdem berücksichtigen sie die Situation von Binnenstaaten. Sie bemühen sich um eine Verlängerung der Öffnungszeiten und eine Erweiterung der Zuständigkeit der bestehenden Zollstellen, die für die Zollabfertigung von in einem internationalen Anweisungsverfahren beförderten Waren zur Verfügung stehen.
 
@@ -177,7 +197,9 @@ Die Vertragsparteien übermitteln sich gegenseitig auf Ersuchen die für die Dur
 
 ### Artikel 11
 
-#### Öffentliche Ordnung
+**Öffentliche Ordnung**
+
+#### Art. 11
 
 1\. Die Bestimmungen dieses Übereinkommens stehen der Anwendung der Verbote und Beschränkungen bei der Ein-, Aus- oder Durchfuhr nicht entgegen, die aus Gründen der öffentlichen Ordnung und insbesondere der öffentlichen Sicherheit, Moral und Gesundheit oder zum Schutz der Umwelt, des kulturellen Erbes oder gewerblichen, kommerziellen und geistigen Eigentums erlassen worden sind.
 
@@ -185,7 +207,9 @@ Die Vertragsparteien übermitteln sich gegenseitig auf Ersuchen die für die Dur
 
 ## Artikel 12
 
-#### Notmaßnahmen
+**Notmaßnahmen**
+
+#### Art. 12
 
 1\. Die Notmaßnahmen, zu denen sich die Vertragsparteien auf Grund besonderer Umstände veranlaßt sehen können, müssen im angemessenen Verhältnis zu den Gründen stehen, die zu ihrer Einleitung führen. Sie sind auszusetzen oder aufzuheben, wenn diese Gründe nicht mehr gegeben sind.
 
@@ -193,7 +217,9 @@ Die Vertragsparteien übermitteln sich gegenseitig auf Ersuchen die für die Dur
 
 ## Artikel 13
 
-#### Anlagen
+**Anlagen**
+
+#### Art. 13
 
 1\. Die Anlagen dieses Übereinkommens sind Bestandteil des Übereinkommens.
 
@@ -201,7 +227,9 @@ Die Vertragsparteien übermitteln sich gegenseitig auf Ersuchen die für die Dur
 
 ## Artikel 14
 
-#### Verhältnis zu anderen Verträgen
+**Verhältnis zu anderen Verträgen**
+
+#### Art. 14
 
 Unbeschadet des Artikels 6 werden die Rechte und Pflichten aus Verträgen, die die Vertragsparteien des Übereinkommens geschlossen haben, bevor sie Vertragsparteien dieses Übereinkommens wurden, durch das Übereinkommen nicht berührt.
 
@@ -211,7 +239,9 @@ Dieses Übereinkommen steht weder der Anwendung weitergehender Erleichterungen e
 
 ## Artikel 16
 
-#### Unterzeichnung, Ratifikation, Annahme, Genehmigung und Beitritt
+**Unterzeichnung, Ratifikation, Annahme, Genehmigung und Beitritt**
+
+#### Art. 16
 
 1\. Dieses Übereinkommen, das beim Generalsekretär der Vereinten Nationen hinterlegt wird, steht allen Staaten und den aus souveränen Staaten zusammengesetzten regionalen Organisationen zur wirtschaftlichen Integration, die befugt sind, internationale Übereinkünfte in den durch das Übereinkommen erfaßten Bereichen auszuhandeln, abzuschließen und anzuwenden, zur Teilnahme offen.
 
@@ -231,7 +261,9 @@ b) indem sie eine Beitrittsurkunde hinterlegen.
 
 ## Artikel 17
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 17
 
 1\. Dieses Übereinkommen tritt drei Monate nach dem Tag in Kraft, an dem fünf Staaten ihre Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde hinterlegt haben.
 
@@ -243,7 +275,9 @@ b) indem sie eine Beitrittsurkunde hinterlegen.
 
 ## Artikel 18
 
-#### Kündigung
+**Kündigung**
+
+#### Art. 18
 
 1\. Jede Vertragspartei kann dieses Übereinkommen durch Notifikation an den Generalsekretär der Vereinten Nationen kündigen.
 
@@ -251,13 +285,17 @@ b) indem sie eine Beitrittsurkunde hinterlegen.
 
 ## Artikel 19
 
-#### Außerkrafttreten
+**Außerkrafttreten**
+
+#### Art. 19
 
 Beträgt die Zahl der Staaten, die Vertragsparteien sind, nach Inkrafttreten dieses Übereinkommes während zwölf aufeinanderfolgender Monate weniger als fünf, so tritt dieses Übereinkommen am Ende dieses Zeitraumes von zwölf Monaten außer Kraft.
 
 ## Artikel 20
 
-#### Beilegung von Streitigkeiten
+**Beilegung von Streitigkeiten**
+
+#### Art. 20
 
 1\. Streitigkeiten zwischen zwei oder mehr Vertragsparteien über die Auslegung oder Anwendung dieses Übereinkommens werden möglichst durch Verhandlungen zwischen ihnen oder auf andere Weise beigelegt.
 
@@ -275,7 +313,9 @@ Beträgt die Zahl der Staaten, die Vertragsparteien sind, nach Inkrafttreten die
 
 ## Artikel 21
 
-#### Vorbehalte
+**Vorbehalte**
+
+#### Art. 21
 
 1\. Jede Vertragspartei kann bei der Unterzeichnung, Ratifikation, Annahme oder Genehmigung dieses Übereinkommens oder bei ihrem Beitritt erklären, daß sie sich durch Artikel 20 Absätze 2 bis 7 nicht gebunden fühlt. Die anderen Vertragsparteien sind gegenüber einer Vertragspartei, die einen solchen Vorbehalt macht, durch diese Absätze nicht gebunden.
 
@@ -285,7 +325,9 @@ Beträgt die Zahl der Staaten, die Vertragsparteien sind, nach Inkrafttreten die
 
 ## Artikel 22
 
-#### Verfahren zur Änderung dieses Übereinkommens
+**Verfahren zur Änderung dieses Übereinkommens**
+
+#### Art. 22
 
 1\. Dieses Übereinkommen kann mit seinen Anlagen auf Vorschlag einer Vertragspartei nach dem in diesem Artikel vorgesehenen Verfahren geändert werden.
 
@@ -297,13 +339,17 @@ Beträgt die Zahl der Staaten, die Vertragsparteien sind, nach Inkrafttreten die
 
 ## Artikel 23
 
-#### Ersuchen, Mitteilungen und Einwände
+**Ersuchen, Mitteilungen und Einwände**
+
+#### Art. 23
 
 Der Generalsekretär der Vereinten Nationen unterrichtet alle Vertragsparteien und alle Staaten über alle Ersuchen, Mitteilungen und Einwände nach Artikel 22 und das Datum des Inkrafttretens einer Änderung.
 
 ## Artikel 24
 
-#### Revisionskonferenz
+**Revisionskonferenz**
+
+#### Art. 24
 
 Nachdem dieses Übereinkommen fünf Jahre in Kraft ist, kann jede Vertragspartei durch Notifikation an den Generalsekretär der Vereinten Nationen die Einberufung einer Konferenz zur Revision dieses Übereinkommens verlangen; hierbei sind die Vorschläge anzugeben, die von der Konferenz behandelt werden sollten. In diesem Fall wird wie folgt verfahren:
 
@@ -315,7 +361,9 @@ iii) Der Generalsekretär der Vereinten Nationen kann jedoch, wenn er der Auffas
 
 ## Artikel 25
 
-#### Notifikationen
+**Notifikationen**
+
+#### Art. 25
 
 Außer den Notifikationen und Mitteilungen nach den Artikeln 23 und 24 notifiziert der Generalsekretär der Vereinten Nationen allen Staaten:
 
@@ -331,7 +379,9 @@ e) die Vorbehalte nach Artikel 21.
 
 ## Artikel 26
 
-#### Beglaubigte Texte
+**Beglaubigte Texte**
+
+#### Art. 26
 
 Nach dem 31. März 1984 übersendet der Generalsekretär der Vereinten Nationen allen Vertragsparteien und allen Staaten, die keine Vertragsparteien sind, zwei beglaubigte Abschriften der Urschrift dieses Übereinkommens.
 

@@ -1,0 +1,202 @@
+---
+title: "Personen- und Güterbeförderung auf der Straße (Marokko)"
+identifier: "20001994"
+type: treaty
+ris_type: "Vertrag – Marokko"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 98/2002"
+last_amended: 2002-05-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2002/98/P0/NOR30002170"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001994"
+retrieved: 2026-10-11
+documents: 22
+---
+
+# Personen- und Güterbeförderung auf der Straße (Marokko)
+
+ABKOMMEN ZWISCHEN DER REPUBLIK ÖSTERREICH UND DEM KÖNIGREICH MAROKKO ÜBER DIE GRENZÜBERSCHREITENDE BEFÖRDERUNG VON PERSONEN UND GÜTERN AUF DER STRASSE
+
+StF: BGBl. III Nr. 98/2002 (NR: GP XVIII RV 106 VV S. 30. BR: AB 4070 S. 542.)
+
+**Unterzeichnungsdatum:** 16.11.1990
+
+**Sprachen:** Arabisch, Deutsch, Französisch
+
+## Präambel/Promulgationsklausel
+
+Die REPUBLlK ÖSTERREICH und das KÖNIGREICH MAROKKO,
+
+vom Wunsche geleitet, die grenzüberschreitende Beförderung von Personen und Gütern auf der Straße zwischen ihren beiden Ländern sowie im Transit über ihre Gebiete zu erleichtern, sind wie folgt übereingekommen:
+
+## KAPITEL I
+
+### BEGRIFFSBESTIMMUNGEN
+
+#### Art. 1 – Artikel 1
+
+Im Sinne dieses Abkommens bedeutet:
+
+1\. „Unternehmer“ jede physische oder juristische Person sowie jede Gesellschaft, die entweder in der Republik Österreich oder im Königreich Marokko zur gewerbsmäßigen Beförderung von Gütern oder Personen oder zum Werkverkehr auf der Straße befugt ist;
+
+2\. „Fahrzeug“ jedes Kraftfahrzeug, das
+
+a) zur Beforderung von Gütern oder von mehr als acht Personen (Fahrer nicht eingeschlossen) gebaut und auf der Straße dafür verwendet wird;
+
+b) in einer der beiden Vertragsparteien zugelassen ist.
+
+#### Art. 2 – Artikel 2
+
+Zuständige Behörden im Sinne dieses Abkommens sind im Falle der Republik Österreich der Bundesminister für öffentliche Wirtschaft und Verkehr und im Falle des Königreiches Marokko der Minister für Transport (le Ministre des Transports).
+
+#### Art. 3 – Artikel 3
+
+Die Unternehmer einer der beiden Vertragsparteien sind berechtigt, nach Maßgabe dieses Abkommens mit Fahrzeugen im Sinne des Artikel 1 Personen und Güter zwischen den Hoheitsgebieten der beiden Vertragsparteien oder im Transit durch das Hoheitsgebiet der jeweils anderen Vertragspartei zu befördern.
+
+## KAPITEL II
+
+### BEFÖRDERUNG VON PERSONEN
+
+#### Art. 4 – Artikel 4
+
+Personenbeförderungen im Linienverkehr zwischen den Hoheitsgebieten der Vertragsparteien, das heißt die Verkehrsdienste, die nach einem bestimmten Fahrplan auf einer bestimmten Fahrstrecke durchgeführt werden, wobei die Fahrgäste während der Beförderung an vorher bestimmten Punkten aufgenommen oder abgesetzt werden können, unterliegen der Genehmigung durch die beiden Vertragsparteien.
+
+#### Art. 5 – Artikel 5
+
+1\. Der Unternehmer einer der Vertragsparteien ist berechtigt, ein Fahrzeug, das für die Beförderung von Personen bestimmt ist, im Hoheitsgebiet der anderen Vertragspartei ohne das Erfordernis einer Genehmigung hiefür in Ubereinstimmung mit den Gesetzen der anderen Vertragspartei für folgende internationale Gelegenheitsverkehrsdienste zu benützen:
+
+a) „Rundfahrten mit geschlossenen Türen“, das sind Fahrten, die mit demselben Fahrzeug ausgeführt werden, das auf der gesamten Fahrstrecke dieselbe Reisegruppe befördert und sie an den Ausgangsort zurückbringt;
+
+b) Verkehrsdienste, bei denen zur Hinfahrt Fahrgäste aufgenommen werden und bei denen die Rückfahrt eine Leerfahrt ist.
+
+2\. Ein Unternehmer, der Gelegenheitsverkehrsdienste im Sinne dieses Abkommens durchgeführt hat dafür Sorge zu tragen, daß sein hiefür eingesetztes Fahrzeug ein von der zuständigen Behörde der Vertragspartei, in der das Fahrzeug zugelassen ist, ausgestelltes Kontrolldokument oder Statistikblatt mit sich führt.
+
+#### Art. 6 – Artikel 6
+
+1\. Die von einem Unternehmer der anderen Vertragspartei durchgeführten Beförderungen von Personen, die den in den Artikeln 4 und 5 genannten Bedingungen nicht entsprechen, bedürfen der Genehmigung durch die zuständige Behörde der anderen Vertragspartei.
+
+2\. Die Beförderungen von Gepäck auf Anhängern, die mit für die Personenbeförderungen bestimmten Fahrzeugen verbunden sind, unterliegen keiner Genehmigung, sofern die hiefür in jeder der Vertragsparteien geltenden technischen Normen eingehalten werden.
+
+## KAPITEL III
+
+### BEFÖRDERUNG VON GÜTERN
+
+#### Art. 7 – Artikel 7
+
+1\. Gütertransporte von oder nach dem Hoheitsgebiet einer der Vertragsparteien oder Transittransporte durch das Hoheitsgebiet einer der Vertragsparteien mit Fahrzeugen im Sinne des Artikels 1 dieses Abkommens bedürfen einer vorher ausgestellten Genehmigung.
+
+2\. Die Genehmigung nach Absatz 1 ist für eine Fahrt (Hin- und Rückfahrt) gültig und für einen bestimmten Zeitraum auszustellen.
+
+3\. Die zuständigen Behörden der Vertragsparteien werden unter Berücksichtigung des Verkehrsaufkommens und der Interessen der beiden Vertragsparteien die erforderliche Anzahl von Genehmigungen erteilen. Diese Genehmigungen werden dem Unternehmer im Wege der zuständigen Behörde seines Landes ausgefolgt.
+
+4\. Die Genehmigungen werden in den Sprachen der beiden Vertragsparteien und in französischer Sprache nach den von den zuständigen Behörden beider Vertragsparteien im gegenseitigen Einvernehmen festgelegten Mustern gedruckt.
+
+5\. Die Genehmigung darf nur von dem Unternehmer benützt werden, auf dessen Namen sie ausgestellt ist, und ist nicht übertragbar. Das Fahrzeug muß vom Unternehmer durch Angabe seines Kennzeichens in der Genehmigung bestimmt werden.
+
+#### Art. 8 – Artikel 8
+
+1\. Die zuständigen Bebörden *(Anm.: richtig: Behörden)* erteilen Genehmigungen ohne Anrechnung
+
+auf das Kontingent für
+
+a) die Beförderungen von beschädigten oder abzuschleppenden Fahrzeugen;
+
+b) die Beförderungen von Leichen;
+
+c) die Beförderungen von Kunstgegenständen und Kunstwerken für Ausstellungen, Messen oder für jede andere kulturelle Veranstaltung;
+
+d) die Beförderungen von Umzugsgut durch Unternehmungen, die über entsprechende Fachkräfte und Ausrüstungen verfügen;
+
+e) die Beförderungen von Geräten, Zubehör und Tieren zu oder von \`Theater-, Musik-, Film-, Sport- und Zirkusveranstaltungen, Messen sowie zu oder von Rundfunk-, Film- oderdie Fernsehaufnahmen;
+
+f) die Beförderungen von Postsendungen;
+
+g) die Beförderungen von Gegenständer, Material und Ausrüstung die ausschließlich zur Werbung und Information bestimmt sind;
+
+h) die Beförderungen von Bienen und Fischbrut;
+
+i) die Beförderungen von wertvollen Gütern (zB Edelmetalle, Wertpapiere, durchgeführt mittels Spezialfahrzeugen die von Polizei oder anderen Sicherheitskräften begleitet werden.
+
+2\. Die Beförderungen der für die ärztliche Behandlung im Notfall erforderlichen Güter, insbesondere bei Naturkatastrophen bedürfen keiner Genehmigung.
+
+## KAPITEL IV
+
+### GEMEINSAMEN BESTIMMUNGEN
+
+#### Art. 9 – Artikel 9
+
+Keine Bestimmung dieses Abkommens gibt dem Unternehmer einer Vertragspartei das Recht, innerhalb des Hoheitsgebietes der anderen Vertragspartei Personen oder Güter zur Beförderung innerhalb dieses Hoheitsgebietes aufzunehmen.
+
+#### Art. 10 – Artikel 10
+
+Überschreiten das Gewicht oder die Abmessungen des Fahrzeuges oder der Ladung die im Hoheitsgebiet der anderen Vertragspartei zugelassenen Werte, so müssen diese Fahrzeuge mit einer von der zuständigen Behörde dieser Vertragspartei ausgestellten Sondergenehmigung versehen sein. In dieser Genehmigung können die Bedingungen für die Durchführung der Beförderung mit dem betreffenden Fahrzeug präzisiert werden.
+
+#### Art. 11 – Artikel 11
+
+Der im Hoheitsgebiet einer Vertragspartei ansässige Unternehmer darf eine Beförderung zwischen dem Hoheitsgebiet der anderen Vertragspartei und einem Drittstaat nur mit Zustimmung der zuständigen Stellen der letzteren durchführen.
+
+#### Art. 12 – Artikel 12
+
+Die Überweisung des Saldos in konvertibler Währung, der sich aus den Einnahmen und Ausgaben aus den im Rahmen dieses Abkommens stattgefundenen Geschäften ergibt, erfolgt gemäß den in jeder Vertragspartei geltenden einschlägigen Vorschriften.
+
+#### Art. 13 – Artikel 13
+
+Die zuständigen Behörden der Vertragsparteien können den Verkehrsunternehmern die sowohl ihrer Zuständigkeit als auch der Zuständigkeit der anderen Vertragspartei unterliegen, vorschreiben, bei jeder von ihnen durchgeführten Fahrt ein Statistikblatt oder einen Fahrtenbericht zu erstellen.
+
+Die in diesem Abkommen vorgesehenen Genehmigungen, Kontrolldokumente und Statistikblätter müssen in den Fahrzeugen mitgeführt und den Kontrollbeamten auf Verlangen vorgezeigt werden. Die Genehmigungen, die Kontrolldokumente und Statistikblätter müssen bei der Einreise in das und der Ausreise aus dem Hoheitsgebiet der Vertragspartei, in dem sie gelten, mit dem Zollstempel versehen werden.
+
+#### Art. 14 – Artikel 14
+
+Der Unternehmer einer der Vertragsparteien entrichtet für die im Hoheitsgebiet der anderen Vertragspartei durchgeführten Beförderungen die in diesem Hoheitsgebiet erhobenen Steuern und Abgaben.
+
+#### Art. 15 – Artikel 15
+
+Die Mitglieder der Besatzung eines Fahrzeuges, das in einem der Vertragsparteien zugelassen ist, können für die Dauer ihres Aufenthaltes im Hoheitsgebiet der anderen Vertragspartei gemäß den im Hoheitsgebiet der letzteren Vertragspartei geltenden zollrechtlichen Vorschriften Gegenstände für ihren persönlichen Bedarf und die für ihr Fahrzeug erforderlichen Werkzeuge zollfrei und ohne Einfuhrgenehmigung vorübergehend einführen.
+
+#### Art. 16 – Artikel 16
+
+Ersatzteile, die für die Instandsetzung eines Fahrzeuges bestimmt sind, mit dem eine in diesem Abkommen genannte Beförderung durchgeführt wird, werden entsprechend den Vorschriften über die vorübergehende Einfuhr abgefertigt und sind von Einfuhrabgaben und – beschränkungen befreit. Die nicht verwendeten oder die ersetzten Teile sind entweder wieder auszuführen oder unter Aufsicht der Zollbehörde zu vernichten.
+
+#### Art. 17 – Artikel 17
+
+Die Unternehmer und die Fahrer von Fahrzeugen einer Vertragspartei sind verpflichtet, auf dem Gebiet der anderen Vertragspartei die dort geltenden Vorschriften, insbesondere hinsichtlich des Verkehrs und der Beförderung auf der Straße sowie der Arbeitszeit und der maximalen Einsatzdauer eines Lenkers, einzuhalten.
+
+#### Art. 18 – Artikel 18
+
+Das innerstaatliche Recht jeder Vertragspartei findet auf alle Fragen Anwendung, die durch dieses Abkommen nicht geregelt sind.
+
+#### Art. 19 – Artikel 19
+
+1\. Bei Zuwiderhandlungen eines Unternehmers oder des Fahrpersonals gegen die im Hoheitsgebiet der anderen Vertragspartei geltenden Gesetze und Vorschriften oder gegen die Bestimmungen dieses Abkommens kann die zuständige Behörde der Vertragspartei, in deren Hoheitsgebiet das Fahrzeug zugelassen ist, auf Ersuchen der zuständigen Behörde der Vertragspartei, in deren Hoheitsgebiet die Zuwiderhandlung begangen wurde, eine der nachfolgenden Maßnahmen treffen:
+
+a) Verwarnung des betreffenden Unternehmers, die geltenden Vorschriften einzuhalten;
+
+b) Einstellung der Ausgabe von Genehmigungen an den betreffenden Unternehmer oder Widerruf einer bereits erteilten Genehmigung für den Zeitraum, für den die zuständige Behörde der anderen Vertragspartei ihn vom Verkehr ausgeschlossen hat.
+
+2\. Die zuständigen Behörden unterrichten einander über die getroffenen Maßnahmen.
+
+3\. Dieser Artikel gilt unbeschadet der gesetzmäßigen Maßnahmen, die von den Gerichten oder Verwaltungsbehörden der Vertragspartei getroffen werden, in deren Hoheitsgebiet die Zuwiderhandlung begangen wurde.
+
+#### Art. 20 – Artikel 20
+
+Die zuständigen Behörden der Vertragsparteien ergreifen die für die Durchführung dieses Abkommens notwendigen Maßnahmen, einschließlich des Austausches aller erforderlichen statistischen oder anderer Angaben, und treten im Rahmen einer Gemischten Kommission auf Ersuchen einer der Vertragsparteien abwechselnd im Hoheitsgebiet jeder der Vertragsparteien zusammen.
+
+#### Art. 21 – Artikel 21
+
+1\. Das Abkommen tritt am ersten Tag des dritten Monats nach dem Monat in Kraft, in dem die Vertragsparteien einander auf diplomatischem Weg schriftlich mitgeteilt haben, daß die für das Inkrafttreten des Abkommens erforderlichen innerstaatlichen Voraussetzungen erfüllt sind.
+
+2\. Dieses Abkommen gilt für die Dauer- eines Jahres ab seinem Inkrafttreten. Seine Gültigkeit verlängert sich jeweils um ein Jahr, wenn es nicht von einer der Vertragsparteien sechs Monate vor Ablauf der Gültigkeitsdauer mittels Notifikation auf diplomatischem Weg schriftlich gekündigt wird.
+
+GESCHEHEN zu Rabat am 16. November 1990 in drei Urschriften in deutscher, arabischer und französischer Sprache, wobei jeder dieser Texte in gleicher Weise authentisch ist. Bei unterschiedlicher Auslegung des deutschen und des arabischen Wortlauts ist der französische Text maßgeben *(Anm.: richtig: maßgebend)*.
+
+## Ratifikationstext
+
+Die Mitteilungen gemäß Art. 21 Abs. 1 des Abkommens wurden am 13. August 1991 bzw. 14. Februar 2002 abgegeben; das Abkommen tritt gemäß seinem Art. 21 Abs. 1 mit 1. Mai 2002 in Kraft.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluss des nachstehenden Staatsvertrages wird verfassungsmäßig genehmigt.

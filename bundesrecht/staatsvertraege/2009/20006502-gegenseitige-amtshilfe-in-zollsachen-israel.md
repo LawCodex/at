@@ -39,7 +39,9 @@ wie folgt übereingekommen:
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens bedeutet:
 
@@ -77,7 +79,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 2
 
-### Anwendungsbereich des Abkommens
+**Anwendungsbereich des Abkommens**
+
+### Art. 2
 
 1\. Die Vertragsparteien vereinbaren einander im Einklang mit den Bestimmungen dieses Abkommens Amtshilfe im Wege ihrer Zollbehörden zu leisten, um die ordnungsgemäße Befolgung der Zollvorschriften zu sichern, insbesondere durch die Verhinderung, Ermittlung, Bekämpfung und Ahndung von Zollzuwiderhandlungen.
 
@@ -89,7 +93,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 3
 
-### Amtshilfe auf Ersuchen
+**Amtshilfe auf Ersuchen**
+
+### Art. 3
 
 1\. Die Zollverwaltungen teilen einander über Ersuchen mit, ob in das Zollgebiet der ersuchenden Vertragspartei eingeführte Waren rechtmäßig aus dem Zollgebiet der ersuchten Vertragspartei ausgeführt wurden, oder ob aus dem Zollgebiet der ersuchenden Vertragspartei ausgeführte Waren rechtmäßig in das Zollgebiet der ersuchten Vertragspartei eingeführt wurden. Die Auskunft beinhaltet auch das bei Abfertigung der Waren angewandte Zollverfahren.
 
@@ -105,7 +111,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 4
 
-### Spontane Unterstützung und Zusammenarbeit
+**Spontane Unterstützung und Zusammenarbeit**
+
+### Art. 4
 
 1\. Die Zollverwaltungen der Vertragsparteien erteilen einander die erforderlichen Auskünfte, um die ordnungsgemäße Anwendung der Zollbestimmungen und die genaue Bemessung der Einfuhrzölle und anderen Einfuhrabgaben durch die Zollverwaltungen sicher zu stellen, und Auskünfte über Handlungen, die zu Zollzuwiderhandlungen im Gebiet der anderen Vertragspartei führen könnten. In den Fällen, die eine wesentliche Beeinträchtigung der Wirtschaft, der öffentlichen Gesundheit, der öffentlichen Sicherheit und anderer lebenswichtiger Interessen der anderen Vertragspartei bewirken könnten, wird weitestmöglich Auskunft erteilt, ohne darum ersucht zu werden.
 
@@ -139,7 +147,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 5
 
-### Übermittlung von Ersuchen
+**Übermittlung von Ersuchen**
+
+### Art. 5
 
 1\. Amtshilfeersuchen nach diesem Abkommen sind schriftlich zu stellen. Alle notwendigen Unterlagen für die Erledigung des Ersuchens sind beizufügen. Im Fall besonderer Dringlichkeit können Ersuchen mündlich gestellt werden, bedürfen jedoch einer unverzüglichen schriftlichen Bestätigung.
 
@@ -163,7 +173,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 6
 
-### Erledigung von Ersuchen
+**Erledigung von Ersuchen**
+
+### Art. 6
 
 1\. Die ersuchte Behörde ergreift alle angemessenen Maßnahmen, um das Ersuchen zu erledigen und leitet dazu erforderlichenfalls verwaltungsbehördliche und gerichtliche Schritte ein. Die ersuchte Behörde verfährt im Rahmen ihrer Zuständigkeiten und Mittel so, als ob sie in Erfüllung eigener Aufgaben handeln würde.
 
@@ -179,7 +191,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 7
 
-### Ausnahme von der Verpflichtung zur Amtshilfe
+**Ausnahme von der Verpflichtung zur Amtshilfe**
+
+### Art. 7
 
 1\. Wenn die ersuchte Vertragspartei der Ansicht ist, dass die Erledigung eines Ersuchens ihre Souveränität, die öffentliche Sicherheit, die Rechtsordnung oder andere wesentliche öffentliche Interessen beeinträchtigen könnte oder zur Verletzung von Betriebs-, Geschäfts- oder Berufsgeheimnissen führen könnte, so kann sie die Amtshilfe verweigern oder von der Einhaltung bestimmter Bedingungen und Erfordernisse abhängig machen.
 
@@ -191,7 +205,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 8
 
-### Akte, Dokumente und Zeugen
+**Akte, Dokumente und Zeugen**
+
+### Art. 8
 
 1\. Die Zollbehörden der Vertragsparteien stellen einander auf Ersuchen Unterlagen über die Beförderung und den Versand der Waren zur Verfügung, die deren Ursprung, den Wert, den Transportweg und den Bestimmungsort, sowie andere zollrelevante Umstände belegen.
 
@@ -205,7 +221,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 9
 
-### Zustellung von Schriftstücken
+**Zustellung von Schriftstücken**
+
+### Art. 9
 
 1\. Die Zollbehörde der einen Vertragspartei stellt über Ersuchen der Zollbehörde der anderen Vertragspartei entsprechend der geltenden Gesetzeslage Schriftstücke der ersuchenden Behörde, die Angelegenheiten dieses Abkommens betreffen, an einen im Staatsgebiet der ersuchten Vertragspartei wohnhaften oder aufhältigen Empfänger zu. Zusätzlich wird der Inhalt des zuzustellenden Schriftstückes mit einer amtsbeglaubigten Übersetzung in eine Amtssprache der Vertragspartei versehen, in der die ersuchte Behörde ihren Sitz hat.
 
@@ -213,7 +231,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 10
 
-### Kosten
+**Kosten**
+
+### Art. 10
 
 1\. Die Zollverwaltungen der Vertragsparteien verzichten auf alle Ansprüche auf Erstattung der sich aus der Durchführung dieses Abkommens ergebenden Kosten; davon ausgenommen sind Kosten und Gebühren für Zeugen, Sachverständige und Übersetzer, die nicht der staatlichen Verwaltung angehören.
 
@@ -221,7 +241,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 11
 
-### Vertraulichkeit von Auskünften und Schriftstücken
+**Vertraulichkeit von Auskünften und Schriftstücken**
+
+### Art. 11
 
 1\. Jede unter diesem Abkommen erteilte Auskunft ist vertraulich. Sie unterliegt dem Amtsgeheimnis und genießt sowohl den für eine derartige Auskunft geltenden Schutz nach den Rechtsvorschriften der Vertragspartei, die sie erhalten hat, als auch den entsprechenden Schutz nach den für die Behörden der anderen Vertragspartei geltenden Vorschriften, soweit diese übermittelt wurden.
 
@@ -243,7 +265,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 12
 
-### Kontrollierte Lieferung
+**Kontrollierte Lieferung**
+
+### Art. 12
 
 1\. Die Vertragsparteien ergreifen im Rahmen ihrer Zuständigkeiten die erforderlichen Maßnahmen für den angemessenen Einsatz von kontrollierten Lieferungen für Zwecke strafrechtlicher Ermittlungen bei auslieferungsfähigen Straftaten mit dem Ziel der Feststellung und Ausforschung jener Personen, die am unerlaubten Handel mit Suchtmitteln und psychotropen Substanzen oder anderen zwischen den Zollbehörden vereinbarten Waren beteiligt sind.
 
@@ -253,7 +277,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 13
 
-### Durchführung des Abkommens
+**Durchführung des Abkommens**
+
+### Art. 13
 
 Die Vertragsparteien vereinbaren, dass das Bundesministerium für Finanzen der Republik Österreich und die Generalzolldirektion der Israelischen Steuerbehörde des Ministeriums für Finanzen des Staates Israel
 
@@ -265,7 +291,9 @@ Die Vertragsparteien vereinbaren, dass das Bundesministerium für Finanzen der R
 
 ## Artikel 14
 
-### Inkrafttreten und Kündigung
+**Inkrafttreten und Kündigung**
+
+### Art. 14
 
 1\. Jede Vertragspartei teilt der anderen Vertragspartei schriftlich auf diplomatischem Weg mit, wenn die notwendigen innerstaatlichen rechtlichen Voraussetzungen für das Inkrafttreten des Abkommens gegeben sind. Dieses Abkommen tritt am ersten Tag des dritten Monats in Kraft, der auf den Zeitpunkt der letzten Mitteilung folgt.
 

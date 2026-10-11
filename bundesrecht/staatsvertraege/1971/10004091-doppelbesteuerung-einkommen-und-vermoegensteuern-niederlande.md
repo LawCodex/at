@@ -69,13 +69,17 @@ die, nachdem sie ihre Vollmachten ausgetauscht und diese in guter und gehöriger
 
 ### GELTUNGSBEREICH DES ABKOMMENS — Artikel 1
 
-#### Persönlicher Geltungsbereich
+**Persönlicher Geltungsbereich**
+
+#### Art. 1
 
 Dieses Abkommen gilt für Personen, die in einem der beiden Staaten oder in beiden Staaten ansässig sind.
 
 ## Artikel 2
 
-#### Unter das Abkommen fallende Steuern
+**Unter das Abkommen fallende Steuern**
+
+#### Art. 2
 
 (1) Dieses Abkommen gilt, ohne Rücksicht auf die Art der Erhebung, für Steuern vom Einkommen und vom Vermögen, die für Rechnung eines der beiden Staaten oder seiner Gebietskörperschaften erhoben werden.
 
@@ -145,7 +149,9 @@ xv) die Beiträge von land- und forstwirtschaftlichen Betrieben zum Ausgleichsfo
 
 ### DEFINITIONEN — Artikel 3
 
-#### Allgemeine Definitionen
+**Allgemeine Definitionen**
+
+#### Art. 3
 
 (1) Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert:
 
@@ -171,7 +177,9 @@ g) bedeutet der Ausdruck „zuständige Behörde“:
 
 ## Artikel 4
 
-#### Steuerlicher Wohnsitz
+**Steuerlicher Wohnsitz**
+
+#### Art. 4
 
 (1) Im Sinne dieses Abkommens bedeutet der Ausdruck „eine in einem der beiden Staaten ansässige Person“ eine Person, die nach dem Recht dieses Staates dort auf Grund ihres Wohnsitzes, ihres ständigen Aufenthaltes, des Ortes ihrer Geschäftsleitung oder eines anderen ähnlichen Merkmals steuerpflichtig ist.
 
@@ -189,7 +197,9 @@ c) Hat die Person ihren gewöhnlichen Aufenthalt in beiden Staaten oder in keine
 
 ## Artikel 5
 
-#### Betriebstätte
+**Betriebstätte**
+
+#### Art. 5
 
 (1) Im Sinne dieses Abkommens bedeutet der Ausdruck „Betriebstätte“ eine feste Geschäftseinrichtung, in der die Tätigkeit des Unternehmens ganz oder teilweise ausgeübt wird.
 
@@ -245,7 +255,9 @@ e) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 ## Artikel 7
 
-#### Unternehmensgewinne
+**Unternehmensgewinne**
+
+#### Art. 7
 
 (1) Gewinne eines Unternehmens eines der beiden Staaten dürfen nur in diesem Staat besteuert werden, es sei denn, daß das Unternehmen seine Tätigkeit in dem anderen Staat durch eine dort gelegene Betriebstätte ausübt. Übt das Unternehmen seine Tätigkeit in dieser Weise aus, so dürfen die Gewinne des Unternehmens in dem anderen Staat besteuert werden, jedoch nur insoweit, als sie dieser Betriebstätte zugerechnet werden können.
 
@@ -263,7 +275,9 @@ e) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 ## Artikel 8
 
-#### Seeschiffahrt, Binnenschiffahrt und Luftfahrt
+**Seeschiffahrt, Binnenschiffahrt und Luftfahrt**
+
+#### Art. 8
 
 (1) Gewinne aus dem Betrieb von Seeschiffen oder Luftfahrzeugen im internationalen Verkehr dürfen nur in dem Staat besteuert werden, in dem sich der Ort der tatsächlichen Geschäftsleitung des Unternehmens befindet.
 
@@ -273,7 +287,9 @@ e) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 ## Artikel 9
 
-#### Verbundene Unternehmen
+**Verbundene Unternehmen**
+
+#### Art. 9
 
 Wenn
 
@@ -315,7 +331,9 @@ und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmä
 
 ## Artikel 12
 
-#### Stille Gesellschaften
+**Stille Gesellschaften**
+
+#### Art. 12
 
 (1) Bezieht eine in einem der beiden Staaten ansässige Person Gewinnanteile aus der Beteiligung als stiller Gesellschafter an einem Unternehmen, dessen Geschäftsleitung sich in dem anderen Staat befindet, so dürfen diese Gewinnanteile in diesem anderen Staat besteuert werden, wenn mit der Beteiligung keine Beteiligung am Vermögen des Unternehmens verbunden ist.
 
@@ -323,7 +341,9 @@ und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmä
 
 ## Artikel 13
 
-#### Lizenzgebühren
+**Lizenzgebühren**
+
+#### Art. 13
 
 (1) Lizenzgebühren, die aus einem der beiden Staaten stammen und an eine in dem anderen Staat ansässige Person gezahlt werden, dürfen, vorbehaltlich des Absatzes 2, nur in dem anderen Staat besteuert werden.
 
@@ -337,7 +357,9 @@ und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmä
 
 ## Artikel 14
 
-#### Gewinne aus der Veräußerung von Vermögen
+**Gewinne aus der Veräußerung von Vermögen**
+
+#### Art. 14
 
 (1) Gewinne aus der Veräußerung unbeweglichen Vermögens im Sinne des Artikels 6 Absatz 2 dürfen in dem Staat besteuert werden, in dem dieses Vermögen liegt.
 
@@ -351,7 +373,9 @@ und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmä
 
 ## Artikel 15
 
-#### Selbständige Arbeit
+**Selbständige Arbeit**
+
+#### Art. 15
 
 (1) Einkünfte, die eine in einem der beiden Staaten ansässige Person aus einem freien Beruf oder aus sonstiger selbständiger Tätigkeit ähnlicher Art bezieht, dürfen nur in diesem Staat besteuert werden, es sei denn, daß die Person für die Ausübung ihrer Tätigkeit in dem anderen Staat regelmäßig über eine feste Einrichtung verfügt. Verfügt sie über eine solche feste Einrichtung, so dürfen die Einkünfte in dem anderen Staat besteuert werden, jedoch nur insoweit, als sie dieser festen Einrichtung zugerechnet werden können.
 
@@ -359,7 +383,9 @@ und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmä
 
 ## Artikel 16
 
-#### Unselbständige Arbeit
+**Unselbständige Arbeit**
+
+#### Art. 16
 
 (1) Vorbehaltlich der Artikel 17, 19, 20 und 21, Absatz 2, dürfen Gehälter, Löhne und ähnliche Vergütungen, die eine in einem der beiden Staaten ansässige Person aus unselbständiger Arbeit bezieht, nur in diesem Staat besteuert werden, es sei denn, daß die Arbeit in dem anderen Staat ausgeübt wird. Wird die Arbeit dort ausgeübt, so dürfen die dafür bezogenen Vergütungen in dem anderen Staat besteuert werden.
 
@@ -375,7 +401,9 @@ c) die Vergütungen nicht von einer Betriebstätte oder einer festen Einrichtung
 
 ## Artikel 17
 
-#### Aufsichtsrats- und Verwaltungsratsvergütungen
+**Aufsichtsrats- und Verwaltungsratsvergütungen**
+
+#### Art. 17
 
 (1) Aufsichtsrats- oder Verwaltungsratsvergütungen und ähnliche Zahlungen, die eine in den Niederlanden ansässige Person in ihrer Eigenschaft als Mitglied des Aufsichts- oder Verwaltungsrates einer in Österreich ansässigen Gesellschaft bezieht, dürfen in Österreich besteuert werden.
 
@@ -383,7 +411,9 @@ c) die Vergütungen nicht von einer Betriebstätte oder einer festen Einrichtung
 
 ## Artikel 18
 
-#### Künstler und Sportler
+**Künstler und Sportler**
+
+#### Art. 18
 
 (1) Ungeachtet der Artikel 7, 15 und 16 dürfen Einkünfte, die eine in einem der beiden Staaten ansässige Person als Künstler, wie Bühnen-, Film-, Rundfunk- und Fernsehkünstler sowie Musiker, oder als Sportler aus ihrer im anderen Staat persönlich ausgeübten Tätigkeit bezieht, im anderen Staat besteuert werden.
 
@@ -393,13 +423,17 @@ c) die Vergütungen nicht von einer Betriebstätte oder einer festen Einrichtung
 
 ## Artikel 19
 
-#### Ruhegehälter
+**Ruhegehälter**
+
+#### Art. 19
 
 Vorbehaltlich des Artikels 20 Absatz 2, lit. a und Absatz 4 dürfen Ruhegehälter und ähnliche Vergütungen, die einer in einem der beiden Staaten ansässigen Person für frühere unselbständige Arbeit gezahlt werden, nur in diesem Staat besteuert werden.
 
 ## Artikel 20
 
-#### Öffentlicher Dienst und Sozialversicherung
+**Öffentlicher Dienst und Sozialversicherung**
+
+#### Art. 20
 
 (1) a) Gehälter, Löhne und ähnliche Vergütungen, ausgenommen Ruhegehälter, die von einem der beiden Staaten oder einer seiner Gebietskörperschaften an eine natürliche Person für die diesem Staat oder der Gebietskörperschaft geleisteten Dienste gezahlt werden, dürfen in diesem Staat besteuert werden.
 
@@ -419,7 +453,9 @@ b) Diese Ruhegehälter dürfen jedoch nur im anderen Staat besteuert werden, wen
 
 ## Artikel 21
 
-#### Studenten
+**Studenten**
+
+#### Art. 21
 
 (1) Zahlungen, die ein Student oder Lehrling, der in einem der beiden Staaten ansässig ist oder vorher dort ansässig war und sich in dem anderen Staat ausschließlich zum Studium oder zur Ausbildung aufhält, für seinen Unterhalt, sein Studium oder seine Ausbildung erhält, werden in dem anderen Staat nicht besteuert, sofern ihm diese Zahlungen aus Quellen außerhalb des anderen Staates zufließen.
 
@@ -427,7 +463,9 @@ b) Diese Ruhegehälter dürfen jedoch nur im anderen Staat besteuert werden, wen
 
 ## Artikel 22
 
-#### Nicht ausdrücklich erwähnte Einkünfte
+**Nicht ausdrücklich erwähnte Einkünfte**
+
+#### Art. 22
 
 Die in den vorstehenden Artikeln nicht ausdrücklich erwähnten Einkünfte einer in einem der beiden Staaten ansässigen Person dürfen nur in diesem Staat besteuert werden.
 
@@ -435,7 +473,9 @@ Die in den vorstehenden Artikeln nicht ausdrücklich erwähnten Einkünfte einer
 
 ### BESTEUERUNG **DES VERMÖGENS** — Artikel 23
 
-#### Vermögen
+**Vermögen**
+
+#### Art. 23
 
 (1) Unbewegliches Vermögen im Sinne des Artikels 6 Absatz 2 darf in dem Staat besteuert werden, in dem dieses Vermögen liegt.
 
@@ -469,7 +509,9 @@ b) der Betrag der niederländischen Steuer, der sich zu dem gemäß Absatz 1 die
 
 ### BESONDERE **BESTIMMUNGEN** — Artikel 25
 
-#### Gleichbehandlung
+**Gleichbehandlung**
+
+#### Art. 25
 
 (1) Die Staatsangehörigen eines der beiden Staaten dürfen ohne Rücksicht darauf, ob sie in diesem Staat ansässig sind oder nicht, in dem anderen Staat weder einer Besteuerung noch einer damit zusammenhängenden Verpflichtung unterworfen werden, die anders oder belastender sind als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen die Staatsangehörigen des anderen Staates unter gleichen Verhältnissen unterworfen sind oder unterworfen werden können.
 
@@ -489,7 +531,9 @@ Diese Bestimmung ist nicht so auszulegen, als verpflichte sie einen der beiden S
 
 ## Artikel 26
 
-#### Verständigungsverfahren
+**Verständigungsverfahren**
+
+#### Art. 26
 
 (1) Ist eine in einem der beiden Staaten ansässige Person der Auffassung, daß die Maßnahmen eines Staates oder beider Staaten für sie zu einer Besteuerung geführt haben oder führen werden, die diesem Abkommen nicht entspricht, so kann sie unbeschadet der nach innerstaatlichem Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde des Staates unterbreiten, in dem sie ansässig ist.
 
@@ -503,7 +547,9 @@ Diese Bestimmung ist nicht so auszulegen, als verpflichte sie einen der beiden S
 
 ## Artikel 27
 
-#### Informationsaustausch
+**Informationsaustausch**
+
+#### Art. 27
 
 1\. Die zuständigen Behörden der Vertragsstaaten tauschen die Informationen aus, die zur Durchführung dieses Abkommens oder zur Anwendung oder Durchsetzung des innerstaatlichen Rechts betreffend Steuern jeder Art und Bezeichnung, die für Rechnung der Vertragsstaaten oder ihrer Gebietskörperschaften erhoben werden, voraussichtlich erheblich sind, soweit die diesem Recht entsprechende Besteuerung nicht dem Abkommen widerspricht. Der Informationsaustausch ist durch Artikel 1 und 2 nicht eingeschränkt.
 
@@ -525,13 +571,17 @@ c) Informationen zu erteilen, die ein Handels-, Industrie-, Gewerbe- oder Berufs
 
 ## Artikel 28
 
-#### Diplomatische und konsularische Beamte
+**Diplomatische und konsularische Beamte**
+
+#### Art. 28
 
 Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den diplomatischen und konsularischen Beamten nach den allgemeinen Regeln des Völkerrechts oder auf Grund besonderer Vereinbarungen zustehen.
 
 ## Artikel 29
 
-#### Ausdehnung des territorialen Geltungsbereiches
+**Ausdehnung des territorialen Geltungsbereiches**
+
+#### Art. 29
 
 (1) Dieses Abkommen kann entweder als Ganzes oder mit den erforderlichen Änderungen auf eines der beiden Länder oder auf beide Länder Surinam und die Niederländischen Antillen ausgedehnt werden, wenn das betreffende Land Steuern erhebt, die im wesentlichen den Steuern ähnlich sind, für die das Abkommen gilt. Eine solche Ausdehnung wird von dem Zeitpunkt an und mit den Änderungen und Bedingungen, einschließlich der Bedingungen für das Außerkrafttreten, wirksam, die durch auf diplomatischem Weg auszutauschende Noten vereinbart werden.
 
@@ -543,7 +593,9 @@ Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den diplomatische
 
 ### SCHLUSSBESTIMMUNGEN — Artikel 30
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 30
 
 (1) Dieses Abkommen soll ratifiziert und die Ratifikationsurkunden sollen so bald wie möglich in Den Haag ausgetauscht werden.
 
@@ -551,7 +603,9 @@ Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den diplomatische
 
 ## Artikel 31
 
-#### Außerkrafttreten
+**Außerkrafttreten**
+
+#### Art. 31
 
 Dieses Abkommen bleibt in Kraft, solange es nicht von einer der beiden vertragschließenden Parteien gekündigt worden ist. Jede vertragschließende Partei kann das Abkommen auf diplomatischem Wege unter Einhaltung einer Frist von mindestens sechs Monaten zum Ende eines Kalenderjahres kündigen. In diesem Fall ist das Abkommen für die Steuerjahre und Steuerzeiträume nicht mehr anzuwenden, die nach dem Ende des Kalenderjahres beginnen, zu dessen Ende die Kündigung erfolgt ist.
 

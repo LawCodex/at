@@ -50,7 +50,9 @@ SIND wie folgt ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-#### GELTUNGSBEREICH DES ÜBEREINKOMMENS
+**GELTUNGSBEREICH DES ÜBEREINKOMMENS**
+
+#### Art. 1
 
 (a) Die Vertragsparteien erkennen an, daß der in diesem Übereinkommen aufgestellte Tilgungsplan für die Rückzahlung von Schulden von Personen mit Sitz in der Türkei gegenüber Personen mit Sitz in den Ländern der übrigen Vertragsparteien und seine Durchführung nicht die Rechte und Verpflichtungen der betreffenden einzelnen Gläubiger, Schuldner oder Bürgen berühren darf.
 
@@ -60,7 +62,9 @@ SIND wie folgt ÜBEREINGEKOMMEN:
 
 ## Artikel 2
 
-#### BEGRIFFSBESTIMMUNGEN
+**BEGRIFFSBESTIMMUNGEN**
+
+#### Art. 2
 
 Im Sinne dieses Übereinkommens und seiner Anlage I bedeuten:
 
@@ -104,7 +108,9 @@ jedoch umfaßt dieser Ausdruck auch jede Zahlung, deren Gegenwert nach Artikel 9
 
 ## Artikel 3
 
-#### DIE SCHULDEN
+**DIE SCHULDEN**
+
+#### Art. 3
 
 (a) Vorbehaltlich des Artikels 4 gelten die Bestimmungen dieses Übereinkommens für jede Schuld eines ursprünglichen Schuldners oder eines Bürgen mit Sitz in der Türkei gegenüber einer Person mit Sitz in einem Gläubigerland (wobei diese Personen nachstehend als Schuldner beziehungsweise Gläubiger bezeichnet werden), sofern
 
@@ -120,7 +126,9 @@ jedoch umfaßt dieser Ausdruck auch jede Zahlung, deren Gegenwert nach Artikel 9
 
 ## Artikel 4
 
-#### AUSNAHMEN
+**AUSNAHMEN**
+
+#### Art. 4
 
 Dieses Übereinkommen findet keine Anwendung auf
 
@@ -138,7 +146,9 @@ Dieses Übereinkommen findet keine Anwendung auf
 
 ## Artikel 5
 
-#### ZAHLUNGEN
+**ZAHLUNGEN**
+
+#### Art. 5
 
 (a) Die Zahlungen in türkischen Pfunden erfolgen bei den Zentralbank der Türkischen Republik, die alle derartigen Zahlungen an dem von den türkischen Behörden ordnungsgemäß genehmigten Fälligkeitstag entgegennimmt, mit der Maßgabe, daß
 
@@ -166,7 +176,9 @@ Dieses Übereinkommen findet keine Anwendung auf
 
 ## Artikel 6
 
-#### VERPFLICHTUNGEN, DIE SICH AUS DER ANWENDUNG DES ARTIKELS 5 ERGEBEN
+**VERPFLICHTUNGEN, DIE SICH AUS DER ANWENDUNG DES ARTIKELS 5 ERGEBEN**
+
+#### Art. 6
 
 Die türkische Regierung trägt dafür Sorge,
 
@@ -182,7 +194,9 @@ Die türkische Regierung trägt dafür Sorge,
 
 ## Artikel 7
 
-#### DER TRANSFERPLAN
+**DER TRANSFERPLAN**
+
+#### Art. 7
 
 (a) Zur Regelung der Schulden auf Grund dieses Übereinkommens trägt die türkische Regierung in den zwölf auf die Unterzeichnung dieses Übereinkommens folgenden Jahren dafür Sorge, daß den Gläubigern in den verschiedenen Gläubigerländern alljährlich in der geeigneten Währung ein Gesamtbetrag (nachstehend als “jährlich zu transferierende Zahlung” bezeichnet) überwiesen wird, der gemäß diesem Artikel ermittelt und transferiert wird. Außerdem hat die türkische Regierung für den Transfer der Verzugszinsen beziehungsweise der vertraglichen Verzugszinsen, wie in Artikel 10 vorgesehen, Sorge zu tragen.
 
@@ -218,7 +232,9 @@ Die türkische Regierung trägt dafür Sorge,
 
 ## Artikel 8
 
-#### DURCHFÜHRUNG DES TRANSFERPLANS
+**DURCHFÜHRUNG DES TRANSFERPLANS**
+
+#### Art. 8
 
 (a) Die zuständigen türkischen Behörden stellen periodisch im Einvernehmen mit der zuständigen Institution jedes Gläubigerlandes eine Liste auf, in der die Gläubiger in diesem Lande angegeben werden, an welche die zuständige Institution der Türkei den Transfer zu bewirken hat.
 
@@ -230,7 +246,9 @@ Die türkische Regierung trägt dafür Sorge,
 
 ## Artikel 9
 
-#### VERWENDUNG DER MITTEL IN DER TÜRKEI
+**VERWENDUNG DER MITTEL IN DER TÜRKEI**
+
+#### Art. 9
 
 (a) Der Gläubiger kann eine zu transferierende Zahlung, die ihm geschuldet wird, ganz oder teilweise in türkischer Währung verwenden, um in der Türkei für eigene Rechnung Investitionen vorzunehmen oder sonstige Ausgaben zu machen, sofern er von den türkischen Behörden dazu ordnungsgemäß ermächtigt worden ist, und gegebenenfalls vorbehaltlich der Devisenvorschriften des beteiligten Gläubigerlandes.
 
@@ -240,7 +258,9 @@ Die türkische Regierung trägt dafür Sorge,
 
 ## Artikel 10
 
-#### VERZUGSZINSEN
+**VERZUGSZINSEN**
+
+#### Art. 10
 
 (a) Die türkische Regierung zahlt den Gläubigern Verzugszinsen in Höhe von jährlich 3% für jede zu transferierende Zahlung, sofern diese Zahlung nicht nach Artikel 9 in der Türkei verwendet worden ist.
 
@@ -260,7 +280,9 @@ Die türkische Regierung trägt dafür Sorge,
 
 ## Artikel 11
 
-#### FRÜHERE TILGUNGSABKOMMEN
+**FRÜHERE TILGUNGSABKOMMEN**
+
+#### Art. 11
 
 (a) Die zu einem früheren Zeitpunkt von der türkischen Regierung mit einer anderen Vertragspartei abgeschlossenen zweiseitigen Abkommen betreffend die Tilgung der türkischen Außenhandelsschulden sowie die darauf bezüglichen Bestimmungen sonstiger zwischen der türkischen Regierung und jeder anderen Vertragspartei abgeschlossener Abkommen sind vom Tage der Unterzeichnung dieses Übereinkommens an nicht mehr anwendbar und sind mit Wirkung vom Tage des Inkrafttretens dieses Übereinkommens durch zweiseitige Abkommen aufzuheben, die gemäß Artikel 13 abgeschlossen werden.
 
@@ -274,7 +296,9 @@ Die türkische Regierung trägt dafür Sorge,
 
 ## Artikel 12
 
-#### ZENTRALBANK DER TÜRKISCHEN REPUBLIK
+**ZENTRALBANK DER TÜRKISCHEN REPUBLIK**
+
+#### Art. 12
 
 Bei der Durchführung der Bestimmungen dieses Übereinkommens handelt die Zentralbank der Türkischen Republik als Vertreterin der türkischen Regierung und übernimmt in keinem Fall irgendwelche Verpflichtungen auf Grund dieses Übereinkommens.
 
@@ -282,7 +306,9 @@ Bei der Durchführung der Bestimmungen dieses Übereinkommens handelt die Zentra
 
 ## Artikel 13
 
-#### ZWEISEITIGE ABKOMMEN
+**ZWEISEITIGE ABKOMMEN**
+
+#### Art. 13
 
 (a) Die türkische Regierung schließt mit jeder der anderen Vertragsparteien zweiseitige Abkommen über die technischen Einzelheiten der Durchführung dieses Übereinkommens. In diese zweiseitigen Abkommen sind auch Bestimmungen über die Aufhebung aller früheren Tilgungsabkommen und aller damit zusammenhängenden Bestimmungen nach Artikel 11 dieses Übereinkommens aufzunehmen.
 
@@ -292,7 +318,9 @@ Bei der Durchführung der Bestimmungen dieses Übereinkommens handelt die Zentra
 
 ## Artikel 14
 
-#### AUSTAUSCH VON AUSKÜNFTEN
+**AUSTAUSCH VON AUSKÜNFTEN**
+
+#### Art. 14
 
 (a) Die Vertragsparteien tauschen untereinander den Wortlaut der zweiseitigen Abkommen sowie alle Auskünfte aus, die für die ordnungsgemäße Durchführung dieses Übereinkommens erforderlich sind. Diese Auskünfte umfassen insbesondere
 
@@ -314,7 +342,9 @@ Bei der Durchführung der Bestimmungen dieses Übereinkommens handelt die Zentra
 
 ## Artikel 15
 
-#### EINBERUFUNG EINER KONFERENZ
+**EINBERUFUNG EINER KONFERENZ**
+
+#### Art. 15
 
 Die Regierung jeder Vertragspartei oder der Vereinigten Staaten von Amerika kann eine Konferenz einberufen, wobei jede dieser Regierungen zur Entsendung von Vertretern einzuladen ist. In dieser Einladung ist anzugeben, zu welchem Zweck und aus welchen Gründen die Konferenz einberufen wird.
 
@@ -322,7 +352,9 @@ Die Regierung jeder Vertragspartei oder der Vereinigten Staaten von Amerika kann
 
 ## Artikel 16
 
-#### RATIFIZIERUNG, INKRAFTTRETEN, AUSSERKRAFTTRETEN
+**RATIFIZIERUNG, INKRAFTTRETEN, AUSSERKRAFTTRETEN**
+
+#### Art. 16
 
 (a) Dieses Übereinkommen bedarf der Ratifizierung. Die Vertragsparteien leiten innerhalb von sechs Monaten das für die Ratifizierung erforderliche verfassungsmäßige Verfahren ein.
 

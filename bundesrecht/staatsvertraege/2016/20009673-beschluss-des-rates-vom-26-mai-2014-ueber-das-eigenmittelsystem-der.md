@@ -236,7 +236,9 @@ Dieser Beschluss wird im *Amtsblatt der Europäischen Union* veröffentlicht.
 
 Geschehen zu Brüssel am 26. Mai 2014.
 
-## *ANHANG* – ENTSPRECHUNGSTABELLE
+***ANHANG***
+
+## Anl. 1 – ENTSPRECHUNGSTABELLE
 
 | Beschluss 2007/436/EG, Euratom | vorliegender Beschluss |
 |---|---|

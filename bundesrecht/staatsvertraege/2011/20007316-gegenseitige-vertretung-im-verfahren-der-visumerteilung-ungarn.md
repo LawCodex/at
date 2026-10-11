@@ -48,7 +48,9 @@ Folgendes vereinbart:
 
 ## Artikel 1
 
-### Gegenseitige Vertretung
+**Gegenseitige Vertretung**
+
+### Art. 1
 
 (1) Die Republik Österreich und die Republik Ungarn vertreten einander bei der Bearbeitung und Erteilung einheitlicher, grundsätzlich für das Hoheitsgebiet aller Vertragsparteien des Übereinkommens vom 19. Juni 1990 zur Durchführung des Übereinkommens von Schengen vom 14. Juni 1985 betreffend den schrittweise Abbau der Kontrollen an den gemeinsamen Grenzen (Schengener Durchführungsabkommen) gültiger Visa.
 
@@ -58,7 +60,9 @@ Folgendes vereinbart:
 
 ## Artikel 2
 
-### Verfahren
+**Verfahren**
+
+### Art. 2
 
 (1) Die vertretende Vertretungsbehörde nimmt die Visumanträge von in ihrem Konsularbezirk rechtmäßig aufhältigen Drittstaatsangehörigen entgegen, erfasst die Antragsdaten sowie ab dem Einführungszeitpunkt der Aufnahme biometrischer Identifikatoren in Visa die biometrischen Daten und führt die materielle Prüfung des Antrags durch.
 
@@ -68,7 +72,9 @@ Folgendes vereinbart:
 
 ## Artikel 3
 
-### Zuständige Behörden
+**Zuständige Behörden**
+
+### Art. 3
 
 Zuständige Behörde für die Umsetzung des Abkommens ist:
 
@@ -90,7 +96,9 @@ Abteilung für Konsularangelegenheiten
 
 ## Artikel 4
 
-### Aufnahme der Vertretungstätigkeit
+**Aufnahme der Vertretungstätigkeit**
+
+### Art. 4
 
 (1) Die vertretende Vertretungsbehörde nimmt die Tätigkeiten zur Durchführung des Abkommens selbständig vor.
 
@@ -100,13 +108,17 @@ Abteilung für Konsularangelegenheiten
 
 ## Artikel 5
 
-### Gebühren
+**Gebühren**
+
+### Art. 5
 
 Die Visumgebühren stehen in allen Fällen der vertretenden Vertretungsbehörde zu.
 
 ## Artikel 6
 
-### Inkrafttreten, Geltungsdauer und Kündigung
+**Inkrafttreten, Geltungsdauer und Kündigung**
+
+### Art. 6
 
 (1 ) Diese Vereinbarung wird auf unbestimmte Zeit geschlossen und tritt am Tag nach Bestätigung des Textes durch das Außenministerium der Republik Ungarn in Kraft. Mit dem Inkrafttreten der Vereinbarung tritt die Vereinbarung zwischen der Bundesministerin für europäische und internationale Angelegenheiten der Republik Österreich und dem Minister für auswärtige Angelegenheiten der Republik Ungarn zur Durchführung des Abkommens zwischen der Republik Österreich und der Republik Ungarn über die wechselseitige Vertretung in Visaangelegenheiten vom 29. November 2007 außer Kraft.
 

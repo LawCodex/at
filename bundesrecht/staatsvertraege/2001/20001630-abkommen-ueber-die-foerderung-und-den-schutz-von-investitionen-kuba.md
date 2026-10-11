@@ -37,7 +37,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ### Artikel 1
 
-#### Definitionen
+**Definitionen**
+
+#### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -97,7 +99,9 @@ eine juristische Person, die im Hoheitsgebiet der Republik Kuba ihren rechtliche
 
 ## Artikel 2
 
-#### Förderung und Zulassung von Investitionen
+**Förderung und Zulassung von Investitionen**
+
+#### Art. 2
 
 (1) Jede Vertragspartei fördert in Übereinstimmung mit ihren Rechtsvorschriften Investitionen von Investoren der anderen Vertragspartei und läßt diese zu.
 
@@ -105,7 +109,9 @@ eine juristische Person, die im Hoheitsgebiet der Republik Kuba ihren rechtliche
 
 ## Artikel 3
 
-#### Behandlung von Investitionen
+**Behandlung von Investitionen**
+
+#### Art. 3
 
 (1) Jede Vertragspartei gewährt Investitionen durch Investoren der anderen Vertragspartei eine gerechte und billige Behandlung sowie vollen und dauerhaften Schutz und Sicherheit.
 
@@ -123,7 +129,9 @@ b) einem internationalen Abkommen, einer internationalen Vereinbarung oder inner
 
 ## Artikel 4
 
-#### Transparenz
+**Transparenz**
+
+#### Art. 4
 
 (1) Jede Vertragspartei veröffentlicht ihre Gesetze, Rechtsvorschriften, Verfahren sowie internationale Abkommen, die die Wirksamkeit dieses Abkommens beeinflussen können, unverzüglich, oder macht diese in anderer Form öffentlich zugänglich.
 
@@ -133,7 +141,9 @@ b) einem internationalen Abkommen, einer internationalen Vereinbarung oder inner
 
 ## Artikel 5
 
-#### Enteignung und Entschädigung
+**Enteignung und Entschädigung**
+
+#### Art. 5
 
 (1) Eine Vertragspartei darf Investitionen eines Investors der anderen Vertragspartei weder direkt noch indirekt enteignen oder verstaatlichen oder sonstige Maßnahmen mit gleicher Wirkung (im folgenden „Enteignung“ genannt) ergreifen, ausgenommen:
 
@@ -159,7 +169,9 @@ d) beinhaltet Zinsen vom Zeitpunkt der Enteignung bis zum Zeitpunkt der tatsäch
 
 ## Artikel 6
 
-#### Entschädigung für Verluste
+**Entschädigung für Verluste**
+
+#### Art. 6
 
 (1) Ein Investor einer Vertragspartei, der im Zusammenhang mit seiner Investition im Hoheitsgebiet der anderen Vertragspartei auf Grund eines Krieges oder anderen bewaffneten Konfliktes, eines Notstands, eines Aufstands, eines Aufruhrs oder eines sonstigen ähnlichen Ereignisses oder höherer Gewalt auf dem Hoheitsgebiet der letztgenannten Vertragspartei einen Schaden erleidet, erfährt hinsichtlich Rückerstattung, Entschädigung, Schadenersatz oder anderer Regelung durch die letztgenannte Vertragspartei eine nicht weniger günstige Behandlung als jene, die sie ihren eigenen Investoren oder Investoren eines Drittstaates gewährt, je nachdem, welche die günstigste für den Investor ist.
 
@@ -173,7 +185,9 @@ erhält auf jeden Fall von seiten der letztgenannten Vertragspartei eine Rücker
 
 ## Artikel 7
 
-#### Transfers
+**Transfers**
+
+#### Art. 7
 
 (1) Jede Vertragspartei garantiert, daß sämtliche Zahlungen im Zusammenhang mit einer Investition eines Investors der anderen Vertragspartei ohne ungebührliche Verzögerung in ihr und aus ihrem Hoheitsgebiet frei transferiert werden können. Diese Transfers umfassen insbesondere:
 
@@ -201,13 +215,17 @@ g) Einkünfte und andere Bezüge von Beschäftigten aus dem Ausland, die in Zusa
 
 ## Artikel 8
 
-#### Eintrittsrecht
+**Eintrittsrecht**
+
+#### Art. 8
 
 Leistet eine Vertragspartei oder eine von ihr hierzu ermächtigte Institution auf Grund einer Schadloshaltung, Garantie oder eines Versicherungsvertrages gegen nichtkommerzielle Risiken für eine Investition durch einen Investor im Hoheitsgebiet der anderen Vertragspartei eine Zahlung, so anerkennt die letztgenannte Vertragspartei die Übertragung aller Rechte und Ansprüche dieses Investors auf die erstgenannte Vertragspartei oder der von ihr hierzu ermächtigten Institution sowie das Recht der erstgenannten Vertragspartei oder der von ihr hierzu ermächtigten Institution, alle diese Rechte und Ansprüche auf Grund des Eintrittsrechts im gleichen Umfang wie ihr Rechtsvorgänger auszuüben.
 
 ## Artikel 9
 
-#### Andere Verpflichtungen
+**Andere Verpflichtungen**
+
+#### Art. 9
 
 Jede Vertragspartei hält jede Verpflichtung, die sie hinsichtlich besonderer Investitionen durch Investoren der anderen Vertragspartei eingegangen ist, ein.
 
@@ -215,13 +233,17 @@ Jede Vertragspartei hält jede Verpflichtung, die sie hinsichtlich besonderer In
 
 ### TEIL EINS: Beilegung von Streitigkeiten zwischen einem Investor und einer Vertragspartei — Artikel 10
 
-#### Geltungsbereich und Befugnisse
+**Geltungsbereich und Befugnisse**
+
+#### Art. 10
 
 Dieser Teil gilt für Streitigkeiten zwischen einer Vertragspartei und einem Investor der anderen Vertragspartei über eine behauptete Nichteinhaltung einer Verpflichtung aus diesem Abkommen seitens des Erstgenannten, wodurch für den Investor oder seine Investition Verlust oder Schaden entsteht.
 
 ## Artikel 11
 
-#### Mittel zur Beilegung von Streitigkeiten, Fristen
+**Mittel zur Beilegung von Streitigkeiten, Fristen**
+
+#### Art. 11
 
 (1) Derartige Streitigkeiten werden, soweit wie möglich, durch Verhandlungen oder Konsultationen beigelegt. Können sie nicht auf diese Weise beigelegt werden, kann sie der Investor wahlweise zur Entscheidung unterbreiten:
 
@@ -239,7 +261,9 @@ ii) der Internationalen Handelskammer durch einen Einzelschiedsrichter oder ein 
 
 ## Artikel 12
 
-#### Zustimmung der Vertragsparteien
+**Zustimmung der Vertragsparteien**
+
+#### Art. 12
 
 (1) Jede Vertragspartei erklärt hiermit ihre uneingeschränkte Zustimmung, eine Streitigkeit gemäß diesem Teil einem internationalen Schiedsverfahren zu unterwerfen.
 
@@ -249,7 +273,9 @@ ii) der Internationalen Handelskammer durch einen Einzelschiedsrichter oder ein 
 
 ## Artikel 13
 
-#### Schiedsort
+**Schiedsort**
+
+#### Art. 13
 
 Jedes Schiedsverfahren gemäß diesem Teil wird auf Verlangen einer Streitpartei in einem Staat, der Mitglied der New Yorker Konvention <sup>1</sup>) ist und diplomatische Beziehungen zu beiden Vertragsparteien unterhält, abgehalten. Die gemäß diesem Teil dem Schiedsverfahren unterworfenen Ansprüche werden als aus Handelsbeziehungen oder Transaktionen im Sinne von Artikel 1 der New Yorker Konvention entstanden erachtet.
 
@@ -259,13 +285,17 @@ Jedes Schiedsverfahren gemäß diesem Teil wird auf Verlangen einer Streitpartei
 
 ## Artikel 14
 
-#### Schadenersatz
+**Schadenersatz**
+
+#### Art. 14
 
 Während des Schiedsverfahrens oder bei der Vollstreckung des Schiedsurteiles macht die an der Streitigkeit beteiligte Vertragspartei nicht als Einwendung geltend, daß der Investor der anderen Vertragspartei auf Grund eines Versicherungsvertrages hinsichtlich des gesamten Schadens oder eines Teiles davon, Schadenersatz erhalten habe.
 
 ## Artikel 15
 
-#### Anwendbares Recht
+**Anwendbares Recht**
+
+#### Art. 15
 
 (1) Ein gemäß diesem Teil eingerichtetes Schiedsgericht entscheidet über die Streitigkeit in Übereinstimmung mit diesem Abkommen sowie den anwendbaren Regeln und Grundsätzen des Völkerrechts.
 
@@ -273,7 +303,9 @@ Während des Schiedsverfahrens oder bei der Vollstreckung des Schiedsurteiles ma
 
 ## Artikel 16
 
-#### Schiedsurteile und Vollstreckung
+**Schiedsurteile und Vollstreckung**
+
+#### Art. 16
 
 (1) Schiedsurteile sind für die Streitparteien endgültig und bindend und können Rechtsschutz in folgender Form gewähren:
 
@@ -291,13 +323,17 @@ d) mit Zustimmung der Streitparteien Rechtsschutz in jeder anderen Form.
 
 ### Artikel 17
 
-#### Geltungsbereich, Konsultationen, Vermittlungs- und Vergleichsverfahren
+**Geltungsbereich, Konsultationen, Vermittlungs- und Vergleichsverfahren**
+
+#### Art. 17
 
 Streitigkeiten zwischen den Vertragsparteien über die Auslegung oder Anwendung dieses Abkommens werden, soweit wie möglich, auf freundschaftlichem Weg oder durch Konsultationen, Vermittlungs- und Vergleichsverfahren beigelegt.
 
 ## Artikel 18
 
-#### Einleitung von Verfahren
+**Einleitung von Verfahren**
+
+#### Art. 18
 
 (1) Auf Verlangen einer Vertragspartei kann eine Streitigkeit über die Auslegung oder Anwendung dieses Abkommens nicht früher als 60 Tage nach der Verständigung der anderen Vertragspartei von diesem Verlangen, einem Schiedsgericht zur Entscheidung unterworfen werden.
 
@@ -305,7 +341,9 @@ Streitigkeiten zwischen den Vertragsparteien über die Auslegung oder Anwendung 
 
 ## Artikel 19
 
-#### Bildung des Schiedsgerichts
+**Bildung des Schiedsgerichts**
+
+#### Art. 19
 
 (1) Das Schiedsgericht konstituiert sich ad hoc auf folgende Weise:
 
@@ -317,7 +355,9 @@ Innerhalb von 30 Tagen nach Erhalt eines Antrags auf ein Schiedsverfahren bestel
 
 ## Artikel 20
 
-#### Anwendbares Recht, Unterlassungsbestimmungen
+**Anwendbares Recht, Unterlassungsbestimmungen**
+
+#### Art. 20
 
 (1) Das Schiedsgericht entscheidet über Streitigkeiten in Übereinstimmung mit diesem Abkommen und den anwendbaren Regeln und Grundsätzen des Völkerrechts.
 
@@ -325,7 +365,9 @@ Innerhalb von 30 Tagen nach Erhalt eines Antrags auf ein Schiedsverfahren bestel
 
 ## Artikel 21
 
-#### Schiedsurteile
+**Schiedsurteile**
+
+#### Art. 21
 
 (1) Das Schiedsgericht legt in seinem Schiedsurteil seine Rechts- und Tatsachenfeststellungen samt ihren Begründungen dar und kann auf Verlangen einer Vertragspartei Rechtsschutz in folgender Form gewähren:
 
@@ -341,13 +383,17 @@ d) jede sonstige Form des Rechtsschutzes, dem die Vertragspartei, gegen die das 
 
 ## Artikel 22
 
-#### Kosten
+**Kosten**
+
+#### Art. 22
 
 Jede Vertragspartei trägt die Kosten ihrer Vertretung im Verfahren. Die Kosten des Schiedsgerichts tragen beide Vertragsparteien zu gleichen Teilen, sofern das Schiedsgericht nicht eine andere Aufteilung der Kosten festlegt.
 
 ## Artikel 23
 
-#### Vollstreckung
+**Vollstreckung**
+
+#### Art. 23
 
 Schiedssprüche, durch die Geldmittel zuerkannt werden und die nicht innerhalb eines Jahres ab dem Zeitpunkt des Schiedsspruches eingehalten wurden, können durch die Gerichte einer der beiden Vertragsparteien, die die Zuständigkeit besitzen, über Vermögenswerte der säumigen Partei zu entscheiden, vollstreckt werden.
 
@@ -355,7 +401,9 @@ Schiedssprüche, durch die Geldmittel zuerkannt werden und die nicht innerhalb e
 
 ### Artikel 24
 
-#### Anwendung des Abkommens
+**Anwendung des Abkommens**
+
+#### Art. 24
 
 (1) Dieses Abkommen gilt für Investitionen, die im Hoheitsgebiet einer der beiden Vertragsparteien gemäß ihren Rechtsvorschriften von Investoren der anderen Vertragspartei sowohl vor als auch nach dem Inkrafttreten dieses Abkommens vorgenommen wurden oder werden.
 
@@ -363,13 +411,17 @@ Schiedssprüche, durch die Geldmittel zuerkannt werden und die nicht innerhalb e
 
 ## Artikel 25
 
-#### Konsultationen
+**Konsultationen**
+
+#### Art. 25
 
 Jede Vertragspartei kann der anderen Vertragspartei Konsultationen über jede mit diesem Abkommen in Zusammenhang stehende Frage vorschlagen. Diese Konsultationen werden an einem Ort und zu einem Zeitpunkt, der auf diplomatischem Wege vereinbart wurde, abgehalten.
 
 ## Artikel 26
 
-#### Inkrafttreten und Dauer
+**Inkrafttreten und Dauer**
+
+#### Art. 26
 
 (1) Dieses Abkommen bedarf der Ratifikation und tritt am ersten Tag des dritten Monats in Kraft, der auf den Monat folgt, in welchem die Ratifikationsurkunden ausgetauscht worden sind.
 

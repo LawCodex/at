@@ -35,7 +35,9 @@ vom Wunsche geleitet, ein Abkommen abzuschließen, um ein Rahmenwerk für Flugve
 
 haben wie folgt vereinbart:
 
-#### <u>ARTIKEL 1</u> – <u>Definitionen</u>
+**<u>ARTIKEL 1</u>**
+
+#### Art. 1 – <u>Definitionen</u>
 
 Zum Zweck dieses Abkommens, mit der Ausnahme, dass der Zusammenhang etwas anderes erfordert:
 
@@ -59,11 +61,15 @@ Zum Zweck dieses Abkommens, mit der Ausnahme, dass der Zusammenhang etwas andere
 
 <sup>1</sup> Kundgemacht in BGBl. Nr. 97/1949, zuletzt geändert durch BGBl. III Nr. 115/2008.
 
-#### <u>ARTIKEL 2</u> – <u>Bestimmungen der Konvention von Chicago, welche auf internationale Luftverkehrsdienste anwendbar sind</u>
+**<u>ARTIKEL 2</u>**
+
+#### Art. 2 – <u>Bestimmungen der Konvention von Chicago, welche auf internationale Luftverkehrsdienste anwendbar sind</u>
 
 Bei der Implementierung dieses Abkommens handeln die Vertragsparteien gemäß den Bestimmungen der Konvention von Chicago, einschließlich den Anhängen und Abänderungen zur Konvention oder zu den Anhängen, welche für beide Vertragsparteien Gültigkeit haben, insoweit diese Bestimmungen für internationale Luftfahrtdienste gültig sind.
 
-#### <u>ARTIKEL 3</u> – <u>Gewährung von Rechten</u>
+**<u>ARTIKEL 3</u>**
+
+#### Art. 3 – <u>Gewährung von Rechten</u>
 
 (1) Jede Vertragspartei gewährt der anderen Vertragspartei die folgenden Rechte in Bezug auf ihre internationalen Flugverkehrsdienste:
 
@@ -77,7 +83,9 @@ Bei der Implementierung dieses Abkommens handeln die Vertragsparteien gemäß de
 
 (4) Wenn aufgrund eines bewaffneten Konflikts, politischer Unruhen oder Entwicklungen oder aufgrund von besonderer und unüblicher Umstände eine von einer der Vertragsparteien namhaftgemachte Fluglinie nicht in der Lage ist, einen Dienst auf ihrer üblichen Strecke durchzuführen, unternimmt die andere Vertragspartei ihre größten Anstrengungen, um eine Fortsetzung des Betriebs dieses Dienstes durch entsprechende vorübergehende Streckenänderungen zu ermöglichen.
 
-#### <u>Artikel 4</u> – <u>Namhaftmachung und Flugplangenehmigung</u>
+**<u>Artikel 4</u>**
+
+#### Art. 4 – <u>Namhaftmachung und Flugplangenehmigung</u>
 
 (1) Die internationalen Flugverkehrsdienste auf den gemäß Artikel 3 dieses Abkommens festgelegten Strecken können jederzeit aufgenommen werden, unter der Voraussetzung, dass:
 
@@ -105,7 +113,9 @@ b) die Vertragspartei, die diese Rechte gewährt, das oder die namhaft gemachte(
 
 (3) Jede Vertragspartei hat das Recht, vorbehaltlich der Regelungen der vorstehenden Absätze (1) und (2) ein von ihr namhaft gemachtes Luftverkehrsunternehmen durch ein anderes Luftverkehrsunternehmen zu ersetzen. Das neu namhaft gemachte Luftverkehrsunternehmen besitzt dieselben Rechte und unterliegt denselben Pflichten wie das Luftverkehrsunternehmen, welches es ersetzt.
 
-#### <u>Artikel 5</u> – <u>Ablehnung, Aufhebung, Aussetzung oder Einschränkung der Genehmigung</u>
+**<u>Artikel 5</u>**
+
+#### Art. 5 – <u>Ablehnung, Aufhebung, Aussetzung oder Einschränkung der Genehmigung</u>
 
 (1) Jede Vertragspartei kann die Genehmigung oder technische Zulassung eines von der anderen Vertragspartei namhaft gemachten Luftverkehrsunternehmens ablehnen, aufheben, aussetzen oder einschränken, wenn:
 
@@ -133,7 +143,9 @@ b) die Vertragspartei, die diese Rechte gewährt, das oder die namhaft gemachte(
 
 (2) Einer solchen Ablehnung, Aufhebung, Aussetzung oder Einschränkung der Genehmigung müssen Beratungen gemäß den Festlegungen in Artikel 17 (Konsultation) dieses Abkommens vorausgehen, es sei denn, eine sofortige Aussetzung des Betriebs oder sofortige Einschränkungen sind nötig, um weitere Verstöße gegen Gesetze oder Vorschriften zu verhindern.
 
-#### <u>ARTIKEL 6</u> – <u>Geltungsbereich der Gesetze</u>
+**<u>ARTIKEL 6</u>**
+
+#### Art. 6 – <u>Geltungsbereich der Gesetze</u>
 
 (1) Beim Einflug in das oder beim Ausflug aus sowie im Gebiet einer Vertragspartei sind deren Gesetze und Verordnungen in Bezug auf den Betrieb und das Steuern eines Flugzeuges von den Luftverkehrsunternehmen der jeweils anderen Vertragspartei zu befolgen.
 
@@ -143,7 +155,9 @@ b) die Vertragspartei, die diese Rechte gewährt, das oder die namhaft gemachte(
 
 (4) Keine der Vertragsparteien behandelt ihre eigenen Luftverkehrsunternehmen oder andere Luftverkehrsunternehmen bevorzugt gegenüber einem Luftverkehrsunternehmen, das von der anderen Vertragspartei namhaft gemacht wurde und einen ähnlichen internationalen Luftfahrtdienst betreibt und dies unter Anwendung ihrer Verordnungen für die Einwanderung, den Zoll, die Luftfahrtsicherheit, Quarantäne und ähnlichen Verordnungen.
 
-#### <u>ARTIKEL 7</u> – <u>Grundsätze für das Betreiben von vereinbarten Diensten</u>
+**<u>ARTIKEL 7</u>**
+
+#### Art. 7 – <u>Grundsätze für das Betreiben von vereinbarten Diensten</u>
 
 (1) Den namhaft gemachten Luftverkehrsunternehmen der Vertragsparteien ist in gerechter und gleicher Weise Gelegenheit zum Betrieb der vereinbarten Dienste auf den festgelegten Strecken zu geben.
 
@@ -159,7 +173,9 @@ b) die Vertragspartei, die diese Rechte gewährt, das oder die namhaft gemachte(
 
 (4) Die Kapazität, welche auf den festgelegten Strecken bereitgestellt wird, ist jene, welche von Zeit zu Zeit von den zuständigen Behörden der Vertragsparteien gemeinsam festgelegt wird.
 
-#### <u>ARTIKEL 8</u> – <u>Tarife</u>
+**<u>ARTIKEL 8</u>**
+
+#### Art. 8 – <u>Tarife</u>
 
 (1) Die Tarife, welche von dem oder den namhaftgemachten Luftverkehrsunternehmen einer der Vertragsparteien für die Dienste unter diesem Abkommen verrechnet werden, werden auf einem vernünftigen Niveau und unter Berücksichtigung kommerzieller, marktbezogener Überlegungen berechnet, einschließlich, aber nicht begrenzt auf die Interessen der Benutzer, Betriebskosten, Merkmale der Dienstleistung, Provisionsraten und entsprechendem Gewinn.
 
@@ -177,19 +193,25 @@ b) die Vertragspartei, die diese Rechte gewährt, das oder die namhaft gemachte(
 
 (8) Ein Tarif, welcher in Übereinstimmung mit den Bestimmungen dieses Artikels verrechnet wird, behält Gültigkeit, außer er wird von der oder den betroffenen Luftverkehrsunternehmen zurückgezogen oder bis ein neuer Tarif angenommen wurde. Jedoch wird ein Tarif nicht für mehr als zwölf (12) Monate nach dem Datum verlängert, an dem er auslaufen würde, außer er wurde von den Vertragsparteien vereinbart. Wo ein Tarif ohne Auslaufdatum vereinbart wurde und wenn kein neuer Tarif eingeführt oder vereinbart wurde, bleibt dieser Tarif in Kraft, bis eine der Vertragsparteien darüber informiert, dass sie ihre Genehmigung auf eigene Initiative entzieht oder auf Ansuchen der betroffenen Luftverkehrsunternehmen. Diese Beendigung erfolgt nicht vor einer sechzig-tägigen (60) Frist. erfolgen.
 
-#### <u>ARTIKEL 9</u> – <u>Vertretung der Luftverkehrsunternehmen und Verkäufe</u>
+**<u>ARTIKEL 9</u>**
+
+#### Art. 9 – <u>Vertretung der Luftverkehrsunternehmen und Verkäufe</u>
 
 (1) Den namhaftgemachten Luftverkehrsunternehmen jeder Vertragspartei ist es in Übereinstimmung mit den Gesetzen und Verordnungen der jeweils anderen Vertragspartei in Bezug auf den Einreise, Aufenthalt und Beschäftigung, gestattet, Büros zu errichten und zu betreiben, sowie in das Gebiet der anderen Vertragspartei das eigene Managementpersonal, technische Personal, Betriebspersonal oder sonstiges Fachpersonal zu entsenden, welches für die Bereitstellung der Beförderung per Luftfahrt benötigt wird.
 
 (2) Die namhaftgemachten Luftverkehrsunternehmen jeder Vertragspartei haben das Recht, sich am Verkauf von Flugverkehrsdiensten im Gebiet der jeweils anderen Vertragspartei zu beteiligen, und dies entweder auf direkte Art und Weise oder durch Agenten oder andere Vermittler. Die namhaftgemachten Luftverkehrsunternehmen jeder Vertragspartei haben das Recht zu verkaufen und jede Person darf diese Dienste zur Beförderung in lokaler Währung oder in einer anderen frei konvertiblen Währung kaufen.
 
-#### <u>ARTIKEL 10</u> – <u>Umtausch und Überweisung von Einnahmen</u>
+**<u>ARTIKEL 10</u>**
+
+#### Art. 10 – <u>Umtausch und Überweisung von Einnahmen</u>
 
 (1) Jede Vertragspartei erlaubt den Luftverkehrsunternehmen der jeweils anderen Vertragspartei über örtliche Ausgaben hinausgehende Einnahmen aus dem Verkauf von Flugverkehrsdiensten und damit verbundenen Aktivitäten, welche direkt mit der Beförderung durch die Luftfahrt verbunden sind auf Wunsch des Luftverkehrsunternehmens des Staates umzutauschen und in einen Staat seiner Wahl zu überweisen.
 
 (2) Der Umtausch und die Überweisung solcher Einnahmen ist ohne Einschränkung zum Wechselkurs erlaubt, welcher für laufende Transaktionen zu jenem Zeitpunkt gültig ist, an dem die Einnahmen zum Umtausch oder zur Überweisung anfallen, und unterliegen keinerlei Gebühren, außer jenen Gebühren, welche üblicherweise von Banken für den Umtausch und die Überweisung verrechnet werden.
 
-#### <u>ARTIKEL 11</u> – <u>Zolltarife</u>
+**<u>ARTIKEL 11</u>**
+
+#### Art. 11 – <u>Zolltarife</u>
 
 (1) Luftfahrzeuge, welche in internationalen Luftfahrtdiensten von den namhaftgemachten Luftverkehrsunternehmen einer der Vertragsparteien betrieben werden, ihre übliche Ausstattung, Treibstoff, Schmiermittel, technische Zulieferungen, Ersatzteile einschließlich Motoren und Bordvorräte (einschließlich aber nicht ohne Einschränkung auf Produkte wie beispielsweise Lebensmittel, Getränke und Tabak), welche an Bord dieser Luftfahrzeuge sind, werden von der anderen Vertragspartei auf der Grundlage der Gegenseitigkeit von allen Zolltarifen, Abgaben und ähnlichen Gebühren und Kosten ausgenommen, welche nicht auf den Kosten der Dienste bei der Ankunft basieren, vorausgesetzt, dass diese übliche Ausrüstung und diese Produkte an Bord des Flugzeuges verbleiben.
 
@@ -203,13 +225,17 @@ b) die Vertragspartei, die diese Rechte gewährt, das oder die namhaft gemachte(
 
 (6) Gepäck und Fracht im direkten Transit über dem Gebiet einer Vertragspartei sind von Zolltarifen, Abgaben und ähnlichen Gebühren und Kosten ausgenommen, welche nicht auf den Kosten der Dienste basieren, die sie bei der Ankunft bereitgestellt werden.
 
-#### <u>ARTIKEL 12</u> – <u>Zeugnisse und Lizenzen</u>
+**<u>ARTIKEL 12</u>**
+
+#### Art. 12 – <u>Zeugnisse und Lizenzen</u>
 
 (1) Lufttüchtigkeitszeugnisse, Tauglichkeitszeugnisse und Lizenzen, welche von einer Vertragspartei ausgestellt werden oder für gültig erklärt werden, und nach wie vor in Kraft sind, werden von der anderen Vertragspartei zum Zweck des Betreibens der vereinbarten Dienste auf den festgelegten Strecken für gültig erachtet, vorausgesetzt, dass die Anforderungen, unter denen diese Zertifikate und Lizenzen ausgestellt oder für gültig erklärt wurden, die gleichen oder höhere Standards aufweisen, wie jene die unter der Konvention von Chicago verlangt werden.
 
 (2) Jede Vertragspartei behält sich jedoch das Recht vor, eine Anerkennung von Tauglichkeitszeugnissen sowie Lizenzen in Bezug auf Flüge über oder Landungen auf dem eigenen Gebiet zu verweigern, welche von der jeweils anderen Vertragspartei gemäß Artikel 32 (b) der Konvention von Chicago ausgestellt wurden.
 
-#### <u>ARTIKEL 13</u> – <u>Flugsicherheit</u>
+**<u>ARTIKEL 13</u>**
+
+#### Art. 13 – <u>Flugsicherheit</u>
 
 (1) Jede Vertragspartei kann jederzeit Konsultationen über die Sicherheitsstandards verlangen, welche von der anderen Vertragspartei in den Bereichen festgelegt wurden, die sich auf Flugeinrichtungen, Flugzeugbesatzung, Flugzeug und den Betrieb des Flugzeugs beziehen. Diese Konsultationen finden innerhalb von dreißig (30) Tagen ab dieser Anfrage statt.
 
@@ -231,7 +257,9 @@ steht es der Vertragspartei, welche die Inspektion durchführt, frei, festzustel
 
 (7) Jede Maßnahme, welche von einer Vertragspartei gemäß den Absätzen 2 oder 6 dieses Artikels gesetzt wird, wird ausgesetzt, sobald die Grundlage für die Ergreifung dieser Maßnahme weggefallen ist.
 
-#### <u>ARTIKEL 14</u> – <u>Luftfahrtsicherheit</u>
+**<u>ARTIKEL 14</u>**
+
+#### Art. 14 – <u>Luftfahrtsicherheit</u>
 
 (1) Jede Vertragspartei bestätigt, dass ihre Verpflichtung gegenüber der anderen Vertragspartei zum Schutz der Sicherheit der Zivilluftfahrt vor ungesetzlichen Formen der Störung in einen integralen Bestandteil dieses Abkommens bildet. Jede Vertragspartei handelt insbesondere gemäß den Bestimmungen für die Luftfahrtsicherheit der Convention on Offences and Certain Other Acts Committed on Board Aircraft (Abkommen über strafbare und bestimmte andere an Bord von Luftfahrzeugen begangene Handlungen<sup>2</sup>), welche am 14. September 1963 in Tokio unterzeichnet wurde, Convention for the Suppression of Unlawful Seizure of Aircraft (Übereinkommen zur Bekämpfung der widerrechtlichen Inbesitznahme von Luftfahrzeugen<sup>3</sup>), unterschrieben in Den Haag am 16. Dezember 1970, die Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation (Übereinkommen zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Zivilluftfahrt<sup>4</sup>), unterzeichnet in Montreal am 23. September 1971, das Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation (Protokoll zur Bekämpfung widerrechtlicher gewalttätiger Handlungen auf Flughäfen, die der internationalen Zivilluftfahrt dienen<sup>5</sup>), unterschrieben in Montreal am 24. Februar 1988 sowie die Convention on the Marking of Plastic Explosives for the Purpose of Detection (Übereinkommen über die Markierung von Plastiksprengstoffen zum Zweck des Aufspürens<sup>6</sup>), unterzeichnet in Montreal am 1. März 1991.
 
@@ -257,21 +285,29 @@ steht es der Vertragspartei, welche die Inspektion durchführt, frei, festzustel
 
 <sup>6</sup> Kundgemacht in BGBl. III Nr. 135/1999.
 
-#### <u>ARTIKEL 15</u> – <u>Bereitstellung von Statistiken</u>
+**<u>ARTIKEL 15</u>**
+
+#### Art. 15 – <u>Bereitstellung von Statistiken</u>
 
 Die Luftfahrtbehörden jeder Vertragspartei stellen auf Anfrage regelmäßige oder sonstige statistische Unterlagen zu Verfügung, wie dies zum Zweck der Überprüfbarkeit der Kapazität, welche für die vereinbarten Dienste von den namhaftgemachten Luftverkehrsunternehmen einer anderen Vertragspartei angeboten werden, billigerweise verlangt werden kann; dies wird an die Flugbehörden der jeweils anderen Vertragspartei ausgehändigt. Diese Unterlagen enthalten alle Informationen, welche notwendig sind, um den Umfang des Verkehrs, den diese Luftfahrtunternehme, in Bezug auf die vereinbarten Dienste abwickeln, sowie seine Herkunft und seinen Bestimmungsort festzustellen.
 
-#### <u>ARTIKEL 16</u> – <u>Benutzergebühren</u>
+**<u>ARTIKEL 16</u>**
+
+#### Art. 16 – <u>Benutzergebühren</u>
 
 (1) Eine Vertragspartei darf den namhaftgemachten Fluglinien der anderen Vertragspartei keine Benutzergebühren auferlegen, welche höher als jene sind, ihren eigen Fluglinien verrechnet werden, welche ähnliche internationale Luftverkehrsdienste durchführen.
 
 (2) Jede Vertragspartei fördert Konsultationen über die Benutzergebühren zwischen den zuständigen Behörden und Luftverkehrsunternehmen, welche die Dienste und Einrichtungen nutzen, die von diesen Behörden betrieben werden, wenn diese von den Vertretungsorganisationen der Luftverkehrsunternehmen geführt werden können Jede Änderung der Benutzergebühren sollte diesen Benutzern so zeitgerecht angeboten werden, dass es ihnen möglich ist, eine Stellungnahmen abzugeben bevor die Änderungen durchgeführt werden. Jede Vertragspartei soll weiters ihre zuständigen Behörden, welche die Gebühren einheben, sowie diese Benutzer ermuntern, entsprechende Informationen in Bezug auf Benutzergebühren auszutauschen.
 
-#### <u>ARTIKEL 17</u> – <u>Konsultation</u>
+**<u>ARTIKEL 17</u>**
+
+#### Art. 17 – <u>Konsultation</u>
 
 Eine Partei kann jederzeit Konsultationen zur Implementierung, Auslegung, Anwendung oder Änderungen dieses Abkommens verlangen. Diese Konsultationen, welche zwischen den Flugbehörden der Parteien stattfinden können, beginnen innerhalb von sechzig (60) Tagen ab dem Datum an dem die andere Partei dieses Ansuchen schriftlich erhält, sofern die Vertragsparteien nichts Anderes vereinbart haben.
 
-#### <u>ARTIKEL 18</u> – <u>Streitbeilegung</u>
+**<u>ARTIKEL 18</u>**
+
+#### Art. 18 – <u>Streitbeilegung</u>
 
 (1) Wenn eine Meinungsverschiedenheit zwischen den Vertragsparteien in Bezug auf die Auslegung oder Anwendung dieses Abkommens entsteht, versuchen die Parteien, diesen Streit zuerst durch Verhandlungen beizulegen.
 
@@ -293,19 +329,27 @@ Eine Partei kann jederzeit Konsultationen zur Implementierung, Auslegung, Anwend
 
 (8) Jede Vertragspartei trägt die Kosten des Schiedsrichters, den sie ernannt hat. Die anderen Kosten des Gerichtes werden zu gleichen Teilen von den Vertragsparteien getragen, einschließlich der Kosten für den Präsidenten oder Vizepräsidenten des Rates der Internationalen Zivilluftfahrtorganisation in Ausführung der Verfahren gemäß Absatz (2)(b) dieses Artikels.
 
-#### <u>ARTIKEL 19</u> – <u>Abänderungen</u>
+**<u>ARTIKEL 19</u>**
+
+#### Art. 19 – <u>Abänderungen</u>
 
 Jede Abänderung dieses Abkommens, welche von den Vertragsparteien vereinbart wird, tritt am 60. Tag nach Übermittlung der Mitteilungen der Vertragsparteien in Kraft, worin sie bestätigen, dass alle notwendigen internen Schritte für die Genehmigung dieser Abänderung erfüllt worden sind.
 
-#### <u>ARTIKEL 20</u> – <u>Beendigung</u>
+**<u>ARTIKEL 20</u>**
+
+#### Art. 20 – <u>Beendigung</u>
 
 Eine Vertragspartei kann jederzeit die andere Vertragspartei von ihrer Entscheidung in Kenntnis setzen, dieses Abkommen zu beenden. Dieses Abkommen endet um Mitternacht (am Ort, an dem diese Mitteilung empfangen wurde) unmittelbar vor dem ersten Jahrestag des Datum des Empfangs dieser Mitteilung durch die andere Vertragspartei, außer diese Mitteilung wird durch eine Vereinbarung vor dem Ende dieser Periode zurückgezogen.
 
-#### <u>ARTIKEL 21</u> – <u>Registrierung bei der Internationalen Zivilluftfahrtorganisation</u>
+**<u>ARTIKEL 21</u>**
+
+#### Art. 21 – <u>Registrierung bei der Internationalen Zivilluftfahrtorganisation</u>
 
 Dieses Abkommen sowie jede Änderung davon sind bei der Internationalen Zivilluftfahrtorganisation zu registrieren.
 
-#### <u>ARTIKEL 22</u> – <u>Inkrafttreten</u>
+**<u>ARTIKEL 22</u>**
+
+#### Art. 22 – <u>Inkrafttreten</u>
 
 Jede Vertragspartei setzt die andere Vertragspartei schriftlich über die Erfüllung ihrer jeweiligen Anforderungen für das Inkrafttreten dieses Abkommens in Kenntnis. Dieses Abkommen tritt am dreißigsten (30) Tag nach der letzten Inkenntnissetzung in Kraft.
 

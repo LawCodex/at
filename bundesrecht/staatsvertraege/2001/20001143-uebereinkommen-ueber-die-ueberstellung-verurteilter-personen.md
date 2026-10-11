@@ -1,0 +1,222 @@
+---
+title: "Übereinkommen über die Überstellung verurteilter Personen – Zusatzprotokoll"
+identifier: "20001143"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 26/2001"
+last_amended: 2025-12-02
+last_amendment: "BGBl. III Nr. 113/2020"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/iii/2001/26/P0/NOR40273162"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001143"
+retrieved: 2026-10-11
+documents: 10
+---
+
+# Übereinkommen über die Überstellung verurteilter Personen – Zusatzprotokoll
+
+(Deutsche Übersetzung)
+
+ZUSATZPROTOKOLL ZUM ÜBEREINKOMMEN ÜBER DIE ÜBERSTELLUNG VERURTEILTER PERSONEN
+
+StF: BGBl. III Nr. 26/2001 (NR: GP XXI RV 267 AB 307 S. 40. BR: AB 6246 S. 669.)
+
+**Unterzeichnungsdatum:** 18.12.1997
+
+**Vertragsparteien:** Vertragsparteien siehe Stammvertrag, BGBl. Nr. 524/1986
+
+**Sprachen:** Englisch, Französisch
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. III Nr. 113/2020 (ZÄ1) (NR: GP XXI RV 267 AB 307 S. 40. BR: AB 6246 S. 669.)  
+
+</details>
+
+> **Beachte:** Das Zusatzprotokoll wird ab 1.1.2012 im Verhältnis zu jenen Mitgliedstaaten, die die Regelungen zur Vollstreckung ausländischer Freiheitsstrafen und mit Freiheitsentziehung verbundener vorbeugender Maßnahmen bereits umgesetzt haben, durch das Bundesgesetz über die justizielle Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der Europäischen Union (EU-JZG), BGBl. I Nr. 36/2004, ersetzt (vgl. § 83 Abs. 5 EU-JZG).
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluss des nachstehenden Staatsvertrages wird genehmigt.
+
+**Präambel**
+
+Die Mitgliedstaaten des Europarats und die anderen Staaten, die dieses Protokoll unterzeichnen –
+
+in dem Wunsch, die Anwendung des Übereinkommens über die Überstellung verurteilter Personen\*), das am 21. März 1983 in Straßburg zur Unterzeichnung aufgelegt wurde, (im folgenden als „Übereinkommen“ bezeichnet) zu erleichtern und insbesondere seine anerkannten Ziele zu verfolgen, nämlich den Interessen der Rechtspflege zu dienen und die soziale Wiedereingliederung verurteilter Personen zu fördern;
+
+in Anbetracht dessen, daß viele Staaten ihre eigenen Staatsangehörigen nicht ausliefern können;
+
+in der Erwägung, daß es wünschenswert ist, das Übereinkommen in bestimmten Punkten zu ergänzen –
+
+sind wie folgt übereingekommen:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\*) Kundgemacht in BGBl. Nr. 524/1986
+
+## Artikel 1 – Allgemeine Bestimmungen
+
+(1) Die in diesem Protokoll verwendeten Begriffe und Ausdrücke werden im Sinne des Übereinkommens ausgelegt.
+
+(2) Die Bestimmungen des Übereinkommens sind anwendbar, soweit sie mit den Bestimmungen dieses Protokolls vereinbar sind.
+
+## Artikel 2 – Personen, die aus dem Urteilsstaat geflohen sind
+
+(1) Versucht ein Staatsangehöriger einer Vertragspartei, gegen den im Hoheitsgebiet einer anderen Vertragspartei als Bestandteil eines rechtskräftigen Urteils eine Sanktion verhängt wurde, sich der Vollstreckung oder weiteren Vollstreckung der Sanktion im Urteilsstaat zu entziehen, indem er in das Hoheitsgebiet der ersteren Vertragspartei flieht, bevor er die Sanktion verbüßt hat, so kann der Urteilsstaat die andere Vertragspartei ersuchen, die Vollstreckung der Sanktion zu übernehmen.
+
+(2) Auf Ersuchen des Urteilsstaats kann der Vollstreckungsstaat vor Eingang der Unterlagen zum Ersuchen oder vor der Entscheidung über das Ersuchen die verurteilte Person festnehmen oder auf andere Weise sicherstellen, daß sie in seinem Hoheitsgebiet bleibt, bis eine Entscheidung über das Ersuchen ergangen ist. Ersuchen um vorläufige Maßnahmen müssen die in Artikel 4 Absatz 3 des Übereinkommens genannten Angaben enthalten. Die strafrechtliche Lage der verurteilten Person darf nicht infolge eines auf Grund dieses Absatzes in Haft verbrachten Zeitraums erschwert werden.
+
+(3) Die Zustimmung der verurteilten Person ist für die Übertragung der Vollstreckung der Sanktion nicht erforderlich.
+
+## Artikel 3 – Verurteilte Personen, die der Ausweisung oder Abschiebung unterliegen
+
+(1) Auf Ersuchen des Urteilsstaats kann der Vollstreckungsstaat vorbehaltlich der Bestimmungen dieses Artikels in die Überstellung einer verurteilten Person ohne deren Zustimmung einwilligen, wenn die gegen diese Person verhängte Sanktion oder eine infolge dieser Sanktion getroffene Verwaltungsentscheidung, eine Ausweisungs- oder Abschiebungsanordnung oder eine andere Maßnahme enthält, auf Grund deren es dieser Person nicht gestattet sein wird, nach der Entlassung aus der Haft im Hoheitsgebiet des Urteilsstaats zu bleiben.
+
+(2) Der Vollstreckungsstaat erteilt seine Einwilligung im Sinne des Absatzes 1 nicht ohne die Meinung der verurteilten Person zu berücksichtigen.
+
+(3) Zur Anwendung dieses Artikels stellt der Urteilsstaat dem Vollstreckungsstaat folgendes zur Verfügung:
+
+a) eine Erklärung, aus der die Meinung der verurteilten Person zu ihrer vorgesehenen Überstellung hervorgeht, und
+
+b) eine Abschrift der Ausweisungs- oder Abschiebungsanordnung oder einer sonstigen Anordnung, die bewirkt, daß die verurteilte Person nach der Entlassung aus der Haft nicht mehr im Hoheitsgebiet des Urteilsstaats bleiben darf.
+
+(4) Eine nach diesem Artikel überstellte Person darf wegen einer anderen vor der Überstellung begangenen Handlung als derjenigen, die der zu vollstreckenden Sanktion zugrunde liegt, nur dann verfolgt, abgeurteilt, zur Vollstreckung einer Strafe oder vorbeugenden Maßnahme in Haft gehalten oder einer sonstigen Beschränkung ihrer persönlichen Freiheit unterworfen werden,
+
+a) wenn der Urteilsstaat dies genehmigt; zu diesem Zweck ist ein Ersuchen zu stellen, dem alle zweckdienlichen Unterlagen und ein gerichtliches Protokoll über alle Erklärungen der verurteilten Person beizufügen sind. Die Genehmigung wird erteilt, wenn die strafbare Handlung, derentwegen darum ersucht wird, nach dem Recht des Urteilsstaats zur Auslieferung Anlaß geben könnte oder die Auslieferung nur wegen des Strafmaßes ausgeschlossen wäre;
+
+b) wenn die verurteilte Person, obwohl sie dazu die Möglichkeit hatte, das Hoheitsgebiet des Vollstreckungsstaats innerhalb von 45 Tagen nach ihrer endgültigen Freilassung nicht verlassen hat oder wenn sie nach Verlassen dieses Gebiets dorthin zurückgekehrt ist.
+
+(5) Unbeschadet des Absatzes 4 kann der Vollstreckungsstaat die nach seinem Recht erforderlichen Maßnahmen einschließlich eines Abwesenheitsverfahrens treffen, um die Verjährung zu unterbrechen.
+
+(6) Jeder Vertragsstaat kann durch eine an den Generalsekretär des Europarats gerichtete Erklärung mitteilen, daß er die Vollstreckung von Sanktionen unter den in diesem Artikel beschriebenen Voraussetzungen nicht übernehmen wird.
+
+## Artikel 4 – Unterzeichnung und Inkrafttreten
+
+(1) Dieses Protokoll liegt für die Mitgliedstaaten des Europarats und die anderen Staaten, die das Übereinkommen unterzeichnet haben, zur Unterzeichnung auf. Es bedarf der Ratifikation, Annahme oder Genehmigung. Ein Unterzeichner kann dieses Protokoll nur ratifizieren, annehmen oder genehmigen, wenn er das Übereinkommen zu einem früheren Zeitpunkt ratifiziert, angenommen oder genehmigt hat oder es gleichzeitig ratifiziert, annimmt oder genehmigt. Die Ratifikations-, Annahme- oder Genehmigungsurkunden werden beim Generalsekretär des Europarats hinterlegt.
+
+(2) Dieses Protokoll tritt am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach Hinterlegung der dritten Ratifikations-, Annahme- oder Genehmigungsurkunde folgt.
+
+(3) Für jeden Unterzeichnerstaat, der seine Ratifikations-, Annahme- oder Genehmigungsurkunde später hinterlegt, tritt das Protokoll am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach der Hinterlegung folgt.
+
+## Artikel 5 – Beitritt
+
+(1) Jeder Nichtmitgliedstaat, der dem Übereinkommen beigetreten ist, kann diesem Protokoll nach dessen Inkrafttreten beitreten.
+
+(2) Für jeden beitretenden Staat tritt das Protokoll am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach Hinterlegung der Beitrittsurkunde folgt.
+
+## Artikel 6 – Räumlicher Geltungsbereich
+
+(1) Jeder Staat kann bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde einzelne oder mehrere Hoheitsgebiete bezeichnen, auf die dieses Protokoll anwendbar ist.
+
+(2) Jeder Vertragsstaat kann jederzeit danach durch eine an den Generalsekretär des Europarats gerichtete Erklärung die Anwendung dieses Protokolls auf jedes weitere in der Erklärung bezeichnete Hoheitsgebiet erstrecken. Das Protokoll tritt für dieses Hoheitsgebiet am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach Eingang der Erklärung beim Generalsekretär folgt.
+
+(3) Jede nach den Absätzen 1 und 2 abgegebene Erklärung kann in bezug auf jedes darin bezeichnete Hoheitsgebiet durch eine an den Generalsekretär gerichtete Notifikation zurückgenommen werden. Die Rücknahme wird am ersten Tag des Monats wirksam, der auf einen Zeitabschnitt von drei Monaten nach Eingang der Notifikation beim Generalsekretär folgt.
+
+## Artikel 7 – Zeitlicher Geltungsbereich
+
+Dieses Protokoll ist auf die Vollstreckung von Sanktionen anwendbar, die vor oder nach seinem Inkrafttreten verhängt wurden.
+
+## Artikel 8 – Kündigung
+
+(1) Jeder Vertragsstaat kann dieses Protokoll jederzeit durch eine an den Generalsekretär des Europarats gerichtete Notifikation kündigen.
+
+(2) Die Kündigung wird am ersten Tag des Monats wirksam, der auf einen Zeitabschnitt von drei Monaten nach Eingang der Notifikation beim Generalsekretär folgt.
+
+(3) Das Protokoll ist jedoch weiterhin anwendbar auf die Vollstreckung von Sanktionen gegen Personen, die vor dem Wirksamwerden der Kündigung in Übereinstimmung mit dem Übereinkommen und diesem Protokoll überstellt worden sind.
+
+(4) Die Kündigung des Übereinkommens bedeutet gleichzeitig die Kündigung dieses Protokolls.
+
+## Artikel 9 – Notifikationen
+
+Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europarats, jedem Unterzeichner, jeder Vertragspartei und jedem anderen Staat, der eingeladen worden ist, dem Übereinkommen beizutreten,
+
+a) jede Unterzeichnung;
+
+b) jede Hinterlegung einer Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde;
+
+c) jeden Zeitpunkt des Inkrafttretens dieses Protokolls nach Artikel 4 oder 5;
+
+d) jede andere Handlung, Erklärung, Notifikation oder Mitteilung im Zusammenhang mit diesem Protokoll.
+
+Zu Urkund dessen haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben.
+
+Geschehen zu Straßburg am 18. Dezember 1997 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den anderen Staaten, die das Übereinkommen unterzeichnet haben, und jedem Staat, der eingeladen worden ist, dem Übereinkommen beizutreten, beglaubigte Abschriften.
+
+## Ratifikationstext
+
+***(Anm.: letzte Anpassung durch Kundmachung BGBl. III Nr. 197/2025)***
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde am 7. Dezember 2000 beim Generalsekretär des Europarats hinterlegt; das Zusatzprotokoll tritt gemäß seinem Art. 4 Abs. 3 für Österreich mit 1. April 2001 in Kraft.
+
+Nach Mitteilungen des Generalsekretärs haben folgende weitere Staaten das Zusatzprotokoll ratifiziert:
+
+Estland, Georgien, Island, die ehemalige jugoslawische Republik Mazedonien, Norwegen, Polen und Schweden.
+
+Anlässlich der Hinterlegung ihrer Ratifikationsurkunde haben nachstehende Staaten folgende Erklärungen abgegeben:
+
+Österreich erklärt gemäß Artikel 5, dass es das Protokoll im Verhältnis zu den Vertragsparteien, die eine Erklärung gleichen Inhalts abgegeben haben, vorläufig anwenden wird.
+
+Erklärungen und Vorbehalte sind in englischer und französischer Sprache auf der Webseite des Europarats unter [<u>http://conventions.coe.int/</u>](http://conventions.coe.int/) abrufbar [<u>[SEV Nr. 167]</u>](http://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/167/declarations?p_auth=lZDmAcqT):
+
+Österreich, Heiliger Stuhl, Litauen, Schweiz, Spanien, Ukraine
+
+**Belgien:**
+
+Die Regierung von Belgien erklärt, dass Belgien sich nicht verpflichtet, Art. 3 des Protokolls anzuwenden, wenn die verurteilte Person im Zeitpunkt ihrer Festnahme ihren gewöhnlichen Aufenthalt im Hoheitsgebiet des Königreiches hatte.
+
+**Irland:**
+
+Gemäß Art. 3 Abs. 6 des Zusatzprotokolls erklärt Irland, dass es Art. 3 des genannten Protokolls nicht anwenden wird und nicht die Vollstreckung von Sanktionen unter den in diesem Artikel beschriebenen Voraussetzungen übernehmen wird.
+
+**Italien**
+
+Italien hat am 15. Juni 2021 eine Erklärung zur vorläufigen Anwendung des Protokolls gemäß Art. 5 erklärt. Die Erklärung wird am 1. August 2021 wirksam.
+
+**Lettland:**
+
+Lettland hat am 25. November 2024 eine Erklärung zur vorläufigen Anwendung des Protokolls gemäß Art. 5 erklärt. Die Erklärung wird am 1. Jänner 2025 wirksam.
+
+**Moldau:**
+
+Die Republik Moldau erklärt, dass bis zur Herstellung der vollen territorialen Integrität der Republik Moldau die Bestimmungen des Zusatzprotokolls nur auf das von der Regierung der Republik Moldau kontrollierte Gebiet Anwendung finden.
+
+**Rumänien:**
+
+Anlässlich der Hinterlegung der Ratifikationsurkunde hat Rumänien erklärt, dass die zum Übereinkommen über die Überstellung verurteilter Personen abgegebenen Erklärungen *mutatis mutandis* auf das Zusatzprotokoll Anwendung finden.
+
+**Russische Föderation:**
+
+Gemäß Art. 3 Abs. 6 des Zusatzprotokolls erklärt die Russische Föderation, dass sie nicht die Vollstreckung von Sanktionen unter den in diesem Artikel beschriebenen Voraussetzungen übernehmen wird.
+
+**Schweden:**
+
+Schweden hat am 6. November 2025 eine Erklärung zur vorläufigen Anwendung des Protokolls gemäß Art. 5 erklärt. Die Erklärung wird am 1. Jänner 2026 wirksam.
+
+**Spanien:**
+
+Anlässlich der Hinterlegung der Ratifikationsurkunde zum Zusatzprotokoll hat Spanien eine Erklärung für den Fall abgegeben, dass das gegenständliche Zusatzprotokoll vom Vereinigten Königreich ratifiziert und dessen Anwendung auf Gibraltar erstreckt wird.
+
+**Türkei:**
+
+In Übereinstimmung mit Art. 3 Abs. 6 des Zusatzprotokolls erklärt die Regierung der Republik Türkei, dass sie die Anwendung des Art. 3 des genannten Protokolls ausschließt, und sofern nichts anderes mitgeteilt wurde, nicht die Vollstreckung von Sanktionen unter den in Art. 3 beschriebenen Voraussetzungen übernehmen wird.
+
+**Ukraine:**
+
+Die Ukraine hat am 1. Dezember 2020 eine Erklärung zur vorläufigen Anwendung gemäß Art. 5 des Protokolls abgegeben. Die Erklärung wird am 1. Februar 2021 wirksam.
+
+**Ungarn**
+
+Ungarn hat am 13. Februar 2023 eine Erklärung zur vorläufigen Anwendung gemäß Art. 5 des Protokolls erklärt. Die Erklärung wird am 1. April 2023 wirksam.
+
+**Vereinigtes Königreich:**
+
+Einer weiteren Mitteilung des Generalsekretärs zufolge hat das Vereinigte Königreich den Geltungsbereich des Übereinkommens über die Überstellung verurteilter Personen, geändert durch das Zusatzprotokoll, mit Wirksamkeit vom 1. Juni 2013 auf Jersey ausgedehnt.
+
+Das Vereinigte Königreich hat am 2. August 2023 eine Erklärung zur vorläufigen Anwendung gemäß Art. 5 des Protokolls erklärt. Die Erklärung wird am 1. April 2023 wirksam.

@@ -51,7 +51,9 @@ Die Bevollmächtigten haben nach Austausch ihrer in guter und gehöriger Form be
 
 ## Artikel 1
 
-### Unter das Abkommen fallende Nachlässe, Erbschaften und Schenkungen
+**Unter das Abkommen fallende Nachlässe, Erbschaften und Schenkungen**
+
+### Art. 1
 
 Dieses Abkommen gilt für
 
@@ -61,7 +63,9 @@ b) Schenkungen, wenn der Schenker im Zeitpunkt der Schenkung einen Wohnsitz in e
 
 ## Artikel 2
 
-### Unter das Abkommen fallende Steuern
+**Unter das Abkommen fallende Steuern**
+
+### Art. 2
 
 (1) Dieses Abkommen gilt:
 
@@ -73,7 +77,9 @@ b) in der Republik Österreich: für die Erbschafts- und Schenkungssteuer.
 
 ## Artikel 3
 
-### Allgemeine Begriffsbestimmungen
+**Allgemeine Begriffsbestimmungen**
+
+### Art. 3
 
 (1) Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert,
 
@@ -89,7 +95,9 @@ ii) in der Republik Österreich: den Bundesminister für Finanzen oder sein bevo
 
 ## Artikel 4
 
-### Steuerlicher Wohnsitz
+**Steuerlicher Wohnsitz**
+
+### Art. 4
 
 (1) Im Sinne dieses Abkommens bedeutet der Ausdruck „eine Person mit Wohnsitz in einem Vertragstaat“ eine Person, deren Nachlaß oder Schenkung nach dem Recht dieses Staates dort auf Grund ihres Wohnsitzes, ihres ständigen Aufenthalts, des Ortes ihrer Geschäftsleitung oder eines anderen ähnlichen Merkmals steuerpflichtig ist. Der Ausdruck umfaßt jedoch nicht eine Person, deren Nachlaß oder Schenkung in diesem Staat nur mit in diesem Staat gelegenem Vermögen steuerpflichtig ist.
 
@@ -107,7 +115,9 @@ d) ist die Person Staatsangehöriger beider Staaten oder keines der Staaten, so 
 
 ## Artikel 5
 
-### Unbewegliches Vermögen
+**Unbewegliches Vermögen**
+
+### Art. 5
 
 (1) Unbewegliches Vermögen, das Teil des Nachlasses oder einer Schenkung einer Person mit Wohnsitz in einem Vertragstaat ist und das im anderen Vertragstaat liegt, darf im anderen Staat besteuert werden.
 
@@ -119,7 +129,9 @@ d) ist die Person Staatsangehöriger beider Staaten oder keines der Staaten, so 
 
 ## Artikel 6
 
-### Bewegliches Vermögen einer Betriebstätte oder einer festen Einrichtung
+**Bewegliches Vermögen einer Betriebstätte oder einer festen Einrichtung**
+
+### Art. 6
 
 (1) Bewegliches Vermögen eines Unternehmens, das Teil des Nachlasses oder einer Schenkung einer Person mit Wohnsitz in einem Vertragstaat ist und das Betriebsvermögen einer im anderen Vertragstaat gelegenen Betriebstätte darstellt, darf im anderen Staat besteuert werden.
 
@@ -159,7 +171,9 @@ f) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 ## Artikel 7
 
-### Bewegliches körperliches Vermögen
+**Bewegliches körperliches Vermögen**
+
+### Art. 7
 
 (1) Bewegliches körperliches Vermögen, das Teil des Nachlasses oder einer Schenkung einer Person mit Wohnsitz in einem Vertragstaat ist, das in Artikel 6 nicht behandelt wurde und in dem anderen Vertragstaat belegen ist, darf in dem anderen Vertragstaat besteuert werden.
 
@@ -167,13 +181,17 @@ f) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 ## Artikel 8
 
-### Anderes Vermögen
+**Anderes Vermögen**
+
+### Art. 8
 
 Vermögen, das Teil des Nachlasses oder einer Schenkung einer Person mit Wohnsitz in einem Vertragstaat ist und in den Artikeln 5, 6 und 7 nicht behandelt wurde, darf ohne Rücksicht auf seine Belegenheit nur in diesem Staat besteuert werden.
 
 ## Artikel 9
 
-### Schuldenabzug
+**Schuldenabzug**
+
+### Art. 9
 
 (1) Schulden, die durch das in Artikel 5 genannte Vermögen besonders gesichert sind, werden vom Wert dieses Vermögens abgezogen. Schulden, die zwar nicht durch das in Artikel 5 genannte Vermögen besonders gesichert sind, die aber im Zusammenhang mit dem Erwerb, der Änderung, der Instandsetzung oder der Instandhaltung solchen Vermögens entstanden sind, werden vom Wert dieses Vermögens abgezogen.
 
@@ -191,7 +209,9 @@ Vermögen, das Teil des Nachlasses oder einer Schenkung einer Person mit Wohnsit
 
 ## Artikel 10
 
-### Öffentlich-rechtliche Körperschaften und gemeinnützige Einrichtungen
+**Öffentlich-rechtliche Körperschaften und gemeinnützige Einrichtungen**
+
+### Art. 10
 
 (1) Vorbehaltlich einer einzelfallbezogenen Verständigung zwischen den zuständigen Behörden der Vertragstaaten gelten die nach dem Recht eines Vertragstaates zugunsten dieses Staates, seiner Gebietskörperschaften oder einer anderen Körperschaft des öffentlichen Rechts für andere als industrielle oder gewerbliche Tätigkeiten vorgesehenen Steuerbefreiungen und -begünstigungen unter den entsprechend gleichen Bedingungen auch zugunsten des anderen Staates, dessen Gebietskörperschaften und von Körperschaften des öffentlichen Rechts mit gleicher oder entsprechender Tätigkeit.
 
@@ -199,7 +219,9 @@ Vermögen, das Teil des Nachlasses oder einer Schenkung einer Person mit Wohnsit
 
 ## Artikel 11
 
-### Vermeidung der Doppelbesteuerung
+**Vermeidung der Doppelbesteuerung**
+
+### Art. 11
 
 (1) Die Französische Republik vermeidet die Doppelbesteuerung wie folgt:
 
@@ -221,13 +243,17 @@ c) In jedem Fall kann Österreich das von der Besteuerung ausgenommene Vermögen
 
 ## Artikel 12
 
-### Verjährung
+**Verjährung**
+
+### Art. 12
 
 Auf dieses Abkommen gegründete Steueranrechnungsanträge und Steuerrückerstattungsanträge müssen innerhalb einer Frist von fünf Jahren nach der Verwirklichung des Steuertatbestandes oder bei Ablauf dieser Frist innerhalb von zwei Jahren nach Eintritt der Fälligkeit der anrechenbaren Steuer gestellt werden.
 
 ## Artikel 13
 
-### Verständigungsverfahren
+**Verständigungsverfahren**
+
+### Art. 13
 
 (1) Ist eine Person der Auffassung, daß Maßnahmen eines Vertragstaats oder beider Vertragstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie unbeschadet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde eines der beiden Vertragstaaten unterbreiten. Der Fall muß innerhalb von drei Jahren nach der ersten Mitteilung der Maßnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
 
@@ -241,7 +267,9 @@ Auf dieses Abkommen gegründete Steueranrechnungsanträge und Steuerrückerstatt
 
 ## Artikel 14
 
-### Informationsaustausch
+**Informationsaustausch**
+
+### Art. 14
 
 (1) Die zuständigen Behörden der Vertragstaaten tauschen Informationen aus, die zur Durchführung dieses Abkommens oder des innerstaatlichen Rechts der Vertragstaaten betreffend die unter das Abkommen fallenden Steuern erforderlich sind, soweit die diesem Recht entsprechende Besteuerung nicht dem Abkommen widerspricht. Der Informationsaustausch ist durch Artikel 1 nicht eingeschränkt. Alle Informationen, die ein Vertragstaat erhalten hat, sind ebenso geheimzuhalten wie die auf Grund des innerstaatlichen Rechts dieses Staates beschafften Informationen und dürfen nur den Personen oder Behörden (einschließlich der Gerichte und der Verwaltungsbehörden) zugänglich gemacht werden, die mit der Veranlagung oder Erhebung, der Vollstreckung oder Strafverfolgung oder mit der Entscheidung von Rechtsmitteln hinsichtlich der unter das Abkommen fallenden Steuern befaßt sind. Diese Personen oder Behörden dürfen die Informationen nur für diese Zwecke verwenden. Sie dürfen die Informationen in einem öffentlichen Gerichtsverfahren oder einer Gerichtsentscheidung offenlegen.
 
@@ -257,7 +285,9 @@ c) Informationen zu erteilen, die ein Handels-, Industrie-, Gewerbe- oder Berufs
 
 ## Artikel 15
 
-### Vollstreckungsrechtshilfe
+**Vollstreckungsrechtshilfe**
+
+### Art. 15
 
 (1) Die beiden Vertragstaaten unterstützen sich gegenseitig bei der Abgabeneinhebung nach Maßgabe der gesetzlichen und verwaltungsbehördlichen Vorschriften hinsichtlich der unter dieses Abkommen fallenden Steuern sowie hinsichtlich der Abgabenerhöhungen, der Abgabenzuschläge, der Säumniszuschläge und hinsichtlich der Zinsen und Verfahrenskosten in bezug auf diese Steuern.
 
@@ -303,13 +333,17 @@ b) Verwaltungsmaßnahmen durchzuführen, die aus seiner Sicht gegen den Ordre pu
 
 ## Artikel 16
 
-### Diplomaten und Konsularbeamte
+**Diplomaten und Konsularbeamte**
+
+### Art. 16
 
 Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Diplomaten und Konsularbeamten nach den allgemeinen Regeln des Völkerrechts oder auf Grund besonderer Vereinbarungen zustehen.
 
 ## Artikel 17
 
-### Räumlicher Geltungsbereich
+**Räumlicher Geltungsbereich**
+
+### Art. 17
 
 (1) Dieses Abkommen findet Anwendung
 
@@ -323,7 +357,9 @@ b) auf das Gebiet der Republik Österreich.
 
 ## Artikel 18
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 18
 
 (1) Jeder der Vertragstaaten teilt dem anderen die Erfüllung der für das Inkrafttreten dieses Abkommens erforderlichen Maßnahmen mit. Das Abkommen tritt sodann am ersten Tag des zweiten Monats in Kraft, der auf den Tag der Entgegennahme der letzten dieser Mitteilungen folgt.
 
@@ -337,7 +373,9 @@ b) auf das Gebiet der Republik Österreich.
 
 ## Artikel 19
 
-### Kündigung
+**Kündigung**
+
+### Art. 19
 
 (1) Dieses Abkommen bleibt auf unbestimmte Zeit in Kraft. Jedoch kann es jeder Vertragstaat auf diplomatischem Weg unter Wahrung einer mindestens sechsmonatigen Kündigungsfrist zum Ende eines Kalenderjahres kündigen.
 

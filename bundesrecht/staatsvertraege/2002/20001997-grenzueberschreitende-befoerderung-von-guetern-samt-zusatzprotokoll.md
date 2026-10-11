@@ -115,7 +115,9 @@ die Beförderung von Gütern innerhalb eines Staates durch ein im anderen Staat 
 
 ### Artikel 3
 
-#### Grundsätze und Kriterien der Zusammenarbeit
+**Grundsätze und Kriterien der Zusammenarbeit**
+
+#### Art. 3
 
 1\. Die zuständigen Behörden der Vertragsparteien streben an, im Bereich des Kombinierten Verkehrs im grenzüberschreitenden sowie im Drittlandverkehr zusammenzuarbeiten und die erforderlichen und gesamtwirtschaftlich vertretbaren Maßnahmen zu ergreifen, um einen möglichst hohen Marktanteil des Kombinierten Verkehrs zu gewährleisten.
 
@@ -123,7 +125,9 @@ die Beförderung von Gütern innerhalb eines Staates durch ein im anderen Staat 
 
 ## Artikel 4
 
-#### Förderung des Kombinierten Verkehrs
+**Förderung des Kombinierten Verkehrs**
+
+#### Art. 4
 
 1\. Die Vertragsparteien wirken darauf hin, daß die Eisenbahnunternehmen und die Gesellschaften des Kombinierten Verkehrs im Rahmen ihrer Zuständigkeit die hiefür erforderlichen und gesamtwirtschaftlich vertretbaren Maßnahmen vorsehen, insbesondere hinsichtlich des Abbaus der administrativen und organisatorischen Hemmnisse.
 
@@ -133,13 +137,17 @@ die Beförderung von Gütern innerhalb eines Staates durch ein im anderen Staat 
 
 ## Artikel 5
 
-#### Ausbau der Infrastruktur für den Kombinierten Verkehr
+**Ausbau der Infrastruktur für den Kombinierten Verkehr**
+
+#### Art. 5
 
 Die Vertragsparteien werden der Erfüllung des AGTC, dem TER-Projekt sowie den Projekten im Rahmen der Zentraleuropäischen Verkehrsministerkonferenz Aufmerksamkeit zuwenden. In diesem Zusammenhang werden die Vertragsparteien eng zusammenarbeiten, um eine Verbesserung der Verkehrsverbindungen, die beide Staaten betreffen, zu erreichen.
 
 ## Artikel 6
 
-#### Grenzabfertigung
+**Grenzabfertigung**
+
+#### Art. 6
 
 Die Vertragsparteien werden sich bemühen, die Grenzaufenthaltszeiten im Güterverkehr entscheidend zu verkürzen. Zu diesem Zweck werden die Vertragsparteien darauf hinwirken, die administrativen, technischen, betrieblichen und organisatorischen Abläufe zu beschleunigen, insbesondere im Kombinierten Verkehr die Grenzabfertigung in die Terminals zu verlegen.
 
@@ -149,7 +157,9 @@ Die Vertragsparteien werden sich bemühen, die Grenzaufenthaltszeiten im Güterv
 
 ### Artikel 7
 
-#### Genehmigungspflichtige Verkehre
+**Genehmigungspflichtige Verkehre**
+
+#### Art. 7
 
 1\. Die im Teil I angeführten Verkehrsarten bedürfen, unbeschadet des Artikels 8, sofern mit ihnen ein Straßentransport verbunden ist, einer Genehmigung der zuständigen Behörde des Staates der Vertragspartei, in dem der Straßentransport stattfindet.
 
@@ -163,7 +173,9 @@ b) eingeschränkte Genehmigungen (zB: örtlich, nach Güterarten, für bestimmte
 
 ## Artikel 8
 
-#### Genehmigungsfreie Verkehre
+**Genehmigungsfreie Verkehre**
+
+#### Art. 8
 
 1\. Einer Genehmigung bedürfen nicht:
 
@@ -193,7 +205,9 @@ j) die Beförderung von Bienen und Fischbrut.
 
 ## Artikel 9
 
-#### Genehmigung
+**Genehmigung**
+
+#### Art. 9
 
 1\. Die Genehmigung muß folgende Angaben enthalten:
 
@@ -217,7 +231,9 @@ e) Dauer der Gültigkeit.
 
 ## Artikel 10
 
-#### Kabotageverbot
+**Kabotageverbot**
+
+#### Art. 10
 
 1\. Grundsätzlich gilt ein gegenseitiges Kabotageverbot.
 
@@ -225,7 +241,9 @@ e) Dauer der Gültigkeit.
 
 ## Artikel 11
 
-#### Sanktionsbestimmungen
+**Sanktionsbestimmungen**
+
+#### Art. 11
 
 1\. Die Beförderer sowie deren Besatzungen sind verpflichtet, während der Fahrt auf dem Hoheitsgebiet des anderen Staates die Beförderungs- und Verkehrsvorschriften sowie die sonstigen Rechtsvorschriften, die auf dem Hoheitsgebiet dieses Staates Gültigkeit haben, einzuhalten.
 
@@ -245,7 +263,9 @@ c) Einstellung der Ausgabe von Genehmigungen an den verantwortlichen Beförderer
 
 ## Artikel 12
 
-#### Kontingente
+**Kontingente**
+
+#### Art. 12
 
 1\. Anzahl der Genehmigungen (Kontingente), Gültigkeit, Zeitpunkt und Intervall der Übergabe werden jeweils für zwölf Monate (Kontingentzeitraum) im Rahmen der Gemischten Kommission zwischen den zuständigen Behörden der Vertragsparteien vereinbart. Dabei ist auf die Erreichung der in der Präambel und in Artikel 3 genannten Grundsätze und Kriterien Bedacht zu nehmen.
 
@@ -253,7 +273,9 @@ c) Einstellung der Ausgabe von Genehmigungen an den verantwortlichen Beförderer
 
 ## Artikel 13
 
-#### Umweltverträgliche Lastfahrzeuge
+**Umweltverträgliche Lastfahrzeuge**
+
+#### Art. 13
 
 In Übereinstimmung mit den Zielsetzungen des Schutzes der Bevölkerung und der Umwelt sollen möglichst rasch umweltverträgliche Lastfahrzeuge nach dem Stand der Technik eingesetzt werden. Die Gemischte Kommission wird Vorschläge für Förderungsmaßnahmen zum Einsatz solcher Lastfahrzeuge ausarbeiten, ebenso für die Bindung bestimmter Teile des vereinbarten Kontingents an solche Lastfahrzeuge.
 
@@ -273,7 +295,9 @@ In Übereinstimmung mit den Zielsetzungen des Schutzes der Bevölkerung und der 
 
 ### Artikel 15
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 15
 
 1\. Diese Vereinbarung tritt am ersten Tag des zweiten Monats in Kraft, nachdem die Vertragsparteien einander den Abschluß der innerstaatlich vorgesehenen Verfahren notifiziert haben, wobei das Datum der Zustellung der späteren Notifizierung maßgebend ist.
 
@@ -285,7 +309,9 @@ In Übereinstimmung mit den Zielsetzungen des Schutzes der Bevölkerung und der 
 
 ## Artikel 16
 
-#### Vertragsdauer
+**Vertragsdauer**
+
+#### Art. 16
 
 Dieses Abkommen wird für die Dauer von drei Jahren abgeschlossen. Seine Gültigkeit verlängert sich automatisch jeweils um ein weiteres Jahr, sofern nicht eine der Vertragsparteien dieses Abkommen spätestens drei Monate vor Ablauf dieser Frist schriftlich auf diplomatischem Weg kündigt.
 

@@ -31,13 +31,17 @@ Die Republik Österreich und die Ungarische Volksrepublik, von dem Wunsche gelei
 
 ## Artikel 1
 
-### Unter das Abkommen fallende Nachlässe
+**Unter das Abkommen fallende Nachlässe**
+
+### Art. 1
 
 Dieses Abkommen gilt für Nachlässe von Erblassern, die im Zeitpunkt ihres Todes einen Wohnsitz in einem Vertragstaat oder in beiden Vertragstaaten hatten.
 
 ## Artikel 2
 
-### Unter das Abkommen fallende Steuern
+**Unter das Abkommen fallende Steuern**
+
+### Art. 2
 
 (1) Dieses Abkommen gilt, ohne Rücksicht auf die Art der Erhebung, für Nachlaß- und Erbschaftsteuern, die für Rechnung eines der beiden Vertragstaaten oder seiner Gebietskörperschaften erhoben werden.
 
@@ -57,7 +61,9 @@ die Erbschaftsteuer, soweit ihr Erwerb von Todes wegen oder Zweckzuwendungen von
 
 ## Artikel 3
 
-### Allgemeine Definitionen
+**Allgemeine Definitionen**
+
+### Art. 3
 
 (1) Im Sinne dieses Abkommens bedeutet der Ausdruck “zuständige Behörde”
 
@@ -69,7 +75,9 @@ die Erbschaftsteuer, soweit ihr Erwerb von Todes wegen oder Zweckzuwendungen von
 
 ## Artikel 4
 
-### Steuerlicher Wohnsitz
+**Steuerlicher Wohnsitz**
+
+### Art. 4
 
 (1) Ob ein Erblasser im Zeitpunkt seines Todes einen Wohnsitz in einem Vertragstaat hatte, bestimmt sich bei Anwendung dieses Abkommens nach dem Recht dieses Staates.
 
@@ -85,7 +93,9 @@ d) Besaß der Erblasser die Staatsangehörigkeit beider Vertragstaaten oder kein
 
 ## Artikel 5
 
-### Unbewegliches Vermögen
+**Unbewegliches Vermögen**
+
+### Art. 5
 
 (1) Unbewegliches Vermögen darf in dem Vertragstaat besteuert werden, in dem dieses Vermögen liegt.
 
@@ -95,7 +105,9 @@ d) Besaß der Erblasser die Staatsangehörigkeit beider Vertragstaaten oder kein
 
 ## Artikel 6
 
-### Vermögen einer Betriebstätte und Vermögen einer der Ausübung eines freien Berufes dienenden festen Einrichtung
+**Vermögen einer Betriebstätte und Vermögen einer der Ausübung eines freien Berufes dienenden festen Einrichtung**
+
+### Art. 6
 
 (1) Vermögen, das Betriebsvermögen einer Betriebstätte eines Unternehmens darstellt - ausgenommen das nach den Artikeln 5 und 7 zu behandelnde Vermögen -, darf in dem Vertragstaat besteuert werden, in dem sich die Betriebstätte befindet.
 
@@ -137,19 +149,25 @@ e) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 ## Artikel 7
 
-### Schiffe und Luftfahrzeuge
+**Schiffe und Luftfahrzeuge**
+
+### Art. 7
 
 Schiffe und Luftfahrzeuge im internationalen Verkehr sowie bewegliches Vermögen, das dem Betrieb dieser Schiffe und Luftfahrzeuge dient, dürfen in dem Vertragstaat besteuert werden, in dem der Erblasser zum Zeitpunkt des Todes seinen Wohnsitz hatte.
 
 ## Artikel 8
 
-### Nicht ausdrücklich erwähntes Vermögen
+**Nicht ausdrücklich erwähntes Vermögen**
+
+### Art. 8
 
 Das nicht nach den Artikeln 5, 6 und 7 zu behandelnde Vermögen darf nur in dem Vertragstaat besteuert werden, in dem der Erblasser zum Zeitpunkt des Todes seinen Wohnsitz hatte.
 
 ## Artikel 9
 
-### Schuldenabzug
+**Schuldenabzug**
+
+### Art. 9
 
 (1) Schulden, die durch das in Artikel 5 genannte Vermögen besonders gesichert sind, werden vom Wert dieses Vermögens abgezogen. Schulden, die zwar nicht durch das in Artikel 5 genannte Vermögen besonders gesichert sind, die aber im Zusammenhang mit dem Erwerb, der Änderung, der Instandsetzung oder Instandhaltung solchen Vermögens entstanden sind, werden vom Wert dieses Vermögens abgezogen.
 
@@ -163,13 +181,17 @@ Das nicht nach den Artikeln 5, 6 und 7 zu behandelnde Vermögen darf nur in dem 
 
 ## Artikel 10
 
-### Vermeidung der Doppelbesteuerung
+**Vermeidung der Doppelbesteuerung**
+
+### Art. 10
 
 Der Vertragstaat, in dem der Erblasser zum Zeitpunkt des Todes seinen Wohnsitz hatte, nimmt das Vermögen, das nach diesem Abkommen im anderen Vertragstaat besteuert werden darf, von der Besteuerung aus; dieser Staat darf aber bei der Festsetzung der Steuer für das Vermögen, für das er das Besteuerungsrecht behält, den Steuersatz anwenden, der anzuwenden wäre, wenn das betreffende Vermögen nicht von der Besteuerung ausgenommen wäre.
 
 ## Artikel 11
 
-### Verständigungsverfahren
+**Verständigungsverfahren**
+
+### Art. 11
 
 (1) Ist eine Person der Auffassung, daß die Maßnahmen eines Vertragstaates oder beider Vertragstaaten für sie zu einer Besteuerung geführt haben oder führen werden, die diesem Abkommen nicht entspricht, so kann sie unbeschadet der nach innerstaatlichem Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde eines der beiden Staaten unterbreiten.
 
@@ -181,7 +203,9 @@ Der Vertragstaat, in dem der Erblasser zum Zeitpunkt des Todes seinen Wohnsitz h
 
 ## Artikel 12
 
-### Austausch von Informationen
+**Austausch von Informationen**
+
+### Art. 12
 
 (1) Die zuständigen Behörden der Vertragstaaten werden die zur Durchführung dieses Abkommens erforderlichen Informationen austauschen. Die zuständigen Behörden der Vertragstaaten sind jedoch nicht verpflichtet, Auskünfte zu erteilen, die nicht auf Grund der bei den Finanzbehörden vorhandenen Unterlagen gegeben werden können, sondern gesonderte Ermittlungen erfordern würden. Alle so ausgetauschten Informationen sind geheimzuhalten und dürfen nur solchen Personen oder Behörden zugänglich gemacht werden, die mit der Veranlagung oder Einhebung der unter das Abkommen fallenden Steuern befaßt sind.
 
@@ -197,13 +221,17 @@ widerspräche.
 
 ## Artikel 13
 
-### Diplomatische und konsularische Beamte
+**Diplomatische und konsularische Beamte**
+
+### Art. 13
 
 Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Mitgliedern diplomatischer oder konsularischer Vertretungen nach den allgemeinen Regeln des Völkerrechts oder auf Grund besonderer Vereinbarungen zustehen.
 
 ## Artikel 14
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 14
 
 (1) Dieses Abkommen ist der Rechtsordnung eines jeden der beiden Vertragstaaten gemäß zu ratifizieren. Die Ratifikationsurkunden sind so bald wie möglich in Budapest auszutauschen.
 
@@ -211,7 +239,9 @@ Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Mitgliedern d
 
 ## Artikel 15
 
-### Außerkrafttreten
+**Außerkrafttreten**
+
+### Art. 15
 
 Dieses Abkommen bleibt in Kraft, solange es nicht von einem der Vertragstaaten gekündigt worden ist.
 

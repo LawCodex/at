@@ -31,7 +31,9 @@ Sind wie folgt übereingekommen:
 
 ## ARTIKEL 1
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 1
 
 Im Sinne dieses Abkommens:
 
@@ -51,7 +53,9 @@ Im Sinne dieses Abkommens:
 
 ## ARTIKEL 2
 
-### Gleichwertigkeit der Klassifizierungsstufen
+**Gleichwertigkeit der Klassifizierungsstufen**
+
+### Art. 2
 
 1\. Die Parteien legen die Gleichwertigkeit der folgenden Klassifizierungsstufen fest:
 
@@ -70,7 +74,9 @@ Die französische Partei behandelt und schützt österreichische Informationen, 
 
 ## ARTIKEL 3
 
-### Kennzeichnung
+**Kennzeichnung**
+
+### Art. 3
 
 1\. Der Empfänger kennzeichnet empfangene Informationen mit seiner eigenen nationalen Klassifizierungsstufe entsprechend der in Artikel 2 Absatz 1 dieses Abkommens festgelegten Gleichwertigkeit.
 
@@ -78,7 +84,9 @@ Die französische Partei behandelt und schützt österreichische Informationen, 
 
 ## ARTIKEL 4
 
-### Sicherheitsgrundsätze
+**Sicherheitsgrundsätze**
+
+### Art. 4
 
 1\. Die Parteien treffen gemäß diesem Abkommen und gemäß ihrem innerstaatlichen Recht alle geeigneten Maßnahmen, um den Schutz ausgetauschter Klassifizierter Informationen und die erforderliche Kontrolle dieses Schutzes sicherzustellen.
 
@@ -104,7 +112,9 @@ Die französische Partei behandelt und schützt österreichische Informationen, 
 
 ## ARTIKEL 5
 
-### Klassifizierte Verträge oder Verträge, die Sicherheitsbestimmungen enthalten
+**Klassifizierte Verträge oder Verträge, die Sicherheitsbestimmungen enthalten**
+
+### Art. 5
 
 1\. Im Zusammenhang mit der Vorbereitung oder dem Abschluss Klassifizierter Verträge oder Verträge, die Sicherheitsbestimmungen enthalten, informieren die Sicherheitsbehörden einander auf Ersuchen über die höchste Stufe der im Vertrag enthaltenen Informationen sowie über die etwaige Ausstellung einer gültigen Sicherheitsunbedenklichkeitsbescheinigung für Unternehmen und Anlagen oder die Einleitung eines entsprechenden Verfahrens. Liegt eine solche Bescheinigung nicht vor, so leiten die Sicherheitsbehörden des Empfängers eine Sicherheitsüberprüfung entsprechend der erforderlichen Klassifizierungsstufe ein.
 
@@ -124,7 +134,9 @@ b) dass alle Personen, die Zugang zu Klassifizierten Informationen haben, für d
 
 ## ARTIKEL 6
 
-### Übermittlung von Informationen
+**Übermittlung von Informationen**
+
+### Art. 6
 
 1\. Als VERTRAULICH / CONFIDENTIEL DEFENSE und höher gekennzeichnete Informationen werden auf diplomatischem Wege oder auf andere gegen jegliche Sicherheitsverletzung geschützte und zwischen den Sicherheitsbehörden vereinbarte Weise übermittelt.
 
@@ -142,7 +154,9 @@ d) der Empfang der Klassifizierten Informationen wird unverzüglich schriftlich 
 
 ## ARTIKEL 7
 
-### Besuche
+**Besuche**
+
+### Art. 7
 
 1\. Der Zugang zu Klassifizierten Informationen sowie zu Einrichtungen, in denen Klassifizierte Informationen verarbeitet oder aufbewahrt werden, wird Besuchern nur im notwendigen Ausmaß und mit Genehmigung der Sicherheitsbehörde gewährt. Die Genehmigung wird nur Personen erteilt, die gemäß dem innerstaatlichen Recht zum Zugang zu Klassifizierten Informationen der entsprechenden Stufe berechtigt sind.
 
@@ -176,7 +190,9 @@ g) das Datum, die Unterschrift und den offiziellen Stempel der Sicherheitsbehör
 
 ## ARTIKEL 8
 
-### Konsultationen
+**Konsultationen**
+
+### Art. 8
 
 1\. Um gleichwertige Sicherheitsbestimmungen beizubehalten, wird jede Partei
 
@@ -190,7 +206,9 @@ c) den direkten Kontakt zwischen den Sicherheitsbehörden ermöglichen.
 
 ## ARTIKEL 9
 
-### Verletzung des Rechts über den Schutz Klassifizierter Informationen
+**Verletzung des Rechts über den Schutz Klassifizierter Informationen**
+
+### Art. 9
 
 1\. Im Falle des Verdachts oder des Bestehens einer Verletzung des nationalen Rechts über den Schutz Klassifizierter Informationen mit Auswirkung auf nach diesem Abkommen übermittelte Informationen werden die Sicherheitsbehörden der anderen Partei unverzüglich schriftlich informiert. Diese Information erfolgt hinreichend ausführlich, um eine vollständige Folgeneinschätzung zu ermöglichen.
 
@@ -198,31 +216,41 @@ c) den direkten Kontakt zwischen den Sicherheitsbehörden ermöglichen.
 
 ## ARTIKEL 10
 
-### Kosten
+**Kosten**
+
+### Art. 10
 
 Jede Partei trägt im Rahmen ihrer verfügbaren Mittel die ihr im Zuge der Durchführung dieses Abkommens erwachsenden Kosten.
 
 ## ARTIKEL 11
 
-### Sicherheitsbehörden
+**Sicherheitsbehörden**
+
+### Art. 11
 
 Jede Parteien teilt der anderen Partei auf diplomatischem Weg ihre Nationalen Sicherheitsbehörden und die anderen Sicherheitsbehörden und –stellen mit, die für die Durchführung dieses Abkommens zuständig sind.
 
 ## ARTIKEL 12
 
-### Verhältnis zu anderen Abkommen und Vereinbarungen
+**Verhältnis zu anderen Abkommen und Vereinbarungen**
+
+### Art. 12
 
 Mit dem Inkrafttreten dieses Abkommens tritt jedes frühere bilaterale Abkommen oder jede frühere bilaterale Vereinbarung über den Schutz Klassifizierter Informationen außer Kraft. Bis zum Zeitpunkt des Inkrafttretens des neuen Abkommens unterliegen die vor dem Inkrafttreten ausgetauschten Klassifizierten Informationen den früheren Bestimmungen.
 
 ## ARTIKEL 13
 
-### Streitbeilegung
+**Streitbeilegung**
+
+### Art. 13
 
 Streitigkeiten über die Anwendung oder Auslegung dieses Abkommens werden im Wege direkter Gespräche zwischen den Parteien beigelegt.
 
 ## ARTIKEL 14
 
-### Schlussbestimmungen
+**Schlussbestimmungen**
+
+### Art. 14
 
 1\. Dieses Abkommen wird auf unbestimmte Zeit geschlossen. Jede der Parteien teilt der anderen den Abschluss des für sein Inkrafttreten erforderlichen innerstaatlichen Verfahrens mit. Das Abkommen tritt am ersten Tag des zweiten Monats nach dieser Mitteilung in Kraft.
 

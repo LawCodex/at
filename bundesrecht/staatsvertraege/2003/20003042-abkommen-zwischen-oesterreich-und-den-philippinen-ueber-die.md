@@ -37,7 +37,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## ARTIKEL 1
 
-#### Definitionen
+**Definitionen**
+
+#### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -69,7 +71,9 @@ d) in Bezug auf die Republik der Philippinen: juristische Personen, einschließl
 
 ## ARTIKEL 2
 
-#### Förderung und Schutz von Investitionen
+**Förderung und Schutz von Investitionen**
+
+#### Art. 2
 
 (1) Jede Vertragspartei fördert so weit wie möglich in ihrem Hoheitsgebiet Investitionen von Investoren der anderen Vertragspartei, lässt diese Investitionen in Übereinstimmung mit ihren Rechtsvorschriften zu und gewährt diesen Investitionen in jedem Fall eine gerechte und billige Behandlung.
 
@@ -77,7 +81,9 @@ d) in Bezug auf die Republik der Philippinen: juristische Personen, einschließl
 
 ## ARTIKEL 3
 
-#### Behandlung von Investitionen
+**Behandlung von Investitionen**
+
+#### Art. 3
 
 (1) Jede Vertragspartei gewährt Investoren der anderen Vertragspartei und deren Investitionen eine nicht weniger günstige Behandlung als die, die sie ihren eigenen Investoren und deren Investitionen oder Investoren jedes Drittstaates und deren Investitionen gewährt.
 
@@ -89,7 +95,9 @@ b) jedem internationalen Abkommen, jeder zwischenstaatlichen Vereinbarung oder j
 
 ## ARTIKEL 4
 
-#### Enteignung
+**Enteignung**
+
+#### Art. 4
 
 (1) Investitionen von Investoren jeder der Vertragsparteien dürfen im Hoheitsgebiet der anderen Vertragspartei nicht enteignet, verstaatlicht oder irgendeiner Maßnahme mit gleicher Wirkung unterworfen werden (im Folgenden als Enteignung bezeichnet), ausgenommen für einen öffentlichen Zweck, auf Grund eines rechtmäßigen Verfahrens und gegen umgehende, angemessene und wirksame Entschädigung.
 
@@ -103,7 +111,9 @@ b) jedem internationalen Abkommen, jeder zwischenstaatlichen Vereinbarung oder j
 
 ## ARTIKEL 5
 
-#### Entschädigung für Schaden oder Verlust
+**Entschädigung für Schaden oder Verlust**
+
+#### Art. 5
 
 (1) Falls Investitionen von Investoren einer der beiden Vertragsparteien durch Krieg oder eine andere bewaffnete Auseinandersetzung, einen nationalen Notstand, eine Revolte, zivile Unruhen, Aufstand, Aufruhr oder andere ähnliche Ereignisse im Hoheitsgebiet der anderen Vertragspartei Schaden oder Verlust erleiden, wird ihnen seitens der letztgenannten Vertragspartei hinsichtlich Rückerstattung, Schadloshaltung, Entschädigung oder anderer Regelung keine ungünstigere Behandlung gewährt als jene, die die letztgenannte Vertragspartei ihren eigenen Investoren oder Investoren eines Drittstaates gewährt, je nachdem, welche die günstigste ist.
 
@@ -117,7 +127,9 @@ umgehende Rückerstattung oder umgehende und angemessene Entschädigung für den
 
 ## ARTIKEL 6
 
-#### Transfer
+**Transfer**
+
+#### Art. 6
 
 (1) Jede Vertragspartei gewährleistet Investoren der anderen Vertragspartei ohne ungebührliche Verzögerung den freien Transfer in frei konvertierbarer Währung von im Zusammenhang mit einer Investition stehenden Zahlungen, insbesondere, aber nicht ausschließlich,
 
@@ -143,13 +155,17 @@ g) der Zahlungen auf Grund einer Streitbeilegung.
 
 ## ARTIKEL 7
 
-#### Eintrittsrecht
+**Eintrittsrecht**
+
+#### Art. 7
 
 Leistet eine Vertragspartei oder eine von ihr hiezu ermächtigte Institution ihrem Investor Zahlungen auf Grund einer Garantie für eine Investition im Hoheitsgebiet der anderen Vertragspartei, so anerkennt diese andere Vertragspartei, unbeschadet der Rechte des Investors der erstgenannten Vertragspartei aus Artikel 9 dieses Abkommens und der Rechte der erstgenannten Vertragspartei aus Artikel 10 dieses Abkommens, die Übertragung aller Rechte oder Ansprüche dieses Investors kraft Gesetzes oder auf Grund eines Rechtsgeschäfts auf die erstgenannte Vertragspartei. Ferner anerkennt die letztere Vertragspartei den Eintritt der erstgenannten Vertragspartei in alle diese Rechte oder Ansprüche, welche die erstgenannte Vertragspartei in demselben Umfang wie ihr Rechtsvorgänger auszuüben berechtigt ist. Für den Transfer von an die betreffende Vertragspartei auf Grund der übertragenen Rechte zu leistenden Zahlungen gelten Artikel 4, 5 und 6 dieses Abkommens sinngemäß.
 
 ## ARTIKEL 8
 
-#### Andere Verpflichtungen
+**Andere Verpflichtungen**
+
+#### Art. 8
 
 (1) Ergibt sich aus den Rechtsvorschriften einer Vertragspartei oder aus völkerrechtlichen Verpflichtungen, die neben diesem Abkommen zwischen den Vertragsparteien bestehen oder in Zukunft begründet werden, eine allgemeine oder besondere Regelung, durch die den Investitionen der Investoren der anderen Vertragspartei eine günstigere Behandlung als nach diesem Abkommen zu gewähren ist, so geht diese Regelung dem vorliegenden Abkommen insoweit vor, als sie günstiger ist.
 
@@ -183,7 +199,9 @@ b) einem Schiedsrichter oder einem internationalen Ad-hoc-Schiedsgericht, das in
 
 ## ARTIKEL 10
 
-#### Beilegung von Streitigkeiten zwischen den Vertragsparteien
+**Beilegung von Streitigkeiten zwischen den Vertragsparteien**
+
+#### Art. 10
 
 (1) Streitigkeiten zwischen den Vertragsparteien über die Auslegung oder Anwendung dieses Abkommens werden so weit wie möglich durch Verhandlungen freundschaftlich beigelegt werden.
 
@@ -203,13 +221,17 @@ Jede Vertragspartei bestellt ein Mitglied und diese beiden Mitglieder einigen si
 
 ## ARTIKEL 11
 
-#### Anwendung dieses Abkommens
+**Anwendung dieses Abkommens**
+
+#### Art. 11
 
 Dieses Abkommen findet auf Investitionen Anwendung, die Investoren der einen Vertragspartei in Übereinstimmung mit den Rechtsvorschriften der anderen Vertragspartei in deren Hoheitsgebiet sowohl vor als auch nach dem Inkrafttreten dieses Abkommens vorgenommen haben oder vornehmen werden.
 
 ## ARTIKEL 12
 
-#### In-Kraft-Treten und Dauer
+**In-Kraft-Treten und Dauer**
+
+#### Art. 12
 
 (1) Dieses Abkommen bedarf der Ratifikation und tritt am ersten Tag des dritten Monats in Kraft, der auf den Monat folgt, in welchem der Austausch der Ratifikationsurkunden stattgefunden hat.
 

@@ -61,7 +61,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ### EINLEITUNG — Artikel 1
 
-#### Geltungsbereich und Ziele des Protokolls
+**Geltungsbereich und Ziele des Protokolls**
+
+#### Art. 1
 
 (1) Dieses Protokoll legt Grundsätze für die Politik zur Förderung der Energieeffizienz als wesentliche Energiequelle und zur hieraus folgenden Verringerung schädlicher Umwelteinflüsse von Energiesystemen fest. Des weiteren dient es als Orientierung für die Entwicklung von Energieeffizienzprogrammen, nennt Bereiche der Zusammenarbeit und schafft einen Rahmen für die Entwicklung gemeinsamer und koordinierter Maßnahmen. Diese Maßnahmen können die Erkundung, Aufsuchung, Produktion, Umwandlung, Lagerung, Beförderung, Verteilung und den Verbrauch von Energie in allen Wirtschaftszweigen einschließen.
 
@@ -75,7 +77,9 @@ c) die Förderung der Zusammenarbeit auf dem Gebiet der Energieeffizienz.
 
 ## Artikel 2
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 2
 
 Im Sinne dieses Protokolls
 
@@ -97,7 +101,9 @@ Im Sinne dieses Protokolls
 
 ### ENERGIEPOLITISCHE GRUNDSÄTZE — Artikel 3
 
-#### Wesentliche Grundsätze
+**Wesentliche Grundsätze**
+
+#### Art. 3
 
 Die Vertragsparteien lassen sich von folgenden Grundsätzen leiten:
 
@@ -131,19 +137,25 @@ f) Transparenz gesetzlicher und verwaltungsrechtlicher Rahmenbedingungen.
 
 ## Artikel 4
 
-#### Aufgabenverteilung und Koordinierung
+**Aufgabenverteilung und Koordinierung**
+
+#### Art. 4
 
 Jede Vertragspartei ist bestrebt sicherzustellen, daß die Energieeffizienzpolitiken zwischen allen ihren verantwortlichen Behörden koordiniert werden.
 
 ## Artikel 5
 
-#### Strategien und politische Ziele
+**Strategien und politische Ziele**
+
+#### Art. 5
 
 Die Vertragsparteien erarbeiten Strategien und politische Ziele zur Verbesserung der Energieeffizienz und damit zur Verringerung der Umweltauswirkungen des Energiekreislaufs unter Berücksichtigung ihrer speziellen Energiesituation. Diese Strategien und Ziele haben allen interessierten Parteien gegenüber transparent zu sein.
 
 ## Artikel 6
 
-#### Finanzierung und finanzielle Anreize
+**Finanzierung und finanzielle Anreize**
+
+#### Art. 6
 
 (1) Die Vertragsparteien unterstützen die Umsetzung neuer Ansätze und Methoden zur Finanzierung von Investitionen in den Bereichen Energieeffizienz und energiebezogener Umweltschutz, wie beispielsweise Vereinbarungen über Gemeinschaftsunternehmen (Joint-ventures) zwischen Energieverbrauchern und externen Investoren (im folgenden als „Drittfinanzierung“ bezeichnet).
 
@@ -153,7 +165,9 @@ Die Vertragsparteien erarbeiten Strategien und politische Ziele zur Verbesserung
 
 ## Artikel 7
 
-#### Förderung energieeffizienter Technologien
+**Förderung energieeffizienter Technologien**
+
+#### Art. 7
 
 (1) Im Einklang mit dem Vertrag über die Energiecharta fördern die Vertragsparteien Handel und Zusammenarbeit im Bereich energieeffizienter und umweltfreundlicher Technologien, energiebezogener Dienstleistungen und Managementpraktiken.
 
@@ -161,7 +175,9 @@ Die Vertragsparteien erarbeiten Strategien und politische Ziele zur Verbesserung
 
 ## Artikel 8
 
-#### Inländische Programme
+**Inländische Programme**
+
+#### Art. 8
 
 (1) Zur Erreichung der in Artikel 5 genannten politischen Ziele wird jede Vertragspartei die für ihre Verhältnisse geeignetsten Energieeffizienzprogramme entwickeln, umsetzen und regelmäßig aktualisieren.
 
@@ -193,7 +209,9 @@ j) Schaffung spezialisierter Energieeffizienzgremien auf geeigneter Ebene, die �
 
 ### INTERNATIONALE ZUSAMMENARBEIT — Artikel 9
 
-#### Bereiche der Zusammenarbeit
+**Bereiche der Zusammenarbeit**
+
+#### Art. 9
 
 Die Zusammenarbeit zwischen den Vertragsparteien kann in jeder geeigneten Form erfolgen. Mögliche Bereiche der Zusammenarbeit werden in der Anlage genannt.
 
@@ -201,7 +219,9 @@ Die Zusammenarbeit zwischen den Vertragsparteien kann in jeder geeigneten Form e
 
 ### VERWALTUNGS- UND RECHTSREGELUNGEN — Artikel 10
 
-#### Rolle der Chartakonferenz
+**Rolle der Chartakonferenz**
+
+#### Art. 10
 
 (1) Alle von der Chartakonferenz in Übereinstimmung mit diesem Protokoll gefaßten Beschlüsse werden nur von den Vertragsparteien des Vertrags über die Energiecharta gefaßt, die auch Vertragsparteien dieses Protokolls sind.
 
@@ -209,7 +229,9 @@ Die Zusammenarbeit zwischen den Vertragsparteien kann in jeder geeigneten Form e
 
 ## Artikel 11
 
-#### Sekretariat und Finanzierung
+**Sekretariat und Finanzierung**
+
+#### Art. 11
 
 (1) Das nach Artikel 35 des Vertrags über die Energiecharta errichtete Sekretariat gewährt der Chartakonferenz alle erforderliche Unterstützung bei der Wahrnehmung ihrer Pflichten aus diesem Protokoll und stellt vorbehaltlich der Genehmigung der Chartakonferenz weitere Dienste zugunsten des Protokolls zur Verfügung, die von Zeit zu Zeit benötigt werden.
 
@@ -217,7 +239,9 @@ Die Zusammenarbeit zwischen den Vertragsparteien kann in jeder geeigneten Form e
 
 ## Artikel 12
 
-#### Abstimmung
+**Abstimmung**
+
+#### Art. 12
 
 (1) Für Beschlüsse ist Einstimmigkeit der auf der Sitzung der Chartakonferenz anwesenden und abstimmenden Vertragsparteien in folgenden Angelegenheiten erforderlich:
 
@@ -239,7 +263,9 @@ Beschlüsse über Haushaltsfragen werden mit der qualifizierten Mehrheit der Ver
 
 ## Artikel 13
 
-#### Beziehung zum Vertrag über die Energiecharta
+**Beziehung zum Vertrag über die Energiecharta**
+
+#### Art. 13
 
 (1) Bei Unvereinbarkeit der Bestimmungen dieses Protokolls mit den Bestimmungen des Vertrags über die Energiecharta gehen die Bestimmungen des Vertrags über die Energiecharta im Ausmaß der Unvereinbarkeit vor.
 
@@ -247,25 +273,33 @@ Beschlüsse über Haushaltsfragen werden mit der qualifizierten Mehrheit der Ver
 
 ## TEIL V — Artikel 14
 
-#### SCHLUSSBESTIMMUNGEN – Unterzeichnung
+**SCHLUSSBESTIMMUNGEN**
+
+#### Art. 14 – Unterzeichnung
 
 Dieses Protokoll liegt für Staaten und für Organisationen der regionalen Wirtschaftsintegration, welche die Charta und den Vertrag über die Energiecharta unterzeichnet haben, vom 17. Dezember 1994 bis zum 16. Juni 1995 in Lissabon zur Unterzeichnung auf.
 
 ## Artikel 15
 
-#### Ratifikation, Annahme oder Genehmigung
+**Ratifikation, Annahme oder Genehmigung**
+
+#### Art. 15
 
 Dieses Protokoll bedarf der Ratifikation, Annahme oder Genehmigung durch die Unterzeichner. Die Ratifikations-, Annahme- oder Genehmigungsurkunden werden beim Verwahrer hinterlegt.
 
 ## Artikel 16
 
-#### Beitritt
+**Beitritt**
+
+#### Art. 16
 
 Dieses Protokoll steht für Staaten und für Organisationen der regionalen Wirtschaftsintegration, welche die Charta unterzeichnet haben und Vertragsparteien des Vertrags über die Energiecharta sind, von dem Tag an, an dem die Unterzeichnung des Protokolls beendet ist, unter den von der Chartakonferenz zu genehmigenden Bedingungen zum Beitritt offen. Die Beitrittsurkunden werden beim Verwahrer hinterlegt.
 
 ## Artikel 17
 
-#### Änderungen
+**Änderungen**
+
+#### Art. 17
 
 (1) Jede Vertragspartei kann Änderungen dieses Protokolls vorschlagen.
 
@@ -277,7 +311,9 @@ Dieses Protokoll steht für Staaten und für Organisationen der regionalen Wirts
 
 ## Artikel 18
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 18
 
 (1) Dieses Protokoll tritt am dreißigsten Tag nach Hinterlegung der fünfzehnten Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde eines Staates oder einer Organisation der regionalen Wirtschaftsintegration, welche die Charta unterzeichnet haben und Vertragspartei des Vertrags über die Energiecharta sind, oder an demselben Tag in Kraft, an dem der Vertrag über die Energiecharta in Kraft tritt, je nachdem, welcher Zeitpunkt später ist.
 
@@ -287,13 +323,17 @@ Dieses Protokoll steht für Staaten und für Organisationen der regionalen Wirts
 
 ## Artikel 19
 
-#### Vorbehalte
+**Vorbehalte**
+
+#### Art. 19
 
 Vorbehalte zu diesem Protokoll sind nicht zulässig.
 
 ## Artikel 20
 
-#### Rücktritt
+**Rücktritt**
+
+#### Art. 20
 
 (1) Eine Vertragspartei kann jederzeit, nachdem dieses Protokoll für sie in Kraft getreten ist, dem Verwahrer schriftlich notifizieren, daß sie von dem Protokoll zurücktritt.
 
@@ -303,13 +343,17 @@ Vorbehalte zu diesem Protokoll sind nicht zulässig.
 
 ## Artikel 21
 
-#### Verwahrer
+**Verwahrer**
+
+#### Art. 21
 
 Die Regierung der Portugiesischen Republik ist Verwahrer dieses Protokolls.
 
 ## Artikel 22
 
-#### Verbindliche Wortlaute
+**Verbindliche Wortlaute**
+
+#### Art. 22
 
 ZU URKUND dessen haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll in deutscher, englischer, französischer, italienischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist, in einer Urschrift unterschrieben, die bei der Regierung der Portugiesischen Republik hinterlegt wird.
 

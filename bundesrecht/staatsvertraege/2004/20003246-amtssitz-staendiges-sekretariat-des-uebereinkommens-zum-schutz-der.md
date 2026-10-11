@@ -39,7 +39,9 @@ sind die Republik Österreich und das Ständige Sekretariat des Übereinkommens 
 
 ## Artikel 1
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 1
 
 In diesem Abkommen:
 
@@ -61,7 +63,9 @@ g) bezeichnet der Begriff “amtliche Besucher” die gemäß der Alpenkonventio
 
 ## Artikel 2
 
-### Rechtspersönlichkeit
+**Rechtspersönlichkeit**
+
+### Art. 2
 
 Die Republik Österreich anerkennt die Rechtspersönlichkeit des Ständigen Sekretariates. Es hat insbesondere die Fähigkeit:
 
@@ -77,7 +81,9 @@ d) andere Handlungen zu setzen, die für die Durchführung seiner Aufgaben notwe
 
 ## Artikel 3
 
-### Amtssitz
+**Amtssitz**
+
+### Art. 3
 
 (1) Der Amtssitz des Ständigen Sekretariats ist in Innsbruck; es hat eine Außenstelle in Bozen.
 
@@ -87,7 +93,9 @@ d) andere Handlungen zu setzen, die für die Durchführung seiner Aufgaben notwe
 
 ## Artikel 4
 
-### Unverletzlichkeit des Amtssitzes
+**Unverletzlichkeit des Amtssitzes**
+
+### Art. 4
 
 (1) Der Amtssitz des Ständigen Sekretariats ist unverletzlich. Kein Beamter oder Vertreter der Republik Österreich noch sonst irgendeine in der Republik Österreich Hoheitsrechte ausübende Person darf, außer mit der Zustimmung des Generalsekretärs des Ständigen Sekretariats und unter Einhaltung der von ihm festgelegten Bedingungen, den Amtssitz betreten und dort Amtshandlungen setzen.
 
@@ -99,7 +107,9 @@ d) andere Handlungen zu setzen, die für die Durchführung seiner Aufgaben notwe
 
 ## Artikel 5
 
-### Befreiung von Gerichtsbarkeit und anderen Maßnahmen
+**Befreiung von Gerichtsbarkeit und anderen Maßnahmen**
+
+### Art. 5
 
 (1) Das Ständige Sekretariat ist mit Ausnahme der folgenden Fälle von Gerichtsbarkeit und Vollzugshandlungen befreit:
 
@@ -119,7 +129,9 @@ d) in allen Streitigkeiten arbeitsrechtlicher Natur zwischen dem Ständigen Sekr
 
 ## Artikel 6
 
-### Unverletzlichkeit der Archive
+**Unverletzlichkeit der Archive**
+
+### Art. 6
 
 Die Archive des Ständigen Sekretariats sowie alle Dokumente und Datenträger, die ihm gehören oder sich in seinem Besitz befinden, sind unverletzlich.
 
@@ -127,7 +139,9 @@ Die Archive des Ständigen Sekretariats sowie alle Dokumente und Datenträger, d
 
 ## Artikel 7
 
-### Schutz des Amtssitzbereichs
+**Schutz des Amtssitzbereichs**
+
+### Art. 7
 
 Die zuständigen österreichischen Behörden werden entsprechende Vorsorge treffen, um zu gewährleisten, dass die Ruhe des Amtssitzbereichs nicht durch Personen oder Personengruppen gestört wird, die diesen ohne Erlaubnis zu betreten versuchen.
 
@@ -135,7 +149,9 @@ Die zuständigen österreichischen Behörden werden entsprechende Vorsorge treff
 
 ## Artikel 8
 
-### Öffentliche Leistungen im Amtssitzbereich
+**Öffentliche Leistungen im Amtssitzbereich**
+
+### Art. 8
 
 (1) Die Republik Österreich trifft entsprechende Maßnahmen, um die Versorgung des Amtssitzes mit den notwendigen öffentlichen Leistungen zu angemessenen Bedingungen zu gewährleisten.
 
@@ -145,7 +161,9 @@ Die zuständigen österreichischen Behörden werden entsprechende Vorsorge treff
 
 ## Artikel 9
 
-### Nachrichtenverkehr
+**Nachrichtenverkehr**
+
+### Art. 9
 
 (1) Die Republik Österreich trägt dafür Sorge, dass das Ständige Sekretariat in der Lage ist, Mitteilungen in Verbindung mit seinen amtlichen Tätigkeiten ohne Zensur oder andere Eingriffe zu versenden und zu empfangen.
 
@@ -155,7 +173,9 @@ Die zuständigen österreichischen Behörden werden entsprechende Vorsorge treff
 
 ## Artikel 10
 
-### Befreiung von Steuern und Zöllen sowie andere Maßnahmen
+**Befreiung von Steuern und Zöllen sowie andere Maßnahmen**
+
+### Art. 10
 
 (1) Das Ständige Sekretariat und sein Eigentum sind nach Maßgabe der nachfolgenden Bestimmungen von allen Formen der Besteuerung befreit.
 
@@ -173,7 +193,9 @@ Die zuständigen österreichischen Behörden werden entsprechende Vorsorge treff
 
 ## Artikel 11
 
-### Finanzeinrichtungen
+**Finanzeinrichtungen**
+
+### Art. 11
 
 Die Republik Österreich trägt dafür Sorge, dass das Ständige Sekretariat in der Lage ist:
 
@@ -187,7 +209,9 @@ c) seine Einlagen, Wertpapiere und Währungsguthaben nach, aus oder in die Repub
 
 ## Artikel 12
 
-### Sozialversicherung
+**Sozialversicherung**
+
+### Art. 12
 
 (1) Das Ständige Sekretariat und seine Angestellten sind von allen Pflichtbeiträgen an die Sozialversicherungseinrichtungen der Republik Österreich befreit.
 
@@ -207,7 +231,9 @@ c) seine Einlagen, Wertpapiere und Währungsguthaben nach, aus oder in die Repub
 
 ## Artikel 13
 
-### Durchreise und Aufenthalt
+**Durchreise und Aufenthalt**
+
+### Art. 13
 
 (1) Die Republik Österreich trifft Vorsorge dafür, dass den unten angeführten Personen die Einreise nach und der Aufenthalt in der Republik Österreich ermöglicht wird, dass sie die Republik Österreich ohne Probleme verlassen und unbehindert vom oder zum Amtssitz reisen können und dass bei diesen Reisen der notwendige Schutz gewährleistet wird:
 
@@ -229,7 +255,9 @@ d) die Sachverständigen.
 
 ## Artikel 14
 
-### Angestellte des Ständigen Sekretariats
+**Angestellte des Ständigen Sekretariats**
+
+### Art. 14
 
 (1) Die Angestellten des Ständigen Sekretariats genießen in und gegenüber der Republik Österreich folgende Privilegien und Immunitäten:
 
@@ -265,7 +293,9 @@ k) die Möglichkeit eines bevorzugten Zuganges zum Arbeitsmarkt für ihre im sel
 
 ## Artikel 15
 
-### Der Generalsekretär des Ständigen Sekretariats
+**Der Generalsekretär des Ständigen Sekretariats**
+
+### Art. 15
 
 Neben den in Artikel 14 genannten Privilegien und Immunitäten genießen der Generalsekretär des Ständigen Sekretariats sowie höherrangige Mitarbeiter in Vertretung des Generalsekretärs während dessen Abwesenheit, die gleichen Privilegien und Immunitäten, Befreiungen und Möglichkeiten, wie sie auch den Leitern bzw. Mitgliedern vergleichbaren Ranges von diplomatischen Vertretungen eingeräumt werden, sofern sie nicht österreichische Staatsbürger sind oder ihren ständigen Wohnsitz in der Republik Österreich haben.
 
@@ -273,7 +303,9 @@ Neben den in Artikel 14 genannten Privilegien und Immunitäten genießen der Gen
 
 ## Artikel 16
 
-### Amtliche Besucher
+**Amtliche Besucher**
+
+### Art. 16
 
 (1) Amtliche Besucher genießen gegenüber der Republik Österreich die folgenden Privilegien und Immunitäten:
 
@@ -289,7 +321,9 @@ c) Schutz vor Beschlagnahme ihres privaten und ihres Dienstgepäcks.
 
 ## Artikel 17
 
-### Sachverständige
+**Sachverständige**
+
+### Art. 17
 
 Sachverständige genießen bei der Ausübung ihrer Tätigkeit für das Ständige Sekretariat oder bei der Ausführung von Aufträgen für dieses gegenüber der Republik Österreich dieselben Privilegien und Immunitäten wie die amtlichen Besucher nach Artikel 16, soweit dies für die Ausübung ihrer Tätigkeiten notwendig ist. Zusätzlich sind Sachverständige und ihre im gemeinsamen Haushalt lebenden Familienangehörigen von Einwanderungsbeschränkungen und von der Ausländerregistrierung befreit.
 
@@ -297,7 +331,9 @@ Sachverständige genießen bei der Ausübung ihrer Tätigkeit für das Ständige
 
 ## Artikel 18
 
-### Notifikation von Anstellungen, Lichtbildausweise
+**Notifikation von Anstellungen, Lichtbildausweise**
+
+### Art. 18
 
 (1) Das Ständige Sekretariat übermittelt den zuständigen österreichischen Behörden eine Liste der Angestellten des Ständigen Sekretariats und revidiert diese regelmäßig.
 
@@ -307,7 +343,9 @@ Sachverständige genießen bei der Ausübung ihrer Tätigkeit für das Ständige
 
 ## Artikel 19
 
-### Österreichische Staatsbürger und Personen mit ständigem Wohnsitz in der Republik Österreich
+**Österreichische Staatsbürger und Personen mit ständigem Wohnsitz in der Republik Österreich**
+
+### Art. 19
 
 Österreichische Staatsbürger und Personen, die zum Zeitpunkt ihres Dienstantritts ihren ständigen Wohnsitz in Österreich haben, genießen nur die in Artikel 12, Artikel 14 Absatz 1 lit. a), b), c) mit den darin vorgesehenen Einschränkungen, und d) und Artikel 16 Absatz 1 lit. a), b) und c) angeführten Privilegien und Immunitäten.
 
@@ -315,7 +353,9 @@ Sachverständige genießen bei der Ausübung ihrer Tätigkeit für das Ständige
 
 ## Artikel 20
 
-### Zweck der Privilegien und Immunitäten
+**Zweck der Privilegien und Immunitäten**
+
+### Art. 20
 
 (1) Die in diesem Abkommen gewährten Privilegien und Immunitäten dienen nicht dazu, den Angestellten oder amtlichen Besuchern des Ständigen Sekretariats persönliche Vorteile zu verschaffen. Sie werden lediglich gewährt, um damit dem Ständigen Sekretariat zu allen Zeiten die ungestörte Ausübung seiner amtlichen Tätigkeiten zu ermöglichen und um sicherzustellen, dass die Personen, denen sie eingeräumt werden, vollkommen unabhängig sind.
 
@@ -325,7 +365,9 @@ Sachverständige genießen bei der Ausübung ihrer Tätigkeit für das Ständige
 
 ## Artikel 21
 
-### Streitbeilegung
+**Streitbeilegung**
+
+### Art. 21
 
 Alle Meinungsverschiedenheiten zwischen der Republik Österreich und dem Ständigen Sekretariat über die Auslegung oder Anwendung dieses Abkommens oder über irgendeine andere Frage hinsichtlich des Amtssitzes oder des Verhältnisses zwischen dem Ständigen Sekretariat und der Republik Österreich, welche nicht im Verhandlungswege oder nach einem anderen einvernehmlich festgelegten Verfahren beigelegt werden, sind zur endgültigen Entscheidung einem aus drei Schiedsrichtern zusammengesetzten Schiedsgericht zu unterbreiten; von diesen ist einer vom Ständigen Sekretariat, einer vom Bundesminister für auswärtige Angelegenheiten der Republik Österreich und ein dritter, der als Vorsitzender des Schiedsgerichtes fungiert, von den beiden ersten Schiedsrichtern auszuwählen. Können die beiden ersten Schiedsrichter innerhalb von sechs Monaten nach ihrer Ernennung keine Einigung hinsichtlich des dritten Schiedsrichters erzielen, so wird dieser auf Ersuchen der Republik Österreich oder des Ständigen Sekretariats vom Präsidenten des Internationalen Gerichtshofes ausgewählt.
 
@@ -333,7 +375,9 @@ Alle Meinungsverschiedenheiten zwischen der Republik Österreich und dem Ständi
 
 ## Artikel 22
 
-### Meistbegünstigung
+**Meistbegünstigung**
+
+### Art. 22
 
 Sofern und insoweit die Regierung mit einer vergleichbaren zwischenstaatlichen Organisation ein Abkommen trifft, das Bestimmungen oder Bedingungen enthält, die für die betreffende Organisation günstiger sind als die entsprechenden Bestimmungen oder Bedingungen dieses Abkommens, dehnt die Regierung mittels eines Zusatzabkommens diese günstigeren Bestimmungen oder Bedingungen auch auf das Ständige Sekretariat aus.
 
@@ -341,7 +385,9 @@ Sofern und insoweit die Regierung mit einer vergleichbaren zwischenstaatlichen O
 
 ## Artikel 23
 
-### In-Kraft-Treten und Dauer des Abkommens
+**In-Kraft-Treten und Dauer des Abkommens**
+
+### Art. 23
 
 (1) Dieses Abkommen wird auf unbestimmte Zeit geschlossen und tritt am ersten Tag des dritten Monats nachdem die Republik Österreich und das Ständige Sekretariat einander den Abschluss der für das In-Kraft-Treten erforderlichen Verfahren mitgeteilt haben, in Kraft. Die Artikel 10, 12 Absatz 1, 14, 16, 17, 19 und 20 dieses Abkommens treten nach Ablauf der im ersten Satz genannten Frist mit 1. Jänner 2003 rückwirkend in Kraft.
 

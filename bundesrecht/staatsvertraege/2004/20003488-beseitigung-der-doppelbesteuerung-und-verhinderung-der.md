@@ -411,7 +411,9 @@ Aufsichtsrats- oder Verwaltungsratsvergütungen und ähnliche Zahlungen, die ein
 
 Vorbehaltlich des Artikels 20 Absatz 2 dürfen Ruhegehälter und ähnliche Vergütungen, die einer in einem Vertragsstaat ansäßigen Person für frühere unselbständige Arbeit gezahlt werden, nur in diesem Staat besteuert werden.
 
-## <u>Artikel 20</u> – <u>ÖFFENTLICHER DIENST</u>
+**<u>Artikel 20</u>**
+
+## Art. 20 – <u>ÖFFENTLICHER DIENST</u>
 
 (1) a) Gehälter, Löhne und ähnliche Vergütungen, ausgenommen Ruhegehälter, die von einem Vertragsstaat oder einer seiner Gebietskörperschaften an eine natürliche Person für die diesem Staat oder der Gebietskörperschaft geleisteten Dienste gezahlt werden, dürfen nur in diesem Staat besteuert werden.
 

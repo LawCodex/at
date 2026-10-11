@@ -255,7 +255,9 @@ HABEN FOLGENDES VEREINBART:
 
 ## ARTIKEL EINS
 
-#### BEGRIFFSBESTIMMUNGEN
+**BEGRIFFSBESTIMMUNGEN**
+
+#### Art. 1
 
 Für die Zwecke dieses Memorandum of Understanding (MOU), gelten folgende Begriffsbestimmungen:
 
@@ -273,7 +275,9 @@ Für die Zwecke dieses Memorandum of Understanding (MOU), gelten folgende Begrif
 
 ## ARTIKEL ZWEI
 
-#### ZIEL UND ZWECK
+**ZIEL UND ZWECK**
+
+#### Art. 2
 
 2.1 Ziel dieses MOU ist die Festlegung der Verpflichtungen der Parteien und der Entsendestaaten in Hinblick auf die Übung wie auch die Festsetzung der Verfahren des HNS, der den Truppen seitens des Gastgeberstaates gewährt wird.
 
@@ -281,7 +285,9 @@ Für die Zwecke dieses Memorandum of Understanding (MOU), gelten folgende Begrif
 
 ## ARTIKEL DREI
 
-#### VERPFLICHTUNGEN DES GASTGEBERSTAATES
+**VERPFLICHTUNGEN DES GASTGEBERSTAATES**
+
+#### Art. 3
 
 Im Rahmen der Bestimmungen dieses MOU wird der Gastgeberstaat
 
@@ -309,7 +315,9 @@ Detaillierte finanzielle Regelungen und Rückerstattungsverfahren sind in Annex 
 
 ## ARTIKEL VIER
 
-#### VERPFLICHTUNGEN VON SHAPE
+**VERPFLICHTUNGEN VON SHAPE**
+
+#### Art. 4
 
 SHAPE wird
 
@@ -329,7 +337,9 @@ SHAPE wird
 
 ## ARTIKEL FÜNF
 
-#### VERPFLICHTUNGEN DER ENTSENDESTAATEN
+**VERPFLICHTUNGEN DER ENTSENDESTAATEN**
+
+#### Art. 5
 
 Die Entsendestaaten werden
 
@@ -347,25 +357,33 @@ Die Entsendestaaten werden
 
 ## ARTIKEL SECHS
 
-#### SCHADENERSATZFORDERUNGEN
+**SCHADENERSATZFORDERUNGEN**
+
+#### Art. 6
 
 Alle nichtvertraglichen Schadenersatzforderungen, die aus Tätigkeiten der Truppen oder des Gastgeberstaates im Zusammenhang mit diesem MOU entstehen, werden in Übereinstimmung mit den Bestimmungen des Artikels VIII des NATO-SOFA gelöst.
 
 ## ARTIKEL SIEBEN
 
-#### BEILEGUNG VON STREITIGKEITEN
+**BEILEGUNG VON STREITIGKEITEN**
+
+#### Art. 7
 
 Alle Meinungsverschiedenheiten zwischen den Parteien im Zusammenhang mit der Auslegung oder Anwendung dieses MOU werden im Wege von Verhandlungen und ohne die Inanspruchnahme einer außenstehenden Gerichtsbarkeit gelöst.
 
 ## ARTIKEL ACHT
 
-#### ÄNDERUNGEN
+**ÄNDERUNGEN**
+
+#### Art. 8
 
 Dieses MOU kann, auf Vorschlag jeder Partei, durch schriftliche Vereinbarung der Parteien geändert werden.
 
 ## ARTIKEL NEUN
 
-#### IN-KRAFT-TRETEN UND GELTUNGSDAUER
+**IN-KRAFT-TRETEN UND GELTUNGSDAUER**
+
+#### Art. 9
 
 Dieses MOU, bestehend aus den Artikeln 1 bis 9 und den Annexen A bis C, tritt am zwanzigsten Tag nach dem Tag der letzten Unterzeichnung in Kraft. Es bleibt solange in Kraft, bis alle im Zusammenhang mit der Übung stehenden Angelegenheiten gelöst sind.
 

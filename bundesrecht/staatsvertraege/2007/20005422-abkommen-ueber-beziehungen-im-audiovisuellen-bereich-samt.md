@@ -47,7 +47,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 1
 
-#### Zuständige Behörden
+**Zuständige Behörden**
+
+#### Art. 1
 
 (1) Gemeinschaftsproduktionen, auf die dieses Abkommen Anwendung finden soll, bedürfen der Anerkennung durch die zuständigen Behörden beider Vertragsparteien. Diese sind in der Republik Österreich das Bundesministerium für Wirtschaft und Arbeit und im Großherzogtum Luxemburg der nationale Filmfonds (Fonds national de soutien à la production audiovisuelle).
 
@@ -55,7 +57,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 2
 
-#### Geltung als nationale Filme
+**Geltung als nationale Filme**
+
+#### Art. 2
 
 (1) Filme, die im Rahmen dieses Abkommens hergestellt wurden, werden als inländische Filme angesehen.
 
@@ -63,7 +67,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 3
 
-#### Gewährung der Gemeinschaftsproduktionen
+**Gewährung der Gemeinschaftsproduktionen**
+
+#### Art. 3
 
 Die für eine Gemeinschaftsproduktion vorgesehenen Vergünstigungen werden Produzenten gewährt, die über eine gute technische und finanzielle Organisation sowie über ausreichende Berufsqualifikation verfügen.
 
@@ -71,7 +77,9 @@ Der Antrag auf Anerkennung einer Gemeinschaftsproduktion ist unter Berücksichti
 
 ## Artikel 4
 
-#### Voraussetzungen für die Anerkennung von Gemeinschaftsproduktionen
+**Voraussetzungen für die Anerkennung von Gemeinschaftsproduktionen**
+
+#### Art. 4
 
 (1) Die Gemeinschaftsproduzenten des Films müssen ihren Sitz oder eine Niederlassung im Gebiet einer der Vertragsparteien haben.
 
@@ -91,7 +99,9 @@ Der Antrag auf Anerkennung einer Gemeinschaftsproduktion ist unter Berücksichti
 
 ## Artikel 5
 
-#### Teilnehmer
+**Teilnehmer**
+
+#### Art. 5
 
 Die an der Herstellung eines Films Beteiligten müssen folgendem Personenkreis angehören:
 
@@ -123,7 +133,9 @@ Können Personen nach diesen Bestimmungen beiden Vertragsparteien zugerechnet we
 
 ## Artikel 6
 
-#### Verbreitung von Filmen
+**Verbreitung von Filmen**
+
+#### Art. 6
 
 (1) Beide Vertragsparteien messen der Förderung des Absatzes von Filmen aus der Gemeinschaftsproduktion und auch von nationalen Filmen der jeweiligen anderen Vertragspartei besondere Bedeutung bei.
 
@@ -131,13 +143,17 @@ Können Personen nach diesen Bestimmungen beiden Vertragsparteien zugerechnet we
 
 ## Artikel 7
 
-#### Minderheits- und Mehrheitsbeteiligungen bei multilateralen Gemeinschaftsproduktionen
+**Minderheits- und Mehrheitsbeteiligungen bei multilateralen Gemeinschaftsproduktionen**
+
+#### Art. 7
 
 Im Fall von multilateralen Gemeinschaftsproduktionen darf die Minderheitsbeteiligung nicht weniger als 10 (zehn) vom Hundert und die Mehrheitsbeteiligung nicht mehr als 70 (siebzig) vom Hundert der Gesamtkosten des Films betragen.
 
 ## Artikel 8
 
-#### Finanzielle Gemeinschaftsproduktionen
+**Finanzielle Gemeinschaftsproduktionen**
+
+#### Art. 8
 
 Abweichend von den vorangehenden Bestimmungen dieses Abkommens können im Interesse der bilateralen Gemeinschaftsproduktion auch diejenigen Filme zugelassen werden, die in einem der beiden Länder hergestellt werden und bei denen sich die Minderheitsbeteiligung nach Maßgabe des Gemeinschaftsproduktionsvertrages nur auf die finanzielle Beteiligung beschränkt, wenn
 
@@ -153,7 +169,9 @@ Abweichend von den vorangehenden Bestimmungen dieses Abkommens können im Intere
 
 ## Artikel 9
 
-#### Gleichgewichtige Beteiligung
+**Gleichgewichtige Beteiligung**
+
+#### Art. 9
 
 (1) Es soll ein Gleichgewicht sowohl hinsichtlich der künstlerischen, technischen und darstellerischen Beteiligungen als auch hinsichtlich der finanziellen und technischen Beteiligungen beider Länder (Studios, Laboratorien und Postproduktion) eingehalten werden.
 
@@ -161,13 +179,17 @@ Abweichend von den vorangehenden Bestimmungen dieses Abkommens können im Intere
 
 ## Artikel 10
 
-#### Hinweis auf Gemeinschaftsproduktionen
+**Hinweis auf Gemeinschaftsproduktionen**
+
+#### Art. 10
 
 Titelvor- und -nachspann und Werbematerial der Gemeinschaftsproduktionen müssen den Hinweis enthalten, dass es sich um eine österreichisch-luxemburgische Gemeinschaftsproduktion handelt.
 
 ## Artikel 11
 
-#### Gemischte Kommission
+**Gemischte Kommission**
+
+#### Art. 11
 
 (1) Die zuständigen Behörden beider Vertragsparteien werden sich über die Anwendung des vorliegenden Abkommens verständigen, um bei der Umsetzung der Bestimmungen aufgetretene Schwierigkeiten zu lösen. Außerdem werden sie gegebenenfalls zur Förderung der filmwirtschaftlichen Zusammenarbeit entsprechende Änderungen im gemeinsamen Interesse beider Länder vorschlagen.
 
@@ -179,7 +201,9 @@ Titelvor- und -nachspann und Werbematerial der Gemeinschaftsproduktionen müssen
 
 ## Artikel 12
 
-#### Schlussbestimmungen
+**Schlussbestimmungen**
+
+#### Art. 12
 
 (1) Die Bestimmungen dieses Abkommens für Film-Gemeinschaftsproduktionen gelten entsprechend auch für Gemeinschaftsproduktionen im Fernseh-, Video- und Multimediabereich.
 

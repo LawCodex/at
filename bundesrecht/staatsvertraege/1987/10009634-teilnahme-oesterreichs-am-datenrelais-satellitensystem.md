@@ -1,0 +1,78 @@
+---
+title: "Teilnahme Österreichs am Datenrelais-Satellitensystem"
+identifier: "10009634"
+type: treaty
+ris_type: "Vertrag – Europ. Weltraumorg."
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 140/1987"
+last_amended: 1987-04-16
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1987/140/P0/NOR11009825"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009634"
+retrieved: 2026-10-11
+documents: 7
+---
+
+# Teilnahme Österreichs am Datenrelais-Satellitensystem
+
+VEREINBARUNG ZWISCHEN DER ÖSTERREICHISCHEN BUNDESREGIERUNG UND DER EUROPÄISCHEN WELTRAUMORGANISATION ÜBER DIE TEILNAHME ÖSTERREICHS AM VORBEREITUNGSPROGRAMM FÜR EIN DATENRELAIS-SATELLITENSYSTEM
+
+StF: BGBl. Nr. 140/1987
+
+## Präambel/Promulgationsklausel
+
+Die Österreichische Bundesregierung
+
+und
+
+die Europäische Weltraumorganisation, die durch das am 30. Mai 1975 in Paris zur Unterzeichnung aufgelegte Übereinkommen gegründet worden ist (im folgenden „die Organisation“ genannt) –
+
+IN DER ERWÄGUNG, daß einige Mitgliedstaaten der Organisation gemäß einer Erklärung vom 27. Januar 1986 (ESA/JCB/LXVIII/Dec. (Final)) ein Vorbereitungsprogramm für ein Datenrelais-Satellitensystem in Angriff nehmen;
+
+IN DER ERWÄGUNG, daß Österreich die Teilnahme am Vorbereitungsprogramm für ein Datenrelais-Satellitensystem beantragt hat und dieser Antrag von den Teilnehmerstaaten angenommen worden ist;
+
+GESTÜTZT auf das am 17. Oktober 1979 unterzeichnete und am 1. April 1981 in Kraft getretene Abkommen über die Assoziierung der Republik Österreich mit der Europäischen Weltraumorganisation \*), das durch das am 12. April 1984 unterzeichnete und am 1. Mai 1985 in Kraft getretene Abkommen \*\*) geändert worden ist;
+
+GESTÜTZT auf das am 12. Dezember 1985 unterzeichnete Abkommen zwischen der Republik Österreich und der Europäischen Weltraumorganisation über den Beitritt der Republik Österreich zum Übereinkommen der Europäischen Weltraumorganisation sowie die Bedingungen und Modalitäten dieses Beitritts \*\*\*);
+
+IN DEM WUNSCHE, die Bedingungen für die Teilnahme der Österreichischen Bundesregierung am Vorbereitungsprogramm für ein Datenrelais-Satellitensystem festzulegen –
+
+HABEN FOLGENDES VEREINBART:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+1\) Kundgemacht in BGBl. Nr. 93/1981
+
+\*\*) Kundgemacht in BGBl. Nr. 150/1985
+
+\*\*\*) Kundgemacht in BGBl. Nr. 95/1987
+
+## Artikel 1
+
+Gegenstand dieser Vereinbarung ist die Regelung der Bedingungen für die Teilnahme der Österreichischen Bundesregierung am Vorbereitungsprogramm für ein Datenrelais-Satellitensystem, das in der in der Präambel genannten Erklärung, die die Österreichische Bundesregierung annimmt, beschrieben ist.
+
+## Artikel 2
+
+Bei der Durchführung des Vorbereitungsprogramms für ein Datenrelais-Satellitensystem hat die Österreichische Bundesregierung die Rechte und Pflichten eines Teilnehmerstaates, die in der in der Präambel genannten Erklärung, den Durchführungsvorschriften sowie allen anderen die Durchführung dieses Programms regelnden Beschlüssen festgelegt sind.
+
+## Artikel 3
+
+Die Österreichische Bundesregierung leistet zu den bei der Durchführung des Vorbereitungsprogramms für ein Datenrelais-Satellitensystem entstehenden Kosten einen Beitrag nach Maßgabe der in der Präambel genannten Erklärung.
+
+## Artikel 4
+
+Die Österreichische Bundesregierung ist gemäß Artikel 4 Absatz 2 des Assoziierungsabkommens in den Sitzungen der Teilnehmerstaaten des Vorbereitungsprogramms für ein Datenrelais-Satellitensystem im Rahmen des Gemeinsamen Programmrats für Nachrichtensatellitenprogramme durch zwei Delegierte vertreten, die Berater hinzuziehen können.
+
+## Artikel 5
+
+Die Österreichische Bundesregierung und die Organisation können die Bestimmungen dieser Vereinbarung auf Grund der Erfahrung in beiderseitigem Einvernehmen abändern, um insbesondere ihre Anwendung zu verbessern.
+
+## Artikel 6
+
+Diese Vereinbarung tritt am Tag ihrer Unterzeichnung in Kraft.
+
+Geschehen zu Paris am 28. November 1986
+
+in zwei Urschriften in deutscher, englischer und französischer Sprache, wobei jeder Wortlaut gleichermaßen authentisch ist.

@@ -43,7 +43,9 @@ INFOLGEDESSEN haben DIE VERTRAGSPARTEIEN folgendes vereinbart:
 
 ## ARTIKEL I
 
-### GRÜNDUNG UND RECHTSSTELLUNG
+**GRÜNDUNG UND RECHTSSTELLUNG**
+
+### Art. 1
 
 1\. Durch dieses Übereinkommen wird das International Development Law Institute, im folgenden das „Institut“ oder „IDLI“ genannt, als eine internationale Organisation gegründet.
 
@@ -53,7 +55,9 @@ INFOLGEDESSEN haben DIE VERTRAGSPARTEIEN folgendes vereinbart:
 
 ## ARTIKEL II
 
-### ZIELSETZUNGEN UND TÄTIGKEITEN
+**ZIELSETZUNGEN UND TÄTIGKEITEN**
+
+### Art. 2
 
 1\. Zielsetzungen des Instituts sind:
 
@@ -73,7 +77,9 @@ b) Sonstige Tätigkeiten, die den Zielsetzungen des Instituts förderlich sind.
 
 ## ARTIKEL III
 
-### BEFUGNISSE
+**BEFUGNISSE**
+
+### Art. 3
 
 Zur Verfolgung der obigen Zielsetzungen und Tätigkeiten ist das Institut mit den folgenden Befugnissen ausgestattet:
 
@@ -91,7 +97,9 @@ Zur Verfolgung der obigen Zielsetzungen und Tätigkeiten ist das Institut mit de
 
 ## ARTIKEL IV
 
-### SITZ
+**SITZ**
+
+### Art. 4
 
 1\. Sitz des Instituts ist in Rom, Italien, sofern die Versammlung nicht beschließt, den Sitz anderswohin zu verlegen.
 
@@ -99,7 +107,9 @@ Zur Verfolgung der obigen Zielsetzungen und Tätigkeiten ist das Institut mit de
 
 ## ARTIKEL V
 
-### FINANZEN
+**FINANZEN**
+
+### Art. 5
 
 1\. Das Institut bezieht seine Finanzressourcen aus Mitteln wie freiwilligen Beiträgen und Schenkungen, Kurs- und Seminargebühren, Einkünften aus speziellen Ausbildungsprogrammen oder Tätigkeiten der technischen Hilfeleistung, Einkünften aus Veröffentlichungen oder sonstigen Dienstleistungen, Zinserträgen aus Trusts, Schenkungen oder Bankkonten.
 
@@ -109,7 +119,9 @@ Zur Verfolgung der obigen Zielsetzungen und Tätigkeiten ist das Institut mit de
 
 ## ARTIKEL VI
 
-### ORGANISATION
+**ORGANISATION**
+
+### Art. 6
 
 Das Institut besteht aus einer Versammlung der Vertragschließenden Parteien („Versammlung“), einem Verwaltungsrat, einem Direktor und dem Personal.
 
@@ -153,31 +165,41 @@ c) Der Direktor ist vor dem Rat für den Betrieb und die Verwaltung des Institut
 
 ## ARTIKEL VII
 
-### BEZIEHUNGEN DER ZUSAMMENARBEIT
+**BEZIEHUNGEN DER ZUSAMMENARBEIT**
+
+### Art. 7
 
 Das Institut kann mit anderen Einrichtungen oder Programmen Beziehungen der Zusammenarbeit herstellen und Personal auf einer Leihbasis oder Basis der Zuteilung aufnehmen.
 
 ## ARTIKEL VIII
 
-### RECHTE, PRIVILEGIEN UND IMMUNITÄTEN
+**RECHTE, PRIVILEGIEN UND IMMUNITÄTEN**
+
+### Art. 8
 
 Das Institut und sein Personal genießen in dem Land seines Amtssitzes die Rechte, Privilegien und Immunitäten, wie sie im Amtssitzübereinkommen festgelegt sind. Andere Länder können zur Unterstützung der Tätigkeiten des Instituts in diesen Ländern ähnliche Rechte, Privilegien und Immunitäten gewähren.
 
 ## ARTIKEL IX
 
-### RECHNUNGSPRÜFER
+**RECHNUNGSPRÜFER**
+
+### Art. 9
 
 Die umfassende Prüfung der Finanzgebarung des Instituts wird jährlich durch eine unabhängige, internationale Rechnungsprüfungsfirma vorgenommen, die vom Rat ausgewählt wird. Die Ergebnisse dieser Überprüfung werden dem Rat und der Versammlung zur Verfügung gestellt.
 
 ## ARTIKEL X
 
-### ABÄNDERUNGEN
+**ABÄNDERUNGEN**
+
+### Art. 10
 
 Dieses Übereinkommen kann von der Versammlung mit einer Zweidrittelmehrheit der Stimmen seiner Mitglieder abgeändert werden, unter der Voraussetzung, daß die Mitteilung über diese Abänderung mit dem vollen Wortlaut der vorgeschlagenen Änderung mindestens acht Wochen vor dem für die Abstimmung über die Abänderung vorgesehenen Zeitpunkt an alle Mitglieder der Versammlung ergangen ist.
 
 ## ARTIKEL XI
 
-### AUFLÖSUNG
+**AUFLÖSUNG**
+
+### Art. 11
 
 1\. Das Institut kann aufgelöst werden, wenn eine Mehrheit von vier Fünftel der Mitglieder der Versammlung abstimmt, daß das Institut nicht mehr notwendig oder nicht mehr in der Lage ist, wirksam zu arbeiten.
 
@@ -185,13 +207,17 @@ Dieses Übereinkommen kann von der Versammlung mit einer Zweidrittelmehrheit der
 
 ## ARTIKEL XII
 
-### KÜNDIGUNG
+**KÜNDIGUNG**
+
+### Art. 12
 
 Jede Vertragschließende Partei, die dieses Übereinkommen unterzeichnet hat, kann, nach schriftlicher Notifikation ihre Mitgliedschaft an diesem Übereinkommen beenden und aus der Versammlung austreten. Diese Kündigung wird drei Monate nach dem Zeitpunkt wirksam, zu dem der Depositär die Notifikation erhalten hat.
 
 ## ARTIKEL XIII
 
-### UNTERZEICHNUNG, RATIFIKATION, ANNAHME, GENEHMIGUNG UND BEITRITT
+**UNTERZEICHNUNG, RATIFIKATION, ANNAHME, GENEHMIGUNG UND BEITRITT**
+
+### Art. 13
 
 1\. Dieses Übereinkommen steht Staaten und zwischenstaatlichen Organisationen zur Unterzeichnung offen. Es kann auch anstelle eines Staates von einer öffentlichen staatlichen Entwicklungsorganisation unterzeichnet werden, die von diesem Staat namhaft gemacht wurde, um in seinem Namen zu handeln. Es bleibt für einen Zeitraum von zwei Jahren ab dem 1. Juni 1987 zur Unterzeichnung offen, außer diese Zeit wird vor ihrem Ablauf durch den Depositär verlängert. Die Unterzeichnung des Übereinkommens durch eine gemäß dieser Klausel hiezu berechtigte Partei zu einem späteren Zeitpunkt bedarf der Genehmigung durch die Versammlung mit einfacher Mehrheit.
 
@@ -201,13 +227,17 @@ Jede Vertragschließende Partei, die dieses Übereinkommen unterzeichnet hat, ka
 
 ## ARTIKEL XIV
 
-### INKRAFTTRETEN
+**INKRAFTTRETEN**
+
+### Art. 14
 
 Dieses Übereinkommen tritt in Kraft, sobald der Depositär von drei Signatarstaaten dieses Übereinkommens eine Notifikation erhalten hat, daß die nach ihren innerstaatlichen Gesetzen für die Ratifikation dieses Übereinkommens erforderlichen Formalitäten erfüllt sind.
 
 ## ARTIKEL XV
 
-### ÜBERGANGSBESTIMMUNGEN
+**ÜBERGANGSBESTIMMUNGEN**
+
+### Art. 15
 
 Mit Inkrafttreten dieses Übereinkommens ergreift das Institut alle erforderlichen Maßnahmen, um in die Rechte, Verpflichtungen, Konzessionen, Eigentum und Interessen seiner Vorläuferorganisation, dem Internationalen Entwicklungsrechtsinstitut, einer nichtstaatlichen, in Rotterdam, Niederlande, ansässigen Organisation einzutreten.
 

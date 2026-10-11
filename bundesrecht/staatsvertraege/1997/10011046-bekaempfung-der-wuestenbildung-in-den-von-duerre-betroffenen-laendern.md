@@ -113,7 +113,9 @@ SIND wie folgt übereingekommen:
 
 ### Einleitung — Artikel 11 — *(Anm.: richtig: Artikel 1)*
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 1
 
 Im Sinne dieses Übereinkommens
 

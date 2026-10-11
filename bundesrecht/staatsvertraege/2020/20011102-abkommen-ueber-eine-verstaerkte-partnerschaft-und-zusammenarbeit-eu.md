@@ -945,7 +945,9 @@ r) „Erbringung einer Dienstleistung“ umfasst die Vorbereitung, den Vertrieb,
 
 ### ALLE WIRTSCHAFTSTÄTIGKEITEN
 
-#### ABSCHNITT 2 – ARTIKEL 41 – Anwendungs- und Geltungsbereich
+**ABSCHNITT 2**
+
+#### Art. 41 – ARTIKEL 41 – Anwendungs- und Geltungsbereich
 
 (1) Dieser Unterabschnitt gilt für Maßnahmen der Vertragsparteien, die die Niederlassung im Zusammenhang mit allen Wirtschaftstätigkeiten und die grenzüberschreitende Dienstleistungserbringung betreffen.
 
@@ -1683,7 +1685,9 @@ Der beziehungsweise die Inhaber der betreffenden Zulassung kann/können vom pote
 
 Die Europäische Union bekräftigt ihr Bekenntnis zum Internationalen Übereinkommen zum Schutz von Pflanzenzüchtungen ("UPOV-Übereinkommen"); die Republik Kasachstan unternimmt alle zumutbaren Anstrengungen, um diesem beizutreten.
 
-#### ABSCHNITT 3 – DURCHSETZUNG DER RECHTE DES GEISTIGEN EIGENTUMS – ARTIKEL 97 – Allgemeine Verpflichtungen
+**ABSCHNITT 3**
+
+#### Art. 97 – DURCHSETZUNG DER RECHTE DES GEISTIGEN EIGENTUMS – ARTIKEL 97 – Allgemeine Verpflichtungen
 
 (1) Die Vertragsparteien bekräftigen ihre Pflichten aus dem TRIPS-Übereinkommen, insbesondere aus Teil III, und sehen die in diesem Abschnitt dargelegten ergänzenden Maßnahmen, Verfahren und Rechtsbehelfe vor, die zur Durchsetzung der Rechte des geistigen Eigentums<sup>1</sup> erforderlich sind.
 
@@ -2939,7 +2943,9 @@ Die Vertragsparteien berücksichtigen bei dem Informationsaustausch nach diesem 
 
 ### STAATSEIGENE UNTERNEHMEN, STAATLICH KONTROLLIERTE UNTERNEHMEN UND UNTERMEHMEN MIT BESONDEREN ODER AUSSCHLIESSLICHEN RECHTEN ODER PRIVILEGIEN
 
-#### KAPITEL 12 – ARTIKEL 163 – Begriffsbestimmungen
+**KAPITEL 12**
+
+#### Art. 163 – ARTIKEL 163 – Begriffsbestimmungen
 
 Für die Zwecke dieses Kapitels bezeichnet der Ausdruck
 
@@ -3457,7 +3463,9 @@ Die Vertragsparteien widmen der Behandlung von Umweltfragen im Rahmen der einsch
 
 Die Vertragsparteien tauschen Erfahrungen im Hinblick auf die Förderung der Einbeziehung von Umweltbelangen in andere Sektoren aus; dies schließt auch den Austausch bewährter Verfahren, die Erweiterung von Wissen und Kompetenzen, Umwelterziehung und Sensibilisierungsmaßnahmen in den in diesem Kapitel genannten Bereichen ein.
 
-#### KAPITEL 8 – ZUSAMMENARBEIT IM BEREICH KLIMAWANDEL – ARTIKEL 215
+**KAPITEL 8**
+
+#### Art. 215 – ZUSAMMENARBEIT IM BEREICH KLIMAWANDEL – ARTIKEL 215
 
 Die Vertragsparteien entwickeln und verstärken ihre Zusammenarbeit bei der Bekämpfung des Klimawandels und zur Anpassung daran. Die Zusammenarbeit trägt den Interessen der Vertragsparteien auf der Grundlage der Gleichheit und des beiderseitigen Nutzens sowie den Wechselbeziehungen zwischen bilateralen und multilateralen Verpflichtungen auf diesem Gebiet Rechnung.
 

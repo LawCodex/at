@@ -20032,7 +20032,9 @@ Die Bevollmächtigten der EG-Mitgliedstaaten und der Gemeinschaft und die Bevoll
 
 39\. Erklärung der Regierungen der EFTA-Staaten zu einem Gericht erster Instanz
 
-#### GEMEINSAME ERKLÄRUNGEN – DER VERTRAGSPARTEIEN DES ABKOMMENS – ÜBER DEN EUROPÄISCHEN WIRTSCHAFTSRAUM – GEMEINSAME ERKLÄRUNG ÜBER DIE ERSTELLUNG GEMEINSAMER BERICHTE NACH NUMMER 5 DES PROTOKOLLS 1 ÜBER HORIZONTALE ANPASSUNGEN
+**GEMEINSAME ERKLÄRUNGEN**
+
+#### Anl. 24 – DER VERTRAGSPARTEIEN DES ABKOMMENS – ÜBER DEN EUROPÄISCHEN WIRTSCHAFTSRAUM – GEMEINSAME ERKLÄRUNG ÜBER DIE ERSTELLUNG GEMEINSAMER BERICHTE NACH NUMMER 5 DES PROTOKOLLS 1 ÜBER HORIZONTALE ANPASSUNGEN
 
 Betreffend das Berichtsverfahren gemäß Abschnitt 5 des Protokolls 1 über horizontale Anpassungen wurde Einvernehmen erzielt, daß der Gemeinsame EWR-Ausschuß um die Erstellung eines gemeinsamen Berichtes ersuchen kann, so oft er dies für nützlich erachtet.
 
@@ -20182,7 +20184,9 @@ Unbeschadet der Bestimmungen des Anhangs I Kapitel I Nummer 2 (Tiergesundheit) n
 
 Die Vertragsparteien kommen überein, so bald wie möglich, spätestens bis zum 31. Dezember 1992, den deutschen Text der Warenbezeichnungen im Harmonisierten System, der in den entsprechenden Protokollen und Anhängen zum EWR-Abkommen enthalten ist, zu harmonisieren.
 
-#### ERKLÄRUNGEN – DER REGIERUNGEN DER EG-MITGLIEDSTAATEN UND DER – EFTA-STAATEN – ERKLÄRUNG DER REGIERUNGEN DER EG-MITGLIEDSTAATEN UND DER EFTA-STAATEN ÜBER DIE ERLEICHTERUNG DER GRENZKONTROLLEN
+**ERKLÄRUNGEN**
+
+#### Anl. 25 – DER REGIERUNGEN DER EG-MITGLIEDSTAATEN UND DER – EFTA-STAATEN – ERKLÄRUNG DER REGIERUNGEN DER EG-MITGLIEDSTAATEN UND DER EFTA-STAATEN ÜBER DIE ERLEICHTERUNG DER GRENZKONTROLLEN
 
 Zur Förderung der Freizügigkeit arbeiten die EG-Mitgliedstaaten und die EFTA-Staaten vorbehaltlich der in den geeigneten Gremien festzulegenden praktischen Modalitäten zusammen, um den Angehörigen der jeweils anderen Staaten und ihren Familienangehörigen die Kontrollen an den Grenzen zwischen ihren Hoheitsgebieten zu erleichtern.
 
@@ -20206,7 +20210,9 @@ Sie vereinbarten diesbezüglich:
 
 – daß dies in keiner Weise bestehende bilaterale Kontakte in diesem Bereich beeinträchtigt oder ersetzt.
 
-#### ERKLÄRUNGEN – EINER ODER MEHRERER VERTRAGSPARTEIEN DES – ABKOMMENS ÜBER DEN EUROPÄISCHEN WIRTSCHAFTSRAUM – ERKLÄRUNG DER REGIERUNGEN FINNLANDS, ISLANDS, NORWEGENS UND SCHWEDENS ZU ALKOHOLMONOPOLEN
+**ERKLÄRUNGEN**
+
+#### Anl. 26 – EINER ODER MEHRERER VERTRAGSPARTEIEN DES – ABKOMMENS ÜBER DEN EUROPÄISCHEN WIRTSCHAFTSRAUM – ERKLÄRUNG DER REGIERUNGEN FINNLANDS, ISLANDS, NORWEGENS UND SCHWEDENS ZU ALKOHOLMONOPOLEN
 
 Unbeschadet ihrer Verpflichtungen aus dem Abkommen erinnern Finnland, Island, Norwegen und Schweden daran, daß ihre Alkoholmonopole auf wichtigen gesundheits- und sozialpolitischen Erwägungen beruhen.
 
@@ -20380,7 +20386,9 @@ Die EFTA-Staaten sind der Ansicht, daß die in der gemeinsamen Erklärung betref
 
 Die EFTA-Staaten werden bei Bedarf ein Gericht erster Instanz für Wettbewerbssachen einsetzen.
 
-#### VEREINBARUNG – ÜBER DIE VERÖFFENTLICHUNG DER INFORMATIONEN, – DIE FÜR DEN EWR VON BEDEUTUNG SIND
+**VEREINBARUNG**
+
+#### Anl. 27 – ÜBER DIE VERÖFFENTLICHUNG DER INFORMATIONEN, – DIE FÜR DEN EWR VON BEDEUTUNG SIND
 
 ISLÄNDISCHE MISSION
 
@@ -20480,7 +20488,9 @@ Genehmigen Sie, sehr geehrter Herr ....., den Ausdruck meiner ausgezeichnetsten 
 
 Horst G. Krenzler
 
-#### VEREINBARUNG – ÜBER DIE VERÖFFENTLICHUNG VON – EFTA-BEKANNTMACHUNGEN BETREFFEND DAS – AUFTRAGSWESEN
+**VEREINBARUNG**
+
+#### Anl. 28 – ÜBER DIE VERÖFFENTLICHUNG VON – EFTA-BEKANNTMACHUNGEN BETREFFEND DAS – AUFTRAGSWESEN
 
 | KOMMISSION |  |
 |---|---|

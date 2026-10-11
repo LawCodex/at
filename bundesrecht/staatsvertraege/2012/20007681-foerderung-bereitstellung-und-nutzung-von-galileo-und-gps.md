@@ -357,7 +357,9 @@ Im Sinne dieses Abkommens bedeutet „die Parteien“ die Europäische Gemeinsch
 
 Ausgefertigt in Dromoland Castle, Clare, am sechsundzwanzigsten Juni 2004 mit Übersetzungen in Dänisch, Niederländisch, Englisch, Finnisch, Französisch, Deutsch, Griechisch, Italienisch, Portugiesisch, Spanisch, Schwedisch, Tschechisch, Estnisch, Ungarisch, Lettisch, Litauisch, Maltesisch, Polnisch, Slowakisch und Slowenisch. Die verbindliche Sprache ist Englisch.
 
-## ANHANG – GPS UND GALILEO SIGNALSTRUKTUREN
+**ANHANG**
+
+## Anl. 1 – GPS UND GALILEO SIGNALSTRUKTUREN
 
 (1) Aus Gründen der Kompatibilität der Nationalen Sicherheitsinteressen, der Vermeidung von inakzeptablen Funkfrequenzstörungen und der Leistungsfähigkeit der GNSS, stimmen die Parteien der unten beschriebenen Signalstruktur zu:
 

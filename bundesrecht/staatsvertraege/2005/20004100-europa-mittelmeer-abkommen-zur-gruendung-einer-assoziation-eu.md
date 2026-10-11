@@ -32,7 +32,9 @@ StF: BGBl. III Nr. 52/2005 (NR: GP XXII RV 255 AB 395 S. 50. BR: AB 6993 S. 706.
 
 ## ARTIKEL 1
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 1
 
 Für die Zwecke dieses Protokolls gelten folgende Begriffsbestimmungen:
 
@@ -48,7 +50,9 @@ e) „Zuwiderhandlung gegen das Zollrecht“ ist die Verletzung oder die versuch
 
 ## ARTIKEL 2
 
-### Geltungsbereich
+**Geltungsbereich**
+
+### Art. 2
 
 (1) Die Vertragsparteien leisten einander in den unter ihre Zuständigkeit fallenden Bereichen Amtshilfe in der Form und unter den Voraussetzungen, die in diesem Protokoll festgelegt sind, um die ordnungsgemäße Anwendung des Zollrechts zu gewährleisten, insbesondere durch Verhütung, Untersuchung und Bekämpfung von Zuwiderhandlungen gegen das Zollrecht.
 
@@ -58,7 +62,9 @@ e) „Zuwiderhandlung gegen das Zollrecht“ ist die Verletzung oder die versuch
 
 ## ARTIKEL 3
 
-### Amtshilfe auf Ersuchen
+**Amtshilfe auf Ersuchen**
+
+### Art. 3
 
 (1) Auf Ersuchen der ersuchenden Behörde erteilt die ersuchte Behörde der ersuchenden Behörde alle sachdienlichen Auskünfte, die es dieser ermöglichen, die ordnungsgemäße Anwendung des Zollrechts zu gewährleisten, einschließlich Auskünften über festgestellte oder geplante Handlungen, die gegen das Zollrecht verstoßen bzw. verstoßen könnten.
 
@@ -80,7 +86,9 @@ d) Beförderungsmitteln, die in einer Weise benutzt werden oder benutzt werden k
 
 ## ARTIKEL 4
 
-### Amtshilfe ohne Ersuchen
+**Amtshilfe ohne Ersuchen**
+
+### Art. 4
 
 Die Vertragsparteien leisten einander nach Maßgabe der für sie geltenden Rechts- und Verwaltungsvorschriften von sich aus Amtshilfe, sofern dies ihres Erachtens zur ordnungsgemäßen Anwendung des Zollrechts notwendig ist, insbesondere wenn sie über Erkenntnisse verfügen über
 
@@ -96,7 +104,9 @@ Die Vertragsparteien leisten einander nach Maßgabe der für sie geltenden Recht
 
 ## ARTIKEL 5
 
-### Zustellung/Bekanntgabe
+**Zustellung/Bekanntgabe**
+
+### Art. 5
 
 Auf Ersuchen der ersuchenden Behörde veranlasst die ersuchte Behörde nach Maßgabe der für sie geltenden Rechts- und Verwaltungsvorschriften
 
@@ -110,7 +120,9 @@ Das Ersuchen um Zustellung eines Schriftstücks oder um Bekanntgabe einer Entsch
 
 ## ARTIKEL 6
 
-### Form und Inhalt der Amtshilfeersuchen
+**Form und Inhalt der Amtshilfeersuchen**
+
+### Art. 6
 
 (1) Amtshilfeersuchen nach diesem Protokoll sind schriftlich zu stellen. Dem Ersuchen sind alle Unterlagen beizufügen, die für seine Erledigung erforderlich sind. In dringenden Fällen können mündliche Ersuchen angenommen werden, die jedoch unverzüglich schriftlich bestätigt werden müssen.
 
@@ -134,7 +146,9 @@ f) Zusammenfassung des Sachverhalts und der bereits durchgeführten Ermittlungen
 
 ## ARTIKEL 7
 
-### Erledigung der Amtshilfeersuchen
+**Erledigung der Amtshilfeersuchen**
+
+### Art. 7
 
 (1) Bei der Erledigung von Amtshilfeersuchen verfährt die ersuchte Behörde im Rahmen ihrer Zuständigkeiten und Mittel so, als ob sie in Erfüllung eigener Aufgaben oder auf Ersuchen anderer Behörden der eigenen Vertragspartei handelte; zu diesem Zweck hat sie die ihr bereits vorliegenden Angaben zu übermitteln und zweckdienliche Nachforschungen anzustellen beziehungsweise zu veranlassen. Dies gilt auch für eine andere Behörde, die von der ersuchten Behörde mit dem Ersuchen befasst wurde, sofern diese nicht selbst tätig werden kann.
 
@@ -146,7 +160,9 @@ f) Zusammenfassung des Sachverhalts und der bereits durchgeführten Ermittlungen
 
 ## ARTIKEL 8
 
-### Form der Auskunftserteilung
+**Form der Auskunftserteilung**
+
+### Art. 8
 
 (1) Die ersuchte Behörde teilt der ersuchenden Behörde das Ergebnis der Ermittlungen schriftlich mit und fügt zweckdienliche Schriftstücke, beglaubigte Kopien und dergleichen bei.
 
@@ -156,7 +172,9 @@ f) Zusammenfassung des Sachverhalts und der bereits durchgeführten Ermittlungen
 
 ## ARTIKEL 9
 
-### Ausnahmen von der Verpflichtung zur Amtshilfe
+**Ausnahmen von der Verpflichtung zur Amtshilfe**
+
+### Art. 9
 
 (1) Die Amtshilfe kann abgelehnt oder von der Erfüllung bestimmter Bedingungen abhängig gemacht werden, wenn nach Auffassung einer Vertragspartei durch die Amtshilfe nach diesem Protokoll
 
@@ -174,7 +192,9 @@ c) ein Betriebs-, Geschäfts- oder Berufsgeheimnis verletzen würde.
 
 ## ARTIKEL 10
 
-### Informationsaustausch und Datenschutz
+**Informationsaustausch und Datenschutz**
+
+### Art. 10
 
 (1) Die Auskünfte nach diesem Protokoll sind nach den in den Vertragsparteien geltenden Vorschriften vertraulich oder nur für den Dienstgebrauch bestimmt, gleichgültig, in welcher Form sie erteilt werden. Sie unterliegen dem Dienstgeheimnis und genießen den Schutz sowohl der für solche Auskünfte geltenden Rechtsvorschriften der Vertragspartei, die sie erhalten hat, als auch der entsprechenden für die Gemeinschaftsbehörden geltenden Rechtsvorschriften.
 
@@ -186,19 +206,25 @@ c) ein Betriebs-, Geschäfts- oder Berufsgeheimnis verletzen würde.
 
 ## ARTIKEL 11
 
-### Sachverständige und Zeugen
+**Sachverständige und Zeugen**
+
+### Art. 11
 
 Beamten der ersuchten Behörde kann gestattet werden, im Rahmen der erteilten Genehmigung in Gerichts- oder Verwaltungsverfahren, die unter dieses Protokoll fallende Angelegenheiten betreffen, als Sachverständige oder Zeugen aufzutreten und dabei Gegenstände und Schriftstücke oder beglaubigte Kopien davon vorzulegen, sofern dies für das Verfahren erforderlich ist. In der Ladung ist genau anzugeben, vor welcher Justiz- oder Verwaltungsbehörde der Beamte aussagen soll und in welcher Angelegenheit und in welcher Eigenschaft oder mit welcher Berechtigung der Beamte befragt werden soll.
 
 ## ARTIKEL 12
 
-### Kosten der Amtshilfe
+**Kosten der Amtshilfe**
+
+### Art. 12
 
 Die Vertragsparteien verzichten auf gegenseitige Ansprüche auf Erstattung der bei der Anwendung dieses Protokolls angefallenen Kosten; hiervon ausgenommen sind gegebenenfalls Aufwendungen für Zeugen und Sachverständige sowie für Dolmetscher und Übersetzer, die nicht dem öffentlichen Dienst angehören.
 
 ## ARTIKEL 13
 
-### Durchführung
+**Durchführung**
+
+### Art. 13
 
 (1) Die Durchführung dieses Protokolls wird den Zollbehörden Ägyptens einerseits und den zuständigen Dienststellen der Kommission der Europäischen Gemeinschaften und gegebenenfalls den Zollbehörden der Mitgliedstaaten andererseits übertragen. Sie beschließen alle für seine Anwendung erforderlichen praktischen Maßnahmen und Vereinbarungen und tragen dabei den geltenden Datenschutzvorschriften Rechnung. Sie können den zuständigen Stellen Änderungen empfehlen, die ihres Erachtens an diesem Protokoll vorgenommen werden sollten.
 
@@ -206,7 +232,9 @@ Die Vertragsparteien verzichten auf gegenseitige Ansprüche auf Erstattung der b
 
 ## ARTIKEL 14
 
-### Andere Übereinkünfte
+**Andere Übereinkünfte**
+
+### Art. 14
 
 (1) Unter Berücksichtigung der Zuständigkeiten der Europäischen Gemeinschaft und der Mitgliedstaaten
 

@@ -43,7 +43,9 @@ Folgendes vereinbart:
 
 ## Artikel 1
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 1
 
 (1) Daten in Asylangelegenheiten im Sinne dieses Abkommens sind Daten von Asylwerbern, die nicht die österreichische, schweizerische oder liechtensteinische Staatsangehörigkeit besitzen.
 
@@ -53,7 +55,9 @@ Folgendes vereinbart:
 
 ## Artikel 2
 
-### Zweck des Abkommens
+**Zweck des Abkommens**
+
+### Art. 2
 
 Die zuständigen Stellen der Vertragsparteien leisten einander auf Ersuchen Amtshilfe durch Datenübermittlung in Asylangelegenheiten nach Maßgabe dieses Abkommens.
 
@@ -61,7 +65,9 @@ Die zuständigen Stellen der Vertragsparteien leisten einander auf Ersuchen Amts
 
 ## Artikel 3
 
-### Datenübermittlung
+**Datenübermittlung**
+
+### Art. 3
 
 (1) Folgende personenbezogene Daten dürfen übermittelt werden: Namen einschließlich früherer Namen, Geschlecht, Geburtsdatum, Geburtsort, Wohnanschrift, Staatsangehörigkeit, Namen der Eltern, Aliasdaten, Identitätsdokumente, Informationen über im Ausland eingebrachte Asylanträge und den Verfahrensstand, allenfalls vorhandene erkennungsdienstliche Daten sowie jene personenbezogenen Daten, die für die Einreiseund Aufenthaltsberechtigung sowie für die Anhaltung in Schubhaft maßgeblich sind oder sein können.
 
@@ -81,7 +87,9 @@ Die zuständigen Stellen der Vertragsparteien leisten einander auf Ersuchen Amts
 
 ## Artikel 4
 
-### Zweckbindung
+**Zweckbindung**
+
+### Art. 4
 
 (1) Die in Artikel 3 Absatz 1 genannten Daten, die auf Grund dieses Abkommens übermittelt worden sind, dürfen von der ersuchenden Vertragspartei nur mit schriftlicher Zustimmung der ersuchten Vertragspartei zu anderen als den der Übermittlung zugrunde liegenden Zwecken verwendet werden. Die Zulässigkeit der Erteilung einer Zustimmung richtet sich nach dem innerstaatlichen Recht der ersuchten Vertragspartei.
 
@@ -91,7 +99,9 @@ Die zuständigen Stellen der Vertragsparteien leisten einander auf Ersuchen Amts
 
 ## Artikel 5
 
-### Vertraulichkeit und Datensicherheit
+**Vertraulichkeit und Datensicherheit**
+
+### Art. 5
 
 (1) Sämtliche auf der Grundlage dieses Abkommens übermittelte Daten werden vertraulich behandelt. Sie unterliegen dem Amtsgeheimnis und genießen den für vergleichbare Daten geltenden Schutz nach dem innerstaatlichen Recht der empfangenden Vertragspartei.
 
@@ -103,7 +113,9 @@ Die zuständigen Stellen der Vertragsparteien leisten einander auf Ersuchen Amts
 
 ## Artikel 6
 
-### Pflicht zur Richtigstellung, Löschung, Vernichtung und Auskunft
+**Pflicht zur Richtigstellung, Löschung, Vernichtung und Auskunft**
+
+### Art. 6
 
 (1) Die in Artikel 3 Absatz 1 genannten Daten, die auf Grund dieses Abkommens übermittelt worden sind, sind von der ersuchenden Vertragspartei zu löschen, sobald die Voraussetzungen für das Verwenden weggefallen sind oder die Daten sonst dem Zweck entsprechend nicht mehr benötigt werden.
 
@@ -125,7 +137,9 @@ Die zuständigen Stellen der Vertragsparteien leisten einander auf Ersuchen Amts
 
 ## Artikel 7
 
-### Zuständige Stellen
+**Zuständige Stellen**
+
+### Art. 7
 
 (1) Die zuständigen Stellen für Ersuchen und das Erledigen von
 
@@ -151,7 +165,9 @@ Das Ausländer- und Passamt, Abteilung Asyl und Flüchtlinge
 
 ## Artikel 8
 
-### Verhältnis zu anderen Abkommen
+**Verhältnis zu anderen Abkommen**
+
+### Art. 8
 
 Durch dieses Abkommen werden die in bestehenden zwei- oder mehrseitigen Abkommen der Vertragsparteien enthaltenen Rechte und Verpflichtungen nicht beeinträchtigt.
 
@@ -159,7 +175,9 @@ Durch dieses Abkommen werden die in bestehenden zwei- oder mehrseitigen Abkommen
 
 ## Artikel 9
 
-### Schlussbestimmungen
+**Schlussbestimmungen**
+
+### Art. 9
 
 (1) Dieses Abkommen wird auf unbestimmte Zeit geschlossen. Es kann im gegenseitigen Einvernehmen geändert oder ergänzt werden.
 

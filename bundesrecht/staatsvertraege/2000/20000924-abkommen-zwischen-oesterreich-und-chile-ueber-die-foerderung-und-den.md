@@ -33,7 +33,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für den Zweck dieses Abkommens
 
@@ -61,7 +63,9 @@ b) jede juristische Person oder Personengesellschaft, einschließlich Gesellscha
 
 ## Artikel 2
 
-### Förderung, Zulassung und Schutz von Investitionen
+**Förderung, Zulassung und Schutz von Investitionen**
+
+### Art. 2
 
 (1) Jede Vertragspartei fördert in ihrem Hoheitsgebiet Investitionen von Investoren der anderen Vertragspartei unter Berücksichtigung ihrer allgemeinen Politik und ihrer Gesetze und Rechtsvorschriften im Bereich ausländischer Investitionen und läßt diese zu.
 
@@ -73,7 +77,9 @@ b) jede juristische Person oder Personengesellschaft, einschließlich Gesellscha
 
 ## Artikel 3
 
-### Behandlung von Investitionen
+**Behandlung von Investitionen**
+
+### Art. 3
 
 (1) Jede Vertragspartei gewährt in ihrem Hoheitsgebiet Investitionen von Investoren der anderen Vertragspartei eine gerechte und billige Behandlung und stellt sicher, daß die Ausübung dieses in solcher Weise anerkannten Rechtes in der Praxis nicht behindert wird.
 
@@ -85,7 +91,9 @@ b) jede juristische Person oder Personengesellschaft, einschließlich Gesellscha
 
 ## Artikel 4
 
-### Freier Transfer
+**Freier Transfer**
+
+### Art. 4
 
 (1) Jede Vertragspartei gewährleistet Investoren der anderen Vertragspartei ohne Verzögerung den freien Transfer von im Zusammenhang mit einer Investition stehenden Beträgen in frei konvertierbarer Währung, insbesondere von:
 
@@ -105,7 +113,9 @@ e) Zahlungen auf Grund einer Streitbeilegung.
 
 ## Artikel 5
 
-### Enteignung und Entschädigung
+**Enteignung und Entschädigung**
+
+### Art. 5
 
 (1) Eine Vertragspartei enteignet oder verstaatlicht weder direkt noch indirekt eine Investition eines Investors der anderen Vertragspartei auf ihrem Hoheitsgebiet, oder setzt eine Maßnahme mit gleicher Wirkung (im folgenden als „Enteignung“ bezeichnet), es sei denn, die folgenden Bedingungen werden erfüllt:
 
@@ -123,7 +133,9 @@ c) die Maßnahmen werden von Bestimmungen über die Zahlung einer prompten, ange
 
 ## Artikel 6
 
-### Entschädigung für Schaden oder Verlust
+**Entschädigung für Schaden oder Verlust**
+
+### Art. 6
 
 (1) Den Investoren einer Vertragspartei, deren Investitionen durch einen Krieg oder irgendeine andere bewaffnete Auseinandersetzung, Revolution, nationalen Notstand, Revolte oder andere ähnliche Ereignisse im Hoheitsgebiet der anderen Vertragspartei Verluste erlitten haben, wird seitens der letztgenannten Vertragspartei hinsichtlich Rückerstattung, Schadloshaltung, Entschädigung oder anderer Regelung eine nicht weniger günstige Behandlung gewährt als jene, die die Vertragspartei ihren eigenen Investoren oder Investoren jedes Drittlandes gewährt, je nachdem, welche günstiger für die betroffenen Investoren ist.
 
@@ -137,7 +149,9 @@ umgehende Rückerstattung oder umgehende, angemessene und wirksame Entschädigun
 
 ## Artikel 7
 
-### Eintrittsrecht
+**Eintrittsrecht**
+
+### Art. 7
 
 (1) Hat eine Vertragspartei oder eine von der Vertragspartei ermächtigte Institution einen Versicherungsvertrag oder irgendeine Garantie in bezug auf eine Investition eines ihrer Investoren auf dem Hoheitsgebiet der anderen Vertragspartei gewährt, so anerkennt die letztgenannte Vertragspartei das Recht der erstgenannten Vertragspartei, kraft des Prinzips des Eintrittsrechtes in alle Rechte und Ansprüche des Investors einzutreten, sobald eine Zahlung auf Grund dieses Vertrages oder dieser Garantie von der erstgenannten Vertragspartei geleistet wurde.
 
@@ -145,13 +159,17 @@ umgehende Rückerstattung oder umgehende, angemessene und wirksame Entschädigun
 
 ## Artikel 8
 
-### Grundsatz der günstigeren Behandlung
+**Grundsatz der günstigeren Behandlung**
+
+### Art. 8
 
 Ergibt sich aus den Rechtsvorschriften einer Vertragspartei oder aus völkerrechtlichen Verpflichtungen, die neben diesem Abkommen zwischen den Vertragsparteien bestehen oder in Zukunft begründet werden, eine allgemeine oder besondere Regelung, durch die Investitionen von Investoren der anderen Vertragspartei eine günstigere Behandlung als nach diesem Abkommen zu gewähren ist, so geht diese Regelung dem vorliegenden Abkommen insoweit vor, als sie günstiger ist.
 
 ## Artikel 9
 
-### Beilegung von Streitigkeiten zwischen einer Vertragspartei und einem Investor der anderen Vertragspartei
+**Beilegung von Streitigkeiten zwischen einer Vertragspartei und einem Investor der anderen Vertragspartei**
+
+### Art. 9
 
 (1) Mit dem Ziel einer freundschaftlichen Beilegung von Streitigkeiten, die sich zwischen einer Vertragspartei und einem Investor der anderen Vertragspartei aus einer durch dieses Abkommen erfaßten Investition ergeben, werden zwischen den betroffenen Parteien Konsultationen durchgeführt.
 
@@ -181,7 +199,9 @@ c) einem Schiedsverfahren durch drei Schiedsrichter in Übereinstimmung mit den 
 
 ## Artikel 10
 
-### Beilegung von Streitigkeiten zwischen den Vertragsparteien
+**Beilegung von Streitigkeiten zwischen den Vertragsparteien**
+
+### Art. 10
 
 (1) Die Vertragsparteien bemühen sich, jede Streitigkeit zwischen einander betreffend die Auslegung oder Anwendung der Bestimmungen dieses Abkommens durch freundschaftliche Verhandlungen beizulegen.
 
@@ -201,19 +221,25 @@ c) einem Schiedsverfahren durch drei Schiedsrichter in Übereinstimmung mit den 
 
 ## Artikel 11
 
-### Anwendungsbereich
+**Anwendungsbereich**
+
+### Art. 11
 
 Dieses Abkommen findet auf Investitionen Anwendung, die vor oder nach dem Inkrafttreten dieses Abkommens auf dem Hoheitsgebiet einer Vertragspartei in Übereinstimmung mit deren Rechtsvorschriften von Investoren der anderen Vertragspartei getätigt wurden. Es findet hingegen keine Anwendung auf Streitigkeiten, die vor seinem Inkrafttreten entstanden.
 
 ## Artikel 12
 
-### Konsultationen zwischen den Vertragsparteien
+**Konsultationen zwischen den Vertragsparteien**
+
+### Art. 12
 
 Die Vertragsparteien konsultieren einander über Ersuchen einer der Vertragsparteien über Angelegenheiten betreffend die Auslegung oder Anwendung dieses Abkommens.
 
 ## Artikel 13
 
-### Schlußbestimmungen
+**Schlußbestimmungen**
+
+### Art. 13
 
 (1) Die Vertragsparteien notifizieren einander die Erfüllung der für das Inkrafttreten dieses Abkommens notwendigen verfassungsmäßigen Voraussetzungen. Das Abkommen tritt sechzig Tage nach dem Datum der letzteren Notifikation in Kraft.
 

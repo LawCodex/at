@@ -27,15 +27,21 @@ Die Regierung der Republik Österreich und die Regierung der Republik Mauritius,
 
 Sind wie folgt übereingekommen:
 
-## <u>Artikel 1</u> – <u>Gegenstand und Geltungsbereich des Abkommens</u>
+**<u>Artikel 1</u>**
+
+## Art. 1 – <u>Gegenstand und Geltungsbereich des Abkommens</u>
 
 Die zuständigen Behörden der Vertragsparteien leisten einander Unterstützung durch den Austausch von Informationen, die für die Anwendung oder Durchsetzung des innerstaatlichen Rechts der Vertragsparteien betreffend die unter dieses Abkommen fallenden Steuern voraussichtlich erheblich sind. Davon eingeschlossen sind Informationen, die für die Festsetzung, Veranlagung und Erhebung dieser Steuern, für die Vollstreckung von Steuerforderungen oder für Ermittlungen in beziehungsweise die Verfolgung von Steuersachen voraussichtlich erheblich sind. Informationen werden in Übereinstimmung mit den Vorschriften dieses Abkommens ausgetauscht und nach Maßgabe des Artikels 8 vertraulich behandelt. Die persönlichen Rechte und Sicherheiten, welche Personen durch die Gesetze oder die Verwaltungspraxis der ersuchten Vertragspartei gewährt werden, bleiben in dem Ausmaß anwendbar, in dem sie einen wirkungsvollen Informationsaustausch nicht übermäßig behindern oder verzögern.
 
-## <u>Artikel 2</u> – <u>Zuständigkeit</u>
+**<u>Artikel 2</u>**
+
+## Art. 2 – <u>Zuständigkeit</u>
 
 Die ersuchte Vertragspartei ist nicht zur Erteilung von Informationen verpflichtet, die ihren Behörden nicht vorliegen und sich auch nicht im Besitz oder in der Verfügungsmacht von Personen in ihrem Hoheitsbereich befinden.
 
-## <u>Artikel 3</u> – <u>Unter das Abkommen fallende Steuern</u>
+**<u>Artikel 3</u>**
+
+## Art. 3 – <u>Unter das Abkommen fallende Steuern</u>
 
 (1) Dieses Abkommen gilt für folgende Steuern:
 
@@ -49,7 +55,9 @@ b) in Mauritius, die Einkommensteuer.
 
 (2) Das Abkommen gilt auch für alle Steuern gleicher Art, die nach der Unterzeichnung des Abkommens neben den bestehenden Steuern oder an deren Stelle erhoben werden. Das Abkommen gilt auch für alle Steuern im Wesentlichen ähnlicher Art, die nach der Unterzeichnung des Abkommens neben den bestehenden Steuern oder an deren Stelle erhoben werden, soweit die Vertragsparteien dies vereinbaren. Die zuständigen Behörden der Vertragsparteien teilen einander die bei den unter dieses Abkommen fallenden Steuern sowie den entsprechenden Maßnahmen zur Beschaffung von Informationen eingetretenen wesentlichen Änderungen mit.
 
-## <u>Artikel 4</u> – <u>Begriffsbestimmungen</u>
+**<u>Artikel 4</u>**
+
+## Art. 4 – <u>Begriffsbestimmungen</u>
 
 (1) Für die Zwecke dieses Abkommens, soweit nichts anderes bestimmt ist,
 
@@ -85,7 +93,9 @@ m) bedeutet der Ausdruck „Informationen“ Tatsachen, Erklärungen oder Aufzei
 
 (2) Bei der Anwendung des Abkommens durch eine Vertragspartei hat, wenn der Zusammenhang nichts anderes erfordert, jeder im Abkommen nicht definierte Ausdruck die Bedeutung, die ihm im Anwendungszeitraum nach dem Recht dieser Vertragspartei zukommt, wobei die Bedeutung nach dem anzuwendenden Steuerrecht dieser Vertragspartei Vorrang vor einer Bedeutung hat, die dem Ausdruck nach anderem Recht dieser Vertragspartei zukommt.
 
-## <u>Artikel 5</u> – <u>Informationsaustausch auf Ersuchen</u>
+**<u>Artikel 5</u>**
+
+## Art. 5 – <u>Informationsaustausch auf Ersuchen</u>
 
 (1) Auf Ersuchen erteilt die zuständige Behörde der ersuchten Vertragspartei Informationen für die in Artikel 1 genannten Zwecke. Diese Informationen werden ohne Rücksicht darauf erteilt, ob das Verhalten, das Gegenstand der Ermittlungen ist, nach dem Recht der ersuchten Vertragspartei eine Straftat darstellen würde, wäre es in der ersuchten Vertragspartei erfolgt.
 
@@ -121,7 +131,9 @@ g) eine Erklärung, dass die ersuchende Vertragspartei alle ihr in ihrem eigenen
 
 (8) Es besteht Einvernehmen darüber, dass für die Auslegung dieses Abkommens auch die aus den Kommentaren der OECD abzuleitenden Anwendungsgrundsätze zu berücksichtigen sind.
 
-## <u>Artikel 6</u> – <u>Steuerprüfungen im Ausland</u>
+**<u>Artikel 6</u>**
+
+## Art. 6 – <u>Steuerprüfungen im Ausland</u>
 
 (1) Eine Vertragspartei kann Vertretern der zuständigen Behörde der anderen Vertragspartei die Einreise in das Gebiet der erstgenannten Vertragspartei für Zwecke des Absatzes 2 gestatten. Die zuständige Behörde der zweitgenannten Vertragspartei teilt der zuständigen Behörde der erstgenannten Vertragspartei Zeitpunkt und Ort des geplanten Treffens mit den betreffenden natürlichen Personen mit.
 
@@ -129,7 +141,9 @@ g) eine Erklärung, dass die ersuchende Vertragspartei alle ihr in ihrem eigenen
 
 (3) Ist dem in Absatz 2 bezeichneten Ersuchen stattgegeben worden, so unterrichtet die zuständige Behörde der die Prüfung durchführenden Vertragspartei so bald wie möglich die zuständige Behörde der anderen Vertragspartei über Zeitpunkt und Ort der Prüfung, die mit der Durchführung der Prüfung beauftragte Behörde oder den damit beauftragten Bediensteten sowie über die von der erstgenannten Vertragspartei für die Durchführung der Prüfung vorgeschriebenen Verfahren und Bedingungen. Alle Entscheidungen im Zusammenhang mit der Durchführung der Steuerprüfung trifft die die Prüfung durchführende Vertragspartei.
 
-## <u>Artikel 7</u> – <u>Möglichkeit der Ablehnung eines Ersuchens</u>
+**<u>Artikel 7</u>**
+
+## Art. 7 – <u>Möglichkeit der Ablehnung eines Ersuchens</u>
 
 (1) Die ersuchte Vertragspartei ist nicht zur Einholung oder Erteilung von Informationen verpflichtet, die die ersuchende Vertragspartei nach ihrem eigenen Recht für Zwecke der Anwendung oder Durchsetzung ihres eigenen Steuerrechts nicht einholen könnte. Die zuständige Behörde der ersuchten Vertragspartei kann die Unterstützung ablehnen, wenn das Ersuchen nicht in Übereinstimmung mit diesem Abkommen gestellt wurde.
 
@@ -147,15 +161,21 @@ g) eine Erklärung, dass die ersuchende Vertragspartei alle ihr in ihrem eigenen
 
 (6) Die ersuchte Vertragspartei kann ein Informationsersuchen ablehnen, wenn die Informationen von der ersuchenden Vertragspartei zur Anwendung oder Durchsetzung von Bestimmungen des Steuerrechts der ersuchenden Vertragspartei oder damit zusammenhängender Anforderungen erbeten werden, die einen Staatsangehörigen der ersuchten Vertragspartei gegenüber einem Staatsangehörigen der ersuchenden Vertragspartei unter gleichen Verhältnissen benachteiligen.
 
-## <u>Artikel 8</u> – <u>Vertraulichkeit</u>
+**<u>Artikel 8</u>**
+
+## Art. 8 – <u>Vertraulichkeit</u>
 
 Alle von einer Vertragspartei nach diesem Abkommen empfangenen Informationen sind vertraulich zu behandeln und dürfen nur den Personen oder Behörden (einschließlich der Gerichte und Verwaltungsbehörden) im Hoheitsgebiet der Vertragspartei zugänglich gemacht werden, die mit der Veranlagung oder Erhebung, der Vollstreckung oder Strafverfolgung oder mit der Entscheidung von Rechtsmitteln hinsichtlich der von diesem Abkommen erfassten Steuern befasst sind. Diese Personen oder Behörden dürfen die Informationen nur für diese Zwecke verwenden. Sie dürfen die Informationen in einem öffentlichen Gerichtsverfahren oder in einer Gerichtsentscheidung offen legen. Die Informationen dürfen ohne schriftliche Zustimmung der zuständigen Behörde der ersuchten Vertragspartei keiner anderen Person, Einheit oder Behörde oder irgendeinem anderen Hoheitsbereich zugänglich gemacht werden.
 
-## <u>Artikel 9</u> – <u>Kosten</u>
+**<u>Artikel 9</u>**
+
+## Art. 9 – <u>Kosten</u>
 
 Die Tragung der für die Informationserteilung anfallenden Kosten erfolgt nach Maßgabe des Einvernehmens der Vertragsparteien.
 
-## <u>Artikel 10</u> – <u>Verständigungsverfahren</u>
+**<u>Artikel 10</u>**
+
+## Art. 10 – <u>Verständigungsverfahren</u>
 
 (1) Bei Schwierigkeiten oder Zweifeln zwischen den Vertragsparteien bezüglich der Anwendung oder Auslegung des Abkommens werden sich die zuständigen Behörden bemühen, die Angelegenheit in gegenseitigem Einvernehmen zu regeln.
 
@@ -165,13 +185,17 @@ Die Tragung der für die Informationserteilung anfallenden Kosten erfolgt nach M
 
 (4) Die Vertragsparteien können sich auch auf andere Verfahren zur Streitbeilegung verständigen.
 
-## <u>Artikel 11</u> – <u>Inkrafttreten</u>
+**<u>Artikel 11</u>**
+
+## Art. 11 – <u>Inkrafttreten</u>
 
 (1) Dieses Abkommen bedarf der Ratifikation; die Ratifikationsurkunden werden so bald wie möglich ausgetauscht.
 
 (2) Dieses Abkommen tritt am ersten Tag des dritten Monats in Kraft, der dem Zeitpunkt des Austausches der Ratifikationsurkunden folgt. Die Bestimmungen des Abkommens finden Anwendung auf Steuern für alle Steuerzeiträume, die nach dem 31. Dezember des Kalenderjahres beginnen, in dem der Austausch der Ratifikationsurkunden erfolgt.
 
-## <u>Artikel 12</u> – <u>Kündigung</u>
+**<u>Artikel 12</u>**
+
+## Art. 12 – <u>Kündigung</u>
 
 Dieses Abkommen bleibt in Kraft, solange es nicht von einer Vertragspartei gekündigt wird. Jede Vertragspartei kann es am oder vor dem 30. Juni eines jeden Kalenderjahres nach Ablauf von fünf Jahren nach seinem In-Kraft-Treten schriftlich auf diplomatischem Weg kündigen. In diesem Fall findet das Abkommen nicht mehr Anwendung auf Steuerzeiträume, die nach dem 31. Dezember des Kalenderjahres beginnen, in dem die Kündigung erfolgt ist.
 

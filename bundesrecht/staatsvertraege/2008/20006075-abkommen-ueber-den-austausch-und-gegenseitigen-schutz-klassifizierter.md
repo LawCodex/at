@@ -33,7 +33,9 @@ sind wie folgt übereingekommen:
 
 ## ARTIKEL 1
 
-### BEGRIFFSBESTIMMUNGEN
+**BEGRIFFSBESTIMMUNGEN**
+
+### Art. 1
 
 Im Sinne dieses Abkommens:
 
@@ -57,7 +59,9 @@ Im Sinne dieses Abkommens:
 
 ## ARTIKEL 2
 
-### KLASSIFIZIERUNGSSTUFEN
+**KLASSIFIZIERUNGSSTUFEN**
+
+### Art. 2
 
 (1) Die Parteien legen die Gleichwertigkeit der folgenden Klassifizierungsstufen fest:
 
@@ -76,13 +80,17 @@ Im Sinne dieses Abkommens:
 
 ## ARTIKEL 3
 
-### ZUSTÄNDIGE SICHERHEITSBEHÖRDEN UND –STELLEN
+**ZUSTÄNDIGE SICHERHEITSBEHÖRDEN UND –STELLEN**
+
+### Art. 3
 
 Die Parteien teilen einander auf diplomatischem Wege ihre für die Durchführung dieses Abkommens zuständigen Sicherheitsbehörden und –stellen mit.
 
 ## ARTIKEL 4
 
-### SICHERHEITSGRUNDSÄTZE
+**SICHERHEITSGRUNDSÄTZE**
+
+### Art. 4
 
 (1) Die Parteien treffen gemäß diesem Abkommen und dem anwendbaren innerstaatlichen Recht alle geeigneten Maßnahmen, um die übermittelten klassifizierten Informationen zu schützen, und gewährleisten die erforderliche Kontrolle dieser Maßnahmen.
 
@@ -96,7 +104,9 @@ Die Parteien teilen einander auf diplomatischem Wege ihre für die Durchführung
 
 ## ARTIKEL 5
 
-### SICHERHEITSUNBEDENKLICHKEITSBESCHEINIGUNG FÜR PERSONEN
+**SICHERHEITSUNBEDENKLICHKEITSBESCHEINIGUNG FÜR PERSONEN**
+
+### Art. 5
 
 (1) Zugang zu Informationen, die als VERTRAULICH/KONFIDENCIĀLI/CONFIDENTIAL und höher eingestuft sind, ist nur auf Grundlage einer Sicherheitsunbedenklichkeitsbescheinigung für Personen zu gewähren.
 
@@ -108,7 +118,9 @@ Die Parteien teilen einander auf diplomatischem Wege ihre für die Durchführung
 
 ## ARTIKEL 6
 
-### KLASSIFIZIERTE VERTRÄGE
+**KLASSIFIZIERTE VERTRÄGE**
+
+### Art. 6
 
 (1) Im Zusammenhang mit der Vorbereitung oder dem Abschluss klassifizierter Verträge teilen die zuständigen Sicherheitsbehörden und –stellen einander auf schriftliches Ersuchen mit, ob eine gültige Sicherheitsunbedenklichkeitsbescheinigung für Unternehmen ausgestellt oder ein entsprechendes Verfahren eingeleitet wurde.
 
@@ -124,13 +136,17 @@ Die Parteien teilen einander auf diplomatischem Wege ihre für die Durchführung
 
 ## ARTIKEL 7
 
-### ÜBERMITTLUNG
+**ÜBERMITTLUNG**
+
+### Art. 7
 
 Klassifizierte Informationen werden auf diplomatischem Wege oder auf andere gegen jegliche Sicherheitsverletzung geschützte und zwischen den zuständigen Sicherheitsbehörden und –stellen beider Parteien vereinbarte Weise übermittelt. Der Empfang von Informationen, die als VERTRAULICH/KONFIDENCIĀLI/CONFIDENTIAL und höher eingestuft sind, wird schriftlich bestätigt.
 
 ## ARTIKEL 8
 
-### VERVIELFÄLTIGUNG UND ÜBERSETZUNG
+**VERVIELFÄLTIGUNG UND ÜBERSETZUNG**
+
+### Art. 8
 
 (1) Klassifizierte Informationen werden gemäß dem anwendbaren innerstaatlichen Recht vervielfältigt. Die Vervielfältigung klassifizierter Informationen durch den Empfänger kann vom Herausgeber eingeschränkt oder ausgeschlossen werden. Informationen, die als STRENG GEHEIM/SEVIŠĶI SLEPENI/TOP SECRET eingestuft sind, werden nicht vervielfältigt.
 
@@ -140,13 +156,17 @@ Klassifizierte Informationen werden auf diplomatischem Wege oder auf andere gege
 
 ## ARTIKEL 9
 
-### VERNICHTUNG
+**VERNICHTUNG**
+
+### Art. 9
 
 Klassifizierte Informationen werden gemäß dem anwendbaren innerstaatlichen Recht nachweislich und auf eine Weise vernichtet, die eine teilweise oder vollständige Wiederherstellung unmöglich macht. Informationen, die als STRENG GEHEIM/SEVIŠĶI SLEPENI/TOP SECRET eingestuft sind, werden nicht vernichtet, sondern an den Herausgeber rückübermittelt.
 
 ## ARTIKEL 10
 
-### BESUCHE
+**BESUCHE**
+
+### Art. 10
 
 (1) Besuchern wird nur im notwendigen Ausmaß und mit Genehmigung der zuständigen Sicherheitsbehörde oder –stelle Zugang zu klassifizierten Informationen sowie zu Einrichtungen, in denen klassifizierte Informationen gehandhabt werden, gewährt. Die Genehmigung wird nur Individuen erteilt, die zum Zugang zu den betroffenen Informationen ordnungsgemäß befugt sind.
 
@@ -174,7 +194,9 @@ g. Datum des Antrags und Unterschrift der zuständigen Sicherheitsbehörde oder 
 
 ## ARTIKEL 11
 
-### SICHERHEITSVERLETZUNG
+**SICHERHEITSVERLETZUNG**
+
+### Art. 11
 
 (1) Im Falle einer Sicherheitsverletzung oder eines entsprechenden Verdachts informiert die zuständige Sicherheitsbehörde oder –stelle des Staates, in dem die Verletzung stattgefunden hat, die zuständige Sicherheitsbehörde oder –stelle des anderen Staates unverzüglich schriftlich.
 
@@ -184,13 +206,17 @@ g. Datum des Antrags und Unterschrift der zuständigen Sicherheitsbehörde oder 
 
 ## ARTIKEL 12
 
-### KOSTEN
+**KOSTEN**
+
+### Art. 12
 
 Jede Partei trägt die Kosten, die ihr im Zuge der Durchführung dieses Abkommens entstehen.
 
 ## ARTIKEL 13
 
-### KONSULTATIONEN
+**KONSULTATIONEN**
+
+### Art. 13
 
 (1) Die zuständigen Sicherheitsbehörden und –stellen teilen einander das innerstaatliche Recht über den Schutz klassifizierter Informationen und jegliche Änderungen desselben mit.
 
@@ -198,13 +224,17 @@ Jede Partei trägt die Kosten, die ihr im Zuge der Durchführung dieses Abkommen
 
 ## ARTIKEL 14
 
-### STREITBEILEGUNG
+**STREITBEILEGUNG**
+
+### Art. 14
 
 Jegliche Streitigkeiten über die Anwendung oder Auslegung dieses Abkommens werden im Wege direkter Gespräche zwischen den zuständigen Sicherheitsbehörden oder –stellen oder auf diplomatischem Wege beigelegt.
 
 ## ARTIKEL 15
 
-### SCHLUSSBESTIMMUNGEN
+**SCHLUSSBESTIMMUNGEN**
+
+### Art. 15
 
 (1) Dieses Abkommen wird auf unbestimmte Zeit geschlossen und tritt am ersten Tag des zweiten Monats nach dem Tag der Unterzeichnung in Kraft.
 

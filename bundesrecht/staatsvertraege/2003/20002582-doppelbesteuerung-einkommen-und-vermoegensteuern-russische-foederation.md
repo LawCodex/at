@@ -585,7 +585,9 @@ GESCHEHEN ZU Moskau, am 13. April 2000, in zwei Urschriften, jede in deutscher, 
 
 > **Beachte:** Ergänzung zu Art. 5, Ergänzung zu Art. 6, Ergänzung zu Art. 7, Ergänzung zu den Art. 7 und 9 sowie Ergänzung zu Art. 25 sind von 6.12.2023 bis auf weiteres als suspendiert anzusehen (vgl. BGBl. III Nr. 200/2023).
 
-### Erklärung über den territorialen Geltungsbereich von Abkommen zwischen der Republik Österreich und der Russischen Föderation
+**Erklärung über den territorialen Geltungsbereich von Abkommen zwischen der Republik Österreich und der Russischen Föderation**
+
+### Anl. 2
 
 Die Republik Österreich verweist auf die Note der Europäischen Union vom 19. September 2014 über den territorialen Anwendungsbereich von Abkommen zwischen der Europäischen Union und der Russischen Föderation und erklärt hiermit, dass im Hinblick auf den territorialen Geltungsbereich von Abkommen zwischen der Republik Österreich und der Russischen Föderation die Republik Österreich auch weiterhin davon ausgeht, dass das Hoheitsgebiet der Russischen Föderation dem Gebiet entspricht, das im Einklang mit der Resolution der Generalversammlung der Vereinten Nationen Nr. 68/262 vom 27. März 2014 über die territoriale Unversehrtheit der Ukraine international anerkannt wird.
 

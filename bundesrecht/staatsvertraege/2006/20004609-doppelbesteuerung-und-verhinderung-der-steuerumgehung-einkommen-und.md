@@ -508,7 +508,9 @@ ZU URKUND DESSEN haben die hiezu gehörig Unterfertigten dieses Protokoll unterz
 
 GESCHEHEN zu Bukarest, am 30. März 2005, in zweifacher Ausfertigung, jede in deutscher, rumänischer und englischer Sprache, wobei jede Fassung gleichermaßen authentisch ist. Im Zweifel ist der englische Text maßgeblich.
 
-## ZUSATZPROTOKOLL
+**ZUSATZPROTOKOLL**
+
+## Anl. 2
 
 Im Zeitpunkt der Unterzeichnung des Protokolls zur Abänderung des am 30. März 2005 in Bukarest unterzeichneten Abkommens zur Vermeidung der Doppelbesteuerung und zur Verhinderung der Steuerumgehung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen1, das heute zwischen der Republik Österreich und Rumänien abgeschlossen wurde, sind die Gefertigten übereingekommen, dass die folgenden Bestimmungen einen integrierenden Bestandteil des Protokolls bilden:
 

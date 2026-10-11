@@ -375,7 +375,9 @@ Auf Verlangen von einem Drittel der Vertragspartner dieses Übereinkommens beruf
 
 Der Generalsekretär der Vereinten Nationen übermittelt jeder Spezialorganisation und der Regierung eines jeden Mitgliedes der Vereinten Nationen Kopien dieses Übereinkommens.
 
-## Annex I – Die Internationale Arbeitsorganisation
+**Annex I**
+
+## Anl. 1 – Die Internationale Arbeitsorganisation
 
 In ihrer Anwendung auf die Internationale Arbeitsorganisation gelten die Standardklauseln vorbehaltlich der folgenden Bestimmungen:
 
@@ -397,7 +399,9 @@ II. In Verbindung mit Absatz d obigen Punktes 3 I ist der Grundsatz, der im letz
 
 III. Die Privilegien und Immunitäten werden den Sachverständigen der Organisation im Interesse der Organisation und nicht zum persönlichen Vorteil der einzelnen selbst gewährt. Die Organisation hat das Recht und die Pflicht, die Immunität eines Sachverständigen in jedem Falle aufzuheben, in dem nach ihrer Meinung die Immunität den Lauf der Gerechtigkeit hindern würde und in dem ohne Nachteil auf die Interessen der Organisation darauf verzichtet werden kann.
 
-## ANNEX II – DIE ERNÄHRUNGS- UND LANDWIRTSCHAFTSORGANISATION DER VEREINTEN NATIONEN
+**ANNEX II**
+
+## Anl. 2 – DIE ERNÄHRUNGS- UND LANDWIRTSCHAFTSORGANISATION DER VEREINTEN NATIONEN
 
 In ihrer Anwendung auf die Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (im folgenden als „die Organisation“ bezeichnet) gelten die Standardklauseln vorbehaltlich der folgenden Bestimmungen:
 
@@ -419,7 +423,9 @@ III. Die Privilegien und Immunitäten werden den Sachverständigen im Interesse 
 
 3\. Die Privilegien, Immunitäten, Befreiungen und Erleichterungen, auf die in Abschnitt 21 der Standardklauseln Bezug genommen ist, sollen dem Stellvertretenden Generaldirektor und den Untergeneraldirektoren der Organisation gewährt werden.
 
-## Annex III – Internationale Zivilluftfahrtsorganisation
+**Annex III**
+
+## Anl. 3 – Internationale Zivilluftfahrtsorganisation
 
 In ihrer Anwendung auf die Internationale Zivilluftfahrtsorganisation (im folgenden als „die Organisation“ bezeichnet) gelten die Standardklauseln vorbehaltlich der folgenden Bestimmungen:
 
@@ -439,7 +445,9 @@ II. In Verbindung mit Absatz d obigen Punktes 2 ist der Grundsatz, der im letzte
 
 III. Die Privilegien und Immunitäten werden den Sachverständigen im Interesse der Organisation und nicht zum persönlichen Vorteil der einzelnen selbst gewährt. Die Organisation hat das Recht und die Pflicht, die Immunität eines Sachverständigen in jedem Falle aufzuheben, in dem nach ihrer Meinung die Immunität den Lauf der Gerechtigkeit hindern würde und in dem ohne Nachteil auf die Interessen der Organisation darauf verzichtet werden kann.
 
-## Annex IV – Die Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur
+**Annex IV**
+
+## Anl. 4 – Die Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur
 
 In ihrer Anwendung auf die Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur (im folgenden als „die Organisation“ bezeichnet) gelten die Standardklauseln vorbehaltlich der folgenden Bestimmungen:
 
@@ -457,7 +465,9 @@ c) dieselben Erleichterungen in bezug auf Währungs- und Geldwechselbeschränkun
 
 II. Die Privilegien und Immunitäten werden den Sachverständigen der Organisation im Interesse der Organisation und nicht zum persönlichen Vorteil der einzelnen selbst gewährt. Die Organisation hat das Recht und die Pflicht, die Immunität eines Sachverständigen in jedem Falle aufzuheben, in dem nach ihrer Meinung die Immunität den Lauf der Gerechtigkeit hindern würde und in dem ohne Nachteil auf die Interessen der Organisation darauf verzichtet werden kann.
 
-## Annex V – Der Internationale Währungsfonds
+**Annex V**
+
+## Anl. 5 – Der Internationale Währungsfonds
 
 In seiner Anwendung auf den Internationalen Währungsfonds (im folgenden als „der Fonds“ bezeichnet) gilt das Übereinkommen (einschließlich dieses Annexes) vorbehaltlich der folgenden Bestimmungen:
 
@@ -465,7 +475,9 @@ In seiner Anwendung auf den Internationalen Währungsfonds (im folgenden als „
 
 2\. Die Bestimmungen des Übereinkommens (einschließlich dieses Annexes) gestalten die Rechte, Immunitäten, Privilegien und Befreiungen, die dem Fonds oder einem seiner Mitglieder, den Gouverneuren, Exekutivdirektoren, Stellvertretern, Beamten oder Angestellten durch die Artikel des Abkommens über den Fonds oder durch ein Statut, Gesetz oder eine Regelung eines Mitglieds des Fonds oder einer politischen Körperschaft eines solchen Mitglieds oder auf sonstige Weise gewährt werden, weder um, noch ändern sie sie ab, noch verlangen sie die Umgestaltung oder Abänderung der Artikel des Fondsabkommens, noch beeinträchtigen oder beschränken sie diese Rechte, Immunitäten, Privilegien oder Befreiungen.
 
-## Annex VI – Internationale Bank für Wiederaufbau und Wirtschaftsförderung
+**Annex VI**
+
+## Anl. 6 – Internationale Bank für Wiederaufbau und Wirtschaftsförderung
 
 In seiner Anwendung auf die Internationale Bank für Wiederaufbau und Wirtschaftsförderung (im folgenden „die Bank“ genannt), gilt das Übereinkommen (einschließlich dieses Annexes) vorbehaltlich der folgenden Bestimmungen:
 
@@ -477,7 +489,9 @@ In seiner Anwendung auf die Internationale Bank für Wiederaufbau und Wirtschaft
 
 3\. Die Bestimmungen des Übereinkommens (einschließlich dieses Annexes) gestalten die Rechte, Immunitäten, Privilegien und Befreiungen, die der Bank oder einer ihrer Mitglieder, den Gouverneuren, Exekutivdirektoren, Stellvertretern, Beamten oder Angestellten durch die Artikel des Abkommens über die Bank oder durch ein Statut, Gesetz oder eine Regelung eines Mitglieds der Bank oder einer politischen Körperschaft eines solchen Mitglieds oder auf sonstige Weise gewährt werden, weder um, noch ändern sie sie ab, noch verlangen sie Umgestaltung oder Abänderung der Artikel des Bankabkommens, noch beeinträchtigen oder beschränken sie diese Rechte, Immunitäten, Privilegien oder Befreiungen.
 
-## ANNEX VII – Die Weltgesundheitsorganisation
+**ANNEX VII**
+
+## Anl. 7 – Die Weltgesundheitsorganisation
 
 In ihrer Anwendung auf die Weltgesundheitsorganisation der Vereinten Nationen (im folgenden als „die Organisation“ bezeichnet) gelten die Standardklauseln vorbehaltlich der folgenden Bestimmungen:
 
@@ -503,19 +517,27 @@ III. Die Privilegien und Immunitäten werden den Sachverständigen der Organisat
 
 4\. Die in Abschnitt 21 der Standardklauseln angeführten Privilegien, Immunitäten, Befreiungen und Erleichterungen werden auch allen Stellvertretenden Generaldirektoren, Vizegeneraldirektoren und Regionaldirektoren der Organisation gewährt.
 
-## Annex VIII – Weltpostverein
+**Annex VIII**
+
+## Anl. 8 – Weltpostverein
 
 Die Standardklauseln finden ohne Abänderung Anwendung.
 
-## ANNEX IX – Internationaler Weltnachrichtenverein
+**ANNEX IX**
+
+## Anl. 9 – Internationaler Weltnachrichtenverein
 
 Die Standardklauseln finden ohne Abänderung Anwendung mit der Ausnahme, daß der Internationale Weltnachrichtenverein für sich nicht den Genuß der bevorzugten Behandlung hinsichtlich der in Abschnitt 11 des Artikels IV vorgesehenen „Erleichterungen für den Nachrichtenverkehr“ in Anspruch nehmen wird.
 
-## Annex X – Internationale Flüchtlingsorganisation
+**Annex X**
+
+## Anl. 10 – Internationale Flüchtlingsorganisation
 
 Die Standardklauseln finden ohne Abänderung Anwendung.
 
-## ANNEX XI – METEOROLOGISCHE WELTORGANISATION
+**ANNEX XI**
+
+## Anl. 11 – METEOROLOGISCHE WELTORGANISATION
 
 Die Standardklauseln finden ohne Abänderung Anwendung.
 
@@ -537,7 +559,9 @@ Das Übereinkommen (einschließlich dieses Annexes) soll auf die Internationale 
 
 5\. Die Bestimmungen dieses Übereinkommens (einschließlich des Annexes) ändern oder ergänzen das Abkommen über die Internationale Finanz-Corporation und machen seine Abänderung oder Ergänzung nicht notwendig. Auch hindern oder beschränken sie keine Rechte, Privilegien, Immunitäten oder Befreiungen, die der Corporation oder irgendwelchen ihrer Mitglieder, Gouverneure, Direktoren, Stellvertreter, leitenden Angestellten oder sonstigem Personal durch das Abkommen über die Internationale Finanz-Corporation oder durch ein Gesetz oder eine Verordnung eines Mitgliedstaates oder eine Behörde eines Mitgliedstaates oder auf andere Weise verliehen wurden.
 
-## ANNEX XIV – INTERNATIONALE ENTWICKLUNGSORGANISATION
+**ANNEX XIV**
+
+## Anl. 14 – INTERNATIONALE ENTWICKLUNGSORGANISATION
 
 Das Übereinkommen (einschließlich dieses Annexes) soll auf die Internationale Entwicklungsorganisation (in Folge „Organisation“ genannt) vorbehaltlich folgender Bestimmungen Anwendung finden:
 
@@ -547,7 +571,9 @@ Das Übereinkommen (einschließlich dieses Annexes) soll auf die Internationale 
 
 3\. Die Bestimmungen dieses Übereinkommens (einschließlich des Annexes) ändern oder ergänzen nicht das Abkommen über die Internationale Entwicklungsorganisation und machen seine Abänderung oder Ergänzung nicht notwendig. Auch hindern oder beschränken sie keine Rechte, Privilegien, Immunitäten oder Befreiungen, die der Organisation oder irgendwelchen ihrer Mitglieder, Gouverneure, Direktoren, Stellvertreter, leitenden Angestellten oder sonstigem Personal durch das Abkommen über die Internationale Entwicklungsorganisation oder durch ein Gesetz oder eine Verordnung eines Mitgliedsstaates oder einer Behörde eines Mitgliedsstaates oder auf andere Weise verliehen wurden.
 
-## (Übersetzung) – ANLAGE XV – Weltorganisation für geistiges Eigentum
+**(Übersetzung)**
+
+## Anl. 15 – ANLAGE XV – Weltorganisation für geistiges Eigentum
 
 Die Standardklauseln gelten für die Weltorganisation für geistiges Eigentum (in der Folge die „Organisation“ genannt) vorbehaltlich der folgenden Abänderungen:
 

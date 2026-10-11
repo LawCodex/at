@@ -55,25 +55,33 @@ Folgendes VEREINBART:
 
 ### ALLGEMEINE BESTIMMUNGEN — Artikel 1
 
-#### EUROPÄISCHE ZAHLUNGSUNION
+**EUROPÄISCHE ZAHLUNGSUNION**
+
+#### Art. 1
 
 Die Vertragsparteien gründen hiemit untereinander eine Europäische Zahlungsunion (im folgenden „Union“ genannt), die ihre Tätigkeit im Rahmen der Organisation ausübt.
 
 ## Artikel 2
 
-#### ZWECK DER UNION
+**ZWECK DER UNION**
+
+#### Art. 2
 
 Die Union hat den Zweck, mit Hilfe eines multilateralen Zahlungssystems den gesamten Zahlungsverkehr zwischen den Währungsgebieten der Vertragsparteien zu erleichtern, soweit er entsprechend ihrer Devisenpolitik von den zuständigen Behörden genehmigt worden ist; den Vertragsparteien soll dadurch geholfen werden, die Beschlüsse der Organisation über Handelspolitik und über Liberalisierung des Warenverkehrs und der unsichtbaren Transaktionen durchzuführen sowie die Ziele zu erreichen und die Bedingungen zu erfüllen, die in der Präambel dieses Abkommens genannt sind.
 
 ## Artikel 3
 
-#### OPERATIONEN
+**OPERATIONEN**
+
+#### Art. 3
 
 Zur Erfüllung des Zweckes der Union werden in regelmäßigen Zeitabständen Operationen (im folgenden „Operationen“ genannt) durchgeführt, wodurch die bilateralen Überschüsse und Defizite jeder Vertragspartei saldiert werden und ihr verbleibender Nettoüberschuß oder ihr verbleibende Nettodefizit gegenüber allen anderen Vertragsparteien in ihrer Gesamtheit nach dem Bestimmungen dieses Abkommens mit der Union abgerechnet wird.
 
 ## Artikel 4
 
-#### BILATERALE ÜBERSCHÜSSE UND DEFIZITE
+**BILATERALE ÜBERSCHÜSSE UND DEFIZITE**
+
+#### Art. 4
 
 a) Ein bilateraler Überschuß oder ein bilaterales Defizit ist der Überschuß oder das Defizit einer Vertragspartei gegenüber einer anderen Vertragspartei für eine Zeitraum für den Operationen durchgeführt werden (im folgenden „Abrechnungsperiode“ genannt).
 
@@ -91,13 +99,17 @@ g) Zentralbank einer Vertragspartei im Sinne dieses Abkommens ist die Zentralban
 
 ## Artikel 5
 
-#### NETTOÜBERSCHÜSSE UND NETTODEFIZITE
+**NETTOÜBERSCHÜSSE UND NETTODEFIZITE**
+
+#### Art. 5
 
 Der Nettoüberschuß oder das Nettodefizit einer Vertragspartei ist gleich dem Unterschied zwischen der Summe ihrer bilateralen Überschüsse und der Summe ihrer bilateralen Defizite für eine Abrechnungsperiode.
 
 ## Artikel 6
 
-#### RECHNUNGSÜBERSCHÜSSE UND RECHNUGSDEFIZITE
+**RECHNUNGSÜBERSCHÜSSE UND RECHNUGSDEFIZITE**
+
+#### Art. 6
 
 Der Rechnungsüberschuß oder das Rechnungsdefizit einer Vertragspartei ist der Nettoüberschuß oder das Nettodefizit dieser Vertragspartei für eine Abrechnungsperiode, berichtig um:
 
@@ -107,13 +119,17 @@ Der Rechnungsüberschuß oder das Rechnungsdefizit einer Vertragspartei ist der 
 
 ## Artikel 7
 
-#### KUMULATIVE RECHNUNGSÜBERSCHUSSE UND RECHNUNGSDEFIZITE
+**KUMULATIVE RECHNUNGSÜBERSCHUSSE UND RECHNUNGSDEFIZITE**
+
+#### Art. 7
 
 Der kumulative Rechnugsüberschuß oder das kumulative Rechnungsdefizit einer Vertragspartei gegenüber der Union ist gleich dem Unterschied zwischen der Summe ihrer Rechnungsüberschüsse und der Summe ihrer Rechnungsdefizite.
 
 ## Artikel 8
 
-#### FINANZIERUNG INNERHALB DER ABRECHNUNGSPERIODEN
+**FINANZIERUNG INNERHALB DER ABRECHNUNGSPERIODEN**
+
+#### Art. 8
 
 a) Jede Vertragspartei hat Beträge in ihrer Währung jeder anderen Vertragspartei auf Verlangen zur Verfügung zu stellen, ohne eine Abdeckung in Gold oder in der Währung eines dritten Landes zu fordern, und zwar in dem Umfang, der notwendig ist, um die in Artikel 2 erwähnten Zahlungen in der Zeit zwischen den Operationen zu ermöglichen.
 
@@ -123,7 +139,9 @@ b) Die Bestimmungen dieses Artikels verpflichten eine Vertragspartei nicht, ihre
 
 ### AUSGLEICH VON ÜBERSCHÜSSEN UND DEFIZITEN — Artikel 9
 
-#### BESTEHENDE GUTHABEN
+**BESTEHENDE GUTHABEN**
+
+#### Art. 9
 
 a) Verfügt eine Vertragspartei über Guthaben aus bestehenden Schuldverhältnissen im Sinne von § 1 der Anlage A dieses Abkommens, so werden sie auf Antrag dieser Vertragspartei zum Ausgleich ihres Nettodefizits in einer Abrechnungsperiode verwendet, jedoch nicht in Höhe eines gegebenenfalls bei Beendigung der Operationen für die vorhergehende Abrechnungsperiode vorhandenen kumulativen Rechnungsüberschusses der Vertragspartei. Eine Vertragspartei, für die eine Anfangsschuld festgesetzt worden ist, darf jedoch in dem Ausmaß, in dem ihr Nettodefizit gemäß Artikel 10 lit. e ausgeglichen werden könnte, diese Guthaben hiezu nur verwenden, wenn die Regierung der Vereinigten Staaten von Amerika nach Beratung mit dem in Artikel 20 genannten Direktorium ihre Genehmigung erteilt.
 
@@ -131,7 +149,9 @@ b) Werden bestehende Schulden gemäß Anlage A dieses Abkommens getilgt oder zur
 
 ## Artikel 10
 
-#### ANFANGSSALDEN
+**ANFANGSSALDEN**
+
+#### Art. 10
 
 a) Für die in den nachstehenden Tabellen I und II angeführten Vertragsparteien werden von der Regierung der Vereinigten Staaten von Amerika für die Zeit vom 1. Juli 1950 bis zum 30. Juni 1951 Anfangsguthaben oder Anfangsschulden in der in diesen Tabellen angegebenen Höhe festgesetzt.
 
@@ -193,7 +213,9 @@ h) Anfangsguthaben in Form von Darlehen
 
 ## Artikel 11
 
-#### KREDITE UND GOLDZAHLUNGEN
+**KREDITE UND GOLDZAHLUNGEN**
+
+#### Art. 11
 
 a) Der Rechnungsüberschuß oder das Rechnungsdefizit einer Vertragspartei wird durch Kredite und Goldzahlungen gemäß lit. b dieses Artikels ausgeglichen, jedoch nur insoweit, als der kumulative Rechnungsüberschuß oder das kumulative Rechnungsdefizit dieser Vertragspartei die in der nachstehenden Tabelle III für die festgesetzte Quote nicht überschreitet.
 
@@ -240,7 +262,9 @@ d) Jede Vertragspartei darf zum Ausgleich ihres Rechnungsdefizits für eine Abre
 
 ## Artikel 12
 
-#### BILATERALE KREDITVEREINBARUNGEN
+**BILATERALE KREDITVEREINBARUNGEN**
+
+#### Art. 12
 
 a) Zeigen zwei Vertragsparteien der Organisation eine Vereinbarung an, auf Grund deren die eine bereit ist, der anderen, oder beide bereit sind, sich gegenseitig bis zu einem bestimmten Betrage Kredit zu geben, so wird ein derartiger Kredit im Rahmen der Bestimmungen der bilateralen Vereinbarung dazu verwendet, das bilaterale Defizit der den Kredit empfangenden Vertragspartei gegenüber der den Kredit gebenden Vertragspartei auszugleichen, das in der seiner Verwendung unmittelbar vorangegangenen Abrechnungsperiode entstanden ist.
 
@@ -254,7 +278,9 @@ c) Kreditbeträge, die von zwei Vertragsparteien untereinander auf Grund dieses 
 
 ## Artikel 13
 
-#### ÜBERSCHREITUNG DER QUOTEN
+**ÜBERSCHREITUNG DER QUOTEN**
+
+#### Art. 13
 
 a) Falls die Organisation nichts anderes bestimmt und vorbehaltlich der Vorschriften des § 7 der Anlage B dieses Abkommens wird das Rechnungsdefizit einer Vertragspartei insoweit in voller Höhe durch Goldzahlung beglichen, als ihr kumulatives Rechnungsdefizit den Betrag ihrer Quote übersteigt.
 
@@ -262,7 +288,9 @@ b) Vorbehaltlich der Vorschriften des § 7 der Anlage B dieses Abkommens wird de
 
 ## Artikel 14
 
-#### GOLDZAHLUNGEN
+**GOLDZAHLUNGEN**
+
+#### Art. 14
 
 a) Die Union kann sich von ihrer Verpflichtung, auf Grund des Artikels 11 oder 13 an eine Vertragspartei Gold zu zahlen, befreien durch Zahlung:
 
@@ -282,13 +310,17 @@ b) Jede Vertragspartei, die auf Grund des Artikel 11 oder 13 an die Union Gold z
 
 ## Artikel 15
 
-#### SONDERHILFE
+**SONDERHILFE**
+
+#### Art. 15
 
 Ist eine Vertragspartei nicht in der Lage, die gemäß Artikel 11 oder 13 zum Ausgleich ihres Rechnungsdefizits notwendigen Goldzahlungen zu leisten, so kann die Organisation auf Antrag dieser Vertragspartei die Regierung der Vereinigten Staaten von Amerika empfehlen, dieser Vertragspartei die Beträge in USA-Dollar, gegebenenfalls unter bestimmten Bedingungen, zur Verfügung zu stellen, die es ihr ermöglichen, ihre Verpflichtungen aus diesem Abkommen zu erfüllen. Ein von einer Vertragspartei gemäß den Bestimmungen dieses Artikels gestellter Antrag bewirkt keine zeitweilige Aufhebung ihrer Verpflichtungen auf Grund der Vorschriften der Artikel 11 oder 13.
 
 ## Artikel 16
 
-#### AUSGLEICH BILATERALER ÜBERSCHÜSSE UND DEFIZITE
+**AUSGLEICH BILATERALER ÜBERSCHÜSSE UND DEFIZITE**
+
+#### Art. 16
 
 a) Sobald der Nettoüberschuß oder das Nettodefizit einer Vertragspartei für eine Abrechnungsperiode gemäß den Bestimmungen in diesem Teil des Abkommens ausgeglichen worden ist, sind demzufolge, vorbehaltlich der Bestimmungen des lit. b dieses Artikels, die bilateralen Überschüsse und Defizite der anderen Vertragsparteien gegenüber der ersten Vertragspartei für dieselbe Abrechnungsperiode auszugleichen.
 
@@ -296,7 +328,9 @@ b) Kann der Nettoüberschuß einer Vertragspartei für eine Abrechnungsperiode n
 
 ## Artikel 17
 
-#### WERSTELLUNG
+**WERSTELLUNG**
+
+#### Art. 17
 
 Die Operationen werden für jede Abrechnungsperiode an dem Tage vorgenommen, der gemäß den Entscheidungen der Organisation festgesetzt wird.
 
@@ -304,13 +338,17 @@ Die Operationen werden für jede Abrechnungsperiode an dem Tage vorgenommen, der
 
 ### VERWALTUNG UND FINANZEN — Artikel 18
 
-#### VERWALTUNGSORGANE
+**VERWALTUNGSORGANE**
+
+#### Art. 18
 
 Die Tätigkeit der Union wird nach den Weisungen und unter der Aufsicht des Rates durch ein Direktorium und durch die Bank für Internationalen Zahlungsausgleich ausgeübt, die auf Grund eines Vertrages zwischen der Organisation und der Bank als Agent der Organisation (im folgenden „Agent“ genannt) handelt.
 
 ## Artikel 19
 
-#### DER RAT
+**DER RAT**
+
+#### Art. 19
 
 a) Vorbehaltlich der Bestimmungen des Artikels 20 hat der Rat die Befugnis, die zur Durchführung dieses Abkommens notwendigen Entscheidungen zu treffen. Alle diese Entscheidungen des Rates sind für sämtliche Vertragsparteien rechtsverbindlich; vorbehaltlich der Bestimmungen des Artikels 34 lit. e und des Artikel 36 lit. c verlieren sie ihre Rechtsverbindlichkeit für eine Vertragspartei, für die dieses Abkommen endigt. Die in lit. c dieses Artikels erwähnten Entscheidungen sind jedoch für alle Mitglieder der Organisation verbindlich, die Vertragsparteien sind oder zu irgendeiner Zeit Vertragsparteien waren.
 
@@ -326,7 +364,9 @@ d) Ratsentscheidungen auf Grund von Artikel 36 lit. d erfordern einen einvernehm
 
 ## Artikel 20
 
-#### DAS DIREKTORIUM
+**DAS DIREKTORIUM**
+
+#### Art. 20
 
 a) Das Direktorium besteht aus höchstens sieben Mitgliedern, die der Rat aus einem Kreis von Personen ernennt, die von den Vertragsparteien vorgeschlagen werden. Endigt dieses Abkommen für eine Vertragspartei gemäß Artikel 34 oder 35, so scheidet das auf Vorschlag dieser Vertragspartei ernannte Mitglied aus dem Direktorium aus. Sofern die Organisation nichts anderes bestimmt, darf ein Mitglied, das auf Vorschlag einer Vertragspartei ernannt ist, gegenüber die Anwendung dieses Abkommens auf Grund von Artikel 33 suspendiert ist, während der Dauer dieser Suspension an den Sitzungen des Direktoriums nicht teilnehmen. Sofern der Rat nichts anderes bestimmt, ist die Amtszeit der Mitglieder des Direktoriums ein Jahr, sie können wiederernannt werden.
 
@@ -348,7 +388,9 @@ j) Das Direktorium bestimmt seine Geschäftsordnung selbst.
 
 ## Artikel 21
 
-#### DER AGENT
+**DER AGENT**
+
+#### Art. 21
 
 a) Der Agent hat in Übereinstimmung mit den Entscheidungen des Rates und des Direktoriums für die Durchführung der Operationen zu sorgen und den in Artikel 23 erwähnten Fonds zu verwalten.
 
@@ -356,7 +398,9 @@ b) Der Agent erstattet der Organisation in regelmäßigen Zeitabständen Bericht
 
 ## Artikel 22
 
-#### MITTEILUNGEN AN DEN AGENTEN
+**MITTEILUNGEN AN DEN AGENTEN**
+
+#### Art. 22
 
 a) Jede Vertragspartei ist verpflichtet, dem Agenten zu übermitteln:
 
@@ -370,7 +414,9 @@ b) Wenn eine Vertragspartei dem Agenten Informationen für die Zwecke dieses Abk
 
 ## Artikel 23
 
-#### DER FONDS
+**DER FONDS**
+
+#### Art. 23
 
 a) Für die Zwecke dieses Abkommens wird ein Fonds gebildet, welcher der Organisation anvertraut wird.
 
@@ -394,7 +440,9 @@ c) Der Fonds wird verwendet:
 
 ## Artikel 24
 
-#### PRIVILIGIEN UND ABGABENFREIHEIT
+**PRIVILIGIEN UND ABGABENFREIHEIT**
+
+#### Art. 24
 
 a) Die Bestimmungen der Teile II und III des Zusatzprotokolls Nr. I zum Abkommen für Europäische Wirtschaftlichen Zusammenarbeit vom 16. April 1948 finden Anwendung auf die Union und auf die Vermögenswerte des Fonds einschließlich ihrer Erträgnisse, unbeschadet der Bestimmungen des lit. b und c dieses Artikels.
 
@@ -404,7 +452,9 @@ c) Auf die zu den Vermögenswerten des Fonds gehörenden Goldbestände und alle 
 
 ## Artikel 25
 
-#### KONTEN
+**KONTEN**
+
+#### Art. 25
 
 a) Die Konten der Union werden von den Agenten geführt, der jedes Jahr eine Bilanz und eine Einahmen- und Ausgabenrechnung aufstellt und dem Direktorium vorlegt.
 
@@ -414,7 +464,9 @@ c) Die Bilanz und die Einahmen- und Ausgabenrechnung werden dem Rat durch das Di
 
 ## Artikel 26
 
-#### RECHNUNGSEINHEIT
+**RECHNUNGSEINHEIT**
+
+#### Art. 26
 
 a) Die Konten der Union werden in einer Rechnungseinheit von 0,88867088 Gramm Feingold geführt, in der auch die Berechnungen für die Operationen vorgenommen und die gemäß Artikel 11 und 13 gewährten Kredite ausgedrückt werden.
 
@@ -424,7 +476,9 @@ c) Keine Vertragspartei darf sich einem Beschluß der Organisation gemäß Artik
 
 ## Artikel 27
 
-#### ÄNDERUNG DER PARITÄT
+**ÄNDERUNG DER PARITÄT**
+
+#### Art. 27
 
 Wird die Parität der Währung einer Vertragspartei im Sinne des Artikel 26 lit. b innerhalb einer Abrechnungsperiode geändert, so werden die bilateralen Überschüsse oder Defizite dieser Vertragspartei gegenüber den anderen Vertragsparteien für zwei Zeitabschnitte errechnet, nämlich für die Zeit vor und die Zeit nach der Änderung der Parität jeweils auf der Grundlage der während jedes dieser Zeitabschnitte geltenden Paritäten. Für die Anwendung des Artikels 11 lit. b sollen die gemäß Artikel 12 in Anspruch genommenen Kreditbeträge auf der Grundlage derjenigen Parität in Rechnungseinheiten umgerechnet werden, die während der Abrechnungsperiode in Kraft war, für welche der Kredit in Anspruch genommen wurde.
 
@@ -432,19 +486,25 @@ Wird die Parität der Währung einer Vertragspartei im Sinne des Artikel 26 lit.
 
 ### SCHLUSSBESTIMMUNGEN — Artikel 28
 
-#### ANLAGEN
+**ANLAGEN**
+
+#### Art. 28
 
 Die Anlagen A und B sind Bestandteile dieses Abkommens.
 
 ## Artikel 29
 
-#### ÜBERPRÜFUNG
+**ÜBERPRÜFUNG**
+
+#### Art. 29
 
 Die Durchführung dieses Abkommens wird von der Organisation ständig überprüft. Zum 30. Juni jedes Jahres ist eine umfassende Überprüfung vorzunehmen
 
 ## Artikel 30
 
-#### ÄNDERUNG VON BESTIMMUNGEN
+**ÄNDERUNG VON BESTIMMUNGEN**
+
+#### Art. 30
 
 a) Artikel 11 und Artikel 26 lit. a können durch Beschluß der Organisation geändert werden.
 
@@ -452,7 +512,9 @@ b) Artikel 10 kann mit Ausnahme der lit. a und b von der Organisation im Einvern
 
 ## Artikel 31
 
-#### RATIFIZIERUNG UND INKRAFTTRETEN
+**RATIFIZIERUNG UND INKRAFTTRETEN**
+
+#### Art. 31
 
 a) Dieses Abkommen ist von den Signataren zu ratifizieren, die es zu diesem Zweck unverzüglich ihrer verfassungsmäßig zuständigen Stellen vorzulegen haben.
 
@@ -464,7 +526,9 @@ d) Genehmigen die verfassungsmäßig zuständigen Stellen eines Signatars die Ra
 
 ## Artikel 32
 
-#### BEITRITT
+**BEITRITT**
+
+#### Art. 32
 
 a) Ein Mitglied der Organisation, das dieses Abkommen nicht unterzeichnet hat, kann der Organisation mitteilen, daß es ihm beizutreten wünscht.
 
@@ -474,7 +538,9 @@ c) Vorbehaltlich der Bestimmungen der lit. a und b dieses Artikels wird der Beit
 
 ## Artikel 33
 
-#### SUSPENSION
+**SUSPENSION**
+
+#### Art. 33
 
 a) Die Organisation kann auf Antrag einer Vertragspartei entscheiden, daß die Anwendung dieses Abkommens gegenüber dieser Vertragspartei unter Bedingungen und für einen Zeitraum, der von der Organisation festgesetzt werden, suspendiert wird.
 
@@ -486,7 +552,9 @@ b) Sofern der Fall vom Direktorium oder einer anderen vorher von der Organisatio
 
 ## Artikel 34
 
-#### AUSSCHEIDEN VON VERTRAGSPARTEIEN
+**AUSSCHEIDEN VON VERTRAGSPARTEIEN**
+
+#### Art. 34
 
 a) Sofern die Organisation nicht anderes bestimmt, endigt dieses Abkommen für jede Vertragspartei, die eine gemäß Artikel 11 oder 13 geschuldete Goldzahlung nicht leistet, mit dem Ablauf derjenigen Abrechnungsperiode, innerhalb der die fällige Verpflichtung nicht erfüllt wird. Sobald die Nichterfüllung festgestellt worden ist, werden die übrigen Vertragsparteien gegenüber jener Vertragspartei von ihren Verpflichtungen auf Grund von Artikel 8 unverzüglich befreit.
 
@@ -514,7 +582,9 @@ und
 
 ## Artikel 35
 
-#### VERLÄNGERUNG DER ANWENDUNG DES ARTIKELS 11
+**VERLÄNGERUNG DER ANWENDUNG DES ARTIKELS 11**
+
+#### Art. 35
 
 a) Spätestens am 31. März 1952 wird die Organisation eine eingehende Untersuchung über die Durchführung dieses Abkommens vornehmen, um in Beratung mit der Regierung der Vereinigten Staaten von Amerika zu entscheiden, unter welchen Bedingungen Artikel 11 dieses Abkommens vom 1. Juli 1952 an weiter in Kraft bleiben soll.
 
@@ -524,7 +594,9 @@ c) Für die anderen Vertragsparteien bleibt Artikel 11 zu den von ihnen festgese
 
 ## Artikel 36
 
-#### BEENDIGUNG DES ABKOMMENS
+**BEENDIGUNG DES ABKOMMENS**
+
+#### Art. 36
 
 a) Dieses Abkommen kann jederzeit durch Entscheidung der Organisation außer Kraft gesetzt werden.
 

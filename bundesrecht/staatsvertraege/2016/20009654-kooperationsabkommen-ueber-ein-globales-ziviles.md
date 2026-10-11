@@ -99,13 +99,17 @@ SIND WIE FOLGT ÜBEREINKOMMEN:
 
 ## ARTIKEL 1
 
-### Zielsetzung des Abkommens
+**Zielsetzung des Abkommens**
+
+### Art. 1
 
 Das Abkommen hat zum Ziel, die Zusammenarbeit zwischen den Vertragsparteien bei der globalen zivilen Satellitennavigation im Rahmen europäischer und koreanischer Beiträge zu einem globalen zivilen Satellitennavigationssystem (GNSS) zu fördern, zu erleichtern und auszubauen.
 
 ## ARTIKEL 2
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 2
 
 Für die Zwecke dieses Abkommens gelten folgende Begriffsbestimmungen:
 
@@ -129,7 +133,9 @@ i) „Klassifizierte Informationen“ sind entweder aus der EU stammende oder vo
 
 ## ARTIKEL 3
 
-### Grundsätze für die Zusammenarbeit
+**Grundsätze für die Zusammenarbeit**
+
+### Art. 3
 
 Die Vertragsparteien sind übereingekommen, folgende Grundsätze auf die Zusammenarbeit im Rahmen dieses Abkommens anzuwenden:
 
@@ -149,7 +155,9 @@ Die Vertragsparteien sind übereingekommen, folgende Grundsätze auf die Zusamme
 
 ## ARTIKEL 4
 
-### Umfang der Kooperationsmaßnahmen
+**Umfang der Kooperationsmaßnahmen**
+
+### Art. 4
 
 (1) Die Kooperationsmaßnahmen im Bereich der satellitengestützten Navigation und Zeitgebung betreffen das Funkfrequenzspektrum, die wissenschaftliche Forschung und Ausbildung, die industrielle Zusammenarbeit, den Handel und die Marktentwicklung, die Normung, die Zertifizierung und Rechtsvorschriften, die Erweiterung, die Sicherheit, die Haftung und die Kostendeckung. Die Vertragsparteien können die Liste in Absatz 1 durch einen Beschluss des gemäß Artikel 14 eingesetzten GNSS-Lenkungsausschusses anpassen.
 
@@ -179,7 +187,9 @@ Die Vertragsparteien sind übereingekommen, folgende Grundsätze auf die Zusamme
 
 ## ARTIKEL 6
 
-### Funkfrequenzspektrum
+**Funkfrequenzspektrum**
+
+### Art. 6
 
 (1) Aufbauend auf bisherigen Erfolgen im Rahmen der Internationalen Fernmeldeunion vereinbaren die Vertragsparteien die Fortsetzung ihrer Zusammenarbeit und gegenseitigen Unterstützung in Fragen des Funkfrequenzspektrums.
 
@@ -193,7 +203,9 @@ Die Vertragsparteien sind übereingekommen, folgende Grundsätze auf die Zusamme
 
 ## ARTIKEL 7
 
-### Wissenschaftliche Forschung
+**Wissenschaftliche Forschung**
+
+### Art. 7
 
 Die Vertragsparteien fördern die gemeinsame Forschung auf dem Gebiet der GNSS durch europäische und koreanische Forschungsprogramme, einschließlich des Rahmenprogramms für Forschung und Entwicklung der Europäischen Gemeinschaft, der Forschungsprogramme der Europäischen Weltraumorganisation und der mit GNSS befassten Ministerien und Stellen Koreas.
 
@@ -217,7 +229,9 @@ Die Vertragsparteien vereinbaren, den Ausschuss gemäß Artikel 14 damit zu beau
 
 ## ARTIKEL 9
 
-### Handel und Marktentwicklung
+**Handel und Marktentwicklung**
+
+### Art. 9
 
 (1) Die Vertragsparteien unterstützen den Handel mit und Investitionen in europäische und koreanische Satellitennavigationsinfrastruktur, Ausrüstung, lokale Elemente und Anwendungen von GALILEO.
 
@@ -229,7 +243,9 @@ Die Vertragsparteien vereinbaren, den Ausschuss gemäß Artikel 14 damit zu beau
 
 ## ARTIKEL 10
 
-### Normen, Zertifizierung und Rechtsvorschriften
+**Normen, Zertifizierung und Rechtsvorschriften**
+
+### Art. 10
 
 (1) In Anerkennung des Wertes koordinierter Ansätze bei der internationalen Normung und Zertifizierung globaler Satellitennavigationsdienste werden die Vertragsparteien gemeinsam die Entwicklung von GALILEO-Normen unterstützen und deren Anwendung weltweit fördern; dabei achten sie besonders auf die Interoperabilität mit anderen GNSS-Systemen.
 
@@ -245,7 +261,9 @@ Ein Ziel der Koordinierung ist die Förderung der umfassenden und innovativen Nu
 
 ## ARTIKEL 11
 
-### Entwicklung von globalen und regionalen GNSS-Erweiterungssystemen am Boden
+**Entwicklung von globalen und regionalen GNSS-Erweiterungssystemen am Boden**
+
+### Art. 11
 
 (1) Die Vertragsparteien arbeiten gemeinsam an der Festlegung und Umsetzung von Systemarchitekturen am Boden, die eine optimale Gewähr für die Integrität und Genauigkeit von GALILEO/EGNOS und die Kontinuität der GALILEO- und EGNOS-Dienste sowie die Interoperabilität mit anderen GNSS-Systemen bieten.
 
@@ -255,7 +273,9 @@ Ein Ziel der Koordinierung ist die Förderung der umfassenden und innovativen Nu
 
 ## ARTIKEL 12
 
-### Sicherheit
+**Sicherheit**
+
+### Art. 12
 
 (1) Die Vertragsparteien schützen die globalen Satellitennavigationssysteme vor Missbrauch, Interferenzen, Unterbrechung und feindseligen Handlungen.
 
@@ -269,13 +289,17 @@ Die praktischen Modalitäten und Verfahren werden von den zuständigen Sicherhei
 
 ## ARTIKEL 13
 
-### Haftung und Kostendeckung
+**Haftung und Kostendeckung**
+
+### Art. 13
 
 Die Vertragsparteien arbeiten zusammen, um eine Haftungsregelung und Modalitäten zur Kostendeckung im Hinblick auf die Erleichterung der Erbringung von zivilen GNSS-Diensten festzulegen und umzusetzen.
 
 ## ARTIKEL 14
 
-### Kooperationsverfahren
+**Kooperationsverfahren**
+
+### Art. 14
 
 (1) Die Koordinierung und Erleichterung der Kooperationsmaßnahmen im Rahmen dieses Abkommens übernimmt für Korea die Regierung der Republik Korea und für die Gemeinschaft und ihre Mitgliedstaaten die Europäische Kommission.
 
@@ -299,7 +323,9 @@ Die Kosten, die dem Ausschuss entstehen oder in seinem Namen verursacht werden, 
 
 ## ARTIKEL 15
 
-### Finanzierung
+**Finanzierung**
+
+### Art. 15
 
 (1) Sofern nichts anderes vereinbart wird, trägt jede Vertragspartei die Kosten, die ihr aus der Wahrnehmung ihrer Aufgaben im Rahmen dieses Abkommens entstehen. Die gemäß Artikel 14 Absatz 4 geltenden Rechtsvorschriften, Modalitäten und Verfahren werden eine angemessene finanzielle Beteiligung zum GALILEO-Programm durch das Nicht-EU-Land beinhalten, das um eine Teilnahme in der Aufsichtsbehörde ersucht.
 
@@ -309,7 +335,9 @@ Die Kosten, die dem Ausschuss entstehen oder in seinem Namen verursacht werden, 
 
 ## ARTIKEL 16
 
-### Informationsaustausch
+**Informationsaustausch**
+
+### Art. 16
 
 (1) Die Vertragsparteien treffen Verwaltungsvereinbarungen und richten Kontaktstellen ein, um Konsultationen und die tatsächliche Umsetzung der Bestimmungen dieses Abkommens zu ermöglichen.
 
@@ -317,7 +345,9 @@ Die Kosten, die dem Ausschuss entstehen oder in seinem Namen verursacht werden, 
 
 ## ARTIKEL 17
 
-### Konsultation und Streitbeilegung
+**Konsultation und Streitbeilegung**
+
+### Art. 17
 
 (1) Die Vertragsparteien erörtern unverzüglich auf Antrag einer der Vertragsparteien jede sich aus der Auslegung oder Anwendung dieses Abkommens ergebende Frage. Streitfragen bezüglich der Auslegung oder Anwendung dieses Abkommens werden von den Vertragsparteien in freundschaftlichen Konsultationen beigelegt.
 
@@ -325,7 +355,9 @@ Die Kosten, die dem Ausschuss entstehen oder in seinem Namen verursacht werden, 
 
 ## ARTIKEL 18
 
-### Inkrafttreten und Kündigung
+**Inkrafttreten und Kündigung**
+
+### Art. 18
 
 (1) Dieses Abkommen tritt am ersten Tag des Monats in Kraft, der auf den Tag folgt, an dem die Vertragsparteien einander den Abschluss der dafür erforderlichen Verfahren notifizieren. Die Notifizierungen sind an den Rat der Europäischen Union zu richten, bei dem das Abkommen verwahrt wird.
 

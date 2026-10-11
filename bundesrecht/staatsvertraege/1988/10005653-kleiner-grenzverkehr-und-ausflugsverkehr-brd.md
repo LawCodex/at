@@ -27,7 +27,9 @@ Die Regierung der Republik Österreich und die Regierung der Bundesrepublik Deut
 
 ## Artikel 1
 
-### Anwendungsbereich
+**Anwendungsbereich**
+
+### Art. 1
 
 (1) Dieses Abkommen legt die Grenzzonen als grenznahe Gebiete der beiden Staaten fest und regelt die Erleichterungen des Grenzübertritts und des Aufenthalts.
 
@@ -61,7 +63,9 @@ die Landkreise Ravensburg, Bodenseekreis und Konstanz.
 
 ## Artikel 2
 
-### Grenzkarte
+**Grenzkarte**
+
+### Art. 2
 
 (1) Die Grenzkarte berechtigt den Inhaber, die Grenze an den zugelassenen Grenzübergangsstellen und innerhalb der festgesetzten Öffnungszeiten beliebig oft zu überschreiten und sich jeweils bis zu sieben Tagen in der Grenzzone des anderen Staates aufzuhalten. Dies gilt auch für die Aufnahme und Ausübung einer Erwerbstätigkeit, wenn sie nach den innerstaatlichen Rechtsvorschriften des anderen Staates zulässig ist.
 
@@ -77,7 +81,9 @@ die Landkreise Ravensburg, Bodenseekreis und Konstanz.
 
 ## Artikel 3
 
-### Personenkreis
+**Personenkreis**
+
+### Art. 3
 
 (1) Grenzkarten können ausgestellt werden für Angehörige der beiden Staaten, die in der Grenzzone wohnen, sowie für Angehörige von Drittländern und Staatenlose, die seit mindestens sechs Monaten in der Grenzzone wohnen und zum Aufenthalt im Wohnsitzstaat berechtigt sind. Wer Angehöriger eines der beiden Staaten im Sinne dieses Abkommens ist, bestimmt sich nach dem Recht dieses Staates.
 
@@ -91,7 +97,9 @@ Das gleiche gilt für Familienmitglieder der unter a) genannten Personen.
 
 ## Artikel 4
 
-### Grenzübertritt außerhalb zugelassener Grenzübergangsstellen oder außerhalb festgesetzter Öffnungszeiten
+**Grenzübertritt außerhalb zugelassener Grenzübergangsstellen oder außerhalb festgesetzter Öffnungszeiten**
+
+### Art. 4
 
 (1) Inhabern von Grenzkarten, die ein berechtigtes Interesse nachweisen, die Grenze außerhalb der zugelassenen Grenzübergangsstellen oder außerhalb der festgesetzten Öffnungszeiten zu überschreiten, kann die zuständige Behörde des Wohnsitzstaates die hierfür erforderliche Erlaubnis durch Eintragung der für den Grenzübertritt zugelassenen Stellen und Zeiten in die Grenzkarte erteilen, soweit öffentliche Belange oder Interessen dem nicht entgegenstehen. Die Erlaubnis kann befristet, unter Bedingungen erteilt oder mit Auflagen verbunden werden; nachträgliche Auflagen sind zulässig. Die Erlaubnis kann unabhängig von der Gültigkeitsdauer der Grenzkarte jederzeit widerrufen werden.
 
@@ -99,7 +107,9 @@ Das gleiche gilt für Familienmitglieder der unter a) genannten Personen.
 
 ## Artikel 5
 
-### Grenzübertritt zur land- und forstwirtschaftlichen Bewirtschaftung
+**Grenzübertritt zur land- und forstwirtschaftlichen Bewirtschaftung**
+
+### Art. 5
 
 (1) Eigentümern und Nutzungsberechtigten grenzdurchschnittener oder grenznaher land- oder forstwirtschaftlicher Grundstücke, ihren Familienmitgliedern und Arbeitskräften ist, wenn sie einen amtlichen Lichtbildausweis mit sich führen, der Grenzübertritt innerhalb dieser Grundstücke oder auf direktem Wege zu diesen Grundstücken zu ihrer Bewirtschaftung gestattet. Sie dürfen sich jedoch von den Grundstücken nicht weiter auf das Gebiet des anderen Staates begeben.
 
@@ -107,7 +117,9 @@ Das gleiche gilt für Familienmitglieder der unter a) genannten Personen.
 
 ## Artikel 6
 
-### Grenzübertritt aus dienstlichen Gründen
+**Grenzübertritt aus dienstlichen Gründen**
+
+### Art. 6
 
 (1) Bedienstete der öffentlichen Verwaltung und Angehörige der öffentlichen Verkehrsbetriebe der beiden Staaten, die auf Grund zwischenstaatlicher Vereinbarungen oder auf Grund innerstaatlichen Rechts des anderen Staates in dessen Grenzzone dienstlich tätig werden dürfen, können zu diesem Zweck die Grenze mit einem von ihrer Dienststelle ausgestellten Lichtbildausweis überschreiten und sich für die Dauer ihrer Tätigkeit in der Grenzzone aufhalten.
 
@@ -115,13 +127,17 @@ Das gleiche gilt für Familienmitglieder der unter a) genannten Personen.
 
 ## Artikel 7
 
-### Grenzübertritt in Notfällen
+**Grenzübertritt in Notfällen**
+
+### Art. 7
 
 In Unglücks- und Katastrophenfällen sowie in sonstigen Notfällen dürfen Sanitätspersonen, Feuerwehrleute, Bergführer und sonstige Rettungsmannschaften sowie die Betroffenen die Grenze ohne jegliches Grenzübertrittspapier an jeder Stelle überschreiten, um Hilfe zu leisten oder in Anspruch zu nehmen.
 
 ## Artikel 8
 
-### Ausflugsschein
+**Ausflugsschein**
+
+### Art. 8
 
 (1) Angehörigen der beiden Staaten sowie Angehörigen von Drittländern und Staatenlose, die in keinem der beiden Staaten der Sichtvermerkspflicht unterliegen, kann, gleichgültig wo sie ihren Wohnsitz haben, von der zuständigen Behörde des Aufenthaltsstaats ein Ausflugsschein nach dem Muster der Anlage B ausgestellt werden.
 
@@ -133,7 +149,9 @@ In Unglücks- und Katastrophenfällen sowie in sonstigen Notfällen dürfen Sani
 
 ## Artikel 9
 
-### Touristenzonen
+**Touristenzonen**
+
+### Art. 9
 
 (1) Um die Ausübung des Wander-, Rad-, Berg-, Winter- und Wassersports sowie der Sportfischerei in den Grenzzonen weitgehend zu erleichtern, werden innerhalb der Grenzzonen, insbesondere im alpinen Bereich, Touristenzonen errichtet; ihr Umfang wird durch die zuständigen Behörden beider Staaten festgelegt.
 
@@ -145,7 +163,9 @@ In Unglücks- und Katastrophenfällen sowie in sonstigen Notfällen dürfen Sani
 
 ## Artikel 10
 
-### Grenzübertritt auf Wanderwegen
+**Grenzübertritt auf Wanderwegen**
+
+### Art. 10
 
 (1) Die beiden Staaten errichten grenzüberschreitende Wanderwege für Fuß-, Ski- und Radwanderer. Die zuständigen Behörden beider Staaten legen die Stellen fest, an denen der Grenzübertritt erfolgen kann.
 
@@ -155,7 +175,9 @@ In Unglücks- und Katastrophenfällen sowie in sonstigen Notfällen dürfen Sani
 
 ## Artikel 11
 
-### Grenzübertritt in Grenzgewässern
+**Grenzübertritt in Grenzgewässern**
+
+### Art. 11
 
 (1) Angehörige der beiden Staaten sowie Angehörige von Drittländern und Staatenlose, die in keinem der beiden Staaten der Sichtvermerkspflicht unterliegen, dürfen, wenn sie ein für den Grenzübertritt gültiges Dokument mit sich führen, bei der Ausübung des Wassersports oder der Fischerei in Grenzgewässern die Grenze überschreiten und sich in der Grenzzone des anderen Staats bis zu sieben Tagen aufhalten.
 
@@ -163,7 +185,9 @@ In Unglücks- und Katastrophenfällen sowie in sonstigen Notfällen dürfen Sani
 
 ## Artikel 12
 
-### Grenzverkehr auf dem Bodensee
+**Grenzverkehr auf dem Bodensee**
+
+### Art. 12
 
 (1) Angehörige der beiden Staaten sowie Angehörige von Drittländern und Staatenlose, die in keinem der beiden Staaten der Sichtvermerkspflicht unterliegen, dürfen am Bodensee auch außerhalb der zugelassenen Grenzübergangsstellen und außerhalb der festgesetzten Öffnungszeiten mit Wasserfahrzeugen, die nicht der gewerbsmäßigen Personen- oder Güterbeförderung dienen, auf dem Gebiet der beiden Staaten landen oder ablegen und sich bis zu sieben Tagen in der Grenzzone des anderen Staates aufhalten, wenn sie ein für den Grenzübertritt gültiges Dokument mit sich führen.
 
@@ -171,13 +195,17 @@ In Unglücks- und Katastrophenfällen sowie in sonstigen Notfällen dürfen Sani
 
 ## Artikel 13
 
-### Mitführungspflicht
+**Mitführungspflicht**
+
+### Art. 13
 
 Die für den Grenzübertritt nach diesem Abkommen jeweils erforderlichen Dokumente sind mitzuführen und auf Verlangen den für die Grenzkontrolle zuständigen Bediensteten zur Prüfung auszuhändigen. Beim Ausflugsschein oder Sammelausflugsschein gilt dies auch für den amtlichen Lichtbildausweis.
 
 ## Artikel 14
 
-### Versagung und Entziehung von Dokumenten
+**Versagung und Entziehung von Dokumenten**
+
+### Art. 14
 
 (1) Die Ausstellung einer Grenzkarte, eines Ausflugsscheins, eines Sammelausflugsscheins und einer Erlaubnis nach Artikel 4 Absatz 1 oder die Eintragung in einen Sammelausflugsschein ist zu versagen, wenn
 
@@ -193,13 +221,17 @@ c) Tatsachen die Annahme rechtfertigen, daß der Antragsteller oder die einzutra
 
 ## Artikel 15
 
-### Rückübernahme von Personen
+**Rückübernahme von Personen**
+
+### Art. 15
 
 Die beiden Staaten werden Personen, die auf Grund dieses Abkommens in das Hoheitsgebiet des anderen Staates eingereist sind, jederzeit formlos zurücknehmen.
 
 ## Artikel 16
 
-### Vorbehaltene Rechtsvorschriften
+**Vorbehaltene Rechtsvorschriften**
+
+### Art. 16
 
 Die Rechtsvorschriften beider Staaten über
 
@@ -215,19 +247,25 @@ bleiben unberührt.
 
 ## Artikel 17
 
-### Vorübergehende Aussetzung des Abkommens
+**Vorübergehende Aussetzung des Abkommens**
+
+### Art. 17
 
 Jede Vertragspartei kann die Durchführung dieses Abkommens mit Ausnahme des Artikels 15 vorübergehend ganz oder teilweise aussetzen. Die Aussetzung ist der anderen Vertragspartei unverzüglich auf diplomatischem Wege mitzuteilen.
 
 ## Artikel 18
 
-### Berlin-Klausel
+**Berlin-Klausel**
+
+### Art. 18
 
 Dieses Abkommen gilt auch für das Land Berlin, sofern nicht die Regierung der Bundesrepublik Deutschland gegenüber der Regierung der Republik Österreich innerhalb von drei Monaten nach Inkrafttreten des Abkommens eine gegenteilige Erklärung abgibt.
 
 ## Artikel 19
 
-### Inkrafttreten, Dauer und Kündigung
+**Inkrafttreten, Dauer und Kündigung**
+
+### Art. 19
 
 (1) Das Abkommen tritt am ersten Tag des dritten Monats in Kraft, der auf den Monat folgt, in dem die Vertragsparteien einander mitgeteilt haben, daß die innerstaatlichen Voraussetzungen für das Inkrafttreten erfüllt sind.
 
@@ -237,7 +275,9 @@ Dieses Abkommen gilt auch für das Land Berlin, sofern nicht die Regierung der B
 
 ## Artikel 20
 
-### Schlußbestimmungen
+**Schlußbestimmungen**
+
+### Art. 20
 
 (1) Mit dem Inkrafttreten dieses Abkommens treten das Abkommen vom 15. September 1954 zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Kleinen Grenzverkehr \*) und das Abkommen vom 10. Mai 1955 zwischen der Österreichischen Bundesregierung und der Regierung der Bundesrepublik Deutschland über die Erleichterung des Ausflugsverkehrs \*\*) außer Kraft.
 

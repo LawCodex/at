@@ -1,0 +1,221 @@
+---
+title: "Staatsgrenze Österreich - Ungarn - Änderung"
+identifier: "20004784"
+type: treaty
+ris_type: "Vertrag – Ungarn"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 63/2006"
+date: 1964-10-31
+last_amended: 2006-03-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2006/63/P0/NOR30005223"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004784"
+retrieved: 2026-10-11
+documents: 22
+---
+
+# Staatsgrenze Österreich - Ungarn - Änderung
+
+Vertrag zwischen der Republik Österreich und der Republik Ungarn über Änderungen und Ergänzungen des Vertrages zwischen der Republik Österreich und der Ungarischen Volksrepublik zur Sichtbarerhaltung der gemeinsamen Staatsgrenze und Regelung der damit im Zusammenhang stehenden Fragen 1) vom 31. Oktober 1964 in der Fassung des Vertrages über Änderungen und Ergänzungen 2) vom 29. April 1987
+
+StF: BGBl. III Nr. 63/2006 (NR: GP XXII RV 44 AB 363 S. 45. BR: AB 6978 S. 705.)
+
+## Präambel/Promulgationsklausel
+
+Die Republik Österreich und die Republik Ungarn (im weiteren: die Vertragsschließenden Staaten), von dem Wunsche geleitet, einige Bestimmungen des am 31. Oktober 1964 in Budapest unterzeichneten und am 29. April 1987 geänderten und ergänzten Vertrages über die Sichtbarerhaltung der gemeinsamen Staatsgrenze und Regelung der damit im Zusammenhang stehenden Fragen (im weiteren Grenzvertrag genannt), abzuändern und zu ergänzen sowie die im Bereich einiger Grenzgewässer auf Grund von Regulierungsarbeiten zweckmäßig gewordenen Grenzänderungen durchzuführen, haben folgendes vereinbart:
+
+`___________________________`
+
+1\) Kundgemacht in BGBl. Nr. 72/1965
+
+2\) Kundgemacht in BGBl. Nr. 656/1990
+
+#### Art. 1
+
+\**ABSCHNITT I**
+
+**Änderungen und Ergänzungen einzelner Bestimmungen des Grenzvertrages**
+
+## Artikel 1
+
+Artikel 9 Absatz 6 des Grenzvertrages lautet:
+
+(Anm.: es folgt der Text der Änderung)
+
+#### Art. 2
+
+\**Artikel 2**
+
+Dem Artikel 9 des Grenzvertrages wird ein Absatz 7 hinzugefügt:
+
+(Anm.: es folgt der Text der Änderung)
+
+#### Art. 3
+
+\**Artikel 3**
+
+Artikel 11 Absatz 2 des Grenzvertrages lautet:
+
+(Anm.: es folgt der Text der Änderung)
+
+#### Art. 4
+
+\**Artikel 4**
+
+Artikel 16 Absatz 3 des Grenzvertrages lautet:
+
+(Anm.: es folgt der Text der Änderung)
+
+## Artikel 5
+
+#### Art. 5
+
+Artikel 21 Absätze 2 und 9 des Grenzvertrages lauten:
+
+(Anm.: es folgt der Text der Änderung)
+
+#### Art. 6
+
+\**Artikel 6**
+
+Artikel 24 des Grenzvertrages lautet:
+
+(Anm.: es folgt der Text der Änderung)
+
+#### Art. 7
+
+\**Artikel 7**
+
+Artikel 26 Absätze 3, 4 und 5 des Grenzvertrages treten außer Kraft.
+
+#### Art. 8
+
+\**ABSCHNITT II**
+
+\**Änderungen der Staatsgrenze im Unterabschnitt C II**
+
+\**Artikel 8**
+
+Die Staatsgrenze wird im Unterabschnitt C II zwischen den Grenzzeichen C 30 Ö, C 30 M und C 34/1 M (regulierte Pinka) durch die „Beschreibung und Plan der Staatsgrenze“, Anlage 1, und durch das „Koordinatenverzeichnis“, Anlage 2, bestimmt.
+
+> **Beachte:** Verfassungsbestimmung
+
+#### Art. 9
+
+\**Artikel 9**
+
+Spätere Veränderungen des Bettes der Pinka haben auf den in Artikel 8 dieses Vertrages festgelegten Verlauf der Staatsgrenze keinen Einfluss.
+
+> **Beachte:** Verfassungsbestimmung
+
+## Artikel 10
+
+#### Art. 10
+
+Auf Grund der in Artikel 8 dieses Vertrages bestimmten Grenzänderung fällt ein Gebiet der Republik Österreich mit dem Flächenausmaß von 12.536 m<sup>2</sup> dem Staatsgebiet der Republik Ungarn und gleichermaßen ein Gebiet der Republik Ungarn mit dem Flächenausmaß von 12.536 m<sup>2</sup> dem Staatsgebiet der Republik Österreich zu. „Plan und Flächenverzeichnis über die im Bereich der regulierten Pinka ausgetauschten Gebietsteile“ bilden die Anlage 3 dieses Vertrages.
+
+#### Art. 11
+
+\**Artikel 11**
+
+Die Staatsgrenze wird im Unterabschnitt C II zwischen den Grenzzeichen C 38 ÖM und C 39 Ö, C 39 M (Entwässerungsgraben) durch die „Beschreibung und Plan der Staatsgrenze“, Anlage 4, und durch das „Koordinatenverzeichnis“, Anlage 5, bestimmt.
+
+> **Beachte:** Verfassungsbestimmung
+
+## Artikel 12
+
+#### Art. 12
+
+Auf Grund der in Artikel 11 dieses Vertrages bestimmten Grenzänderung fällt ein Gebiet der Republik Österreich mit dem Flächenausmaß von 6.725 m<sup>2</sup> dem Staatsgebiet der Republik Ungarn und gleichermaßen ein Gebiet der Republik Ungarn mit dem Flächenausmaß von 6.725 m<sup>2</sup> dem Staatsgebiet der Republik Österreich zu. „Plan und Flächenverzeichnis über die im Bereich des Entwässerungsgrabens ausgetauschten Gebietsteile“ bilden die Anlage 6 dieses Vertrages.
+
+#### Art. 13
+
+\**ABSCHNITT III**
+
+\**Änderungen der Staatsgrenze im Unterabschnitt C IV**
+
+\**Artikel 13**
+
+Die Staatsgrenze wird im Unterabschnitt C IV zwischen den Grenzzeichen C 67/1 Ö, C 67/1 M und C 67/5 Ö, C 67/5 M sowie zwischen den Grenzzeichen C 70/3 Ö, C 70/3 M und C 70/5 Ö, C 70/5 M (regulierte Pinka) und zwischen den Grenzzeichen C 71 ÖM und C 72/4 Ö, C 72/4 M (regulierte Strem) durch die „Beschreibung und Plan der Staatsgrenze“, Anlage 7, und durch das „Koordinatenverzeichnis“, Anlage 8, bestimmt.
+
+> **Beachte:** Verfassungsbestimmung
+
+#### Art. 14
+
+\**Artikel 14**
+
+Spätere Veränderungen des Bettes der Pinka und der Strem haben auf den in Artikel 13 dieses Vertrages festgelegten Verlauf der Staatsgrenze keinen Einfluss.
+
+> **Beachte:** Verfassungsbestimmung
+
+## Artikel 15
+
+#### Art. 15
+
+Auf Grund der in Artikel 13 dieses Vertrages bestimmten Grenzänderungen fällt ein Gebiet der Republik Österreich mit dem Flächenausmaß von 4.791 m<sup>2</sup> dem Staatsgebiet der Republik Ungarn und gleichermaßen ein Gebiet der Republik Ungarn mit dem Flächenausmaß von 4.791 m<sup>2</sup> dem Staatsgebiet der Republik Österreich zu. „Plan und Flächenverzeichnis über die im Bereich der regulierten Pinka und Strem ausgetauschten Gebietsteile“ bilden die Anlage 9 dieses Vertrages.
+
+### ABSCHNITT IV
+
+#### Art. 16
+
+\**Übergangs- und Schlussbestimmungen**
+
+**Artikel 16**
+
+(1) Die Anlagen A und B des Grenzvertrages werden durch die Anlagen A und B dieses Vertrages ersetzt.
+
+(2) Grenzübertrittsausweise, die vor dem Inkrafttreten dieses Vertrages ausgestellt wurden, berechtigten bis zum Ablauf der dort eingetragenen Gültigkeitsdauer zum Grenzübertritt.
+
+(3) Ausweise nach dem bisherigen Muster können bis höchstens ein Jahr nach Inkrafttreten dieses Vertrages ausgestellt bzw. ihre Gültigkeitsdauer verlängert werden; sie berechtigen bis zum Ablauf der dort eingetragenen Gültigkeitsdauer zum Grenzübertritt.
+
+#### Art. 17
+
+\**Artikel 17**
+
+(1) Die Teile des Staatsgebietes der Republik Österreich, die auf Grund der Artikel 8, 11 und 13 dieses Vertrages der Republik Ungarn zufallen, gehen mit dem Inkrafttreten dieses Vertrages in das Eigentum der Republik Ungarn über.
+
+(2) Die Teile des Staatsgebietes der Republik Ungarn, die auf Grund der Artikel 8, 11 und 13 dieses Vertrages dem Staatsgebiet der Republik Österreich zufallen, gehen mit dem Inkrafttreten dieses Vertrages in das Eigentum der Republik Österreich (Bund) über.
+
+(3) Mit dem Eigentumsübergang gemäß Absatz 1 und 2 erlöschen alle bestehenden Rechte an den in das Eigentum des anderen Vertragsschließenden Staates übergehenden Gebietsteilen.
+
+(4) Falls durch den Eigentumsübergang gemäß Absatz 1 und 2 dritte Personen in ihren Rechten an den ausgetauschten Gebietsteilen verletzt werden, wird der Vertragsschließende Staat, auf dessen Staatsgebiet die Gebietsteile vor dem Eigentumsübergang gelegen sind, den dritten Personen eine angemessene Entschädigung gewähren; gegen den Vertragsschließenden Staat, in dessen Eigentum die Gebietsteile übergehen, können dritte Personen keine Ansprüche geltend machen.
+
+## Artikel 18
+
+#### Art. 18
+
+Die im Abschnitt I angeführten Anlagen A und B sowie die in den Abschnitten II und III angeführten Anlagen 1 bis 9 bilden integrierende Bestandteile dieses Vertrages.
+
+#### Art. 19
+
+\**Artikel 19**
+
+(1) Dieser Vertrag bedarf der Ratifikation; die Ratifikationsurkunden werden in Wien ausgetauscht.
+
+(2) Der Vertrag tritt am ersten Tag des dritten Monats nach Ablauf des Monats in Kraft, in dem die Ratifikationsurkunden ausgetauscht werden. Die Bestimmungen der Abschnitte II und III sowie die Bestimmungen des Artikels 17 und des Artikels 18, in bezug auf die Anlagen 1 bis 9, sind unkündbar. Die übrigen Vertragsbestimmungen gelten, solange die kündbaren Bestimmungen des Grenzvertrages in Kraft bleiben.
+
+Zu Urkund dessen haben die Bevollmächtigten der Vertragsschließenden Staaten diesen Vertrag unterzeichnet und mit Siegeln versehen.
+
+Geschehen in Budapest, am 8. April 2002 in zwei Urschriften, in deutscher und ungarischer Sprache, wobei beide Texte authentisch sind.
+
+#### Anlage A
+
+\*(Anm.: Anlage A als PDF dokumentiert)*
+
+#### Anlage B
+
+\*(Anm.: Anlage B als PDF dokumentiert)*
+
+## Ratifikationstext
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde gemäß Art. 19 Abs. 1 am 20. Dezember 2005 ausgetauscht; der Vertrag tritt daher gemäß seinem Art. 19 Abs. 2 mit 1. März 2006 in Kraft.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+1\. Der Abschluss des nachstehenden Staatsvertrages samt Anlagen, dessen Artikel 8, 9, 11, 13 und 14 verfassungsändernd sind, wird bei Anwesenheit der verfassungsmäßig vorgesehenen Anzahl der Abgeordneten mit Zweidrittelmehrheit genehmigt.
+
+2\. Gemäß Art. 49 Abs. 2 B-VG hat die Kundmachung der Anlagen 1 bis 9 des vorliegenden Vertrages dadurch zu erfolgen, dass sie für die Dauer der Geltung des Vertrages zur öffentlichen Einsicht während der Amtsstunden beim Amt der Burgenländischen Landesregierung, beim Bundesamt für Eich- und Vermessungswesen und dem Vermessungsamt Oberwart aufliegen.

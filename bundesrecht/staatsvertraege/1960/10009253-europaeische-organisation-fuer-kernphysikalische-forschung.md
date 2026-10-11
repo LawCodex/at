@@ -50,7 +50,9 @@ HABEN folgendes VEREINBART:
 
 ## ARTIKEL I
 
-#### Errichtung der Organisation
+**Errichtung der Organisation**
+
+#### Art. 1
 
 1\. Die Europäische Organisation für kernphysikalische Forschung (im folgenden als „die Organisation“ bezeichnet) wird hiermit errichtet.
 
@@ -58,7 +60,9 @@ HABEN folgendes VEREINBART:
 
 ## ARTIKEL II
 
-#### Ziele
+**Ziele**
+
+#### Art. 2
 
 1\. Die Organisation hat die Zusammenarbeit europäischer Staaten bei der rein wissenschaftlichen Forschung und Grundlagenforschung auf dem Gebiet der Kernphysik sowie der hiermit wesentlich zusammenhängenden Forschung zum Ziele. Die Organisation befaßt sich nicht mit Arbeiten für militärische Zwecke; die Ergebnisse ihrer experimentellen und theoretischen Arbeiten sind zu veröffentlichen oder auf sonstige Weise der Allgemeinheit zugänglich zu machen.
 
@@ -94,7 +98,9 @@ HABEN folgendes VEREINBART:
 
 ## ARTIKEL III
 
-#### Aufnahmebedingungen
+**Aufnahmebedingungen**
+
+#### Art. 3
 
 1\. Staaten, die Vertragsparteien des in der Präambel genannten Abkommens vom 15. Februar 1952 sind oder an den durch diese Vereinbarung errichteten Rat Geld- oder Sachbeiträge geleistet und tatsächlich an seinen Arbeiten teilgenommen haben, sind berechtigt, Mitglieder der Organisation zu werden, indem sie gemäß den Bestimmungen der Artikel XV, XVI, und XVII Vertragsparteien dieses Abkommens werden.
 
@@ -112,13 +118,17 @@ HABEN folgendes VEREINBART:
 
 ## Artikel IV
 
-#### Organe
+**Organe**
+
+#### Art. 4
 
 Die Organisation besteht aus einem Rat und einem durch entsprechendes Personal unterstützten Direktor.
 
 ## ARTIKEL V
 
-#### Der Rat
+**Der Rat**
+
+#### Art. 5
 
 1\. Dem Rat gehören höchstens zwei Delegierte eines jeden Mitgliedstaates an, die bei Sitzungen des Rates von Beratern begleitet sein können.
 
@@ -158,7 +168,9 @@ Die Organisation besteht aus einem Rat und einem durch entsprechendes Personal u
 
 ## ARTIKEL VI
 
-#### Direktor und Personal
+**Direktor und Personal**
+
+#### Art. 6
 
 1\. (a) Der Rat ernennt mit Zweidrittelmehrheit aller Mitgliedstaaten für eine bestimmte Zeitdauer einen Direktor und kann diesen mit der gleichen Stimmenmehrheit entlassen. Der Direktor ist das oberste Vollzugsorgan der Organisation und ihr gesetzlicher Vertreter. Bei der Finanzverwaltung der Organisation verfährt er gemäß den Bestimmungen des diesem Abkommen beigefügten Finanzierungsprotokolls. Er legt dem Rat einen Jahresbericht vor und nimmt ohne Stimmrecht an allen Sitzungen des Rates teil.
 
@@ -172,7 +184,9 @@ Die Organisation besteht aus einem Rat und einem durch entsprechendes Personal u
 
 ## ARTIKEL VII
 
-#### Finanzielle Beiträge
+**Finanzielle Beiträge**
+
+#### Art. 7
 
 1\. Jeder Mitgliedstaat beteiligt sich am Kapitalaufwand und den laufenden Betriebskosten der Organisation, und zwar
 
@@ -198,19 +212,25 @@ der Beiträge der anderen Mitgliedstaaten verwendet.
 
 ## ARTIKEL VIII
 
-#### Zusammenarbeit mit der UNESCO und anderen Organisationen
+**Zusammenarbeit mit der UNESCO und anderen Organisationen**
+
+#### Art. 8
 
 Die Organisation wird mit der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur zusammenarbeiten. Sie kann ferner auf Grund eines mit Zweidrittelmehrheit aller Mitgliedstaaten gefaßten Beschlusses des Rates mit anderen Organisationen und Einrichtungen zusammenarbeiten.
 
 ## ARTIKEL IX
 
-#### Rechtsstellung
+**Rechtsstellung**
+
+#### Art. 9
 
 Die Organisation hat Rechtspersönlichkeit im Mutterland jedes Mitgliedstaates. Der Organisation und den Vertretern der Mitgliedstaaten im Rat, den Mitgliedern aller nachgeordneten gemäß Artikel V Ziffer 10 eingerichteten Stellen, dem Direktor sowie dem Personal der Organisation sind im Mutterland der Mitgliedstaaten auf Grund von Vereinbarungen, die zwischen der Organisation und jedem in Betracht kommenden Mitgliedstaat abzuschließen sind, diejenigen Vorrechte und Befreiungen zu gewähren, die gegebenenfalls für die Ausübung der Funktionen der Organisation im gegenseitigen Einvernehmen für erforderlich gehalten werden. Die zwischen der Organisation und dem Mitgliedstaat, in dessen Gebiet die Organisation ihren Sitz haben wird, abzuschließende Vereinbarung wird außer Bestimmungen über Vorrechte und Befreiungen Bestimmungen zur Regelung der besonderen Beziehungen zwischen der Organisation und diesem Mitgliedstaat enthalten.
 
 ## ARTIKEL X
 
-#### Änderungen
+**Änderungen**
+
+#### Art. 10
 
 1\. Der Rat kann den Mitgliedstaaten Änderungen dieses Abkommens und des beigefügten Finanzierungsprotokolls empfehlen. Jeder Mitgliedstaat, der eine Änderung vorzuschlagen wünscht, hat den Direktor hiervon in Kenntnis zu setzen. Der Direktor setzt alle Mitgliedstaaten von jeder ihm auf diese Weise mitgeteilten Änderung in Kenntnis, und zwar mindestens drei Monate, bevor sie vom Rat erörtert wird.
 
@@ -220,37 +240,49 @@ Die Organisation hat Rechtspersönlichkeit im Mutterland jedes Mitgliedstaates. 
 
 ## ARTIKEL XI
 
-#### Streitigkeiten
+**Streitigkeiten**
+
+#### Art. 11
 
 Jede Streitigkeit zwischen zwei oder mehr Mitgliedstaaten über die Auslegung oder Anwendung dieses Abkommens, die nicht durch Vermittlung des Rates beigelegt wird, ist dem Internationalen Gerichtshof vorzulegen, sofern sich die betreffenden Mitgliedstaaten nicht auf eine andere Art der Beilegung einigen.
 
 ## ARTIKEL XII
 
-#### Austritt
+**Austritt**
+
+#### Art. 12
 
 Nachdem dieses Abkommen sieben Jahre in Kraft gewesen ist, kann ein Mitgliedstaat dem Direktor schriftlich mitteilen, daß er das Abkommen kündigt und aus der Organisation austritt. Eine solche Kündigung wird am Ende des Rechnungsjahres, während dessen sie mitgeteilt wird, wirksam, falls sie während der ersten neun Monate dieses Rechnungsjahres erfolgt. Erfolgt sie während der letzten drei Monate des Rechnungsjahres, so wird sie am Ende des nächsten Rechnungsjahres wirksam.
 
 ## ARTIKEL XIII
 
-#### Nichterfüllung der Verpflichtungen
+**Nichterfüllung der Verpflichtungen**
+
+#### Art. 13
 
 Erfüllt ein Mitgliedstaat seine Verpflichtungen aus diesem Abkommen nicht, so endet seine Mitgliedschaft auf Beschluß des Rates, der mit einer Mehrheit von zwei Dritteln aller Mitgliedstaaten entscheidet.
 
 ## ARTIKEL XIV
 
-#### Auflösung
+**Auflösung**
+
+#### Art. 14
 
 Die Organisation wird aufgelöst, wenn die Zahl der Mitgliedstaaten unter fünf herabsinkt. Sie kann jederzeit durch Übereinkommen der Mitgliedstaaten aufgelöst werden. Vorbehaltlich einer Vereinbarung, die gegebenenfalls im Zeitpunkt der Auflösung zwischen den Mitgliedstaaten getroffen wird, ist der Staat, in dessen Gebiet sich der Sitz der Organisation zu diesem Zeitpunkt befindet, für die Abwicklung verantwortlich. Ein Überschuß ist unter diejenigen Staaten zu verteilen, die im Zeitpunkt der Auflösung Mitglieder sind, und zwar im Verhältnis zu den von ihnen vom Zeitpunkt ihres Beitritts zum Abkommen an tatsächlich geleisteten Beiträgen. Ergibt sich ein Fehlbetrag, so ist er von diesen Mitgliedstaaten im Verhältnis ihrer für das dann laufende Rechnungsjahr festgesetzten Beiträge zu tragen.
 
 ## ARTIKEL XV
 
-#### Unterzeichnung
+**Unterzeichnung**
+
+#### Art. 15
 
 Dieses Abkommen und das beigefügte Finanzierungsprotokoll, das einen wesentlichen Bestandteil dieses Abkommens bildet, liegen bis zum 31. Dezember 1953 zur Unterzeichnung durch jeden Staat auf, der den in Artikel III Ziffer 1 festgesetzten Bedingungen entspricht.
 
 ## ARTIKEL XVI
 
-#### Ratifizierung
+**Ratifizierung**
+
+#### Art. 16
 
 1\. Dieses Abkommen und das beigefügte Finanzierungsprotokoll unterliegen der Ratifizierung.
 
@@ -258,7 +290,9 @@ Dieses Abkommen und das beigefügte Finanzierungsprotokoll, das einen wesentlich
 
 ## ARTIKEL XVII
 
-#### Beitritt
+**Beitritt**
+
+#### Art. 17
 
 1\. Jeder den Bedingungen des Artikels III Ziffer 1 oder 2 entsprechende Staat, der nicht Unterzeichnerstaat dieses Abkommens ist, kann vom 1. Januar 1954 an dem Abkommen und dem Finanzierungsprotokoll beitreten.
 
@@ -266,7 +300,9 @@ Dieses Abkommen und das beigefügte Finanzierungsprotokoll, das einen wesentlich
 
 ## ARTIKEL XVIII
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 18
 
 1\. Dieses Abkommen und das beigefügte Finanzierungsprotokoll treten in Kraft, nachdem sieben Staaten sie ratifiziert haben oder ihnen beigetreten sind, vorausgesetzt, daß
 
@@ -278,7 +314,9 @@ Dieses Abkommen und das beigefügte Finanzierungsprotokoll, das einen wesentlich
 
 ## ARTIKEL XIX
 
-#### Notifizierungen
+**Notifizierungen**
+
+#### Art. 19
 
 1\. Der Generaldirektor der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur benachrichtigt alle Unterzeichner- und beitretenden Staaten sowie alle sonstigen Staaten, die an der Konferenz über die Durchführung von Arbeiten zur Errichtung eines europäischen Laboratoriums für kernphysikalische Forschung im Dezember 1951 in Paris und im Februar 1952 in Genf teilgenommen haben, von der Hinterlegung einer jeden Ratifikations- oder Beitrittsurkunde und vom Inkrafttreten dieses Abkommens.
 
@@ -286,7 +324,9 @@ Dieses Abkommen und das beigefügte Finanzierungsprotokoll, das einen wesentlich
 
 ## ARTIKEL XX
 
-#### Registrierung
+**Registrierung**
+
+#### Art. 20
 
 Der Generaldirektor der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur legt dieses Abkommen nach seinem Inkrafttreten dem Generalsekretär der Vereinten Nationen zur Registrierung gemäß Artikel 102 der Satzung der Vereinten Nationen vor.
 

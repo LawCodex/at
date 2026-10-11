@@ -33,13 +33,17 @@ sind wie folgt übereingekommen:
 
 ## Artikel 1
 
-### Auslieferungsverpflichtung
+**Auslieferungsverpflichtung**
+
+### Art. 1
 
 Die Vertragsparteien verpflichten sich, einander nach den Bestimmungen dieses Vertrages Personen auszuliefern, deren Auslieferung zum Zwecke der Strafverfolgung oder der Verhängung oder Vollstreckung einer Freiheitsstrafe oder einer anderen die Freiheit beschränkenden Maßnahme wegen einer auslieferungsfähigen strafbaren Handlung begehrt wird.
 
 ## Artikel 2
 
-### Auslieferungsfähige strafbare Handlungen
+**Auslieferungsfähige strafbare Handlungen**
+
+### Art. 2
 
 (1) Im Sinne dieses Vertrages wird die Auslieferung wegen eines solchen Verhaltens bewilligt, welches nach dem Recht beider Vertragsparteien eine strafbare Handlung darstellt, die mit Freiheitsstrafe oder einer anderen die Freiheit beschränkenden Maßnahme im Höchstmaß von mindestens einem Jahr oder mit strengerer Strafe bedroht ist. Betrifft das Auslieferungsersuchen eine wegen einer solchen strafbaren Handlung verurteilte Person, um deren Auslieferung zum Zweck der Vollstreckung einer Freiheitsstrafe oder einer anderen freiheitsbeschränkenden Maßnahme ersucht wird, so wird die Auslieferung nur bewilligt, wenn die Dauer der noch zu vollstreckenden Freiheitsstrafe oder freiheitsbeschränkenden Maßnahme mindestens sechs Monate beträgt.
 
@@ -63,7 +67,9 @@ b) im Falle, daß es im Zeitpunkt der Stellung des Auslieferungsersuchens im ers
 
 ## Artikel 3
 
-### Ablehnungsgründe
+**Ablehnungsgründe**
+
+### Art. 3
 
 (1) Die Auslieferung wird in folgenden Fällen nicht bewilligt:
 
@@ -95,13 +101,17 @@ ii) die verhängte Freiheitsstrafe oder die andere die Freiheit beschränkende M
 
 ## Artikel 4
 
-### Geschäftsweg
+**Geschäftsweg**
+
+### Art. 4
 
 Ersuchen um Auslieferung und die nachfolgende Korrespondenz werden im Wege der Justizministerien der Vertragsparteien übermittelt. Der diplomatische Weg wird dadurch nicht ausgeschlossen.
 
 ## Artikel 5
 
-### Ersuchen und Unterlagen
+**Ersuchen und Unterlagen**
+
+### Art. 5
 
 (1) Ersuchen um Auslieferung werden schriftlich gestellt. Dem Ersuchen sind in allen Fällen beizufügen:
 
@@ -133,13 +143,17 @@ d) wenn das Urteil sowohl den Schuldspruch als auch den Strafausspruch enthält,
 
 ## Artikel 6
 
-### Ergänzende Information
+**Ergänzende Information**
+
+### Art. 6
 
 Wenn der ersuchte Staat der Auffassung ist, daß die zur Unterstützung eines Auslieferungsersuchens übermittelten Unterlagen für eine Entscheidung nach diesem Vertrag nicht ausreichend sind, ersucht er um Übermittlung ergänzender Information innerhalb einer von ihm zu bestimmenden Frist.
 
 ## Artikel 7
 
-### Vereinfachte Auslieferung
+**Vereinfachte Auslieferung**
+
+### Art. 7
 
 (1) Die Auslieferung einer Person kann nach den Bestimmungen dieses Vertrages auch dann bewilligt werden, wenn die Voraussetzungen nach Artikel 5 Absätze 1, 2 und 3 nicht erfüllt sind, sofern sich die betroffene Person mit der Auslieferung einverstanden erklärt.
 
@@ -147,7 +161,9 @@ Wenn der ersuchte Staat der Auffassung ist, daß die zur Unterstützung eines Au
 
 ## Artikel 8
 
-### Vorläufige Auslieferungshaft
+**Vorläufige Auslieferungshaft**
+
+### Art. 8
 
 (1) In dringenden Fällen kann eine Vertragspartei um die vorläufige Verhaftung der gesuchten Person entweder durch Vermittlung der Internationalen Kriminalpolizeilichen Organisation (INTERPOL) oder auf dem in Artikel 4 vorgesehenen Weg ersuchen. Das Ersuchen kann durch jedes Nachrichtenmittel, das Schriftspuren hinterläßt, übermittelt werden.
 
@@ -171,7 +187,9 @@ e) eine Erklärung über die Höchstdauer des Freiheitsentzuges, der angeordnet 
 
 ## Artikel 9
 
-### Mehrheit von Auslieferungsersuchen
+**Mehrheit von Auslieferungsersuchen**
+
+### Art. 9
 
 (1) Wird von zwei oder mehreren Staaten um die Auslieferung derselben Person ersucht, so entscheidet der ersuchte Staat, an welchen dieser Staaten die Person ausgeliefert wird und benachrichtigt die ersuchenden Staaten von seiner Entscheidung.
 
@@ -179,7 +197,9 @@ e) eine Erklärung über die Höchstdauer des Freiheitsentzuges, der angeordnet 
 
 ## Artikel 10
 
-### Entscheidung und Übergabe
+**Entscheidung und Übergabe**
+
+### Art. 10
 
 (1) Sobald eine Entscheidung über das Auslieferungsersuchen vorliegt, setzt der ersuchte Staat den ersuchenden Staat von dieser Entscheidung in Kenntnis. Jede vollständige oder teilweise Ablehnung der Auslieferung ist zu begründen.
 
@@ -193,7 +213,9 @@ e) eine Erklärung über die Höchstdauer des Freiheitsentzuges, der angeordnet 
 
 ## Artikel 11
 
-### Aufgeschobene oder zeitweilige Übergabe
+**Aufgeschobene oder zeitweilige Übergabe**
+
+### Art. 11
 
 (1) Wenn gegen die gesuchte Person im ersuchten Staat wegen einer anderen als der dem Auslieferungsersuchen zugrundeliegenden strafbaren Handlung ein Strafverfahren anhängig ist oder diese eine wegen einer solchen strafbaren Handlung verhängte Freiheitsstrafe verbüßt, so kann der ersuchte Staat, nachdem er über das Auslieferungsersuchen entschieden hat, die Person übergeben oder die Übergabe bis zur Beendigung des Strafverfahrens oder bis zur Verbüßung der gesamten oder eines Teils der verhängten Freiheitsstrafe aufschieben. Der ersuchte Staat setzt den ersuchenden Staat von jedem Aufschub der Übergabe in Kenntnis.
 
@@ -201,7 +223,9 @@ e) eine Erklärung über die Höchstdauer des Freiheitsentzuges, der angeordnet 
 
 ## Artikel 12
 
-### Übergabe von Gegenständen
+**Übergabe von Gegenständen**
+
+### Art. 12
 
 (1) Wird die Auslieferung bewilligt, so übergibt der ersuchte Staat, soweit es sein Recht zuläßt, dem ersuchenden Staat alle Gegenstände einschließlich Geldbeträge:
 
@@ -217,7 +241,9 @@ b) die aus der strafbaren Handlung herrühren und sich im Besitz der gesuchten P
 
 ## Artikel 13
 
-### Spezialität
+**Spezialität**
+
+### Art. 13
 
 (1) Vorbehaltlich des Absatzes 4 dieses Artikels darf eine nach diesem Vertrag ausgelieferte Person wegen einer anderen, vor der Übergabe begangenen strafbaren Handlung oder anderen Angelegenheiten weder in Haft gehalten oder verfolgt noch einer sonstigen Beschränkung ihrer persönlichen Freiheit unterworfen werden, ausgenommen wegen:
 
@@ -237,7 +263,9 @@ b) mit derselben oder einer geringeren höchstzulässigen Freiheitsstrafe bedroh
 
 ## Artikel 14
 
-### Weiterlieferung an einen dritten Staat
+**Weiterlieferung an einen dritten Staat**
+
+### Art. 14
 
 (1) Wenn eine Person dem ersuchenden Staat übergeben wurde, darf dieser sie wegen einer vor ihrer Übergabe begangenen strafbaren Handlung nicht an einen dritten Staat ausliefern, es sei denn, daß:
 
@@ -249,7 +277,9 @@ b) die Person die Möglichkeit hatte, den ersuchenden Staat zu verlassen und die
 
 ## Artikel 15
 
-### Durchlieferung
+**Durchlieferung**
+
+### Art. 15
 
 (1) Soweit dies nach ihrem jeweiligen Recht zulässig ist, wird die Durchlieferung durch das Hoheitsgebiet einer der Vertragsparteien über schriftliches Ersuchen der anderen Vertragspartei bewilligt. Ein Ersuchen um Durchlieferung kann durch jedes Nachrichtenmittel, welches Schriftspuren hinterläßt, übermittelt werden und muß die in Artikel 8 Absatz 2 erwähnten Angaben enthalten.
 
@@ -257,7 +287,9 @@ b) die Person die Möglichkeit hatte, den ersuchenden Staat zu verlassen und die
 
 ## Artikel 16
 
-### Kosten
+**Kosten**
+
+### Art. 16
 
 (1) Der ersuchte Staat trifft alle erforderlichen Veranlassungen und trägt die Kosten aller Verfahren, die sich aus Anlaß eines Auslieferungsersuchens ergeben, einschließlich der Kosten einer Strafverfolgung infolge einer Ablehnung der Auslieferung.
 
@@ -267,7 +299,9 @@ b) die Person die Möglichkeit hatte, den ersuchenden Staat zu verlassen und die
 
 ## Artikel 17
 
-### Verfahrensführung
+**Verfahrensführung**
+
+### Art. 17
 
 (1) Im Falle eines Auslieferungsersuchens der österreichischen Behörden führt der Generalstaatsanwalt von Kanada das Auslieferungsverfahren.
 
@@ -275,7 +309,9 @@ b) die Person die Möglichkeit hatte, den ersuchenden Staat zu verlassen und die
 
 ## Artikel 18
 
-### Inkrafttreten und Kündigung
+**Inkrafttreten und Kündigung**
+
+### Art. 18
 
 (1) Dieser Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden werden sobald wie möglich in Wien ausgetauscht.
 

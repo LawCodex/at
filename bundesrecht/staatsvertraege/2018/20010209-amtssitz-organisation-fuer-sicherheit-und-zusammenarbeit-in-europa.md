@@ -167,7 +167,9 @@ Die Regierung wird alle entsprechenden Vorkehrungen treffen, um zu gewährleiste
 
 ### Öffentliche Leistungen im Amtssitz der OSZE
 
-#### Abschnitt 12
+**Abschnitt 12**
+
+#### Art. 12
 
 (a) Die Regierung wird in dem vom Generalsekretär erbetenen Ausmaß ihre Befugnisse dahingehend ausüben, dass für den Amtssitz der OSZE die notwendigen öffentlichen Einrichtungen und Leistungen, einschließlich Elektrizität, Wasser, Kanalisierung, Gas, Post, Telefon und andere Kommunikationsdienstleistungen, örtliche Verkehrsmittel, Entwässerung, Müllabfuhr, Feuerschutz und Schneeräumung auf öffentlichen Fahrbahnen, ohne dass jedoch dieser Aufzählung einschränkende Wirkung zukommen soll, zu angemessenen Bedingungen beigestellt werden.
 
@@ -551,7 +553,9 @@ Die Auslegung dieses Abkommens hat im Lichte seines vorrangigen Zwecks zu erfolg
 
 Beratungen über die Abänderung dieses Abkommens werden über Ersuchen der Regierung oder der OSZE aufgenommen. Jede derartige Abänderung findet im gegenseitigen Einvernehmen in einem Abkommen zwischen der Republik Österreich und der OSZE Ausdruck.
 
-#### Abschnitt 44
+**Abschnitt 44**
+
+#### Art. 44
 
 (a) Die Regierung und die OSZE können nach Bedarf Zusatzabkommen abschließen.
 

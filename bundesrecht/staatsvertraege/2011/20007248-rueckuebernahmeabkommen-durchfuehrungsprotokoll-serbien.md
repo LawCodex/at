@@ -1,0 +1,240 @@
+---
+title: "Rückübernahmeabkommen - Durchführungsprotokoll (Serbien)"
+identifier: "20007248"
+type: treaty
+ris_type: "Vertrag – Serbien"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 55/2011"
+last_amended: 2011-04-18
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2011/55/P0/NOR40128280"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007248"
+retrieved: 2026-10-11
+documents: 19
+---
+
+# Rückübernahmeabkommen - Durchführungsprotokoll (Serbien)
+
+Protokoll zwischen der Österreichischen Bundesregierung und der Regierung der Republik Serbien zur Durchführung des Abkommens zwischen der Europäischen Gemeinschaft und der Republik Serbien über die Rückübernahme von Personen mit unbefugtem Aufenthalt samt Anhang
+
+StF: BGBl. III Nr. 55/2011 idF BGBl. III Nr. 63/2011 (VFB)
+
+## Präambel/Promulgationsklausel
+
+Die Österreichische Bundesregierung und die Regierung der Republik Serbien (nachstehend “die Parteien” genannt), sind gemäß Artikel 19 des am 18. September 2007 in Brüssel unterzeichneten Abkommens zwischen der Europäischen Gemeinschaft und der Republik Serbien über die Rückübernahme von Personen mit unbefugtem Aufenthalt<sup>1</sup> (nachstehend “das Abkommen” genannt) mit dem Ziel einer effektiven Durchführung des Abkommens
+
+wie folgt übereingekommen:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup> Siehe Abl. Nr. L 344 vom 19.12.2007 S. 46
+
+## Artikel 1 – Zuständige Behörden und Kommunikationsweise
+
+1\. Die zuständigen Behörden der Parteien sind:
+
+a) Für die Republik Österreich
+
+\- Für Rückübernahmeersuchen, Durchbeförderungsersuchen, für die Beantragung von Reisedokumenten sowie die Abrechnung der Kosten:
+
+Bundesministerium für Inneres
+
+Abteilung für Fremdenpolizei und Grenzkontrollwesen – Abteilung II/3
+
+Adresse:
+
+Bundesministerium für Inneres
+
+Abteilung II/3
+
+Minoritenplatz 9
+
+1014 Wien
+
+Telefon: 0043 (1) 53126/3556
+
+Fax: 0043 (1) 53126/3136
+
+E-Mail: BMI-II-3@bmi.gv.at
+
+\- Für die Befragung zur Feststellung der Staatsangehörigkeit der rückzuübernehmenden Personen nach Artikel 8 Absatz 3 des Abkommens sowie zur Ausstellung von Reisedokumenten:
+
+Botschaft der Republik Österreich in Belgrad
+
+Kneza Sime Markovica 2
+
+SRB-11000 Belgrad
+
+Postanschrift:
+
+pp 839, SRB-11001 Belgrad
+
+Telefon: 00381 (11) 333 65-00 (Amt)
+
+Telefax: 00381 (11) 263 56 06
+
+E-Mail: belgrad-ob@bmeia.gv.a
+
+b) Für die Republik Serbien:
+
+\- Für Rückübernahmeersuchen, Durchbeförderungsersuchen, für die Beantragung von Reisedokumenten sowie die Abrechnung der Kosten:
+
+Innenministerium der Republik Serbien
+
+Direktion für Verwaltungsangelegenheiten
+
+Abteilung für Reisedokumente
+
+Unterabteilung für die Umsetzung des Rückübernahmeabkommens
+
+Adresse:
+
+Innenministerium der Republik Serbien
+
+− Direktion für Verwaltungsangelegenheiten
+
+− Abteilung für Reisedokumente
+
+− Unterabteilung für die Umsetzung des Rückübernahmeabkommens
+
+Bulevar Mihajla Pupina 2
+
+11070 Beograd
+
+Republik Serbien
+
+Telefon: 00381 11/3008-170
+
+Fax: 0038I 11/3008-203
+
+E-Mail: readmision@mup.gov.rs
+
+\- Für die Befragung zur Feststellung der Staatsangehörigkeit der rückzuübernehmenden Personen nach Artikel 8 Absatz 3 des Abkommens:
+
+Konsularabteilung der Botschaft der Republik Serbien in Wien
+
+Johannagasse 1-3
+
+1050 Wien
+
+Telefon: 0043 (1) 544 75 85
+
+0043 (1) 544 75 86
+
+Fax: 0043 (1) 544 75 95
+
+E-Mail: embassy.vienna@mfa.rs
+
+Generalkonsulat der Republik Serbien in Salzburg
+
+Schallmoser Hauptstrasse 99
+
+5020 Salzburg
+
+Telefon: 0043 (662) 84 52 54
+
+Fax: 0043 (662) 84 52 544
+
+E-Mail: gkserbien-salzburg@utanet.at
+
+2\. Die zuständigen Behörden der Parteien informieren sich gegenseitig unverzüglich auf direktem, sowie auf dem diplomatischen Weg über Änderungen.
+
+3\. Die zuständigen Behörden der Parteien übermitteln einander Rückübernahmeersuchen, Durchbeförderungsersuchen, die Antwort auf ein Ersuchen und die Benachrichtigung über eine Rückführung in schriftlicher Form elektronisch. Ausnahmsweise kann die Antwort auf Rückübernahmeersuchen, auf Durchbeförderungsersuchen und die Benachrichtigung über eine Rückführung auch per Fax übermittelt werden.
+
+## Artikel 2 – Grenzübergangsstellen
+
+Die Überstellung oder die Durchbeförderung kann nach vorheriger Einigung der zuständigen Behörden der Parteien über jedem für den internationalen Flug-, Schienen- oder Straßenverkehr zugelassenen Grenzübergangsstellen erfolgen.
+
+## Artikel 3 – Zusätzlicher Anscheinsbeweis für die Staatsangehörigkeit
+
+Die Parteien vereinbaren, dass die zuständige Behörde der ersuchenden Partei der zuständigen Behörde der ersuchten Partei als zusätzlichen Anscheinsbeweis für die Staatsangehörigkeit in Übereinstimmung mit Artikel 2 Absatz 1, Artikel 4 Absatz 1, Artikel 8 Absatz 2 und Anhang 2 des Abkommens auch Fingerabdrücke vorlegen kann.
+
+## Artikel 4 – Rückübernahmeersuchen
+
+1\. Gemäß Artikel 7 Absatz 3 des Abkommens verwendet die zuständige Behörde der ersuchenden Partei für die Übermittlung des Rückübernahmersuchens das gemeinsame Formular, das dem Abkommen als Anhang 6 beigefügt ist. Die zuständige Behörde der ersuchten Partei bestätigt unverzüglich elektronisch, ausnahmsweise per Fax, den Eingang des Rückübernahmeersuchens. Die zuständige Behörde der ersuchten Partei beantwortet das Rückübernahmeersuchen schriftlich unter Verwendung des Formulars in Anhang 1 dieses Protokolls.
+
+2\. Sofern es bei der Rückübernahme eines Staatsangehörigen einer Partei erforderlich ist, auch seine minderjährigen unverheirateten Kinder zusammen mit dem Elternteil in das Hoheitsgebiet der ersuchten Partei rückzuübernehmen, enthält die Antwort auf das Rückübernahmeersuchen die Bemerkung, dass jedem Kind ein eigenes Reisedokument ausgestellt wird.
+
+## Artikel 5 – Modalitäten der Rückführungen im beschleunigten Verfahren
+
+Sind die Voraussetzungen für die Rückübernahme gemäß Artikel 6 Absatz 3 des Abkommens erfüllt, unterrichtet die zuständige Behörde der ersuchenden Partei die nach Artikel 1 des Protokolls zuständige Behörde der ersuchten Partei darüber schriftlich unter Verwendung des Formulars in Anhang 1 dieses Protokolls.
+
+## Artikel 6 – Reisedokumente
+
+Wird der Rückübernahme zugestimmt, übermittelt die zuständige Behörde der ersuchenden Partei der zuständigen diplomatischen Vertretung oder dem Konsulat der ersuchten Partei die positive Antwort auf das Rückübernahmeersuchen bzw. das Rückübernahmeersuchen selbst, wenn die Antwort nicht innerhalb der festgesetzten Frist eingelangt ist, damit eventuell ein Visum oder ein Reisedokument gemäß Artikel 2 Absatz 4 des Abkommens ausgestellt werden kann.
+
+## Artikel 7 – Benachrichtigung über die Rückführung oder die Durchbeförderung
+
+Die zuständige Behörde der ersuchenden Partei wird die zuständige Behörde der ersuchten Partei über die Rückführung oder die Durchbeförderung der betroffenen Person unter Verwendung des Formulars in Anhang 2 oder 4 dieses Protokolls rechzeitig, spätestens aber zwei Arbeitstage vor der geplanten Rückführung benachrichtigen.
+
+## Artikel 8 – Durchbeförderungsersuchen
+
+1\. Gemäß Artikel 14 Absatz 1 des Abkommens verwendet die zuständige Behörde der ersuchenden Partei für die Übermittlung des Durchbeförderungsersuchens von Drittstaatsangehörigen und Staatenlosen das gemeinsame Formular, das dem Abkommen als Anhang 7 beigefügt ist. Die zuständige Behörde der ersuchten Partei bestätigt elektronisch, ausnahmsweise per Fax, den Eingang des Durchbeförderungsersuchens. Die zuständige Behörde der ersuchten Partei beantwortet das Durchbeförderungsersuchen schriftlich unter Verwendung des Formulars in Anhang 3 dieses Protokolls.
+
+2\. Im Fall einer Durchbeförderung auf dem Luftweg enthält das Durchbeförderungsersuchen nach Anhang 7 des Abkommens auch die Angabe der Flugnummern.
+
+3\. Das Ersuchen um Durchbeförderung soll, neben den in Anhang 7 des Rückübernahmeabkommens genannten persönlichen Daten, unter der Rubrik C. „Bemerkungen“ für die Durchbeförderung notwendige Hinweise auf den Gesundheitszustand der Person mit deren Zustimmung sowie den Sicherungsbedarf enthalten.
+
+4\. In dem Falle, dass die Durchbeförderung nicht wie angekündigt stattfinden kann, teilt die zuständige Behörde der ersuchten Partei dies der zuständigen Behörde der ersuchenden Partei unverzüglich unter Angabe der Gründe schriftlich mit. Die zuständige Behörde der ersuchenden Partei wird innerhalb von 24 (vierundzwanzig) Stunden schriftlich darauf antworten und der zuständigen Behörde der ersuchten Partei einen Vorschlag zum weiteren Vorgehen unterbreiten.
+
+## Artikel 9 – Voraussetzungen für eine begleitete Rückführung und Durchbeförderung
+
+1\. Die Beförderung von Staatsangehörigen der Parteien, Drittstaatsangehörigen und Staatenlosen erfolgt in der Regel auf dem Luftweg. Aus Sicherheitsgründen kann sie von ermächtigten Personen begleitet werden.
+
+2\. Die zuständige Behörde der ersuchenden Partei teilt in dem Rückübernahmeersuchen oder in dem Durchbeförderungsersuchen mit, ob sie eine Begleitung plant. Im Fall einer amtlichen Begleitung werden sofern möglich die Vornamen, Familiennamen, Art, Nummern und Ausstellungsdaten der Reisedokumente der Begleitpersonen mitgeteilt.
+
+3\. Die zuständige Behörde der ersuchten Partei wird der zuständigen Behörde der ersuchenden Partei alle für die Begleitung relevanten Informationen, zur Verfügung stellen.
+
+4\. Das Begleitpersonal ist verpflichtet, die gesetzlichen Bestimmungen der ersuchten Partei einzuhalten.
+
+5\. Die Begleitung wird von Personen in Zivilkleidung durchgeführt, die gültige Reisedokumente mit sich führen. Das Begleitpersonal darf keine Waffen oder sonstigen Gegenstände mit sich führen, für die auf dem Hoheitsgebiet der ersuchten Partei Beschränkungen gelten.
+
+6\. Die zuständigen Behörden arbeiten in allen Fragen, die mit dem Aufenthalt von Begleitpersonal auf dem Hoheitsgebiet des Staates der ersuchten Partei verbunden sind, zusammen. Dabei gewähren die zuständigen Behörden der ersuchten Partei dem Begleitpersonal jede mögliche Unterstützung.
+
+7\. Die Befugnisse des Begleitpersonals beschränken sich bei der Beförderung auf Notwehr oder Nothilfe. Das Begleitpersonal kann jedoch bis zum Eintreffen der verantwortlichen Personen der ersuchten Partei in vernünftiger und verhältnismäßiger Weise auf eine evidente, schwerwiegende Gefahr reagieren, um zu verhindern, dass die begleitete Person flüchtet und dabei sich oder Dritte verletzt oder Sachschaden verursacht.
+
+## Artikel 10 – Verfahren im Falle einer irrtümlichen Rückübernahme
+
+Im Fall einer irrtümlichen Rückübernahme übernimmt die ersuchende Partei die betroffene Person im Rahmen der Fristen und der Bedingungen von Artikel 12 Abkommen wieder zurück. Dabei werden alle übernommenen Dokumente im Original auf geeignete Weise an die ersuchende Partei retourniert.
+
+## Artikel 11 – Kosten
+
+Alle Beförderungskosten, die von der ersuchten Partei getragen wurden, werden von der gemäß Artikel 1 zuständigen Behörde der ersuchenden Partei gemäß Artikel 15 des Abkommens innerhalb von 30 (dreißig) Tagen nach Übermittlung der Rechnung unter Anschluss einer detaillierten Kostenauflistung in der Währung Euro refundiert.
+
+## Artikel 12 – Sprache der Kommunikation
+
+Die zuständigen Behörden der Parteien gemäß Artikel 1 dieses Protokolls werden bei der Anwendung des Abkommens in deutscher, serbischer oder englischer Sprache kommunizieren.
+
+## Artikel 13 – Änderungen und Ergänzungen
+
+Die Parteien können in gegenseitigem Einvernehmen das Protokoll ändern und ergänzen. Der Wortlaut des geänderten oder ergänzten Protokolls wird auf diplomatischem Weg ausgetauscht. Die Änderungen oder Ergänzungen treten gemäß Artikel 14 Absatz 1 dieses Protokolls in Kraft.
+
+## Artikel 14 – Inkrafttreten und Geltungsdauer
+
+Das Durchführungsprotokoll tritt in Kraft, nachdem dem Gemischten Rückübernahmeausschuss nach Artikel 18 des Abkommens das Vorliegen der innerstaatlichen Voraussetzungen für das Inkrafttreten notifiziert worden ist.
+
+Das Durchführungsprotokoll tritt gleichzeitig mit dem Abkommen außer Kraft.
+
+Geschehen zu Belgrad am 25. Juni im Jahre 2010 in zwei Urschriften, jede in deutscher, serbischer und englischer Sprache, wobei alle Texte gleichermaßen authentisch sind. Im Fall von Auslegungsproblemen geht der englische Text vor.
+
+## Anhang 1
+
+\*(Anm.: Anhang 1 ist als PDF dokumentiert.)*
+
+## Anhang 2
+
+\*(Anm.: Anhang 2 ist als PDF dokumentiert.)*
+
+## Anhang 3
+
+\*(Anm.: Anhang 3 ist als PDF dokumentiert.)*
+
+## Anhang 4
+
+\*(Anm.: Anhang 4 ist als PDF dokumentiert.)*
+
+## Ratifikationstext
+
+Das Protokoll ist gemäß seinem Art. 14 mit 4. April 2011 in Kraft getreten.

@@ -32,7 +32,9 @@ BGBl. Nr. 351/1979
 
 > **Beachte:** Das Zentralisierungsprotokoll ist nach Art. 164 EPÜ, BGBl. Nr. 350/1979, Bestandteil dieses Übereinkommens.
 
-## Abschnitt I
+**Abschnitt I**
+
+## Art. 1
 
 (1) (a) Bei Inkrafttreten des Übereinkommens treffen die Vertragsstaaten des Übereinkommens, die gleichzeitig Mitgliedstaaten des durch das Haager Abkommen vom 6. Juni 1947 errichteten Internationalen Patentinstituts sind, die notwendigen Maßnahmen, um sicherzustellen, daß alle Aktiva und Passiva sowie das gesamte Personal des Internationalen Patentinstituts spätestens zu dem in Artikel 162 Absatz 1 des Übereinkommens vorgesehenen Zeitpunkt auf das Europäische Patentamt übertragen werden. Diese Übertragung erfolgt im Wege eines Vertrags zwischen dem Internationalen Patentinstitut und der Europäischen Patentorganisation. Die oben erwähnten Staaten und die anderen Vertragsstaaten des Übereinkommens treffen die notwendigen Maßnahmen, um sicherzustellen, daß dieser Vertrag spätestens zu dem in Artikel 162 Absatz 1 des Übereinkommens vorgesehenen Zeitpunkt angewendet wird. Die Mitgliedstaaten des Internationalen Patentinstituts, die gleichzeitig Vertragsstaaten des Übereinkommens sind, verpflichten sich ferner, ihre Mitgliedschaft am Haager Abkommen zum Zeitpunkt der Anwendung des Vertrags zu beenden.
 
@@ -50,17 +52,23 @@ BGBl. Nr. 351/1979
 
 (d) Die Bundesrepublik Deutschland übernimmt die zusätzlichen Kosten, die der Europäischen Patentorganisation aus der Errichtung und dem Betrieb der Dienststelle Berlin entstehen.
 
-## Abschnitt II
+**Abschnitt II**
+
+## Art. 2
 
 Die Vertragsstaaten des Übereinkommens verzichten vorbehaltlich der Abschnitte III und IV für ihre Zentralbehörden für den gewerblichen Rechtsschutz zugunsten des Europäischen Patentamts auf die Tätigkeit als mit der internationalen vorläufigen Prüfung beauftragte Behörde nach dem Zusammenarbeitsvertrag. Diese Verpflichtung wird nur in dem Umfang, in dem das Europäische Patentamt nach Artikel 162 Absatz 2 des Übereinkommens die Prüfung europäischer Patentanmeldungen durchführen kann, wirksam; diese Wirkung tritt zwei Jahre nach dem Zeitpunkt ein, zu dem das Europäische Patentamt nach einem Fünfjahresplan, der die Zuständigkeit des Amts stufenweise auf alle Gebiete der Technik ausdehnt und nur durch einen Beschluß des Verwaltungsrats geändert werden kann, seine Prüfungstätigkeit auf die betreffenden Gebiete der Technik ausgedehnt hat. Die Einzelheiten der Erfüllung der genannten Verpflichtung werden durch Beschluß des Verwaltungsrats festgelegt.
 
-## Abschnitt III
+**Abschnitt III**
+
+## Art. 3
 
 (1) Die Zentralbehörde für den gewerblichen Rechtsschutz jedes Vertragsstaats des Übereinkommens, dessen Amtssprache nicht eine der Amtssprachen des Europäischen Patentamts ist, ist berechtigt, eine Tätigkeit als Internationale Recherchenbehörde und als mit der internationalen vorläufigen Prüfung beauftragte Behörde nach dem Zusammenarbeitsvertrag auszuüben. Die Inanspruchnahme dieses Rechts setzt die Verpflichtung des betreffenden Staats voraus, diese Tätigkeit auf internationale Anmeldungen zu beschränken, die von Staatsangehörigen des betreffenden Staats, von Personen mit Wohnsitz oder Sitz im Hoheitsgebiet dieses Staats, von Staatsangehörigen eines diesem Übereinkommen angehörenden Nachbarstaats dieses Staats oder von Personen, die in einem solchen Nachbarstaat ihren Wohnsitz oder Sitz haben, eingereicht werden. Der Verwaltungsrat kann der Zentralbehörde für den gewerblichen Rechtsschutz eines Vertragsstaats durch Beschluß gestatten, die genannte Tätigkeit auf solche internationale Anmeldungen auszudehnen, die von Staatsangehörigen oder von Personen mit Wohnsitz oder Sitz im Hoheitsgebiet eines Nichtvertragsstaats, der die gleiche Amtssprache wie der betreffende Vertragsstaat hat, eingereicht werden und die in dieser Sprache abgefaßt sind.
 
 (2) Im Hinblick auf eine Harmonisierung der nach dem Zusammenarbeitsvertrag vorgesehenen Recherchentätigkeit im Rahmen des europäischen Patenterteilungssystems wird eine Zusammenarbeit zwischen dem Europäischen Patentamt und den nach diesem Abschnitt zugelassenen Zentralbehörden für den gewerblichen Rechtsschutz hergestellt. Diese Zusammenarbeit erfolgt auf Grund einer besonderen Vereinbarung, die sich zum Beispiel erstrecken kann auf Recherchenverfahren und -methoden, die Anforderungen für die Erstellung und Ausbildung von Prüfern, Richtlinien für den Austausch von Recherchen und anderen Diensten zwischen den Behörden sowie andere, zur Sicherstellung der erforderlichen Kontrolle und Überwachung notwendige Maßnahmen.
 
-## Abschnitt IV
+**Abschnitt IV**
+
+## Art. 4
 
 (1) (a) Um den nationalen Patentämtern der Vertragsstaaten des Übereinkommens die Anpassung an das europäische Patentsystem zu erleichtern, kann der Verwaltungsrat, wenn er es für wünschenswert hält, unter den nachstehend festgelegten Bedingungen den Zentralbehörden für den gewerblichen Rechtsschutz dieser Staaten, in denen das Verfahren in einer der Amtssprachen des Europäischen Patentamts durchgeführt werden kann, die Bearbeitung der europäischen Patentanmeldungen, die in der betreffenden Sprache abgefaßt sind, übertragen, soweit nach Artikel 18 Absatz 2 des Übereinkommens in der Regel ein Prüfer der Prüfungsabteilung beauftragt wird. Diese Aufgaben sind im Rahmen des im Übereinkommen vorgesehenen Erteilungsverfahren durchzuführen; die Entscheidung über diese Anmeldungen trifft die Prüfungsabteilung in ihrer nach Artikel 18 Absatz 2 vorgesehenen Zusammensetzung.
 
@@ -78,7 +86,9 @@ Die Vertragsstaaten des Übereinkommens verzichten vorbehaltlich der Abschnitte 
 
 (c) Nummer 1 Buchstabe b Satz 2 und Buchstabe d ist entsprechend anzuwenden.
 
-## Abschnitt V
+**Abschnitt V**
+
+## Art. 5
 
 (1) Die in Abschnitt I Nummer 1 Buchstabe c genannte Dienststelle ist berechtigt, für europäische Patentanmeldungen, die von Angehörigen des Staats, in dem die Dienststelle ihren Sitz hat, und von Personen mit Wohnsitz oder Sitz in diesem Staat eingereicht werden, eine Recherche in der ihr zur Verfügung stehenden Dokumentation durchzuführen, soweit diese in der Amtssprache dieses Staats abgefaßt ist. Hierdurch darf jedoch weder das europäische Patenterteilungsverfahren verzögert werden, noch dürfen der Europäischen Patentorganisation zusätzliche Kosten entstehen.
 
@@ -86,14 +96,20 @@ Die Vertragsstaaten des Übereinkommens verzichten vorbehaltlich der Abschnitte 
 
 (3) Der Verwaltungsrat kann die in den Nummern 1 und 2 vorgesehenen Berechtigungen unter den in den genannten Nummern vorgesehenen Voraussetzungen auch auf Zentralbehörden für den gewerblichen Rechtsschutz der Vertragsstaaten ausdehnen, die als Amtssprache keine der Amtssprachen des Europäischen Patentamts haben.
 
-## Abschnitt VI
+**Abschnitt VI**
+
+## Art. 6
 
 Die in Artikel 92 des Übereinkommens vorgesehene Recherche wird grundsätzlich für alle europäischen Patentanmeldungen auf Patentschriften und veröffentlichte Patentanmeldungen sowie weitere einschlägige Dokumente von Vertragsstaaten ausgedehnt, die zu dem in Artikel 162 Absatz 1 des Übereinkommens erwähnten Zeitpunkt nicht im Prüfstoff des Europäischen Patentamts enthalten sind. Der Verwaltungsrat legt aufgrund der Ergebnisse einer Studie, die sich insbesondere mit den technischen und finanziellen Aspekten zu befassen hat, den Umfang, die näheren Bedingungen und den Zeitplan der Ausdehnung fest.
 
-## Abschnitt VII
+**Abschnitt VII**
+
+## Art. 7
 
 Dieses Protokoll geht entgegenstehenden Vorschriften des Übereinkommens vor.
 
-## Abschnitt VIII
+**Abschnitt VIII**
+
+## Art. 8
 
 Die in diesem Protokoll vorgesehenen Beschlüsse des Verwaltungsrats werden mit Dreiviertelmehrheit getroffen (Artikel 35 Absatz 2 des Übereinkommens). Die Vorschriften über Stimmenwägung (Artikel 36 des Übereinkommens) sind anzuwenden.

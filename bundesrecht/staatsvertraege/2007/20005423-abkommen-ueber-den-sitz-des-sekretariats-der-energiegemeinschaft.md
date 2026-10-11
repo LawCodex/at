@@ -45,7 +45,9 @@ sind die Republik Österreich und die Energiegemeinschaft wie folgt übereingeko
 
 ## Artikel 1
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 1
 
 In diesem Abkommen:
 
@@ -63,7 +65,9 @@ f) bezeichnet der Begriff “amtliche Besucher” die vom Sekretariat eingeladen
 
 ## Artikel 2
 
-### Rechtspersönlichkeit
+**Rechtspersönlichkeit**
+
+### Art. 2
 
 Die Republik Österreich anerkennt die durch den Gründungsvertrag geschaffene internationale Rechtspersönlichkeit der Energiegemeinschaft sowie ihre Rechtsfähigkeit in Österreich, insbesondere ihre Fähigkeit:
 
@@ -79,7 +83,9 @@ d) andere Handlungen zu setzen, die für ihre Zwecke und Aufgaben notwendig oder
 
 ## Artikel 3
 
-### Sitz
+**Sitz**
+
+### Art. 3
 
 1\) Der Sitz des Sekretariats umfasst das Grundstück, die Anlagen und Büros, die die Energiegemeinschaft für ihre Tätigkeiten benützt. Sein Ort wird auf der Grundlage eines gegenseitigen Einverständnisses zwischen der Energiegemeinschaft und der Regierung der Republik Österreich festgelegt.
 
@@ -87,7 +93,9 @@ d) andere Handlungen zu setzen, die für ihre Zwecke und Aufgaben notwendig oder
 
 ## Artikel 4
 
-### Unverletzlichkeit des Sitzes
+**Unverletzlichkeit des Sitzes**
+
+### Art. 4
 
 1\) Der Sitz des Sekretariats ist unverletzlich. Kein Beamter oder Vertreter der Republik Österreich noch sonst irgendeine in der Republik Österreich Hoheitsrechte ausübende Person darf, außer mit der Zustimmung des Direktors des Sekretariats und unter Einhaltung der von ihm festgelegten Bedingungen, den Sitz betreten und dort Amtshandlungen setzen. Jedoch kann bei Feuer oder einer anderen Katastrophe, wenn sofortige Schutzmaßnahmen erforderlich sind, die Zustimmung vermutet werden.
 
@@ -97,7 +105,9 @@ d) andere Handlungen zu setzen, die für ihre Zwecke und Aufgaben notwendig oder
 
 ## Artikel 5
 
-### Befreiung von Gerichtsbarkeit und anderen Maßnahmen
+**Befreiung von Gerichtsbarkeit und anderen Maßnahmen**
+
+### Art. 5
 
 1\) Die Energiegemeinschaft ist mit Ausnahme der folgenden Fälle von Gerichtsbarkeit und Vollzugshandlungen befreit:
 
@@ -115,25 +125,33 @@ c) wenn es aufgrund einer behördlichen oder richterlichen Entscheidung zu einer
 
 ## Artikel 6
 
-### Unverletzlichkeit der Archive
+**Unverletzlichkeit der Archive**
+
+### Art. 6
 
 Die Archive der Energiegemeinschaft sind unverletzlich.
 
 ## Artikel 7
 
-### Schutz des Sitzbereichs
+**Schutz des Sitzbereichs**
+
+### Art. 7
 
 Die österreichischen Behörden werden entsprechende Vorsorge treffen, um zu gewährleisten, dass die Ruhe des Sitzes nicht durch Personen oder Personengruppen gestört wird, die ihn ohne Erlaubnis zu betreten versuchen.
 
 ## Artikel 8
 
-### Öffentliche Leistungen im Sitzbereich
+**Öffentliche Leistungen im Sitzbereich**
+
+### Art. 8
 
 Die Republik Österreich trifft entsprechende Maßnahmen, um die Versorgung des Sitzes mit den notwendigen öffentlichen Leistungen zu angemessenen Bedingungen zu gewährleisten.
 
 ## Artikel 9
 
-### Nachrichtenverkehr
+**Nachrichtenverkehr**
+
+### Art. 9
 
 1\) Die Republik Österreich trägt dafür Sorge, dass die Energiegemeinschaft in der Lage ist, Mitteilungen in Verbindung mit ihren amtlichen Tätigkeiten ohne Zensur oder andere Eingriffe zu versenden und zu empfangen.
 
@@ -141,7 +159,9 @@ Die Republik Österreich trifft entsprechende Maßnahmen, um die Versorgung des 
 
 ## Artikel 10
 
-### Befreiung von Steuern und Zöllen
+**Befreiung von Steuern und Zöllen**
+
+### Art. 10
 
 1\) Die Energiegemeinschaft und ihr Eigentum sind von allen Formen der Besteuerung befreit.
 
@@ -157,7 +177,9 @@ Die Republik Österreich trifft entsprechende Maßnahmen, um die Versorgung des 
 
 ## Artikel 11
 
-### Finanzeinrichtungen
+**Finanzeinrichtungen**
+
+### Art. 11
 
 Die Republik Österreich trägt dafür Sorge, dass die Energiegemeinschaft in der Lage ist:
 
@@ -169,7 +191,9 @@ c) ihre Einlagen, Wertpapiere und Währungsguthaben nach, aus oder in die Republ
 
 ## Artikel 12
 
-### Sozialversicherung
+**Sozialversicherung**
+
+### Art. 12
 
 1\) Die Energiegemeinschaft und die Angestellten des Sekretariats sind von allen Pflichtbeiträgen an die Sozialversicherungseinrichtungen der Republik Österreich befreit.
 
@@ -187,7 +211,9 @@ c) ihre Einlagen, Wertpapiere und Währungsguthaben nach, aus oder in die Republ
 
 ## Artikel 13
 
-### Durchfahrt und Aufenthalt
+**Durchfahrt und Aufenthalt**
+
+### Art. 13
 
 1\) Die Republik Österreich trifft Vorsorge dafür, dass den unten angeführten Personen die Einreise nach und der Aufenthalt in der Republik Österreich ermöglicht wird, dass sie die Republik Österreich ohne Probleme verlassen und unbehindert vom oder zum Sitz reisen können und dass bei diesen Reisen der notwendige Schutz gewährleistet wird:
 
@@ -205,7 +231,9 @@ c) die amtlichen Besucher.
 
 ## Artikel 14
 
-### Angestellte des Sekretariats
+**Angestellte des Sekretariats**
+
+### Art. 14
 
 1\) Die Angestellten des Sekretariats genießen in und gegenüber der Republik Österreich folgende Privilegien und Immunitäten:
 
@@ -239,13 +267,17 @@ k) die Möglichkeit eines bevorzugten Zuganges zum Arbeitsmarkt für ihre im sel
 
 ## Artikel 15
 
-### Der Direktor des Sekretariats
+**Der Direktor des Sekretariats**
+
+### Art. 15
 
 Neben den in Artikel 14 genannten Privilegien und Immunitäten genießen der Direktor des Sekretariats sowie höherrangige Mitarbeiter in Vertretung des Direktors während dessen Abwesenheit, die gleichen Privilegien und Immunitäten, Befreiungen und Möglichkeiten, wie sie auch den Leitern bzw. Mitgliedern vergleichbaren Ranges von diplomatischen Vertretungen eingeräumt werden, sofern sie nicht österreichische Staatsbürger sind oder ihren ständigen Wohnsitz in der Republik Österreich haben.
 
 ## Artikel 16
 
-### Amtliche Besucher
+**Amtliche Besucher**
+
+### Art. 16
 
 1\) Amtliche Besucher genießen die folgenden Privilegien und Immunitäten:
 
@@ -261,7 +293,9 @@ d) die für die Überweisung ihrer Bezüge und Spesen erforderlichen Umtauschmö
 
 ## Artikel 17
 
-### Notifikation von Anstellungen, Identitätsausweise
+**Notifikation von Anstellungen, Identitätsausweise**
+
+### Art. 17
 
 1\) Das Sekretariat übermittelt den österreichischen Behörden eine Liste der Angestellten des Sekretariats und revidiert diese nach Bedarf von Zeit zu Zeit.
 
@@ -269,13 +303,17 @@ d) die für die Überweisung ihrer Bezüge und Spesen erforderlichen Umtauschmö
 
 ## Artikel 18
 
-### Österreichische Staatsangehörige und Personen mit ständigem Wohnsitz in der Republik Österreich
+**Österreichische Staatsangehörige und Personen mit ständigem Wohnsitz in der Republik Österreich**
+
+### Art. 18
 
 Österreichische Staatsangehörige und Personen, die ihren ständigen Wohnsitz in Österreich haben, genießen nur die in Artikel 12, Artikel 14 (1) (a), (b) mit den darin vorgesehenen Einschränkungen, (c) und (d) und Artikel 16 (1) (a), (b) und (c) angeführten Privilegien und Immunitäten.
 
 ## Artikel 19
 
-### Zweck der Privilegien und Immunitäten
+**Zweck der Privilegien und Immunitäten**
+
+### Art. 19
 
 1\) Die in diesem Abkommen gewährten Privilegien und Immunitäten dienen nicht dazu, den Angestellten oder amtlichen Besuchern des Sekretariats persönliche Vorteile zu verschaffen. Sie werden lediglich gewährt, um damit der Energiegemeinschaft zu allen Zeiten die ungestörte Ausübung ihrer amtlichen Tätigkeiten zu ermöglichen und um sicherzustellen, dass die Personen, denen sie eingeräumt werden, vollkommen unabhängig sind.
 
@@ -283,19 +321,25 @@ d) die für die Überweisung ihrer Bezüge und Spesen erforderlichen Umtauschmö
 
 ## Artikel 20
 
-### Streitbeilegung
+**Streitbeilegung**
+
+### Art. 20
 
 Alle Meinungsverschiedenheiten zwischen der Republik Österreich und der Energiegemeinschaft über die Auslegung oder Anwendung dieses Abkommens oder über irgendeine andere Frage hinsichtlich des Sitzes des Sekretariats oder des Verhältnisses zwischen der Energiegemeinschaft und der Republik Österreich, welche nicht im Verhandlungswege oder nach einem anderen einvernehmlich festgelegten Verfahren beigelegt werden, sind zur endgültigen Entscheidung einem aus drei Schiedsrichtern zusammengesetzten Schiedsgericht zu unterbreiten; von diesen ist einer von der Energiegemeinschaft, einer vom Bundesminister für europäische und internationale Angelegenheiten der Republik Österreich und ein dritter, der als Vorsitzender des Schiedsgerichtes fungieren soll, von den beiden ersten Schiedsrichtern auszuwählen. Können die beiden ersten Schiedsrichter innerhalb von sechs (6) Monaten nach ihrer Ernennung keine Einigung hinsichtlich des dritten Schiedsrichters erzielen, so wird dieser auf Ersuchen der Republik Österreich oder der Energiegemeinschaft vom Präsidenten des Internationalen Gerichtshofes ausgewählt.
 
 ## Artikel 21
 
-### Meistbegünstigung
+**Meistbegünstigung**
+
+### Art. 21
 
 Sofern und insoweit die Regierung der Republik Österreich mit einer vergleichbaren zwischenstaatlichen Organisation ein Abkommen trifft, das Bestimmungen oder Bedingungen enthält, die für die betreffende Organisation günstiger sind als die entsprechenden Bestimmungen oder Bedingungen dieses Abkommens, dann dehnt die Regierung mittels eines Zusatzabkommens diese günstigeren Bestimmungen oder Bedingungen auch auf die Energiegemeinschaft aus.
 
 ## Artikel 22
 
-### Übergangsbestimmung
+**Übergangsbestimmung**
+
+### Art. 22
 
 1\) Mit dem Inkrafttreten dieses Abkommens gilt der Verein „Das interimistische Sekretariat der Energiegemeinschaft für Südosteuropa - iSEG” mit Sitz in Wien, entstanden am 4. April 2005 gemäß GZ XV- 6861 der Bundespolizeidirektion Wien vom 1. April 2005, als aufgelöst.
 
@@ -303,7 +347,9 @@ Sofern und insoweit die Regierung der Republik Österreich mit einer vergleichba
 
 ## Artikel 23
 
-### Inkrafttreten und Dauer des Abkommens
+**Inkrafttreten und Dauer des Abkommens**
+
+### Art. 23
 
 1\) Das Abkommen tritt mit Ausnahme von Artikel 12 am 1. Juli 2007 unter der Voraussetzung in Kraft, dass die Republik Österreich und die Energiegemeinschaft einander vom Abschluss der Verfahren in Kenntnis gesetzt haben, die erforderlich sind, damit das Abkommen für beide Parteien bindende Wirkung erlangt.
 

@@ -31,7 +31,9 @@ HABEN FOLGENDES vereinbart:
 
 ## Artikel 1
 
-#### UNTER DAS ABKOMMEN FALLENDES NACHLASSVERMÖGEN UND SCHENKUNGEN
+**UNTER DAS ABKOMMEN FALLENDES NACHLASSVERMÖGEN UND SCHENKUNGEN**
+
+#### Art. 1
 
 Dieses Abkommen gilt für
 
@@ -41,7 +43,9 @@ b) Schenkungen, wenn der Schenker im Zeitpunkt der Schenkung einen Wohnsitz in e
 
 ## Artikel 2
 
-#### UNTER DAS ABKOMMEN FALLENDE STEUERN
+**UNTER DAS ABKOMMEN FALLENDE STEUERN**
+
+#### Art. 2
 
 1\. Dieses Abkommen gilt, ohne Rücksicht auf die Art der Erhebung, für Erbschafts- und Schenkungssteuern, die für Rechnung eines Vertragsstaats oder seiner Gebietskörperschaften erhoben werden.
 
@@ -57,7 +61,9 @@ b) in der Tschechischen Republik: die Erbschafts- und Schenkungssteuer.
 
 ## Artikel 3
 
-#### ALLGEMEINE BEGRIFFSBESTIMMUNGEN
+**ALLGEMEINE BEGRIFFSBESTIMMUNGEN**
+
+#### Art. 3
 
 1\. Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert,
 
@@ -73,7 +79,9 @@ ii) in der Tschechischen Republik: den Finanzminister oder seinen bevollmächtig
 
 ## Artikel 4
 
-#### STEUERLICHER WOHNSITZ
+**STEUERLICHER WOHNSITZ**
+
+#### Art. 4
 
 1\. Im Sinne dieses Abkommens bedeutet der Ausdruck „eine Person mit Wohnsitz in einem Vertragsstaat“ eine Person, deren Nachlaß oder Schenkung nach dem Recht dieses Staates dort auf Grund ihres Wohnsitzes, ihres ständigen Aufenthalts, des Ortes ihrer Geschäftsleitung oder eines anderen ähnlichen Merkmals steuerpflichtig ist. Der Ausdruck umfaßt jedoch nicht eine Person, deren Nachlaß oder Schenkung in diesem Staat nur mit in diesem Staat gelegenem Vermögen steuerpflichtig ist.
 
@@ -91,7 +99,9 @@ d) ist die Person Staatsangehöriger beider Staaten oder keines der Staaten, so 
 
 ## Artikel 5
 
-#### UNBEWEGLICHES VERMÖGEN
+**UNBEWEGLICHES VERMÖGEN**
+
+#### Art. 5
 
 1\. Unbewegliches Vermögen, das Teil des Nachlasses oder einer Schenkung einer Person mit Wohnsitz in einem Vertragsstaat ist und das im anderen Vertragsstaat liegt, darf im anderen Staat besteuert werden.
 
@@ -101,7 +111,9 @@ d) ist die Person Staatsangehöriger beider Staaten oder keines der Staaten, so 
 
 ## Artikel 6
 
-#### BEWEGLICHES VERMÖGEN EINER BETRIEBSTÄTTE ODER EINER FESTEN EINRICHTUNG
+**BEWEGLICHES VERMÖGEN EINER BETRIEBSTÄTTE ODER EINER FESTEN EINRICHTUNG**
+
+#### Art. 6
 
 1\. Bewegliches Vermögen eines Unternehmens, das Teil des Nachlasses oder einer Schenkung einer Person mit Wohnsitz in einem Vertragsstaat ist und das Betriebsvermögen einer im anderen Vertragsstaat gelegenen Betriebstätte darstellt, darf im anderen Staat besteuert werden.
 
@@ -141,7 +153,9 @@ f) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 ## Artikel 7
 
-#### ANDERES VERMÖGEN
+**ANDERES VERMÖGEN**
+
+#### Art. 7
 
 1\. Vermögen, das Teil des Nachlasses oder einer Schenkung einer Person mit Wohnsitz in einem Vertragsstaat ist und in den Artikeln 5 und 6 nicht behandelt wurde, darf ohne Rücksicht auf seine Belegenheit nur in diesem Staat besteuert werden.
 
@@ -149,7 +163,9 @@ f) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 ## Artikel 8
 
-#### SCHULDENABZUG
+**SCHULDENABZUG**
+
+#### Art. 8
 
 1\. Schulden, die durch das in Artikel 5 genannte Vermögen besonders gesichert sind, werden vom Wert dieses Vermögens abgezogen. Schulden, die zwar nicht durch das in Artikel 5 genannte Vermögen besonders gesichert sind, die aber im Zusammenhang mit dem Erwerb, der Änderung, der Instandsetzung oder der Instandhaltung solchen Vermögens entstanden sind, werden vom Wert dieses Vermögens abgezogen.
 
@@ -167,7 +183,9 @@ f) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 ### VERMEIDUNG DER DOPPELBESTEUERUNG
 
-#### BEFREIUNGSMETHODE
+**BEFREIUNGSMETHODE**
+
+#### Art. 9
 
 1\. Der Vertragsstaat, in dem der Erblasser im Zeitpunkt des Todes oder der Schenker im Zeitpunkt der Schenkung seinen Wohnsitz hatte, nimmt das Vermögen, das aus demselben Anlaß nach diesem Abkommen im anderen Vertragsstaat besteuert werden darf, von der Besteuerung aus.
 
@@ -177,7 +195,9 @@ f) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 ## Artikel 10
 
-#### VERSTÄNDIGUNGSVERFAHREN
+**VERSTÄNDIGUNGSVERFAHREN**
+
+#### Art. 10
 
 1\. Ist eine Person der Auffassung, daß Maßnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie unbeschadet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde eines der beiden Vertragsstaaten unterbreiten. Der Fall muß innerhalb von drei Jahren nach der ersten Mitteilung der Maßnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
 
@@ -189,7 +209,9 @@ f) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 ## Artikel 11
 
-#### INFORMATIONSAUSTAUSCH
+**INFORMATIONSAUSTAUSCH**
+
+#### Art. 11
 
 1\. Die zuständigen Behörden der Vertragsstaaten tauschen Informationen aus, die zur Durchführung dieses Abkommens oder des innerstaatlichen Rechts der Vertragsstaaten betreffend die unter das Abkommen fallenden Steuern erforderlich sind, soweit die diesem Recht entsprechende Besteuerung nicht dem Abkommen widerspricht. Der Informationsaustausch ist durch Artikel 1 nicht eingeschränkt. Alle Informationen, die ein Vertragsstaat erhalten hat, sind ebenso geheimzuhalten wie die auf Grund des innerstaatlichen Rechts dieses Staates beschafften Informationen und dürfen nur den Personen oder Behörden (einschließlich der Gerichte und der Verwaltungsbehörden) zugänglich gemacht werden, die mit der Veranlagung oder Erhebung, der Vollstreckung oder Strafverfolgung oder mit der Entscheidung von Rechtsmitteln hinsichtlich der unter das Abkommen fallenden Steuern befaßt sind. Diese Personen oder Behörden dürfen die Informationen nur für diese Zwecke verwenden. Sie dürfen die Informationen in einem öffentlichen Gerichtsverfahren oder einer Gerichtsentscheidung offenlegen.
 
@@ -203,13 +225,17 @@ c) Informationen zu erteilen, die ein Handels-, Industrie-, Gewerbe- oder Berufs
 
 ## Artikel 12
 
-#### DIPLOMATEN UND KONSULARBEAMTE
+**DIPLOMATEN UND KONSULARBEAMTE**
+
+#### Art. 12
 
 Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Diplomaten und Konsularbeamten nach den allgemeinen Regeln des Völkerrechts oder auf Grund besonderer Vereinbarungen zustehen.
 
 ## Artikel 13
 
-#### INKRAFTTRETEN
+**INKRAFTTRETEN**
+
+#### Art. 13
 
 1\. Dieses Abkommen bedarf der Ratifikation; die Ratifikationsurkunden werden so bald wie möglich in Wien ausgetauscht.
 
@@ -217,7 +243,9 @@ Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Diplomaten un
 
 ## Artikel 14
 
-#### KÜNDIGUNG
+**KÜNDIGUNG**
+
+#### Art. 14
 
 Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekündigt wird. Jeder Vertragsstaat kann das Abkommen jederzeit nach Ablauf von fünf Jahren nach dessen Inkrafttreten mit sechsmonatiger Kündigungsfrist schriftlich auf diplomatischem Weg kündigen. In diesem Fall findet das Abkommen keine Anwendung mehr auf Nachlässe von Personen, deren Tod nach dem nächstfolgenden 31. Dezember nach dem im Kündigungsschreiben genannten Stichtag eingetreten ist und auf Schenkungen, die nach dem nächstfolgenden 31. Dezember nach dem im Kündigungsschreiben genannten Stichtag erfolgen.
 

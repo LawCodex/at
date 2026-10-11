@@ -39,7 +39,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 1
 
-### Grundsätze der Zusammenarbeit
+**Grundsätze der Zusammenarbeit**
+
+### Art. 1
 
 (1) Die diplomatischen und konsularischen Vertretungen der Parteien arbeiten in Drittstaaten in größtmöglichem Maße zusammen.
 
@@ -49,7 +51,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 2
 
-### Zusammenarbeit auf dem Gebiet der diplomatischen Beziehungen
+**Zusammenarbeit auf dem Gebiet der diplomatischen Beziehungen**
+
+### Art. 2
 
 (1) Die Parteien vereinbaren, dass einige der im Wiener Übereinkommen vom 18. April 1961 über diplomatische Beziehungen festgelegten Aufgaben von ihnen auch gemeinsam versehen werden können und werden sich gegebenenfalls darüber verständigen.
 
@@ -57,7 +61,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 3
 
-### Zusammenarbeit auf dem Gebiet der konsularischen Beziehungen
+**Zusammenarbeit auf dem Gebiet der konsularischen Beziehungen**
+
+### Art. 3
 
 (1) Die Parteien vereinbaren, dass einige der im Wiener Übereinkommen vom 24. April 1963 über konsularische Beziehungen sowie im Konsularvertrag zwischen der Republik Österreich und der Ungarischen Volksrepublik vom 25. Februar 1975 (im Folgenden: Konsularvertrag) festgelegten Aufgaben von ihnen auch gemeinsam versehen werden können und werden sich gegebenenfalls darüber verständigen.
 
@@ -65,7 +71,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 4
 
-### Zusammenarbeit auf dem Gebiet der ständigen und vorläufigen Unterbringung an den Auslandsvertretungen
+**Zusammenarbeit auf dem Gebiet der ständigen und vorläufigen Unterbringung an den Auslandsvertretungen**
+
+### Art. 4
 
 (1) Die Parteien können vereinbaren, dass die in einem Drittstaat über eine diplomatische oder konsularische Vertretung verfügende Partei logistische Unterstützung, insbesondere Büros und Kommunikationsmöglichkeiten, für die ständige oder vorläufige Unterbringung und Arbeitsverrichtung der Diplomaten oder Konsularbeamten der anderen Partei zur Verfügung stellt. Eine Kolokation ist durch gesonderte Vereinbarung zu regeln.
 
@@ -73,7 +81,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 5
 
-### Zusammenarbeit in Krisensituationen
+**Zusammenarbeit in Krisensituationen**
+
+### Art. 5
 
 Die Parteien vereinbaren, dass die in diesem Abkommen bestimmte Zusammenarbeit auch auf die Zusammenarbeit in Krisensituationen, insbesondere Naturkatastrophen und bewaffnete Konflikte, Anwendung findet. Die Zusammenarbeit erstreckt sich insbesondere auf folgende Tätigkeiten:
 
@@ -87,7 +97,9 @@ Die Parteien vereinbaren, dass die in diesem Abkommen bestimmte Zusammenarbeit a
 
 ## Artikel 6
 
-### Schlussbestimmungen
+**Schlussbestimmungen**
+
+### Art. 6
 
 (1) Dieses Abkommen tritt am Tage der Unterzeichnung in Kraft und wird von den Parteien auf unbestimmte Zeit geschlossen.
 

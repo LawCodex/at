@@ -465,7 +465,9 @@ ZU URKUND DESSEN haben die hiezu gehörig Bevollmächtigten der beiden Vertragss
 
 GESCHEHEN zu Laibach, am 1. Oktober 1997, in zweifacher Ausfertigung, jede in deutscher, slowenischer und englischer Sprache, wobei alle Texte gleichermaßen authentisch sind. Im Zweifel ist der englische Text maßgeblich.
 
-### ZUSATZPROTOKOLL
+**ZUSATZPROTOKOLL**
+
+### Anl. 1
 
 Im Zeitpunkt der Unterzeichnung des Protokolls zur Abänderung des am 1. Oktober 1997 in Ljubljana unterzeichneten Abkommens zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen in der Fassung des am 26. September 2006 in Ljubljana unterzeichneten Protokolls, das heute zwischen der Republik Österreich und der Republik Slowenien abgeschlossen wurde, sind die Gefertigten übereingekommen, dass die folgenden Bestimmungen einen integrierenden Bestandteil des Protokolls bilden:
 

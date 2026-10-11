@@ -1,0 +1,117 @@
+---
+title: "Staatsgrenze Österreich - Jugoslawien (Grenzdokumente)"
+identifier: "10000712"
+type: treaty
+ris_type: "Vertrag – Jugoslawien"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 288/1981"
+date: 1979-10-27
+last_amended: 1981-08-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1981/288/P0/NOR11000714"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000712"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Staatsgrenze Österreich - Jugoslawien (Grenzdokumente)
+
+Notenwechsel vom 27. Oktober 1979/3. März 1980 zwischen der Republik Österreich und der Sozialistischen Föderativen Republik Jugoslawien über die Grenzdokumente für die Abschnitte I und IV der gemeinsamen Staatsgrenze samt Anlagen
+
+StF: BGBl. Nr. 288/1981 (NR: GP XV RV 306 AB 489 S. 49. BR: AB 2220 S. 403.)
+
+> **Beachte:** Für die mit einer BGBl. Nr. ausgewiesenen Staaten wurde eine Kopie des Vertrages (einschließlich etwaiger Änderungen) erstellt bzw. die Nichtanwendung angezeigt.
+>
+> Republik Slowenien, BGBl. Nr. 714/1993
+>
+> Republik Kroatien, BGBl. Nr. 474/1996 (keine Weiteranwendung)
+>
+> Bundesrepublik Jugoslawien
+>
+> Bosnien und Herzegowina
+>
+> Ehem. Jugosl. Republik Mazedonien
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+1\. Der Abschluß des Staatsvertrages: Notenwechsel zwischen der Republik Österreich und der Sozialistischen Föderativen Republik Jugoslawien über die Grenzdokumente für die Abschnitte I und IV der gemeinsamen Staatsgrenze, samt Anlagen, der verfassungsändernd ist, wird genehmigt;
+
+2\. Gemäß Art. 49 Abs. 2 B-VG hat der Bundeskanzler unter Mitwirkung der nachfolgend genannten Behörden die im gegenständlichen Abkommen genannten Dokumente dadurch kundzumachen, daß sie für die Dauer der Geltung des Abkommens zur öffentlichen Einsicht während der Amtsstunden aufgelegt werden, und zwar:
+
+a) die Grenzbeschreibung, der Grenzplan und das Koordinatenverzeichnis für den Grenzabschnitt I beim Bundesamt für Eich- und Vermessungswesen, beim Amt der Burgenländischen Landesregierung und beim Vermessungsamt Güssing;
+
+b) die Grenzbeschreibung, der Grenzplan und das Koordinatenverzeichnis für den Grenzabschnitt IV beim Bundesamt für Eich- und Vermessungswesen, beim Amt der Steiermärkischen Landesregierung und beim Vermessungsamt Leibnitz.
+
+## VERBALNOTE
+
+### Art. 1
+
+Die Botschaft der Sozialistischen Föderativen Republik Jugoslawien in Österreich beehrt sich, dem Bundesministerium für Auswärtige Angelegenheiten der Republik Österreich folgendes höflich mitzuteilen:
+
+Die Regierung der Sozialistischen Föderativen Republik Jugoslawien hat die neue Grenzdokumentation für die Grenzabschnitte I und IV der jugoslawisch-österreichischen Staatsgrenze gebilligt. Die Grenzdokumentation wurde bei der 18. Tagung der auf Grund des Art. 21 des Vertrages zwischen der Sozialistischen Föderativen Republik Jugoslawien und der Republik Österreich über die gemeinsame Staatsgrenze vom 8. April 1965 \*1), in der Fassung des Vertrages vom 29. Oktober 1975 \*\*), gebildeten Ständigen Gemischten Kommission akzeptiert. Die Tagung fand vom 7. Juni bis 14. Juni 1978 in Marburg statt.
+
+Die Regierung der Sozialistischen Föderativen Republik Jugoslawien schlägt vor, daß die im Art. 1 des angeführten Vertrages festgelegte jugoslawisch-österreichische Grenze bei den Grenzabschnitten I und IV in Zukunft von der bei der 18. Tagung der Kommission akzeptierten Grenzdokumentation bestimmt wird und zwar:
+
+Grenzbeschreibung für den Grenzabschnitt I
+
+Grenzplan für den Grenzabschnitt I
+
+Koordinatenverzeichnis für den Grenzabschnitt I
+
+Grenzbeschreibung für den Grenzabschnitt IV
+
+Grenzplan für den Grenzabschnitt IV
+
+Koordinatenverzeichnis für den Grenzabschnitt IV
+
+Falls die Republik Österreich mit diesem Vorschlag einverstanden ist, schlägt die Regierung der Sozialistischen Föderativen Republik Jugoslawien vor, daß diese Verbalnote und die Antwort der Republik Österreich auf diese Verbalnote ein Abkommen zwischen der Sozialistischen Föderativen Republik Jugoslawien und der Republik Österreich bilden. Dieses Abkommen tritt am ersten Tag des dritten Monats in Kraft, der auf den Monat folgt, in dem beide Staaten einander schriftlich auf diplomatischem Wege mitgeteilt haben, daß die innerstaatlichen Voraussetzungen für das Inkrafttreten gegeben sind.
+
+Die Botschaft der Sozialistischen Föderativen Republik Jugoslawien benützt diese Gelegenheit, dem Bundesministerium für Auswärtige Angelegenheiten die Versicherung ihrer vorzüglichen Hochachtung zu erneuern.
+
+<table>
+<tr>
+<td>Wien am 27. Oktober 1979</td>
+</tr>
+</table>
+
+An das
+
+Bundesministerium für Auswärtige Angelegenheiten
+
+**Wien**
+
+**VERBALNOTE**
+
+Das Bundesministerium für Auswärtige Angelegenheiten beehrt sich, den Empfang der Verbalnote der Botschaft der Sozialistischen Föderativen Republik Jugoslawien in Österreich vom 27. Oktober 1979 zu bestätigen, die folgenden Wortlaut hat:
+
+\*(Anm.: wie oben)*
+
+Das Bundesministerium für Auswärtige Angelegenheiten beehrt sich, der Botschaft der Sozialistischen Föderativen Republik Jugoslawien in Österreich mitzuteilen, daß die Republik Österreich damit einverstanden ist, daß die Verbalnote der Botschaft der Sozialistischen Föderativen Republik Jugoslawien in Österreich vom 27. Oktober 1979 und diese Antwortnote ein Abkommen zwischen der Republik Österreich und der Sozialistischen Föderativen Republik Jugoslawien bilden, das am 1. Tag des dritten Monats in Kraft tritt, der auf dem Monat folgt, in dem beide Staaten einander schriftlich auf diplomatischem Weg mitgeteilt haben, daß die innerstaatlichen Voraussetzungen für das Inkrafttreten gegeben sind.
+
+Das Bundesministerium für Auswärtige Angelegenheiten benützt diese Gelegenheit, der Botschaft der Sozialistischen Föderativen Republik Jugoslawien in Österreich die Versicherung seiner vorzüglichen Hochachtung zu erneuern.
+
+<table>
+<tr>
+<td>Wien, am 3. März 1980</td>
+</tr>
+</table>
+
+An die
+
+Botschaft der Sozialistischen Föderativen Republik Jugoslawien
+
+**Wien**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\*) Kundgemacht in BGBl. Nr. 229/1966
+
+\*\*) Kundgemacht in BGBl. Nr. 585/1976
+
+## Ratifikationstext
+
+Die Ermächtigung zur Abgabe der im vorletzten Absatz der Verbalnoten vorgesehenen Mitteilung wurde vom Bundespräsidenten unterzeichnet und vom Bundeskanzler gegengezeichnet; das Abkommen tritt gemäß derselben Bestimmung am 1. August 1981 in Kraft.

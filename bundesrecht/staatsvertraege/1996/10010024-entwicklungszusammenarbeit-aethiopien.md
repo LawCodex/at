@@ -65,7 +65,9 @@ Die Zusammenarbeit zwischen der österreichischen Bundesregierung und der äthio
 
 ### Artikel 3
 
-#### Die Aufgaben der Fachkräfte
+**Die Aufgaben der Fachkräfte**
+
+#### Art. 3
 
 1\. Die Aufgaben der Fachkräfte innerhalb der speziellen Programme und Projekte werden gegebenenfalls im Rahmen einer in Artikel 1 Absatz 2 genannten Nebenabrede geregelt.
 
@@ -83,7 +85,9 @@ b) keine auf Gewinn gerichtete Tätigkeit ausüben dürfen.
 
 ## Artikel 4
 
-#### Verpflichtungen der österreichischen Regierung
+**Verpflichtungen der österreichischen Regierung**
+
+#### Art. 4
 
 Im Zusammenhang mit der Entsendung österreichischer Fachkräfte verpflichtet sich die österreichische Seite
 
@@ -99,7 +103,9 @@ Im Zusammenhang mit der Entsendung österreichischer Fachkräfte verpflichtet si
 
 ## Artikel 5
 
-#### Verpflichtungen der äthiopischen Regierung
+**Verpflichtungen der äthiopischen Regierung**
+
+#### Art. 5
 
 Die äthiopische Seite verpflichtet sich gegenüber den österreichischen Fachkräften zur
 
@@ -125,7 +131,9 @@ Die äthiopische Seite verpflichtet sich gegenüber den österreichischen Fachkr
 
 ## Artikel 6
 
-#### Verpflichtungen der äthiopischen Regierung
+**Verpflichtungen der äthiopischen Regierung**
+
+#### Art. 6
 
 1\. Die äthiopische Regierung verpflichtet sich:
 
@@ -153,7 +161,9 @@ Material, Ausrüstungsgegenstände und Fahrzeuge, die zur Umsetzung der in Artik
 
 ## Artikel 9
 
-#### Finanzen &amp; Ressourcen
+**Finanzen &amp; Ressourcen**
+
+#### Art. 9
 
 1\. Die österreichische Bundesregierung stellt Äthiopien finanzielle Mittel gemäß den nach Artikel 1 Absatz 2 zu vereinbarenden Bestimmungen und Bedingungen zur Verfügung.
 

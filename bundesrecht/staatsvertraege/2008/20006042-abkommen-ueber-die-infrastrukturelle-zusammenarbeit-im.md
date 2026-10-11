@@ -41,7 +41,9 @@ sind wie folgt übereingekommen:
 
 <sup>1</sup>) Kundgemacht in BGBl. III Nr. 211/1999.
 
-## <u>Artikel 1</u>
+**<u>Artikel 1</u>**
+
+## Art. 1
 
 (1) Die österreichisch-indische infrastrukturelle Zusammenarbeit im Bereich Gesundheitseinrichtungen dient der Umsetzung des Abkommens zwischen der Österreichischen Bundesregierung und der Regierung der Republik Indien. Eines ihrer Hauptziele besteht in der Verbesserung und dem Ausbau der indischen Einrichtungen auf dem Sektor des Gesundheitswesens. Sie bezieht sich auf:
 
@@ -53,7 +55,9 @@ sind wie folgt übereingekommen:
 
 (2) Die Projekte, auf die sich die infrastrukturelle Zusammenarbeit bezieht, werden jährlich zwischen den gemäß Artikel 3 bestimmten Projektverantwortlichen einvernehmlich festgelegt und als Annex dem vorliegenden Abkommen beigeschlossen.
 
-## <u>Artikel 2</u>
+**<u>Artikel 2</u>**
+
+## Art. 2
 
 Zu den allgemeinen Modalitäten und Bereichen der infrastrukturellen Zusammenarbeit zählen insbesondere die Folgenden:
 
@@ -83,7 +87,9 @@ Zu den allgemeinen Modalitäten und Bereichen der infrastrukturellen Zusammenarb
 
 13\. Schulung und Weiterbildung von Krankenhauspersonal im Rahmen von Projekten, die von diesem Abkommen umfasst sind.
 
-## <u>Artikel 3</u>
+**<u>Artikel 3</u>**
+
+## Art. 3
 
 (1) Zur Umsetzung der österreichisch-indischen infrastrukturellen Zusammenarbeit im Bereich Gesundheitseinrichtungen setzt die indische Seite das Ministerium für Gesundheit und Familie ein.
 
@@ -93,7 +99,9 @@ Zu den allgemeinen Modalitäten und Bereichen der infrastrukturellen Zusammenarb
 
 (4) Die zuständige Institution zur Behandlung aller Fragen im Zusammenhang mit der Umsetzung des vorliegenden Abkommens ist die Gemeinsame Arbeitsgruppe gemäß Artikel 5 Absatz (3).
 
-## <u>Artikel 4</u>
+**<u>Artikel 4</u>**
+
+## Art. 4
 
 (1) Die Vertragsparteien vereinbaren, dass jedes Projekt, das im Rahmen dieses Abkommens umgesetzt wird, Gegenstand eines separat abzuschließenden Vertrages sein wird.
 
@@ -107,7 +115,9 @@ Zu den allgemeinen Modalitäten und Bereichen der infrastrukturellen Zusammenarb
 
 (3) Die Vertragsparteien kommen überein, eine Gemeinsame Arbeitsgruppe einzusetzen, die jährlich alternierend in der Republik Österreich beziehungsweise in der Republik Indien sowie in Bedarfsfalle auf begründetes Verlangen einer der beiden Vertragsparteien zusammentrifft. In dieser Gemeinsamen Arbeitsgruppe sind gemäß Artikel 3 Absatz (1) von indischer Seite das Ministerium für Gesundheit und Familie zur Umsetzung der österreichisch-indischen infrastrukturellen Zusammenarbeit im Bereich Gesundheitseinrichtungen und von österreichischer Seite neben dem Bundesministerium für Wirtschaft und Arbeit die AHC Austrian Health Care Systems &amp; Engineering GmbH in ihrer Funktion als österreichischer Projektkoordinator im Sinne des Artikel 3 Absatz (2) vertreten.
 
-## <u>Artikel 6</u>
+**<u>Artikel 6</u>**
+
+## Art. 6
 
 Dieses Abkommen tritt mit dem ersten Tag des dritten Monats nach seiner Unterzeichnung in Kraft.
 

@@ -1,0 +1,82 @@
+---
+title: "Rechtshilfe in Strafsachen (Vereinigtes Königreich)"
+identifier: "20003616"
+type: treaty
+ris_type: "Vertrag – Vereinigtes Königreich"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 107/2004"
+last_amended: 2004-02-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2004/107/P0/NOR30003932"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003616"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Rechtshilfe in Strafsachen (Vereinigtes Königreich)
+
+Vereinbarung zwischen der Republik Österreich und dem Vereinigten Königreich Großbritannien und Nordirland über die Ausdehnung des Anwendungsbereiches des Europäischen Übereinkommens über die Rechtshilfe in Strafsachen auf die Ballei Guernsey
+
+StF: BGBl. III Nr. 107/2004 (NR: GP XXII RV 55 AB 215 S. 32. BR: AB 6869 S. 701.)
+
+## Art. 1
+
+**(Übersetzung)**
+
+**Vereinigtes Königreich**
+
+**Ständige Vertretung beim Europarat**
+
+26\. September 2002
+
+Hr. Walter Schwimmer
+
+Generalsekretär
+
+Europarat
+
+**Sehr geehrter Herr Generalsekretär,**
+
+Ich habe die Ehre, mich auf das Europäische Übereinkommen über die Rechtshilfe in Strafsachen<sup>1</sup> (“Übereinkommen”), angenommen in Straßburg am 20. April 1959, zu beziehen und vorzuschlagen, dass in Übereinstimmung mit Artikel 25 Absatz 5 des Übereinkommens der Anwendungsbereich dieses Übereinkommens auf die Ballei Guernsey, für deren internationale Beziehungen das Vereinigte Königreich verantwortlich ist, ausgedehnt wird (diese Ausdehnung würde sich nicht auf das Zusatzprotokoll von 1978 beziehen).
+
+Zwecks Einhaltung der Vorschriften des Artikels 25 Absatz 5 ersuche ich Sie, diese Note allen anderen Vertragsparteien mit dem Verständnis weiterzuleiten, dass, wenn nicht innerhalb von 90 Tagen ab dem Datum der Weiterleitung mit einer Note ein Einspruch erhoben wird, eine Vereinbarung im Sinne von Artikel 25 Absatz 5 zwischen dem Vereinigten Königreich und den anderen Vertragsstaaten als geschlossen gilt.
+
+Für die Zwecke des Kapitels V des Übereinkommens ist die Justizbehörde für die Ballei Guernsey:
+
+Adresse: HM Generalstaatsanwalt, St. James\` Chambers, St. Peter Port, Guernsey GY1 2PA.
+
+Tel.: 44(0) 14 81.72 33 55
+
+Fax: 44(0) 14 81.72 54 39
+
+E-Mail: law@gov.gg
+
+Webseite: www.gov/gg/law
+
+Ich erlaube mir, diese Gelegenheit zu benützen, um Sie meiner größten Hochachtung zu versichern.
+
+**Andrew Carter**
+
+\**(Übersetzung)**
+
+Die Republik Österreich teilt unter Bezugnahme auf die Note der Generaldirektion für rechtliche Angelegenheiten vom 21. Oktober 2002, Zl. JJ5317C, Tr./30-72, mit, dass die Republik Österreich der Ausdehnung des Anwendungsbereichs des Europäischen Übereinkommens über die Rechtshilfe in Strafsachen auf die Ballei Guernsey zustimmt.
+
+Die Note des Vereinigten Königreich Großbritannien und Nordirland und diese Note stellen eine Vereinbarung im Sinne des Artikels 25 Abs. 5 des Europäischen Übereinkommens über die Rechtshilfe in Strafsachen dar, die am ersten Tag des zweiten Monats ab dem Tag des Eintreffens dieser Note bei der Generaldirektion für rechtliche Angelegenheiten in Kraft tritt.
+
+Mit dieser Note wird der mit der Note der Österreichischen Vertretung, GZ 8.2.29/6-2002 vom 20. November 2002, erhobene Einspruch zurückgezogen.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup>) Kundgemacht in BGBl. Nr. 41/1969
+
+## Ratifikationstext
+
+Der Generalsekretär des Europarates hat den Empfang der Note des Bundesministeriums für auswärtige Angelegenheiten am 15. Dezember 2003 bestätigt; die Vereinbarung ist gemäß ihren Bestimmungen am 1. Februar 2004 in Kraft getreten.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluss des nachstehenden Staatsvertrages wird genehmigt.

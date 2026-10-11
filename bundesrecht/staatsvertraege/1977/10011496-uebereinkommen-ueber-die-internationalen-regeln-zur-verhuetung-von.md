@@ -1,0 +1,158 @@
+---
+title: "Übereinkommen über die internationalen Regeln zur Verhütung von Zusammenstößen auf See"
+identifier: "10011496"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 529/1977"
+last_amended: 1977-07-15
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1977/529/P0/NOR11011761"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011496"
+retrieved: 2026-10-11
+documents: 10
+---
+
+# Übereinkommen über die internationalen Regeln zur Verhütung von Zusammenstößen auf See
+
+Übereinkommen von 1972 über die internationalen Regeln zur Verhütung von Zusammenstößen auf See samt Anlagen
+
+StF: BGBl. Nr. 529/1977 (NR: GP XIV RV 367 AB 478 S. 52. BR: AB 1640 S. 361.)
+
+**Unterzeichnungsdatum:** 20.10.1972
+
+**Sprachen:** Englisch, Französisch
+
+## Präambel/Promulgationsklausel
+
+Die Vertragsparteien dieses Übereinkommens –
+
+IN DEM WUNSCH, die Sicherheit auf See auf einem hohen Stand zu erhalten,
+
+IN ERKENNTNIS der Notwendigkeit, die der Schlußakte der Internationalen Konferenz von 1960 zum Schutz des menschlichen Lebens auf See als Anlage beigefügten Internationalen Regeln zur Verhütung von Zusammenstößen auf See \*) zu revidieren und auf den neuesten Stand zu bringen,
+
+NACH ÜBERPRÜFUNG jener Regeln im Hinblick auf die seit ihrer Billigung eingetretene Entwicklung –
+
+SIND wie folgt ÜBEREINGEKOMMEN:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\*) Kundgemacht in BGBl. Nr. 380/1972
+
+## Artikel I
+
+### Art. 1 – Allgemeine Verpflichtungen
+
+Die Vertragsparteien dieses Übereinkommens verpflichten sich, den Regeln und sonstigen Anlagen, welche die Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See (im folgenden als „Regeln“ bezeichnet) bilden und diesem Übereinkommen beigefügt sind, Wirksamkeit zu verleihen.
+
+## Artikel II
+
+### Art. 2 – Unterzeichnung, Ratifikation, Annahme, Genehmigung und Beitritt
+
+(1) Dieses Übereinkommen liegt bis zum 1. Juni 1973 zur Unterzeichnung und danach zum Beitritt auf.
+
+(2) Mitgliedstaaten der Vereinten Nationen, einer ihrer Sonderorganisationen oder der Internationalen Atomenergie-Organisation sowie Vertragsparteien des Statuts des Internationalen Gerichtshofs können Vertragsparteien dieses Übereinkommens werden,
+
+a) indem sie es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnen,
+
+b) indem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterzeichnen und später ratifizieren, annehmen oder genehmigen oder
+
+c) indem sie ihm beitreten.
+
+(3) Die Ratifikation, die Annahme, die Genehmigung oder der Beitritt erfolgt durch Hinterlegung einer Urkunde bei der Zwischenstaatlichen Beratenden Seeschiffahrts-Organisation (im folgenden als „Organisation“ bezeichnet); diese teilt den Regierungen der Staaten, die dieses Übereinkommen unterzeichnet haben oder ihm beigetreten sind, die Hinterlegung jeder Urkunde und den Zeitpunkt ihrer Hinterlegung mit.
+
+## Artikel III
+
+### Art. 3 – Räumlicher Geltungsbereich
+
+(1) Die Vereinten Nationen, soweit sie Verwaltungsmacht eines Hoheitsgebiets sind, oder jede für die internationalen Beziehungen eines Hoheitsgebiets verantwortliche Vertragspartei kann dieses Übereinkommen jederzeit durch eine an den Generalsekretär der Organisation (im folgenden als „Generalsekretär“ bezeichnet) gerichtete schriftliche Notifikation auf das betreffende Hoheitsgebiet erstrecken.
+
+(2) Dieses Übereinkommen wird auf das in der Notifikation bezeichnete Hoheitsgebiet vom Tag des Eingangs dieser Notifikation oder von einem anderen darin angegebenen Tag an erstreckt.
+
+(3) Jede nach Absatz 1 übermittelte Notifikation kann in bezug auf ein darin genanntes Hoheitsgebiet zurückgenommen werden; dieses Übereinkommen wird nach Ablauf eines Jahres oder eines längeren bei der Zurücknahme angegebenen Zeitabschnitts nicht mehr auf das betreffende Hoheitsgebiet erstreckt.
+
+(4) Der Generalsekretär unterrichtet alle Vertragsparteien von jeder nach diesem Artikel übermittelten Notifikation einer Erstreckung oder ihrer Zurücknahme.
+
+## Artikel IV
+
+### Art. 4 – Inkrafttreten
+
+(1) a) Dieses Übereinkommen tritt zwölf Monate nach dem Tag in Kraft, an dem mindestens 15 Staaten, die nach Anzahl oder Raumgehalt mindestens 65 v. H. der Welthandelsflotte von Fahrzeugen mit einem Bruttoraumgehalt von 100 und mehr RT besitzen, Vertragsparteien des Übereinkommens geworden sind, je nachdem, welcher Fall zuerst eintritt.
+
+b) Ungeachtet des Buchstabens a tritt dieses Übereinkommen nicht vor dem 1. Januar 1976 in Kraft.
+
+(2) Dieses Übereinkommen tritt für Staaten, die es gemäß Artikel II vor seinem Inkrafttreten ratifizieren, annehmen, genehmigen oder ihm beitreten, nachdem die Voraussetzungen des Absatzes 1 Buchstabe a erfüllt sind, am Tag seines Inkrafttretens in Kraft.
+
+(3) Für Staaten, die dieses Übereinkommen nach seinem Inkrafttreten ratifizieren, annehmen, genehmigen oder ihm beitreten, tritt es am Tag der Hinterlegung einer Urkunde gemäß Artikel II in Kraft.
+
+(4) Nach dem Tag des Inkrafttretens einer Änderung dieses Übereinkommens gemäß Artikel VI Absatz 4 gilt jede Ratifikation, Annahme, Genehmigung oder jeder Beitritt für das Übereinkommen in seiner geänderten Fassung.
+
+(5) Am Tag des Inkrafttretens dieses Übereinkommens ersetzen die Regeln die Internationalen Regeln von 1960 zur Verhütung von Zusammenstößen auf See und setzen diese außer Kraft.
+
+(6) Der Generalsekretär teilt den Regierungen der Staaten, die dieses Übereinkommen unterzeichnet haben oder ihm beigetreten sind, den Tag seines Inkrafttretens mit.
+
+## Artikel V
+
+### Art. 5 – Revisionskonferenz
+
+(1) Die Organisation kann eine Konferenz zur Revision dieses Übereinkommens oder der Regeln oder beider einberufen.
+
+(2) Die Organisation hat eine Konferenz der Vertragsparteien zur Revision dieses Übereinkommens oder der Regeln oder beider einzuberufen, wenn mindestens ein Drittel der Vertragsparteien dies beantragt.
+
+## Artikel VI
+
+### Art. 6 – Änderungen der Regeln
+
+(1) Auf Antrag einer Vertragspartei wird jede von ihr vorgeschlagene Änderung durch die Organisation geprüft.
+
+(2) Nimmt der Schiffssicherheitsausschuß der Organisation die Änderung mit Zweidrittelmehrheit der anwesenden und abstimmenden Mitglieder an, so wird die Änderung allen Vertragsparteien und allen Mitgliedern der Organisation mindestens sechs Monate vor dem Zeitpunkt mitgeteilt, zu dem sie von der Versammlung der Organisation geprüft wird. Jede Vertragspartei, die nicht Mitglied der Organisation ist, hat das Recht, an der Beratung der Änderung durch die Versammlung teilzunehmen.
+
+(3) Nimmt die Versammlung die Änderung mit Zweidrittelmehrheit der anwesenden und abstimmenden Mitglieder an, so wird die Änderung vom Generalsekretär allen Vertragsparteien zur Annahme übermittelt.
+
+(4) Die Änderung tritt an dem Tag in Kraft, den die Versammlung bei der Beschlußfassung bestimmt, sofern nicht zu einem von der Versammlung gleichzeitig bestimmten früheren Zeitpunkt mehr als ein Drittel der Vertragsparteien bei der Organisation Einspruch gegen die Änderung erhebt. Die in diesem Absatz genannten Zeitpunkte werden von der Versammlung mit Zweidrittelmehrheit der anwesenden und abstimmenden Mitglieder bestimmt.
+
+(5) Mit dem Inkrafttreten einer Änderung wird für alle Vertragsparteien, die keinen Einspruch gegen die Änderung erhoben haben, die frühere Vorschrift, auf die sich die Änderung bezieht, ersetzt und aufgehoben.
+
+(6) Der Generalsekretär unterrichtet alle Vertragsparteien und Mitglieder der Organisation von jedem Antrag und jeder Mitteilung nach diesem Artikel sowie vom Tag des Inkrafttretens jeder Änderung.
+
+## Artikel VII
+
+### Art. 7 – Kündigung
+
+(1) Jede Vertragspartei kann dieses Übereinkommen nach Ablauf von fünf Jahren, nachdem es für sie in Kraft getreten ist, jederzeit kündigen.
+
+(2) Die Kündigung erfolgt durch Hinterlegung einer Urkunde bei der Organisation. Der Generalsekretär unterrichtet alle anderen Vertragsparteien vom Eingang der Kündigungsurkunde sowie vom Tag ihrer Hinterlegung.
+
+(3) Die Kündigung wird ein Jahr nach dem Tag, an dem die Urkunde hinterlegt wird, oder nach Ablauf eines längeren, in der Urkunde bezeichneten Zeitabschnitts wirksam.
+
+## Artikel VIII
+
+### Art. 8 – Hinterlegung und Registrierung
+
+(1) Dieses Übereinkommen und die Regeln werden bei der Organisation hinterlegt; der Generalsekretär übermittelt den Regierungen aller Staaten, die das Übereinkommen unterzeichnet haben oder ihm beigetreten sind, beglaubigte Abschriften.
+
+(2) Sobald dieses Übereinkommen in Kraft tritt, übermittelt der Generalsekretär dem Sekretariat der Vereinten Nationen den Wortlaut zur Registrierung und Veröffentlichung nach Artikel 102 der Satzung der Vereinten Nationen.
+
+## Artikel IX
+
+### Art. 9 – Sprachen
+
+Dieses Übereinkommen und die Regeln sind in einer Urschrift in englischer und französischer Sprache abgefaßt, wobei jeder Wortlaut gleichermaßen authentisch ist. Amtliche Übersetzungen in russischer und spanischer Sprache werden angefertigt und mit der unterzeichneten Urschrift hinterlegt.
+
+ZU URKUND DESSEN haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterzeichnet.
+
+GESCHEHEN zu London am 20. Oktober 1972.
+
+## Ratifikationstext
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Beitrittsurkunde wurde am 8. Juni 1977 bei der Zwischenstaatlichen Beratenden Seeschiffahrts-Organisation hinterlegt; das Übereinkommen ist gemäß seinem Art. IV Abs. 2 am 15. Juli 1977 in Kraft getreten.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+1\. Der Abschluß des nachstehenden Staatsvertrages wird genehmigt.
+
+2\. Dieser Staatsvertrag ist im Sinne des Art. 50 Abs. 2 Bundes-Verfassungsgesetz durch Erlassung von Gesetzen zu erfüllen.

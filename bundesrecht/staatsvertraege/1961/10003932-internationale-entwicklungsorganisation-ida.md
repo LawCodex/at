@@ -66,7 +66,9 @@ Die Organisation wird sich bei allen ihren Beschlüssen. von den Bestimmungen di
 
 ### Mitgliedschaft; Erstzeichnungen
 
-#### ABSCHNITT 1 – Mitgliedschaft
+**ABSCHNITT 1**
+
+#### Art. 2 – Mitgliedschaft
 
 (a) Gründungsmitglieder der Organisation sind diejenigen im Verzeichnis A aufgeführten Mitglieder der Bank, die bis zu dem in Artikel XI Abschnitt 2 Buchstabe (c) festgesetzten Zeitpunkt die Mitgliedschaft in der Organisation annehmen.
 
@@ -108,7 +110,9 @@ Kein Mitglied haftet auf Grund seiner Mitgliedschaft für die Verbindlichkeiten 
 
 ### Zusätzliche Mittel
 
-#### ABSCHNITT 1 – Zusatzzeichnungen
+**ABSCHNITT 1**
+
+#### Art. 3 – Zusatzzeichnungen
 
 (a) Die Organisation überprüft, sobald es ihr nach dem Plan für die Leistung von Zahlungen auf Grund der Erstzeichnungen der Gründungsmitglieder angebracht erscheint, und anschließend in Abständen von etwa fünf Jahren, die Zulänglichkeit ihrer Mittel und genehmigt, wenn es ihr wünschenswert erscheint eine allgemeine Erhöhung der Zeichnungsbeträge. Ungeachtet der vorstehenden Bestimmung können allgemeine oder individuelle Erhöhungen von Zeichnungsbeträgen jederzeit genehmigt werden; eine individuelle Erhöhung kann jedoch nur auf Verlangen des betreffenden Mitglieds in Betracht gezogen. werden. Zeichnungen gemäß diesem Abschnitt werden in diesem Abkommen Zusatzzeichnungen genannt.
 
@@ -132,7 +136,9 @@ Kein Mitglied haftet auf Grund seiner Mitgliedschaft für die Verbindlichkeiten 
 
 ### Währungen
 
-#### ABSCHNITT 1 – Verwendung von Währungen
+**ABSCHNITT 1**
+
+#### Art. 4 – Verwendung von Währungen
 
 (a) Die Beträge, gleichviel ob in frei oder nicht frei konvertierbarer Währung, welche die Organisation gemäß Artikel XI Abschnitt 2 Buchstabe (d) von einem im Verzeichnis A Teil II genannten Mitglied als Zahlung auf den in Landeswährung zu leistenden neunzigprozentigen Teilbetrag der Zeichnung erhalten hat, sowie die Beträge, welche hieraus als Kapitalrückzahlung, Zinsen oder sonstige Gebühren in dieser Landeswährung anfallen, kann die Organisation für ihre Verwaltungsausgaben in den Hoheitsgebieten des betreffenden Mitglieds verwenden; soweit es mit einer gesunden Währungspolitik vereinbar ist, kann sie diese Beträge auch zur Bezahlung von in den Hoheitsgebieten dieses Mitglieds hergestellten Waren und dort erbrachten Dienstleistungen verwenden, die für Vorhaben benötigt werden, welche die Organisation in diesen Hoheitsgebieten finanziert; außerdem können diese Beträge für Vorhaben, welche die Organisation außerhalb der Hoheitsgebiete des Mitglieds finanziert, frei konvertiert oder in sonstiger Weise verwendet werden, wenn und soweit die wirtschaftliche und finanzielle Lage des betreffenden Mitglieds laut gemeinsamer Feststellung des Mitglieds und der Organisation dies rechtfertigt.
 
@@ -160,7 +166,9 @@ Kein Mitglied haftet auf Grund seiner Mitgliedschaft für die Verbindlichkeiten 
 
 ### Geschäftstätigkeit
 
-#### ABSCHNITT 1 – Verwendung der Mittel und Finanzierungsbedingungen
+**ABSCHNITT 1**
+
+#### Art. 5 – Verwendung der Mittel und Finanzierungsbedingungen
 
 (a) Die Organisation stellt zur Förderung der Entwicklung in den in die Mitgliedschaft einbezogenen Entwicklungsgebieten der Welt Finanzierungsmittel bereit.
 
@@ -236,7 +244,9 @@ Die Organisation und ihre leitenden Angestellten dürfen sich weder in die polit
 
 ### Organisation und Geschäftsführung
 
-#### ABSCHNITT 1 – Aufbau der Organisation
+**ABSCHNITT 1**
+
+#### Art. 6 – Aufbau der Organisation
 
 Die Organisation besitzt einen Gouverneursrat, Direktoren, einen Präsidenten und leitende Angestellte sowie sonstiges Personal zur Durchführung der von der Organisation bestimmten Aufgaben.
 
@@ -368,7 +378,9 @@ Der Gouverneursrat entscheidet von Zeit zu Zeit, wie die Reineinnahmen der Organ
 
 ### Austritt; Suspendierung der Mitgliedschaft; Einstellung der Geschäftstätigkeit
 
-#### ABSCHNITT 1 – Austritt von Mitgliedern
+**ABSCHNITT 1**
+
+#### Art. 7 – Austritt von Mitgliedern
 
 Ein Mitglied kann jederzeit durch Übermittlung einer schriftlichen Anzeige an die Hauptgeschäftsstelle der Organisation aus der Organisation austreten. Der Austritt wird mit, dem Zeitpunkt des Eingangs dieser Anzeige wirksam.
 
@@ -426,7 +438,9 @@ Die Suspendierung oder das Erlöschen einer Mitgliedschaft bei der Bank hat für
 
 ### Rechtsstellung, Immunitätsrechte und Privilegien
 
-#### ABSCHNITT 1 – Zweck des Artikels
+**ABSCHNITT 1**
+
+#### Art. 8 – Zweck des Artikels
 
 Um der Organisation die Erfüllung der ihr übertragenen Aufgaben zu ermöglichen, sind ihr in den Hoheitsgebieten eines jeden Mitglieds die Rechtsstellung, die Immunitätsrechte und Privilegien, wie sie in diesem Artikel näher bezeichnet sind, einzuräumen.
 
@@ -536,7 +550,9 @@ Jedes Mitglied hat diejenigen Maßnahmen zu treffen, die in seinen Hoheitsgebiet
 
 ### Schlußbestimmungen
 
-#### ABSCHNITT 1 – Inkrafttreten
+**ABSCHNITT 1**
+
+#### Art. 11 – Inkrafttreten
 
 Dieses Abkommen tritt in Kraft, sobald es im Namen von Regierungen, deren Zeichnungen mindestens 65 Prozent der im Verzeichnis A genannten Gesamtsumme der Zeichnungen ausmachen, unterzeichnet ist und sobald die in Abschnitt 2 Buchstabe (a) bezeichneten Urkunden in ihrem Namen hinterlegt werden sind; keinesfalls tritt es jedoch vor dem 15. September 1960 in Kraft.
 
@@ -580,7 +596,9 @@ GESCHEHEN zu Washington in einer Urschrift, die im Archiv der Internationalen Ba
 
 ### ERSTZEICHNUNGEN
 
-#### (in Millionen US-$) \*) – TEIL I
+**(in Millionen US-$) \*)**
+
+#### Anl. 1 – TEIL I
 
 | Australien | 20.18 |
 |---|---|

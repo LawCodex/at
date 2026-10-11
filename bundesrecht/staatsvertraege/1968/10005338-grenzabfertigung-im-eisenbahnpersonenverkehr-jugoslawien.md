@@ -65,7 +65,9 @@ b) die österreichische Grenzabfertigung in Reisezügen aus Jugoslawien im Bahnh
 
 ## Artikel 2
 
-#### Im Sinne dieses Abkommens bedeuten die nachstehenden Begriffe:
+**Im Sinne dieses Abkommens bedeuten die nachstehenden Begriffe:**
+
+#### Art. 2
 
 1\. „Grenzabfertigung“ die Durchführung der Vorschriften der Vertragsstaaten, die aus Anlaß des Grenzüberganges von Personen, Hand- und Reisegepäck, Tieren, Expreß- und Eilgut anzuwenden sind;
 

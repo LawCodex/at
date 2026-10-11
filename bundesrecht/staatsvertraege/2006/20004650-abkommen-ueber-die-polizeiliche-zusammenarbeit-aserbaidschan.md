@@ -39,7 +39,9 @@ unter Berücksichtigung des am 12. April 2000 unterzeichneten Memorandums zur Ve
 
 ## Artikel 1
 
-### Bereiche und Ziel der Zusammenarbeit
+**Bereiche und Ziel der Zusammenarbeit**
+
+### Art. 1
 
 (1) Die Parteien verpflichten sich, nach Maßgabe ihres jeweiligen nationalen Rechts bei der Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung sowie bei der Verhütung und der Aufklärung von strafbaren Handlungen zusammenzuarbeiten und Amtshilfe zu leisten. Diese Zusammenarbeit im Rahmen des Zuständigkeitsbereiches der Parteien umfasst insbesondere folgende Bereiche:
 
@@ -53,7 +55,9 @@ unter Berücksichtigung des am 12. April 2000 unterzeichneten Memorandums zur Ve
 
 ## Artikel 2
 
-### Formen der Zusammenarbeit
+**Formen der Zusammenarbeit**
+
+### Art. 2
 
 (1) Die Zusammenarbeit zwischen den Parteien im Sinne dieses Abkommens erfolgt nach Maßgabe ihres jeweiligen nationalen Rechts und umfasst insbesondere
 
@@ -73,7 +77,9 @@ unter Berücksichtigung des am 12. April 2000 unterzeichneten Memorandums zur Ve
 
 ## Artikel 3
 
-### Zuständige Behörden
+**Zuständige Behörden**
+
+### Art. 3
 
 (1) Die Parteien informieren einander über jene Behörden, die nach dem jeweiligen nationalen Recht für die Zusammenarbeit im Sinne dieses Abkommens zuständig sind. Sie teilen einander weiters eintretende Änderungen der Zuständigkeit oder der Bezeichnung dieser Behörden mit.
 
@@ -81,7 +87,9 @@ unter Berücksichtigung des am 12. April 2000 unterzeichneten Memorandums zur Ve
 
 ## Artikel 4
 
-### Datenschutz
+**Datenschutz**
+
+### Art. 4
 
 (1) Die wechselseitige Übermittlung personenbezogener Daten zwischen den Parteien erfolgt nach Maßgabe des jeweiligen nationalen Rechts unter Beachtung der von der übermittelnden Behörde erteilten Auflagen und nach Maßgabe folgender Grundsätze, welche gleichermaßen auf automationsunterstützt oder nicht automationsunterstützt verarbeitete Daten Anwendung finden:
 
@@ -117,13 +125,17 @@ c) die Daten nicht mehr zur Erfüllung der für die Übermittlung maßgeblichen 
 
 ## Artikel 5
 
-### Konsultationen
+**Konsultationen**
+
+### Art. 5
 
 Im Bedarfsfall können leitende Beamte der Vertragsparteien Konsultationen führen, um Mittel und Wege zur effektiven Anwendung des vorliegenden Abkommens sowie mögliche Maßnahmen zur Weiterentwicklung und Verbesserung der Zusammenarbeit zu erörtern.
 
 ## Artikel 6
 
-### Ausnahmeregelung
+**Ausnahmeregelung**
+
+### Art. 6
 
 (1) Ist eine Vertragspartei der Ansicht, dass die Erledigung eines Ersuchens oder eine andere Art der Zusammenarbeit geeignet ist, die Souveränität, die Sicherheit, die öffentliche Ordnung oder andere wesentliche Interessen ihres Landes zu beeinträchtigen oder gegen Grundsätze ihrer Rechtsordnung zu verstoßen, so kann sie die Unterstützung ganz oder teilweise verweigern oder von bestimmten Bedingungen abhängig machen.
 
@@ -131,19 +143,25 @@ Im Bedarfsfall können leitende Beamte der Vertragsparteien Konsultationen führ
 
 ## Artikel 7
 
-### Verhältnis zu anderen Regelungen
+**Verhältnis zu anderen Regelungen**
+
+### Art. 7
 
 Durch die Bestimmungen dieses Abkommens werden Rechte und Pflichten der Parteien aus internationalen Verträgen nicht berührt.
 
 ## Artikel 8
 
-### Beilegung von Streitigkeiten
+**Beilegung von Streitigkeiten**
+
+### Art. 8
 
 Streitigkeiten über die Anwendung und Auslegung dieses Abkommens werden durch Verhandlungen zwischen den Zentralstellen der Parteien beigelegt. Die Beilegung von Streitigkeiten kann auch auf diplomatischem Weg erfolgen.
 
 ## Artikel 9
 
-### Inkrafttreten und Kündigung
+**Inkrafttreten und Kündigung**
+
+### Art. 9
 
 (1) Dieses Abkommen tritt am ersten Tag des zweiten Monats in Kraft, der auf den Zeitpunkt folgt, in dem die Vertragsparteien einander mitteilen, dass die jeweiligen erforderlichen innerstaatlichen Voraussetzungen erfüllt sind.
 

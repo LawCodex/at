@@ -54,7 +54,9 @@ BGBl. Nr. 119/1971 (K – Geltungsbereich)
 
 ## Internationales Übereinkommen zur Unterdrückung der Verwendung von weißem (gelbem) Phosphor bei der Streichholzfabrikation; gezeichnet in Bern, am 26. September 1906.
 
-### (Eingangsklauseln.) – Artikel 1.
+**(Eingangsklauseln.)**
+
+### Art. 1 – Artikel 1.
 
 Die hohen vertragschließenden Teile verpflichten sich, in ihrem Gebiete die Herstellung, die Einfuhr und das Feilhalten von Zündhölzern, die weißen (gelben) Phosphor enthalten, zu verbieten.
 

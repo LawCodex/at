@@ -87,7 +87,9 @@ Güter, die zur unentgeltlichen Abgabe an die betroffene Bevölkerung auf dem Ho
 
 ## Artikel 3
 
-### Zuständigkeiten
+**Zuständigkeiten**
+
+### Art. 3
 
 1\. Für die Zusammenarbeit gemäß den Bestimmungen dieses Abkommens sind folgende Behörden zuständig:
 
@@ -171,7 +173,9 @@ der Innenminister
 
 ## Artikel 10
 
-### Schadenersatz und Entschädigung
+**Schadenersatz und Entschädigung**
+
+### Art. 10
 
 1\. Jede Vertragspartei verzichtet auf alle ihr gegen die andere Vertragspartei oder deren zur Hilfeleistung bestimmte Personen zustehenden Ansprüche auf Ersatz von
 
@@ -199,7 +203,9 @@ Die Hilfsmannschaften oder die einzelnen zur Hilfeleistung entsandten Personen m
 
 ## Artikel 13
 
-### Zusammenarbeit im Bereich der Information und der Ausbildung
+**Zusammenarbeit im Bereich der Information und der Ausbildung**
+
+### Art. 13
 
 1\. Die Vertragsparteien arbeiten nach Maßgabe des innerstaatlichen Rechts zusammen, insbesondere:
 

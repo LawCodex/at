@@ -23,7 +23,9 @@ StF: BGBl. Nr. 445/1980
 
 ## Artikel 1
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 1
 
 Für die Anwendung dieses Anhangs bedeutet:
 

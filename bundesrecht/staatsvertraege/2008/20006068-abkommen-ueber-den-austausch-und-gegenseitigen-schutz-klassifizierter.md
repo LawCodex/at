@@ -33,7 +33,9 @@ Sind wie folgt übereingekommen:
 
 ## ARTIKEL 1
 
-### BEGRIFFSBESTIMMUNGEN
+**BEGRIFFSBESTIMMUNGEN**
+
+### Art. 1
 
 Im Sinne dieses Abkommens bedeutet
 
@@ -55,7 +57,9 @@ Im Sinne dieses Abkommens bedeutet
 
 ## ARTIKEL 2
 
-### GLEICHWERTIGKEIT DER KLASSIFIZIERUNGSSTUFEN
+**GLEICHWERTIGKEIT DER KLASSIFIZIERUNGSSTUFEN**
+
+### Art. 2
 
 Die Parteien legen die Gleichwertigkeit der folgenden Klassifizierungsstufen fest:
 
@@ -69,7 +73,9 @@ Die Parteien legen die Gleichwertigkeit der folgenden Klassifizierungsstufen fes
 
 ## ARTIKEL 3
 
-### KENNZEICHNUNG
+**KENNZEICHNUNG**
+
+### Art. 3
 
 (1) Klassifizierte Informationen, die übermittelt werden sollen, werden vom Herausgeber mit der entsprechenden Klassifizierungsstufe gekennzeichnet.
 
@@ -79,7 +85,9 @@ Die Parteien legen die Gleichwertigkeit der folgenden Klassifizierungsstufen fes
 
 ## ARTIKEL 4
 
-### GRUNDSÄTZE DES SCHUTZES KLASSIFIZIERTER INFORMATIONEN
+**GRUNDSÄTZE DES SCHUTZES KLASSIFIZIERTER INFORMATIONEN**
+
+### Art. 4
 
 (1) Die Parteien treffen gemäß diesem Abkommen und dem anwendbaren innerstaatlichen Recht alle geeigneten Maßnahmen, um den Schutz der übermittelten klassifizierten Informationen zu gewährleisten, und sorgen für die erforderliche Kontrolle dieses Schutzes.
 
@@ -93,7 +101,9 @@ Die Parteien legen die Gleichwertigkeit der folgenden Klassifizierungsstufen fes
 
 ## ARTIKEL 5
 
-### SICHERHEITSUNBEDENKLICHKEITSBESCHEINIGUNG FÜR PERSONEN
+**SICHERHEITSUNBEDENKLICHKEITSBESCHEINIGUNG FÜR PERSONEN**
+
+### Art. 5
 
 (1) Zugang zu klassifizierten Informationen der Klassifizierungsstufen VERTRAULICH / ПOBEPИTEЛHO / CONFIDENTIAL und höher ist nur auf Grundlage einer Sicherheitsunbedenklichkeitsbescheinigung für Personen zu gewähren.
 
@@ -105,7 +115,9 @@ Die Parteien legen die Gleichwertigkeit der folgenden Klassifizierungsstufen fes
 
 ## ARTIKEL 6
 
-### KLASSIFIZIERTE VERTRÄGE
+**KLASSIFIZIERTE VERTRÄGE**
+
+### Art. 6
 
 (1) Ein klassifizierter Vertrag hat Bestimmungen über die Sicherheitserfordernisse und die Klassifizierung jeder seiner Aspekte oder Bestandteile gemäß dem anwendbaren innerstaatlichen Recht zu enthalten.
 
@@ -117,13 +129,17 @@ Die Parteien legen die Gleichwertigkeit der folgenden Klassifizierungsstufen fes
 
 ## ARTIKEL 7
 
-### ÜBERMITTLUNG
+**ÜBERMITTLUNG**
+
+### Art. 7
 
 Klassifizierte Informationen werden auf diplomatischem Wege oder auf andere zwischen den zuständigen Behörden oder Stellen vereinbarte, gegen jede Sicherheitsverletzung geschützte Weise übermittelt. Der Empfang klassifizierter Informationen der Klassifizierungsstufen VERTRAULICH / ПOBEPИTEЛHO / CONFIDENTIAL oder höher wird schriftlich bestätigt.
 
 ## ARTIKEL 8
 
-### VERVIELFÄLTIGUNG UND ÜBERSETZUNG
+**VERVIELFÄLTIGUNG UND ÜBERSETZUNG**
+
+### Art. 8
 
 (1) Klassifizierte Informationen werden gemäß dem anwendbaren innerstaatlichen Recht vervielfältigt. Die Vervielfältigung klassifizierter Informationen durch den Empfänger kann vom Herausgeber eingeschränkt oder ausgeschlossen werden. Klassifizierte Informationen der Klassifizierungsstufe STRENG GEHEIM / CTPOГO CEKPETHO / TOP SECRET dürfen nicht vervielfältigt werden.
 
@@ -133,13 +149,17 @@ Klassifizierte Informationen werden auf diplomatischem Wege oder auf andere zwis
 
 ## ARTIKEL 9
 
-### VERNICHTUNG
+**VERNICHTUNG**
+
+### Art. 9
 
 Klassifizierte Informationen werden gemäß dem anwendbaren innerstaatlichen Recht nachweislich und auf eine Weise vernichtet, die eine teilweise oder vollständige Wiederherstellung nicht zulässt. Klassifizierte Informationen der Klassifizierungsstufe STRENG GEHEIM / CTPOГO CEKPETHO / TOP SECRET werden nicht vernichtet, sondern rückübermittelt.
 
 ## ARTIKEL 10
 
-### BESUCHE
+**BESUCHE**
+
+### Art. 10
 
 (1) Besuchern wird nur im notwendigen Ausmaß und mit Genehmigung der zuständigen Behörde oder Stelle Zugang zu klassifizierten Informationen sowie zu Einrichtungen, in denen klassifizierte Informationen bearbeitet oder aufbewahrt werden, gewährt. Die Erlaubnis wird nur solchen Personen erteilt, die gemäß dem anwendbaren innerstaatlichen Recht zum Zugang zu klassifizierten Informationen der jeweiligen Klassifizierungsstufe befugt sind.
 
@@ -161,7 +181,9 @@ f. Datum des Antrags und Unterschrift der zuständigen Behörde oder Stelle.
 
 ## ARTIKEL 11
 
-### SICHERHEITSVERLETZUNG
+**SICHERHEITSVERLETZUNG**
+
+### Art. 11
 
 (1) Im Falle einer Sicherheitsverletzung oder eines entsprechenden Verdachts informiert die zuständige Behörde oder Stelle des Staates, in dem die Verletzung stattgefunden hat, die zuständige Behörde oder Stelle des anderen Staates unverzüglich schriftlich und leitet die geeigneten Untersuchungen ein. Die andere Partei leistet auf Ersuchen Unterstützung.
 
@@ -169,19 +191,25 @@ f. Datum des Antrags und Unterschrift der zuständigen Behörde oder Stelle.
 
 ## ARTIKEL 12
 
-### KOSTEN
+**KOSTEN**
+
+### Art. 12
 
 Jede Partei trägt die Kosten, die ihr im Zuge der Durchführung dieses Abkommens entstehen.
 
 ## ARTIKEL 13
 
-### ZUSTÄNDIGE BEHÖRDEN UND STELLEN
+**ZUSTÄNDIGE BEHÖRDEN UND STELLEN**
+
+### Art. 13
 
 Die Parteien teilen einander auf diplomatischem Wege die für die Durchführung dieses Abkommens zuständigen Behörden und Stellen mit.
 
 ## ARTIKEL 14
 
-### KONSULTATIONEN
+**KONSULTATIONEN**
+
+### Art. 14
 
 (1) Die zuständigen Behörden oder Stellen teilen einander das anwendbare innerstaatliche Recht über den Schutz klassifizierter Informationen und jegliche Änderungen mit.
 
@@ -189,13 +217,17 @@ Die Parteien teilen einander auf diplomatischem Wege die für die Durchführung 
 
 ## ARTIKEL 15
 
-### BEILEGUNG VON STREITIGKEITEN
+**BEILEGUNG VON STREITIGKEITEN**
+
+### Art. 15
 
 Jede Streitigkeit über die Anwendung oder Auslegung dieses Abkommens wird im Wege direkter Gespräche zwischen den Parteien oder auf diplomatischem Wege beigelegt.
 
 ## ARTIKEL 16
 
-### SCHLUSSBESTIMMUNGEN
+**SCHLUSSBESTIMMUNGEN**
+
+### Art. 16
 
 (1) Dieses Abkommen wird auf unbestimmte Zeit geschlossen und tritt am ersten Tag des zweiten Monats nach dem Tag in Kraft, an dem die Parteien einander den Abschluss der für das Inkrafttreten des Abkommens erforderlichen innerstaatlichen Verfahren mitgeteilt haben.
 

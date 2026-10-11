@@ -41,7 +41,9 @@ sind wie folgt übereingekommen:
 
 ## ARTIKEL 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -75,7 +77,9 @@ b) jede juristische Person, Personengesellschaft, sonstige Vereinigung oder Einr
 
 ## ARTIKEL 2
 
-### Förderung und Schutz von Investitionen
+**Förderung und Schutz von Investitionen**
+
+### Art. 2
 
 (1) Jede Vertragspartei fördert nach Möglichkeit in ihrem Hoheitsgebiet Investitionen von Investoren der anderen Vertragspartei, läßt diese in Übereinstimmung mit ihren Rechtsvorschriften zu und behandelt sie gerecht und billig.
 
@@ -85,7 +89,9 @@ b) jede juristische Person, Personengesellschaft, sonstige Vereinigung oder Einr
 
 ## ARTIKEL 3
 
-### Behandlung von Investitionen
+**Behandlung von Investitionen**
+
+### Art. 3
 
 (1) Jede Vertragspartei behandelt die Investoren der anderen Vertragspartei und deren Investitionen nicht weniger günstig als die Investoren von Drittstaaten und deren Investitionen.
 
@@ -103,7 +109,9 @@ e) allen Beihilfen, Zuwendungen, Darlehen, Versicherungen und Garantien, welche 
 
 ## ARTIKEL 4
 
-### Enteignung
+**Enteignung**
+
+### Art. 4
 
 (1) Für die Zwecke dieses Artikels bezeichnet der Begriff Enteignung auch eine Verstaatlichung oder jede andere der Enteignung in ihrer Wirkung und Art gleichkommende Maßnahme.
 
@@ -117,7 +125,9 @@ e) allen Beihilfen, Zuwendungen, Darlehen, Versicherungen und Garantien, welche 
 
 ## ARTIKEL 5
 
-### Überweisungen
+**Überweisungen**
+
+### Art. 5
 
 (1) Jede Vertagspartei *(Anm.: richtig: Vertragspartei)* gewährleistet den Investoren der anderen Vertragspartei ohne ungebührliche Verzögerung den Transfer in konvertierbarer Währung der im Zusammenhang mit einer Investition stehenden Zahlungen, insbesondere, aber nicht ausschließlich:
 
@@ -135,13 +145,17 @@ e) von Entschädigungen gemäß Artikel 4 Absatz 2.
 
 ## ARTIKEL 6
 
-### Eintrittsrecht
+**Eintrittsrecht**
+
+### Art. 6
 
 Leistet eine Vertragspartei oder eine von ihr hiezu ermächtigte Institution einem Investor Zahlungen auf Grund einer Garantie für eine Investition im Hoheitsgebiet der anderen Vertragspartei, so erkennt diese andere Vertragspartei, unbeschadet der Rechte des Investors der erstgenannten Vertragspartei gemäß Artikel 8 und der Rechte der erstgenannten Vertragspartei gemäß Artikel 9, die Übertragung aller Rechte oder Ansprüche dieses Investors kraft Gesetzes oder auf Grund eines Rechtsgeschäftes auf die erstgenannte Vertragspartei an. Die zweitgenannte Vertragspartei erkennt auch das Eintrittsrecht der erstgenannten Vertragspartei in alle diese Rechte oder Ansprüche an, welche diese Vertragspartei in selben Umfange ausüben kann wie der frühere Anspruchsberechtigte. Für den Transfer der an die betreffende Vertragspartei auf Grund der übertragenen Rechte zu leistenden Zahlungen gelten Artikel 4 und Artikel 5 sinngemäß.
 
 ## ARTIKEL 7
 
-### Andere Verpflichtungen
+**Andere Verpflichtungen**
+
+### Art. 7
 
 (1) Ergibt sich aus den Rechtsvorschriften einer Vertragspartei oder aus völkerrechtlichen Verpflichtungen, die neben diesem Abkommen zwischen den Vertragsparteien bestehen oder in Zukunft begründet werden, eine allgemeine oder besondere Regelung, durch die den Investitionen der Investoren der anderen Vertragspartei eine günstigere Behandlung als nach diesem Abkommen zu gewähren ist, so geht diese Regelung dem vorliegenden Abkommen insoweit vor, als sie günstiger ist.
 
@@ -149,7 +163,9 @@ Leistet eine Vertragspartei oder eine von ihr hiezu ermächtigte Institution ein
 
 ## ARTIKEL 8
 
-### Meinungsverschiedenheiten ans Investitionen
+**Meinungsverschiedenheiten ans Investitionen**
+
+### Art. 8
 
 (1) Entstehen zwischen einer Vertragspartei und einem Investor der anderen Vertragspartei Meinungsverschiedenheiten aus einer Investition, so werden diese, soweit wie möglich, zwischen den Streitparteien freundschaftlich beigelegt.
 
@@ -161,7 +177,9 @@ Leistet eine Vertragspartei oder eine von ihr hiezu ermächtigte Institution ein
 
 ## ARTIKEL 9
 
-### Meinungsverschiedenheiten zwischen den Vertragsparteien
+**Meinungsverschiedenheiten zwischen den Vertragsparteien**
+
+### Art. 9
 
 (1) Meinungsverschiedenheiten zwischen den Vertragsparteien über die Auslegung oder Anwendung dieses Abkommens sollen, soweit wie möglich, durch freundschaftliche Verhandlungen beigelegt werden.
 
@@ -179,7 +197,9 @@ Leistet eine Vertragspartei oder eine von ihr hiezu ermächtigte Institution ein
 
 ## ARTIKEL 10
 
-### Inkrafttreten und Dauer
+**Inkrafttreten und Dauer**
+
+### Art. 10
 
 (1) Dieses Abkommen bedarf der Ratifikation und tritt am ersten Tag des dritten Monats in Kraft, der dem Monat folgt, in dem die Ratifikationsurkunden ausgetauscht wurden.
 

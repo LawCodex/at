@@ -27,13 +27,17 @@ Die Republik Österreich und die Bundesrepublik Deutschland – in Ausfüllung d
 
 ## Artikel 1
 
-### Anwendungsbereich
+**Anwendungsbereich**
+
+### Art. 1
 
 Dieses Abkommen regelt die Mitnahme von Schusswaffen und der dafür bestimmte Munition durch Mitglieder traditioneller Schützenvereinigungen und von Sportschützenvereinen in das Gebiet des anderen Vertragsstaates zu besonderen Anlässen in der Republik Österreich und im Freistaat Bayern.
 
 ## Artikel 2
 
-### Dokumente
+**Dokumente**
+
+### Art. 2
 
 (1) Mitglieder österreichischer traditioneller Schützenvereinigungen sowie österreichischer Sportschützenvereine dürfen
 
@@ -53,7 +57,9 @@ einschließlich der dafür bestimmten Munition in die Bundesrepublik Deutschland
 
 ## Artikel 3
 
-### Österreichischer Ausweis für traditionelle Schützenvereinigungen und Sportschützenvereine
+**Österreichischer Ausweis für traditionelle Schützenvereinigungen und Sportschützenvereine**
+
+### Art. 3
 
 (1) Einer österreichischen traditionellen Schützenvereinigung oder einem Sportschützenverein, der Mitglied eines landes- oder bundesweiten Verbandes ist, kann auf Antrag des zur Vertretung der Vereinigung oder des Vereins nach außen Berufenen mit gegebenenfalls erforderlicher Zustimmung des Betroffenen die nach dem Sitz der Vereinigung oder des Vereins zuständige Waffenbehörde einen Ausweis nach dem Muster der Anlage zu diesem Abkommen ausstellen, in dem bis zu zwei Mitglieder als für die Schusswaffen Verantwortliche genannt werden.
 
@@ -63,7 +69,9 @@ einschließlich der dafür bestimmten Munition in die Bundesrepublik Deutschland
 
 ## Artikel 4
 
-### Schlussbestimmungen
+**Schlussbestimmungen**
+
+### Art. 4
 
 (1) Dieses Abkommen bedarf der Ratifikation; die Ratifikationsurkunden werden so bald wie möglich in Wien ausgetauscht.
 

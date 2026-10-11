@@ -55,7 +55,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 1
 
-### Straftatbestand der Bestechung ausländischer Amtsträger
+**Straftatbestand der Bestechung ausländischer Amtsträger**
+
+### Art. 1
 
 (1) Jede Vertragspartei trifft die erforderlichen Maßnahmen, um nach ihrem Recht jede Person mit Strafe zu bedrohen, die unmittelbar oder über Mittelspersonen einem ausländischen Amtsträger vorsätzlich, um im internationalen Geschäftsverkehr einen Auftrag oder einen sonstigen unbilligen Vorteil zu erlangen oder zu behalten, einen ungerechtfertigten geldwerten oder sonstigen Vorteil für diesen Amtsträger oder einen Dritten anbietet, verspricht oder gewährt, damit der Amtsträger in Zusammenhang mit der Ausübung von Dienstpflichten eine Handlung vornimmt oder unterläßt.
 
@@ -73,13 +75,17 @@ c) umfaßt der Ausdruck „im Zusammenhang mit der Ausübung von Dienstpflichten
 
 ## Artikel 2
 
-### Verantwortlichkeit juristischer Personen
+**Verantwortlichkeit juristischer Personen**
+
+### Art. 2
 
 Jede Vertragspartei trifft in Übereinstimmung mit ihren Rechtsgrundsätzen die erforderlichen Maßnahmen, um die Verantwortlichkeit juristischer Personen für die Bestechung eines ausländischen Amtsträgers zu begründen.
 
 ## Artikel 3
 
-### Sanktionen
+**Sanktionen**
+
+### Art. 3
 
 (1) Die Bestechung eines ausländischen Amtsträgers wird mit wirksamen, angemessenen und abschreckenden Strafen bedroht. Strafarten und Strafrahmen sind denen vergleichbar, die bei Bestechung von eigenen Amtsträgern der Vertragspartei zur Anwendung kommen, und schließen bei natürlichen Personen Freiheitsentzug in einem Maß ein, das wirksame Rechtshilfe und Auslieferung ermöglicht.
 
@@ -91,7 +97,9 @@ Jede Vertragspartei trifft in Übereinstimmung mit ihren Rechtsgrundsätzen die 
 
 ## Artikel 4
 
-### Gerichtsbarkeit
+**Gerichtsbarkeit**
+
+### Art. 4
 
 (1) Jede Vertragspartei trifft die erforderlichen Maßnahmen, um ihre Gerichtsbarkeit über die Bestechung eines ausländischen Amtsträgers zu begründen, wenn die Straftat ganz oder teilweise in ihrem Hoheitsgebiet begangen wird.
 
@@ -103,25 +111,33 @@ Jede Vertragspartei trifft in Übereinstimmung mit ihren Rechtsgrundsätzen die 
 
 ## Artikel 5
 
-### Durchsetzung
+**Durchsetzung**
+
+### Art. 5
 
 Ermittlungsverfahren und Strafverfolgung wegen Bestechung eines ausländischen Amtsträgers unterliegen den geltenden Regeln und Grundsätzen der jeweiligen Vertragspartei. Sie dürfen nicht von Erwägungen nationalen wirtschaftlichen Interesses, der möglichen Wirkung auf Beziehungen zu einem anderen Staat oder der Identität der beteiligten natürlichen oder juristischen Personen beeinflußt werden.
 
 ## Artikel 6
 
-### Verjährung
+**Verjährung**
+
+### Art. 6
 
 Die für die Straftat der Bestechung eines ausländischen Amtsträgers geltenden Verjährungsfristen sehen einen angemessenen Zeitraum für die Ermittlung und Verfolgung dieser Straftat vor.
 
 ## Artikel 7
 
-### Geldwäscherei
+**Geldwäscherei**
+
+### Art. 7
 
 Jede Vertragspartei, welche die Bestechung ihrer eigenen Amtsträger zu einer Vortat für die Anwendung ihrer Rechtsvorschriften in bezug auf die Geldwäscherei gemacht hat, verfährt nach den gleichen Bedingungen in bezug auf die Bestechung eines ausländischen Amtsträgers, ungeachtet des Ortes, an welchem die Bestechung stattgefunden hat.
 
 ## Artikel 8
 
-### Buchführung
+**Buchführung**
+
+### Art. 8
 
 (1) Zur wirksamen Bekämpfung der Bestechung ausländischer Amtsträger trifft jede Vertragspartei im Rahmen ihrer Gesetze und sonstigen Vorschriften in bezug auf die Führung von Büchern und Aufzeichnungen, die Offenlegung von Jahresabschlüssen und die Grundsätze der Rechnungslegung und -prüfung die erforderlichen Maßnahmen, um Gesellschaften, für die diese Gesetze und sonstigen Vorschriften gelten, zu verbieten, zum Zweck der Bestechung ausländischer Amtsträger oder der Geheimhaltung einer solchen Bestechung Konten einzurichten, die in den Büchern nicht erscheinen, Geschäfte zu tätigen, die in den Büchern nicht oder nur mit unzureichenden Angaben erscheinen, nicht existente Aufwendungen zu verbuchen, das Entstehen von Verbindlichkeiten mit falschen Angaben zu ihrem Grund zu verbuchen sowie falsche Belege zu benutzen.
 
@@ -129,7 +145,9 @@ Jede Vertragspartei, welche die Bestechung ihrer eigenen Amtsträger zu einer Vo
 
 ## Artikel 9
 
-### Rechtshilfe
+**Rechtshilfe**
+
+### Art. 9
 
 (1) Jede Vertragspartei leistet einer anderen Vertragspartei in dem nach ihren Gesetzen sowie einschlägigen Verträgen und Vereinbarungen größtmöglichen Umfang unverzügliche und wirksame Rechtshilfe in Ermittlungs- und Strafverfahren, die von einer Vertragspartei in bezug auf Straftaten, die unter dieses Übereinkommen fallen, eingeleitet wurden, sowie in nichtstrafrechtlichen Verfahren, die unter dieses Übereinkommen fallen und von einer Vertragspartei gegen eine juristische Person eingeleitet wurden. Die ersuchte Vertragspartei unterrichtet die ersuchende Vertragspartei unverzüglich über gegebenenfalls zur Begründung des Rechtshilfeersuchens benötigte ergänzende Angaben oder Schriftstücke sowie auf Anfrage über den Stand und das Ergebnis des Rechtshilfeersuchens.
 
@@ -139,7 +157,9 @@ Jede Vertragspartei, welche die Bestechung ihrer eigenen Amtsträger zu einer Vo
 
 ## Artikel 10
 
-### Auslieferung
+**Auslieferung**
+
+### Art. 10
 
 (1) Bestechung eines ausländischen Amtsträgers gilt als eine in das Recht der Vertragsparteien und in die zwischen ihnen geschlossenen Auslieferungsverträge einbezogene, der Auslieferung unterliegende Straftat.
 
@@ -151,19 +171,25 @@ Jede Vertragspartei, welche die Bestechung ihrer eigenen Amtsträger zu einer Vo
 
 ## Artikel 11
 
-### Zuständige Behörden
+**Zuständige Behörden**
+
+### Art. 11
 
 Für die Zwecke des Artikels 4 Absatz 3 (über Konsultationen), des Artikels 9 (über Rechtshilfe) und des Artikels 10 (über Auslieferung) notifiziert jede Vertragspartei dem Generalsekretär der OECD eine oder mehrere für die Stellung und Entgegennahme von Ersuchen zuständige Behörden, die unbeschadet anderer Vereinbarungen zwischen den Vertragsparteien in diesen Angelegenheiten als Verbindungsstelle für diese Vertragspartei dienen.
 
 ## Artikel 12
 
-### Überwachung und Folgemaßnahmen
+**Überwachung und Folgemaßnahmen**
+
+### Art. 12
 
 Die Vertragsparteien arbeiten bei der Durchführung eines Programms systematischer Folgemaßnahmen zur Überwachung und Förderung der vollständigen Anwendung dieses Übereinkommens zusammen. Soweit die Vertragsparteien nicht einvernehmlich etwas anderes beschließen, geschieht dies im Rahmen der Arbeitsgruppe der OECD für Bestechungsfragen im internationalen Geschäftsverkehr und entsprechend ihrem Mandat oder im Rahmen und entsprechend dem Mandat eines ihre Aufgaben übernehmenden Nachfolgeorgans; die Vertragsparteien tragen die Kosten des Programms nach den für dieses Organ geltenden Bestimmungen.
 
 ## Artikel 13
 
-### Unterzeichnung und Beitritt
+**Unterzeichnung und Beitritt**
+
+### Art. 13
 
 (1) Bis zu seinem Inkrafttreten liegt dieses Übereinkommen für Mitglieder der OECD und für Nichtmitglieder, die zur vollberechtigten Teilnahme an der Arbeitsgruppe der OECD für Bestechungsfragen im internationalen Geschäftsverkehr eingeladen worden sind, zur Unterzeichnung auf.
 
@@ -171,7 +197,9 @@ Die Vertragsparteien arbeiten bei der Durchführung eines Programms systematisch
 
 ## Artikel 14
 
-### Ratifikation und Verwahrer
+**Ratifikation und Verwahrer**
+
+### Art. 14
 
 (1) Dieses Übereinkommen bedarf der Annahme, Genehmigung oder Ratifikation durch die Unterzeichner nach Maßgabe ihres jeweiligen Rechts.
 
@@ -179,7 +207,9 @@ Die Vertragsparteien arbeiten bei der Durchführung eines Programms systematisch
 
 ## Artikel 15
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 15
 
 (1) Dieses Übereinkommen tritt am sechzigsten Tag nach dem Tag in Kraft, an dem fünf der zehn Staaten mit den zehn größten Exportanteilen entsprechend dem in der Anlage beigefügten Dokument, die mindestens sechzig Prozent der zusammengerechneten Gesamtexporte dieser zehn Länder auf sich vereinigen, ihre Annahme-, Genehmigungs- oder Ratifikationsurkunden hinterlegt haben. Für jeden Unterzeichnerstaat, der nach diesem Inkrafttreten seine Urkunde hinterlegt, tritt das Übereinkommen am sechzigsten Tag nach Hinterlegung seiner Urkunde in Kraft.
 
@@ -187,13 +217,17 @@ Die Vertragsparteien arbeiten bei der Durchführung eines Programms systematisch
 
 ## Artikel 16
 
-### Änderung
+**Änderung**
+
+### Art. 16
 
 Jede Vertragspartei kann zu diesem Übereinkommen Änderungen vorschlagen. Ein Änderungsvorschlag wird dem Verwahrer unterbreitet; dieser übermittelt ihn den anderen Vertragsparteien mindestens sechzig Tage vor Einberufung eines Treffens der Vertragsparteien zur Beratung über den Änderungsvorschlag. Eine Änderung, die von den Vertragsparteien einvernehmlich oder auf andere von den Vertragsparteien einvernehmlich festgelegte Weise beschlossen worden ist, tritt sechzig Tage nach Hinterlegung einer Ratifikations-, Annahme- oder Genehmigungsurkunde seitens aller Vertragsparteien oder unter anderen von den Vertragsparteien zum Zeitpunkt der Beschlußfassung über die Änderung genannten Bedingungen in Kraft.
 
 ## Artikel 17
 
-### Rücktritt
+**Rücktritt**
+
+### Art. 17
 
 Eine Vertragspartei kann durch eine an den Verwahrer gerichtete schriftliche Notifikation von diesem Übereinkommen zurücktreten. Dieser Rücktritt wird ein Jahr nach Eingang der Notifikation wirksam. Nach dem Rücktritt wird die Zusammenarbeit zwischen den Vertragsparteien und der zurückgetretenen Vertragspartei hinsichtlich aller Rechtshilfe- oder Auslieferungsersuchen fortgesetzt, die vor dem Tag, an dem der Rücktritt wirksam geworden ist, gestellt wurden und noch nicht erledigt sind.
 

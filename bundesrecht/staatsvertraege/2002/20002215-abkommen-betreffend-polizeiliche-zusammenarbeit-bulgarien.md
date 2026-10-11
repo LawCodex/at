@@ -41,7 +41,9 @@ haben folgendes vereinbart:
 
 ## Artikel 1
 
-### Bereiche und Ziel der Zusammenarbeit
+**Bereiche und Ziel der Zusammenarbeit**
+
+### Art. 1
 
 (1) Die Vertragsparteien werden nach Maßgabe ihres jeweiligen nationalen Rechts durch ihre zuständigen Behörden bei der Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung sowie bei der Vorbeugung und Aufklärung von strafbaren Handlungen zusammenarbeiten. Diese Zusammenarbeit erstreckt sich insbesondere auf folgende Bereiche:
 
@@ -69,7 +71,9 @@ haben folgendes vereinbart:
 
 ## Artikel 2
 
-### Formen der Zusammenarbeit
+**Formen der Zusammenarbeit**
+
+### Art. 2
 
 (1) Die Zusammenarbeit zwischen den zuständigen Behörden der Vertragsparteien erfolgt nach Maßgabe ihres jeweiligen nationalen Rechtes und umfasst insbesondere
 
@@ -91,7 +95,9 @@ haben folgendes vereinbart:
 
 ## Artikel 3
 
-### Zuständige Behörden
+**Zuständige Behörden**
+
+### Art. 3
 
 (1) Die Vertragsparteien informieren einander über jene Behörden, die nach ihrem jeweiligen nationalen Recht für die Zusammenarbeit im Sinne dieses Abkommens zuständig sind. Sie teilen einander weiters eintretende Änderungen der Zuständigkeit oder der Bezeichnung dieser Behörden mit.
 
@@ -99,25 +105,33 @@ haben folgendes vereinbart:
 
 (3) Die Durchführung der Zusammenarbeit zwischen den Vertragsparteien kann auch über Verbindungsbeamte erfolgen. Der Verbindungsbeamte führt Informations- und Beratungstätigkeiten aus und verfügt über keine Befugnisse zur Durchführung von polizeilichen Maßnahmen. Die Aufgaben des Verbindungsbeamten werden von den zuständigen Behörden nach Maßgabe des nationalen Rechts festgelegt.
 
-### Besondere Formen der Zusammenarbeit bei der Terrorismusbekämpfung – Artikel 4
+**Besondere Formen der Zusammenarbeit bei der Terrorismusbekämpfung**
+
+### Art. 4 – Artikel 4
 
 Im Bereich der Zusammenarbeit nach Artikel 1 Absatz 2 Ziffer 2 werden die zuständigen Behörden der Vertragsparteien neben anderen Formen der Zusammenarbeit Informationen und Ermittlungsergebnisse über geplante und getätigte terroristische Akte, über Handlungsmethoden der Täter, über terroristische Vereinigungen, die Straftaten gegen Staatsinteressen einer der Vertragsparteien planen beziehungsweise begehen, austauschen.
 
 ## Artikel 5
 
-### Besondere Formen der Zusammenarbeit bei der Bekämpfung der illegalen Migration
+**Besondere Formen der Zusammenarbeit bei der Bekämpfung der illegalen Migration**
+
+### Art. 5
 
 Im Bereich der Zusammenarbeit nach Artikel 1 Absatz 2 Ziffer 3 werden die zuständigen Behörden der Vertragsparteien einander neben anderen Formen der Zusammenarbeit Informationen über Methoden und Wege der organisierten illegalen Migration und Informationen, die die Kontrolle der Echtheit von Reisedokumenten und Sichtvermerken ermöglichen, übermitteln sowie Musterexemplare von Reisedokumenten und Sichtvermerken austauschen.
 
 ## Artikel 6
 
-### Besondere Formen der Zusammenarbeit bei der Bekämpfung der Suchtmittelkriminalität
+**Besondere Formen der Zusammenarbeit bei der Bekämpfung der Suchtmittelkriminalität**
+
+### Art. 6
 
 Im Bereich der Zusammenarbeit nach Artikel 1 Absatz 2 Ziffer 9 werden die zuständigen Behörden der Vertragsparteien einander neben anderen Formen der Zusammenarbeit Informationen übermitteln über an der illegalen Herstellung von Suchtmitteln und Vorläuferstoffen beteiligte Personen, über Methoden des unerlaubten Verkehrs damit, über Verstecke, Wege, eingesetzte Transportmittel und über die Vorgangsweise von Schmuggelorganisationen in den Herkunftsregionen, über Lagerorte von Suchtmitteln und Vorläuferstoffen sowie jede andere sich auf diese Art von Straftaten beziehende Information, soweit sie für deren Aufklärung erforderlich ist. Sie werden einander Informationen über neue Arten von Suchtmitteln und Vorläuferstoffen zur Verfügung stellen.
 
 ## Artikel 7
 
-### Schutz personenbezogener Daten
+**Schutz personenbezogener Daten**
+
+### Art. 7
 
 Die wechselseitige Übermittlung personenbezogener Daten zwischen den zuständigen Behörden der Vertragsparteien erfolgt unter Beachtung der von der übermittelnden Behörde erteilten Auflagen und folgender Grundsätze, welche gleichermaßen auf automationsunterstützt und nicht automationsunterstützt verarbeitete Daten Anwendung finden:
 
@@ -145,13 +159,17 @@ c) die Daten nicht mehr zur Erfüllung der für die Übermittlung maßgeblichen 
 
 ## Artikel 8
 
-### Konsultationen
+**Konsultationen**
+
+### Art. 8
 
 Die zuständigen Behörden der Vertragsparteien können bei Bedarf Konsultationen abhalten, um Maßnahmen zur Durchführung dieses Abkommens zu erörtern und diesbezüglich Einvernehmen herzustellen. Die zuständigen Behörden jeder Vertragspartei können bei Bedarf die Abhaltung von Konsultationen vorschlagen.
 
 ## Artikel 9
 
-### Ausnahmeregelung
+**Ausnahmeregelung**
+
+### Art. 9
 
 (1) Wenn eine der Vertragsparteien der Ansicht ist, dass die Erledigung eines Ersuchens oder eine andere Art der Zusammenarbeit geeignet sind, die Souveränität ihres Staates zu beeinträchtigen, seine Sicherheit oder andere wesentlichen Interessen zu gefährden oder gegen Grundsätze seiner Rechtsordnung zu verstoßen, so kann sie die Zusammenarbeit ganz oder teilweise ablehnen oder sie von der Erfüllung von bestimmten Bedingungen abhängig machen.
 
@@ -159,13 +177,17 @@ Die zuständigen Behörden der Vertragsparteien können bei Bedarf Konsultatione
 
 ## Artikel 10
 
-### Verhältnis zu anderen internationalen Verträgen
+**Verhältnis zu anderen internationalen Verträgen**
+
+### Art. 10
 
 Die Bestimmungen dieses Abkommens berühren nicht die Rechte und Verpflichtungen der Vertragsparteien, die sich aus anderen zweiseitigen und mehrseitigen internationalen Verträgen ergeben.
 
 ## Artikel 11
 
-### Auslegung des Abkommens
+**Auslegung des Abkommens**
+
+### Art. 11
 
 (1) Meinungsverschiedenheiten über die Auslegung oder Anwendung des vorliegenden Abkommens werden im Weg von direkten Verhandlungen zwischen den zuständigen Behörden der Vertragsparteien entschieden.
 
@@ -173,7 +195,9 @@ Die Bestimmungen dieses Abkommens berühren nicht die Rechte und Verpflichtungen
 
 ## Artikel 12
 
-### Inkrafttreten und Kündigung
+**Inkrafttreten und Kündigung**
+
+### Art. 12
 
 (1) Dieses Abkommen tritt mit dem ersten Tag des dritten Monates in Kraft, der auf den Monat seiner Unterzeichnung folgt.
 

@@ -1,0 +1,55 @@
+---
+title: "Zahlungsverkehr (Bulgarien)"
+identifier: "10004095"
+type: treaty
+ris_type: "Vertrag – Bulgarien"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 442/1971"
+date: 1948-10-16
+last_amended: 1972-01-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1971/442/P0/NOR11004131"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004095"
+retrieved: 2026-10-11
+documents: 6
+---
+
+# Zahlungsverkehr (Bulgarien)
+
+ABKOMMEN zwischen der Österreichischen Bundesregierung und der Regierung der Volksrepublik Bulgarien über die Außerkraftsetzung des Zahlungsabkommens vom 16. Oktober 1948 und den Übergang zum Zahlungsverkehr in frei konvertierbarer Währung
+
+StF: BGBl. Nr. 442/1971
+
+**Unterzeichnungsdatum:** 13.10.1971
+
+**Sprachen:** Bulgarisch, Deutsch
+
+## Präambel/Promulgationsklausel
+
+Die Österreichische Bundesregierung und die Regierung der Volksrepublik Bulgarien haben, vom Wunsche geleitet, den Zahlungsverkehr zwischen den Vertragsstaaten zu erleichtern und den Warenaustausch zu fördern, folgendes vereinbart:
+
+## Artikel 1
+
+Mit 31. Dezember 1971 verliert das Zahlungsabkommen zwischen der Republik Österreich und der Volksrepublik Bulgarien vom 16. Oktober 1948 seine Gültigkeit.
+
+## Artikel 2
+
+Der Zahlungsverkehr zwischen der Republik Österreich und der Volksrepublik Bulgarien wird ab 1. Jänner 1972 in Übereinstimmung mit den in jedem der beiden Vertragsstaaten geltenden Devisenvorschriften in frei konvertierbarer Währung abgewickelt.
+
+## Artikel 3
+
+Die zuständigen Behörden der beiden Vertragsstaaten werden die im Rahmen ihrer bestehenden Devisenvorschriften erforderlichen Bewilligungen für laufende Transaktionen auf Grundlage der Reziprozität erteilen. Es besteht Einvernehmen darüber, daß unter laufenden Transaktionen zumindest alle jene Arten von Zahlungen zu verstehen sind, die bereits bisher im Zahlungsverkehr zwischen der Republik Österreich und der Volksrepublik Bulgarien geleistet werden konnten.
+
+## Artikel 4
+
+Hinsichtlich des im Artikel 9 des Zahlungsabkommens vom 16. Oktober 1948 erwähnten Saldos auf dem Dollarverrechnungskonto „A” sind die beiden Vertragsstaaten übereingekommen, die per 31. Dezember 1971 ermittelte Clearingschuld auf ein bei der Oesterreichischen Natonalbank Wien neu zu eröffnendes Dollarverrechnungskonto „ ,A\` - in Liquidation” zu übertragen. Der Clearingsaldo ist von der Schuldnerbank durch Zahlung in freien US-Dollar an die Gläubigerbank zu begleichen.
+
+Die Oesterreichische Nationalbank und die Bulgarische Außenhandelsbank werden alle im Zusammenhang mit der Beendigung des Zahlungsabkommens vom 16. Oktober 1948 und dem Übergang des Zahlungsverkehrs auf frei konvertierbare Währung erforderlichen technischen Vereinbarungen treffen.
+
+## Artikel 5
+
+Dieses Abkommen tritt am 1. Jänner 1972 in Kraft. Es kann von jedem vertragschließenden Teil schriftlich unter Einhaltung einer dreimonatigen Kündigungsfrist gekündigt werden.
+
+Geschehen zu Wien, am 13. Oktober 1971, in je zwei Urschriften, in deutscher und bulgarischer Sprache, wobei beide Texte gleichermaßen authentisch sind.

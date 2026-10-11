@@ -33,7 +33,9 @@ von dem Wunsche geleitet, den Personenverkehr in den Grenzzonen zu erleichtern, 
 
 ## Artikel 1
 
-### Grenzzonen
+**Grenzzonen**
+
+### Art. 1
 
 (1) Dieses Abkommen regelt den Grenzübertritt von Personen zwischen den Grenzzonen Österreichs und der Schweiz. Es erstreckt sich auch auf den Kleinen Grenzverkehr zwischen Österreich und dem Fürstentum Liechtenstein.
 
@@ -51,7 +53,9 @@ das Land Vorarlberg und der politische Bezirk Landeck.
 
 ## Artikel 2
 
-### Grenzkarte
+**Grenzkarte**
+
+### Art. 2
 
 (1) Angehörigen der Vertragsstaaten sowie Drittausländern und Staatenlosen, die zum Aufenthalt in einem Vertragsstaat berechtigt sind, kann, wenn sie ihren Wohnsitz in der Grenzzone haben, von den zuständigen Behörden des Wohnsitzstaates eine Grenzkarte ausgestellt werden.
 
@@ -65,7 +69,9 @@ das Land Vorarlberg und der politische Bezirk Landeck.
 
 ## Artikel 3
 
-### Ausflugsscheine
+**Ausflugsscheine**
+
+### Art. 3
 
 (1) Angehörigen der Vertragsstaaten sowie Drittausländern und Staatenlosen, die im anderen Vertragsstaat der Visumspflicht nicht unterliegen, kann, gleichgültig wo sie ihren Wohnsitz haben, ein Ausflugsschein ausgestellt werden.
 
@@ -85,31 +91,41 @@ das Land Vorarlberg und der politische Bezirk Landeck.
 
 ## Artikel 4
 
-### Dienstausweis
+**Dienstausweis**
+
+### Art. 4
 
 Die Bediensteten der öffentlichen Verwaltung, der Post-, Telephon- und Telegraphenverwaltung und der Eisenbahnen der Vertragsstaaten können die Staatsgrenze zur Ausübung ihrer dienstlichen Funktionen auf Grund eines von ihrer Dienststelle ausgestellten Lichtbildausweises überschreiten und sich in der Grenzzone des anderen Vertragsstaates für die Dauer ihrer dienstlichen Tätigkeit aufhalten.
 
 ## Artikel 5
 
-### Grenzübertritt
+**Grenzübertritt**
+
+### Art. 5
 
 Der Grenzübertritt im Rahmen des Kleinen Grenzverkehrs ist sowohl an den nach den innerstaatlichen Rechtsvorschriften als auch an den nach diesem Abkommen bestehenden Grenzübergängen zulässig.
 
 ## Artikel 6
 
-### Grenzübertritt am Bodensee und am Alten Rhein
+**Grenzübertritt am Bodensee und am Alten Rhein**
+
+### Art. 6
 
 Angehörige der Vertragsstaaten sowie Drittausländer und Staatenlose, die im anderen Vertragsstaat der Visumspflicht nicht unterliegen, dürfen am Bodensee und am Alten Rhein bis zur Zollbrücke Gaissau-Rheineck auf dem Gebiet der Vertragsstaaten landen oder ablegen, wenn sie ein für den Grenzübertritt gültiges Reisedokument mit sich führen und kein dem gewerbsmäßigen Personen- oder Gütertransport dienendes Wasserfahrzeug benützen.
 
 ## Artikel 7
 
-### Grenzübertritt im Grenzgebirge
+**Grenzübertritt im Grenzgebirge**
+
+### Art. 7
 
 Angehörige der Vertragsstaaten sowie Drittausländer und Staatenlose, die im anderen Vertragsstaat der Visumspflicht nicht unterliegen, dürfen, wenn sie einen amtlichen Lichtbildausweis mit sich führen, bei Touren im Grenzgebirge die Staatsgrenze überschreiten und sich in der Grenzzone des anderen Vertragsstaates bis zu einer Tiefe von fünf Kilometern und bis zu einer Dauer von drei Tagen aufhalten. Das Grenzgebirge erstreckt sich von der Mistelmark an der österreichisch-liechtensteinischen Staatsgrenze bis zum Dreiländergrenzpunkt am Piz Lad.
 
 ## Artikel 8
 
-### Grenzübertritt auf Wanderwegen außerhalb des Grenzgebirges
+**Grenzübertritt auf Wanderwegen außerhalb des Grenzgebirges**
+
+### Art. 8
 
 (1) Angehörige der Vertragsstaaten sowie Drittausländer und Staatenlose, die im anderen Vertragsstaat der Visumspflicht nicht unterliegen, dürfen, wenn sie einen amtlichen Lichtbildausweis mit sich führen, die Staatsgrenze als Wanderer auf den dafür bestimmten Wegen überschreiten.
 
@@ -117,19 +133,25 @@ Angehörige der Vertragsstaaten sowie Drittausländer und Staatenlose, die im an
 
 ## Artikel 9
 
-### Grenzübertritt zur land- und forstwirtschaftlichen Bewirtschaftung
+**Grenzübertritt zur land- und forstwirtschaftlichen Bewirtschaftung**
+
+### Art. 9
 
 Den Eigentümern und Nutzungsberechtigten grenzdurchschnittener oder in Grenznähe gelegener land- und forstwirtschaftlicher Grundstücke, ihren Familienmitgliedern und Arbeitskräften ist, wenn sie einen amtlichen Lichtbildausweis mit sich führen, der Grenzübertritt zur Bewirtschaftung innerhalb dieser Grundstücke oder auf direktem Wege zu diesen Grundstücken gestattet; sie dürfen sich jedoch von den Grundstücken nicht weiter auf das Gebiet des anderen Vertragsstaates begeben.
 
 ## Artikel 10
 
-### Grenzübertritt zur Hilfeleistung
+**Grenzübertritt zur Hilfeleistung**
+
+### Art. 10
 
 Die Staatsgrenze darf ohne Beachtung der sonst hiefür geltenden Rechtsvorschriften überschritten werden, um bei Unglücks- oder Katastrophenfällen in der Grenzzone Hilfe zu leisten oder in Anspruch zu nehmen.
 
 ## Artikel 11
 
-### Verweigerung und Entzug von Dokumenten
+**Verweigerung und Entzug von Dokumenten**
+
+### Art. 11
 
 (1) Die Ausstellung einer Grenzkarte ist zu verweigern, wenn nach den innerstaatlichen Rechtsvorschriften die Ausstellung eines Reisepasses zu versagen wäre.
 
@@ -141,7 +163,9 @@ Die Staatsgrenze darf ohne Beachtung der sonst hiefür geltenden Rechtsvorschrif
 
 ## Artikel 12
 
-### Zuständige Behörden
+**Zuständige Behörden**
+
+### Art. 12
 
 (1) Sofern in diesem Abkommen nichts anderes vorgesehen ist, sind zuständige Behörden:
 
@@ -157,13 +181,17 @@ für die Ausstellung von Ausflugsscheinen und Sammelausflugsscheinen überdies d
 
 ## Artikel 13
 
-### Rücknahme von Personen
+**Rücknahme von Personen**
+
+### Art. 13
 
 Die Vertragsstaaten werden Personen, die auf Grund dieses Abkommens in das Hoheitsgebiet des anderen Vertragsstaates eingereist sind, jederzeit formlos zurücknehmen.
 
 ## Artikel 14
 
-### Vorbehaltene Rechtsvorschriften
+**Vorbehaltene Rechtsvorschriften**
+
+### Art. 14
 
 In den Vertragsstaaten bleiben unberührt:
 
@@ -173,13 +201,17 @@ In den Vertragsstaaten bleiben unberührt:
 
 ## Artikel 15
 
-### Vorübergehende Aussetzung des Abkommens
+**Vorübergehende Aussetzung des Abkommens**
+
+### Art. 15
 
 Jeder der beiden Vertragsstaaten kann aus Gründen der öffentlichen Sicherheit oder Ordnung die Durchführung dieses Abkommens mit Ausnahme des Artikels 13 vorübergehend ganz oder teilweise aussetzen. Dies ist dem anderen Vertragsstaat unverzüglich auf diplomatischem Wege mitzuteilen.
 
 ## Artikel 16
 
-### Inkrafttreten, Dauer und Kündigung
+**Inkrafttreten, Dauer und Kündigung**
+
+### Art. 16
 
 (1) Dieses Abkommen ist zu ratifizieren. Es tritt 60 Tage nach Austausch der Ratifikationsurkunden in Kraft.
 
@@ -189,7 +221,9 @@ Jeder der beiden Vertragsstaaten kann aus Gründen der öffentlichen Sicherheit 
 
 ## Artikel 17
 
-### Schlußbestimmungen
+**Schlußbestimmungen**
+
+### Art. 17
 
 (1) Mit dem Inkrafttreten dieses Abkommens tritt das Übereinkommen vom 30. Mai 1950 zwischen Österreich und der Schweiz über den Grenzübertritt von Personen im Kleinen Grenzverkehr außer Kraft.
 

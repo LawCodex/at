@@ -41,13 +41,17 @@ haben Folgendes vereinbart:
 
 ## <u>Artikel 1</u>
 
-### <u>PERSÖNLICHER GELTUNGSBEREICH</u>
+**<u>PERSÖNLICHER GELTUNGSBEREICH</u>**
+
+### Art. 1
 
 Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Vertragsstaaten ansässig sind.
 
 ## <u>Artikel 2</u>
 
-### <u>UNTER DAS ABKOMMEN FALLENDE STEUERN</u>
+**<u>UNTER DAS ABKOMMEN FALLENDE STEUERN</u>**
+
+### Art. 2
 
 (1) Dieses Abkommen gilt, ohne Rücksicht auf die Art der Erhebung, für Steuern vom Einkommen, die für Rechnung eines Vertragsstaats oder seiner Gebietskörperschaften erhoben werden.
 
@@ -77,7 +81,9 @@ b) in Pakistan:
 
 ## <u>Artikel 3</u>
 
-### <u>ALLGEMEINE BEGRIFFSBESTIMMUNGEN</u>
+**<u>ALLGEMEINE BEGRIFFSBESTIMMUNGEN</u>**
+
+### Art. 3
 
 (1) Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert,
 
@@ -113,7 +119,9 @@ ii) in Pakistan: das Central Board of Revenue oder dessen bevollmächtigten Vert
 
 ## <u>Artikel 4</u>
 
-### <u>ANSÄSSIGE PERSON</u>
+**<u>ANSÄSSIGE PERSON</u>**
+
+### Art. 4
 
 (1) Im Sinne dieses Abkommens bedeutet der Ausdruck „eine in einem Vertragsstaat ansässige Person“ eine Person, die nach dem Recht dieses Staates dort auf Grund ihres Wohnsitzes, ihres ständigen Aufenthalts, des Ortes ihrer Geschäftsleitung oder eines anderen ähnlichen Merkmals steuerpflichtig ist. Der Ausdruck umfasst jedoch nicht eine Person, die in diesem Staat nur mit Einkünften aus Quellen in diesem Staat steuerpflichtig ist.
 
@@ -131,7 +139,9 @@ d) ist die Person Staatsangehöriger beider Staaten oder keines der Staaten, so 
 
 ## <u>Artikel 5</u>
 
-### <u>BETRIEBSTÄTTE</u>
+**<u>BETRIEBSTÄTTE</u>**
+
+### Art. 5
 
 (1) Im Sinne dieses Abkommens bedeutet der Ausdruck „Betriebstätte“ eine feste Geschäftseinrichtung, durch die die Tätigkeit eines Unternehmens ganz oder teilweise ausgeübt wird.
 
@@ -187,7 +197,9 @@ b) zwar keine solche Vollmacht besitzt, aber im erstgenannten Staat gewöhnlich 
 
 ## <u>Artikel 6</u>
 
-### <u>EINKÜNFTE AUS UNBEWEGLICHEM VERMÖGEN</u>
+**<u>EINKÜNFTE AUS UNBEWEGLICHEM VERMÖGEN</u>**
+
+### Art. 6
 
 (1) Einkünfte, die eine in einem Vertragsstaat ansässige Person aus unbeweglichem Vermögen (einschließlich der Einkünfte aus land- und forstwirtschaftlichen Betrieben) bezieht, das im anderen Vertragsstaat liegt, dürfen im anderen Staat besteuert werden.
 
@@ -199,7 +211,9 @@ b) zwar keine solche Vollmacht besitzt, aber im erstgenannten Staat gewöhnlich 
 
 ## <u>Artikel 7</u>
 
-### <u>UNTERNEHMENSGEWINNE</u>
+**<u>UNTERNEHMENSGEWINNE</u>**
+
+### Art. 7
 
 (1) Gewinne eines Unternehmens eines Vertragsstaats dürfen nur in diesem Staat besteuert werden, es sei denn, das Unternehmen übt seine Tätigkeit im anderen Vertragsstaat durch eine dort gelegene Betriebstätte aus. Übt das Unternehmen seine Tätigkeit auf diese Weise aus, so dürfen die Gewinne des Unternehmens im anderen Staat besteuert werden, jedoch nur insoweit, als sie dieser Betriebstätte zugerechnet werden können.
 
@@ -221,7 +235,9 @@ b) Beträge (ausgenommen solche zum Ersatz tatsächlich entstandener Aufwendunge
 
 ## <u>Artikel 8</u>
 
-### <u>SEESCHIFFFAHRT UND LUFTFAHRT</u>
+**<u>SEESCHIFFFAHRT UND LUFTFAHRT</u>**
+
+### Art. 8
 
 (1) Gewinne aus dem Betrieb von Luftfahrzeugen im internationalen Verkehr dürfen nur in dem Vertragsstaat besteuert werden, in dem sich der Ort der tatsächlichen Geschäftsleitung des Unternehmens befindet.
 
@@ -233,7 +249,9 @@ b) Beträge (ausgenommen solche zum Ersatz tatsächlich entstandener Aufwendunge
 
 ## <u>Artikel 9</u>
 
-### <u>VERBUNDENE UNTERNEHMEN</u>
+**<u>VERBUNDENE UNTERNEHMEN</u>**
+
+### Art. 9
 
 (1) Wenn
 
@@ -249,7 +267,9 @@ und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finan
 
 ## <u>Artikel 10</u>
 
-### <u>DIVIDENDEN</u>
+**<u>DIVIDENDEN</u>**
+
+### Art. 10
 
 (1) Dividenden, die eine in einem Vertragsstaat ansässige Gesellschaft an eine im anderen Vertragsstaat ansässige Person zahlt, dürfen im anderen Staat besteuert werden.
 
@@ -269,7 +289,9 @@ Dieser Absatz berührt nicht die Besteuerung der Gesellschaft in Bezug auf die G
 
 ## <u>Artikel 11</u>
 
-### <u>ZINSEN</u>
+**<u>ZINSEN</u>**
+
+### Art. 11
 
 (1) Zinsen, die aus einem Vertragsstaat stammen und an eine im anderen Vertragsstaat ansässige Person gezahlt werden, dürfen im anderen Staat besteuert werden.
 
@@ -297,7 +319,9 @@ gewährt oder besichert und an eine im anderen Vertragsstaat ansässige Person g
 
 ## <u>Artikel 12</u>
 
-### <u>LIZENZGEBÜHREN</u>
+**<u>LIZENZGEBÜHREN</u>**
+
+### Art. 12
 
 (1) Lizenzgebühren, die aus einem Vertragsstaat stammen und an eine im anderen Vertragsstaat ansässige Person gezahlt werden, dürfen im anderen Staat besteuert werden.
 
@@ -313,7 +337,9 @@ gewährt oder besichert und an eine im anderen Vertragsstaat ansässige Person g
 
 ## <u>Artikel 13</u>
 
-### <u>VERGÜTUNGEN FÜR TECHNISCHE LEISTUNGEN</u>
+**<u>VERGÜTUNGEN FÜR TECHNISCHE LEISTUNGEN</u>**
+
+### Art. 13
 
 (1) Vergütungen für technische Leistungen, die aus einem Vertragsstaat stammen und an ein Unternehmen des anderen Vertragsstaats gezahlt werden, dürfen im anderen Staat besteuert werden.
 
@@ -329,7 +355,9 @@ gewährt oder besichert und an eine im anderen Vertragsstaat ansässige Person g
 
 ## <u>Artikel 14</u>
 
-### <u>GEWINNE AUS DER VERÄUSSERUNG VON VERMÖGEN</u>
+**<u>GEWINNE AUS DER VERÄUSSERUNG VON VERMÖGEN</u>**
+
+### Art. 14
 
 (1) Gewinne, die eine in einem Vertragsstaat ansässige Person aus der Veräußerung unbeweglichen Vermögens im Sinne des Artikels 6 bezieht, das im anderen Vertragsstaat liegt, dürfen im anderen Staat besteuert werden.
 
@@ -345,7 +373,9 @@ gewährt oder besichert und an eine im anderen Vertragsstaat ansässige Person g
 
 ## <u>Artikel 15</u>
 
-### <u>SELBSTÄNDIGE ARBEIT</u>
+**<u>SELBSTÄNDIGE ARBEIT</u>**
+
+### Art. 15
 
 (1) Einkünfte, die eine in einem Vertragsstaat ansässige Person aus einem freien Beruf oder aus sonstiger selbständiger Tätigkeit ähnlicher Art bezieht, dürfen nur in diesem Staat besteuert werden; diese Einkünfte dürfen jedoch unter einem der folgenden Umstände auch im anderen Vertragsstaat besteuert werden:
 
@@ -359,7 +389,9 @@ c) wenn die Vergütungen für die Tätigkeit im anderen Vertragsstaat von einer 
 
 ## <u>Artikel 16</u>
 
-### <u>UNSELBSTÄNDIGE ARBEIT</u>
+**<u>UNSELBSTÄNDIGE ARBEIT</u>**
+
+### Art. 16
 
 (1) Vorbehaltlich der Artikel 17, 19, 20, 21 und 22 dürfen Gehälter, Löhne und ähnliche Vergütungen, die eine in einem Vertragsstaat ansässige Person aus unselbständiger Arbeit bezieht, nur in diesem Staat besteuert werden, es sei denn, die Arbeit wird im anderen Vertragsstaat ausgeübt. Wird die Arbeit dort ausgeübt, so dürfen die dafür bezogenen Vergütungen im anderen Staat besteuert werden.
 
@@ -375,7 +407,9 @@ c) die Vergütungen nicht von einer Betriebstätte oder einer festen Einrichtung
 
 ## <u>Artikel 17</u>
 
-### <u>AUFSICHTSRATS- UND VERWALTUNGSRATSVERGÜTUNGEN</u>
+**<u>AUFSICHTSRATS- UND VERWALTUNGSRATSVERGÜTUNGEN</u>**
+
+### Art. 17
 
 (1) Aufsichtsrats- oder Verwaltungsratsvergütungen und ähnliche Zahlungen, die eine in einem Vertragsstaat ansässige Person in ihrer Eigenschaft als Mitglied des Aufsichts- oder Verwaltungsrats einer Gesellschaft bezieht, die im anderen Vertragsstaat ansässig ist, dürfen im anderen Staat besteuert werden.
 
@@ -383,7 +417,9 @@ c) die Vergütungen nicht von einer Betriebstätte oder einer festen Einrichtung
 
 ## <u>Artikel 18</u>
 
-### <u>KÜNSTLER UND SPORTLER</u>
+**<u>KÜNSTLER UND SPORTLER</u>**
+
+### Art. 18
 
 (1) Ungeachtet der Artikel 7, 15 und 16 dürfen Einkünfte, die eine in einem Vertragsstaat ansässige Person als Künstler, wie Bühnen-, Film-, Rundfunk- und Fernsehkünstler sowie Musiker, oder als Sportler aus ihrer im anderen Vertragsstaat persönlich ausgeübten Tätigkeit bezieht, im anderen Staat besteuert werden.
 
@@ -391,13 +427,17 @@ c) die Vergütungen nicht von einer Betriebstätte oder einer festen Einrichtung
 
 ## <u>Artikel 19</u>
 
-### <u>RUHEGEHÄLTER</u>
+**<u>RUHEGEHÄLTER</u>**
+
+### Art. 19
 
 Vorbehaltlich des Artikels 20 Absatz 2 dürfen Ruhegehälter und ähnliche Vergütungen, die einer in einem Vertragsstaat ansässigen Person für frühere unselbständige Arbeit gezahlt werden, nur in diesem Staat besteuert werden.
 
 ## <u>Artikel 20</u>
 
-### <u>ÖFFENTLICHER DIENST</u>
+**<u>ÖFFENTLICHER DIENST</u>**
+
+### Art. 20
 
 (1) a) Vergütungen, ausgenommen Ruhegehälter, die von einem Vertragsstaat oder einer seiner Gebietskörperschaften an eine natürliche Person für die diesem Staat oder der Gebietskörperschaft geleisteten Dienste gezahlt werden, dürfen nur in diesem Staat besteuert werden.
 
@@ -415,7 +455,9 @@ b) Diese Ruhegehälter dürfen jedoch nur im anderen Vertragsstaat besteuert wer
 
 ## <u>Artikel 21</u>
 
-### <u>HOCHSCHULLEHRER, LEHRER UND WISSENSCHAFTLICHE FORSCHER</u>
+**<u>HOCHSCHULLEHRER, LEHRER UND WISSENSCHAFTLICHE FORSCHER</u>**
+
+### Art. 21
 
 (1) Ein Hochschullehrer, Lehrer oder Forscher, der in einem Vertragsstaat ansässig ist oder dort unmittelbar vor seiner Einreise in den anderen Vertragsstaat ansässig war und sich im anderen Vertragsstaat aufhält, um an einer Universität, einem College, einer Schule oder einer anderen Bildungs- oder Forschungsanstalt zu unterrichten oder zu forschen, ist im anderen Staat von der Besteuerung in Bezug auf Vergütungen für diese Lehre oder Forschung für einen Zeitraum von höchstens zwei Jahren vom Zeitpunkt seiner erstmaligen Einreise in den anderen Staat ausgenommen.
 
@@ -423,7 +465,9 @@ b) Diese Ruhegehälter dürfen jedoch nur im anderen Vertragsstaat besteuert wer
 
 ## <u>Artikel 22</u>
 
-### <u>STUDENTEN</u>
+**<u>STUDENTEN</u>**
+
+### Art. 22
 
 (1) Zahlungen, die ein Student, Praktikant oder Lehrling, der sich in einem Vertragsstaat ausschließlich zum Studium oder zur Ausbildung aufhält und der im anderen Vertragsstaat ansässig ist oder dort unmittelbar vor der Einreise in den erstgenannten Staat ansässig war, für seinen Unterhalt, sein Studium oder seine Ausbildung erhält, dürfen im erstgenannten Staat nicht besteuert werden, sofern diese Zahlungen aus Quellen außerhalb dieses Staates stammen.
 
@@ -431,7 +475,9 @@ b) Diese Ruhegehälter dürfen jedoch nur im anderen Vertragsstaat besteuert wer
 
 ## <u>Artikel 23</u>
 
-### <u>ANDERE EINKÜNFTE</u>
+**<u>ANDERE EINKÜNFTE</u>**
+
+### Art. 23
 
 (1) Vorbehaltlich der Bestimmungen des Absatzes 2 dürfen Einkünfte einer in einem Vertragsstaat ansässigen Person, die in den vorstehenden Artikeln dieses Abkommens nicht ausdrücklich behandelt wurden, ohne Rücksicht auf ihre Herkunft nur in diesem Vertragsstaat besteuert werden.
 
@@ -441,7 +487,9 @@ b) Diese Ruhegehälter dürfen jedoch nur im anderen Vertragsstaat besteuert wer
 
 ## <u>Artikel 24</u>
 
-### <u>METHODEN ZUR VERMEIDUNG DER DOPPELBESTEUERUNG</u>
+**<u>METHODEN ZUR VERMEIDUNG DER DOPPELBESTEUERUNG</u>**
+
+### Art. 24
 
 (1) In Österreich wird die Doppelbesteuerung wie folgt vermieden:
 
@@ -463,7 +511,9 @@ Vorbehaltlich der gesetzlichen Bestimmungen Pakistans betreffend die Anrechnung 
 
 ## <u>Artikel 25</u>
 
-### <u>GLEICHBEHANDLUNG</u>
+**<u>GLEICHBEHANDLUNG</u>**
+
+### Art. 25
 
 (1) Staatsangehörige eines Vertragsstaats dürfen im anderen Vertragsstaat keiner Besteuerung oder damit zusammenhängenden Verpflichtung unterworfen werden, die anders oder belastender ist als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen Staatsangehörige des anderen Staates unter gleichen Verhältnissen unterworfen sind oder unterworfen werden können. Diese Bestimmung gilt ungeachtet des Artikels 1 auch für Personen, die in keinem Vertragsstaat ansässig sind.
 
@@ -487,7 +537,9 @@ c) als beeinflusse er Bestimmungen des pakistanischen Rechts hinsichtlich der Ge
 
 ## <u>Artikel 26</u>
 
-### <u>VERSTÄNDIGUNGSVERFAHREN</u>
+**<u>VERSTÄNDIGUNGSVERFAHREN</u>**
+
+### Art. 26
 
 (1) Ist eine Person der Auffassung, dass Maßnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie unbeschadet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde des Vertragsstaats, in dem sie ansässig ist, oder, sofern ihr Fall von Artikel 25 Absatz 1 erfasst wird, der zuständigen Behörde des Vertragsstaats unterbreiten, dessen Staatsangehöriger sie ist. Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Maßnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
 
@@ -499,7 +551,9 @@ c) als beeinflusse er Bestimmungen des pakistanischen Rechts hinsichtlich der Ge
 
 ## <u>Artikel 27</u>
 
-### <u>INFORMATIONSAUSTAUSCH</u>
+**<u>INFORMATIONSAUSTAUSCH</u>**
+
+### Art. 27
 
 (1) Die zuständigen Behörden der Vertragsstaaten tauschen die Informationen aus, die zur Durchführung dieses Abkommens erforderlich sind, soweit die diesem Recht entsprechende Besteuerung nicht dem Abkommen widerspricht. Der Informationsaustausch ist durch Artikel 1 nicht eingeschränkt. Alle Informationen, die ein Vertragsstaat erhalten hat, sind ebenso geheim zu halten wie die auf Grund des innerstaatlichen Rechts dieses Staates beschafften Informationen und dürfen nur den Personen oder Behörden (einschließlich der Gerichte und der Verwaltungsbehörden) zugänglich gemacht werden, die mit der Veranlagung oder Erhebung, der Vollstreckung oder Strafverfolgung oder mit der Entscheidung von Rechtsmitteln hinsichtlich der unter das Abkommen fallenden Steuern befasst sind. Diese Personen oder Behörden dürfen die Informationen nur für diese Zwecke verwenden. Sie dürfen die Informationen in einem öffentlichen Gerichtsverfahren oder in einer Gerichtsentscheidung offen legen.
 
@@ -513,13 +567,17 @@ c) Informationen zu erteilen, die ein Handels-, Industrie-, Gewerbe- oder Berufs
 
 ## <u>Artikel 28</u>
 
-### <u>DIPLOMATEN UND KONSULARBEAMTE</u>
+**<u>DIPLOMATEN UND KONSULARBEAMTE</u>**
+
+### Art. 28
 
 Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Diplomaten und Konsularbeamten nach den allgemeinen Regeln des Völkerrechts oder auf Grund besonderer Übereinkünfte zustehen.
 
 ## <u>Artikel 29</u>
 
-### <u>DURCHFÜHRUNG</u>
+**<u>DURCHFÜHRUNG</u>**
+
+### Art. 29
 
 (1) Dieses Abkommen ist nicht so auszulegen, als hindere es die Vertragsstaaten, ihre im innerstaatlichen Recht vorgesehenen Abzugsteuersysteme weiterhin anzuwenden. Sieht jedoch das Abkommen in Bezug auf diese Besteuerung eine Befreiung oder Ermäßigung vor, so werden die über diese abkommensgemäße Begrenzung hinaus eingehobenen Steuern über Ersuchen des entlastungsberechtigten Steuerpflichtigen rückerstattet.
 
@@ -527,7 +585,9 @@ Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Diplomaten un
 
 ## <u>Artikel 30</u>
 
-### <u>IN-KRAFT-TRETEN</u>
+**<u>IN-KRAFT-TRETEN</u>**
+
+### Art. 30
 
 (1) Die Vertragsstaaten teilen einander mit, dass die gesetzlichen Verfahren für das In-Kraft-Treten dieses Abkommens abgeschlossen sind. Das Abkommen tritt am ersten Tag des dritten Monats in Kraft, der jenem unmittelbar folgt, in dem die spätere der oben angeführten Mitteilungen erfolgt ist, und ist daraufhin in beiden Vertragsstaaten anzuwenden:
 
@@ -547,7 +607,9 @@ b) in Pakistan:
 
 ## <u>Artikel 31</u>
 
-### <u>KÜNDIGUNG</u>
+**<u>KÜNDIGUNG</u>**
+
+### Art. 31
 
 Dieses Abkommen bleibt auf unbestimmte Zeit in Kraft; jeder Vertragsstaat kann es jedoch am oder vor dem 30. Juni eines jeden Kalenderjahres, das nach Ablauf von fünf Jahren ab dem Zeitpunkt des In-Kraft-Tretens beginnt, auf diplomatischem Weg schriftlich kündigen; in diesem Fall findet das Abkommen nicht mehr Anwendung:
 

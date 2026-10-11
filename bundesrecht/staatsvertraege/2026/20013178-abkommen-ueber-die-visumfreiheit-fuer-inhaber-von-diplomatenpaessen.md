@@ -101,7 +101,9 @@ Im Falle von Auslegungsunterschieden der Bestimmungen dieses Abkommens wird auf 
 
 2 Kundgemacht in BGBl. III Nr. 47/2026.
 
-## Verbalnote
+**Verbalnote**
+
+## Anl. 1
 
 \*(Anm.: Anlage 1 als PDF dokumentiert)*
 

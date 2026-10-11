@@ -167,7 +167,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 1
 
-### AUSLIEFERUNGSVERPFLICHTUNG
+**AUSLIEFERUNGSVERPFLICHTUNG**
+
+### Art. 1
 
 Die Vertragsparteien verpflichten sich, gemäß den nachstehenden Vorschriften und Bedingungen einander die Personen auszuliefern, die von den Justizbehörden des ersuchenden Staates wegen einer strafbaren Handlung verfolgt oder zur Vollstreckung einer Strafe oder einer Maßnahme der Sicherung und Besserung gesucht werden.
 
@@ -177,7 +179,9 @@ Die Vertragsparteien verpflichten sich, gemäß den nachstehenden Vorschriften u
 
 ## Artikel 2
 
-### AUSLIEFERUNGSFÄHIGE STRAFBARE HANDLUNGEN
+**AUSLIEFERUNGSFÄHIGE STRAFBARE HANDLUNGEN**
+
+### Art. 2
 
 (1) Ausgeliefert wird wegen Handlungen, die sowohl nach dem Recht des ersuchenden als auch nach dem des ersuchten Staates mit einer Freiheitsstrafe oder die Freiheit beschränkenden Maßnahme der Sicherung und Besserung im Höchstmaß von mindestens einem Jahr oder mit einer strengeren Strafe bedroht sind. Ist im Hoheitsgebiet des ersuchenden Staates eine Verurteilung zu einer Strafe erfolgt oder eine Maßnahme der Sicherung und Besserung angeordnet worden, so muß deren Maß mindestens vier Monate betragen.
 
@@ -199,7 +203,9 @@ Die Vertragsparteien verpflichten sich, gemäß den nachstehenden Vorschriften u
 
 ## Artikel 3
 
-### POLITISCHE STRAFBARE HANDLUNGEN
+**POLITISCHE STRAFBARE HANDLUNGEN**
+
+### Art. 3
 
 (1) Die Auslieferung wird nicht bewilligt, wenn die strafbare Handlung, derentwegen sie begehrt wird, vom ersuchten Staat als eine politische oder als eine mit einer solchen zusammenhängende strafbare Handlung angesehen wird.
 
@@ -217,7 +223,9 @@ Die Vertragsparteien verpflichten sich, gemäß den nachstehenden Vorschriften u
 
 ## Artikel 4
 
-### MILITÄRISCHE STRAFBARE HANDLUNGEN
+**MILITÄRISCHE STRAFBARE HANDLUNGEN**
+
+### Art. 4
 
 Auf die Auslieferung wegen militärischer strafbarer Handlungen, die keine nach gemeinem Recht strafbaren Handlungen darstellen, ist dieses Übereinkommen nicht anwendbar.
 
@@ -227,7 +235,9 @@ Auf die Auslieferung wegen militärischer strafbarer Handlungen, die keine nach 
 
 ## Artikel 5
 
-### Fiskalische strafbare Handlungen
+**Fiskalische strafbare Handlungen**
+
+### Art. 5
 
 (1) In Abgaben-, Steuer-, Zoll- und Devisenstrafsachen wird die Auslieferung zwischen den Vertragsparteien nach Maßgabe des Übereinkommens wegen Handlungen bewilligt, die nach dem Recht der ersuchten Vertragspartei einer strafbaren Handlung derselben Art entsprechen.
 
@@ -249,7 +259,9 @@ Die Auslieferung wird nicht bewilligt wegen einer strafbaren Handlung, die im er
 
 ## Artikel 6
 
-### AUSLIEFERUNG EIGENER STAATSANGEHÖRIGER
+**AUSLIEFERUNG EIGENER STAATSANGEHÖRIGER**
+
+### Art. 6
 
 (1) a) Jede Vertragspartei ist berechtigt, die Auslieferung ihrer Staatsangehörigen abzulehnen.
 
@@ -265,7 +277,9 @@ c) Für die Beurteilung der Eigenschaft als Staatsangehöriger ist der Zeitpunkt
 
 ## Artikel 7
 
-### BEGEHUNGSORT
+**BEGEHUNGSORT**
+
+### Art. 7
 
 (1) Der ersuchte Staat kann die Auslieferung der verlangten Person wegen einer strafbaren Handlung ablehnen, die nach seinen Rechtsvorschriften ganz oder zum Teil in seinem Hoheitsgebiet oder an einem diesem gleichgestellten Ort begangen worden ist.
 
@@ -277,7 +291,9 @@ c) Für die Beurteilung der Eigenschaft als Staatsangehöriger ist der Zeitpunkt
 
 ## Artikel 8
 
-### ANHÄNGIGE STRAFVERFAHREN WEGEN DERSELBEN HANDLUNGEN
+**ANHÄNGIGE STRAFVERFAHREN WEGEN DERSELBEN HANDLUNGEN**
+
+### Art. 8
 
 Der ersuchte Staat kann die Auslieferung einer verlangten Person ablehnen, die von ihm wegen Handlungen verfolgt wird, derentwegen um Auslieferung ersucht wird.
 
@@ -287,7 +303,9 @@ Der ersuchte Staat kann die Auslieferung einer verlangten Person ablehnen, die v
 
 ## Artikel 9
 
-### NE BIS IN IDEM
+**NE BIS IN IDEM**
+
+### Art. 9
 
 Die Auslieferung wird nicht bewilligt, wenn die verlangte Person wegen Handlungen, derentwegen um Auslieferung ersucht wird, von den zuständigen Behörden des ersuchten Staates rechtskräftig abgeurteilt worden ist. Die Auslieferung kann abgelehnt werden, wenn die zuständigen Behörden des ersuchten Staates entschieden haben, wegen derselben Handlungen kein Strafverfahren einzuleiten oder ein bereits eingeleitetes Strafverfahren einzustellen.
 
@@ -297,7 +315,9 @@ Die Auslieferung wird nicht bewilligt, wenn die verlangte Person wegen Handlunge
 
 ## Artikel 10
 
-### VERJÄHRUNG
+**VERJÄHRUNG**
+
+### Art. 10
 
 (1) Die Auslieferung wird nicht bewilligt, wenn die Strafverfolgung oder die Strafvollstreckung nach den Rechtsvorschriften der ersuchenden Vertragspartei verjährt ist.
 
@@ -317,7 +337,9 @@ b) sofern seine innerstaatlichen Rechtsvorschriften die Auslieferung ausdrückli
 
 ## Artikel 11
 
-### TODESSTRAFE
+**TODESSTRAFE**
+
+### Art. 11
 
 Ist die Handlung, derentwegen um Auslieferung ersucht wird, nach dem Recht des ersuchenden Staates mit der Todesstrafe bedroht, und ist diese für solche Handlungen nach den Rechtsvorschriften des ersuchten Staates nicht vorgesehen oder wird sie von ihm in der Regel nicht vollstreckt, so kann die Auslieferung abgelehnt werden, sofern nicht der ersuchende Staat eine vom ersuchten Staat als ausreichend erachtete Zusicherung gibt, daß die Todesstrafe nicht vollstreckt wird.
 
@@ -327,7 +349,9 @@ Ist die Handlung, derentwegen um Auslieferung ersucht wird, nach dem Recht des e
 
 ## Artikel 12
 
-### ERSUCHEN UND UNTERLAGEN
+**ERSUCHEN UND UNTERLAGEN**
+
+### Art. 12
 
 (1) Das Ersuchen wird schriftlich abgefasst. Es wird vom Justizministerium oder einer anderen zuständigen Behörde der ersuchenden Vertragspartei an das Justizministerium oder eine andere zuständige Behörde der ersuchten Vertragspartei gerichtet. Jeder Staat, der eine andere zuständige Behörde als das Justizministerium bezeichnen möchte, notifiziert dem Generalsekretär des Europarats bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde seine zuständige Behörde sowie alle späteren Änderungen in Bezug auf seine zuständige Behörde.
 
@@ -345,7 +369,9 @@ c) eine Abschrift der anwendbaren Gesetzesbestimmungen oder, sofern dies nicht m
 
 ## Artikel 13
 
-### ERGÄNZUNG DER UNTERLAGEN
+**ERGÄNZUNG DER UNTERLAGEN**
+
+### Art. 13
 
 Erweisen sich die vom ersuchenden Staat übermittelten Unterlagen für eine Entscheidung des ersuchten Staates auf Grund dieses Übereinkommens als unzureichend, so ersucht dieser Staat um die notwendige Ergänzung der Unterlagen; er kann für deren Beibringung eine Frist setzen.
 
@@ -355,7 +381,9 @@ Erweisen sich die vom ersuchenden Staat übermittelten Unterlagen für eine Ents
 
 ## Artikel 14
 
-### GRUNDSATZ DER SPEZIALITÄT
+**GRUNDSATZ DER SPEZIALITÄT**
+
+### Art. 14
 
 (1) Die ausgelieferte Person darf wegen einer anderen, vor der Übergabe begangenen Handlung als derjenigen, die der Auslieferung zugrunde liegt, nur in den folgenden Fällen festgenommen, verfolgt, abgeurteilt, zur Vollstreckung einer Strafe oder Maßregel der Besserung und Sicherung in Haft gehalten oder einer sonstigen Beschränkung ihrer persönlichen Freiheit unterworfen werden:
 
@@ -387,7 +415,9 @@ Die ersuchte Vertragspartei kann dieser Beschränkung jederzeit widersprechen, w
 
 ## Artikel 15
 
-### WEITERLIEFERUNG AN EINEN DRITTEN STAAT
+**WEITERLIEFERUNG AN EINEN DRITTEN STAAT**
+
+### Art. 15
 
 (1) Außer im Falle des Artikels 14 Abs. 1 lit. b darf der ersuchende Staat die ihm ausgelieferte Person, die von einer anderen Vertragspartei oder einem dritten Staat wegen vor der Übergabe begangener strafbarer Handlungen gesucht wird, nur mit Zustimmung des ersuchten Staates der anderen Vertragspartei oder dem dritten Staat ausliefern. Der ersuchte Staat kann die Vorlage der im Artikel 12 Abs. 2 erwähnten Unterlagen verlangen.
 
@@ -399,7 +429,9 @@ Die ersuchte Vertragspartei kann dieser Beschränkung jederzeit widersprechen, w
 
 ## Artikel 16
 
-### VORLÄUFIGE AUSLIEFERUNGSHAFT
+**VORLÄUFIGE AUSLIEFERUNGSHAFT**
+
+### Art. 16
 
 (1) In dringenden Fällen können die zuständigen Behörden des ersuchenden Staates um vorläufige Verhaftung der gesuchten Person ersuchen; über dieses Ersuchen entscheiden die zuständigen Behörden des ersuchten Staates nach dessen Recht.
 
@@ -417,7 +449,9 @@ Die ersuchte Vertragspartei kann dieser Beschränkung jederzeit widersprechen, w
 
 ## Artikel 17
 
-### MEHRHEIT VON AUSLIEFERUNGSERSUCHEN
+**MEHRHEIT VON AUSLIEFERUNGSERSUCHEN**
+
+### Art. 17
 
 Wird wegen derselben oder wegen verschiedener Handlungen von mehreren Staaten zugleich um Auslieferung ersucht, so entscheidet der ersuchte Staat unter Berücksichtigung aller Umstände, insbesondere der verhältnismäßigen Schwere der strafbaren Handlungen, des Ortes ihrer Begehung, des Zeitpunktes der Auslieferungsersuchen, der Staatsangehörigkeit der verlangten Person und der Möglichkeit einer späteren Auslieferung an einen anderen Staat.
 
@@ -427,7 +461,9 @@ Wird wegen derselben oder wegen verschiedener Handlungen von mehreren Staaten zu
 
 ## Artikel 18
 
-### ÜBERGABE DER AUSZULIEFERNDEN PERSON
+**ÜBERGABE DER AUSZULIEFERNDEN PERSON**
+
+### Art. 18
 
 (1) Der ersuchte Staat setzt den ersuchenden Staat von seiner Entscheidung über die Auslieferung auf dem im Artikel 12 Abs. 1 vorgesehenen Weg in Kenntnis.
 
@@ -445,7 +481,9 @@ Wird wegen derselben oder wegen verschiedener Handlungen von mehreren Staaten zu
 
 ## Artikel 19
 
-### AUFGESCHOBENE ODER BEDINGTE ÜBERGABE
+**AUFGESCHOBENE ODER BEDINGTE ÜBERGABE**
+
+### Art. 19
 
 (1) Der ersuchte Staat kann, nachdem er über das Auslieferungsersuchen entschieden hat, die Übergabe der verlangten Person aufschieben, damit diese von ihm gerichtlich verfolgt werden oder, falls sie bereits verurteilt worden ist, in seinem Hoheitsgebiet eine Strafe verbüßen kann, die sie wegen einer anderen Handlung als jener verwirkt hat, derentwegen um Auslieferung ersucht worden ist.
 
@@ -457,7 +495,9 @@ Wird wegen derselben oder wegen verschiedener Handlungen von mehreren Staaten zu
 
 ## Artikel 20
 
-### ÜBERGABE VON GEGENSTÄNDEN
+**ÜBERGABE VON GEGENSTÄNDEN**
+
+### Art. 20
 
 (1) Auf Verlangen des ersuchenden Staates beschlagnahmt und übergibt der ersuchte Staat, soweit es seine Rechtsvorschriften zulassen, die Gegenstände,
 
@@ -477,7 +517,9 @@ b) die aus der strafbaren Handlung herrühren und im Zeitpunkt der Festnahme im 
 
 ## Artikel 21
 
-### DURCHLIEFERUNG
+**DURCHLIEFERUNG**
+
+### Art. 21
 
 (1) Die Durchlieferung durch das Hoheitsgebiet einer der Vertragsparteien wird nach Vorlage eines Durchlieferungsersuchens bewilligt, sofern die strafbare Handlung von der um die Durchlieferung ersuchten Vertragspartei nicht als politische oder rein militärische strafbare Handlung im Sinne der Artikel 3 und 4 angesehen wird.
 
@@ -507,7 +549,9 @@ e) die Beschreibung der Umstände, unter denen die strafbare Handlung begangen w
 
 ## Artikel 22
 
-### VERFAHREN
+**VERFAHREN**
+
+### Art. 22
 
 Soweit in diesem Übereinkommen nichts anderes bestimmt ist, findet auf das Verfahren der Auslieferung und der vorläufigen Auslieferungshaft ausschließlich das Recht des ersuchten Staates Anwendung.
 
@@ -517,7 +561,9 @@ Soweit in diesem Übereinkommen nichts anderes bestimmt ist, findet auf das Verf
 
 ## Artikel 23
 
-### ANZUWENDENDE SPRACHE
+**ANZUWENDENDE SPRACHE**
+
+### Art. 23
 
 Die beizubringenden Unterlagen sind in der Sprache des ersuchenden Staates oder in der des ersuchten Staates abzufassen. Dieser kann eine Übersetzung in eine von ihm gewählte offizielle Sprache des Europarates verlangen.
 
@@ -527,7 +573,9 @@ Die beizubringenden Unterlagen sind in der Sprache des ersuchenden Staates oder 
 
 ## Artikel 24
 
-### KOSTEN
+**KOSTEN**
+
+### Art. 24
 
 (1) Kosten, die durch die Auslieferung im Hoheitsgebiet des ersuchten Staates entstehen, gehen zu dessen Lasten.
 
@@ -541,7 +589,9 @@ Die beizubringenden Unterlagen sind in der Sprache des ersuchenden Staates oder 
 
 ## Artikel 25
 
-### BESTIMMUNG DES BEGRIFFES DER „MASSNAHMEN DER SICHERUNG UND BESSERUNG“
+**BESTIMMUNG DES BEGRIFFES DER „MASSNAHMEN DER SICHERUNG UND BESSERUNG“**
+
+### Art. 25
 
 Im Sinne dieses Übereinkommens bedeutet der Ausdruck „Maßnahmen der Sicherung und Besserung“ alle die Freiheit beschränkenden Maßnahmen, die durch ein Strafgericht neben oder an Stelle einer Strafe angeordnet worden sind.
 
@@ -551,7 +601,9 @@ Im Sinne dieses Übereinkommens bedeutet der Ausdruck „Maßnahmen der Sicherun
 
 ## Artikel 26
 
-### VORBEHALTE
+**VORBEHALTE**
+
+### Art. 26
 
 (1) Jede Vertragspartei kann bei der Unterzeichnung dieses Übereinkommens oder der Hinterlegung ihrer Ratifikations- oder Beitrittsurkunde zu einer oder mehreren genau bezeichneten Bestimmungen des Übereinkommens einen Vorbehalt machen.
 
@@ -565,7 +617,9 @@ Im Sinne dieses Übereinkommens bedeutet der Ausdruck „Maßnahmen der Sicherun
 
 ## Artikel 27
 
-### RÄUMLICHER GELTUNGSBEREICH
+**RÄUMLICHER GELTUNGSBEREICH**
+
+### Art. 27
 
 (1) Dieses Übereinkommen findet auf das Mutterland der Vertragsparteien Anwendung.
 
@@ -581,7 +635,9 @@ Im Sinne dieses Übereinkommens bedeutet der Ausdruck „Maßnahmen der Sicherun
 
 ## Artikel 28
 
-### VERHÄLTNIS DIESES ÜBEREINKOMMENS ZU ZWEISEITIGEN VEREINBARUNGEN
+**VERHÄLTNIS DIESES ÜBEREINKOMMENS ZU ZWEISEITIGEN VEREINBARUNGEN**
+
+### Art. 28
 
 (1) Dieses Übereinkommen hebt hinsichtlich der Gebiete, auf die es Anwendung findet, jene Bestimmungen zweiseitiger Verträge, Übereinkommen oder Vereinbarungen auf, die das Auslieferungswesen zwischen zwei Vertragsparteien regeln.
 
@@ -595,7 +651,9 @@ Im Sinne dieses Übereinkommens bedeutet der Ausdruck „Maßnahmen der Sicherun
 
 ## Artikel 29
 
-### UNTERZEICHNUNG, RATIFIKATION, INKRAFTTRETEN
+**UNTERZEICHNUNG, RATIFIKATION, INKRAFTTRETEN**
+
+### Art. 29
 
 (1) Dieses Übereinkommen liegt zur Unterzeichnung durch die Mitglieder des Europarates auf. Es bedarf der Ratifikation; die Ratifikationsurkunden werden bei dem Generalsekretär des Europarates hinterlegt.
 
@@ -609,7 +667,9 @@ Im Sinne dieses Übereinkommens bedeutet der Ausdruck „Maßnahmen der Sicherun
 
 ## Artikel 30
 
-### BEITRITT
+**BEITRITT**
+
+### Art. 30
 
 (1) Das Ministerkomitee des Europarates kann jeden Staat, der nicht Mitglied des Europarates ist, einladen, diesem Übereinkommen beizutreten. Die Entschließung über diese Einladung bedarf der einstimmigen Billigung der Mitglieder des Europarates, die das Übereinkommen ratifiziert haben.
 
@@ -621,7 +681,9 @@ Im Sinne dieses Übereinkommens bedeutet der Ausdruck „Maßnahmen der Sicherun
 
 ## Artikel 31
 
-### KÜNDIGUNG
+**KÜNDIGUNG**
+
+### Art. 31
 
 Jede Vertragspartei kann für sich selbst dieses Übereinkommen durch Notifikation an den Generalsekretär des Europarates kündigen. Diese Kündigung wird sechs Monate nach Eingang der Notifikation bei dem Generalsekretär des Europarates wirksam.
 
@@ -631,7 +693,9 @@ Jede Vertragspartei kann für sich selbst dieses Übereinkommen durch Notifikati
 
 ## Artikel 32
 
-### NOTIFIKATIONEN
+**NOTIFIKATIONEN**
+
+### Art. 32
 
 Der Generalsekretär des Europarates notifiziert den Mitgliedern des Europarates und der Regierung jedes Staates, der diesem Übereinkommen beigetreten ist:
 
@@ -657,7 +721,9 @@ GESCHEHEN zu Paris am 13. Dezember 1957, in französischer und englischer Sprach
 
 ## *(Anm.: Artikel 33)*
 
-### Kommunikationswege und -mittel
+**Kommunikationswege und -mittel**
+
+### Art. 33
 
 (1) Für den Zweck des Übereinkommens können Mitteilungen durch elektronische oder andere Mittel, die einen schriftlichen Nachweis ermöglichen, unter Bedingungen, die den Vertragsparteien die Feststellung ihrer Echtheit erlauben, übersandt werden. In jedem Fall übersendet die betreffende Vertragspartei die Unterlagen auf Ersuchen und jederzeit im Original oder in beglaubigter Abschrift.
 
@@ -671,7 +737,9 @@ GESCHEHEN zu Paris am 13. Dezember 1957, in französischer und englischer Sprach
 
 ## *(Anm.: Artikel 34)*
 
-### Gütliche Einigung
+**Gütliche Einigung**
+
+### Art. 34
 
 Der Europäische Ausschuss für Strafrechtsfragen des Europarats wird über die Durchführung des Übereinkommens und seiner Zusatzprotokolle fortlaufend informiert; er unternimmt das Nötige, um bei Schwierigkeiten, die sich möglicherweise aus ihrer Auslegung und Durchführung ergeben, eine gütliche Einigung zu erleichtern.
 

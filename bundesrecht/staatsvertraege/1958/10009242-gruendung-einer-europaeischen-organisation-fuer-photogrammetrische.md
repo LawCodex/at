@@ -29,25 +29,33 @@ Die zu diesem Zwecke ordnungsgemäß bevollmächtigten, unterzeichneten Vertrete
 
 ## Artikel 1
 
-#### ORGANISATION
+**ORGANISATION**
+
+#### Art. 1
 
 Die vertragschließenden Parteien gründen hiemit eine Europäische Organisation für photogrammetrische experimentelle Untersuchungen (im nachfolgenden „Organisation“ genannt).
 
 ## Artikel 2
 
-#### ZWECK
+**ZWECK**
+
+#### Art. 2
 
 Die Organisation hat zum Ziel, die Genauigkeit und Qualität kartographischer Aufnahmen zu verbessern und die Wirtschaftlichkeit der Luftbildaufnahmen durch Beschleunigung der Entwicklung und Verbesserung der photogrammetrischen Methoden zu steigern, besonders durch die Aufstellung und Durchführung eines gemeinsamen Programms von experimentellen photogrammetrischen Untersuchungen in gegenseitiger Zusammenarbeit.
 
 ## Artikel 3
 
-#### MITGLIEDER
+**MITGLIEDER**
+
+#### Art. 3
 
 Mitglieder der Organisation sind sowohl die vertragschließenden Parteien, die Unterzeichner der vorliegenden Vereinbarung sind oder sich ihr in Übereinstimmung mit den Bestimmungen des nachstehenden Artikels 9 angeschlossen haben, als auch die zuständigen amtlichen oder halbamtlichen Institutionen, die zu diesem Zweck von ihren Regierungen bestimmt worden sind, mit der Maßgabe, daß jede vertragschließende Partei durch eine Institution vertreten ist.
 
 ## Artikel 4
 
-#### GLIEDERUNG
+**GLIEDERUNG**
+
+#### Art. 4
 
 Die Organisation besteht aus einem Direktionskomitee, einem geschäftsführenden Büro und so vielen wissenschaftlichen Kommissionen, wie zur Durchführung der Forschungsprogramme für notwendig gehalten werden.
 
@@ -79,7 +87,9 @@ Die Mitglieder des Büros nehmen an den Sitzungen des Direktionskomitees ohne St
 
 ## Artikel 5
 
-#### ARBEITSWEISE
+**ARBEITSWEISE**
+
+#### Art. 5
 
 Die Arbeitsweise der Organisation beruht auf folgenden Grundsätzen:
 
@@ -93,13 +103,17 @@ Die Arbeitsweise der Organisation beruht auf folgenden Grundsätzen:
 
 ## Artikel 6
 
-#### SITZ
+**SITZ**
+
+#### Art. 6
 
 Der Sitz der Organisation soll so bald wie möglich vom Direktionskomitee bestimmt werden.
 
 ## Artikel 7
 
-#### GELDMITTEL UND BEITRÄGE
+**GELDMITTEL UND BEITRÄGE**
+
+#### Art. 7
 
 Die Organisation wird durch Beiträge der Mitglieder finanziert, ferner durch Schenkungen, Vermächtnisse oder Beihilfen aus verschiedenen Quellen in Übereinstimmung mit Absatz (c) des Artikels 7.
 
@@ -115,7 +129,9 @@ Wenn ein Mitglied die Durchführung besonderer Forschungsaufgaben wünscht, dere
 
 ## Artikel 8
 
-#### ANFANGSPROGRAMM
+**ANFANGSPROGRAMM**
+
+#### Art. 8
 
 Das Anfangsprogramm umfaßt unter anderem:
 
@@ -131,13 +147,17 @@ Das Anfangsprogramm umfaßt unter anderem:
 
 ## Artikel 9
 
-#### BEITRITT
+**BEITRITT**
+
+#### Art. 9
 
 Die Regierung jedes Mitgliedstaates der Organisation für europäische wirtschaftliche Zusammenarbeit oder eines jeden Landes, das sich den Arbeiten der genannten Organisation angeschlossen hat, kann der vorliegenden Vereinbarung beitreten, indem sie der Organisation entsprechende Mitteilung macht und das Direktionskomitee seine Zustimmung erteilt, das den Beitritt davon abhängig machen kann, daß vorher ein von ihm festgesetzter Betrag entrichtet wird.
 
 ## Artikel 10
 
-#### AUSTRITT
+**AUSTRITT**
+
+#### Art. 10
 
 (a) Jede der vertragschließenden Parteien kann nach Ablauf einer zweijährigen Mitgliedschaft ihre Absicht kundtun, aus der Organisation auszutreten. Der Austritt wird ein Jahr nach dem Tage wirksam, an welchem er der Organisation mitgeteilt worden ist, mit der Maßgabe, daß das betreffende Mitglied seinen Beitrag für das Jahr noch entrichtet, nach dessen Ablauf seine Mitgliedschaft in der Organisation erlischt.
 
@@ -145,13 +165,17 @@ Die Regierung jedes Mitgliedstaates der Organisation für europäische wirtschaf
 
 ## Artikel 11
 
-#### ÄNDERUNGEN DER VEREINBARUNG
+**ÄNDERUNGEN DER VEREINBARUNG**
+
+#### Art. 11
 
 Die vorliegende Vereinbarung kann vom Direktionskomitee auf Vorschlag eines Mitgliedes oder des geschäftsführenden Büros abgeändert werden. Jeder Änderungsvorschlag soll allen Mitgliedern mindestens drei Monate vorher mitgeteilt werden, ehe er dem Direktionskomitee zur Prüfung vorgelegt wird.
 
 ## Artikel 12
 
-#### INKRAFTTRETEN DER VEREINBARUNG
+**INKRAFTTRETEN DER VEREINBARUNG**
+
+#### Art. 12
 
 (a) Die vorliegende Vereinbarung soll für die Unterzeichner mit dem Tage der Unterzeichnung in Kraft treten. Für jedes Land, das ihm später beitreten will, soll es mit dem Tage der Genehmigung durch das Direktionskomitee in Kraft treten.
 
@@ -159,7 +183,9 @@ Die vorliegende Vereinbarung kann vom Direktionskomitee auf Vorschlag eines Mitg
 
 ## Artikel 13
 
-#### AUFLÖSUNG DER ORGANISATION
+**AUFLÖSUNG DER ORGANISATION**
+
+#### Art. 13
 
 Im Falle der Auflösung der Organisation soll das Direktionskomitee alle geeigneten Maßnahmen ergreifen, um im besten Interesse der Mitglieder über das Vermögen der Organisation zu verfügen.
 

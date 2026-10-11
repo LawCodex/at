@@ -39,7 +39,9 @@ sind wie folgt übereingekommen:
 
 ## ARTIKEL 1
 
-### Gegenstand des Abkommens
+**Gegenstand des Abkommens**
+
+### Art. 1
 
 (1) Gegenstand dieses Abkommens sind Bau, Instandhaltung einschließlich Erneuerung wesentlicher Teile und Betrieb eines Grenztunnels, der auf österreichischem Hoheitsgebiet im Zuge der von Reutte kommenden Bundesstraße, auf dem Hoheitsgebiet der Bundesrepublik Deutschland im Zuge der Bundesautobahn A 7 liegt.
 
@@ -47,7 +49,9 @@ sind wie folgt übereingekommen:
 
 ## ARTIKEL 2
 
-### Planung und Bauausführung
+**Planung und Bauausführung**
+
+### Art. 2
 
 (1) Das Bauvorhaben umfaßt die Herstellung des betriebsfähigen Grenztunnels, der aus einer Tunnelröhre mit zwei Fahrstreifen besteht und im Gegenverkehr betrieben wird.
 
@@ -59,19 +63,25 @@ sind wie folgt übereingekommen:
 
 ## ARTIKEL 3
 
-### Instandhaltung und Betrieb
+**Instandhaltung und Betrieb**
+
+### Art. 3
 
 Mit der Abnahme übernimmt die Bundesrepublik Deutschland Instandhaltung und Betrieb des Grenztunnels. Die Erneuerung wesentlicher Teile erfolgt im Einvernehmen mit den zuständigen österreichischen Stellen. Die zuständigen Stellen der Vertragsstaaten können jedoch für bestimmte Aufgaben abweichende Regelungen vereinbaren.
 
 ## ARTIKEL 4
 
-### Grunderwerb
+**Grunderwerb**
+
+### Art. 4
 
 Jeder Vertragsstaat sorgt dafür, daß auf seinem Hoheitsgebiet die für den Bau und den Betrieb des Grenztunnels dauernd oder zeitweilig erforderlichen Grundstücke und Dienstbarkeiten rechtzeitig zur Verfügung stehen, und trägt die dabei anfallenden Kosten.
 
 ## ARTIKEL 5
 
-### Kostenteilung
+**Kostenteilung**
+
+### Art. 5
 
 (1) Jeder Vertragsstaat trägt die Kosten (ohne Umsatzsteuer) für den Bau, die Instandhaltung und den Betrieb des Grenztunnels, soweit er auf seinem Hoheitsgebiet liegt. Die Kosten für den Bau umfassen auch die Projektierungskosten einschließlich der Kosten für geologische Untersuchungen und Gutachten.
 
@@ -85,13 +95,17 @@ Jeder Vertragsstaat sorgt dafür, daß auf seinem Hoheitsgebiet die für den Bau
 
 ## ARTIKEL 6
 
-### Verwaltungsvereinbarung
+**Verwaltungsvereinbarung**
+
+### Art. 6
 
 Die Einzelheiten der Planung, der Ausschreibung, der Vergabe, der Bauausführung und -überwachung, der Abnahme, der Instandhaltung und des Betriebs sowie der Abrechnung und Kostenerstattung werden in einer Verwaltungsvereinbarung geregelt, die der Landeshauptmann von Tirol und das Bayerische Staatsministerium des Innern abschließen.
 
 ## ARTIKEL 7
 
-### Gemischte Kommission
+**Gemischte Kommission**
+
+### Art. 7
 
 (1) Zur Klärung grundsätzlicher Fragen, die sich bei der Durchführung dieses Abkommens hinsichtlich Bau, Instandhaltung oder Betrieb des Grenztunnels ergeben, wird eine Gemischte Kommission gebildet.
 
@@ -101,7 +115,9 @@ Die Einzelheiten der Planung, der Ausschreibung, der Vergabe, der Bauausführung
 
 ## ARTIKEL 8
 
-### Schiedsverfahren
+**Schiedsverfahren**
+
+### Art. 8
 
 (1) Streitigkeiten über die Auslegung oder Anwendung dieses Abkommens werden, soweit möglich, durch die Vertragsstaaten gütlich beigelegt. Jeder Vertragsstaat kann zu diesem Zweck von der Gemischten Kommission eine Stellungnahme einholen.
 
@@ -117,19 +133,25 @@ Die Einzelheiten der Planung, der Ausschreibung, der Vergabe, der Bauausführung
 
 ## ARTIKEL 9
 
-### Berlin-Klausel
+**Berlin-Klausel**
+
+### Art. 9
 
 Dieses Abkommen gilt auch für das Land Berlin, sofern nicht die Regierung der Bundesrepublik Deutschland gegenüber der Regierung der Republik Österreich innerhalb von drei Monaten nach Inkrafttreten dieses Abkommens eine gegenteilige Erklärung abgibt.
 
 ## ARTIKEL 10
 
-### Gültigkeitsdauer
+**Gültigkeitsdauer**
+
+### Art. 10
 
 Dieses Abkommen wird auf unbestimmte Zeit abgeschlossen; es ist für die Dauer von zwanzig Jahren nach seinem Inkrafttreten unkündbar, danach mit einer Frist von zwei Jahren kündbar.
 
 ## ARTIKEL 11
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 11
 
 (1) Dieses Abkommen bedarf der Ratifikation. Die Ratifikationsurkunden werden so bald wie möglich in Bonn ausgetauscht werden.
 

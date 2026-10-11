@@ -82,13 +82,17 @@ Die Vertragsstaaten dieses Übereinkommens und die Afrikanische Entwicklungsbank
 
 ### Zweck und Beteiligung — Artikel 2
 
-#### Zweck
+**Zweck**
+
+#### Art. 2
 
 Der Fonds dient dem Zweck, die Bank in ihren Bemühungen um einen zunehmend wirksameren Beitrag zur wirtschaftlichen und sozialen Entwicklung der Mitglieder der Bank sowie um Förderung der Zusammenarbeit (auch auf regionaler und subregionaler Ebene) und eines wachsenden internationalen Handels, insbesondere unter ihren Mitgliedern, zu unterstützen. Der Fonds stellt für Zwecke, die für diese Entwicklung von vorrangiger Bedeutung und ihr dienlich sind, Finanzierungsmittel zu Vorzugsbedingungen bereit.
 
 ## Artikel 3
 
-#### Beteiligung
+**Beteiligung**
+
+#### Art. 3
 
 (1) Teilnehmer des Fonds sind die Bank und die Staaten, die nach Maßgabe dieses Übereinkommens Vertragsparteien desselben geworden sind.
 
@@ -102,7 +106,9 @@ Der Fonds dient dem Zweck, die Bank in ihren Bemühungen um einen zunehmend wirk
 
 ### Vermögenswerte — Artikel 4
 
-#### Vermögenswerte
+**Vermögenswerte**
+
+#### Art. 4
 
 Die Vermögenswerte des Fonds umfassen
 
@@ -116,13 +122,17 @@ iv) Mittel, die aus der Geschäftstätigkeit des Fonds stammen oder ihm sonst zu
 
 ## Artikel 5
 
-#### Zeichnungen der Bank
+**Zeichnungen der Bank**
+
+#### Art. 5
 
 Die Bank zahlt als Stammeinlagezeichnung den in Rechnungseinheiten ausgedrückten, in Anlage A neben ihrem Namen eingetragenen Betrag unter Verwendung der hierfür dem „Afrikanischen Entwicklungsfonds” der Bank gutgeschriebenen Mittel in den Fonds ein. Die Zahlung erfolgt zu denselben Fristen und Bedingungen, wie sie in Artikel 6 Absatz 2 für die Zahlung der Stammeinlagezeichnung der Teilnehmerstaaten vorgesehen sind. Die Bank zeichnet danach die von ihrem Gouverneursrat beschlossenen weiteren Beträge unter Bedingungen und nach einem Verfahren, die mit dem Fonds vereinbart werden.
 
 ## Artikel 6
 
-#### Stammeinlagezeichnungen der Teilnehmerstaaten
+**Stammeinlagezeichnungen der Teilnehmerstaaten**
+
+#### Art. 6
 
 (1) Jeder Staat, der Teilnehmer wird, zeichnet den ihm zugewiesenen Betrag. Diese Zeichnungen werden im folgenden Stammeinlagezeichnungen genannt.
 
@@ -136,7 +146,9 @@ Die Bank zahlt als Stammeinlagezeichnung den in Rechnungseinheiten ausgedrückte
 
 ## Artikel 7
 
-#### Zusätzliche Zeichnungen der Teilnehmerstaaten
+**Zusätzliche Zeichnungen der Teilnehmerstaaten**
+
+#### Art. 7
 
 (1) Der Fonds überprüft jederzeit, wenn er dies für angezeigt hält, sowie später in geeigneten Zeitabständen unter Berücksichtigung des Zahlungsplans der Stammeinlagezeichnungen der Gründungsteilnehmer und im Lichte seiner Geschäftstätigkeit seine Vermögenswerte; hält er es für wünschenswert, so kann er eine allgemeine Aufstockung der Zeichnungen der Teilnehmerstaaten zu von ihm festgesetzten Fristen und Bedingungen genehmigen. Ungeachtet der vorstehenden Bestimmungen kann der Fonds jederzeit allgemeine Aufstockungen oder Einzelaufstockungen derartiger Zeichnungen, Einzelaufstockungen jedoch nur auf Antrag des betreffenden Teilnehmerstaats, genehmigen.
 
@@ -148,7 +160,9 @@ Die Bank zahlt als Stammeinlagezeichnung den in Rechnungseinheiten ausgedrückte
 
 ## Artikel 8
 
-#### Sonstige Vermögenswerte
+**Sonstige Vermögenswerte**
+
+#### Art. 8
 
 (1) Vorbehaltlich der folgenden Bestimmungen dieses Artikels kann der Fonds Verträge schließen, um sich sonstige Vermögenswerte, einschließlich Zuwendungen und Darlehen, von Mitgliedern, Teilnehmern, Nichtteilnehmerstaaten sowie von öffentlichen oder privaten Rechtsträgern zu beschaffen.
 
@@ -162,13 +176,17 @@ Die Bank zahlt als Stammeinlagezeichnung den in Rechnungseinheiten ausgedrückte
 
 ## Artikel 9
 
-#### Zahlung der Zeichnungen
+**Zahlung der Zeichnungen**
+
+#### Art. 9
 
 Der Fonds nimmt Teile der Zeichnung eines Teilnehmers, die dieser nach Artikel 5, 6 oder 7 oder nach Artikel 13 zu zahlen hat und die der Fonds für seine Geschäftstätigkeit nicht benötigt, in Form von Schatzanweisungen, Kreditbriefen oder ähnlichen, von dem Teilnehmer oder der gegebenenfalls von ihm nach Artikel 33 benannten Hinterlegungsstelle ausgegebenen Schuldverschreibungen entgegen. Derartige Schatzanweisungen oder sonstige Schuldverschreibungen dürfen nicht verkehrsfähig sein; sie müssen zinsfrei und auf Aufforderung zugunsten des Kontos des Fonds bei der bezeichneten Hinterlegungsstelle oder, in Ermangelung einer solchen, in der vom Fonds angegebenen Weise im Nennbetrag zahlbar sein. Ungeachtet der Begebung oder Annahme derartiger Schatzanweisungen, Kreditbriefe oder sonstiger Schuldverschreibungen bleibt die Verpflichtung des Teilnehmers nach den Artikeln 5, 6 und 7 sowie nach Artikel 13 bestehen. Beträge, die der Fonds auf Grund der Zeichnung von Teilnehmern innehat, die sich nicht der Bestimmungen dieses Artikels bedienen, kann der Fonds einzahlen oder anlegen, um Gewinne zur Deckung seiner Verwaltungskosten und sonstigen Unkosten zu erzielen. Der Fonds ruft alle Zeichnungen, soweit während angemessener Fristen durchführbar, im Verhältnis der Anteile ab, um die Ausgaben ohne Rücksicht auf die Form, in der die Zeichnungen geleistet wurden, zu finanzieren.
 
 ## Artikel 10
 
-#### Haftungseinschränkung
+**Haftungseinschränkung**
+
+#### Art. 10
 
 Ein Teilnehmer ist auf Grund seiner Beteiligung für Handlungen oder Verpflichtungen des Fonds nicht haftbar.
 
@@ -176,7 +194,9 @@ Ein Teilnehmer ist auf Grund seiner Beteiligung für Handlungen oder Verpflichtu
 
 ### Währungen — Artikel 11
 
-#### Verwendung von Währungen
+**Verwendung von Währungen**
+
+#### Art. 11
 
 (1) Währungsbeträge, die als Zahlung von Zeichnungen nach Artikel 5 und Artikel 6 Absatz 2 oder nach Artikel 13 im Hinblick auf solche Zeichnungen eingehen, kann der Fonds im Rahmen seiner Geschäftstätigkeit verwenden und in andere Währungen konvertieren, vorbehaltlich der Zustimmung des Direktoriums auch zur zeitweiligen Anlage von Beträgen, die für seine Geschäftstätigkeit nicht benötigt werden.
 
@@ -188,7 +208,9 @@ Ein Teilnehmer ist auf Grund seiner Beteiligung für Handlungen oder Verpflichtu
 
 ## Artikel 12
 
-#### Bewertung der Währungen
+**Bewertung der Währungen**
+
+#### Art. 12
 
 (1) Ist es nach diesem Übereinkommen erforderlich, den Wert einer Währung durch eine andere Währung oder andere Währungen oder in der Rechnungseinheit auszudrücken, so nimmt der Fonds nach Konsultierung des Internationalen Währungsfonds diese Bewertung nach billigem Ermessen vor.
 
@@ -196,7 +218,9 @@ Ein Teilnehmer ist auf Grund seiner Beteiligung für Handlungen oder Verpflichtu
 
 ## Artikel 13
 
-#### Aufrechterhaltung des Wertes von Währungsbeständen
+**Aufrechterhaltung des Wertes von Währungsbeständen**
+
+#### Art. 13
 
 (1) Sinkt die im Rahmen des Internationalen Währungsfonds geltende Parität der Währung eines Teilnehmerstaats im Verhältnis zur Rechnungseinheit oder ist nach Auffassung des Fonds ihr Devisenwert im Hoheitsgebiet des betreffenden Teilnehmers in beträchtlichem Maße gefallen, so zahlt dieser Teilnehmer binnen angemessener Frist in seiner eigenen Währung denjenigen Betrag an den Fonds, der erforderlich ist, um den im Zeitpunkt der Zeichnung gegebenen Wert des von dem Teilnehmer nach Artikel 6 und nach diesem Absatz in den Fonds eingezahlten Währungsbetrags ohne Rücksicht darauf aufrechtzuerhalten, ob der betreffende Währungsbetrag in Form von Schatzanweisungen, Kreditbriefen oder sonstigen nach Artikel 9 angenommenen Schuldverschreibungen geführt wird; diese Bestimmungen gelten jedoch nur insoweit, als der betreffende Währungsbetrag noch nicht auf die Stammeinlage eingezahlt oder in eine andere Währung konvertiert wurde.
 
@@ -208,7 +232,9 @@ Ein Teilnehmer ist auf Grund seiner Beteiligung für Handlungen oder Verpflichtu
 
 ### Geschäftstätigkeit — Artikel 14
 
-#### Verwendung der Vermögenswerte
+**Verwendung der Vermögenswerte**
+
+#### Art. 14
 
 (1) Der Fonds stellt Mittel zur Finanzierung von Vorhaben und Programmen zur Förderung der wirtschaftlichen und sozialen Entwicklung im Hoheitsgebiet der Mitglieder bereit. Der Fonds gewährt derartige Finanzierungen zugunsten solcher Mitglieder, deren Wirtschaftslage und -aussichten eine Finanzierung zu Vorzugsbedingungen erfordern.
 
@@ -216,7 +242,9 @@ Ein Teilnehmer ist auf Grund seiner Beteiligung für Handlungen oder Verpflichtu
 
 ## Artikel 15
 
-#### Finanzierungsbedingungen
+**Finanzierungsbedingungen**
+
+#### Art. 15
 
 (1) Der Fonds finanziert Vorhaben im Hoheitsgebiet eines Mitglieds nicht, wenn dieses widerspricht; der Fonds ist jedoch nicht gehalten, sich zu vergewissern, daß einzelne Mitglieder nicht widersprechen, wenn einer öffentlich-rechtlichen internationalen, regionalen oder subregionalen Organisation Finanzierung gewährt wird.
 
@@ -244,7 +272,9 @@ b) Bei der Gewährung einer Finanzierung an andere Rechtsträger als Mitglieder 
 
 ## Artikel 16
 
-#### Form und Bedingungen der Finanzierung
+**Form und Bedingungen der Finanzierung**
+
+#### Art. 16
 
 (1) Die Finanzierung seitens des Fonds aus Vermögenswerten, die nach den Artikeln 5, 6 und 7 zur Verfügung gestellt wurden, sowie aus Rückzahlungen von Finanzierungsmitteln und deren Erträgen erfolgt in Form von Darlehen. Der\` Fonds kann sonstige Finanzierungen einschließlich Zuschüssen aus Vermögenswerten gewähren, die gemäß Vereinbarungen nach Artikel 8 mit der ausdrücklichen Genehmigung einer solchen Finanzierungsart vereinnahmt wurden.
 
@@ -270,31 +300,41 @@ Alle derartigen Finanzierungen müssen nach dem Urteil des Fonds den Zielen dies
 
 ## Artikel 17
 
-#### Prüfung und Bewertung
+**Prüfung und Bewertung**
+
+#### Art. 17
 
 Es wird eine umfassende, fortlaufende Prüfung der vom Fonds finanzierten abgeschlossenen Vorhaben, Programme und Tätigkeiten durchgeführt, um dem Direktorium und dem Präsidenten ein Urteil darüber zu ermöglichen, ob der Fonds seine Ziele voll verwirklicht. Der Präsident trifft mit Zustimmung des Direktoriums Maßnahmen zur Durchführung dieser Prüfungen, deren Ergebnisse dem Direktorium über den Präsidenten mitgeteilt werden.
 
 ## Artikel 18
 
-#### Zusammenarbeit mit anderen internationalen Organisationen sowie mit anderen Einrichtungen und Staaten
+**Zusammenarbeit mit anderen internationalen Organisationen sowie mit anderen Einrichtungen und Staaten**
+
+#### Art. 18
 
 Zur Förderung seiner Ziele bemüht der Fonds sich um Zusammenarbeit mit anderen internationalen Organisationen, regionalen und subregionalen Organisationen sowie anderen Einrichtungen und Staaten und kann mit ihnen Übereinkünfte über Zusammenarbeit schließen; derartige Übereinkünfte \` mit Nichtmitgliedstaaten oder Nichtteilnehmerstaaten oder der Dienststelle eines derartigen Staates bedürfen jedoch der Zustimmung von 85 vH der Gesamtstimmenzahl der Teilnehmer.
 
 ## Artikel 19
 
-#### Technische Hilfe
+**Technische Hilfe**
+
+#### Art. 19
 
 Zur Förderung seiner Ziele kann der Fonds technische Hilfe gewähren, in der Regel jedoch nur auf Rückzahlungsgrundlage, sofern die technische Hilfe nicht aus besonderen Zuschüssen zur technischen Hilfe oder aus sonstigen, dem Fonds für diesen Zweck zur Verfügung gestellten Mitteln gewährt wird.
 
 ## Artikel 20
 
-#### Sonstige Geschäftstätigkeit
+**Sonstige Geschäftstätigkeit**
+
+#### Art. 20
 
 Neben den in anderen Bestimmungen dieses Übereinkommens vorgesehenen Befugnissen besitzt der Fonds das Recht, alle sonstigen mit seiner Geschäftstätigkeit zusammenhängenden Tätigkeiten auszuüben, die zur Förderung seiner Ziele notwendig oder wünschenswert und mit diesem Übereinkommen vereinbar sind.
 
 ## Artikel 21
 
-#### Verbot der politischen Betätigung
+**Verbot der politischen Betätigung**
+
+#### Art. 21
 
 Weder der Fonds noch seine Bediensteten oder sonstige in seinem Namen handelnde Personen dürfen sich in die politischen Angelegenheiten eines Mitglieds einmischen; in ihren Entscheidungen lassen sie sich nicht von der politischen Haltung des oder der betreffenden Mitglieder beeinflussen. Derartige Entscheidungen werden nur auf Erwägungen der wirtschaftlichen und sozialen Entwicklung der Mitglieder gegründet; diese Überlegungen werden unparteiisch abgewogen, um die in diesem Übereinkommen niedergelegten Ziele zu erreichen.
 
@@ -302,13 +342,17 @@ Weder der Fonds noch seine Bediensteten oder sonstige in seinem Namen handelnde 
 
 ### Organisation und Leitung — Artikel 22
 
-#### Organisation des Fonds
+**Organisation des Fonds**
+
+#### Art. 22
 
 Organe des Fonds sind ein Gouverneursrat, ein Direktorium und ein Präsident. Der Fonds bedient sich zur Wahrnehmung seiner Aufgaben der leitenden und sonstigen Bediensteten der Bank sowie ihrer Organisation, ihrer Dienstleistungen und Einrichtungen; stellt das Direktorium einen zusätzlichen Personalbedarf fest, so stellt der Präsident nach Artikel 30 Absatz 4 Ziffer v zusätzliches Personal für den Fonds ein.
 
 ## Artikel 23
 
-#### Befugnisse des Gouverneursrats
+**Befugnisse des Gouverneursrats**
+
+#### Art. 23
 
 (1) Sämtliche Befugnisse des Fonds liegen beim Gouverneursrat.
 
@@ -338,7 +382,9 @@ x) alle sonstigen dem Gouverneursrat in diesem Übereinkommen ausdrücklich zuge
 
 ## Artikel 24
 
-#### Zusammensetzung des Gouverneursrats
+**Zusammensetzung des Gouverneursrats**
+
+#### Art. 24
 
 (1) Die Gouverneure und Stellvertretenden Gouverneure der Bank sind von Amts wegen Gouverneure und Stellvertretende Gouverneure des Fonds. Der Präsident der Bank teilt, soweit erforderlich, dem Fonds die Namen der Gouverneure und Stellvertretenden Gouverneure mit.
 
@@ -350,7 +396,9 @@ x) alle sonstigen dem Gouverneursrat in diesem Übereinkommen ausdrücklich zuge
 
 ## Artikel 25
 
-#### Verfahren des Gouverneursrats
+**Verfahren des Gouverneursrats**
+
+#### Art. 25
 
 (1) Der Gouverneursrat tritt zu einer Jahressitzung und zu allen weiteren vom Rat anberaumten oder vom Direktorium einberufenen Sitzungen zusammen. Der Vorsitzende des Gouverneursrats der Bank ist von Amts wegen Vorsitzender des Gouverneursrats des Fonds.
 
@@ -366,7 +414,9 @@ x) alle sonstigen dem Gouverneursrat in diesem Übereinkommen ausdrücklich zuge
 
 ## Artikel 26
 
-#### Aufgaben des Direktoriums
+**Aufgaben des Direktoriums**
+
+#### Art. 26
 
 Unbeschadet der in Artikel 23 vorgesehenen Befugnisse des Gouverneursrats ist das Direktorium für die Leitung der allgemeinen Geschäftstätigkeit des Fonds verantwortlich und übt zu diesem Zweck alle ihm durch dieses Übereinkommen ausdrücklich zugewiesenen oder ihm vom Gouverneursrat übertragenen Befugnisse aus, insbesondere die folgenden:
 
@@ -414,7 +464,9 @@ iii) so kann der neue Teilnehmerstaat, wenn er Stimmrechte besitzt, einen Direkt
 
 ## Artikel 28
 
-#### Verfahren des Direktoriums
+**Verfahren des Direktoriums**
+
+#### Art. 28
 
 (1) Das Direktorium tritt zusammen, sooft die Geschäfte des Fonds dies erfordern. Auf Antrag von mindestens vier Direktoren beruft der Vorsitzende eine Sitzung des Direktoriums ein.
 
@@ -422,7 +474,9 @@ iii) so kann der neue Teilnehmerstaat, wenn er Stimmrechte besitzt, einen Direkt
 
 ## Artikel 29
 
-#### Abstimmung
+**Abstimmung**
+
+#### Art. 29
 
 (1) Die Bank sowie die Teilnehmerstaaten in ihrer Gesamtheit haben je 1000 Stimmen.
 
@@ -440,7 +494,9 @@ iii) so kann der neue Teilnehmerstaat, wenn er Stimmrechte besitzt, einen Direkt
 
 ## Artikel 30
 
-#### Der Präsident
+**Der Präsident**
+
+#### Art. 30
 
 (1) Der Präsident der Bank ist von Amts wegen Präsident des Fonds. Er ist Vorsitzender des Direktoriums, besitzt jedoch kein Stimmrecht. Er kann an Sitzungen des Gouverneursrats teilnehmen, darf jedoch keine Stimme abgeben.
 
@@ -462,7 +518,9 @@ v) er schließt die Dienstverträge mit den vom Fonds benötigten Bediensteten e
 
 ## Artikel 31
 
-#### Verhältnis zur Bank
+**Verhältnis zur Bank**
+
+#### Art. 31
 
 (1) Der Fonds vergütet der Bank die angemessenen Kosten der Inanspruchnahme ihrer leitenden und sonstigen Bediensteten, ihrer Organisation sowie ihrer Dienstleistungen und Einrichtungen nach Maßgabe der zwischen Fonds und Bank getroffenen Vereinbarungen.
 
@@ -472,25 +530,33 @@ v) er schließt die Dienstverträge mit den vom Fonds benötigten Bediensteten e
 
 ## Artikel 32
 
-#### Sitz des Fonds
+**Sitz des Fonds**
+
+#### Art. 32
 
 Der Sitz des Fonds befindet sich am Sitz der Bank.
 
 ## Artikel 33
 
-#### Hinterlegungsstellen
+**Hinterlegungsstellen**
+
+#### Art. 33
 
 Jeder Teilnehmerstaat benennt seine Zentralbank oder eine sonstige, dem Fonds genehme Einrichtung als Hinterlegungsstelle, bei welcher der Fonds Guthaben in der Währung des betreffenden Teilnehmers oder andere Vermögenswerte hinterlegen kann. In Ermangelung einer abweichenden Benennung ist Hinterlegungsstelle jedes Mitglieds die von ihm für die Zwecke des Übereinkommens zur Gründung der Bank benannte Hinterlegungsstelle.
 
 ## Artikel 34
 
-#### Verbindungsstelle
+**Verbindungsstelle**
+
+#### Art. 34
 
 Jeder Teilnehmerstaat benennt eine geeignete Behörde, mit welcher der Fonds sich im Zusammenhang mit einer sich im Rahmen dieses Übereinkommens ergebenden Angelegenheit in Verbindung setzen kann. In Ermangelung einer abweichenden Benennung ist Verbindungsstelle für den Fonds die von einem Mitglied benannte Verbindungsstelle für die Bank.
 
 ## Artikel 35
 
-#### Veröffentlichung von Berichten und Informationserteilung
+**Veröffentlichung von Berichten und Informationserteilung**
+
+#### Art. 35
 
 (1) Der Fonds veröffentlicht einen Jahresbericht, der eine geprüfte Rechnungsaufstellung enthält, und verschickt in geeigneten Zeitabständen an Teilnehmer und Mitglieder zusammenfassende Darstellungen seiner Finanzlage sowie eine Gewinn- und Verlustrechnung, in der die Ergebnisse seiner Geschäftstätigkeit ausgewiesen werden.
 
@@ -500,7 +566,9 @@ Jeder Teilnehmerstaat benennt eine geeignete Behörde, mit welcher der Fonds sic
 
 ## Artikel 36
 
-#### Verwendung der Reingewinne
+**Verwendung der Reingewinne**
+
+#### Art. 36
 
 Der Gouverneursrat beschließt von Zeit zu Zeit über die Verwendung der Reingewinne des Fonds, wobei er die Bildung von Rücklagen und Rückstellungen gebührend berücksichtigt.
 
@@ -510,13 +578,17 @@ Der Gouverneursrat beschließt von Zeit zu Zeit über die Verwendung der Reingew
 
 ### Einstellung der Geschäftstätigkeit — Artikel 37
 
-#### Rücktritt von Teilnehmern
+**Rücktritt von Teilnehmern**
+
+#### Art. 37
 
 Ein Teilnehmer kann jederzeit durch eine an den Fonds an dessen Sitz gerichtete schriftliche Mitteilung von dem Fonds zurücktreten. Der Rücktritt wird am Tag des Eingangs der Mitteilung oder an dem in ihr bezeichneten, längstens sechs Monate nach dem Eingang liegenden Tage wirksam.
 
 ## Artikel 38
 
-#### Aussetzung der Beteiligung
+**Aussetzung der Beteiligung**
+
+#### Art. 38
 
 (1) Kommt ein Teilnehmer seinen Verpflichtungen gegenüber dem Fonds nicht nach, so kann dieser seine Beteiligung kraft Beschlusses des Gouverneursrats aussetzen. Ein Teilnehmer, dessen Beteiligung in dieser Weise ausgesetzt wurde, scheidet ein Jahr nach dem Tage der Aussetzung ohne weiteres als Teilnehmer aus, sofern nicht der Gouverneursrat beschließt, ihn wieder in den vorigen Stand einzusetzen.
 
@@ -524,7 +596,9 @@ Ein Teilnehmer kann jederzeit durch eine an den Fonds an dessen Sitz gerichtete 
 
 ## Artikel 39
 
-#### Rechte und Pflichten ausscheidender Teilnehmerstaaten
+**Rechte und Pflichten ausscheidender Teilnehmerstaaten**
+
+#### Art. 39
 
 (1) Scheidet ein Staat als Teilnehmer aus, so stehen ihm auf Grund dieses Übereinkommens nur die in diesem Artikel und in Artikel 53 vorgesehenen Rechte zu; er bleibt jedoch, soweit im vorliegenden Artikel nichts anderes bestimmt ist, für alle gegenüber dem Fonds als Teilnehmer, Darlehensnehmer, Bürge oder in sonstiger Eigenschaft eingegangenen finanziellen Verpflichtungen haftbar.
 
@@ -552,7 +626,9 @@ vi) sämtliche auf Grund dieser Bestimmungen erforderlichen Berechnungen werden 
 
 ## Artikel 40
 
-#### Einstellung der Geschäftstätigkeit und Regelung der Verbindlichkeiten
+**Einstellung der Geschäftstätigkeit und Regelung der Verbindlichkeiten**
+
+#### Art. 40
 
 (1) Der Fonds kann seine Geschäftstätigkeit durch Beschluß des Gouverneursrats einstellen. Der Rücktritt durch die Bank oder durch alle Teilnehmerstaaten nach Artikel 37 führt zur Einstellung der Geschäftstätigkeit des Fonds. Nach Einstellung der Geschäftstätigkeit beendet der Fonds sogleich alle Betätigungen mit Ausnahme der mit der ordnungsgemäßen Versilberung, Erhaltung und Wahrung seiner Aktiva und der Regelung seiner Verbindlichkeiten zusammenhängenden Maßnahmen. Bis zur endgültigen Regelung dieser Verbindlichkeiten und der Verteilung dieser Aktiva bleibt der Fonds bestehen; alle beiderseitigen Rechte und Pflichten des Fonds und der Teilnehmer auf Grund dieses Übereinkommens bleiben unberührt; jedoch ist eine Aussetzung der Beteiligung oder der Rücktritt eines Teilnehmers ausgeschlossen, und eine Verteilung an Teilnehmer findet nur nach Maßgabe dieses Artikels statt.
 
@@ -568,13 +644,17 @@ vi) sämtliche auf Grund dieser Bestimmungen erforderlichen Berechnungen werden 
 
 ### Artikel 41
 
-#### Zweck des Kapitels
+**Zweck des Kapitels**
+
+#### Art. 41
 
 Um es dem Fonds zu ermöglichen, seinem Zweck zu dienen und die ihm übertragenen Aufgaben wahrzunehmen, werden ihm im Hoheitsgebiet jedes Teilnehmerstaats die Rechtsstellung, Immunitäten und Vorrechte gewährt, die in diesem Kapitel aufgeführt sind; jeder Teilnehmerstaat unterrichtet den Fonds über die besonderen Maßnahmen, die er zu diesem Zweck ergreift.
 
 ## Artikel 42
 
-#### Rechtsstellung
+**Rechtsstellung**
+
+#### Art. 42
 
 Der Fonds besitzt volle Rechtspersönlichkeit; er hat insbesondere die uneingeschränkte Fähigkeit,
 
@@ -586,7 +666,9 @@ iii) vor Gericht zu stehen.
 
 ## Artikel 43
 
-#### Rechtsverfahren
+**Rechtsverfahren**
+
+#### Art. 43
 
 (1) Der Fonds genießt Immunität von jeder Art von Rechtsverfahren, außer in Fällen, die sich aus der oder im Zusammenhang mit der Wahrnehmung seiner Befugnis ergeben, Darlehen nach Artikel 8 anzunehmen; in einem solchen Fall kann der Fonds vor dem zuständigen Gericht im Hoheitsgebiet eines Staates verklagt werden, in dem der Fonds seinen Sitz hat oder einen Vertreter zur Entgegennahme von Zustellungen oder Ladungen bestellt oder dessen Gerichtsbarkeit er in sonstiger Weise anerkannt hat.
 
@@ -598,31 +680,41 @@ iii) vor Gericht zu stehen.
 
 ## Artikel 44
 
-#### Immunität der Aktiva
+**Immunität der Aktiva**
+
+#### Art. 44
 
 Das Vermögen und die Aktiva des Fonds, gleichviel wo und in wessen Besitz sie sich befinden, genießen Immunität von der Durchsuchung, Beschlagnahme, Einziehung, Enteignung oder jeder sonstigen Form der Wegnahme oder Befriedigung aus der Sache durch Verwaltungsakt oder gesetzgeberische Maßnahme.
 
 ## Artikel 45
 
-#### Immunität der Archive
+**Immunität der Archive**
+
+#### Art. 45
 
 Die Archive des Fonds sowie allgemein sämtliche im Eigentum oder Besitz des Fonds befindlichen Schriftstücke sind ohne Rücksicht auf ihren Aufbewahrungsort unverletzlich.
 
 ## Artikel 46
 
-#### Befreiung der Aktiva von Beschränkungen
+**Befreiung der Aktiva von Beschränkungen**
+
+#### Art. 46
 
 In dem zur Erfüllung des Zwecks und der Aufgaben des Fonds notwendigen Ausmaß und vorbehaltlich dieses Übereinkommens sind das Vermögen und alle sonstigen Aktiva des Fonds von Beschränkungen durch finanzielle Überwachungen, Regelungen oder Moratorien jeder Art befreit.
 
 ## Artikel 47
 
-#### Vorrechte in bezug auf Mitteilungen
+**Vorrechte in bezug auf Mitteilungen**
+
+#### Art. 47
 
 Jeder Teilnehmerstaat gewährt den amtlichen Mitteilungen des Fonds dieselbe Behandlung, die er den amtlichen Mitteilungen anderer internationaler finanzieller Einrichtungen gewährt, deren Mitglied er ist.
 
 ## Artikel 48
 
-#### Immunitäten und Vorrechte der leitenden und sonstigen Bediensteten
+**Immunitäten und Vorrechte der leitenden und sonstigen Bediensteten**
+
+#### Art. 48
 
 Alle Gouverneure und Direktoren sowie ihre Stellvertreter, der Präsident und die sonstigen Bediensteten einschließlich der mit der Wahrnehmung von Aufgaben für den Fonds betrauten Sachverständigen
 
@@ -634,7 +726,9 @@ iii) erhalten in bezug auf Reiseerleichterungen eine Behandlung, die nicht ungü
 
 ## Artikel 49
 
-#### Befreiung von der Besteuerung
+**Befreiung von der Besteuerung**
+
+#### Art. 49
 
 (1) Der Fonds, seine Aktiva, sein Vermögen, seine Einnahmen, Geschäftstätigkeit und Finanzgeschäfte sind von jeder unmittelbaren Besteuerung sowie von allen Zöllen oder sonstigen Abgaben gleicher Wirkung auf die für seinen amtlichen Gebrauch ein oder ausgeführten Waren befreit. Der Fonds ist ferner von jeder Verpflichtung zur Zahlung, Einbehaltung oder Erhebung von Steuern oder sonstigen Abgaben befreit.
 
@@ -646,7 +740,9 @@ iii) erhalten in bezug auf Reiseerleichterungen eine Behandlung, die nicht ungü
 
 ## Artikel 50
 
-#### Verzicht des Fonds
+**Verzicht des Fonds**
+
+#### Art. 50
 
 (1) Die in diesem Kapitel vorgesehenen Immunitäten, Befreiungen und Vorrechte werden im Interesse des Fonds gewährt. Das Direktorium kann in dem Ausmaß und unter den Bedingungen, die es bestimmt, auf die in diesem Kapitel vorgesehenen Immunitäten, Befreiungen und Vorrechte in Fällen verzichten, in denen dies nach seiner Auffassung den Interessen des Fonds dienlich ist
 
@@ -674,7 +770,9 @@ iv) die nach diesem Übereinkommen erforderlichen Abstimmungsmehrheiten.
 
 ### Auslegung und Schiedsverfahren — Artikel 52
 
-#### Auslegung
+**Auslegung**
+
+#### Art. 52
 
 (1) Jede sich zwischen einem Teilnehmer und dem Fonds oder zwischen Teilnehmern ergebende Frage der Auslegung oder Anwendung dieses Übereinkommens wird dem Direktorium zur Entscheidung vorgelegt. Hat ein von der zu prüfenden Frage besonders betroffener Teilnehmerstaat keinen Direktor seiner Staatsangehörigkeit in dieses Gremium entsandt, so ist er zur unmittelbaren Rechtsvertretung in solchen Fällen berechtigt. Dieses Vertretungsrecht wird vom Gouverneursrat geregelt.
 
@@ -682,7 +780,9 @@ iv) die nach diesem Übereinkommen erforderlichen Abstimmungsmehrheiten.
 
 ## Artikel 53
 
-#### Schiedsverfahren
+**Schiedsverfahren**
+
+#### Art. 53
 
 Bei einer Streitigkeit zwischen dem Fonds und einem Staat, der als Teilnehmer ausgeschieden ist, oder zwischen dem Fonds und einem Teilnehmer nach Einstellung der Geschäftstätigkeit des Fonds wird die betreffende Streitigkeit einem Gericht von drei Schiedsrichtern zur schiedsrichterlichen Entscheidung vorgelegt. Ein Schiedsrichter wird vom Fonds ernannt, ein zweiter Schiedsrichter von dem betreffenden Teilnehmer oder ehemaligen Teilnehmer, während der dritte Schiedsrichter, der zugleich Obmann ist, von beiden Parteien gemeinsam ernannt wird. Hat binnen fünfundvierzig Tagen nach Eingang des Antrags auf schiedsrichterliche Entscheidung eine Partei noch keinen Schiedsrichter ernannt oder ist binnen dreißig Tagen nach Ernennung von zwei Schiedsrichtern der dritte Schiedsrichter noch nicht ernannt worden; so kann jede Partei den Präsidenten des Internationalen Gerichtshofs oder eine sonstige Stelle, die in einer vom Gouverneursrat angenommenen Ordnung bestimmt ist, ersuchen, einen Schiedsrichter zu ernennen. Das Schiedsverfahren wird von den Schiedsrichtern geregelt; der dritte Schiedsrichter ist jedoch befugt, in allen streitigen Verfahrensfragen zu entscheiden. Die Entscheidungen, die endgültig und für die Parteien bindend sind, bedürfen der Mehrheit der Schiedsrichter.
 
@@ -690,13 +790,17 @@ Bei einer Streitigkeit zwischen dem Fonds und einem Staat, der als Teilnehmer au
 
 ### Schlußbestimmungen — Artikel 54
 
-#### Unterzeichnung
+**Unterzeichnung**
+
+#### Art. 54
 
 Die Urschrift dieses Übereinkommens liegt für die Bank und die in Anlage A bezeichneten Staaten bis zum 31. März 1973 zur Unterzeichnung auf.
 
 ## Artikel 55
 
-#### Ratifikation, Annahme oder Genehmigung
+**Ratifikation, Annahme oder Genehmigung**
+
+#### Art. 55
 
 (1) Dieses Übereinkommen bedarf der Ratifikation, Annahme oder Genehmigung durch die Unterzeichner.
 
@@ -704,13 +808,17 @@ Die Urschrift dieses Übereinkommens liegt für die Bank und die in Anlage A bez
 
 ## Artikel 56
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 56
 
 Dieses Übereinkommen tritt an dem Tag in Kraft, an dem die Bank und acht Unterzeichnerstaaten, deren in Anlage A zu dem Übereinkommen aufgeführten Stammeinlagezeichnungen zusammen mindestens 55 Millionen Rechnungseinheiten umfassen, ihre Ratifikations-, Annahme- oder Genehmigungsurkunde hinterlegt haben.
 
 ## Artikel 57
 
-#### Beteiligung
+**Beteiligung**
+
+#### Art. 57
 
 (1) Ein Unterzeichner, dessen Ratifikations-, Annahme- oder Genehmigungsurkunde an oder vor dem Tag des Inkrafttretens dieses Übereinkommens hinterlegt wird, ist von diesem Tag an Teilnehmer. Ein Unterzeichner, dessen Ratifikations-, Annahme- oder Genehmigungsurkunde später, jedoch vor dem nach Artikel 55 Absatz 2 festgesetzten oder daraus sich ergebenden Datum hinterlegt wird, ist vom Tag dieser Hinterlegung an Teilnehmer.
 
@@ -718,7 +826,9 @@ Dieses Übereinkommen tritt an dem Tag in Kraft, an dem die Bank und acht Unterz
 
 ## Artikel 58
 
-#### Vorbehalte
+**Vorbehalte**
+
+#### Art. 58
 
 Ein Staat kann bei Hinterlegung seiner Ratifikations-, Annahme- oder Genehmigungsurkunde erklären,
 
@@ -732,7 +842,9 @@ iv) daß Artikel 49 Absatz 3 auf Gegenstände Anwendung findet, hinsichtlich der
 
 ## Artikel 59
 
-#### Notifikation
+**Notifikation**
+
+#### Art. 59
 
 Die Bank notifiziert allen Unterzeichnern
 
@@ -746,7 +858,9 @@ d) alle bei Hinterlegung einer Ratifikations-, Annahme- oder Genehmigungsurkunde
 
 ## Artikel 60
 
-#### Konstituierende Sitzung
+**Konstituierende Sitzung**
+
+#### Art. 60
 
 (1) Sobald dieses Übereinkommen in Kraft getreten ist, ernennt jeder Teilnehmerstaat einen Gouverneur; der Vorsitzende des Gouverneursrats beruft sodann die konstituierende Sitzung des Gouverneursrats ein.
 

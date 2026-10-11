@@ -39,7 +39,9 @@ Die Republik Österreich einerseits und die Föderative Volksrepublik Jugoslawie
 
 ## Artikel 1
 
-### Allgemeines
+**Allgemeines**
+
+### Art. 1
 
 (1) Beide Vertragsstaaten verpflichten sich, den Grenzübergang der Eisenbahnen zu ermöglichen. Sie werden alle Maßnahmen ergreifen, um ihn zweckmäßig und einfach zu gestalten.
 
@@ -51,7 +53,9 @@ Die Republik Österreich einerseits und die Föderative Volksrepublik Jugoslawie
 
 ## Artikel 2
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 2
 
 Im Sinne des Abkommens bezeichnen die Begriffe:
 
@@ -73,7 +77,9 @@ g) „Grenzabfertigung“ die Durchführung des Verfahrens, das in den Rechtsvor
 
 ## Artikel 3
 
-### Grenzübergang
+**Grenzübergang**
+
+### Art. 3
 
 (1) Zur Durchführung des Grenzüberganges der Eisenbahnen werden folgende Strecken eröffnet:
 
@@ -105,7 +111,9 @@ c) Sentilj
 
 ## Artikel 4
 
-### Allgemeine Bestimmungen über den Anschluß- und Übergangsdienst; Tarifschnittpunkt
+**Allgemeine Bestimmungen über den Anschluß- und Übergangsdienst; Tarifschnittpunkt**
+
+### Art. 4
 
 (1) Die Eisenbahnverwaltungen haben den Anschluß- und Übergangsdienst durch Vereinbarungen derart näher zu regeln, daß hiedurch eine rasche und ordnungsgemäße Dienstabwicklung gesichert ist.
 
@@ -123,7 +131,9 @@ c) Sentilj
 
 ## Artikel 6
 
-### Erweiterter Zugförderungsdienst
+**Erweiterter Zugförderungsdienst**
+
+### Art. 6
 
 Die Eisenbahnverwaltungen können vereinbaren, daß der Zugförderungsdienst über den Betriebswechselbahnhof hinaus in einer oder in beiden Richtungen von der Eigentums- oder Nachbarverwaltung mit eigenen Triebfahrzeugen und eigenem Personal besorgt wird. Artikel 4 Absatz 5 und die Artikel 14, 15, 17, 18 und 24 gelten entsprechend.
 
@@ -131,7 +141,9 @@ Die Eisenbahnverwaltungen können vereinbaren, daß der Zugförderungsdienst üb
 
 ## Artikel 7
 
-### Vergütung der Leistungen
+**Vergütung der Leistungen**
+
+### Art. 7
 
 Die von einer Eisenbahnverwaltung für die andere erbrachten Leistungen sind tunlichst in natura auszugleichen. Soweit dies nicht möglich ist, sind die Selbstkosten zu vergüten. Die Einzelheiten werden von den Eisenbahnverwaltungen vereinbart.
 
@@ -139,7 +151,9 @@ Die von einer Eisenbahnverwaltung für die andere erbrachten Leistungen sind tun
 
 ## Artikel 8
 
-### Anlagen
+**Anlagen**
+
+### Art. 8
 
 (1) Jede Eisenbahnverwaltung beaufsichtigt, erhält und erneuert die gesamten Anlagen der auf ihrem Gebiet befindlichen Betriebswechselbahnhöfe und Anschlußgrenzstrecken.
 
@@ -153,7 +167,9 @@ Die von einer Eisenbahnverwaltung für die andere erbrachten Leistungen sind tun
 
 ## Artikel 9
 
-### Vertretung in den Betriebswechselbahnhöfen
+**Vertretung in den Betriebswechselbahnhöfen**
+
+### Art. 9
 
 Die Nachbarverwaltung kann in den Betriebswechselbahnhöfen eine Vertretung einrichten, deren Befugnisse sich auf eisenbahndienstliche Belange beschränken und im einzelnen von den Eisenbahnverwaltungen vereinbart werden.
 
@@ -161,7 +177,9 @@ Die Nachbarverwaltung kann in den Betriebswechselbahnhöfen eine Vertretung einr
 
 ## Artikel 10
 
-### Grenzabfertigung
+**Grenzabfertigung**
+
+### Art. 10
 
 Die Grenzabfertigung (Artikel 2 lit. g) wird von den zuständigen Organen jedes der beiden Vertragsstaaten auf seinem Staatsgebiet oder auf Grund einer gesonderten Vereinbarung beider Vertragsstaaten in den fahrenden Zügen oder in Bahnhöfen auf dem Gebiet des anderen Vertragsstaates vorgenommen.
 
@@ -169,7 +187,9 @@ Die Grenzabfertigung (Artikel 2 lit. g) wird von den zuständigen Organen jedes 
 
 ## Artikel 11
 
-### Aufrechterhaltung der Sicherheit und Ordnung auf den Anschlußgrenzstrecken
+**Aufrechterhaltung der Sicherheit und Ordnung auf den Anschlußgrenzstrecken**
+
+### Art. 11
 
 (1) Bei der Durchführung des Dienstes in fahrenden Zügen auf den Anschlußgrenzstrecken haben die Eisenbahnbediensteten der Nachbarverwaltung im Falle eines Verstoßes gegen die Sicherheit und Ordnung des Eisenbahnverkehres den Sachverhalt festzustellen und hievon die zuständige Eisenbahndienststelle des Gebietsstaates so bald wie möglich zu benachrichtigen.
 
@@ -179,7 +199,9 @@ Die Grenzabfertigung (Artikel 2 lit. g) wird von den zuständigen Organen jedes 
 
 ## Artikel 13
 
-### Sprachgebrauch
+**Sprachgebrauch**
+
+### Art. 13
 
 (1) In den Betriebswechselbahnhöfen und auf den Anschlußgrenzstrecken wird im eisenbahndienstlichen Verkehr mit Eisenbahnbediensteten der Nachbarverwaltung deren Dienstsprache angewendet. Demnach haben insbesondere alle fernmündlichen, schriftlichen und mündlichen Mitteilungen, die sich auf den Zugsverkehr beziehen, in der Dienstsprache der Nachbarverwaltung zu erfolgen. Die in Betracht kommenden Eisenbahnbediensteten der Eigentumsverwaltung müssen daher die Dienstsprache der Nachbarverwaltung in dem für die Durchführung des Dienstes erforderlichen Ausmaße beherrschen.
 
@@ -193,7 +215,9 @@ Die Grenzabfertigung (Artikel 2 lit. g) wird von den zuständigen Organen jedes 
 
 ## Artikel 14
 
-### Rechtsstellung der Eisenbahnbediensteten
+**Rechtsstellung der Eisenbahnbediensteten**
+
+### Art. 14
 
 (1) Die im Gebietsstaat dienstlich tätigen Eisenbahnbediensteten der Nachbarverwaltung unterstehen unbeschadet der Bestimmungen des internationalen Privatrechtes den Rechtsvorschriften des Gebietsstaates.
 
@@ -207,7 +231,9 @@ Die Grenzabfertigung (Artikel 2 lit. g) wird von den zuständigen Organen jedes 
 
 ## Artikel 15
 
-### Beistand und strafrechtlicher Schutz
+**Beistand und strafrechtlicher Schutz**
+
+### Art. 15
 
 (1) Die Dienststellen und die Bediensteten des Gebietsstaates sind verpflichtet, den Eisenbahndienststellen der Nachbarverwaltung, die im Gebietsstaat liegen, sowie den Eisenbahnbediensteten dieser Verwaltung bei der Ausübung ihrer Dienstobliegenheiten den erforderlichen Beistand zu gewähren und ihren hierauf gerichteten Ersuchen im Sinne dieses Abkommens in gleicher Weise Folge zu leisten wie entsprechenden Ersuchen eigener Eisenbahnbediensteter.
 
@@ -219,7 +245,9 @@ Die Grenzabfertigung (Artikel 2 lit. g) wird von den zuständigen Organen jedes 
 
 ## Artikel 16
 
-### Überschreiten der Staatsgrenze und Aufenthalt auf dem Gebiete des anderen Vertragsstaates
+**Überschreiten der Staatsgrenze und Aufenthalt auf dem Gebiete des anderen Vertragsstaates**
+
+### Art. 16
 
 (1) Eisenbahnbedienstete, einschließlich der Eisenbahnaufsichts- und Eisenbahnerhebungsbediensteten, die zur Dienstausübung im Anschluß- und Übergangsdienst die Staatsgrenze überschreiten, müssen im Besitze von Grenzübertrittsausweisen sein. Diese Ausweise berechtigen zum Grenzübertritt auf einer oder mehreren der im Artikel 3 Absatz 1 angeführten Strecken sowie für die Dauer der Dienstverrichtung zum Aufenthalt im anderen Vertragsstaat.
 
@@ -243,7 +271,9 @@ Die Grenzabfertigung (Artikel 2 lit. g) wird von den zuständigen Organen jedes 
 
 ## Artikel 17
 
-### Dienstkleidung
+**Dienstkleidung**
+
+### Art. 17
 
 (1) Die im Betriebswechselbahnhof oder auf der Anschlußgrenzstrecke sowie im erweiterten Zugförderungsdienst (Artikel 6) verwendeten Eisenbahnbediensteten der Nachbarverwaltung sind berechtigt, ihre Dienstkleider oder ihre sichtbaren Dienstabzeichen während und außerhalb des Dienstes zu tragen.
 
@@ -253,7 +283,9 @@ Die Grenzabfertigung (Artikel 2 lit. g) wird von den zuständigen Organen jedes 
 
 ## Artikel 18
 
-### Dienstgegenstände, Bedarfsgegenstände der Eisenbahnbediensteten
+**Dienstgegenstände, Bedarfsgegenstände der Eisenbahnbediensteten**
+
+### Art. 18
 
 (1) Alle zum dienstlichen Gebrauch bestimmten Gegenstände, welche die im Gebietsstaat tätigen Eisenbahnbediensteten der Nachbarverwaltung ein- oder ausführen, bleiben frei von Zöllen und sonstigen Abgaben.
 
@@ -265,7 +297,9 @@ Die Grenzabfertigung (Artikel 2 lit. g) wird von den zuständigen Organen jedes 
 
 ## Artikel 19
 
-### Gebrauchsgegenstände der Dienststellen
+**Gebrauchsgegenstände der Dienststellen**
+
+### Art. 19
 
 Die zum dienstlichen Gebrauch der Dienststellen der Nachbarverwaltung bestimmten Gegenstände bleiben im Ein- und Wiederausgang frei von Zöllen und sonstigen Abgaben. Ein- und Ausfuhrverbote sowie Ein- und Ausfuhrbeschränkungen wirtschaftlicher Natur finden auf diese Gegenstände keine Anwendung.
 
@@ -273,7 +307,9 @@ Die zum dienstlichen Gebrauch der Dienststellen der Nachbarverwaltung bestimmten
 
 ## Artikel 20
 
-### Dienstlich eingenommenes Geld
+**Dienstlich eingenommenes Geld**
+
+### Art. 20
 
 Die von den Eisenbahnbediensteten der Nachbarverwaltung in den grenzüberschreitenden Zügen dienstlich eingenommenen Geldbeträge dürfen von ihnen im Gebietsstaat mitgeführt und in den Nachbarstaat verbracht werden.
 
@@ -281,7 +317,9 @@ Die von den Eisenbahnbediensteten der Nachbarverwaltung in den grenzüberschreit
 
 ## Artikel 21
 
-### Dienstsendungen
+**Dienstsendungen**
+
+### Art. 21
 
 (1) Dienstsendungen, wie Dienstbriefe, Dienstformulare, Fahrpläne, Tarife sowie dienstliche Geld- und Wertsendungen, die für Dienststellen der Nachbarverwaltung im Gebietsstaat bestimmt sind oder von diesen Dienststellen in den Nachbarstaat gesandt werden, dürfen durch Eisenbahnbedienstete ohne Vermittlung der Postverwaltung und frei von Postgebühren befördert werden.
 
@@ -291,7 +329,9 @@ Die von den Eisenbahnbediensteten der Nachbarverwaltung in den grenzüberschreit
 
 ## Artikel 22
 
-### Postaustausch
+**Postaustausch**
+
+### Art. 22
 
 (1) Der Austausch von Brief-, Paket- und Wertkartenschlüssen im Verkehr zwischen den beiden Vertragsstaaten und von Transitkartenschlüssen erfolgt nach den zwischen der österreichischen und jugoslawischen Postverwaltung abgeschlossenen Vereinbarungen auf der Grundlage der Bestimmungen des Weltpostvertrages und seiner Abkommen.
 
@@ -309,7 +349,9 @@ vereinbart.
 
 ## Artikel 23
 
-### Postbedienstete, Haftung für Postsachen
+**Postbedienstete, Haftung für Postsachen**
+
+### Art. 23
 
 Die Bestimmungen der Artikel 14 bis 18 und des Artikels 24 dieses Abkommens gelten sinngemäß auch für die im Bahnpostdienst auf dem Gebiet des anderen Vertragsstaates tätigen Postbediensteten. Die Bestimmungen des Artikels 24 gelten auch für Verlust und Beschädigung von Postsachen.
 
@@ -317,7 +359,9 @@ Die Bestimmungen der Artikel 14 bis 18 und des Artikels 24 dieses Abkommens gelt
 
 ## Artikel 24
 
-### Haftung
+**Haftung**
+
+### Art. 24
 
 (1) Wird beim Betrieb der Eisenbahn im Anschluß- und Übergangsdienst auf der Anschlußgrenzstrecke oder im Betriebswechselbahnhof eine Person getötet oder verletzt oder eine Sache beschädigt oder vernichtet, so haftet, soweit im nachfolgenden nichts anderes bestimmt ist, die Eisenbahnverwaltung des Gebietsstaates nach dessen Recht.
 
@@ -331,7 +375,9 @@ Die Bestimmungen der Artikel 14 bis 18 und des Artikels 24 dieses Abkommens gelt
 
 ## Artikel 26
 
-### Fernmeldeanlagen
+**Fernmeldeanlagen**
+
+### Art. 26
 
 Die Eisenbahnverwaltungen sind verpflichtet, auf dem Gebiet ihres Staates die für den grenzüberschreitenden Eisenbahnverkehr notwendigen Fernmeldeanlagen zu errichten und im ordentlichen Zustand zu erhalten.
 
@@ -341,7 +387,9 @@ Die Eisenbahnverwaltungen sind verpflichtet, auf dem Gebiet ihres Staates die f�
 
 ## Artikel 27
 
-### Abgabenfreiheit der Vereinbarungen
+**Abgabenfreiheit der Vereinbarungen**
+
+### Art. 27
 
 Die auf Grund dieses Abkommens abgeschlossenen Vereinbarungen genießen in beiden Vertragsstaaten Abgabenfreiheit.
 
@@ -349,7 +397,9 @@ Die auf Grund dieses Abkommens abgeschlossenen Vereinbarungen genießen in beide
 
 ## Artikel 28
 
-### Meinungsverschiedenheiten, Schiedsgericht
+**Meinungsverschiedenheiten, Schiedsgericht**
+
+### Art. 28
 
 (1) Meinungsverschiedenheiten über die Auslegung oder Anwendung dieses Abkommens sollen möglichst durch die zuständigen Stellen beider Vertragsstaaten beigelegt werden.
 
@@ -367,7 +417,9 @@ Die auf Grund dieses Abkommens abgeschlossenen Vereinbarungen genießen in beide
 
 ## Artikel 29
 
-### Dauer des Abkommens, Kündigung
+**Dauer des Abkommens, Kündigung**
+
+### Art. 29
 
 (1) Dieses Abkommen wird auf unbestimmte Zeit abgeschlossen. Es kann mit einer Frist von sechs Monaten zum Ende des Kalenderjahres gekündigt werden.
 
@@ -377,7 +429,9 @@ Die auf Grund dieses Abkommens abgeschlossenen Vereinbarungen genießen in beide
 
 ## Artikel 30
 
-### Ratifizierung
+**Ratifizierung**
+
+### Art. 30
 
 (1) Dieses Abkommen bedarf der Ratifikation.
 

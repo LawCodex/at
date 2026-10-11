@@ -33,7 +33,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## ARTIKEL 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -63,7 +65,9 @@ b) jede juristische Person oder Personengesellschaft des Handelsrechtes, die in 
 
 ## ARTIKEL 2
 
-### Förderung und Schutz von Investitionen
+**Förderung und Schutz von Investitionen**
+
+### Art. 2
 
 (1) Jede Vertragspartei fördert nach Möglichkeit in ihrem Hoheitsgebiet Investitionen von Investoren der anderen Vertragspartei, läßt diese in Übereinstimmung mit ihren Rechtsvorschriften zu und behandelt sie in jedem Fall gerecht und billig.
 
@@ -71,7 +75,9 @@ b) jede juristische Person oder Personengesellschaft des Handelsrechtes, die in 
 
 ## ARTIKEL 3
 
-### Behandlung von Investitionen
+**Behandlung von Investitionen**
+
+### Art. 3
 
 (1) Jede Vertragspartei behandelt Investoren der anderen Vertragspartei und deren Investitionen nicht weniger günstig als ihre eigenen Investoren und deren Investionen oder Investoren dritter Staaten und deren Investitionen.
 
@@ -87,7 +93,9 @@ c) Regelungen zur Erleichterung des Grenzverkehrs.
 
 ## ARTIKEL 4
 
-### Entschädigung
+**Entschädigung**
+
+### Art. 4
 
 (1) Der Begriff „Enteignung“ umfaßt sowohl eine Verstaatlichung als auch jede sonstige Maßnahme mit gleicher Wirkung.
 
@@ -101,7 +109,9 @@ c) Regelungen zur Erleichterung des Grenzverkehrs.
 
 ## ARTIKEL 5
 
-### Transfers
+**Transfers**
+
+### Art. 5
 
 (1) Jede Vertragspartei gewährleistet den Investoren der anderen Vertragspartei ohne ungebührliche Verzögerung den freien Transfer in frei konvertierbarer Währung der im Zusammenhang mit einer Investition stehenden Zahlungen, und insbesondere, aber nicht ausschließlich,
 
@@ -125,13 +135,17 @@ f) der Entschädigungen gemäß Artikel 4 Absatz 2 dieses Abkommens.
 
 ## ARTIKEL 6
 
-### Eintrittsrecht
+**Eintrittsrecht**
+
+### Art. 6
 
 Leistet eine Vertragspartei oder eine von ihr hierzu ermächtigte Institution ihrem Investor Zahlungen auf Grund einer Garantie für eine Investition im Hoheitsgebiet der anderen Vertragspartei, so erkennt diese andere Vertragspartei, unbeschadet der Rechte des Investors der erstgenannten Vertragspartei aus Artikel 8 oder der Rechte der erstgenannten Vertragspartei aus Artikel 9, die Übertragung aller Rechte oder Ansprüche dieses Investors kraft Gesetzes oder auf Grund eines Rechtsgeschäfts auf die erstgenannte Vertragspartei an. Ferner erkennt die andere Vertragspartei den Eintritt der erstgenannten Vertragspartei in alle diese Rechte oder Ansprüche an, welche die erstgenannte Vertragspartei in demselben Umfang wie ihr Rechtsvorgänger auszuüben berechtigt ist. Für den Transfer der an die betreffende Vertragspartei auf Grund der übertragenen Rechte zu leistenden Zahlungen gelten Artikel 4 und Artikel 5 dieses Abkommens sinngemäß.
 
 ## ARTIKEL 7
 
-### Andere Verpflichtungen
+**Andere Verpflichtungen**
+
+### Art. 7
 
 (1) Ergibt sich aus den Rechtsvorschriften einer Vertragspartei oder aus völkerrechtlichen Verpflichtungen, die neben diesem Abkommen zwischen den Vertragsparteien bestehen oder in Zukunft begründet werden, allgemeine oder besondere Regelungen, durch die den Investitionen der Investoren der anderen Vertragspartei eine günstigere Behandlung als nach diesem Abkommen zu gewähren ist, so gehen diese Regelungen dem vorliegenden Abkommen insoweit vor, als sie günstiger sind.
 
@@ -139,7 +153,9 @@ Leistet eine Vertragspartei oder eine von ihr hierzu ermächtigte Institution ih
 
 ## ARTIKEL 8
 
-### Beilegung von Investitionsstreitigkeiten
+**Beilegung von Investitionsstreitigkeiten**
+
+### Art. 8
 
 (1) Jede Meinungsverschiedenheit aus Investitionen zwischen einem Investor der einen Vertragspartei und der anderen Vertragspartei betreffend die von diesem Abkommen geregelten Angelegenheiten wird, soweit wie möglich, durch freundschaftliche Konsultationen zwischen den Streitparteien beigelegt.
 
@@ -173,7 +189,9 @@ c) falls die beiden Streitparteien sich in diesem Sinne geeinigt haben.
 
 ## ARTIKEL 9
 
-### Streitigkeiten zwischen den Vertragsparteien
+**Streitigkeiten zwischen den Vertragsparteien**
+
+### Art. 9
 
 (1) Jede Meinungsverschiedenheit über die Auslegung oder Anwendung dieses Abkommens soll soweit wie möglich auf diplomatischem Wege beigelegt werden.
 
@@ -193,7 +211,9 @@ c) falls die beiden Streitparteien sich in diesem Sinne geeinigt haben.
 
 ## ARTIKEL 10
 
-### Anwendung dieses Abkommens
+**Anwendung dieses Abkommens**
+
+### Art. 10
 
 (1) Dieses Abkommen gilt für Investitionen, die Investoren der einen Vertragspartei in Übereinstimmung mit den Rechtsvorschriften der anderen Vertragspartei in deren Hoheitsgebiet sowohl vor als auch nach dem Inkrafttreten dieses Abkommens vorgenommen haben oder vornehmen werden.
 
@@ -201,7 +221,9 @@ c) falls die beiden Streitparteien sich in diesem Sinne geeinigt haben.
 
 ## ARTIKEL 11
 
-### Inkrafttreten und Dauer
+**Inkrafttreten und Dauer**
+
+### Art. 11
 
 (1) Dieses Abkommen bedarf der Ratifikation und tritt am ersten Tag des dritten Monats in Kraft, der auf den Monat folgt, in welchem die Ratifikationsurkunden ausgetauscht worden sind.
 

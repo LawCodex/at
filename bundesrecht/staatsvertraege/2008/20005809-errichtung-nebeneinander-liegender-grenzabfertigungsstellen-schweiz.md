@@ -39,7 +39,9 @@ folgendes vereinbart:
 
 ## Artikel 1
 
-### Grundsatz und Zweck
+**Grundsatz und Zweck**
+
+### Art. 1
 
 (1) Die Vertragsstaaten kommen überein, an der österreichisch-liechtensteinischen Staatsgrenze im Interesse einer beschleunigten Grenzabfertigung nebeneinander liegende Grenzabfertigungsstellen mit dem Ziel zu schaffen, dass die am internationalen Personen- und Kraftwagenverkehr Beteiligten zur Kontrolle nur einmal anhalten müssen.
 
@@ -51,7 +53,9 @@ folgendes vereinbart:
 
 ## Artikel 2
 
-### Grenzübergangsstelle Nofels – Ruggell
+**Grenzübergangsstelle Nofels – Ruggell**
+
+### Art. 2
 
 (1) An der Grenzübergangsstelle Nofels – Ruggell werden auf liechtensteinischem Gebiet nebeneinander liegende Grenzabfertigungsstellen errichtet.
 
@@ -71,7 +75,9 @@ b) das den österreichischen Bediensteten zur alleinigen Benützung überlassene
 
 ## Artikel 3
 
-### Grenzübergangsstelle Nofels-Fresch – Schellenberg
+**Grenzübergangsstelle Nofels-Fresch – Schellenberg**
+
+### Art. 3
 
 (1) An der Grenzübergangsstelle Nofels-Fresch – Schellenberg werden auf österreichischem und liechtensteinischem Gebiet nebeneinander liegende Grenzabfertigungsstellen errichtet.
 
@@ -93,7 +99,9 @@ b) für die schweizerischen und liechtensteinischen Bediensteten, die von den Be
 
 ## Artikel 4
 
-### Grenzübergangsstelle Tosters – Mauren
+**Grenzübergangsstelle Tosters – Mauren**
+
+### Art. 4
 
 (1) An der Grenzübergangsstelle Tosters – Mauren werden auf österreichischem Gebiet nebeneinander liegende Grenzabfertigungsstellen errichtet.
 
@@ -113,7 +121,9 @@ b) die den schweizerischen und liechtensteinischen Bediensteten zur alleinigen B
 
 ## Artikel 5
 
-### Grenzübergangsstelle Tisis – Schaanwald
+**Grenzübergangsstelle Tisis – Schaanwald**
+
+### Art. 5
 
 (1) An der Grenzübergangsstelle Tisis – Schaanwald werden auf österreichischem und liechtensteinischem Gebiet nebeneinander liegende Grenzabfertigungsstellen errichtet.
 
@@ -137,7 +147,9 @@ b) für die schweizerischen und liechtensteinischen Bediensteten
 
 ## Artikel 6
 
-### Inkrafttreten und Kündigung
+**Inkrafttreten und Kündigung**
+
+### Art. 6
 
 (1) Die Vereinbarung tritt am ersten Tag des ersten Monats, der auf den Monat folgt, in dem die Unterzeichnung vorgenommen wurde, in Kraft.
 

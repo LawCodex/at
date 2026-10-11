@@ -600,7 +600,9 @@ die Anstrengungen Ägyptens mit dem Ziel einer nachhaltigen wirtschaftlichen und
 
 ## ARTIKEL 40
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 40
 
 (1) Die Zusammenarbeit konzentriert sich in erster Linie auf die Wirtschaftszweige, in denen interne Schwierigkeiten bestehen oder die durch die Liberalisierung der ägyptischen Wirtschaft insgesamt und insbesondere durch die Liberalisierung des Handels zwischen Ägypten und der Gemeinschaft betroffen sind.
 
@@ -616,7 +618,9 @@ die Anstrengungen Ägyptens mit dem Ziel einer nachhaltigen wirtschaftlichen und
 
 ## ARTIKEL 41
 
-#### Methoden und Modalitäten
+**Methoden und Modalitäten**
+
+#### Art. 41
 
 Die wirtschaftliche Zusammenarbeit wird insbesondere mit folgenden Mitteln durchgeführt:
 
@@ -634,7 +638,9 @@ e) technische und administrative Hilfe sowie Hilfe bei der Ausarbeitung von Rech
 
 ## ARTIKEL 42
 
-#### Bildung und Ausbildung
+**Bildung und Ausbildung**
+
+#### Art. 42
 
 Die Vertragsparteien verfolgen mit ihrer Zusammenarbeit das Ziel, die wirksamsten Mittel zu ermitteln und anzuwenden, mit denen Bildung und Berufsausbildung erheblich verbessert werden können, insbesondere in folgenden Bereichen: öffentliche und private Unternehmen, handelsbezogene Dienstleistungen, öffentliche Verwaltung, technische Einrichtungen, Normungs- und Zertifizierungsorganisationen und andere einschlägige Stellen. In diesem Zusammenhang wird dem Zugang von Frauen zu Hochschulbildung und Berufsausbildung besondere Aufmerksamkeit gewidmet. Mit der Zusammenarbeit wird ferner die Herstellung von Verbindungen zwischen Facheinrichtungen in der Gemeinschaft und in Ägypten unterstützt und der Informations- und Erfahrungsaustausch sowie die gemeinsame Nutzung technischer Ressourcen gefördert.
 
@@ -642,7 +648,9 @@ Die Vertragsparteien verfolgen mit ihrer Zusammenarbeit das Ziel, die wirksamste
 
 ## ARTIKEL 43
 
-#### Zusammenarbeit in Wissenschaft und Technologie
+**Zusammenarbeit in Wissenschaft und Technologie**
+
+#### Art. 43
 
 Die Zusammenarbeit hat das Ziel,
 
@@ -662,7 +670,9 @@ c) die technologische Innovation, den Transfer neuer Technologien und die Verbre
 
 ## ARTIKEL 44
 
-#### Umwelt
+**Umwelt**
+
+#### Art. 44
 
 (1) Ziel der Zusammenarbeit ist es, eine Verschlechterung der Umweltlage zu verhindern, die Verschmutzung zu überwachen und die rationelle Nutzung der natürlichen Ressourcen zu gewährleisten, um eine nachhaltige Entwicklung zu gewährleisten.
 
@@ -692,7 +702,9 @@ Umwelterziehung und Sensibilisierung für Umweltfragen.
 
 ## ARTIKEL 45
 
-#### Industrielle Zusammenarbeit
+**Industrielle Zusammenarbeit**
+
+#### Art. 45
 
 Mit der Zusammenarbeit wird insbesondere folgendes gefördert und unterstützt:
 
@@ -714,7 +726,9 @@ Zugang zum Kapitalmarkt zur Finanzierung ertragbringender Investitionen.
 
 ## ARTIKEL 46
 
-#### Investitionen und Investitionsförderung
+**Investitionen und Investitionsförderung**
+
+#### Art. 46
 
 Ziel der Zusammenarbeit ist es, den Fluss von Kapital, Fachwissen und Technologie nach Ägypten zu verstärken, unter anderem durch
 
@@ -734,7 +748,9 @@ Die Zusammenarbeit kann sich auf die Planung und Durchführung von Projekten ers
 
 ## ARTIKEL 47
 
-#### Normung und Konformitätsprüfung
+**Normung und Konformitätsprüfung**
+
+#### Art. 47
 
 Die Vertragsparteien streben eine Verringerung der Unterschiede in den Bereichen Normung und Konformitätsprüfung an. Die Zusammenarbeit in diesem Bereich konzentriert sich insbesondere auf folgendes:
 
@@ -748,7 +764,9 @@ c) Aufbau von Strukturen für den Schutz des geistigen und gewerblichen Eigentum
 
 ## ARTIKEL 48
 
-#### Angleichung der Rechtsvorschriften
+**Angleichung der Rechtsvorschriften**
+
+#### Art. 48
 
 Die Vertragsparteien bemühen sich nach besten Kräften, ihre Rechtsvorschriften einander anzugleichen, um die Durchführung dieses Abkommens zu erleichtern.
 
@@ -756,7 +774,9 @@ Die Vertragsparteien bemühen sich nach besten Kräften, ihre Rechtsvorschriften
 
 ## ARTIKEL 49
 
-#### Finanzdienstleistungen
+**Finanzdienstleistungen**
+
+#### Art. 49
 
 Die Vertragsparteien arbeiten mit dem Ziel zusammen, ihre Normen und Vorschriften einander anzunähern, insbesondere
 
@@ -768,7 +788,9 @@ b) um das Rechnungslegungs- sowie das Aufsichts- und Regelungssystem für Banken
 
 ## ARTIKEL 50
 
-#### Landwirtschaft und Fischerei
+**Landwirtschaft und Fischerei**
+
+#### Art. 50
 
 Ziel der Zusammenarbeit ist
 
@@ -782,7 +804,9 @@ c) die Förderung der Zusammenarbeit in Fragen der Tier- und Pflanzengesundheit 
 
 ## ARTIKEL 51
 
-#### Verkehr
+**Verkehr**
+
+#### Art. 51
 
 Ziel der Zusammenarbeit ist
 
@@ -800,7 +824,9 @@ die Verbesserung der Navigationshilfen.
 
 ## ARTIKEL 52
 
-#### Informationsgesellschaft und Telekommunikation
+**Informationsgesellschaft und Telekommunikation**
+
+#### Art. 52
 
 Die Vertragsparteien erkennen an, dass die Informations- und Kommunikationstechnologien ein wichtiger Faktor für die moderne Gesellschaft, von entscheidender Bedeutung für die wirtschaftliche und soziale Entwicklung und der Grundstein für den Aufbau der Informationsgesellschaft sind.
 
@@ -822,7 +848,9 @@ ein Verbund der Netze und die Interoperabilität der Telematikdienste in der Gem
 
 ## ARTIKEL 53
 
-#### Energie
+**Energie**
+
+#### Art. 53
 
 Die vorrangigen Bereiche der Zusammenarbeit sind:
 
@@ -838,7 +866,9 @@ Unterstützung der Modernisierung und des Ausbaus der Energieversorgungsnetze un
 
 ## ARTIKEL 54
 
-#### Tourismus
+**Tourismus**
+
+#### Art. 54
 
 Die Prioritäten der Zusammenarbeit in diesem Bereich sind folgende:
 
@@ -860,7 +890,9 @@ Steigerung der Wettbewerbsfähigkeit des Tourismus durch Förderung höherer Pro
 
 ## ARTIKEL 55
 
-#### Zoll
+**Zoll**
+
+#### Art. 55
 
 (1) Die Vertragsparteien bauen die Zusammenarbeit im Zollbereich aus, um die Einhaltung der Handelsvorschriften zu gewährleisten. Die Zusammenarbeit konzentriert sich insbesondere auf
 
@@ -874,7 +906,9 @@ b) die Einführung des Einheitspapiers und eines Systems zur Herstellung einer V
 
 ## ARTIKEL 56
 
-#### Zusammenarbeit im Bereich der Statistik
+**Zusammenarbeit im Bereich der Statistik**
+
+#### Art. 56
 
 Hauptziel der Zusammenarbeit in diesem Bereich ist die Angleichung der Methoden, um für die Handhabung von Statistiken in allen Bereichen, die unter dieses Abkommen fallen und für die Erstellung von Statistiken in Betracht kommen, eine zuverlässige Grundlage zu schaffen.
 
@@ -882,7 +916,9 @@ Hauptziel der Zusammenarbeit in diesem Bereich ist die Angleichung der Methoden,
 
 ## ARTIKEL 57
 
-#### Geldwäsche
+**Geldwäsche**
+
+#### Art. 57
 
 (1) Die Vertragsparteien arbeiten insbesondere mit dem Ziel zusammen, den Missbrauch ihrer Finanzsysteme zum Waschen von Erlösen aus Straftaten im allgemeinen und aus dem Drogenhandel im besonderen zu verhindern.
 
@@ -892,7 +928,9 @@ Hauptziel der Zusammenarbeit in diesem Bereich ist die Angleichung der Methoden,
 
 ## ARTIKEL 58
 
-#### Bekämpfung des Drogenmissbrauchs
+**Bekämpfung des Drogenmissbrauchs**
+
+#### Art. 58
 
 (1) Die Vertragsparteien verfolgen mit ihrer Zusammenarbeit insbesondere das Ziel,
 
@@ -916,7 +954,9 @@ Festlegung wirksamer Normen, die mit den internationalen Normen im Einklang steh
 
 ## ARTIKEL 59
 
-#### Bekämpfung des Terrorismus
+**Bekämpfung des Terrorismus**
+
+#### Art. 59
 
 Im Einklang mit den einschlägigen internationalen Übereinkünften und ihren internen Rechtsvorschriften arbeiten die Vertragsparteien in diesem Bereich zusammen und konzentrieren sich dabei insbesondere auf folgendes:
 
@@ -930,7 +970,9 @@ gemeinsame Forschung und gemeinsame Studien im Bereich der Terrorismuspräventio
 
 ## ARTIKEL 60
 
-#### Regionale Zusammenarbeit
+**Regionale Zusammenarbeit**
+
+#### Art. 60
 
 Die regionale Zusammenarbeit konzentriert sich auf folgendes:
 
@@ -948,7 +990,9 @@ Umwelt.
 
 ## ARTIKEL 61
 
-#### Verbraucherschutz
+**Verbraucherschutz**
+
+#### Art. 61
 
 Die Zusammenarbeit in diesem Bereich ist darauf gerichtet, die Verbraucherschutzprogramme in der Europäischen Gemeinschaft und in Ägypten miteinander in Einklang zu bringen, und umfasst nach Möglichkeit folgendes:
 

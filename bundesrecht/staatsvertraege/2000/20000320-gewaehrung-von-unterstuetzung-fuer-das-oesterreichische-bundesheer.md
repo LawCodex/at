@@ -39,7 +39,9 @@ ZU FOLGENDER ÜBEREINKUNFT GELANGT:
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieser Vereinbarung werden die untenstehenden Begriffe wie folgt definiert:
 
@@ -69,7 +71,9 @@ b) Alle dazugehörigen nationalen Teile des österreichischen Bundesheeres, die 
 
 ## Artikel 2
 
-### Zweck
+**Zweck**
+
+### Art. 2
 
 2.1 Zweck dieser Vereinbarung ist es, Richtlinien und Vorgangsweisen für die Bereitstellung von Unterstützung als Gastgebernation für österreichische Streitkräfte bei der Durchführung von Operationen im Rahmen der internationalen Sicherheitspräsenz im Kosovo zu erstellen.
 
@@ -77,7 +81,9 @@ b) Alle dazugehörigen nationalen Teile des österreichischen Bundesheeres, die 
 
 ## Artikel 3
 
-### Anwendungsbereich und allgemeine Bestimmungen
+**Anwendungsbereich und allgemeine Bestimmungen**
+
+### Art. 3
 
 3.1 Die Bestimmungen dieser Vereinbarung unterstützen Maßnahmen, die für die Durchführung von Operationen im Rahmen der internationalen Sicherheitspräsenz im Kosovo erforderlich sind.
 
@@ -91,7 +97,9 @@ b) Alle dazugehörigen nationalen Teile des österreichischen Bundesheeres, die 
 
 ## Artikel 4
 
-### Verantwortlichkeiten und legistische Bestimmungen
+**Verantwortlichkeiten und legistische Bestimmungen**
+
+### Art. 4
 
 4.1 **Verantwortlichkeit der Gastgebernation**
 
@@ -157,7 +165,9 @@ l) Österreich hat die Umweltschutzbestimmungen und Umweltschutzmaßnahmen zu re
 
 ## Artikel 5
 
-### Finanzielle Überlegungen/Bestimmungen
+**Finanzielle Überlegungen/Bestimmungen**
+
+### Art. 5
 
 5.1 Österreich darf die erforderlichen Versorgungsgüter und Dienstleistungen vor Ort zu den selben Bedingungen erwerben, wie sie für die griechischen Streitkräfte gelten.
 
@@ -181,13 +191,17 @@ l) Österreich hat die Umweltschutzbestimmungen und Umweltschutzmaßnahmen zu re
 
 ## Artikel 6
 
-### Geltungsdauer
+**Geltungsdauer**
+
+### Art. 6
 
 Diese Vereinbarung tritt am 20. Tag nach Unterzeichnung in Kraft. Die Vereinbarung bleibt solange in Kraft, als Griechenland Mitglied der NATO ist, oder bis zu Beendigung der Operation im Rahmen der internationalen Sicherheitspräsenz im Kosovo, was immer zuerst eintritt, außer einer der Teilnehmer beendet es vorzeitig unter Einhaltung einer Kündigungsfrist von 45 Tagen. Es bleibt jedoch während der Rückverlegung der österreichischen Truppen nach Beendigung der österreichischen Teilnahme an der internationalen Sicherheitspräsenz im Kosovo aufrecht. Solange noch unbeglichene Forderungen aus dieser Vereinbarung bestehen, bleibt diese in Kraft.
 
 ## Artikel 7
 
-### Zusätze und Interpretationen/Forderungen
+**Zusätze und Interpretationen/Forderungen**
+
+### Art. 7
 
 7.1 Der Inhalt dieser Vereinbarung kann einvernehmlich und auf Ersuchen jedes Teilnehmers jederzeit überarbeitet, neu verhandelt oder ergänzt werden.
 
@@ -195,13 +209,17 @@ Diese Vereinbarung tritt am 20. Tag nach Unterzeichnung in Kraft. Die Vereinbaru
 
 ## Artikel 8
 
-### Weitergabe von Informationen
+**Weitergabe von Informationen**
+
+### Art. 8
 
 Hinsichtlich der Weitergabe von Informationen ist das Abkommen zwischen der österreichischen Bundesregierung und der NATO über Informationssicherheit, abgeschlossen in Brüssel am 20. Dezember 1995, anzuwenden.
 
 ## Artikel 9
 
-### Sicherheit
+**Sicherheit**
+
+### Art. 9
 
 Die Teilnehmer haben sämtliches klassifiziertes Material, das sie gemäß dieser Vereinbarung besitzen, benutzen, erzeugen, beistellen oder austauschen, gemäß ihren nationalen Gesetzen und Bestimmungen zu lagern, handzuhaben, zu übermitteln und zu schützen.
 

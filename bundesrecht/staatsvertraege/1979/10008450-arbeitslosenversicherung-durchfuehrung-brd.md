@@ -48,7 +48,9 @@ zur Durchführung des Abkommens folgendes vereinbart:
 
 ## Abschnitt I
 
-### (Zu Artikel 1 – Begriffsbestimmung)
+**(Zu Artikel 1 – Begriffsbestimmung)**
+
+### Art. 1
 
 1\. Die in dieser Vereinbarung verwendeten Ausdrücke haben dieselbe Bedeutung wie im Abkommen.
 
@@ -56,7 +58,9 @@ zur Durchführung des Abkommens folgendes vereinbart:
 
 ## Abschnitt II
 
-### (Zu Artikel 6 – Allgemeiner Grundsatz)
+**(Zu Artikel 6 – Allgemeiner Grundsatz)**
+
+### Art. 2
 
 1\. Hat das Arbeitsamt bei der Feststellung des Anspruches auf Leistungen Zeiten einer beitragspflichtigen Beschäftigung oder Leistungszeiten zu berücksichtigen, die nach den Rechtsvorschriften des anderen Vertragsstaates zurückgelegt worden sind, so hat es beim Arbeitsamt im zuletztgenannten Vertragsstaat anzufragen, und zwar
 
@@ -74,7 +78,9 @@ Die Anfrage kann auch an die Verbindungsstelle des anderen Vertragsstaates geric
 
 ## Abschnitt III
 
-### (zu Artikel 8 – Sonderregelung für Grenzgänger)
+**(zu Artikel 8 – Sonderregelung für Grenzgänger)**
+
+### Art. 3
 
 1\. Für die Durchführung der Rechtsvorschriften über das Arbeitslosengeld nach Artikel 8 Absatz 2 Satz 1 ist das Arbeitsamt zuständig, in dessen Bezirk der Arbeitslose zuletzt beschäftigt war. Dieses Arbeitsamt kann auf Antrag des Arbeitslosen ein anderes Arbeitsamt im selben Vertragsstaat für zuständig erklären.
 
@@ -88,13 +94,17 @@ Die Anfrage kann auch an die Verbindungsstelle des anderen Vertragsstaates geric
 
 ## Abschnitt IV
 
-### (Zu Artikel 10 – Berücksichtigung von Einkünften)
+**(Zu Artikel 10 – Berücksichtigung von Einkünften)**
+
+### Art. 4
 
 Einkünfte aus der sozialen Sicherheit des anderen Vertragsstaates sind zu dem am Beginn des Zeitraumes, für den die Einkünfte zu berücksichtigen sind, in Frankfurt/Main bzw. Wien festgestellten amtlichen Devisenkurs (Geldkurs) umzurechnen.
 
 ## Abschnitt V
 
-### (Zu Artikel 11 – Amtshilfe)
+**(Zu Artikel 11 – Amtshilfe)**
+
+### Art. 5
 
 1\. Die Arbeitsämter der beiden Vertragsstaaten haben auf Ersuchen sich gegenseitig alle Tatsachen mitzuteilen, die für die Durchführung des Abkommens notwendig sind.
 
@@ -102,13 +112,17 @@ Einkünfte aus der sozialen Sicherheit des anderen Vertragsstaates sind zu dem a
 
 ## Abschnitt VI
 
-### (Zu Artikel 14 – Verwaltungsvereinbarung und gegenseitige Unterrichtung)
+**(Zu Artikel 14 – Verwaltungsvereinbarung und gegenseitige Unterrichtung)**
+
+### Art. 6
 
 Den nach Artikel 14 Absatz 2 des Abkommens eingerichteten Verbindungsstellen obliegen zur Erleichterung der Durchführung des Abkommens außer den in dieser Vereinbarung festgelegten Aufgaben alle sonstigen Verwaltungsmaßnahmen, insbesondere die Vereinbarung von Vordrucken und die Leistung und Vermittlung von Verwaltungshilfe. Sie unterstützen die Arbeitsämter bei der Durchführung des Abkommens. Artikel 13 des Abkommens wird hiervon nicht berührt.
 
 ## Abschnitt VII
 
-### (Zu Artikel 15 – Erstattung von zu Unrecht gewährten Leistungen sowie von Vorschüssen)
+**(Zu Artikel 15 – Erstattung von zu Unrecht gewährten Leistungen sowie von Vorschüssen)**
+
+### Art. 7
 
 1\. Die Überweisung eines einbehaltenen Betrages nach Artikel 15 Absatz 1 des Abkommens erfolgt auf das Konto der Forderungseinzugsstelle, die von dem Arbeitsamt des anderen Vertragsstaates benannt wird, das den Rückforderungsbescheid erlassen hat.
 
@@ -116,13 +130,17 @@ Den nach Artikel 14 Absatz 2 des Abkommens eingerichteten Verbindungsstellen obl
 
 ## Abschnitt VIII
 
-### (Zu Artikel 16 – Übergangsregelung)
+**(Zu Artikel 16 – Übergangsregelung)**
+
+### Art. 8
 
 Ein arbeitsloser Grenzgänger, der die Voraussetzungen nach Artikel 8 Absatz 2 Satz 1 des Abkommens erfüllt und dessen Anspruch auf Arbeitslosengeld in dem Vertragsstaat, in dem er seinen gewöhnlichen Aufenthalt hat, vor Inkrafttreten des Abkommens entstanden und bei Inkrafttreten des Abkommens noch nicht erschöpft oder erloschen ist, erhält statt dieses Arbeitslosengeldes auf Antrag Arbeitslosengeld nach den Rechtsvorschriften des Vertragsstaates, in dessen Gebiet er beschäftigt war. Das Arbeitslosengeld wird frühestens ab dem Tage des Inkrafttretens des Abkommens, bei späterer Geltendmachung von dem Tage an gewährt, an dem sich der Arbeitslose persönlich beim Arbeitsamt meldet und Arbeitslosengeld beantragt.
 
 ## Abschnitt IX
 
-### (Geltung für das Land Berlin)
+**(Geltung für das Land Berlin)**
+
+### Art. 9
 
 Diese Vereinbarung gilt auch für das Land Berlin, sofern nicht der Bundesminister für Arbeit und Sozialordnung der Bundesrepublik Deutschland gegenüber dem Bundesminister für soziale Verwaltung der Republik Österreich innerhalb von drei Monaten nach Inkrafttreten der Vereinbarung eine gegenteilige Erklärung abgibt.
 

@@ -46,7 +46,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## ARTIKEL 1
 
-#### ÄNDERUNG DES EUROPÄISCHEN PATENTÜBEREINKOMMENS
+**ÄNDERUNG DES EUROPÄISCHEN PATENTÜBEREINKOMMENS**
+
+#### Art. 1
 
 Das Europäische Patentübereinkommen wird wie folgt geändert:
 
@@ -62,7 +64,9 @@ Das Europäische Patentübereinkommen wird wie folgt geändert:
 
 ## ARTIKEL 3
 
-#### NEUFASSUNG DES ÜBEREINKOMMENS
+**NEUFASSUNG DES ÜBEREINKOMMENS**
+
+#### Art. 3
 
 (1) Der Verwaltungsrat der Europäischen Patentorganisation wird ermächtigt, auf Vorschlag des Präsidenten des Europäischen Patentamts eine Neufassung des Europäischen Patentübereinkommens zu erstellen. In der Neufassung sind die Vorschriften des Übereinkommens in den drei Amtssprachen, soweit dies erforderlich ist, redaktionell anzupassen. Ferner können die Vorschriften des Übereinkommens fortlaufend neu numeriert und die Verweisungen auf andere Vorschriften des Übereinkommens der neuen Nummernfolge entsprechend geändert werden.
 
@@ -70,7 +74,9 @@ Das Europäische Patentübereinkommen wird wie folgt geändert:
 
 ## ARTIKEL 4
 
-#### UNTERZEICHNUNG UND RATIFIKATION
+**UNTERZEICHNUNG UND RATIFIKATION**
+
+#### Art. 4
 
 (1) Diese Revisionsakte liegt für die Vertragsstaaten bis zum 1. September 2001 im Europäischen Patentamt in München zur Unterzeichnung auf.
 
@@ -78,7 +84,9 @@ Das Europäische Patentübereinkommen wird wie folgt geändert:
 
 ## ARTIKEL 5
 
-#### BEITRITT
+**BEITRITT**
+
+#### Art. 5
 
 (1) Diese Revisionsakte steht bis zu ihrem Inkrafttreten den Vertragsstaaten des Übereinkommens und den Staaten, die das Übereinkommen ratifizieren oder ihm beitreten, zum Beitritt offen.
 
@@ -86,13 +94,17 @@ Das Europäische Patentübereinkommen wird wie folgt geändert:
 
 ## ARTIKEL 6
 
-#### VORLÄUFIGE ANWENDUNG
+**VORLÄUFIGE ANWENDUNG**
+
+#### Art. 6
 
 Artikel 1 Nummern 4 – 6 und 12 – 15, Artikel 2 Nummern 2 und 3 sowie Artikel 3 und 7 dieser Revisionsakte sind vorläufig anwendbar.
 
 ## ARTIKEL 7
 
-#### ÜBERGANGSBESTIMMUNGEN
+**ÜBERGANGSBESTIMMUNGEN**
+
+#### Art. 7
 
 (1) Die revidierte Fassung des Übereinkommens findet auf alle nach ihrem Inkrafttreten eingereichten europäischen Patentanmeldungen und die darauf erteilten Patente Anwendung. Sie findet nicht auf die bei ihrem Inkrafttreten bereits erteilten europäischen Patente und auf europäische Patentanmeldungen Anwendung, die in diesem Zeitpunkt anhängig sind, soweit der Verwaltungsrat der Europäischen Patentorganisation nichts anderes bestimmt.
 
@@ -100,7 +112,9 @@ Artikel 1 Nummern 4 – 6 und 12 – 15, Artikel 2 Nummern 2 und 3 sowie Artikel
 
 ## ARTIKEL 8
 
-#### INKRAFTTRETEN
+**INKRAFTTRETEN**
+
+#### Art. 8
 
 (1) Die revidierte Fassung des Europäischen Patentübereinkommens tritt zwei Jahre nach Hinterlegung der letzten Ratifikations- oder Beitrittsurkunde von fünfzehn Vertragsstaaten oder am ersten Tag des dritten Monats nach Hinterlegung der Ratifikations- oder Beitrittsurkunde durch den Vertragsstaat in Kraft, der diese Förmlichkeit als letzter aller Vertragsstaaten vornimmt, wenn dieser Zeitpunkt der frühere ist.
 
@@ -108,7 +122,9 @@ Artikel 1 Nummern 4 – 6 und 12 – 15, Artikel 2 Nummern 2 und 3 sowie Artikel
 
 ## ARTIKEL 9
 
-#### ÜBERMITTLUNGEN UND NOTIFIKATIONEN
+**ÜBERMITTLUNGEN UND NOTIFIKATIONEN**
+
+#### Art. 9
 
 (1) Die Regierung der Bundesrepublik Deutschland stellt beglaubigte Abschriften der Revisionsakte her und übermittelt sie den Regierungen der Vertragsstaaten und der Staaten, die dem Europäischen Patentübereinkommen nach Artikel 166 Absatz 1 beitreten können.
 

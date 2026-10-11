@@ -53,13 +53,17 @@ haben folgendes vereinbart:
 
 ## Artikel 1
 
-### Auslieferungsverpflichtung
+**Auslieferungsverpflichtung**
+
+### Art. 1
 
 Die Vertragsparteien werden nach den Bestimmungen dieses Vertrages Personen ausliefern, die von den Behörden des ersuchenden Staates wegen auslieferungsfähiger strafbarer Handlungen verfolgt werden oder schuldig erkannt worden sind.
 
 ## Artikel 2
 
-### Auslieferungsfähige strafbare Handlungen
+**Auslieferungsfähige strafbare Handlungen**
+
+### Art. 2
 
 (1) Die Auslieferung wird wegen strafbarer Handlungen bewilligt, die nach dem Recht beider Vertragsparteien mit mehr als einjähriger Freiheitsbeschränkung oder strengerer Strafe bedroht sind.
 
@@ -81,7 +85,9 @@ c) ob die Bundesgesetze der Vereinigten Staaten lediglich zur Begründung der Zu
 
 ## Artikel 3
 
-### Staatsangehörigkeit
+**Staatsangehörigkeit**
+
+### Art. 3
 
 (1) Keine Vertragspartei ist verpflichtet, eigene Staatsangehörige auszuliefern. Die zur Behandlung zuständige Behörde des ersuchten Staates ist berechtigt, solche Personen auszuliefern, wenn dies nach ihrem Ermessen angebracht erscheint und das Recht des ersuchten Staates dies nicht ausschließt.
 
@@ -89,7 +95,9 @@ c) ob die Bundesgesetze der Vereinigten Staaten lediglich zur Begründung der Zu
 
 ## Artikel 4
 
-### Politische und militärische strafbare Handlungen
+**Politische und militärische strafbare Handlungen**
+
+### Art. 4
 
 (1) Die Auslieferung wird nicht bewilligt, wenn die strafbare Handlung, derentwegen um Auslieferung ersucht wird, eine politische strafbare Handlung ist.
 
@@ -107,7 +115,9 @@ c) eine strafbare Handlung, derentwegen beide Vertragsstaaten auf Grund eines me
 
 ## Artikel 5
 
-### Gerichtsbarkeit des ersuchten Staates
+**Gerichtsbarkeit des ersuchten Staates**
+
+### Art. 5
 
 (1) Die Auslieferung kann abgelehnt werden, wenn die auszuliefernde Person im ersuchten Staat wegen derselben strafbaren Handlung verfolgt wird, für die um Auslieferung ersucht worden ist.
 
@@ -115,7 +125,9 @@ c) eine strafbare Handlung, derentwegen beide Vertragsstaaten auf Grund eines me
 
 ## Artikel 6
 
-### Grundsatz Ne Bis in Idem
+**Grundsatz Ne Bis in Idem**
+
+### Art. 6
 
 (1) Die Auslieferung wird nicht bewilligt, wenn die auszuliefernde Person von den zuständigen Behörden im ersuchten Staat wegen der strafbaren Handlungen, für welche die Auslieferung begehrt wird, bereits rechtskräftig verurteilt oder freigesprochen wurde.
 
@@ -123,13 +135,17 @@ c) eine strafbare Handlung, derentwegen beide Vertragsstaaten auf Grund eines me
 
 ## Artikel 7
 
-### Verjährung
+**Verjährung**
+
+### Art. 7
 
 Die Auslieferung wird nicht bewilligt, wenn die Strafverfolgung oder die Vollstreckung der Strafe nach dem Recht des ersuchenden Staates verjährt ist.
 
 ## Artikel 8
 
-### Todesstrafe
+**Todesstrafe**
+
+### Art. 8
 
 (1) Wenn die dem Auslieferungsersuchen zugrundeliegende strafbare Handlung nach dem Recht des ersuchenden Staates, nicht aber nach dem Recht des ersuchten Staates, mit der Todesstrafe bedroht ist, kann der ersuchte Staat die Auslieferung ablehnen, sofern der ersuchende Staat nicht eine Zusicherung abgibt, daß die Todesstrafe nicht verhängt wird (im Fall einer zur Strafverfolgung gesuchten Person) oder nicht vollstreckt wird (im Fall einer Person, die bereits im Zeitpunkt, in dem um die Auslieferung ersucht wurde, zum Tode verurteilt worden war).
 
@@ -137,13 +153,17 @@ Die Auslieferung wird nicht bewilligt, wenn die Strafverfolgung oder die Vollstr
 
 ## Artikel 9
 
-### Abwesenheitsurteil
+**Abwesenheitsurteil**
+
+### Art. 9
 
 Wenn die auszuliefernde Person in ihrer Abwesenheit schuldig erkannt wurde, kann die zur Behandlung zuständige Behörde des ersuchten Staates die Auslieferung ablehnen, sofern der ersuchende Staat nicht solche Informationen oder Zusicherungen abgibt, die der ersuchte Staat als ausreichend erachtet, um klarzustellen, daß die Person eine angemessene Möglichkeit hatte, ihre Verteidigungsrechte zu wahren, oder daß ihr nach ihrer Übergabe angemessene Rechtsmittel oder zusätzliche Verfahren offenstehen.
 
 ## Artikel 10
 
-### Auslieferungsverfahren und Auslieferungsunterlagen
+**Auslieferungsverfahren und Auslieferungsunterlagen**
+
+### Art. 10
 
 (1) Alle Auslieferungsersuchen werden im diplomatischen Wege übermittelt.
 
@@ -185,7 +205,9 @@ c) eine Ausfertigung der Entscheidung über die verhängte Strafe, wenn die ausz
 
 ## Artikel 11
 
-### Ergänzende Angaben
+**Ergänzende Angaben**
+
+### Art. 11
 
 (1) Wenn der ersuchte Staat zu irgendeinem Zeitpunkt des Auslieferungsverfahrens die zur Unterstützung des Ersuchens um Auslieferung einer Person zur Verfügung gestellten Angaben für nicht ausreichend erachtet, die Erfordernisse für eine Auslieferung zu erfüllen, kann er um die notwendigen ergänzenden Angaben ersuchen und eine angemessene Frist für deren Einlangen festsetzen.
 
@@ -203,13 +225,17 @@ c) eine Ausfertigung der Entscheidung über die verhängte Strafe, wenn die ausz
 
 ## Artikel 12
 
-### Übersetzungen
+**Übersetzungen**
+
+### Art. 12
 
 Wenn nicht im Einzelfall anderes vereinbart wird, sind alle Unterlagen vom ersuchenden Staat in die Sprache des ersuchten Staates zu übersetzen. Die Übersetzung bedarf keiner Bestätigung.
 
 ## Artikel 13
 
-### Vorläufige Auslieferungshaft
+**Vorläufige Auslieferungshaft**
+
+### Art. 13
 
 (1) Im Dringlichkeitsfall kann ein Vertragsstaat um vorläufige Verhaftung der auszuliefernden Person bis zur Vorlage eines Auslieferungsbegehrens ersuchen. Ein Ersuchen um Verhängung der vorläufigen Auslieferungshaft kann im diplomatischen Weg oder direkt zwischen dem Bundesministerium für Justiz der Republik Österreich und dem Justizministerium der Vereinigten Staaten übermittelt werden. Die Einrichtungen der Internationalen Kriminalpolizeilichen Organisation (Interpol) können für die Übermittlung eines solchen Ersuchens benützt werden.
 
@@ -235,7 +261,9 @@ f) eine Bestätigung, daß ein Auslieferungsersuchen hinsichtlich der auszuliefe
 
 ## Artikel 14
 
-### Entscheidung und Übergabe
+**Entscheidung und Übergabe**
+
+### Art. 14
 
 (1) Der ersuchte Staat unterrichtet den ersuchenden Staat umgehend über seine Entscheidung über das Auslieferungsersuchen. Wenn das Ersuchen zur Gänze oder zum Teil abgelehnt wird, wird der ersuchte Staat eine Erklärung der Ablehnungsgründe anschließen.
 
@@ -247,7 +275,9 @@ f) eine Bestätigung, daß ein Auslieferungsersuchen hinsichtlich der auszuliefe
 
 ## Artikel 15
 
-### Aufgeschobene und zeitweilige Übergabe
+**Aufgeschobene und zeitweilige Übergabe**
+
+### Art. 15
 
 (1) Wenn das Auslieferungsersuchen hinsichtlich einer Person bewilligt wird, gegen die im ersuchten Staat ein Verfahren geführt wird oder die dort eine Strafe verbüßt, so kann der ersuchte Staat die Übergabe der auszuliefernden Person aufschieben. Der Aufschub kann bis zum Abschluß des Verfahrens und zur Verbüßung der Strafe dauern.
 
@@ -255,13 +285,17 @@ f) eine Bestätigung, daß ein Auslieferungsersuchen hinsichtlich der auszuliefe
 
 ## Artikel 16
 
-### Aufschub des Auslieferungsverfahrens
+**Aufschub des Auslieferungsverfahrens**
+
+### Art. 16
 
 Hinsichtlich einer Person, gegen die im ersuchten Staat eine Strafverfolgung im Gange ist, kann dieser Staat das Auslieferungsverfahren bis zum Abschluß des Strafverfahrens aufschieben.
 
 ## Artikel 17
 
-### Auslieferungsersuchen mehrerer Staaten
+**Auslieferungsersuchen mehrerer Staaten**
+
+### Art. 17
 
 (1) Wenn der ersuchte Staat Ersuchen sowohl der anderen Vertragspartei als auch irgendeines anderen Staates oder anderer Staaten um Auslieferung derselben Person entweder wegen derselben strafbaren Handlung oder wegen anderer strafbarer Handlungen erhält, entscheidet die zur Behandlung zuständige Behörde des ersuchten Staates, welchem Staat die Person übergeben wird. Bei seiner Entscheidung wird der ersuchte Staat alle maßgeblichen Umstände berücksichtigen, einschließlich
 
@@ -283,7 +317,9 @@ f) die zeitliche Reihenfolge des Einlangens der Ersuchen der ersuchenden Staaten
 
 ## Artikel 18
 
-### Beschlagnahme und Übergabe von Gegenständen
+**Beschlagnahme und Übergabe von Gegenständen**
+
+### Art. 18
 
 (1) Soweit es nach seinen Gesetzen zulässig ist, kann der ersuchte Staat alle Gegenstände, Schriftstücke und Beweismittel, die im Zusammenhang mit der strafbaren Handlung stehen, wegen der um Auslieferung ersucht wurde, beschlagnahmen. Diese Gegenstände sind dem ersuchenden Staat zu übergeben, wenn die Auslieferung bewilligt wird. Die in diesem Artikel genannten Gegenstände können auch übergeben werden, wenn die Auslieferung wegen des Todes, des Verschwindens oder der Flucht der auszuliefernden Person nicht durchgeführt werden kann.
 
@@ -295,7 +331,9 @@ f) die zeitliche Reihenfolge des Einlangens der Ersuchen der ersuchenden Staaten
 
 ## Artikel 19
 
-### Grundsatz der Spezialität
+**Grundsatz der Spezialität**
+
+### Art. 19
 
 (1) Eine nach diesem Vertrag ausgelieferte Person darf im ersuchenden Staat nicht in Haft gehalten, verurteilt, bestraft oder irgendeiner anderen Einschränkung ihrer persönlichen Freiheit auf Grund einer strafbaren Handlung unterworfen werden, ausgenommen wegen:
 
@@ -317,13 +355,17 @@ b) das Hoheitsgebiet des ersuchenden Staates nicht innerhalb von 30 Tagen ab dem
 
 ## Artikel 20
 
-### Vereinfachte Auslieferung
+**Vereinfachte Auslieferung**
+
+### Art. 20
 
 Erscheint die Auslieferung nach dem Recht des ersuchten Staates nicht offensichtlich unzulässig und hat sich die auszuliefernde Person mit ihrer Auslieferung und Übergabe ohne Durchführung eines förmlichen Auslieferungsverfahrens einverstanden erklärt, so kann der ersuchte Staat diese Person ohne ein förmliches Auslieferungsverfahren übergeben. In diesem Fall findet Artikel 19 keine Anwendung, wovon der ersuchte Staat den ersuchenden Staat in Kenntnis setzen wird.
 
 ## Artikel 21
 
-### Durchlieferung
+**Durchlieferung**
+
+### Art. 21
 
 (1) Jede Vertragspartei kann die Durchbeförderung einer Person, die von einem dritten Staat an die andere Vertragspartei ausgeliefert wird, durch ihr Staatsgebiet bewilligen. Ein Durchlieferungsersuchen wird im diplomatischen Weg oder direkt zwischen dem österreichischen Bundesministerium für Justiz und dem Justizministerium der Vereinigten Staaten gestellt. Die Einrichtungen der Internationalen Kriminialpolizeilichen Organisation (Interpol) können für die Übermittlung eines solchen Ersuchens benützt werden. Das Ersuchen wird eine Beschreibung der durchzuliefernden Person und eine kurze Zusammenfassung des Sachverhaltes des Falles enthalten. Eine durchzuliefernde Person wird während der Durchlieferung in Haft gehalten.
 
@@ -331,7 +373,9 @@ Erscheint die Auslieferung nach dem Recht des ersuchten Staates nicht offensicht
 
 ## Artikel 22
 
-### Unterstützung und Kosten
+**Unterstützung und Kosten**
+
+### Art. 22
 
 (1) Die zuständigen Behörden des ersuchten Staates werden den ersuchenden Staat beraten und dessen Interessen mit allen ihnen zur Verfügung stehenden rechtlichen Mitteln im Auslieferungsverfahren vor den zuständigen Richtern und Beamten vertreten.
 
@@ -341,19 +385,25 @@ Erscheint die Auslieferung nach dem Recht des ersuchten Staates nicht offensicht
 
 ## Artikel 23
 
-### Konsultationen
+**Konsultationen**
+
+### Art. 23
 
 Das österreichische Bundesministerium für Justiz und das Justizministerium der Vereinigten Staaten können einander im Zusammenhang mit der Erledigung einzelner Fälle und zur Föderung und Verbesserung des Verfahrens in Durchführung dieses Vertrages direkt konsultieren.
 
 ## Artikel 24
 
-### Anwendungsbereich
+**Anwendungsbereich**
+
+### Art. 24
 
 Dieser Vertrag findet auf strafbare Handlungen Anwendung, die vor und nach seinem Inkrafttreten begangen wurden.
 
 ## Artikel 25
 
-### Ratifikation und Inkrafttreten
+**Ratifikation und Inkrafttreten**
+
+### Art. 25
 
 (1) Dieser Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden werden sobald wie möglich in Washington ausgetauscht werden.
 
@@ -363,7 +413,9 @@ Dieser Vertrag findet auf strafbare Handlungen Anwendung, die vor und nach seine
 
 ## Artikel 26
 
-### Kündigung
+**Kündigung**
+
+### Art. 26
 
 Jede Vertragspartei kann diesen Vertrag jederzeit durch schriftliche Mitteilung an die andere Vertragspartei auf diplomatischem Weg kündigen. Diese Kündigung wird sechs Monate nach dem Einlangen einer solchen Mitteilung wirksam.
 

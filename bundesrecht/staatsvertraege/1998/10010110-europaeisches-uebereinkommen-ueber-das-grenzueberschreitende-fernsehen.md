@@ -80,13 +80,17 @@ sind wie folgt übereingekommen:
 
 ### Allgemeine Bestimmungen — Artikel 1
 
-#### Ziel und Zweck
+**Ziel und Zweck**
+
+#### Art. 1
 
 Dieses Übereinkommen befaßt sich mit den Programmen, die verbreitet werden. Es verfolgt den Zweck, zwischen den Vertragsparteien die grenzüberschreitende Verbreitung und Weiterverbreitung von Fernsehprogrammen zu erleichtem.
 
 ## Artikel 2
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 2
 
 Im Sinne dieses Übereinkommens bedeutet
 
@@ -108,19 +112,25 @@ h) „Sponsern“ die Beteiligung einer natürlichen oder juristischen Person, d
 
 ## Artikel 3
 
-#### Geltungsbereich
+**Geltungsbereich**
+
+#### Art. 3
 
 Dieses Übereinkommen gilt für jedes Programm, das durch Rechtsträger oder mittels technischer Einrichtungen im Hoheitsbereich einer Vertragspartei über Kabel, über terrestrische Sender oder über Satelliten verbreitet oder weiterverbreitet wird und das direkt oder indirekt in einer oder mehreren anderen Vertragsparteien empfangen werden kann.
 
 ## Artikel 4
 
-#### Freiheit des Empfangs und der Weiterverbreitung
+**Freiheit des Empfangs und der Weiterverbreitung**
+
+#### Art. 4
 
 Die Vertragsparteien sichern die freie Meinungsäußerung und die Informationsfreiheit in Übereinstimmung mit Artikel 10 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten; sie gewährleisten die Freiheit des Empfangs und schränken die Weiterverbreitung von Programmen, die den Bestimmungen dieses Übereinkommens entsprechen, in ihrem Hoheitsgebiet nicht ein.
 
 ## Artikel 5
 
-#### Pflichten der sendenden Vertragsparteien
+**Pflichten der sendenden Vertragsparteien**
+
+#### Art. 5
 
 (1) Jede sendende Vertragspartei sorgt dafür, dass alle Programme, die durch Rundfunkveranstalter unter ihrer Rechtshoheit verbreitet werden, den Bestimmungen dieses Übereinkommens entsprechen.
 
@@ -155,7 +165,9 @@ c) er zwar weder eine von dieser Vertragspartei zugeteilte Frequenz noch eine Sa
 
 ## Artikel 6
 
-#### Bereitstellung von Informationen
+**Bereitstellung von Informationen**
+
+#### Art. 6
 
 (1) Die Verantwortlichen des Rundfunkveranstalters werden in der von der zuständigen Behörde jeder Vertragspartei ausgestellten Genehmigung oder in dem mit dieser Behörde geschlossenen Vertrag oder durch eine andere rechtliche Maßnahme eindeutig und hinreichend festgelegt.
 
@@ -165,7 +177,9 @@ c) er zwar weder eine von dieser Vertragspartei zugeteilte Frequenz noch eine Sa
 
 ### Bestimmungen zur Programmgestaltung — Artikel 7
 
-#### Verantwortlichkeiten des Rundfunkveranstalters
+**Verantwortlichkeiten des Rundfunkveranstalters**
+
+#### Art. 7
 
 (1) Alle Sendungen eines Programms müssen im Hinblick auf ihre Aufmachung und ihren Inhalt die Menschenwürde und die Grundrechte anderer achten.
 
@@ -181,7 +195,9 @@ b) Gewalt nicht unangemessen herausstellen und nicht geeignet sein, zum Rassenha
 
 ## Artikel 8
 
-#### Recht auf Gegendarstellung
+**Recht auf Gegendarstellung**
+
+#### Art. 8
 
 (1) Jede sendende Vertragspartei stellt sicher, dass jede natürliche oder juristische Person ungeachtet ihrer Staatsangehörigkeit oder ihres Wohnorts beziehungsweise Sitzes die Möglichkeit hat, im Hinblick auf Sendungen, die durch einen ihrer Rechtshoheit im Sinne des Artikels 5 unterliegenden Rundfunkveranstalter verbreitet werden, ein Recht auf Gegendarstellung auszuüben oder andere vergleichbare gerichtliche oder verwaltungsrechtliche Mittel in Anspruch zu nehmen. Sie sorgt insbesondere dafür, dass die für die Ausübung des Rechts auf Gegendarstellung vorgesehenen Fristen und sonstigen Modalitäten so gestaltet sind, dass dieses Recht wirksam ausgeübt werden kann. Die wirksame Inanspruchnahme dieses Rechts oder anderer vergleichbarer gerichtlicher oder verwaltungsrechtlicher Mittel wird sowohl hinsichtlich der Fristen als auch hinsichtlich der Anwendungsmodalitäten gewährleistet.
 
@@ -189,13 +205,17 @@ b) Gewalt nicht unangemessen herausstellen und nicht geeignet sein, zum Rassenha
 
 ## Artikel 9
 
-#### Zugang der Allgemeinheit zu Informationen
+**Zugang der Allgemeinheit zu Informationen**
+
+#### Art. 9
 
 Jede Vertragspartei prüft und ergreift gegebenenfalls die geeigneten rechtlichen Maßnahmen, wie die Einführung des Rechts auf Auszüge von Ereignissen von großem Interesse für die Allgemeinheit, mit denen vermieden werden soll, das Recht der Allgemeinheit auf Information dadurch in Frage zu stellen, dass ein ihrer Rechtshoheit unterliegender Rundfunkveranstalter Exklusivrechte zur Verbreitung oder Weiterverbreitung im Sinne des Artikels 3 bei solchen Ereignissen ausübt.
 
 ## Artikel 9a
 
-#### Zugang der Allgemeinheit zu Ereignissen von erheblicher Bedeutung
+**Zugang der Allgemeinheit zu Ereignissen von erheblicher Bedeutung**
+
+#### Art. 9a
 
 (1) Jede Vertragspartei behält sich das Recht vor, Maßnahmen zu ergreifen, um sicherzustellen, dass ein ihrer Rechtshoheit unterliegender Rundfunkveranstalter Exklusivrechte zur Weiterverbreitung von Ereignissen von erheblicher gesellschaftlicher Bedeutung nicht so ausübt, dass einem wesentlichen Teil der Allgemeinheit in dieser Vertragspartei die Möglichkeit genommen wird, diese Ereignisse direkt oder zeitversetzt im frei zugänglichen Fernsehen zu verfolgen. In diesem Zusammenhang kann die betreffende Vertragspartei von solchen Ereignissen, denen sie eine erhebliche gesellschaftliche Bedeutung bemisst, eine Liste erstellen.
 
@@ -223,7 +243,9 @@ b) mit Dreiviertelmehrheit der Mitglieder Richtlinien, zusätzlich zu den in Abs
 
 ## Artikel 10
 
-#### Kulturelle Ziele
+**Kulturelle Ziele**
+
+#### Art. 10
 
 (1) Jede sendende Vertragspartei sorgt im Rahmen des praktisch Durchführbaren und mit angemessenen Mitteln dafür, dass ein Rundfunkveranstalter in ihrer Rechtshoheit den Hauptanteil seiner Sendezeit europäischen Werken vorbehält; ausgenommen ist die für Nachrichten, Sportereignisse, Spielshows, Werbung, Teletext- oder Teleshopping-Dienste vorgesehene Sendezeit. Dieser Anteil soll unter Berücksichtigung der Verantwortung des Rundfunkveranstalters gegenüber seinem Publikum in den Bereichen Information, Bildung, Kultur und Unterhaltung schrittweise auf der Grundlage geeigneter Kriterien erreicht werden.
 
@@ -235,7 +257,9 @@ b) mit Dreiviertelmehrheit der Mitglieder Richtlinien, zusätzlich zu den in Abs
 
 ## Artikel 10a
 
-#### Medienvielfalt
+**Medienvielfalt**
+
+#### Art. 10a
 
 Die Vertragsparteien bemühen sich im Geist der Zusammenarbeit und der gegenseitigen Unterstützung, der diesem Übereinkommen zu Grunde liegt, zu vermeiden, dass Programme, die durch einen Rundfunkveranstalter oder andere natürliche oder juristische Personen unter ihrer Rechtshoheit im Sinne des Artikels 3 verbreitet oder weiterverbreitet werden, die Medienvielfalt gefährden.
 
@@ -243,7 +267,9 @@ Die Vertragsparteien bemühen sich im Geist der Zusammenarbeit und der gegenseit
 
 ### WERBUNG UND TELESHOPPING — Artikel 11
 
-#### Allgemeine Normen
+**Allgemeine Normen**
+
+#### Art. 11
 
 (1) Werbung und Teleshopping müssen fair und ehrlich sein.
 
@@ -257,7 +283,9 @@ Die Vertragsparteien bemühen sich im Geist der Zusammenarbeit und der gegenseit
 
 ## Artikel 12
 
-#### Dauer
+**Dauer**
+
+#### Art. 12
 
 (1) Die Dauer der Werbe- und Teleshopping-Spots und anderen Werbeformen darf, mit Ausnahme der für das Teleshopping im Sinne von Absatz 3 vorgesehenen Fenster, 20 Prozent der täglichen Sendezeit nicht überschreiten. Die Dauer der Spotwerbung darf 15 Prozent der täglichen Sendezeit nicht überschreiten.
 
@@ -273,7 +301,9 @@ Die Vertragsparteien bemühen sich im Geist der Zusammenarbeit und der gegenseit
 
 ## Artikel 13
 
-#### Form und Aufmachung
+**Form und Aufmachung**
+
+#### Art. 13
 
 (1) Werbung und Teleshopping müssen klar als solche erkennbar und durch optische und/oder akustische Mittel eindeutig von anderen Programmteilen getrennt sein. Grundsätzlich werden Werbe- und Teleshopping-Spots in Blöcken gesendet.
 
@@ -285,7 +315,9 @@ Die Vertragsparteien bemühen sich im Geist der Zusammenarbeit und der gegenseit
 
 ## Artikel 14
 
-#### Einfügung der Werbung und des Teleshoppings
+**Einfügung der Werbung und des Teleshoppings**
+
+#### Art. 14
 
 (1) Werbung und Teleshopping werden zwischen Sendungen eingefügt. Unter den in den Absätzen 2 bis 5 genannten Voraussetzungen können Werbe- und Teleshopping-Spots auch in Sendungen eingefügt werden, sofern der Gesamtzusammenhang und der Wert der Sendung sowie die Rechte der Rechteinhaber nicht beeinträchtigt werden.
 
@@ -300,7 +332,9 @@ Die Vertragsparteien bemühen sich im Geist der Zusammenarbeit und der gegenseit
 
 ## Artikel 15
 
-#### Werbung und Teleshopping für bestimmte Erzeugnisse
+**Werbung und Teleshopping für bestimmte Erzeugnisse**
+
+#### Art. 15
 
 (1) Werbung und Teleshopping für Tabakerzeugnisse sind verboten.
 
@@ -324,7 +358,9 @@ e) sie darf den Alkoholgehalt von Getränken nicht ungebührlich betonen.
 
 ## Artikel 16
 
-#### Werbung und Teleshopping, die sich eigens an eine einzelne Vertragspartei richten
+**Werbung und Teleshopping, die sich eigens an eine einzelne Vertragspartei richten**
+
+#### Art. 16
 
 (1) Um Wettbewerbsverzerrungen und die Gefährdung des Fernsehsystems einer Vertragspartei zu vermeiden, dürfen Werbung und Teleshopping, die sich eigens und häufig an Zuschauer in einer einzelnen Vertragspartei außerhalb der sendenden Vertragspartei richten, die für die Fernsehwerbung und das Teleshopping geltenden Vorschriften dieser Vertragspartei nicht umgehen.
 
@@ -338,7 +374,9 @@ b) wenn die betreffenden Vertragsparteien zwei- oder mehrseitige Übereinkünfte
 
 ### Sponsern — Artikel 17
 
-#### Allgemeine Normen
+**Allgemeine Normen**
+
+#### Art. 17
 
 (1) Eine Sendung oder eine Folge von Sendungen, die insgesamt oder teilweise gesponsert werden, müssen durch entsprechende Kennzeichnungen zu Beginn und/oder am Ende der Sendung eindeutig als solche bezeichnet werden.
 
@@ -348,7 +386,9 @@ b) wenn die betreffenden Vertragsparteien zwei- oder mehrseitige Übereinkünfte
 
 ## Artikel 18
 
-#### Verbotenes Sponsern
+**Verbotenes Sponsern**
+
+#### Art. 18
 
 (1) Sendungen dürfen nicht durch natürliche oder juristische Personen gesponsert werden, deren Haupttätigkeit in der Herstellung oder dem Verkauf von Erzeugnissen oder der Erbringung von Dienstleistungen besteht, für die Werbung und Teleshopping auf Grund des Artikels 15 verboten sind.
 
@@ -360,7 +400,9 @@ b) wenn die betreffenden Vertragsparteien zwei- oder mehrseitige Übereinkünfte
 
 ### REINE EIGENWERBE- ODER TELESHOPPINGPROGRAMME — Artikel 18a
 
-#### Reine Eigenwerbeprogramme
+**Reine Eigenwerbeprogramme**
+
+#### Art. 18a
 
 (1) Die Bestimmungen dieses Übereinkommens gelten sinngemäß für reine Eigenwerbeprogramme.
 
@@ -368,7 +410,9 @@ b) wenn die betreffenden Vertragsparteien zwei- oder mehrseitige Übereinkünfte
 
 ## Artikel 18b
 
-#### Reine Teleshoppingprogramme
+**Reine Teleshoppingprogramme**
+
+#### Art. 18b
 
 (1) Die Bestimmungen dieses Übereinkommens werden auch auf die ausschließlich für das Teleshopping vorgesehenen Programme angewandt.
 
@@ -378,7 +422,9 @@ b) wenn die betreffenden Vertragsparteien zwei- oder mehrseitige Übereinkünfte
 
 ### Gegenseitige Hilfeleistung — Artikel 19
 
-#### Zusammenarbeit zwischen den Vertragsparteien
+**Zusammenarbeit zwischen den Vertragsparteien**
+
+#### Art. 19
 
 (1) Die Vertragsparteien kommen überein, sich gegenseitig bei der Durchführung dieses Übereinkommens zu unterstützen.
 
@@ -402,7 +448,9 @@ d) prüft jede Schwierigkeit, die sich aus der Anwendung dieses Übereinkommens 
 
 ### Ständiger Ausschuß — Artikel 20
 
-#### Ständiger Ausschuß
+**Ständiger Ausschuß**
+
+#### Art. 20
 
 (1) Für die Zwecke dieses Übereinkommens wird ein Ständiger Ausschuß eingesetzt.
 
@@ -422,7 +470,9 @@ d) prüft jede Schwierigkeit, die sich aus der Anwendung dieses Übereinkommens 
 
 ## Artikel 21
 
-#### Aufgaben des Ständigen Ausschusses
+**Aufgaben des Ständigen Ausschusses**
+
+#### Art. 21
 
 Der Ständige Ausschuß hat die Aufgabe, die Anwendung dieses Übereinkommens zu überwachen. Er kann
 
@@ -449,7 +499,9 @@ c) die jährliche Veröffentlichung einer konsolidierten Liste der bezeichneten 
 
 ## Artikel 22
 
-#### Berichte des Ständigen Ausschusses
+**Berichte des Ständigen Ausschusses**
+
+#### Art. 22
 
 Nach jeder Sitzung übermittelt der Ständige Ausschuß den Vertragsparteien und dem Ministerkomitee des Europarats einen Bericht über seine Beratungen und etwa gefaßte Beschlüsse.
 
@@ -457,7 +509,9 @@ Nach jeder Sitzung übermittelt der Ständige Ausschuß den Vertragsparteien und
 
 ### Änderungen — Artikel 23
 
-#### Änderungen
+**Änderungen**
+
+#### Art. 23
 
 (1) Jede Vertragspartei kann Änderungen dieses Übereinkommens vorschlagen.
 
@@ -477,7 +531,9 @@ Nach jeder Sitzung übermittelt der Ständige Ausschuß den Vertragsparteien und
 
 ### Behauptete Verletzungen dieses Übereinkommens — Artikel 24
 
-#### Behauptete Verletzungen dieses Übereinkommens
+**Behauptete Verletzungen dieses Übereinkommens**
+
+#### Art. 24
 
 (1) Stellt eine Vertragspartei eine Verletzung dieses Übereinkommens fest, so unterrichtet sie die sendende Vertragspartei von der behaupteten Verletzung; die beiden Vertragsparteien bemühen sich, die Schwierigkeit auf der Grundlage der Artikel 19, 25 und 26 auszuräumen.
 
@@ -490,7 +546,9 @@ Artikels 7 Absatz 3 oder des Artikels 8, 9 oder 10 nicht erlaubt.
 
 ## Artikel 24a
 
-#### Behaupteter Missbrauch der durch dieses Übereinkommen eingeräumten Rechte
+**Behaupteter Missbrauch der durch dieses Übereinkommen eingeräumten Rechte**
+
+#### Art. 24a
 
 (1) Ein Rechtsmissbrauch liegt vor, wenn das Programm eines Rundfunkveranstalters vollständig oder hauptsächlich auf das Hoheitsgebiet einer Vertragspartei gerichtet ist, deren Rechtshoheit der Rundfunkveranstalter nicht unterliegt (die „empfangende Vertragspartei“), und wenn dieser Rundfunkveranstalter sich in der Absicht niedergelassen hat, sich den Gesetzen in den von diesem Übereinkommen erfassten Bereichen zu entziehen, die auf ihn anwendbar wären, wenn er im Hoheitsgebiet dieser anderen Vertragspartei niedergelassen wäre.
 
@@ -514,7 +572,9 @@ c) nach Anhörung der betroffenen Vertragsparteien nimmt der Ständige Ausschuss
 
 ### Beilegung von Streitigkeiten — Artikel 25
 
-#### Vergleich
+**Vergleich**
+
+#### Art. 25
 
 (1) Bei einer Schwierigkeit, die sich aus der Anwendung dieses Übereinkommens ergibt, bemühen sich die betroffenen Parteien um eine gütliche Beilegung.
 
@@ -524,7 +584,9 @@ c) nach Anhörung der betroffenen Vertragsparteien nimmt der Ständige Ausschuss
 
 ## Artikel 26
 
-#### Schiedsverfahren
+**Schiedsverfahren**
+
+#### Art. 26
 
 (1) Können die betroffenen Parteien die Streitigkeiten nicht nach Artikel 25 beilegen, so können sie diese einvernehmlich einem Schiedsverfahren unterwerfen, dessen Verfahrensbestimmungen im Anhang zu diesem Übereinkommen enthalten sind. Falls ein solches Einvernehmen nicht innerhalb von sechs Monaten nach dem ersten Antrag auf Eröffnung des Vergleichsverfahrens zustandekommt, kann die Streitigkeit auf Ersuchen einer der Parteien einem Schiedsverfahren unterworfen werden.
 
@@ -534,7 +596,9 @@ c) nach Anhörung der betroffenen Vertragsparteien nimmt der Ständige Ausschuss
 
 ### Andere internationale Übereinkünfte und das innerstaatliche Recht der Vertragsparteien — Artikel 27
 
-#### Andere internationale Übereinkünfte oder Absprachen
+**Andere internationale Übereinkünfte oder Absprachen**
+
+#### Art. 27
 
 (1) In ihren gegenseitigen Beziehungen wenden die Vertragsparteien, die Mitglieder der Europäischen Gemeinschaft sind, Gemeinschaftsvorschriften an und wenden daher die sich aus diesem Übereinkommen ergebenden Bestimmungen nur insoweit an, als es zu einem bestimmten Regelungsgegenstand keine Gemeinschaftsvorschrift gibt.
 
@@ -546,7 +610,9 @@ c) nach Anhörung der betroffenen Vertragsparteien nimmt der Ständige Ausschuss
 
 ## Artikel 28
 
-#### Verhältnis zwischen dem Übereinkommen und dem innerstaatlichen Recht der Vertragsparteien
+**Verhältnis zwischen dem Übereinkommen und dem innerstaatlichen Recht der Vertragsparteien**
+
+#### Art. 28
 
 Dieses Übereinkommen hindert die Vertragsparteien nicht, strengere oder ausführlichere Bestimmungen als die in diesem Übereinkommen enthaltenen auf Programme anzuwenden, die durch einen ihrer Rechtshoheit unterliegenden Rundfunkveranstalter im Sinne des Artikels 5 verbreitet werden.
 
@@ -554,7 +620,9 @@ Dieses Übereinkommen hindert die Vertragsparteien nicht, strengere oder ausfüh
 
 ### Schlußbestimmungen — Artikel 29
 
-#### Unterzeichnung und Inkrafttreten
+**Unterzeichnung und Inkrafttreten**
+
+#### Art. 29
 
 (1) Dieses Übereinkommen liegt für die Mitgliedstaaten des Europarates und die anderen Vertragsstaaten des Europäischen Kulturabkommens sowie die Europäische Gemeinschaft zur Unterzeichnung auf. Es bedarf der Ratifikation, Annahme oder Genehmigung. Die Ratifikations-, Annahme- oder Genehmigungsurkunden werden beim Generalsekretär des Europarats hinterlegt.
 
@@ -566,7 +634,9 @@ Dieses Übereinkommen hindert die Vertragsparteien nicht, strengere oder ausfüh
 
 ## Artikel 30
 
-#### Beitritt von Nichtmitgliedstaaten
+**Beitritt von Nichtmitgliedstaaten**
+
+#### Art. 30
 
 (1) Nach Inkrafttreten dieses Übereinkommens kann das Ministerkomitee des Europarats nach Konsultation der Vertragsstaaten durch einen mit der in Artikel 20 Buchstabe d der Satzung des Europarats vorgesehenen Mehrheit und mit einhelliger Zustimmung der Vertreter der Vertragsstaaten, die Anspruch auf einen Sitz im Komitee haben, gefaßten Beschluß jeden anderen Staat einladen, dem Übereinkommen beizutreten.
 
@@ -574,7 +644,9 @@ Dieses Übereinkommen hindert die Vertragsparteien nicht, strengere oder ausfüh
 
 ## Artikel 31
 
-#### Geltungsbereichsklausel
+**Geltungsbereichsklausel**
+
+#### Art. 31
 
 (1) Jeder Staat kann bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifikations-. Annahme-, Genehmigungs- oder Beitrittsurkunde einzelne oder mehrere Hoheitsgebiete bezeichnen, auf die dieses Übereinkommen Anwendung findet.
 
@@ -584,7 +656,9 @@ Dieses Übereinkommen hindert die Vertragsparteien nicht, strengere oder ausfüh
 
 ## Artikel 32
 
-#### Vorbehalte
+**Vorbehalte**
+
+#### Art. 32
 
 (1) Bei der Unterzeichnung oder der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde kann jeder Staat erklären, dass er sich das Recht vorbehält, die Weiterverbreitung von Programmen, die Werbung für alkoholische Getränke nach Maßgabe des Artikels 15 Absatz 2 enthalten, in seinem Hoheitsgebiet zu beschränken, soweit diese Weiterverbreitung seinen innerstaatlichen Rechtsvorschriften nicht entspricht;
 
@@ -596,7 +670,9 @@ Dieses Übereinkommen hindert die Vertragsparteien nicht, strengere oder ausfüh
 
 ## Artikel 33
 
-#### Kündigung
+**Kündigung**
+
+#### Art. 33
 
 (1) Jede Vertragspartei kann dieses Übereinkommen jederzeit durch eine an den Generalsekretär des Europarats gerichtete Notifikation kündigen.
 
@@ -604,7 +680,9 @@ Dieses Übereinkommen hindert die Vertragsparteien nicht, strengere oder ausfüh
 
 ## Artikel 34
 
-#### Notifikationen
+**Notifikationen**
+
+#### Art. 34
 
 Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten das Rates, den anderen Vertragsstaaten des Europäischen Kulturabkommens, der Europäischen Gemeinschaft und jedem Staat, der diesem Übereinkommen beigetreten ist oder zum Beitritt eingeladen wurde,
 

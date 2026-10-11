@@ -47,7 +47,9 @@ BGBl. Nr. 846/1995
 
 ## Artikel I
 
-### ZWECK UND AUFGABEN DES ZENTRUMS
+**ZWECK UND AUFGABEN DES ZENTRUMS**
+
+### Art. 1
 
 1\. Die Österreichische Bundesregierung (im nachfolgenden die „Regierung des Gastlandes” genannt), welche das Europäische Zentrum für Wohlfahrtspolitik und Sozialforschung, das ursprünglich Europäische Zentrum für Ausbildung und Forschung auf dem Gebiet der Sozialen Wohlfahrt hieß (im nachfolgenden „das Zentrum” genannt), in Wien eingerichtet hat, wird den Betrieb des Zentrums weiterhin unterstützen. Der Generalsekretär der Vereinten Nationen (im nachfolgenden “der Generalsekretär” genannt) wird an diesem Unternehmen mitwirken und wird sich bemühen, die Teilnahme und die Unterstützung der Regierungen der anderen Mitgliedstaaten der Vereinten Nationen, der Mitglieder der Spezialorganisationen oder der Internationalen Atomenergiebehörde (im nachfolgenden die “anderen Regierungen” genannt) für den Betrieb des Zentrums zu gewinnen.
 
@@ -63,13 +65,17 @@ c) die Aufrechterhaltung von Beziehungen mit Organisationen, staatlichen Behörd
 
 ## Artikel II
 
-### RECHTSSTELLUNG DES ZENTRUMS
+**RECHTSSTELLUNG DES ZENTRUMS**
+
+### Art. 2
 
 Die Regierung des Gastlandes wird die notwendigen Schritte unternehmen, um die Rechtsstellung des Zentrums als eine autonome und nicht auf Gewinn gerichtete Einrichtung mit Rechtspersönlichkeit nach österreichischem Recht zu sichern. Die Statuten des Zentrums sollen mit der geänderten Fassung der Statuten identisch sein, die den Vereinten Nationen gemäß Artikel II des am 7. Dezember 1978 unterzeichneten Übereinkommens zwischen der Österreichischen Bundesregierung und den Vereinten Nationen über den Fortbestand des Europäischen Zentrums für Ausbildung und Forschung auf dem Gebiet der sozialen Wohlfahrt mitgeteilt worden ist und die im Einklang mit diesem Übereinkommen steht. Alle vorgeschlagenen Änderungen der Statuten des Zentrums haben den Vereinten Nationen zur Kenntnis gebracht zu werden, bevor sie in Kraft treten können.
 
 ## Artikel III
 
-### ORGANISATION DES ZENTRUMS
+**ORGANISATION DES ZENTRUMS**
+
+### Art. 3
 
 **A. Kuratorium**
 
@@ -117,7 +123,9 @@ Die Arbeitssprachen des Zentrums sind Englisch, Französisch und Deutsch.
 
 ## Artikel IV
 
-### VERPFLICHTUNGEN DER REGIERUNG DES GASTLANDES
+**VERPFLICHTUNGEN DER REGIERUNG DES GASTLANDES**
+
+### Art. 4
 
 1\. Die Regierung wird, in Übereinstimmung mit ihren budgetären Vorschriften, zu ihren Lasten zur Verfügung stellen:
 
@@ -135,7 +143,9 @@ e) Ausgaben, die mit der jährlichen Kuratoriumssitzung verbunden sind, vorausge
 
 ## Artikel V
 
-### VERPFLICHTUNGEN DER VEREINTEN NATIONEN
+**VERPFLICHTUNGEN DER VEREINTEN NATIONEN**
+
+### Art. 5
 
 1\. Der Generalsekretär wird mit dem Zentrum unter der Voraussetzung, daß die nötigen Mittel vorhanden sind, durch die Bereitstellung folgender Unterstützung zusammenarbeiten:
 
@@ -149,7 +159,9 @@ c) Die Reisekosten der nicht-österreichischen Mitglieder des Kuratoriums, die a
 
 ## Artikel VI
 
-### BETEILIGUNG ANDERER REGIERUNGEN
+**BETEILIGUNG ANDERER REGIERUNGEN**
+
+### Art. 6
 
 1\. Andere Regierungen sollen ermutigt werden, am Betrieb des Zentrums teilzunehmen und ihn zu unterstützen. Im besonderen sollen sie eingeladen werden, Spezialisten zur Verfügung zu stellen, die nach den Bestimmungen des Artikels III, Paragraph B 1 b Teil des Lehr- und Forschungspersonals sein können. Das Gehalt und damit verbundene Nebeneinkünfte dieses Personals wird von der betreffenden Regierung oder von der Organisation getragen werden, bei der sie normalerweise angestellt sind. Die betreffende Regierung wird auch eine Unterbringungs- und Lebenshaltungskostenentschädigung beisteuern, außer in jenen Fällen, in denen die Bestimmungen des Artikels IV Paragraph 2 zur Anwendung kommen.
 
@@ -159,7 +171,9 @@ c) Die Reisekosten der nicht-österreichischen Mitglieder des Kuratoriums, die a
 
 ## Artikel VII
 
-### FINANZIELLE BESTIMMUNGEN
+**FINANZIELLE BESTIMMUNGEN**
+
+### Art. 7
 
 1\. Nachdem die zuständigen Stellen des Gastlandes und die Vereinten Nationen festgestellt haben, welche Mittel für die entsprechende Budgetperiode zur Verfügung stehen, wird das jährliche Budget des Zentrums vom Exekutivdirektor erstellt werden. Die zuständigen Stellen des Gastlandes werden hiebei technische Unterstützung gewähren. Das jährliche Budget wird dem Kuratorium zur Genehmigung vorgelegt. Obwohl das Kuratorium Änderungen am vorgeschlagenen Budget vornehmen kann, die die Zuweisung von Mitteln für bestimmte Programme betreffen, darf es die Gesamthöhe der geschätzten Ausgaben nicht erhöhen. Es kann jedoch Empfehlungen bezüglich der Gesamthöhe der Ausgaben machen, die es in den folgenden Jahren für nötig erachtet.
 
@@ -167,13 +181,17 @@ c) Die Reisekosten der nicht-österreichischen Mitglieder des Kuratoriums, die a
 
 ## Artikel VIII
 
-### ZUGANG ZUM ZENTRUM
+**ZUGANG ZUM ZENTRUM**
+
+### Art. 8
 
 Die Regierung des Gastlandes wird jene Visa und Genehmigungen dem ausländischen Personal des Zentrums und allen Personen erteilen, die offiziell an das Zentrum oder zu dort stattfindenden Tagungen offiziell eingeladen werden, die für entsprechende Arbeits- und Aufenthaltsbedingungen und für den Zugang zum Zentrum notwendig sind.
 
 ## Artikel IX
 
-### INKRAFTTRETEN UND BEENDIGUNG
+**INKRAFTTRETEN UND BEENDIGUNG**
+
+### Art. 9
 
 1\. Dieses Übereinkommen ersetzt das Übereinkommen zwischen der Österreichischen Bundesregierung und den Vereinten Nationen über den Fortbestand des Europäischen Zentrums für Ausbildung und Forschung auf dem Gebiet der sozialen Wohlfahrt, unterzeichnet am 7. Dezember 1978 in New York. Dieses Übereinkommen tritt 60 Tage nach Unterzeichnung in Kraft.
 

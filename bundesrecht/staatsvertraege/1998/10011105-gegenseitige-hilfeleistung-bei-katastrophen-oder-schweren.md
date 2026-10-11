@@ -40,7 +40,9 @@ Die Republik Österreich und die Republik Ungarn (im folgenden: Vertragsstaaten)
 
 ## Artikel 1
 
-### Gegenstand
+**Gegenstand**
+
+### Art. 1
 
 (1) Dieses Abkommen regelt die Rahmenbedingungen für freiwillige Hilfeleistungen bei Katastrophen oder schweren Unglücksfällen im anderen Vertragsstaat auf dessen Ersuchen hin, insbesondere für Einsätze von Hilfsmannschaften, Helfern und Ausrüstungsgegenständen.
 
@@ -48,7 +50,9 @@ Die Republik Österreich und die Republik Ungarn (im folgenden: Vertragsstaaten)
 
 ## Artikel 2
 
-### Definitionen
+**Definitionen**
+
+### Art. 2
 
 Im Sinne dieses Abkommens bedeuten die Begriffe:
 
@@ -74,7 +78,9 @@ Güter, die zur unentgeltlichen Abgabe an die betroffene Bevölkerung im Einsatz
 
 ## Artikel 3
 
-### Zuständigkeiten
+**Zuständigkeiten**
+
+### Art. 3
 
 (1) Die für die Stellung und Entgegennahme von Hilfeersuchen zuständigen Behörden sind:
 
@@ -100,7 +106,9 @@ die Präsidenten der Komitatsgeneralversammlung der an Österreich grenzenden Ko
 
 ## Artikel 4
 
-### Absprachen über Hilfeleistungen
+**Absprachen über Hilfeleistungen**
+
+### Art. 4
 
 Im Zuge des Hilfeersuchens werden Art und Umfang der Hilfeleistung zwischen den in Artikel 3 Absatz 1 genannten Behörden abgesprochen, ohne auf Einzelheiten der Durchführung eingehen zu müssen.
 
@@ -114,7 +122,9 @@ Im Zuge des Hilfeersuchens werden Art und Umfang der Hilfeleistung zwischen den 
 
 ## Artikel 6
 
-### Grenzübertritt und Aufenthalt
+**Grenzübertritt und Aufenthalt**
+
+### Art. 6
 
 \*(Anm.: Abs. 1 aufgehoben durch Z 7, BGBl. III Nr. 90/2017)*
 
@@ -128,7 +138,9 @@ Im Zuge des Hilfeersuchens werden Art und Umfang der Hilfeleistung zwischen den 
 
 ## Artikel 7
 
-### Grenzübergang des Materials
+**Grenzübergang des Materials**
+
+### Art. 7
 
 (1) Die Vertragsstaaten erleichtern die Ein- und Ausfuhr der Ausrüstungsgegenstände und Hilfsgüter.
 
@@ -146,7 +158,9 @@ b) diese frei von allen Eingangsabgaben lassen, soweit sie bestimmungsgemäß ve
 
 ## Artikel 8
 
-### Einsätze mit Luftfahrzeugen
+**Einsätze mit Luftfahrzeugen**
+
+### Art. 8
 
 (1) Luftfahrzeuge können für alle Arten von Hilfeleistungen eingesetzt werden.
 
@@ -166,7 +180,9 @@ b) Artikel 7 auf die Luftfahrzeuge und sonstigen mitgeführten Ausrüstungsgegen
 
 ## Artikel 9
 
-### Koordination und Gesamtleitung
+**Koordination und Gesamtleitung**
+
+### Art. 9
 
 (1) Die Koordination und Gesamtleitung der Rettungs- und Hilfsmaßnahmen obliegt in jedem Fall den Behörden des Einsatzstaates.
 
@@ -176,7 +192,9 @@ b) Artikel 7 auf die Luftfahrzeuge und sonstigen mitgeführten Ausrüstungsgegen
 
 ## Artikel 10
 
-### Einsatzkosten
+**Einsatzkosten**
+
+### Art. 10
 
 (1) Der Entsendestaat hat gegenüber dem Einsatzstaat keinen Anspruch auf Ersatz der Kosten der Hilfeleistung. Dies gilt auch für Kosten, die durch Verbrauch, Beschädigung oder Verlust des Materials entstehen.
 
@@ -188,7 +206,9 @@ b) Artikel 7 auf die Luftfahrzeuge und sonstigen mitgeführten Ausrüstungsgegen
 
 ## Artikel 11
 
-### Schadenersatz und Entschädigung
+**Schadenersatz und Entschädigung**
+
+### Art. 11
 
 (1) Jeder Vertragsstaat verzichtet auf alle ihm gegen den anderen Vertragsstaat oder dessen Hilfsmannschaften zustehenden Ansprüche auf Ersatz von
 
@@ -202,7 +222,9 @@ b) Schäden, die auf einer Körperverletzung, einer Gesundheitsschädigung oder 
 
 ## Artikel 12
 
-### Unterstützung und Wiederaufnahme von Evakuierten
+**Unterstützung und Wiederaufnahme von Evakuierten**
+
+### Art. 12
 
 (1) Personen, die bei einer Katastrophe oder einem schweren Unglücksfall als Evakuierte von einem Vertragsstaat in den anderen gelangt sind, erhalten dort bis zum Zeitpunkt der frühesten Rückkehrmöglichkeit die notwendige soziale Unterstützung. Der Abgangsstaat erstattet die Kosten der Unterstützung und der Rückführung dieser Personen, sofern sie nicht Angehörige des anderen Vertragsstaates sind.
 
@@ -210,7 +232,9 @@ b) Schäden, die auf einer Körperverletzung, einer Gesundheitsschädigung oder 
 
 ## Artikel 13
 
-### Weitere Formen der Zusammenarbeit
+**Weitere Formen der Zusammenarbeit**
+
+### Art. 13
 
 (1) Die in Artikel 3 genannten Behörden arbeiten nach Maßgabe des jeweiligen innerstaatlichen Rechts zusammen, insbesondere:
 
@@ -224,31 +248,41 @@ c) zum Austausch von Informationen über Gefahren und Schäden, die sich auf das
 
 ## Artikel 14
 
-### Fernmeldeverbindungen
+**Fernmeldeverbindungen**
+
+### Art. 14
 
 Die zuständigen Behörden der Vertragsstaaten treffen gemeinsam die erforderlichen Vorkehrungen, damit Fernmelde- und insbesondere Funkverbindungen zwischen den in Artikel 3 genannten Behörden, zwischen diesen Behörden und den von ihnen entsandten Hilfsmannschaften, zwischen den Hilfsmannschaften untereinander und zwischen den entsandten Hilfsmannschaften und der jeweiligen Einsatzleitung ermöglicht werden.
 
 ## Artikel 15
 
-### Beilegung von Meinungsverschiedenheiten
+**Beilegung von Meinungsverschiedenheiten**
+
+### Art. 15
 
 Meinungsverschiedenheiten über die Anwendung dieses Abkommens, die nicht unmittelbar durch die in Artikel 3 genannten Behörden beigelegt werden können, werden auf diplomatischem Wege bereinigt.
 
 ## Artikel 16
 
-### Kündigung
+**Kündigung**
+
+### Art. 16
 
 Dieses Abkommen wird auf unbestimmte Zeit abgeschlossen und kann jederzeit schriftlich auf diplomatischem Wege gekündigt werden. Es tritt sechs Monate nach dem Zugang der Kündigung außer Kraft. Ein Schadenersatz- und Entschädigungsanspruch auf Grund des Abkommens kann auch nach Außerkrafttreten des Abkommens geltend gemacht werden.
 
 ## Artikel 17
 
-### Andere vertragliche Regelungen
+**Andere vertragliche Regelungen**
+
+### Art. 17
 
 Bestehende zweiseitige vertragliche Regelungen zwischen den Vertragsstaaten bleiben unberührt; mehrseitige Abkommen nur insofern, als dieses Abkommen keine andere Regelung vorsieht.
 
 ## Artikel 18
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 18
 
 (1) Dieses Abkommen bedarf der Ratifikation. Die Ratifikationsurkunden werden in Wien ausgetauscht.
 

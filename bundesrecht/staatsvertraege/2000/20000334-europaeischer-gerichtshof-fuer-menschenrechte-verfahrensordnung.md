@@ -312,7 +312,9 @@ Liechtenstein und die Schweiz: Die Referenten
 
 ## Artikel 1
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 1
 
 Für die Zwecke dieser Verfahrensordnung bezeichnet, wenn sich aus dem Zusammenhang nichts anderes ergibt,
 
@@ -372,7 +374,9 @@ Liechtenstein und die Schweiz: Referent
 
 ### Die Richter — Artikel 2
 
-#### Berechnung der Amtszeit
+**Berechnung der Amtszeit**
+
+#### Art. 2
 
 (1) Die Amtszeit eines gewählten Richters wird vom Zeitpunkt seiner Wahl an gerechnet. Wird jedoch ein Richter nach Ablauf seiner Amtszeit wiedergewählt oder wird er an Stelle eines Richters gewählt, dessen Amtszeit abgelaufen ist oder abläuft, so wird seine Amtszeit vom Zeitpunkt des Ablaufs der betreffenden Amtszeit an gerechnet.
 
@@ -382,7 +386,9 @@ Liechtenstein und die Schweiz: Referent
 
 ## Artikel 3
 
-#### Eid oder feierliche Erklärung
+**Eid oder feierliche Erklärung**
+
+#### Art. 3
 
 (1) Jeder gewählte Richter hat vor Aufnahme seiner Tätigkeit in der ersten Sitzung des Plenums, an der er nach seiner Wahl teilnimmt, oder nötigenfalls vor dem Präsidenten des Gerichtshofs folgenden Eid zu leisten oder folgende feierliche Erklärung abzugeben:
 
@@ -392,13 +398,17 @@ Liechtenstein und die Schweiz: Referent
 
 ## Artikel 4
 
-#### Unvereinbarkeit
+**Unvereinbarkeit**
+
+#### Art. 4
 
 Nach Artikel 21 Absatz 3 der Konvention dürfen die Richter während ihrer Amtszeit keine politische, administrative oder berufliche Tätigkeit ausüben, die mit ihrer Unabhängigkeit und Unparteilichkeit oder mit den Erfordernissen der Vollzeitbeschäftigung in diesem Amt unvereinbar ist. Jeder Richter hat dem Präsidenten des Gerichtshofs jede Nebentätigkeit anzuzeigen. Bei Meinungsverschiedenheit zwischen dem Präsidenten und dem betroffenen Richter entscheidet das Plenum alle sich stellenden Fragen.
 
 ## Artikel 5
 
-#### Rangordnung
+**Rangordnung**
+
+#### Art. 5
 
 (1) Die gewählten Richter folgen im Rang dem Präsidenten und den Vizepräsidenten des Gerichtshofs sowie den Sektionspräsidenten; untereinander bestimmt sich ihr Rang nach dem Tag ihrer Wahl; im Fall der Wiederwahl, auch wenn diese nicht unmittelbar erfolgt, wird die Dauer der früheren Amtsausübung als gewählter Richter berücksichtigt.
 
@@ -410,7 +420,9 @@ Nach Artikel 21 Absatz 3 der Konvention dürfen die Richter während ihrer Amtsz
 
 ## Artikel 6
 
-#### Rücktritt
+**Rücktritt**
+
+#### Art. 6
 
 Die Rücktrittserklärung eines Richters wird an den Präsidenten des Gerichtshofs gerichtet, der sie an den Generalsekretär des Europarats weiterleitet. Vorbehaltlich des Artikels 24 Absatz 4 am Ende und des Artikels 26 Absatz 3 wird durch den Rücktritt der Sitz des Richters frei.
 
@@ -424,7 +436,9 @@ Ein Richter kann nur entlassen werden, wenn die anderen Richter im Plenum mit de
 
 ### Präsidialämter des Gerichtshofs und Rolle des Präsidiums — Artikel 8
 
-#### Wahl des Präsidenten und der Vizepräsidenten des Gerichtshofs sowie der Präsidenten undVizepräsidenten der Sektionen
+**Wahl des Präsidenten und der Vizepräsidenten des Gerichtshofs sowie der Präsidenten undVizepräsidenten der Sektionen**
+
+#### Art. 8
 
 (1) Das Plenum wählt seinen Präsidenten, seine beiden Vizepräsidenten und die Sektionspräsidenten für eine Amtszeit von drei Jahren, die sich jedoch nicht über ihre Amtszeit als Richter hinaus erstrecken kann.
 
@@ -442,7 +456,9 @@ Ein Richter kann nur entlassen werden, wenn die anderen Richter im Plenum mit de
 
 ## Artikel 9
 
-#### Aufgaben des Präsidenten des Gerichtshofs
+**Aufgaben des Präsidenten des Gerichtshofs**
+
+#### Art. 9
 
 (1) Der Präsident leitet Arbeit und Verwaltung des Gerichtshofs. Er vertritt den Gerichtshof und nimmt insbesondere dessen Beziehungen zu den Dienststellen des Europarats wahr.
 
@@ -452,7 +468,9 @@ Ein Richter kann nur entlassen werden, wenn die anderen Richter im Plenum mit de
 
 ## Artikel 9A
 
-#### Rolle des Präsidiums
+**Rolle des Präsidiums**
+
+#### Art. 9A
 
 (1)
 
@@ -474,31 +492,41 @@ b) Das Präsidium kann jedes andere Mitglied des Gerichtshofs oder jede andere P
 
 ## Artikel 10
 
-#### Aufgaben der Vizepräsidenten des Gerichtshofs
+**Aufgaben der Vizepräsidenten des Gerichtshofs**
+
+#### Art. 10
 
 Die Vizepräsidenten des Gerichtshofs unterstützen den Präsidenten des Gerichtshofs. Sie vertreten ihn, wenn er verhindert oder das Amt des Präsidenten nicht besetzt ist oder wenn er darum ersucht. Die Vizepräsidenten sind auch als Sektionspräsidenten tätig.
 
 ## Artikel 11
 
-#### Vertretung des Präsidenten und der Vizepräsidenten des Gerichtshofs
+**Vertretung des Präsidenten und der Vizepräsidenten des Gerichtshofs**
+
+#### Art. 11
 
 Sind der Präsident und die Vizepräsidenten des Gerichtshofs gleichzeitig verhindert oder sind ihre Ämter gleichzeitig nicht besetzt, so werden die Amtspflichten des Präsidenten von einem der Sektionspräsidenten oder, falls keiner von ihnen verfügbar ist, von einem anderen gewählten Richter entsprechend der in Artikel 5 festgelegten Rangordnung wahrgenommen.
 
 ## Artikel 12
 
-#### Präsidenten der Sektionen und Kammern
+**Präsidenten der Sektionen und Kammern**
+
+#### Art. 12
 
 Die Sektionspräsidenten haben den Vorsitz in den Sitzungen der Sektion und der Kammern, deren Mitglieder sie sind, und leiten die Arbeit der Sektion. Die Vizepräsidenten der Sektionen vertreten sie im Verhinderungsfall oder wenn das Amt des Sektionspräsidenten nicht besetzt ist oder auf dessen Ersuchen hin. Andernfalls vertreten die Richter der Sektion und der Kammern den Sektionspräsidenten entsprechend der in Artikel 5 festgelegten Rangordnung.
 
 ## Artikel 13
 
-#### Ausschluss vom Vorsitz
+**Ausschluss vom Vorsitz**
+
+#### Art. 13
 
 Die Richter des Gerichtshofs sind vom Vorsitz in Rechtssachen ausgeschlossen, in denen eine Vertragspartei, deren Staatsangehörige sie sind oder für die sie gewählt wurden, Partei ist, oder an denen sie als nach Artikel 29 Absatz 1 Buchstabe a oder Artikel 30 Absatz 1 benannte Richter mitwirken.
 
 ## Artikel 14
 
-#### Ausgewogene Vertretung der Geschlechter
+**Ausgewogene Vertretung der Geschlechter**
+
+#### Art. 14
 
 Bei den nach diesem und dem folgenden Kapitel vorzunehmenden Ernennungen verfolgt der Gerichtshof eine Politik, die auf eine ausgewogene Vertretung der Geschlechter gerichtet ist.
 
@@ -506,7 +534,9 @@ Bei den nach diesem und dem folgenden Kapitel vorzunehmenden Ernennungen verfolg
 
 ### Die Kanzlei — Artikel 15
 
-#### Wahl des Kanzlers
+**Wahl des Kanzlers**
+
+#### Art. 15
 
 (1) Das Plenum wählt den Kanzler des Gerichtshofs. Die Bewerber müssen hohes sittliches Ansehen genießen und über die juristischen, administrativen und sprachlichen Kenntnisse sowie die Erfahrung verfügen, die zur Ausübung dieser Tätigkeit erforderlich sind.
 
@@ -522,7 +552,9 @@ Hierüber wird ein Protokoll aufgenommen.
 
 ## Artikel 16
 
-#### Wahl der Stellvertretenden Kanzler
+**Wahl der Stellvertretenden Kanzler**
+
+#### Art. 16
 
 (1) Das Plenum wählt außerdem zwei Stellvertretende Kanzler unter den Voraussetzungen, nach dem Verfahren und für die Amtszeit, die in Artikel 15 vorgeschrieben sind. Das für die Amtsenthebung des Kanzlers vorgesehene Verfahren findet auch für die Amtsenthebung der Stellvertretenden Kanzler Anwendung. Der Gerichtshof hört in beiden Fällen zuvor den Kanzler an.
 
@@ -530,7 +562,9 @@ Hierüber wird ein Protokoll aufgenommen.
 
 ## Artikel 17
 
-#### Aufgaben des Kanzlers
+**Aufgaben des Kanzlers**
+
+#### Art. 17
 
 (1) Der Kanzler unterstützt den Gerichtshof bei der Erfüllung seiner Aufgaben. Er trägt die Verantwortung für Organisation und Tätigkeit der Kanzlei, wobei er dem Präsidenten des Gerichtshofs untersteht.
 
@@ -542,7 +576,9 @@ Hierüber wird ein Protokoll aufgenommen.
 
 ## Artikel 18
 
-#### Organisation der Kanzlei
+**Organisation der Kanzlei**
+
+#### Art. 18
 
 (1) Die Kanzlei besteht aus ebenso vielen Sektionskanzleien wie der Gerichtshof Sektionen bildet, sowie aus den Stellen, die erforderlich sind, um die vom Gerichtshof benötigten rechtlichen und administrativen Dienstleistungen zu erbringen.
 
@@ -554,7 +590,9 @@ Hierüber wird ein Protokoll aufgenommen.
 
 ### Die Arbeitsweise des Gerichtshofs — Artikel 19
 
-#### Sitz des Gerichtshofs
+**Sitz des Gerichtshofs**
+
+#### Art. 19
 
 (1) Der Gerichtshof hat seinen Sitz in Straßburg, dem Sitz des Europarats. Der Gerichtshof kann jedoch, wenn er es für zweckmäßig hält, seine Tätigkeit an einem anderen Ort im Hoheitsgebiet der Mitgliedstaaten des Europarats ausüben.
 
@@ -562,7 +600,9 @@ Hierüber wird ein Protokoll aufgenommen.
 
 ## Artikel 20
 
-#### Sitzungen des Plenums
+**Sitzungen des Plenums**
+
+#### Art. 20
 
 (1) Der Präsident beruft den Gerichtshof zu einer Plenarsitzung ein, sobald es die dem Gerichtshof nach der Konvention und dieser Verfahrensordnung obliegenden Aufgaben erfordern. Der Präsident beruft eine Plenarsitzung ein, wenn mindestens ein Drittel der Mitglieder des Gerichtshofs es verlangt, jedenfalls aber einmal im Jahr zur Erörterung von Verwaltungsfragen.
 
@@ -572,7 +612,9 @@ Hierüber wird ein Protokoll aufgenommen.
 
 ## Artikel 21
 
-#### Andere Sitzungen des Gerichtshofs
+**Andere Sitzungen des Gerichtshofs**
+
+#### Art. 21
 
 (1) Die Große Kammer, die Kammern und die Komitees tagen ständig. Der Gerichtshof legt jedoch jedes Jahr auf Vorschlag seines Präsidenten Sitzungsperioden fest.
 
@@ -580,7 +622,9 @@ Hierüber wird ein Protokoll aufgenommen.
 
 ## Artikel 22
 
-#### Beratungen
+**Beratungen**
+
+#### Art. 22
 
 (1) Der Gerichtshof berät in nichtöffentlicher Sitzung. Seine Beratungen bleiben geheim.
 
@@ -590,7 +634,9 @@ Hierüber wird ein Protokoll aufgenommen.
 
 ## Artikel 23
 
-#### Abstimmungen
+**Abstimmungen**
+
+#### Art. 23
 
 (1) Die Entscheidungen des Gerichtshofs werden von den anwesenden Richtern mit Stimmenmehrheit getroffen. Bei Stimmengleichheit wird erneut abgestimmt, und liegt weiterhin Stimmengleichheit vor, so gibt die Stimme des Präsidenten den Ausschlag. Dieser Absatz gilt, soweit diese Verfahrensordnung nichts anderes bestimmt.
 
@@ -602,7 +648,9 @@ Hierüber wird ein Protokoll aufgenommen.
 
 ## Artikel 23A
 
-#### Entscheidung durch stillschweigende Zustimmung
+**Entscheidung durch stillschweigende Zustimmung**
+
+#### Art. 23A
 
 Hat der Gerichtshof außerhalb einer angesetzten Sitzung über eine Verfahrensfrage oder eine andere Frage zu entscheiden, so kann der Präsident anordnen, dass den Richtern die Entscheidung im Entwurf zuzuleiten und für ihre Stellungnahme eine Frist zu setzen ist. Erheben die Richter keine Einwände, so gilt der Vorschlag nach Ablauf der Frist als angenommen.
 
@@ -610,7 +658,9 @@ Hat der Gerichtshof außerhalb einer angesetzten Sitzung über eine Verfahrensfr
 
 ### Zusammensetzung des Gerichtshofs — Artikel 24<sup>6</sup>
 
-#### Zusammensetzung der Großen Kammer
+**Zusammensetzung der Großen Kammer**
+
+#### Art. 24
 
 (1) Die Große Kammer besteht aus 17 Richtern und mindestens drei Ersatzrichtern.
 
@@ -656,7 +706,9 @@ d) Ist ein Mitglied des Ausschusses aus einem unter Buchstabe b oder c genannten
 
 ## Artikel 25
 
-#### Bildung der Sektionen
+**Bildung der Sektionen**
+
+#### Art. 25
 
 (1) Die in Artikel 26 Buchstabe b der Konvention vorgesehenen Kammern (in dieser Verfahrensordnung als „Sektionen“ bezeichnet) werden auf Vorschlag des Präsidenten vom Plenum gebildet, und zwar für drei Jahre, von der Wahl der in Artikel 8 dieser Verfahrensordnung genannten Inhaber der Präsidialämter an gerechnet. Es werden mindestens vier Sektionen gebildet.
 
@@ -670,7 +722,9 @@ d) Ist ein Mitglied des Ausschusses aus einem unter Buchstabe b oder c genannten
 
 ## Artikel 26
 
-#### Bildung der Kammern
+**Bildung der Kammern**
+
+#### Art. 26
 
 (1) Die Kammern mit sieben Richtern, die in Artikel 27 Absatz 1 der Konvention für die Prüfung der beim Gerichtshof anhängig gemachten Rechtssachen vorgesehen sind, werden wie folgt aus den Sektionen gebildet:
 
@@ -686,7 +740,9 @@ c) Die Mitglieder der Sektion, die nicht auf diese Weise bestimmt wurden, sind i
 
 ## Artikel 27
 
-#### Komitees
+**Komitees**
+
+#### Art. 27
 
 (1) Nach Artikel 27 Absatz 1 der Konvention werden Komitees aus drei derselben Sektion angehörenden Richtern gebildet. Die Zahl der Komitees wird vom Präsidenten des Gerichtshofs nach Anhörung der Sektionspräsidenten bestimmt.
 
@@ -698,7 +754,9 @@ c) Die Mitglieder der Sektion, die nicht auf diese Weise bestimmt wurden, sind i
 
 ## Artikel 28
 
-#### Verhinderung, Ablehnung, Freistellung
+**Verhinderung, Ablehnung, Freistellung**
+
+#### Art. 28
 
 (1) Jeder Richter, der verhindert ist, an Sitzungen teilzunehmen, zu denen er einberufen wurde, hat dies umgehend dem Kammerpräsidenten mitzuteilen.
 
@@ -722,7 +780,9 @@ e) wenn aus einem anderen Grund berechtigte Zweifel an seiner Unabhängigkeit od
 
 ## Artikel 29
 
-#### Richter ad hoc
+**Richter ad hoc**
+
+#### Art. 29
 
 (1)
 
@@ -746,7 +806,9 @@ c) Ein Richter ad hoc muss die in Artikel 21 Absatz 1 der Konvention vorgeschrie
 
 ## Artikel 30
 
-#### Interessengemeinschaft
+**Interessengemeinschaft**
+
+#### Art. 30
 
 (1) Haben zwei oder mehr beschwerdeführende oder beschwerdegegnerische Vertragsparteien ein gemeinsames Interesse, so kann der Kammerpräsident sie auffordern, sich untereinander über die Benennung nur eines der für sie gewählten Richter als Richter der Interessengemeinschaft zu verständigen; dieser wird von Amts wegen zum Kammermitglied berufen. Kommt eine Einigung nicht zustande, so bestimmt der Präsident den Richter der Interessengemeinschaft aus der Zahl der von diesen Parteien vorgeschlagenen Richter durch das Los.
 
@@ -760,19 +822,25 @@ c) Ein Richter ad hoc muss die in Artikel 21 Absatz 1 der Konvention vorgeschrie
 
 ### Allgemeine Vorschriften — Artikel 31
 
-#### Möglichkeit von Abweichungen im Einzelfall
+**Möglichkeit von Abweichungen im Einzelfall**
+
+#### Art. 31
 
 Der Gerichtshof kann im Einzelfall bei der Prüfung einer Rechtssache von den Vorschriften dieses Titels abweichen; wenn es angezeigt ist, hört er zuvor die Parteien an.
 
 ## Artikel 32
 
-#### Verfahrensanordnungen
+**Verfahrensanordnungen**
+
+#### Art. 32
 
 Der Präsident des Gerichtshofs kann Verfahrensanordnungen praktischer Natur erlassen, insbesondere hinsichtlich des Erscheinens zu mündlichen Verhandlungen und der Einreichung von Schriftsätzen oder sonstigen Unterlagen.
 
 ## Artikel 33<sup>8</sup>
 
-#### Öffentlichkeit der Unterlagen
+**Öffentlichkeit der Unterlagen**
+
+#### Art. 33
 
 (1) Alle bei der Kanzlei von den Parteien oder Drittbeteiligten im Zusammenhang mit einer Beschwerde eingereichten Unterlagen mit Ausnahme derjenigen, die im Rahmen von Verhandlungen über eine gütliche Einigung nach Artikel 62 vorgelegt werden, sind der Öffentlichkeit nach den vom Kanzler bestimmten Regelungen zugänglich, soweit nicht der Kammerpräsident aus den in Absatz 2 genannten Gründen anders entscheidet, sei es von Amts wegen, sei es auf Antrag einer Partei oder einer anderen betroffenen Person.
 
@@ -788,7 +856,9 @@ Der Präsident des Gerichtshofs kann Verfahrensanordnungen praktischer Natur erl
 
 ## Artikel 34
 
-#### Gebrauch der Sprachen
+**Gebrauch der Sprachen**
+
+#### Art. 34
 
 (1) Die Amtssprachen des Gerichtshofs sind Englisch und Französisch.
 
@@ -824,13 +894,17 @@ d) In Bezug auf die Beteiligung Dritter nach Artikel 44 dieser Verfahrensordnung
 
 ## Artikel 35
 
-#### Vertretung der Vertragsparteien
+**Vertretung der Vertragsparteien**
+
+#### Art. 35
 
 Die Vertragsparteien werden durch Prozessbevollmächtigte vertreten, die zu ihrer Unterstützung Rechtsbeistände oder Berater hinzuziehen können.
 
 ## Artikel 36
 
-#### Vertretung der Beschwerdeführer
+**Vertretung der Beschwerdeführer**
+
+#### Art. 36
 
 (1) Die in Artikel 34 der Konvention genannten natürlichen Personen, nichtstaatlichen Organisationen und Personengruppen können eine Beschwerde zunächst selbst oder durch einen Vertreter einreichen.
 
@@ -852,7 +926,9 @@ b) Verfügt der Betreffende nicht über hinreichende Kenntnisse, um sich in eine
 
 ## Artikel 37
 
-#### Mitteilungen, Zustellungen, Ladungen
+**Mitteilungen, Zustellungen, Ladungen**
+
+#### Art. 37
 
 (1) Mitteilungen und Zustellungen an die Prozessbevollmächtigten oder die Rechtsbeistände der Parteien gelten als an die Parteien gerichtet.
 
@@ -860,7 +936,9 @@ b) Verfügt der Betreffende nicht über hinreichende Kenntnisse, um sich in eine
 
 ## Artikel 38
 
-#### Schriftsätze
+**Schriftsätze**
+
+#### Art. 38
 
 (1) Schriftsätze und andere Unterlagen können nur innerhalb der Frist eingereicht werden, die je nach Fall vom Kammerpräsidenten oder vom Berichterstatter nach Maßgabe dieser Verfahrensordnung hierfür bestimmt wird. Schriftsätze und andere Unterlagen, die nach Ablauf dieser Frist oder unter Missachtung einer nach Artikel 32 ergangenen Verfahrensanordnung eingereicht werden, finden keinen Eingang in die Verfahrensakten, wenn der Kammerpräsident nichts anderes bestimmt.
 
@@ -868,13 +946,17 @@ b) Verfügt der Betreffende nicht über hinreichende Kenntnisse, um sich in eine
 
 ## Artikel 38A
 
-#### Prüfung von Verfahrensfragen
+**Prüfung von Verfahrensfragen**
+
+#### Art. 38A
 
 Von der Kammer zu entscheidende Verfahrensfragen werden gleichzeitig mit der Prüfung der Rechtssache beraten, wenn der Kammerpräsident nichts anderes bestimmt.
 
 ## Artikel 39
 
-#### Vorläufige Maßnahmen
+**Vorläufige Maßnahmen**
+
+#### Art. 39
 
 (1) Die Kammer oder gegebenenfalls ihr Präsident kann auf Antrag einer Partei oder jeder anderen betroffenen Person sowie von Amts wegen gegenüber den Parteien vorläufige Maßnahmen bezeichnen, die im Interesse der Parteien oder eines ordnungsgemäßen Verfahrensablaufs ergriffen werden sollten.
 
@@ -884,19 +966,25 @@ Von der Kammer zu entscheidende Verfahrensfragen werden gleichzeitig mit der Pr�
 
 ## Artikel 40
 
-#### Dringliche Mitteilung über eine Beschwerde
+**Dringliche Mitteilung über eine Beschwerde**
+
+#### Art. 40
 
 In dringenden Fällen kann der Kanzler vorbehaltlich anderer verfahrensrechtlicher Maßnahmen mit Erlaubnis des Kammerpräsidenten eine betroffene Vertragspartei durch jedes verfügbare Mittel über die Erhebung einer Beschwerde informieren und ihr zusammenfassende Angaben über deren Gegenstand machen.
 
 ## Artikel 41
 
-#### Reihenfolge bei der Behandlung der Beschwerden
+**Reihenfolge bei der Behandlung der Beschwerden**
+
+#### Art. 41
 
 Beschwerden werden in der Reihenfolge behandelt, in der sie für die Prüfung reif sind. Die Kammer oder ihr Präsident kann jedoch beschließen, eine bestimmte Beschwerde vorrangig zu behandeln.
 
 ## Artikel 42 (bisheriger Artikel 43)
 
-#### Verbindung und gleichzeitige Prüfung von Beschwerden
+**Verbindung und gleichzeitige Prüfung von Beschwerden**
+
+#### Art. 42
 
 (1) Die Kammer kann auf Antrag der Parteien oder von Amts wegen die Verbindung mehrerer Beschwerden anordnen.
 
@@ -904,7 +992,9 @@ Beschwerden werden in der Reihenfolge behandelt, in der sie für die Prüfung re
 
 ## Artikel 43 (bisheriger Artikel 44)
 
-#### Streichung und Wiedereintragung im Register
+**Streichung und Wiedereintragung im Register**
+
+#### Art. 43
 
 (1) Der Gerichtshof kann jederzeit während des Verfahrens entscheiden, eine Beschwerde nach Artikel 37 der Konvention in seinem Register zu streichen.
 
@@ -918,7 +1008,9 @@ Beschwerden werden in der Reihenfolge behandelt, in der sie für die Prüfung re
 
 ## Artikel 44
 
-#### Beteiligung Dritter
+**Beteiligung Dritter**
+
+#### Art. 44
 
 (1)
 
@@ -944,19 +1036,25 @@ b) Die in diesem Artikel bestimmten Fristen können vom Kammerpräsidenten ausna
 
 ## Artikel 44A
 
-#### Pflicht zur Zusammenarbeit mit dem Gerichtshof
+**Pflicht zur Zusammenarbeit mit dem Gerichtshof**
+
+#### Art. 44A
 
 Die Parteien sind verpflichtet, bei der Durchführung des Verfahrens mit dem Gerichtshof in vollem Umfang zusammenzuarbeiten und insbesondere alle Maßnahmen, soweit sie in ihrer Macht stehen, zu treffen, die der Gerichtshof für eine geordnete Rechtspflege für erforderlich hält. Diese Verpflichtung gilt erforderlichenfalls auch für eine Vertragspartei, die in dem Verfahren nicht Partei ist.
 
 ## Artikel 44B
 
-#### Nichtbefolgung einer Anordnung des Gerichtshofs
+**Nichtbefolgung einer Anordnung des Gerichtshofs**
+
+#### Art. 44B
 
 Befolgt eine Partei eine Anordnung des Gerichtshofs in Bezug auf die Durchführung des Verfahrens nicht, so kann der Kammerpräsident alle Maßnahmen treffen, die er für angebracht hält.
 
 ## Artikel 44C
 
-#### Fehlende Mitwirkung
+**Fehlende Mitwirkung**
+
+#### Art. 44C
 
 (1) Bringt eine Partei vom Gerichtshof erbetene Beweise oder Informationen nicht bei oder gibt sie sachdienliche Informationen nicht von sich aus weiter oder lässt sie es in anderer Weise an einer Mitwirkung in dem Verfahren fehlen, so kann der Gerichtshof daraus die ihm angebracht erscheinenden Schlüsse ziehen.
 
@@ -964,13 +1062,17 @@ Befolgt eine Partei eine Anordnung des Gerichtshofs in Bezug auf die Durchführu
 
 ## Artikel 44D
 
-#### Unangemessene Stellungnahmen einer Partei
+**Unangemessene Stellungnahmen einer Partei**
+
+#### Art. 44D
 
 Gibt der Vertreter einer Partei missbräuchliche, leichtfertige, schikanöse, irreführende oder weitschweifige Stellungnahmen ab, so kann der Kammerpräsident unbeschadet des Artikels 35 Absatz 3 der Konvention diesen Vertreter von dem Verfahren ausschließen, die Annahme der Stellungnahmen ganz oder teilweise verweigern oder eine andere ihm angebracht erscheinende Anordnung treffen.
 
 ## Artikel 44E
 
-#### Nichtweiterverfolgung einer Beschwerde
+**Nichtweiterverfolgung einer Beschwerde**
+
+#### Art. 44E
 
 Beabsichtigt eine beschwerdeführende Vertragspartei oder ein Individualbeschwerdeführer nicht, die Beschwerde weiterzuverfolgen, so kann die Kammer im Einklang mit Artikel 37 Absatz 1 Buchstabe a der Konvention die Beschwerde nach Artikel 43 dieser Verfahrensordnung im Register streichen.
 
@@ -978,7 +1080,9 @@ Beabsichtigt eine beschwerdeführende Vertragspartei oder ein Individualbeschwer
 
 ### Die Einleitung des Verfahrens — Artikel 45
 
-#### Unterschriften
+**Unterschriften**
+
+#### Art. 45
 
 (1) Beschwerden nach Artikel 33 oder 34 der Konvention müssen schriftlich eingereicht und vom Beschwerdeführer oder seinem Vertreter unterzeichnet werden.
 
@@ -988,7 +1092,9 @@ Beabsichtigt eine beschwerdeführende Vertragspartei oder ein Individualbeschwer
 
 ## Artikel 46
 
-#### Inhalt einer Staatenbeschwerde
+**Inhalt einer Staatenbeschwerde**
+
+#### Art. 46
 
 Jede Vertragspartei, die dem Gerichtshof eine Rechtssache nach Artikel 33 der Konvention vorlegen will, reicht bei der Kanzlei eine Beschwerde ein, die folgende Angaben enthält:
 
@@ -1012,7 +1118,9 @@ g) Kopien aller einschlägigen Unterlagen, insbesondere der gerichtlichen oder s
 
 ## Artikel 47<sup>10</sup>
 
-#### Inhalt einer Individualbeschwerde
+**Inhalt einer Individualbeschwerde**
+
+#### Art. 47
 
 (1) Beschwerden nach Artikel 34 der Konvention sind unter Verwendung des von der Kanzlei zur Verfügung gestellten Formulars einzureichen, wenn der Präsident der zuständigen Sektion nichts anderes bestimmt. Das Formular enthält
 
@@ -1056,7 +1164,9 @@ b) mitzuteilen, ob er seinen Fall einer anderen internationalen Untersuchungs- o
 
 ### Die berichterstattenden Richter<sup>11</sup> — Artikel 48
 
-#### Staatenbeschwerden
+**Staatenbeschwerden**
+
+#### Art. 48
 
 (1) Bei einer Anrufung des Gerichtshofs nach Artikel 33 der Konvention benennt die zur Prüfung der Beschwerde gebildete Kammer nach Eingang der Schriftsätze der betroffenen Vertragsparteien eines oder mehrere ihrer Mitglieder als berichterstattende Richter und beauftragt diese, einen Bericht über die Zulässigkeit vorzulegen.
 
@@ -1070,7 +1180,9 @@ Liechtenstein und die Schweiz: Die Referenten
 
 ## Artikel 49
 
-#### Individualbeschwerden
+**Individualbeschwerden**
+
+#### Art. 49
 
 (1) Wird schon aus dem vom Beschwerdeführer vorgelegten Material hinreichend deutlich, dass die Beschwerde unzulässig ist oder im Register gestrichen werden sollte, so wird die Beschwerde von einem Komitee geprüft, sofern nicht ein besonderer Grund dagegen spricht.
 
@@ -1086,7 +1198,9 @@ c) legt der berichterstattende Richter die Berichte, Textentwürfe und anderen U
 
 ## Artikel 50
 
-#### Verfahren vor der Großen Kammer
+**Verfahren vor der Großen Kammer**
+
+#### Art. 50
 
 Wird eine Rechtssache nach Artikel 30 oder 43 der Konvention an die Große Kammer verwiesen, so bestellt der Präsident der Großen Kammer eines, bei einer Staatenbeschwerde eines oder mehrere ihrer Mitglieder als berichterstattende Richter.
 
@@ -1094,7 +1208,9 @@ Wird eine Rechtssache nach Artikel 30 oder 43 der Konvention an die Große Kamme
 
 ### Das Verfahren bei der Prüfung der Zulässigkeit Staatenbeschwerden — Artikel 51
 
-#### Zuweisung von Beschwerden und anschließendes Verfahren
+**Zuweisung von Beschwerden und anschließendes Verfahren**
+
+#### Art. 51
 
 (1) Wird eine Beschwerde nach Artikel 33 der Konvention erhoben, so bringt sie der Präsident des Gerichtshofs umgehend der beschwerdegegnerischen Vertragspartei zur Kenntnis und weist sie einer der Sektionen zu.
 
@@ -1112,7 +1228,9 @@ Wird eine Rechtssache nach Artikel 30 oder 43 der Konvention an die Große Kamme
 
 ### Artikel 52
 
-#### Zuweisung einer Beschwerde an eine Sektion
+**Zuweisung einer Beschwerde an eine Sektion**
+
+#### Art. 52
 
 (1) Der Präsident des Gerichtshofs weist jede nach Artikel 34 der Konvention erhobene Beschwerde einer Sektion zu; er achtet dabei auf eine gerechte Verteilung der Arbeitslast auf die Sektionen.
 
@@ -1122,7 +1240,9 @@ Wird eine Rechtssache nach Artikel 30 oder 43 der Konvention an die Große Kamme
 
 ## Artikel 53
 
-#### Verfahren vor einem Komitee
+**Verfahren vor einem Komitee**
+
+#### Art. 53
 
 (1) Ist der für eine beschwerdegegnerische Vertragspartei gewählte Richter nicht Mitglied des Komitees, so kann er gebeten werden, an dessen Beratungen teilzunehmen.
 
@@ -1132,7 +1252,9 @@ Wird eine Rechtssache nach Artikel 30 oder 43 der Konvention an die Große Kamme
 
 ## Artikel 54
 
-#### Verfahren vor einer Kammer
+**Verfahren vor einer Kammer**
+
+#### Art. 54
 
 (1) Die Kammer kann die Beschwerde sofort für unzulässig erklären oder im Register streichen.
 
@@ -1148,7 +1270,9 @@ c) die Parteien auffordern, weitere schriftliche Stellungnahmen abzugeben.
 
 ## Artikel 54A
 
-#### Gemeinsame Prüfung der Zulässigkeit und Begründetheit
+**Gemeinsame Prüfung der Zulässigkeit und Begründetheit**
+
+#### Art. 54A
 
 (1) Wenn die Kammer der beschwerdegegnerischen Vertragspartei die Beschwerde nach Artikel 54 Absatz 2 Buchstabe b zur Kenntnis bringt, kann sie nach Artikel 29 Absatz 3 der Konvention auch beschließen, die Zulässigkeit und Begründetheit gleichzeitig zu prüfen. In diesem Fall werden die Parteien aufgefordert, sich in ihren Stellungnahmen auch zur Frage einer gerechten Entschädigung zu äußern und gegebenenfalls Vorschläge für eine gütliche Einigung zu unterbreiten. Die Voraussetzungen nach den Artikeln 60 und 62 gelten entsprechend.
 
@@ -1160,13 +1284,17 @@ c) die Parteien auffordern, weitere schriftliche Stellungnahmen abzugeben.
 
 ### Artikel 55
 
-#### Einreden der Unzulässigkeit
+**Einreden der Unzulässigkeit**
+
+#### Art. 55
 
 Einreden der Unzulässigkeit müssen, soweit ihre Natur und die Umstände es zulassen, von der beschwerdegegnerischen Vertragspartei in ihren nach Artikel 51 oder 54 abgegebenen schriftlichen oder mündlichen Stellungnahmen zur Zulässigkeit der Beschwerde vorgebracht werden.
 
 ## Artikel 56
 
-#### Entscheidung der Kammer
+**Entscheidung der Kammer**
+
+#### Art. 56
 
 (1) In der Entscheidung der Kammer ist anzugeben, ob sie einstimmig oder durch Mehrheitsbeschluss getroffen wurde; sie ist gleichzeitig oder später zu begründen.
 
@@ -1174,7 +1302,9 @@ Einreden der Unzulässigkeit müssen, soweit ihre Natur und die Umstände es zul
 
 ## Artikel 57
 
-#### Sprache der Entscheidung
+**Sprache der Entscheidung**
+
+#### Art. 57
 
 (1) Der Gerichtshof erlässt seine Kammerentscheidungen in englischer oder französischer Sprache, wenn er nicht beschließt, eine Entscheidung in beiden Amtssprachen zu erlassen.
 
@@ -1184,7 +1314,9 @@ Einreden der Unzulässigkeit müssen, soweit ihre Natur und die Umstände es zul
 
 ### Das Verfahren nach Zulassung der Beschwerde — Artikel 58
 
-#### Staatenbeschwerden
+**Staatenbeschwerden**
+
+#### Art. 58
 
 (1) Sobald die Kammer eine nach Artikel 33 der Konvention erhobene Beschwerde zugelassen hat, bestimmt der Kammerpräsident nach Anhörung der betroffenen Vertragsparteien die Fristen für die Einreichung der schriftlichen Stellungnahmen zur Begründetheit und für die Vorlage zusätzlicher Beweismittel. Der Präsident kann jedoch mit Einverständnis der betroffenen Vertragsparteien auf die Durchführung eines schriftlichen Verfahrens verzichten.
 
@@ -1192,7 +1324,9 @@ Einreden der Unzulässigkeit müssen, soweit ihre Natur und die Umstände es zul
 
 ## Artikel 59
 
-#### Individualbeschwerden
+**Individualbeschwerden**
+
+#### Art. 59
 
 (1) Sobald eine nach Artikel 34 der Konvention erhobene Beschwerde für zulässig erklärt ist, kann die Kammer oder ihr Präsident die Parteien auffordern, weitere Beweismittel oder schriftliche Stellungnahmen vorzulegen.
 
@@ -1204,7 +1338,9 @@ Einreden der Unzulässigkeit müssen, soweit ihre Natur und die Umstände es zul
 
 ## Artikel 60
 
-#### Ansprüche auf gerechte Entschädigung
+**Ansprüche auf gerechte Entschädigung**
+
+#### Art. 60
 
 (1) Ein Beschwerdeführer, der will, dass ihm der Gerichtshof nach Artikel 41 der Konvention eine gerechte Entschädigung zuspricht, falls er eine Verletzung seiner Rechte aus der Konvention feststellt, muss einen entsprechenden Anspruch ausdrücklich geltend machen.
 
@@ -1216,7 +1352,9 @@ Einreden der Unzulässigkeit müssen, soweit ihre Natur und die Umstände es zul
 
 ## Artikel 62
 
-#### Gütliche Einigung
+**Gütliche Einigung**
+
+#### Art. 62
 
 (1) Sobald eine Beschwerde für zulässig erklärt ist, nimmt der Kanzler nach den Weisungen der Kammer oder ihres Präsidenten nach Artikel 38 Absatz 1 Buchstabe b der Konvention Kontakt mit den Parteien auf, um eine gütliche Einigung zu erzielen. Die Kammer trifft alle geeigneten Maßnahmen, um eine solche Einigung zu erleichtern.
 
@@ -1230,7 +1368,9 @@ Einreden der Unzulässigkeit müssen, soweit ihre Natur und die Umstände es zul
 
 ### Die mündliche Verhandlung — Artikel 63
 
-#### Öffentlichkeit der mündlichen Verhandlung
+**Öffentlichkeit der mündlichen Verhandlung**
+
+#### Art. 63
 
 (1) Die mündliche Verhandlung ist öffentlich, soweit nicht die Kammer nach Absatz 2 aufgrund besonderer Umstände anders entscheidet, sei es von Amts wegen, sei es auf Antrag einer Partei oder einer anderen betroffenen Person.
 
@@ -1240,7 +1380,9 @@ Einreden der Unzulässigkeit müssen, soweit ihre Natur und die Umstände es zul
 
 ## Artikel 64
 
-#### Leitung der mündlichen Verhandlung
+**Leitung der mündlichen Verhandlung**
+
+#### Art. 64
 
 (1) Der Kammerpräsident organisiert und leitet die mündliche Verhandlung und bestimmt die Reihenfolge, in der den vor der Kammer auftretenden Personen das Wort erteilt wird.
 
@@ -1248,13 +1390,17 @@ Einreden der Unzulässigkeit müssen, soweit ihre Natur und die Umstände es zul
 
 ## Artikel 65
 
-#### Nichterscheinen
+**Nichterscheinen**
+
+#### Art. 65
 
 Erscheint eine Partei oder eine andere Person, die erscheinen sollte, nicht oder weigert sie sich zu erscheinen, so kann die Kammer die mündliche Verhandlung gleichwohl durchführen, wenn ihr dies mit einer geordneten Rechtspflege vereinbar erscheint.
 
 ## Artikel 70
 
-#### Verhandlungsprotokoll
+**Verhandlungsprotokoll**
+
+#### Art. 70
 
 (1) Wenn der Kammerpräsident dies anordnet, wird über die mündliche Verhandlung unter der verantwortlichen Leitung des Kanzlers ein Protokoll angefertigt. Das Protokoll enthält
 
@@ -1276,7 +1422,9 @@ d) den Wortlaut aller während der Verhandlung verkündeten Entscheidungen.
 
 ### Das Verfahren vor der Großen Kammer — Artikel 71
 
-#### Anwendbarkeit der Verfahrensvorschriften
+**Anwendbarkeit der Verfahrensvorschriften**
+
+#### Art. 71
 
 (1) Auf das Verfahren vor der Großen Kammer sind die für die Kammern geltenden Vorschriften entsprechend anzuwenden.
 
@@ -1284,7 +1432,9 @@ d) den Wortlaut aller während der Verhandlung verkündeten Entscheidungen.
 
 ## Artikel 72
 
-#### Abgabe der Rechtssache an die Große Kammer
+**Abgabe der Rechtssache an die Große Kammer**
+
+#### Art. 72
 
 (1) Wirft eine bei einer Kammer anhängige Rechtssache eine schwerwiegende Frage der Auslegung der Konvention oder ihrer Protokolle auf oder kann die Entscheidung einer ihr vorliegenden Frage zu einer Abweichung von einem früheren Urteil des Gerichtshofs führen, so kann die Kammer diese Sache nach Artikel 30 der Konvention jederzeit, bevor sie ihr Urteil gefällt hat, an die Große Kammer abgeben, wenn nicht eine Partei nach Absatz 2 widerspricht. Die Entscheidung, die Sache abzugeben, braucht nicht begründet zu werden.
 
@@ -1292,7 +1442,9 @@ d) den Wortlaut aller während der Verhandlung verkündeten Entscheidungen.
 
 ## Artikel 73
 
-#### Verweisung an die Große Kammer auf Antrag einer Partei
+**Verweisung an die Große Kammer auf Antrag einer Partei**
+
+#### Art. 73
 
 (1) Nach Artikel 43 der Konvention kann jede Partei in Ausnahmefällen innerhalb von drei Monaten nach dem Datum der Verkündung des Urteils einer Kammer bei der Kanzlei schriftlich einen Antrag auf Verweisung der Rechtssache an die Große Kammer stellen; sie hat dabei die schwerwiegende Frage der Auslegung oder Anwendung der Konvention oder ihrer Protokolle oder die schwerwiegende Frage von allgemeiner Bedeutung darzulegen, die ihrer Meinung nach eine Prüfung durch die Große Kammer rechtfertigt.
 
@@ -1304,7 +1456,9 @@ d) den Wortlaut aller während der Verhandlung verkündeten Entscheidungen.
 
 ### Die Urteile — Artikel 74
 
-#### Inhalt des Urteils
+**Inhalt des Urteils**
+
+#### Art. 74
 
 (1) Urteile nach den Artikeln 42 und 44 der Konvention enthalten
 
@@ -1342,7 +1496,9 @@ Schweiz: das Dispositiv
 
 ## Artikel 75
 
-#### Entscheidung über eine gerechte Entschädigung
+**Entscheidung über eine gerechte Entschädigung**
+
+#### Art. 75
 
 (1) Stellt die Kammer eine Verletzung der Konvention oder ihrer Protokolle fest, so entscheidet sie im selben Urteil über die Anwendung des Artikels 41 der Konvention, wenn ein entsprechender Anspruch nach Artikel 60 ausdrücklich geltend gemacht wurde und die Frage spruchreif ist; andernfalls behält sich die Kammer die Beurteilung der Frage ganz oder teilweise vor und bestimmt das weitere Verfahren.
 
@@ -1354,7 +1510,9 @@ Schweiz: das Dispositiv
 
 ## Artikel 76
 
-#### Sprache des Urteils
+**Sprache des Urteils**
+
+#### Art. 76
 
 (1) Der Gerichtshof erlässt seine Urteile in englischer oder französischer Sprache, wenn er nicht beschließt, ein Urteil in beiden Amtssprachen zu erlassen.
 
@@ -1362,7 +1520,9 @@ Schweiz: das Dispositiv
 
 ## Artikel 77<sup>13</sup>
 
-#### Unterzeichnung, Verkündung und Zustellung des Urteils
+**Unterzeichnung, Verkündung und Zustellung des Urteils**
+
+#### Art. 77
 
 (1) Das Urteil wird vom Kammerpräsidenten und vom Kanzler unterzeichnet.
 
@@ -1376,13 +1536,17 @@ Schweiz: das Dispositiv
 
 ## Artikel 78
 
-#### Veröffentlichung der Urteile und anderer Schriftstücke
+**Veröffentlichung der Urteile und anderer Schriftstücke**
+
+#### Art. 78
 
 Nach Artikel 44 Absatz 3 der Konvention werden die endgültigen Urteile des Gerichtshofs unter der Verantwortung des Kanzlers in geeigneter Form veröffentlicht. Der Kanzler ist außerdem für die Herausgabe der amtlichen Sammlung zuständig, die ausgewählte Urteile und Entscheidungen sowie sonstige Schriftstücke enthält, deren Veröffentlichung der Präsident des Gerichtshofs für zweckmäßig hält.
 
 ## Artikel 79
 
-#### Antrag auf Auslegung des Urteils
+**Antrag auf Auslegung des Urteils**
+
+#### Art. 79
 
 (1) Jede Partei kann die Auslegung eines Urteils innerhalb eines Jahres nach der Verkündung beantragen.
 
@@ -1394,7 +1558,9 @@ Nach Artikel 44 Absatz 3 der Konvention werden die endgültigen Urteile des Geri
 
 ## Artikel 80
 
-#### Antrag auf Wiederaufnahme des Verfahrens
+**Antrag auf Wiederaufnahme des Verfahrens**
+
+#### Art. 80
 
 (1) Wird eine Tatsache bekannt, die geeignet gewesen wäre, einen maßgeblichen Einfluss auf den Ausgang einer bereits entschiedenen Rechtssache auszuüben, so kann eine Partei, wenn diese Tatsache zum Zeitpunkt des Urteils dem Gerichtshof unbekannt war und der Partei nach menschlichem Ermessen nicht bekannt sein konnte, innerhalb von sechs Monaten, nachdem sie von der Tatsache Kenntnis erhalten hat, beim Gerichtshof die Wiederaufnahme des Verfahrens beantragen.
 
@@ -1406,7 +1572,9 @@ Nach Artikel 44 Absatz 3 der Konvention werden die endgültigen Urteile des Geri
 
 ## Artikel 81
 
-#### Berichtigung von Fehlern in Entscheidungen und Urteilen
+**Berichtigung von Fehlern in Entscheidungen und Urteilen**
+
+#### Art. 81
 
 Unbeschadet der Bestimmungen über die Wiederaufnahme des Verfahrens und die Wiedereintragung von Beschwerden im Register kann der Gerichtshof Schreib- oder Rechenfehler sowie offensichtliche Unrichtigkeiten von Amts wegen oder wenn eine Partei dies innerhalb eines Monats nach Verkündung der Entscheidung oder des Urteils beantragt, korrigieren.
 
@@ -1518,7 +1686,9 @@ Der Kammerpräsident kann die Bewilligung der Verfahrenshilfe jederzeit rückgä
 
 ### Artikel 99
 
-#### Verhältnis zwischen Gerichtshof und Kommission
+**Verhältnis zwischen Gerichtshof und Kommission**
+
+#### Art. 99
 
 (1) In Rechtssachen, die dem Gerichtshof nach Artikel 5 Absätze 4 und 5 des Protokolls Nr. 11 zur Konvention vorgelegt werden, kann der Gerichtshof die Kommission bitten, eines oder mehrere ihrer Mitglieder für die Teilnahme an der Prüfung der Rechtssache vor dem Gerichtshof zu entsenden.
 
@@ -1532,7 +1702,9 @@ Der Kammerpräsident kann die Bewilligung der Verfahrenshilfe jederzeit rückgä
 
 ## Artikel 100
 
-#### Verfahren vor einer Kammer und der Großen Kammer
+**Verfahren vor einer Kammer und der Großen Kammer**
+
+#### Art. 100
 
 (1) Wird eine Rechtssache dem Gerichtshof nach Artikel 5 Absatz 4 des Protokolls Nr. 11 zur Konventionvorgelegt, so entscheidet ein nach Artikel 24 Absatz 6<sup>15</sup> dieser Verfahrensordnung gebildeter Ausschuss der Großen Kammer, ob der Fall von einer Kammer oder von der Großen Kammer geprüft wird; der Ausschuss entscheidet ausschließlich auf der Grundlage der Akten.
 
@@ -1548,13 +1720,17 @@ Der Kammerpräsident kann die Bewilligung der Verfahrenshilfe jederzeit rückgä
 
 ## Artikel 101
 
-#### Bewilligung der Verfahrenshilfe
+**Bewilligung der Verfahrenshilfe**
+
+#### Art. 101
 
 Ist einem Beschwerdeführer in Rechtssachen, die dem Gerichtshof nach Artikel 5 Absätze 2 bis 5 des Protokolls Nr. 11 zur Konvention vorliegen, im Verfahren vor der Kommission oder dem früheren Gerichtshof Verfahrenshilfe bewilligt worden, so gilt die Bewilligung im Verfahren vor dem Gerichtshof weiter; Artikel 96 dieser Verfahrensordnung bleibt vorbehalten.
 
 ## Artikel 102
 
-#### Antrag auf Wiederaufnahme des Verfahrens
+**Antrag auf Wiederaufnahme des Verfahrens**
+
+#### Art. 102
 
 (1) Anträge einer Partei auf Wiederaufnahme eines Verfahrens des früheren Gerichtshofs werden vom Präsidenten des Gerichtshofs je nach Fall nach Artikel 51 oder 52 einer Sektion zugewiesen.
 
@@ -1580,7 +1756,9 @@ b) Die Mitglieder der Sektion, die nicht auf diese Weise bestimmt wurden, tagen 
 
 ### Schlussbestimmungen — Artikel 103
 
-#### Änderung oder Aussetzung der Anwendung von Bestimmungen
+**Änderung oder Aussetzung der Anwendung von Bestimmungen**
+
+#### Art. 103
 
 (1) Änderungen von Bestimmungen dieser Verfahrensordnung können von der Mehrheit der in Plenarsitzung tagenden Richter auf vorherigen Vorschlag hin angenommen werden. Der schriftliche Änderungsvorschlag muss dem Kanzler spätestens einen Monat vor der Sitzung zugehen, in der er geprüft werden soll. Erhält der Kanzler einen solchen Vorschlag, so setzt er so bald wie möglich alle Mitglieder des Gerichtshofs davon in Kenntnis.
 
@@ -1588,7 +1766,9 @@ b) Die Mitglieder der Sektion, die nicht auf diese Weise bestimmt wurden, tagen 
 
 ## Artikel 104
 
-#### Inkrafttreten der Verfahrensordnung<sup>16</sup>
+**Inkrafttreten der Verfahrensordnung<sup>16</sup>**
+
+#### Art. 104
 
 Diese Verfahrensordnung tritt am 1 November 1998 in Kraft.
 

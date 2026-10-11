@@ -49,7 +49,9 @@ SIND wie folgt ÜBEREINGEKOMMEN:
 
 ## Artikel I
 
-### Gründung der Organisation
+**Gründung der Organisation**
+
+### Art. 1
 
 (1) Hiermit wird eine europäische Organisation mit dem Namen Europäische Weltraumorganisation gegründet; sie wird im folgenden als „Organisation“ bezeichnet.
 
@@ -61,7 +63,9 @@ SIND wie folgt ÜBEREINGEKOMMEN:
 
 ## Artikel II
 
-### Zweck
+**Zweck**
+
+### Art. 2
 
 Zweck der Organisation ist es, die Zusammenarbeit europäischer Staaten für ausschließlich friedliche Zwecke auf dem Gebiet der Weltraumforschung, der Weltraumtechnologie und ihrer weltraumtechnischen Anwendungen im Hinblick auf deren Nutzung für die Wissenschaft und für operationelle Weltraumanwendungssysteme sicherzustellen und zu entwickeln,
 
@@ -75,7 +79,9 @@ d) indem sie die für ihr Programm geeignete Industriepolitik ausarbeitet und du
 
 ## Artikel III
 
-### Informationen und Daten
+**Informationen und Daten**
+
+### Art. 3
 
 (1) Die Mitgliedstaaten und die Organisation erleichtern den Austausch wissenschaftlicher und technischer Informationen auf dem Gebiet der Weltraumforschung, der Weltraumtechnologie und ihrer weltraumtechnischen Anwendungen; ein Mitgliedstaat braucht jedoch eine außerhalb der Organisation erlangte Information nicht mitzuteilen, falls dies nach seiner Auffassung mit seinen Sicherheitsinteressen, seinen Vereinbarungen mit Dritten oder mit den Bedingungen, unter denen die Information erlangt wurde, nicht vereinbar ist.
 
@@ -89,13 +95,17 @@ d) indem sie die für ihr Programm geeignete Industriepolitik ausarbeitet und du
 
 ## Artikel IV
 
-### Austausch von Personen
+**Austausch von Personen**
+
+### Art. 4
 
 Die Mitgliedstaaten erleichtern den Austausch von Personen, die an Arbeiten im Zuständigkeitsbereich der Organisation beteiligt sind, soweit dies mit ihren Gesetzen und sonstigen Vorschriften über die Einreise in ihr Hoheitsgebiet, den Aufenthalt dort und die Ausreise daraus vereinbar ist.
 
 ## Artikel V
 
-### Tätigkeiten und Programme
+**Tätigkeiten und Programme**
+
+### Art. 5
 
 (1) Die Tätigkeiten der Organisation umfassen obligatorische Tätigkeiten, an denen alle Mitgliedstaaten teilnehmen, und fakultative Tätigkeiten, an denen alle Mitgliedstaaten mit Ausnahme derjenigen teilnehmen, die förmlich erklären, an einer Teilnahme nicht interessiert zu sein.
 
@@ -129,7 +139,9 @@ Die Kosten solcher Betriebstätigkeiten tragen die jeweiligen Benutzer.
 
 ## Artikel VI
 
-### Anlagen und Dienste
+**Anlagen und Dienste**
+
+### Art. 6
 
 (1) Zur Durchführung der ihr übertragenen Programme
 
@@ -141,7 +153,9 @@ b) kann die Organisation Sondervereinbarungen zur Durchführung bestimmter Teile
 
 ## Artikel VII
 
-### Industriepolitik
+**Industriepolitik**
+
+### Art. 7
 
 (1) Die Industriepolitik, die die Organisation nach Artikel II Absatz d ausarbeitet und durchführt, ist insbesondere dazu bestimmt,
 
@@ -161,7 +175,9 @@ Die Einzelbestimmungen für die Verwirklichung dieser Ziele sind in Anlage V und
 
 ## Artikel VIII
 
-### Trägerraketen und andere Raumtransportsysteme
+**Trägerraketen und andere Raumtransportsysteme**
+
+### Art. 8
 
 (1) Bei der Festlegung ihrer Missionen berücksichtigt die Organisation die im Rahmen ihrer Programme, von einem Mitgliedstaat oder mit einem bedeutenden Beitrag der Organisation entwickelten Trägerraketen und anderen Raumtransportsysteme und gibt ihrer Verwendung für geeignete Nutzlasten den Vorrang, sofern dies im Vergleich zu anderen jeweils verfügbaren Trägerraketen oder Raumtransportsystemen nicht einen unvertretbaren Nachteil hinsichtlich Kosten, Zuverlässigkeit und Missionstauglichkeit darstellt.
 
@@ -169,7 +185,9 @@ Die Einzelbestimmungen für die Verwirklichung dieser Ziele sind in Anlage V und
 
 ## Artikel IX
 
-### Benutzung der Anlagen, Unterstützung der Mitgliedstaaten und Lieferung von Erzeugnissen
+**Benutzung der Anlagen, Unterstützung der Mitgliedstaaten und Lieferung von Erzeugnissen**
+
+### Art. 9
 
 (1) Die Organisation stellt ihre Anlagen jedem Mitgliedstaat, der sie für seine eigenen Programme zu verwenden begehrt, auf dessen Kosten zur Verfügung, sofern dadurch die Verwendung der Anlagen für ihre eigenen Tätigkeiten und Programme nicht beeinträchtigt wird. Der Rat legt mit Zweidrittelmehrheit aller Mitgliedstaaten die Regeln fest, nach denen die Anlagen zur Verfügung gestellt werden.
 
@@ -185,13 +203,17 @@ c) Aus der Befriedigung eines Beschaffungsbegehrens nach diesem Absatz dürfen d
 
 ## Artikel X
 
-### Organe
+**Organe**
+
+### Art. 10
 
 Die Organe der Organisation sind der Rat und der Generaldirektor, dem ein Mitarbeiterstab zur Seite steht.
 
 ## Artikel XI
 
-### Der Rat
+**Der Rat**
+
+### Art. 11
 
 (1) Der Rat besteht aus Vertretern der Mitgliedstaaten.
 
@@ -269,7 +291,9 @@ c) Prüft ein nachgeordnetes Gremium eine Frage, die sich ausschließlich auf ei
 
 ## Artikel XII
 
-### Generaldirektor und Personal
+**Generaldirektor und Personal**
+
+### Art. 12
 
 (1) a) Der Rat ernennt mit Zweidrittelmehrheit aller Mitgliedstaaten einen Generaldirektor für eine bestimmte Amtszeit; er kann ihn mit der gleichen Mehrheit aus seinem Amt entlassen.
 
@@ -291,7 +315,9 @@ d) Wissenschaftler, die nicht zum Personal gehören und in den Niederlassungen d
 
 ## Artikel XIII
 
-### Finanzielle Beiträge
+**Finanzielle Beiträge**
+
+### Art. 13
 
 (1) Jeder Mitgliedstaat beteiligt sich an den Kosten der Tätigkeiten und Programme nach Artikel V Absatz 1 Buchstabe a und – in Übereinstimmung mit Anlage II – an den gemeinsamen Kosten der Organisation nach Maßgabe eines Beitragsschlüssels, den der Rat mit Zweidrittelmehrheit aller Mitgliedstaaten entweder alle drei Jahre im Zeitpunkt der in Artikel XI Absatz 5 Buchstabe a Ziffer iii vorgesehenen Überprüfung oder auf einstimmigen Ratsbeschluß aller Mitgliedstaaten, einen neuen Schlüssel festzulegen, beschließt. Der Beitragsschlüssel wird auf der Grundlage des durchschnittlichen Volkseinkommens jedes Mitgliedstaates während der letzten drei Jahre, für die Statistiken verfügbar sind, errechnet. Jedoch
 
@@ -313,7 +339,9 @@ b) Die nach Buchstabe a geleisteten Zahlungen werden zur Herabsetzung der Beitr�
 
 ## Artikel XIV
 
-### Zusammenarbeit
+**Zusammenarbeit**
+
+### Art. 14
 
 (1) Die Organisation kann auf Grund von einstimmigen Ratsbeschlüssen aller Mitgliedstaaten mit anderen internationalen Organisationen und Einrichtungen sowie mit Regierungen, Organisationen und Einrichtungen von Nichtmitgliedstaaten zusammenarbeiten und hierzu Vereinbarungen mit ihnen treffen.
 
@@ -323,7 +351,9 @@ b) Die nach Buchstabe a geleisteten Zahlungen werden zur Herabsetzung der Beitr�
 
 ## Artikel XV
 
-### Rechtsstellung, Vorrechte und Immunitäten
+**Rechtsstellung, Vorrechte und Immunitäten**
+
+### Art. 15
 
 (1) Die Organisation besitzt Rechtspersönlichkeit.
 
@@ -333,7 +363,9 @@ b) Die nach Buchstabe a geleisteten Zahlungen werden zur Herabsetzung der Beitr�
 
 ## Artikel XVI
 
-### Änderungen
+**Änderungen**
+
+### Art. 16
 
 (1) Der Rat kann den Mitgliedstaaten Änderungen dieses Übereinkommens und der Anlage I empfehlen. Wünscht ein Mitgliedstaat eine Änderung vorzuschlagen, so notifiziert er sie dem Generaldirektor. Dieser Unterrichtet die Mitgliedstaaten von jedem ihm notifizierten Änderungsvorschlag spätestens drei Monate bevor er dem Rat zur Erörterung vorgelegt wird.
 
@@ -343,7 +375,9 @@ b) Die nach Buchstabe a geleisteten Zahlungen werden zur Herabsetzung der Beitr�
 
 ## Artikel XVII
 
-### Streitigkeiten
+**Streitigkeiten**
+
+### Art. 17
 
 (1) Jede Streitigkeit zwischen zwei oder mehreren Mitgliedstaaten oder zwischen einem Mitgliedstaat oder mehreren Mitgliedstaaten und der Organisation über die Auslegung oder Anwendung dieses Übereinkommens oder seiner Anlagen sowie jede Streitigkeit nach Artikel XXVI der Anlage I, die nicht durch die Vermittlung des Rates beigelegt wird, wird auf Antrag einer Streitpartei einem Schiedsgericht unterbreitet.
 
@@ -359,19 +393,25 @@ b) Die nach Buchstabe a geleisteten Zahlungen werden zur Herabsetzung der Beitr�
 
 ## Artikel XVIII
 
-### Nichterfüllung von Verpflichtungen
+**Nichterfüllung von Verpflichtungen**
+
+### Art. 18
 
 Ein Mitgliedstaat, der seinen Verpflichtungen aus diesem Übereinkommen nicht nachkommt, verliert seine Mitgliedschaft in der Organisation, wenn der Rat dies mit Zweidrittelmehrheit aller Mitgliedstaaten beschließt. In diesem Fall findet Artikel XXIV Anwendung.
 
 ## Artikel XIX
 
-### Fortbestehen von Rechten und Pflichten
+**Fortbestehen von Rechten und Pflichten**
+
+### Art. 19
 
 Mit Inkrafttreten dieses Übereinkommens übernimmt die Organisation alle Rechte und Pflichten der Europäischen Weltraumforschungs-Organisation und der Europäischen Organisation für die Entwicklung und den Bau von Raumfahrzeugträgern.
 
 ## Artikel XX
 
-### Unterzeichnung und Ratifikation
+**Unterzeichnung und Ratifikation**
+
+### Art. 20
 
 (1) Dieses Übereinkommen liegt für die Staaten, die Mitglieder der Europäischen Weltraumkonferenz sind, bis zum 31. Dezember 1975 zur Unterzeichnung auf. Die Anlagen sind Bestandteil des Übereinkommens.
 
@@ -381,7 +421,9 @@ Mit Inkrafttreten dieses Übereinkommens übernimmt die Organisation alle Rechte
 
 ## Artikel XXI
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 21
 
 (1) Dieses Übereinkommen tritt in Kraft, sobald die folgenden Staaten, die Mitglieder der Europäischen Weltraumforschungs-Organisation oder der Europäischen Organisation für die Entwicklung und den Bau von Raumfahrzeugträgern sind, es unterzeichnet und ihre Ratifikations- oder Annahmeurkunde bei der französischen Regierung hinterlegt haben: das Königreich Belgien, das Königreich Dänemark, die Bundesrepublik Deutschland, die Französische Republik, die Italienische Republik, das Königreich der Niederlande, das Königreich Schweden, die Schweizerische Eidgenossenschaft, Spanien und das Vereinigte Königreich Großbritannien und Nordirland. Für einen Staat, der dieses Übereinkommen nach seinem Inkrafttreten ratifiziert, annimmt oder ihm beitritt, tritt das Übereinkommen an dem Tag in Kraft, an dem dieser Staat seine Ratifikations-, Annahme- oder Beitrittsurkunde hinterlegt.
 
@@ -389,7 +431,9 @@ Mit Inkrafttreten dieses Übereinkommens übernimmt die Organisation alle Rechte
 
 ## Artikel XXII
 
-### Beitritt
+**Beitritt**
+
+### Art. 22
 
 (1) Nach Inkrafttreten dieses Übereinkommens kann jeder Staat dem Übereinkommen aufgrund eines einstimmigen Ratsbeschlusses aller Mitgliedstaaten beitreten.
 
@@ -399,7 +443,9 @@ Mit Inkrafttreten dieses Übereinkommens übernimmt die Organisation alle Rechte
 
 ## Artikel XXIII
 
-### Notifikationen
+**Notifikationen**
+
+### Art. 23
 
 Die französische Regierung notifiziert allen Unterzeichnerstaaten und beitretenden Staaten
 
@@ -411,7 +457,9 @@ c) die Kündigung des Übereinkommens durch einen Mitgliedstaat.
 
 ## Artikel XXIV
 
-### Kündigung
+**Kündigung**
+
+### Art. 24
 
 (1) Nachdem dieses Übereinkommen sechs Jahre lang in Kraft gewesen ist, kann ein Mitgliedstaat es durch eine Notifikation an die französische Regierung kündigen, die dies den anderen Mitgliedstaaten und dem Generaldirektor notifiziert. Die Kündigung wird mit Ablauf des Rechnungsjahres wirksam, das auf dasjenige folgt, in dem sie der französischen Regierung notifiziert wurde. Nach Wirksamwerden der Kündigung bleibt der betreffende Staat verpflichtet, seinen Anteil an den Ausgabemitteln zu tragen, die den Verpflichtungsermächtigungen entsprechen, die im Rahmen der Haushaltspläne, zu denen er beitrug und die im Zeitpunkt der Notifizierung der Kündigung an die französische Regierung galten, sowie im Rahmen vorhergegangener Haushaltspläne genehmigt und in Anspruch genommen worden waren.
 
@@ -423,7 +471,9 @@ c) die Kündigung des Übereinkommens durch einen Mitgliedstaat.
 
 ## Artikel XXV
 
-### Auflösung
+**Auflösung**
+
+### Art. 25
 
 (1) Die Organisation ist aufzulösen, wenn sich die Zahl der Mitgliedstaaten auf weniger als fünf verringert. Sie kann in gegenseitigem Einvernehmen der Mitgliedstaaten jederzeit aufgelöst werden.
 
@@ -433,7 +483,9 @@ c) die Kündigung des Übereinkommens durch einen Mitgliedstaat.
 
 ## Artikel XXVI
 
-### Registrierung
+**Registrierung**
+
+### Art. 26
 
 Die französische Regierung läßt dieses Übereinkommen, sobald es in Kraft getreten ist, nach Artikel 102 der Charta der Vereinten Nationen bei deren Sekretariat registrieren.
 

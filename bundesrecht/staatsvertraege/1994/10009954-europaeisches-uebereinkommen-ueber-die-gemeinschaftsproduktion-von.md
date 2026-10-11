@@ -75,13 +75,17 @@ sind wie folgt übereingekommen:
 
 ### Allgemeine Bestimmungen — Artikel 1
 
-#### Ziel des Übereinkommens
+**Ziel des Übereinkommens**
+
+#### Art. 1
 
 Die Vertragsparteien dieses Übereinkommens verpflichten sich, die Weiterentwicklung der europäischen Gemeinschaftsproduktion von Kinofilmen nach Maßgabe der nachstehenden Bestimmungen zu fördern.
 
 ## Artikel 2
 
-#### Anwendungsbereich
+**Anwendungsbereich**
+
+#### Art. 2
 
 (1) Dieses Übereinkommen regelt die Beziehungen zwischen den Vertragspartnern auf dem Gebiet der mehrseitigen Gemeinschaftsproduktionen, die ihren Ursprung in den Hoheitsgebieten der Vertragspartner haben.
 
@@ -101,7 +105,9 @@ Im Fall mehrseitiger Gemeinschaftsproduktionen gehen die Bestimmungen dieses Üb
 
 ## Artikel 3
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 3
 
 Im Sinne dieses Übereinkommens bezeichnet
 
@@ -117,7 +123,9 @@ d) der Begriff „mehrseitige Gemeinschaftsproduktion“ einen Kinofilm, der von
 
 ### Für Gemeinschaftsproduktionen geltende Vorschriften — Artikel 4
 
-#### Gleichstellung mit nationalen Filmen
+**Gleichstellung mit nationalen Filmen**
+
+#### Art. 4
 
 (1) In mehrseitiger Gemeinschaftsproduktion hergestellte europäische Kinofilme, die unter dieses Übereinkommen fallen, haben Anspruch auf die Vergünstigungen, die nationalen Filmen durch die in jeder der an der Gemeinschaftsproduktion beteiligten Vertragsparteien dieses Übereinkommens geltenden Gesetze und sonstigen Vorschriften gewährt werden.
 
@@ -125,7 +133,9 @@ d) der Begriff „mehrseitige Gemeinschaftsproduktion“ einen Kinofilm, der von
 
 ## Artikel 5
 
-#### Voraussetzungen für die Anerkennung als Gemeinschaftsproduktion
+**Voraussetzungen für die Anerkennung als Gemeinschaftsproduktion**
+
+#### Art. 5
 
 (1) Jeder in Gemeinschaftsproduktion hergestellte Kinofilm bedarf der Genehmigung durch die zuständigen Behörden der Vertragsparteien, in denen die Gemeinschaftsproduzenten niedergelassen sind, nach Konsultation zwischen diesen Behörden und im Einklang mit den in **Anhang I** festgelegten Verfahren. Der Anhang ist Bestandteil dieses Übereinkommens.
 
@@ -139,7 +149,9 @@ d) der Begriff „mehrseitige Gemeinschaftsproduktion“ einen Kinofilm, der von
 
 ## Artikel 6
 
-#### Höhe der Beteiligung der einzelnen Gemeinschaftsproduzenten
+**Höhe der Beteiligung der einzelnen Gemeinschaftsproduzenten**
+
+#### Art. 6
 
 (1) Bei einer mehrseitigen Gemeinschaftsproduktion darf die Mindestbeteiligung nicht weniger als 10 vH und die Höchstbeteiligung nicht mehr als 70 vH der Gesamtproduktionskosten des Kinofilms betragen. Beträgt die Mindestbeteiligung weniger als 20 vH, so kann die betreffende Vertragspartei Maßnahmen ergreifen, um den Zugang zu nationalen Produktionsförderprogrammen einzuschränken oder auszuschließen.
 
@@ -147,7 +159,9 @@ d) der Begriff „mehrseitige Gemeinschaftsproduktion“ einen Kinofilm, der von
 
 ## Artikel 7
 
-#### Rechte der Gemeinschaftsproduzenten
+**Rechte der Gemeinschaftsproduzenten**
+
+#### Art. 7
 
 (1) Der Gemeinschaftsproduktionsvertrag muß jedem Gemeinschaftsproduzenten das Miteigentum am Originalnegativ (Bild und Ton) gewährleisten. Der Vertrag muß die Bestimmung enthalten, daß dieses Negativ an einem von den Gemeinschaftsproduzenten einvernehmlich bestimmten Ort aufbewahrt wird, und ihnen freien Zugang dazu gewährleisten.
 
@@ -155,7 +169,9 @@ d) der Begriff „mehrseitige Gemeinschaftsproduktion“ einen Kinofilm, der von
 
 ## Artikel 8
 
-#### Technische und künstlerische Beteiligung
+**Technische und künstlerische Beteiligung**
+
+#### Art. 8
 
 (1) Der Beitrag jedes Gemeinschaftsproduzenten muß eine tatsächliche technische und künstlerische Beteiligung umfassen. Grundsätzlich und im Einklang mit den internationalen Verpflichtungen der Vertragsparteien muß der Beitrag der Gemeinschaftsproduzenten an schöpferischem, technischem und künstlerischem Personal, an Darstellern und an technischen Einrichtungen ihrer finanziellen Beteiligung entsprechen.
 
@@ -163,7 +179,9 @@ d) der Begriff „mehrseitige Gemeinschaftsproduktion“ einen Kinofilm, der von
 
 ## Artikel 9
 
-#### Finanzielle Gemeinschaftsproduktionen
+**Finanzielle Gemeinschaftsproduktionen**
+
+#### Art. 9
 
 (1) Ungeachtet des Artikels 8 und vorbehaltlich der durch die in den Vertragsparteien geltenden Gesetze und sonstigen Vorschriften festgelegten besonderen Voraussetzungen und Grenzen können Gemeinschaftsproduktionen auf Grund dieses Übereinkommens als solche anerkannt werden, wenn sie folgende Voraussetzungen erfüllen:
 
@@ -179,7 +197,9 @@ d) sie sind Gegenstand von Gemeinschaftsproduktionsverträgen, die Bestimmungen 
 
 ## Artikel 10
 
-#### Ausgewogene Beteiligung
+**Ausgewogene Beteiligung**
+
+#### Art. 10
 
 (1) In den Beziehungen zwischen den Vertragsparteien im Bereich des Kinofilms muß im Hinblick sowohl auf den investierten Gesamtbetrag als auch auf die künstlerische und technische Beteiligung an in Gemeinschaftsproduktion hergestellten Kinofilmen eine allgemeine Ausgewogenheit gewahrt bleiben.
 
@@ -187,13 +207,17 @@ d) sie sind Gegenstand von Gemeinschaftsproduktionsverträgen, die Bestimmungen 
 
 ## Artikel 11
 
-#### Einreise und Aufenthalt
+**Einreise und Aufenthalt**
+
+#### Art. 11
 
 Im Einklang mit den geltenden Gesetzen, sonstigen Vorschriften und internationalen Verpflichtungen erleichtert jede Vertragspartei dem technischen und künstlerischen Personal aus an einer Gemeinschaftsproduktion beteiligten anderen Vertragsparteien die Einreise, den Aufenthalt sowie die Erteilung von Arbeitserlaubnissen in ihrem Hoheitsgebiet. Ebenso erlaubt jede Vertragspartei die vorübergehende Einfuhr und die Wiederausfuhr der Ausrüstung, die für die Herstellung und den Verleih der unter dieses Übereinkommen fallenden Kinofilme erforderlich ist.
 
 ## Artikel 12
 
-#### Nennung der an der Gemeinschaftsproduktion beteiligten Staaten
+**Nennung der an der Gemeinschaftsproduktion beteiligten Staaten**
+
+#### Art. 12
 
 (1) Die an der Gemeinschaftsproduktion beteiligten Staaten müssen in den in Gemeinschaftsproduktion hergestellten Kinofilmen genannt werden.
 
@@ -201,7 +225,9 @@ Im Einklang mit den geltenden Gesetzen, sonstigen Vorschriften und international
 
 ## Artikel 13
 
-#### Ausfuhr
+**Ausfuhr**
+
+#### Art. 13
 
 Wird ein in Gemeinschaftsproduktion hergestellter Kinofilm in einen Staat ausgeführt, in dem die Einfuhr von Kinofilmen kontingentiert ist, und hat eine der an der Gemeinschaftsproduktion beteiligten Vertragsparteien nicht das Recht, ihre Kinofilme frei in den Einfuhrstaat einzuführen,
 
@@ -213,13 +239,17 @@ c) so wird der Kinofilm, wenn die Buchstaben a und b nicht angewendet werden kö
 
 ## Artikel 14
 
-#### Sprachen
+**Sprachen**
+
+#### Art. 14
 
 Bei der Anerkennung als Gemeinschaftsproduktion kann die zuständige Behörde einer Vertragspartei von dem in ihrem Hoheitsgebiet niedergelassenen Gemeinschaftsproduzenten eine Endfassung des Kinofilms in einer der Sprachen dieser Vertragspartei verlangen.
 
 ## Artikel 15
 
-#### Filmfestspiele
+**Filmfestspiele**
+
+#### Art. 15
 
 Sofern die Gemeinschaftsproduzenten nichts anderes beschließen, werden in Gemeinschaftsproduktion hergestellte Kinofilme auf internationalen Filmfestspielen von der Vertragspartei, in welcher der Mehrheitsgemeinschaftsproduzent niedergelassen ist, oder bei gleicher finanzieller Beteiligung von der Vertragspartei, die den Regisseur stellt, vorgestellt.
 
@@ -227,7 +257,9 @@ Sofern die Gemeinschaftsproduzenten nichts anderes beschließen, werden in Gemei
 
 ### Schlußbestimmungen — Artikel 16
 
-#### Unterzeichnung, Ratifikation, Annahme, Genehmigung
+**Unterzeichnung, Ratifikation, Annahme, Genehmigung**
+
+#### Art. 16
 
 (1) Dieses Übereinkommen liegt für die Mitgliedstaaten des Europarats und die anderen Vertragsstaaten des Europäischen Kulturabkommens zur Unterzeichnung auf; sie können ihre Zustimmung, gebunden zu sein, ausdrücken,
 
@@ -239,7 +271,9 @@ b) indem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterze
 
 ## Artikel 17
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 17
 
 (1) Das Übereinkommen tritt am ersten Tag des Monats in Kraft, der dem Ablauf von drei Monaten nach dem Tag folgt, an dem fünf Staaten, darunter mindestens vier Mitgliedstaaten des Europarats, nach Artikel 16 ihre Zustimmung ausgedrückt haben, durch das Übereinkommen gebunden zu sein.
 
@@ -247,7 +281,9 @@ b) indem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterze
 
 ## Artikel 18
 
-#### Beitritt von Nichtmitgliedstaaten
+**Beitritt von Nichtmitgliedstaaten**
+
+#### Art. 18
 
 (1) Nach Inkrafttreten dieses Übereinkommens kann das Ministerkomitee des Europarats durch einen mit der in Artikel 20 Buchstabe d der Satzung des Europarats vorgesehenen Mehrheit und mit einhelliger Zustimmung der Vertreter der Vertragsstaaten, die Anspruch auf einen Sitz im Ministerkomitee haben, gefaßten Beschluß jeden europäischen Nichtmitgliedstaat des Europarats sowie die Europäische Wirtschaftsgemeinschaft einladen, dem Übereinkommen beizutreten.
 
@@ -255,7 +291,9 @@ b) indem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterze
 
 ## Artikel 19
 
-#### Geltungsbereichsklausel
+**Geltungsbereichsklausel**
+
+#### Art. 19
 
 (1) Jeder Staat kann bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde das Hoheitsgebiet, auf das, oder die Hoheitsgebiete, auf die dieses Übereinkommen Anwendung findet, bezeichnen.
 
@@ -265,7 +303,9 @@ b) indem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterze
 
 ## Artikel 20
 
-#### Vorbehalte
+**Vorbehalte**
+
+#### Art. 20
 
 (1) Jeder Staat kann bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde erklären, daß Artikel 2 Absatz 4 auf seine zweiseitigen Beziehungen zu einer oder mehreren Vertragsparteien im Bereich der Gemeinschaftsproduktionen keine Anwendung findet. Er kann sich außerdem das Recht vorbehalten, eine von Artikel 9 Absatz 1 Buchstabe a abweichende Höchstbeteiligung festzusetzen. Weitere Vorbehalte sind nicht zulässig.
 
@@ -273,7 +313,9 @@ b) indem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterze
 
 ## Artikel 21
 
-#### Kündigung
+**Kündigung**
+
+#### Art. 21
 
 (1) Jede Vertragspartei kann dieses Übereinkommen jederzeit durch eine an den Generalsekretär des Europarats gerichtete Notifikation kündigen.
 

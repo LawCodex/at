@@ -35,7 +35,9 @@ die nach Austausch ihrer in guter und gehöriger Form befundenen Vollmachten Nac
 
 ## ARTIKEL 1
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 1
 
 (1) Im Sinn dieses Vertrages bedeuten die nachstehenden Ausdrücke:
 
@@ -71,7 +73,9 @@ dieser Ausdruck schließt Kriegsschiffe nicht ein.
 
 ## ARTIKEL 2
 
-### Errichtung von Konsulaten
+**Errichtung von Konsulaten**
+
+### Art. 2
 
 (1) Jede Vertragspartei kann auf dem Hoheitsgebiet der anderen Vertragspartei mit deren Zustimmung Konsulate errichten.
 
@@ -79,7 +83,9 @@ dieser Ausdruck schließt Kriegsschiffe nicht ein.
 
 ## ARTIKEL 3
 
-### Bestallungsurkunde und Exequatur
+**Bestallungsurkunde und Exequatur**
+
+### Art. 3
 
 (1) Der Entsendestaat hat sich auf diplomatischem Weg zu vergewissern, daß der Empfangsstaat die Person, die der Entsendestaat zum Leiter eines Konsulats zu bestellen beabsichtigt, zur Amtsausübung zulassen wird.
 
@@ -91,13 +97,17 @@ dieser Ausdruck schließt Kriegsschiffe nicht ein.
 
 ## ARTIKEL 4
 
-### Notifizierung an die Behörden des Konsularbezirks
+**Notifizierung an die Behörden des Konsularbezirks**
+
+### Art. 4
 
 Sobald der Leiter eines Konsulats, wenn auch nur vorläufig, zur Ausübung seiner Amtstätigkeit zugelassen ist, hat der Empfangsstaat sofort die zuständigen Behörden des Konsularbezirks davon in Kenntnis zu setzen. Er hat ferner dafür zu sorgen, daß die erforderlichen Maßnahmen getroffen werden, damit der Leiter des Konsulats seine Amtstätigkeit ausüben und die in diesem Vertrag vorgesehene Behandlung genießen kann.
 
 ## ARTIKEL 5
 
-### Wahrnehmung konsularischer Aufgaben
+**Wahrnehmung konsularischer Aufgaben**
+
+### Art. 5
 
 (1) Die konsularischen Aufgaben werden von den Konsuln des Entsendestaates im Konsularbezirk wahrgenommen.
 
@@ -107,7 +117,9 @@ Sobald der Leiter eines Konsulats, wenn auch nur vorläufig, zur Ausübung seine
 
 ## ARTIKEL 6
 
-### Vorübergehende Wahrnehmung der Aufgaben eines Leiters eines Kosulats
+**Vorübergehende Wahrnehmung der Aufgaben eines Leiters eines Kosulats**
+
+### Art. 6
 
 (1) Ist der Leiter eines Konsulats außerstande, seine Aufgaben wahrzunehmen, oder ist sein Posten unbesetzt, so darf ein Konsul desselben Konsulats oder eines anderen Konsulats des Entsendestaates im Empfangsstaat oder ein Diplomat der diplomatischen Mission des Entsendestaates im Empfangsstaat vorübergehend als amtierender Leiter des Konsulats tätig sein.
 
@@ -117,13 +129,17 @@ Sobald der Leiter eines Konsulats, wenn auch nur vorläufig, zur Ausübung seine
 
 ## ARTIKEL 7
 
-### Staatsangehörigkeit der Konsuln
+**Staatsangehörigkeit der Konsuln**
+
+### Art. 7
 
 Die Konsuln müssen ausschließlich Angehörige des Entsendestaates sein und dürfen keinen ordentlichen Wohnsitz im Empfangsstaat haben.
 
 ## ARTIKEL 8
 
-### Grenzen und Ausdehnung der konsularischen Tätigkeit
+**Grenzen und Ausdehnung der konsularischen Tätigkeit**
+
+### Art. 8
 
 (1) Mitglieder des Konsulats dürfen neben ihren konsularischen Aufgaben oder ihrer Tätigkeit am Konsulat im Empfangsstaat keine kommerzielle oder sonstige auf Gewinn gerichtete Tätigkeit ausüben.
 
@@ -131,13 +147,17 @@ Die Konsuln müssen ausschließlich Angehörige des Entsendestaates sein und dü
 
 ## ARTIKEL 9
 
-### Ausweise
+**Ausweise**
+
+### Art. 9
 
 Der Empfangsstaat stellt jedem Mitglied des Konsulats und jedem Familienangehörigen, sofern sie Angehörige des Entsendestaates sind, einen mit einem Lichtbild versehenen Ausweis aus, der die Identität sowie die Eigenschaft als Mitglied des Konsulats oder als Familienangehöriger bestätigt.
 
 ## ARTIKEL 10
 
-### Notifizierung von Bestellungen, Ankünften und Abreisen
+**Notifizierung von Bestellungen, Ankünften und Abreisen**
+
+### Art. 10
 
 (1) Der Entsendestaat hat dem Ministerium für Auswärtige Angelegenheiten des Empfangsstaates auf diplomatischem Weg folgendes zu notifizieren:
 
@@ -153,7 +173,9 @@ Der Empfangsstaat stellt jedem Mitglied des Konsulats und jedem Familienangehör
 
 ## ARTIKEL 11
 
-### Beendigung der dienstlichen Tätigkeit eines Mitglieds eines Konsulats
+**Beendigung der dienstlichen Tätigkeit eines Mitglieds eines Konsulats**
+
+### Art. 11
 
 (1) Der Empfangsstaat kann dem Entsendestaat auf diplomatischem Weg jederzeit, ohne seine Entscheidung begründen zu müssen, notifizieren, daß er das Exequatur des Leiters des Konsulats oder die entsprechende Genehmigung widerrufen wird oder daß ein sonstiges Mitglied des Konsulats nicht genehm ist. In diesem Fall hat der Entsendestaat diesen Konsul abzuberufen oder die dienstliche Tätigkeit des anderen Mitglieds des Konsulats zu beenden.
 
@@ -161,7 +183,9 @@ Der Empfangsstaat stellt jedem Mitglied des Konsulats und jedem Familienangehör
 
 ## ARTIKEL 12
 
-### Zweck der konsularischen Tätigkeit
+**Zweck der konsularischen Tätigkeit**
+
+### Art. 12
 
 Der Konsul hat in seinem Konsularbezirk das Recht,
 
@@ -171,13 +195,17 @@ Der Konsul hat in seinem Konsularbezirk das Recht,
 
 ## ARTIKEL 13
 
-### Verzeichnisse über Angehörige des Entsendestaates
+**Verzeichnisse über Angehörige des Entsendestaates**
+
+### Art. 13
 
 Der Konsul ist berechtigt, die Staatsangehörigen des Entsendestaates, die ihren Wohnsitz, Aufenthalt oder Sitz im Konsularbezirk haben, in Verzeichnissen zu führen.
 
 ## ARTIKEL 14
 
-### Vertretung von Angehörigen des Entsendestaates
+**Vertretung von Angehörigen des Entsendestaates**
+
+### Art. 14
 
 (1) Der Konsul ist berechtigt, unter Beachtung der Rechtsvorschriften des Empfangsstaates Schritte zu unternehmen, um die erforderliche Vertretung von Angehörigen des Entsendestaates vor den Gerichten oder den Verwaltungsbehörden des Empfangsstaates sicherzustellen. Der Konsul kann verlangen, daß in Übereinstimmung mit den Rechtsvorschriften des Empfangsstaates vorläufige Verfügungen getroffen werden, um die Rechte und Interessen eines Angehörigen des Entsendestaates in den Fällen zu wahren, in denen dieser infolge seiner Abwesenheit oder eines anderen Grundes nicht in der Lage ist, rechtzeitig die Wahrung seiner Rechte und Interessen selbst zu übernehmen.
 
@@ -185,7 +213,9 @@ Der Konsul ist berechtigt, die Staatsangehörigen des Entsendestaates, die ihren
 
 ## ARTIKEL 15
 
-### Ausstellung von Pässen und Sichtvermerken
+**Ausstellung von Pässen und Sichtvermerken**
+
+### Art. 15
 
 Der Konsul ist berechtigt,
 
@@ -195,7 +225,9 @@ Der Konsul ist berechtigt,
 
 ## ARTIKEL 16
 
-### Befugnisse in Personenstandsangelegenheiten
+**Befugnisse in Personenstandsangelegenheiten**
+
+### Art. 16
 
 (1) Der Konsul ist berechtigt, Geburten und Sterbefälle von Angehörigen des Entsendestaates zu beurkunden und hierüber entsprechende Urkunden auszuhändigen.
 
@@ -205,7 +237,9 @@ Der Konsul ist berechtigt,
 
 ## ARTIKEL 17
 
-### Befugnisse in Vormundschafts- und Pflegschaftsangelegenheiten
+**Befugnisse in Vormundschafts- und Pflegschaftsangelegenheiten**
+
+### Art. 17
 
 (1) Der Konsul ist berechtigt, zur Wahrung der Rechte Minderjähriger, sonst pflegebefohlener oder abwesender Angehöriger des Entsendestaates vor den Gerichten oder den Verwaltungsbehörden des Empfangsstaates einzuschreiten.
 
@@ -213,7 +247,9 @@ Der Konsul ist berechtigt,
 
 ## ARTIKEL 18
 
-### Notarielle Aufgaben
+**Notarielle Aufgaben**
+
+### Art. 18
 
 (1) Soweit es die Rechtsvorschriften des Empfangsstaates zulassen, ist der Konsul berechtigt,
 
@@ -239,13 +275,17 @@ Der Konsul ist berechtigt,
 
 ## ARTIKEL 19
 
-### Verwahrnisse
+**Verwahrnisse**
+
+### Art. 19
 
 Der Konsul ist berechtigt, Geld und Wertsachen von Staatsangehörigen des Entsendestaates in Verwahrung zu nehmen, soweit dies nicht mit den Rechtsvorschriften des Empfangsstaates in Widerspruch steht.
 
 ## ARTIKEL 20
 
-### Befugnisse in Nachlaßangelegenheiten
+**Befugnisse in Nachlaßangelegenheiten**
+
+### Art. 20
 
 (1) Die zur Beurkundung eines Todesfalles zuständige Behörde des Empfangsstaates hat dem Konsul abgaben- und kostenfrei eine Sterbeurkunde über den Tod eines Angehörigen des Entsendestaates zu übersenden.
 
@@ -273,7 +313,9 @@ Der Konsul ist berechtigt, Geld und Wertsachen von Staatsangehörigen des Entsen
 
 ## ARTIKEL 21
 
-### Befugnisse betreffend die See- und Binnenschiffahrt
+**Befugnisse betreffend die See- und Binnenschiffahrt**
+
+### Art. 21
 
 (1) Der Konsul ist berechtigt, Schiffen des Entsendestaates, die einen Hafen oder eine andere Anlegestelle im Konsularbezirk angelaufen sind, Hilfe und Unterstützung angedeihen zu lassen. Er ist auch berechtigt, jede Erklärung und jede andere Urkunde, die vom Entsendestaat im Zusammenhang mit Schiffen vorgeschrieben werden, entgegenzunehmen, auszustellen oder zu beglaubigen. Wird ein Schiff des Entsendestaates im Empfangsstaat in Betrieb genommen, außer Dienst gestellt oder abgewrackt, so hat der Konsul mit den zuständigen Behörden des Empfangsstaates Fühlung zu nehmen.
 
@@ -295,25 +337,33 @@ Der Konsul ist berechtigt, Geld und Wertsachen von Staatsangehörigen des Entsen
 
 ## ARTIKEL 22
 
-### Befugnisse betreffend den Flugverkehr
+**Befugnisse betreffend den Flugverkehr**
+
+### Art. 22
 
 Der Artikel 21 gilt sinngemäß auch für Luftfahrzeuge.
 
 ## ARTIKEL 23
 
-### Sonstige konsularische Aufgaben
+**Sonstige konsularische Aufgaben**
+
+### Art. 23
 
 Der Konsul darf jede andere ihm vom Entsendestaat übertragene konsularische Aufgabe wahrnehmen, wenn der Empfangsstaat, der vorher zu verständigen ist, dagegen keinen Einspruch erhebt.
 
 ## ARTIKEL 24
 
-### Erleichterungen für die Tätigkeit des Konsulats
+**Erleichterungen für die Tätigkeit des Konsulats**
+
+### Art. 24
 
 Der Empfangsstaat gewährt dem Konsulat jede Erleichterung zur Wahrnehmung seiner Aufgaben.
 
 ## ARTIKEL 25
 
-### Benützung des Staatswappens und der Nationalflagge
+**Benützung des Staatswappens und der Nationalflagge**
+
+### Art. 25
 
 (1) Das Wappen des Entsendestaates darf an dem Gebäude, in dem sich das Konsulat befindet, an dessen Eingang und an der Residenz des Leiters des Konsulats angebracht werden.
 
@@ -325,7 +375,9 @@ Der Empfangsstaat gewährt dem Konsulat jede Erleichterung zur Wahrnehmung seine
 
 ## ARTIKEL 26
 
-### Erleichterungen bei der Beschaffung von Amtsräumen und Wohnungen
+**Erleichterungen bei der Beschaffung von Amtsräumen und Wohnungen**
+
+### Art. 26
 
 (1) Der Empfangsstaat erleichtert nach Maßgabe seiner Rechtsvorschriften dem Entsendestaat den Erwerb der für dessen Konsulat in seinem Hoheitsgebiet benötigten Räumlichkeiten oder hilft ihm, sich auf andere Weise Räumlichkeiten zu beschaffen.
 
@@ -333,7 +385,9 @@ Der Empfangsstaat gewährt dem Konsulat jede Erleichterung zur Wahrnehmung seine
 
 ## ARTIKEL 27
 
-### Unverletztlichkeit der konsularischen Räumlichkeiten und der Wohnungen der Konsuln
+**Unverletztlichkeit der konsularischen Räumlichkeiten und der Wohnungen der Konsuln**
+
+### Art. 27
 
 (1) Die konsularischen Räumlichkeiten und die Wohnungen der Konsuln sind unverletzlich.
 
@@ -345,7 +399,9 @@ Der Empfangsstaat gewährt dem Konsulat jede Erleichterung zur Wahrnehmung seine
 
 ## ARTIKEL 28
 
-### Befreiung der konsularischen Räumlichkeiten und der Wohnungen von Mitgliedern des Konsulats von der Besteuerung
+**Befreiung der konsularischen Räumlichkeiten und der Wohnungen von Mitgliedern des Konsulats von der Besteuerung**
+
+### Art. 28
 
 (1) Die konsularischen Räumlichkeiten und die Wohnungen von Mitgliedern des Konsulats, die im Eigentum des Entsendestaates stehen oder von ihm gemietet sind, sowie die auf den Erwerb der Räumlichkeiten und der Wohnungen bezüglichen Urkunden sind von allen staatlichen, regionalen und kommunalen Steuern oder sonstigen Abgaben befreit, soweit diese nicht als Vergütung für bestimmte Dienstleistungen erhoben werden.
 
@@ -355,13 +411,17 @@ Der Empfangsstaat gewährt dem Konsulat jede Erleichterung zur Wahrnehmung seine
 
 ## ARTIKEL 29
 
-### Unverletzlichkeit des Konsulararchivs
+**Unverletzlichkeit des Konsulararchivs**
+
+### Art. 29
 
 Das Konsulararchiv ist jederzeit unverletzlich, wo immer es sich befindet.
 
 ## ARTIKEL 30
 
-### Verkehrsfreiheit
+**Verkehrsfreiheit**
+
+### Art. 30
 
 (1) Der Empfangsstaat gestattet und erleichtert den freien Verkehr des Konsulats des Entsendestaates für alle amtlichen Zwecke. Das Konsulat kann sich im Verkehr mit der Regierung, den diplomatischen Missionen und den anderen Konsulaten des Entsendestaates, wo immer sie sich befinden, aller geeigneten Mittel einschließlich diplomatischer oder konsularischer Kuriere, diplomatischer oder konsularischer Dienstpostsendungen sowie verschlüsselter und nicht verschlüsselter Nachrichten bedienen. Die Errichtung und der Betrieb einer Funksendeanlage ist dem Konsulat jedoch nur mit Zustimmung des Empfangsstaates gestattet. Bei der Benützung der herkömmlichen Mittel der Nachrichtenübermittlung gelten für das Konsulat dieselben Gebührensätze wie für die diplomatische Vertretung.
 
@@ -373,7 +433,9 @@ Das Konsulararchiv ist jederzeit unverletzlich, wo immer es sich befindet.
 
 ## ARTIKEL 31
 
-### Verkehr mit den Angehörigen des Entsendestaates und ihr Schutz
+**Verkehr mit den Angehörigen des Entsendestaates und ihr Schutz**
+
+### Art. 31
 
 (1) Der Konsul ist berechtigt, mit Angehörigen des Entsendestaates zu verkehren sowie ihnen Rat und Hilfe zu erteilen einschließlich des Rechtes, ihnen, falls erforderlich, einen Rechtsbeistand zu verschaffen. Der Empfangsstaat wird die Möglichkeit dieses Verkehrs ebenso wie den Zutritt zum Konsulat in keiner Weise beschränken.
 
@@ -387,7 +449,9 @@ Das Konsulararchiv ist jederzeit unverletzlich, wo immer es sich befindet.
 
 ## ARTIKEL 32
 
-### Verkehr mit den Behörden des Empfangsstaates
+**Verkehr mit den Behörden des Empfangsstaates**
+
+### Art. 32
 
 Bei der Wahrnehmung seiner Aufgaben nach diesem Vertrag kann sich der Konsul unmittelbar mündlich oder schriftlich
 
@@ -397,13 +461,17 @@ Bei der Wahrnehmung seiner Aufgaben nach diesem Vertrag kann sich der Konsul unm
 
 ## ARTIKEL 33
 
-### Bewegungsfreiheit
+**Bewegungsfreiheit**
+
+### Art. 33
 
 Vorbehaltlich seiner Rechtsvorschriften über Zonen, deren Betreten aus Gründen der nationalen Sicherheit verboten oder besonderen Vorschriften unterworfen ist, gewährleistet der Empfangsstaat allen Mitgliedern des Konsulats und deren Familienangehörigen Bewegungs- und Reisefreiheit in seinem Hoheitsgebiet.
 
 ## ARTIKEL 34
 
-### Konsulargebühren und -kosten
+**Konsulargebühren und -kosten**
+
+### Art. 34
 
 (1) Das Konsulat kann im Hoheitsgebiet des, Empfangsstaates die nach den Rechtsvorschriften des Entsendestaates für Amtshandlungen zu entrichtenden Gebühren und Kosten erheben.
 
@@ -411,19 +479,25 @@ Vorbehaltlich seiner Rechtsvorschriften über Zonen, deren Betreten aus Gründen
 
 ## ARTIKEL 35
 
-### Erleichterungen, Vorrechte und Immunitäten für Mitglieder des Konsulats
+**Erleichterungen, Vorrechte und Immunitäten für Mitglieder des Konsulats**
+
+### Art. 35
 
 Der Empfangsstaat wird alle Maßnahmen treffen, um den Mitgliedern des Konsulats die Wahrnehmung ihrer Aufgaben und den Genuß der durch diesen Vertrag gewährten Erleichterungen, Vorrechte und Immunitäten zu ermöglichen.
 
 ## ARTIKEL 36
 
-### Schutz der Konsuln
+**Schutz der Konsuln**
+
+### Art. 36
 
 Der Empfangsstaat behandelt die Konsuln mit gebührender Achtung und trifft alle erforderlichen Maßnahmen, um jeden Angriff auf ihre Person, ihre Freiheit oder ihre Würde zu verhindern.
 
 ## ARTIKEL 37
 
-### Immunität und persönliche Unverletzlichkeit der Mitglieder des Konsulats
+**Immunität und persönliche Unverletzlichkeit der Mitglieder des Konsulats**
+
+### Art. 37
 
 (1) Der Leiter des Konsulats ist der Jurisdiktion der Gerichte und Verwaltungsbehörden des Empfangsstaates nicht unterworfen. Er genießt die persönliche Unverletzlichkeit und darf daher weder verhaftet noch angehalten oder sonst einer Beschränkung der persönlichen Freiheit unterworfen werden.
 
@@ -445,7 +519,9 @@ Der Empfangsstaat behandelt die Konsuln mit gebührender Achtung und trifft alle
 
 ## ARTIKEL 38
 
-### Zeugnispflicht
+**Zeugnispflicht**
+
+### Art. 38
 
 (1) Mitglieder eines Konsulats können in einem Gerichts- oder Verwaltungsverfahren als Zeugen geladen werden. Weigert sich ein Konsul auszusagen oder zu erscheinen, so darf gegen ihn keine Zwangs- oder Strafmaßnahme getroffen werden. Konsularangestellte oder Mitglieder des dienstlichen Hauspersonals dürfen nur in den im Absatz 3 genannten Fällen das Zeugnis verweigern.
 
@@ -455,7 +531,9 @@ Der Empfangsstaat behandelt die Konsuln mit gebührender Achtung und trifft alle
 
 ## ARTIKEL 39
 
-### Verzicht auf Vorrechte und Immunitäten
+**Verzicht auf Vorrechte und Immunitäten**
+
+### Art. 39
 
 (1) Der Entsendestaat kann auf die in den Artikeln 37 und 38 vorgesehenen Vorrechte und Immunitäten verzichten.
 
@@ -467,7 +545,9 @@ Der Empfangsstaat behandelt die Konsuln mit gebührender Achtung und trifft alle
 
 ## ARTIKEL 40
 
-### Befreiung von persönlichen Dienstleistungen und anderen Verpflichtungen
+**Befreiung von persönlichen Dienstleistungen und anderen Verpflichtungen**
+
+### Art. 40
 
 (1) Die Mitglieder des Konsulats sind im Empfangsstaat von allen militärischen Dienstleistungen und Auflagen, von allen sonstigen persönlichen Dienstleistungen jeder Art und den allenfalls an ihrer Statt erhobenen Beiträgen befreit.
 
@@ -475,7 +555,9 @@ Der Empfangsstaat behandelt die Konsuln mit gebührender Achtung und trifft alle
 
 ## ARTIKEL 41
 
-### Befreiung von der Besteuerung
+**Befreiung von der Besteuerung**
+
+### Art. 41
 
 (1) Konsuln und Konsularangestellte sind von allen staatlichen, regionalen und kommunalen Personal- und Realsteuern oder -abgaben befreit; ausgenommen hievon sind
 
@@ -497,7 +579,9 @@ Der Empfangsstaat behandelt die Konsuln mit gebührender Achtung und trifft alle
 
 ## ARTIKEL 42
 
-### Befreiung von Zöllen und Zollkontrollen
+**Befreiung von Zöllen und Zollkontrollen**
+
+### Art. 42
 
 (1) Jeder Gegenstand einschließlich von Kraftfahrzeugen, der für den amtlichen Gebrauch des Konsulats eingeführt wird, ist im Empfangsstaat in gleicher Weise von Zöllen und sonstigen Abgaben befreit wie die Gegenstände, die zum amtlichen Gebrauch der diplomatischen Vertretung des Entsendestaates eingeführt werden.
 
@@ -507,7 +591,9 @@ Der Empfangsstaat behandelt die Konsuln mit gebührender Achtung und trifft alle
 
 ## ARTIKEL 43
 
-### Nachlaß eines Mitglieds des Konsulats
+**Nachlaß eines Mitglieds des Konsulats**
+
+### Art. 43
 
 Stirbt ein Mitglied des Konsulats oder ein Familienangehöriger eines solchen, so ist der Empfangsstaat verpflichtet,
 
@@ -517,7 +603,9 @@ Stirbt ein Mitglied des Konsulats oder ein Familienangehöriger eines solchen, s
 
 ## ARTIKEL 44
 
-### Befreiung vom System der sozialen Sicherheit
+**Befreiung vom System der sozialen Sicherheit**
+
+### Art. 44
 
 (1) Vorbehaltlich des Absatzes 3 sind die Mitglieder des Konsulats in bezug auf ihre Dienste für den Entsendestaat von den im Empfangsstaat geltenden Vorschriften über soziale Sicherheit befreit.
 
@@ -531,19 +619,25 @@ Stirbt ein Mitglied des Konsulats oder ein Familienangehöriger eines solchen, s
 
 ## ARTIKEL 45
 
-### Familienangehörige
+**Familienangehörige**
+
+### Art. 45
 
 Die Familienangehörigen genießen die den Mitgliedern des Konsulats durch diesen Vertrag gewährten Vorrechte und Immunitäten unter der Voraussetzung, daß sie weder Angehörige des Empfangsstaates noch in diesem ansässig sind oder in diesem einer Erwerbstätigkeit nachgehen.
 
 ## ARTIKEL 46
 
-### Mitglieder des Konsulats, die Angehörige des Empfangsstaates sind
+**Mitglieder des Konsulats, die Angehörige des Empfangsstaates sind**
+
+### Art. 46
 
 Die Mitglieder des Konsulats, die Angehörige des Empfangsstaates oder dort ansässig sind, genießen lediglich die im Artikel 37 vorgesehene Immunität und persönliche Unverletzlichkeit in bezug auf ihre in Wahrnehmung ihrer Aufgaben vorgenommenen Amtshandlungen sowie das im Artikel 38 Absatz 3 vorgesehene Vorrecht.
 
 ## ARTIKEL 47
 
-### Beginn und Ende der Vorrechte und Immunitäten
+**Beginn und Ende der Vorrechte und Immunitäten**
+
+### Art. 47
 
 (1) Die in diesem Vertrag vorgesehenen Vorrechte und Immunitäten stehen den Mitgliedern des Konsulats von dem Zeitpunkt an zu, in dem sie in das Hoheitsgebiet des Empfangsstaates einreisen, um dort ihren Posten anzutreten, oder, wenn sie sich bereits in seinem Hoheitsgebiet befinden, von dem Zeitpunkt an, in dem sie ihre dienstliche Tätigkeit aufnehmen.
 
@@ -563,7 +657,9 @@ Die Mitglieder des Konsulats, die Angehörige des Empfangsstaates oder dort ans�
 
 ## ARTIKEL 48
 
-### Haftpflichtversicherung
+**Haftpflichtversicherung**
+
+### Art. 48
 
 (1) Für Land-, Wasser- und Luftfahrzeuge, die im Eigentum des Entsendestaates stehen und dem amtlichen Gebrauch des Konsulats dienen oder die im Eigentum eines Mitglieds des Konsulats oder eines Familienangehörigen stehen, ist eine Haftpflichtversicherung zu schließen.
 
@@ -571,7 +667,9 @@ Die Mitglieder des Konsulats, die Angehörige des Empfangsstaates oder dort ans�
 
 ## ARTIKEL 49
 
-### Beachtung der Rechtsvorschriften des Empfangsstaates
+**Beachtung der Rechtsvorschriften des Empfangsstaates**
+
+### Art. 49
 
 (1) Die Personen, die nach diesem Vertrag Vorrechte und Immunitäten genießen, sind ungeachtet derselben verpflichtet, die Rechtsvorschriften des Empfangsstaates einschließlich der Verkehrs- und Versicherungsvorschriften für Kraftfahrzeuge zu beachten.
 
@@ -579,25 +677,33 @@ Die Mitglieder des Konsulats, die Angehörige des Empfangsstaates oder dort ans�
 
 ## ARTIKEL 50
 
-### Benützung der konsularischen Räumlichkeiten
+**Benützung der konsularischen Räumlichkeiten**
+
+### Art. 50
 
 Die konsularischen Räumlichkeiten dürfen nicht in einer Weise benützt werden, die mit der Wahrnehmung der konsularischen Aufgaben unvereinbar ist.
 
 ## ARTIKEL 51
 
-### Andere zwischenstaatliche Verträge
+**Andere zwischenstaatliche Verträge**
+
+### Art. 51
 
 Dieser Vertrag berührt nicht die Bestimmungen anderer Verträge, die eine oder beide Vertragsparteien im Zeitpunkt des Inkrafttretens dieses Vertrages binden.
 
 ## ARTIKEL 52
 
-### Ratifikation
+**Ratifikation**
+
+### Art. 52
 
 Dieser Vertrag ist zu ratifizieren; die Ratifikationsurkunden werden in Wien ausgetauscht.
 
 ## ARTIKEL 53
 
-### Inkrafttreten und Kündigung
+**Inkrafttreten und Kündigung**
+
+### Art. 53
 
 Dieser Vertrag tritt am 60. Tag nach dem Tag des Austausches der Ratifikationsurkunden in Kraft und bleibt so lang in Kraft, bis ihn eine der Vertragsparteien unter Einhaltung einer einjährigen Kündigungsfrist schriftlich auf diplomatischem Weg kündigt.
 

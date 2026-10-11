@@ -88,7 +88,9 @@ Die Verlängerung wird an der Dauer der Unterbrechung der Ausstellung bemessen; 
 
 ## Artikel 4.
 
-#### ZEITFOLGE DER AUSSTELLUNGEN:
+**ZEITFOLGE DER AUSSTELLUNGEN:**
+
+#### Art. 4
 
 Die Zeitfolge der unter dieses Abkommen fallenden Ausstellungen wird nach folgenden Grundsätzen geregelt:
 

@@ -160,7 +160,9 @@ Die Anfrage darf nur unter Verwendung einer vollständigen Fahrzeugidentifizieru
 
 (2) Zur Durchführung der Datenübermittlungen nach Absatz 1 benennt jede Vertragspartei eine nationale Kontaktstelle für eingehende Ersuchen. Die Befugnisse der nationalen Kontaktstelle richten sich nach dem für sie geltenden innerstaatlichen Recht. Die Einzelheiten der technischen Ausgestaltung des Verfahrens werden in einer Durchführungsvereinbarung nach Artikel 44 geregelt.
 
-#### Übermittlung nicht-personenbezogener Informationen – Artikel 13
+**Übermittlung nicht-personenbezogener Informationen**
+
+#### Art. 13 – Artikel 13
 
 Zum Zweck der Verhinderung von Straftaten und zur Abwehr einer Gefahr für die öffentliche Sicherheit und Ordnung im Zusammenhang mit Großveranstaltungen mit grenzüberschreitendem Bezug, insbesondere im Bereich des Sports oder der Tagungen des Europäischen Rates, übermitteln die Vertragsparteien einander sowohl auf Ersuchen als auch aus eigener Initiative nach dem innerstaatlichen Recht der übermittelnden Vertragspartei nichtpersonenbezogene Informationen, die hierzu erforderlich sein können.
 
@@ -562,7 +564,9 @@ Dieser Vertrag bedarf der Ratifikation, der Annahme oder der Genehmigung. Die Ra
 
 Geschehen zu Prüm am 27. Mai 2005 in einer Urschrift in deutscher, spanischer, französischer und niederländischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist. Die Urschrift wird im Archiv des Verwahrers hinterlegt, der jedem Unterzeichnerstaat und beitretenden Staat eine beglaubigte Abschrift der Vertragsurschrift übermittelt.
 
-#### Anlage 1 zum Vertrag über die Vertiefung der grenzüberschreitenden Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus, der grenzüberschreitenden Kriminalität und der illegalen Migration – Nach Artikel 17 Absatz 5 notwendige inhaltliche Angaben für die schriftliche Anmeldung
+**Anlage 1 zum Vertrag über die Vertiefung der grenzüberschreitenden Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus, der grenzüberschreitenden Kriminalität und der illegalen Migration**
+
+#### Anl. 1 – Nach Artikel 17 Absatz 5 notwendige inhaltliche Angaben für die schriftliche Anmeldung
 
 1\. Einsatzzeiten, die die vorgesehene Aufenthaltsdauer beschreiben;
 
@@ -580,7 +584,9 @@ Geschehen zu Prüm am 27. Mai 2005 in einer Urschrift in deutscher, spanischer, 
 
 8\. Ausrüstungsgegenstände, die vom Team mitgeführt werden und zur Erfüllung der Aufgaben dienen.
 
-#### Anlage 2 zum Vertrag Über die Vertiefung der grenzüberschreitenden Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus, der grenzüberschreitenden Kriminalität und der illegalen Migration Dienstwaffen, Munition und zugelassene Einsatzmittel im Sinne des Artikels 28 Absatz 2 Sätze 1 und 2
+**Anlage 2 zum Vertrag Über die Vertiefung der grenzüberschreitenden Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus, der grenzüberschreitenden Kriminalität und der illegalen Migration Dienstwaffen, Munition und zugelassene Einsatzmittel im Sinne des Artikels 28 Absatz 2 Sätze 1 und 2**
+
+#### Anl. 2
 
 1\. Für das Königreich Belgien:
 

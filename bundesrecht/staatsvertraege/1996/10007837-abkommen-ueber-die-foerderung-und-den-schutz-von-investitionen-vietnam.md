@@ -35,7 +35,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -73,7 +75,9 @@ b) jede juristische Person, einschließlich Gesellschaften, Firmen und Vereinigu
 
 ## Artikel 2
 
-### Förderung und Schutz der Investitionen
+**Förderung und Schutz der Investitionen**
+
+### Art. 2
 
 (1) Jede Vertragspartei fördert nach Möglichkeit in ihrem Hoheitsgebiet die Investitionen der Investoren der anderen Vertragspartei, läßt diese Investitionen in Übereinstimmung mit ihren Rechtsvorschriften zu und behandelt solche Investitionen in jedem Fall gerecht und billig.
 
@@ -81,7 +85,9 @@ b) jede juristische Person, einschließlich Gesellschaften, Firmen und Vereinigu
 
 ## Artikel 3
 
-### Behandlung von Investitionen
+**Behandlung von Investitionen**
+
+### Art. 3
 
 (1) Jede Vertragspartei behandelt Investoren der anderen Vertragspartei und deren Investitionen nicht weniger günstig als Investoren eines dritten Staates und deren Investitionen.
 
@@ -97,7 +103,9 @@ d) einer Inländergleichbehandlung, die auf Grund eines bilateralen Investitions
 
 ## Artikel 4
 
-### Entschädigung
+**Entschädigung**
+
+### Art. 4
 
 (1) Investitionen von Investoren einer Vertragspartei dürfen im Hoheitsgebiet der anderen Vertragspartei nur im öffentlichen Interesse, auf Grund eines rechtmäßigen Verfahrens und gegen Entschädigung enteignet werden. Die Entschädigung muß dem Wert der Investition unmittelbar vor dem Zeitpunkt entsprechen, in dem die tatsächliche oder drohende Enteignung öffentlich bekannt wurde. Die Entschädigung muß ohne ungebührliche Verzögerung geleistet werden und ist bis zum Zeitpunkt der Zahlung mit dem üblichen bankmäßigen Zinssatz jenes Staates, in dessen Hoheitsgebiet die Investition durchgeführt wurde, zu verzinsen; sie muß in frei konvertierbarer Währung erfolgen und frei transferierbar sein. Spätestens im Zeitpunkt der Enteignung muß in geeigneter Weise für die Festsetzung der Leistung der Entschädigung Vorsorge getroffen sein.
 
@@ -109,7 +117,9 @@ d) einer Inländergleichbehandlung, die auf Grund eines bilateralen Investitions
 
 ## Artikel 5
 
-### Transfer
+**Transfer**
+
+### Art. 5
 
 (1) Jede Vertragspartei gewährleistet den Investoren der anderen Vertragspartei ohne ungebührliche Verzögerung den freien Transfer in frei konvertierbarer Währung der im Zusammenhang mit einer Investition stehenden Zahlungen, insbesondere, aber nicht ausschließlich,
 
@@ -131,13 +141,17 @@ f) einer Entschädigung gemäß Artikel 4 Absatz 1 dieses Abkommens.
 
 ## Artikel 6
 
-### Eintrittsrecht
+**Eintrittsrecht**
+
+### Art. 6
 
 Leistet eine Vertragspartei oder eine von ihr hiezu ermächtigte Institution ihrem Investor Zahlungen auf Grund einer Garantie für eine Investition im Hoheitsgebiet der anderen Vertragspartei, so erkennt diese andere Vertragspartei, unbeschadet der Rechte des Investors der erstgenannten Vertragspartei aus Artikel 8 dieses Abkommens und der Rechte der erstgenannten Vertragspartei aus Artikel 9 dieses Abkommens, die Übertragung aller Rechte oder Ansprüche dieses Investors kraft Gesetzes oder auf Grund eines Rechtsgeschäfts auf die erstgenannte Vertragspartei an. Ferner erkennt die andere Vertragspartei den Eintritt der erstgenannten Vertragspartei in alle diese Rechte oder Ansprüche an, welche die erstgenannte Vertragspartei in demselben Umfang wie ihr Rechtsvorgänger auszuüben berechtigt ist. Für den Transfer der an die betreffende Vertragspartei auf Grund der übertragenen Rechte zu leistenden Zahlungen gelten Artikel 4 und Artikel 5 dieses Abkommens sinngemäß.
 
 ## Artikel 7
 
-### Andere Verpflichtungen
+**Andere Verpflichtungen**
+
+### Art. 7
 
 (1) Ergibt sich aus den Rechtsvorschriften einer Vertragspartei oder aus völkerrechtlichen Verpflichtungen, die neben diesem Abkommen zwischen den Vertragsparteien bestehen oder in Zukunft begründet werden, eine allgemeine oder besondere Regelung, durch die den Investitionen der Investoren der anderen Vertragspartei eine günstigere Behandlung als nach diesem Abkommen zu gewähren ist, so geht diese Regelung dem vorliegenden Abkommen insoweit vor, als sie günstiger ist.
 
@@ -145,7 +159,9 @@ Leistet eine Vertragspartei oder eine von ihr hiezu ermächtigte Institution ihr
 
 ## Artikel 8
 
-### Beilegung von Investitionsstreitigkeiten
+**Beilegung von Investitionsstreitigkeiten**
+
+### Art. 8
 
 (1) Entstehen zwischen einer Vertragspartei und einem Investor der anderen Vertragspartei Meinungsverschiedenheiten aus einer Investition, so werden diese so weit wie möglich zwischen den Streitparteien freundschaftlich beigelegt.
 
@@ -157,7 +173,9 @@ Leistet eine Vertragspartei oder eine von ihr hiezu ermächtigte Institution ihr
 
 ## Artikel 9
 
-### Beilegung von Streitigkeiten zwischen den Vertragsparteien
+**Beilegung von Streitigkeiten zwischen den Vertragsparteien**
+
+### Art. 9
 
 (1) Meinungsverschiedenheiten zwischen den Vertragsparteien über die Auslegung oder Anwendung dieses Abkommens sollen, soweit wie möglich, durch freundschaftliche Verhandlungen beigelegt werden.
 
@@ -177,13 +195,17 @@ jede Vertragspartei bestellt ein Mitglied und beide Mitglieder einigen sich auf 
 
 ## Artikel 10
 
-### Anwendung dieses Abkommens
+**Anwendung dieses Abkommens**
+
+### Art. 10
 
 Dieses Abkommen gilt für Investitionen, die Investoren der einen Vertragspartei in Übereinstimmung mit den Rechtsvorschriften der anderen Vertragspartei in deren Hoheitsgebiet sowohl vor als auch nach dem Inkrafttreten dieses Abkommens vorgenommen haben oder vornehmen werden.
 
 ## Artikel 11
 
-### Inkrafttreten und Dauer
+**Inkrafttreten und Dauer**
+
+### Art. 11
 
 (1) Dieses Abkommen bedarf der Ratifikation und tritt am ersten Tag des dritten Monats in Kraft, der dem Monat folgt, in dem sich die Vertragsparteien gegenseitig notifiziert haben, daß die jeweiligen verfassungsmäßigen Erfordernisse für das Inkrafttreten des Abkommens erfüllt sind.
 

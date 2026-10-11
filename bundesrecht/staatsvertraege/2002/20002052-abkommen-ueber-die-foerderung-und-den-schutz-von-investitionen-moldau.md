@@ -33,7 +33,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -75,7 +77,9 @@ b) jede juristische Person, die in Übereinstimmung mit den Rechtsvorschriften d
 
 ## Artikel 2
 
-### Förderung und Schutz der Investitionen
+**Förderung und Schutz der Investitionen**
+
+### Art. 2
 
 (1) Jede Vertragspartei fördert nach Möglichkeit in ihrem Hoheitsgebiet die Investitionen der Investoren der anderen Vertragspartei, läßt diese Investitionen in Übereinstimmung mit ihren Rechtsvorschriften zu und behandelt sie in jedem Fall gerecht und billig.
 
@@ -83,7 +87,9 @@ b) jede juristische Person, die in Übereinstimmung mit den Rechtsvorschriften d
 
 ## Artikel 3
 
-### Behandlung von Investitionen
+**Behandlung von Investitionen**
+
+### Art. 3
 
 (1) Jede Vertragspartei behandelt Investoren der anderen Vertragspartei und deren Investitionen nicht weniger günstig als ihre eigenen Investoren und deren Investitionen oder Investoren dritter Staaten und deren Investitionen.
 
@@ -97,7 +103,9 @@ c) einer Regelung zur Erleichterung des Grenzverkehrs.
 
 ## Artikel 4
 
-### Entschädigung
+**Entschädigung**
+
+### Art. 4
 
 (1) Investitionen von Investoren einer Vertragspartei dürfen im Hoheitsgebiet der anderen Vertragspartei nur im öffentlichen Interesse, auf Grund eines rechtmäßigen Verfahrens und gegen Entschädigung enteignet werden.
 
@@ -111,7 +119,9 @@ c) einer Regelung zur Erleichterung des Grenzverkehrs.
 
 ## Artikel 5
 
-### Entschädigung für Schaden oder Verlust
+**Entschädigung für Schaden oder Verlust**
+
+### Art. 5
 
 (1) Falls Investitionen von Investoren einer der beiden Vertragsparteien einen Schaden oder Verlust auf Grund eines Krieges oder anderer bewaffneter Konflikte, eines nationalen Notstandes, einer Revolte, von Unruhen, eines Aufstandes, von Aufruhr oder sonstiger ähnlicher Ereignisse im Hoheitsgebiet der anderen Vertragspartei erleiden, wird ihnen hinsichtlich Rückerstattung, Schadloshaltung, Entschädigung oder anderer Regelung seitens der letztgenannten Vertragspartei eine nicht weniger günstige Behandlung gewährt, als jene, die die letztgenannte Vertragspartei ihren eigenen Investoren oder Investoren eines Drittstaates gewährt, je nachdem, welche die günstigste ist.
 
@@ -127,7 +137,9 @@ erleiden, wobei dies nicht durch Kampfhandlungen verursacht wurde oder unter den
 
 ## Artikel 6
 
-### Transfer
+**Transfer**
+
+### Art. 6
 
 (1) Jede Vertragspartei gewährleistet den Investoren der anderen Vertragspartei ohne ungebührliche Verzögerung den freien Transfer in frei konvertierbarer Währung der im Zusammenhang mit einer Investition stehenden Zahlungen, insbesondere, aber nicht ausschließlich,
 
@@ -151,13 +163,17 @@ g) Zahlungen auf Grund einer Streitbeilegung.
 
 ## Artikel 7
 
-### Eintrittsrecht
+**Eintrittsrecht**
+
+### Art. 7
 
 Leistet eine Vertragspartei oder eine von ihr hiezu ermächtigte Institution ihrem Investor Zahlungen auf Grund einer Garantie für eine Investition im Hoheitsgebiet der anderen Vertragspartei, so anerkennt diese andere Vertragspartei, unbeschadet der Rechte des Investors der erstgenannten Vertragspartei aus Artikel 9 dieses Abkommens und der Rechte der erstgenannten Vertragspartei aus Artikel 10 dieses Abkommens, die Übertragung aller Rechte oder Ansprüche dieses Investors kraft Gesetzes oder auf Grund eines Rechtsgeschäfts auf die erstgenannte Vertragspartei. Ferner anerkennt die andere Vertragspartei den Eintritt der erstgenannten Vertragspartei in alle diese Rechte oder Ansprüche, welche die erstgenannte Vertragspartei in demselben Umfang wie ihr Rechtsvorgänger auszuüben berechtigt ist. Für den Transfer der an die betreffende Vertragspartei auf Grund der übertragenen Rechte zu leistenden Zahlungen gelten Artikel 4, 5 und 6 dieses Abkommens sinngemäß.
 
 ## Artikel 8
 
-### Andere Verpflichtungen
+**Andere Verpflichtungen**
+
+### Art. 8
 
 (1) Ergibt sich aus den Rechtsvorschriften einer Vertragspartei oder aus völkerrechtlichen Verpflichtungen, die neben diesem Abkommen zwischen den Vertragsparteien bestehen oder in Zukunft begründet werden, eine allgemeine oder besondere Regelung, durch die den Investitionen der Investoren der anderen Vertragspartei eine günstigere Behandlung als nach diesem Abkommen zu gewähren ist, so geht diese Regelung dem vorliegenden Abkommen insoweit vor, als sie günstiger ist.
 
@@ -165,7 +181,9 @@ Leistet eine Vertragspartei oder eine von ihr hiezu ermächtigte Institution ihr
 
 ## Artikel 9
 
-### Beilegung von Investitionsstreitigkeiten
+**Beilegung von Investitionsstreitigkeiten**
+
+### Art. 9
 
 (1) Entstehen zwischen einer Vertragspartei und einem Investor der anderen Vertragspartei Meinungsverschiedenheiten aus einer Investition, so werden diese so weit wie möglich zwischen den Streitparteien freundschaftlich beigelegt.
 
@@ -185,7 +203,9 @@ b) einem Schiedsverfahren durch drei Schiedsrichter gemäß den UNCITRAL-Schieds
 
 ## Artikel 10
 
-### Beilegung von Streitigkeiten zwischen den Vertragsparteien
+**Beilegung von Streitigkeiten zwischen den Vertragsparteien**
+
+### Art. 10
 
 (1) Meinungsverschiedenheiten zwischen den Vertragsparteien über die Auslegung oder Anwendung dieses Abkommens sollen, soweit wie möglich, durch freundschaftliche Verhandlungen beigelegt werden.
 
@@ -203,7 +223,9 @@ b) einem Schiedsverfahren durch drei Schiedsrichter gemäß den UNCITRAL-Schieds
 
 ## Artikel 11
 
-### Anwendung dieses Abkommens
+**Anwendung dieses Abkommens**
+
+### Art. 11
 
 (1) Dieses Abkommen gilt für Investitionen, die Investoren der einen Vertragspartei in Übereinstimmung mit den Rechtsvorschriften der anderen Vertragspartei in deren Hoheitsgebiet sowohl vor als auch nach dem Inkrafttreten dieses Abkommens vorgenommen haben oder vornehmen werden.
 
@@ -213,7 +235,9 @@ b) einem Schiedsverfahren durch drei Schiedsrichter gemäß den UNCITRAL-Schieds
 
 ## Artikel 12
 
-### Inkrafttreten und Dauer
+**Inkrafttreten und Dauer**
+
+### Art. 12
 
 (1) Dieses Abkommen bedarf der Ratifikation und tritt am ersten Tag des dritten Monats in Kraft, der auf den Monat folgt, in welchem der Austausch der Ratifikationsurkunden stattgefunden hat.
 

@@ -1,0 +1,171 @@
+---
+title: "Luftfahrt - Abkommen über die Internationale Zivilluftfahrt - P13"
+identifier: "20005969"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 115/2008"
+last_amended: 2005-04-18
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2008/115/P0/NOR30006644"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005969"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Luftfahrt - Abkommen über die Internationale Zivilluftfahrt - P13
+
+Protokoll über eine Änderung des Artikels 56 des Abkommens über die Internationale Zivilluftfahrt, unterzeichnet in Montreal am 6. Oktober 1989
+
+StF: BGBl. III Nr. 115/2008 (NR: GP XVIII RV 39 VV S. 19. BR.: 4037 S. 539.)
+
+<details>
+<summary>Änderungen</summary>
+
+etwaige idF-Liste siehe Stammvertrag, BGBl. Nr. 97/1949  
+
+</details>
+
+## Art. 1
+
+\**(Übersetzung)**
+
+\**PROTOKOLL**
+
+\**ÜBER EINE ÄNDERUNG DES ARTIKELS 56 DES ABKOMMENS ÜBER DIE**
+
+\**INTERNATIONALE ZIVILLUFTFAHRT UNTERZEICHNET IN MONTREAL AM**
+
+\**6. OKTOBER 1989**
+
+DIE VERSAMMLUNG DER INTERNATIONALEN ZIVILLUFTFAHRTORGANISATION;
+
+die am 6. Oktober 1989 in Montreal zu ihrer 27. Tagung
+
+ZUSAMMENTRAT,
+
+die FESTSTELLTE, dass es der allgemeine Wunsch der Vertragsstaaten ist, die Anzahl der Mitglieder der Luftfahrtkommission zu erhöhen,
+
+die es als angebracht ERACHTETE, zu diesem Zweck das am 7. Dezember 1944 in Chicago abgeschlossene Abkommen \*1) über die Internationale Zivilluftfahrt diesbezüglich abzuändern,
+
+1\. GENEHMIGT gemäß den Bestimmungen des Artikels 94, Absatz a) des vorgenannten Abkommens den folgenden Änderungsvorschlag des besagten Abkommens:
+
+„In Artikel 56 des Abkommens ist der Ausdruck ‚Fünfzehn Mitglieder’ durch ‚Neunzehn Mitglieder’ zu ersetzen“;
+
+2\. BESTIMMT gemäß den Bestimmungen des Artikels 94, Absatz a) des genannten Abkommens, dass besagte Änderung in Kraft tritt, nachdem sie von einhundertacht Vertragsstaaten ratifiziert worden ist; und
+
+3\. BESCHLIESST, dass der Generalsekretär der Internationalen Zivilluftfahrtorganisation über die obgenannte Änderung und die nachstehenden Bestimmungen ein Protokoll in englischer, französischer, russischer und spanischer Sprache abfassen solle, das in jeder Sprache gleichermaßen authentisch ist:
+
+a) Das Protokoll ist vom Präsidenten und vom Generalsekretär der Versammlung zu unterzeichnen.
+
+b) Das Protokoll steht jedem Staat, der das Abkommen über die Internationale Zivilluftfahrt ratifiziert hat oder diesem beigetreten ist, zur Ratifikation offen.
+
+c) Die Ratifikationsurkunden sind bei der Internationalen Zivilluftfahrtorganisation zu hinterlegen.
+
+d) Das Protokoll tritt für jene Staaten, die es ratifiziert haben, am Tag der Hinterlegung der einhundertachten Ratifikationsurkunde in Kraft.
+
+e) Der Generalsekretär hat den Zeitpunkt der Hinterlegung jeder Ratifikationsurkunde des Protokolls allen Vertragsstaaten unverzüglich mitzuteilen.
+
+f) Der Generalsekretär hat unverzüglich alle Vertragsstaaten des Abkommens vom Zeitpunkt des Inkrafttretens dieses Protokolls zu benachrichtigen.
+
+g) Dieses Protokoll tritt für jeden Vertragsstaat, der es nach dem vorgenannten Zeitpunkt ratifiziert, mit der Hinterlegung seiner Ratifikationsurkunde bei der Internationalen Zivilluftfahrtorganisation in Kraft.
+
+INFOLGEDESSEN auf Grund des vorgenannten Beschlusses der Versammlung
+
+wurde dieses Protokoll vom Generalsekretär der Internationalen Zivilluftfahrtorganisation erstellt.
+
+ZU URKUND DESSEN unterzeichnen der Präsident und der Generalsekretär der siebenundzwanzigsten Tagung der Versammlung der Internationalen Zivilluftfahrtorganisation, die von der Versammlung hiezu bevollmächtigt sind, dieses Protokoll.
+
+GESCHEHEN zu Montreal, am 6. Oktober 1989 in einer einzigen Urkunde in englischer, französischer, russischer und spanischer Sprache, wobei jeder dieser Texte gleichermaßen authentisch ist. Dieses Protokoll bleibt im Archiv der Internationalen Zivilluftfahrtorganisation hinterlegt und beglaubigte Abschriften sind vom Generalsekretär der Organisation allen Mitgliedstaaten des am 7. Dezember 1944 in Chicago abgeschlossenen Abkommens über die Internationale Zivilluftfahrt zu übermitteln.
+
+`____________________________________________________________________`
+
+\*1) Kundgemacht in BGBl. Nr. 97/1949, zuletzt geändert durch BGBl. III Nr. 114 /2008.
+
+## Ratifikationstext
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde am 22. April 1991 beim Generalsekretär der ICAO hinterlegt; das Protokoll über eine Änderung des Artikels 56 des Abkommens über die Internationale Zivilluftfahrt ist am 18. April 2005 in Kraft getreten.
+
+Nach Mitteilungen des Generalsekretärs der ICAO haben neben Österreich folgende weitere Staaten das Protokoll ratifiziert:
+
+Ägypten, Algerien, Andorra, Argentinien, Äthiopien, Australien, Bahrain, Bangladesch, Belarus, Benin, Bosnien und Herzegowina, Botsuana, Brasilien, Brunei Darussalam, Bulgarien, Burkina Faso, Chile, China, Cook Inseln, Dänemark, Deutschland, Ecuador, Eritrea, Estland, Fidschi, Finnland, Frankreich, Gabun, Gambia, Ghana, Grenada, Griechenland, Guatemala, Indien, Indonesien, Iran, Island, Italien, Jamaika, Jordanien, Kamerun, Kanada, Kap Verde, Kirgisistan, Republik Korea, Kroatien, Kuba, Kuwait, Lesotho, Lettland, Libanon, Libysch-Arabische Dschamahirija, Litauen, Luxemburg, Malawi, Malediven, Mali, Malta, Marokko, Mauritius, die ehemalige jugoslawische Republik Mazedonien, Mexiko, Monaco, Mongolei, Mosambik, Namibia, Nauru, Nepal, Niederlande, Nigeria, Norwegen, Oman, Palau, Panama, Papua-Neuguinea, Peru, Portugal, Rumänien, Samoa, San Marino, Saudi-Arabien, Schweden, Schweiz, Seychellen, Singapur, Slowakei, Slowenien, Spanien, Südafrika, Swasiland, Thailand, Togo, Tonga, Tschechische Republik, Tunesien, Türkei, Turkmenistan, Uganda, Ukraine, Ungarn, Uruguay, Usbekistan, Vanuatu, Vereinigte Arabische Emirate, Vereinigte Republik Tansania, Vereinigte Staaten, Vietnam.
+
+Seit Inkrafttreten des Protokolls haben nachstehende Staaten ihre
+
+Ratifikationsurkunden hinterlegt:
+
+<table>
+<tr>
+<td><b>Staaten:</b></td>
+<td><b>Datum der Hinterlegung der</b><br><b>Ratifikationsurkunde:</b></td>
+</tr>
+<tr>
+<td>Angola</td>
+<td>4. Februar 2008</td>
+</tr>
+<tr>
+<td>Barbados</td>
+<td>1. November 2006</td>
+</tr>
+<tr>
+<td>Bhutan</td>
+<td>26. August 2005</td>
+</tr>
+<tr>
+<td>El Salvador</td>
+<td>6. Februar 2006</td>
+</tr>
+<tr>
+<td>Japan</td>
+<td>19. Juni 2006</td>
+</tr>
+<tr>
+<td>Katar</td>
+<td>25. Juni 2008</td>
+</tr>
+<tr>
+<td rowspan="2">Demokratische Volksrepublik<br>Korea</td>
+<td></td>
+</tr>
+<tr>
+<td>11. Oktober 2005</td>
+</tr>
+<tr>
+<td>Madagaskar</td>
+<td>7. August 2007</td>
+</tr>
+<tr>
+<td>Montenegro</td>
+<td>12. Februar 2007</td>
+</tr>
+<tr>
+<td>Paraguay</td>
+<td>27. Jänner 2006</td>
+</tr>
+<tr>
+<td>Russische Föderation</td>
+<td>16. August 2005</td>
+</tr>
+<tr>
+<td>Senegal</td>
+<td>6. Jänner 2006</td>
+</tr>
+<tr>
+<td>Simbabwe</td>
+<td>8. November 2005</td>
+</tr>
+<tr>
+<td>Timor-Leste</td>
+<td>4. August 2005</td>
+</tr>
+</table>
+
+Die Volksrepublik China hat am 8. Juli 2005 den Geltungsbereich des Protokolls mit Wirksamkeit vom 12. Juli 2005 auf die Sonderverwaltungsregion Macao ausgedehnt.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluss des nachstehenden Staatsvertrages wird verfassungsmäßig genehmigt.

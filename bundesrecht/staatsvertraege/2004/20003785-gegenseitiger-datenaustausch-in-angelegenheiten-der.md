@@ -31,13 +31,17 @@ Folgendes vereinbart:
 
 ## Artikel 1
 
-### Zweck des Abkommens
+**Zweck des Abkommens**
+
+### Art. 1
 
 Die zuständigen Stellen der Vertragsparteien leisten einander über Ersuchen Amtshilfe durch Datenübermittlung in Angelegenheiten der Migrationskontrolle oder in Asylangelegenheiten nach Maßgabe dieses Abkommens.
 
 ## Artikel 2
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 2
 
 (1) Migrationskontrolle bezeichnet den Bereich der Anwendung fremdenrechtlicher Vorschriften der Vertragsparteien mit dem Ziel, illegale Migration zu verhindern und zu bekämpfen.
 
@@ -55,7 +59,9 @@ Namen, Geschlecht, frühere Namen, Geburtsdatum, Geburtsort, Wohnanschrift, Staa
 
 ## Artikel 3
 
-### Datenübermittlung
+**Datenübermittlung**
+
+### Art. 3
 
 (1) Die in Artikel 2 Absatz 2 genannten Daten dürfen für den in Artikel 1 genannten Zweck nur dann an die ersuchende Vertragspartei übermittelt werden, wenn dies für die Vollziehung der Gesetze der Vertragsparteien erforderlich ist, mit denen das Migrationswesen geregelt ist. Die ersuchende Vertragspartei hat der ersuchten Vertragspartei den Zweck für die Datenübermittlung stets bekannt zu geben.
 
@@ -75,7 +81,9 @@ Namen, Geschlecht, frühere Namen, Geburtsdatum, Geburtsort, Wohnanschrift, Staa
 
 ## Artikel 4
 
-### Zweckbindung
+**Zweckbindung**
+
+### Art. 4
 
 (1) Die in Artikel 2 genannten Daten, die auf Grund dieses Abkommens übermittelt worden sind, dürfen von der ersuchenden Vertragspartei nur mit Zustimmung der ersuchten Vertragspartei zu anderen als den der Übermittlung zugrundliegenden Zwecken verwendet werden. Die Zulässigkeit der Erteilung einer Zustimmung richtet sich nach dem nationalen Recht der ersuchten Vertragspartei.
 
@@ -83,7 +91,9 @@ Namen, Geschlecht, frühere Namen, Geburtsdatum, Geburtsort, Wohnanschrift, Staa
 
 ## Artikel 5
 
-### Pflicht zur Richtigstellung, Vernichtung und Auskunft
+**Pflicht zur Richtigstellung, Vernichtung und Auskunft**
+
+### Art. 5
 
 (1) Die in Artikel 2 genannten Daten, die auf Grund dieses Abkommens übermittelt worden sind, sind von der ersuchenden Vertragspartei zu löschen, sobald die Voraussetzungen für das Verwenden weggefallen sind oder die Daten sonst nicht mehr benötigt werden.
 
@@ -101,7 +111,9 @@ Namen, Geschlecht, frühere Namen, Geburtsdatum, Geburtsort, Wohnanschrift, Staa
 
 ## Artikel 6
 
-### Zuständige Stellen
+**Zuständige Stellen**
+
+### Art. 6
 
 (1) Für Ersuchen und das Erledigen von Ersuchen in Bezug auf Daten im Sinne des Artikels 2 Absatz 2 sind zuständig:
 

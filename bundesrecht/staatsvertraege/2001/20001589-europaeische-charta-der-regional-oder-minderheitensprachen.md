@@ -86,7 +86,9 @@ sind wie folgt übereingekommen:
 
 ### Artikel 1
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 1
 
 Im Sinne dieser Charta:
 
@@ -104,7 +106,9 @@ c) bezeichnet der Ausdruck „nicht territorial gebundene Sprachen“ von Angeh�
 
 ## Artikel 2
 
-#### Verpflichtungen
+**Verpflichtungen**
+
+#### Art. 2
 
 (1) Jede Vertragspartei verpflichtet sich, Teil II auf alle in ihrem Hoheitsgebiet gebrauchten Regional- oder Minderheitensprachen anzuwenden, die der Begriffsbestimmung in Artikel 1 entsprechen.
 
@@ -112,7 +116,9 @@ c) bezeichnet der Ausdruck „nicht territorial gebundene Sprachen“ von Angeh�
 
 ## Artikel 3
 
-#### Einzelheiten der Durchführung
+**Einzelheiten der Durchführung**
+
+#### Art. 3
 
 (1) Jeder Vertragsstaat bezeichnet in seiner Ratifikations-, Annahme- oder Genehmigungsurkunde jede Regional- oder Minderheitensprache oder in seinem gesamten Hoheitsgebiet oder einem Teil desselben weniger verbreitete Staatssprache, auf welche die nach Artikel 2 Absatz 2 ausgewählten Bestimmungen angewendet werden.
 
@@ -122,7 +128,9 @@ c) bezeichnet der Ausdruck „nicht territorial gebundene Sprachen“ von Angeh�
 
 ## Artikel 4
 
-#### Bestehende Schutzregelungen
+**Bestehende Schutzregelungen**
+
+#### Art. 4
 
 (1) Die Bestimmungen dieser Charta sind nicht als Beschränkung oder Beeinträchtigung von Rechten auszulegen, die durch die Europäische Menschenrechtskonvention gewährleistet sind.
 
@@ -130,13 +138,17 @@ c) bezeichnet der Ausdruck „nicht territorial gebundene Sprachen“ von Angeh�
 
 ## Artikel 5
 
-#### Bestehende Verpflichtungen
+**Bestehende Verpflichtungen**
+
+#### Art. 5
 
 Die Bestimmungen dieser Charta sind nicht so auszulegen, als gewährten sie das Recht, irgendeine Tätigkeit auszuüben oder irgendeine Handlung vorzunehmen, die gegen die Ziele der Charta der Vereinten Nationen oder sonstige völkerrechtliche Verpflichtungen einschließlich des Grundsatzes der Souveränität und territorialen Unversehrtheit der Staaten verstößt.
 
 ## Artikel 6
 
-#### Information
+**Information**
+
+#### Art. 6
 
 Die Vertragsparteien verpflichten sich, dafür zu sorgen, daß die betroffenen Behörden, Organisationen und Personen über die in dieser Charta festgelegten Rechte und Pflichten informiert werden.
 
@@ -144,7 +156,9 @@ Die Vertragsparteien verpflichten sich, dafür zu sorgen, daß die betroffenen B
 
 ### Artikel 7
 
-#### Ziele und Grundsätze
+**Ziele und Grundsätze**
+
+#### Art. 7
 
 (1) Hinsichtlich der Regional- oder Minderheitensprachen legen die Vertragsparteien in den Gebieten, in denen solche Sprachen gebraucht werden, unter Berücksichtigung der Situation jeder Sprache ihrer Politik, Gesetzgebung und Praxis folgende Ziele und Grundsätze zugrunde:
 
@@ -178,7 +192,9 @@ i) die Förderung geeigneter Formen des grenzüberschreitenden Austausches in de
 
 ### Artikel 8
 
-#### Bildung
+**Bildung**
+
+#### Art. 8
 
 (1) Im Bereich der Bildung und Erziehung verpflichten sich die Vertragsparteien, in dem Gebiet, in dem solche Sprachen gebraucht werden, unter Berücksichtigung der Situation jeder dieser Sprachen und unbeschadet des Unterrichts der Staatssprache(n)
 
@@ -236,7 +252,9 @@ i) ein oder mehrere Aufsichtsorgane einzusetzen, welche die zur Einführung oder
 
 ## Artikel 9
 
-#### Justizbehörden
+**Justizbehörden**
+
+#### Art. 9
 
 (1) Die Vertragsparteien verpflichten sich, in bezug auf diejenigen Gerichtsbezirke, in denen die Zahl der Einwohner, welche die Regional- oder Minderheitensprachen gebrauchen, die nachstehenden Maßnahmen rechtfertigt, unter Berücksichtigung der Situation jeder dieser Sprachen und unter der Bedingung, daß die Inanspruchnahme der durch diesen Absatz gebotenen Möglichkeiten nach Auffassung des Richters eine ordentliche Rechtspflege nicht behindert:
 
@@ -286,7 +304,9 @@ c) die Rechtsgültigkeit von im Inland abgefaßten Rechtsurkunden im Verhältnis
 
 ## Artikel 10
 
-#### Verwaltungsbehörden und öffentliche Dienstleistungsbetriebe
+**Verwaltungsbehörden und öffentliche Dienstleistungsbetriebe**
+
+#### Art. 10
 
 (1) Innerhalb der Verwaltungsbezirke des Staates, in denen die Zahl der Einwohner, die Regional- oder Minderheitensprachen gebrauchen, die nachstehenden Maßnahmen rechtfertigt, und unter Berücksichtigung der Situation jeder Sprache verpflichten sich die Vertragsparteien, im Rahmen des Zumutbaren:
 
@@ -340,7 +360,9 @@ c) nach Möglichkeit Erfüllung der Wünsche von Angehörigen des öffentlichen 
 
 ## Artikel 11
 
-#### Medien
+**Medien**
+
+#### Art. 11
 
 (1) Die Vertragsparteien verpflichten sich, für die Sprecher von Regional- oder Minderheitensprachen in den Gebieten, in denen diese Sprachen gebraucht werden, unter Berücksichtigung der Situation jeder Sprache und in dem Ausmaß, in dem die staatlichen Stellen in diesem Bereich unmittelbar oder mittelbar Zuständigkeit, Befugnisse oder Einfluß haben, unter Achtung des Grundsatzes der Unabhängigkeit und Autonomie der Medien folgende Maßnahmen zu treffen:
 
@@ -378,7 +400,9 @@ g) die Ausbildung von Journalisten und anderem Personal für Medien zu unterstü
 
 ## Artikel 12
 
-#### Kulturelle Tätigkeiten und Einrichtungen
+**Kulturelle Tätigkeiten und Einrichtungen**
+
+#### Art. 12
 
 (1) In bezug auf kulturelle Einrichtungen und Tätigkeiten – insbesondere Bibliotheken, Videotheken, Kulturzentren, Museen, Archive, Akademien, Theater und Kinos sowie literarische Werke und Filmproduktionen, volkstümliche Formen des kulturellen Ausdrucks, Festspiele und die Kulturindustrien, einschließlich unter anderem des Einsatzes neuer Technologien – verpflichten sich die Vertragsparteien, in dem Gebiet, in dem solche Sprachen gebraucht werden, in dem Ausmaß, in dem die staatlichen Stellen in diesem Bereich Zuständigkeit, Befugnisse oder Einfluß haben:
 
@@ -404,7 +428,9 @@ h) wenn nötig Übersetzungs- und Terminologieforschungsdienste zu schaffen und/
 
 ## Artikel 13
 
-#### Wirtschaftliches und soziales Leben
+**Wirtschaftliches und soziales Leben**
+
+#### Art. 13
 
 (1) In bezug auf wirtschaftliche und soziale Tätigkeiten verpflichten sich die Vertragsparteien, im ganzen Land:
 
@@ -430,7 +456,9 @@ e) dafür zu sorgen, daß Informationen der zuständigen staatlichen Stellen üb
 
 ## Artikel 14
 
-#### Grenzüberschreitender Austausch
+**Grenzüberschreitender Austausch**
+
+#### Art. 14
 
 Die Vertragsparteien verpflichten sich:
 
@@ -442,7 +470,9 @@ b) zugunsten von Regional- oder Minderheitensprachen die grenzüberschreitende Z
 
 ### Artikel 15
 
-#### Regelmäßige Berichte
+**Regelmäßige Berichte**
+
+#### Art. 15
 
 (1) Die Vertragsparteien legen dem Generalsekretär des Europarats in einer vom Ministerkomitee zu bestimmenden Form in regelmäßigen Abständen einen Bericht über ihre in Übereinstimmung mit Teil II dieser Charta verfolgte Politik und über die in Anwendung der von ihnen angenommenen Bestimmungen des Teiles III getroffenen Maßnahmen vor. Der erste Bericht wird innerhalb des Jahres vorgelegt, das auf das Inkrafttreten der Charta für die betreffende Vertragspartei folgt, die weiteren Berichte in Abständen von drei Jahren nach Vorlage des ersten Berichts.
 
@@ -450,7 +480,9 @@ b) zugunsten von Regional- oder Minderheitensprachen die grenzüberschreitende Z
 
 ## Artikel 16
 
-#### Prüfung der Berichte
+**Prüfung der Berichte**
+
+#### Art. 16
 
 (1) Die dem Generalsekretär des Europarats nach Artikel 15 vorgelegten Berichte werden von einem nach Artikel 17 eingesetzten Sachverständigenausschuß geprüft.
 
@@ -464,7 +496,9 @@ b) zugunsten von Regional- oder Minderheitensprachen die grenzüberschreitende Z
 
 ## Artikel 17
 
-#### Sachverständigenausschuß
+**Sachverständigenausschuß**
+
+#### Art. 17
 
 (1) Der Sachverständigenausschuß besteht aus einem Mitglied je Vertragspartei, das vom Ministerkomitee aus einer Liste von durch die betreffende Vertragspartei vorgeschlagenen Persönlichkeiten von höchster Integrität und anerkannter Sachkenntnis in den durch die Charta erfaßten Angelegenheiten ausgewählt wird.
 

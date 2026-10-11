@@ -1,0 +1,110 @@
+---
+title: "Teilnahme Österreichs am Datenrelais-Satellitensystem – Durchführung"
+identifier: "10009626"
+type: treaty
+ris_type: "Vertrag – Europ. Weltraumorg."
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 140/1987"
+last_amended: 1986-04-16
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1987/140/P0/NOR11009817"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009626"
+retrieved: 2026-10-11
+documents: 13
+---
+
+# Teilnahme Österreichs am Datenrelais-Satellitensystem – Durchführung
+
+EUROPÄISCHE WELTRAUMORGANISATION GEMEINSAMER PROGRAMMRAT FÜR NACHRICHTENSATELLITENPROGRAMME
+
+Vorbereitungsprogramm für ein Datenrelais-Satellitensystem Entwurf von Durchführungsvorschriften
+
+StF: BGBl. Nr. 140/1987
+
+## Präambel/Promulgationsklausel
+
+Der Rat –
+
+GESTÜTZT auf die Entschließung ESA/C/LXXI/Res. 1 (Final) vom 23. Oktober 1985;
+
+GESTÜTZT auf die am 27. Januar 1986 erstellte Erklärung ESA/JCB/LXVIII/Dec. (Final);
+
+GESTÜTZT auf das Übereinkommen der Organisation –
+
+KOMMT ÜBEREIN, daß das Vorbereitungsprogramm für ein Datenrelais-Satellitensystem nach folgenden Vorschriften durchgeführt wird:
+
+## Artikel 1
+
+(1) Gegenstand dieser Vorschriften ist die Festlegung der Bedingungen für die Durchführung des Vorbereitungsprogramms, dessen Ziele und Inhalt in Anlage A der in der Präambel genannten Erklärung beschrieben sind.
+
+(2) Sofern diese Durchführungsvorschriften oder die in der Präambel genannte Erklärung nichts anderes bestimmen, führt die Organisation dieses Vorbereitungsprogramm nach ihren geltenden Regeln und Verfahren durch.
+
+## Artikel 2
+
+Die Organisation nimmt insbesondere folgende Aufgaben wahr:
+
+– Sie veranlaßt und leitet die in Anlage A der Erklärung beschriebenen Industriearbeiten;
+
+– sie erstattet dem JCB über den Stand des Vorbereitungsprogramms Bericht;
+
+– sie nimmt Verbindung zu den potentiellen Nutzern des DRS-Systems auf, um sicherzustellen, daß deren Anforderungen beim Entwurf und Betrieb des Systems angemessen Rechnung getragen wird;
+
+– sie arbeitet einen Programmvorschlag für die Durchführung der Entwicklungs- und Einsatzphase des DRS-Programms aus.
+
+## Artikel 3
+
+Der Gemeinsame Programmrat für Nachrichtensatellitenprogramme, der im Rahmen der ihm vom Rat übertragenen Befugnisse handelt,
+
+– verfolgt und überwacht die Durchführung des Vorbereitungsprogramms und faßt alle dieses betreffenden Beschlüsse;
+
+– genehmigt den Jahreshaushaltsplan;
+
+– prüft den Programmvorschlag für die Entwicklungs- und Einsatzphase des DRS-Programms.
+
+## Artikel 4
+
+(1) Die Teilnehmerstaaten leisten zu den sich aus der Durchführung des Vorbereitungsprogramms ergebenden Kosten Beiträge nach Maßgabe der in der Präambel genannten Erklärung.
+
+(2) Bei Änderungen des Preisniveaus und der Umrechnungskurse wird der in der Erklärung genannte Finanzrahmen nach den in der Organisation geltenden Regeln revidiert.
+
+## Artikel 5
+
+Die Organisation schließt die für die Durchführung des Vorbereitungsprogramms erforderlichen Verträge nach ihren geltenden Regeln und Verfahren. Bei der Vergabe der Verträge für die Durchführung dieses Programms wird unter Berücksichtigung von Kapitel III der Entschließung ESA/C-M/LXVII/Res. 1 (Final) vom 31. Januar 1985 der Ausführung der Arbeiten im Hoheitsgebiet der Teilnehmerstaaten der Vorzug gegeben.
+
+## Artikel 6
+
+(1) Bei der Vergabe der Verträge und Unterverträge für die Durchführung des Vorbereitungsprogramms sichert die Organisation sich und den Teilnehmerstaaten die Schutzrechte an den Erfindungen und technischen Daten, die sich aus dem Vorbereitungsprogramm ergeben, wozu auch das Zugangs-, Weitergabe- und Nutzungsrecht an den technischen Daten gehört.
+
+(2) Schutzrechte, die sich aus den im Rahmen des Vorbereitungsprogramms finanzierten Experimenten und Erprobungen ergeben, bleiben den Teilnehmerstaaten vorbehalten. Die Organisation, die für die Teilnehmerstaaten handelt, ist jedoch Eigentümerin dieser Rechte.
+
+(3) Ist zur Durchführung des Vorbereitungsprogramms die Beteiligung Dritter erforderlich, kann die Organisation im Rahmen einer Vereinbarung diesen Dritten auf der Grundlage der Gegenseitigkeit Zugang zu den bei den Experimenten und Erprobungen gewonnenen Daten gewähren und ihnen deren Nutzung gestatten.
+
+## Artikel 7
+
+Die Organisation, die für die Teilnehmerstaaten handelt, ist Eigentümerin der im Rahmen des Vorbereitungsprogramms geschaffenen und von ihr finanzierten Sachen sowie der zu seiner Durchführung erworbenen Anlagen, Software und Geräte. Über die Bedingungen für die etwaige Übertragung des Eigentums entscheidet der Rat.
+
+## Artikel 8
+
+(1) Die Teilnehmerstaaten stellen die Organisation von jeder Verpflichtung frei, die sich ergeben kann, wenn sie infolge der Durchführung des Vorbereitungsprogramms völkerrechtlich haftbar gemacht wird.
+
+(2) Alle von der Organisation im Rahmen des Vorbereitungsprogramms erhaltenen Entschädigungsbeträge werden in den Jahreshaushaltsplänen dieses Programms als Einnahmen verbucht.
+
+## Artikel 9
+
+Streitigkeiten über die Auslegung oder Anwendung dieser Durchführungsvorschriften werden nach Artikel XVII des EWO-Übereinkommens beigelegt.
+
+## Artikel 10
+
+(1) Regierungen von Mitgliedstaaten der Organisation, die die in der Präambel genannte Erklärung nicht angenommen haben, können Teilnehmerstaaten werden, indem sie der Erklärung später beitreten und diese Durchführungsvorschriften annehmen, sofern alle anderen Teilnehmerstaaten einverstanden sind. Die betreffenden Regierungen unterrichten hiervon die Teilnehmerstaaten.
+
+(2) Regierungen von Nichtmitgliedstaaten können einen Antrag auf Teilnahme an diesem Vorbereitungsprogramm stellen. Der Generaldirektor legt diesen Antrag dem Rat vor, der einstimmig und im Einvernehmen mit den Teilnehmerstaaten darüber entscheidet; die Teilnehmerstaaten legen die Bedingungen für die Beteiligung des beitretenden Staates einstimmig fest.
+
+## Artikel 11
+
+Der Programmrat bestätigt anhand eines Berichtes der Organisation den Abschluß des Vorbereitungsprogramms. Die Organisation notifiziert dies schriftlich den Teilnehmerstaaten.
+
+## Artikel 12
+
+Diese Durchführungsvorschriften können auf einstimmigen Beschluß der im Gemeinsamen Programmrat für Nachrichtensatellitenprogramme zusammentretenden Teilnehmerstaaten geändert werden. Änderungen werden dem Rat zur Genehmigung vorgelegt.

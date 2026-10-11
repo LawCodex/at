@@ -47,7 +47,9 @@ SIND wie folgt ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-### ZIELSETZUNGEN
+**ZIELSETZUNGEN**
+
+### Art. 1
 
 (a) Wirkungsbereich. Das von den Vertragschließenden Parteien im Rahmen dieses Übereinkommens auszuführende Programm umfaßt gemeinsame Forschung und Entwicklung, Demonstrationsanlagen und den Austausch von Informationen über die Anwendung von Wärmepumpen zur rationellen Energieverwendung.
 
@@ -57,7 +59,9 @@ SIND wie folgt ÜBEREINGEKOMMEN:
 
 ## Artikel 2
 
-### DAS EXEKUTIVKOMITEE
+**DAS EXEKUTIVKOMITEE**
+
+### Art. 2
 
 (a) Oberaufsicht. Die Aufsicht über das Programm obliegt dem gemäß diesem Artikel gebildeten Exekutivkomitee.
 
@@ -97,7 +101,9 @@ SIND wie folgt ÜBEREINGEKOMMEN:
 
 ## Artikel 3
 
-### DER BEAUFTRAGTE
+**DER BEAUFTRAGTE**
+
+### Art. 3
 
 (a) Bestellung. In dem Anhang zu diesem Übereinkommen ist ein Beauftragter namhaft gemacht.
 
@@ -111,7 +117,9 @@ und
 
 ## Artikel 4
 
-### DURCHFÜHRUNG UND PERSONAL
+**DURCHFÜHRUNG UND PERSONAL**
+
+### Art. 4
 
 (a) Durchführung der Projekte. Der Beauftragte ist dem Exekutivkomitee für die Durchführung seiner Aufgaben im Einklang mit diesem Übereinkommen, seinem Anhang sowie den Entscheidungen des Exekutivkomitees verantwortlich.
 
@@ -121,7 +129,9 @@ und
 
 ## Artikel 5
 
-### FINANZIERUNG
+**FINANZIERUNG**
+
+### Art. 5
 
 (a) Kosten für Forschung.
 
@@ -189,7 +199,9 @@ und
 
 ## Artikel 6
 
-### INFORMATION UND GEISTIGES EIGENTUM
+**INFORMATION UND GEISTIGES EIGENTUM**
+
+### Art. 6
 
 (a) Befugnisse des Exekutivkomitees. Die Veröffentlichung, Verteilung, Weitergabe, Sicherung sowie das Eigentum der aus der Durchführung von Tätigkeiten im Rahmen dieses Übereinkommens entstehenden Informationen sowie des daraus entstehenden geistigen Eigentums sind vom Exekutivkomitee im Einklang mit diesem Übereinkommen einstimmig festzulegen.
 
@@ -235,13 +247,17 @@ Jede Vertragschließende Partei erklärt sich damit einverstanden, den an der Ag
 
 ## Artikel 7
 
-### HAFTUNG
+**HAFTUNG**
+
+### Art. 7
 
 Keine Vertragschließende Partei ist dazu verpflichtet, einer anderen Vertragschließenden Partei für die im Zuge der Durchführung des Programms erlittenen Verluste oder Schäden Ersatz- oder Beitragsleistungen zu erbringen.
 
 ## Artikel 8
 
-### LEGISLATIVE BESTIMMUNGEN
+**LEGISLATIVE BESTIMMUNGEN**
+
+### Art. 8
 
 (a) Erfüllung von Formalitäten. Jede Vertragschließende Partei hat im Rahmen der geltenden Gesetze nach besten Kräften zu trachten, die Erfüllung der Formalitäten zu erleichtern, die mit den zur Durchführung jedes oder aller in dem Anhang zu diesem Übereinkommen genannten Projekte, an denen sie sich beteiligt, erforderlichen Ortsveränderungen von Personen, Einfuhren von Material und Geräten und Geldüberweisungen verbunden sind.
 
@@ -253,7 +269,9 @@ Keine Vertragschließende Partei ist dazu verpflichtet, einer anderen Vertragsch
 
 ## Artikel 9
 
-### BEITRITT UND RÜCKTRITT VERTRAGSCHLIESSENDER PARTEIEN
+**BEITRITT UND RÜCKTRITT VERTRAGSCHLIESSENDER PARTEIEN**
+
+### Art. 9
 
 (a) Beitritt neuer Vertragschließender Parteien. Agenturländer. Auf einstimmige Einladung seitens des Exekutivkomitees steht der Beitritt zu diesem Übereinkommen der Regierung jedes an der Agentur beteiligten Landes offen (oder einer von der betreffenden Regierung namhaft gemachten nationalen Behörden, öffentlichen Körperschaft, privaten Organisation, Unternehmung oder einem sonstigen Rechtsträger), die dieses Übereinkommen unterzeichnet, die Rechte und Pflichten einer Vertragschließenden Partei übernimmt und sich bereit erklärt, mindestens ein im Anhang zu diesem Übereinkommen bezeichnetes Projekt durchzuführen. Dieser Beitritt einer Vertragschließenden Partei wird bei der Unterzeichnung dieses Übereinkommens durch die neue Vertragschließende Partei oder ihrem Beitritt dazu sowie bei der Annahme aller darauf erfolgenden Abänderungen wirksam.
 
@@ -277,7 +295,9 @@ Keine Vertragschließende Partei ist dazu verpflichtet, einer anderen Vertragsch
 
 ## Artikel 10
 
-### SCHLUSSBESTIMMUNGEN
+**SCHLUSSBESTIMMUNGEN**
+
+### Art. 10
 
 (a) Dauer des Übereinkommens. Dieses Übereinkommen bleibt zunächst für einen Zeitraum von drei Jahren ab dem Zeitpunkt seines Abschlusses in Kraft und bleibt in der Folge weiter aufrecht, solange die Vertragschließenden Parteien nicht einstimmig seine Beendigung beschließen.
 

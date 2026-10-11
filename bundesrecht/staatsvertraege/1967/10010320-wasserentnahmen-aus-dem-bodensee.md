@@ -1,0 +1,192 @@
+---
+title: "Wasserentnahmen aus dem Bodensee"
+identifier: "10010320"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 396/1967"
+last_amended: 1967-11-25
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1967/396/P0/NOR11010539"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010320"
+retrieved: 2026-10-11
+documents: 15
+---
+
+# Wasserentnahmen aus dem Bodensee
+
+ÜBEREINKOMMEN über die Regelung von Wasserentnahmen aus dem Bodensee
+
+StF: BGBl. Nr. 396/1967 (NR: GP XI RV 254 AB 391 S. 46. BR: S. 251.)
+
+**Unterzeichnungsdatum:** 30.04.1966
+
+**Vertragsparteien:** \*Deutschland/BRD 396/1967 \*Schweiz 396/1967
+
+## Präambel/Promulgationsklausel
+
+Die Bundesrepublik Deutschland, die Republik Österreich und die Schweizerische Eidgenossenschaft haben im Bestreben, bei Wasserentnahmen aus dem Bodensee den berechtigten Interessen der Anliegerstaaten angemessen Rechnung zu tragen, beschlossen, ein Übereinkommen abzuschließen, und zu ihren Bevollmächtigten ernannt:
+
+\*(Anm.: es folgen die Namen der Bevollmächtigten)*
+
+welche, nachdem sie sich ihre Vollmachten mitgeteilt und diese in guter und gehöriger Form befunden, folgendes vereinbart haben:
+
+### Art. 1 – Artikel 1
+
+(1) Die Anliegerstaaten des Bodensees, die Bundesrepublik Deutschland, die Republik Österreich und die Schweizerische Eidgenossenschaft, verpflichten sich, bei Wasserentnahmen aus dem Bodensee die Bestimmungen dieses Übereinkommens zu beachten.
+
+(2) Jeder Anliegerstaat wird bestrebt sein, bei Wasserentnahmen den berechtigten Interessen der anderen Anliegerstaaten angemessen Rechnung zu tragen.
+
+### Art. 2 – Artikel 2
+
+(1) Als Bodensee im Sinne dieses Übereinkommens gelten der Obersee und der Untersee.
+
+(2) Als Bodenseeraum im Sinne dieses Übereinkommens gelten im Gebiet der Bundesrepublik Deutschland das hydrologische Einzugsgebiet des Bodensees, im Gebiet der Republik Österreich das hydrologische Einzugsgebiet des Bodensees, im Gebiet der Schweizerischen Eidgenossenschaft das hydrologische Einzugsgebiet des Bodensees innerhalb der Kantone Appenzell beider Rhoden, St. Gallen und Thurgau sowie das Einzugsgebiet der Thur im Gebiet des Kantons Thurgau – ohne das Einzugsgebiet der Murg oberhalb der Gemeinde Frauenfeld – sowie das Einzugsgebiet der Sitter.
+
+(3) Diesem Übereinkommen unterliegen nur Wasserentnahmen von jeweils mehr als 50 l/sec.
+
+### Art. 3 – Artikel 3
+
+(1) Würde eine geplante Wasserentnahme aus dem Bodensee wichtige Interessen anderer Anliegerstaaten beeinträchtigen und kann diese Beeinträchtigung durch zumutbare Ausgleichsmaßnahmen oder Entschädigungen nicht abgewendet oder ausgeglichen werden, so ist das Interesse an der Wasserentnahme gegen die anderen Interessen in angemessener Weise abzuwägen. Bei der Interessenabwägung sind die Interessen an der Sicherung und Entwicklung der Lebens- und Wirtschaftsverhältnisse des Bodenseeraumes besonders zu berücksichtigen. Dies gilt insbesondere für die Interessen auf dem Gebiet der verschiedenen Wassernutzungen am Bodensee, der Schiffahrt, der Fischerei, der Seeregulierung, des Landschaftsschutzes und der Energiewirtschaft.
+
+(2) Wasserentnahmen aus dem Bodensee begründen keinen Anspruch auf Zufluß von Wasser einer bestimmten Menge und Beschaffenheit.
+
+(3) Die Maßnahmen zur Reinhaltung des Bodensees bestimmen sich nach dem Übereinkommen vom 27. Oktober 1960 über den Schutz des Bodensees gegen Verunreinigung.
+
+### Art. 4 – Artikel 4
+
+Entstehen in der Folge durch Wasserentnahmen nicht vorausgesehene Schäden, die nach Völkerrecht zu ersetzen sind, so verständigen sich die Anliegerstaaten über Art und Ausmaß des Schadenersatzes.
+
+### Art. 5 – Artikel 5
+
+Sind infolge des Zusammenwirkens mehrerer Wasserentnahmen gemäß Artikel 3 oder 4 Ausgleichsmaßnahmen zu treffen, Entschädigungen zu gewähren oder Schadenersatz zu leisten, so haben sich daran die Anliegerstaaten nach dem Umfang ihrer hierfür ursächlichen Wasserentnahmen zu beteiligen.
+
+### Art. 6 – Artikel 6
+
+Die Anliegerstaaten werden einander über alle Wasserentnahmen aus dem Bodensee, die nicht gemäß Artikel 7 zu behandeln sind, unverzüglich unterrichten. Die Fachbehörden verkehren hierbei unmittelbar miteinander.
+
+### Art. 7 – Artikel 7
+
+Die Anliegerstaaten werden in folgenden Fällen vor der Zulassung von Wasserentnahmen einander rechtzeitig Gelegenheit zur Stellungnahme geben:
+
+a) bei vorgesehener Verwendung außerhalb des hydrologischen Einzugsgebietes des Bodensees, wenn die zuzulassende Menge jeweils 750 l/sec übersteigt;
+
+b) bei vorgesehener Verwendung innerhalb des hydrologischen Einzugsgebietes des Bodensees, wenn die zuzulassende Menge jeweils 1 500 l/sec übersteigt.
+
+### Art. 8 – Artikel 8
+
+(1) Werden in Stellungnahmen nach Artikel 7 Einwände gemäß Artikel 3 erhoben, so ist der Fall einem Konsultationsausschuß zur fachlichen Beratung mit dem Ziel zu unterbreiten, eine Einigung vorzubereiten. Ebenso ist in den Fällen der Artikel 4 und 5 zu verfahren.
+
+(2) Der Konsultationsausschuß setzt sich aus je einem Vertreter der Anliegerstaaten zusammen. Die Vertreter können von Beratern begleitet sein.
+
+(3) In Angelegenheiten, die ausschließlich den Untersee berühren, zählen nur die Stimmen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft.
+
+(4) Jeder Anliegerstaat kann verlangen, daß der Konsultationsausschuß zur Behandlung sonstiger Fragen von Wasserentnahmen zusammentritt.
+
+### Art. 9 – Artikel 9
+
+(1) Gelangen die Anliegerstaaten auf Grund der Verhandlungen im Konsultationsausschuß über eine Angelegenheit nach Artikel 8 Absatz 1 zu keiner Einigung, so soll sie auf diplomatischem Wege gesucht werden.
+
+(2) Wird auch auf diplomatischem Wege keine Einigung erzielt, so kann jeder interessierte Anliegerstaat verlangen, daß der Fall einer Schiedskommission unterbreitet wird.
+
+### Art. 10 – Artikel 10
+
+(1) Die Schiedskommission besteht aus drei Mitgliedern. Diese dürfen nicht Angehörige eines der Anliegerstaaten sein; sie dürfen nicht mit dem Fall in anderem Zusammenhang bereits befaßt gewesen sein.
+
+(2) Jede der am Schiedsverfahren beteiligten Parteien bestellt ein Mitglied der Schiedskommission. Besteht eine Partei aus zwei Anliegerstaaten, so bestellen diese ein Mitglied im gemeinsamen Einvernehmen. Die beiden von den Parteien bestellten Mitglieder wählen einen Obmann.
+
+(3) Hat eine der Parteien ihr Mitglied nicht innerhalb von zwei Monaten nach Notifikation des Antrages auf Einleitung des Schiedsverfahrens bestellt, so wird das Mitglied auf Antrag der Gegenpartei vom Präsidenten des Europäischen Gerichtshofes für Menschenrechte bezeichnet.
+
+(4) Können sich die beiden Mitglieder nicht innerhalb von zwei Monaten nach ihrer Bestellung auf einen Obmann einigen, so wird dieser auf Antrag einer der Parteien vom Präsidenten des Europäischen Gerichtshofes für Menschenrechte bezeichnet.
+
+(5) Ist in einem der in den Absätzen 3 und 4 erwähnten Fälle der Präsident des Europäischen Gerichtshofes für Menschenrechte verhindert oder ist er Angehöriger eines Anliegerstaates, so wird die Bezeichnung vom Vizepräsidenten vorgenommen. Ist auch dieser verhindert oder Angehöriger eines Anliegerstaates, so nimmt das amtsälteste Mitglied des Gerichtshofes, das nicht Angehöriger eines Anliegerstaates ist, die Bezeichnung vor.
+
+### Art. 11 – Artikel 11
+
+(1) Die Schiedskommission wirkt in jeden Stadium des Verfahrens auf eine gütliche Erledigung des Falles hin. Erweist sich eine solche Erledigung als nicht möglich, so fällt die Kommission mit Stimmenmehrheit eine Entscheidung. Diese Entscheidung ist endgültig und für alle Anliegerstaaten verbindlich.
+
+(2) Die Schiedskommission legt ihren Vergleichsvorschlägen und Entscheidungen zugrunde:
+
+– die Bestimmungen dieses Übereinkommens;
+
+– die zwischen den Anliegerstaaten geltenden einschlägigen Übereinkünfte allgemeiner oder besonderer Art;
+
+– die allgemeinen Rechtsgrundsätze.
+
+### Art. 12 – Artikel 12
+
+(1) Falls die Parteien nicht etwas anderes vereinbaren, setzt die Schiedskommission ihre eigenen Verfahrensregeln fest.
+
+(2) Der am Schiedsverfahren nicht als Partei beteiligte Anliegerstaat kann dem Verfahren jederzeit als Nebenintervenient beitreten.
+
+### Art. 13 – Artikel 13
+
+(1) Das vorliegende Übereinkommen bedarf der Ratifikation. Die Ratifikationsurkunden sollen so bald wie möglich bei der Regierung der Schweizerischen Eidgenossenschaft hinterlegt werden. Es tritt dreißig Tage nach Hinterlegung der letzten Ratifikationsurkunde in Kraft.
+
+(2) Das Übereinkommen bleibt in Kraft, solange es nicht von einem Anliegerstaat mit einer Frist von sechs Monaten auf Jahresende gekündigt worden ist.
+
+Zu Urkund dessen haben die Bevollmächtigten der Anliegerstaaten dieses Übereinkommen unterzeichnet.
+
+Geschehen in dreifacher Ausfertigung zu Bern, am 30. April 1966.
+
+## Schlußprotokoll
+
+### Anl. 1
+
+Zwischen den Anliegerstaaten des Bodensees besteht Übereinstimmung über folgende Punkte:
+
+**1 Zu Artikel 3 Absatz 1:**
+
+Keine Berücksichtigung finden Interessen, welche durch den Verwendungserfolg des entnommenen Wassers beeinträchtigt werden können und deren Beeinträchtigung nicht in einem adäquaten ursächlichen Zusammenhang mit der Entnahme als solcher steht. So können zum Beispiel Einwendungen gegen eine Wasserentnahme nicht darauf gestützt werden, daß die Verwendung des entnommenen Wassers die Wirtschaftskraft eines bestimmten Gebietes stärken und dadurch die Interessen eines Anliegerstaates beeinträchtigen könnte.
+
+Der letzte Satz dieser Bestimmung stellt keine Einschränkung des Begriffes „Lebens- und Wirtschaftsverhältnisse“ auf die dort genannten Interessen dar.
+
+**2 Zu Artikel 3 Absatz 2:**
+
+Anderweitig begründete Rechtsansprüche werden durch diese Bestimmung nicht berührt.
+
+**3 Zu Artikel 3 Absatz 3:**
+
+Das Übereinkommen über den Schutz des Bodensees gegen Verunreinigung vom 27. Oktober 1960 bleibt unberührt.
+
+**4 Zu Artikel 6:**
+
+Fachbehörden im Sinne dieser Bestimmung sind:
+
+Für die Bundesrepublik Deutschland:
+
+das Innenministerium Baden-Württemberg und das Bayerische
+
+Staatsministerium des Innern;
+
+für die Republik Österreich:
+
+das Amt der Vorarlberger Landesregierung;
+
+für die Schweizerische Eidgenossenschaft:
+
+das Baudepartement des Kantons St. Gallen und das Straßen- und Baudepartement des Kantons Thurgau.
+
+Die Fachbehörden werden einander die im Zeitpunkt des Inkrafttretens des Übereinkommens zur Regelung von Wasserentnahmen aus dem Bodensee bereits bestehenden Wasserentnahmen aus dem Bodensee innerhalb eines Jahres mitteilen.
+
+**5 Zu Artikel 13:**
+
+Dieses Übereinkommen findet, mit Ausnahme von Artikel 5, nur auf künftige Wasserentnahmen Anwendung. Die geltenden Regelungen für bestehende Wasserentnahmen werden durch dieses Übereinkommen nicht berührt.
+
+Geschehen zu Bern, in dreifacher Ausfertigung, am 30. April 1966.
+
+## Ratifikationstext
+
+Das vorliegende Übereinkommen ist gemäß seinem Artikel 13 Absatz 1 am 25. November 1967 in Kraft getreten.
+
+## Sonstige Textteile
+
+Nachdem das Übereinkommen über die Regelung von Wasserentnahmen aus dem Bodensee, welches also lautet: ...
+
+die verfassungsmäßige Genehmigung des Nationalrates erhalten hat, erklärt der Bundespräsident dieses Übereinkommen für ratifiziert und verspricht im Namen der Republik Österreich die gewissenhafte Erfüllung der darin enthaltenen Bestimmungen.
+
+Zu Urkund dessen ist die vorliegende Ratifikationsurkunde vom Bundespräsidenten unterzeichnet, vom Bundeskanzler, vom Bundesminister für Finanzen, vom Bundesminister für Land- und Forstwirtschaft, vom Bundesminister für Handel, Gewerbe und Industrie, vom Bundesminister für Verkehr und verstaatlichte Unternehmungen und vom Bundesminister für Auswärtige Angelegenheiten gegengezeichnet und mit dem Staatssiegel der Republik Österreich versehen worden.
+
+Geschehen zu Wien, am 19. April 1967

@@ -33,7 +33,9 @@ DURCH ihre Vertreter wie folgt übereingekommen:
 
 ## TEIL I
 
-### Allgemeine Bestimmungen
+**Allgemeine Bestimmungen**
+
+### Art. 1
 
 1\. Guatemala wird, sobald dieses Protokoll gemäß Abs. 6 in Kraft tritt, zu einer Vertragspartei des Allgemeinen Abkommens im Sinne seines Artikels XXXII und wendet den Vertragsparteien gegenüber vorläufig und nach Maßgabe dieses Protokolls an:
 

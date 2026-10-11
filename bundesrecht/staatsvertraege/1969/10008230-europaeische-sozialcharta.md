@@ -105,7 +105,9 @@ Die Vertragsparteien erachten sich durch die in den folgenden Artikeln und Absä
 
 ## Artikel 1
 
-#### DAS RECHT AUF ARBEIT
+**DAS RECHT AUF ARBEIT**
+
+#### Art. 1
 
 Um die wirksame Ausübung des Rechtes auf Arbeit zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -119,7 +121,9 @@ Um die wirksame Ausübung des Rechtes auf Arbeit zu gewährleisten, verpflichten
 
 ## Artikel 2
 
-#### DAS RECHT AUF GERECHTE ARBEITSBEDINGUNGEN
+**DAS RECHT AUF GERECHTE ARBEITSBEDINGUNGEN**
+
+#### Art. 2
 
 Um die wirksame Ausübung des Rechtes auf gerechte Arbeitsbedingungen zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -135,7 +139,9 @@ Um die wirksame Ausübung des Rechtes auf gerechte Arbeitsbedingungen zu gewähr
 
 ## Artikel 3
 
-#### DAS RECHT AUF SICHERE UND GESUNDE ARBEITSBEDINGUNGEN
+**DAS RECHT AUF SICHERE UND GESUNDE ARBEITSBEDINGUNGEN**
+
+#### Art. 3
 
 Um die wirksame Ausübung des Rechtes auf sichere und gesunde Arbeitsbedingungen zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -147,7 +153,9 @@ Um die wirksame Ausübung des Rechtes auf sichere und gesunde Arbeitsbedingungen
 
 ## Artikel 4
 
-#### DAS RECHT AUF EIN GERECHTES ARBEITSENTGELT
+**DAS RECHT AUF EIN GERECHTES ARBEITSENTGELT**
+
+#### Art. 4
 
 Um die wirksame Ausübung des Rechtes auf ein gerechtes Arbeitsentgelt zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -165,13 +173,17 @@ Die Ausübung dieser Rechte ist durch frei abgeschlossene Gesamtarbeitsverträge
 
 ## Artikel 5
 
-#### DAS VEREINIGUNGSRECHT
+**DAS VEREINIGUNGSRECHT**
+
+#### Art. 5
 
 Um den Arbeitnehmern und Arbeitgebern die Freiheit zur Bildung örtlicher, innerstaatlicher oder internationaler Organisationen zum Schutze ihrer wirtschaftlichen und sozialen Belange und zum Beitritt zu diesen Organisationen zu gewährleisten oder zu fördern, verpflichten sich die Vertragsparteien, diese Freiheit weder durch die innerstaatliche Gesetzgebung noch durch deren Anwendung zu beeinträchtigen. Die innerstaatlichen Rechtsvorschriften bestimmen, inwieweit die in diesem Absatz vorgesehenen Garantien auf die Polizei Anwendung finden. Der Grundsatz für die Anwendung dieser Garantien auf Angehörige der Streitkräfte und gegebenenfalls ihr Umfang werden gleichfalls durch die innerstaatlichen Rechtsvorschriften bestimmt.
 
 ## Artikel 6
 
-#### DAS RECHT AUF KOLLEKTIVER HANDLUNGEN
+**DAS RECHT AUF KOLLEKTIVER HANDLUNGEN**
+
+#### Art. 6
 
 Um die wirksame Ausübung des Rechtes auf Kollektivverhandlungen zu gewährleisten, verpflichten sich die Vortragsparteien:
 
@@ -185,7 +197,9 @@ Um die wirksame Ausübung des Rechtes auf Kollektivverhandlungen zu gewährleist
 
 ## Artikel 7
 
-#### DAS RECHT DER KINDER UND JUGENDLICHEN AUF SCHUTZ
+**DAS RECHT DER KINDER UND JUGENDLICHEN AUF SCHUTZ**
+
+#### Art. 7
 
 Um die wirksam Ausübung des Rechtes der Kinder und Jugendlichen auf Schutz zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -211,7 +225,9 @@ Um die wirksam Ausübung des Rechtes der Kinder und Jugendlichen auf Schutz zu g
 
 ## Artikel 8
 
-#### DAS RECHT DER ARBEITNEHMERINNEN AUF SCHUTZ
+**DAS RECHT DER ARBEITNEHMERINNEN AUF SCHUTZ**
+
+#### Art. 8
 
 Um die wirksame Ausübung des Rechtes der Arbeitnehmerinnen auf Schutz zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -227,13 +243,17 @@ b) jede Beschäftigung von Arbeitnehmerinnen mit Untertagearbeiten in Bergwerken
 
 ## Artikel 9
 
-#### DAS RECHT AUF BERUFSBERATUNG
+**DAS RECHT AUF BERUFSBERATUNG**
+
+#### Art. 9
 
 Um die wirksame Ausübung des Rechtes auf Berufsberatung zu gewährleisten, verpflichten sich die Vertragsparteien, einen Dienst einzurichten oder zu fördern, soweit dies notwendig ist, der allen Personen, einschließlich der Behinderten, hilft, die Probleme der Berufswahl oder des beruflichen Aufstieges zu lösen, und zwar unter Berücksichtigung ihrer persönlichen Eigenschaften und deren Beziehungen zu den Beschäftigungsmöglichkeiten; diese Hilfe soll sowohl Jugendlichen einschließlich Kindern schulpflichtigen Alters als auch Erwachsenen unentgeltlich zur Verfügung stehen.
 
 ## Artikel 10
 
-#### DAS RECHT AUF BERUFLICHE AUSBILDUNG
+**DAS RECHT AUF BERUFLICHE AUSBILDUNG**
+
+#### Art. 10
 
 Um die wirksame Ausübung des Rechtes auf berufliche Ausbildung zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -259,7 +279,9 @@ d) Gewährleistung einer wirksamen Lehrlingsausbildung für jugendliche Arbeitne
 
 ## Artikel 11
 
-#### DAS RECHT AUF SCHUTZ DER GESUNDHEIT
+**DAS RECHT AUF SCHUTZ DER GESUNDHEIT**
+
+#### Art. 11
 
 Um die wirksame Ausübung des Rechtes auf Schutz der Gesundheit zu gewährleisten, verpflichten sich die Vertragsparteien, entweder unmittelbar oder in Zusammenarbeit mit öffentlichen oder privaten Organisationen geeignete Maßnahmen zu ergreifen, die unter anderem darauf abzielen:
 
@@ -271,7 +293,9 @@ Um die wirksame Ausübung des Rechtes auf Schutz der Gesundheit zu gewährleiste
 
 ## Artikel 12
 
-#### DAS RECHT AUF SOZIALE SICHERHEIT
+**DAS RECHT AUF SOZIALE SICHERHEIT**
+
+#### Art. 12
 
 Um die wirksame Ausübung des Rechtes auf Soziale Sicherheit zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -289,7 +313,9 @@ b) die Gewährung, (die Erhaltung und das Wiederaufleben von Ansprüchen aus der
 
 ## Artikel 13
 
-#### DAS RECHT AUF SOZIALE UND ÄRZTLICHE HILFE (FÜRSORGE)
+**DAS RECHT AUF SOZIALE UND ÄRZTLICHE HILFE (FÜRSORGE)**
+
+#### Art. 13
 
 Um die wirksame Ausübung des Rechtes auf soziale und ärztliche Hilfe zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -303,7 +329,9 @@ Um die wirksame Ausübung des Rechtes auf soziale und ärztliche Hilfe zu gewäh
 
 ## Artikel 14
 
-#### DAS RECHT AUF INANSPRUCHNAHME SOZIALER DIENSTE
+**DAS RECHT AUF INANSPRUCHNAHME SOZIALER DIENSTE**
+
+#### Art. 14
 
 Um die wirksame Ausübung des Rechtes auf Inanspruchnahme sozialer Dienste zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -313,7 +341,9 @@ Um die wirksame Ausübung des Rechtes auf Inanspruchnahme sozialer Dienste zu ge
 
 ## Artikel 15
 
-#### DAS RECHT DER KÖRPERLICH ODER GEISTIG BEHINDERTEN AUF BERUFLICHE AUSBILDUNG SOWIE AUF BERUFLICHE UND SOZIALE WIEDEREINGLIEDERUNG
+**DAS RECHT DER KÖRPERLICH ODER GEISTIG BEHINDERTEN AUF BERUFLICHE AUSBILDUNG SOWIE AUF BERUFLICHE UND SOZIALE WIEDEREINGLIEDERUNG**
+
+#### Art. 15
 
 Um die wirksame Ausübung des Rechtes der körperlich öder geistig Behinderten auf berufliche Ausbildung sowie auf berufliche und Soziale Wiedereingliederung zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -323,19 +353,25 @@ Um die wirksame Ausübung des Rechtes der körperlich öder geistig Behinderten 
 
 ## Artikel 16
 
-#### DAS RECHT DER FAMILIE AUF SOZIALEN, GESETZLICHEN UND WIRTSCHAFTLICHEN SCHUTZ
+**DAS RECHT DER FAMILIE AUF SOZIALEN, GESETZLICHEN UND WIRTSCHAFTLICHEN SCHUTZ**
+
+#### Art. 16
 
 Um die erforderlichen Voraussetzungen für die Entfaltung der Familie als der Grundeinheit der Gesellschaft zu schaffen, verpflichten sich die Vertragsparteien, den wirtschaftlichen, gesetzlichen und sozialen Schutz des Familienlebens zu fördern, insbesondere durch Sozial- und Familienleistungen steuerliche Maßnahmen, Förderung des Baues von familiengerechten Wohnungen, Hilfe für junge Eheleute oder durch andere geeignete Mittel.
 
 ## Artikel 17
 
-#### DAS RECHT DER MÜTTER UND DER KINDER AUF SOZIALEN UND WIRTSCHAFTLICHEN SCHUTZ
+**DAS RECHT DER MÜTTER UND DER KINDER AUF SOZIALEN UND WIRTSCHAFTLICHEN SCHUTZ**
+
+#### Art. 17
 
 Um die wirksame Ausübung des Rechtes der Mütter und der Kinder auf sozialen und wirtschaftlichen Schutz zu gewährleisten, werden die Vertragsparteien alle hierzu geeigneten und notwendigen Maßnahmen treffen, einschließlich der Schaffung und Beibehaltung geeigneter Einrichtungen und Dienste.
 
 ## Artikel 18
 
-#### DAS RECHT AUF AUSÜBUNG EINER ERWERBSTÄTIGKEIT IM HOHEITSGEBIET DER ANDEREN VERTRAGSPARTEIEN
+**DAS RECHT AUF AUSÜBUNG EINER ERWERBSTÄTIGKEIT IM HOHEITSGEBIET DER ANDEREN VERTRAGSPARTEIEN**
+
+#### Art. 18
 
 Um die wirksame Ausübung des Rechtes auf Ausübung einer Erwerbstätigkeit im Hoheitsgebiet jeder anderen Vertragspartei zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -351,7 +387,9 @@ und anerkennen:
 
 ## Artikel 19
 
-#### DAS RECHT DER WANDERARBEITER UND IHRER FAMILIEN AUF SCHUTZ UND BEISTAND
+**DAS RECHT DER WANDERARBEITER UND IHRER FAMILIEN AUF SCHUTZ UND BEISTAND**
+
+#### Art. 19
 
 Um die wirksame Ausübung des Rechtes der Wanderarbeiter und ihrer Familien auf Schutz und Beistand im Hoheitsgebiet jeder anderen Vertragspartei zu gewährleisten, verpflichten sich die Vertragsparteien:
 
@@ -385,7 +423,9 @@ c) die Unterkunft;
 
 ### Artikel 20
 
-#### VERPFLICHTUNGEN
+**VERPFLICHTUNGEN**
+
+#### Art. 20
 
 1\. Jede der Vertragsparteien verpflichtet sich:
 
@@ -407,19 +447,25 @@ c) Zusätzlich zu den nach Maßgabe des vorstehenden Unterabsatzes ausgewählt t
 
 ### Artikel 21
 
-#### BERICHTE ZU DEN ANGENOMMENEN BESTIMMUNGEN
+**BERICHTE ZU DEN ANGENOMMENEN BESTIMMUNGEN**
+
+#### Art. 21
 
 Die Vertragsparteien senden dem Generalsekretär des Europarates alle zwei Jahre einen Bericht in einer von dem Ministerkomitee festzulegenden Form, der die Anwendung der von ihnen angenommenen Bestimmungen des Teiles II der Charta behandelt.
 
 ## Artikel 22
 
-#### BERICHTE OBER NICHTANGENOMMENE BESTIMMUNGEN
+**BERICHTE OBER NICHTANGENOMMENE BESTIMMUNGEN**
+
+#### Art. 22
 
 Die Vertragsparteien senden dem Generalsekretär des Europarates in angemessenen vom Ministerkomitee zu bestimmenden Zeitabständen Berichte über die Bestimmungen des Teiles II der Charta, die sie weder zum Zeitpunkt ihrer Ratifikation oder Annahme noch durch eine spätere Mitteilung angenommen haben. Das Ministerkomitee beschließt von Zeit zu Zeit, über welche Bestimmungen solche Berichte angefordert werden und in welcher Form sie vorzulegen sind.
 
 ## Artikel 23
 
-#### ZUSTELLUNG VON ABSCHRIFTEN
+**ZUSTELLUNG VON ABSCHRIFTEN**
+
+#### Art. 23
 
 1\. Jede Vertragspartei übermittelt Abschriften ihrer Berichte nach den Artikeln 21 und 22 an diejenigen innerstaatlichen Organisationen, die Mitglieder der internationalen Arbeitgeberund Arbeitnehmerorganisationen sind, die gemäß Artikel 27 Absatz 2 eingeladen werden sollen, sich auf den Tagungen des Unterausschusses des Sozialausschusses der Regierungen vertreten zu lassen.
 
@@ -427,13 +473,17 @@ Die Vertragsparteien senden dem Generalsekretär des Europarates in angemessenen
 
 ## Artikel 24
 
-#### PRÜFUNG DER BERICHTE
+**PRÜFUNG DER BERICHTE**
+
+#### Art. 24
 
 Die dem Generalsekretär nach den Artikeln 21 und 22 übersandten Berichte werden von einem Sachverständigenausschuß geprüft, dem ebenfalls alle dem Generalsekretär nach Artikel 23 Absatz 2 übersandten Stellungnahmen vorliegen.
 
 ## Artikel 25
 
-#### SACHVERSTÄNDIGENAUSSCHUSS
+**SACHVERSTÄNDIGENAUSSCHUSS**
+
+#### Art. 25
 
 1\. Der Sachverständigenausschuß besteht aus höchstens sieben Mitgliedern, die vom Ministerkomitee aus einer Liste unabhängiger von den Vertragsparteien vorgeschlagener Sachverständiger von höchster Integrität und anerkannter Sachkenntnis in sozialen internationalen Fragen ernannt werden.
 
@@ -445,13 +495,17 @@ Die dem Generalsekretär nach den Artikeln 21 und 22 übersandten Berichte werde
 
 ## Artikel 26
 
-#### BETEILIGUNG DER INTERNATIONALEN ARBEITSORGANISATION
+**BETEILIGUNG DER INTERNATIONALEN ARBEITSORGANISATION**
+
+#### Art. 26
 
 Die Internationale Arbeitsorganisation ist einzuladen, einen Vertreter namhaft zu machen, der in beratender Eigenschaft an den Verhandlungen des Sachverständigenausschusses teilnimmt.
 
 ## Artikel 27
 
-#### UNTERAUSSCHUSS DES SOZIALAUSSCHUSSES DER REGIERUNGEN
+**UNTERAUSSCHUSS DES SOZIALAUSSCHUSSES DER REGIERUNGEN**
+
+#### Art. 27
 
 1\. Die Berichte der Vertragsparteien und die Schlußfolgerungen des Sachverständigenausschusses werden einem Unterausschuß des Sozialausschusses der Regierungen des Europarates zur Prüfung vorgelegt.
 
@@ -461,13 +515,17 @@ Die Internationale Arbeitsorganisation ist einzuladen, einen Vertreter namhaft z
 
 ## Artikel 28
 
-#### BERATENDE VERSAMMLUNG
+**BERATENDE VERSAMMLUNG**
+
+#### Art. 28
 
 Der Generalsekretär des Europarates übermittelt der Beratenden Versammlung die Schlußfolgerungen des Sachverständigenausschusses. Die Beratende Versammlung teilt dem Ministerkomitee ihre Ansicht über diese Schlussfolgerungen mit.
 
 ## Artikel 29
 
-#### MINISTERKOMITEE
+**MINISTERKOMITEE**
+
+#### Art. 29
 
 Das Ministerkomitee kann mit Zweidrittelmehrheit der zur Teilnahme an den Sitzungen des Komitees berechtigten Mitglieder auf Grund des Berichtes des Unterausschusses und nachdem es die Beratende Versammlung zu Rate gezogen hat, an jede Vertragspartei alle notwendigen Empfehlungen richten.
 
@@ -475,7 +533,9 @@ Das Ministerkomitee kann mit Zweidrittelmehrheit der zur Teilnahme an den Sitzun
 
 ### Artikel 30
 
-#### NOTSTANDSKLAUSEL
+**NOTSTANDSKLAUSEL**
+
+#### Art. 30
 
 1\. In Kriegszeiten öder bei einem anderen öffentlichen Notstand, der das Leben der Nation bedroht, kann jede Vertragspartei Maßnahmen treffen, um sich von den in dieser Charta vorgesehenen Verpflichtungen soweit zu befreien, als dies nach der Lage unbedingt erforderlich ist, vorausgesetzt, daß diese Maßnahme nicht mit ihren anderen völkerrechtlichen Verpflichtungen in Widerspruch stehen.
 
@@ -485,7 +545,9 @@ Das Ministerkomitee kann mit Zweidrittelmehrheit der zur Teilnahme an den Sitzun
 
 ## Artikel 31
 
-#### EINSCHRÄNKUNGEN
+**EINSCHRÄNKUNGEN**
+
+#### Art. 31
 
 1\. Die in Teil I niedergelegten Rechte und Grundsätze dürfen nach ihrer endgültigen Verwirklichung ebenso wie ihre in Teil II vorgesehene wirksame Ausübung anderen als den in diesen Teilen vorgesehenen Einschränkungen oder Begrenzungen nur unterliegen, wenn diese gesetzlich vorgeschrieben und in einer demokratischen Gesellschaft zum Schutz der Rechte und Freiheiten anderer oder zum Schutz der öffentlichen Ordnung (ordre public), der Staatssicherheit, der öffentlichen Gesundheit und der Sittlichkeit notwendig sind.
 
@@ -493,13 +555,17 @@ Das Ministerkomitee kann mit Zweidrittelmehrheit der zur Teilnahme an den Sitzun
 
 ## Artikel 32
 
-#### VERHÄLTNIS ZWISCHEN DER CHARTA UND DEM INNERSTAATLICHEN RECHT SOWIE DEN INTERNATIONALEN ABKOMMEN
+**VERHÄLTNIS ZWISCHEN DER CHARTA UND DEM INNERSTAATLICHEN RECHT SOWIE DEN INTERNATIONALEN ABKOMMEN**
+
+#### Art. 32
 
 Die Bestimmungen dieser Charta lassen geltende oder in Zukunft in Kraft tretende Bestimmungen des innerstaatlichen Rechtes oder zwei- und mehrseitige Verträge, Übereinkommen und Abkommen unberührt, die den geschützten Personen eine günstigere Behandlung einräumen.
 
 ## Artikel 33
 
-#### ERFÜLLUNG DURCH GESAMTARBEITSVERTRÄGE
+**ERFÜLLUNG DURCH GESAMTARBEITSVERTRÄGE**
+
+#### Art. 33
 
 1\. In den Mitgliedstaaten, in denen die Bestimmungen der Absätze 1, 2, 3, 4 und 5 von Artikel 2, der Absätze 4, 6 und 7 von Artikel 7 und der Absätze 1, 2, 3 und 4 von Artikel 10 des Teiles II dieser Charta Angelegenheiten sind, die üblicherweise durch Gesamtarbeitsverträge zwischen Arbeitgebern und Arbeitgeberorganisationen und Arbeitnehmerorganisationen geregelt oder üblicherweise auf anderem als auf gesetzlichem Wege durchgeführt werden, können die Verpflichtungen dieser Absätze übernommen werden und als erfüllt gelten, wenn diese Bestimmungen auf Grund derartiger Gesamtarbeitsverträge oder auf andere Weise auf die überwiegende Mehrheit der betreffenden Arbeitnehmer Anwendung finden.
 
@@ -507,7 +573,9 @@ Die Bestimmungen dieser Charta lassen geltende oder in Zukunft in Kraft tretende
 
 ## Artikel 34
 
-#### TERRITORIALER GELTUNGSBEREICH
+**TERRITORIALER GELTUNGSBEREICH**
+
+#### Art. 34
 
 1\. Diese Charta findet Anwendung in den zum Mutterland jeder Vertragspartei gehörenden Gebieten. Jede Vertragspartei kann im Zeitpunkt der Unterzeichnung oder der Hinterlegung ihrer Urkunde über die Ratifikation oder Annahme in einer an den Generalsekretär des Europarates gerichteten Erklärung das Gebiet bezeichnen, das in diesem Sinne als zum Mutterland gehörend anzusehen ist.
 
@@ -521,7 +589,9 @@ Die Bestimmungen dieser Charta lassen geltende oder in Zukunft in Kraft tretende
 
 ## Artikel 35
 
-#### UNTERZEICHNUNG RATIFIZIERUNG UND INKRAFTTRETEN
+**UNTERZEICHNUNG RATIFIZIERUNG UND INKRAFTTRETEN**
+
+#### Art. 35
 
 1\. Diese Charta liegt zur Unterzeichnung durch die Mitgliedstaaten des. Europarates auf. Sie bedarf der Ratifikation oder Annahme. Die Urkunden über die Ratifikation oder Annahme sind bei dem Generalsekretär des Europarates zu hinterlegen.
 
@@ -533,13 +603,17 @@ Die Bestimmungen dieser Charta lassen geltende oder in Zukunft in Kraft tretende
 
 ## Artikel 36
 
-#### ÄNDERUNGEN
+**ÄNDERUNGEN**
+
+#### Art. 36
 
 Jedes Mitglied des Europarates kann in einer an den Generalsekretär des Europarates gerichteten Mitteilung Änderungen dieser Charta vorschlagen. Der Generalsekretär übermittelt den anderen Mitgliedern des Europarates alle Änderungsvorschläge, die dann vom Ministerkomitee geprüft und der Beratenden Versammlung zur Stellungnahme vorgelegt werden Jede vom Ministerkomitee gebilligte Änderung tritt am dreißigsten Tage nach dem Zeitpunkt in Kraft, in dem alle Vertragsparteien den Generalsekretär von ihrer Annahme der Änderung unterrichtet haben. Der Generalsekretär macht allen Mitgliedern des Europarates und dem Generaldirektor des Internationalen Arbeitsamtes Mitteilung von dem Inkrafttreten dieser Änderungen.
 
 ## Artikel 37
 
-#### KÜNDIGUNG
+**KÜNDIGUNG**
+
+#### Art. 37
 
 1\. Jede Vertragspartei kann diese Charta erst nach Ablauf von fünf Jahren, nachdem die Charta für sie in Kraft getreten ist, oder in der Folge jeweils nach Ablauf eines Zeitraumes von zwei Jahren kündigen. In jedem Falle ist die Kündigung sechs Monate vorher dem Generalsekretär des Europarates mitzuteilen, der die anderen Vertragsparteien und den Generaldirektor des Internationalen Arbeitsamtes entsprechend unterrichtet. Diese Kündigung berührt nicht die Gültigkeit der Charta für die anderen Vertragsparteien, solange ihre Zahl nicht unter fünf absinkt.
 

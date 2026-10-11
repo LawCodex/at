@@ -39,31 +39,41 @@ Im Sinne von Artikel 3 Absatz 2 des am 25. Juni 2003 unterzeichneten Abkommens z
 
 <sup>2</sup> Kundgemacht in BGBl. III Nr. 216/1999.
 
-### <u>Artikel 1: Übermittlung von Schriftstücken</u>
+**<u>Artikel 1: Übermittlung von Schriftstücken</u>**
+
+### Art. 1
 
 Gemäß Artikel 5 Absatz 1 des EU-US Auslieferungsabkommens wird der Text von Artikel 10 Absatz 1 des Auslieferungsvertrages 1998 durch folgenden ersetzt:
 
 „(1) Auslieferungsersuchen und die diese untermauernden Schriftstücke werden auf diplomatischem Wege übermittelt, wozu auch die Übermittlung nach Absatz 6 dieses Artikels gehört.“
 
-### <u>Artikel 2: Beglaubigung von Schriftstücken</u>
+**<u>Artikel 2: Beglaubigung von Schriftstücken</u>**
+
+### Art. 2
 
 Gemäß Artikel 5 Absatz 2 des EU-US Auslieferungsabkommens wird der Text des Artikels 10 Absatz 5 des Auslieferungsvertrages 1998 durch folgenden ersetzt:
 
 „(5) Schriftstücke, die den Stempel oder das Siegel des Justizministeriums oder des für auswärtige Angelegenheiten zuständigen Ministeriums des ersuchenden Staates tragen, gelten in Auslieferungsverfahren im ersuchten Staat ohne weitere Bestätigung, Beglaubigung oder sonstige Legalisierung. „Justizministerium“ bedeutet für die Republik Österreich das Bundesministerium für Justiz, für die Vereinigten Staaten von Amerika das United States Department of Justice.“
 
-### <u>Artikel 3: Übermittlung von Schriftstücken im Anschluss an die vorläufige Verhaftung</u>
+**<u>Artikel 3: Übermittlung von Schriftstücken im Anschluss an die vorläufige Verhaftung</u>**
+
+### Art. 3
 
 Gemäß Artikel 7 Absatz 1 des EU-US Auslieferungsabkommens wird dem Artikel 10 des Auslieferungsvertrages 1998 folgender Absatz 6 angefügt:
 
 „(6) Wird die Person, um deren Auslieferung ersucht wird, vom ersuchten Staat in vorläufiger Auslieferungshaft gehalten, so kann der ersuchende Staat seiner Verpflichtung zur Übermittlung seines Auslieferungsersuchens und der dazugehörigen Schriftstücke auf diplomatischem Wege nach Absatz 1 dieses Artikels dadurch nachkommen, dass er das Ersuchen und die Schriftstücke der Botschaft des ersuchten Staates im ersuchenden Staat vorlegt. In diesem Fall gilt zum Zwecke der Anwendung der Fristen, die nach Artikel 13 Absatz 4 dieses Vertrages zu beachten sind, damit die betreffende Person in Haft gehalten werden kann, das Datum des Eingangs des Ersuchens bei der Botschaft als Datum des Eingangs beim ersuchten Staat.“
 
-### <u>Artikel 4: Ergänzende Angaben</u>
+**<u>Artikel 4: Ergänzende Angaben</u>**
+
+### Art. 4
 
 Gemäß Artikel 8 Absatz 2 des EU-US Auslieferungsabkommens wird der folgende Text als Artikel 11 Absatz 4 des Auslieferungsvertrages 1998 angewandt:
 
 „(4) Solche ergänzende Angaben können unmittelbar zwischen dem österreichischen Bundesministerium für Justiz und dem United States Department of Justice erbeten und übermittelt werden.“
 
-### <u>Artikel 5: Vertrauliche Angaben im Rahmen eines Ersuchens</u>
+**<u>Artikel 5: Vertrauliche Angaben im Rahmen eines Ersuchens</u>**
+
+### Art. 5
 
 Gemäß Artikel 14 des EU-US Auslieferungsabkommens wird der folgende Text als Artikel 11a des Auslieferungsvertrags 1998 angewandt:
 
@@ -73,7 +83,9 @@ Gemäß Artikel 14 des EU-US Auslieferungsabkommens wird der folgende Text als A
 
 Erwägt der ersuchende Staat zur Unterstützung seines Auslieferungsersuchens besonders vertrauliche Informationen zu übermitteln, so kann er beim ersuchten Staat Auskünfte darüber einholen, inwieweit diese Informationen vom ersuchten Staat geschützt werden können. Kann der ersuchte Staat die Informationen nicht in der vom ersuchenden Staat gewünschten Weise schützen, so entscheidet der ersuchende Staat, ob die Informationen dennoch vorgelegt werden.“
 
-### <u>Artikel 6 Auslieferungs- und Überstellungsersuchen von Seiten mehrerer Staaten:</u>
+**<u>Artikel 6 Auslieferungs- und Überstellungsersuchen von Seiten mehrerer Staaten:</u>**
+
+### Art. 6
 
 Gemäß Artikel 10 des EU-US Auslieferungsabkommens wird der folgende Text anstelle des Artikels 17 des Auslieferungsvertrages 1998 angewandt:
 
@@ -101,13 +113,17 @@ f) die Möglichkeit der Weiterlieferung zwischen den ersuchenden Staaten und
 
 g) die zeitliche Reihenfolge des Eingangs der Ersuchen der ersuchenden Staaten.“
 
-### <u>Artikel 7: Zeitliche Geltung</u>
+**<u>Artikel 7: Zeitliche Geltung</u>**
+
+### Art. 7
 
 Dieses Protokoll findet auf vor und nach seinem Inkrafttreten begangene Straftaten Anwendung.
 
 Dieses Protokoll findet keine Anwendung auf Auslieferungsersuchen, die vor seinem Inkrafttreten gestellt wurden.
 
-### <u>Artikel 8: Inkrafttreten und Beendigung</u>
+**<u>Artikel 8: Inkrafttreten und Beendigung</u>**
+
+### Art. 8
 
 (1) Für das Inkrafttreten dieses Protokolls bedarf es des Abschlusses der jeweiligen anwendbaren innerstaatlichen Verfahren durch die Vertragsparteien. Die Vertragsparteien werden danach Urkunden austauschen, aus denen sich ergibt, dass diese Verfahren abgeschlossen worden sind. Das Protokoll wird an dem Tag in Kraft treten, an dem das EU-US Auslieferungsabkommen in Kraft treten wird.
 

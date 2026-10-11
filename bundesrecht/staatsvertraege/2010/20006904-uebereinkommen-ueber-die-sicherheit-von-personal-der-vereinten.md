@@ -1,0 +1,122 @@
+---
+title: "Übereinkommen über die Sicherheit von Personal der Vereinten Nationen und beigeordnetem Personal – Fakultativprotokoll"
+identifier: "20006904"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 84/2010"
+last_amended: 2010-08-19
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/iii/2010/84/P0/NOR40121684"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006904"
+retrieved: 2026-10-11
+documents: 9
+---
+
+# Übereinkommen über die Sicherheit von Personal der Vereinten Nationen und beigeordnetem Personal – Fakultativprotokoll
+
+(Übersetzung)
+
+Fakultativprotokoll zum Übereinkommen über die Sicherheit von Personal der Vereinten Nationen und beigeordnetem Personal 1
+
+StF: BGBl. III Nr. 84/2010 (NR: GP XXIII RV 29 AB 178 S. 27. BR: AB 7740 S. 747.)
+
+**Unterzeichnungsdatum:** 08.12.2005
+
+**Vertragsparteien:** Vertragsparteien siehe Stammvertrag, BGBl. III Nr. 180/2000
+
+**Sprachen:** Arabisch, Chinesisch, Englisch, Französisch, Russisch, Spanisch
+
+> **Anmerkung:** Vorbehalte, Erklärungen etc. der Vertragsparteien wurden mit Stichtag 28.2.2013 eingearbeitet.
+
+## Präambel/Promulgationsklausel
+
+Die Vertragsstaaten dieses Protokolls –
+
+eingedenk des am 9. Dezember 1994 in New York beschlossenen Übereinkommens über die Sicherheit von Personal der Vereinten Nationen und beigeordnetem Personal,
+
+zutiefst besorgt über die immer wiederkehrenden Angriffe gegen Personal der Vereinten Nationen und beigeordnetes Personal,
+
+in der Erkenntnis, dass Einsätze der Vereinten Nationen, die zum Zweck der Leistung humanitärer oder politischer Hilfe oder von Entwicklungshilfe im Rahmen der Friedenskonsolidierung sowie zum Zweck der Leistung humanitärer Nothilfe durchgeführt werden und die für Personal der Vereinten Nationen und beigeordnetes Personal mit besonderen Risiken verbunden sind, es erfordern, den Umfang des nach dem Übereinkommen vorgesehenen rechtlichen Schutzes für dieses Personal auszuweiten,
+
+überzeugt von der Notwendigkeit, über wirksame Regelungen zu verfügen, um sicherzustellen, dass die Urheber von Angriffen gegen Personal der Vereinten Nationen und beigeordnetes Personal, das an Einsätzen der Vereinten Nationen beteiligt ist, vor Gericht gebracht werden –
+
+sind wie folgt übereingekommen:
+
+## Artikel I – Verhältnis zwischen dem Protokoll und dem Übereinkommen
+
+Dieses Protokoll ergänzt das am 9. Dezember 1994 in New York beschlossene Übereinkommen über die Sicherheit von Personal der Vereinten Nationen und beigeordnetem Personal (im Folgenden als „Übereinkommen“ bezeichnet); zwischen den Vertragsparteien dieses Protokolls werden das Übereinkommen und das Protokoll als eine einzige Übereinkunft angesehen und ausgelegt.
+
+## Artikel II – Anwendung des Übereinkommens auf Einsätze der Vereinten Nationen
+
+(1) Die Vertragsparteien dieses Protokolls wenden das Übereinkommen zusätzlich zu den Einsätzen im Sinne des Artikels 1 lit. c des Übereinkommens auf alle anderen Einsätze der Vereinten Nationen an, die von einem zuständigen Organ der Vereinten Nationen in Übereinstimmung mit der Satzung der Vereinten Nationen festgelegt und unter der Autorität und Kontrolle der Vereinten Nationen durchgeführt werden zum Zweck
+
+a) der Leistung humanitärer oder politischer Hilfe oder von Entwicklungshilfe im Rahmen der Friedenskonsolidierung oder
+
+b) der Leistung humanitärer Nothilfe.
+
+(2) Absatz 1 findet keine Anwendung auf ständige Büros der Vereinten Nationen, wie den Sitz der Organisation oder ihrer Spezialorganisationen, die im Rahmen einer Vereinbarung mit den Vereinten Nationen errichtet wurden.
+
+(3) Ein Gaststaat kann gegenüber dem Generalsekretär der Vereinten Nationen eine Erklärung darüber abgeben, dass er dieses Protokoll nicht auf einen Einsatz nach Absatz 1 lit. b anwenden wird, der allein zum Zweck der Reaktion auf eine Naturkatastrophe durchgeführt wird. Eine derartige Erklärung ist vor der Entsendung des Einsatzes abzugeben.
+
+## Artikel III – Verpflichtung eines Vertragsstaats in Bezug auf Artikel 8 des Übereinkommens
+
+Die Verpflichtung eines Vertragsstaats dieses Protokolls in Bezug auf die Anwendung des Artikels 8 des Übereinkommens auf die Einsätze der Vereinten Nationen im Sinne des Artikels II dieses Protokolls berührt nicht sein Recht, Maßnahmen in Ausübung seiner innerstaatlichen Gerichtsbarkeit über Personal der Vereinten Nationen und beigeordnetes Personal zu ergreifen, die gegen die Gesetze und sonstigen Vorschriften dieses Staates verstoßen, sofern diese Maßnahmen nicht gegen andere völkerrechtliche Verpflichtungen des Vertragsstaats verstoßen.
+
+## Artikel IV – Unterzeichnung
+
+Dieses Protokoll liegt zwölf Monate lang, vom 16. Jänner 2006 bis zum 16. Jänner 2007, am Sitz der Vereinten Nationen für alle Staaten zur Unterzeichnung auf.
+
+## Artikel V – Zustimmung, gebunden zu sein
+
+(1) Dieses Protokoll bedarf der Ratifikation, Annahme oder Genehmigung durch die Unterzeichnerstaaten. Die Ratifikations-, Annahme- oder Genehmigungsurkunden werden beim Generalsekretär der Vereinten Nationen hinterlegt.
+
+(2) Dieses Protokoll steht nach dem 16. Jänner 2007 allen Nichtunterzeichnerstaaten zum Beitritt offen. Die Beitrittsurkunden werden beim Generalsekretär der Vereinten Nationen hinterlegt.
+
+(3) Jeder Staat, der nicht Vertragsstaat des Übereinkommens ist, kann dieses Protokoll ratifizieren, annehmen, genehmigen oder ihm beitreten, sofern er gleichzeitig das Übereinkommen in Übereinstimmung mit dessen Artikeln 25 und 26 ratifiziert, annimmt, genehmigt oder ihm beitritt.
+
+## Art. 6 – Artikel VI – Inkrafttreten
+
+(1) Dieses Protokoll tritt dreißig Tage nach Hinterlegung von zweiundzwanzig Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunden beim Generalsekretär der Vereinten Nationen in Kraft.
+
+(2) Für jeden Staat, der dieses Protokoll nach Hinterlegung der zweiundzwanzigsten Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde ratifiziert, annimmt, genehmigt oder ihm beitritt, tritt es am dreißigsten Tag nach Hinterlegung der Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde durch diesen Staat in Kraft.
+
+## Artikel VII – Kündigung
+
+(1) Ein Vertragsstaat kann dieses Protokoll durch eine an den Generalsekretär der Vereinten Nationen gerichtete schriftliche Notifikation kündigen.
+
+(2) Die Kündigung wird ein Jahr nach Eingang der Notifikation beim Generalsekretär der Vereinten Nationen wirksam.
+
+## Artikel VIII – Verbindliche Wortlaute
+
+Die Urschrift dieses Protokolls, dessen arabischer, chinesischer, englischer, französischer, russischer und spanischer Wortlaut gleichermaßen verbindlich ist, wird beim Generalsekretär der Vereinten Nationen hinterlegt; dieser übermittelt allen Staaten beglaubigte Abschriften. Geschehen zu New York am 8. Dezember 2005.
+
+## Ratifikationstext
+
+***(Anm.: letzte Anpassung durch Kundmachung BGBl. III Nr. 59/2013)***
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde am 1. Oktober 2007 beim Generalsekretär der Vereinten Nationen hinterlegt; das Fakultativprotokoll tritt gemäß seinem Art. VI Abs. 1 mit 19. August 2010 in Kraft.
+
+Nach Mitteilungen des Generalsekretärs der Vereinten Nationen haben folgende weitere Staaten das Fakultativprotokoll ratifiziert, angenommen, genehmigt oder sind ihm beigetreten:
+
+Aserbaidschan, Bosnien und Herzegowina, Botsuana, Deutschland, Frankreich, Guatemala, Jamaika, Kenia, Liechtenstein, Mali, Monaco, Niederlande (für das Königreich in Europa), Norwegen, Schweden, Schweiz, Slowakei, Slowenien, Spanien, Tschechische Republik, Tunesien, Vereinigtes Königreich.
+
+Anlässlich der Hinterlegung ihrer Ratifikations- bzw. Beitrittsurkunde haben nachstehende Staaten folgende Vorbehalte erklärt bzw. Erklärungen abgegeben:
+
+**Vereinigtes Königreich:**
+
+Ferner hat das Vereinigte Königreich am 19. Februar 2013 mitgeteilt, dass das Fakultativprotokoll auch auf die Insel Man Anwendung findet.
+
+## Sonstige Textteile
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+1 Kundgemacht in BGBl. III Nr. 180/2000.
+
+Der Nationalrat hat beschlossen:
+
+1\. Der Abschluss des gegenständlichen Staatsvertrages wird genehmigt.
+
+2\. Die arabische, chinesische, französische, russische und spanische Sprachfassung dieses Staatsvertrages sind gemäß Art. 49 Abs. 2 B-VG dadurch kundzumachen, dass sie zur öffentlichen Einsichtnahme im Bundesministerium für europäische und internationale Angelegenheiten aufliegen.

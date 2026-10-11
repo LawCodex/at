@@ -876,13 +876,17 @@ SIND wie folgt ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-#### Europäisches Recht für die Erteilung von Patenten
+**Europäisches Recht für die Erteilung von Patenten**
+
+#### Art. 1
 
 Durch dieses Übereinkommen wird ein den Vertragsstaaten gemeinsames Recht für die Erteilung von Erfindungspatenten geschaffen.
 
 ## Artikel 2
 
-#### Europäisches Patent
+**Europäisches Patent**
+
+#### Art. 2
 
 (1) Die nach diesem Übereinkommen erteilten Patente werden als europäische Patente bezeichnet.
 
@@ -890,13 +894,17 @@ Durch dieses Übereinkommen wird ein den Vertragsstaaten gemeinsames Recht für 
 
 ## Artikel 3
 
-#### Territoriale Wirkung
+**Territoriale Wirkung**
+
+#### Art. 3
 
 Die Erteilung des europäischen Patents kann für einen, mehrere oder alle Vertragsstaaten beantragt werden.
 
 ## Artikel 4
 
-#### Europäische Patentorganisation
+**Europäische Patentorganisation**
+
+#### Art. 4
 
 (1) Durch dieses Übereinkommen wird eine Europäische Patentorganisation gegründet, die nachstehend Organisation genannt wird. Sie ist mit verwaltungsmäßiger und finanzieller Selbständigkeit ausgestattet.
 
@@ -910,7 +918,9 @@ b) der Verwaltungsrat.
 
 ## Artikel 4a
 
-#### Konferenz der Minister der Vertragsstaaten
+**Konferenz der Minister der Vertragsstaaten**
+
+#### Art. 4a
 
 Eine Konferenz der für Angelegenheiten des Patentwesens zuständigen Minister der Vertragsstaaten tritt mindestens alle fünf Jahre zusammen, um über Fragen der Organisation und des europäischen Patentsystems zu beraten.
 
@@ -918,7 +928,9 @@ Eine Konferenz der für Angelegenheiten des Patentwesens zuständigen Minister d
 
 ### Die Europäische Patentorganisation — Artikel 5
 
-#### Rechtsstellung
+**Rechtsstellung**
+
+#### Art. 5
 
 (1) Die Organisation besitzt Rechtspersönlichkeit.
 
@@ -928,7 +940,9 @@ Eine Konferenz der für Angelegenheiten des Patentwesens zuständigen Minister d
 
 ## Artikel 6
 
-#### Sitz
+**Sitz**
+
+#### Art. 6
 
 (1) Die Organisation hat ihren Sitz in München.
 
@@ -936,19 +950,25 @@ Eine Konferenz der für Angelegenheiten des Patentwesens zuständigen Minister d
 
 ## Artikel 7
 
-#### Dienststellen des Europäischen Patentamts
+**Dienststellen des Europäischen Patentamts**
+
+#### Art. 7
 
 In den Vertragsstaaten und bei zwischenstaatlichen Organisationen auf dem Gebiet des gewerblichen Rechtsschutzes können, soweit erforderlich und vorbehaltlich der Zustimmung des betreffenden Vertragsstaats oder der betreffenden Organisation, durch Beschluß des Verwaltungsrats Dienststellen des Europäischen Patentamts zu Informations- oder Verbindungszwecken geschaffen werden.
 
 ## Artikel 8
 
-#### Vorrechte und Immunitäten
+**Vorrechte und Immunitäten**
+
+#### Art. 8
 
 Die Organisation, die Mitglieder des Verwaltungsrats, die Bediensteten des Europäischen Patentamts und die sonstigen Personen, die in dem diesem Übereinkommen beigefügten Protokoll über Vorrechte und Immunitäten bezeichnet sind und an der Arbeit der Organisation teilnehmen, genießen in den Hoheitsgebieten der Vertragsstaaten die zur Durchführung ihrer Aufgaben erforderlichen Vorrechte und Immunitäten nach Maßgabe dieses Protokolls.
 
 ## Artikel 9
 
-#### Haftung
+**Haftung**
+
+#### Art. 9
 
 (1) Die vertragliche Haftung der Organisation bestimmt sich nach dem Recht, das auf den betreffenden Vertrag anzuwenden ist.
 
@@ -966,7 +986,9 @@ b) bei einer Streitigkeit nach Absatz 2, je nach Lage des Falls, entweder das in
 
 ### Das Europäische Patentamt — Artikel 10
 
-#### Leitung
+**Leitung**
+
+#### Art. 10
 
 (1) Die Leitung des Europäischen Patentamts obliegt dem Präsidenten, der dem Verwaltungsrat gegenüber für die Tätigkeit des Amts verantwortlich ist.
 
@@ -994,7 +1016,9 @@ i) er kann seine Aufgaben und Befugnisse übertragen.
 
 ## Artikel 11
 
-#### Ernennung hoher Beamter
+**Ernennung hoher Beamter**
+
+#### Art. 11
 
 (1) Der Präsident des Europäischen Patentamts wird vom Verwaltungsrat ernannt.
 
@@ -1008,13 +1032,17 @@ i) er kann seine Aufgaben und Befugnisse übertragen.
 
 ## Artikel 12
 
-#### Amtspflichten
+**Amtspflichten**
+
+#### Art. 12
 
 Die Bediensteten des Europäischen Patentamts sind verpflichtet, auch nach Beendigung ihrer Amtstätigkeit Kenntnisse, die ihrem Wesen nach unter das Berufsgeheimnis fallen, weder preiszugeben noch zu verwenden.
 
 ## Artikel 13
 
-#### Streitsachen zwischen der Organisation und den Bediensteten des Europäischen Patentamts
+**Streitsachen zwischen der Organisation und den Bediensteten des Europäischen Patentamts**
+
+#### Art. 13
 
 (1) Die Bediensteten oder ehemaligen Bediensteten des Europäischen Patentamts oder ihre Rechtsnachfolger haben das Recht, in Streitsachen zwischen ihnen und der Europäischen Patentorganisation das Verwaltungsgericht der Internationalen Arbeitsorganisation nach der Satzung dieses Gerichts und innerhalb der Grenzen und nach Maßgabe der Bedingungen anzurufen, die im Statut der Beamten oder in der Versorgungsordnung festgelegt sind oder sich aus den Beschäftigungsbedingungen für die sonstigen Bediensteten ergeben.
 
@@ -1022,7 +1050,9 @@ Die Bediensteten des Europäischen Patentamts sind verpflichtet, auch nach Beend
 
 ## Artikel 14
 
-#### Sprachen des Europäischen Patentamts, europäischer Patentanmeldungen und anderer Schriftstücke
+**Sprachen des Europäischen Patentamts, europäischer Patentanmeldungen und anderer Schriftstücke**
+
+#### Art. 14
 
 (1) Die Amtssprachen des Europäischen Patentamts sind Deutsch, Englisch und Französisch.
 
@@ -1046,7 +1076,9 @@ b) das Amtsblatt des Europäischen Patentamts.
 
 ## Artikel 15
 
-#### Organe im Verfahren
+**Organe im Verfahren**
+
+#### Art. 15
 
 Im Europäischen Patentamt werden für die Durchführung der in diesem Übereinkommen vorgeschriebenen Verfahren gebildet:
 
@@ -1066,19 +1098,25 @@ g) eine Große Beschwerdekammer.
 
 ## Artikel 16
 
-#### Eingangsstelle
+**Eingangsstelle**
+
+#### Art. 16
 
 Die Eingangsstelle ist für die Eingangs- und Formalprüfung europäischer Patentanmeldungen zuständig.
 
 ## Artikel 17
 
-#### Recherchenabteilungen
+**Recherchenabteilungen**
+
+#### Art. 17
 
 Die Recherchenabteilungen sind für die Erstellung europäischer Recherchenberichte zuständig.
 
 ## Artikel 18
 
-#### Prüfungsabteilungen
+**Prüfungsabteilungen**
+
+#### Art. 18
 
 (1) Die Prüfungsabteilungen sind für die Prüfung europäischer Patentanmeldungen zuständig.
 
@@ -1086,7 +1124,9 @@ Die Recherchenabteilungen sind für die Erstellung europäischer Recherchenberic
 
 ## Artikel 19
 
-#### Einspruchsabteilungen
+**Einspruchsabteilungen**
+
+#### Art. 19
 
 (1) Die Einspruchsabteilungen sind für die Prüfung von Einsprüchen gegen europäische Patente zuständig.
 
@@ -1094,7 +1134,9 @@ Die Recherchenabteilungen sind für die Erstellung europäischer Recherchenberic
 
 ## Artikel 20
 
-#### Rechtsabteilung
+**Rechtsabteilung**
+
+#### Art. 20
 
 (1) Die Rechtsabteilung ist zuständig für Entscheidungen über Eintragungen und Löschungen von Angaben im europäischen Patentregister sowie für Entscheidungen über Eintragungen und Löschungen in der Liste der zugelassenen Vertreter.
 
@@ -1102,7 +1144,9 @@ Die Recherchenabteilungen sind für die Erstellung europäischer Recherchenberic
 
 ## Artikel 21
 
-#### Beschwerdekammern
+**Beschwerdekammern**
+
+#### Art. 21
 
 (1) Die Beschwerdekammern sind für die Prüfung von Beschwerden gegen Entscheidungen der Eingangsstelle, der Prüfungsabteilungen, der Einspruchsabteilungen und der Rechtsabteilung zuständig.
 
@@ -1124,7 +1168,9 @@ b) drei technisch vorgebildeten Mitgliedern und zwei rechtskundigen Mitgliedern,
 
 ## Artikel 22
 
-#### Große Beschwerdekammer
+**Große Beschwerdekammer**
+
+#### Art. 22
 
 (1) Die Große Beschwerdekammer ist zuständig für:
 
@@ -1138,7 +1184,9 @@ c) Entscheidungen über Anträge auf Überprüfung von Beschwerdekammerentscheid
 
 ## Artikel 23
 
-#### Unabhängigkeit der Mitglieder der Kammern
+**Unabhängigkeit der Mitglieder der Kammern**
+
+#### Art. 23
 
 (1) Die Mitglieder der Großen Beschwerdekammer und der Beschwerdekammern werden für einen Zeitraum von fünf Jahren ernannt und können während dieses Zeitraums ihres Amtes nicht enthoben werden, es sei denn, daß schwerwiegende Gründe vorliegen und der Verwaltungsrat auf Vorschlag der Großen Beschwerdekammer einen entsprechenden Beschluß faßt. Unbeschadet des Satzes 1 endet die Amtszeit der Mitglieder der Kammern mit der Entlassung aus dem Dienst auf ihren Antrag oder mit Versetzung in den Ruhestand nach Maßgabe des Statuts der Beamten des Europäischen Patentamts.
 
@@ -1150,7 +1198,9 @@ c) Entscheidungen über Anträge auf Überprüfung von Beschwerdekammerentscheid
 
 ## Artikel 24
 
-#### Ausschließung und Ablehnung
+**Ausschließung und Ablehnung**
+
+#### Art. 24
 
 (1) Die Mitglieder der Beschwerdekammern und der Großen Beschwerdekammer dürfen nicht an der Erledigung einer Sache mitwirken, an der sie ein persönliches Interesse haben, in der sie vorher als Vertreter eines Beteiligten tätig gewesen sind oder an deren abschließender Entscheidung in der Vorinstanz sie mitgewirkt haben.
 
@@ -1162,7 +1212,9 @@ c) Entscheidungen über Anträge auf Überprüfung von Beschwerdekammerentscheid
 
 ## Artikel 25
 
-#### Technische Gutachten
+**Technische Gutachten**
+
+#### Art. 25
 
 Auf Ersuchen des mit einer Verletzungs- oder Nichtigkeitsklage befaßten zuständigen nationalen Gerichts ist das Europäische Patentamt verpflichtet, gegen eine angemessene Gebühr ein technisches Gutachten über das europäische Patent zu erstatten, das Gegenstand des Rechtsstreits ist. Für die Erstattung der Gutachten sind die Prüfungsabteilungen zuständig.
 
@@ -1170,7 +1222,9 @@ Auf Ersuchen des mit einer Verletzungs- oder Nichtigkeitsklage befaßten zustän
 
 ### Der Verwaltungsrat — Artikel 2
 
-#### Zusammensetzung
+**Zusammensetzung**
+
+#### Art. 26
 
 (1) Der Verwaltungsrat besteht aus den Vertretern der Vertragsstaaten und deren Stellvertretern. Jeder Vertragsstaat ist berechtigt, einen Vertreter und einen Stellvertreter für den Verwaltungsrat zu bestellen.
 
@@ -1178,7 +1232,9 @@ Auf Ersuchen des mit einer Verletzungs- oder Nichtigkeitsklage befaßten zustän
 
 ## Artikel 27
 
-#### Vorsitz
+**Vorsitz**
+
+#### Art. 27
 
 (1) Der Verwaltungsrat wählt aus den Vertretern der Vertragsstaaten und deren Stellvertretern einen Präsidenten und einen Vizepräsidenten. Der Vizepräsident tritt im Fall der Verhinderung des Präsidenten von Amts wegen an dessen Stelle.
 
@@ -1186,7 +1242,9 @@ Auf Ersuchen des mit einer Verletzungs- oder Nichtigkeitsklage befaßten zustän
 
 ## Artikel 28
 
-#### Präsidium
+**Präsidium**
+
+#### Art. 28
 
 (1) Beträgt die Zahl der Vertragsstaaten mindestens acht, so kann der Verwaltungsrat ein aus fünf seiner Mitglieder bestehendes Präsidium bilden.
 
@@ -1198,7 +1256,9 @@ Auf Ersuchen des mit einer Verletzungs- oder Nichtigkeitsklage befaßten zustän
 
 ## Artikel 29
 
-#### Tagungen
+**Tagungen**
+
+#### Art. 29
 
 (1) Der Verwaltungsrat wird von seinem Präsidenten einberufen.
 
@@ -1212,7 +1272,9 @@ Auf Ersuchen des mit einer Verletzungs- oder Nichtigkeitsklage befaßten zustän
 
 ## Artikel 30
 
-#### Teilnahme von Beobachtern
+**Teilnahme von Beobachtern**
+
+#### Art. 30
 
 (1) Die Weltorganisation für geistiges Eigentum ist auf den Tagungen des Verwaltungsrats nach Maßgabe eines Abkommens vertreten, das die Europäische Patentorganisation mit der Weltorganisation für geistiges Eigentum schließt.
 
@@ -1222,7 +1284,9 @@ Auf Ersuchen des mit einer Verletzungs- oder Nichtigkeitsklage befaßten zustän
 
 ## Artikel 31
 
-#### Sprachen des Verwaltungsrats
+**Sprachen des Verwaltungsrats**
+
+#### Art. 31
 
 (1) Der Verwaltungsrat bedient sich bei seinen Beratungen der deutschen, englischen und französischen Sprache.
 
@@ -1230,13 +1294,17 @@ Auf Ersuchen des mit einer Verletzungs- oder Nichtigkeitsklage befaßten zustän
 
 ## Artikel 32
 
-#### Personal, Räumlichkeiten und Ausstattung
+**Personal, Räumlichkeiten und Ausstattung**
+
+#### Art. 32
 
 Das Europäische Patentamt stellt dem Verwaltungsrat sowie den vom Verwaltungsrat eingesetzten Ausschüssen das Personal, die Räumlichkeiten und die Ausstattung zur Verfügung, die sie zur Durchführung ihrer Aufgaben benötigen.
 
 ## Artikel 33
 
-#### Befugnisse des Verwaltungsrats in bestimmten Fällen
+**Befugnisse des Verwaltungsrats in bestimmten Fällen**
+
+#### Art. 33
 
 (1) Der Verwaltungsrat ist befugt, folgende Vorschriften zu ändern:
 
@@ -1270,7 +1338,9 @@ e) seine Geschäftsordnung.
 
 ## Artikel 34
 
-#### Stimmrecht
+**Stimmrecht**
+
+#### Art. 34
 
 (1) Stimmberechtigt im Verwaltungsrat sind nur die Vertragsstaaten.
 
@@ -1280,7 +1350,9 @@ Artikel 36 anzuwenden ist.
 
 ## Artikel 35
 
-#### Abstimmungen
+**Abstimmungen**
+
+#### Art. 35
 
 (1) Der Verwaltungsrat faßt seine Beschlüsse vorbehaltlich der Absätze 2 und 3 mit der einfachen Mehrheit der vertretenen Vertragsstaaten, die eine Stimme abgeben.
 
@@ -1292,7 +1364,9 @@ Artikel 36 anzuwenden ist.
 
 ## Artikel 36
 
-#### Stimmenwägung
+**Stimmenwägung**
+
+#### Art. 36
 
 (1) Jeder Vertragsstaat kann für die Annahme und Änderung der Gebührenordnung sowie, falls dadurch die finanzielle Belastung der Vertragsstaaten vergrößert wird, für die Feststellung des Haushaltsplans und eines Berichtigungs- oder Nachtragshaushaltsplans der Organisation nach einer ersten Abstimmung, in der jeder Vertragsstaat über eine Stimme verfügt, unabhängig vom Ausgang der Abstimmung verlangen, daß unverzüglich eine zweite Abstimmung vorgenommen wird, in der die Stimmen nach Absatz 2 gewogen werden. Diese zweite Abstimmung ist für den Beschluß maßgebend.
 
@@ -1310,7 +1384,9 @@ d) Die Zahl der Stimmen eines Vertragsstaats beträgt jedoch höchstens 30.
 
 ### Finanzvorschriften — Artikel 37
 
-#### Finanzierung des Haushalts
+**Finanzierung des Haushalts**
+
+#### Art. 37
 
 Der Haushalt der Organisation wird finanziert:
 
@@ -1328,7 +1404,9 @@ f) gegebenenfalls durch Drittmittel für bestimmte Projekte.
 
 ## Artikel 38
 
-#### Eigene Mittel der Organisation
+**Eigene Mittel der Organisation**
+
+#### Art. 38
 
 Eigene Mittel der Organisation sind:
 
@@ -1338,7 +1416,9 @@ b) die Mittel des Pensionsreservefonds, der als zweckgebundenes Sondervermögen 
 
 ## Artikel 39
 
-#### Zahlungen der Vertragsstaaten auf Grund der für die Aufrechterhaltung der europäischen Patente erhobenen Gebühren
+**Zahlungen der Vertragsstaaten auf Grund der für die Aufrechterhaltung der europäischen Patente erhobenen Gebühren**
+
+#### Art. 39
 
 (1) Jeder Vertragsstaat zahlt an die Organisation für jedes in diesem Staat aufrechterhaltene europäische Patent einen Betrag in Höhe eines vom Verwaltungsrat festzusetzenden Anteils an der Jahresgebühr, der 75% nicht übersteigen darf und für alle Vertragsstaaten gleich ist. Liegt der Betrag unter einem vom Verwaltungsrat festgesetzten einheitlichen Mindestbetrag, so hat der betreffende Vertragsstaat der Organisation diesen Mindestbetrag zu zahlen.
 
@@ -1350,7 +1430,9 @@ b) die Mittel des Pensionsreservefonds, der als zweckgebundenes Sondervermögen 
 
 ## Artikel 40
 
-#### Bemessung der Gebühren und Anteile - besondere Finanzbeiträge
+**Bemessung der Gebühren und Anteile - besondere Finanzbeiträge**
+
+#### Art. 40
 
 (1) Die Höhe der Gebühren nach Artikel 38 und der Anteil nach Artikel 39 sind so zu bemessen, daß die Einnahmen hieraus den Ausgleich des Haushalts der Organisation gewährleisten.
 
@@ -1374,7 +1456,9 @@ Die Beträge, die von den Staaten zu tragen sind, in denen mehr als 25 000 Paten
 
 ## Artikel 41
 
-#### Vorschüsse
+**Vorschüsse**
+
+#### Art. 41
 
 (1) Die Vertragsstaaten gewähren der Organisation auf Antrag des Präsidenten des Europäischen Patentamts Vorschüsse auf ihre Zahlungen und Beiträge in der vom Verwaltungsrat festgesetzten Höhe. Diese Vorschüsse werden auf die Vertragsstaaten im Verhältnis der Beträge, die von diesen Staaten für das betreffende Haushaltsjahr zu zahlen sind, aufgeteilt.
 
@@ -1382,7 +1466,9 @@ Die Beträge, die von den Staaten zu tragen sind, in denen mehr als 25 000 Paten
 
 ## Artikel 42
 
-#### Haushaltsplan
+**Haushaltsplan**
+
+#### Art. 42
 
 (1) Der Haushaltsplan der Organisation ist auszugleichen. Er wird nach Maßgabe der in der Finanzordnung festgelegten allgemein anerkannten Rechnungslegungsgrundsätze aufgestellt. Falls erforderlich, können Berichtigungs- und Nachtragshaushaltspläne festgestellt werden.
 
@@ -1390,7 +1476,9 @@ Die Beträge, die von den Staaten zu tragen sind, in denen mehr als 25 000 Paten
 
 ## Artikel 43
 
-#### Bewilligung der Ausgaben
+**Bewilligung der Ausgaben**
+
+#### Art. 43
 
 (1) Die in den Haushaltsplan eingesetzten Ausgaben werden für ein Haushaltsjahr bewilligt, soweit die Finanzordnung nichts anderes bestimmt.
 
@@ -1400,7 +1488,9 @@ Die Beträge, die von den Staaten zu tragen sind, in denen mehr als 25 000 Paten
 
 ## Artikel 44
 
-#### Mittel für unvorhergesehene Ausgaben
+**Mittel für unvorhergesehene Ausgaben**
+
+#### Art. 44
 
 (1) Im Haushaltsplan der Organisation können Mittel für unvorhergesehene Ausgaben veranschlagt werden.
 
@@ -1408,13 +1498,17 @@ Die Beträge, die von den Staaten zu tragen sind, in denen mehr als 25 000 Paten
 
 ## Artikel 45
 
-#### Haushaltsjahr
+**Haushaltsjahr**
+
+#### Art. 45
 
 Das Haushaltsjahr beginnt am 1. Januar und endet am 31. Dezember.
 
 ## Artikel 46
 
-#### Entwurf und Feststellung des Haushaltsplans
+**Entwurf und Feststellung des Haushaltsplans**
+
+#### Art. 46
 
 (1) Der Präsident des Europäischen Patentamts legt dem Verwaltungsrat den Entwurf des Haushaltsplans bis zu dem in der Finanzordnung vorgeschriebenen Zeitpunkt vor.
 
@@ -1422,7 +1516,9 @@ Das Haushaltsjahr beginnt am 1. Januar und endet am 31. Dezember.
 
 ## Artikel 47
 
-#### Vorläufige Haushaltsführung
+**Vorläufige Haushaltsführung**
+
+#### Art. 47
 
 (1) Ist zu Beginn eines Haushaltsjahrs der Haushaltsplan vom Verwaltungsrat noch nicht festgestellt, so können nach der Finanzordnung für jedes Kapitel oder jede sonstige Untergliederung monatliche Ausgaben bis zur Höhe eines Zwölftels der im Haushaltsplan für das vorausgegangene Haushaltsjahr bereitgestellten Mittel vorgenommen werden; der Präsident des Europäischen Patentamts darf jedoch höchstens über ein Zwölftel der Mittel verfügen, die in dem Entwurf des Haushaltsplans vorgesehen sind.
 
@@ -1434,7 +1530,9 @@ Das Haushaltsjahr beginnt am 1. Januar und endet am 31. Dezember.
 
 ## Artikel 48
 
-#### Ausführung des Haushaltsplans
+**Ausführung des Haushaltsplans**
+
+#### Art. 48
 
 (1) Im Rahmen der zugewiesenen Mittel führt der Präsident des Europäischen Patentamts den Haushaltsplan sowie Berichtigungs- und Nachtragshaushaltspläne in eigener Verantwortung aus.
 
@@ -1442,7 +1540,9 @@ Das Haushaltsjahr beginnt am 1. Januar und endet am 31. Dezember.
 
 ## Artikel 49
 
-#### Rechnungsprüfung
+**Rechnungsprüfung**
+
+#### Art. 49
 
 (1) Die Rechnung über alle Einnahmen und Ausgaben des Haushaltsplans sowie eine Übersicht über das Vermögen und die Schulden der Organisation werden von Rechnungsprüfern geprüft, die volle Gewähr für ihre Unabhängigkeit bieten müssen und vom Verwaltungsrat für einen Zeitraum von fünf Jahren bestellt werden; die Bestellung kann verlängert oder erneuert werden.
 
@@ -1454,7 +1554,9 @@ Das Haushaltsjahr beginnt am 1. Januar und endet am 31. Dezember.
 
 ## Artikel 50
 
-#### Finanzordnung
+**Finanzordnung**
+
+#### Art. 50
 
 Die Finanzordnung bestimmt insbesondere:
 
@@ -1474,7 +1576,9 @@ g) die dem Haushaltsplan und den jährlichen Finanzausweisen zugrunde zu legende
 
 ## Artikel 51
 
-#### Gebühren
+**Gebühren**
+
+#### Art. 51
 
 (1) Das Europäische Patentamt kann Gebühren für die nach diesem Übereinkommen durchgeführten amtlichen Aufgaben und Verfahren erheben.
 
@@ -1492,7 +1596,9 @@ g) die dem Haushaltsplan und den jährlichen Finanzausweisen zugrunde zu legende
 
 ## Artikel 52
 
-#### Patentfähige Erfindungen
+**Patentfähige Erfindungen**
+
+#### Art. 52
 
 (1) Europäische Patente werden für Erfindungen auf allen Gebieten der Technik erteilt, sofern sie neu sind, auf einer erfinderischen Tätigkeit beruhen und gewerblich anwendbar sind.
 
@@ -1510,7 +1616,9 @@ d) die Wiedergabe von Informationen.
 
 ## Artikel 53
 
-#### Ausnahmen von der Patentierbarkeit
+**Ausnahmen von der Patentierbarkeit**
+
+#### Art. 53
 
 Europäische Patente werden nicht erteilt für:
 
@@ -1522,7 +1630,9 @@ c) Verfahren zur chirurgischen oder therapeutischen Behandlung des menschlichen 
 
 ## Artikel 54
 
-#### Neuheit
+**Neuheit**
+
+#### Art. 54
 
 (1) Eine Erfindung gilt als neu, wenn sie nicht zum Stand der Technik gehört.
 
@@ -1536,7 +1646,9 @@ c) Verfahren zur chirurgischen oder therapeutischen Behandlung des menschlichen 
 
 ## Artikel 55
 
-#### Unschädliche Offenbarungen
+**Unschädliche Offenbarungen**
+
+#### Art. 55
 
 (1) Für die Anwendung des Artikels 54 bleibt eine Offenbarung der Erfindung außer Betracht, wenn sie nicht früher als sechs Monate vor Einreichung der europäischen Patentanmeldung erfolgt ist und unmittelbar oder mittelbar zurückgeht:
 
@@ -1548,13 +1660,17 @@ b) auf die Tatsache, daß der Anmelder oder sein Rechtsvorgänger die Erfindung 
 
 ## Artikel 56
 
-#### Erfinderische Tätigkeit
+**Erfinderische Tätigkeit**
+
+#### Art. 56
 
 Eine Erfindung gilt als auf einer erfinderischen Tätigkeit beruhend, wenn sie sich für den Fachmann nicht in naheliegender Weise aus dem Stand der Technik ergibt. Gehören zum Stand der Technik auch Unterlagen im Sinn des Artikels 54 Absatz 3, so werden diese bei der Beurteilung der erfinderischen Tätigkeit nicht in Betracht gezogen.
 
 ## Artikel 57
 
-#### Gewerbliche Anwendbarkeit
+**Gewerbliche Anwendbarkeit**
+
+#### Art. 57
 
 Eine Erfindung gilt als gewerblich anwendbar, wenn ihr Gegenstand auf irgendeinem gewerblichen Gebiet einschließlich der Landwirtschaft hergestellt oder benutzt werden kann.
 
@@ -1562,19 +1678,25 @@ Eine Erfindung gilt als gewerblich anwendbar, wenn ihr Gegenstand auf irgendeine
 
 ### Zur Einreichung und Erlangung des Europäischen Patents berechtigte Personen - Erfindernennung — Artikel 58
 
-#### Recht zur Anmeldung europäischer Patente
+**Recht zur Anmeldung europäischer Patente**
+
+#### Art. 58
 
 Jede natürliche oder juristische Person und jede einer juristischen Person nach dem für sie maßgebenden Recht gleichgestellte Gesellschaft kann die Erteilung eines europäischen Patents beantragen.
 
 ## Artikel 59
 
-#### Mehrere Anmelder
+**Mehrere Anmelder**
+
+#### Art. 59
 
 Die europäische Patentanmeldung kann auch von gemeinsamen Anmeldern oder von mehreren Anmeldern, die verschiedene Vertragsstaaten benennen, eingereicht werden.
 
 ## Artikel 60
 
-#### Recht auf das europäische Patent
+**Recht auf das europäische Patent**
+
+#### Art. 60
 
 (1) Das Recht auf das europäische Patent steht dem Erfinder oder seinem Rechtsnachfolger zu. Ist der Erfinder ein Arbeitnehmer, so bestimmt sich das Recht auf das europäische Patent nach dem Recht des Staats, in dem der Arbeitnehmer überwiegend beschäftigt ist; ist nicht festzustellen, in welchem Staat der Arbeitnehmer überwiegend beschäftigt ist, so ist das Recht des Staats anzuwenden, in dem der Arbeitgeber den Betrieb unterhält, dem der Arbeitnehmer angehört.
 
@@ -1584,7 +1706,9 @@ Die europäische Patentanmeldung kann auch von gemeinsamen Anmeldern oder von me
 
 ## Artikel 61
 
-#### Anmeldung europäischer Patente durch Nichtberechtigte
+**Anmeldung europäischer Patente durch Nichtberechtigte**
+
+#### Art. 61
 
 (1) Wird durch rechtskräftige Entscheidung der Anspruch auf Erteilung des europäischen Patents einer Person zugesprochen, die nicht der Anmelder ist, so kann diese Person nach Maßgabe der Ausführungsordnung
 
@@ -1598,7 +1722,9 @@ c) beantragen, daß die europäische Patentanmeldung zurückgewiesen wird.
 
 ## Artikel 62
 
-#### Anspruch auf Erfindernennung
+**Anspruch auf Erfindernennung**
+
+#### Art. 62
 
 Der Erfinder hat gegenüber dem Anmelder oder Inhaber des europäischen Patents das Recht, vor dem Europäischen Patentamt als Erfinder genannt zu werden.
 
@@ -1606,7 +1732,9 @@ Der Erfinder hat gegenüber dem Anmelder oder Inhaber des europäischen Patents 
 
 ### Wirkungen des europäischen Patents und der europäischen Patentanmeldung — Artikel 63
 
-#### Laufzeit des europäischen Patents
+**Laufzeit des europäischen Patents**
+
+#### Art. 63
 
 (1) Die Laufzeit des europäischen Patents beträgt zwanzig Jahre, gerechnet vom Anmeldetag an.
 
@@ -1622,7 +1750,9 @@ b) wenn der Gegenstand des europäischen Patents ein Erzeugnis oder ein Verfahre
 
 ## Artikel 64
 
-#### Rechte aus dem europäischen Patent
+**Rechte aus dem europäischen Patent**
+
+#### Art. 64
 
 (1) Das europäische Patent gewährt seinem Inhaber von dem Tag der Bekanntmachung des Hinweises auf seine Erteilung an in jedem Vertragsstaat, für den es erteilt ist, vorbehaltlich Absatz 2 dieselben Rechte, die ihm ein in diesem Staat erteiltes nationales Patent gewähren würde.
 
@@ -1632,7 +1762,9 @@ b) wenn der Gegenstand des europäischen Patents ein Erzeugnis oder ein Verfahre
 
 ## Artikel 65
 
-#### Übersetzung des europäischen Patents
+**Übersetzung des europäischen Patents**
+
+#### Art. 65
 
 (1) Jeder Vertragsstaat kann, wenn das vom Europäischen Patentamt erteilte, in geänderter Fassung aufrechterhaltene oder beschränkte europäische Patent nicht in einer seiner Amtssprachen abgefaßt ist, vorschreiben, daß der Patentinhaber bei seiner Zentralbehörde für den gewerblichen Rechtsschutz eine Übersetzung des Patents in der erteilten, geänderten oder beschränkten Fassung nach seiner Wahl in einer seiner Amtssprachen oder, soweit dieser Staat die Verwendung einer bestimmten Amtssprache vorgeschrieben hat, in dieser Amtssprache einzureichen hat. Die Frist für die Einreichung der Übersetzung endet drei Monate, nachdem der Hinweis auf die Erteilung des europäischen Patents, seine Aufrechterhaltung in geänderter Fassung oder seine Beschränkung im Europäischen Patentblatt bekanntgemacht worden ist, sofern nicht der betreffende Staat eine längere Frist vorschreibt.
 
@@ -1642,13 +1774,17 @@ b) wenn der Gegenstand des europäischen Patents ein Erzeugnis oder ein Verfahre
 
 ## Artikel 66
 
-#### Wirkung der europäischen Patentanmeldung als nationale Hinterlegung
+**Wirkung der europäischen Patentanmeldung als nationale Hinterlegung**
+
+#### Art. 66
 
 Eine europäische Patentanmeldung, deren Anmeldetag feststeht, hat in den benannten Vertragsstaaten die Wirkung einer vorschriftsmäßigen nationalen Hinterlegung, gegebenenfalls mit der für die europäische Patentanmeldung in Anspruch genommenen Priorität.
 
 ## Artikel 67
 
-#### Rechte aus der europäischen Patentanmeldung nach Veröffentlichung
+**Rechte aus der europäischen Patentanmeldung nach Veröffentlichung**
+
+#### Art. 67
 
 (1) Die europäische Patentanmeldung gewährt dem Anmelder vom Tag ihrer Veröffentlichung an in den benannten Vertragsstaaten einstweilen den Schutz nach Artikel 64.
 
@@ -1664,13 +1800,17 @@ b) demjenigen übermittelt worden ist, der die Erfindung in diesem Vertragsstaat
 
 ## Artikel 68
 
-#### Wirkung des Widerrufs oder der Beschränkung des europäischen Patents
+**Wirkung des Widerrufs oder der Beschränkung des europäischen Patents**
+
+#### Art. 68
 
 Die in den Artikeln 64 und 67 vorgesehenen Wirkungen der europäischen Patentanmeldung und des darauf erteilten europäischen Patents gelten in dem Umfang, in dem das Patent im Einspruchs-, Beschränkungs- oder Nichtigkeitsverfahren widerrufen oder beschränkt worden ist, als von Anfang an nicht eingetreten.
 
 ## Artikel 69
 
-#### Schutzbereich
+**Schutzbereich**
+
+#### Art. 69
 
 (1) Der Schutzbereich des europäischen Patents und der europäischen Patentanmeldung wird durch die Patentansprüche bestimmt. Die Beschreibung und die Zeichnungen sind jedoch zur Auslegung der Patentansprüche heranzuziehen.
 
@@ -1678,7 +1818,9 @@ Die in den Artikeln 64 und 67 vorgesehenen Wirkungen der europäischen Patentanm
 
 ## Artikel 70
 
-#### Verbindliche Fassung einer europäischen Patentanmeldung oder eines europäischen Patents
+**Verbindliche Fassung einer europäischen Patentanmeldung oder eines europäischen Patents**
+
+#### Art. 70
 
 (1) Der Wortlaut einer europäischen Patentanmeldung oder eines europäischen Patents in der Verfahrenssprache stellt in Verfahren vor dem Europäischen Patentamt sowie in jedem Vertragsstaat die verbindliche Fassung dar.
 
@@ -1696,25 +1838,33 @@ b) kann vorsehen, daß derjenige, der in diesem Staat in gutem Glauben eine Erfi
 
 ### Die europäische Patentanmeldung als Gegenstand des Vermögens — Artikel 71
 
-#### Übertragung und Bestellung von Rechten
+**Übertragung und Bestellung von Rechten**
+
+#### Art. 71
 
 Die europäische Patentanmeldung kann für einen oder mehrere der benannten Vertragsstaaten übertragen werden oder Gegenstand von Rechten sein.
 
 ## Artikel 72
 
-#### Rechtsgeschäftliche Übertragung
+**Rechtsgeschäftliche Übertragung**
+
+#### Art. 72
 
 Die rechtsgeschäftliche Übertragung der europäischen Patentanmeldung muß schriftlich erfolgen und bedarf der Unterschrift der Vertragsparteien.
 
 ## Artikel 73
 
-#### Vertragliche Lizenzen
+**Vertragliche Lizenzen**
+
+#### Art. 73
 
 Eine europäische Patentanmeldung kann ganz oder teilweise Gegenstand von Lizenzen für alle oder einen Teil der Hoheitsgebiete der benannten Vertragsstaaten sein.
 
 ## Artikel 74
 
-#### Anwendbares Recht
+**Anwendbares Recht**
+
+#### Art. 74
 
 Soweit in diesem Übereinkommen nichts anderes bestimmt ist, unterliegt die europäische Patentanmeldung als Gegenstand des Vermögens in jedem benannten Vertragsstaat und mit Wirkung für diesen Staat dem Recht, das in diesem Staat für nationale Patentanmeldungen gilt.
 
@@ -1724,7 +1874,9 @@ Soweit in diesem Übereinkommen nichts anderes bestimmt ist, unterliegt die euro
 
 ### Einreichung und Erfordernisse der europäische Patentanmeldung — Artikel 75
 
-#### Einreichung der europäischen Patentanmeldung
+**Einreichung der europäischen Patentanmeldung**
+
+#### Art. 75
 
 (1) Die europäische Patentanmeldung kann eingereicht werden:
 
@@ -1740,7 +1892,9 @@ b) bestimmen, daß Patentanmeldungen zuerst bei einer nationalen Behörde einger
 
 ## Artikel 76
 
-#### Europäische Teilanmeldung
+**Europäische Teilanmeldung**
+
+#### Art. 76
 
 (1) Eine europäische Teilanmeldung ist nach Maßgabe der Ausführungsordnung unmittelbar beim Europäischen Patentamt einzureichen. Sie kann nur für einen Gegenstand eingereicht werden, der nicht über den Inhalt der früheren Anmeldung in der ursprünglich eingereichten Fassung hinausgeht; soweit diesem Erfordernis entsprochen wird, gilt die Teilanmeldung als an dem Anmeldetag der früheren Anmeldung eingereicht und genießt deren Prioritätsrecht.
 
@@ -1748,7 +1902,9 @@ b) bestimmen, daß Patentanmeldungen zuerst bei einer nationalen Behörde einger
 
 ## Artikel 77
 
-#### Übermittlung europäischer Patentanmeldungen
+**Übermittlung europäischer Patentanmeldungen**
+
+#### Art. 77
 
 (1) Die Zentralbehörde für den gewerblichen Rechtsschutz eines Vertragsstaats leitet die bei ihr oder einer anderen zuständigen Behörde dieses Staats eingereichten europäischen Patentanmeldungen nach Maßgabe der Ausführungsordnung an das Europäische Patentamt weiter.
 
@@ -1758,7 +1914,9 @@ b) bestimmen, daß Patentanmeldungen zuerst bei einer nationalen Behörde einger
 
 ## Artikel 78
 
-#### Erfordernisse der europäischen Patentanmeldung
+**Erfordernisse der europäischen Patentanmeldung**
+
+#### Art. 78
 
 (1) Die europäische Patentanmeldung muß
 
@@ -1778,7 +1936,9 @@ enthalten und den Erfordernissen genügen, die in der Ausführungsordnung vorges
 
 ## Artikel 79
 
-#### Benennung der Vertragsstaaten
+**Benennung der Vertragsstaaten**
+
+#### Art. 79
 
 (1) Im Antrag auf Erteilung eines europäischen Patents gelten alle Vertragsstaaten als benannt, die diesem Übereinkommen bei Einreichung der europäischen Patentanmeldung angehören.
 
@@ -1788,43 +1948,57 @@ enthalten und den Erfordernissen genügen, die in der Ausführungsordnung vorges
 
 ## Artikel 80
 
-#### Anmeldetag
+**Anmeldetag**
+
+#### Art. 80
 
 Der Anmeldetag einer europäischen Patentanmeldung ist der Tag, an dem die in der Ausführungsordnung festgelegten Erfordernisse erfüllt sind.
 
 ## Artikel 81
 
-#### Erfindernennung
+**Erfindernennung**
+
+#### Art. 81
 
 In der europäischen Patentanmeldung ist der Erfinder zu nennen. Ist der Anmelder nicht oder nicht allein der Erfinder, so hat die Erfindernennung eine Erklärung darüber zu enthalten, wie der Anmelder das Recht auf das europäische Patent erlangt hat.
 
 ## Artikel 82
 
-#### Einheitlichkeit der Erfindung
+**Einheitlichkeit der Erfindung**
+
+#### Art. 82
 
 Die europäische Patentanmeldung darf nur eine einzige Erfindung enthalten oder eine Gruppe von Erfindungen, die untereinander in der Weise verbunden sind, daß sie eine einzige allgemeine erfinderische Idee verwirklichen.
 
 ## Artikel 83
 
-#### Offenbarung der Erfindung
+**Offenbarung der Erfindung**
+
+#### Art. 83
 
 Die Erfindung ist in der europäischen Patentanmeldung so deutlich und vollständig zu offenbaren, daß ein Fachmann sie ausführen kann.
 
 ## Artikel 84
 
-#### Patentansprüche
+**Patentansprüche**
+
+#### Art. 84
 
 Die Patentansprüche müssen den Gegenstand angeben, für den Schutz begehrt wird. Sie müssen deutlich, knapp gefaßt und von der Beschreibung gestützt sein.
 
 ## Artikel 85
 
-#### Zusammenfassung
+**Zusammenfassung**
+
+#### Art. 85
 
 Die Zusammenfassung dient ausschließlich der technischen Information; sie kann nicht für andere Zwecke, insbesondere nicht für die Bestimmung des Umfangs des begehrten Schutzes und für die Anwendung des Artikels 54 Absatz 3, herangezogen werden.
 
 ## Artikel 86
 
-#### Jahresgebühren für die europäische Patentanmeldung
+**Jahresgebühren für die europäische Patentanmeldung**
+
+#### Art. 86
 
 (1) Für die europäische Patentanmeldung sind nach Maßgabe der Ausführungsordnung Jahresgebühren an das Europäische Patentamt zu entrichten. Sie werden für das dritte und jedes weitere Jahr, gerechnet vom Anmeldetag an, geschuldet. Wird eine Jahresgebühr nicht rechtzeitig entrichtet, so gilt die Anmeldung als zurückgenommen.
 
@@ -1834,7 +2008,9 @@ Die Zusammenfassung dient ausschließlich der technischen Information; sie kann 
 
 ### Priorität — Artikel 87
 
-#### Prioritätsrecht
+**Prioritätsrecht**
+
+#### Art. 87
 
 (1) Jedermann, der in einem oder mit Wirkung für
 
@@ -1854,7 +2030,9 @@ eine Anmeldung für ein Patent, ein Gebrauchsmuster oder ein Gebrauchszertifikat
 
 ## Artikel 88
 
-#### Inanspruchnahme der Priorität
+**Inanspruchnahme der Priorität**
+
+#### Art. 88
 
 (1) Der Anmelder, der die Priorität einer früheren Anmeldung in Anspruch nehmen will, hat eine Prioritätserklärung und weitere erforderliche Unterlagen nach Maßgabe der Ausführungsordnung einzureichen.
 
@@ -1866,7 +2044,9 @@ eine Anmeldung für ein Patent, ein Gebrauchsmuster oder ein Gebrauchszertifikat
 
 ## Artikel 89
 
-#### Wirkung des Prioritätsrechts
+**Wirkung des Prioritätsrechts**
+
+#### Art. 89
 
 Das Prioritätsrecht hat die Wirkung, daß der Prioritätstag als Tag der europäischen Patentanmeldung für die Anwendung des Artikels 54 Absätze 2 und 3 sowie des Artikels 60 Absatz 2 gilt.
 
@@ -1874,7 +2054,9 @@ Das Prioritätsrecht hat die Wirkung, daß der Prioritätstag als Tag der europ�
 
 ### Erteilungsverfahren — Artikel 90
 
-#### Eingangs- und Formalprüfung
+**Eingangs- und Formalprüfung**
+
+#### Art. 90
 
 (1) Das Europäische Patentamt prüft nach Maßgabe der Ausführungsordnung, ob die Anmeldung den Erfordernissen für die Zuerkennung eines Anmeldetags genügt.
 
@@ -1888,13 +2070,17 @@ Das Prioritätsrecht hat die Wirkung, daß der Prioritätstag als Tag der europ�
 
 ## Artikel 92
 
-#### Erstellung des europäischen Recherchenberichts
+**Erstellung des europäischen Recherchenberichts**
+
+#### Art. 92
 
 Das Europäische Patentamt erstellt und veröffentlicht nach Maßgabe der Ausführungsordnung einen europäischen Recherchenbericht zu der europäischen Patentanmeldung auf der Grundlage der Patentansprüche unter angemessener Berücksichtigung der Beschreibung und der vorhandenen Zeichnungen.
 
 ## Artikel 93
 
-#### Veröffentlichung der europäischen Patentanmeldung
+**Veröffentlichung der europäischen Patentanmeldung**
+
+#### Art. 93
 
 (1) Das Europäische Patentamt veröffentlicht die europäische Patentanmeldung so bald wie möglich
 
@@ -1906,7 +2092,9 @@ b) auf Antrag des Anmelders vor Ablauf dieser Frist.
 
 ## Artikel 94
 
-#### Prüfung der europäischen Patentanmeldung
+**Prüfung der europäischen Patentanmeldung**
+
+#### Art. 94
 
 (1) Das Europäische Patentamt prüft nach Maßgabe der Ausführungsordnung auf Antrag, ob die europäische Patentanmeldung und die Erfindung, die sie zum Gegenstand hat, den Erfordernissen dieses Übereinkommens genügen. Der Antrag gilt erst als gestellt, wenn die Prüfungsgebühr entrichtet worden ist.
 
@@ -1918,7 +2106,9 @@ b) auf Antrag des Anmelders vor Ablauf dieser Frist.
 
 ## Artikel 97
 
-#### Erteilung oder Zurückweisung
+**Erteilung oder Zurückweisung**
+
+#### Art. 97
 
 (1) Ist die Prüfungsabteilung der Auffassung, daß die europäische Patentanmeldung und die Erfindung, die sie zum Gegenstand hat, den Erfordernissen dieses Übereinkommens genügen, so beschließt sie die Erteilung des europäischen Patents, sofern die in der Ausführungsordnung genannten Voraussetzungen erfüllt sind.
 
@@ -1928,7 +2118,9 @@ b) auf Antrag des Anmelders vor Ablauf dieser Frist.
 
 ## Artikel 98
 
-#### Veröffentlichung der europäischen Patentschrift
+**Veröffentlichung der europäischen Patentschrift**
+
+#### Art. 98
 
 Das Europäische Patentamt veröffentlicht die europäische Patentschrift so bald wie möglich nach Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt.
 
@@ -1936,7 +2128,9 @@ Das Europäische Patentamt veröffentlicht die europäische Patentschrift so bal
 
 ### EINSPRUCHS- UND BESCHRÄNKUNGSVERFAHREN — Artikel 99
 
-#### Einspruch
+**Einspruch**
+
+#### Art. 99
 
 (1) Innerhalb von neun Monaten nach Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt kann jedermann nach Maßgabe der Ausführungsordnung beim Europäischen Patentamt gegen dieses Patent Einspruch einlegen. Der Einspruch gilt erst als eingelegt, wenn die Einspruchsgebühr entrichtet worden ist.
 
@@ -1948,7 +2142,9 @@ Das Europäische Patentamt veröffentlicht die europäische Patentschrift so bal
 
 ## Artikel 100
 
-#### Einspruchsgründe
+**Einspruchsgründe**
+
+#### Art. 100
 
 Der Einspruch kann nur darauf gestützt werden, daß
 
@@ -1960,7 +2156,9 @@ c) der Gegenstand des europäischen Patents über den Inhalt der Anmeldung in de
 
 ## Artikel 101
 
-#### Prüfung des Einspruchs - Widerruf oder Aufrechterhaltung des europäischen Patents
+**Prüfung des Einspruchs - Widerruf oder Aufrechterhaltung des europäischen Patents**
+
+#### Art. 101
 
 (1) Ist der Einspruch zulässig, so prüft die Einspruchsabteilung nach Maßgabe der Ausführungsordnung, ob wenigstens ein Einspruchsgrund nach Artikel 100 der Aufrechterhaltung des europäischen Patents entgegensteht. Bei dieser Prüfung fordert die Einspruchsabteilung die Beteiligten so oft wie erforderlich auf, eine Stellungnahme zu ihren Bescheiden oder zu den Schriftsätzen anderer Beteiligter einzureichen.
 
@@ -1974,13 +2172,17 @@ b) den Erfordernissen dieses Übereinkommens nicht genügen, so widerruft sie da
 
 ## Artikel 103
 
-#### Veröffentlichung einer neuen europäischen Patentschrift
+**Veröffentlichung einer neuen europäischen Patentschrift**
+
+#### Art. 103
 
 Ist das europäische Patent nach Artikel 101 Absatz 3 Buchstabe a in geänderter Fassung aufrechterhalten worden, so veröffentlicht das Europäische Patentamt eine neue europäische Patentschrift so bald wie möglich nach Bekanntmachung des Hinweises auf die Entscheidung über den Einspruch im Europäischen Patentblatt.
 
 ## Artikel 104
 
-#### Kosten
+**Kosten**
+
+#### Art. 104
 
 (1) Im Einspruchsverfahren trägt jeder Beteiligte die ihm erwachsenen Kosten selbst, soweit nicht die Einspruchsabteilung, wenn dies der Billigkeit entspricht, nach Maßgabe der Ausführungsordnung eine andere Verteilung der Kosten anordnet.
 
@@ -1990,7 +2192,9 @@ Ist das europäische Patent nach Artikel 101 Absatz 3 Buchstabe a in geänderter
 
 ## Artikel 105
 
-#### Beitritt des vermeintlichen Patentverletzers
+**Beitritt des vermeintlichen Patentverletzers**
+
+#### Art. 105
 
 (1) Jeder Dritte kann nach Ablauf der Einspruchsfrist nach Maßgabe der Ausführungsordnung dem Einspruchsverfahren beitreten, wenn er nachweist, daß
 
@@ -2002,7 +2206,9 @@ b) er nach einer Aufforderung des Patentinhabers, eine angebliche Patentverletzu
 
 ## Artikel 105a
 
-#### Antrag auf Beschränkung oder Widerruf
+**Antrag auf Beschränkung oder Widerruf**
+
+#### Art. 105a
 
 (1) Auf Antrag des Patentinhabers kann das europäische Patent widerrufen oder durch Änderung der Patentansprüche beschränkt werden. Der Antrag ist beim Europäischen Patentamt nach Maßgabe der Ausführungsordnung zu stellen. Er gilt erst als gestellt, wenn die Beschränkungs- oder Widerrufsgebühr entrichtet worden ist.
 
@@ -2010,7 +2216,9 @@ b) er nach einer Aufforderung des Patentinhabers, eine angebliche Patentverletzu
 
 ## Artikel 105b
 
-#### Beschränkung oder Widerruf des europäischen Patents
+**Beschränkung oder Widerruf des europäischen Patents**
+
+#### Art. 105b
 
 (1) Das Europäische Patentamt prüft, ob die in der Ausführungsordnung festgelegten Erfordernisse für eine Beschränkung oder den Widerruf des europäischen Patents erfüllt sind.
 
@@ -2020,7 +2228,9 @@ b) er nach einer Aufforderung des Patentinhabers, eine angebliche Patentverletzu
 
 ## Artikel 105c
 
-#### Veröffentlichung der geänderten europäischen Patentschrift
+**Veröffentlichung der geänderten europäischen Patentschrift**
+
+#### Art. 105c
 
 Ist das europäische Patent nach Artikel 105b Absatz 2 beschränkt worden, so veröffentlicht das Europäische Patentamt die geänderte europäische Patentschrift so bald wie möglich nach Bekanntmachung des Hinweises auf die Beschränkung im Europäischen Patentblatt.
 
@@ -2028,7 +2238,9 @@ Ist das europäische Patent nach Artikel 105b Absatz 2 beschränkt worden, so ve
 
 ### Beschwerdeverfahren — Artikel 106
 
-#### Beschwerdefähige Entscheidungen
+**Beschwerdefähige Entscheidungen**
+
+#### Art. 106
 
 (1) Die Entscheidungen der Eingangsstelle, der Prüfungsabteilungen, der Einspruchsabteilungen und der Rechtsabteilung sind mit der Beschwerde anfechtbar. Die Beschwerde hat aufschiebende Wirkung.
 
@@ -2038,19 +2250,25 @@ Ist das europäische Patent nach Artikel 105b Absatz 2 beschränkt worden, so ve
 
 ## Artikel 107
 
-#### Beschwerdeberechtigte und Verfahrensbeteiligte
+**Beschwerdeberechtigte und Verfahrensbeteiligte**
+
+#### Art. 107
 
 Die Beschwerde steht denjenigen zu, die an dem Verfahren beteiligt waren, das zu der Entscheidung geführt hat, soweit sie durch die Entscheidung beschwert sind. Die übrigen an diesem Verfahren Beteiligten sind am Beschwerdeverfahren beteiligt.
 
 ## Artikel 108
 
-#### Frist und Form
+**Frist und Form**
+
+#### Art. 108
 
 Die Beschwerde ist nach Maßgabe der Ausführungsordnung innerhalb von zwei Monaten nach Zustellung der Entscheidung beim Europäischen Patentamt einzulegen. Die Beschwerde gilt erst als eingelegt, wenn die Beschwerdegebühr entrichtet worden ist. Innerhalb von vier Monaten nach Zustellung der Entscheidung ist die Beschwerde nach Maßgabe der Ausführungsordnung zu begründen.
 
 ## Artikel 109
 
-#### Abhilfe
+**Abhilfe**
+
+#### Art. 109
 
 (1) Erachtet das Organ, dessen Entscheidung angefochten wird, die Beschwerde für zulässig und begründet, so hat es ihr abzuhelfen. Dies gilt nicht, wenn dem Beschwerdeführer ein anderer an dem Verfahren Beteiligter gegenübersteht.
 
@@ -2058,13 +2276,17 @@ Die Beschwerde ist nach Maßgabe der Ausführungsordnung innerhalb von zwei Mona
 
 ## Artikel 110
 
-#### Prüfung der Beschwerde
+**Prüfung der Beschwerde**
+
+#### Art. 110
 
 Ist die Beschwerde zulässig, so prüft die Beschwerdekammer, ob die Beschwerde begründet ist. Die Prüfung der Beschwerde ist nach Maßgabe der Ausführungsordnung durchzuführen.
 
 ## Artikel 111
 
-#### Entscheidung über die Beschwerde
+**Entscheidung über die Beschwerde**
+
+#### Art. 111
 
 (1) Nach der Prüfung, ob die Beschwerde begründet ist, entscheidet die Beschwerdekammer über die Beschwerde. Die Beschwerdekammer wird entweder im Rahmen der Zuständigkeit des Organs tätig, das die angefochtene Entscheidung erlassen hat, oder verweist die Angelegenheit zur weiteren Entscheidung an dieses Organ zurück.
 
@@ -2072,7 +2294,9 @@ Ist die Beschwerde zulässig, so prüft die Beschwerdekammer, ob die Beschwerde 
 
 ## Artikel 112
 
-#### Entscheidung oder Stellungnahme der Großen Beschwerdekammer
+**Entscheidung oder Stellungnahme der Großen Beschwerdekammer**
+
+#### Art. 112
 
 (1) Zur Sicherung einer einheitlichen Rechtsanwendung oder wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt,
 
@@ -2086,7 +2310,9 @@ b) kann der Präsident des Europäischen Patentamts der Großen Beschwerdekammer
 
 ## Artikel 112a
 
-#### Antrag auf Überprüfung durch die Große Beschwerdekammer
+**Antrag auf Überprüfung durch die Große Beschwerdekammer**
+
+#### Art. 112a
 
 (1) Jeder Beteiligte an einem Beschwerdeverfahren, der durch die Entscheidung einer Beschwerdekammer beschwert ist, kann Antrag auf Überprüfung der Entscheidung durch die Große Beschwerdekammer stellen.
 
@@ -2118,7 +2344,9 @@ e) eine nach Maßgabe der Ausführungsordnung festgestellte Straftat die Entsche
 
 ## Artikel 113
 
-#### Rechtliches Gehör
+**Rechtliches Gehör**
+
+#### Art. 113
 
 (1) Entscheidungen des Europäischen Patentamts dürfen nur auf Gründe gestützt werden, zu denen die Beteiligten sich äußern konnten.
 
@@ -2126,7 +2354,9 @@ e) eine nach Maßgabe der Ausführungsordnung festgestellte Straftat die Entsche
 
 ## Artikel 114
 
-#### Ermittlung von Amts wegen
+**Ermittlung von Amts wegen**
+
+#### Art. 114
 
 (1) In den Verfahren vor dem Europäischen Patentamt ermittelt das Europäische Patentamt den Sachverhalt von Amts wegen; es ist dabei weder auf das Vorbringen noch auf die Anträge der Beteiligten beschränkt.
 
@@ -2134,13 +2364,17 @@ e) eine nach Maßgabe der Ausführungsordnung festgestellte Straftat die Entsche
 
 ## Artikel 115
 
-#### Einwendungen Dritter
+**Einwendungen Dritter**
+
+#### Art. 115
 
 In Verfahren vor dem Europäischen Patentamt kann nach Veröffentlichung der europäischen Patentanmeldung jeder Dritte nach Maßgabe der Ausführungsordnung Einwendungen gegen die Patentierbarkeit der Erfindung erheben, die Gegenstand der Anmeldung oder des Patents ist. Der Dritte ist am Verfahren nicht beteiligt.
 
 ## Artikel 116
 
-#### Mündliche Verhandlung
+**Mündliche Verhandlung**
+
+#### Art. 116
 
 (1) Eine mündliche Verhandlung findet entweder auf Antrag eines Beteiligten oder, sofern das Europäische Patentamt dies für sachdienlich erachtet, von Amts wegen statt. Das Europäische Patentamt kann jedoch einen Antrag auf erneute mündliche Verhandlung vor demselben Organ ablehnen, wenn die Parteien und der dem Verfahren zugrunde liegende Sachverhalt unverändert geblieben sind.
 
@@ -2152,7 +2386,9 @@ In Verfahren vor dem Europäischen Patentamt kann nach Veröffentlichung der eur
 
 ## Artikel 117
 
-#### Beweismittel und Beweisaufnahme
+**Beweismittel und Beweisaufnahme**
+
+#### Art. 117
 
 (1) In Verfahren vor dem Europäischen Patentamt sind insbesondere folgende Beweismittel zulässig:
 
@@ -2174,19 +2410,25 @@ g) Abgabe einer schriftlichen Erklärung unter Eid.
 
 ## Artikel 118
 
-#### Einheit der europäischen Patentanmeldung oder des europäischen Patents
+**Einheit der europäischen Patentanmeldung oder des europäischen Patents**
+
+#### Art. 118
 
 Verschiedene Anmelder oder Inhaber eines europäischen Patents für verschiedene benannte Vertragsstaaten gelten im Verfahren vor dem Europäischen Patentamt als gemeinsame Anmelder oder gemeinsame Patentinhaber. Die Einheit der Anmeldung oder des Patents im Verfahren vor dem Europäischen Patentamt wird nicht beeinträchtigt; insbesondere ist die Fassung der Anmeldung oder des Patents für alle benannten Vertragsstaaten einheitlich, sofern in diesem Übereinkommen nichts anderes vorgeschrieben ist.
 
 ## Artikel 119
 
-#### Zustellung
+**Zustellung**
+
+#### Art. 119
 
 Entscheidungen, Ladungen, Bescheide und Mitteilungen werden vom Europäischen Patentamt von Amts wegen nach Maßgabe der Ausführungsordnung zugestellt. Die Zustellungen können, soweit dies außergewöhnliche Umstände erfordern, durch Vermittlung der Zentralbehörden für den gewerblichen Rechtsschutz der Vertragsstaaten bewirkt werden.
 
 ## Artikel 120
 
-#### Fristen
+**Fristen**
+
+#### Art. 120
 
 In der Ausführungsordnung werden bestimmt:
 
@@ -2198,7 +2440,9 @@ c) die Mindest- und die Höchstdauer der vom Europäischen Patentamt zu bestimme
 
 ## Artikel 121
 
-#### Weiterbehandlung der europäischen Patentanmeldung
+**Weiterbehandlung der europäischen Patentanmeldung**
+
+#### Art. 121
 
 (1) Hat der Anmelder eine gegenüber dem Europäischen Patentamt einzuhaltende Frist versäumt, so kann er die Weiterbehandlung der europäischen Patentanmeldung beantragen.
 
@@ -2210,7 +2454,9 @@ c) die Mindest- und die Höchstdauer der vom Europäischen Patentamt zu bestimme
 
 ## Artikel 122
 
-#### Wiedereinsetzung in den vorigen Stand
+**Wiedereinsetzung in den vorigen Stand**
+
+#### Art. 122
 
 (1) Der Anmelder oder Patentinhaber, der trotz Beachtung aller nach den gegebenen Umständen gebotenen Sorgfalt verhindert worden ist, gegenüber dem Europäischen Patentamt eine Frist einzuhalten, wird auf Antrag wieder in den vorigen Stand eingesetzt, wenn die Versäumung dieser Frist zur unmittelbaren Folge hat, daß die europäische Patentanmeldung oder ein Antrag zurückgewiesen wird, die Anmeldung als zurückgenommen gilt, das europäische Patent widerrufen wird oder der Verlust eines sonstigen Rechts oder eines Rechtsmittels eintritt.
 
@@ -2226,7 +2472,9 @@ c) die Mindest- und die Höchstdauer der vom Europäischen Patentamt zu bestimme
 
 ## Artikel 123
 
-#### Änderungen
+**Änderungen**
+
+#### Art. 123
 
 (1) Die europäische Patentanmeldung oder das europäische Patent kann im Verfahren vor dem Europäischen Patentamt nach Maßgabe der Ausführungsordnung geändert werden. In jedem Fall ist dem Anmelder zumindest einmal Gelegenheit zu geben, von sich aus die Anmeldung zu ändern.
 
@@ -2236,7 +2484,9 @@ c) die Mindest- und die Höchstdauer der vom Europäischen Patentamt zu bestimme
 
 ## Artikel 124
 
-#### Auskünfte über den Stand der Technik
+**Auskünfte über den Stand der Technik**
+
+#### Art. 124
 
 (1) Das Europäische Patentamt kann nach Maßgabe der Ausführungsordnung den Anmelder auffordern, Auskünfte über den Stand der Technik zu erteilen, der in nationalen oder regionalen Patentverfahren in Betracht gezogen wurde und eine Erfindung betrifft, die Gegenstand der europäischen Patentanmeldung ist.
 
@@ -2244,7 +2494,9 @@ c) die Mindest- und die Höchstdauer der vom Europäischen Patentamt zu bestimme
 
 ## Artikel 125
 
-#### Heranziehung allgemeiner Grundsätze
+**Heranziehung allgemeiner Grundsätze**
+
+#### Art. 125
 
 Soweit dieses Übereinkommen Vorschriften über das Verfahren nicht enthält, berücksichtigt das Europäische Patentamt die in den Vertragsstaaten im allgemeinen anerkannten Grundsätze des Verfahrensrechts.
 
@@ -2252,13 +2504,17 @@ Soweit dieses Übereinkommen Vorschriften über das Verfahren nicht enthält, be
 
 ### Unterrichtung der Öffentlichkeit und Behörden — Artikel 127
 
-#### Europäisches Patentregister
+**Europäisches Patentregister**
+
+#### Art. 127
 
 Das Europäische Patentamt führt ein Europäisches Patentregister, in das die in der Ausführungsordnung genannten Angaben eingetragen werden. Vor der Veröffentlichung der europäischen Patentanmeldung erfolgt keine Eintragung in das Europäische Patentregister. Jedermann kann in das Europäische Patentregister Einsicht nehmen.
 
 ## Artikel 128
 
-#### Akteneinsicht
+**Akteneinsicht**
+
+#### Art. 128
 
 (1) Einsicht in die Akten europäischer Patentanmeldungen, die noch nicht veröffentlicht worden sind, wird nur mit Zustimmung des Anmelders gewährt.
 
@@ -2272,7 +2528,9 @@ Das Europäische Patentamt führt ein Europäisches Patentregister, in das die i
 
 ## Artikel 129
 
-#### Regelmäßig erscheinende Veröffentlichungen
+**Regelmäßig erscheinende Veröffentlichungen**
+
+#### Art. 129
 
 Das Europäische Patentamt gibt regelmäßig folgende Veröffentlichungen heraus:
 
@@ -2282,7 +2540,9 @@ b) ein Amtsblatt, das allgemeine Bekanntmachungen und Mitteilungen des Präsiden
 
 ## Artikel 130
 
-#### Gegenseitige Unterrichtung
+**Gegenseitige Unterrichtung**
+
+#### Art. 130
 
 (1) Das Europäische Patentamt und die Zentralbehörden für den gewerblichen Rechtsschutz der Vertragsstaaten übermitteln einander auf Ersuchen sachdienliche Angaben über europäische oder nationale Patentanmeldungen und Patente und die sie betreffenden Verfahren, soweit nicht Vorschriften dieses Übereinkommens oder des nationalen Rechts entgegenstehen.
 
@@ -2298,7 +2558,9 @@ c) jeder anderen Organisation.
 
 ## Artikel 131
 
-#### Amts- und Rechtshilfe
+**Amts- und Rechtshilfe**
+
+#### Art. 131
 
 (1) Das Europäische Patentamt und die Gerichte oder Behörden der Vertragsstaaten unterstützen einander auf Antrag durch die Erteilung von Auskünften oder die Gewährung von Akteneinsicht, soweit nicht Vorschriften dieses Übereinkommens oder des nationalen Rechts entgegenstehen. Gewährt das Europäische Patentamt Gerichten, Staatsanwaltschaften oder Zentralbehörden für den gewerblichen Rechtsschutz Akteneinsicht, so unterliegt diese nicht den Beschränkungen des Artikels 128.
 
@@ -2306,7 +2568,9 @@ c) jeder anderen Organisation.
 
 ## Artikel 132
 
-#### Austausch von Veröffentlichungen
+**Austausch von Veröffentlichungen**
+
+#### Art. 132
 
 (1) Das Europäische Patentamt und die Zentralbehörden für den gewerblichen Rechtsschutz der Vertragsstaaten übermitteln einander auf entsprechendes Ersuchen kostenlos für ihre eigenen Zwecke ein oder mehrere Exemplare ihrer Veröffentlichungen.
 
@@ -2316,7 +2580,9 @@ c) jeder anderen Organisation.
 
 ### Vertretung — Artikel 133
 
-#### Allgemeine Grundsätze der Vertretung
+**Allgemeine Grundsätze der Vertretung**
+
+#### Art. 133
 
 (1) Vorbehaltlich des Absatzes 2 ist niemand verpflichtet, sich in den durch dieses Übereinkommen geschaffenen Verfahren durch einen zugelassenen Vertreter vertreten zu lassen.
 
@@ -2328,7 +2594,9 @@ c) jeder anderen Organisation.
 
 ## Artikel 134
 
-#### Vertretung vor dem Europäischen Patentamt
+**Vertretung vor dem Europäischen Patentamt**
+
+#### Art. 134
 
 (1) Die Vertretung natürlicher oder juristischer Personen in den durch dieses Übereinkommen geschaffenen Verfahren kann nur durch zugelassene Vertreter wahrgenommen werden, die in einer beim Europäischen Patentamt geführten Liste eingetragen sind.
 
@@ -2366,7 +2634,9 @@ b) von der Voraussetzung nach Absatz 3 Buchstabe c Satz 2, wenn der Antragstelle
 
 ## Artikel 134a
 
-#### Institut der beim Europäischen Patentamt zugelassenen Vertreter
+**Institut der beim Europäischen Patentamt zugelassenen Vertreter**
+
+#### Art. 134a
 
 (1) Der Verwaltungsrat ist befugt, Vorschriften zu erlassen und zu ändern über:
 
@@ -2388,7 +2658,9 @@ d) die Verschwiegenheitspflicht und das Recht des zugelassenen Vertreters, die O
 
 ## Artikel 135
 
-#### Umwandlungsantrag
+**Umwandlungsantrag**
+
+#### Art. 135
 
 (1) Die Zentralbehörde für den gewerblichen Rechtsschutz eines benannten Vertragsstaats leitet auf Antrag des Anmelders oder Inhabers eines europäischen Patents das Verfahren zur Erteilung eines nationalen Patents in den folgenden Fällen ein:
 
@@ -2404,7 +2676,9 @@ b) in den sonstigen vom nationalen Recht vorgesehenen Fällen, in denen nach die
 
 ## Artikel 137
 
-#### Formvorschriften für die Umwandlung
+**Formvorschriften für die Umwandlung**
+
+#### Art. 137
 
 (1) Eine europäische Patentanmeldung, die nach Artikel 135 Absatz 2 oder 3 übermittelt worden ist, darf nicht solchen Formerfordernissen des nationalen Rechts unterworfen werden, die von den im Übereinkommen vorgesehenen abweichen oder über sie hinausgehen.
 
@@ -2418,7 +2692,9 @@ b) eine Übersetzung der europäischen Patentanmeldung in einer der Amtssprachen
 
 ### Nichtigkeit und ältere Rechte — Artikel 138
 
-#### Nichtigkeit europäischer Patente
+**Nichtigkeit europäischer Patente**
+
+#### Art. 138
 
 (1) Vorbehaltlich des Artikels 139 kann das europäische Patent mit Wirkung für einen Vertragsstaat nur für nichtig erklärt werden, wenn
 
@@ -2438,7 +2714,9 @@ e) der Inhaber des europäischen Patents nicht nach Artikel 60 Absatz 1 berechti
 
 ## Artikel 139
 
-#### Ältere Rechte und Rechte mit gleichem Anmelde- oder Prioritätstag
+**Ältere Rechte und Rechte mit gleichem Anmelde- oder Prioritätstag**
+
+#### Art. 139
 
 (1) In jedem benannten Vertragsstaat haben eine europäische Patentanmeldung und ein europäisches Patent gegenüber einer nationalen Patentanmeldung und einem nationalen Patent die gleiche Wirkung als älteres Recht wie eine nationale Patentanmeldung und ein nationales Patent.
 
@@ -2450,13 +2728,17 @@ e) der Inhaber des europäischen Patents nicht nach Artikel 60 Absatz 1 berechti
 
 ### Sonstige Auswirkungen — Artikel 140
 
-#### Nationale Gebrauchsmuster und Gebrauchszertifikate
+**Nationale Gebrauchsmuster und Gebrauchszertifikate**
+
+#### Art. 140
 
 Die Artikel 66, 124, 135, 137 und 139 sind in den Vertragsstaaten, deren Recht Gebrauchsmuster oder Gebrauchszertifikate vorsieht, auf diese Schutzrechte und deren Anmeldungen entsprechend anzuwenden.
 
 ## Artikel 141
 
-#### Jahresgebühren für das europäische Patent
+**Jahresgebühren für das europäische Patent**
+
+#### Art. 141
 
 (1) Jahresgebühren für das europäische Patent können nur für die sich an das in Artikel 86 Absatz 2 genannte Jahr anschließenden Jahre erhoben werden.
 
@@ -2466,7 +2748,9 @@ Die Artikel 66, 124, 135, 137 und 139 sind in den Vertragsstaaten, deren Recht G
 
 ### Besondere Übereinkommen — Artikel 142
 
-#### Einheitliche Patente
+**Einheitliche Patente**
+
+#### Art. 142
 
 (1) Eine Gruppe von Vertragsstaaten, die in einem besonderen Übereinkommen bestimmt hat, daß die für diese Staaten erteilten europäischen Patente für die Gesamtheit ihrer Hoheitsgebiete einheitlich sind, kann vorsehen, daß europäische Patente nur für alle diese Staaten gemeinsam erteilt werden können.
 
@@ -2474,7 +2758,9 @@ Die Artikel 66, 124, 135, 137 und 139 sind in den Vertragsstaaten, deren Recht G
 
 ## Artikel 143
 
-#### Besondere Organe des Europäischen Patentamts
+**Besondere Organe des Europäischen Patentamts**
+
+#### Art. 143
 
 (1) Die Gruppe von Vertragsstaaten kann dem Europäischen Patentamt zusätzliche Aufgaben übertragen.
 
@@ -2482,13 +2768,17 @@ Die Artikel 66, 124, 135, 137 und 139 sind in den Vertragsstaaten, deren Recht G
 
 ## Artikel 144
 
-#### Vertretung vor den besonderen Organen
+**Vertretung vor den besonderen Organen**
+
+#### Art. 144
 
 Die Gruppe von Vertragsstaaten kann die Vertretung vor den in Artikel 143 Absatz 2 genannten Organen besonders regeln.
 
 ## Artikel 145
 
-#### Engerer Ausschuß des Verwaltungsrats
+**Engerer Ausschuß des Verwaltungsrats**
+
+#### Art. 145
 
 (1) Die Gruppe von Vertragsstaaten kann zur Überwachung der Tätigkeit der nach Artikel 143 Absatz 2 gebildeten besonderen Organe einen engeren Ausschuß des Verwaltungsrats einsetzen, dem das Europäische Patentamt das Personal, die Räumlichkeiten und die Ausstattung zur Verfügung stellt, die er zur Durchführung seiner Aufgaben benötigt. Der Präsident des Europäischen Patentamts ist dem engeren Ausschuß des Verwaltungsrats gegenüber für die Tätigkeit der besonderen Organe verantwortlich.
 
@@ -2496,7 +2786,9 @@ Die Gruppe von Vertragsstaaten kann die Vertretung vor den in Artikel 143 Absatz
 
 ## Artikel 146
 
-#### Deckung der Kosten für die Durchführung besonderer Aufgaben
+**Deckung der Kosten für die Durchführung besonderer Aufgaben**
+
+#### Art. 146
 
 Sind dem Europäischen Patentamt nach Artikel 143 zusätzliche Aufgaben übertragen worden, so trägt die Gruppe von Vertragsstaaten die der Organisation bei der Durchführung dieser Aufgaben entstehenden Kosten. Sind für die Durchführung dieser Aufgaben im Europäischen Patentamt besondere Organe gebildet worden, so trägt die Gruppe die diesen Organen zurechenbaren Kosten für das Personal, die Räumlichkeiten und die Ausstattung. Artikel 39 Absätze 3 und 4,
 
@@ -2504,13 +2796,17 @@ Artikel 41 und Artikel 47 sind entsprechend anzuwenden.
 
 ## Artikel 147
 
-#### Zahlungen auf Grund der für die Aufrechterhaltung des einheitlichen Patents erhobenen Gebühren
+**Zahlungen auf Grund der für die Aufrechterhaltung des einheitlichen Patents erhobenen Gebühren**
+
+#### Art. 147
 
 Hat die Gruppe von Vertragsstaaten für das europäische Patent einheitliche Jahresgebühren festgesetzt, so bezieht sich der Anteil nach Artikel 39 Absatz 1 auf diese einheitlichen Gebühren; der Mindestbetrag nach Artikel 39 Absatz 1 bezieht sich auf das einheitliche Patent. Artikel 39 Absätze 3 und 4 ist entsprechend anzuwenden.
 
 ## Artikel 148
 
-#### Die europäische Patentanmeldung als Gegenstand des Vermögens
+**Die europäische Patentanmeldung als Gegenstand des Vermögens**
+
+#### Art. 148
 
 (1) Artikel 74 ist anzuwenden, wenn die Gruppe von Vertragsstaaten nichts anderes bestimmt hat.
 
@@ -2518,7 +2814,9 @@ Hat die Gruppe von Vertragsstaaten für das europäische Patent einheitliche Jah
 
 ## Artikel 149
 
-#### Gemeinsame Benennung
+**Gemeinsame Benennung**
+
+#### Art. 149
 
 (1) Die Gruppe von Vertragsstaaten kann vorschreiben, daß ihre Benennung nur gemeinsam erfolgen kann und daß die Benennung eines oder mehrerer der Vertragsstaaten der Gruppe als Benennung aller dieser Vertragsstaaten gilt.
 
@@ -2526,7 +2824,9 @@ Hat die Gruppe von Vertragsstaaten für das europäische Patent einheitliche Jah
 
 ## Artikel 149a
 
-#### Andere Übereinkommen zwischen den Vertragsstaaten
+**Andere Übereinkommen zwischen den Vertragsstaaten**
+
+#### Art. 149a
 
 (1) Dieses Übereinkommen läßt das Recht aller oder einiger Vertragsstaaten unberührt, besondere Übereinkommen über alle europäische Patentanmeldungen oder Patente betreffenden Fragen zu schließen, die nach diesem Übereinkommen nationalem Recht unterliegen und dort geregelt sind, wie insbesondere
 
@@ -2548,7 +2848,9 @@ b) das Europäische Patentamt einer gemeinsamen Einrichtung das Unterstützungsp
 
 ### INTERNATIONALE ANMELDUNGEN NACH DEM VERTRAG ÜBER DIE INTERNATIONALE ZUSAMMENARBEIT AUF DEM GEBIET DES PATENTWESENS – EURO-PCT-ANMELDUNGEN — Artikel 150
 
-#### Anwendung des Vertrags über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
+**Anwendung des Vertrags über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens**
+
+#### Art. 150
 
 (1) Der Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens vom 19. Juni 1970, im folgenden PCT genannt, ist nach Maßgabe dieses Teils anzuwenden.
 
@@ -2556,19 +2858,25 @@ b) das Europäische Patentamt einer gemeinsamen Einrichtung das Unterstützungsp
 
 ## Artikel 151
 
-#### Das Europäische Patentamt als Anmeldeamt
+**Das Europäische Patentamt als Anmeldeamt**
+
+#### Art. 151
 
 Das Europäische Patentamt wird nach Maßgabe der Ausführungsordnung als Anmeldeamt im Sinne des PCT tätig. Artikel 75 Absatz 2 ist entsprechend anzuwenden.
 
 ## Artikel 152
 
-#### Das Europäische Patentamt als Internationale Recherchenbehörde oder als mit der internationalen vorläufigen Prüfung beauftragte Behörde
+**Das Europäische Patentamt als Internationale Recherchenbehörde oder als mit der internationalen vorläufigen Prüfung beauftragte Behörde**
+
+#### Art. 152
 
 Das Europäische Patentamt wird nach Maßgabe einer zwischen der Organisation und dem Internationalen Büro der Weltorganisation für geistiges Eigentum geschlossenen Vereinbarung als Internationale Recherchenbehörde und als mit der internationalen vorläufigen Prüfung beauftragte Behörde im Sinne des PCT für Anmelder tätig, die entweder Staatsangehörige eines Vertragsstaats dieses Übereinkommens sind oder dort ihren Wohnsitz oder Sitz haben. Diese Vereinbarung kann vorsehen, daß das Europäische Patentamt auch für andere Anmelder tätig wird.
 
 ## Artikel 153
 
-#### Das Europäische Patentamt als Bestimmungsamt oder ausgewähltes Amt
+**Das Europäische Patentamt als Bestimmungsamt oder ausgewähltes Amt**
+
+#### Art. 153
 
 (1) Das Europäische Patentamt ist
 
@@ -2592,7 +2900,9 @@ b) ausgewähltes Amt, wenn der Anmelder einen nach Buchstabe a bestimmten Staat 
 
 ### Schlußbestimmungen — Artikel 164
 
-#### Ausführungsordnung und Protokolle
+**Ausführungsordnung und Protokolle**
+
+#### Art. 164
 
 (1) Die Ausführungsordnung, das Anerkennungsprotokoll, das Protokoll über Vorrechte und Immunitäten, das Zentralisierungsprotokoll, das Protokoll über die Auslegung des Artikels 69 sowie das Personalstandsprotokoll sind Bestandteile des Übereinkommens.
 
@@ -2600,7 +2910,9 @@ b) ausgewähltes Amt, wenn der Anmelder einen nach Buchstabe a bestimmten Staat 
 
 ## Artikel 165
 
-#### Unterzeichnung - Ratifikation
+**Unterzeichnung - Ratifikation**
+
+#### Art. 165
 
 (1) Dieses Übereinkommen liegt für die Staaten, die an der Regierungskonferenz über die Einführung eines europäischen Patenterteilungsverfahrens teilgenommen haben oder die über die Abhaltung dieser Konferenz unterrichtet worden sind und denen die Möglichkeit der Teilnahme geboten worden ist, bis zum 5. April 1974 zur Unterzeichnung auf.
 
@@ -2608,7 +2920,9 @@ b) ausgewähltes Amt, wenn der Anmelder einen nach Buchstabe a bestimmten Staat 
 
 ## Artikel 166
 
-#### Beitritt
+**Beitritt**
+
+#### Art. 166
 
 (1) Dieses Übereinkommen steht zum Beitritt offen:
 
@@ -2622,7 +2936,9 @@ b) auf Einladung des Verwaltungsrats jedem anderen europäischen Staat.
 
 ## Artikel 168
 
-#### Räumlicher Anwendungsbereich
+**Räumlicher Anwendungsbereich**
+
+#### Art. 168
 
 (1) Jeder Vertragsstaat kann in seiner Ratifikations- oder Beitrittsurkunde oder zu jedem späteren Zeitpunkt durch eine Notifikation an die Regierung der Bundesrepublik Deutschland erklären, daß das Übereinkommen auf alle oder einzelne Hoheitsgebiete anzuwenden ist, für deren auswärtige Beziehungen es verantwortlich ist. Die für den betreffenden Vertragsstaat erteilten europäischen Patente haben auch in den Hoheitsgebieten Wirkung, für die eine solche Erklärung wirksam ist.
 
@@ -2632,7 +2948,9 @@ b) auf Einladung des Verwaltungsrats jedem anderen europäischen Staat.
 
 ## Artikel 169
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 169
 
 (1) Dieses Übereinkommen tritt in Kraft drei Monate nach Hinterlegung der letzten Ratifikations- oder Beitrittsurkunde von sechs Staaten, in deren Hoheitsgebiet im Jahre 1970 insgesamt mindestens 180 000 Patentanmeldungen für die Gesamtheit dieser Staaten eingereicht wurden.
 
@@ -2640,7 +2958,9 @@ b) auf Einladung des Verwaltungsrats jedem anderen europäischen Staat.
 
 ## Artikel 170
 
-#### Aufnahmebeitrag
+**Aufnahmebeitrag**
+
+#### Art. 170
 
 (1) Jeder Staat, der nach Inkrafttreten dieses Übereinkommens das Übereinkommen ratifiziert oder ihm beitritt, hat der Organisation einen Aufnahmebeitrag zu zahlen, der nicht zurückgezahlt wird.
 
@@ -2650,13 +2970,17 @@ b) auf Einladung des Verwaltungsrats jedem anderen europäischen Staat.
 
 ## Artikel 171
 
-#### Geltungsdauer des Übereinkommens
+**Geltungsdauer des Übereinkommens**
+
+#### Art. 171
 
 Dieses Übereinkommen wird auf unbegrenzte Zeit geschlossen.
 
 ## Artikel 172
 
-#### Revision
+**Revision**
+
+#### Art. 172
 
 (1) Dieses Übereinkommen kann durch Konferenzen der Vertragsstaaten revidiert werden.
 
@@ -2668,7 +2992,9 @@ Dieses Übereinkommen wird auf unbegrenzte Zeit geschlossen.
 
 ## Artikel 173
 
-#### Streitigkeiten zwischen Vertragsstaaten
+**Streitigkeiten zwischen Vertragsstaaten**
+
+#### Art. 173
 
 (1) Jede Streitigkeit zwischen Vertragsstaaten über die Auslegung oder Anwendung dieses Übereinkommens, die nicht im Verhandlungsweg beigelegt worden ist, wird auf Ersuchen eines beteiligten Staats dem Verwaltungsrat unterbreitet, der sich bemüht, eine Einigung zwischen diesen Staaten herbeizuführen.
 
@@ -2676,13 +3002,17 @@ Dieses Übereinkommen wird auf unbegrenzte Zeit geschlossen.
 
 ## Artikel 174
 
-#### Kündigung
+**Kündigung**
+
+#### Art. 174
 
 Jeder Vertragsstaat kann dieses Übereinkommen jederzeit kündigen. Die Kündigung wird der Regierung der Bundesrepublik Deutschland notifiziert. Sie wird ein Jahr nach dem Tag dieser Notifikation wirksam.
 
 ## Artikel 175
 
-#### Aufrechterhaltung wohlerworbener Rechte
+**Aufrechterhaltung wohlerworbener Rechte**
+
+#### Art. 175
 
 (1) Hört ein Staat nach Artikel 172 Absatz 4 oder Artikel 174 auf, Vertragspartei dieses Übereinkommens zu sein, so berührt dies nicht die nach diesem Übereinkommen bereits erworbenen Rechte.
 
@@ -2694,7 +3024,9 @@ Jeder Vertragsstaat kann dieses Übereinkommen jederzeit kündigen. Die Kündigu
 
 ## Artikel 176
 
-#### Finanzielle Rechte und Pflichten eines ausgeschiedenen Vertragsstaats
+**Finanzielle Rechte und Pflichten eines ausgeschiedenen Vertragsstaats**
+
+#### Art. 176
 
 (1) Jeder Staat, der nach Artikel 172 Absatz 4 oder Artikel 174 nicht mehr dem Übereinkommen angehört, erhält die von ihm nach Artikel 40 Absatz 2 geleisteten besonderen Finanzbeiträge von der Organisation erst zu dem Zeitpunkt und den Bedingungen zurück, zu denen die Organisation besondere Finanzbeiträge, die im gleichen Haushaltsjahr von anderen Staaten gezahlt worden sind, zurückzahlt.
 
@@ -2702,7 +3034,9 @@ Jeder Vertragsstaat kann dieses Übereinkommen jederzeit kündigen. Die Kündigu
 
 ## Artikel 177
 
-#### Sprachen des Übereinkommens
+**Sprachen des Übereinkommens**
+
+#### Art. 177
 
 (1) Dieses Übereinkommen ist in einer Urschrift in deutscher, englischer und französischer Sprache abgefaßt, wobei jeder Wortlaut gleichermaßen verbindlich ist, und wird im Archiv der Bundesrepublik Deutschland hinterlegt.
 
@@ -2710,7 +3044,9 @@ Jeder Vertragsstaat kann dieses Übereinkommen jederzeit kündigen. Die Kündigu
 
 ## Artikel 178
 
-#### Übermittlungen und Notifikationen
+**Übermittlungen und Notifikationen**
+
+#### Art. 178
 
 (1) Die Regierung der Bundesrepublik Deutschland stellt beglaubigte Abschriften des Übereinkommens her und übermittelt sie den Regierungen aller anderen Staaten, die das Übereinkommen unterzeichnet haben oder ihm beigetreten sind.
 
@@ -2738,7 +3074,9 @@ GESCHEHEN zu München am fünften Oktober neunzehnhundertdreiundsiebzig.
 
 ### Artikel 1
 
-#### Allgemeine Grundsätze
+**Allgemeine Grundsätze**
+
+#### Anl. 1
 
 Artikel 69 ist nicht in der Weise auszulegen, daß unter dem Schutzbereich des europäischen Patents der Schutzbereich zu verstehen ist, der sich aus dem genauen Wortlaut der Patentansprüche ergibt, und daß die Beschreibung sowie die Zeichnungen nur zur Behebung etwaiger Unklarheiten in den Patentansprüchen anzuwenden sind. Ebensowenig ist Artikel 69 dahingehend auszulegen, daß die Patentansprüche lediglich als Richtlinie dienen und der Schutzbereich sich auch auf das erstreckt, was sich dem Fachmann nach Prüfung der Beschreibung und der Zeichnungen als Schutzbegehren des Patentinhabers darstellt. Die Auslegung soll vielmehr zwischen diesen extremen Auffassungen liegen und einen angemessenen Schutz für den Patentinhaber mit ausreichender Rechtssicherheit für Dritte verbinden.
 

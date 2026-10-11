@@ -367,7 +367,9 @@ Ab 2011 prüfen die Vertragsparteien die Möglichkeit einer Streichung dieser Au
 
 8\. Die Vertragsparteien stellen sicher, dass ein System verhältnismäßiger Sanktionen, die finanzielle Sanktionen umfassen können, für den Fall besteht, dass Unternehmen oder mit ihnen verbundene Verlader, Spediteure, Reiseveranstalter, Hauptauftragnehmer, Unterauftragnehmer und Fahrervermittlungsagenturen gegen das vorliegende Übereinkommen verstoßen.
 
-#### Artikel12<sup>bis</sup> (Standardisierte Musterformulare)
+**Artikel12<sup>bis</sup> (Standardisierte Musterformulare)**
+
+#### Art. 12a
 
 1\. Zur Vereinfachung internationaler Straßenkontrollen werden standardisierte Musterformblätter, die bei Bedarf verwendet werden, in den Anhang aufgenommen, der entsprechend um eine neue Anlage 3 erweitert wird. Diese Formulare werden gemäß dem in Artikel 22ter festgelegten Verfahren aufgenommen oder geändert.
 
@@ -565,7 +567,9 @@ GESCHEHEN zu Genf am ersten Juli neunzehnhundertsiebzig in einer Urschrift in en
 
 ## ANHANG — Kontrollgerät — Allgemeine Vorschriften — I. Bauartgenehmigung
 
-#### <u>Art. 1</u>
+**<u>Art. 1</u>**
+
+#### Anl. 1
 
 Im Sinne dieses Kapitels ist unter dem Ausdruck „Kontrollgerät“ das „Kontrollgerät oder seine Komponenten“ zu verstehen.
 

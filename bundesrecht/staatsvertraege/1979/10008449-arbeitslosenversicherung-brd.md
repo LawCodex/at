@@ -41,7 +41,9 @@ Die Bevollmächtigten haben nach Austausch ihrer in guter und gehöriger Form be
 
 ### Allgemeine Bestimmungen — Artikel 1
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 1
 
 In diesem Abkommen bedeuten die Ausdrücke
 
@@ -101,7 +103,9 @@ die Bundesanstalt für Arbeit.
 
 ## Artikel 2
 
-#### Sachlicher Geltungsbereich
+**Sachlicher Geltungsbereich**
+
+#### Art. 2
 
 (1) Dieses Abkommen bezieht sich auf die österreichischen Rechtsvorschriften über
 
@@ -135,7 +139,9 @@ einschließlich der Rechtsvorschriften über die Beiträge und Umlagen.
 
 ## Artikel 3
 
-#### Persönlicher Geltungsbereich
+**Persönlicher Geltungsbereich**
+
+#### Art. 3
 
 Dieses Abkommen gilt
 
@@ -145,13 +151,17 @@ b) für Flüchtlinge und Staatenlose, die sich im Gebiet eines der beiden Vertra
 
 ## Artikel 4
 
-#### Gleichbehandlung
+**Gleichbehandlung**
+
+#### Art. 4
 
 Ist der Anspruch auf eine in Artikel 2 Absatz 1 festgelegte Leistung nach den Rechtsvorschriften des Vertragsstaates, in dem diese Leistung beantragt wird, von der Staatsangehörigkeit dieses Vertragsstaates abhängig, so sind die Personen, für die dieses Abkommen nach Artikel 3 gilt, den Staatsangehörigen dieses Vertragsstaates gleichgestellt.
 
 ## Artikel 5
 
-#### Versicherungs- und Beitragspflicht
+**Versicherungs- und Beitragspflicht**
+
+#### Art. 5
 
 (1) Die Versicherungs- und Beitragspflicht richtet sich nach den Rechtsvorschriften des Vertragsstaates, in dessen Gebiet der Arbeitnehmer beschäftigt ist, und zwar auch dann, wenn sich der Arbeitgeber im Gebiet des anderen Vertragsstaates befindet.
 
@@ -165,13 +175,17 @@ Ist der Anspruch auf eine in Artikel 2 Absatz 1 festgelegte Leistung nach den Re
 
 ### Artikel 6
 
-#### Allgemeiner Grundsatz
+**Allgemeiner Grundsatz**
+
+#### Art. 6
 
 Der Anspruch auf die in Artikel 2 Absatz 1 angeführten Leistungen und das Verfahren richten sich nach den Rechtsvorschriften des Vertragsstaates, in dessen Gebiet der Anspruch geltend gemacht wird, soweit die folgenden Bestimmungen nicht anderes festlegen.
 
 ## Artikel 7
 
-#### Berücksichtigung von Zeiten einer beitragspflichtigen Beschäftigung, die nach den Rechtsvorschriften des anderen Vertragsstaates zurückgelegt worden sind
+**Berücksichtigung von Zeiten einer beitragspflichtigen Beschäftigung, die nach den Rechtsvorschriften des anderen Vertragsstaates zurückgelegt worden sind**
+
+#### Art. 7
 
 (1) Zeiten einer beitragspflichtigen Beschäftigung, die nach den Rechtsvorschriften des anderen Vertragsstaates zurückgelegt worden sind, werden bei der Beurteilung, ob die Anwartschaftszeit erfüllt ist, und bei der Festsetzung der Bezugsdauer (Anspruchsdauer) berücksichtigt, sofern der Antragsteller die Staatsangehörigkeit des Vertragsstaates besitzt, in dem der Anspruch geltend gemacht wird, und sich im Gebiet dieses Vertragsstaates gewöhnlich aufhält. Das gleiche gilt, wenn der Antragsteller zwecks Familienzusammenführung in den Vertragsstaat, in dem der Anspruch geltend gemacht wird, übersiedelt ist und sein bereits dort lebender Ehegatte die Staatsangehörigkeit dieses Vertragsstaates besitzt.
 
@@ -179,7 +193,9 @@ Der Anspruch auf die in Artikel 2 Absatz 1 angeführten Leistungen und das Verfa
 
 ## Artikel 8
 
-#### Sonderregelung für Grenzgänger
+**Sonderregelung für Grenzgänger**
+
+#### Art. 8
 
 (1) Grenzgänger erhalten Arbeitslosengeld in dem Vertragsstaat, in dessen Gebiet sie ihren gewöhnlichen Aufenthalt haben. Bei der Beurteilung, ob die Anwartschaftszeit erfüllt ist, und bei der Festsetzung der Bezugsdauer (Anspruchsdauer) werden Zeiten einer beitragspflichtigen Beschäftigung, die nach den Rechtsvorschriften des anderen Vertragsstaates zurückgelegt worden sind, berücksichtigt.
 
@@ -193,13 +209,17 @@ Der Anspruch auf die in Artikel 2 Absatz 1 angeführten Leistungen und das Verfa
 
 ## Artikel 9
 
-#### Minderung der Bezugsdauer (Anspruchsdauer)
+**Minderung der Bezugsdauer (Anspruchsdauer)**
+
+#### Art. 9
 
 Die Bezugsdauer (Anspruchsdauer) wird um die Zeit gemindert, in der der Arbeitslose im anderen Vertragsstaat innerhalb der letzten 12 Monate vor dem Tag der Antragstellung bereits Arbeitslosengeld bezogen hat. Als eine Zeit, in der der Arbeitslose Leistungen bezogen hat, gilt auch eine Zeit, in der Leistungen wegen eines schuldhaften Verhaltens des Arbeitslosen nicht gewährt wurden.
 
 ## Artikel 10
 
-#### Berücksichtigung von Einkünften, die im anderen Vertragsstaat erzielt werden
+**Berücksichtigung von Einkünften, die im anderen Vertragsstaat erzielt werden**
+
+#### Art. 10
 
 Einkünfte aus der Sozialen Sicherheit des anderen Vertragsstaates sind in gleicher Weise zu berücksichtigen, wie vergleichbare Leistungen aus der Sozialen Sicherheit des Vertragsstaates, in dessen Gebiet der Anspruch geltend gemacht wird.
 
@@ -207,13 +227,17 @@ Einkünfte aus der Sozialen Sicherheit des anderen Vertragsstaates sind in gleic
 
 ### Verschiedene Bestimmungen — Artikel 11
 
-#### Amtshilfe
+**Amtshilfe**
+
+#### Art. 11
 
 Die Träger, Verbände auf dem Gebiet der Sozialen Sicherheit, Behörden und Gerichte der Vertragsstaaten leisten einander bei der Durchführung der in Artikel 2 Absatz 1 bezeichneten Rechtsvorschriften und dieses Abkommens gegenseitige Hilfe, als wendeten sie die für sie geltenden Rechtsvorschriften an. Die Hilfe ist mit Ausnahme der Barauslagen kostenlos.
 
 ## Artikel 12
 
-#### Befreiung von Gebühren sowie vom Beglaubigungszwang
+**Befreiung von Gebühren sowie vom Beglaubigungszwang**
+
+#### Art. 12
 
 (1) Die nach den Rechtsvorschriften eines Vertragsstaates vorgesehene Befreiung oder Ermäßigung von Steuern oder Gebühren einschließlich Konsulargebühren und Verwaltungsabgaben für Schriftstücke oder Urkunden, die in Anwendung dieser Rechtsvorschriften vorzulegen sind, erstreckt sich auch auf die entsprechenden Schriftstücke und Urkunden, die in Anwendung dieses Abkommens oder der in Artikel 2 Absatz 1 bezeichneten Rechtsvorschriften des anderen Vertragsstaates vorzulegen sind.
 
@@ -221,7 +245,9 @@ Die Träger, Verbände auf dem Gebiet der Sozialen Sicherheit, Behörden und Ger
 
 ## Artikel 13
 
-#### Unmittelbarer Verkehr
+**Unmittelbarer Verkehr**
+
+#### Art. 13
 
 (1) Die in Artikel 11 genannten Stellen der beiden Vertragsstaaten verkehren bei der Durchführung der in Artikel 2 Absatz 1 bezeichneten Rechtsvorschriften und dieses Abkommens miteinander sowie mit den Arbeitgebern und Arbeitnehmern und ihren Vertretern unmittelbar.
 
@@ -229,7 +255,9 @@ Die Träger, Verbände auf dem Gebiet der Sozialen Sicherheit, Behörden und Ger
 
 ## Artikel 14
 
-#### Verwaltungsvereinbarung und gegenseitige Unterrichtung
+**Verwaltungsvereinbarung und gegenseitige Unterrichtung**
+
+#### Art. 14
 
 (1) Die zuständigen Behörden der beiden Vertragsstaaten können unmittelbar miteinander das Nähere über die zur Durchführung dieses Abkommens erforderlichen Maßnahmen vereinbaren, soweit sie ein gegenseitiges Einverständnis bedingen. Sie unterrichten einander über die zur Durchführung des Abkommens getroffenen Maßnahmen sowie über Änderungen und Ergänzungen ihrer Rechtsvorschriften, die seine Durchführung berühren.
 
@@ -245,7 +273,9 @@ das Landesarbeitsamt Südbayern in München.
 
 ## Artikel 15
 
-#### Erstattung von zu Unrecht gewährten Leistungen sowie von Vorschüssen
+**Erstattung von zu Unrecht gewährten Leistungen sowie von Vorschüssen**
+
+#### Art. 15
 
 (1) Hat der Träger eines Vertragsstaates einer Person zu Unrecht Leistungen gewährt, so kann auf dessen Ersuchen und zu dessen Gunsten der zuständige Träger des anderen Vertragsstaates den zu Unrecht gewährten Betrag von einer Nachzahlung auf den laufenden Zahlungen an den Berechtigten nach Maßgabe der für ihn geltenden innerstaatlichen Rechtsvorschriften einbehalten.
 
@@ -255,25 +285,33 @@ das Landesarbeitsamt Südbayern in München.
 
 ### Übergangs- und Schlußbestimmungen — Artikel 16
 
-#### Übergangsregelung
+**Übergangsregelung**
+
+#### Art. 16
 
 Dieses Abkommen begründet keinen Anspruch auf Zahlung von Leistungen für die Zeit vor seinem Inkrafttreten. Entscheidungen, die vor Inkrafttreten getroffen wurden, werden durch dieses Abkommen nicht berührt.
 
 ## Artikel 17
 
-#### Schlußprotokoll
+**Schlußprotokoll**
+
+#### Art. 17
 
 Das beiliegende Schlußprotokoll ist Bestandteil dieses Abkommens.
 
 ## Artikel 18
 
-#### Geltung für das Land Berlin
+**Geltung für das Land Berlin**
+
+#### Art. 18
 
 Dieses Abkommen gilt auch für das Land Berlin, sofern nicht die Regierung der Bundesrepublik Deutschland gegenüber der Bundesregierung der Republik Österreich innerhalb von drei Monaten nach Inkrafttreten des Abkommens eine gegenteilige Erklärung abgibt.
 
 ## Artikel 19
 
-#### Ratifikation, Inkrafttreten
+**Ratifikation, Inkrafttreten**
+
+#### Art. 19
 
 (1) Dieses Abkommen bedarf der Ratifikation. Die Ratifikationsurkunden werden so bald wie möglich in Bonn ausgetauscht
 
@@ -283,7 +321,9 @@ werden.
 
 ## Artikel 20
 
-#### Geltungsdauer, Außerkrafttreten
+**Geltungsdauer, Außerkrafttreten**
+
+#### Art. 20
 
 (1) Das Abkommen wird auf unbestimmte Zeit geschlossen. Jeder Vertragsstaat kann es unter Einhaltung einer Frist von drei Monaten zum Ende eines Kalenderjahres kündigen.
 
@@ -291,7 +331,9 @@ werden.
 
 ## Artikel 21
 
-#### Außerkrafttreten früherer Abkommen
+**Außerkrafttreten früherer Abkommen**
+
+#### Art. 21
 
 Mit dem Inkrafttreten dieses Abkommens treten außer Kraft:
 

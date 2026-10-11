@@ -57,7 +57,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 <sup>1</sup>) ABl. Nr. L 379 vom 30. 12. 1978, S 1. Geändert durch die Verordnung (EWG) Nr. 1971/89 (ABl. Nr. L 189 vom 4. 7. 1989, S 1).
 
-## Kapitel I Artikel 1
+**Kapitel I Artikel 1**
+
+## Art. 1
 
 (1) Die Mitgliedstaaten schaffen einen 8. Europäischen Entwicklungsfonds (1995) - nachstehend „Fonds“ genannt.
 
@@ -277,7 +279,9 @@ Die Provisionen, die der Bank für die Verwaltung der in Unterabsatz 1 genannten
 
 Der Rat kann jedoch auf Vorschlag der Kommission mit der in Artikel 21 Absatz 4 festgelegten qualifizierten Mehrheit beschließen, die im vorliegenden Artikel genannten Einnahmen für andere als die in Absatz 2 genannten Zwecke zu verwenden.
 
-## Kapitel II Artikel 10
+**Kapitel II Artikel 10**
+
+## Art. 10
 
 (1) Vorbehaltlich der Artikel 22, 23 und 24 wird der Fonds unbeschadet der Befugnisse der Bank für die Verwaltung bestimmter Arten der Hilfe von der Kommission gemäß der in Artikel 32 vorgesehenen Finanzregelung verwaltet.
 
@@ -315,7 +319,9 @@ Unbeschadet des allgemeinen Auftrags, den die Bank von der Gemeinschaft für die
 
 (2) Die Bank übernimmt die finanzielle Abwicklung der aus Eigenmitteln gewährten Darlehen, für die Zinsvergütungen aus Mitteln des Fonds gezahlt werden.
 
-## Kapitel III Artikel 16
+**Kapitel III Artikel 16**
+
+## Art. 16
 
 (1) Um die Transparenz und Kohärenz der Kooperationsmaßnahmen zu gewährleisten und ihre Komplementarität mit den bilateralen Hilfen der Mitgliedstaaten zu verbessern, übermittelt die Kommission den Mitgliedstaaten und deren Vertretern an Ort und Stelle die Kurzbeschreibung der Vorhaben, sobald die Prüfung des Vorhabens beschlossen wird. In der Folge bringt die Kommission diese Kurzbeschreibungen auf den neuesten Stand und übermittelt sie den Mitgliedstaaten.
 
@@ -383,7 +389,9 @@ f) Die direkte Unterstützung des Haushalts muß in vollständiger Übereinstimm
 
 (2) Die Kommission unterrichtet die Mitgliedstaaten - soweit erforderlich, jedoch mindestens einmal im Jahr - über die Durchführung der Hilfsprogramme für die Strukturanpassung und über alle Probleme im Zusammenhang mit der Frage der weiteren Anspruchsberechtigung. Diese Unterrichtung, der alle für eine Beurteilung erforderlichen Daten - einschließlich statistischer Daten - beigefügt sind, erstreckt sich insbesondere auf die ordnungsgemäße Anwendung des Abkommens, das mit der für die Durchführung des Programms verantwortlichen AKP-Stelle geschlossen wurde, einschließlich der Bestimmungen über die Konsultationen nach Absatz 1 Buchstabe e Unterabsatz 2 zweiter Gedankenstrich. Anhand dieser Information, aufgrund der Abwicklung der Einfuhrprogramme und er Koordinierung mit den übrigen Mittelgebern kann der Rat auf Vorschlag der Kommission die in Absatz 1 festgelegten Durchführungseinzelheiten dieser Programme mit der in Artikel 21 Absatz 4 festgelegten qualifizierten Mehrheit anpassen.
 
-## Kapitel IV Artikel 21
+**Kapitel IV Artikel 21**
+
+## Art. 21
 
 (1) Bei der Kommission wird für die von ihr verwalteten Mittel des Fonds ein Ausschuß aus Vertretern der Regierungen der Mitgliedstaaten, nachstehend „EEF-Ausschuß“ genannt, eingesetzt.
 
@@ -576,7 +584,9 @@ Befürwortet der Rat dagegen den Vorschlag der Bank, so leitet diese die satzung
 
 (6) Der Rat wird regelmäßig von dem Ergebnis der von der Kommission und der Bank vorgenommenen Evaluierung der laufenden oder abgeschlossenen Vorhaben, insbesondere mit Blick auf die angestrebten Entwicklungsziele, unterrichtet.
 
-## Kapitel V Artikel 31
+**Kapitel V Artikel 31**
+
+## Art. 31
 
 (1) Die Beträge der in Titel II Kapitel 1 im dritten Teil des Abkommens und in den entsprechenden Bestimmungen des Beschlusses genannten Stabex-Transfers werden in ECU ausgedrückt.
 
@@ -588,7 +598,9 @@ In diesem Bericht werden insbesondere die Auswirkungen der Transfers auf die Ent
 
 (4) Absatz 3 gilt auch für die ÜLG.
 
-## Kapitel VI Artikel 32
+**Kapitel VI Artikel 32**
+
+## Art. 32
 
 Die Durchführungsbestimmungen zu diesem Abkommen werden in einer Finanzregelung festgelegt, die der Rat bei Inkrafttreten des Abkommens zur Änderung des Vierten AKP-EG-Abkommens mit der in Artikel 21 Absatz 4 vorgesehenen qualifizierten Mehrheit anhand eines Entwurfs der Kommission und nach Anhörung der Bank zu den sie betreffenden Bestimmungen sowie nach Stellungnahme des gemäß Artikel 188a und der nachfolgenden Artikel des Vertrages eingesetzten Rechnungshofs erläßt.
 
@@ -634,7 +646,9 @@ ZU URKUND DESSEN haben die unterzeichneten Bevollmächtigten der im Rat vereinig
 
 GESCHEHEN ZU Brüssel am 20. Dezember 1995.
 
-## ERKLÄRUNGEN FÜR DAS UNTERZEICHNUNGSPROTOKOLL BETREFFEND DAS INTERNE ABKOMMEN ÜBER DIE FINANZIERUNG UND VERWALTUNG DER HILFEN DER GEMEINSCHAFT IM RAHMEN DES ZWEITEN FINANZPROTOKOLLS DES VIERTEN AKP-EG-ABKOMMENS
+**ERKLÄRUNGEN FÜR DAS UNTERZEICHNUNGSPROTOKOLL BETREFFEND DAS INTERNE ABKOMMEN ÜBER DIE FINANZIERUNG UND VERWALTUNG DER HILFEN DER GEMEINSCHAFT IM RAHMEN DES ZWEITEN FINANZPROTOKOLLS DES VIERTEN AKP-EG-ABKOMMENS**
+
+## Anl. 1
 
 **1. Erklärung der Mitgliedstaaten zu Artikel 1 Absatz 2**
 

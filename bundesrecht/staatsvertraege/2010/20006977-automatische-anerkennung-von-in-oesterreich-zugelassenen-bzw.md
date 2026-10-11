@@ -47,13 +47,17 @@ sind wie folgt übereingekommen:
 
 ## Artikel 1
 
-### Zweck des Abkommens
+**Zweck des Abkommens**
+
+### Art. 1
 
 Dieses Abkommen regelt die automatische Anerkennung der Zulassung bzw. Registrierung von Human- und Tierarzneimitteln (im Folgenden: Arzneimittel) durch Österreich im gegenseitigen Anerkennungsverfahren und im dezentralisierten Verfahren im Sinne der Richtlinien 2001/82/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Tierarzneimittel idgF. sowie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel idgF. in Liechtenstein.
 
 ## Artikel 2
 
-### Zulassung bzw. Registrierung
+**Zulassung bzw. Registrierung**
+
+### Art. 2
 
 (1) Die Zulassung bzw. Registrierung von Arzneimitteln im gegenseitigen Anerkennungsverfahren und im dezentralisierten Verfahren im Sinne der Richtlinien 2001/82/EG sowie 2001/83/EG werden in Liechtenstein automatisch anerkannt, wenn der Antragsteller auch eine Zulassung bzw. Registrierung für Liechtenstein beantragt. Wird ein Antrag auf Zulassung bzw. Registrierung in Liechtenstein gestellt, so weist Liechtenstein den Antragsteller auf die Einbringung des Antrages bei der zuständigen österreichischen Behörde und auf die österreichischen Verfahrensvorschriften hin.
 
@@ -65,13 +69,17 @@ Dieses Abkommen regelt die automatische Anerkennung der Zulassung bzw. Registrie
 
 ## Artikel 3
 
-### Veröffentlichung in Liechtenstein
+**Veröffentlichung in Liechtenstein**
+
+### Art. 3
 
 Liechtenstein veröffentlicht eine Liste der von Österreich zugelassenen bzw. registrierten und in Liechtenstein gemäß Art. 2 Abs. 1 automatisch anerkannten Arzneimittel. Für die Fach- und Gebrauchsinformation wird auf die Veröffentlichung in Österreich verwiesen.
 
 ## Artikel 4
 
-### Verwaltungsmaßnahmen österreichischer Behörden
+**Verwaltungsmaßnahmen österreichischer Behörden**
+
+### Art. 4
 
 (1) Liechtenstein wendet die Bescheide der zuständigen österreichischen Behörde im Rahmen der von diesem Abkommen umfassten Zulassungen bzw. Registrierungen von Arzneimitteln an. Insbesondere betrifft dies die Entscheidungen hinsichtlich der Vorgaben zur Fachinformation, Kennzeichnung und Gebrauchsinformation, zur Einstufung des Arzneimittels sowie zur Pharmakovigilanz.
 
@@ -79,7 +87,9 @@ Liechtenstein veröffentlicht eine Liste der von Österreich zugelassenen bzw. r
 
 ## Artikel 5
 
-### Zusammenarbeit im Bereich der Pharmakovigilanz
+**Zusammenarbeit im Bereich der Pharmakovigilanz**
+
+### Art. 5
 
 Österreich übernimmt die im Rahmen der Pharmakovigilanz in den Richtlinien 2001/82/EG und 2001/83 EG vorgesehenen Verpflichtungen der zuständigen nationalen Behörden für die gemäß Art. 2 Abs. 1 anerkannten Arzneimittel. Liechtenstein ist betreffend Pharmakovigilanz in das Informationsnetz der österreichischen Behörden eingebunden:
 
@@ -97,7 +107,9 @@ Liechtenstein veröffentlicht eine Liste der von Österreich zugelassenen bzw. r
 
 ## Artikel 6
 
-### Marktüberwachung
+**Marktüberwachung**
+
+### Art. 6
 
 (1) Österreich (das österreichische Arzneimittelkontrolllabor) wird Liechtenstein über die alljährlich geplanten Maßnahmen im Rahmen der nationalen bzw. vom European Directorate for the Quality of Medicines and Health Care (EDQM) koordinierten internationalen Marktüberwachungsaktivitäten informieren. Gegebenenfalls wird die liechtensteinische Arzneimittelbehörde gebeten, Arzneimittelproben aus der Verteilerkette zu ziehen und diese an das österreichische Arzneimittelkontrolllabor zu übermitteln. Liechtenstein wird über die Ergebnisse der Marktüberwachung informiert.
 
@@ -105,13 +117,17 @@ Liechtenstein veröffentlicht eine Liste der von Österreich zugelassenen bzw. r
 
 ## Artikel 7
 
-### Zusammenarbeit zwischen den Behörden
+**Zusammenarbeit zwischen den Behörden**
+
+### Art. 7
 
 Die zuständigen Behörden der Vertragsparteien geben einander die für den Vollzug dieses Abkommens notwendigen Daten bekannt und sind generell um eine reibungslose Zusammenarbeit bemüht.
 
 ## Artikel 8
 
-### Kosten
+**Kosten**
+
+### Art. 8
 
 (1) Bezüglich der dem Bundesamt für Sicherheit im Gesundheitswesen gemäß den Art. 2 und 4 erwachsenden Verpflichtungen gebührt diesem zur Adaptierung des EDV-Systems eine einmalige Zahlung in der Höhe von maximal 20.000 Euro plus Mehrwertsteuer sowie der Ersatz der laufenden Kosten. Die tatsächlich anfallenden laufenden Kosten werden der liechtensteinischen Arzneimittelbehörde jährlich vom Bundesamt für Sicherheit im Gesundheitswesen bekannt gegeben.
 
@@ -125,7 +141,9 @@ Die zuständigen Behörden der Vertragsparteien geben einander die für den Voll
 
 ## Artikel 9
 
-### Zuständige Behörden
+**Zuständige Behörden**
+
+### Art. 9
 
 (1) Die zuständigen Behörden für die Durchführung dieses Abkommens sind:
 
@@ -137,7 +155,9 @@ In Österreich: Bundesamt für Sicherheit im Gesundheitswesen
 
 ## Artikel 10
 
-### Schlussbestimmungen
+**Schlussbestimmungen**
+
+### Art. 10
 
 (1) Dieses Abkommen wird auf unbestimmte Zeit geschlossen. Es kann in gegenseitigem Einvernehmen geändert oder ergänzt werden.
 

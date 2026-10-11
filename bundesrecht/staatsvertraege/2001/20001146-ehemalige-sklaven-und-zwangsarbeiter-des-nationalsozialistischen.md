@@ -39,7 +39,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -49,19 +51,25 @@ Für die Zwecke dieses Abkommens
 
 ## Artikel 2
 
-### Gegenstand des Abkommens
+**Gegenstand des Abkommens**
+
+### Art. 2
 
 Die Österreichische Bundesregierung wird dafür Sorge tragen, daß der Fonds in einem Höchstmaß von ÖS 672 Millionen über die Stiftung einmalige finanzielle Beiträge an natürliche Personen leistet, die vom nationalsozialistischen Regime auf das Gebiet der heutigen Republik Österreich deportiert und zur Sklaven- oder Zwangsarbeit verpflichtet wurden, im Zeitpunkt ihrer Deportation ungarische Staatsbürger waren und am 15. Februar 2000 ihren ständigen Wohnsitz in der Republik Ungarn oder die ungarische Staatsbürgerschaft hatten.
 
 ## Artikel 3
 
-### Grundsätze für die Erbringung der Leistung
+**Grundsätze für die Erbringung der Leistung**
+
+### Art. 3
 
 Nähere Einzelheiten der Leistungserbringung sind im Einklang mit den im österreichischen Bundesgesetz über den Fonds für freiwillige Leistungen der Republik Österreich an ehemalige Sklaven- und Zwangsarbeiter des nationalsozialistischen Regimes enthaltenen Grundsätzen hinsichtlich des Empfanges und des Umfanges der Leistungen in Verträgen zwischen dem Fonds und der Stiftung zu regeln.
 
 ## Artikel 4
 
-### Datenschutz
+**Datenschutz**
+
+### Art. 4
 
 (1) Die Stiftung und der Fonds sind berechtigt, von Behörden und anderen öffentlichen Einrichtungen Auskünfte einzuholen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Eine Auskunftserteilung unterbleibt, soweit besondere gesetzliche Bestimmungen dem entgegenstehen oder die schutzwürdigen Geheimhaltungsinteressen des Betroffenen die berechtigten Informationsinteressen der Stiftung oder des Fonds überwiegen.
 
@@ -69,7 +77,9 @@ Nähere Einzelheiten der Leistungserbringung sind im Einklang mit den im österr
 
 ## Artikel 5
 
-### Vertretung
+**Vertretung**
+
+### Art. 5
 
 (1) Die Regierung der Republik Ungarn kann einen Vertreter in das Kuratorium des Versöhnungsfonds entsenden.
 
@@ -77,13 +87,17 @@ Nähere Einzelheiten der Leistungserbringung sind im Einklang mit den im österr
 
 ## Artikel 6
 
-### Rechtssicherheit
+**Rechtssicherheit**
+
+### Art. 6
 
 Die Republik Ungarn wird weitere Forderungen gegen die Republik Österreich und österreichische Unternehmen aus dem Titel ehemalige Sklaven- und Zwangsarbeit unter dem nationalsozialistischen Regime auf dem Gebiet der heutigen Republik Österreich nicht geltend machen und weder vertreten noch unterstützen. Andere Rechte ungarischer Staatsbürger bleiben hievon unberührt.
 
 ## Artikel 7
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 7
 
 Dieses Abkommen tritt am ersten Tag des Monats in Kraft, welcher der letzten Mitteilung folgt, mit denen einander die Vertragsparteien über die Erfüllung der innerstaatlichen Voraussetzungen, die im Falle der Republik Österreich das Inkrafttreten des Bundesgesetzes über den Fonds für freiwillige Leistungen der Republik Österreich an ehemalige Sklaven- und Zwangsarbeiter des nationalsozialistischen Regimes einschließen, für das Inkrafttreten des Abkommens in Kenntnis gesetzt haben.
 

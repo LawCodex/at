@@ -1,0 +1,98 @@
+---
+title: "Luftverkehrsabkommen - ziviler Luftverkehr - Änderung (China)"
+identifier: "10012624"
+type: treaty
+ris_type: "Vertrag – China"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 208/1996"
+last_amended: 1996-04-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1996/208/P0/NOR11013004"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012624"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Luftverkehrsabkommen - ziviler Luftverkehr - Änderung (China)
+
+Änderung des Anhangs zum Abkommen zwischen der Österreichischen Bundesregierung und der Regierung der Volksrepublik China über den zivilen Luftverkehr
+
+StF: BGBl. Nr. 208/1996
+
+## Art. 1
+
+\**(Übersetzung)**
+
+BUNDESMINISTERIUM FÜR
+
+AUSWÄRTIGE ANGELEGENHEITEN
+
+GZ 33.36.3/3-III.7/96
+
+****Verbalnote****
+
+Das Bundesministerium für auswärtige Angelegenheiten entbietet der Botschaft der Volksrepublik China seine besten Empfehlungen und beehrt sich, das Abkommen zwischen den Zivilluftfahrtsbehörden Chinas und Österreichs betreffend die Änderungen der Artikel 1 (a) und (b) des Anhangs zum Abkommen zwischen der Österreichischen Bundesregierung und der Regierung der Volksrepublik China über den zivilen Luftverkehr \*) vom 12. September 1985 zu bestätigen.
+
+Artikel 1 (a) und (b) des Anhangs lauten wie folgt:
+
+„(1) Flugstrecke
+
+a) Die Flugstrecke der von dem namhaft gemachten Fluglinienunternehmen der Regierung der Volksrepublik China betriebenen vereinbarten Fluglinien verläuft wie folgt in beide Richtungen: Punkte in China - Wien - vier Punkte darüber hinaus mit vollen Verkehrsrechten, deren Auswahl China überlassen bleibt.
+
+b) Die Flugstrecke der von dem namhaft gemachten Fluglinienunternehmen der Österreichischen Bundesregierung betriebenen vereinbarten Fluglinien verläuft wie folgt in beide Richtungen: Punkte in Österreich - Peking und/oder Shanghai.“
+
+Gemäß Artikel 16 (2) des Abkommens über den zivilen Luftverkehr wird der neue Text des Anhangs zum Abkommen am Tag des Erhalts der Antwortnote der Botschaft durch das Ministerium in Kraft treten.
+
+Das Bundesministerium für auswärtige Angelegenheiten benützt auch diese Gelegenheit, der Botschaft der Volksrepublik China die Versicherung seiner vorzüglichen Hochachtung zu erneuern.
+
+Wien, am 1. April 1996
+
+**L. S.**
+
+An die Botschaft der Volksrepublik China
+
+Wien
+
+BOTSCHAFT DER VOLKSREPUBLIK CHINA
+
+IN DER REPUBLIK ÖSTERREICH
+
+BB-1996-14
+
+(Übersetzung)
+
+BOTSCHAFT DER VOLKSREPUBLIK CHINA
+
+IN DER REPUBLIK ÖSTERREICH
+
+BB-1996-14
+
+****Verbalnote****
+
+Die Botschaft der Volksrepublik China in der Republik Österreich entbietet dem Bundesministerium für auswärtige Angelegenheiten ihre besten Empfehlungen und beehrt sich, sich auf die Note Nr. 33.36.3/2-III.7/96 zu berufen, die vom Bundesministerium für auswärtige Angelegenheiten der Republik Österreich mit Datum 1. April 1996 übermittelt wurde und deren Inhalt wie folgt lautet:
+
+„Das Bundesministerium für auswärtige Angelegenheiten ... (es folgt der weitere Text der Übersetzung der Eröffnungsnote ins Deutsche) ... in Kraft treten.“
+
+Die Botschaft beehrt sich, das Bundesministerium für auswärtige Angelegenheiten der Republik Österreich zu informieren, daß die Regierung der Volksrepublik China den Inhalt der obgenannten Note des Bundesministeriums für auswärtige Angelegenheiten bestätigt, und beehrt sich weiters zuzustimmen, daß seine Note und ihre Antwortnote ein Abkommen zwischen der Regierung der Volksrepublik China und der Österreichischen Bundesregierung bilden, welches am Tag des Erhalts dieser Antwortnote in Kraft tritt.
+
+Die Botschaft der Volksrepublik China benützt auch diese Gelegenheit, dem Bundesministerium für auswärtige Angelegenheiten die Versicherung seiner ausgezeichneten Hochachtung zu erneuern.
+
+Wien, am 1. April 1996
+
+**L. S.**
+
+Bundesministerium für
+
+auswärtige Angelegenheiten
+
+Wien
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\*) Kundgemacht in BGBl. Nr. 40/1986
+
+## Ratifikationstext
+
+Die Änderung ist gemäß Art. 16 Abs. 2 des Abkommens mit 1. April 1996 in Kraft getreten.

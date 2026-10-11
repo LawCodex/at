@@ -99,7 +99,9 @@ Der Unternehmer, der im anderen Vertragstaat seinen Sitz oder eine Betriebstätt
 
 ## Artikel 6
 
-### Die Vertragstaaten werden auf der Grundlage der Gegenseitigkeit
+**Die Vertragstaaten werden auf der Grundlage der Gegenseitigkeit**
+
+### Art. 6
 
 1\. auf Ersuchen die bei der Durchführung dieses Abkommens erforderliche Rechtshilfe gewähren. Das Verfahren der Rechtshilfe bestimmt sich nach den Bestimmungen des Abkommens zwischen der Bundesrepublik Deutschland und der Republik Österreich über Rechtsschutz und Rechtshilfe in Abgabensachen vom 4. Oktober 1954,
 

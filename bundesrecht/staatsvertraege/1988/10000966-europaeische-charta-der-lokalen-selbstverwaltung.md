@@ -90,13 +90,17 @@ Die Parteien verpflichten sich, die folgenden Artikel in der in Artikel 12 diese
 
 ### ARTIKEL 2
 
-#### Verfassungsmäßige und gesetzliche Verankerung der lokalen Selbstverwaltung
+**Verfassungsmäßige und gesetzliche Verankerung der lokalen Selbstverwaltung**
+
+#### Art. 2
 
 Der Grundsatz der lokalen Selbstverwaltung wird in der innerstaatlichen Gesetzgebung und, soweit möglich, in der Verfassung anerkannt.
 
 ## ARTIKEL 3
 
-#### Begriff der lokalen Selbstverwaltung
+**Begriff der lokalen Selbstverwaltung**
+
+#### Art. 3
 
 1\. Unter lokaler Selbstverwaltung versteht man das Recht und die tatsächliche Fähigkeit lokaler Gebietskörperschaften, einen bedeutenden Teil der öffentlichen Angelegenheiten in eigener Verantwortung und zum Nutzen ihrer Einwohner im Rahmen der Gesetze zu regeln und zu besorgen.
 
@@ -104,7 +108,9 @@ Der Grundsatz der lokalen Selbstverwaltung wird in der innerstaatlichen Gesetzge
 
 ## ARTIKEL 4
 
-#### Umfang der lokalen Selbstverwaltung
+**Umfang der lokalen Selbstverwaltung**
+
+#### Art. 4
 
 1\. Die grundlegenden Befugnisse und Aufgaben der lokalen Gebietskörperschaften werden durch Verfassung oder Gesetz festgelegt. Diese Bestimmung verhindert jedoch nicht die Übertragung von Befugnissen und Aufgaben zu speziellen Zwecken an die lokalen Gebietskörperschaften in Übereinstimmung mit dem Gesetz.
 
@@ -120,13 +126,17 @@ Der Grundsatz der lokalen Selbstverwaltung wird in der innerstaatlichen Gesetzge
 
 ## ARTIKEL 5
 
-#### Schutz der Gebietsgrenzen der lokalen Gebietskörperschaften
+**Schutz der Gebietsgrenzen der lokalen Gebietskörperschaften**
+
+#### Art. 5
 
 Vor jeder Änderung der lokalen Gebietsgrenzen werden die betroffenen lokalen Gebietskörperschaften zuvor, allenfalls im Wege eines Referendums, wo dies gesetzlich möglich ist, angehört.
 
 ## ARTIKEL 6
 
-#### Angemessene Strukturen und Verwaltungsmittel für die Aufgaben der lokalen Gebietskörperschaften
+**Angemessene Strukturen und Verwaltungsmittel für die Aufgaben der lokalen Gebietskörperschaften**
+
+#### Art. 6
 
 1\. Unbeschadet allgemeiner gesetzlicher Regelungen sollen die lokalen Gebietskörperschaften ihre inneren Verwaltungsstrukturen selbst gestalten können, um sie so ihren örtlichen Bedürfnissen anzupassen und eine leistungsfähige Verwaltung zu ermöglichen.
 
@@ -134,7 +144,9 @@ Vor jeder Änderung der lokalen Gebietsgrenzen werden die betroffenen lokalen Ge
 
 ## ARTIKEL 7
 
-#### Voraussetzungen für die Mandatsausübung auf lokaler Ebene
+**Voraussetzungen für die Mandatsausübung auf lokaler Ebene**
+
+#### Art. 7
 
 1\. Die Vorschriften über die Ausübung des Mandats sollen den gewählten lokalen Vertretern die freie Ausübung ihres Mandats gewährleisten.
 
@@ -144,7 +156,9 @@ Vor jeder Änderung der lokalen Gebietsgrenzen werden die betroffenen lokalen Ge
 
 ## ARTIKEL 8
 
-#### Verwaltungsaufsicht über Tätigkeiten der lokalen Gebietskörperschaften
+**Verwaltungsaufsicht über Tätigkeiten der lokalen Gebietskörperschaften**
+
+#### Art. 8
 
 1\. Jede Verwaltungsaufsicht über lokale Gebietskörperschaften darf nur in den von der Verfassung oder dem Gesetz vorgesehenen Formen und Fällen ausgeübt werden.
 
@@ -154,7 +168,9 @@ Vor jeder Änderung der lokalen Gebietsgrenzen werden die betroffenen lokalen Ge
 
 ## ARTIKEL 9
 
-#### Finanzmittel der lokalen Gebietskörperschaften
+**Finanzmittel der lokalen Gebietskörperschaften**
+
+#### Art. 9
 
 1\. Die lokalen Gebietskörperschaften sollen im Rahmen der nationalen Wirtschaftspolitik Anrecht auf ausreichende eigene Finanzmittel haben, über die sie in Ausübung ihrer Zuständigkeit frei verfügen können.
 
@@ -174,7 +190,9 @@ Vor jeder Änderung der lokalen Gebietsgrenzen werden die betroffenen lokalen Ge
 
 ## ARTIKEL 10
 
-#### Vereinigungsrecht der lokalen Gebietskörperschaften
+**Vereinigungsrecht der lokalen Gebietskörperschaften**
+
+#### Art. 10
 
 1\. Die lokalen Gebietskörperschaften haben das Recht, bei Besorgung ihrer Aufgaben zusammenzuarbeiten und im Rahmen der Gesetze zur Durchführung von Aufgaben gemeinsamen Interesses mit anderen lokalen Gebietskörperschaften Verbände zu bilden.
 
@@ -184,7 +202,9 @@ Vor jeder Änderung der lokalen Gebietsgrenzen werden die betroffenen lokalen Ge
 
 ## ARTIKEL 11
 
-#### Rechtsschutz der lokalen Selbstverwaltung
+**Rechtsschutz der lokalen Selbstverwaltung**
+
+#### Art. 11
 
 Den lokalen Gebietskörperschaften steht ein Rechtsmittel an ein Gericht offen, um die freie Ausübung ihrer Zuständigkeiten und die Einhaltung der Grundsätze der lokalen Selbstverwaltung zu sichern, die in der Verfassung oder der innerstaatlichen Gesetzgebung verankert sind.
 
@@ -192,7 +212,9 @@ Den lokalen Gebietskörperschaften steht ein Rechtsmittel an ein Gericht offen, 
 
 ### Sonstige Bestimmungen — ARTIKEL 12
 
-#### Verpflichtungen
+**Verpflichtungen**
+
+#### Art. 12
 
 1\. Jede Partei verpflichtet sich, mindestens zwanzig Absätze des Teils I der Charta als bindend für sich anzusehen, wovon mindestens zehn aus den folgenden Absätzen auszuwählen sind:
 
@@ -220,13 +242,17 @@ Den lokalen Gebietskörperschaften steht ein Rechtsmittel an ein Gericht offen, 
 
 ## ARTIKEL 13
 
-#### Gebietskörperschaften, für die die Charta Geltung hat
+**Gebietskörperschaften, für die die Charta Geltung hat**
+
+#### Art. 13
 
 Die in der Charta enthaltenen Grundsätze lokaler Selbstverwaltung gelten für alle Kategorien lokaler Gebietskörperschaften, die es auf dem Hoheitsgebiet der Partei gibt. Jede Partei kann jedoch zum Zeitpunkt der Hinterlegung ihrer Ratifikations-, Annahme- oder Genehmigungsurkunde die Kategorien lokaler oder regionaler Gebietskörperschaften bezeichnen, auf die sie den Geltungsbereich zu beschränken oder die sie vom Geltungsbereich dieser Charta auszuschließen wünscht. Sie kann ebenfalls durch spätere Notifikation an den Generalsekretär des Europarates andere Kategorien lokaler oder regionaler Gebietskörperschaften in den Geltungsbereich der Charta aufnehmen.
 
 ## ARTIKEL 14
 
-#### Übermittlung von Informationen
+**Übermittlung von Informationen**
+
+#### Art. 14
 
 Jede Partei übermittelt dem Generalsekretär des Europarates jede entsprechende Information über Gesetzesbestimmungen und sonstige Maßnahmen, die sie zu dem Zweck getroffen hat, den Bestimmungen dieser Charta zu entsprechen.
 
@@ -234,7 +260,9 @@ Jede Partei übermittelt dem Generalsekretär des Europarates jede entsprechende
 
 ### ARTIKEL 15
 
-#### Unterzeichnung, Ratifizierung, Inkrafttreten
+**Unterzeichnung, Ratifizierung, Inkrafttreten**
+
+#### Art. 15
 
 1\. Diese Charta liegt für die Mitgliedstaaten des Europarates zur Unterzeichnung auf. Sie bedarf der Ratifikation, Annahme oder Genehmigung. Die Ratifikations-, Annahme- oder Genehmigungsurkunden werden beim Generalsekretär des Europarates hinterlegt.
 
@@ -244,7 +272,9 @@ Jede Partei übermittelt dem Generalsekretär des Europarates jede entsprechende
 
 ## ARTIKEL 16
 
-#### Gebietsklausel
+**Gebietsklausel**
+
+#### Art. 16
 
 1\. Jeder Staat kann zum Zeitpunkt der Unterzeichnung oder zum Zeitpunkt der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde das Hoheitsgebiet oder die Hoheitsgebiete bezeichnen, auf die diese Charta Anwendung findet.
 
@@ -254,7 +284,9 @@ Jede Partei übermittelt dem Generalsekretär des Europarates jede entsprechende
 
 ## ARTIKEL 17
 
-#### Kündigung
+**Kündigung**
+
+#### Art. 17
 
 1\. Jede Partei kann diese Charta erst nach Ablauf einer Frist von fünf Jahren ab dem Zeitpunkt, an dem die Charta für sie in Kraft getreten ist, kündigen. Die Kündigung ist sechs Monate vorher dem Generalsekretär des Europarates zu notifizieren. Diese Kündigung berührt nicht die Gültigkeit der Charta gegenüber den anderen Parteien, solange ihre Zahl nicht unter vier absinkt.
 
@@ -262,7 +294,9 @@ Jede Partei übermittelt dem Generalsekretär des Europarates jede entsprechende
 
 ## ARTIKEL 18
 
-#### Notifikation
+**Notifikation**
+
+#### Art. 18
 
 Der Generalsekretär des Europarates notifiziert den Mitgliedstaaten des Europarates:
 

@@ -78,7 +78,9 @@ sind wie folgt übereingekommen:
 
 ### Artikel 2
 
-#### Funktion der Fachkräfte
+**Funktion der Fachkräfte**
+
+#### Art. 2
 
 (1) Die Österreichische Bundesregierung wird die Fachkräfte durch privatrechtliche Verträge verpflichten, für die Dauer ihres Einsatzes in Senegal keine andere auf Gewinn gerichtete Tätigkeit auszuüben, die Rechtsordnung Senegals einzuhalten und sich insbesondere politischer Aktivitäten, die die inneren Angelegenheiten Senegals betreffen, zu enthalten.
 
@@ -92,7 +94,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 3
 
-#### Verpflichtungen der österreichischen Bundesregierung
+**Verpflichtungen der österreichischen Bundesregierung**
+
+#### Art. 3
 
 Im Zusammenhang mit der Entsendung österreichischer Fachkräfte verpflichtet sich die österreichische Seite zu folgenden Leistungen:
 
@@ -108,7 +112,9 @@ Im Zusammenhang mit der Entsendung österreichischer Fachkräfte verpflichtet si
 
 ## Artikel 4
 
-#### Verpflichtungen der Regierung von Senegal
+**Verpflichtungen der Regierung von Senegal**
+
+#### Art. 4
 
 Im Rahmen dieses Abkommens wird die senegalesische Seite für die österreichischen Fachkräfte insbesondere nachfolgende Leistungen erbringen:
 
@@ -144,7 +150,9 @@ Im Rahmen dieses Abkommens wird die senegalesische Seite für die österreichisc
 
 ## Artikel 5
 
-#### Immunität
+**Immunität**
+
+#### Art. 5
 
 (1) Die österreichischen Fachkräfte genießen auf dem Hoheitsgebiet der Republik Senegal die strafrechtliche Immunität für Handlungen und Meinungsäußerungen, die sie in Ausübung ihrer Funktionen begangen haben, außer im Falle von vorsätzlichem oder grob fahrlässigem Verhalten.
 

@@ -41,7 +41,9 @@ BGBl. I Nr. 2/2008 (1. BVRBG) (NR: GP XXIII RV 314 AB 370 S. 41. BR: 7799 AB 783
 
 ## Artikel 1
 
-### Gegenstand
+**Gegenstand**
+
+### Art. 1
 
 (1) Dieses Abkommen regelt die Rahmenbedingungen für freiwillige Hilfeleistungen bei Katastrophen oder schweren Unglücksfällen im anderen Vertragsstaat auf dessen Ersuchen hin, insbesondere für Einsätze von Mannschaften und Material.
 
@@ -49,7 +51,9 @@ BGBl. I Nr. 2/2008 (1. BVRBG) (NR: GP XXIII RV 314 AB 370 S. 41. BR: 7799 AB 783
 
 ## Artikel 2
 
-### Definitionen
+**Definitionen**
+
+### Art. 2
 
 Im Sinne dieses Abkommens bedeuten die Begriffe:
 
@@ -61,7 +65,9 @@ Im Sinne dieses Abkommens bedeuten die Begriffe:
 
 ## Artikel 3
 
-### Zuständigkeiten
+**Zuständigkeiten**
+
+### Art. 3
 
 (1) Die für die Stellung und die Entgegennahme von Hilfeersuchen zuständigen Behörden sind:
 
@@ -81,13 +87,17 @@ der Bundesminister des Innern und die Innenminister der Grenzländer.
 
 ## Artikel 4
 
-### Vorgängige Absprache
+**Vorgängige Absprache**
+
+### Art. 4
 
 Art und Umfang der Hilfeleistung werden von Fall zu Fall im Einvernehmen zwischen den in Artikel 3 genannten Behörden abgesprochen, ohne auf Einzelheiten der Durchführung eingehen zu müssen.
 
 ## Artikel 5
 
-### Einsatzarten
+**Einsatzarten**
+
+### Art. 5
 
 (1) Die Hilfe wird durch solche Hilfsmannschaften geleistet, die insbesondere in der Bekämpfung von Bränden, von nuklearen und chemischen Gefahren und in Sanitätshilfe, Rettung, Bergung oder behelfsmäßigen Instandsetzung ausgebildet sind und die über das für diese Aufgaben erforderliche Material und Spezialgerät verfügen; falls erforderlich, kann die Hilfe auf jede andere Weise erbracht werden.
 
@@ -95,7 +105,9 @@ Art und Umfang der Hilfeleistung werden von Fall zu Fall im Einvernehmen zwische
 
 ## Artikel 6
 
-### Grenzübertritt und Aufenthalt
+**Grenzübertritt und Aufenthalt**
+
+### Art. 6
 
 (1) Die Angehörigen einer Hilfsmannschaft sind vom Paßzwang und dem Erfordernis einer Aufenthaltsbewilligung/-erlaubnis oder eines Sichtvermerkes befreit. Es kann lediglich vom Leiter der Hilfsmannschaft ein seine Stellung bezeugender Ausweis verlangt werden.
 
@@ -105,7 +117,9 @@ Art und Umfang der Hilfeleistung werden von Fall zu Fall im Einvernehmen zwische
 
 ## Artikel 7
 
-### Grenzübergang des Materials
+**Grenzübergang des Materials**
+
+### Art. 7
 
 (1) Die Vertragsstaaten erleichtern den Grenzübergang für die bei Hilfeleistungen notwendigen Ausrüstungsgegenstände und Hilfsgüter. Der Leiter einer Hilfsmannschaft hat den Grenzkontrollorganen des Einsatzstaats beim Grenzübertritt lediglich ein Verzeichnis der mitgeführten Ausrüstungsgegenstände und Hilfsgüter zu übergeben; erfolgt bei besonderer Dringlichkeit der Grenzübergang außerhalb zugelassener Grenzübergangsstellen, ist dem bei der zuständigen Zollstelle bei erster Gelegenheit zu entsprechen.
 
@@ -123,7 +137,9 @@ Art und Umfang der Hilfeleistung werden von Fall zu Fall im Einvernehmen zwische
 
 ## Artikel 8
 
-### Einsätze mit Luftfahrzeugen
+**Einsätze mit Luftfahrzeugen**
+
+### Art. 8
 
 (1) Luftfahrzeuge können nicht nur für die schnelle Heranführung der Hilfsmannschaften nach Artikel 5 Absatz 2, sondern auch unmittelbar für andere Arten von Hilfeleistungen benutzt werden.
 
@@ -143,7 +159,9 @@ Sofern dies zur üblichen Ausrüstung zählt, sind die Besatzungen berechtigt, b
 
 ## Artikel 9
 
-### Koordination und Gesamtleitung
+**Koordination und Gesamtleitung**
+
+### Art. 9
 
 (1) Die Koordination und Gesamtleitung der Rettungs- und Hilfsmaßnahmen obliegt in jedem Fall den Behörden des Einsatzstaats.
 
@@ -153,7 +171,9 @@ Sofern dies zur üblichen Ausrüstung zählt, sind die Besatzungen berechtigt, b
 
 ## Artikel 10
 
-### Einsatzkosten
+**Einsatzkosten**
+
+### Art. 10
 
 (1) Der Entsendestaat hat gegenüber dem Einsatzstaat keinen Anspruch auf Ersatz der Kosten der Hilfeleistung. Dies gilt auch für Kosten die durch Verbrauch, Beschädigung oder Verlust des Materials entstehen. Kosten der Hilfeleistungen durch natürliche und juristische Personen, die der Entsendestaat auf Ersuchen hin lediglich vermittelt, trägt der Einsatzstaat.
 
@@ -163,7 +183,9 @@ Sofern dies zur üblichen Ausrüstung zählt, sind die Besatzungen berechtigt, b
 
 ## Artikel 11
 
-### Schadensersatz und Entschädigung
+**Schadensersatz und Entschädigung**
+
+### Art. 11
 
 (1) Jeder Vertragsstaat verzichtet auf alle ihm gegen den anderen Vertragsstaat oder dessen Helfer zustehenden Ansprüche auf den Ersatz von
 
@@ -177,7 +199,9 @@ b) Schäden, die auf einer Körperverletzung, einer Gesundheitsschädigung oder 
 
 ## Artikel 12
 
-### Unterstützung und Wiederaufnahme von Helfern und Evakuierten
+**Unterstützung und Wiederaufnahme von Helfern und Evakuierten**
+
+### Art. 12
 
 (1) Personen, die bei einer Katastrophe oder einem schweren Unglücksfall als Helfer oder Evakuierte von einem Vertragsstaat in den anderen gelangt sind, erhalten dort bis zum Zeitpunkt der frühesten Rückkehrmöglichkeit Unterstützung nach den Vorschriften der innerstaatlichen Sozialhilfe. Der Abgangsstaat erstattet die Kosten der Unterstützung und der Rückführung dieser Personen, sofern sie nicht Angehörige des anderen Vertragsstaats sind.
 
@@ -185,7 +209,9 @@ b) Schäden, die auf einer Körperverletzung, einer Gesundheitsschädigung oder 
 
 ## Artikel 13
 
-### Weitere Formen der Zusammenarbeit
+**Weitere Formen der Zusammenarbeit**
+
+### Art. 13
 
 (1) Die in Artikel 3 genannten Behörden arbeiten nach Maßgabe des innerstaatlichen Rechts zusammen, insbesondere:
 
@@ -199,31 +225,41 @@ c) zum Austausch von Informationen über Gefahren und Schäden, die sich auf das
 
 ## Artikel 14
 
-### Fernmeldeverbindungen
+**Fernmeldeverbindungen**
+
+### Art. 14
 
 Die zuständigen Behörden der Vertragsstaaten treffen gemeinsam die erforderlichen Vorkehrungen, damit Fernmelde- und insbesondere Funkverbindungen zwischen den in Artikel 3 genannten Behörden, zwischen diesen Behörden und den von ihnen entsandten Hilfsmannschaften, zwischen den Hilfsmannschaften untereinander und zwischen den entsandten Hilfsmannschaften und der jeweiligen Einsatzleitung ermöglicht werden.
 
 ## Artikel 15
 
-### Beilegung von Meinungsverschiedenheiten
+**Beilegung von Meinungsverschiedenheiten**
+
+### Art. 15
 
 Meinungsverschiedenheiten über die Anwendung dieses Abkommens, die nicht unmittelbar zwischen den in Artikel 3 genannten Behörden beigelegt werden können, werden auf diplomatischem Weg bereinigt.
 
 ## Artikel 16
 
-### Kündigung
+**Kündigung**
+
+### Art. 16
 
 Dieses Abkommen kann jederzeit auf diplomatischem Wege gekündigt werden; es tritt sechs Monate nach dem Zugang der Kündigung außer Kraft.
 
 ## Artikel 17
 
-### Andere vertragliche Regelungen
+**Andere vertragliche Regelungen**
+
+### Art. 17
 
 Bestehende vertragliche Regelungen zwischen den Vertragsstaaten bleiben unberührt.
 
 ## Artikel 18 \*)
 
-### Berlin-Klausel
+**Berlin-Klausel**
+
+### Art. 18
 
 Mit Ausnahme der Bestimmungen dieses Abkommens über den Luftverkehr gilt das Abkommen auch für das Land Berlin, sofern nicht die Regierung der Bundesrepublik Deutschland gegenüber der Regierung der Republik Österreich innerhalb von drei Monaten nach Inkrafttreten des Abkommens eine gegenteilige Erklärung abgibt.
 
@@ -233,7 +269,9 @@ Mit Ausnahme der Bestimmungen dieses Abkommens über den Luftverkehr gilt das Ab
 
 ## Artikel 19
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 19
 
 (1) Dieses Abkommen bedarf der Ratifikation. Die Ratifikationsurkunden werden so bald wie möglich in Bonn ausgetauscht.
 

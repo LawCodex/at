@@ -49,7 +49,9 @@ Sind die Republik Österreich und die Vereinten Nationen somit wie folgt überei
 
 ### Begriffsbestimmungen
 
-#### Abschnitt 1
+**Abschnitt 1**
+
+#### Art. 1
 
 In diesem Abkommen
 
@@ -87,7 +89,9 @@ i) bezeichnet der Begriff „Pensionsfonds“ den United Nations Joint Staff Pen
 
 ### Der Amtssitz der Vereinten Nationen in Wien
 
-#### Abschnitt 2
+**Abschnitt 2**
+
+#### Art. 2
 
 a) Die Regierung stellt den Vereinten Nationen für den Gebrauch und die Inbesitznahme in Verbindung mit der UNIDO bis 31. August 2078 das Gebiet und die Liegenschaften zur Verfügung, die in dem diesem Abkommen angeschlossenen Liegenschaftsplan als Amtssitz der Vereinten Nationen in Wien aufscheinen und die Vereinten Nationen nehmen dies an. Innerhalb des bezeichneten Gebietes und der bezeichneten Liegenschaften werden die Vereinten Nationen und die UNIDO untereinander für die zeitweilige oder dauernde Zuweisung von Raum sorgen.
 
@@ -97,7 +101,9 @@ c) Jedes Gebäude in Wien oder außerhalb Wiens, das im Einvernehmen mit der Reg
 
 d) Die zuständigen österreichischen Behörden werden alle erforderlichen Maßnahmen treffen, um zu gewährleisten, daß den Vereinten Nationen nicht ohne ihre ausdrückliche Zustimmung der Besitz des Amtssitzbereiches der Vereinten Nationen oder eines Teiles davon entzogen wird.
 
-#### Abschnitt 3
+**Abschnitt 3**
+
+#### Art. 3
 
 a) Die Vereinten Nationen haben das Recht, den Amtssitzbereich der Vereinten Nationen entsprechend den in ihrer Charta festgelegten Zwecken und Aufgaben und im Einklang mit den Bestimmungen dieses Abkommens zu benützen. Insbesondere können die Vereinten Nationen in ihrem Amtssitzbereich Tagungen, einschließlich internationaler Konferenzen, Seminare, Arbeitstreffen und Tagungen aller Organe der Vereinten Nationen, einschließlich nachgeordneter Organe abhalten.
 
@@ -107,51 +113,73 @@ c) Die Vereinten Nationen können nach entsprechenden Konsultationen mit der Reg
 
 d) Die Vereinten Nationen können im Einvernehmen mit der Regierung in ihrem Amtssitzbereich jeder physischen oder juristischen Person, die den Vereinten Nationen oder ihren Angestellten Dienste leistet, Räumlichkeiten vermieten. Die Miete, die von den Vereinten Nationen von solchen Personen eingehoben wird, hält sich – nach Konsultationen mit der Regierung – an die geschäftsüblichen Sätze für vergleichbaren Büroraum und wird zur Gänze an die Regierung überwiesen, mit Ausnahme der Zahlungen von Wartungs- und Betriebskosten, die von den Vereinten Nationen einbehalten werden.
 
-#### Abschnitt 4
+**Abschnitt 4**
+
+#### Art. 4
 
 Die Vereinten Nationen zahlen der Regierung für das Recht der Benützung des Amtssitzbereiches den Betrag von einem österreichischen Schilling pro Jahr, welcher jährlich im vorhinein während der Dauer der Benützung fällig wird.
 
-#### Abschnitt 5
+**Abschnitt 5**
+
+#### Art. 5
 
 a) Änderungen in bezug auf irgendeines der Gebäude, die Teil des Amtssitzbereiches der Vereinten Nationen sind und die entweder eine Veränderung der Baustruktur oder des architektonischen Erscheinungsbildes zur Folge haben können, können von den Vereinten Nationen auf eigene Kosten und ohne Recht auf Kostenersatz nur nach Zustimmung der Regierung vorgenommen werden.
 
 b) Andere Änderungen an den Gebäuden oder Anlagen, die Teil des Amtssitzbereiches der Vereinten Nationen sind, können die Vereinten Nationen auf ihre Kosten und ohne Recht auf Kostenersatz vornehmen.
 
-#### Abschnitt 6
+**Abschnitt 6**
+
+#### Art. 6
 
 Die Vereinten Nationen sind auf eigene Kosten für den sachgemäßen Betrieb und die angemessene Wartung der Gebäude und Anlagen und der darin befindlichen Installationen, die Bestandteil des Amtssitzbereiches der Vereinten Nationen bilden, verantwortlich; ebenso für kleinere Reparaturen und Erneuerungen mit dem Zweck, diese in einwandfreier Betriebsfähigkeit zu erhalten; ferner für Reparaturen und Erneuerungen, die durch unsachgemäßen Betrieb und duch *(Anm.: richtig: durch)* unzulängliche Wartung notwendig werden können.
 
-#### Abschnitt 7
+**Abschnitt 7**
+
+#### Art. 7
 
 Die Regierung führt auf eigene Kosten Reparaturen und Erneuerungen an Gebäuden, Anlagen und Installationen durch, die durch höhere Gewalt oder durch im Zuge ihres Baus eingesetzte fehlerhafte Materialien, fehlerhafte Planung oder fehlerhafte Arbeit, die im Verantwortungsbereich der Regierung gelegen sind, notwendig werden.
 
-#### Abschnitt 8
+**Abschnitt 8**
+
+#### Art. 8
 
 Die Art und Weise der Bestreitung der Kosten für größere Reparaturen und Erneuerungen von Gebäuden, Anlagen und technischen Installationen, die sich im Eigentum der Regierung befinden und Bestandteile des Amtssitzbereiches der Vereinten Nationen bilden, sind Gegenstand eines gesonderten Abkommens zwischen den Vertragsparteien und anderen internationalen Organisationen im VIC.
 
-#### Abschnitt 9
+**Abschnitt 9**
+
+#### Art. 9
 
 Haben die Vereinten Nationen einen Versicherungsvertrag abgeschlossen, um ihre Haftung für von der Benützung ihres Amtssitzbereiches ausgehende Schäden zu decken, die juristische oder physische Personen, die nicht Angestellte der Vereinten Nationen sind, erleiden, so kann jeder Anspruch betreffend die Haftung der Vereinten Nationen für solche Schäden unmittelbar gegen den Versicherungsträger vor österreichischen Gerichten geltend gemacht werden; dies ist im Versicherungsvertrag vorzusehen.
 
-#### Abschnitt 10
+**Abschnitt 10**
+
+#### Art. 10
 
 a) Die Vereinten Nationen haben für amtliche Zwecke sowie für die Zwecke des Nachrichtenverkehrs verwandter Internationaler Organisationen das Recht, eine oder mehrere Funksende- und -empfangsanlagen zu errichten und zu nutzen, um an geeigneten Punkten mit dem Funknetz der Vereinten Nationen in Verbindung zu treten und Nachrichten auszutauschen. Die Vereinten Nationen werden als Fernmeldeverwaltung ihren Fernmeldedienst in Übereinstimmung mit dem Internationalen Fernmeldevertrag und den ihm angeschlossenen Vollzugsordnungen betreiben. Die von diesen Anlagen benützten Frequenzen werden von den Vereinten Nationen der Regierung und dem Internationalen Ausschuß für Frequenzregistrierung mitgeteilt.
 
 b) Die Regierung gewährt den Vereinten Nationen über deren Ersuchen für amtliche Zwecke kostenlos geeignete Funk-, Fernmeldenetz- und andere Einrichtungen entsprechend den mit der Internationalen Fernmelde-Union zu treffenden technischen Abmachungen.
 
-#### Abschnitt 11
+**Abschnitt 11**
+
+#### Art. 11
 
 Die Vereinten Nationen können Forschungs-, Dokumentations- und andere technische Einrichtungen jeder Art errichten und betreiben. Diese Einrichtungen unterliegen den entsprechenden Sicherheitsvorkehrungen, die für Einrichtungen, durch welche Gefahren für Gesundheit und Sicherheit oder nachteilige Auswirkungen auf Eigentum entstehen können, einvernehmlich mit den zuständigen österreichischen Behörden festzulegen sind.
 
-#### Abschnitt 12
+**Abschnitt 12**
+
+#### Art. 12
 
 Die in den Abschnitten 10 und 11 vorgesehenen Einrichtungen können, soweit dies für ihren ordentlichen Betrieb erforderlich ist, außerhalb des Amtssitzbereiches der Vereinten Nationen errichtet und betrieben werden. Die zuständigen österreichischen Behörden werden über Ersuchen der Vereinten Nationen, gemäß den in einem Zusatzabkommen zu vereinbarenden Bestimmungen und Modalitäten, für den Erwerb oder die Benützung entsprechender Liegenschaften durch die Vereinten Nationen für derartige Zwecke und für die Einbeziehung derselben in ihren Amtssitzbereich Vorsorge treffen.
 
-#### Abschnitt 13
+**Abschnitt 13**
+
+#### Art. 13
 
 Die Regierung stellt den Vereinten Nationen im Austria Center Vienna oder in entsprechenden Einrichtungen kostenlos jene Konferenzeinrichtungen zur Verfügung, die für vom Amt der Vereinten Nationen in Wien organisierte Tagungen, welche nicht in den Konferenzeinrichtungen des VIC untergebracht werden können, erforderlich sind.
 
-#### Abschnitt 14
+**Abschnitt 14**
+
+#### Art. 14
 
 Sollten die Vereinten Nationen ihren Amtssitz aufgeben, so übergeben sie den von diesem Amtssitz eingenommenen Bereich, in so gutem Zustand wie es die natürliche Abnützung erlaubt, an die Regierung, wobei jedoch die Vereinten Nationen nicht verhalten sind, den Bereich in der Form und Beschaffenheit wiederherzustellen, wie er vor einem Umbau oder einer Veränderung, die von der Regierung oder den Vereinten Nationen in Übereinstimmung mit diesem Abkommen allenfalls vorgenommen wurde, bestand.
 
@@ -159,7 +187,9 @@ Sollten die Vereinten Nationen ihren Amtssitz aufgeben, so übergeben sie den vo
 
 ### Unverletzlichkeit des Amtssitzbereiches der Vereinten Nationen
 
-#### Abschnitt 15
+**Abschnitt 15**
+
+#### Art. 15
 
 a) Die Regierung anerkennt die Unverletzlichkeit des Amtssitzbereiches der Vereinten Nationen, der nach den Bestimmungen dieses Abkommens der Aufsicht und Verfügungsgewalt der Vereinten Nationen unterworfen ist.
 
@@ -167,7 +197,9 @@ b) Soweit in diesem Abkommen oder im Allgemeinen Übereinkommen nichts anderes v
 
 c) Soweit in diesem Abkommen oder im Allgemeinen Übereinkommen nichts anderes vorgesehen ist, sind die innerhalb des Amtssitzbereiches der Vereinten Nationen gesetzten Handlungen und vorgenommenen Rechtsgeschäfte der Jurisdiktion der Gerichte oder der sonst zuständigen Organe der Republik Österreich auf Grund der geltenden gesetzlichen Bestimmungen unterworfen.
 
-#### Abschnitt 16
+**Abschnitt 16**
+
+#### Art. 16
 
 a) Die Vereinten Nationen sind befugt, für ihren Amtssitzbereich geltende Vorschriften zu erlassen, um darin alle für die vollständige Wahrnehmung ihrer Funktionen in jeder Beziehung notwendigen Voraussetzungen zu schaffen. Gesetze der Republik Österreich, welche mit einer der von den Vereinten Nationen im Rahmen dieses Abschnittes erlassenen Vorschrift unvereinbar sind, sind in dem Ausmaß, in dem eine solche Unvereinbarkeit gegeben ist, für den Amtssitzbereich der Vereinten Nationen nicht anwendbar. Jede Meinungsverschiedenheit zwischen der Regierung und den Vereinten Nationen darüber, ob eine Vorschrift der Vereinten Nationen nach den Bestimmungen dieses Abschnittes erlassen wurde oder ob ein Gesetz der Republik Österreich mit einer im Rahmen dieses Abschnittes erlassenen Vorschrift der Vereinten Nationen unvereinbar ist, ist unverzüglich nach dem in Abschnitt 46 vorgesehenen Verfahren beizulegen. Bis zu einer solchen Beilegung bleibt die Vorschrift der Vereinten Nationen in Geltung, und das Gesetz der Republik Österreich ist in dem Ausmaß für den Amtssitzbereich nicht anwendbar, in dem die Vereinten Nationen seine Unvereinbarkeit mit ihrer Vorschrift behaupten.
 
@@ -175,7 +207,9 @@ b) Die Vereinten Nationen werden die Regierung soweit angemessen von Zeit zu Zei
 
 c) Dieser Abschnitt steht der angemessenen Anwendung der Feuerschutz- bzw. Gesundheitsvorschriften der zuständigen österreichischen Behörden nicht entgegen.
 
-#### Abschnitt 17
+**Abschnitt 17**
+
+#### Art. 17
 
 a) Der Amtssitzbereich der Vereinten Nationen ist unverletzlich. Kein Organ der Republik Österreich noch sonst irgendeine in der Republik Österreich Hoheitsrechte ausübende Person darf den Amtssitzbereich der Vereinten Nationen betreten, um dort Amtshandlungen zu setzen, es sei denn mit Zustimmung des Generaldirektors und unter den von ihm festgelegten Bedingungen. Gerichtliche Vollzugshandlungen, einschließlich der Beschlagnahme privaten Eigentums, dürfen innerhalb des Amtssitzbereiches nur mit ausdrücklicher Erlaubnis des Generaldirektors und unter den von ihm festgelegten Bedingungen stattfinden.
 
@@ -185,7 +219,9 @@ b) Die Vereinten Nationen werden unbeschadet der Bestimmungen des Allgemeinen Ü
 
 ### Schutz des Amtssitzbereiches der Vereinten Nationen
 
-#### Abschnitt 18
+**Abschnitt 18**
+
+#### Art. 18
 
 a) Die zuständigen österreichischen Behörden werden entsprechende Vorsorge treffen, um zu gewährleisten, daß die Ruhe im Amtssitzbereich der Vereinten Nationen nicht durch Personen oder Personengruppen gestört wird, die ihn ohne Erlaubnis zu betreten versuchen oder in der unmittelbaren Umgebung des Amtssitzbereiches der Vereinten Nationen Unruhe stiften; sie werden ferner an den Grenzen des Amtssitzbereiches der Vereinten Nationen den zu diesem Zweck erforderlichen Polizeischutz beistellen.
 
@@ -195,7 +231,9 @@ c) Wenn dies vom Generaldirektor gewünscht wird, so werden die zuständigen ös
 
 d) Die Vereinten Nationen konsultieren bei der Erstellung ihrer Sicherheitsvorschriften und -verfahren die Regierung, um dadurch die wirksamste und zweckmäßigste Ausübung der Sicherheitsaufgaben zu erreichen.
 
-#### Abschnitt 19
+**Abschnitt 19**
+
+#### Art. 19
 
 Die zuständigen österreichischen Behörden werden alle entsprechenden Vorkehrungen treffen, um zu gewährleisten, daß die durch die örtlichen Gegebenheiten bedingten Vorteile des Amtssitzbereiches der Vereinten Nationen nicht beeinträchtigt werden und die Erfüllung der Aufgaben, denen der Amtssitzbereich der Vereinten Nationen dient, nicht durch irgendeine Verwendung der Grundstücke oder der Gebäude in der Umgebung desselben erschwert wird. Die Vereinten Nationen werden alle entsprechenden Vorkehrungen treffen, um zu gewährleisten, daß die durch die örtlichen Gegebenheiten bedingten Vorteile der Grundstücke in der Umgebung des Amtssitzbereiches der Vereinten Nationen nicht durch irgendeinen Gebrauch des Landes oder der Gebäude im Amtssitzbereich der Vereinten Nationen beeinträchtigt werden.
 
@@ -203,7 +241,9 @@ Die zuständigen österreichischen Behörden werden alle entsprechenden Vorkehru
 
 ### Öffentliche Leistungen im Amtssitzbereich der Vereinten Nationen
 
-#### Abschnitt 20
+**Abschnitt 20**
+
+#### Art. 20
 
 a) Die zuständigen österreichischen Behörden werden in dem vom Generaldirektor erbetenen Ausmaß ihre Befugnisse dahingehend geltend machen, daß für den Amtssitzbereich der Vereinten Nationen die notwendigen öffentlichen Einrichtungen und Leistungen einschließlich Elektrizität, Wasser, Kanalisierung, Gas, Post, Telefon, Fernschreibverbindungen, örtliche Verkehrsmittel, Entwässerung, Müllabfuhr, Feuerschutz und Schneeräumung auf öffentlichen Fahrbahnen, ohne daß jedoch dieser Aufzählung einschränkende Wirkung zukommen soll, zu angemessenen Bedingungen beigestellt werden.
 
@@ -217,19 +257,25 @@ d) Soweit die Gas-, Strom-, Wasser- oder Wärmezufuhr von den zuständigen öste
 
 ### Nachrichtenverkehr, Veröffentlichungen und Transportmittel
 
-#### Abschnitt 21
+**Abschnitt 21**
+
+#### Art. 21
 
 a) Die amtlichen Mitteilungen, die an die Vereinten Nationen oder einen ihrer Angestellten in ihrem Amtssitzbereich gerichtet sind, sowie die von den Vereinten Nationen abgehenden amtlichen Mitteilungen, auf welchem Wege und in welcher Form sie auch immer übermittelt werden, unterliegen keiner Zensur und dürfen auch sonst nicht abgefangen oder in ihrem vertraulichen Charakter verletzt werden. Diese Immunität erstreckt sich – ohne daß jedoch dieser Aufzählung einschränkende Wirkung zukommen soll – auf Veröffentlichungen, photographische Aufnahmen, Filmaufnahmen, Filme, computergestützte Kommunikation sowie Ton- und Videoaufnahmen.
 
 b) Die Vereinten Nationen sind befugt, Codes zu benützen und ihre Briefe und sonstigen amtlichen Mitteilungen durch Kuriere oder versiegelt abzusenden und zu empfangen; auf diese finden dieselben Privilegien und Immunitäten Anwendung, wie auf diplomatische Kuriere und Sendungen.
 
-#### Abschnitt 22
+**Abschnitt 22**
+
+#### Art. 22
 
 a) Die Regierung anerkennt das Recht der Vereinten Nationen, zur Erfüllung ihrer Zwecke innerhalb der Republik Österreich ungehindert Veröffentlichungen durch Druckwerke und Rundfunk vorzunehmen.
 
 b) Es besteht jedoch Einverständnis darüber, daß die Vereinten Nationen auf Gesetze der Republik Österreich oder auf internationale Verträge, die das Urheberrecht betreffen und denen die Republik Österreich angehört, Bedacht nehmen werden.
 
-#### Abschnitt 23
+**Abschnitt 23**
+
+#### Art. 23
 
 Die Vereinten Nationen sind berechtigt, für ihre amtlichen Zwecke das Eisenbahnnetz der Regierung zu Tarifen zu benützen, die nicht höher sein dürfen, als die niedrigsten, vergleichbaren, der österreichischen staatlichen Verwaltung für Personen- und Frachtbeförderung eingeräumten Sätze.
 
@@ -237,7 +283,9 @@ Die Vereinten Nationen sind berechtigt, für ihre amtlichen Zwecke das Eisenbahn
 
 ### Steuerfreiheit
 
-#### Abschnitt 24
+**Abschnitt 24**
+
+#### Art. 24
 
 a) Die Vereinten Nationen, ihre Vermögenswerte, Einkünfte und anderes Eigentum sind von jeder Form der Besteuerung befreit; eine solche Steuerbefreiung bezieht sich jedoch nicht auf den Eigentümer oder Bestandgeber des von den Vereinten Nationen in Bestand genommenen Eigentums.
 
@@ -261,7 +309,9 @@ i) Die Vereinten Nationen sind von der Verpflichtung zur Entrichtung des Dienstg
 
 ### Finanzielle Erleichterungen
 
-#### Abschnitt 25
+**Abschnitt 25**
+
+#### Art. 25
 
 a) Die Vereinten Nationen können, ohne irgendwelchen finanziellen Kontrollen, Vorschriften oder zeitlichen Einschränkungen unterworfen zu sein, unbehindert:
 
@@ -283,15 +333,21 @@ c) Die Vereinten Nationen werden bei der Ausübung ihrer Rechte im Rahmen dieses
 
 ### Sozialversicherung und Pensionsfonds
 
-#### Abschnitt 26
+**Abschnitt 26**
+
+#### Art. 26
 
 Der Pensionsfonds genießt in der Republik Österreich Rechtspersönlichkeit, und es gelten für ihn die gleichen Befreiungen, Immunitäten und Privilegien, wie für die Vereinten Nationen selbst. Aus dem Pensionsfonds bezogene Ruhegenüsse sind von der Besteuerung befreit.
 
-#### Abschnitt 27
+**Abschnitt 27**
+
+#### Art. 27
 
 Die Vereinten Nationen und ihre Angestellten sind mit Ausnahme von Regelungen, die in einem Zusatzabkommen getroffen werden, von der Anwendbarkeit aller Gesetze betreffend Sozialversicherung befreit.
 
-#### Abschnitt 28
+**Abschnitt 28**
+
+#### Art. 28
 
 Die Republik Österreich und die Vereinten Nationen treffen durch ein Zusatzabkommen die erforderlichen Maßnahmen, um es jedem Angestellten der Vereinten Nationen, der an Sozialversicherungseinrichtungen der Vereinten Nationen nicht teilhat, zu ermöglichen, einer Sozialversicherungseinrichtung der Republik Österreich beizutreten. Die Vereinten Nationen können im Einklang mit den Bestimmungen eines solchen Zusatzabkommens Vorsorge dafür treffen, daß die an Ort und Stelle aufgenommenen Angehörigen ihres Personals, die nicht am Pensionsfonds teilnehmen oder denen die Vereinten Nationen keinen Sozialversicherungsschutz zuteil werden lassen, der dem nach österreichischem Recht gewährten zumindest gleichwertig ist, Mitglieder einer österreichischen Sozialversicherungseinrichtung werden können.
 
@@ -299,7 +355,9 @@ Die Republik Österreich und die Vereinten Nationen treffen durch ein Zusatzabko
 
 ### Durchreise und Aufenthalt
 
-#### Abschnitt 29
+**Abschnitt 29**
+
+#### Art. 29
 
 a) Hinsichtlich der nachstehend angeführten Personen wird die Regierung alle erforderlichen Maßnahmen treffen, um deren Einreise nach und den Aufenthalt im Gebiet der Republik Österreich zu erleichtern und wird ihrer Ausreise aus dem Gebiet der Republik Österreich keine Hindernisse in den Weg legen und dafür sorgen, daß sie bei ihren Reisen zum und vom Amtssitz der Vereinten Nationen nicht behindert werden, sowie ihnen während der Reise jeden erforderlichen Schutz zuteil werden lassen:
 
@@ -337,7 +395,9 @@ iv) Personen, die gemäß Abschnitt 38 Anspruch auf diplomatische Privilegien un
 
 f) Dieser Abschnitt steht dem nicht entgegen, einen ausreichenden Nachweis dafür zu verlangen, daß die Personen, welche die auf Grund dieses Abschnittes eingeräumten Rechte beanspruchen, unter die in Unterabschnitt a) angegebenen Kategorien fallen; weiters steht dieser Abschnitt dem nicht entgegen, daß die angemessene Anwendung von Quarantäne- und Gesundheitsvorschriften gefordert wird.
 
-#### Abschnitt 30
+**Abschnitt 30**
+
+#### Art. 30
 
 Die zuständigen österreichischen Behörden und der Generaldirektor setzen sich über Antrag eines Teiles hinsichtlich der Methoden ins Einvernehmen, die angewandt werden sollen, um aus dem Ausland kommenden Personen, die sich in den Amtssitzbereich der Vereinten Nationen zu begeben wünschen und die in Abschnitt 29 vorgesehenen Privilegien nicht genießen, die Einreise in das Gebiet der Republik Österreich und die Benützung vorhandener Verkehrsmittel zu erleichtern.
 
@@ -345,11 +405,15 @@ Die zuständigen österreichischen Behörden und der Generaldirektor setzen sich
 
 ### Vertreter bei den Vereinten Nationen
 
-#### Abschnitt 31
+**Abschnitt 31**
+
+#### Art. 31
 
 Ständige Vertretungen, die bei den Vereinten Nationen beglaubigt sind, genießen die gleichen Privilegien und Immunitäten, wie sie diplomatischen Vertretungsbehörden in der Republik Österreich eingeräumt werden.
 
-#### Abschnitt 32
+**Abschnitt 32**
+
+#### Art. 32
 
 a) Mitglieder von Ständigen Vertretungen, die bei den Vereinten Nationen beglaubigt sind, genießen die gleichen Privilegien und Immunitäten, wie sie die Regierung den Mitgliedern vergleichbaren Ranges der in der Republik Österreich beglaubigten diplomatischen Vertretungsbehörden einräumt.
 
@@ -357,19 +421,27 @@ b) Mitglieder von Ständigen Beobachtermissionen von Nichtmitgliedstaaten und Zw
 
 c) Vorbehaltlich jeglicher zusätzlicher Privilegien und Immunitäten, die die Regierung einseitig einräumen kann, genießen Mitglieder von sonstigen Ständigen Beobachtermissionen, denen dieser Status von der Generalversammlung eingeräumt wurde, solche Immunitäten wie sie für die unabhängige Ausübung ihrer Funktionen im Zusammenhang mit den Vereinten Nationen erforderlich sind.
 
-#### Abschnitt 33
+**Abschnitt 33**
+
+#### Art. 33
 
 Vertreter von Staaten oder Zwischenstaatlichen Organisationen bei Tagungen der Vereinten Nationen oder Tagungen, die von den Vereinten Nationen einberufen werden, sowie Vertreter, die bei den Vereinten Nationen in Wien amtliche Aufgaben wahrzunehmen haben, genießen während der Ausübung ihrer Funktionen und auf ihren Reisen nach und aus Österreich die in Artikel IV des Allgemeinen Übereinkommens vorgesehenen Privilegien und Immunitäten.
 
-#### Abschnitt 34
+**Abschnitt 34**
+
+#### Art. 34
 
 Im Hinblick auf Artikel 38 Absatz 1 des Wiener Übereinkommens über diplomatische Beziehungen (1961) und im Hinblick auf die Praxis der Republik Österreich wird den im Abschnitt 32 erwähnten Mitgliedern von Ständigen Vertretungen und Ständigen Beobachtermissionen, die österreichische Staatsbürger oder Staatenlose mit Wohnsitz in Österreich sind, nur die Befreiung von jeglicher Jurisdiktion in bezug auf die von ihnen in Ausübung ihrer Funktionen als Mitglieder dieser Ständigen Vertretungen und Ständigen Beobachtermissionen gemachten mündlichen oder schriftlichen Äußerungen oder gesetzten Handlungen gewährt.
 
-#### Abschnitt 35
+**Abschnitt 35**
+
+#### Art. 35
 
 In Übereinstimmung mit Artikel 42 des Wiener Übereinkommens über diplomatische Beziehungen und der Praxis der Republik Österreich, dürfen die in den Abschnitten 31 und 32 erwähnten Mitglieder von Ständigen Vertretungen und Ständigen Beobachtermissionen, denen die gleichen Privilegien und Immunitäten gewährt werden, wie sie Mitgliedern vergleichbaren Ranges der in der Republik Österreich beglaubigten diplomatischen Vertretungsbehörden eingeräumt werden, keinen freien Beruf oder keine gewerbliche Tätigkeit in der Republik Österreich ausüben, die auf persönlichen Gewinn gerichtet ist.
 
-#### Abschnitt 36
+**Abschnitt 36**
+
+#### Art. 36
 
 Die Vereinten Nationen werden der Regierung eine Liste der unter die Bestimmungen dieses Artikels fallenden Personen übermitteln und diese nach Bedarf von Zeit zu Zeit revidieren.
 
@@ -377,7 +449,9 @@ Die Vereinten Nationen werden der Regierung eine Liste der unter die Bestimmunge
 
 ### Angestellte der Vereinten Nationen
 
-#### Abschnitt 37
+**Abschnitt 37**
+
+#### Art. 37
 
 Die Angestellten der Vereinten Nationen genießen in und gegenüber der Republik Österreich folgende Privilegien und Immunitäten:
 
@@ -419,7 +493,9 @@ iii) beschränkte Mengen bestimmter Artikel, die zum persönlichen Gebrauch oder
 
 p) für sich und ihre Familienangehörigen unter den gleichen Bedingungen, wie sie österreichischen Staatsangehörigen zustehen, das Recht zum Zugang zu Universitäten und anderen höheren Bildungslehranstalten zum Erwerb eines Grades im Rahmen eines akademischen oder Post-graduate-Studiums zu erhalten sowie verwandte Ausbildungsmöglichkeiten in Anspruch nehmen zu können, die zum Erwerb entsprechender Bildungs- und Berufsbefähigungen führen, welche in Österreich erforderlich sind.
 
-#### Abschnitt 38
+**Abschnitt 38**
+
+#### Art. 38
 
 Neben den in Abschnitt 37 angeführten Privilegien und Immunitäten werden:
 
@@ -433,7 +509,9 @@ d) in Übereinstimmung mit Artikel 42 des Wiener Übereinkommens über diplomati
 
 e) die Familienmitglieder eines der in diesem Abschnitt genannten Angestellten, die seinem Haushalt angehören, genießen, sofern sie nicht österreichische Staatsbürger oder Staatenlose mit Wohnsitz in Österreich sind, die für diese Kategorie von Personen im Wiener Übereinkommen über diplomatische Beziehungen genannten Privilegien und Immunitäten.
 
-#### Abschnitt 39
+**Abschnitt 39**
+
+#### Art. 39
 
 a) Sofern nichts anderes vorgesehen ist, genießen die Angestellten der Vereinten Nationen, die österreichische Staatsbürger oder Staatenlose mit Wohnsitz in Österreich sind, nur die im Allgemeinen Übereinkommen vorgesehenen Privilegien und Immunitäten, wobei jedoch Einvernehmen darüber besteht, daß unter diese Privilegien und Immunitäten auch fallen:
 
@@ -443,7 +521,9 @@ ii) der Zutritt zu dem in Übereinstimmung mit Abschnitt 37 Unterabschnitt o) ii
 
 b) Die Angestellten der Vereinten Nationen und deren im gemeinsamen Haushalt lebende Familienmitglieder, auf die sich das Abkommen bezieht, sind von den Leistungen aus dem Ausgleichsfonds für Familienbeihilfen oder einer Einrichtung mit gleichartigen Funktionen ausgeschlossen, sofern diese Personen weder österreichische Staatsbürger noch Staatenlose mit Wohnsitz in Österreich sind.
 
-#### Abschnitt 40
+**Abschnitt 40**
+
+#### Art. 40
 
 a) Der Generaldirektor wird der Regierung eine Liste der Angestellten der Vereinten Nationen übermitteln und diese nach Bedarf von Zeit zu Zeit revidieren.
 
@@ -451,7 +531,9 @@ b) Die Regierung wird den Vereinten Nationen für alle in diesem Artikel genannt
 
 c) Die Regierung hat dafür zu sorgen, daß der Generaldirektor im Falle der Verhaftung oder Anhaltung eines Angestellten der Vereinten Nationen durch eine österreichische Behörde unverzüglich davon in Kenntnis gesetzt wird, und es ihm erlaubt wird, einen Angestellten zu dem Verhafteten oder Angehaltenen zu senden, mit dem Angestellten mündlich oder schriftlich zu verkehren und ihm bzw. ihr die erforderliche rechtliche oder medizinische Hilfe zu leisten.
 
-#### Abschnitt 41
+**Abschnitt 41**
+
+#### Art. 41
 
 Die Bestimmungen dieses Artikels werden auch auf Angestellte der Sonderorganisationen und der Internationalen Atomenergie-Organisation angewendet, die den Vereinten Nationen zugeteilt sind.
 
@@ -459,7 +541,9 @@ Die Bestimmungen dieses Artikels werden auch auf Angestellte der Sonderorganisat
 
 ### Sachverständige im Auftrag der Vereinten Nationen
 
-#### Abschnitt 42
+**Abschnitt 42**
+
+#### Art. 42
 
 Sachverständige (soweit es sich nicht um Angestellte der Vereinten Nationen handelt, die unter Artikel XII fallen), die Aufträge ausführen, zu denen sie von den Vereinten Nationen ermächtigt wurden, die in Ausschüssen oder anderen Hilfsorganen der Vereinten Nationen arbeiten oder mit den Vereinten Nationen über deren Ersuchen in irgendeiner Weise Beratungen pflegen, genießen in und gegenüber der Republik Österreich die folgenden Privilegien und Immunitäten, soweit diese für die unabhängige Ausübung ihrer Funktionen erforderlich sind:
 
@@ -481,13 +565,17 @@ h) vorbehaltlich der Bestimmungen von Abschnitt 22 Unterabschnitt e) des Allgeme
 
 i) die gleichen Immunitäten und Erleichterungen in bezug auf ihr privates und ihr Dienstgepäck, wie sie die Regierung den Mitgliedern vergleichbaren Ranges des Personals der bei der Republik Österreich beglaubigten Leiter diplomatischer Vertretungsbehörden einräumt.
 
-#### Abschnitt 43
+**Abschnitt 43**
+
+#### Art. 43
 
 a) In jenen Fällen, in denen der Anfall irgendeiner Steuer vom Aufenthalt abhängt, werden Zeiträume, während derer sich die in Abschnitt 42 genannten Personen in der Republik Österreich zur Erfüllung ihrer Aufgaben aufhalten, nicht als Aufenthaltszeiträume angesehen. Diese Personen sind insbesondere von der Steuerzahlung für ihre von den Vereinten Nationen empfangenen Gehälter und Bezüge während eines derartigen Dienstzeitraumes sowie von allen Fremdenverkehrsabgaben befreit.
 
 b) Sofern nichts anderes vorgesehen ist, genießen die in Abschnitt 42 genannten Personen, die österreichische Staatsbürger oder Staatenlose mit Wohnsitz in Österreich sind, nur die im Allgemeinen Übereinkommen gewährten Privilegien und Immunitäten, wobei jedoch Einvernehmen darüber besteht, daß unter diese Privilegien und Immunitäten auch die Befreiung von der Besteuerung der Ruhegenüsse fällt, die diesen Personen vom Pensionsfonds ausgezahlt werden.
 
-#### Abschnitt 44
+**Abschnitt 44**
+
+#### Art. 44
 
 a) Die Vereinten Nationen werden der Regierung eine Liste der Personen übermitteln, die unter diesen Artikel fallen.
 
@@ -497,7 +585,9 @@ b) Die Regierung wird den Vereinten Nationen für alle unter diesen Artikel fall
 
 ### Beilegung von Meinungsverschiedenheiten
 
-#### Abschnitt 45
+**Abschnitt 45**
+
+#### Art. 45
 
 Die Vereinten Nationen treffen Maßnahmen hinsichtlich geeigneter Verfahren zur Beilegung von:
 
@@ -505,7 +595,9 @@ a) Streitigkeiten aus Verträgen oder Streitigkeiten privatrechtlichen Charakter
 
 b) Streitigkeiten, an denen ein Angestellter der Vereinten Nationen oder ein im Auftrag der Vereinten Nationen tätiger Sachverständiger, der auf Grund seiner amtlichen Stellung Befreiung von der Jurisdiktion genießt und dessen Befreiung nicht aufgehoben wurde, beteiligt ist.
 
-#### Abschnitt 46
+**Abschnitt 46**
+
+#### Art. 46
 
 a) Alle Meinungsverschiedenheiten zwischen der Regierung und den Vereinten Nationen über die Auslegung oder Anwendung dieses Abkommens oder irgendeines Zusatzabkommens sowie alle Fragen hinsichtlich des Amtssitzbereiches der Vereinten Nationen oder des Verhältnisses zwischen der Regierung und den Vereinten Nationen, welche nicht im Verhandlungswege oder nach einem anderen einvernehmlich festgelegten Verfahren beigelegt werden, sind zur endgültigen Entscheidung einem aus drei Schiedsrichtern zusammengesetzten Schiedsgericht zu unterbreiten; von diesen ist einer vom Bundesminister für auswärtige Angelegenheiten der Republik Österreich, einer vom Generaldirektor und der dritte, der als Vorsitzender des Schiedsgerichtes fungieren soll, von den beiden ersten Schiedsrichtern auszuwählen. Hat eine der beiden Parteien innerhalb von sechs Monaten nach Ernennung des Schiedsrichters durch die andere Partei ihren Schiedsrichter nicht ausgewählt oder können die beiden ersten Schiedsrichter innerhalb von sechs Monaten nach ihrer Ernennung keine Einigung hinsichtlich des dritten Schiedsrichters erzielen, so wird dieser zweite oder dritte Schiedsrichter auf Ersuchen der Regierung oder der Vereinten Nationen vom Präsidenten des Internationalen Gerichtshofes ausgewählt.
 
@@ -515,33 +607,47 @@ b) Die Regierung oder der Generalsekretär der Vereinten Nationen können die Ge
 
 ### Allgemeine Bestimmungen
 
-#### Abschnitt 47
+**Abschnitt 47**
+
+#### Art. 47
 
 Außer derjenigen völkerrechtlichen Verantwortlichkeit, die sich aus der Mitgliedschaft der Republik Österreich bei den Vereinten Nationen ergeben könnte, erwächst der Republik Österreich aus der Tatsache, daß sich der Amtssitzbereich der Vereinten Nationen innerhalb ihres Gebietes befindet, keine völkerrechtliche Verantwortlichkeit für Handlungen oder Unterlassungen der Vereinten Nationen oder für Handlungen oder Unterlassungen der Angestellten der Vereinten Nationen im Rahmen ihrer Funktionen.
 
-#### Abschnitt 48
+**Abschnitt 48**
+
+#### Art. 48
 
 Unbeschadet der durch dieses Abkommen gewährten Privilegien und Immunitäten sind alle Personen, die in den Genuß dieser Privilegien und Immunitäten kommen, verpflichtet, die Gesetze und anderen Rechtsvorschriften der Republik Österreich zu beachten sowie sich nicht in die inneren Angelegenheiten dieses Staates einzumischen.
 
-#### Abschnitt 49
+**Abschnitt 49**
+
+#### Art. 49
 
 a) Der Generaldirektor trifft alle Vorkehrungen dafür, daß mit den im Rahmen dieses Abkommens gewährten Privilegien und Immunitäten kein Mißbrauch getrieben wird, und erläßt zu diesem Zweck die für notwendig und zweckmäßig erachteten Regeln und Vorschriften für die Angestellten der Vereinten Nationen und die anderen dafür in Betracht kommenden Personen.
 
 b) Falls die Regierung der Ansicht ist, daß mit den im Rahmen dieses Abkommens gewährten Privilegien und Immunitäten Mißbrauch getrieben wurde, wird der Generaldirektor über Ersuchen mit den zuständigen österreichischen Behörden Rücksprache pflegen, um festzustellen, ob ein solcher Mißbrauch vorliegt. Führen derartige Rücksprachen zu keinem für die Regierung und den Generaldirektor befriedigenden Ergebnis, dann wird die Angelegenheit gemäß dem in Abschnitt 46 festgelegten Verfahren entschieden.
 
-#### Abschnitt 50
+**Abschnitt 50**
+
+#### Art. 50
 
 Dieses Abkommen wird angewendet, unabhängig davon, ob die Regierung mit dem betreffenden Staat oder der betreffenden Organisation diplomatische Beziehungen unterhält oder nicht, sowie unabhängig davon, ob der betreffende Staat die gleichen Privilegien und Immunitäten den diplomatischen Vertretern oder Staatsbürgern der Republik Österreich gewährt.
 
-#### Abschnitt 51
+**Abschnitt 51**
+
+#### Art. 51
 
 In allen Fällen, in denen den zuständigen österreichischen Behörden durch dieses Abkommen Verpflichtungen auferlegt werden, ist letztlich die Regierung für die Erfüllung dieser Verpflichtungen verantwortlich.
 
-#### Abschnitt 52
+**Abschnitt 52**
+
+#### Art. 52
 
 Die Bestimmungen dieses Abkommens ergänzen die Bestimmungen des Allgemeinen Übereinkommens. Insoweit sich irgendeine Bestimmung dieses Abkommens und irgendeine Bestimmung des Allgemeinen Übereinkommens auf denselben Gegenstand beziehen, werden die beiden Bestimmungen, wo immer möglich, als einander ergänzend behandelt, so daß beide Bestimmungen anwendbar sind und keine die Wirkung der anderen einschränkt.
 
-#### Abschnitt 53
+**Abschnitt 53**
+
+#### Art. 53
 
 a) Die Auslegung dieses Abkommens hat im Lichte seines vorrangigen Zwecks zu erfolgen, der darin besteht, die Vereinten Nationen in die Lage zu versetzen, an ihrem Amtssitz in der Republik Österreich die ihnen gestellten Aufgaben voll und ganz zu erfüllen und ihrer Zweckbestimmung nachzukommen.
 
@@ -549,21 +655,29 @@ b) Angestellte und Sachverständige im Auftrag der Vereinten Nationen genießen 
 
 c) Der Generaldirektor besitzt das Recht und die Pflicht, auf die Immunität eines Angestellten in jedem Fall zu verzichten, in dem nach seiner Auffassung die Immunität den Lauf der Gerechtigkeit hindern würde und auf diese ohne Nachteil für die Interessen der Vereinten Nationen verzichtet werden kann.
 
-#### Abschnitt 54
+**Abschnitt 54**
+
+#### Art. 54
 
 Beratungen über die Abänderung dieses Abkommens werden über Ersuchen der Regierung oder der Vereinten Nationen aufgenommen. Jede derartige Abänderung erfolgt im gegenseitigen Einvernehmen, das im Wege eines Briefwechsels oder eines von der Regierung und den Vereinten Nationen getroffenen Abkommens hergestellt wird.
 
-#### Abschnitt 55
+**Abschnitt 55**
+
+#### Art. 55
 
 a) Die Regierung und die Vereinten Nationen können nach Bedarf Zusatzabkommen schließen.
 
 b) Sofern und insoweit die Regierung mit einer Zwischenstaatlichen Organisation ein Abkommen trifft, das Bestimmungen oder Bedingungen enthält, die für die betreffende Organisation günstiger sind als die entsprechenden Bestimmungen oder Bedingungen dieses Abkommens, dann dehnt die Regierung mittels eines Zusatzabkommens diese günstigeren Bestimmungen oder Bedingungen auch auf die Vereinten Nationen aus.
 
-#### Abschnitt 56
+**Abschnitt 56**
+
+#### Art. 56
 
 Dieses Abkommen wird sinngemäß auf andere Ämter der Vereinten Nationen angewendet werden, die mit Zustimmung der Regierung in Österreich errichtet werden.
 
-#### Abschnitt 57
+**Abschnitt 57**
+
+#### Art. 57
 
 Dieses Abkommen tritt außer Kraft:
 
@@ -571,11 +685,15 @@ i) wenn darüber zwischen der Regierung und den Vereinten Nationen Einvernehmen 
 
 ii) wenn der Amtssitz der Vereinten Nationen aus dem Gebiet der Republik Österreich verlegt wird; hiebei sind jene Bestimmungen des Abkommens ausgenommen, die im Zusammenhang mit der ordnungsgemäßen Beendigung der Tätigkeit der Vereinten Nationen an ihrem Amtssitz in der Republik Österreich und mit der Verfügung über ihr dort befindliches Eigentum gegebenenfalls Anwendung finden.
 
-#### Abschnitt 58
+**Abschnitt 58**
+
+#### Art. 58
 
 Dieses Abkommen und der dazugehörige Annex (Anm.: Annex nicht darstellbar) treten am ersten Tag des Monats folgend auf den Tag in Kraft, an dem die Regierung den Vereinten Nationen mitteilt, daß die für das Inkrafttreten erforderlichen verfassungsmäßigen Voraussetzungen erfüllt sind.
 
-#### Abschnitt 59
+**Abschnitt 59**
+
+#### Art. 59
 
 Unbeschadet solcher anderer Vorrechte und Befreiungen, die auf Grund der Gesetze der Republik Österreich gewährt werden, ersetzt dieses Abkommen das frühere Amtssitzabkommen von 1967 einschließlich aller damit verbundenen Abkommen, die für eine Interimsperiode durch Notenwechsel vom 20. Dezember 1985 zwischen den Vereinten Nationen und der Republik Österreich ausgedehnt wurden, mit Ausnahme der nachfolgend angeführten Abkommen, die auf die Vereinten Nationen weiterhin anwendbar sind:
 

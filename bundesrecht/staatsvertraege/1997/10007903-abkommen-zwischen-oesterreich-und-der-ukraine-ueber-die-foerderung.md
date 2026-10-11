@@ -33,7 +33,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens
 
@@ -67,7 +69,9 @@ c) jede juristische Person oder Personengesellschaft, die in Übereinstimmung mi
 
 ## Artikel 2
 
-### Förderung und Schutz der Investitionen
+**Förderung und Schutz der Investitionen**
+
+### Art. 2
 
 (1) Jede Vertragspartei fördert nach Möglichkeit in ihrem Hoheitsgebiet die Investitionen der Investoren der anderen Vertragspartei, läßt diese Investitionen in Übereinstimmung mit ihren Rechtsvorschriften zu und behandelt sie in jedem Fall gerecht und billig.
 
@@ -75,7 +79,9 @@ c) jede juristische Person oder Personengesellschaft, die in Übereinstimmung mi
 
 ## Artikel 3
 
-### Behandlung der Investitionen
+**Behandlung der Investitionen**
+
+### Art. 3
 
 (1) Jede Vertragspartei behandelt Investoren der anderen Vertragspartei und deren Investitionen nicht weniger günstig als ihre eigenen Investoren und deren Investitionen oder Investoren dritter Staaten und deren Investitionen.
 
@@ -89,7 +95,9 @@ c) einer Regelung zur Erleichterung des Grenzverkehrs.
 
 ## Artikel 4
 
-### Entschädigung für Enteignung
+**Entschädigung für Enteignung**
+
+### Art. 4
 
 (1) Investitionen von Investoren einer Vertragspartei dürfen im Hoheitsgebiet der anderen Vertragspartei nur im öffentlichen Interesse, auf Grund eines rechtmäßigen Verfahrens und gegen entsprechende Entschädigung enteignet werden.
 
@@ -103,7 +111,9 @@ c) einer Regelung zur Erleichterung des Grenzverkehrs.
 
 ## Artikel 5
 
-### Entschädigung für Schadensfälle oder Verluste
+**Entschädigung für Schadensfälle oder Verluste**
+
+### Art. 5
 
 (1) Investoren einer Vertragspartei, deren Investitionen auf Grund eines Krieges oder anderer bewaffneter Konflikte, eines nationalen Notstandes, einer Revolte, Bürgerunruhen, eines Aufstandes oder auf Grund von Tumulten oder ähnlicher Ereignisse im Gebiet der anderen Vertragspartei Schaden oder Verluste erleiden, erfahren hinsichtlich Rückerstattung, Schadloshaltung, Entschädigung oder anderer Regelungen seitens der anderen Vertragspartei keine weniger günstige Behandlung als jene, die diese Vertragspartei ihren eigenen Investoren oder Investoren aus Drittstaaten, je nachdem, welche Behandlung für den durch die obengenannten Ereignisse geschädigten Investor die günstigere ist, zuteil werden läßt.
 
@@ -117,7 +127,9 @@ die nicht durch Kampfhandlungen verursacht wurde bzw. nicht auf Grund der Notsit
 
 ## Artikel 6
 
-### Transfer
+**Transfer**
+
+### Art. 6
 
 (1) Jede Vertragspartei gewährleistet den Investoren der anderen Vertragspartei ohne ungebührliche Verzögerung den freien Transfer in frei konvertierbarer Währung der im Zusammenhang mit einer Investition stehenden Zahlungen, insbesondere, aber nicht ausschließlich,
 
@@ -141,13 +153,17 @@ g) Zahlungen aus einer Streiterledigung.
 
 ## Artikel 7
 
-### Eintrittsrecht
+**Eintrittsrecht**
+
+### Art. 7
 
 Leistet eine Vertragspartei oder eine von ihr hiezu ermächtigte Institution ihrem Investor Zahlungen auf Grund einer Garantie für eine Investition im Hoheitsgebiet der anderen Vertragspartei, so erkennt diese andere Vertragspartei, unbeschadet der Rechte des Investors der erstgenannten Vertragspartei aus Artikel 9 dieses Abkommens und der Rechte der erstgenannten Vertragspartei aus Artikel 10 dieses Abkommens, die Übertragung aller Rechte oder Ansprüche dieses Investors kraft Gesetzes oder auf Grund einer entsprechenden Vereinbarung auf die erstgenannte Vertragspartei an. Ferner erkennt die andere Vertragspartei den Eintritt der erstgenannten Vertragspartei in alle diese Rechte oder Ansprüche an, welche die erstgenannte Vertragspartei in demselben Umfang wie ihr Rechtsvorgänger auszuüben berechtigt ist. Für den Transfer der an die betreffende Vertragspartei auf Grund der übertragenen Rechte zu leistenden Zahlungen gelten Artikel 4, 5 und 6 dieses Abkommens sinngemäß.
 
 ## Artikel 8
 
-### Andere Verpflichtungen
+**Andere Verpflichtungen**
+
+### Art. 8
 
 (1) Ergibt sich aus den Rechtsvorschriften einer Vertragspartei oder aus völkerrechtlichen Verpflichtungen, die neben diesem Abkommen zwischen den Vertragsparteien bestehen oder in Zukunft begründet werden, eine allgemeine oder besondere Regelung, durch die den Investitionen der Investoren der anderen Vertragspartei eine günstigere Behandlung als nach diesem Abkommen zu gewähren ist, so geht diese Regelung dem vorliegenden Abkommen insoweit vor, als sie günstiger ist.
 
@@ -155,7 +171,9 @@ Leistet eine Vertragspartei oder eine von ihr hiezu ermächtigte Institution ihr
 
 ## Artikel 9
 
-### Beilegung von Investitionsstreitigkeiten
+**Beilegung von Investitionsstreitigkeiten**
+
+### Art. 9
 
 (1) Entstehen zwischen einer Vertragspartei und einem Investor der anderen Vertragspartei Meinungsverschiedenheiten aus einer Investition, so werden diese so weit wie möglich zwischen den Streitparteien durch Verhandlungen beigelegt.
 
@@ -175,7 +193,9 @@ b) einem Schiedsverfahren durch drei Schiedsrichter gemäß den UNCITRAL Schieds
 
 ## Artikel 10
 
-### Beilegung von Streitigkeiten zwischen den Vertragsparteien
+**Beilegung von Streitigkeiten zwischen den Vertragsparteien**
+
+### Art. 10
 
 (1) Meinungsverschiedenheiten zwischen den Vertragsparteien über die Auslegung oder Anwendung dieses Abkommens sollen, soweit wie möglich, durch Verhandlungen beigelegt werden.
 
@@ -195,7 +215,9 @@ jede Vertragspartei bestellt ein Mitglied und beide Mitglieder einigen sich auf 
 
 ## Artikel 11
 
-### Anwendung dieses Abkommens
+**Anwendung dieses Abkommens**
+
+### Art. 11
 
 (1) Dieses Abkommen gilt für Investitionen, die Investoren der einen Vertragspartei in Übereinstimmung mit den Rechtsvorschriften der anderen Vertragspartei in deren Hoheitsgebiet sowohl vor als auch nach dem Inkrafttreten dieses Abkommens vorgenommen haben oder vornehmen werden.
 
@@ -205,7 +227,9 @@ jede Vertragspartei bestellt ein Mitglied und beide Mitglieder einigen sich auf 
 
 ## Artikel 12
 
-### Inkrafttreten und Dauer
+**Inkrafttreten und Dauer**
+
+### Art. 12
 
 (1) Dieses Abkommen bedarf der Ratifikation und tritt am ersten Tag des dritten Monats in Kraft, der auf den Monat folgt, in welchem der Austausch der Ratifikationsurkunden stattgefunden hat.
 

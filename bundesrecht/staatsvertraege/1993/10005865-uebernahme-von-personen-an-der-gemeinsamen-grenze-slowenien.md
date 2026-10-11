@@ -1,0 +1,106 @@
+---
+title: "Übernahme von Personen an der gemeinsamen Grenze (Slowenien)"
+identifier: "10005865"
+type: treaty
+ris_type: "Vertrag – Slowenien"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 623/1993"
+last_amended: 1993-09-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1993/623/P0/NOR11005957"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005865"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Übernahme von Personen an der gemeinsamen Grenze (Slowenien)
+
+ABKOMMEN zwischen der Regierung der Republik Österreich und der Regierung der Republik Slowenien über die Übernahme von Personen an der gemeinsamen Grenze
+
+StF: BGBl. Nr. 623/1993 (NR: GP XVIII RV 1037 AB 1209 S. 129. BR: AB 4599 S. 573.)
+
+## Präambel/Promulgationsklausel
+
+In der Absicht, die gegenseitige Übernahme von eigenen Staatsangehörigen und Drittausländern an der gemeinsamen Grenze im Geiste der gutnachbarlichen Beziehungen zu regeln, haben die Regierung der Republik Österreich und die Regierung der Republik Slowenien (im weiteren Vertragsparteien genannt) folgendes vereinbart:
+
+## Artikel 1
+
+(1) Jede Vertragspartei übernimmt ohne besondere Formalität aus dem Gebiet der anderen Vertragspartei jede Person, von der glaubhaft gemacht wird, daß sie ihre Staatsangehörigkeit besitzt. Stellt sich nachträglich heraus, daß die Person im Zeitpunkt der Einreise diese Staatsangehörigkeit nicht besessen hat, so muß sie von der anderen Vertragspartei zurückgenommen werden; dies gilt nicht, falls die Behörden der Vertragspartei, die die Person übernommen hat, dieser zu Unrecht ein Reisedokument ausgestellt haben.
+
+(2) Kann die Staatsangehörigkeit nicht glaubhaft gemacht werden, so wird die diplomatische Mission oder konsularische Vertretung jener Vertragspartei, deren Staatsangehörigkeit die Person vermutlich besitzt, diese auf Ersuchen unverzüglich klarstellen.
+
+## Artikel 2
+
+Die Übergabe einer Person, die wegen ihres Alters, Gesundheitszustandes oder aus anderen schwerwiegenden Gründen besonderer Pflege bedarf, wird der diplomatischen Mission oder konsularischen Vertretung jener Vertragspartei, deren Staatsangehörigkeit die Person besitzt, angekündigt, damit diese Vertragspartei die notwendigen Maßnahmen zur Übernahme der Person treffen kann. Innerhalb eines Monats nach Ankündigung ist der Vertragspartei, auf deren Gebiet sich die Person aufhält, mitzuteilen, wo und wann die Übernahme erfolgen wird.
+
+## Artikel 3
+
+(1) Jede Vertragspartei übernimmt einen Drittausländer, der aus ihrem Gebiet rechtswidrig in das der anderen Vertragspartei eingereist ist.
+
+(2) Die ersuchte Vertragspartei übernimmt den Drittausländer auf Grund einer Übernahmserklärung. Der Übernahmsantrag kann innerhalb von längstens 90 Tagen nach der rechtswidrigen Einreise des Drittausländers jederzeit gestellt werden. Der Antrag muß die Personaldaten der zu übernehmenden Person sowie Angaben enthalten, die die rechtswidrige Überschreitung der Grenze glaubhaft machen. Auf den Übernahmsantrag ist innerhalb von 72 Stunden nach dessen Übermittlung eine Antwort zu erteilen. Der Übernahmsantrag und die Ausstellung der Übernahmserklärung erfolgen österreichischerseits durch die Sicherheitsdirektionen für die Bundesländer Steiermark und Kärnten, slowenischerseits durch die Verwaltung für innere Angelegenheiten, deren jeweiliger Verwaltungsbereich an die Republik Österreich grenzt.
+
+(3) Ein Drittausländer wird formlos von den Grenzbehörden einer Vertragspartei übernommen, wenn die andere Vertragspartei innerhalb von sieben Tagen nach dem rechtswidrigen Grenzübertritt darum ersucht. Diese Vorgangsweise wird lediglich dann angewendet, wenn die Grenzbehörde der anderen Vertragspartei Angaben macht, die die Feststellung ermöglichen, daß die Person rechtswidrig die Grenze zwischen den Vertragsparteien überschritten hat. Wird die formlose Übernahme abgelehnt, so kann unter Hinweis darauf die Übernahme nach Absatz 2 beantragt werden.
+
+(4) Stellt sich nachträglich heraus, daß der Drittausländer nicht aus dem Gebiet der anderen Vertragspartei eingereist ist, so muß er zurückgenommen werden.
+
+(5) Sofern eine Person, die übergeben werden soll, nicht über ausreichende Mittel verfügt, trägt die Vertragspartei, auf deren Gebiet sich die Person aufhält, die Transportkosten bis zur Grenze.
+
+> **Beachte:** Abs. 2: Verfassungsbestimmung
+
+## Artikel 4
+
+(1) Jede Vertragspartei übernimmt die polizeiliche Durchbeförderung von Drittausländern, wenn die andere Vertragspartei darum ersucht und die Übernahme durch den Zielstaat und durch allfällige weitere Durchbeförderungsstaaten sicherstellt.
+
+(2) Die Durchbeförderung kann abgelehnt werden, wenn der Drittausländer
+
+1\. im Zielstaat oder in einem allfälligen weiteren Durchbeförderungsstaat Gefahr läuft, unmenschlicher Behandlung oder der Todesstrafe unterworfen zu werden, oder in seinem Leben oder seiner Freiheit aus Gründen seiner Rasse, seiner Religion, seiner Nationalität, seiner Zugehörigkeit zu einer bestimmten sozialen Gruppe oder seiner politischen Ansichten bedroht wäre, oder
+
+2\. im ersuchten Staat strafgerichtlich verfolgt werden müßte oder ihm im Zielstaat oder in einem allfälligen weiteren Durchbeförderungsstaat strafrechtliche Verfolgung droht, ausgenommen wegen rechtswidrigen Grenzübertritts.
+
+(3) Das Ersuchen um polizeiliche Durchbeförderung wird auf direktem Weg zwischen dem österreichischen Bundesministerium für Inneres und dem Innenministerium der Republik Slowenien gestellt und erledigt. Das Ersuchen muß außer den persönlichen Daten des Drittausländers auch die Erklärung enthalten, daß die Voraussetzungen gemäß Absatz 1 gegeben und keine Ablehnungsgründe nach Absatz 2 bekannt sind. Weiters werden darin das Datum der beabsichtigten Übergabe sowie der gewünschte Grenzübergang angegeben. Die ersuchte Vertragspartei wird im Einvernehmen mit der ersuchenden Vertragspartei den Drittausländer unverzüglich durchbefördern.
+
+(4) Lehnt die ersuchte Vertragspartei das Ersuchen mangels Vorliegens der erforderlichen Voraussetzungen ab, so wird sie der ersuchenden Partei die Ablehnungsgründe mitteilen.
+
+(5) Drittausländer können an die ersuchende Vertragspartei zurückgestellt werden, wenn nachträglich Tatsachen bekannt werden oder eintreten, die der polizeilichen Durchbeförderung entgegenstehen.
+
+(6) Die aus der polizeilichen Durchbeförderung und der allfälligen Rückstellung entstehenden Kosten trägt die ersuchende Vertragspartei.
+
+## Artikel 5
+
+Zur Durchführung dieses Abkommens können die Innenminister der Vertragsparteien zweckentsprechende Vereinbarungen treffen, insbesondere über
+
+a) die Vorgangsweise bei der gegenseitigen Verständigung;
+
+b) die für eine Übernahme erforderlichen Angaben und Unterlagen;
+
+c) die Umstände, unter denen eine rechtswidrige Einreise anzunehmen ist;
+
+d) die Grenzübergänge für die Übernahme;
+
+e) den Kostenersatz nach Artikel 4 Absatz 6;
+
+f) die Abhaltung von Expertengesprächen.
+
+## Artikel 6
+
+Durch dieses Abkommen werden die innerstaatlichen Rechtsvorschriften der Vertragsparteien, insbesondere die Zoll- und Devisenvorschriften und die Bestimmungen über die Gewährung des Asylrechtes, nicht berührt.
+
+## Artikel 7
+
+(1) Dieses Abkommen tritt mit dem ersten Tag des ersten Monats in Kraft, der auf den Monat folgt, in dem die Vertragsparteien einander schriftlich auf diplomatischem Wege mitgeteilt haben, daß ihre jeweiligen innerstaatlichen Voraussetzungen für das Inkrafttreten erfüllt sind.
+
+(2) Dieses Abkommen bleibt auf unbestimmte Zeit in Kraft, sofern nicht eine der Vertragsparteien das Abkommen schriftlich auf diplomatischem Wege kündigt; in diesem Fall tritt das Abkommen sechs Monate nach Einlangen der Kündigung außer Kraft.
+
+Geschehen zu Wien, am 3. Dezember 1992 in zwei Urschriften in deutscher und slowenischer Sprache, wobei beide Texte gleichermaßen authentisch sind.
+
+## Ratifikationstext
+
+Die Mitteilungen gemäß Art. 7 Abs. 1 des Abkommens wurden am 22. März bzw. 20. August 1993 abgegeben; das Abkommen tritt gemäß seinem Art. 7 Abs. 1 mit 1. September 1993 in Kraft.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluß des nachstehenden Staatsvertrages, dessen Artikel 3 Absatz 2 verfassungsändernd ist, wird genehmigt.

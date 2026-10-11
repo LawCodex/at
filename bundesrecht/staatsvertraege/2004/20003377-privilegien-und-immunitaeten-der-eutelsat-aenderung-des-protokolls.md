@@ -1,0 +1,153 @@
+---
+title: "Privilegien und Immunitäten der EUTELSAT - Änderung des Protokolls"
+identifier: "20003377"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 46/2004"
+last_amended: 2002-09-26
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2004/46/P0/NOR30003677"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003377"
+retrieved: 2026-10-11
+documents: 6
+---
+
+# Privilegien und Immunitäten der EUTELSAT - Änderung des Protokolls
+
+(Übersetzung)
+
+ABKOMMEN ZUR ÄNDERUNG DES PROTOKOLLS ÜBER PRIVILEGIEN UND IMMUNITÄTEN DER EUROPÄISCHEN FERNMELDESATELLITENORGANISATION (EUTELSAT)
+
+StF: BGBl. III Nr. 46/2004 (NR: GP XXI RV 1001 AB 1208 S. 109. BR: AB 6713 S. 690.)
+
+<details>
+<summary>Änderungen</summary>
+
+idF-Liste siehe Stammvertrag BGBl. Nr. 176/1989  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+DIE VERTRAGSSTAATEN DIESES ÄNDERUNGSABKOMMENS:
+
+ALS VERTRAGSSTAATEN des Übereinkommens zur Gründung der Europäischen Fernmeldesatellitenorganisation \*1) (EUTELSAT), das am 15. Juli 1982 in Paris zur Unterzeichnung aufgelegt wurde („das Übereinkommen“);
+
+EBENFALLS ALS VERTRAGSSTAATEN des am 13. Februar 1987 in Paris beschlossenen Protokolls über Privilegien und Immunitäten der Europäischen Fernmeldesatellitenorganisation \*2) (EUTELSAT) („das Protokoll“);
+
+ANGESICHTS DER TATSACHE, dass die Versammlung der Vertragsparteien von EUTELSAT bei ihrer 26. Tagung Änderungen des Übereinkommens mit dem Ziel einer Umstrukturierung von EUTELSAT angenommen hat, einschließlich von Änderungen seines Artikels XVII lit. c, auf dessen Grundlage das Protokoll abgeschlossen worden ist;
+
+IN DER ERWÄGUNG, dass es wünschenswert ist, das Protokoll durch eine Änderung mit dem geänderten Übereinkommen in Übereinstimmung zu bringen;
+
+SIND ÜBEREINGEKOMMEN, DAS PROTOKOLL FOLGENDERMASSEN ZU ÄNDERN:
+
+`____________________________________________________________________`
+
+\*1) Kundgemacht in BGBl. Nr. 350/1985
+
+\*2) Kundgemacht in BGBl. Nr. 176/1989
+
+## Art. 17
+
+\**Schlussbestimmungen**
+
+\**Artikel XVII**
+
+\**Unterzeichnung, Ratifikation und Beitritt**
+
+(1) Dieses Änderungsabkommen liegt vom 1. Mai 2001 bis 31. Dezember 2001 am Sitz von EUTELSAT zur Unterzeichnung auf.
+
+(2) Alle Parteien des Übereinkommens außer der Amtssitzpartei können Parteien dieses Änderungsabkommens werden, nämlich durch:
+
+a) Unterzeichnung, die nicht der Ratifikation, Annahme oder Genehmigung bedarf; oder
+
+b) Unterzeichnung, die der Ratifikation, Annahme oder Genehmigung bedarf, gefolgt von der Ratifikation, Annahme oder Genehmigung; oder
+
+c) Beitritt.
+
+(3) Ratifikation, Annahme, Genehmigung oder Beitritt erfolgen durch Hinterlegung der betreffenden Urkunde beim Depositar.
+
+(4) Ein Staat, der Partei dieses Änderungsabkommens ist ohne Partei des Protokolls zu sein, ist im Verhältnis zu anderen Parteien dieses Änderungsabkommens an die Bestimmungen des Protokolls in der Fassung des Änderungsabkommens gebunden, nicht aber im Verhältnis zu Staaten, die nur Parteien des Protokolls sind, an die Bestimmungen des Protokolls.
+
+(5) Vorbehalte zu diesem Änderungsabkommen können in Übereinstimmung mit dem Völkerrecht angemeldet werden.
+
+## Art. 18
+
+\**Artikel XVIII**
+
+\**In-Kraft-Treten des Änderungsabkommens**
+
+Dieses Änderungsabkommen tritt am dreißigsten Tag nach dem Tag in Kraft, an dem zwei Parteien des Übereinkommens die Bedingungen des Artikels XVII Absatz 2 erfüllt haben.
+
+## Art. 19
+
+\**Artikel XIX**
+
+\**In-Kraft-Treten für einen Staat**
+
+(1) Für einen Staat, der die Bedingungen des Artikels XVII Absatz 2 nach In-Kraft-Treten dieses Änderungsabkommens erfüllt hat, tritt dieses Änderungsabkommen am dreißigsten Tag nach dem Tag der Unterzeichnung oder der Hinterlegung der betreffenden Urkunde beim Depositar in Kraft.
+
+(2) Jeder Staat, der nach In-Kraft-Treten dieses Änderungsabkommens gemäß Artikel XVIII Partei des Protokolls wird, wird, wenn dieser Staat keine andere Absicht bekannt gibt:
+
+a) als Partei des Protokolls in seiner geänderten Fassung betrachtet; und
+
+b) im Verhältnis zu Parteien des Protokolls, die nicht an das Änderungsabkommen gebunden sind, als Partei des ungeänderten Protokolls betrachtet.
+
+## Art. 20
+
+\**Artikel XX**
+
+\**Depositar**
+
+(1) Der Exekutivsekretär ist der Depositar dieses Änderungsabkommens.
+
+(2) Der Depositar unterrichtet insbesondere alle Parteien des Übereinkommens umgehend:
+
+a) von jeder Unterzeichnung dieses Änderungsabkommens;
+
+b) von der Hinterlegung jeglicher Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde;
+
+c) vom Tag des In-Kraft-Tretens dieses Änderungsabkommens;
+
+d) von sonstigen Mitteilungen in Bezug auf dieses Änderungsabkommen.
+
+(3) Sofort nach In-Kraft-Treten dieses Änderungsabkommens übermittelt der Depositar dem Sekretariat der Vereinten Nationen eine beglaubigte Abschrift des Originals zur Registrierung und Veröffentlichung nach Artikel 102 der Charta der Vereinten Nationen.
+
+## Art. 21
+
+\**Artikel XXI**
+
+\**Verbindliche Fassungen**
+
+Dieses Änderungsabkommen ist in einer Urschrift in englischer und französischer Sprache abgefasst, wobei jeder Wortlaut gleichermaßen verbindlich ist, und wird beim Depositar, der jeder Partei des Übereinkommens eine beglaubigte Abschrift übermittelt, hinterlegt.
+
+ZU URKUND DESSEN haben die hierzu von ihren Regierungen gehörig befugten Unterzeichneten dieses Änderungsabkommen unterschrieben.
+
+## Ratifikationstext
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde am 27. August 2002 beim Exekutivsekretär der EUTELSAT hinterlegt; das Änderungsabkommen ist daher gemäß seinem Art. XIX Abs. 1 für Österreich mit 26. September 2002 in Kraft getreten.
+
+Nach Mitteilungen des Exekutivsekretärs der EUTELSAT haben folgende weitere Staaten das Änderungsabkommen ratifiziert bzw. sind diesem beigetreten:
+
+`                  _______________________________________`
+
+`                             Liechtenstein`
+
+`                  _______________________________________`
+
+`                               Portugal`
+
+`                  _______________________________________`
+
+`                               Slowakei`
+
+`                  _______________________________________`
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluss des nachstehenden Staatsvertrages wird genehmigt.

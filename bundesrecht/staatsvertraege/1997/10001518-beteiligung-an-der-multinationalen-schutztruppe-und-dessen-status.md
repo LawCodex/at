@@ -34,7 +34,9 @@ sind die Regierung von Albanien und die Regierungen jener Staaten, die sich an d
 
 ## Artikel I
 
-### Anwendungsbereich und Begriffsbestimmungen
+**Anwendungsbereich und Begriffsbestimmungen**
+
+### Art. 1
 
 1\. Die Bestimmungen dieses Abkommens sind anwendbar auf das zivile und militärische Personal sowie auf das Eigentum und die Vermögenswerte der nationalen Elemente/Einheiten jener Staaten, die sich an der Operation beteiligen, sofern ein Handeln im Zusammenhang mit der Operation oder mit der Hilfe an die Zivilbevölkerung vorliegt.
 
@@ -58,7 +60,9 @@ e) der Begriff „**Regierung**“ bezeichnet die Regierung der Republik Albanie
 
 ## Artikel II
 
-### Privilegien und Immunitäten der FMP und des FMP-Personals
+**Privilegien und Immunitäten der FMP und des FMP-Personals**
+
+### Art. 2
 
 1\. Die FMP und das FMP-Personal, die die im vorliegenden Vertrag eingeräumten Privilegien und Immunitäten genießen, werden jede Handlung oder Aktivität unterlassen, die mit der unparteiischen und internationalen Natur ihrer Aufgaben oder mit dem Geist des vorliegenden Abkommens unvereinbar ist. Die FMP und das FMP-Personal werden die örtlichen Gesetze und Verordnungen einhalten, soweit dies mit dem erteilten Mandat vereinbar ist. Der Befehlshaber der FMP wird alle erforderlichen Maßnahmen treffen, um die Einhaltung dieser Verpflichtungen zu gewährleisten.
 
@@ -78,7 +82,9 @@ e) der Begriff „**Regierung**“ bezeichnet die Regierung der Republik Albanie
 
 ## Artikel III
 
-### Gerichtsbarkeit
+**Gerichtsbarkeit**
+
+### Art. 3
 
 1\. Das gesamte FMP-Personal ist von rechtlichen Verfahren hinsichtlich mündlicher und schriftlicher Äußerungen und aller ausgeführten Handlungen in seiner offiziellen Funktion ausgenommen. Diese Immunität gilt auch für den Zeitraum, in dem eine Person nicht mehr Mitglied der FMP bzw. nicht mehr von der FMP angestellt ist und auch nach Ende der Wirksamkeit der anderen Bestimmungen des vorliegenden Abkommens.
 
@@ -92,7 +98,9 @@ e) der Begriff „**Regierung**“ bezeichnet die Regierung der Republik Albanie
 
 ## Artikel IV
 
-### Identifikation
+**Identifikation**
+
+### Art. 4
 
 1\. Der Kommandant der FMP stellt jedem Mitglied der FMP vor oder so bald als möglich nach der ersten Einreise des Mitglieds in die Republik Albanien sowie dem an Ort und Stelle aufgenommenen Personal, einen numerierten Identitätsausweis aus, der Vor- und Nachnamen, das Geburtsdatum, Titel oder Rang, Dienstkörper (wenn angemessen) und ein Lichtbild enthalten soll. Unbeschadet des Artikels VI Abs. 3 dieses Abkommens sind diese Identitätsausweise das einzige vom FMP-Personal benötigte Dokument.
 
@@ -102,7 +110,9 @@ e) der Begriff „**Regierung**“ bezeichnet die Regierung der Republik Albanie
 
 ## Artikel V
 
-### Verstorbene Mitglieder
+**Verstorbene Mitglieder**
+
+### Art. 5
 
 1\. Der Kommandant der FMP hat das Recht, den Leichnam eines Mitgliedes der FMP, das in der Republik Albanien stirbt, sowie dessen persönliches, sich in der Republik Albanien befindendes Eigentum zu übernehmen und darüber zu verfügen.
 
@@ -112,7 +122,9 @@ e) der Begriff „**Regierung**“ bezeichnet die Regierung der Republik Albanie
 
 ## Artikel VI
 
-### Ein- und Ausreise; Transport; freie und unbeschränkte Durchfahrt
+**Ein- und Ausreise; Transport; freie und unbeschränkte Durchfahrt**
+
+### Art. 6
 
 1\. Die FMP und FMP-Personal genießen, samt ihren Fahrzeugen, Schiffen, Flugzeugen und Ausrüstung freie und unbeschränkte Durchfahrt und ungehinderten Zugang überall in der Republik Albanien, einschließlich des Luftraums und der Küstengewässer der Republik Albanien. Dies beinhaltet unter anderem das Recht, Lager zu errichten, Manöver abzuhalten, Quartier zu beziehen und sonstiger Nutzung aller Gebiete oder Einrichtungen, die für die Unterstützung, Übungen oder Operationen benötigt werden. Die Regierung verpflichtet sich, die Ein- und Ausreise in und aus der Republik Albanien von FMP oder FMP-Personal zu erleichtern. Um dies zu erreichen, ist das FMP-Personal von Paß- und Sichtvermerksvorschriften, Einwanderungsbestimmungen oder Ein- und Ausreisebeschränkungen der Republik Albanien ausgenommen. Sie sind auch von jeder Vorschrift betreffend den Aufenthalt und die Registrierung von Ausländern in der Republik Albanien ausgenommen, wobei sie allerdings nicht das Recht zum dauernden Aufenthalt oder Wohnsitz in der Republik Albanien erwerben.
 
@@ -138,7 +150,9 @@ Operationen, Übungen und Bewegungen sollen nicht durch Ersuchen der albanischen
 
 ## Artikel VII
 
-### Erforderliche Liegenschaften für die Einsatz- und Verwaltungsaktivitäten der FMP und die Unterkunft des FMP-Personals; Immunität der FMP-Liegenschaften
+**Erforderliche Liegenschaften für die Einsatz- und Verwaltungsaktivitäten der FMP und die Unterkunft des FMP-Personals; Immunität der FMP-Liegenschaften**
+
+### Art. 7
 
 1\. Die Regierung stellt der FMP im Einvernehmen mit dem FMP-Kommandanten frei von Belastungen, Steuern oder Abgaben, zur Verfügung:
 
@@ -156,7 +170,9 @@ b) der FMP-Kommandant alleine kann dem Betreten dieser Liegenschaften durch eine
 
 ## Artikel VIII
 
-### Ansprüche und Gerichtsverfahren
+**Ansprüche und Gerichtsverfahren**
+
+### Art. 8
 
 1\. Ansprüche der Republik Albanien aus Schaden oder Körperverletzung an Regierungspersonal oder -eigentum oder an Privatpersonen oder -eigentum werden durch die Regierungsbehörden der Republik Albanien dem FMP-Kommandanten vorgelegt und werden in Übereinstimmung mit den folgenden Bestimmungen befriedigt.
 
@@ -176,7 +192,9 @@ b) Wenn der FMP-Kommandant bestätigt, daß das Verfahren nicht in Verbindung mi
 
 ## Artikel IX
 
-### Verpflegung, Versorgungsgüter und -leistungen und sanitäre Einrichtungen
+**Verpflegung, Versorgungsgüter und -leistungen und sanitäre Einrichtungen**
+
+### Art. 9
 
 1\. Die Regierung verpflichtet sich, der FMP im größtmöglichen Ausmaß und, wo möglich, kostenlos Einrichtungen und Versorgungsgüter, wie Essen, Treibstoff, Fahrzeuge und andere Ausrüstung, Verpflegung und andere Güter und Leistungen, die die FMP benötigt, zur Verfügung zu stellen. Im Falle von Einkäufen, die die FMP auf lokalen Märkten getätigt hat, vermeidet die FMP, auf Grundlage von gemachten Beobachtungen und von der Regierung gelieferter Information in diesem Bereich, jegliche nachteilige Auswirkung auf den lokalen Markt. Die FMP ist bei offiziellen Käufen in der Republik Albanien von allgemeinen Verkaufssteuern befreit.
 
@@ -196,7 +214,9 @@ c) von der Besteuerung der von der FMP ausgezahlten Gehälter und Zuwendungen.
 
 ## Artikel X
 
-### Währung
+**Währung**
+
+### Art. 10
 
 Die Regierung verpflichtet sich, der FMP gegen Vergütung in gegenseitig annehmbarer Währung lokale Währung im benötigten Ausmaß für die Verwendung durch die FMP, einschließlich der Bezahlung des FMP-Personals, zum für die FMP günstigsten Wechselkurs zur Verfügung zu stellen.
 
@@ -204,7 +224,9 @@ Die Regierung verpflichtet sich, der FMP gegen Vergütung in gegenseitig annehmb
 
 ## Artikel XI
 
-### Kommunikation
+**Kommunikation**
+
+### Art. 11
 
 Die Regierung erkennt an, daß die Verwendung von Kommunikationskanälen für die Operation erforderlich sein wird. Der FMP wird erlaubt, eigene interne Post- und Telekommunikationseinrichtungen einschließlich Rundfunkeinrichtungen zu betreiben.
 
@@ -214,7 +236,9 @@ Dies umfaßt auch das Recht, solche Mittel und Einrichtungen zu verwenden, wie s
 
 ## Artikel XII
 
-### Zusammenarbeit
+**Zusammenarbeit**
+
+### Art. 12
 
 Der FMP-Kommandant und die Regierung werden die für die Gewährleistung enger und gegenseitiger Zusammenarbeit auf jeder notwendigen Ebene erforderlichen Maßnahmen treffen.
 
@@ -222,7 +246,9 @@ Der FMP-Kommandant und die Regierung werden die für die Gewährleistung enger u
 
 ## Artikel XIII
 
-### Streitbeilegung
+**Streitbeilegung**
+
+### Art. 13
 
 1\. Streitigkeiten bezüglich der Auslegung oder der Vollziehung des vorliegenden Abkommens, die nicht durch direkte Verhandlungen beigelegt werden können, werden, sofern nicht anders vereinbart, ausschließlich auf diplomatischem Wege zwischen der Republik Albanien und den beteiligten Staaten beigelegt.
 
@@ -232,7 +258,9 @@ Der FMP-Kommandant und die Regierung werden die für die Gewährleistung enger u
 
 ## Artikel XIV
 
-### Verschiedene Bestimmungen
+**Verschiedene Bestimmungen**
+
+### Art. 14
 
 1\. Bezüglich der im vorliegenden Übereinkommen genannten Privilegien, Immunitäten und Rechte der FMP sowie des FMP-Personals und der Einrichtungen, zu deren Bereitstellung sich die Regierung verpflichtet hat, trägt die Regierung die letzte Verantwortung für die Umsetzung und Erfüllung dieser Privilegien, Immunitäten, Rechte und Einrichtungen durch die zuständigen lokalen Behörden der Republik Albanien.
 

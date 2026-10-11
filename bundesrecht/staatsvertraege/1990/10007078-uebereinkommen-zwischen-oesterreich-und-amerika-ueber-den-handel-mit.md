@@ -1,0 +1,86 @@
+---
+title: "Übereinkommen zwischen Österreich und Amerika über den Handel mit bestimmten Stahlerzeugnissen – Briefwechsel"
+identifier: "10007078"
+type: treaty
+ris_type: "Vertrag – USA"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 242/1990"
+last_amended: 1990-05-16
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1990/242/P0/NOR11007191"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007078"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Übereinkommen zwischen Österreich und Amerika über den Handel mit bestimmten Stahlerzeugnissen – Briefwechsel
+
+Übereinkommen zwischen der Regierung der Republik Österreich und der Regierung der Vereinigten Staaten von Amerika über den Handel mit bestimmten Stahlerzeugnissen
+
+StF: BGBl. Nr. 242/1990
+
+**Unterzeichnungsdatum:** 20.11.1989
+
+## (Übersetzung)
+
+#### Art. 1
+
+DEPUTY UNITED STATES
+
+TRADE REPRESENTATIVE
+
+Washington, 20. November 1989
+
+Herrn Josef Mayer
+
+Abteilungsleiter
+
+Bundesministerium für
+
+wirtschaftliche Angelegenheiten
+
+Republik Österreich
+
+**Wien, Österreich**
+
+Sehr geehrter Herr!
+
+Bezugnehmend auf die Gespräche zwischen Vertretern der Regierung der Vereinigten Staaten von Amerika und der Republik Österreich ist es mir eine Ehre, zu bestätigen, daß die diesem Schreiben beigefügte Vereinbarung, die einen integrierenden Bestandteil dieses Schreibens darstellt, die zwischen uns erreichte Übereinstimmung zum Ausdruck bringt.
+
+Für eine Bestätigung von Ihrer Seite, daß sowohl die beigefügte Vereinbarung als auch dieses Schreiben die zwischen uns erreichte Übereinstimmung korrekt zum Ausdruck bringt, wäre ich Ihnen sehr verbunden.
+
+Daher schlage ich vor, daß, falls die Regierung der Republik Österreich den in der beigelegten Vereinbarung getroffenen Regelungen zustimmt, durch dieses Schreiben und Ihre diesbezügliche Antwort die Vereinbarung zwischen den beiden Staaten konstituiert wird und dieselbe am Tage Ihres Antwortschreibens in Kraft tritt.
+
+Mit vorzüglicher Hochachtung
+
+**S. Linn Williams**
+
+## (Übersetzung)
+
+REPUBLIK ÖSTERREICH
+
+BUNDESMINISTERIUM FÜR
+
+WIRTSCHAFTLICHE ANGELEGENHEITEN
+
+Wien, 7. Dezember 1989
+
+Seine Exzellenz
+
+S. Linn Williams
+
+**Washington, D.C.**
+
+Exzellenz,
+
+Unter Bezugnahme auf die Gespräche zwischen Vertretern der Regierung der Republik Österreich und der Vereinigten Staaten von Amerika habe ich die Ehre, hiermit zu bestätigen, daß die diesem Schreiben beigefügte Vereinbarung, die einen integrierenden Bestandteil dieses Schreibens darstellt, die zwischen uns erreichte Übereinstimmung zum Ausdruck bringt.
+
+Die Regierung der Republik Österreich stimmt den in der beigelegten Vereinbarung getroffenen Regelungen und diesem Schreiben zu, sodaß die Vereinbarung zwischen den beiden Staaten mit dem 7. Dezember 1989 in Kraft tritt.
+
+Mit vorzüglicher Hochachtung
+
+**Josef Mayer**
+
+### (Abteilungsleiter)

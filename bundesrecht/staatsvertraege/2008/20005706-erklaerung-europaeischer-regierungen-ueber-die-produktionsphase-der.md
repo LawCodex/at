@@ -21,7 +21,9 @@ Schlussdokument der Sitzung der Regierungsvertreter betreffend die Verlängerung
 
 StF: BGBl. III Nr. 15/2008 (NR: GP XXIII RV 199 VV S. 38. BR: AB 7795 S. 750.)
 
-## <u>Schlussdokument der Sitzung der Regierungsvertreter betreffend die</u> – <u>Verlängerung der Erklärung über die Produktionsphase</u> – <u>der Ariane-Träger bis Ende 2008</u>
+**<u>Schlussdokument der Sitzung der Regierungsvertreter betreffend die</u>**
+
+## Art. 1 – <u>Verlängerung der Erklärung über die Produktionsphase</u> – <u>der Ariane-Träger bis Ende 2008</u>
 
 <table>
 <tr>

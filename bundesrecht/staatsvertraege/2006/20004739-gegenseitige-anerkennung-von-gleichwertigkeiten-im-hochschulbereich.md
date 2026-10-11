@@ -35,7 +35,9 @@ haben hinsichtlich der Anerkennung von Studien- und Prüfungsleistungen zum Zwec
 
 ## Artikel 1
 
-### Zweck des Abkommens
+**Zweck des Abkommens**
+
+### Art. 1
 
 (1) Das Abkommen hat den Zweck, den Studierenden beider Seiten die Anerkennung der in den Hochschulen erworbenen Ausbildungsnachweise und -abschlüsse zu erleichtern. Das Abkommen enthält Empfehlungen an die für die Anerkennung zuständigen Stellen, die im Einzelnen auf Grund ihrer eigenen Rechtslage über die Anerkennung entscheiden.
 
@@ -43,7 +45,9 @@ haben hinsichtlich der Anerkennung von Studien- und Prüfungsleistungen zum Zwec
 
 ## Artikel 2
 
-### Geltungsbereich
+**Geltungsbereich**
+
+### Art. 2
 
 (1) Dieses Abkommen erstreckt sich auf österreichischer Seite auf alle staatlichen und staatlich anerkannten Universitäten und Fachhochschulen, auf chinesischer Seite auf alle staatlichen und staatlich anerkannten Hochschulen sowie auf die zur Verleihung akademischer Grade berechtigten Forschungseinrichtungen, nach Maßgabe des Art. 3 Abs. 3 auch auf Junior Colleges (Zhuanke).
 
@@ -51,7 +55,9 @@ haben hinsichtlich der Anerkennung von Studien- und Prüfungsleistungen zum Zwec
 
 ## Artikel 3
 
-### Anerkennung von Studien- und Prüfungsleistungen
+**Anerkennung von Studien- und Prüfungsleistungen**
+
+### Art. 3
 
 (1) Studien- und Prüfungsleistungen an Hochschulen werden auf der Basis von Anforderungen in den jeweiligen Curricula und der nachgewiesenen Studien- und Prüfungsleistungen der Bewerberinnen und Bewerber anerkannt.
 
@@ -61,7 +67,9 @@ haben hinsichtlich der Anerkennung von Studien- und Prüfungsleistungen zum Zwec
 
 ## Artikel 4
 
-### Abschlüsse, Prüfungen und Weiterstudium
+**Abschlüsse, Prüfungen und Weiterstudium**
+
+### Art. 4
 
 (1) Inhaberinnen und Inhaber eines chinesischen Bachelor-Abschlusses können in Österreich zum Magisterstudium bzw. zu einem äquivalenten Studium zugelassen werden.
 
@@ -73,7 +81,9 @@ haben hinsichtlich der Anerkennung von Studien- und Prüfungsleistungen zum Zwec
 
 ## Artikel 5
 
-### Zulassung chinesischer Absolventinnen und Absolventen zum Doktoratsstudium an österreichischen Universitäten
+**Zulassung chinesischer Absolventinnen und Absolventen zum Doktoratsstudium an österreichischen Universitäten**
+
+### Art. 5
 
 (1) Inhaberinnen und Inhaber eines chinesischen Master-Grades können zu Doktoratsstudien in der Republik Österreich zugelassen werden.
 
@@ -83,7 +93,9 @@ haben hinsichtlich der Anerkennung von Studien- und Prüfungsleistungen zum Zwec
 
 ## Artikel 6
 
-### Zulassung österreichischer Absolventinnen und Absolventen zur Promotion an chinesischen Universitäten
+**Zulassung österreichischer Absolventinnen und Absolventen zur Promotion an chinesischen Universitäten**
+
+### Art. 6
 
 (1) Inhaberinnen und Inhaber eines Diplom- oder Magistergrades österreichischer Universitäten oder Fachhochschulen können zu einem Promotionsverfahren in der Volksrepublik China zugelassen werden.
 
@@ -93,7 +105,9 @@ haben hinsichtlich der Anerkennung von Studien- und Prüfungsleistungen zum Zwec
 
 ## Artikel 7
 
-### Führung akademischer Grade
+**Führung akademischer Grade**
+
+### Art. 7
 
 (1) Inhaberinnen und Inhaber der folgenden akademischen Grade aus der Volksrepublik China
 
@@ -123,7 +137,9 @@ können den Grad in der Volksrepublik China in der Form führen, wie er in der R
 
 ## Artikel 8
 
-### Ständige Expertenkommission
+**Ständige Expertenkommission**
+
+### Art. 8
 
 (1) Für die Beratung aller Fragen, die sich aus der Anwendung dieses Abkommens ergeben, wird eine Ständige Expertenkommission eingesetzt. Sie besteht aus je bis zu sechs von beiden Seiten zu benennenden Mitgliedern. Die Liste der Mitglieder wird auf diplomatischem Weg übermittelt.
 
@@ -131,7 +147,9 @@ können den Grad in der Volksrepublik China in der Form führen, wie er in der R
 
 ## Artikel 9
 
-### Geltungsdauer und In-Kraft-Treten
+**Geltungsdauer und In-Kraft-Treten**
+
+### Art. 9
 
 (1) Das Abkommen wird auf unbestimmte Zeit geschlossen. Es tritt an dem Tag in Kraft, an dem die Vertragsparteien einander notifiziert haben, dass die innerstaatlichen Voraussetzungen für das In-Kraft-Treten erfüllt sind. Maßgebend ist der Tag des Eingangs der letzten Notifikation.
 

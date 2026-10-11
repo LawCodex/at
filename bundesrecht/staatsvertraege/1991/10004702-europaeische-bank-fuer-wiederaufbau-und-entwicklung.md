@@ -81,13 +81,17 @@ sind übereingekommen, hiermit die Europäische Bank für Wiederaufbau und Entwi
 
 ### ZWECK, AUFGABEN UND MITGLIEDSCHAFT — ARTIKEL 1
 
-#### ZWECK
+**ZWECK**
+
+#### Art. 1
 
 Zweck der Bank ist es, durch Unterstützung des wirtschaftlichen Fortschritts und Wiederaufbaus in den mittel- und osteuropäischen Ländern, die sich zu den Grundsätzen der Mehrparteiendemokratie, des Pluralismus und der Marktwirtschaft bekennen und diese anwenden, den Übergang zur offenen Marktwirtschaft zu begünstigen sowie die private und unternehmerische Initiative zu fördern. Zu den gleichen Bedingungen darf der Zweck der Bank auch i) in der Mongolei, ii) in Mitgliedsländern des südlichen und östlichen Mittelmeerraums und iii) in einer begrenzten Zahl von Mitgliedsländern Subsahara-Afrikas verfolgt werden; in jedem der unter den Ziffern ii und iii genannten Fälle werden diese Länder von der Bank mit Zustimmung von mindestens zwei Dritteln der Gouverneure, die mindestens drei Viertel der Gesamtstimmenzahl der Mitglieder vertreten, bestimmt. Dementsprechend gilt jeder Bezug in diesem Übereinkommen und seinen Anlagen auf „mittel- und osteuropäische Länder“, „Länder Mittel- und Osteuropas”, „Empfängerland“ (oder „-länder“) oder „Empfängermitgliedsland“ (oder „-länder”) auch für die Mongolei und jedes dieser Länder des südlichen und östlichen Mittelmeerraums sowie Subsahara-Afrikas.
 
 ## Artikel 2
 
-#### Aufgaben
+**Aufgaben**
+
+#### Art. 2
 
 (1) Um langfristig ihren Zweck zu erfüllen, den Übergang der mittel- und osteuropäischen Länder zur offenen Marktwirtschaft sowie die private und unternehmerische Initiative zu fördern, unterstützt die Bank die Empfängermitgliedländer bei der Durchführung struktureller und sektoraler Wirtschaftsreformen einschließlich Beseitigung der Monopole, Dezentralisierung und Privatisierung, um ihren Volkswirtschaften zu voller Integration in die internationale Wirtschaft zu verhelfen, und zwar durch Maßnahmen mit dem Ziel,
 
@@ -111,7 +115,9 @@ viii) alle sonstigen Tätigkeiten auszuüben und alle sonstigen Dienste zu leist
 
 ## Artikel 3
 
-#### Mitgliedschaft
+**Mitgliedschaft**
+
+#### Art. 3
 
 (1) Mitglieder der Bank können werden
 
@@ -125,7 +131,9 @@ ii) die Europäische Wirtschaftsgemeinschaft und die Europäische Investitionsba
 
 ### KAPITAL — Artikel 4
 
-#### Genehmigtes Stammkapital
+**Genehmigtes Stammkapital**
+
+#### Art. 4
 
 (1) Das ursprüngliche genehmigte Stammkapital beträgt zehn Milliarden (10 000 000 000) ECU. Es ist aufgeteilt in eine Million (1 000 000) Anteile mit einem Nennwert von je zehntausend (10 000) ECU, die nur von Mitgliedern nach Maßgabe des Artikels 5 gezeichnet werden können.
 
@@ -135,7 +143,9 @@ ii) die Europäische Wirtschaftsgemeinschaft und die Europäische Investitionsba
 
 ## Artikel 5
 
-#### Zeichnung von Anteilen
+**Zeichnung von Anteilen**
+
+#### Art. 5
 
 (1) Jedes Mitglied zeichnet vorbehaltlich der Erfüllung seiner gesetzlichen Voraussetzungen Anteile des Stammkapitals der Bank. Jede Zeichnung von ursprünglichem genehmigtem Stammkapital erfolgt für eingezahlte und für abrufbare Anteile im Verhältnis 3 zu 7. Die Anzahl der Anteile, die von Unterzeichnern dieses Übereinkommens, die nach Artikel 61 Mitglieder werden, ursprünglich gezeichnet werden können, ist in Anlage A festgelegt. Die Erstzeichnung eines Mitglieds darf nicht weniger als 100 Anteile betragen.
 
@@ -153,7 +163,9 @@ ii) die Europäische Wirtschaftsgemeinschaft und die Europäische Investitionsba
 
 ## Artikel 6
 
-#### Einzahlung der gezeichneten Beträge
+**Einzahlung der gezeichneten Beträge**
+
+#### Art. 6
 
 (1) Die Einzahlung der eingezahlten Anteile im Rahmen des von jedem Unterzeichner dieses Übereinkommens, der nach Artikel 61 Mitglied wird, ursprünglich gezeichneten Betrags erfolgt in fünf (5) Raten von je zwanzig (20) vH des Betrags. Die erste Rate wird von jedem Mitglied binnen sechzig (60) Tagen nach Inkrafttreten dieses Übereinkommens oder nach Hinterlegung seiner Ratifikations-, Annahme- oder Genehmigungsurkunde gemäß Artikel 61 gezahlt, falls diese nach dem Inkraftreten erfolgt. Die restlichen vier Raten werden jeweils ein Jahr nach Fälligwerden der vorhergegangenen Rate fällig und werden vorbehaltlich der Erfüllung der gesetzlichen Voraussetzungen jedes Mitglieds eingezahlt.
 
@@ -173,7 +185,9 @@ ii) die Europäische Wirtschaftsgemeinschaft und die Europäische Investitionsba
 
 ## Artikel 7
 
-#### Ordentliches Kapital
+**Ordentliches Kapital**
+
+#### Art. 7
 
 In diesem Übereinkommen bezeichnet der Ausdruck „ordentliches Kapital“ der Bank
 
@@ -191,7 +205,9 @@ v) alle sonstigen Mittel oder Einnahmen, welche die Bank erhält und die nicht B
 
 ### GESCHÄFTSTÄTIGKEIT — Artikel 8
 
-#### Empfängerländer und Verwendung der Mittel
+**Empfängerländer und Verwendung der Mittel**
+
+#### Art. 8
 
 (1) Die Mittel und Fazilitäten der Bank werden ausschließlich zur Erfüllung des in Artikel 1 bezeichneten Zweckes und zur Wahrnehmung der in Artikel 2 bezeichneten Aufgaben verwendet.
 
@@ -211,13 +227,17 @@ iii) Am Ende dieses Zeitraums wird der Beschluß, einem solchen Land über die u
 
 ## Artikel 9
 
-#### Ordentliche und besondere Geschäftstätigkeit
+**Ordentliche und besondere Geschäftstätigkeit**
+
+#### Art. 9
 
 Die Geschäftstätigkeit der Bank gliedert sich in eine ordentliche Geschäftstätigkeit, die aus dem ordentlichen Kapital der Bank nach Artikel 7 finanziert wird, und eine besondere Geschäftstätigkeit, die aus den in Artikel 19 vorgesehenen Sonderfondsmitteln finanziert wird. Die beiden Arten der Geschäftstätigkeit können kombiniert werden.
 
 ## Artikel 10
 
-#### Trennung der Geschäftsbereiche
+**Trennung der Geschäftsbereiche**
+
+#### Art. 10
 
 (1) Das ordentliche Kapital und die Sonderfondsmittel der Bank werden jederzeit und in jeder Hinsicht völlig getrennt gehalten, verwendet, festgelegt, angelegt oder anderweitig verwertet. Im Finanzausweis der Bank werden die Rücklagen der Bank zusammen mit der ordentlichen Geschäftstätigkeit und – getrennt davon – die besondere Geschäftstätigkeit der Bank aufgeführt.
 
@@ -227,7 +247,9 @@ Die Geschäftstätigkeit der Bank gliedert sich in eine ordentliche Geschäftst�
 
 ## Artikel 11
 
-#### Geschäftsmethoden
+**Geschäftsmethoden**
+
+#### Art. 11
 
 (1) Die Bank kann in Erfüllung ihres Zweckes und ihrer Aufgaben nach den Artikeln 1 und 2 jedes der nachstehenden Geschäfte einzeln oder zusammen betreiben:
 
@@ -267,7 +289,9 @@ c) gelten Darlehen an einen Finanzmittler zur Weitergabe an die Privatwirtschaft
 
 ## Artikel 12
 
-#### Grenzen der ordentlichen Geschäftstätigkeit
+**Grenzen der ordentlichen Geschäftstätigkeit**
+
+#### Art. 12
 
 (1) Das Direktorium legt angemessene Obergrenzen in Bezug auf die Kennziffern zur Kapitaladäquanz fest und hält diese aufrecht, um die finanzielle Solidität und Tragfähigkeit der Bank zu schützen.
 
@@ -279,7 +303,9 @@ c) gelten Darlehen an einen Finanzmittler zur Weitergabe an die Privatwirtschaft
 
 ## Artikel 13
 
-#### Geschäftsgrundsätze
+**Geschäftsgrundsätze**
+
+#### Art. 13
 
 Für die Geschäftstätigkeit der Bank gelten folgende Grundsätze:
 
@@ -311,7 +337,9 @@ xiii) die Bank trifft alle erforderlichen Maßnahmen, um sicherzustellen, daß d
 
 ## Artikel 14
 
-#### Bedingungen für Darlehen und Garantien
+**Bedingungen für Darlehen und Garantien**
+
+#### Art. 14
 
 (1) Bei Darlehen, welche die Bank gewährt oder garantiert oder an denen sie sich beteiligt, werden die jeweiligen Bedingungen, darunter diejenigen für die Zahlung von Kapital, Zinsen und sonstigen Gebühren und Spesen, sowie die jeweiligen Fälligkeits- und Zahlungstermine im Vertrag festgelegt. Bei der Festsetzung dieser Bedingungen trägt die Bank der erforderlichen Sicherung ihrer Einnahmen voll Rechnung.
 
@@ -321,7 +349,9 @@ xiii) die Bank trifft alle erforderlichen Maßnahmen, um sicherzustellen, daß d
 
 ## Artikel 15
 
-#### Provisionen und Gebühren
+**Provisionen und Gebühren**
+
+#### Art. 15
 
 (1) Die Bank erhebt außer den Zinsen eine Provision für Darlehen, die sie im Rahmen ihrer ordentlichen Geschäftstätigkeit gewährt oder an denen sie sich in diesem Rahmen beteiligt. Die Bedingungen für diese Provision werden vom Direktorium festgelegt.
 
@@ -331,7 +361,9 @@ xiii) die Bank trifft alle erforderlichen Maßnahmen, um sicherzustellen, daß d
 
 ## Artikel 16
 
-#### Sonderrücklage
+**Sonderrücklage**
+
+#### Art. 16
 
 (1) Die nach Artikel 15 von der Bank eingenommenen Provisionen und Gebühren werden als Sonderrücklage zurückgestellt, die zur Deckung von Verlusten der Bank nach Artikel 17 verwendet wird. Die Sonderrücklage wird in einer von der Bank zu beschließenden Form liquide angelegt.
 
@@ -339,7 +371,9 @@ xiii) die Bank trifft alle erforderlichen Maßnahmen, um sicherzustellen, daß d
 
 ## Artikel 17
 
-#### Methoden der Deckung von Verlusten der Bank
+**Methoden der Deckung von Verlusten der Bank**
+
+#### Art. 17
 
 (1) Tritt bei Darlehen, welche die Bank im Rahmen ihrer ordentlichen Geschäftstätigkeit gewährt oder garantiert oder an denen sie sich beteiligt, ein Zahlungsverzug oder Nichtzahlung ein, oder treten bei Emissionsübernahmen oder Kapitalbeteiligungen, welche die Bank in diesem Rahmen vornimmt, Verluste auf, so trifft die Bank die ihr angebracht erscheinenden Maßnahmen. Die Bank bildet angemessene Rückstellungen für etwaige Verluste.
 
@@ -373,7 +407,9 @@ vi) an letzter Stelle ein entsprechender Betrag des unabgerufenen, bei Abruf zah
 
 ## Artikel 19
 
-#### Sonderfondsmittel
+**Sonderfondsmittel**
+
+#### Art. 19
 
 Der Ausdruck „Sonderfondsmittel“ bezeichnet die Mittel der einzelnen Sonderfonds; dazu gehören
 
@@ -387,7 +423,9 @@ iii) Einnahmen aus der Anlage von Sonderfondsmitteln.
 
 ### KREDITAUFNAHME UND SONSTIGE BEFUGNISSE — Artikel 20
 
-#### Allgemeine Befugnisse
+**Allgemeine Befugnisse**
+
+#### Art. 20
 
 (1) Neben den anderweitig in diesem Übereinkommen genannten Befugnissen hat die Bank die Befugnis,
 
@@ -417,7 +455,9 @@ viii) Übereinkünfte zur Zusammenarbeit mit öffentlichen oder privaten Rechtst
 
 ### WÄHRUNGEN — Artikel 21
 
-#### Festlegung und Verwendung von Währungen
+**Festlegung und Verwendung von Währungen**
+
+#### Art. 21
 
 (1) Wird es auf Grund dieses Übereinkommens notwendig, festzulegen, ob eine Währung im Sinne dieses Übereinkommens voll konvertierbar ist, so trifft die Bank diese Festlegung unter Berücksichtigung der vorrangigen Notwendigkeit, ihre eigenen finanziellen Interessen zu wahren, falls erforderlich nach Konsultation mit dem Internationalen Währungsfonds.
 
@@ -435,13 +475,17 @@ iv) Währungen, welche die Bank durch Kapitalrückzahlung oder durch Zahlung von
 
 ### ORGANISATION UND GESCHÄFTSFÜHRUNG — Artikel 22
 
-#### Aufbau
+**Aufbau**
+
+#### Art. 22
 
 Die Bank hat einen Gouverneursrat, ein Direktorium, einen Präsidenten, einen oder mehrere Vizepräsidenten sowie alle weiteren für erforderlich erachteten leitenden und sonstigen Bediensteten.
 
 ## Artikel 23
 
-#### Gouverneursrat: Zusammensetzung
+**Gouverneursrat: Zusammensetzung**
+
+#### Art. 23
 
 (1) Jedes Mitglied ist im Gouverneursrat vertreten und ernennt einen Gouverneur und einen Stellvertreter. Jeder Gouverneur und jeder Stellvertreter bleibt im Amt, solange ihn das Mitglied, das ihn ernannt hat, nicht abberuft. Stellvertreter nehmen nur bei Abwesenheit ihres Gouverneurs an der Abstimmung teil. Auf jeder seiner Jahrestagungen wählt der Rat einen der Gouverneure zum Vorsitzenden; dieser bleibt bis zur Wahl des nächsten Vorsitzenden im Amt.
 
@@ -449,7 +493,9 @@ Die Bank hat einen Gouverneursrat, ein Direktorium, einen Präsidenten, einen od
 
 ## Artikel 24
 
-#### Gouverneursrat: Befugnisse
+**Gouverneursrat: Befugnisse**
+
+#### Art. 24
 
 (1) Alle Befugnisse der Bank liegen beim Gouverneursrat.
 
@@ -483,7 +529,9 @@ xii) alle sonstigen Befugnisse auszuüben, die in diesem Übereinkommen ausdrüc
 
 ## Artikel 25
 
-#### Gouverneursrat: Verfahren
+**Gouverneursrat: Verfahren**
+
+#### Art. 25
 
 (1) Der Gouverneursrat hält eine Jahrestagung ab; weitere Tagungen können vom Gouverneursrat selbst oder vom Direktorium anberaumt werden. Das Direktorium beraumt eine Tagung des Gouverneursrats an, sobald dies von mindestens fünf (5) Mitgliedern der Bank oder von Mitgliedern mit einem Stimmenanteil von mindestens einem Viertel der Gesamtstimmenzahl der Mitglieder verlangt wird.
 
@@ -495,7 +543,9 @@ xii) alle sonstigen Befugnisse auszuüben, die in diesem Übereinkommen ausdrüc
 
 ## Artikel 26
 
-#### Direktorium: Zusammensetzung
+**Direktorium: Zusammensetzung**
+
+#### Art. 26
 
 (1) Das Direktorium besteht aus dreiundzwanzig (23) Mitgliedern, die nicht dem Gouverneursrat angehören dürfen; davon werden
 
@@ -521,7 +571,9 @@ Die Direktoren können neben den Mitgliedern, von deren Gouverneuren sie gewähl
 
 ## Artikel 27
 
-#### Direktorium: Befugnisse
+**Direktorium: Befugnisse**
+
+#### Art. 27
 
 Das Direktorium ist unbeschadet der Befugnisse des Gouverneursrats nach Artikel 24 für die Leitung der allgemeinen Geschäftstätigkeit der Bank verantwortlich und übt zu diesem Zweck neben den ihm in diesem Übereinkommen ausdrücklich zugewiesenen Befugnissen alle diejenigen aus, die ihm vom Gouverneursrat übertragen werden, insbesondere die Befugnis,
 
@@ -535,7 +587,9 @@ iv) den Haushaltsplan der Bank zu genehmigen.
 
 ## Artikel 28
 
-#### Direktorium: Verfahren
+**Direktorium: Verfahren**
+
+#### Art. 28
 
 (1) Die Arbeit des Direktoriums vollzieht sich normalerweise am Sitz der Bank; es tritt zusammen, sooft die Geschäfte der Bank dies erfordern.
 
@@ -545,7 +599,9 @@ iv) den Haushaltsplan der Bank zu genehmigen.
 
 ## Artikel 29
 
-#### Abstimmung
+**Abstimmung**
+
+#### Art. 29
 
 (1) Die Stimmenzahl eines Mitglieds ist gleich der Anzahl der von ihm gezeichneten Anteile am Stammkapital der Bank. Zahlt ein Mitglied einen Teil des auf Grund seiner Zeichnungsverpflichtungen nach Artikel 6 fälligen Betrags nicht, so ist es, solange es nicht zahlt, nicht berechtigt, den Hundertsatz seiner Stimmrechte auszuüben, der dem des fälligen, aber nicht gezahlten Betrags am Gesamtbetrag der von diesem Mitglied gezeichneten eingezahlten Anteile am Stammkapital der Bank entspricht.
 
@@ -555,7 +611,9 @@ iv) den Haushaltsplan der Bank zu genehmigen.
 
 ## Artikel 30
 
-#### Der Präsident
+**Der Präsident**
+
+#### Art. 30
 
 (1) Der Gouverneursrat wählt mit den Stimmen einer Mehrheit aller Gouverneure, die mindestens eine Mehrheit der Gesamtstimmenzahl der Mitglieder vertreten, einen Präsidenten der Bank. Der Präsident darf während seiner Amtszeit weder Gouverneur noch Direktor noch Stellvertreter eines Gouverneurs oder Direktors sein.
 
@@ -571,7 +629,9 @@ iv) den Haushaltsplan der Bank zu genehmigen.
 
 ## Artikel 31
 
-#### Vizepräsident(en)
+**Vizepräsident(en)**
+
+#### Art. 31
 
 (1) Das Direktorium ernennt auf Empfehlung des Präsidenten einen oder mehrere Vizepräsidenten. Amtszeit, Befugnisse und Aufgaben der einzelnen Vizepräsidenten in der Verwaltung der Bank werden vom Direktorium bestimmt. Bei Abwesenheit oder Dienstunfähigkeit des Präsidenten werden dessen Befugnisse und Aufgaben von einem Vizepräsidenten wahrgenommen.
 
@@ -579,7 +639,9 @@ iv) den Haushaltsplan der Bank zu genehmigen.
 
 ## Artikel 32
 
-#### Internationaler Charakter der Bank
+**Internationaler Charakter der Bank**
+
+#### Art. 32
 
 (1) Die Bank nimmt keinerlei Sonderfonds oder sonstige Darlehen oder Unterstützung an, die ihren Zweck oder ihre Aufgaben in irgendeiner Weise beeinträchtigen, verfälschen oder in anderer Weise ändern können.
 
@@ -589,7 +651,9 @@ iv) den Haushaltsplan der Bank zu genehmigen.
 
 ## Artikel 33
 
-#### Sitz
+**Sitz**
+
+#### Art. 33
 
 (1) Der Sitz der Bank befindet sich in London.
 
@@ -597,7 +661,9 @@ iv) den Haushaltsplan der Bank zu genehmigen.
 
 ## Artikel 34
 
-#### Hinterlegungsstellen und Verbindungsstellen
+**Hinterlegungsstellen und Verbindungsstellen**
+
+#### Art. 34
 
 (1) Jedes Mitglied benennt seine Zentralbank oder eine andere mit der Bank vereinbarte Stelle als Hinterlegungsstelle für alle Guthaben der Bank in seiner Währung sowie für sonstige Vermögenswerte der Bank.
 
@@ -605,7 +671,9 @@ iv) den Haushaltsplan der Bank zu genehmigen.
 
 ## Artikel 35
 
-#### Veröffentlichung von Berichten und Bereitstellungvon Informationen
+**Veröffentlichung von Berichten und Bereitstellungvon Informationen**
+
+#### Art. 35
 
 (1) Die Bank veröffentlicht einen Jahresbericht mit einem geprüften Jahresabschluß und übermittelt ihren Mitgliedern vierteljährlich oder in kürzeren Abständen eine zusammenfassende Darstellung über ihre finanzielle Lage sowie eine Gewinn- und Verlustrechnung, in der die Ergebnisse ihrer Geschäftstätigkeit ausgewiesen werden. Die Finanzbuchhaltung wird in ECU geführt.
 
@@ -615,7 +683,9 @@ iv) den Haushaltsplan der Bank zu genehmigen.
 
 ## Artikel 36
 
-#### Zuweisung und Verteilung der Reineinnahmen
+**Zuweisung und Verteilung der Reineinnahmen**
+
+#### Art. 36
 
 (1) Der Gouverneursrat legt mindestens einmal im Jahr fest, welcher Teil der Reineinnahmen der Bank nach Bildung von Rücklagen und, falls erforderlich, von Rückstellungen für etwaige Verluste nach Artikel 17 Abs. 1 als Überschuß oder für andere Zwecke einbehalten wird und welcher Teil gegebenenfalls verteilt wird. Beschlüsse über die Verwendung der Reineinnahmen der Bank für andere Zwecke bedürfen einer Mehrheit von mindestens zwei Dritteln der Gouverneure, die mindestens zwei Drittel der Gesamtstimmenzahl der Mitglieder vertreten. Es erfolgt keine Zuweisung und keine Verteilung, bis die allgemeine Rücklage mindestens zehn (10) vH des genehmigten Stammkapitals erreicht hat.
 
@@ -627,7 +697,9 @@ iv) den Haushaltsplan der Bank zu genehmigen.
 
 ### AUSTRITT UND SUSPENDIERUNG DER MITGLIEDSCHAFT: VORÜBERGEHENDEEINSTELLUNG UND BEENDIGUNG DER GESCHÄFTSTÄTIGKEIT — Artikel 37
 
-#### Austrittsrecht der Mitglieder
+**Austrittsrecht der Mitglieder**
+
+#### Art. 37
 
 (1) Ein Mitglied kann jederzeit aus der Bank austreten, indem es ihr an ihrem Sitz eine schriftliche Anzeige zugehen läßt.
 
@@ -635,7 +707,9 @@ iv) den Haushaltsplan der Bank zu genehmigen.
 
 ## Artikel 38
 
-#### Suspendierung der Mitgliedschaft
+**Suspendierung der Mitgliedschaft**
+
+#### Art. 38
 
 (1) Kommt ein Mitglied einer seiner Verpflichtungen gegenüber der Bank nicht nach, so kann diese seine Mitgliedschaft durch Beschluß einer Mehrheit von mindestens zwei Dritteln der Gouverneure, die mindestens zwei Drittel der Gesamtstimmenzahl der Mitglieder vertreten, suspendieren. Die Mitgliedschaft des suspendierten Mitglieds erlischt automatisch ein Jahr nach dem Zeitpunkt der Suspendierung, sofern nicht mit mindestens der gleichen Mehrheit beschlossen wird, das Mitglied wieder in seine Mitgliedschaft einzusetzen.
 
@@ -643,7 +717,9 @@ iv) den Haushaltsplan der Bank zu genehmigen.
 
 ## Artikel 39
 
-#### Abrechnung mit früheren Mitgliedern
+**Abrechnung mit früheren Mitgliedern**
+
+#### Art. 39
 
 (1) Ein Mitglied haftet auch nach Erlöschen seiner Mitgliedschaft weiterhin für seine unmittelbaren Verpflichtungen und Eventualverbindlichkeiten gegenüber der Bank, solange ein Teil der vor dem Erlöschen seiner Mitgliedschaft gewährten Darlehen oder Garantien beziehungsweise eingegangenen Kapitalbeteiligungen aussteht; ihm entstehen jedoch keine Verbindlichkeiten in bezug auf später von der Bank gewährte Darlehen und Garantien beziehungsweise eingegangene Kapitalbeteiligungen, und es ist weder an den Einnahmen noch an den Ausgaben der Bank beteiligt.
 
@@ -663,19 +739,25 @@ iv) erleidet die Bank Verluste auf bei Erlöschen der Mitgliedschaft eines Mitgl
 
 ## Artikel 40
 
-#### Vorübergehende Einstellung der Geschäftstätigkeit
+**Vorübergehende Einstellung der Geschäftstätigkeit**
+
+#### Art. 40
 
 In Notfällen kann das Direktorium die Geschäftstätigkeit im Hinblick auf neue Darlehen, Garantien, Emissionsübernahmen, technische Hilfe und Kapitalbeteiligungen vorübergehend einstellen, bis der Gouverneursrat Gelegenheit hat, sich zu beraten und Maßnahmen zu treffen.
 
 ## Artikel 41
 
-#### Beendigung der Geschäftstätigkeit
+**Beendigung der Geschäftstätigkeit**
+
+#### Art. 41
 
 Die Bank kann ihre Geschäftstätigkeit mit Zustimmung von mindestens zwei Dritteln der Gouverneure, die mindestens drei Viertel der Gesamtstimmenzahl der Mitglieder vertreten, beenden. Mit dieser Beendigung stellt die Bank sofort ihre gesamte Tätigkeit mit Ausnahme der Arbeiten ein, welche die ordnungsgemäße Verwertung, Sicherung und Erhaltung ihrer Vermögenswerte sowie die Erfüllung ihrer Verbindlichkeiten betreffen.
 
 ## Artikel 42
 
-#### Haftung der Mitglieder und Begleichung von Forderungen
+**Haftung der Mitglieder und Begleichung von Forderungen**
+
+#### Art. 42
 
 (1) Im Fall der Beendigung der Geschäftstätigkeit der Bank bleibt die Haftung aller Mitglieder für nicht abgerufene Zeichnungen auf das Stammkapital der Bank bestehen, bis alle Forderungen von Gläubigern einschließlich aller Eventualforderungen beglichen sind.
 
@@ -683,7 +765,9 @@ Die Bank kann ihre Geschäftstätigkeit mit Zustimmung von mindestens zwei Dritt
 
 ## Artikel 43
 
-#### Verteilung der Vermögenswerte
+**Verteilung der Vermögenswerte**
+
+#### Art. 43
 
 (1) Eine Verteilung von Vermögenswerten nach diesem Kapitel an die Mitglieder auf Grund ihrer Zeichnungen auf das Stammkapital der Bank erfolgt erst,
 
@@ -699,13 +783,17 @@ ii) wenn der Gouverneursrat mit den Stimmen von mindestens zwei Dritteln der Gou
 
 ### RECHTSSTELLUNG, IMMUNITÄTEN, VORRECHTE UND BEFREIUNGEN — Artikel 44
 
-#### Zweck dieses Kapitels
+**Zweck dieses Kapitels**
+
+#### Art. 44
 
 Um der Bank die Erfüllung ihres Zweckes und der ihr zugewiesenen Aufgaben zu ermöglichen, werden ihr im Hoheitsgebiet jedes Mitgliedslands die Rechtsstellung sowie die Immunitäten, Vorrechte und Befreiungen gewährt, die in diesem Kapitel festgelegt sind.
 
 ## Artikel 45
 
-#### Rechtsstellung der Bank
+**Rechtsstellung der Bank**
+
+#### Art. 45
 
 Die Bank besitzt volle Rechtspersönlichkeit und insbesondere die uneingeschränkte Rechtsfähigkeit,
 
@@ -717,43 +805,57 @@ iii) vor Gericht zu stehen.
 
 ## Artikel 46
 
-#### Stellung der Bank in bezug auf gerichtliche Verfahren
+**Stellung der Bank in bezug auf gerichtliche Verfahren**
+
+#### Art. 46
 
 Klagen gegen die Bank können nur vor einem zuständigen Gericht im Hoheitsgebiet eines Landes erhoben werden, in dem die Bank eine Geschäftsstelle besitzt, einen Vertreter für die Entgegennahme gerichtlicher Urkunden ernannt oder Wertpapiere ausgegeben oder garantiert hat. Es dürfen jedoch keine Klagen von Mitgliedern oder von Personen erhoben werden, die Mitglieder vertreten oder Forderungen von Mitgliedern ableiten. Das Eigentum und die Vermögenswerte der Bank, gleichviel wo und in wessen Besitz sie sich befinden, genießen Immunität von jeder Form der Beschlagnahme, Pfändung oder Vollstreckung, solange nicht ein endgültiges Urteil gegen die Bank ergangen ist.
 
 ## Artikel 47
 
-#### Befreiung der Vermögenswerte von Zugriff
+**Befreiung der Vermögenswerte von Zugriff**
+
+#### Art. 47
 
 Das Eigentum und die Vermögenswerte der Bank, gleichviel wo und in wessen Besitz sie sich befinden, sind von Zugriff durch Durchsuchung, Beschlagnahme, Einziehung, Enteignung oder jede andere Form der Wegnahme oder Zwangsvollstreckung auf dem Verwaltungs- oder Gesetzesweg befreit.
 
 ## Artikel 48
 
-#### Unverletzlichkeit der Archive
+**Unverletzlichkeit der Archive**
+
+#### Art. 48
 
 Die Archive der Bank sowie ganz allgemein alle ihr gehörenden oder in ihrem Besitz befindlichen Schriftstücke sind unverletzlich.
 
 ## Artikel 49
 
-#### Befreiung der Vermögenswerte von Beschränkungen
+**Befreiung der Vermögenswerte von Beschränkungen**
+
+#### Art. 49
 
 Soweit es die Erfüllung des Zweckes und der Aufgaben der Bank erfordert und vorbehaltlich dieses Übereinkommens sind das gesamte Eigentum und alle Vermögenswerte der Bank von Beschränkungen, Verwaltungsvorschriften, Kontrollen und Moratorien jeder Art befreit.
 
 ## Artikel 50
 
-#### Vorrecht für den Nachrichtenverkehr
+**Vorrecht für den Nachrichtenverkehr**
+
+#### Art. 50
 
 Jedes Mitglied gewährt dem amtlichen Nachrichtenverkehr der Bank dieselbe Behandlung, die es dem amtlichen Nachrichtenverkehr anderer Mitglieder gewährt.
 
 ## Artikel 51
 
-#### Immunitäten der leitenden und sonstigen Bediensteten
+**Immunitäten der leitenden und sonstigen Bediensteten**
+
+#### Art. 51
 
 Alle Gouverneure, Direktoren, Stellvertreter, leitenden und sonstigen Bediensteten der Bank sowie die im Auftrag der Bank tätigen Sachverständigen genießen Immunität von der Gerichtsbarkeit hinsichtlich ihrer in amtlicher Eigenschaft vorgenommenen Handlungen, sofern nicht die Bank diese Immunität aufhebt; alle ihre amtlichen Schriftstücke sind unverletzlich. Diese Immunität gilt jedoch nicht für die zivilrechtliche Haftung für Schäden, die sich aus einem von einem Gouverneur, Direktor, Stellvertreter, leitenden oder sonstigen Bediensteten oder Sachverständigen verursachten Straßenverkehrsunfall ergeben.
 
 ## Artikel 52
 
-#### Vorrechte der leitenden und sonstigen Bediensteten
+**Vorrechte der leitenden und sonstigen Bediensteten**
+
+#### Art. 52
 
 (1) Alle Gouverneure, Direktoren, Stellvertreter, leitenden und sonstigen Bediensteten der Bank sowie die im Auftrag der Bank tätigen Sachverständigen
 
@@ -765,7 +867,9 @@ ii) genießen in bezug auf Reiseerleichterungen die gleiche Behandlung, wie sie 
 
 ## Artikel 53
 
-#### Befreiung von der Besteuerung
+**Befreiung von der Besteuerung**
+
+#### Art. 53
 
 (1) Im Rahmen ihrer amtlichen Tätigkeiten sind die Bank, ihre Vermögenswerte, ihr Eigentum und ihre Einnahmen von allen direkten Steuern befreit.
 
@@ -797,13 +901,17 @@ ii) deren einzige rechtliche Grundlage der Standort einer Geschäftsstelle oder 
 
 ## Artikel 54
 
-#### Durchführung dieses Kapitels
+**Durchführung dieses Kapitels**
+
+#### Art. 54
 
 Jedes Mitglied trifft unverzüglich alle zur Durchführung dieses Kapitels erforderlichen Maßnahmen und unterrichtet die Bank im einzelnen von den Maßnahmen, die es ergriffen hat.
 
 ## Artikel 55
 
-#### Aufhebung der Immunitäten, Vorrechte und Befreiungen
+**Aufhebung der Immunitäten, Vorrechte und Befreiungen**
+
+#### Art. 55
 
 Die Immunitäten, Vorrechte und Befreiungen auf Grund dieses Kapitels werden im Interesse der Bank gewährt. Das Direktorium kann in dem Ausmaß und unter den Bedingungen, die es bestimmt, die auf Grund dieses Kapitels gewährten Immunitäten, Vorrechte und Befreiungen in den Fällen aufheben, in denen dies nach seiner Auffassung den Interessen der Bank am besten entspricht. Der Präsident hat das Recht und die Pflicht, die Immunitäten, Vorrechte und Befreiungen eines leitenden oder sonstigen Bediensteten oder eines Sachverständigen der Bank mit Ausnahme des Präsidenten und der Vizepräsidenten in den Fällen aufzuheben, in denen diese Immunitäten, Vorrechte oder Befreiungen nach seiner Auffassung verhindern würden, daß der Gerechtigkeit Genüge geschieht, und in denen sie ohne Beeinträchtigung der Interessen der Bank aufgehoben werden können. Unter ähnlichen Umständen und unter den gleichen Bedingungen hat das Direktorium das Recht und die Pflicht, Immunitäten, Vorrechte und Befreiungen des Präsidenten und der Vizepräsidenten aufzuheben.
 
@@ -811,7 +919,9 @@ Die Immunitäten, Vorrechte und Befreiungen auf Grund dieses Kapitels werden im 
 
 ### ÄNDERUNGEN, AUSLEGUNG, SCHIEDSVERFAHREN — Artikel 56
 
-#### Änderungen
+**Änderungen**
+
+#### Art. 56
 
 (1) Alle Vorschläge zur Änderung dieses Übereinkommens, gleichviel ob sie von einem Mitglied, einem Gouverneur oder dem Direktorium ausgehen, sind dem Vorsitzenden des Gouverneursrats zuzuleiten, der sie dem Rat vorlegt. Wird die vorgeschlagene Änderung vom Gouverneursrat gebilligt, so fragt die Bank mit Hilfe eines schnellen Kommunikationsmittels bei allen Mitgliedern an, ob sie die vorgeschlagene Änderung annehmen. Haben mindestens drei Viertel der Mitglieder – darunter mindestens zwei in Anlage A aufgeführte mittel- und osteuropäische Länder –, die über mindestens vier Fünftel der Gesamtstimmenzahl der Mitglieder verfügen, die vorgeschlagene Änderung angenommen, so bestätigt die Bank dies durch förmliche Mitteilung an alle Mitglieder.
 
@@ -835,7 +945,9 @@ Sobald die Voraussetzungen für die Annahme einer vorgeschlagenen Änderung erf�
 
 ## Artikel 57
 
-#### Auslegung und Anwendung
+**Auslegung und Anwendung**
+
+#### Art. 57
 
 (1) Alle Fragen bezüglich der Auslegung oder Anwendung dieses Übereinkommens, die zwischen einem Mitglied und der Bank oder zwischen Mitgliedern der Bank auftreten, werden dem Direktorium zur Entscheidung vorgelegt. Besitzt keiner der Direktoren die Staatsangehörigkeit eines Mitglieds, das von der zur Beratung stehenden Frage besonders betroffen ist, so hat dieses Mitglied während dieser Beratung ein Recht auf direkte Vertretung in der Sitzung des Direktoriums. Der Vertreter dieses Mitglieds hat jedoch kein Stimmrecht. Das Vertretungsrecht wird vom Gouverneursrat geregelt.
 
@@ -843,13 +955,17 @@ Sobald die Voraussetzungen für die Annahme einer vorgeschlagenen Änderung erf�
 
 ## Artikel 58
 
-#### Schiedsverfahren
+**Schiedsverfahren**
+
+#### Art. 58
 
 Sollte zwischen der Bank und einem Mitglied, dessen Mitgliedschaft erloschen ist, oder nach Annahme eines Beschlusses zur Beendigung der Geschäftstätigkeit der Bank zwischen der Bank und einem beliebigen Mitglied eine Meinungsverschiedenheit auftreten, so wird diese einem Schiedsgericht aus drei (3) Schiedsrichtern unterbreitet, von denen einer von der Bank, ein weiterer von dem betroffenen Mitglied beziehungsweise früheren Mitglied und der dritte, sofern die Parteien nichts anderes vereinbaren, vom Präsidenten des Internationalen Gerichtshofs oder einer anderen in den Regelungen des Gouverneursrats bestimmten Stelle ernannt wird. Für eine Entscheidung, die endgültig und für die Parteien verbindlich ist, genügt die Mehrheit der Stimmen der Schiedsrichter. Der dritte Schiedsrichter hat Vollmacht, alle Verfahrensfragen zu regeln, über welche die Parteien sich nicht zu einigen vermögen.
 
 ## Artikel 59
 
-#### Als erteilt geltende Genehmigung
+**Als erteilt geltende Genehmigung**
+
+#### Art. 59
 
 Ist die Genehmigung oder Annahme eines Mitglieds erforderlich, bevor die Bank eine Handlung vornehmen kann, so gilt außer im Fall des Artikels 56 diese Genehmigung oder Annahme als erfolgt, sofern nicht das Mitglied innerhalb einer angemessenen Frist, welche die Bank bei der Notifikation der geplanten Handlung an das Mitglied festsetzt, Einspruch erhebt.
 
@@ -857,7 +973,9 @@ Ist die Genehmigung oder Annahme eines Mitglieds erforderlich, bevor die Bank ei
 
 ### SCHLUSSBESTIMMUNGEN — Artikel 60
 
-#### Unterzeichnung und Hinterlegung
+**Unterzeichnung und Hinterlegung**
+
+#### Art. 60
 
 (1) Dieses Übereinkommen, das bei der Regierung der Französischen Republik (im folgenden als „Verwahrer“ bezeichnet) hinterlegt wird, liegt bis zum 31. Dezember 1990 für die in Anlage A genannten voraussichtlichen Mitglieder zur Unterzeichnung auf.
 
@@ -865,7 +983,9 @@ Ist die Genehmigung oder Annahme eines Mitglieds erforderlich, bevor die Bank ei
 
 ## Artikel 61
 
-#### Ratifikation, Annahme oder Genehmigung
+**Ratifikation, Annahme oder Genehmigung**
+
+#### Art. 61
 
 (1) Dieses Übereinkommen bedarf der Ratifikation, Annahme oder Genehmigung durch die Unterzeichner. Die Ratifikations-, Annahme- oder Genehmigungsurkunden werden vorbehaltlich des Absatzes 2 bis zum 31. März 1991 beim Verwahrer hinterlegt. Der Verwahrer notifiziert den anderen Unterzeichnern jede Hinterlegung und deren Zeitpunkt.
 
@@ -875,7 +995,9 @@ Ist die Genehmigung oder Annahme eines Mitglieds erforderlich, bevor die Bank ei
 
 ## Artikel 62
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 62
 
 (1) Dieses Übereinkommen tritt in Kraft, wenn Unterzeichner, deren Erstzeichnungen mindestens zwei Drittel der Gesamtzeichnungen nach Anlage A ausmachen, darunter mindestens zwei in Anlage A aufgeführte mittel- und osteuropäische Länder, ihre Ratifikations-, Annahme- oder Genehmigungsurkunden hinterlegt haben.
 
@@ -883,7 +1005,9 @@ Ist die Genehmigung oder Annahme eines Mitglieds erforderlich, bevor die Bank ei
 
 ## Artikel 63
 
-#### Eröffnungssitzung und Aufnahme der Geschäftstätigkeit
+**Eröffnungssitzung und Aufnahme der Geschäftstätigkeit**
+
+#### Art. 63
 
 (1) Sobald dieses Übereinkommen nach Artikel 62 in Kraft tritt, ernennt jedes Mitglied einen Gouverneur. Der Verwahrer beraumt binnen sechzig (60) Tagen nach Inkrafttreten dieses Übereinkommens gemäß Artikel 62 oder so bald wie möglich danach die erste Sitzung des Gouverneursrats an.
 

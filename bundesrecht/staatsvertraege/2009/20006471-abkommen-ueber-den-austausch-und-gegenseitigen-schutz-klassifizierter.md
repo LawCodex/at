@@ -33,13 +33,17 @@ Sind wie folgt übereingekommen:
 
 ## ARTIKEL 1
 
-### KLASSIFIZIERTE INFORMATIONEN
+**KLASSIFIZIERTE INFORMATIONEN**
+
+### Art. 1
 
 „Klassifizierte Informationen“ im Sinne dieses Abkommens sind Informationen und Gegenstände, unabhängig von ihrer Form, die gemäß dem jeweiligen innerstaatlichen Recht als solche eingestuft und gekennzeichnet worden sind, um ihren Schutz vor unbefugter Preisgabe, missbräuchlicher Verwendung oder Verlust zu gewährleisten.
 
 ## ARTIKEL 2
 
-### GLEICHWERTIGKEIT DER KLASSIFIZIERUNGSSTUFEN
+**GLEICHWERTIGKEIT DER KLASSIFIZIERUNGSSTUFEN**
+
+### Art. 2
 
 Die Parteien legen fest, dass folgende Klassifizierungsstufen gleichwertig sind:
 
@@ -52,7 +56,9 @@ Die Parteien legen fest, dass folgende Klassifizierungsstufen gleichwertig sind:
 
 ## ARTIKEL 3
 
-### KENNZEICHNUNG
+**KENNZEICHNUNG**
+
+### Art. 3
 
 (1) Klassifizierte Informationen, die übermittelt werden sollen, werden von der zuständigen staatlichen Behörde oder Stelle des Herausgebers gemäß der entsprechenden Klassifizierungsstufe in der Sprache beider Parteien gekennzeichnet.
 
@@ -62,7 +68,9 @@ Die Parteien legen fest, dass folgende Klassifizierungsstufen gleichwertig sind:
 
 ## ARTIKEL 4
 
-### GRUNDSÄTZE DES SCHUTZES KLASSIFIZIERTER INFORMATIONEN
+**GRUNDSÄTZE DES SCHUTZES KLASSIFIZIERTER INFORMATIONEN**
+
+### Art. 4
 
 (1) Die Parteien treffen gemäß diesem Abkommen und dem jeweiligen innerstaatlichen Recht alle geeigneten Maßnahmen, um den Schutz übermittelter klassifizierter Informationen zu gewährleisten, und sorgen für die erforderliche Kontrolle dieses Schutzes.
 
@@ -76,7 +84,9 @@ Die Parteien legen fest, dass folgende Klassifizierungsstufen gleichwertig sind:
 
 ## ARTIKEL 5
 
-### SICHERHEITSUNBEDENKLICHKEITSBESCHEINIGUNGEN FÜR PERSONEN
+**SICHERHEITSUNBEDENKLICHKEITSBESCHEINIGUNGEN FÜR PERSONEN**
+
+### Art. 5
 
 (1) Zugang zu klassifizierten Informationen der Klassifizierungsstufen VERTRAULICH und höher ist nur auf Grundlage einer Sicherheitsunbedenklichkeitsbescheinigung für Personen nach dem jeweiligen innerstaatlichen Recht zu gewähren.
 
@@ -88,7 +98,9 @@ Die Parteien legen fest, dass folgende Klassifizierungsstufen gleichwertig sind:
 
 ## ARTIKEL 6
 
-### KLASSIFIZIERTE VERTRÄGE
+**KLASSIFIZIERTE VERTRÄGE**
+
+### Art. 6
 
 (1) Ein „klassifizierter Vertrag“ ist ein Vertrag oder Untervertrag zwischen einer staatlichen Behörde oder Stelle oder einem Unternehmen aus dem Staat der einen Partei (Auftraggeber) und einer staatlichen Behörde oder Stelle oder einem Unternehmen aus dem Staat der anderen Partei (Auftragnehmer), dessen Erfüllung den Zugang zu klassifizierten Informationen oder deren Herstellung voraussetzt.
 
@@ -104,13 +116,17 @@ Die Parteien legen fest, dass folgende Klassifizierungsstufen gleichwertig sind:
 
 ## ARTIKEL 7
 
-### ÜBERMITTLUNG
+**ÜBERMITTLUNG**
+
+### Art. 7
 
 Klassifizierte Informationen werden auf diplomatischem Wege oder auf andere zwischen den zuständigen staatlichen Behörden oder Stellen vereinbarte, gegen unbefugte Preisgabe, missbräuchliche Verwendung oder Verlust gesicherte Weise übermittelt. Der Empfang klassifizierter Informationen wird schriftlich bestätigt.
 
 ## ARTIKEL 8
 
-### VERVIELFÄLTIGUNG UND ÜBERSETZUNG
+**VERVIELFÄLTIGUNG UND ÜBERSETZUNG**
+
+### Art. 8
 
 (1) Klassifizierte Informationen werden gemäß dem jeweiligen innerstaatlichen Recht vervielfältigt. Die Vervielfältigung klassifizierter Informationen durch den Empfänger kann von der zuständigen staatlichen Behörde oder Stelle des Herausgebers eingeschränkt oder ausgeschlossen werden. Klassifizierte Informationen der Klassifizierungsstufe STRENG GEHEIM dürfen nicht vervielfältigt werden.
 
@@ -120,13 +136,17 @@ Klassifizierte Informationen werden auf diplomatischem Wege oder auf andere zwis
 
 ## ARTIKEL 9
 
-### VERNICHTUNG
+**VERNICHTUNG**
+
+### Art. 9
 
 Klassifizierte Informationen werden gemäß dem jeweiligen innerstaatlichen Recht nachweislich auf eine Weise vernichtet, die eine teilweise oder vollständige Wiederherstellung nicht zulässt. Klassifizierte Informationen der Klassifizierungsstufe STRENG GEHEIM dürfen nicht vernichtet werden, sondern sind rückzuübermitteln.
 
 ## ARTIKEL 10
 
-### BESUCHE
+**BESUCHE**
+
+### Art. 10
 
 (1) Besuchern wird nur im notwendigen Ausmaß und mit Erlaubnis der zuständigen staatlichen Behörde oder Stelle Zugang zu klassifizierten Informationen sowie zu Einrichtungen, in denen klassifizierte Informationen bearbeitet oder aufbewahrt werden, gewährt. Die Erlaubnis wird nur solchen Personen erteilt, die gemäß dem jeweiligen innerstaatlichen Recht zum Zugang zu klassifizierten Informationen der jeweiligen Klassifizierungsstufe ermächtigt sind.
 
@@ -148,7 +168,9 @@ f. Datum des Antrags und Unterschrift der zuständigen staatlichen Behörde oder
 
 ## ARTIKEL 11
 
-### SICHERHEITSVERLETZUNGEN
+**SICHERHEITSVERLETZUNGEN**
+
+### Art. 11
 
 (1) Im Falle einer unbefugten Preisgabe, einer missbräuchlichen Verwendung oder eines Verlustes klassifizierter Informationen, die unter dieses Abkommen fallen, oder eines entsprechenden Verdachts, ist dies der zuständigen staatlichen Behörde oder Stelle des Herausgebers unverzüglich schriftlich mitzuteilen.
 
@@ -158,19 +180,25 @@ f. Datum des Antrags und Unterschrift der zuständigen staatlichen Behörde oder
 
 ## ARTIKEL 12
 
-### KOSTEN
+**KOSTEN**
+
+### Art. 12
 
 Jede Partei trägt die Kosten, die ihr im Zuge der Durchführung dieses Abkommens entstehen.
 
 ## ARTIKEL 13
 
-### ZUSTÄNDIGE STAATLICHE BEHÖRDEN UND STELLEN
+**ZUSTÄNDIGE STAATLICHE BEHÖRDEN UND STELLEN**
+
+### Art. 13
 
 Die Parteien teilen einander auf diplomatischem Wege die für die Durchführung dieses Abkommens zuständigen staatlichen Behörden und Stellen mit.
 
 ## ARTIKEL 14
 
-### KONSULTATIONEN
+**KONSULTATIONEN**
+
+### Art. 14
 
 (1) Die zuständigen staatlichen Behörden oder Stellen teilen einander das jeweilige innerstaatliche Recht zum Schutz klassifizierter Informationen und dessen Änderungen mit.
 
@@ -178,13 +206,17 @@ Die Parteien teilen einander auf diplomatischem Wege die für die Durchführung 
 
 ## ARTIKEL 15
 
-### BEILEGUNG VON STREITIGKEITEN
+**BEILEGUNG VON STREITIGKEITEN**
+
+### Art. 15
 
 Jegliche Streitigkeiten über die Anwendung oder Auslegung dieses Abkommens werden im Wege direkter Gespräche zwischen den Parteien oder auf diplomatischem Wege beigelegt.
 
 ## ARTIKEL 16
 
-### SCHLUSSBESTIMMUNGEN
+**SCHLUSSBESTIMMUNGEN**
+
+### Art. 16
 
 (1) Dieses Abkommen wird auf unbestimmte Zeit geschlossen und tritt am ersten Tag des zweiten Monats nach dem Tag in Kraft, an dem die Parteien einander den Abschluss der für das Inkrafttreten des Abkommens erforderlichen innerstaatlichen Verfahren mitgeteilt haben.
 

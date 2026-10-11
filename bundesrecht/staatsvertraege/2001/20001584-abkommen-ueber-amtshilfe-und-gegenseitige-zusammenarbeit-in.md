@@ -41,7 +41,9 @@ wie folgt übereingekommen:
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens bedeutet:
 
@@ -75,7 +77,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 2
 
-### Anwendungsbereich des Abkommens
+**Anwendungsbereich des Abkommens**
+
+### Art. 2
 
 (1) Im Einklang mit den Bestimmungen dieses Abkommens leisten die Vertragsparteien einander gegenseitige Amtshilfe,
 
@@ -95,7 +99,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 3
 
-### Amtshilfe auf Ersuchen
+**Amtshilfe auf Ersuchen**
+
+### Art. 3
 
 (1) Für Zwecke dieses Abkommens tauschen die Zollverwaltungen auf Ersuchen alle Informationen aus über:
 
@@ -115,7 +121,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 4
 
-### Auf Ersuchen informieren die Zollverwaltungen einander, ob
+**Auf Ersuchen informieren die Zollverwaltungen einander, ob**
+
+### Art. 4
 
 1\. die in das Gebiet der einen Vertragspartei eingeführten Waren rechtmäßig aus dem Gebiet der anderen Vertragspartei ausgeführt worden sind,
 
@@ -125,7 +133,9 @@ Für die Zwecke dieses Abkommens bedeutet:
 
 ## Artikel 5
 
-### Amtshilfe ohne vorhergehendes Ersuchen
+**Amtshilfe ohne vorhergehendes Ersuchen**
+
+### Art. 5
 
 Sofern dies ihres Erachtens zur Einhaltung der Zollbestimmungen notwendig ist, erteilen die Vertragsparteien einander sämtliche Auskünfte über:
 
@@ -141,7 +151,9 @@ Sofern dies ihres Erachtens zur Einhaltung der Zollbestimmungen notwendig ist, e
 
 ## Artikel 6
 
-### Form der Übermittlung
+**Form der Übermittlung**
+
+### Art. 6
 
 (1) Die ersuchte Behörde der einen Vertragspartei übermittelt auf Ersuchen oder spontan der Zollverwaltung der anderen Vertragspartei Berichte, Niederschriften oder beglaubigte Kopien von Dokumenten, die alle verfügbaren Informationen über die Ergebnisse der Ermittlungen über begangene Zollzuwiderhandlungen oder die Überprüfung der Einhaltung der Zollbestimmungen darstellen.
 
@@ -149,7 +161,9 @@ Sofern dies ihres Erachtens zur Einhaltung der Zollbestimmungen notwendig ist, e
 
 ## Artikel 7
 
-### Überwachung von Personen, Waren, Transportmittel und Örtlichkeiten
+**Überwachung von Personen, Waren, Transportmittel und Örtlichkeiten**
+
+### Art. 7
 
 Auf Ersuchen einer Vertragspartei veranlasst die Zollverwaltung der anderen Vertragspartei im Rahmen ihrer Zuständigkeiten und Möglichkeiten eine Überwachung über:
 
@@ -163,7 +177,9 @@ Auf Ersuchen einer Vertragspartei veranlasst die Zollverwaltung der anderen Vert
 
 ## Artikel 8
 
-### Maßnahmen gegen den illegalen Handel mit Suchtgift, psychotropen **Substanzen und Vorläuferstoffen**
+**Maßnahmen gegen den illegalen Handel mit Suchtgift, psychotropen **Substanzen und Vorläuferstoffen****
+
+### Art. 8
 
 (1) Auf Ersuchen oder von sich aus leisten die beiden Zollverwaltungen einander Unterstützung bei der Verhinderung des und Ermittlung gegen den illegalen Handel mit Suchtgift, psychotropen Substanzen und Vorläuferstoffen, in dem sie alle relevanten Informationen austauschen über:
 
@@ -195,7 +211,9 @@ Sofern dies ihres Erachtens zur Einhaltung der Zollbestimmungen notwendig ist, e
 
 ## Artikel 10
 
-### Kontrollierte Lieferung
+**Kontrollierte Lieferung**
+
+### Art. 10
 
 (1) Die beiden Zollverwaltungen arbeiten bei der Durchführung von kontrollierten Lieferungen zusammen.
 
@@ -203,7 +221,9 @@ Sofern dies ihres Erachtens zur Einhaltung der Zollbestimmungen notwendig ist, e
 
 ## Artikel 11
 
-### Ermittlungen
+**Ermittlungen**
+
+### Art. 11
 
 (1) Die ersuchte Zollverwaltung führt sämtliche Ermittlungen nach Maßgabe der in ihrem Gebiet geltenden Vorschriften über jene Vorgänge durch, die gegen die Zollvorschriften der ersuchenden Vertragspartei verstoßen oder dagegen verstoßen könnten. Die ersuchte Behörde verfährt dabei so, als ob sie in Erfüllung eigener Aufgaben handeln würde. Das Ergebnis der Ermittlungen wird der ersuchenden Behörde unverzüglich mitgeteilt.
 
@@ -211,7 +231,9 @@ Sofern dies ihres Erachtens zur Einhaltung der Zollbestimmungen notwendig ist, e
 
 ## Artikel 12
 
-### Sachverständige und Zeugen
+**Sachverständige und Zeugen**
+
+### Art. 12
 
 (1) Auf Ersuchen der Zollverwaltung der einen Vertragspartei kann die Zollverwaltung der anderen Vertragspartei ihre Zollorgane ermächtigen, als Sachverständige oder Zeugen in Gerichts- oder Verwaltungsverfahren, welche die unter dieses Abkommen fallende Angelegenheiten betreffen, vor den Gerichts- oder Verwaltungsbehörden der anderen Vertragspartei zu erscheinen.
 
@@ -223,7 +245,9 @@ Sofern dies ihres Erachtens zur Einhaltung der Zollbestimmungen notwendig ist, e
 
 ## Artikel 13
 
-### Verwertung der Auskünfte
+**Verwertung der Auskünfte**
+
+### Art. 13
 
 (1) Die im Rahmen dieses Abkommens erhaltenen Informationen, Dokumente und andere Mitteilungen dürfen ausschließlich für die in diesem Abkommen bestimmten Zwecke einschließlich der wegen Zollzuwiderhandlungen eingeleiteten Verfahren verwendet werden. Zu anderen Zwecken dürfen sie im Gebiet der Vertragspartei nur mit vorheriger schriftlicher Zustimmung der die Auskunft erteilenden Behörde und mit den gegebenenfalls von dieser auferlegten Beschränkungen verwendet werden.
 
@@ -239,7 +263,9 @@ Sofern dies ihres Erachtens zur Einhaltung der Zollbestimmungen notwendig ist, e
 
 ## Artikel 14
 
-### Datenschutz
+**Datenschutz**
+
+### Art. 14
 
 (1) Sämtliche Auskünfte nach Maßgabe dieses Protokolls sind vertraulich, gleichgültig, in welcher Form sie erteilt werden. Sie unterliegen dem Dienstgeheimnis und genießen den Schutz sowohl der für derartige Auskünfte geltenden Rechtsvorschriften der Vertragspartei, die sie erhalten hat, als auch der entsprechenden für die andere Vertragspartei geltenden Vorschriften.
 
@@ -253,13 +279,17 @@ Sofern dies ihres Erachtens zur Einhaltung der Zollbestimmungen notwendig ist, e
 
 ## Artikel 15
 
-### Zustellung/Bekanntgabe
+**Zustellung/Bekanntgabe**
+
+### Art. 15
 
 Auf Antrag veranlasst die ersuchte Vertragspartei im Einklang mit ihren Rechtsvorschriften die Zustellung/Bekanntgabe aller Dokumente und Entscheidungen, die in den sachlichen Anwendungsbereich dieses Abkommens fallen, an die betreffenden natürlichen oder juristischen Personen, die ihren Wohnsitz oder Sitz in ihrem Gebiet haben.
 
 ## Artikel 16
 
-### Form und Inhalt der Amtshilfeersuchen
+**Form und Inhalt der Amtshilfeersuchen**
+
+### Art. 16
 
 (1) Amtshilfeersuchen gemäß diesem Abkommen sind schriftlich zu stellen. Dem Ersuchen sind alle Unterlagen beizufügen, die für seine Erledigung erforderlich sind. In dringenden Fällen können mündliche Ersuchen zulässig sein, die jedoch einer unverzüglichen schriftlichen Bestätigung bedürfen.
 
@@ -283,7 +313,9 @@ Auf Antrag veranlasst die ersuchte Vertragspartei im Einklang mit ihren Rechtsvo
 
 ## Artikel 17
 
-### Ausnahme von der Verpflichtung zur Amtshilfe
+**Ausnahme von der Verpflichtung zur Amtshilfe**
+
+### Art. 17
 
 (1) Die Vertragsparteien können Amtshilfe nach Maßgabe dieses Abkommens ganz oder teilweise verweigern oder von der Einhaltung bestimmter Bedingungen abhängig machen, Sofern die öffentliche Ordnung oder Sicherheit oder andere wesentliche öffentliche Interessen der ersuchten Vertragspartei beeinträchtigt werden könnten oder die Gefahr der Verletzung sonstiger gesetzlich geschützter Betriebs-, Geschäfts- oder Berufsgeheimnisse bestünde.
 
@@ -295,13 +327,17 @@ Auf Antrag veranlasst die ersuchte Vertragspartei im Einklang mit ihren Rechtsvo
 
 ## Artikel 18
 
-### Kosten
+**Kosten**
+
+### Art. 18
 
 Die beiden Vertragsparteien verzichten auf alle Ansprüche auf Erstattung der sich aus der Durchführung dieses Abkommens ergebenden Kosten mit Ausnahme der Kosten für Sachverständige und Zeugen.
 
 ## Artikel 19
 
-### Durchführung des Abkommens
+**Durchführung des Abkommens**
+
+### Art. 19
 
 (1) Die Durchführung dieses Abkommens wird den zentralen Zollbehörden der Vertragsparteien übertragen und von diesen unmittelbar ausgeführt.
 
@@ -311,13 +347,17 @@ Die beiden Vertragsparteien verzichten auf alle Ansprüche auf Erstattung der si
 
 ## Artikel 20
 
-### Territorialer Geltungsbereich
+**Territorialer Geltungsbereich**
+
+### Art. 20
 
 Dieses Abkommen findet im Hoheitsgebiet der Vertragsparteien Anwendung.
 
 ## Artikel 21
 
-### Schlussbestimmungen
+**Schlussbestimmungen**
+
+### Art. 21
 
 Meinungsverschiedenheiten über die Auslegung oder die Anwendung dieses Abkommens sollen durch die zentralen Zollbehörden der Vertragsparteien beigelegt werden. Die Regelung auf diplomatischem Weg wird dadurch nicht ausgeschlossen.
 

@@ -1,0 +1,182 @@
+---
+title: "WTO-Abkommen - Handel mit Dienstleistungen (4. Protokoll)"
+identifier: "10007975"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 44/1998"
+last_amended: 1998-02-05
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/iii/1998/44/P0/NOR11008120"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007975"
+retrieved: 2026-10-11
+documents: 3
+---
+
+# WTO-Abkommen - Handel mit Dienstleistungen (4. Protokoll)
+
+(Übersetzung)
+
+Viertes Protokoll zum Allgemeinen Abkommen über den Handel mit
+
+Dienstleistungen
+
+StF: BGBl. III Nr. 44/1998
+
+**Unterzeichnungsdatum:** 15.04.1997
+
+**Vertragsparteien:** Mitgliedstaaten siehe WTO-Abkommen, BGBl. Nr. 1/1995
+
+**Sprachen:** Englisch, Französisch, Spanisch
+
+## Präambel/Promulgationsklausel
+
+Die Mitglieder der Welthandelsorganisation (im folgenden „WTO“ genannt) deren Listen spezifischer Verpflichtungen und Listen der Ausnahmen von Artikel II des Allgemeinen Abkommens über den Handel mit Dienstleistungen \*1) in bezug auf die Basistelekommunikation diesem Protokoll beigefügt sind (im folgenden als „die betroffenen Mitglieder“ bezeichnet),
+
+NACH ABSCHLUSS der Verhandlungen auf Grund des am 15. April 1994 in Marrakesch gefaßten Ministerbeschlusses über Verhandlungen über Fernmeldegrunddienste,
+
+EINGEDENK des Anhangs über Verhandlungen über
+
+Fernmeldegrunddienste,
+
+KOMMEN WIE FOLGT ÜBEREIN:
+
+\---------------------------------------------------------------------
+
+\*1) Kundgemacht in BGBl. Nr. 1/1995 idF BGBl. Nr. 379/1995
+
+## Art. 1
+
+1\. Mit Inkrafttreten dieses Protokolls werden die für ein Mitglied geltenden Listen spezifischer Verpflichtungen und die Listen der Ausnahmen von Artikel II in bezug auf die Fernmeldegrunddienste, die diesem Protokoll beigefügt sind, zu den dort festgelegten Bedingungen die Liste spezifischer Verpflichtungen und die Liste der Ausnahmen von Artikel II dieses Mitglieds ergänzen oder ändern.
+
+2\. Dieses Protokoll liegt für die betroffenen Mitglieder bis zum 30. November 1997 zur Annahme durch Unterzeichnung oder auf andere Weise auf.
+
+3\. Dieses Protokoll tritt am 1. Jänner 1998 in Kraft, sofern es von allen betroffenen Mitgliedern angenommen wurde. Wurde das Protokoll bis zum 1. Dezember 1997 nicht von allen betroffenen Mitgliedern angenommen, so können die Mitglieder, die es bis zu diesem Zeitpunkt angenommen haben, vor dem 1. Januar 1997 einen Beschluß über dessen Inkrafttreten fassen.
+
+4\. Dieses Protokoll wird beim Generaldirektor der WTO hinterlegt. Der Generaldirektor der WTO übermittelt jedem Mitglied der WTO umgehend eine beglaubigte Abschrift dieses Protokolls und notifiziert ihm jede Annahme.
+
+5\. Dieses Protokoll wird nach Artikel 102 der Satzung der Vereinten Nationen registriert.
+
+GESCHEHEN zu Genf am 15. April 1997 in einer Urschrift in englischer, französischer und spanischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist, sofern für die beigefügten Listen nichts anderes vorgesehen ist.
+
+## Anl. 1
+
+\**Die Europäischen Gemeinschaften und ihre Mitgliedstaaten - Liste**
+
+\**spezifischer Bindungen (Verpflichtungsliste)**
+
+(Anm.: Liste (Querformat) nicht darstellbar, es wird daher auf die
+
+gedruckte Form des BGBl. verwiesen.)
+
+\**Zusätzliche Verpflichtungen der Europäischen Gemeinschaften und**
+
+\**ihrer Mitgliedstaaten**
+
+Anwendungsbereich:
+
+Es folgen Begriffsbestimmungen und Grundsätze zum ordnungspolitischen Rahmen für
+
+Basistelekommunikationsdienstleistungen, die die Verpflichtungen der Europäischen Gemeinschaften und ihrer Mitgliedstaaten hinsichtlich des Marktzugangs untermauern.
+
+Begriffsbestimmungen:
+
+Der Begriff Nutzer umfaßt Verbraucher und Anbieter von
+
+Dienstleistungen.
+
+Der Begriff wesentliche Einrichtungen bedeutet Einrichtungen eines öffentlichen Telekommunikationsnetzes und -dienstes,
+
+a) die ausschließlich oder überwiegend von einem einzigen Anbieter oder einer begrenzten Anzahl von Anbietern von Dienstleistungen bereitgestellt werden und
+
+b) die zur Erbringung einer Dienstleistung weder wirtschaftlich noch technisch durchführbar ersetzt werden können.
+
+Der Begriff Hauptanbieter bedeutet ein Anbieter, der die Bedingungen für eine Beteiligung an dem entsprechenden Markt für Basistelekommunikationsdienstleistungen (hinsichtlich des Preises und der Erbringung) wesentlich beeinflussen kann, und zwar durch
+
+a) Kontrolle der wesentlichen Einrichtungen oder
+
+b) Nutzung seiner Marktstellung.
+
+1\. Regeln zum Schutz des Wettbewerbs:
+
+1.1. Verhinderung wettbewerbswidriger Praktiken in der Telekommunikation:
+
+Es werden geeignete Maßnahmen beibehalten, um zu verhindern, daß Anbieter, die allein oder gemeinsam ein Hauptanbieter sind, wettbewerbswidrige Praktiken aufnehmen oder weiter verfolgen.
+
+1.2. Schutzklauseln:
+
+Die obengenannten wettbewerbswidrigen Praktiken umfassen insbesondere:
+
+a) die Aufnahme wettbewerbswidriger Quersubventionierung;
+
+b) die Nutzung von Informationen mit wettbewerbswidrigen Ergebnissen von anderen Wettbewerbern und
+
+c) die nicht rechtzeitige Bereitstellung technischer Informationen über wesentliche Einrichtungen und Informationen von kommerzieller Bedeutung, die für die Erbringung von Dienstleistungen erforderlich sind, an andere Anbieter von Dienstleistungen.
+
+2\. Zusammenschaltung:
+
+2.1. Dieser Abschnitt gilt für das Zusammenschalten mit Anbietern, die öffentliche Telekommunikationsnetze oder -dienste bereitstellen, um den Nutzern eines Anbieters die Kommunikation mit Nutzern eines anderen Anbieters zu ermöglichen und Zugang zu Dienstleistungen zu erhalten, die von einem anderen Anbieter bereitgestellt werden.
+
+2.2. Sicherzustellende Zusammenschaltung:
+
+Im Rahmen des zulässigen Marktzugangs wird das Zusammenschalten mit einem Hauptanbieter an jedem technisch durchführbaren Punkt im Netz sichergestellt. Diese Zusammenschaltung wird wie folgt bereitgestellt \*1):
+
+a) zu nichtdiskriminierenden Bedingungen (einschließlich technischer Normen und Spezifikationen) und Entgelten sowie in einer Qualität, die nicht schlechter ist als diejenige, die er für eigene gleiche Dienstleistungen oder für gleiche Dienstleistungen nichtverbundener Anbieter von Dienstleistungen oder seinen Tochterunternehmen oder sonstigen verbundenen Unternehmen gewährt \*2);
+
+b) rechtzeitig zu Bedingungen (einschließlich technischer Normen und Spezifikationen) und kostenorientierten Entgelten, die transparent, angemessen, wirtschaftlich realistisch und ausreichend entbündelt sind, sodaß der Anbieter nicht für Netzelemente oder -einrichtungen zu zahlen braucht, die er für die zu erbringende Dienstleistung nicht benötigt, und
+
+c) auf Ersuchen zusätzlich an anderen Punkten als den Netzabschlußpunkten, die dem überwiegenden Teil der Nutzer angeboten werden, zu Entgelten, die die Bereitstellungskosten für die notwendigen zusätzlichen Einrichtungen widerspiegeln.
+
+2.3. Öffentliche Zugänglichkeit der Verfahren für Verhandlungen über eine Zusammenschaltung:
+
+Die Verfahren für das Zusammenschalten mit einem Hauptanbieter werden öffentlich zugänglich gemacht.
+
+2.4. Transparenz der Vereinbarungen über eine Zusammenschaltung:
+
+Es wird sichergestellt, daß ein Hauptanbieter entweder seine Vereinbarungen über eine Zusammenschaltung oder ein Referenzangebot für eine Zusammenschaltung öffentlich zugänglich macht.
+
+2.5. Zusammenschaltung: Streitbeilegung:
+
+Ein Anbieter von Dienstleistungen, der um die Zusammenschaltung mit einem Hauptanbieter ersucht, kann entweder
+
+a) jederzeit oder
+
+b) nach einem angemessenen Zeitraum, der öffentlich bekanntgemacht wurde, eine unabhängige nationale Stelle anrufen, bei der es sich um eine Regulierungsbehörde nach Absatz 5 handeln kann, um Streitigkeiten über Bedingungen und Entgelte für die Zusammenschaltung - soweit diese nicht vorher festgelegt wurden - innerhalb eines angemessenen Zeitraums beizulegen.
+
+3\. Universaldienstleistungen:
+
+Jedes Mitglied hat das Recht, die Art der Verpflichtung zu Universaldienstleistungen festzulegen, die es beizubehalten wünscht. Diese Verpflichtungen werden nicht als per se wettbewerbswidrig angesehen, sofern sie transparent, nichtdiskriminierend und wettbewerbsneutral verwaltet werden und hinsichtlich der von dem Mitglied festgelegten Art der Universaldienstleistungen nicht belastender als nötig sind.
+
+4\. Öffentliche Zugänglichkeit der Lizenzierungskriterien:
+
+Ist eine Lizenz erforderlich, so wird folgendes öffentlich zugänglich gemacht:
+
+a) alle Lizenzierungskriterien und der Zeitraum, der normalerweise erforderlich ist, um eine Entscheidung über einen Lizenzantrag zu treffen, und
+
+b) die Bedingungen für die einzelnen Lizenzen.
+
+Die Gründe für die Verweigerung einer Lizenz werden dem Antragsteller auf Ersuchen mitgeteilt.
+
+5\. Unabhängige regulierende Stellen:
+
+Die Regulierungsbehörde ist getrennt von jedem Anbieter von Basistelekommunikationsdienstleistungen und ist diesem nicht verantwortlich. Die Entscheidungen und Verfahren der regulierenden Stellen sind im Hinblick auf alle Marktteilnehmer unparteiisch.
+
+6\. Zuweisung und Nutzung knapper Ressourcen:
+
+Alle Verfahren für die Zuweisung und Nutzung knapper Ressourcen einschließlich Frequenzen, Nummern und Wegerechten werden objektiv, rechtzeitig, transparent und nichtdiskriminierend durchgeführt. Der aktuelle Stand zugewiesener Frequenzbereiche wird öffentlich zugänglich gemacht; die genaue Ausweisung der für bestimmte staatliche Nutzungen zugewiesenen Frequenzen ist jedoch nicht erforderlich.
+
+\---------------------------------------------------------------------
+
+\*1) Anbieter von Dienstleistungen oder Netzen, die der Öffentlichkeit nicht allgemein zugänglich sind, wie geschlossene Benutzergruppen, haben garantierte Rechte auf Zusammenschaltung mit dem öffentlichen Telekommunikationsnetz oder -dienst zu nichtdiskriminierenden, transparenten und kostenorientierten Bedingungen und Entgelten. Diese Bedingungen und Entgelte können sich jedoch von den Bedingungen und Entgelten unterscheiden, die für die Zusammenschaltung zwischen öffentlichen Telekommunikationsnetzen oder -diensten gelten.
+
+\*2) In der Gemeinschaft können für Betreiber in unterschiedlichen Marktsegmenten unterschiedliche Bedingungen und Entgelte auf der Grundlage nichtdiskriminierender und transparenter nationaler Lizenzierungsbestimmungen festgelegt werden, soweit diese Unterschiede sachlich gerechtfertigt werden können, weil diese Dienstleistungen nicht als „gleiche Dienstleistungen'' gelten.
+
+## Ratifikationstext
+
+Österreich hat das Vierte Protokoll gemäß seinem Punkt 2 durch Unterzeichnung am 28. November 1997 angenommen; das Protokoll ist gemäß seinem Punkt 3 mit 5. Februar 1998 in Kraft getreten.
+
+Nach Mitteilungen des Generaldirektors der WTO haben folgende weitere Staaten bzw. Organisation das Vierte Protkoll (Anm.: richtig: Protokoll) gemäß seinem Punkt 2 angenommen:
+
+Australien, Bangladesch, Côte d’Ivoire, Dänemark, Deutschland, Ecuador, Europäische Gmeinschaft *(Anm.: richtig: Gemeinschaft)*, El Salvador, Finnland, Frankreich, Griechenland, Sonderverwaltungsregion Hongkong, Indien, Indonesien, Irland, Island, Israel, Italien, Jamaika, Japan, Kanada, Kolumbien, Republik Korea, Luxemburg, Malaysia, Marokko, Mauritius, Mexiko, Neuseeland, Niederlande (für das Königreich in Europa), Norwegen, Pakistan, Peru, Schweden, Schweiz, Senegal, Singapur, Slowakei, Sri Lanka, Südafrika, Thailand, Trinidad und Tobago, Tschechische Republik, Tunesien, Türkei, Ungarn, Venezuela, Vereinigte Staaten, Vereinigtes Königreich.

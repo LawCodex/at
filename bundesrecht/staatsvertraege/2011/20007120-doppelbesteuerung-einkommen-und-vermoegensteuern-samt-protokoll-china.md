@@ -798,7 +798,9 @@ ZU URKUND DESSEN, haben die hiezu gehörig Bevollmächtigten dieses Abkommen unt
 
 GESCHEHEN zu Hongkong, am 25. Mai 2010, in zweifacher Ausfertigung in englischer Sprache.
 
-### PROTOKOLL
+**PROTOKOLL**
+
+### Anl. 1
 
 Im Zeitpunkt der Unterzeichnung des Abkommens zwischen der Regierung der Sonderverwaltungsregion Hongkong der Volksrepublik China und der Regierung der Republik Österreich zur Vermeidung der Doppelbesteuerung und der Verhinderung der Steuerumgehung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (dem „Abkommen“) sind die zwei Regierungen über folgende Bestimmungen übereingekommen, die einen integrierenden Bestandteil dieses Abkommens bilden.
 

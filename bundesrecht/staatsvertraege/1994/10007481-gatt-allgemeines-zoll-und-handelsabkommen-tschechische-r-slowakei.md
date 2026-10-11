@@ -41,7 +41,9 @@ SIND durch ihre Vertreter wie folgt übereingekommen:
 
 ## TEIL I
 
-### Allgemeine Bestimmungen
+**Allgemeine Bestimmungen**
+
+### Art. 1
 
 1\. Die Tschechische Republik wird, sobald dieses Protokoll gemäß Abs. 7 in Kraft tritt, zu einer Vertragspartei des Allgemeinen Abkommens, im Sinne des Artikels XXXII, wobei das Datum des Inkrafttretens der Rechte und Verpflichtungen der Tschechischen Republik der 1. Jänner 1993 ist, und wird gegenüber den Vertragsparteien vorläufig und nach Maßgabe dieses Protokolls anwenden:
 

@@ -43,7 +43,9 @@ sind die Republik Österreich und die Internationale Kommission zum Schutz der D
 
 ## Artikel 1
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens bedeutet:
 
@@ -67,7 +69,9 @@ i) ,,Regierung” die Bundesregierung der Republik Österreich.
 
 ## Artikel 2
 
-### Rechtspersönlichkeit
+**Rechtspersönlichkeit**
+
+### Art. 2
 
 Die Republik Österreich anerkennt die durch Artikel 10 der Anlage IV zum Donauschutzübereinkommen geschaffene internationale Rechtspersönlichkeit der Kommission sowie ihre Rechtsfähigkeit in Österreich, insbesondere ihre Fähigkeit:
 
@@ -81,7 +85,9 @@ d) andere Handlungen zu setzen, die für ihre Zwecke und Aufgaben notwendig oder
 
 ## Artikel 3
 
-### Amtssitz
+**Amtssitz**
+
+### Art. 3
 
 (1) Der Amtssitz der Kommission wird in Wien errichtet, wobei die Republik Österreich der Kommission geeignete und angemessene Räumlichkeiten zur Verfügung stellt. Er kann von dort nur über Beschluss der Kommission verlegt werden. Eine zeitweilige Verlegung des Amtssitzes an einen anderen Ort gilt nicht als Verlegung des ständigen Amtssitzes.
 
@@ -91,7 +97,9 @@ d) andere Handlungen zu setzen, die für ihre Zwecke und Aufgaben notwendig oder
 
 ## Artikel 4
 
-### Unverletzlichkeit des Amtssitzes
+**Unverletzlichkeit des Amtssitzes**
+
+### Art. 4
 
 (1) Der Amtssitz der Kommission ist unverletzlich. Kein Organ der Republik Österreich noch sonst irgendeine in der Republik Österreich Hoheitsrechte ausübende Person darf, außer mit Zustimmung des Exekutivsekretärs und unter Einhaltung der von ihm festgelegten Bedingungen, den Amtssitz betreten und dort Amtshandlungen setzen. Jedoch kann bei Feuer oder einer anderen Katastrophe, wenn sofortige Schutzmaßnahmen erforderlich sind, die Zustimmung des Exekutivsekretärs vermutet werden.
 
@@ -99,7 +107,9 @@ d) andere Handlungen zu setzen, die für ihre Zwecke und Aufgaben notwendig oder
 
 ## Artikel 5
 
-### Dateneinrichtungen und Archive
+**Dateneinrichtungen und Archive**
+
+### Art. 5
 
 (1) Für den Fall, dass die Kommission Forschungs-, Dokumentations- und andere technische Einrichtungen jeder Art errichtet und betreibt, unterliegen diese Einrichtungen den entsprechenden Sicherheitsvorkehrungen, die für Einrichtungen, durch welche Gefahren für Gesundheit und Sicherheit oder nachteilige Auswirkungen auf Eigentum entstehen können, einvernehmlich mit den zuständigen österreichischen Behörden festzulegen sind.
 
@@ -109,7 +119,9 @@ d) andere Handlungen zu setzen, die für ihre Zwecke und Aufgaben notwendig oder
 
 ## Artikel 6
 
-### Befreiung von Gerichtsbarkeit und anderen Maßnahmen
+**Befreiung von Gerichtsbarkeit und anderen Maßnahmen**
+
+### Art. 6
 
 (1) Die Kommission genießt Immunität von der Jurisdiktion der Gerichte und anderer zuständigen Behörden sowie von Vollstreckung mit Ausnahme folgender Fälle:
 
@@ -125,19 +137,25 @@ c) im Fall einer durch eine behördliche oder gerichtliche Entscheidung angeordn
 
 ## Artikel 7
 
-### Schutz des Amtssitzbereiches
+**Schutz des Amtssitzbereiches**
+
+### Art. 7
 
 Die zuständigen österreichischen Behörden werden entsprechende Vorsorge treffen, um zu gewährleisten, dass die Ruhe des Amtssitzes nicht durch Personen oder Personengruppen gestört wird, die ihn ohne Erlaubnis zu betreten versuchen.
 
 ## Artikel 8
 
-### Öffentliche Leistungen im Amtssitzbereich
+**Öffentliche Leistungen im Amtssitzbereich**
+
+### Art. 8
 
 Die Republik Österreich trifft entsprechende Maßnahmen, um die Versorgung des Amtssitzes mit den notwendigen öffentlichen Leistungen zu angemessenen Bedingungen zu gewährleisten.
 
 ## Artikel 9
 
-### Nachrichtenverkehr
+**Nachrichtenverkehr**
+
+### Art. 9
 
 (1) Die Republik Österreich trägt dafür Sorge, dass die Kommission in der Lage ist, Mitteilungen in Verbindung mit ihren amtlichen Tätigkeiten, auf welchem Wege und in welcher Form sie auch immer übermittelt werden, ohne Zensur oder andere Eingriffe zu versenden und zu empfangen.
 
@@ -145,7 +163,9 @@ Die Republik Österreich trifft entsprechende Maßnahmen, um die Versorgung des 
 
 ## Artikel 10
 
-### Veröffentlichungen
+**Veröffentlichungen**
+
+### Art. 10
 
 (1) Die Regierung anerkennt das Recht der Kommission, zur Erfüllung ihrer Zwecke innerhalb der Republik Österreich ungehindert Veröffentlichungen durch Druckwerke und Rundfunk und sonstige Massenmedien vorzunehmen.
 
@@ -153,7 +173,9 @@ Die Republik Österreich trifft entsprechende Maßnahmen, um die Versorgung des 
 
 ## Artikel 11
 
-### Befreiung von Steuern und Zöllen
+**Befreiung von Steuern und Zöllen**
+
+### Art. 11
 
 (1) Die Kommission und ihr Eigentum sind von allen Formen der Besteuerung befreit.
 
@@ -171,7 +193,9 @@ Die Republik Österreich trifft entsprechende Maßnahmen, um die Versorgung des 
 
 ## Artikel 12
 
-### Finanzeinrichtungen
+**Finanzeinrichtungen**
+
+### Art. 12
 
 Die Republik Österreich trägt dafür Sorge, dass die Kommission in der Lage ist:
 
@@ -183,7 +207,9 @@ c) ihre Einlagen, Wertpapiere und Währungsguthaben nach, aus oder in der Republ
 
 ## Artikel 13
 
-### Sozialversicherung
+**Sozialversicherung**
+
+### Art. 13
 
 (1) Die Kommission und die Angestellten der Kommission sind von allen Pflichtbeiträgen an die Sozialversicherungseinrichtungen der Republik Österreich befreit.
 
@@ -201,7 +227,9 @@ c) ihre Einlagen, Wertpapiere und Währungsguthaben nach, aus oder in der Republ
 
 ## Artikel 14
 
-### Durchreise und Aufenthalt
+**Durchreise und Aufenthalt**
+
+### Art. 14
 
 (1) Die Republik Österreich trifft Vorsorge dafür, dass den unten angeführten Personen die Einreise nach und der Aufenthalt in der Republik Österreich ermöglicht wird, dass sie die Republik Österreich ohne Probleme verlassen und unbehindert vom oder zum Amtssitz reisen können und dass bei diesen Reisen der notwendige Schutz gewährleistet wird:
 
@@ -221,7 +249,9 @@ d) die Angestellten der Kommission, ihre Ehepartner und die im gemeinsamen Haush
 
 ## Artikel 15
 
-### Ständige Vertretungen
+**Ständige Vertretungen**
+
+### Art. 15
 
 (1) Ständige Vertretungen, die bei der Kommission in Wien beglaubigt sind, genießen die gleichen Privilegien und Immunitäten, wie sie diplomatischen Vertretungsbehörden in der Republik Österreich eingeräumt werden.
 
@@ -239,7 +269,9 @@ d) die Angestellten der Kommission, ihre Ehepartner und die im gemeinsamen Haush
 
 ## Artikel 16
 
-### Angestellte der Kommission
+**Angestellte der Kommission**
+
+### Art. 16
 
 (1) Die Angestellten der Kommission genießen in und gegenüber der Republik Österreich folgende Privilegien und Immunitäten:
 
@@ -271,13 +303,17 @@ ii) alle vier Jahre ein Kraftfahrzeug;
 
 ## Artikel 17
 
-### Der Exekutivsekretär der Kommission
+**Der Exekutivsekretär der Kommission**
+
+### Art. 17
 
 Neben den in Artikel 16 genannten Privilegien und Immunitäten genießt der Exekutivsekretär der Kommission, sofern er nicht österreichischer Staatsbürger ist oder seinen ständigen Wohnsitz in der Republik Österreich hat, die gleichen Privilegien und Immunitäten, Befreiungen und Erleichterungen, wie sie auch den Leitern bzw. Mitgliedern vergleichbaren Ranges von diplomatischen Vertretungen eingeräumt werden.
 
 ## Artikel 18
 
-### Vertreter der Vertragsparteien und der Beobachterstaaten
+**Vertreter der Vertragsparteien und der Beobachterstaaten**
+
+### Art. 18
 
 (1) Vertreter der Vertragsparteien und der Beobachterstaaten genießen gegenüber der Republik Österreich die folgenden Privilegien und Immunitäten:
 
@@ -293,7 +329,9 @@ d) den gleichen Schutz und die gleichen Repatriierungsmöglichkeiten, wie sie Mi
 
 ## Artikel 19
 
-### Notifikation von Anstellungen, Identitätsausweise
+**Notifikation von Anstellungen, Identitätsausweise**
+
+### Art. 19
 
 (1) Die Kommission übermittelt den zuständigen österreichischen Behörden eine Liste ihrer Angestellten und revidiert diese nach Bedarf von Zeit zu Zeit.
 
@@ -301,13 +339,17 @@ d) den gleichen Schutz und die gleichen Repatriierungsmöglichkeiten, wie sie Mi
 
 ## Artikel 20
 
-### Österreichische Staatsbürger und Personen mit ständigem Wohnsitz in der Republik Österreich
+**Österreichische Staatsbürger und Personen mit ständigem Wohnsitz in der Republik Österreich**
+
+### Art. 20
 
 Unbeschadet der Bestimmungen des Artikel 17 genießen Angestellte der Kommission und Staatenvertreter, die österreichische Staatsbürger sind oder ihren ständigen Wohnsitz in Österreich haben, nur die in Artikel 13, in Artikel 16 Absatz 1 lit. a, b, c und d sowie in Artikel 18 Absatz 1 lit. a, b und c angeführten Privilegien und Immunitäten.
 
 ## Artikel 21
 
-### Zweck der Privilegien und Immunitäten
+**Zweck der Privilegien und Immunitäten**
+
+### Art. 21
 
 (1) Die in diesem Abkommen gewährten Privilegien und Immunitäten dienen nicht dazu, den Angestellten der Kommission persönliche Vorteile zu verschaffen. Sie werden lediglich gewährt, um damit der Kommission zu allen Zeiten die ungestörte Ausübung ihrer amtlichen Tätigkeiten zu ermöglichen und um sicherzustellen, dass die Personen, denen sie eingeräumt werden, vollkommen unabhängig sind.
 
@@ -315,7 +357,9 @@ Unbeschadet der Bestimmungen des Artikel 17 genießen Angestellte der Kommission
 
 ## Artikel 22
 
-### Streitbeilegung
+**Streitbeilegung**
+
+### Art. 22
 
 (1) Alle Meinungsverschiedenheiten zwischen der Republik Österreich und der Kommission über die Auslegung oder Anwendung dieses Abkommens oder über irgendeine andere Frage hinsichtlich des Amtssitzes oder des Verhältnisses zwischen der Kommission und der Republik Österreich werden auf dem Verhandlungswege zwischen den beiden Vertragsparteien beigelegt.
 
@@ -323,13 +367,17 @@ Unbeschadet der Bestimmungen des Artikel 17 genießen Angestellte der Kommission
 
 ## Artikel 23
 
-### In-Kraft-Treten
+**In-Kraft-Treten**
+
+### Art. 23
 
 Dieses Abkommen tritt am ersten Tag des zweiten Monats in Kraft, der dem Tag der Mitteilung der Republik Österreich an die Kommission folgt, dass das Verfahren für das In-Kraft-Treten des Abkommens abgeschlossen ist.
 
 ## Artikel 24
 
-### Dauer des Abkommens
+**Dauer des Abkommens**
+
+### Art. 24
 
 Dieses Abkommen tritt nach sechs Monaten außer Kraft:
 

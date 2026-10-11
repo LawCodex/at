@@ -31,7 +31,9 @@ Sind wie folgt übereingekommen:
 
 ## ARTIKEL 1
 
-### BEGRIFFSBESTIMMUNGEN
+**BEGRIFFSBESTIMMUNGEN**
+
+### Art. 1
 
 Im Sinne dieses Abkommens:
 
@@ -45,7 +47,9 @@ Im Sinne dieses Abkommens:
 
 ## ARTIKEL 2
 
-### GLEICHWERTIGKEIT VON KLASSIFIZIERUNGSSTUFEN
+**GLEICHWERTIGKEIT VON KLASSIFIZIERUNGSSTUFEN**
+
+### Art. 2
 
 Die folgenden Klassifizierungsstufen sind gleichwertig:
 
@@ -58,13 +62,17 @@ Die folgenden Klassifizierungsstufen sind gleichwertig:
 
 ## ARTIKEL 3
 
-### ZUSTÄNDIGE STAATLICHE BEHÖRDEN UND STELLEN
+**ZUSTÄNDIGE STAATLICHE BEHÖRDEN UND STELLEN**
+
+### Art. 3
 
 Die Parteien teilen einander auf diplomatischem Wege die für die Durchführung dieses Abkommens zuständigen staatlichen Behörden und Stellen mit.
 
 ## ARTIKEL 4
 
-### GRUNDSÄTZE DES SCHUTZES KLASSIFIZIERTER INFORMATIONEN
+**GRUNDSÄTZE DES SCHUTZES KLASSIFIZIERTER INFORMATIONEN**
+
+### Art. 4
 
 (1) Die Parteien treffen gemäß diesem Abkommen und dem anwendbaren innerstaatlichen Recht alle geeigneten Maßnahmen, um den Schutz der freigegebenen klassifizierten Informationen zu gewährleisten, und stellen die erforderliche Kontrolle dieses Schutzes sicher.
 
@@ -80,7 +88,9 @@ Die Parteien teilen einander auf diplomatischem Wege die für die Durchführung 
 
 ## ARTIKEL 5
 
-### ZUGANG ZU KLASSIFIZIERTEN INFORMATIONEN, SICHERHEITSUNBEDENKLICHKEITSBESCHEINIGUNG FÜR PERSONEN
+**ZUGANG ZU KLASSIFIZIERTEN INFORMATIONEN, SICHERHEITSUNBEDENKLICHKEITSBESCHEINIGUNG FÜR PERSONEN**
+
+### Art. 5
 
 (1) Der Zugang zu klassifizierten Informationen ist auf die gemäß dem anwendbaren innerstaatlichen Recht ordnungsgemäß befugten Personen zu beschränken.
 
@@ -92,7 +102,9 @@ Die Parteien teilen einander auf diplomatischem Wege die für die Durchführung 
 
 ## ARTIKEL 6
 
-### KLASSIFIZIERTE VERTRÄGE
+**KLASSIFIZIERTE VERTRÄGE**
+
+### Art. 6
 
 (1) Ein „klassifizierter Vertrag“ ist ein Vertrag zwischen einem Auftraggeber aus dem Staat der einen Partei und einem Auftragnehmer aus dem Staat der anderen Partei, dessen Erfüllung den Zugang zu klassifizierten Informationen oder deren Herstellung voraussetzt.
 
@@ -108,13 +120,17 @@ Die Parteien teilen einander auf diplomatischem Wege die für die Durchführung 
 
 ## ARTIKEL 7
 
-### ÜBERMITTLUNG
+**ÜBERMITTLUNG**
+
+### Art. 7
 
 Klassifizierte Informationen werden auf diplomatischem Wege oder auf andere zwischen den zuständigen staatlichen Behörden oder Stellen vereinbarte, gegen unbefugte Preisgabe, missbräuchliche Verwendung und Verlust gesicherte Weise übermittelt. Der Empfang klassifizierter Informationen wird schriftlich bestätigt.
 
 ## ARTIKEL 8
 
-### VERVIELFÄLTIGUNG UND ÜBERSETZUNG
+**VERVIELFÄLTIGUNG UND ÜBERSETZUNG**
+
+### Art. 8
 
 (1) Kopien und Übersetzungen sind wie Originale zu schützen.
 
@@ -124,13 +140,17 @@ Klassifizierte Informationen werden auf diplomatischem Wege oder auf andere zwis
 
 ## ARTIKEL 9
 
-### VERNICHTUNG
+**VERNICHTUNG**
+
+### Art. 9
 
 Klassifizierte Informationen werden gemäß dem anwendbaren innerstaatlichen Recht vernichtet. Klassifizierte Informationen der Klassifizierungsstufe STRENG GEHEIM oder ihrer Entsprechung gemäß Artikel 2 dürfen nicht vernichtet werden, sondern sind rückzuübermitteln.
 
 ## ARTIKEL 10
 
-### BESUCHE
+**BESUCHE**
+
+### Art. 10
 
 (1) Besuche, die Zugang zu klassifizierten Informationen erfordern, sind nur mit vorheriger Zustimmung der zuständigen staatlichen Behörde oder Stelle möglich. Die Erlaubnis wird nur solchen Personen erteilt, die gemäß dem anwendbaren innerstaatlichen Recht zum Zugang zu klassifizierten Informationen der jeweiligen Klassifizierungsstufe ordnungsgemäß befugt sind.
 
@@ -154,7 +174,9 @@ g. Datum des Antrags und Unterschrift der zuständigen staatlichen Behörde oder
 
 ## ARTIKEL 11
 
-### SICHERHEITSVERLETZUNG
+**SICHERHEITSVERLETZUNG**
+
+### Art. 11
 
 (1) Im Falle einer Sicherheitsverletzung, die zu unbefugter Preisgabe, zu missbräuchlicher Verwendung oder zum Verlust klassifizierter Informationen, die unter dieses Abkommen fallen, führt oder eines entsprechenden Verdachts, teilt die zuständige staatliche Behörde oder Stelle des Empfängers dies der zuständigen staatlichen Behörde oder Stelle des Herausgebers unverzüglich schriftlich mit.
 
@@ -164,13 +186,17 @@ g. Datum des Antrags und Unterschrift der zuständigen staatlichen Behörde oder
 
 ## ARTIKEL 12
 
-### KOSTEN
+**KOSTEN**
+
+### Art. 12
 
 Jede Partei trägt die Kosten, die ihr im Zuge der Durchführung dieses Abkommens entstehen.
 
 ## ARTIKEL 13
 
-### KOMMUNIKATION
+**KOMMUNIKATION**
+
+### Art. 13
 
 (1) Jegliche Kommunikation gemäß diesem Abkommen erfolgt auf Englisch, soweit nicht anders vereinbart.
 
@@ -180,13 +206,17 @@ Jede Partei trägt die Kosten, die ihr im Zuge der Durchführung dieses Abkommen
 
 ## ARTIKEL 14
 
-### BEILEGUNG VON STREITIGKEITEN
+**BEILEGUNG VON STREITIGKEITEN**
+
+### Art. 14
 
 Jegliche Streitigkeit über die Anwendung oder Auslegung dieses Abkommens wird im Wege direkter Gespräche zwischen den zuständigen staatlichen Behörden oder Stellen oder auf diplomatischem Wege beigelegt.
 
 ## ARTIKEL 15
 
-### SCHLUSSBESTIMMUNGEN
+**SCHLUSSBESTIMMUNGEN**
+
+### Art. 15
 
 (1) Dieses Abkommen wird auf unbestimmte Zeit geschlossen und tritt am ersten Tag des zweiten Monats nach dem Tag in Kraft, an dem die Parteien einander den Abschluss der für das Inkrafttreten des Abkommens erforderlichen innerstaatlichen Verfahren mitgeteilt haben.
 

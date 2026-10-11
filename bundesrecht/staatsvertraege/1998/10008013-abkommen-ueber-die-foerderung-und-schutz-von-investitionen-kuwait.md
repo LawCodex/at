@@ -33,7 +33,9 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-### Definitionen
+**Definitionen**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens und sofern aus dem Zusammenhang keine andere Definition erforderlich ist
 
@@ -91,7 +93,9 @@ f) die Erzeugung, Verwendung und der Verkauf von Produkten sowie sonstige wirtsc
 
 ## Artikel 2
 
-### Investitionsförderung
+**Investitionsförderung**
+
+### Art. 2
 
 1\. Jeder Vertragsstaat verpflichtet sich, Investitionen und damit verbundene Aktivitäten von Investoren des anderen Vertragsstaates auf seinem Gebiet gemäß den geltenden gesetzlichen Bestimmungen und sonstigen Regelungen zu fördern und zuzulassen.
 
@@ -107,7 +111,9 @@ f) die Erzeugung, Verwendung und der Verkauf von Produkten sowie sonstige wirtsc
 
 ## Artikel 3
 
-### Schutz von Investitionen
+**Schutz von Investitionen**
+
+### Art. 3
 
 1\. Investitionen und damit verbundene Aktivitäten der Investoren eines Vertragsstaates, die auf dem Gebiet des anderen Vertragsstaates zugelassen sind, genießen vollen Schutz und volle Sicherheit auf dem Gebiet des anderen Vertragsstaates in einer dem Völkerrecht und den Bestimmungen dieses Abkommens entsprechenden Art und Weise. Kein Vertragsstaat beeinträchtigt in irgendeiner Weise durch willkürliche oder diskriminierende Maßnahmen die Verwaltung, Instandhaltung und Nutzung, den Genuß von oder die Verfügung über Investitionen oder sonstige damit verbundene Aktivitäten.
 
@@ -125,7 +131,9 @@ f) die Erzeugung, Verwendung und der Verkauf von Produkten sowie sonstige wirtsc
 
 ## Artikel 4
 
-### Behandlung von Investitionen
+**Behandlung von Investitionen**
+
+### Art. 4
 
 1\. Jeder Vertragsstaat behandelt Investitionen, Erträge und damit verbundene Aktivitäten, die von Investoren des anderen Vertragsstaates in seinem Gebiet getätigt werden, jederzeit gerecht und angemessen. Diese Behandlung darf nicht weniger günstig sein, als jene, die der Staat in vergleichbaren Fällen Investitionen und damit verbundenen Aktivitäten seiner eigenen Investoren oder Investoren aus Drittländern, je nachdem, welche die günstigste Behandlung ist, zuteil werden läßt.
 
@@ -143,7 +151,9 @@ c) auf Grund von Regelungen zur Erleichterung des Grenzverkehrs.
 
 ## Artikel 5
 
-### Entschädigung für Schadensfälle oder Verluste
+**Entschädigung für Schadensfälle oder Verluste**
+
+### Art. 5
 
 1\. Investoren eines Vertragsstaates, deren Investitionen auf Grund eines Krieges oder anderer bewaffneter Konflikte, eines nationalen Notstandes, einer Revolte, Bürgerunruhen, eines Aufstandes oder auf Grund von Tumulten oder ähnlicher Ereignisse im Gebiet des anderen Vertragsstaates Schaden oder Verluste erleiden, erfahren hinsichtlich Rückerstattung, Schadloshaltung, Entschädigung oder anderer Regelungen seitens des anderen Vertragsstaates keine weniger günstige Behandlung als jene, die dieser Vertragsstaat seinen eigenen Investoren oder Investoren aus Drittländern, je nachdem, welche Behandlung die günstigste ist, zuteil werden läßt.
 
@@ -157,7 +167,9 @@ umgehend eine angemessene und wirksame Entschädigung für den Schaden oder Verl
 
 ## Artikel 6
 
-### Enteignung
+**Enteignung**
+
+### Art. 6
 
 1\. (a) Investitionen, die von Investoren eines Vertragsstaates auf dem Gebiet des anderen Vertragsstaates getätigt werden, werden von diesem nicht verstaatlicht, enteignet, entzogen und auch nicht direkten oder indirekten Maßnahmen unterworfen, die die gleiche Wirkung wie eine Verstaatlichung, Enteignung oder Besitzentziehung (im folgenden allgemein „Enteignung“ genannt) haben, es sei denn, dies geschieht im öffentlichen Interesse auf Grund von internen Notwendigkeiten dieses Vertragsstaates sowie gegen eine prompte, angemessene und wirksame Entschädigung und unter der Bedingung, daß derartige Maßnahmen in nicht diskriminierender Art und Weise und gemäß den allgemein anwendbaren Rechtsvorschriften umgesetzt werden.
 
@@ -175,7 +187,9 @@ umgehend eine angemessene und wirksame Entschädigung für den Schaden oder Verl
 
 ## Artikel 7
 
-### Transferzahlungen im Zusammenhang mit Investitionen
+**Transferzahlungen im Zusammenhang mit Investitionen**
+
+### Art. 7
 
 1\. Jeder Vertragsstaat gewährt Investoren des anderen Vertragsstaates das Recht, mit Investitionen im Zusammenhang stehende Zahlungen frei in sein Gebiet und ins Ausland zu transferieren. Das gilt auch für den Transfer von:
 
@@ -203,7 +217,9 @@ i) Zahlungen infolge der Beilegung von Streitigkeiten.
 
 ## Artikel 8
 
-### Eintrittsrecht
+**Eintrittsrecht**
+
+### Art. 8
 
 1\. Leistet ein Vertragsstaat oder eine von ihm benannte Institution, eine Gesellschaft oder ein anderes Unternehmen, das in einem Vertragsstaat errichtet oder konstituiert wurde, aber kein Investor ist (die „entschädigende Partei“), eine Zahlung auf Grund einer Sicherstellung oder Garantie für eine Investition im Gebiet des anderen Vertragsstaates (des „Aufnahmestaates“), oder erwirbt er infolge eines vollständigen oder teilweisen Verschuldens des Investors in anderer Form einen Teil oder alle Rechte und Ansprüche hinsichtlich einer solchen Investition, so anerkennt der Aufnahmestaat:
 
@@ -219,7 +235,9 @@ b) aller Zahlungen, die sie in Ausübung dieser Rechte und Ansprüche erhält, w
 
 ## Artikel 9
 
-### Beilegung von Streitigkeiten zwischen einem Vertragsstaat und einem Investor
+**Beilegung von Streitigkeiten zwischen einem Vertragsstaat und einem Investor**
+
+### Art. 9
 
 1\. Jede Streitigkeit zwischen einem Vertragsstaat und einem Investor des anderen Vertragsstaates über eine Investition des Letztgenannten auf dem Gebiet des Erstgenannten ist so weit wie möglich freundschaftlich beizulegen.
 
@@ -265,7 +283,9 @@ Informelle diplomatische Schritte, die lediglich darauf gerichtet sind, die Beil
 
 ## Artikel 10
 
-### Beilegung von Streitigkeiten zwischen den Vertragsstaaten
+**Beilegung von Streitigkeiten zwischen den Vertragsstaaten**
+
+### Art. 10
 
 1\. Streitigkeiten über die Auslegung oder Anwendung dieses Abkommens werden soweit wie möglich von den Vertragsstaaten durch Verhandlungen oder in anderer Form auf diplomatischem Weg beigelegt.
 
@@ -279,13 +299,17 @@ Informelle diplomatische Schritte, die lediglich darauf gerichtet sind, die Beil
 
 ## Artikel 11
 
-### Beziehungen zwischen den Vertragsstaaten
+**Beziehungen zwischen den Vertragsstaaten**
+
+### Art. 11
 
 Die Bestimmungen dieses Abkommens gelten unabhängig von den diplomatischen und konsularischen Beziehungen zwischen den Vertragsstaaten.
 
 ## Artikel 12
 
-### Wahrung der Rechte
+**Wahrung der Rechte**
+
+### Art. 12
 
 1\. Ist in den Gesetzen eines der beiden Vertragsstaaten oder in derzeitigen oder zukünftigen zusätzlich zu diesem Abkommen bestehenden völkerrechtlichen Verpflichtungen zwischen den Vertragsstaaten eine allgemeine oder spezielle Bestimmung enthalten, die für Investitionen oder damit verbundene Aktivitäten durch Investoren des anderen Vertragsstaates die Möglichkeit einer günstigeren Behandlung vorsieht als das vorliegende Abkommen, so ist anstelle dieses Abkommens die besagte Regelung, soweit sie für die Investition günstiger ist, anzuwenden.
 
@@ -293,19 +317,25 @@ Die Bestimmungen dieses Abkommens gelten unabhängig von den diplomatischen und 
 
 ## Artikel 13
 
-### Anwendung
+**Anwendung**
+
+### Art. 13
 
 Die Bestimmungen dieses Abkommens gelten für alle Investitionen, unabhängig davon, ob sie vor oder nach dem Datum des Inkrafttretens dieses Abkommens durch Investoren eines Vertragsstaates im Hoheitsgebiet des anderen getätigt wurden.
 
 ## Artikel 14
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 14
 
 Dieses Abkommen bedarf der Ratifikation und tritt am 60. Tag nach Austausch der Ratifikationsurkunden in Kraft.
 
 ## Artikel 15
 
-### Vertragsdauer und Kündigung
+**Vertragsdauer und Kündigung**
+
+### Art. 15
 
 1\. Das Abkommen bleibt für die Dauer von dreißig (30) Jahren in Kraft und danach jeweils für die Dauer eines ähnlich langen Zeitraums, sofern nicht ein Jahr vor Ablauf des ersten oder eines folgenden Zeitraums ein Vertragsstaat den anderen schriftlich von der Absicht in Kenntnis setzt, dieses Abkommen zu kündigen.
 

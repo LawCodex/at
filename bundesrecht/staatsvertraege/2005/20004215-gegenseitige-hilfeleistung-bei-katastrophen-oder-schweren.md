@@ -43,13 +43,17 @@ BGBl. I Nr. 2/2008 (1. BVRBG) (NR: GP XXIII RV 314 AB 370 S. 41. BR: 7799 AB 783
 
 ## Artikel 1
 
-### Gegenstand
+**Gegenstand**
+
+### Art. 1
 
 Dieses Abkommen regelt die Bedingungen für freiwillige Hilfeleistungen bei Katastrophen oder schweren Unglücksfällen, die auf Ersuchen auf diplomatischem Wege oder der in Artikel 3 Absatz 1 dieses Abkommens genannten Behörden der jeweils anderen Vertragspartei durch Einsätze von Hilfsmannschaften, von einzelnen zur Hilfeleistung entsandten Personen, von Material oder Informationen gewährt werden sollen.
 
 ## Artikel 2
 
-### Begriffsbestimmung
+**Begriffsbestimmung**
+
+### Art. 2
 
 In diesem Abkommen bedeutet der Ausdruck
 
@@ -83,7 +87,9 @@ eine oder mehrere Personen mit entsprechender Ausrüstung und Hilfsgütern, die 
 
 ## Artikel 3
 
-### Zuständigkeiten
+**Zuständigkeiten**
+
+### Art. 3
 
 (1) Unbeschadet des diplomatischen Weges sind die für die Stellung und die Entgegennahme von Hilfeersuchen sowie für die weiteren Formen der in diesem Abkommen vorgesehenen Zusammenarbeit zuständigen Behörden:
 
@@ -115,7 +121,9 @@ der Innenminister
 
 ## Artikel 5
 
-### Grenzübertritt und Aufenthalt
+**Grenzübertritt und Aufenthalt**
+
+### Art. 5
 
 (1) Um die für eine rasche Hilfeleistung nötige Effizienz zu gewährleisten, verpflichten sich die Vertragsparteien, die Grenzübertrittsformalitäten auf ein unbedingt nötiges Maß zu beschränken.
 
@@ -127,7 +135,9 @@ der Innenminister
 
 ## Artikel 6
 
-### Grenzübergang der Ausrüstung und der Hilfsgüter
+**Grenzübergang der Ausrüstung und der Hilfsgüter**
+
+### Art. 6
 
 (1) Die Vertragsparteien erleichtern die Ein- und Ausfuhr der Ausrüstung und der Hilfsgüter.
 
@@ -143,7 +153,9 @@ der Innenminister
 
 ## Artikel 7
 
-### Einsätze von Luftfahrzeugen
+**Einsätze von Luftfahrzeugen**
+
+### Art. 7
 
 (1) Luftfahrzeuge können nicht nur für die schnelle Heranführung der Hilfsmannschaften nach Artikel 4 Absatz 4 dieses Abkommens, sondern auch unmittelbar für andere Arten von Hilfeleistungen benutzt werden.
 
@@ -163,7 +175,9 @@ der Innenminister
 
 ## Artikel 8
 
-### Koordination und Gesamtleitung
+**Koordination und Gesamtleitung**
+
+### Art. 8
 
 (1) Die Koordination und Leitung der Rettungsarbeiten und Hilfe obliegt den Behörden des hilfeersuchenden Staates.
 
@@ -173,7 +187,9 @@ der Innenminister
 
 ## Artikel 9
 
-### Einsatzkosten
+**Einsatzkosten**
+
+### Art. 9
 
 (1) Der hilfeleistende Staat hat gegenüber dem hilfeersuchenden Staat keinen Anspruch auf Ersatz der Kosten der Hilfeleistung. Dies gilt auch für Kosten, die durch Verbrauch, Beschädigung oder Verlust der Ausrüstung entstehen.
 
@@ -185,7 +201,9 @@ der Innenminister
 
 ## Artikel 10
 
-### Schadenersatz und Entschädigung
+**Schadenersatz und Entschädigung**
+
+### Art. 10
 
 (1) Jede Vertragspartei verzichtet auf alle ihr gegen die andere Vertragspartei oder deren zur Hilfeleistung bestimmte Personen zustehenden Ansprüche auf Ersatz von
 
@@ -203,19 +221,25 @@ Dies gilt nicht, wenn der Schaden vorsätzlich oder grob fahrlässig verursacht 
 
 ## Artikel 11
 
-### Fernmeldeverbindungen
+**Fernmeldeverbindungen**
+
+### Art. 11
 
 Die in Artikel 3 Absatz 1 dieses Vertrages genannten Behörden werden alle notwendigen Maßnahmen treffen, um eine sichere Verbindung zwischen den Behörden und den Hilfsmannschaften am Einsatzort zu gewährleisten.
 
 ## Artikel 12
 
-### Beendigung der Hilfeleistung
+**Beendigung der Hilfeleistung**
+
+### Art. 12
 
 Die Hilfsmannschaften oder die einzelnen zur Hilfeleistung entsandten Personen müssen ihre Tätigkeit unverzüglich einstellen, wenn dies der hilfeersuchende Staat verlangt, ansonsten beenden sie ihre Tätigkeit nach ihrer Aufgabenerfüllung. Danach werden die Hilfsmannschaften und die einzelnen zur Hilfeleistung entsandten Personen unverzüglich das Gebiet des hilfeersuchenden Staates verlassen.
 
 ## Artikel 13
 
-### Weitere Formen der Zusammenarbeit
+**Weitere Formen der Zusammenarbeit**
+
+### Art. 13
 
 (1) Die Vertragsparteien arbeiten nach Maßgabe des innerstaatlichen Rechts zusammen, insbesondere:
 
@@ -233,19 +257,25 @@ Die Hilfsmannschaften oder die einzelnen zur Hilfeleistung entsandten Personen m
 
 ## Artikel 14
 
-### Beilegung von Meinungsverschiedenheiten
+**Beilegung von Meinungsverschiedenheiten**
+
+### Art. 14
 
 Meinungsverschiedenheiten über die Anwendung dieses Abkommens, die nicht unmittelbar durch die in Artikel 3 Absatz 1 dieses Abkommens genannten Behörden beigelegt werden können, werden von den Vertragsparteien auf diplomatischem Wege bereinigt.
 
 ## Artikel 15
 
-### Verhältnis dieses Abkommens zu anderen vertraglichen Regelungen
+**Verhältnis dieses Abkommens zu anderen vertraglichen Regelungen**
+
+### Art. 15
 
 Bestehende vertragliche Regelungen zwischen den Vertragsparteien werden durch dieses Abkommen nicht berührt.
 
 ## Artikel 16
 
-### Schlussbestimmungen
+**Schlussbestimmungen**
+
+### Art. 16
 
 (1) Dieses Abkommen wird auf unbestimmte Zeit geschlossen.
 

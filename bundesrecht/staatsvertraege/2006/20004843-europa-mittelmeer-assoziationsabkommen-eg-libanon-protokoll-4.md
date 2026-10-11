@@ -309,7 +309,9 @@ INHALTSÜBERSICHT
 
 ### ALLGEMEINES — ARTIKEL 1
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 1
 
 Für die Zwecke dieses Protokolls gelten folgende Begriffsbestimmungen:
 
@@ -343,7 +345,9 @@ m) „Gebiete“ sind die Gebiete einschließlich der Küstenmeere.
 
 ### BESTIMMUNG DES BEGRIFFS „ERZEUGNISSE MIT URSPRUNG IN“ ODER „URSPRUNGSERZEUGNISSE“ — ARTIKEL 2
 
-#### Allgemeines
+**Allgemeines**
+
+#### Art. 2
 
 (1) Für die Zwecke dieses Abkommens gelten als Ursprungserzeugnisse der Gemeinschaft:
 
@@ -359,7 +363,9 @@ b) Erzeugnisse, die in Libanon unter Verwendung von Vormaterialien hergestellt w
 
 ## ARTIKEL 3
 
-#### Bilaterale Ursprungskumulierung
+**Bilaterale Ursprungskumulierung**
+
+#### Art. 3
 
 (1) Vormaterialien, die Ursprungserzeugnisse der Gemeinschaft sind, gelten als Vormaterialien mit Ursprung in Libanon, wenn sie dort bei der Herstellung eines Erzeugnisses verwendet worden sind. Diese Vormaterialien brauchen nicht in ausreichendem Maße be- oder verarbeitet worden zu sein, sofern die vorgenommene Be- oder Verarbeitung über die in Artikel 7 Absatz 1 genannte Behandlung hinausgeht.
 
@@ -367,7 +373,9 @@ b) Erzeugnisse, die in Libanon unter Verwendung von Vormaterialien hergestellt w
 
 ## ARTIKEL 4
 
-#### Diagonale Ursprungskumulierung
+**Diagonale Ursprungskumulierung**
+
+#### Art. 4
 
 (1) Vormaterialien, die Ursprungserzeugnisse eines der Länder, die zu den Unterzeichnern eines Europa-Mittelmeer-Assoziationsabkommens gehören, im Sinne der Abkommen zwischen der Gemeinschaft und Libanon und diesen Ländern sind, gelten vorbehaltlich der Absätze 2 und 3 als Ursprungserzeugnisse der Gemeinschaft bzw. Libanons, wenn sie dort bei der Herstellung eines Erzeugnisses verwendet worden sind. Diese Vormaterialien brauchen nicht in ausreichendem Maße be- oder verarbeitet worden zu sein.
 
@@ -381,7 +389,9 @@ Dieser Absatz gilt nicht für die in Anhang III aufgeführten Vormaterialien mit
 
 ## ARTIKEL 5
 
-#### Vollständig gewonnene oder hergestellte Erzeugnisse
+**Vollständig gewonnene oder hergestellte Erzeugnisse**
+
+#### Art. 5
 
 (1) Als in der Gemeinschaft bzw. in Libanon vollständig gewonnen oder hergestellt gelten:
 
@@ -421,7 +431,9 @@ e) deren Besatzung zu mindestens 75 v.H. aus Staatsangehörigen der Mitgliedstaa
 
 ## ARTIKEL 6
 
-#### In ausreichendem Maße be- oder verarbeitete Erzeugnisse
+**In ausreichendem Maße be- oder verarbeitete Erzeugnisse**
+
+#### Art. 6
 
 (1) Für die Zwecke des Artikels 2 gelten Erzeugnisse, die nicht vollständig gewonnen oder hergestellt worden sind, als in ausreichendem Maße be- oder verarbeitet, wenn die Bedingungen der Liste in Anhang II erfüllt sind.
 
@@ -443,7 +455,9 @@ Dieser Absatz gilt nicht für Erzeugnisse der Kapitel 50 bis 63 des Harmonisiert
 
 ## ARTIKEL 7
 
-#### Nicht ausreichende Be- oder Verarbeitungen
+**Nicht ausreichende Be- oder Verarbeitungen**
+
+#### Art. 7
 
 (1) Unbeschadet des Absatzes 2 gelten folgende Be- oder Verarbeitungen ohne Rücksicht darauf, ob die Bedingungen des Artikels 6 erfüllt sind, als nicht ausreichend, um die Ursprungseigenschaft zu verleihen:
 
@@ -469,7 +483,9 @@ h) Schlachten von Tieren.
 
 ## ARTIKEL 8
 
-#### Maßgebende Einheit
+**Maßgebende Einheit**
+
+#### Art. 8
 
 (1) Maßgebende Einheit für die Zwecke dieses Protokolls ist die für die Einreihung in die Position des Harmonisierten Systems maßgebende Einheit jedes Erzeugnisses.
 
@@ -483,19 +499,25 @@ b) dass bei einer Sendung mit gleichen Erzeugnissen, die in dieselbe Position de
 
 ## ARTIKEL 9
 
-#### Zubehör, Ersatzteile und Werkzeuge
+**Zubehör, Ersatzteile und Werkzeuge**
+
+#### Art. 9
 
 Zubehör, Ersatzteile und Werkzeuge, die mit Geräten, Maschinen oder Fahrzeugen geliefert werden, werden mit diesen zusammen als Einheit angesehen, wenn sie als Bestandteil der Normalausrüstung in deren Preis enthalten sind oder nicht gesondert in Rechnung gestellt werden.
 
 ## ARTIKEL 10
 
-#### Warenzusammenstellungen
+**Warenzusammenstellungen**
+
+#### Art. 10
 
 Warenzusammenstellungen im Sinne der Allgemeinen Vorschrift 3 zum Harmonisierten System gelten als Ursprungserzeugnisse, wenn alle Bestandteile Ursprungserzeugnisse sind. Jedoch gilt eine Warenzusammenstellung, die aus Bestandteilen mit Ursprungseigenschaft und Bestandteilen ohne Ursprungseigenschaft besteht, in ihrer Gesamtheit als Ursprungs-erzeugnis, sofern der Wert der Bestandteile ohne Ursprungseigenschaft 15 v.H. des Ab-Werk-Preises der Warenzusammenstellung nicht überschreitet.
 
 ## ARTIKEL 11
 
-#### Neutrale Elemente
+**Neutrale Elemente**
+
+#### Art. 11
 
 Bei der Feststellung, ob ein Erzeugnis Ursprungserzeugnis ist, braucht der Ursprung folgender gegebenenfalls bei seiner Herstellung verwendeten Erzeugnisse nicht berücksichtigt zu werden:
 
@@ -511,7 +533,9 @@ d) Erzeugnisse, die nicht in die endgültige Zusammensetzung des Erzeugnisses ei
 
 ### TERRITORIALE AUFLAGEN — ARTIKEL 12
 
-#### Territorialitätsprinzip
+**Territorialitätsprinzip**
+
+#### Art. 12
 
 (1) Vorbehaltlich des Artikels 4 müssen die in Titel II genannten Bedingungen für den Erwerb der Ursprungseigenschaft ohne Unterbrechung in der Gemeinschaft oder in Libanon erfüllt werden.
 
@@ -523,7 +547,9 @@ b) dass diese Waren während ihres Aufenthalts in dem betreffenden Drittland ode
 
 ## ARTIKEL 13
 
-#### Unmittelbare Beförderung
+**Unmittelbare Beförderung**
+
+#### Art. 13
 
 (1) Die im Rahmen dieses Abkommens vorgesehene Präferenzbehandlung gilt nur für den Voraussetzungen dieses Protokolls entsprechende Erzeugnisse, die unmittelbar zwischen der Gemeinschaft und Libanon oder im Durchgangsverkehr durch die Gebiete der in Artikel 4 genannten anderen Länder befördert werden. Jedoch können Erzeugnisse, die eine einzige Sendung bilden, durch andere Gebiete befördert werden, gegebenenfalls auch mit einer Umladung oder vorübergehenden Einlagerung in diesen Gebieten, sofern sie unter der zollamtlichen Überwachung der Behörden des Durchfuhr- oder Einlagerungslandes bleiben und dort nur ent- und wiederverladen werden oder eine auf die Erhaltung ihres Zustands gerichtete Behandlung erfahren.
 
@@ -545,7 +571,9 @@ c) falls diese Papiere nicht vorgelegt werden können, alle sonstigen beweiskrä
 
 ## ARTIKEL 14
 
-#### Ausstellungen
+**Ausstellungen**
+
+#### Art. 14
 
 (1) Werden Ursprungserzeugnisse zu einer Ausstellung in ein anderes Drittland als eines der in Artikel 4 genannten Länder versandt und nach der Ausstellung zur Einfuhr in die Gemeinschaft oder nach Libanon verkauft, so erhalten sie bei der Einfuhr die Begünstigungen dieses Abkommens, sofern den Zollbehörden glaubhaft dargelegt wird,
 
@@ -565,7 +593,9 @@ d) dass die Erzeugnisse ab dem Zeitpunkt, zu dem sie zur Ausstellung versandt wu
 
 ### ZOLLRÜCKVERGÜTUNG UND ZOLLBEFREIUNG — ARTIKEL 15
 
-#### Verbot der Zollrückvergütung und der Zollbefreiung
+**Verbot der Zollrückvergütung und der Zollbefreiung**
+
+#### Art. 15
 
 (1) Vormaterialien ohne Ursprungseigenschaft, die in der Gemeinschaft, in Libanon oder in einem der in Artikel 4 genannten anderen Länder bei der Herstellung von Ursprungserzeugnissen verwendet worden sind, für die nach Maßgabe des Titels V ein Ursprungs-nachweis ausgestellt oder ausgefertigt wird, dürfen in der Gemeinschaft oder in Libanon nicht Gegenstand einer wie auch immer gearteten Zollrückvergütung oder Zollbefreiung sein.
 
@@ -591,7 +621,9 @@ Vor Ablauf der in Artikel 6 dieses Abkommens genannten Übergangszeit wird diese
 
 ### NACHWEIS DER URSPRUNGSEIGENSCHAFT — ARTIKEL 16
 
-#### Allgemeines
+**Allgemeines**
+
+#### Art. 16
 
 (1) Ursprungserzeugnisse der Gemeinschaft erhalten bei der Einfuhr nach Libanon und Ursprungserzeugnisse Libanons erhalten bei der Einfuhr in die Gemeinschaft die Begünstigungen dieses Abkommens, sofern
 
@@ -603,7 +635,9 @@ b) in den in Artikel 21 Absatz 1 genannten Fällen vom Ausführer eine Erklärun
 
 ## ARTIKEL 17
 
-#### Verfahren für die Ausstellung der Warenverkehrsbescheinigung EUR.1
+**Verfahren für die Ausstellung der Warenverkehrsbescheinigung EUR.1**
+
+#### Art. 17
 
 (1) Die Warenverkehrsbescheinigung EUR.1 wird von den Zollbehörden des Ausfuhrlandes auf schriftlichen Antrag ausgestellt, der vom Ausführer oder unter der Verantwortung des Ausführers von seinem bevollmächtigten Vertreter gestellt worden ist.
 
@@ -621,7 +655,9 @@ b) in den in Artikel 21 Absatz 1 genannten Fällen vom Ausführer eine Erklärun
 
 ## ARTIKEL 18
 
-#### Nachträglich ausgestellte Warenverkehrsbescheinigung EUR.1
+**Nachträglich ausgestellte Warenverkehrsbescheinigung EUR.1**
+
+#### Art. 18
 
 (1) Abweichend von Artikel 17 Absatz 7 kann die Warenverkehrsbescheinigung EUR.1 ausnahmsweise nach der Ausfuhr der Erzeugnisse, auf die sie sich bezieht, ausgestellt werden,
 
@@ -651,7 +687,9 @@ b) wenn den Zollbehörden glaubhaft dargelegt wird, dass eine Warenverkehrsbesch
 
 ## ARTIKEL 19
 
-#### Ausstellung eines Duplikats der Warenverkehrsbescheinigung EUR.1
+**Ausstellung eines Duplikats der Warenverkehrsbescheinigung EUR.1**
+
+#### Art. 19
 
 (1) Bei Diebstahl, Verlust oder Vernichtung einer Warenverkehrsbescheinigung EUR.1 kann der Ausführer bei den Zollbehörden, die die Bescheinigung ausgestellt haben, ein Duplikat beantragen, das anhand der in ihrem Besitz befindlichen Ausfuhrpapiere ausgefertigt wird.
 
@@ -667,13 +705,17 @@ b) wenn den Zollbehörden glaubhaft dargelegt wird, dass eine Warenverkehrsbesch
 
 ## ARTIKEL 20
 
-#### Ausstellung der Warenverkehrsbescheinigung EUR.1 auf der Grundlage eines vorher ausgestellten Ursprungsnachweises
+**Ausstellung der Warenverkehrsbescheinigung EUR.1 auf der Grundlage eines vorher ausgestellten Ursprungsnachweises**
+
+#### Art. 20
 
 Werden Ursprungserzeugnisse in der Gemeinschaft oder in Libanon der Überwachung einer Zollstelle unterstellt, so kann der ursprüngliche Ursprungsnachweis im Hinblick auf den Versand sämtlicher oder eines Teils dieser Erzeugnisse zu anderen Zollstellen in der Gemeinschaft oder in Libanon durch eine oder mehrere Warenverkehrsbescheinigungen EUR.1 ersetzt werden. Diese Warenverkehrsbescheinigungen EUR.1 werden von der Zollstelle ausgestellt, unter deren Überwachung sich die Erzeugnisse befinden.
 
 ## ARTIKEL 21
 
-#### Voraussetzungen für die Ausfertigung einer Erklärung auf der Rechnung
+**Voraussetzungen für die Ausfertigung einer Erklärung auf der Rechnung**
+
+#### Art. 21
 
 (1) Die in Artikel 16 Absatz 1 Buchstabe b genannte Erklärung auf der Rechnung kann ausgefertigt werden
 
@@ -693,7 +735,9 @@ b) von jedem Ausführer für Sendungen von einem oder mehreren Packstücken, die
 
 ## ARTIKEL 22
 
-#### Ermächtigter Ausführer
+**Ermächtigter Ausführer**
+
+#### Art. 22
 
 (1) Die Zollbehörden des Ausfuhrlandes können einen Ausführer (im Folgenden „ermächtigter Ausführer“ genannt), der häufig unter das Abkommen fallende Erzeugnisse ausführt, dazu ermächtigen, ohne Rücksicht auf den Wert dieser Erzeugnisse Erklärungen auf der Rechnung auszufertigen. Ein Ausführer, der eine solche Bewilligung beantragt, muss jede von den Zollbehörden für erforderlich gehaltene Gewähr für die Kontrolle der Ursprungseigenschaft der Erzeugnisse und der Erfüllung der übrigen Voraussetzungen dieses Protokolls bieten.
 
@@ -707,7 +751,9 @@ b) von jedem Ausführer für Sendungen von einem oder mehreren Packstücken, die
 
 ## ARTIKEL 23
 
-#### Geltungsdauer der Ursprungsnachweise
+**Geltungsdauer der Ursprungsnachweise**
+
+#### Art. 23
 
 (1) Die Ursprungsnachweise bleiben vier Monate nach dem Datum der Ausstellung im Ausfuhrland gültig und sind innerhalb dieser Frist den Zollbehörden des Einfuhrlandes vorzulegen.
 
@@ -717,19 +763,25 @@ b) von jedem Ausführer für Sendungen von einem oder mehreren Packstücken, die
 
 ## ARTIKEL 24
 
-#### Vorlage der Ursprungsnachweise
+**Vorlage der Ursprungsnachweise**
+
+#### Art. 24
 
 Die Ursprungsnachweise sind den Zollbehörden des Einfuhrlandes nach den dort geltenden Verfahrensvorschriften vorzulegen. Diese Behörden können eine Übersetzung des Ursprungsnachweises verlangen; sie können außerdem verlangen, dass die Einfuhrzollanmeldung durch eine Erklärung des Einführers ergänzt wird, aus der hervorgeht, dass die Erzeugnisse die Voraussetzungen für die Anwendung dieses Abkommens erfüllen.
 
 ## ARTIKEL 25
 
-#### Einfuhr in Teilsendungen
+**Einfuhr in Teilsendungen**
+
+#### Art. 25
 
 Werden auf Antrag des Einführers und unter den von den Zollbehörden des Einfuhrlandes festgelegten Voraussetzungen zerlegte oder noch nicht zusammengesetzte Erzeugnisse der Abschnitte XVI und XVII oder der Positionen 7308 und 9406 des Harmonisierten Systems im Sinne der Allgemeinen Vorschrift 2a zum Harmonisierten System in Teilsendungen eingeführt, so ist den Zollbehörden bei der Einfuhr der ersten Teilsendung ein einziger Ursprungsnachweis vorzulegen.
 
 ## ARTIKEL 26
 
-#### Ausnahmen vom Ursprungsnachweis
+**Ausnahmen vom Ursprungsnachweis**
+
+#### Art. 26
 
 (1) Erzeugnisse, die in Kleinsendungen von Privatpersonen an Privatpersonen versandt werden oder die sich im persönlichen Gepäck von Reisenden befinden, werden ohne Vorlage eines Ursprungsnachweises als Ursprungserzeugnisse angesehen, sofern es sich um Einfuhren nichtkommerzieller Art handelt und erklärt wird, dass die Voraussetzungen dieses Protokolls erfüllt sind, wobei an der Richtigkeit dieser Erklärung kein Zweifel bestehen darf. Bei Postversand kann diese Erklärung auf der Zollinhaltserklärung CN22/CN23 oder einem dieser beigefügten Blatt abgegeben werden.
 
@@ -739,7 +791,9 @@ Werden auf Antrag des Einführers und unter den von den Zollbehörden des Einfuh
 
 ## ARTIKEL 27
 
-#### Belege
+**Belege**
+
+#### Art. 27
 
 Bei den in Artikel 17 Absatz 3 und in Artikel 21 Absatz 3 genannten Unterlagen zum Nachweis dafür, dass Erzeugnisse, für die eine Warenverkehrsbescheinigung EUR.1 oder eine Erklärung auf der Rechnung vorliegt, tatsächlich als Ursprungserzeugnisse der Gemeinschaft, Libanons oder eines der in Artikel 4 genannten anderen Länder angesehen werden können und die übrigen Voraussetzungen dieses Protokolls erfüllt sind, kann es sich unter anderem um folgende Unterlagen handeln:
 
@@ -753,7 +807,9 @@ d) Warenverkehrsbescheinigungen EUR.1 oder Erklärungen auf der Rechnung zum Nac
 
 ## ARTIKEL 28
 
-#### Aufbewahrung von Ursprungsnachweisen und Belegen
+**Aufbewahrung von Ursprungsnachweisen und Belegen**
+
+#### Art. 28
 
 (1) Ein Ausführer, der die Ausstellung einer Warenverkehrsbescheinigung EUR.1 beantragt, hat die in Artikel 17 Absatz 3 genannten Unterlagen mindestens drei Jahre lang aufzubewahren.
 
@@ -765,7 +821,9 @@ d) Warenverkehrsbescheinigungen EUR.1 oder Erklärungen auf der Rechnung zum Nac
 
 ## ARTIKEL 29
 
-#### Abweichungen und Formfehler
+**Abweichungen und Formfehler**
+
+#### Art. 29
 
 (1) Bei geringfügigen Abweichungen zwischen den Angaben in den Ursprungsnachweisen und den Angaben in den Unterlagen, die der Zollstelle zur Erfüllung der Einfuhrförmlichkeiten für die Erzeugnisse vorgelegt werden, ist der Ursprungsnachweis nicht allein dadurch ungültig, sofern einwandfrei nachgewiesen wird, dass sich das Papier auf die gestellten Erzeugnisse bezieht.
 
@@ -773,7 +831,9 @@ d) Warenverkehrsbescheinigungen EUR.1 oder Erklärungen auf der Rechnung zum Nac
 
 ## ARTIKEL 30
 
-#### In Euro ausgedrückte Beträge
+**In Euro ausgedrückte Beträge**
+
+#### Art. 30
 
 (1) Beträge in der Landeswährung des Ausfuhrlandes, die den in Euro ausgedrückten Beträgen entsprechen, werden vom Ausfuhrland festgelegt und den Einfuhrländern über die Kommission der Europäischen Gemeinschaften mitgeteilt.
 
@@ -787,7 +847,9 @@ d) Warenverkehrsbescheinigungen EUR.1 oder Erklärungen auf der Rechnung zum Nac
 
 ### METHODEN DER ZUSAMMENARBEIT DER VERWALTUNGEN — ARTIKEL 31
 
-#### Gegenseitige Amtshilfe
+**Gegenseitige Amtshilfe**
+
+#### Art. 31
 
 (1) Die Zollbehörden der Mitgliedstaaten der Gemeinschaft und Libanons übermitteln einander über die Kommission der Europäischen Gemeinschaften die Musterabdrücke der Stempel, die ihre Zollstellen bei der Ausstellung der Warenverkehrsbescheinigungen EUR.1 verwenden, und teilen einander die Anschriften der Zollbehörden mit, die für die Prüfung dieser Bescheinigungen und der Erklärungen auf der Rechnung zuständig sind.
 
@@ -795,7 +857,9 @@ d) Warenverkehrsbescheinigungen EUR.1 oder Erklärungen auf der Rechnung zum Nac
 
 ## ARTIKEL 32
 
-#### Prüfung der Ursprungsnachweise
+**Prüfung der Ursprungsnachweise**
+
+#### Art. 32
 
 (1) Eine nachträgliche Prüfung der Ursprungsnachweise erfolgt stichprobenweise oder immer dann, wenn die Zollbehörden des Einfuhrlandes begründete Zweifel an der Echtheit der Papiere, der Ursprungseigenschaft der betreffenden Erzeugnisse oder der Erfüllung der übrigen Voraussetzungen dieses Protokolls haben.
 
@@ -811,7 +875,9 @@ d) Warenverkehrsbescheinigungen EUR.1 oder Erklärungen auf der Rechnung zum Nac
 
 ## ARTIKEL 33
 
-#### Streitbeilegung
+**Streitbeilegung**
+
+#### Art. 33
 
 Streitigkeiten im Zusammenhang mit dem Prüfungsverfahren des Artikels 32, die zwischen den Zollbehörden, die um eine Prüfung ersucht haben, und den für diese Prüfung zuständigen Zollbehörden entstehen, oder Fragen zur Auslegung dieses Protokolls sind dem Assoziationsausschuss vorzulegen.
 
@@ -819,13 +885,17 @@ Streitigkeiten zwischen dem Einführer und den Zollbehörden des Einfuhrlandes s
 
 ## ARTIKEL 34
 
-#### Sanktionen
+**Sanktionen**
+
+#### Art. 34
 
 Sanktionen werden gegen denjenigen angewandt, der ein Schriftstück mit sachlich falschen Angaben anfertigt oder anfertigen lässt, um die Präferenzbehandlung für ein Erzeugnis zu erlangen.
 
 ## ARTIKEL 35
 
-#### Freizonen
+**Freizonen**
+
+#### Art. 35
 
 (1) Die Gemeinschaft und Libanon treffen alle erforderlichen Maßnahmen, um zu verhindern, dass Erzeugnisse mit Ursprungsnachweis, die während ihrer Beförderung zeitweilig in einer Freizone in ihrem Gebiet verbleiben, dort ausgetauscht oder anderen als den üblichen auf die Erhaltung ihres Zustands gerichteten Behandlungen unterzogen werden.
 
@@ -835,7 +905,9 @@ Sanktionen werden gegen denjenigen angewandt, der ein Schriftstück mit sachlich
 
 ### CEUTA UND MELILLA — ARTIKEL 36
 
-#### Anwendung des Protokolls
+**Anwendung des Protokolls**
+
+#### Art. 36
 
 (1) Der Begriff „Gemeinschaft“ im Sinne des Artikels 2 umfasst nicht Ceuta und Melilla.
 
@@ -845,7 +917,9 @@ Sanktionen werden gegen denjenigen angewandt, der ein Schriftstück mit sachlich
 
 ## ARTIKEL 37
 
-#### Besondere Bestimmungen
+**Besondere Bestimmungen**
+
+#### Art. 37
 
 (1) Vorausgesetzt, dass sie nach Artikel 13 unmittelbar befördert worden sind, gelten
 
@@ -879,19 +953,25 @@ ii) dass diese Erzeugnisse im Sinne dieses Protokolls Ursprungserzeugnisse Ceuta
 
 ### SCHLUSSBESTIMMUNGEN — ARTIKEL 38
 
-#### Änderung des Protokolls
+**Änderung des Protokolls**
+
+#### Art. 38
 
 Der Assoziationsrat kann beschließen, die Bestimmungen dieses Protokolls zu ändern.
 
 ## ARTIKEL 39
 
-#### Durchführung des Protokolls
+**Durchführung des Protokolls**
+
+#### Art. 39
 
 Die Gemeinschaft und Libanon treffen jeweils für ihren Bereich die zur Durchführung dieses Protokolls erforderlichen Maßnahmen.
 
 ## ARTIKEL 40
 
-#### Durchfuhr- und Lagerwaren
+**Durchfuhr- und Lagerwaren**
+
+#### Art. 40
 
 Waren, die die Voraussetzungen dieses Protokolls erfüllen und sich am Tag des Inkrafttretens dieses Abkommens im Transit befinden oder in der Gemeinschaft oder in Libanon unter die Regelung für die vorübergehende Verwahrung, die Zolllager- oder die Freizonenregelung fallen, können die Begünstigungen dieses Abkommens erhalten, wenn den Zollbehörden des Einfuhrlandes innerhalb von vier Monaten nach diesem Zeitpunkt eine nachträglich von der zuständigen Behörde des Ausfuhrlandes ausgestellte Warenverkehrsbescheinigung EUR.1 sowie Unterlagen zum Nachweis der unmittelbaren Beförderung vorgelegt werden.
 

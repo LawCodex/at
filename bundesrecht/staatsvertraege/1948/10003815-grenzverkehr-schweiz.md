@@ -29,7 +29,9 @@ Der Bundespräsident der Republik Österreich und der Bundesrat der Schweizerisc
 
 ## Artikel 1.
 
-#### Allgemeine Bestimmungen.
+**Allgemeine Bestimmungen.**
+
+#### Art. 1
 
 (1) Grenzverkehr ist der nachbarliche Verkehr innerhalb der beiderseitigen anstoßenden Grenzzonen (Grenzbezirke), die sich, vorbehältlich der durch örtliche Verhältnisse bedingten Abweichungen, auf das Gebiet innerhalb einer Entfernung von zehn Kilometern von der Zollgrenze ab, erstrecken. Beim Bodensee wird diese Entfernung vom Ufer aus landeinwärts gemessen.
 
@@ -41,7 +43,9 @@ Personen mit Wohnsitz in der Grenzzone gelten als Grenzbewohner im Sinne der Ver
 
 ## Artikel 2.
 
-#### Land- und forstwirtschaftlicher Bewirtschaftungsverkehr.
+**Land- und forstwirtschaftlicher Bewirtschaftungsverkehr.**
+
+#### Art. 2
 
 (1) Von allen Ein- und Ausgangsabgaben sowie weiteren Gebühren sind befreit:
 
@@ -63,7 +67,9 @@ Die Verbringung über die Grenze der für die Landarbeiten erforderlichen Tiere 
 
 ## Artikel 3.
 
-#### Markt- und Hausierverkehr.
+**Markt- und Hausierverkehr.**
+
+#### Art. 3
 
 Von allen Ein- und Ausgangsabgaben sowie weiteren Gebühren sind beiderseits befreit:
 
@@ -71,7 +77,9 @@ Die selbstverfertigten Erzeugnisse von Handwerkern in der Grenzzone des einen St
 
 ## Artikel 4.
 
-#### Grenzveredlungs- und Reparaturverkehr; Waren zum vorübergehenden Gebrauch.
+**Grenzveredlungs- und Reparaturverkehr; Waren zum vorübergehenden Gebrauch.**
+
+#### Art. 4
 
 (1) Von allen Ein- und Ausgangsabgaben sowie weiteren Gebühren sind befreit:
 
@@ -93,7 +101,9 @@ Die selbstverfertigten Erzeugnisse von Handwerkern in der Grenzzone des einen St
 
 ## Artikel 5.
 
-#### Verkehr mit Lebensmitteln, Getränken und Tabakwaren.
+**Verkehr mit Lebensmitteln, Getränken und Tabakwaren.**
+
+#### Art. 5
 
 Von allen Ein- und Ausgangsabgaben sind im beiderseitigen Einfuhrverkehr innerhalb der Grenzzone befreit:
 
@@ -107,7 +117,9 @@ Die vorstehende Begünstigung bezieht sich nur auf Lebensmittel und Getränke, d
 
 ## Artikel 6.
 
-#### Andere Erleichterungen.
+**Andere Erleichterungen.**
+
+#### Art. 6
 
 Von allen Ein- und Ausgangsabgaben sowie weiteren Gebühren sind beiderseits befreit:
 
@@ -119,7 +131,9 @@ Von allen Ein- und Ausgangsabgaben sowie weiteren Gebühren sind beiderseits bef
 
 ## Artikel 7.
 
-#### Verkehr von Medizinalpersonen und Abfertigung von Medizinalwaren.
+**Verkehr von Medizinalpersonen und Abfertigung von Medizinalwaren.**
+
+#### Art. 7
 
 (1) Die in der Grenzzone ansässigen Ärzte und Tierärzte, die im Wohnsitzstaate die staatliche Fachprüfung bestanden haben sowie Hebammen dürfen in Ausübung ihres Berufes die Grenze mit Pferdefuhrwerken, und wenn sie mit besonderen zollamtlichen Legitimationskarten ausgestattet sind, auch mit Fahrrädern, Motorrädern oder Automobilen überschreiten und sind von der Hinterlegung einer Zollsicherheit für das Fahrzeug befreit, es sei denn, daß besondere Verdachtsgründe vorliegen. Nähere Anordnungen bezüglich dieser Erleichterungen werden die beiderseitigen Zollverwaltungen im Einvernehmen treffen.
 
@@ -129,7 +143,9 @@ Von allen Ein- und Ausgangsabgaben sowie weiteren Gebühren sind beiderseits bef
 
 ### Einseitige Vergünstigungen.
 
-#### A. Einfuhr nach Österreich.
+**A. Einfuhr nach Österreich.**
+
+#### Art. 8
 
 1\. In der österreichischen Grenzzone ansässige Personen dürfen täglich einmal Brot in Mengen von nicht mehr als 500 g zum persönlichen Bedarf frei von allen Ein- und Ausgangsabgaben sowie weiteren Gebühren aus der schweizerischen Grenzzone mitbringen. Am Mittwoch einer jeden Woche oder, wenn der Mittwoch ein Feiertag ist, am folgenden Werktag dürfen sie, wenn sie an diesem Tage kein Brot einführen, statt dessen Mehl oder sonstige Müllereierzeugnisse oder Teigwaren in Mengen von insgesamt 500 g zum persönlichen Bedarf aus der schweizerischen Grenzzone mitbringen.
 
@@ -165,19 +181,25 @@ Die Einfuhr darf im Kalenderjahr 150 q nicht übersteigen.
 
 ## Artikel 9 *(Anm.: richtig: 9.)*
 
-#### Wirtschaftliche Ein- und Ausfuhrverbote.
+**Wirtschaftliche Ein- und Ausfuhrverbote.**
+
+#### Art. 9
 
 Wirtschaftliche Ein- und Ausfuhrverbote finden auf die in den Artikeln 2, 5, 6, 7 und 8 erwähnten Waren keine Anwendung.
 
 ## Artikel 10.
 
-#### Zahlungen im Grenzverkehr.
+**Zahlungen im Grenzverkehr.**
+
+#### Art. 10
 
 Die Regelung der Zahlungen im Grenzverkehr bleibt einer besonderen Vereinbarung vorbehalten.
 
 ## Artikel 11.
 
-#### Überwachungs- und Sicherheitsmaßnahmen.
+**Überwachungs- und Sicherheitsmaßnahmen.**
+
+#### Art. 11
 
 (1) Die Zollbehörden der beiden vertragschließenden Teile sind berechtigt, die erforderlichen Überwachungs- und Sicherheitsmaßnahmen anzuordnen, um eine mißbräuchliche Ausnützung der in den Artikeln 1 bis 8 vorgesehenen Erleichterungen zu verhindern. Die Befugnis zur Aufhebung oder Einschränkung dieser Begünstigungen im Falle von Hintergehungen bleibt vorbehalten. Die Zollbehörden werden sich gegebenenfalls hierüber verständigen.
 
@@ -185,7 +207,9 @@ Die Regelung der Zahlungen im Grenzverkehr bleibt einer besonderen Vereinbarung 
 
 ## Artikel 12.
 
-#### Gesundheits- und veterinärpolizeiliche Bestimmungen, Staatsmonopol.
+**Gesundheits- und veterinärpolizeiliche Bestimmungen, Staatsmonopol.**
+
+#### Art. 12
 
 (1) Durch die Bestimmungen dieses Abkommens werden die beiderseitigen gesundheits- und veterinärpolizeilichen Bestimmungen sowie die beiderseitigen Vorschriften zum Schutze der Pflanzen gegen Schädlinge und Ausrottung nicht berührt. Das gleiche gilt für die beiderseitigen Bestimmungen, betreffend die Erzeugnisse, welche die Staatsmonopole eines der vertragschließenden Teile bilden oder zur Erzeugung solcher Waren bestimmt sind.
 
@@ -193,7 +217,9 @@ Die Regelung der Zahlungen im Grenzverkehr bleibt einer besonderen Vereinbarung 
 
 ## Artikel 13.
 
-#### Zollrechtliche und polizeiliche Maßnahmen, betreffend den Grenzübertritt.
+**Zollrechtliche und polizeiliche Maßnahmen, betreffend den Grenzübertritt.**
+
+#### Art. 13
 
 (1) Die Bestimmungen des vorliegenden Abkommens stehen dem Recht jedes der hohen vertragschließenden Teile, aus Gründen der öffentlichen Sicherheit vorübergehend einschränkende Maßnahmen in bezug auf den Grenzübertritt zu ergreifen, nicht entgegen.
 
@@ -201,7 +227,9 @@ Die Regelung der Zahlungen im Grenzverkehr bleibt einer besonderen Vereinbarung 
 
 ## Artikel 14.
 
-#### Schiffsverkehr auf dem Bodensee.
+**Schiffsverkehr auf dem Bodensee.**
+
+#### Art. 14
 
 (1) Grundsätzlich wird die Schiffahrt auf dem Bodensee für den Personen- und Warenverkehr unter Vorbehalt der von den vertragschließenden Parteien als notwendig erachteten Kontrollmaßnahmen zugelassen. Das gegenseitige Anlaufen der Uferstationen und die diesbezüglichen Kontrollmaßnahmen bleiben besonderen Vereinbarungen vorbehalten.
 
@@ -209,13 +237,17 @@ Die Regelung der Zahlungen im Grenzverkehr bleibt einer besonderen Vereinbarung 
 
 ## Artikel 15.
 
-#### Ständige gemischte Kommission.
+**Ständige gemischte Kommission.**
+
+#### Art. 15
 
 Sofort nach Inkrafttreten dieses Abkommens wird eine ständige gemischte Kommission aus je drei Delegierten der beiden Parteien eingesetzt. Diese Kommission kann den beiden Regierungen alle im Interesse eines reibungslosen Funktionierens der vorstehenden Bestimmungen liegenden, ihr gutscheinenden Maßnahmen vorschlagen.
 
 ## Artikel 16.
 
-#### Schlußbestimmungen.
+**Schlußbestimmungen.**
+
+#### Art. 16
 
 (1) Dieses Abkommen soll ratifiziert und die Ratifikationsurkunden sollen sobald als möglich in Wien ausgetauscht werden. Das Abkommen soll sofort nach dem Austausch der Ratifikationsurkunden in Kraft treten.
 

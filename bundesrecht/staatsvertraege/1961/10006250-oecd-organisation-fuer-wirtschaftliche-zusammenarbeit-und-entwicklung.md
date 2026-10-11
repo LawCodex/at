@@ -1,0 +1,308 @@
+---
+title: "OECD – Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung"
+identifier: "10006250"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 248/1961"
+last_amended: 1961-09-30
+last_amendment: "BGBl. III Nr. 83/2021"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1961/248/P0/NOR11006363"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006250"
+retrieved: 2026-10-11
+documents: 25
+---
+
+# OECD – Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung
+
+(Übersetzung.)
+
+ÜBEREINKOMMEN ÜBER DIE ORGANISATION FÜR WIRTSCHAFTLICHE ZUSAMMENARBEIT UND ENTWICKLUNG (OECD)
+
+StF: BGBl. Nr. 248/1961
+
+**Unterzeichnungsdatum:** 14.12.1960
+
+**Vertragsparteien:** \*Australien III 71/2001 \*Belgien 248/1961 \*Chile III 92/2013 \*Costa Rica III 83/2021 \*Dänemark 248/1961 \*Deutschland/BRD 248/1961 \*Estland III 92/2013 \*Finnland 321/1969 \*Frankreich 248/1961 \*Griechenland 248/1961 \*Irland 248/1961 \*Island 248/1961 \*Israel III 92/2013 \*Italien 154/1962 \*Japan 183/1967 \*Kanada 248/1961 \*Kolumbien III 65/2020 \*Korea/R III 71/2001 \*Lettland III 65/2020 \*Litauen III 65/2020 \*Luxemburg 154/1962 \*Mexiko III 71/2001 \*Neuseeland III 71/2001 \*Niederlande 154/1962 \*Norwegen 248/1961 \*Polen III 71/2001 \*Portugal 248/1961 \*Schweden 248/1961 \*Schweiz 248/1961 \*Slowakei III 71/2001 \*Slowenien III 92/2013 \*Spanien 248/1961 \*Tschechische R III 71/2001 \*Türkei 248/1961 \*Ungarn III 71/2001 \*USA 248/1961 \*Vereinigtes Königreich 248/1961
+
+**Sprachen:** Englisch, Französisch
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 154/1962 (K – Geltungsbereich)  
+BGBl. Nr. 183/1967 (K – Geltungsbereich)  
+BGBl. Nr. 321/1969 (K – Geltungsbereich)  
+BGBl. III Nr. 71/2001 (K – Geltungsbereich)  
+BGBl. III Nr. 92/2013 (K – Geltungsbereich)  
+BGBl. III Nr. 65/2020 (K – Geltungsbereich)  
+BGBl. III Nr. 83/2021 (K – Geltungsbereich)  
+
+</details>
+
+> **Anmerkung:** Dokumentalistische Gliederung:
+>
+> Zusatzprotokoll Nr. 1 = Anlage 1
+>
+> Zusatzprotokoll Nr. 2 = Anlage 2
+>
+> Zusatzprotokoll zur Revision = Anlage 3
+
+## Präambel/Promulgationsklausel
+
+Die REGIERUNGEN des Königreichs Belgien, des Königreichs Dänemark, der Bundesrepublik Deutschland, der Französischen Republik, des Königreichs Griechenland, Irlands, der Republik Island, der Italienischen Republik, Kanadas, des Großherzogtums Luxemburg, des Königreichs der Niederlande, des Königreichs Norwegen, der Republik Österreich, der Portugiesischen Republik, des Königreichs Schweden, der Schweizerischen Eidgenossenschaft, Spaniens, der Republik Türkei, des Vereinigten Königreichs von Großbritannien und Nordirland und der Vereinigten Staaten von Amerika –
+
+IM HINBLICK DARAUF, daß eine starke und blühende Wirtschaft zur Verwirklichung der Ziele der Vereinten Nationen, zur Wahrung der persönlichen Freiheit und zur Erhöhung des allgemeinen Wohlstands unerläßlich ist,
+
+ÜBERZEUGT, daß sie diese Ziele am wirksamsten anstreben können, indem sie die Tradition der Zusammenarbeit stärken, die sich zwischen ihnen herausgebildet hat,
+
+IN DER ERKENNTNIS, daß der wirtschaftliche Wiederaufbau und Fortschritt Europas, zu dem ihre Teilnahme an der Organisation für Europäische Wirtschaftliche Zusammenarbeit weitgehend beigetragen hat, neue Aussichten eröffnet, diese Tradition zu stärken und für neue Aufgaben und weiterreichende Ziele nutzbar zu machen,
+
+IN DER ÜBERZEUGUNG, daß eine umfassendere Zusammenarbeit entscheidend zur Förderung friedlicher und harmonischer Beziehungen zwischen den Völkern der Welt beitragen wird,
+
+IN DER ERKENNTNIS, daß ihre Volkswirtschaften in zunehmendem Maße voneinander abhängig sind,
+
+ENTSCHLOSSEN, durch gegenseitige Konsultation und Zusammenarbeit ihre Leistungsfähigkeit und ihre Möglichkeiten noch wirksamer einzusetzen, um ein optimales Wachstum ihrer Volkswirtschaften sowie das wirtschaftliche und soziale Wohl ihrer Völker zu fördern,
+
+ÜBERZEUGT, daß die wirtschaftlich weiter fortgeschrittenen Nationen zusammenarbeiten müssen, um die Entwicklungsländer nach besten Kräften zu unterstützen,
+
+IN DER ERKENNTNIS, daß eine fortschreitende Ausweitung des Welthandels eine der wichtigsten Faktoren für die wirtschaftliche Entwicklung in jedem Staat und für bessere internationale Wirtschaftsbeziehungen ist,
+
+ENTSCHLOSSEN, diese Ziele in einer Weise zu verfolgen, die vereinbar ist mit den Verpflichtungen, welche sie als Teilnehmer an anderen internationalen Organisationen und Einrichtungen oder als Vertragsparteien internationaler Vereinbarungen haben -
+
+SIND über folgende Bestimmungen zur Umgestaltung der Organisation für Europäische Wirtschaftliche Zusammenarbeit in die Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung ÜBEREINGEKOMMEN:
+
+#### Art. 1 – ARTIKEL 1
+
+Ziel der Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung (im folgenden als „Organisation“ bezeichnet) ist es, eine Politik zu fördern, die darauf gerichtet ist,
+
+\*a)* in den Mitgliedstaaten unter Wahrung der finanziellen Stabilität eine optimale Wirtschaftsentwicklung und Beschäftigung sowie einen steigenden Lebensstandard zu erreichen und dadurch zur Entwicklung der Weltwirtschaft beizutragen,
+
+\*b)* in den Mitglied- und Nichtmitgliedstaaten, die in wirtschaftlicher Entwicklung begriffen sind, zu einem gesunden wirtschaftlichen Wachstum beizutragen,
+
+und
+
+\*c)* im Einklang mit internationalen Verpflichtungen auf multilateraler und nichtdiskriminierender Grundlage zur Ausweitung des Welthandels beizutragen.
+
+#### Art. 2 – ARTIKEL 2
+
+Zur Verfolgung dieser Ziele kommen die Mitglieder überein, einzeln sowie gemeinsam
+
+\*a)* den zweckmäßigen Einsatz ihrer wirtschaftlichen Mittel zu fördern,
+
+\*b)* auf wissenschaftlichem und technischem Gebiet die Entwicklung ihrer Hilfsmittel, die Forschung und die Berufsausbildung zu fördern,
+
+\*c)* eine Politik zu verfolgen, die darauf gerichtet ist, das Wachstum ihrer Volkswirtschaften und ihre innere und äußere finanzielle Stabilität zu gewährleisten sowie Entwicklungen zu vermeiden, die ihre eigenen Volkswirtschaften oder diejenigen anderer Staaten gefährden könnten,
+
+\*d)* ihre Bemühungen um den Abbau oder die Abschaffung der Behinderungen des zwischenstaatlichen Waren- und Dienstleistungsverkehrs sowie des laufenden Zahlungsverkehrs fortzusetzen und die Liberalisierung des Kapitalverkehrs beizubehalten und zu erweitern,
+
+\*e)* durch geeignete Mittel, insbesondere durch Zufuhr von Kapital in die Mitglied- und Nichtmitgliedstaaten, die in wirtschaftlicher Entwicklung begriffen sind, zu deren wirtschaftlicher Entwicklung beizutragen und dabei zu berücksichtigen, daß es für die Volkswirtschaften dieser Staaten wichtig ist, technische Hilfe zu erhalten und wachsende Ausfuhrmärkte zu gewinnen.
+
+#### Art. 3 – ARTIKEL 3
+
+Um die in Artikel 1 niedergelegten Ziele zu erreichen und die in Artikel 2 enthaltenen Verpflichtungen zu erfüllen, kommen die Mitglieder überein,
+
+\*a)* einander fortlaufend zu unterrichten und der Organisation die zur Bewältigung ihrer Aufgaben erforderlichen Informationen zu liefern,
+
+\*b)* einander fortlaufend zu konsultieren, Untersuchungen durchzuführen und an vereinbarten Vorhaben teilzunehmen, sowie
+
+\*c)* eng zusammenzuarbeiten und, soweit angebracht, ihr Vorgehen zu koordinieren.
+
+#### Art. 4 – ARTIKEL 4
+
+Mitglieder der Organisation sind die Vertragsparteien dieses Übereinkommens.
+
+#### Art. 5 – ARTIKEL 5
+
+Um ihre Ziele zu erreichen, kann die Organisation
+
+\*a)* Beschlüsse fassen; diese sind für alle Mitglieder bindend, soweit nichts anderes vorgesehen,
+
+\*b)* Empfehlungen an die Mitglieder richten, sowie
+
+\*c)* mit Mitgliedern, Nichtmitgliedstaaten und internationalen Organisationen Vereinbarungen abschließen.
+
+#### Art. 6 – ARTIKEL 6
+
+1\. Sofern die Organisation nicht für Sonderfälle einstimmig etwas anderes beschließt, bedarf die Beschlußfassung und die Abgabe von Empfehlungen des gegenseitigen Einverständnisses sämtlicher Mitglieder.
+
+2\. Jedes Mitglied hat eine Stimme. Enthält sich ein Mitglied bei der Abstimmung über einen Beschluß oder eine Empfehlung der Stimme, so steht die Stimmenthaltung solchen Beschlüssen oder Empfehlungen nicht entgegen; sie finden auf die anderen Mitglieder Anwendung, nicht jedoch auf das Mitglied, das sich der Stimme enthalten hat.
+
+3\. Ein Beschluß ist für ein Mitglied so lange nicht bindend, als es seine verfassungsrechtlichen Erfordernisse nicht erfüllt hat. Die anderen Mitglieder können vereinbaren, daß ein solcher Beschluß vorläufig auf sie Anwendung findet.
+
+#### Art. 7 – ARTIKEL 7
+
+Ein aus allen Mitgliedern bestehender Rat ist das Organ, von dem alle Rechtshandlungen der Organisation ausgehen. Der Rat kann zu Tagungen der Minister oder der Ständigen Vertreter zusammentreten.
+
+#### Art. 8 – ARTIKEL 8
+
+Der Rat bestellt alljährlich einen Vorsitzenden, der bei seinen Ministertagungen den Vorsitz führt, sowie zwei Stellvertretende Vorsitzende. Der Vorsitzende kann für ein auf seine erste Amtszeit folgendes weiteres Jahr bestellt werden.
+
+#### Art. 9 – ARTIKEL 9
+
+Der Rat kann ein Exekutivkomitee und die zur Verwirklichung der Ziele der Organisation erforderlichen Nebenorgane einsetzen.
+
+#### Art. 10 – ARTIKEL 10
+
+1\. Der Rat ernennt für eine Amtszeit von fünf Jahren einen ihm verantwortlichen Generalsekretär. Diesem stehen ein oder mehrere Stellvertretende Generalsekretäre oder Beigeordnete Generalsekretäre zur Seite, die der Rat auf Empfehlung des Generalsekretärs ernennt.
+
+2\. Der Generalsekretär führt bei den Ratstagungen der Ständigen Vertreter den Vorsitz. Er unterstützt den Rat in jeder geeigneten Weise und kann ihm und jedem anderen Organ der Organisation Vorschläge unterbreiten.
+
+#### Art. 11 – ARTIKEL 11
+
+1\. Der Generalsekretär stellt entsprechend den vom Rat genehmigten Organisationsplänen das Personal ein, welches die Organisation benötigt. Das Personalstatut bedarf der Zustimmung des Rates.
+
+2\. In Anbetracht des internationalen Charakters der Organisation dürfen der Generalsekretär, die Stellvertretenden oder Beigeordneten Generalsekretäre und das Personal bei keinem Mitglied und keiner Regierung oder Stelle außerhalb der Organisation um Weisungen nachsuchen oder solche von ihnen entgegennehmen.
+
+#### Art. 12 – ARTIKEL 12
+
+Die Organisation kann zu Bedingungen, deren Festlegung dem Rat obliegt,
+
+\*a)* an Nichtmitgliedstaaten und an Organisationen Mitteilungen richten,
+
+\*b)* mit Nichtmitgliedstaaten und mit Organisationen Beziehungen aufnehmen und unterhalten, sowie
+
+\*c)* Nichtmitgliedsregierungen und Organisationen einladen, an Arbeiten der Organisation teilzunehmen.
+
+#### Art. 13 – ARTIKEL 13
+
+Die Vertretung der durch die Verträge von Paris und Rom vom 18. April 1951 beziehungsweise 25. März 1957 gegründeten Europäischen Gemeinschaften in der Organisation richtet sich nach dem Zusatzprotokoll Nr. 1 zu diesem Übereinkommen.
+
+#### Art. 14 – ARTIKEL 14
+
+1\. Dieses Übereinkommen bedarf der Ratifikation oder Annahme durch die Unterzeichner nach Maßgabe ihrer verfassungsrechtlichen Erfordernisse.
+
+2\. Die Ratifikations- oder Annahmeurkunden werden bei der Regierung der Französischen Republik hinterlegt, die hiermit zur Verwahrerregierung bestimmt wird.
+
+3\. Dieses Übereinkommen tritt in Kraft
+
+\*a)* entweder vor dem 30. September 1961, sobald alle Unterzeichner Ratifikations- oder Annahmeurkunden hinterlegt haben,
+
+\*b)* oder am 30. September 1961, wenn zu diesem Zeitpunkt mindestens fünfzehn Unterzeichner derartige Urkunden hinterlegt haben, und zwar für diese Unterzeichner, und danach für jeden anderen Unterzeichner mit Hinterlegung seiner Ratifikations- oder Annahmeurkunde,
+
+\*c)* oder nach dem 30. September 1961, jedoch spätestens zwei Jahre nach Unterzeichnung dieses Übereinkommens, sobald fünfzehn Unterzeichner derartige Urkunden hinterlegt haben, und zwar für diese Unterzeichner, und danach für jeden anderen Unterzeichner mit Hinterlegung seiner Ratifikations- oder Annahmeurkunde.
+
+4\. Ein Unterzeichner, der bei Inkrafttreten des Übereinkommens seine Ratifikations- oder Annahmeurkunde noch nicht hinterlegt hat, kann an den Arbeiten der Organisation zu Bedingungen teilnehmen, die zwischen dieser und ihm zu vereinbaren sind.
+
+#### Art. 15 – ARTIKEL 15
+
+Mit dem Inkrafttreten dieses Übereinkommens wird die Umgestaltung der Organisation für Europäische Wirtschaftliche Zusammenarbeit wirksam; ihre Ziele, Organe, Befugnisse und Bezeichnung werden sodann die in diesem Übereinkommen vorgesehenen sein. Die Rechtspersönlichkeit der Organisation für Europäische Wirtschaftliche Zusammenarbeit setzt sich in der Organisation fort; die Beschlüsse, Empfehlungen und Resolutionen der Organisation für Europäische Wirtschaftliche Zusammenarbeit sind jedoch nach Inkrafttreten dieses Übereinkommens nur wirksam, wenn der Rat sie genehmigt.
+
+#### Art. 16 – ARTIKEL 16
+
+Der Rat kann beschließen, eine jede Regierung, welche die Pflichten eines Mitgliedes zu übernehmen bereit ist, zum Beitritt zu diesem Übereinkommen einzuladen. Ein solcher Beschluß bedarf der Einstimmigkeit; jedoch kann der Rat im Einzelfall einstimmig beschließen, Stimmenthaltung zu gestatten; in diesem Fall gilt der Beschluß ungeachtet des Artikels 6 für alle Mitglieder. Der Beitritt wird mit Hinterlegung einer Beitrittsurkunde bei der Verwahrerregierung wirksam.
+
+#### Art. 17 – ARTIKEL 17
+
+Jede Vertragspartei kann die Anwendung dieses Übereinkommens auf sich selbst unter Einhaltung einer Frist von zwölf Monaten durch eine an die Verwahrerregierung zu richtende Kündigung beenden.
+
+#### Art. 18 – ARTIKEL 18
+
+Sitz der Organisation ist Paris, sofern der Rat nichts anderes beschließt.
+
+#### Art. 19 – ARTIKEL 19
+
+Die Rechtsfähigkeit der Organisation sowie die Privilegien, Befreiungen und Immunitätsrechte der Organisation, ihrer Bediensteten und der Vertreter der Mitglieder bei ihr bestimmen sich nach dem Zusatzprotokoll Nr. 2 zu diesem Übereinkommen.
+
+#### Art. 20 – ARTIKEL 20
+
+1\. Der Generalsekretär legt dem Rat alljährlich im Einklang mit den vom Rat angenommenen Finanzvorschriften ein Jahresbudget, Rechnungsabschlüsse und, soweit der Rat solche anfordert, Nebenbudgets zur Genehmigung vor.
+
+2\. Die vom Rat genehmigten allgemeinen Ausgaben der Organisation werden nach einem vom Rat zu beschließenden Schlüssel aufgeteilt. Sonstige Ausgaben werden nach Grundsätzen finanziert, die der Rat beschließt.
+
+#### Art. 21 – ARTIKEL 21
+
+Nach Eingang jeder Ratifikations-, Annahme- oder Beitrittsurkunde oder einer Kündigungsanzeige benachrichtigt die Verwahrerregierung alle Vertragsparteien und den Generalsekretär der Organisation.
+
+ZU URKUND DESSEN haben die unterzeichneten, hiezu gehörig befugten Bevollmächtigten dieses Übereinkommen mit ihren Unterschriften versehen.
+
+GESCHEHEN zu Paris am 14. Dezember 1960 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist, in einer Urschrift, die bei der Verwahrerregierung hinterlegt wird; diese übermittelt allen Unterzeichnern beglaubigte Abschriften.
+
+## (Übersetzung.)
+
+### ZUSATZPROTOKOLL Nr. 1 ZU DEM ÜBEREINKOMMEN ÜBER DIE ORGANISATION FÜR WIRTSCHAFTLICHE ZUSAMMENARBEIT UND ENTWICKLUNG
+
+#### Anl. 1
+
+DIE UNTERZEICHNER des Übereinkommens über die Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung
+
+HABEN folgendes VEREINBART:
+
+1\. Die Vertretung der durch die Verträge von Paris und Rom vom 18. April 1951 beziehungsweise 25. März 1957 gegründeten Europäischen Gemeinschaften in der Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung wird nach den in diesen Verträgen enthaltenen Vorschriften über die Organe geregelt.
+
+2\. Die Kommission der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft sowie die Hohe Behörde der Europäischen Gemeinschaft für Kohle und Stahl nehmen an den Arbeiten dieser Organisation teil.
+
+ZU URKUND DESSEN haben die unterzeichneten, hiezu gehörig befugten Bevollmächtigten dieses Protokoll mit ihren Unterschriften versehen.
+
+GESCHEHEN zu Paris am 14. Dezember 1960 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist, in einer Urschrift, die bei der Regierung der Französischen Republik hinterlegt wird; diese übermittelt allen Unterzeichnern beglaubigte Abschriften.
+
+## ZUSATZPROTOKOLL Nr. 2 ZU DEM ÜBEREINKOMMEN ÜBER DIE ORGANISATION FÜR WIRTSCHAFTLICHE ZUSAMMENARBEIT UND ENTWICKLUNG
+
+#### Anl. 2
+
+DIE UNTERZEICHNER des Übereinkommens über die Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung (im folgenden als „Organisation“ bezeichnet)
+
+HABEN folgendes VEREINBART:
+
+Die Rechtsfähigkeit der Organisation sowie die Privilegien, Befreiungen und Immunitätsrechte, die der Organisation, ihren Bediensteten und den Vertretern der Mitglieder bei ihr zustehen, bestimmen sich wie folgt:
+
+\*a)* im Hoheitsgebiet der Vertragsparteien des Abkommens über die Europäische Wirtschaftliche Zusammenarbeit vom 16. April 1948 nach dem Zusatzprotokoll Nr. 1 zu dem genannten Abkommen;
+
+\*b)* in Kanada nach diesbezüglichen, zwischen der Regierung von Kanada und der Organisation abzuschließenden Abkommen oder entsprechenden Vereinbarungen;
+
+\*c)* in den Vereinigten Staaten nach der Executive Order Nr. 10133 vom 27. Juni 1950 auf Grund des International Organisations Immunities Act;
+
+\*d)* in allen übrigen Staaten nach diesbezüglichen zwischen der betreffenden Regierung und der Organisation abzuschließenden Abkommen oder entsprechenden Vereinbarungen.
+
+ZU URKUND DESSEN haben die unterzeichneten, hiezu gehörig befugten Bevollmächtigten dieses Protokoll mit ihren Unterschriften versehen.
+
+GESCHEHEN zu Paris am 14. Dezember 1960 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist, in einer Urschrift, die bei der Regierung der Französischen Republik hinterlegt wird; diese übermittelt allen Unterzeichnern beglaubigte Abschriften.
+
+## (Übersetzung.)
+
+### PROTOKOLL ZUR REVISION DES ABKOMMENS FÜR EUROPÄISCHE WIRTSCHAFTLICHE ZUSAMMENARBEIT VOM 16. APRIL 1948
+
+#### Anl. 3
+
+DIE REGIERUNGEN des Königreichs Belgien, des Königreichs Dänemark, der Bundesrepublik Deutschland, der Französischen Republik, des Königreichs Griechenland, Irlands, der Republik Island, der Italienischen Republik, des Großherzogtums Luxemburg, des Königreichs der Niederlande, des Königreichs Norwegen, der Republik Österreich, der Portugiesischen Republik, des Königreichs Schweden, der Schweizerischen Eidgenossenschaft, Spaniens, der Republik Türkei und des Vereinigten Königreichs von Großbritannien und Nordirland, als Vertragsparteien des Abkommens für Europäische Wirtschaftliche Zusammenarbeit vom 16. April 1948 (im folgenden als „Abkommen“ bezeichnet) und als Mitglieder der Organisation für Europäische Wirtschaftliche Zusammenarbeit;
+
+VON DEM WUNSCHE GELEITET, die Ziele, Organe und Befugnisse dieser Organisation neu zu bestimmen und in die umgestaltete Organisation die Regierungen Kanadas und der Vereinigten Staaten von Amerika als Mitglieder einzubeziehen;
+
+HABEN folgendes VEREINBART:
+
+**ARTIKEL 1**
+
+Das Abkommen wird revidiert und demgemäß durch das Übereinkommen über die Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung abgelöst, das am heutigen Tag unterzeichnet wird.
+
+**ARTIKEL 2**
+
+1\. Dieses Protokoll tritt mit dem Inkrafttreten des Übereinkommens über die Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung in Kraft.
+
+2\. Mit dem Inkrafttreten des Übereinkommens über die Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung tritt das Abkommen für alle Unterzeichner dieses Protokolls außer Kraft.
+
+ZU URKUND DESSEN haben die unterzeichneten, hiezu gehörig befugten Bevollmächtigten dieses Protokoll mit ihren Unterschriften versehen.
+
+GESCHEHEN zu Paris am 14. Dezember 1960 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist, in einer Urschrift, die bei der Regierung der Französischen Republik hinterlegt wird;
+
+diese übermittelt allen Unterzeichnern beglaubigte Abschriften.
+
+## Ratifikationstext
+
+Österreich hat seine Ratifikationsurkunde am 29. September 1961 bei der Regierung der Französischen Republik hinterlegt. Das Übereinkommen ist gemäß Artikel 14 Absatz 3 lit. b am 30. September 1961 in Kraft getreten.
+
+Nach Mitteilung der Regierung der Französischen Republik haben folgende Staaten ihre Ratifikations- oder Annahmeurkunden hinterlegt:
+
+Belgien, Dänemark, Bundesrepublik Deutschland, Frankreich, Griechenland, Irland, Island, Kanada, Norwegen, Portugal, Schweden, Schweiz, Spanien, Türkei, Vereinigtes Königreich von Großbritannien und Nordirland, Vereinigte Staaten von Amerika.
+
+## Sonstige Textteile
+
+Der Bundespräsident erklärt das Übereinkommen über die Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung (OECD) samt Zusatzprotokoll Nr. 1 und Nr. 2 sowie das Protokoll zur Revision des Abkommens für Europäische Wirtschaftliche Zusammenarbeit, welche also lauten: ...
+
+für ratifiziert und verspricht im Namen der Republik Österreich die gewissenhafte Erfüllung der in diesem Übereinkommen und in diesen Protokollen enthaltenen Bestimmungen.
+
+Zu Urkund dessen ist die vorliegende Ratifikationsurkunde vom Bundespräsidenten unterzeichnet, vom Bundeskanzler, vom Bundesminister für Inneres, vom Bundesminister für Justiz, vom Bundesminister für soziale Verwaltung, vom Bundesminister für Finanzen, vom Bundesminister für Land- und Forstwirtschaft, vom Bundesminister für Handel und Wiederaufbau, vom Bundesminister für Verkehr und Elektrizitätswirtschaft und vom Bundesminister für Auswärtige Angelegenheiten gegengezeichnet und mit dem Staatssiegel der Republik Österreich versehen worden.
+
+Geschehen zu Wien, am 27. September 1961.

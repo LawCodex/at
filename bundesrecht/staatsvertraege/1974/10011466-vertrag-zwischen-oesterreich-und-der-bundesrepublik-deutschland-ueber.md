@@ -1,0 +1,268 @@
+---
+title: "Vertrag zwischen Österreich und der Bundesrepublik Deutschland über die Führung von geschlossenen Zügen (Zügen unter Bahnverschluß) der Österreichischen Bundesbahnen über Strecken der Deutschen Bundesbahn in der Bundesrepublik Deutschland"
+identifier: "10011466"
+type: treaty
+ris_type: "Vertrag – BRD"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 331/1974"
+last_amended: 2008-01-01
+last_amendment: "BGBl. I Nr. 2/2008"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1974/331/P0/NOR30006867"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011466"
+retrieved: 2026-10-11
+documents: 23
+---
+
+# Vertrag zwischen Österreich und der Bundesrepublik Deutschland über die Führung von geschlossenen Zügen (Zügen unter Bahnverschluß) der Österreichischen Bundesbahnen über Strecken der Deutschen Bundesbahn in der Bundesrepublik Deutschland
+
+Vertrag zwischen der Republik Österreich und der Bundesrepublik Deutschland über die Führung von geschlossenen Zügen (Zügen unter Bahnverschluß) der Österreichischen Bundesbahnen über Strecken der Deutschen Bundesbahn in der Bundesrepublik Deutschland
+
+StF: BGBl. Nr. 331/1974 (NR: GP XIII RV 875 AB 1022 S. 100. BR: S. 329.)
+
+**Unterzeichnungsdatum:** 15.12.1971
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 505/1980 (NR: GP XV RV 114 AB 172 S. 19. BR: AB 2067 S. 391.)  
+BGBl. III Nr. 58/1998 (NR: GP XIX RV 47 AB 284 S. 47. BR: AB 5052 S. 603.)  
+BGBl. I Nr. 2/2008 (1. BVRBG) (NR: GP XXIII RV 314 AB 370 S. 41. BR: 7799 AB 7830 S. 751.)  
+
+</details>
+
+> **Anmerkung:** Erfassungsstichtag: 1.6.1996
+
+## Präambel/Promulgationsklausel
+
+Der Bundespräsident der Republik Österreich
+
+und
+
+der Präsident der Bundesrepublik Deutschland
+
+sind in dem Wunsche, die Führung von geschlossenen Zügen (Zügen unter Bahnverschluß) der Österreichischen Bundesbahnen über Strecken der Deutschen Bundesbahn in der Bundesrepublik Deutschland zu ermöglichen, übereingekommen, zu diesem Zweck einen Vertrag zu schließen, und haben hierfür zu ihren Bevollmächtigten ernannt:
+
+\*(Anm.: es folgen die Namen der Bevollmächtigten)*
+
+Die Bevollmächtigten haben nach Austausch ihrer in guter und gehöriger Form befundenen Vollmachten folgendes vereinbart:
+
+## Art. 1 – Artikel 1
+
+(1) Die Österreichischen Bundesbahnen und die Deutsche Bundesbahn können für den fahrplanmäßigen Eisenbahnverkehr (lit. a) sowie für den Fall einer Streckenunterbrechung (lit. b) vereinbaren, daß von der Deutschen Bundesbahn auf ihren Strecken für die Österreichischen Bundesbahnen in den nachfolgend aufgeführten Verkehrsverbindungen Züge und Wagengruppen unter Bahnverschluß als Durchfuhrtransporte (im folgenden Eisenbahndurchgangsverkehr) unter den in diesem Vertrage zugelassenen Erleichterungen befördert werden, und zwar
+
+a) Reisezüge, Reisezugwagen, Packwagen und Postwagen sowie Güterzüge und Güterzugwagen zwischen den Bahnhöfen Salzburg Hauptbahnhof und Kufstein auf der Strecke Salzburg Hauptbahnhof-Rosenheim-Kufstein,
+
+b) zur Herstellung einer infolge Streckenunterbrechung auf dem Gebiet der Republik Österreich nicht möglichen Schienenverbindung Reisezüge, Reisezugwagen, Packwagen und Postwagen sowie Güterzüge und Güterzugwagen auf den Strecken
+
+Salzburg Hauptbahnhof-Rosenheim-Kufstein,
+
+Salzburg Hauptbahnhof/Kufstein-Rosenheim-München-Mittenwald,
+
+Salzburg Hauptbahnhof/Kufstein-Rosenheim-München-Kempten -Lindau, Salzburg Hauptbahnhof/Kufstein-Rosenheim-München -Ulm-Friedrichshafen-Lindau.
+
+Werden aus bahnbetrieblichen Gründen ausnahmsweise Umleitungen auf andere Strecken notwendig, so werden diese Strecken von der Bundesbahndirektion München im Benehmen mit der zuständigen Grenzpolizeibehörde und der zuständigen Oberfinanzdirektion der Bundesrepublik Deutschland festgelegt.
+
+(2) Im Falle des fahrplanmäßigen Eisenbahndurchgangsverkehrs nach Abs. 1 lit. a
+
+a) vereinbaren die für den Eisenbahnverkehr zuständigen obersten Behörden der Vertragsstaaten, in welchem Ausmaß den Österreichischen Bundesbahnen eine Berechtigung für Durchfuhrtransporte eingeräumt wird,
+
+b) trifft die Deutsche Bundesbahn die danach erforderlichen Maßnahmen im Benehmen mit der zuständigen Grenzpolizeibehörde und der zuständigen Oberfinanzdirektion,
+
+c) hören die Österreichischen Bundesbahnen die zuständige Sicherheitsbehörde, die zuständige Finanzlandesdirektion und die zuständige Eisenbahnbehörde an.
+
+(3) Werden Umleitungen nach Absatz 1 lit. b durchgeführt, so haben die Österreichischen Bundesbahnen und hat die Deutsche Bundesbahn die jeweils im Absatz 2 genannten Behörden rechtzeitig zu unterrichten.
+
+(4) Die Durchführung und die Abgeltung der Transportleistungen der Deutschen Bundesbahn für die Österreichischen Bundesbahnen bleiben den Vereinbarungen zwischen den Österreichischen Bundesbahnen und der Deutschen Bundesbahn vorbehalten.
+
+## Art. 2 – Artikel 2
+
+Der Eisenbahndurchgangsverkehr unterliegt dem Recht der Bundesrepublik Deutschland, soweit dieser Vertrag nichts anderes bestimmt.
+
+## Art. 3 – Artikel 3
+
+(1) Dieser Vertrag gilt für Personen ohne Rücksicht auf ihre Staatsangehörigkeit, für Handgepäck, mitgenommene Tiere, Reisegepäck, Expreßgut, Güter (einschließlich Leichen und lebender Tiere) und Postsachen.
+
+(2) Die Erleichterungen dieses Vertrages gelten auch für die Durchbeförderung österreichischer Exekutivorgane und in Friedenszeiten für österreichische Militärpersonen in Uniform, die mit ihren ungeladenen Dienstwaffen und ihrer sonstigen Ausrüstung reisen, und zwar bei Dienstreisen sowie Fahrten zu oder von ihrer Truppeneinheit oder militärischen Dienststelle, auf Urlaub oder nach Hause; Vorgesetzte dürfen im Eisenbahndurchgangsverkehr ihren mitreisenden Untergebenen nur solche Anordnungen erteilen, die zur Aufrechterhaltung der Disziplin notwendig sind. Die Artikel 7, 9, 15 und 17 des Vertrags vom 21. Dezember 1993 zwischen der Republik Österreich und der Bundesrepublik Deutschland über den Durchgangsverkehr von Exekutivorganen und die Durchbeförderung von Häftlingen gelten entsprechend. Die zuständigen Grenzpolizeidienststellen werden auf diplomatischem Wege mitgeteilt.
+
+(3) Die Beförderung von Häftlingen im Eisenbahndurchgangsverkehr ist ausgeschlossen.
+
+## Art. 4 – Artikel 4
+
+(1) Im Eisenbahndurchgangsverkehr findet eine Grenzabfertigung nur statt
+
+a) zur Vornahme von Stichproben,
+
+b) bei Verdacht von Zuwiderhandlungen Reisender gegen die Bestimmungen dieses Vertrages,
+
+c) zur Verhinderung oder Aufklärung strafbarer Handlungen.
+
+(2) Die Erleichterungen nach Absatz 1 gelten
+
+a) für die Strecke Salzburg Hauptbahnhof-Rosenheim-Kufstein ohne zeitliche Beschränkung,
+
+b) für andere Durchgangsstrecken nach Artikel 1 nur bis zur Dauer von drei Tagen nach dem Eintritt einer Streckenunterbrechung auf österreichischem Gebiet (den Tag des Beginns der Streckenunterbrechung eingerechnet).
+
+(3) Zur Überwachung der Einhaltung dieses Vertrages können die Züge auf der Strecke Salzburg Hauptbahnhof-Rosenheim-Kufstein vom Grenzkontrollpersonal jedes der beiden Vertragsstaaten begleitet werden. Das Grenzkontrollpersonal der Bundesrepublik Deutschland darf den Begleitdienst in den Gemeinschafts- oder Betriebswechselbahnhöfen im Gebiet der Republik Österreich beginnen und beenden. Das Grenzkontrollpersonal wird unentgeltlich befördert.
+
+(4) Soweit Züge nach Absatz 3 begleitet werden, kann die nach Absatz 1 zulässige Grenzabfertigung auch während der Fahrt vorgenommen werden. Für die Vornahme dieser Grenzabfertigung und die Begleitung der Züge nach Absatz 3 gilt das Abkommen zwischen der Republik Österreich und der Bundesrepublik Deutschland vom 14. September 1955 über Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und Schiffsverkehr.
+
+## Art. 5 – Artikel 5
+
+(1) Im Eisenbahndurchgangsverkehr ist ein Durchreisesichtvermerk nicht erforderlich. Personen im Alter von mehr als 16 Jahren müssen einen mit Lichtbild versehenen amtlichen Ausweis mit sich führen.
+
+(2) Die Erleichterungen nach Absatz 1 gelten
+
+a) für den Eisenbahndurchgangsverkehr nach Artikel 1 Absatz 1 lit. a ohne zeitliche Beschränkung,
+
+b) für den Eisenbahndurchgangsverkehr nach Artikel 1 Absatz 1 lit. b nur bis zur Dauer von drei Tagen nach dem Eintritt einer Streckenunterbrechung auf österreichischem Gebiet (den Tag des Beginns der Streckenunterbrechung eingerechnet); während dieser Zeit gilt Absatz 1 zweiter Satz nicht.
+
+## Art. 6 – Artikel 6
+
+(1) Die im Eisenbahndurchgangsverkehr beförderten Waren sind von Ein- und Ausgangsabgaben sowie von wirtschaftlichen Ein-, Aus- und Durchfuhrverboten und -beschränkungen befreit, wenn die für den Durchgangsverkehr geltenden Bestimmungen eingehalten werden; Sicherheiten werden nicht erhoben. Bei Nichteinhaltung dieser Bestimmungen wird von der Erhebung der Ein- und Ausgangsabgaben abgesehen, wenn der Nachweis erbracht wird, daß die Ware in unverändertem Zustand nach Österreich zurückgebracht worden ist.
+
+(2) Die im Eisenbahndurchgangsverkehr beförderten Waren unterliegen der Überwachung durch die Zollbehörden. Die beteiligten Eisenbahnverwaltungen stellen die hierfür erforderlichen Unterlagen zur Verfügung.
+
+(3) Aufgegebenes Reisegepäck und Expreßgut, Güter in geschlossenen Güterwagen und in Behältnissen sowie Postsendungen – auch in Postwagen – sind von den Österreichischen Bundesbahnen unter Raumverschluß zu nehmen, es sei denn, daß die zuständigen Zollbehörden beider Vertragsstaaten darauf verzichten.
+
+## Art. 7 – Artikel 7
+
+(1) Beförderungsverbote der Bundesrepublik Deutschland zum Schutze von Menschen, Tieren oder Pflanzen gelten auch für den Eisenbahndurchgangsverkehr.
+
+(2) Die Durchfuhr von Einhufern, Rindern, Schafen, Ziegen und Schweinen ist zulässig, wenn die Tiere mit den erforderlichen Dokumenten über die seuchenfreie Herkunft, wie Ursprungs- und Gesundheitszeugnisse und Tierpässe, versehen sind. Für andere Tiere sowie tierische Teile, Rohstoffe und Erzeugnisse sind Veterinärzertifikate nicht erforderlich. Eine tierärztliche Grenzuntersuchung findet im Eisenbahndurchgangsverkehr nicht statt.
+
+(3) Für lebende Pflanzen und Pflanzenteile ist bei Beförderung im Eisenbahndurchgangsverkehr kein besonderes Ursprungs- oder Gesundheitszeugnis erforderlich.
+
+(4) Eine Einfuhruntersuchung von Fleisch nach den Bestimmungen des Fleischbeschaugesetzes findet im Eisenbahndurchgangsverkehr nicht statt. Sofern in besonderen Fällen Fleisch aus dem Zug verbracht wird, bleiben die fleischbeschaurechtlichen Einfuhrvorschriften unberührt.
+
+## Art. 8 – Artikel 8
+
+(1) Die Reisenden werden im Eisenbahndurchgangsverkehr in Zügen befördert, die in der Bundesrepublik Deutschland unter Bahnverschluß zu halten sind.
+
+(2) Im Eisenbahndurchgangsverkehr ist es Reisenden verboten, ein- oder auszusteigen, Waren in den oder aus dem Zug zu verbringen sowie Zoll- oder Bahnverschlüsse zu öffnen. Die Bediensteten der beiden Eisenbahnverwaltungen haben die Einhaltung dieser Verbote zu überwachen und bei Zuwiderhandlungen zur Wiederherstellung des diesem Vertrag entsprechenden Zustandes, erforderlichenfalls unter Anwendung unmittelbaren Zwanges, einzuschreiten, wobei sie die sonst für sie maßgeblichen innerstaatlichen Rechtsvorschriften anzuwenden haben. Wird eine Ausnahme von diesen Verboten notwendig oder wird ein Verbot übertreten, so hat der Zugführer, sofern Grenzkontrollorgane nicht anwesend sind, eine Niederschrift aufzunehmen, von der je eine Ausfertigung den zuständigen Behörden beider Vertragsstaaten unverzüglich zuzuleiten ist.
+
+(3) Haben Züge einen unvorhergesehenen Aufenthalt von längerer Dauer, so hat der Zugführer dafür zu sorgen, daß das nächste Zollamt und die nächste Grenzpolizeidienststelle der Bundesrepublik Deutschland unverzüglich benachrichtigt werden.
+
+## Art. 9 – Artikel 9
+
+(1) Reisende, die den Zug auf dem Gebiet der Bundesrepublik Deutschland entgegen Artikel 8 Absatz 2 verlassen – ausgenommen Deutsche im Sinne des Artikels 116 Absatz 1 des Grundgesetzes – sind auf Verlangen der zuständigen deutschen Organe vom Zugpersonal wieder in den Zug zu nehmen und mit diesem auf österreichisches Gebiet zu verbringen.
+
+(2) Reisende, die entgegen Artikel 8 Absatz 2 im Gebiet der Bundesrepublik Deutschland in den Zug einsteigen, sind vom Zugpersonal aus dem Zug zu weisen.
+
+(3) Die Republik Österreich wird auf Verlangen der zuständigen deutschen Behörden alle Personen zurücknehmen, die nicht Deutsche im Sinne des Artikels 116 Absatz 1 des Grundgesetzes sind, im Eisenbahndurchgangsverkehr den Zug verlassen haben und im Gebiet der Bundesrepublik Deutschland verblieben sind.
+
+(4) Die Bundesrepublik Deutschland wird auf Verlangen der zuständigen österreichischen Behörden alle Personen zurücknehmen, die nicht die österreichische Staatsbürgerschaft besitzen und im Eisenbahndurchgangsverkehr im Gebiet der Bundesrepublik Deutschland in den Zug eingestiegen und so in das Gebiet der Republik Österreich gelangt sind.
+
+(5) Die Rücknahme erfolgt in entsprechender Anwendung der Vereinbarung durch den Notenwechsel zwischen der österreichischen Bundesregierung und der Regierung der Bundesrepublik Deutschland vom 19. Juli 1961, betreffend die Übernahme von Personen an der Grenze zwischen Österreich und der Bundesrepublik Deutschland (deutschösterreichisches Schubabkommen), wobei das Verlassen des Zuges auf dem Gebiet der Bundesrepublik Deutschland entgegen Artikel 8 Absatz 2 als unerlaubte Einreise in das Gebiet der Bundesrepublik Deutschland gilt und die Einreise in das Gebiet der Republik Österreich als unerlaubt angesehen wird, wenn der Zug im Gebiet der Bundesrepublik Deutschland entgegen Artikel 8 Absatz 2 bestiegen worden ist.
+
+## Art. 10 – Artikel 10
+
+(1) Während eines Aufenthaltes in Bahnhöfen der Bundesrepublik Deutschland ist der vor den Zügen befindliche Teil des Bahnsteiges auf Verlangen der zuständigen deutschen Behörden für den Verkehr des Publikums und den Verkauf von Waren zu sperren.
+
+(2) Waren dürfen, abgesehen von den im folgenden zugelassenen Ausnahmen, nur in Güter-, Gepäck- oder Postwagen sowie in Gepäck- und Postabteilen befördert werden. In Personenwagen dürfen nur Handgepäck und mitgenommene Tiere befördert werden. Auf Lokomotiven und Tendern, im Motorraum von Triebwagen sowie im Führerstand von Triebwagen und Steuerwagen dürfen außer den Betriebsmitteln nur Gegenstände mitgeführt werden, die vom Eisenbahnpersonal zum dienstlichen oder eigenen Gebrauch während der Fahrt benötigt werden.
+
+## Art. 11 – Artikel 11
+
+(1) Die Bahnpost unterliegt im Eisenbahndurchgangsverkehr keinen Beschränkungen und keinen Gebühren der Bundesrepublik Deutschland. Inwieweit für die vom Ausland nach dem Ausland durch die Bundesrepublik Deutschland beförderten Postsendungen eine Durchgangsvergütung zu leisten ist, richtet sich nach dem Weltpostvertrag und den Abkommen des Weltpostvereines.
+
+(2) Die Briefkästen an Gepäck- und Postwagen sowie an Gepäck- und Postabteilen sind während der Durchfahrt geschlossen zu halten.
+
+(3) Die in Gepäck- oder Postwagen sowie in Gepäck- oder Postabteilen mitgeführten Postsachen dürfen nicht durchsucht werden.
+
+## Art. 12 – Artikel 12
+
+Das im Eisenbahndurchgangsverkehr tätige Personal der Vertragsstaaten ist verpflichtet, einander bei der Ausübung seiner Dienstobliegenheiten den erforderlichen Beistand zu gewähren und hierauf gerichteten Ersuchen in gleicher Weise Folge zu leisten wie entsprechenden Ersuchen des eigenen Personals. Darüber hinaus wird das Grenzkontrollpersonal der Vertragsstaaten bei der Überwachung des Durchgangsverkehrs festgestellte Verstöße einander mitteilen.
+
+## Art. 13 – Artikel 13
+
+Die strafrechtlichen Bestimmungen des einen Vertragsstaates zum Schutze von Amtshandlungen und zum Schutze von Beamten gelten auch für strafbare Handlungen, die in diesem Staat gegenüber dem im Eisenbahndurchgangsverkehr tätigen Personal des anderen Vertragsstaates begangen werden, wenn sich das Personal in Ausübung des Dienstes befindet oder die Tat in Beziehung auf diesen Dienst begangen wird.
+
+## Art. 14 – Artikel 14
+
+(1) Das im Eisenbahndurchgangsverkehr tätige Personal der Vertragsstaaten darf Dienstkleidung tragen.
+
+(2) Jeder Vertragsstaat wird Bedienstete auf Verlangen des anderen Vertragsstaates von der Verwendung in dessen Gebiet ausschließen oder abberufen.
+
+(3) Erleidet ein im Eisenbahndurchgangsverkehr tätiger Bediensteter eines der Vertragsstaaten in Ausübung seines Dienstes einen Unfall oder erkrankt er, so wird der betreffende Vertragsstaat für ärztliche Hilfe, Heilmittel und Krankenpflege sorgen, wenn die Überführung des Bediensteten in den anderen Vertragsstaat aus Gesundheitsgründen nicht tunlich ist. Die dabei aufgewendeten Kosten werden von der Verwaltung ersetzt, der der Bedienstete angehört; Ersatzansprüche und Rückgriffsrechte dieser Verwaltung gegen Dritte bleiben unberührt.
+
+## Art. 15 – Artikel 15
+
+(1) Für Beförderungen im Sinne der Artikel 1 und 3 gelten die beförderungsrechtlichen und tarifrechtlichen Bestimmungen, insbesondere auch jene des Internationalen Übereinkommens über den Eisenbahn-Personen- und -Gepäckverkehr (CIV) und des Internationalen Übereinkommens über den Eisenbahnfrachtverkehr (CIM), die gegolten hätten, wenn die Beförderung über Strecken der Österreichischen Bundesbahnen erfolgt wäre.
+
+(2) Die Beförderungen im Eisenbahndurchgangsverkehr unterliegen nicht der Umsatzsteuer der Bundesrepublik Deutschland; sie unterliegen der Beförderungssteuer der Republik Österreich.
+
+## Art. 16 – Artikel 16
+
+(1) Die Bediensteten der Österreichischen Bundesbahnen sind befugt, in den Zügen Fahrkartenkontrollen vorzunehmen und für die Aufrechterhaltung der Ordnung im Zug durch Bedienstete der Deutschen Bundesbahn sorgen zu lassen. Soweit Bedienstete der Deutschen Bundesbahn nicht anwesend sind, üben die Bediensteten der Österreichischen Bundesbahnen ihre eisenbahndienstlichen Befugnisse nach den sonst für sie maßgeblichen innerstaatlichen Rechtsvorschriften aus.
+
+(2) Während des Eisenbahndurchgangsverkehrs gemäß Artikel 1 Absatz 1 lit. b werden Reisende, ausgenommen deutsche Staatsangehörige, wegen vorher begangener gerichtlich strafbarer oder durch Verwaltungsbehörden zu verfolgender Handlungen in der Bundesrepublik Deutschland nicht verfolgt, abgeurteilt, in Haft genommen oder sonst in ihrer persönlichen Freiheit beschränkt; dies gilt nur bis zur Dauer von drei Tagen nach dem Eintritt einer Streckenunterbrechung auf österreichischem Gebiet (den Tag des Beginns der Streckenunterbrechung eingerechnet).
+
+## Art. 17 – Artikel 17
+
+(1) Wird beim Betrieb der Eisenbahn im Eisenbahndurchgangsverkehr durch einen Unfall ein Reisender getötet oder verletzt oder eine Sache, die ein Reisender an sich trägt oder mit sich führt, beschädigt oder verloren, so haften die Österreichischen Bundesbahnen wie ein Betriebsunternehmer nach österreichischem Recht; sie stehen dabei für die Deutsche Bundesbahn und deren Leute ein. Die im Artikel 3 Absatz 2 genannten Personen und Personengruppen gelten hierbei als Reisende. Ansprüche des Geschädigten gegen die Deutsche Bundesbahn in deren Eigenschaft als Betriebsunternehmer bleiben unberührt.
+
+(2) Für Beförderungen im Eisenbahndurchgangsverkehr gelten hinsichtlich der Haftung für verspätete Auslieferung, Überschreitung der Lieferfrist, gänzlichen oder teilweisen Verlust oder Beschädigung von Reisegepäck, Expreßgut und Gütern (einschließlich Leichen und lebender Tiere) die beförderungsrechtlichen und tariflichen Haftungsbestimmungen, die gegolten hätten, wenn die Beförderung über Strecken der Österreichischen Bundesbahnen in Österreich stattgefunden hätte. Die Haftung der Deutschen Bundesbahn ist ausgeschlossen.
+
+(3) Wird ein im Eisenbahndurchgangsverkehr tätiger österreichischer Bediensteter in Ausübung seines Dienstes beim Betrieb der Eisenbahn durch einen Unfall getötet oder verletzt oder eine Sache, die er an sich trägt oder mit sich führt, beschädigt oder verloren, so ist die Pflicht, die sich aus dem schädigenden Ereignis ergebenden Ansprüche zu befriedigen, so zu beurteilen, als ob das schädigende Ereignis auf den Strecken der Österreichischen Bundesbahnen in Österreich verursacht worden wäre. Soweit hiernach eine Haftung der Österreichischen Bundesbahnen besteht, hat sie dabei für die Deutsche Bundesbahn und deren Leute einzustehen. Die Haftung der Deutschen Bundesbahn gegenüber den im Satz 1 genannten Bediensteten ist ausgeschlossen.
+
+(4) Für Schäden an Betriebsmitteln gelten die diesbezüglichen Vereinbarungen zwischen den Österreichischen Bundesbahnen und der Deutschen Bundesbahn.
+
+(5) Im Eisenbahnpostverkehr haften für Sachschäden, die im Eisenbahndurchgangsverkehr eintreten, die beteiligten Verwaltungen untereinander nach Maßgabe der bestehenden Vereinbarungen.
+
+(6) In anderen Fällen als den in den vorstehenden Absätzen oder in anderen Abkommen geregelten ist die Haftung für Schäden beim Betrieb der Eisenbahn im Eisenbahndurchgangsverkehr nach deutschem Recht zu beurteilen. Soweit danach die eine oder die andere Eisenbahn haftet, trifft die Haftung auch die andere Eisenbahn als Gesamtschuldner.
+
+(7) Für Fragen der Amtshaftung ist das Abkommen zwischen der Republik Österreich und der Bundesrepublik Deutschland vom 14. September 1955 zur Regelung der Amtshaftung aus Handlungen von Organen des einen in grenznahen Gebieten des anderen Staates anzuwenden.
+
+(8) Die Klage kann nur vor den Gerichten des Staates der in Anspruch genommenen Eisenbahn erhoben werden.
+
+(9) Haben die Österreichischen Bundesbahnen auf Grund der vorstehenden Bestimmungen Ersatz geleistet, so können sie gegen die Deutsche Bundesbahn Rückgriff nehmen, wenn der Unfall durch Vorsatz oder grobe Fahrlässigkeit der Deutschen Bundesbahn oder ihrer Leute oder durch Mängel der Anlagen oder der Fahrbetriebsmittel der Deutschen Bundesbahn verursacht worden ist.
+
+## Art. 18 – Artikel 18
+
+Die im Eisenbahndurchgangsverkehr beteiligten beiderseitigen Verwaltungen werden die Maßnahmen zur Durchführung dieses Vertrages erforderlichenfalls miteinander abstimmen.
+
+## Art. 19 – Artikel 19
+
+Die Bundesrepublik Deutschland kann den Eisenbahndurchgangsverkehr zeitweilig ganz oder teilweise sperren, wenn es die Sicherheit im Durchgangsgebiet erfordert.
+
+## Art. 20 – Artikel 20
+
+(1) Meinungsverschiedenheiten über die Auslegung oder die Anwendung dieses Vertrages sollen durch die zuständigen Behörden der Vertragsstaaten beigelegt werden.
+
+(2) Kann eine Meinungsverschiedenheit auf diese Weise nicht beigelegt werden, so ist sie auf Verlangen eines der Vertragsstaaten einem Schiedsgericht zu unterbreiten.
+
+(3) Das Schiedsgericht wird von Fall zu Fall gebildet, indem jeder Vertragsstaat ein Mitglied bestellt und beide Mitglieder sich auf den Angehörigen eines dritten Staates als Obmann einigen, der von den Regierungen der Vertragsstaaten zu bestellen ist. Die Mitglieder sind innerhalb von zwei Monaten, der Obmann innerhalb von drei Monaten zubestellen, nachdem der eine Vertragsstaat dem anderen mitgeteilt hat, daß er die Meinungsverschiedenheit einem Schiedsgericht unterbreiten will.
+
+(4) Werden die in Absatz 3 genannten Fristen nicht eingehalten, so kann in Ermangelung einer anderen Vereinbarung jeder Vertragsstaat den Präsidenten des Europäischen Gerichtshofes für Menschenrechte bitten, die erforderlichen Ernennungen vorzunehmen. Besitzt der Präsident die Staatsangehörigkeit eines der Vertragsstaaten oder ist er aus einem anderen Grund verhindert, so soll der Vizepräsident die Ernennungen vornehmen. Besitzt auch der Vizepräsident die Staatsangehörigkeit eines der Vertragsstaates oder ist auch er verhindert, so soll das im Rang nächstfolgende Mitglied des Gerichtshofes, das nicht die Staatsangehörigkeit eines der Vertragsstaaten besitzt, die Ernennungen vornehmen.
+
+(5) Das Schiedsgericht entscheidet mit Stimmenmehrheit. Seine Entscheidungen sind bindend. Jeder Vertragsstaat trägt die Kosten des von ihm bestellten Schiedsrichters und seiner Vertretung in dem Verfahren vor dem Schiedsgericht; die Kosten des Obmanns und die sonstigen Kosten werden von den Vertragsstaaten zu gleichen Teilen getragen. Im übrigen regelt das Schiedsgericht sein Verfahren selbst.
+
+(6) Die Gerichte der beiden Vertragsstaaten werden dem Schiedsgericht auf sein Ersuchen Rechtshilfe hinsichtlich der Ladung und der Vernehmung von Zeugen und Sachverständigen in entsprechender Anwendung der zwischen den beiden Vertragsstaaten jeweils geltenden Vereinbarungen über die Rechtshilfe in Zivil- und Handelssachen leisten.
+
+## Art. 21 – Artikel 21
+
+Dieser Vertrag gilt auch für das Land Berlin, sofern nicht die Regierung der Bundesrepublik Deutschland gegenüber der österreichischen Bundesregierung innerhalb von drei Monaten nach Inkrafttreten des Vertrages eine gegenteilige Erklärung abgibt.
+
+## Art. 22 – Artikel 22
+
+(1) Dieser Vertrag ist zu ratifizieren. Die Ratifikationsurkunden werden in Wien ausgetauscht werden.
+
+(2) Der Vertrag tritt am ersten Tag des zweiten Monats nach Austausch der Ratifikationsurkunden in Kraft.
+
+(3) Jeder Vertragsstaat kann den Vertrag kündigen; er tritt ein Jahr nach der Notifikation der Kündigung an den anderen Vertragsstaat außer Kraft.
+
+ZU URKUND DESSEN haben die Bevollmächtigten der Vertragsstaaten diesen Vertrag unterzeichnet und mit Siegeln versehen.
+
+GESCHEHEN zu Bonn am 15. Dezember 1971, in zwei Urschriften.
+
+## Ratifikationstext
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde am 8. Mai 1974 ausgetauscht; der Vertrag tritt gemäß seinem Art. 22 Abs. 2 am 1. Juli 1974 in Kraft.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluß des nachstehenden Staatsvertrages wird genehmigt.

@@ -228,7 +228,9 @@ Die Diensträume der vorgeschobenen Grenzdienststellen können durch Amtsschilde
 
 > **Beachte:** Mit Inkrafttreten des Abkommens über die Nachnutzung der ehemaligen österreichisch-deutschen gemeinschaftlichen Grenzzollämter werden jene Bestimmungen dieses Abkommens nicht mehr angewendet, die denselben Regelungsinhalt haben (vgl. Art. 17, BGBl. III Nr. 277/2013).
 
-#### Artike1 19
+**Artike1 19**
+
+#### Art. 19
 
 Die vorgeschobenen Grenzdienststellen haben innerhalb der ihnen zum Alleingebrauch zugewiesenen Räumlichkeiten das Recht, die Ordnung aufrechtzuerhalten und Personen, die gegen die Ordnung verstoßen, zu entfernen. Dabei werden die zuständigen Dienststellen und Bediensteten des Gebietsstaates auf Ersuchen Beistand leisten.
 
@@ -276,7 +278,9 @@ Die vertragschließenden Teile werden unbeschadet der Bestimmungen des Artikels 
 
 ### Bereitstellung von Diensträumen und Unterkünften
 
-#### Artike1 25
+**Artike1 25**
+
+#### Art. 25
 
 (1) Die Diensträume und Unterkünfte für die vorgeschobenen Grenzdienststellen und deren Bedienstete sowie für die mit der Grenzabfertigung während der Fahrt beauftragten Bediensteten und die dafür zu entrichtende Vergütung werden durch Vereinbarung der beiderseits zuständigen Verwaltungen bestimmt.
 

@@ -375,7 +375,9 @@ ZU URKUND DESSEN haben die hierzu gehörig befugten Unterzeichneten dieses Über
 
 Geschehen in Brdo pri Kranju an diesem 5. Mai des Jahres 2011 in englischer Sprache.
 
-## ANLAGE 1 – *Abgrenzung des Luftraums*
+**ANLAGE 1**
+
+## Anl. 1 – *Abgrenzung des Luftraums*
 
 Dieses Übereinkommen gilt, sofern darin nichts anderes festgelegt ist, in dem der Zuständigkeit der Vertragsstaaten unterliegenden Luftraum, der wie folgt festgelegt wird:
 
@@ -389,7 +391,9 @@ Dieses Übereinkommen gilt, sofern darin nichts anderes festgelegt ist, in dem d
 | Slowakische Republik | FIR Bratislava | FL195 - UNBEGRENZT |
 | Republik Slowenien | FIR Ljubljana | FL175 – UNBEGRENZT |
 
-## ANLAGE 2 – *Flugsicherungsdienste*
+**ANLAGE 2**
+
+## Anl. 2 – *Flugsicherungsdienste*
 
 Sofern in darin nichts anderes festgelegt ist, gilt dieses Übereinkommen im betroffenen Luftraum des jeweiligen Vertragsstaates für die Erbringung der nachstehenden Flugsicherungsdienste:
 

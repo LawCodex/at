@@ -37,7 +37,9 @@ sind wie folgt übereingekommen:
 
 ## ARTIKEL 1
 
-### DEFINITIONEN
+**DEFINITIONEN**
+
+### Art. 1
 
 Für die Zwecke dieses Abkommens haben die darin verwendeten Begriffe folgende Bedeutung:
 
@@ -69,7 +71,9 @@ b) in Hinblick auf die Islamische Republik Iran Gebiete, über die die Islamisch
 
 ## ARTIKEL 2
 
-### FÖRDERUNG, ZULASSUNG UND SCHUTZ VON INVESTITIONEN
+**FÖRDERUNG, ZULASSUNG UND SCHUTZ VON INVESTITIONEN**
+
+### Art. 2
 
 (1) Jede Vertragspartei ermutigt ihre Investoren, Investitionen im Hoheitsgebiet der anderen Vertragspartei vorzunehmen.
 
@@ -83,7 +87,9 @@ b) in Hinblick auf die Islamische Republik Iran Gebiete, über die die Islamisch
 
 ## ARTIKEL 3
 
-### INLÄNDERGLEICHBEHANDLUNG UND MEISTBEGÜNSTIGUNG
+**INLÄNDERGLEICHBEHANDLUNG UND MEISTBEGÜNSTIGUNG**
+
+### Art. 3
 
 (1) Jede Vertragspartei gewährt Investoren der anderen Vertragspartei und deren Investitionen eine nicht weniger günstige Behandlung als jene, die sie ihren eigenen Investoren und deren Investitionen oder Investoren von Drittstaaten und deren Investitionen hinsichtlich der Verwaltung, des Betriebs, der Instandhaltung, der Nutzung, des Genusses, des Verkaufs und der Liquidation einer Investition gewährt, je nachdem, was für den Investor günstiger ist.
 
@@ -91,13 +97,17 @@ b) in Hinblick auf die Islamische Republik Iran Gebiete, über die die Islamisch
 
 ## ARTIKEL 4
 
-### VERÖFFENTLICHUNG VON GESETZEN UND RECHTSVORSCHRIFTEN
+**VERÖFFENTLICHUNG VON GESETZEN UND RECHTSVORSCHRIFTEN**
+
+### Art. 4
 
 Jede Vertragspartei veröffentlicht ihre Gesetze, Rechtsvorschriften sowie internationale Übereinkommen, die die Wirksamkeit ausländischer Investitionen in ihrem Hoheitsgebiet beeinflussen können.
 
 ## ARTIKEL 5
 
-### ENTEIGNUNG UND ENTSCHÄDIGUNG
+**ENTEIGNUNG UND ENTSCHÄDIGUNG**
+
+### Art. 5
 
 (1) Investitionen von Investoren einer Vertragspartei dürfen von der anderen Vertragspartei nicht verstaatlicht, konfisziert, enteignet oder Maßnahmen mit gleicher Wirkung, im Folgenden „Enteignung“ genannt, unterzogen werden, es sei denn, dass diese Maßnahmen im öffentlichen Interesse, aufgrund eines rechtmäßigen Verfahrens, auf der Grundlage der Nichtdiskriminierung und gegen Entschädigung erfolgen.
 
@@ -111,7 +121,9 @@ Jede Vertragspartei veröffentlicht ihre Gesetze, Rechtsvorschriften sowie inter
 
 ## ARTIKEL 6
 
-### BEHANDLUNG BEI SCHADEN ODER VERLUSTEN
+**BEHANDLUNG BEI SCHADEN ODER VERLUSTEN**
+
+### Art. 6
 
 (1) Investoren einer Vertragspartei, deren Investitionen im Hoheitsgebiet der anderen Vertragspartei aufgrund eines bewaffneten Konfliktes, einer Revolution, eines Notstands oder ähnlichen Ereignisses einen Schaden oder Verlust erleiden, erfahren durch die andere Vertragspartei eine nicht weniger günstige Behandlung in Hinblick auf Schäden oder Verluste als jene, die sie ihren eigenen Investoren oder Investoren eines Drittstaates gewährt.
 
@@ -125,7 +137,9 @@ eine umgehende, angemessene und effektive Rückerstattung oder Entschädigung.
 
 ## ARTIKEL 7
 
-### RÜCKFÜHRUNG VON KAPITAL UND TRANSFER
+**RÜCKFÜHRUNG VON KAPITAL UND TRANSFER**
+
+### Art. 7
 
 (1) Jede Vertragspartei lässt in gutem Glauben zu, dass Transfers im Zusammenhang mit in diesem Abkommen genannten Investitionen frei und ohne Verzögerung erfolgen. Diese Transfers beinhalten:
 
@@ -151,7 +165,9 @@ g) Zahlungen aufgrund einer Streitbeilegung gemäß Artikel 11.
 
 ## ARTIKEL 8
 
-### EINTRITTSRECHT
+**EINTRITTSRECHT**
+
+### Art. 8
 
 Tritt eine Vertragspartei oder eine von ihr hierzu ermächtigte Institution im gesetzlichen Rahmen durch eine Zahlung aufgrund einer Schadloshaltung, eines Versicherungs- oder Garantievertrages gegen nichtkommerzielle Risiken in die Rechte eines Investors ein,
 
@@ -163,19 +179,25 @@ c) Streitigkeiten zwischen dem in die Rechte Eingetretenen und der als Gastland 
 
 ## ARTIKEL 9
 
-### EINHALTUNG VON VERPFLICHTUNGEN
+**EINHALTUNG VON VERPFLICHTUNGEN**
+
+### Art. 9
 
 Jede Vertragspartei garantiert die Einhaltung der Verpflichtungen, die sie in Hinblick auf Investitionen von Investoren der anderen Vertragspartei eingegangen ist.
 
 ## ARTIKEL 10
 
-### GELTUNGSBEREICH DES ABKOMMENS
+**GELTUNGSBEREICH DES ABKOMMENS**
+
+### Art. 10
 
 Dieses Abkommen gilt für Investitionen, die von der zuständigen Stelle der als Gastland fungierenden Vertragspartei vor oder nach dem Inkrafttreten dieses Abkommens genehmigt wurden oder werden. Die zuständige Stelle in der Islamischen Republik Iran ist die Organisation für Investitionen, Wirtschaftliche und Technische Hilfe des Iran (OIETAI). Dieses Abkommen gilt jedoch nicht für Forderungen, die vor seinem Inkrafttreten erhoben oder beglichen wurden.
 
 ## ARTIKEL 11
 
-### BEILEGUNG VON STREITIGKEITEN ZWISCHEN EINER VERTRAGSPARTEI UND EINEM INVESTOR DER ANDEREN VERTRAGSPARTEI
+**BEILEGUNG VON STREITIGKEITEN ZWISCHEN EINER VERTRAGSPARTEI UND EINEM INVESTOR DER ANDEREN VERTRAGSPARTEI**
+
+### Art. 11
 
 (1) Kommt es zu einer Streitigkeit zwischen einer Vertragspartei und einem Investor der anderen Vertragspartei in Hinblick auf eine Investition, so sind die als Gastland fungierende Vertragspartei und der Investor in erster Linie bemüht, die Streitigkeit auf freundschaftlichem Weg durch Verhandlungen und Konsultationen beizulegen.
 
@@ -205,7 +227,9 @@ e) jedem anderen Streitbeilegungsverfahren auf das sich die Streitparteien einig
 
 ## ARTIKEL 12
 
-### BEILEGUNG VON STREITIGKEITEN ZWISCHEN DEN VERTRAGSPARTEIEN
+**BEILEGUNG VON STREITIGKEITEN ZWISCHEN DEN VERTRAGSPARTEIEN**
+
+### Art. 12
 
 (1) Alle Streitigkeiten zwischen den Vertragsparteien über die Auslegung oder Anwendung dieses Abkommens werden zunächst auf freundschaftlichem Weg durch Verhandlungen oder Konsultationen beigelegt.
 
@@ -221,13 +245,17 @@ Innerhalb von zwei Monaten nach Erhalt eines Antrags auf ein Schiedsverfahren be
 
 ## ARTIKEL 13
 
-### KONSULTATIONEN
+**KONSULTATIONEN**
+
+### Art. 13
 
 Jede Vertragspartei kann der anderen Vertragspartei Konsultationen über jede mit diesem Abkommen in Zusammenhang stehende Frage vorschlagen. Diese Konsultationen werden an einem Ort und zu einem Zeitpunkt, der auf diplomatischem Wege vereinbart wurde, abgehalten.
 
 ## ARTIKEL 14
 
-### GÜLTIGKEIT DES ABKOMMENS
+**GÜLTIGKEIT DES ABKOMMENS**
+
+### Art. 14
 
 (1) Dieses Abkommen wird von den zuständigen Organen jeder Vertragspartei in Übereinstimmung mit ihren Gesetzen und Rechtsvorschriften genehmigt/ratifiziert.
 
@@ -237,7 +265,9 @@ Jede Vertragspartei kann der anderen Vertragspartei Konsultationen über jede mi
 
 ## ARTIKEL 15
 
-### SPRACHE UND ANZAHL DER TEXTE
+**SPRACHE UND ANZAHL DER TEXTE**
+
+### Art. 15
 
 Dieses Abkommen erfolgt in zwei Urschriften in deutscher, persischer und englischer Sprache, wobei jeder Text gleichermaßen authentisch ist. Im Falle unterschiedlicher Auslegung geht der englische Text vor.
 

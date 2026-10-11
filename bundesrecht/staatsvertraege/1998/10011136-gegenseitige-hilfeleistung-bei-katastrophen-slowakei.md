@@ -47,7 +47,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 1
 
-### Gegenstand
+**Gegenstand**
+
+### Art. 1
 
 (1) Dieser Vertrag regelt die Bedingungen für die Zusammenarbeit und für freiwillige Hilfeleistungen bei Katastrophen auf dem Gebiet der anderen Vertragspartei auf deren Ersuchen hin, vor allem die Bedingungen für die Entsendung und den Einsatz von Hilfsmannschaften, von einzelnen zur Hilfeleistung entsandten Personen und des Materials.
 
@@ -55,7 +57,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 2
 
-### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+### Art. 2
 
 Für die Zwecke der Auslegung und Durchführung dieses Vertrages bedeuten die Begriffe:
 
@@ -85,7 +89,9 @@ Güter, die zur unentgeltlichen Abgabe an die betroffene Bevölkerung auf dem Ge
 
 ## Artikel 3
 
-### Behörden
+**Behörden**
+
+### Art. 3
 
 (1) Die für die Stellung und Entgegennahme von Hilfeersuchen zuständigen Behörden sind:
 
@@ -109,7 +115,9 @@ der Innenminister der Slowakischen Republik.
 
 ## Artikel 4
 
-### Hilfeersuchen
+**Hilfeersuchen**
+
+### Art. 4
 
 (1) Eine Hilfeleistung erfolgt ausschließlich auf Ersuchen der zuständigen Behörden der anderen Vertragspartei.
 
@@ -119,7 +127,9 @@ der Innenminister der Slowakischen Republik.
 
 ## Artikel 5
 
-### Arten der Hilfeleistung
+**Arten der Hilfeleistung**
+
+### Art. 5
 
 (1) Die Hilfe wird durch die Entsendung von Hilfsmannschaften oder einzelne zur Hilfeleistung entsandte Personen, durch die Sendung von Hilfsgütern oder auf andere geeignete Weise erfolgen.
 
@@ -129,7 +139,9 @@ der Innenminister der Slowakischen Republik.
 
 ## Artikel 6
 
-### Überschreiten der Staatsgrenze und Aufenthalt
+**Überschreiten der Staatsgrenze und Aufenthalt**
+
+### Art. 6
 
 (1) Die Angehörigen einer Hilfsmannschaft können die Staatsgrenze ohne Reisedokumente passieren und sich auf dem Gebiet des hilfeersuchenden Staates während des Zeitraumes der Hilfeleistung ohne Sichtvermerk und ohne Aufenthaltsgenehmigung aufhalten. Der Leiter der Hilfsmannschaft hat auf Verlangen ein Dokument vorzuweisen, das seine Zuständigkeit nachweist und die Namensliste der Angehörigen der Hilfsmannschaft enthält.
 
@@ -143,7 +155,9 @@ der Innenminister der Slowakischen Republik.
 
 ## Artikel 7
 
-### Grenzübergang der Ausrüstung und der Hilfsgüter
+**Grenzübergang der Ausrüstung und der Hilfsgüter**
+
+### Art. 7
 
 (1) Die Vertragsparteien erleichtern die Ein- und Ausfuhr der Ausrüstungsgegenstände und Hilfsgüter. Der Leiter einer Hilfsmannschaft hat den Grenzkontrollorganen des hilfeersuchenden Staates beim Grenzübertritt lediglich ein Verzeichnis der mitgeführten Ausrüstungsgegenstände und Hilfsgüter zu übergeben. Erfolgt bei besonderer Dringlichkeit der Grenzübertritt außerhalb zugelassener Grenzübertrittsstellen, ist dieses bei erster Gelegenheit einer zuständigen Zollstelle zu überreichen.
 
@@ -161,7 +175,9 @@ der Innenminister der Slowakischen Republik.
 
 ## Artikel 8
 
-### Einsätze mit Luftfahrzeugen
+**Einsätze mit Luftfahrzeugen**
+
+### Art. 8
 
 (1) Luftfahrzeuge können für die schnelle Heranführung der Hilfsmannschaften oder einzelner zur Hilfeleistung entsandter Personen und für andere Arten von Hilfeleistungen benutzt werden.
 
@@ -179,7 +195,9 @@ der Innenminister der Slowakischen Republik.
 
 ## Artikel 9
 
-### Koordination und Gesamtleitung
+**Koordination und Gesamtleitung**
+
+### Art. 9
 
 (1) Die Koordination und Gesamtleitung der sich aus diesem Vertrag ergebenden Rettungs- und Hilfsmaßnahmen obliegt in jedem Fall den Behörden des hilfeersuchenden Staates.
 
@@ -189,7 +207,9 @@ der Innenminister der Slowakischen Republik.
 
 ## Artikel 10
 
-### Einsatzkosten
+**Einsatzkosten**
+
+### Art. 10
 
 (1) Der hilfeleistende Staat hat gegenüber dem hilfeersuchenden Staat keinen Anspruch auf Ersatz der Kosten der Hilfeleistung. Dies gilt auch für Kosten, die durch Verbrauch, Beschädigung oder Verlust der Ausrüstung entstehen.
 
@@ -201,7 +221,9 @@ der Innenminister der Slowakischen Republik.
 
 ## Artikel 11
 
-### Schadenersatz
+**Schadenersatz**
+
+### Art. 11
 
 (1) Jede Vertragspartei verzichtet auf alle ihr gegen die andere Vertragspartei oder deren zur Hilfeleistung bestimmte Personen zustehenden Ansprüche auf Ersatz von Vermögensschäden, die von einer zur Hilfeleistung bestimmten Person der anderen Vertragspartei im Zusammenhang mit der Erfüllung ihres Auftrages verursacht worden sind.
 
@@ -215,7 +237,9 @@ der Innenminister der Slowakischen Republik.
 
 ## Artikel 12
 
-### Evakuierte Personen
+**Evakuierte Personen**
+
+### Art. 12
 
 (1) Personen, die bei einer Katastrophe als Evakuierte und deren Begleiter vom Hoheitsgebiet einer Vertragspartei in das Hoheitsgebiet der anderen gelangt sind, erhalten dort bis zum Zeitpunkt der frühesten Rückkehrmöglichkeit die notwendige Versorgung und Hilfe. Der hilfeersuchende Staat erstattet die Kosten dieser Unterstützung und der Rückführung dieser Personen.
 
@@ -223,7 +247,9 @@ der Innenminister der Slowakischen Republik.
 
 ## Artikel 13
 
-### Weitere Formen der Zusammenarbeit
+**Weitere Formen der Zusammenarbeit**
+
+### Art. 13
 
 (1) Die Vertragsparteien arbeiten darüber hinaus insbesondere in folgenden Bereichen zusammen:
 
@@ -239,25 +265,33 @@ die gegenseitige Unterrichtung umfaßt auch die Übermittlung von Meßdaten.
 
 ## Artikel 14
 
-### Fernmelde- und Funkverbindungen
+**Fernmelde- und Funkverbindungen**
+
+### Art. 14
 
 Die Vertragsparteien treffen gemeinsam Vorkehrungen für die bei Hilfeleistung erforderlichen Fernmelde- und Funkverbindungen.
 
 ## Artikel 15
 
-### Beilegung von Meinungsverschiedenheiten
+**Beilegung von Meinungsverschiedenheiten**
+
+### Art. 15
 
 Meinungsverschiedenheiten über die Auslegung und Anwendung dieses Vertrages, die nicht unmittelbar durch die befaßten Behörden beigelegt werden können, werden auf diplomatischem Wege bereinigt.
 
 ## Artike1 16
 
-### Andere vertragliche Regelungen
+**Andere vertragliche Regelungen**
+
+### Art. 16
 
 Bestehende zweiseitige vertragliche Regelungen zwischen den Vertragsparteien bleiben unberührt; mehrseitige Abkommen nur insofern, als dieser Vertrag keine andere Regelung vorsieht.
 
 ## Artike1 17
 
-### Inkrafttreten
+**Inkrafttreten**
+
+### Art. 17
 
 (1) Dieser Vertrag ist zu ratifizieren. Die Ratifikationsurkunden werden in Preßburg ausgetauscht.
 
@@ -265,7 +299,9 @@ Bestehende zweiseitige vertragliche Regelungen zwischen den Vertragsparteien ble
 
 ## Artikel 18
 
-### Geltungsdauer
+**Geltungsdauer**
+
+### Art. 18
 
 Dieser Vertrag wird auf unbestimmte Zeit abgeschlossen und kann von jeder der Vertragsparteien schriftlich, auf diplomatischem Wege gekündigt werden. Er tritt sechs Monate nach dem Zugang der Kündigung außer Kraft.
 

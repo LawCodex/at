@@ -1202,7 +1202,9 @@ jedoch ausgenommen der in Liste B ausdrücklich aufgeführten Abfälle.
 
 20\) Dieser Eintrag schließt mit chemischen Holzschutzmitteln behandeltes Holz nicht ein.
 
-### Liste B
+**Liste B**
+
+### Anl. 9
 
 Die in dieser Anlage aufgeführten Abfälle werden nicht von Artikel 1 Absatz 1 Buchstabe a dieses Übereinkommens erfaßt, es sei denn, sie enthalten in Anlage I genannte Stoffe in solchen Mengen, daß sie eine der in Anlage III festgelegten Eigenschaften aufweisen.
 

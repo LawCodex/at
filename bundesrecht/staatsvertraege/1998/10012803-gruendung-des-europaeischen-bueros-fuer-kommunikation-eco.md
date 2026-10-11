@@ -292,7 +292,9 @@ GESCHEHEN zu Den Haag, am 23. Juni 1993, in einer Urschrift in deutscher, englis
 
 Die Mitglieder der CEPT, die nicht Vertragsparteien dieses Übereinkommens sind, sind in eckigen Klammern aufgeführt. Sie wurden in die Kategorie der Beitragseinheiten eingestuft, die der Einheit im Rahmen der CEPT-Vereinbarung entspricht.
 
-## Schiedsverfahren
+**Schiedsverfahren**
+
+## Anl. 2
 
 (1) Zur Entscheidung jeder in Artikel 19 dieses Übereinkommens genannten Streitigkeit wird nach Maßgabe der Absätze 2 bis 7 ein Schiedsgericht gebildet.
 

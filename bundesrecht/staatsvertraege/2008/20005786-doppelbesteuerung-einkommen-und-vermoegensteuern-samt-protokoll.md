@@ -56,11 +56,15 @@ Die Republik Österreich und das Königreich Dänemark, von dem Wunsche geleitet
 
 haben folgendes vereinbart:
 
-### <u>Artikel 1</u> – <u>UNTER DAS ABKOMMEN FALLENDE PERSONEN</u>
+**<u>Artikel 1</u>**
+
+### Art. 1 – <u>UNTER DAS ABKOMMEN FALLENDE PERSONEN</u>
 
 Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Vertragsstaaten ansässig sind.
 
-### <u>Artikel 2</u> – <u>UNTER DAS ABKOMMEN FALLENDE STEUERN</u>
+**<u>Artikel 2</u>**
+
+### Art. 2 – <u>UNTER DAS ABKOMMEN FALLENDE STEUERN</u>
 
 (1) Dieses Abkommen gilt, ohne Rücksicht auf die Art der Erhebung, für Steuern vom Einkommen und vom Vermögen, die für Rechnung eines Vertragsstaats oder seiner Gebietskörperschaften erhoben werden.
 
@@ -92,7 +96,9 @@ b) in Österreich:
 
 (4) Das Abkommen gilt auch für alle Steuern gleicher oder im wesentlichen ähnlicher Art, die nach der Unterzeichnung des Abkommens neben den bestehenden Steuern oder an deren Stelle erhoben werden. Die zuständigen Behörden der Vertragsstaaten teilen einander die in ihren Steuergesetzen eingetretenen wesentlichen Änderungen mit.
 
-### <u>Artikel 3</u> – <u>ALLGEMEINE BEGRIFFSBESTIMMUNGEN</u>
+**<u>Artikel 3</u>**
+
+### Art. 3 – <u>ALLGEMEINE BEGRIFFSBESTIMMUNGEN</u>
 
 (1) Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert,
 
@@ -130,7 +136,9 @@ Personenvereinigung, die nach dem in einem Vertragsstaat geltenden Recht erricht
 
 (2) Bei der Anwendung des Abkommens durch einen Vertragsstaat hat, wenn der Zusammenhang nichts anderes erfordert, jeder im Abkommen nicht definierte Ausdruck die Bedeutung, die ihm im Anwendungszeitraum nach dem Recht dieses Staates über die Steuern zukommt, für die das Abkommen gilt, wobei die Bedeutung nach dem in diesem Staat anzuwendenden Steuerrecht den Vorrang vor einer Bedeutung hat, die der Ausdruck nach anderem Recht dieses Staates hat.
 
-### <u>Artikel 4</u> – <u>ANSÄSSIGE PERSON</u>
+**<u>Artikel 4</u>**
+
+### Art. 4 – <u>ANSÄSSIGE PERSON</u>
 
 (1) Im Sinne dieses Abkommens bedeutet der Ausdruck „eine in einem Vertragsstaat ansässige Person“ eine Person, die nach dem Recht dieses Staates dort auf Grund ihres Wohnsitzes, ihres ständigen Aufenthalts, des Ortes ihrer Geschäftsleitung oder eines anderen ähnlichen Merkmals steuerpflichtig ist, und umfasst auch diesen Staat und seine Gebietskörperschaften. Der Ausdruck umfasst jedoch nicht eine Person, die in diesem Staat nur mit Einkünften aus Quellen in diesem Staat oder mit in diesem Staat gelegenem Vermögen steuerpflichtig ist.
 
@@ -146,7 +154,9 @@ d) ist die Person Staatsangehöriger beider Staaten oder keines der Staaten, so 
 
 (3) Ist nach Absatz 1 eine andere als eine natürliche Person in beiden Vertragsstaaten ansässig, so gilt sie als nur in dem Staat ansässig, in dem sich der Ort ihrer tatsächlichen Geschäftsleitung befindet.
 
-### <u>Artikel 5</u> – <u>BETRIEBSTÄTTE</u>
+**<u>Artikel 5</u>**
+
+### Art. 5 – <u>BETRIEBSTÄTTE</u>
 
 (1) Im Sinne dieses Abkommens bedeutet der Ausdruck „Betriebstätte“ eine feste Geschäftseinrichtung, durch die die Tätigkeit eines Unternehmens ganz oder teilweise ausgeübt wird.
 
@@ -190,7 +200,9 @@ f) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 \*Anm.: vgl. die „synthetisierte“ Version des DBA Dänemark plus MLI in* [*Anlage 4*](https://www.ris.bka.gv.at/eli/bgbl/iii/2008/41/ANL2/NOR40271606)*)*
 
-### <u>Artikel 6</u> – <u>EINKÜNFTE AUS UNBEWEGLICHEM VERMÖGEN</u>
+**<u>Artikel 6</u>**
+
+### Art. 6 – <u>EINKÜNFTE AUS UNBEWEGLICHEM VERMÖGEN</u>
 
 (1) Einkünfte, die eine in einem Vertragsstaat ansässige Person aus unbeweglichem Vermögen (einschließlich der Einkünfte aus land- und forstwirtschaftlichen Betrieben) bezieht, das im anderen Vertragsstaat liegt, dürfen im anderen Staat besteuert werden.
 
@@ -200,7 +212,9 @@ f) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 (4) Die Absätze 1 und 3 gelten auch für Einkünfte aus unbeweglichem Vermögen eines Unternehmens und für Einkünfte aus unbeweglichem Vermögen, das der Ausübung einer selbständigen Arbeit dient.
 
-### <u>Artikel 7</u> – <u>UNTERNEHMENSGEWINNE</u>
+**<u>Artikel 7</u>**
+
+### Art. 7 – <u>UNTERNEHMENSGEWINNE</u>
 
 (1) Gewinne eines Unternehmens eines Vertragsstaats dürfen nur in diesem Staat besteuert werden, es sei denn, das Unternehmen übt seine Tätigkeit im anderen Vertragsstaat durch eine dort gelegene Betriebstätte aus. Übt das Unternehmen seine Tätigkeit auf diese Weise aus, so dürfen die Gewinne des Unternehmens im anderen Staat besteuert werden, jedoch nur insoweit, als sie dieser Betriebstätte zugerechnet werden können.
 
@@ -218,7 +232,9 @@ f) eine feste Geschäftseinrichtung, die ausschließlich zu dem Zweck unterhalte
 
 (8) Der in diesem Artikel verwendete Ausdruck „Gewinne“ umfasst auch Gewinne eines Gesellschafters aus seiner Beteiligung an einer Personengesellschaft und im Fall Österreichs auch aus der Beteiligung an einer stillen Gesellschaft des österreichischen Rechts.
 
-### <u>Artikel 8</u> – <u>SEESCHIFFFAHRT, BINNENSCHIFFFAHRT, LUFTFAHRT UND CONTAINER</u>
+**<u>Artikel 8</u>**
+
+### Art. 8 – <u>SEESCHIFFFAHRT, BINNENSCHIFFFAHRT, LUFTFAHRT UND CONTAINER</u>
 
 (1) Gewinne aus dem Betrieb von Seeschiffen oder Luftfahrzeugen im internationalen Verkehr dürfen nur in dem Vertragsstaat besteuert werden, in dem sich der Ort der tatsächlichen Geschäftsleitung des Unternehmens befindet.
 
@@ -232,7 +248,9 @@ Zu diesen Gewinnen gehören auch Einkünfte des Unternehmens aus der Benutzung, 
 
 (5) Hinsichtlich der Gewinne, die vom dänischen, norwegischen und schwedischen Luftfahrtkonsortium Scandinavian Airlines System (SAS) bezogen werden, gelten die Bestimmungen der Absätze 1 und 4 nur für den Teil der Gewinne, der der Beteiligung der SAS Denmark A/S, dem dänischen Gesellschafter des Scandinavian Airlines System (SAS), an dem Konsortium entspricht.
 
-### <u>Artikel 9</u> – <u>VERBUNDENE UNTERNEHMEN</u>
+**<u>Artikel 9</u>**
+
+### Art. 9 – <u>VERBUNDENE UNTERNEHMEN</u>
 
 (1) Wenn
 
@@ -244,7 +262,9 @@ und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finan
 
 (2) Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet – und entsprechend besteuert –, mit denen ein Unternehmen des anderen Vertragsstaats in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor, wenn der andere Staat die Änderung für gerechtfertigt hält. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; erforderlichenfalls werden die zuständigen Behörden der Vertragsstaaten einander konsultieren.
 
-### <u>Artikel 10</u> – <u>DIVIDENDEN</u>
+**<u>Artikel 10</u>**
+
+### Art. 10 – <u>DIVIDENDEN</u>
 
 (1) Dividenden, die eine in einem Vertragsstaat ansässige Gesellschaft an eine im anderen Vertragsstaat ansässige Person zahlt, dürfen im anderen Staat besteuert werden.
 
@@ -262,7 +282,9 @@ Dieser Absatz berührt nicht die Besteuerung der Gesellschaft in Bezug auf die G
 
 (5) Bezieht eine in einem Vertragsstaat ansässige Gesellschaft Gewinne oder Einkünfte aus dem anderen Vertragsstaat, so darf dieser andere Staat weder die von der Gesellschaft gezahlten Dividenden besteuern, es sei denn, dass diese Dividenden an eine im anderen Staat ansässige Person gezahlt werden oder dass die Beteiligung, für die die Dividenden gezahlt werden, tatsächlich zu einer im anderen Staat gelegenen Betriebstätte oder festen Einrichtung gehört, noch Gewinne der Gesellschaft einer Steuer für nichtausgeschüttete Gewinne unterwerfen, selbst wenn die gezahlten Dividenden oder die nichtausgeschütteten Gewinne ganz oder teilweise aus im anderen Staat erzielten Gewinnen oder Einkünften bestehen.
 
-### <u>Artikel 11</u> – <u>ZINSEN</u>
+**<u>Artikel 11</u>**
+
+### Art. 11 – <u>ZINSEN</u>
 
 (1) Zinsen, die aus einem Vertragsstaat stammen und an eine im anderen Vertragsstaat ansässige Person gezahlt werden, dürfen, wenn diese Person der Nutzungsberechtigte ist, nur im anderen Staat besteuert werden.
 
@@ -272,7 +294,9 @@ Dieser Absatz berührt nicht die Besteuerung der Gesellschaft in Bezug auf die G
 
 (4) Bestehen zwischen dem Schuldner und dem Nutzungsberechtigten oder zwischen jedem von ihnen und einem Dritten besondere Beziehungen und übersteigen deshalb die Zinsen, gemessen an der zugrundeliegenden Forderung, den Betrag, den Schuldner und Nutzungsberechtigter ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf den letzteren Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht eines jeden Vertragsstaats und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
 
-### <u>Artikel 12</u> – <u>LIZENZGEBÜHREN</u>
+**<u>Artikel 12</u>**
+
+### Art. 12 – <u>LIZENZGEBÜHREN</u>
 
 (1) Lizenzgebühren, die aus einem Vertragsstaat stammen und an eine im anderen Vertragsstaat ansässige Person gezahlt werden, dürfen, wenn diese Person der Nutzungsberechtigte ist, nur im anderen Staat besteuert werden.
 
@@ -282,7 +306,9 @@ Dieser Absatz berührt nicht die Besteuerung der Gesellschaft in Bezug auf die G
 
 (4) Bestehen zwischen dem Schuldner und dem Nutzungsberechtigten oder zwischen jedem von ihnen und einem Dritten besondere Beziehungen und übersteigen deshalb die Lizenzgebühren, gemessen an der zugrundeliegenden Leistung, den Betrag, den Schuldner und Nutzungsberechtigter ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf den letzteren Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht eines jeden Vertragsstaats und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
 
-### <u>Artikel 13</u> – <u>GEWINNE AUS DER VERÄUSSERUNG VON VERMÖGEN</u>
+**<u>Artikel 13</u>**
+
+### Art. 13 – <u>GEWINNE AUS DER VERÄUSSERUNG VON VERMÖGEN</u>
 
 (1) Gewinne, die eine in einem Vertragsstaat ansässige Person aus der Veräußerung unbeweglichen Vermögens im Sinne des Artikels 6 bezieht, das im anderen Vertragsstaat liegt, dürfen im anderen Staat besteuert werden.
 
@@ -294,13 +320,17 @@ Dieser Absatz berührt nicht die Besteuerung der Gesellschaft in Bezug auf die G
 
 (5) Hinsichtlich der Gewinne, die vom dänischen, norwegischen und schwedischen Luftfahrtkonsortium Scandinavian Airlines System (SAS) bezogen werden, gilt Absatz 3 nur für den Teil der Gewinne, der der Beteiligung der SAS Denmark A/S, dem dänischen Gesellschafter des Scandinavian Airlines System (SAS), an dem Konsortium entspricht.
 
-### <u>Artikel 14</u> – <u>SELBSTÄNDIGE ARBEIT</u>
+**<u>Artikel 14</u>**
+
+### Art. 14 – <u>SELBSTÄNDIGE ARBEIT</u>
 
 (1) Einkünfte, die eine in einem Vertragsstaat ansässige Person aus einem freien Beruf oder aus sonstiger selbständiger Tätigkeit bezieht, dürfen nur in diesem Staat besteuert werden, es sei denn, dass der Person im anderen Vertragsstaat für die Ausübung ihrer Tätigkeit gewöhnlich eine feste Einrichtung zur Verfügung steht. Steht ihr eine solche feste Einrichtung zur Verfügung, so dürfen die Einkünfte im anderen Staat besteuert werden, jedoch nur insoweit, als sie dieser festen Einrichtung zugerechnet werden können.
 
 (2) Der Ausdruck „freier Beruf“ umfasst insbesondere die selbständig ausgeübte wissenschaftliche, literarische, künstlerische, erzieherische oder unterrichtende Tätigkeit sowie die selbständige Tätigkeit der Ärzte, Rechtsanwälte, Ingenieure, Architekten, Zahnärzte und Buchsachverständigen.
 
-### <u>Artikel 15</u> – <u>UNSELBSTÄNDIGE ARBEIT</u>
+**<u>Artikel 15</u>**
+
+### Art. 15 – <u>UNSELBSTÄNDIGE ARBEIT</u>
 
 (1) Vorbehaltlich der Artikel 16, 18 und 19 dürfen Gehälter, Löhne und ähnliche Vergütungen, die eine in einem Vertragsstaat ansässige Person aus unselbständiger Arbeit bezieht, nur in diesem Staat besteuert werden, es sei denn, die Arbeit wird im anderen Vertragsstaat ausgeübt. Wird die Arbeit dort ausgeübt, so dürfen die dafür bezogenen Vergütungen im anderen Staat besteuert werden.
 
@@ -316,17 +346,23 @@ c) die Vergütungen nicht von einer Betriebstätte oder einer festen Einrichtung
 
 (4) Bezieht eine in Dänemark ansässige Person Vergütungen für unselbständige Arbeit, die an Bord eines Luftfahrzeuges ausgeübt wird, das im internationalen Verkehr vom Konsortium Scandinavian Airlines System (SAS) betrieben wird, so dürfen diese Vergütungen nur in Dänemark besteuert werden.
 
-### <u>Artikel 16</u> – <u>AUFSICHTSRATS- UND VERWALTUNGSRATSVERGÜTUNGEN</u>
+**<u>Artikel 16</u>**
+
+### Art. 16 – <u>AUFSICHTSRATS- UND VERWALTUNGSRATSVERGÜTUNGEN</u>
 
 Aufsichtsrats- oder Verwaltungsratsvergütungen und ähnliche Zahlungen, die eine in einem Vertragsstaat ansässige Person in ihrer Eigenschaft als Mitglied des Aufsichts- oder Verwaltungsrats einer Gesellschaft bezieht, die im anderen Vertragsstaat ansässig ist, dürfen im anderen Staat besteuert werden.
 
-### <u>Artikel 17</u> – <u>KÜNSTLER UND SPORTLER</u>
+**<u>Artikel 17</u>**
+
+### Art. 17 – <u>KÜNSTLER UND SPORTLER</u>
 
 (1) Ungeachtet der Artikel 7, 14 und 15 dürfen Einkünfte, die eine in einem Vertragsstaat ansässige Person als Künstler, wie Bühnen-, Film-, Rundfunk- und Fernsehkünstler sowie Musiker, oder als Sportler aus ihrer im anderen Vertragsstaat persönlich ausgeübten Tätigkeit bezieht, im anderen Staat besteuert werden.
 
 (2) Fließen Einkünfte aus einer von einem Künstler oder Sportler in dieser Eigenschaft persönlich ausgeübten Tätigkeit nicht dem Künstler oder Sportler selbst, sondern einer anderen Person zu, so dürfen diese Einkünfte ungeachtet der Artikel 7, 14 und 15 in dem Vertragsstaat besteuert werden, in dem der Künstler oder Sportler seine Tätigkeit ausübt.
 
-### <u>Artikel 18</u> – <u>RUHEGEHÄLTER UND ÄHNLICHE VERGÜTUNGEN</u>
+**<u>Artikel 18</u>**
+
+### Art. 18 – <u>RUHEGEHÄLTER UND ÄHNLICHE VERGÜTUNGEN</u>
 
 (1) Vorbehaltlich des Artikels 19 Absatz 2 dürfen Ruhegehälter, Renten und ähnliche Vergütungen, die einer in einem Vertragsstaat ansässigen Person gezahlt werden, nur in diesem Staat besteuert werden.
 
@@ -336,7 +372,9 @@ Aufsichtsrats- oder Verwaltungsratsvergütungen und ähnliche Zahlungen, die ein
 
 (4) Der Ausdruck „Renten“ bedeutet bestimmte Beträge, die regelmäßig zu festgesetzten Zeitpunkten auf Lebenszeit oder während eines bestimmten oder bestimmbaren Zeitabschnitts aufgrund einer Verpflichtung zahlbar sind, die diese Zahlungen als angemessene Gegenleistung für in Geld oder Geldeswert erbrachte Leistungen vorsieht.
 
-### <u>Artikel 19</u> – <u>ÖFFENTLICHER DIENST</u>
+**<u>Artikel 19</u>**
+
+### Art. 19 – <u>ÖFFENTLICHER DIENST</u>
 
 (1) Gehälter, Löhne und ähnliche Vergütungen, ausgenommen Ruhegehälter, die von einem Vertragsstaat oder einer seiner Gebietskörperschaften an eine natürliche Person für die diesem Staat oder der Gebietskörperschaft geleisteten Dienste gezahlt werden, dürfen nur in diesem Staat besteuert werden.
 
@@ -348,13 +386,17 @@ b) Diese Ruhegehälter dürfen jedoch nur im anderen Vertragsstaat besteuert wer
 
 (4) Auf Gehälter, Löhne und ähnliche Vergütungen und Ruhegehälter für Dienstleistungen, die im Zusammenhang mit einer gewerblichen Tätigkeit eines Vertragsstaats oder einer seiner Gebietskörperschaften erbracht werden, sind die Artikel 15, 16, 17 oder 18 anzuwenden.
 
-### <u>Artikel 20</u> – <u>STUDENTEN</u>
+**<u>Artikel 20</u>**
+
+### Art. 20 – <u>STUDENTEN</u>
 
 Zahlungen, die ein Student, Praktikant oder Lehrling, der sich in einem Vertragsstaat ausschließlich zum Studium oder zur Ausbildung aufhält und der im anderen Vertragsstaat ansässig ist oder dort unmittelbar vor der Einreise in den erstgenannten Staat ansässig war, für seinen Unterhalt, sein Studium oder seine Ausbildung erhält, dürfen im erstgenannten Staat nicht besteuert werden, sofern diese Zahlungen aus Quellen außerhalb dieses Staates stammen.
 
 ## <u>TÄTIGKEITEN IM ZUSAMMENHANG MIT VORBEREITENDEN UNTERSUCHUNGEN, DER ERFORSCHUNG ODER DER FÖRDERUNG VON KOHLENWASSERSTOFFEN</u>
 
-### <u>Artikel 21</u>
+**<u>Artikel 21</u>**
+
+### Art. 21
 
 (1) Ungeachtet der Artikel 5 und 14 wird eine in einem Vertragsstaat ansässige Person, die Tätigkeiten im Zusammenhang mit vorbereitenden Untersuchungen, der Erforschung oder der Förderung von im anderen Vertragsstaat gelegenen Kohlenwasserstoffvorkommen ausübt, in Bezug auf diese Tätigkeiten so behandelt, als übe sie eine Geschäftstätigkeit im anderen Vertragsstaat durch eine dort gelegene Betriebstätte oder feste Einrichtung aus.
 
@@ -368,7 +410,9 @@ Zahlungen, die ein Student, Praktikant oder Lehrling, der sich in einem Vertrags
 
 (6) Ungeachtet der Bestimmungen von Artikel 13 ist ein Veräußerungsgewinn, der einem Ansässigen eines Vertragsstaats im Zusammenhang mit Bohrinseln, die für die in Absatz 3 erwähnten Tätigkeiten benutzt werden, zugerechnet wird, wenn die Bohrinsel-Tätigkeiten im anderen Vertragsstaat nicht mehr besteuert werden, von der Steuer im anderen Staat befreit. Für die Zwecke dieses Absatzes bedeutet der Ausdruck „Veräußerungsgewinn“ den Betrag, um den der Marktwert den um in Anspruch genommene Abschreibungen erhöhten Restwert im Zeitpunk der Übertragung übersteigt.
 
-### <u>Artikel 22</u> – <u>ANDERE EINKÜNFTE</u>
+**<u>Artikel 22</u>**
+
+### Art. 22 – <u>ANDERE EINKÜNFTE</u>
 
 (1) Einkünfte einer in einem Vertragsstaat ansässigen Person, die in den vorstehenden Artikeln nicht behandelt wurden, dürfen ohne Rücksicht auf ihre Herkunft nur in diesem Staat besteuert werden.
 
@@ -376,7 +420,9 @@ Zahlungen, die ein Student, Praktikant oder Lehrling, der sich in einem Vertrags
 
 > **Anmerkung:** siehe auch Protokoll in Anl. 1
 
-### <u>Artikel 23</u> – <u>VERMÖGEN</u>
+**<u>Artikel 23</u>**
+
+### Art. 23 – <u>VERMÖGEN</u>
 
 (1) Unbewegliches Vermögen im Sinne des Artikels 6, das einer in einem Vertragsstaat ansässigen Person gehört und im anderen Vertragsstaat liegt, darf im anderen Staat besteuert werden.
 
@@ -386,7 +432,9 @@ Zahlungen, die ein Student, Praktikant oder Lehrling, der sich in einem Vertrags
 
 (4) Alle anderen Vermögensteile einer in einem Vertragsstaat ansässigen Person dürfen nur in diesem Staat besteuert werden.
 
-### <u>Artikel 24</u> – <u>VERMEIDUNG DER DOPPELBESTEUERUNG</u>
+**<u>Artikel 24</u>**
+
+### Art. 24 – <u>VERMEIDUNG DER DOPPELBESTEUERUNG</u>
 
 Die Doppelbesteuerung wird wie folgt vermieden:
 
@@ -416,7 +464,9 @@ d) Einkünfte, die eine in Österreich ansässige Person bezieht und die Österr
 
 \*Anm.: vgl. die „synthetisierte“ Version des DBA Dänemark plus MLI in* [*Anlage 4*](https://www.ris.bka.gv.at/eli/bgbl/iii/2008/41/ANL2/NOR40271606)*)*
 
-### <u>Artikel 25</u> – <u>GLEICHBEHANDLUNG</u>
+**<u>Artikel 25</u>**
+
+### Art. 25 – <u>GLEICHBEHANDLUNG</u>
 
 (1) Staatsangehörige eines Vertragsstaats dürfen im anderen Vertragsstaat keiner Besteuerung oder damit zusammenhängenden Verpflichtung unterworfen werden, die anders oder belastender ist als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen Staatsangehörige des anderen Staates unter gleichen Verhältnissen, insbesondere hinsichtlich der Ansässigkeit, unterworfen sind oder unterworfen werden können. Diese Bestimmung gilt ungeachtet des Artikels 1 auch für Personen, die in keinem Vertragsstaat ansässig sind.
 
@@ -430,7 +480,9 @@ d) Einkünfte, die eine in Österreich ansässige Person bezieht und die Österr
 
 (6) Dieser Artikel gilt ungeachtet des Artikels 2 für Steuern jeder Art und Bezeichnung.
 
-### <u>Artikel 26</u> – <u>VERSTÄNDIGUNGSVERFAHREN</u>
+**<u>Artikel 26</u>**
+
+### Art. 26 – <u>VERSTÄNDIGUNGSVERFAHREN</u>
 
 (1) Ist eine Person der Auffassung, dass Maßnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie unbeschadet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde des Vertragsstaats, in dem sie ansässig ist, oder, sofern ihr Fall von Artikel 25 Absatz 1 erfasst wird, der zuständigen Behörde des Vertragsstaats unterbreiten, dessen Staatsangehöriger sie ist. Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Maßnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
 
@@ -466,11 +518,15 @@ c) Informationen zu erteilen, die ein Handels-, Industrie-, Gewerbe- oder Berufs
 
 ## <u>MITGLIEDER DIPLOMATISCHER MISSIONEN UND KONSULARISCHER VERTRETUNGEN</u>
 
-### <u>Artikel 28</u>
+**<u>Artikel 28</u>**
+
+### Art. 28
 
 Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Mitgliedern diplomatischer Missionen und konsularischer Vertretungen nach den allgemeinen Regeln des Völkerrechts oder auf Grund besonderer Übereinkünfte zustehen.
 
-### <u>Artikel 29</u> – <u>AUSDEHNUNG DES RÄUMLICHEN GELTUNGSBEREICHES</u>
+**<u>Artikel 29</u>**
+
+### Art. 29 – <u>AUSDEHNUNG DES RÄUMLICHEN GELTUNGSBEREICHES</u>
 
 (1) Das Abkommen kann entweder als Ganzes oder mit den erforderlichen Änderungen auf jeden Teil des Hoheitsgebiets von Dänemark, der ausdrücklich von der Anwendung des Abkommens ausgeschlossen ist, oder auf jeden anderen Staat oder jedes andere Hoheitsgebiet ausgedehnt werden, dessen internationale Beziehungen von Dänemark wahrgenommen werden und in dem Steuern erhoben werden, die im wesentlichen den Steuern ähnlich sind, für die das Abkommen gilt. Eine solche Ausdehnung wird von dem Zeitpunkt an und mit den Änderungen und Bedingungen, einschließlich der Bedingungen für die Beendigung, wirksam, die zwischen den Vertragsstaaten durch auf diplomatischem Weg auszutauschende Noten oder auf andere, den Verfassungen dieser Staaten entsprechende Weise vereinbart werden.
 
@@ -480,7 +536,9 @@ Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Mitgliedern d
 
 \*Anm.: vgl. die „synthetisierte“ Version des DBA Dänemark plus MLI in* [*Anlage 4*](https://www.ris.bka.gv.at/eli/bgbl/iii/2008/41/ANL2/NOR40271606)*)*
 
-### <u>Artikel 30</u> – <u>INKRAFTTRETEN</u>
+**<u>Artikel 30</u>**
+
+### Art. 30 – <u>INKRAFTTRETEN</u>
 
 (1) Die Vertragsstaaten teilen einander mit, dass die verfassungsmäßigen Voraussetzungen für das Inkrafttreten dieses Abkommens erfüllt sind.
 
@@ -496,7 +554,9 @@ Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Mitgliedern d
 
 <sup>2</sup> Kundgemacht in BGBl. Nr. 20/1972.
 
-### <u>Artikel 31</u> – <u>KÜNDIGUNG</u>
+**<u>Artikel 31</u>**
+
+### Art. 31 – <u>KÜNDIGUNG</u>
 
 Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekündigt wird. Jeder Vertragsstaat kann das Abkommen nach Ablauf eines Zeitraumes von fünf Jahren ab dem Jahr, in dem das Abkommen in Kraft tritt, auf diplomatischem Weg unter Einhaltung einer Frist von mindestens sechs Monaten zum Ende eines Kalenderjahres kündigen. In diesem Fall findet das Abkommen nicht mehr Anwendung auf Steuern für das Steuerjahr, das jenem unmittelbar folgt, in dem die Kündigung erfolgt ist, und darauf folgende Steuerjahre.
 

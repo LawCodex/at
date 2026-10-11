@@ -471,7 +471,9 @@ ZU URKUND DESSEN haben die hiezu gehörig Bevollmächtigten der beiden Vertragss
 
 GESCHEHEN zu Sarajewo, am 16. Dezember 2010, in zweifacher Ausfertigung, jede in deutscher, bosnischer/kroatischer/serbischer und englischer Sprache, wobei jeder Text gleichermaßen authentisch ist. Im Zweifel ist der englische Text maßgeblich.
 
-## PROTOKOLL
+**PROTOKOLL**
+
+## Anl. 1
 
 Im Zeitpunkt der Unterzeichnung des Abkommens zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen, das heute zwischen der Republik Österreich und Bosnien und Herzegowina abgeschlossen wurde, sind die Gefertigten übereingekommen, dass die folgenden Bestimmungen einen integrierenden Bestandteil dieses Abkommens bilden.
 

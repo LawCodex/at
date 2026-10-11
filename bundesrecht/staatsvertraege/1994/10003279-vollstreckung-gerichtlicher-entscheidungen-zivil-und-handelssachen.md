@@ -1,0 +1,91 @@
+---
+title: "Vollstreckung gerichtlicher Entscheidungen Zivil- und Handelssachen"
+identifier: "10003279"
+type: treaty
+ris_type: "Vertrag – Türkei"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 949/1994"
+date: 1989-05-23
+last_amended: 1994-11-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1994/949/P0/NOR11003306"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003279"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Vollstreckung gerichtlicher Entscheidungen Zivil- und Handelssachen
+
+Notenwechsel zur Auslegung der Art. 17 und 18 des Abkommens vom 23. Mai 1989 zwischen der Republik Österreich und der Republik Türkei über die Anerkennung und die Vollstreckung von gerichtlichen Entscheidungen und Vergleichen in Zivil- und Handelssachen
+
+(NR: GP XVIII RV 1643 AB 1850 S. 174. BR: AB 4927 S. 589.)
+
+StF: BGBl. Nr. 949/1994
+
+## Art. 1
+
+BUNDESMINISTERIUM
+
+FÜR AUSWÄRTIGE ANGELEGENHEITEN
+
+Zl. 212.03.01/8-IV.1/93
+
+\**Verbalnote**
+
+Das Bundesministerium für auswärtige Angelegenheiten entbietet der Türkischen Botschaft seine Empfehlungen und beehrt sich vorzuschlagen, daß auf gerichtliche Entscheidungen, die vor dem Inkrafttreten des Abkommens vom 23. Mai 1989 zwischen der Republik Österreich und der Republik Türkei über die Anerkennung und die Vollstreckung von gerichtlichen Entscheidungen und Vergleichen in Zivil- und Handelssachen \*1) (dh. vor dem 1. November 1992) gefällt worden sind, die Artikel 18 bis 22 des Übereinkommens vom 22. Juni 1930 zwischen Österreich und der Türkei über die wechselseitigen rechtlichen Beziehungen in Zivil- und Handelssachen und über die Vollstreckungshilfe \*2) weiterhin anzuwenden sind.
+
+Falls die Republik Türkei mit diesem Vorschlag einverstanden ist, werden diese Note und ihre bestätigende Antwortnote ein Abkommen zwischen der Republik Österreich und der Republik Türkei bilden, das am ersten Tag des zweiten Monats in Kraft tritt, der auf den Monat folgt, in dem die Vertragsstaaten einander mitteilen, daß die jeweiligen hiefür erforderlichen innerstaatlichen Voraussetzungen erfüllt sind.
+
+Das Bundesministerium für auswärtige Angelegenheiten benützt diese Gelegenheit, der Türkischen Botschaft die Versicherung seiner ausgezeichneten Hochachtung zu erneuern.
+
+Wien, am 10. Dezember 1993
+
+L.S.
+
+An die Türkische Botschaft
+
+Wien
+
+TÜRKISCHE BOTSCHAFT
+
+Wien
+
+2238-18-9
+
+\**Verbalnote**
+
+Die Türkische Botschaft entbietet dem Bundesministerium für auswärtige Angelegenheiten ihre Empfehlungen und beehrt sich, den Empfang der Verbalnote des Ministeriums Zl. 212.03.01/8-IV.1/93 vom 10. Dezember 1993 zu bestätigen, die wie folgt lautet:
+
+(Anm.: es folgt der Text der Verbalnote)
+
+Die Republik Türkei ist mit dem Inhalt dieser Verbalnote einverstanden.
+
+Die Türkische Botschaft benützt diesen Anlaß, dem Bundesministerium für auswärtige Angelegenheiten erneut die Versicherung ihrer vorzüglichsten Hochachtung auszudrücken.
+
+Wien, den 10. Januar 1994
+
+L.S.
+
+An das Bundesministerium für
+
+auswärtige Angelegenheiten
+
+Wien
+
+\---------------------------------------------------------------------
+
+\*1) Kundgemacht in BGBl. Nr. 571/1992
+
+\*2) Kundgemacht in BGBl. Nr. 90/1932
+
+## Ratifikationstext
+
+Die für das Inkrafttreten erforderlichen Mitteilungen wurden am 2. Mai beziehungsweise 12. September 1994 abgegeben; der Notenwechsel ist mit 1. November 1994 in Kraft getreten.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluß des nachstehenden Staatsvertrages wird genehmigt.

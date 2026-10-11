@@ -45,7 +45,9 @@ unter Berücksichtigung der Verpflichtungen aus internationalen Rechtsakten, die
 
 wie folgt übereingekommen:
 
-#### DEFINITIONEN – Artikel 1
+**DEFINITIONEN**
+
+#### Art. 1 – Artikel 1
 
 Für die Zwecke dieses Abkommens bedeuten:
 
@@ -83,7 +85,9 @@ Für die Zwecke dieses Abkommens bedeuten:
 
 <sup>4</sup> Kundgemacht in BGBl. III Nr. 154/1997.
 
-#### ANWENDUNGSBEREICH DES ABKOMMENS – Artikel 2
+**ANWENDUNGSBEREICH DES ABKOMMENS**
+
+#### Art. 2 – Artikel 2
 
 (1) Die Vertragsparteien leisten einander im Einklang mit den Bestimmungen dieses Abkommens Amtshilfe im Wege ihrer Zollbehörden, um die ordnungsgemäße Befolgung der Zollvorschriften zu sichern, insbesondere durch die Verhinderung, Ermittlung und Bekämpfung und Ahndung jeglicher Zollzuwiderhandlungen.
 
@@ -93,7 +97,9 @@ Für die Zwecke dieses Abkommens bedeuten:
 
 (4) Die Amtshilfe im Rahmen dieses Abkommens umfasst nicht die Festnahme von Personen sowie die Einhebung und Beitreibung von Eingangs- und Ausgangsabgaben oder von Geldstrafen und sonstigen Beträgen.
 
-#### AMTSHILFE AUF ERSUCHEN – Artikel 3
+**AMTSHILFE AUF ERSUCHEN**
+
+#### Art. 3 – Artikel 3
 
 (1) Die Zollverwaltungen versorgen einander über Ersuchen mit allen erforderlichen Auskünften, die die ordnungsgemäße Anwendung der Zollvorschriften sicherstellen; diese Unterstützung schließt jede nötige Auskunft über festgestellte oder beabsichtigte Handlungen ein, die letztendlich Zollzuwiderhandlungen darstellen oder darstellen könnten.
 
@@ -107,7 +113,9 @@ Für die Zwecke dieses Abkommens bedeuten:
 
 (4) Die Zollbehörden der Vertragsparteien stellen über Ersuchen Unterlagen in Bezug auf den Transport und den Versand zur Verfügung, aus denen der Wert, der Ursprung, der Verbleib und der Bestimmungsort dieser Waren hervorgehen.
 
-#### AMTSHILFE OHNE ERSUCHEN – Artikel 4
+**AMTSHILFE OHNE ERSUCHEN**
+
+#### Art. 4 – Artikel 4
 
 Die Vertragsparteien unterstützen einander im Rahmen ihrer Zuständigkeiten, wenn dies für die ordnungsgemäße Anwendung der Zollvorschriften erforderlich ist, insbesondere wenn sie Informationen haben über:
 
@@ -121,7 +129,9 @@ Die Vertragsparteien unterstützen einander im Rahmen ihrer Zuständigkeiten, we
 
 – Auswahl und Erprobung neuer Ausrüstung und Verfahren.
 
-#### ÜBERWACHUNG VON PERSONEN, WAREN, TRANSPORTMITTELN UND ÖRTLICHKEITEN – Artikel 5
+**ÜBERWACHUNG VON PERSONEN, WAREN, TRANSPORTMITTELN UND ÖRTLICHKEITEN**
+
+#### Art. 5 – Artikel 5
 
 Auf Ersuchen veranlasst die ersuchte Zollverwaltung im Rahmen ihrer Rechts- und Verwaltungsvorschriften sowie ihrer Möglichkeiten eine zollamtliche Überwachung über:
 
@@ -133,7 +143,9 @@ Auf Ersuchen veranlasst die ersuchte Zollverwaltung im Rahmen ihrer Rechts- und 
 
 4\. Örtlichkeiten, wo Waren derart gelagert wurden oder werden, sodass berechtigter Grund zur Annahme besteht, dass sie in Verbindung mit Handlungen stehen, die zur Begehung von Zollzuwiderhandlungen im Gebiet der ersuchenden Vertragspartei führen könnten.
 
-#### FORM UND INHALT VON ERSUCHEN – Artikel 6
+**FORM UND INHALT VON ERSUCHEN**
+
+#### Art. 6 – Artikel 6
 
 (1) Amtshilfeersuchen nach diesem Abkommen sind schriftlich zu stellen. Alle notwendigen Unterlagen für die Erledigung des Ersuchens sind beizufügen. Im Fall besonderer Dringlichkeit können Ersuchen mündlich gestellt werden, bedürfen jedoch einer unverzüglichen schriftlichen Bestätigung. Die im Rahmen dieses Abkommens übermittelte Auskunft kann zum gleichen Zweck durch jegliche mittels Datenverarbeitung erstellte Information ersetzt werden.
 
@@ -159,13 +171,17 @@ Auf Ersuchen veranlasst die ersuchte Zollverwaltung im Rahmen ihrer Rechts- und 
 
 (6) Sollte ein Ersuchen nicht den Formalerfordernissen entsprechen, so kann seine Korrektur oder Vervollständigung verlangt werden; die Anwendung vorsorglicher Maßnahmen kann aber erfolgen.
 
-#### AMTSHILFEVERKEHR – Artikel 7
+**AMTSHILFEVERKEHR**
+
+#### Art. 7 – Artikel 7
 
 (1) Die Amtshilfe erfolgt direkt zwischen den Zollverwaltungen auf bestehenden Informationswegen um einen sicheren und raschen Informationsaustausch zu gewährleisten.
 
 (2) Falls die Zollbehörde der ersuchten Vertragspartei für die Bearbeitung eines Ersuchens nicht zuständig ist, so leitet sie nach entsprechender Verständigung das Ersuchen unverzüglich an die zuständige Behörde weiter, die das Ersuchen gemäß ihren Befugnissen nach innerstaatlichem Recht bearbeitet, oder teilt der ersuchenden Behörde mit, welche geeignete Vorgangsweise bezüglich dieses Ersuchens eingeschlagen werden kann.
 
-#### ERLEDIGUNG VON ERSUCHEN – Artikel 8
+**ERLEDIGUNG VON ERSUCHEN**
+
+#### Art. 8 – Artikel 8
 
 (1) Die Amtshilfeersuchen werden nach Maßgabe und in Übereinstimmung mit den gesetzlichen und verwaltungsbehördlichen Bestimmungen der ersuchten Vertragspartei erledigt.
 
@@ -181,13 +197,17 @@ Auf Ersuchen veranlasst die ersuchte Zollverwaltung im Rahmen ihrer Rechts- und 
 
 (7) Auf Ersuchen ist die ersuchende Behörde über Zeitpunkt und Ort der Maßnahmen in Erledigung des Ersuchens zu unterrichten, um die Maßnahme abstimmen zu können.
 
-#### SACHVERSTÄNDIGE UND ZEUGEN – Artikel 9
+**SACHVERSTÄNDIGE UND ZEUGEN**
+
+#### Art. 9 – Artikel 9
 
 (1) Beamte der ersuchten Behörde können ermächtigt werden, im Rahmen ihrer Ermächtigung als Sachverständige vor den Gerichts- oder Verwaltungsverfahren, welche Angelegenheiten dieses Abkommen betreffen, im Gebiet der ersuchenden Vertragspartei zu erscheinen und Akte, Dokumente oder amtlich beglaubigte Ablichtungen vorzulegen, wenn dies im Verfahren benötigt wird.
 
 (2) Im Ersuchen um Aussage muss klar darauf hingewiesen werden, für welches Verfahren und in welcher Eigenschaft der Beamte auszusagen hat.
 
-#### ZUSTELLUNG VON SCHRIFTSTÜCKEN – Artikel 10
+**ZUSTELLUNG VON SCHRIFTSTÜCKEN**
+
+#### Art. 10 – Artikel 10
 
 (1) Auf Ersuchen der ersuchenden Behörde unternimmt die ersuchte Behörde im Rahmen der nationalen Rechtsvorschriften alle erforderlichen Maßnahmen, um die Zustellung von Schriftstücken und rechtskräftige Bekanntgabe von Entscheidungen der ersuchenden Behörde, die unter dieses Abkommen fallen, an im Gebiet der ersuchten Vertragspartei wohnhafte oder aufhältige Personen zu bewirken.
 
@@ -195,7 +215,9 @@ Auf Ersuchen veranlasst die ersuchte Zollverwaltung im Rahmen ihrer Rechts- und 
 
 (3) Die Zustellung der Unterlagen ist durch Bestätigung des Empfängers, die das Zustelldatum enthält, oder durch eine amtliche Bestätigung über die Art und Weise sowie den Zeitpunkt der Zustellung zu belegen.
 
-#### AUSNAHMEN VON DER VERPFLICHTUNG ZUR AMTSHILFE – Artikel 11
+**AUSNAHMEN VON DER VERPFLICHTUNG ZUR AMTSHILFE**
+
+#### Art. 11 – Artikel 11
 
 (1) Wenn die ersuchte Vertragspartei der Ansicht ist, dass die Erledigung eines Ersuchens ihre Souveränität, die öffentliche Sicherheit, die Rechtsordnung oder andere wesentliche öffentliche Interessen beeinträchtigen oder zur Verletzung von Betriebs-, Geschäfts- oder Berufsgeheimnissen führen könnte, kann sie die Amtshilfe verweigern oder von der Einhaltung bestimmter Bedingungen und Erfordernisse abhängig machen. Die Amtshilfe kann auch verweigert werden, wenn sich das Ersuchen auf finanzielle Bestimmungen bezieht, die nicht die Zölle betreffen.
 
@@ -205,13 +227,17 @@ Auf Ersuchen veranlasst die ersuchte Zollverwaltung im Rahmen ihrer Rechts- und 
 
 (4) Sofern einem Amtshilfeersuchen nicht oder erst zu einem späteren Zeitpunkt nachgekommen wird, sind die Gründe für die Verweigerung oder die Aufschiebung der ersuchenden Behörde unverzüglich mitzuteilen.
 
-#### KOSTEN – Artikel 12
+**KOSTEN**
+
+#### Art. 12 – Artikel 12
 
 (1) Die Zollverwaltungen der Vertragsparteien verzichten auf alle Ansprüche auf Erstattung der sich aus der Durchführung dieses Abkommens ergebenden Kosten; davon ausgenommen sind Kosten und Gebühren für Zeugen, Sachverständige und Übersetzer, die nicht der staatlichen Verwaltung angehören.
 
 (2) Sollten Ausgaben in beträchtlicher und außergewöhnlicher Höhe bei Erledigung eines Ersuchens anfallen oder notwendig werden, so nehmen die Vertragsparteien Kontakt auf, um die Voraussetzungen und Bedingungen für die Erledigung des Ersuchens und das Verhältnis der Kostentragung festzulegen.
 
-#### VERTRAULICHKEIT UND VERWERTUNG DER AUSKÜNFTE – Artikel 13
+**VERTRAULICHKEIT UND VERWERTUNG DER AUSKÜNFTE**
+
+#### Art. 13 – Artikel 13
 
 (1) Jede Auskunft unter diesem Abkommen ist vertraulich. Sie unterliegt der Amtsverschwiegenheit und genießt den für eine derartige Auskunft geltenden Schutz nach den Rechtsvorschriften der Vertragspartei, die sie erhalten hat.
 
@@ -225,7 +251,9 @@ Auf Ersuchen veranlasst die ersuchte Zollverwaltung im Rahmen ihrer Rechts- und 
 
 (6) Die Bestimmungen dieses Abkommens berühren nicht die geltenden Vorschriften über den Informationsaustausch zwischen der Europäischen Kommission und den Zollbehörden der Mitgliedstaaten der Europäischen Gemeinschaft hinsichtlich von Zollzuwiderhandlungen gegen die finanziellen Interessen der Europäischen Gemeinschaft.
 
-#### KONTROLLIERTE LIEFERUNG – Artikel 14
+**KONTROLLIERTE LIEFERUNG**
+
+#### Art. 14 – Artikel 14
 
 (1) Die Vertragsparteien ergreifen im Rahmen ihrer Zuständigkeiten die erforderlichen Maßnahmen für den angemessenen Einsatz von kontrollierten Lieferungen für Zwecke strafrechtlicher Ermittlungen.
 
@@ -233,7 +261,9 @@ Auf Ersuchen veranlasst die ersuchte Zollverwaltung im Rahmen ihrer Rechts- und 
 
 (3) Illegale Warensendungen, deren kontrollierte Lieferung vereinbart wird, können im gegenseitigen Einvernehmen der zuständigen Behörden abgefangen und derart zur Weiterbeförderung freigegeben werden, dass ihr Inhalt unverändert bleibt, entfernt oder ganz oder teilweise ersetzt wird.
 
-#### DURCHFÜHRUNG DES ABKOMMENS – Artikel 15
+**DURCHFÜHRUNG DES ABKOMMENS**
+
+#### Art. 15 – Artikel 15
 
 (1) Die Durchführung dieses Abkommens obliegt den Zollbehörden der Vertragsparteien. Diese entscheiden über alle praktischen Maßnahmen und Absprachen zu seiner Umsetzung und sonstige Zollangelegenheiten von gegenseitigem Interesse.
 
@@ -241,7 +271,9 @@ Auf Ersuchen veranlasst die ersuchte Zollverwaltung im Rahmen ihrer Rechts- und 
 
 (3) Die Zollbehörden werden sich bemühen, Meinungsverschiedenheiten und Zweifel hinsichtlich der Anwendung dieses Abkommens einvernehmlich zu lösen. Die Beilegung von Meinungsverschiedenheiten auf diplomatischem Weg ist dadurch nicht ausgeschlossen.
 
-#### INKRAFTTRETEN UND KÜNDIGUNG – Artikel 16
+**INKRAFTTRETEN UND KÜNDIGUNG**
+
+#### Art. 16 – Artikel 16
 
 (1) Dieses Abkommen tritt am ersten Tag des dritten Monats in Kraft, der auf den Zeitpunkt folgt, in dem die Vertragsparteien einander schriftlich auf diplomatischem Weg mitteilen, dass die notwendigen innerstaatlichen rechtlichen Voraussetzungen für das Inkrafttreten des Abkommens gegeben sind.
 

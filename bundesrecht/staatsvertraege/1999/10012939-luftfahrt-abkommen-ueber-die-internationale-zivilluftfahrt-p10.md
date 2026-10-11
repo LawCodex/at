@@ -1,0 +1,108 @@
+---
+title: "Luftfahrt - Abkommen über die Internationale Zivilluftfahrt - P10"
+identifier: "10012939"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 104/1999"
+last_amended: 1998-10-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/iii/1999/104/P0/NOR11013347"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012939"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Luftfahrt - Abkommen über die Internationale Zivilluftfahrt - P10
+
+(Übersetzung)
+
+PROTOKOLL über eine Änderung des Abkommens über die Internationale Zivilluftfahrt Unterzeichnet in Montreal am 10. Mai 1984
+
+StF: BGBl. III Nr. 104/1999 (NR: GP XVI RV 384 AB 503 S. 72. BR: AB 2929 S. 455.)
+
+**Unterzeichnungsdatum:** 10.05.1984
+
+**Vertragsparteien:** Vertragsparteien siehe Stammvertrag, BGBl. Nr. 97/1949.
+
+**Sprachen:** Englisch, Französisch, Russisch, Spanisch
+
+## Art. 1
+
+\**DIE VERSAMMLUNG DER INTERNATIONALEN ZIVILLUFTFAHRT-ORGANISATION,**
+
+ZUSAMMENGETRETEN zu ihrer fünfundzwanzigsten (außerordentlichen) Tagung in Montreal am 10. Mai 1984,
+
+IN KENNTNISNAHME DESSEN, daß die internationale Zivilluftfahrt in hohem Maße dazu beitragen kann, Freundschaft und Verständnis zwischen den Staaten und Völkern der Welt zu schaffen und zu erhalten, ihr Mißbrauch jedoch zu einer Gefahr für die allgemeine Sicherheit werden kann,
+
+IN KENNTNISNAHME DESSEN, daß es wünschenswert ist, zwischen den Staaten und Völkern Unstimmigkeiten zu vermeiden und die Zusammenarbeit zu fördern, von welcher der Friede der Welt abhängt,
+
+IN KENNTNISNAHME DESSEN, daß es notwendig ist, daß sich die internationale Zivilluftfahrt in sicherer und geordneter Weise entwickeln kann,
+
+IN KENNTNISNAHME DESSEN, daß im Einklang mit grundlegenden Erwägungen der Menschlichkeit die Sicherheit und das Leben von Personen an Bord von Privatluftfahrzeugen gewährleistet sein müssen,
+
+IN KENNTNISNAHME DESSEN, daß in dem am 7. Dezember 1944 in Chicago abgeschlossenen Abkommen über die Internationale Zivilluftfahrt \*1) die Vertragsstaaten
+
+\- anerkennen, daß jeder Staat im Luftraum über seinem Hoheitsgebiet volle und ausschließliche Souveränität besitzt,
+
+\- sich verpflichten, bei dem Erlassen von Vorschriften für ihre Staatsluftfahrzeuge auf die Sicherheit des Verkehrs von Privatluftfahrzeugen gebührend Rücksicht zu nehmen,
+
+\- sich einverstanden erklären, die Zivilluftfahrt nicht für Zwecke zu benützen, die mit den Zielen des Abkommens unvereinbar sind,
+
+IN KENNTNISNAHME des Entschlusses der Vertragsstaaten, geeignete Maßnahmen zu treffen, um die Verletzung des Luftraums anderer Staaten und die Benützung der Zivilluftfahrt für Zwecke, die mit den Zielen des Abkommens unvereinbar sind, zu verhindern und die Sicherheit der internationalen Zivilluftfahrt weiter zu erhöhen,
+
+IN KENNTNISNAHME des allgemeinen Wunsches der Vertragsstaaten, den Grundsatz der Nichtanwendung von Waffen gegen im Flug befindliche Privatluftfahrzeuge zu bekräftigen,
+
+1\. BESCHLIESST, daß es deshalb wünschenswert ist, das am 7. Dezember 1944 in Chicago abgeschlossene Abkommen über die Internationale Zivilluftfahrt zu ändern,
+
+2\. GENEHMIGT gemäß den Bestimmungen des Artikels 94 Absatz a des vorgenannten Abkommens den folgenden Vorschlag einer Änderung des Abkommens:
+
+Nach Artikel 3 ist ein neuer Artikel 3bis einzufügen:
+
+(Anm.: Es folgt der Text des Art. 3bis)
+
+3\. SETZT auf Grund der Bestimmung des genannten Artikels 94 Absatz a des besagten Abkommens die Anzahl der Vertragsstaaten, nach deren Ratifikation der vorgenannte Änderungsvorschlag in Kraft tritt, auf einhundertzwei FEST, und
+
+4\. BESCHLIESST, daß der Generalsekretär der Internationalen Zivilluftfahrt-Organisation in englischer, französischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist, ein Protokoll abfassen soll, das den oben genannten Änderungsvorschlag und die nachstehenden Bestimmungen enthält:
+
+a) Das Protokoll wird vom Präsidenten der Versammlung und ihrem Generalsekretär unterzeichnet.
+
+b) Das Protokoll steht jedem Staat, der das besagte Abkommen über die Internationale Zivilluftfahrt ratifiziert hat oder ihm beigetreten ist, zur Ratifikation offen.
+
+c) Die Ratifikationsurkunden werden bei der Internationalen Zivilluftfahrt-Organisation hinterlegt.
+
+d) Das Protokoll tritt für die Staaten, die es ratifiziert haben, mit dem Zeitpunkt der Hinterlegung der einhundertzweiten Ratifikationsurkunde in Kraft.
+
+e) Der Generalsekretär notifiziert unverzüglich allen Vertragsstaaten den Zeitpunkt der Hinterlegung jeder Ratifikationsurkunde zu dem Protokoll.
+
+f) Der Generalsekretär notifiziert unverzüglich allen Vertragsstaaten des besagten Abkommens den Zeitpunkt des Inkrafttretens des Protokolls.
+
+g) Für jeden Vertragsstaat, der das Protokoll nach dem vorgenannten Zeitpunkt ratifiziert, tritt es mit der Hinterlegung seiner Ratifikationsurkunde bei der Internationalen Zivilluftfahrt-Organisation in Kraft.
+
+INFOLGEDESSEN, auf Grund des vorgenannten Beschlusses der Versammlung, wurde dieses Protokoll vom Generalsekretär der Organisation abgefaßt.
+
+ZU URKUND DESSEN unterzeichnen der Präsident und der Generalsekretär der vorgenannten fünfundzwanzigsten (außerordentlichen) Tagung der Versammlung der Internationalen Zivilluftfahrt-Organisation, von der Versammlung hierzu bevollmächtigt, dieses Protokoll.
+
+GESCHEHEN zu Montreal am 10. Mai 1984 in einer einzigen Urkunde in englischer, französischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist. Dieses Protokoll wird im Archiv der Internationalen Zivilluftfahrt-Organisation hinterlegt; beglaubigte Abschriften hievon werden vom Generalsekretär der Organisation allen Vertragsstaaten des am 7. Dezember 1944 in Chicago abgeschlossenen Abkommens über die Internationale Zivilluftfahrt übermittelt.
+
+\---------------------------------------------------------------------
+
+\*1) Kundgemacht in BGBl. Nr. 97/1949, zuletzt geändert durch BGBl. III Nr. 57/1999
+
+## Ratifikationstext
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde am 11. Jänner 1985 beim Generalsekretär der ICAO hinterlegt; das Protokoll ist mit 1. Oktober 1998 in Kraft getreten.
+
+Nach Mitteilungen des Generalsekretärs der ICAO haben folgende weitere Staaten das Protokoll ratifiziert:
+
+Ägypten, Antigua und Barbuda, Argentinien, Äthiopien, Australien, Bahrain, Bangladesch, Barbados, Belarus, Belgien, Belize, Bolivien, Bosnien und Herzegowina, Brasilien, Bulgarien, Burundi, Chile, China, Côte d’Ivoire, Dänemark, Deutschland, Ecuador, El Salvador, Eritrea, Estland, Fidschi, Finnland, Frankreich, Gabun, Ghana, Griechenland, Guatemala, Guinea, Guyana, Irak, Islamische Republik Iran, Irland, Israel, Italien, Jamaika, Japan, Jordanien, Kamerun, Kanada, Katar, Kenia, Kolumbien, Republik Korea, Kroatien, Kuba, Kuwait, Lesotho, Libanon, Libysch-Arabische-Dschamahirija, Luxemburg, Madagaskar, Malawi, Malediven, Mali, Malta, Marokko, Mauritius, die ehemalige jugoslawische Republik Mazedonien, Mexiko, Moldova, Monaco, Nepal, Niederlande, Niger, Nigeria, Norwegen, Oman, Pakistan, Panama, Papua-Neuguinea, Portugal, Rumänien, Russische Föderation, Samoa, San Marino, Saudi-Arabien, Schweden, Schweiz, Senegal, Seychellen, Slowakei, Spanien, Südafrika, Thailand, Togo, Tschechische Republik, Tunesien, Türkei, Turkmenistan, Uganda, Ungarn, Uruguay, Usbekistan, Vereinigte Arabische Emirate, Vereinigte Staaten, Vereinigtes Königreich, Zypern.
+
+Seit Inkrafttreten des Protokolls hat Burkina Faso am 8. Dezember 1998 seine Ratifikationsurkunde hinterlegt.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluß des nachstehenden Staatsvertrages wird genehmigt.

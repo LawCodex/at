@@ -33,7 +33,9 @@ SIND durch ihre Vertreter wie folgt übereingekommen:
 
 ## TEIL I
 
-### Allgemeine Bestimmungen
+**Allgemeine Bestimmungen**
+
+### Art. 1
 
 1\. Costa Rica wird, sobald dieses Protokoll gemäß Absatz 8 in Kraft tritt, zu einer Vertragspartei des Allgemeinen Abkommens im Sinne seines Artikels XXXII und wendet gegenüber den Vertragsparteien vorläufig und nach Maßgabe dieses Protokolls an:
 

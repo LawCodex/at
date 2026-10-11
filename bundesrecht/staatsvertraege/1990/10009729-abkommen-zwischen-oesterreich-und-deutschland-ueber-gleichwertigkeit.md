@@ -54,7 +54,9 @@ sind wie folgt übereingekommen:
 
 ## ARTIKEL 1
 
-#### Begriffsbestimmungen
+**Begriffsbestimmungen**
+
+#### Art. 1
 
 In diesem Abkommen bedeutet
 
@@ -66,7 +68,9 @@ c) der Ausdruck „Gleichstellung/Gleichhaltung“ die innerstaatliche Anerkennu
 
 ## ARTIKEL 2
 
-#### Allgemeine Zusammenarbeit
+**Allgemeine Zusammenarbeit**
+
+#### Art. 2
 
 Die Vertragsparteien werden der Entwicklung und Erweiterung ihrer Zusammenarbeit auf dem Gebiet der beruflichen Bildung besondere Aufmerksamkeit widmen und sich um deren Förderung bemühen.
 
@@ -74,7 +78,9 @@ Zu diesem Zweck werden sie sich auch für eine Zusammenarbeit zwischen Instituti
 
 ## ARTIKEL 3
 
-#### Voraussetzungen der Anerkennung, gegenseitige Unterrichtung
+**Voraussetzungen der Anerkennung, gegenseitige Unterrichtung**
+
+#### Art. 3
 
 (1) Die Vertragsparteien werden Prüfungszeugnisse gleichstellen/ gleichhalten, wenn
 
@@ -92,13 +98,17 @@ b) einander alle Änderungen in den Prüfungsanforderungen so früh wie möglich
 
 ## ARTIKEL 4
 
-#### Wirkung der Anerkennung
+**Wirkung der Anerkennung**
+
+#### Art. 4
 
 Ein gleichgestelltes/gleichgehaltenes Prüfungszeugnis verleiht der im Prüfungszeugnis angeführten Person auf der jeweils anderen Seite die Rechte, die mit dem gleichgestellten/gleichgehaltenen Prüfungszeugnis dieser anderen Seite verbunden sind.
 
 ## ARTIKEL 5
 
-#### Verzeichnis der als gleichwertig anerkannten Prüfungszeugnisse
+**Verzeichnis der als gleichwertig anerkannten Prüfungszeugnisse**
+
+#### Art. 5
 
 (1) Gleichzustellende/gleichzuhaltende Prüfungszeugnisse werden in ein Verzeichnis aufgenommen, das diesem Abkommen als Anlage beigefügt ist.
 
@@ -106,7 +116,9 @@ Ein gleichgestelltes/gleichgehaltenes Prüfungszeugnis verleiht der im Prüfungs
 
 ## ARTIKEL 6
 
-#### Expertenkommission
+**Expertenkommission**
+
+#### Art. 6
 
 (1) Für die Beratung aller Fragen, die sich aus diesem Abkommen ergeben, setzen beide Vertragsparteien eine Expertenkommission ein. In der Expertenkommission sollen auf jeder Seite Vertreter von Arbeitgeber- und Arbeitnehmerorganisationen mitwirken. Außerdem können Vertreter der Länder beider Seiten mitwirken.
 
@@ -116,7 +128,9 @@ Ein gleichgestelltes/gleichgehaltenes Prüfungszeugnis verleiht der im Prüfungs
 
 ## ARTIKEL 7
 
-#### Unberührte Abkommen
+**Unberührte Abkommen**
+
+#### Art. 7
 
 Von diesem Abkommen werden nicht berührt
 
@@ -134,13 +148,17 @@ b) das Abkommen zwischen der Regierung der Republik Österreich und der Regierun
 
 ## ARTIKEL 8
 
-#### Berlin-Klausel
+**Berlin-Klausel**
+
+#### Art. 8
 
 Dieses Abkommen gilt auch für das Land Berlin, sofern nicht die Regierung der Bundesrepublik Deutschland gegenüber der Regierung der Republik Österreich innerhalb von drei Monaten nach Inkrafttreten des Abkommens eine gegenteilige Erklärung abgibt.
 
 ## ARTIKEL 9
 
-#### Geltungsdauer, Abkommensänderung
+**Geltungsdauer, Abkommensänderung**
+
+#### Art. 9
 
 (1) Dieses Abkommen bleibt solange in Kraft, bis es von einer der beiden Vertragsparteien schriftlich auf diplomatischem Wege gekündigt wird. Eine Kündigung wird sechs Monate nach ihrem Einlangen bei der anderen Vertragspartei wirksam.
 
@@ -148,7 +166,9 @@ Dieses Abkommen gilt auch für das Land Berlin, sofern nicht die Regierung der B
 
 ## ARTIKEL 10
 
-#### Inkrafttreten
+**Inkrafttreten**
+
+#### Art. 10
 
 Dieses Abkommen tritt am 1. Tag des dritten Monats in Kraft, der auf den Monat folgt, in dem die beiden Vertragsparteien einander mitgeteilt haben, daß die jeweiligen innerstaatlichen Voraussetzungen für das Inkrafttreten erfüllt sind.
 

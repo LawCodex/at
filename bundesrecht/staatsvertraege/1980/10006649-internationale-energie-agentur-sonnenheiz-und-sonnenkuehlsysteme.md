@@ -47,7 +47,9 @@ SIND wie folgt ÜBEREINGEKOMMEN:
 
 ## Artikel 1
 
-### ZIELSETZUNGEN
+**ZIELSETZUNGEN**
+
+### Art. 1
 
 (a) Wirkungsbereich: Das von den Vertragschließenden Parteien im Rahmen dieses Übereinkommens auszuführende Programm besteht aus der gemeinsamen Forschung, Entwicklung, Vorführung von Sonnenheiz- und Sonnenkühlsystemen sowie dem Austausch von diesbezüglichen Informationen.
 
@@ -57,7 +59,9 @@ SIND wie folgt ÜBEREINGEKOMMEN:
 
 ## Artikel 2
 
-### BEZEICHNUNG UND EINLEITUNG VON PROJEKTEN
+**BEZEICHNUNG UND EINLEITUNG VON PROJEKTEN**
+
+### Art. 2
 
 (a) Bezeichnung: Die von den Teilnehmern übernommenen Projekte sind in den Anhängen dieses Übereinkommens näher bezeichnet. Bei der Unterzeichnung dieses Übereinkommens bekräftigt jede Vertragschließenden Partei ihre Absicht, sich an einem oder an mehreren der Projekte zu beteiligen, indem sie dem Exekutivdirektor der Agentur eine Note über die Teilnahme an dem entsprechenden Anhang oder den entsprechenden Anhängen übergibt, und der für jedes Projekt Beauftragte hat dem Exekutivdirektor der Agentur eine Note über die Annahme des das Projekt enthaltenden Anhangs zu geben. Danach ist jedes Projekt gemäß den in den Artikeln 2 bis 11 dieses Übereinkommens angegebenen Verfahren auszuführen, sofern der jeweilige Anhang nicht ausdrücklich etwas anderes vorsieht.
 
@@ -73,7 +77,9 @@ SIND wie folgt ÜBEREINGEKOMMEN:
 
 ## Artikel 3
 
-### DAS EXEKUTIVKOMITEE
+**DAS EXEKUTIVKOMITEE**
+
+### Art. 3
 
 (a) Oberaufsicht: Die Aufsicht über das Programm obliegt dem gemäß diesem Artikel gebildeten Exekutivkomitee.
 
@@ -119,7 +125,9 @@ SIND wie folgt ÜBEREINGEKOMMEN:
 
 ## Artikel 4
 
-### DIE BEAUFTRAGTEN
+**DIE BEAUFTRAGTEN**
+
+### Art. 4
 
 (a) Bestellung: Die Teilnehmer haben in dem jeweiligen Anhang für jedes Projekt einen Beauftragten namhaft zu machen. Bezugnahmen in diesem Übereinkommen auf den Beauftragten gelten für jeden Beauftragten bezüglich jenes Projektes, für das er die Verantwortung trägt.
 
@@ -143,7 +151,9 @@ Der Beauftragte hat das Projekt im Einklang mit den Gesetzen seines Landes unter
 
 ## Artikel 5
 
-### VERWALTUNG UND PERSONAL
+**VERWALTUNG UND PERSONAL**
+
+### Art. 5
 
 (a) Leitung des Projekts: Jeder Beauftragte ist dem Exekutivkomitee für die Durchführung der ihm übertragenen Projekte im Sinne dieses Übereinkommens, des jeweiligen, das Projekt enthaltenden Anhanges sowie der Entscheidungen des Exekutivkomitees verantwortlich.
 
@@ -153,7 +163,9 @@ Der Beauftragte hat das Projekt im Einklang mit den Gesetzen seines Landes unter
 
 ## Artikel 6
 
-### FINANZIERUNG
+**FINANZIERUNG**
+
+### Art. 6
 
 (a) Individualverpflichtung: Jeder Teilnehmer hat die ihm aus der Durchführung dieses Übereinkommens entstehenden Kosten zu tragen, einschließlich der Kosten für die Ausarbeitung oder Übermittlung von Berichten und für die Vergütung der seinen Beschäftigten im Zusammenhang mit der Durchführung des jeweiligen Projektes entstandenen Reise- und sonstigen Spesen, es sei denn, es wird für solche Ausgaben verfügt, daß sie aus dem in Absatz (g) unten genannten gemeinsamen Fonds vergütet werden.
 
@@ -207,7 +219,9 @@ Der Beauftragte hat bei der Vergabe von Verträgen an das Ausland, die die Ausga
 
 ## Artikel 7
 
-### INFORMATIONEN UND GEISTIGES EIGENTUM
+**INFORMATIONEN UND GEISTIGES EIGENTUM**
+
+### Art. 7
 
 (a) Kompetenzen des Exekutivkomitees: Die Veröffentlichung, Verteilung, Behandlung, Wahrung und das Eigentum von Informationen und geistigem Eigentum, die/das sich aus Tätigkeiten ableiten/ableitet, die im Rahmen dieses Übereinkommens durchgeführt werden, sind vom Exekutivkomitee einstimmig im Einklang mit diesem Übereinkommen festzulegen.
 
@@ -241,7 +255,9 @@ Ohne ausdrückliche Genehmigung des Exekutivkomitees dürfen keine schutzbedürf
 
 ## Artikel 8
 
-### HAFTUNG UND VERSICHERUNG
+**HAFTUNG UND VERSICHERUNG**
+
+### Art. 8
 
 (a) Die Haftung des Beauftragten: Der Beauftragte hat bei der Erfüllung seiner Aufgaben im Rahmen dieses Übereinkommens in jeder Hinsicht mit der angemessenen Sorgfalt und Vorsicht unter Einhaltung aller einschlägigen Gesetze und Vorschriften vorzugehen. Sofern in diesem Artikel keine andere Regelung getroffen wird, gehen die Kosten aller Sachschäden sowie alle mit Forderungen und Klagen verbundenen Ausgaben und sonstige Kosten, die aus Arbeiten erwachsen, welche mit den gemeinsamen Geldmitteln für ein Projekt durchgeführt werden, zu Lasten des Budgets dieses Projektes; diejenigen Kosten und Auslagen, die aus anderen für ein Projekt durchgeführten Arbeiten erwachsen, sind dem Budget dieses Projektes anzulasten, falls der für dieses Projekt maßgebliche Anhang dies vorsieht oder das Exekutivkomitee einstimmig eine dahingehende Entscheidung trifft.
 
@@ -255,7 +271,9 @@ Ohne ausdrückliche Genehmigung des Exekutivkomitees dürfen keine schutzbedürf
 
 ## Artikel 9
 
-### LEGISLATIVE BESTIMMUNGEN
+**LEGISLATIVE BESTIMMUNGEN**
+
+### Art. 9
 
 (a) Erfüllung von Formalitäten: Jeder Teilnehmer hat im Rahmen der einschlägigen Gesetzgebung nach besten Kräften zu trachten, die Erfüllung von Formalitäten zu erleichtern, die mit den zur Durchführung des Projektes, an dem er sich beteiligt, erforderlichen Ortsveränderungen von Personen, Einfuhren von Material und Geräten und Geldüberweisungen verbunden sind.
 
@@ -267,7 +285,9 @@ Ohne ausdrückliche Genehmigung des Exekutivkomitees dürfen keine schutzbedürf
 
 ## Artikel 10
 
-### AUFNAHME UND RÜCKTRITT VERTRAGSCHLIESSENDER PARTEIEN
+**AUFNAHME UND RÜCKTRITT VERTRAGSCHLIESSENDER PARTEIEN**
+
+### Art. 10
 
 (a) Aufnahme neuer Vertragschließender Parteien: Agenturländer: Auf einstimmige Einladung seitens des Exekutivkomitees steht die Aufnahme in dieses Übereinkommen der Regierung jedes an der Agentur beteiligten Landes offen (oder einer von der betreffenden Regierung namhaft gemachten nationalen Behörde, öffentlichen Körperschaft, privaten Organisation, Unternehmung oder sonstigen Stelle), die dieses Übereinkommen unterzeichnet oder ihm beitritt, die Rechte und Pflichten einer Vertragschließenden Partei übernimmt und als Teilnehmer an mindestens einem Projekt von den anderen Teilnehmern an eben diesem Projekt einstimmig aufgenommen wird. Diese Aufnahme einer Vertragschließenden Partei wird bei der Unterzeichnung dieses Übereinkommens durch die neue Vertragschließende Partei oder ihres Beitritts dazu sowie der Erklärung ihrer Teilnahme an einem Anhang oder mehreren Anhängen und bei der Annahme aller dazu erfolgenden Abänderungen wirksam.
 
@@ -291,7 +311,9 @@ Ohne ausdrückliche Genehmigung des Exekutivkomitees dürfen keine schutzbedürf
 
 ## Artikel 11
 
-### SCHLUSSBESTIMMUNGEN
+**SCHLUSSBESTIMMUNGEN**
+
+### Art. 11
 
 (a) Dauer des Übereinkommens: Dieses Übereinkommen bleibt zunächst für einen Zeitraum von drei Jahren ab dem Zeitpunkt seines Abschlusses in Kraft und bleibt in der Folge weiter aufrecht, solange die Vertragschließenden Parteien nicht einstimmig seine Beendigung beschließen.
 

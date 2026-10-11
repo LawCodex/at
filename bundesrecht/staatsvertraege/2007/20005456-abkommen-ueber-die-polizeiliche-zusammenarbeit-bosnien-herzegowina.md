@@ -43,7 +43,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 1
 
-### Bereiche und Ziel der Zusammenarbeit
+**Bereiche und Ziel der Zusammenarbeit**
+
+### Art. 1
 
 (1) Die Vertragsparteien verpflichten sich, nach Maßgabe ihres nationalen Rechts und im Rahmen ihrer Zuständigkeit bei der Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung sowie bei der Verhütung und der Aufklärung von strafbaren Handlungen zusammenzuarbeiten und Amtshilfe zu leisten. Diese Zusammenarbeit umfasst insbesondere folgende Bereiche:
 
@@ -57,7 +59,9 @@ sind wie folgt übereingekommen:
 
 ## Artikel 2
 
-### Formen der Zusammenarbeit
+**Formen der Zusammenarbeit**
+
+### Art. 2
 
 (1) Die Zusammenarbeit der Vertragsparteien im Sinne dieses Abkommens erfolgt nach Maßgabe des jeweiligen nationalen Rechts sowie im Rahmen des jeweiligen Zuständigkeitsbereiches und umfasst insbesondere
 
@@ -81,7 +85,9 @@ personenbezogene Daten dürfen nur übermittelt werden, soweit dies zur Abwehr d
 
 ## Artikel 3
 
-### Zuständige Behörden
+**Zuständige Behörden**
+
+### Art. 3
 
 (1) Die Vertragsparteien informieren einander über jene Behörden, die nach dem jeweiligen nationalen Recht für die Zusammenarbeit im Sinne dieses Abkommens zuständig sind. Sie teilen einander weiters eintretende Änderungen der Zuständigkeit oder der Bezeichnung dieser Behörden mit.
 
@@ -89,7 +95,9 @@ personenbezogene Daten dürfen nur übermittelt werden, soweit dies zur Abwehr d
 
 ## Artikel 4
 
-### Datenschutz
+**Datenschutz**
+
+### Art. 4
 
 (1) Die gegenseitige Übermittlung personenbezogener Daten zwischen den Vertragsparteien erfolgt unter Beachtung erteilter Auflagen und nach Maßgabe folgender Grundsätze, welche gleichermaßen auf automationsunterstützt und nicht automationsunterstützt verarbeitete Daten Anwendung finden:
 
@@ -119,19 +127,25 @@ d) nach Ablauf einer im nationalen Recht der übermittelnden Vertragspartei vorg
 
 ## Artikel 5
 
-### Geheimhaltung
+**Geheimhaltung**
+
+### Art. 5
 
 Die für Zwecke dieses Abkommens übermittelten Informationen unterliegen grundsätzlich dem Dienstgeheimnis. Die gemäß diesem Abkommen Informationen erhaltende Vertragspartei gewährleistet für diese zumindest eine gleichwertige Geheimhaltung wie die übermittelnde Vertragspartei.
 
 ## Artikel 6
 
-### Konsultationen
+**Konsultationen**
+
+### Art. 6
 
 Im Bedarfsfall können leitende Beamte der österreichischen Vertragspartei und leitende Staatsbeamte der bosnisch und herzegowinischen Vertragspartei Konsultationen führen, um Mittel und Wege zur effektiven Anwendung des vorliegenden Abkommens sowie mögliche Maßnahmen zur Weiterentwicklung und Verbesserung der Zusammenarbeit zu erörtern.
 
 ## Artikel 7
 
-### Ausnahmeregelung
+**Ausnahmeregelung**
+
+### Art. 7
 
 (1) Ist eine Vertragspartei der Ansicht, dass die Erledigung eines Ersuchens oder eine andere Art der Zusammenarbeit geeignet ist, ihre Souveränität, ihre Sicherheit, ihre öffentliche Ordnung (ordre public) oder andere wesentliche Interessen ihres Landes zu beeinträchtigen oder gegen Grundsätze ihrer Rechtsordnung zu verstoßen, so kann sie die Unterstützung ganz oder teilweise verweigern oder von bestimmten Bedingungen abhängig machen.
 
@@ -139,13 +153,17 @@ Im Bedarfsfall können leitende Beamte der österreichischen Vertragspartei und 
 
 ## Artikel 8
 
-### Verhältnis zu anderen Regelungen
+**Verhältnis zu anderen Regelungen**
+
+### Art. 8
 
 Durch die Bestimmungen dieses Abkommens werden zweiseitige oder mehrseitige internationale Verträge insbesondere über die Rechtshilfe in Strafsachen der Vertragsparteien nicht berührt.
 
 ## Artikel 9
 
-### Inkrafttreten und Kündigung
+**Inkrafttreten und Kündigung**
+
+### Art. 9
 
 (1) Dieses Abkommen tritt am ersten Tag des zweiten Monats in Kraft, der auf den Zeitpunkt folgt, in dem die Vertragsparteien einander mitteilen, dass die jeweiligen hiefür erforderlichen innerstaatlichen Voraussetzungen erfüllt sind.
 
