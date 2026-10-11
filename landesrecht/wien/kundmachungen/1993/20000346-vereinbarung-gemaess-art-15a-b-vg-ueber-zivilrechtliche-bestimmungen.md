@@ -1,0 +1,277 @@
+---
+title: "Vereinbarung gemäß Art. 15a B-VG über zivilrechtliche Bestimmungen betreffend den Verkehr mit Baugrundstücken"
+identifier: "20000346"
+type: notice
+ris_type: "Kundmachung"
+jurisdiction: at-9
+land: "Wien"
+language: de
+promulgation: "LGBl. Nr. 18/1993"
+last_amended: 2016-12-29
+last_amendment: "LGBl. Nr. 1/2017"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/lgbl/WI/1993/18/P0/LWI40011520"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrW&Gesetzesnummer=20000346"
+retrieved: 2026-10-11
+documents: 23
+---
+
+# Vereinbarung gemäß Art. 15a B-VG über zivilrechtliche Bestimmungen betreffend den Verkehr mit Baugrundstücken
+
+Kundmachung des Landeshauptmannes von Wien betreffend die Vereinbarung zwischen dem Bund und den Ländern gemäß Art. 15 a B-VG über zivilrechtliche Bestimmungen betreffend den Verkehr mit Baugrundstücken
+
+<details>
+<summary>Änderungen</summary>
+
+LGBl. Nr. 11/2004  
+LGBl. Nr. 28/2009  
+LGBl. Nr. 1/2017  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Der Wiener Landtag hat den Abschluß nachstehender Vereinbarung gemäß § 139 Abs. 2 der Wiener Stadtverfassung genehmigt:
+
+## Abschnitt I
+
+### Geltungsbereich — Artikel 1
+
+#### Art. 1
+
+Soweit Landesgesetze den Grundstücksverkehr für Ausländer und den Verkehr mit bebauten oder zur Bebauung bestimmten Grundstücken (Art. 10 Abs. 1 Z 6 B-VG) oder den Verkehr mit land- und forstwirtschaftlichen Grundstücken im Interesse der Erhaltung, Stärkung oder Schaffung eines lebensfähigen Bauernstandes verwaltungsbehördlichen Beschränkungen unterwerfen und mit einer solchen Beschränkung zivilrechtliche Wirkungen verbunden sein sollen, sind im Sinn des Art. 15 Abs. 9 B-VG die entsprechenden zivilrechtlichen Bestimmungen in Übereinstimmung mit den folgenden Regelungen zu treffen.
+
+## Abschnitt II
+
+### Zivilrechtliche Wirkung der Verkehrsbeschränkung — Artikel 2
+
+#### Art. 2
+
+(1) Solange die Behörde oder das Verwaltungsgericht einen landesgesetzlichen Beschränkungen unterworfenen Rechtsvorgang nicht rechtskräftig genehmigt hat (Art. 3 Abs. 1 Z 2) oder sonst bestätigt hat (Art. 3 Abs. 1 Z 3) oder solange eine nach den landesgesetzlichen Vorschriften erforderliche Erklärung nicht abgegeben ist (Art. 3 Abs. 1 Z 4), darf das zugrundeliegende Rechtsgeschäft nicht durchgeführt werden; insbesondere ist eine grundbücherliche Eintragung des Rechts nicht zulässig. Die Parteien sind jedoch an das Rechtsgeschäft gebunden. Mit der Versagung der Genehmigung beziehungsweise mit der Untersagung wird das Rechtsgeschäft rückwirkend rechtsunwirksam.
+
+(2) Ein Rechtsgeschäft wird auch unwirksam, wenn die Behörde davon Kenntnis erlangt und eine angemessene Frist zur Nachholung des Ansuchens um die erforderliche verwaltungsbehördliche Genehmigung, der erforderlichen Anzeige des Rechtsvorganges bei der Behörde oder der erforderlichen Erklärung setzt, diese Handlung aber nicht innerhalb dieser Frist nachgeholt wird.
+
+## Abschnitt III
+
+### Grundbuchseintragungen — Artikel 3
+
+**Zulässigkeit der Eintragung**
+
+#### Art. 3
+
+(1) Ein Recht an einer Liegenschaft darf im Grundbuch nur eingetragen werden, wenn dem Grundbuchsgesuch beigeschlossen ist:
+
+1\. ein rechtskräftiger Bescheid oder eine Bestätigung der Behörde oder eine rechtskräftige verwaltungsgerichtliche Entscheidung, woraus sich ergibt, dass der zugrundeliegende Rechtsvorgang keiner Genehmigung, Anzeige beziehungsweise Erklärung bedarf, oder
+
+2\. der rechtskräftige Bescheid der Behörde oder die rechtskräftige verwaltungsgerichtliche Entscheidung, der beziehungsweise die die erforderliche Genehmigung enthält, oder
+
+3\. eine Bestätigung der Behörde über die Nichtuntersagung des angezeigten Rechtsvorgangs oder eine sonstige nach den landesgesetzlichen Vorschriften erforderliche Bestätigung oder eine an ihre Stelle tretende rechtskräftige verwaltungsgerichtliche Entscheidung, oder
+
+4\. die landesgesetzlich erforderliche Erklärung.
+
+(2) Abs. 1 gilt nicht, wenn der Verbücherung zugrunde liegt
+
+1\. ein rechtskräftiger Zuschlag, ein rechtskräftiger Beschluss über die Annahme eines Überbots oder
+
+2\. ein Einantwortungsbeschluss, ein Beschluss nach § 182 Abs. 3 Außerstreitgesetz oder ein sonstiger Nachweis über die Rechtsnachfolge von Todes wegen, soweit nachgewiesen wird, dass der Rechtsnachfolger zum Kreis der nächsten Angehörigen des Verstorbenen (Abs. 3) gehört.
+
+Die Landesgesetze können weitere Ausnahmefälle vorsehen.
+
+(3) Nächste Angehörige im Sinn dieser Vereinbarung sind die Kinder des Verstorbenen und deren Nachkommen, seine Eltern und Großeltern samt deren Nachkommen, seine Urgroßeltern sowie sein Ehegatte oder eingetragener Partner.
+
+**Unwirksamkeit der Eintragung**
+
+#### Art. 4 – Artikel 4
+
+(1) Auf Antrag der Behörde sind im Grundbuch anzumerken:
+
+1\. ein rechtskräftiger Bescheid oder eine rechtskräftige verwaltungsgerichtliche Entscheidung, aus dem beziehungsweise aus der sich ergibt, dass ein grundbücherlich bereits durchgeführter Rechtsvorgang der erforderlichen Genehmigung, Bestätigung, Anzeige oder Erklärung entbehrt, besonders weil die Eintragung unter Umgehung der Bestimmungen über die Erforderlichkeit einer Genehmigung, einer Bestätigung, einer Anzeige beziehungsweise einer Erklärung erwirkt worden ist oder weil die Erklärung im Sinn des Art. 3 Abs. 1 Z 4 unrichtig war, und
+
+2\. ein Bescheid, mit dem die Behörde ein Verfahren zur Prüfung der Frage einleitet, ob ein Fall der Z 1 vorliegt.
+
+(2) Diese Anmerkung hat zur Folge, daß eine Entscheidung über die Genehmigung oder über den angezeigten Rechtsvorgang auch gegen Personen ihre volle Wirksamkeit äußert, die erst nach dem Zeitpunkt, in dem der Antrag auf Anmerkung beim Grundbuchsgericht eingelangt ist, bücherliche Rechte erlangt haben.
+
+(3) Wird einem grundbücherlich bereits durchgeführten Rechtsvorgang die Genehmigung rechtskräftig versagt oder wird er rechtskräftig untersagt, so hat das Grundbuchsgericht die Eintragung auf Antrag der Behörde zu löschen.
+
+(4) Wird dem grundbücherlich bereits durchgeführten Rechtsvorgang die Genehmigung rechtskräftig erteilt (Art. 3 Abs. 1 Z 2), wird er nicht untersagt (Art. 3 Abs. 1 Z 3), wird die zunächst fehlende Erklärung (Art. 3 Abs. 1 Z 4) abgegeben beziehungsweise im Verfahren im Sinn des Abs. 1 Z 2 festgestellt, daß kein Fall des Abs. 1 Z 1 vorliegt, so hat die Behörde dies dem Grundbuchsgericht unverzüglich mitzuteilen. Das Gericht hat sodann die Anmerkung nach Abs. 1 von Amts wegen zu löschen.
+
+**Rückabwicklung**
+
+#### Art. 5 – Artikel 5
+
+(1) Wird eine Eintragung im Grundbuch nach Art. 4 Abs. 3 gelöscht und der ihr zugrundeliegende Rechtsvorgang rückabgewickelt, so kann der Veräußerer die Löschung solcher inzwischen eingetragener Rechte verlangen, die nicht im guten Glauben an die Wirksamkeit jener Eintragung, besonders nach einer Anmerkung gemäß Art. 4 Abs. 1, erworben worden sind.
+
+(2) Wird ein Rechtsvorgang, der auf Eigentumsübertragung gerichtet ist, durch Versagung der Genehmigung, durch Untersagung oder durch Ablauf der Frist des Art. 2 Abs. 2 rechtsunwirksam, so kann der Veräußerer die Rückabwicklung dem Erwerber gegenüber verweigern, sofern er weder wußte noch wissen mußte, daß der Rechtsvorgang einer Genehmigung, Anzeige oder Erklärung bedurfte oder daß die Voraussetzungen für die Genehmigung, die Nichtuntersagung beziehungsweise die Abgabe der Erklärung nicht vorlagen.
+
+(3) Wird die Einverleibung eines Erwerbers nach Art. 4 Abs. 3 gelöscht und erklärt der Veräußerer, die Rückabwicklung zu verweigern, so ist die Liegenschaft auf Antrag des Veräußerers oder des Erwerbers vom Gericht in sinngemäßer Anwendung des § 352 EO zu versteigern. War die Weigerung des Veräußerers nach Abs. 2 berechtigt, so erfolgt die Versteigerung auf Rechnung des Erwerbers.
+
+## Abschnitt IV
+
+### Zwangsversteigerung — Artikel 6
+
+**Verständigung der Behörde**
+
+#### Art. 6
+
+Das Exekutionsgericht hat die Beschlüsse, mit denen die Zwangsversteigerung bewilligt oder mit denen die Exekution aufgeschoben oder eingestellt wird, der Behörde zuzustellen; die Behörde ist zur Befundaufnahme und Beschreibung der Liegenschaft gemäß § 141 Abs. 3 EO zu laden. Die Behörde ist auch vom Ergebnis der Schätzung und der Erteilung des Zuschlags nach Art. 7 Abs. 1 zu verständigen.
+
+**Verfahren bei Zuschlagserteilung**
+
+#### Art. 7 – Artikel 7
+
+(1) Das Exekutionsgericht hat den Zuschlag unter dem Vorbehalt zu erteilen, daß er im Fall seiner Genehmigungs-, Anzeige- oder Erklärungsbedürftigkeit erst mit der Genehmigung, der Nichtuntersagung beziehungsweise der Abgabe der Erklärung rechtswirksam wird. Der Meistbietende ist sodann aufzufordern, binnen einer angemessen festzusetzenden Frist die Entscheidung der Behörde über die Genehmigungs-, Anzeige- oder Erklärungsbedürftigkeit oder die Genehmigung zu beantragen, den Zuschlag anzuzeigen oder aber eine Erklärung im Sinn des Art. 3 Abs. 1 Z 4 vorzulegen.
+
+(2) Entscheidet die Behörde, daß die Übertragung des Eigentums an den Meistbietenden keiner Genehmigung, Anzeige oder Erklärung bedarf, erteilt sie die Genehmigung oder bestätigt sie die Nichtuntersagung oder kommt dem Exekutionsgericht innerhalb vier Monaten nach dem Einlagen des Antrags beziehungsweise der Anzeige (Abs. 1) bei der zuständigen Behörde ein Bescheid oder eine Bestätigung nicht zu, so ist der Beschluß über die Erteilung des Zuschlags für wirksam zu erklären, auszufertigen und zu verlautbaren. Ebenso ist vorzugehen, wenn der Meistbietende innerhalb der gemäß Abs. 1 festgesetzten Frist eine Erklärung im Sinn des Art. 3 Abs. 1 Z 4 vorlegt.
+
+(3) Wird ein Antrag oder eine Anzeige nach Abs. 1 nicht fristgerecht gestellt beziehungsweise erstattet oder kommt dem Exekutionsgericht binnen der im Abs. 2 genannten Frist ein Bescheid der Behörde zu, mit dem die Genehmigung versagt oder der Erwerb durch den Meistbietenden untersagt wird, und wird die Versagung beziehungsweise die Untersagung rechtskräftig, so hat das Exekutionsgericht auf Antrag eine erneute Versteigerung anzuordnen.
+
+**Erneute Versteigerung**
+
+#### Art. 8 – Artikel 8
+
+(1) Im neuen Versteigerungstermin dürfen als Bieter nur Personen zugelassen werden, die
+
+1\. einen Bescheid, eine verwaltungsgerichtliche Entscheidung oder eine Bestätigung im Sinn des Art. 3 Abs. 1 Z 1 bis 3 vorweisen oder
+
+2\. dem Exekutionsgericht eine Erklärung im Sinn des Art. 3 Abs. 1 Z 4 vorlegen.
+
+(2) Zwischen Bekanntmachung des neuen Versteigerungstermins und der Versteigerung muß ein Zeitraum von mindestens sechs Monaten liegen. In Bundesländern, in denen vorgesehen ist, daß ein Bescheid, eine verwaltungsgerichtliche Entscheidung oder eine Bestätigung im Sinn des Abs. 1 Z 1 binnen kürzerer Frist zu erlassen ist, muß bei der Anberaumung des neuen Versteigerungstermins nur diese Frist zuzüglich einer Frist von zwei Wochen eingehalten werden.
+
+(3) Bei der erneuten Versteigerung richtet sich das geringste Gebot stets nach § 151 Abs. 1 EO, soweit nicht Abs. 6 anzuwenden ist.
+
+(4) Ist nach den landesgesetzlichen Regelungen ein Bescheid, eine verwaltungsgerichtliche Entscheidung oder eine Bestätigung im Sinn des Art. 3 Abs. 1 Z 1 bis 3 erforderlich (Abs. 1 Z 1) und wird binnen der landesgesetzlich vorgesehenen Frist kein Antrag auf Genehmigung gestellt beziehungsweise keine Anzeige erstattet, so hat die Behörde dies dem Exekutionsgericht unverzüglich mitzuteilen. Das Gericht hat sodann den neuen Versteigerungstermin abzuberaumen.
+
+(5) Im Fall des Abs. 4 oder wenn im erneuten Versteigerungstermin keine Bieter auftreten oder keine gültigen Anbote abgegeben werden, hat das Exekutionsgericht den Beschluß über die Erteilung des Zuschlags an den Meistbietenden des ersten Versteigerungstermins für wirksam zu erklären, auszufertigen und zu verlautbaren und die Behörde hievon zu verständigen.
+
+(6) Wird die erneute Versteigerung erforderlich, weil der Meistbietende der ersten Versteigerung den Antrag oder die Anzeige nach Art. 7 Abs. 1 nicht fristgerecht gestellt beziehungsweise erstattet oder eine Erklärung nicht fristgerecht vorgelegt hat, so sind die Bestimmungen der Exekutionsordnung über die Wiederversteigerung anzuwenden.
+
+**Verfahren bei Überboten**
+
+#### Art. 9 – Artikel 9
+
+(1) Vor der Verständigung des Erstehers von einem Überbot hat das Exekutionsgericht den Überbieter aufzufordern, binnen einer angemessen festzusetzenden Frist die Entscheidung der Behörde über die Genehmigungs-, Anzeige- oder Erklärungsbedürftigkeit oder die Genehmigung seines Rechtserwerbs zu beantragen, das Überbot anzuzeigen oder aber eine Erklärung im Sinn des Art. 3 Abs. 1 Z 4 vorzulegen.
+
+(2) Entscheidet die Behörde, dass die Übertragung des Eigentums an den Überbieter keiner Genehmigung, Anzeige oder Erklärung bedarf, erteilt sie die Genehmigung oder bestätigt sie die Nichtuntersagung oder kommt dem Exekutionsgericht innerhalb vier Monaten nach dem Einlangen des Antrags beziehungsweise der Anzeige (Abs. 1) bei der zuständigen Behörde ein Bescheid oder eine Bestätigung nicht zu, so hat das Exekutionsgericht das Überbot dem weiteren Verfahren zugrunde zu legen. Ebenso ist vorzugehen, wenn der Überbieter innerhalb der gemäß Abs. 1 festgesetzten Frist eine Erklärung im Sinne des § 3 Abs. 1 Z 4 vorlegt.
+
+(3) Wird ein Antrag oder eine Anzeige nach Abs. 1 nicht fristgerecht gestellt beziehungsweise erstattet oder kommt dem Exekutionsgericht binnen der im Abs. 2 genannten Frist ein Bescheid der Behörde zu, mit dem die Genehmigung versagt oder der Erwerb durch den Überbieter untersagt wird, und wird die Versagung beziehungsweise die Untersagung rechtskräftig, so hat das Exekutionsgericht das Überbot zurückzuweisen.
+
+## Abschnitt V
+
+### Öffentliche Feilbietung — Artikel 10
+
+#### Art. 10
+
+Der Abschnitt IV ist auf die freiwillige Feilbietung einer Liegenschaft und die Versteigerung einer gemeinschaftlichen Liegenschaft (§ 352 EO) entsprechend anzuwenden.
+
+## Abschnitt VI
+
+### Erwerb von Todes wegen — Artikel 11
+
+#### Art. 11 – Anwendbarkeit der Art. 12 bis 17
+
+Wenn eine Person, die von Todes wegen außerbücherlich Eigentum an einer zur Verlassenschaft gehörigen Liegenschaft erwirbt, nicht zum Kreis der nächsten Angehörigen (Art. 3 Abs. 3) gehört, so sind die Art. 12 bis 17 anzuwenden.
+
+#### Art. 12 – Artikel 12
+
+(1) Wer von Todes wegen außerbücherlich Eigentum an einer zur Verlassenschaft gehörigen Liegenschaft erwirbt, hat binnen eines Jahres ab Rechtswirksamkeit des außerbücherlichen Erwerbs
+
+1\. die Verbücherung unter Vorlage eines Bescheides, einer verwaltungsgerichtlichen Entscheidung oder einer Bestätigung im Sinn des Art. 3 Abs. 1 Z 1 bis 3 über seinen Erwerb oder einer Erklärung im Sinn des Art. 3 Abs. 1 Z 4 zu beantragen oder
+
+2\. die Liegenschaft durch Vertrag einem anderen zu überlassen, welcher seinerseits noch innerhalb der Jahresfrist eine Verbücherung nach Z 1 zu beantragen hat.
+
+(2) Ist ein Jahr nach Rechtswirksamkeit des außerbücherlichen Erwerbs vor der Behörde oder dem Verwaltungsgericht ein Verfahren im Sinn des Abs. 1 noch anhängig, so endet die Frist für den Antrag auf Verbücherung nicht vor Ablauf eines Monats ab dem rechtskräftigen Abschluss dieses Verfahrens.
+
+#### Art. 13 – Artikel 13 – Bestellung eines Kurators
+
+Wenn das Bezirksgericht, in dessen Sprengel die Liegenschaft liegt, Kenntnis davon erlangt, dass diese Liegenschaft von Todes wegen außerbücherlich erworben wurde, ohne dass ein Verlassenschaftsverfahren vor einem inländischen Gericht stattgefunden hat, hat es einen Rechtsanwalt oder Notar als Kurator zu bestellen, welcher in sinngemäßer Anwendung des § 182 Außerstreitgesetz die geeigneten Anträge beim Grundbuchsgericht einzubringen hat. Die Kosten des Kurators sind vom Gericht zu bestimmen und – unbeschadet eines allfälligen Ersatzanspruchs – vom Vertretenen zu tragen.
+
+#### Art. 14 – Artikel 14 – Antragstellung bei oder Verständigung der Behörde
+
+Wurde binnen eines Jahres ab Rechtswirksamkeit des außerbücherlichen Erwerbs keine Verbücherung im Sinn des Art. 12 Abs. 1 beantragt, so hat der Gerichtskommissär oder der Kurator (Art. 13) die erforderlichen Anträge bei der Behörde zu stellen beziehungsweise die erforderlichen Erklärungen abzugeben; sofern dies nicht möglich ist, hat er die Behörde von der Säumigkeit zu verständigen.
+
+#### Art. 15 – Artikel 15
+
+Ist bei Einlangen der Verständigung nach Art. 14 letzter Halbsatz ein Verfahren im Sinn des Art. 12 Abs. 2 nicht anhängig, so hat das Grundbuchsgericht die Liegenschaft auf Antrag der Behörde in sinngemäßer Anwendung des § 352 EO zu versteigern.
+
+#### Art. 16 – Artikel 16 – Vorgehensweise nach Entscheidung der Behörde
+
+(1) Wenn der Gerichtskommissär oder der Kurator (Art. 13) nach Art. 14 ein Verfahren nach Art. 12 Abs. 2 anhängig macht oder wenn ein solches Verfahren bereits anhängig ist, ist dessen rechtskräftiger Abschluss abzuwarten.
+
+(2) Endet das Verfahren mit einem Bescheid, einer verwaltungsgerichtlichen Entscheidung oder einer Bestätigung im Sinn des Art. 3 Abs. 1 Z 1 bis 3 oder liegt die erforderliche Erklärung im Sinn des Art. 3 Abs. 1 Z 4 rechtswirksam vor, so hat der Gerichtskommissär oder der Kurator die Verbücherung des außerbücherlichen Erwerbs zu bewirken.
+
+(3) Endet das Verfahren mit einer rechtskräftigen Entscheidung, durch die dem Erwerb die Genehmigung versagt oder der Erwerb untersagt wird, so ist die Liegenschaft gemäß Art. 15 zu versteigern.
+
+#### Art. 17 – Artikel 17 – Einstellung der Versteigerung
+
+Ein gemäß Art. 15 oder Art. 16 Abs. 3 durchzuführendes Versteigerungsverfahren ist auf Antrag dessen, der zur Antragstellung nach Art. 12 verpflichtet ist, nach Bezahlung der aufgelaufenen Exekutionskosten einzustellen (§ 39 EO), wenn die Verbücherung nach Art. 12 mittlerweile beantragt wurde.
+
+## Abschnitt VII
+
+### Feststellungsklage — Artikel 18
+
+#### Art. 18
+
+(1) Die landesgesetzlich bestimmte Behörde kann bei dem nach § 81 der Jurisdiktionsnorm zuständigen Gericht Klage auf Feststellung erheben, daß ein Rechtsgeschäft nichtig ist, vor allem weil es ein Schein- oder Umgehungsgeschäft ist. Die Erhebung der Klage ist auf Antrag im Grundbuch anzumerken. Die Anmerkung hat zur Folge, daß die gerichtliche Entscheidung auch gegen Personen ihre volle Wirksamkeit äußert, die erst nach dem Zeitpunkt, in dem der Antrag auf Anmerkung beim Grundbuchsgericht eingelangt ist, bücherliche Rechte erlangt haben.
+
+(2) Wird der Klage stattgegeben, so hat das Grundbuchsgericht eine bereits vorgenommene Eintragung des Rechtserwerbs zu löschen und den früheren Grundbuchstand wiederherzustellen. Art. 5 ist anzuwenden.
+
+## Abschnitt VIII
+
+### Schlußbestimmungen — Artikel 19
+
+#### Art. 19
+
+(1) Diese Vereinbarung tritt eine Woche nach Ablauf des Tages in Kraft, an dem
+
+1\. die nach den Landesverfassungen erforderlichen Voraussetzungen für das Inkrafttreten erfüllt sind und beim Bundeskanzleramt die Mitteilungen der Länder darüber vorliegen, sowie
+
+2\. die nach der Bundesverfassung erforderlichen Voraussetzungen für das Inkrafttreten erfüllt sind.
+
+(2) Das Bundeskanzleramt wird den Ländern die Erfüllung der Voraussetzungen des Abs. 1 sowie den Tag des Inkrafttretens der Vereinbarung mitteilen.
+
+#### Art. 20 – Artikel 20
+
+Diese Vereinbarung wird in einer Urschrift ausgefertigt. Die Urschrift wird beim Bundeskanzleramt hinterlegt. Dieses hat allen Vertragsparteien beglaubigte Abschriften der Vereinbarung zu übermitteln.
+
+#### Art. 21 – Artikel 21 – Anpassung
+
+Die Vertragsparteien erklären sich bereit, diese Vereinbarung nach Maßgabe künftiger Entwicklungen auf einen allfälligen Anpassungsbedarf hin zu überprüfen und gegebenenfalls Verhandlungen über notwendige Anpassungen aufzunehmen.
+
+#### Art. 22 – Artikel 22 – Inkrafttreten und sonstige Schlussbestimmungen der 3. GruVe-ÄVE
+
+(1) Der Titel der Vereinbarung, Art. 1, Art. 2 Abs. 1, Art. 3, Art. 4 Abs. 1, Art. 8 Abs. 1, 2 und 4, die Überschrift des Abschnitts V und Art. 10 bis 17 in der Fassung der 3. Grundstücksverkehr-Änderungsvereinbarung treten mit Ablauf des Tages in Kraft, an dem
+
+1\. die nach den jeweiligen Landesverfassungen erforderlichen Voraussetzungen für das Inkrafttreten erfüllt sind und beim Bundeskanzleramt die Mitteilungen aller Länder darüber vorliegen sowie
+
+2\. die nach der Bundesverfassung erforderlichen Voraussetzungen für das Inkrafttreten erfüllt sind.
+
+(2) Das Bundeskanzleramt hat den Ländern die Erfüllung der Voraussetzungen nach Abs. 1 sowie den Zeitpunkt des Inkrafttretens mitzuteilen.
+
+(3) Die 3. Grundstücksverkehr-Änderungsvereinbarung wird in einer Urschrift ausgefertigt. Die Urschrift wird beim Bundeskanzleramt hinterlegt. Dieses hat allen Vertragsparteien und der Verbindungsstelle der Bundesländer beglaubigte Abschriften der Vereinbarung zu übermitteln.
+
+## Sonstige Textteile
+
+**Vereinbarung zwischen dem Bund und den Ländern gemäß Artikel 15a B-VG über die Festlegung von bundesweit einheitlichen zivilrechtlichen Bestimmungen für landesgesetzlich zu regelnde Angelegenheiten des Grundstücksverkehrs (Grundstücksverkehr-Vereinbarung – GruVe-VE)**
+
+Der Bund, vertreten durch die Bundesregierung, und die Länder
+
+Burgenland,
+
+Kärnten,
+
+Niederösterreich,
+
+Oberösterreich,
+
+Salzburg,
+
+Steiermark,
+
+Tirol,
+
+Vorarlberg und
+
+Wien,
+
+jeweils vertreten durch den Landeshauptmann, - im folgenden Vertragsparteien genannt -, sind übereingekommen, gemäß Art. 15 a B-VG die nachstehende Vereinbarung zu schließen:

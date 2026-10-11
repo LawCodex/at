@@ -1,0 +1,83 @@
+---
+title: "Warnstufe II-Verordnung"
+identifier: "20000272"
+type: regulation
+ris_type: "Verordnung"
+jurisdiction: at-9
+land: "Wien"
+language: de
+promulgation: "LGBl. Nr. 66/2000"
+last_amended: 2006-10-11
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/lgbl/WI/2000/66/P0/LWI40005094"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrW&Gesetzesnummer=20000272"
+retrieved: 2026-10-11
+documents: 6
+---
+
+# Warnstufe II-Verordnung
+
+Verordnung des Landeshauptmannes von Wien, mit der Anordnungen zur Reduktion der Emissionen von Ozonvorläufersubstanzen nach Auslösung der Warnstufe II erlassen werden (Warnstufe II-Verordnung)
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 15 des Bundesgesetzes über Maßnahmen zur Abwehr der Ozonbelastung und die Information der Bevölkerung über hohe Ozonbelastungen, mit dem das Smogalarmgesetz, BGBl. Nr. 38/1989, geändert wird (Ozongesetz), BGBl. Nr. 210/1992 in der Fassung BGBl. I Nr. 115/1997 wird verordnet:
+
+## § 1 – Verbot der Verwendung von Fahrzeugen
+
+§ 1. (1) Ab dem im § 4 Abs. 1 bezeichneten Zeitpunkt ist im Gebiet des Landes Wien die Verwendung von Kraftfahrzeugen und anderen mit Verbrennungsmotoren ausgestatteten Fahrzeugen vorübergehend untersagt.
+
+(2) Vom Verbot gemäß Abs. 1 sind
+
+1\. Fahrzeuge der Feuerwehren, der Rettungsdienste, des öffentlichen Sicherheitsdienstes, Einsatzfahrzeuge der E-Werke, Verkehrsbetriebe, Gaswerke, Wasserwerke, der Kanalgebrechendienste, Einsatzfahrzeuge der Eisenbahnen, Fahrzeuge der Post- und Telegraphenverwaltung, Fahrzeuge zur Versorgung mit Arzneimitteln und von Apotheken, Fahrzeuge des Lebensmittelhandels sowie zur Beförderung von Schlacht- und Stechvieh oder leicht verderblichen Lebensmitteln, Fahrzeuge der Ärzte und Tierärzte im Dienst, Fahrzeuge der Bestattungsdienste, des Zivilschutzes und der Müllabfuhr sowie der Schadstoffmessung, Fahrzeuge im Linienverkehr, Behindertenfahrzeuge (Fahrzeuge, bei denen ein Insasse einen Behindertenausweis gemäß § 29 b Straßenverkehrsordnung 1960, BGBl. Nr. 159 in der Fassung BGBl. I Nr. 145/1998 besitzt), Fahrzeuge im behördlichen Auftrag, Fahrzeuge der gewerbsmäßigen Personenbeförderung, Fahrzeuge der Zollwache, landwirtschaftliche Nutzfahrzeuge und Fahrzeuge des Österreichischen Rundfunks in dem zur Erfüllung seines gesetzlichen Auftrags unbedingt erforderlichen Ausmaß,
+
+2\. Fahrzeuge mit einer gültigen weißen Begutachtungsplakette (Ozongesetz - Kennzeichnungsverordnung, BGBl. Nr. 342/1994), Fahrzeuge mit ausländischem Kennzeichen, von denen angenommen werden kann, dass sie hinsichtlich der Schadstoffemission denselben Bestimmungen entsprechen,
+
+3\. der Eisenbahn-, Schiff- und Linienflugverkehr, Instrumentenanflüge zum Flughafen Wien, sowie Ambulanz- und Rettungsflüge und Flüge zur Verkehrsüberwachung,
+
+4\. Einsätze des Bundesheers gemäß § 2 Abs. 1 lit. a bis c des Wehrgesetzes 1990, BGBl. Nr. 305 in der Fassung BGBl. I Nr. 121/1998, die Vorbereitung solcher Einsätze, ausgenommen jedoch militärische Übungen, sowie die zur Aufrechterhaltung des militärischen Dienstbetriebs unbedingt erforderlichen Maßnahmen,
+
+5\. Fahrzeuge, mit mehr als 3,5 t höchstzulässigem Gesamtgewicht, die nachweisbar gewerblichen oder sonstigen beruflichen Zwecken dienen (Berufsverkehr) und für die die Schadstoffarmut hinsichtlich der Werte für Kohlenwasserstoffe (HC) und Stickstoffoxid (NO<sub>x</sub>) gemäß Anlage I Punkt 6.2.1. lit. A der Richtlinie 88/77/EWG des Rates vom 3. Dezember 1987 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Emission gasförmiger Schadstoffe aus Dieselmotoren zum Antrieb von Fahrzeugen (ABl. Nr. L 36 vom 9. Februar 1988, Seiten 33-61) in der Fassung 91/542/EWG (ABl. Nr. L 295 vom 25. Oktober 1991, Seiten 1-19) durch ein im Fahrzeug mitgeführtes COP-Dokument gemäß der Verordnung (EG) Nr. 3298/94 der Kommission vom 21. Dezember 1994 über verfahrenstechnische Einzelheiten im Zusammenhang mit dem System von Transitrechten (Ökopunkten) für Lastkraftwagen im Transit durch Österreich (ABl. Nr. L 341 vom 30. Dezember 1994, Seiten 20-36) belegt werden kann,
+
+6\. Fahrten auf Autobahnen mit Fahrzeugen mit ausländischen Kennzeichen mit mehr als 3,5 t höchstzulässigem Gesamtgewicht, die nachweisbar dem Verlassen oder Durchfahren des Ozon-Überwachungsgebietes „Nordostösterreich“ dienen (Transitverkehr),
+
+ausgenommen.
+
+(3) Für die Dauer des nach Abs. 1 angeordneten Verbotes der Verwendung von Fahrzeugen sind alle in Wien kundgemachten Kurzparkzonen aufgehoben. Die dafür angebrachten Verkehrszeichen sind in diesem Zeitraum nicht wirksam.
+
+## § 2 – Verbot der Verwendung von Lösungsmitteln
+
+§ 2. (1) „Organische Lösungsmittel„ sind bei Raumtemperatur (20 Grad Celsius) und Normaldruck (1013 hPa) flüssige organische Verbindungen (Stoffe oder Zubereitungen) mit einem Siedepunkt von höchstens 200 Grad Celsius, die andere Inhaltsstoffe der in § 1 Abs.1 der Verordnung des Bundesministers für Umwelt über Verbote und Beschränkungen von organischen Lösungsmitteln (Lösungsmittelverordnung 1995 - LMVO 1995), BGBl. 872/1995, genannten Zubereitungen zu lösen vermögen und die während oder nach deren bestimmungsgemäßer Anwendung verdunsten. Reaktivlösemittel sind keine organischen Lösungsmittel im Sinne dieser Verordnung.
+
+(2) Ab dem im § 4 Abs. 1 bezeichneten Zeitpunkt ist im Gebiet des Landes Wien die Verwendung von organischen Lösungsmitteln verboten. Dieses Verbot umfaßt insbesondere die Verwendung von organischen Lösungsmitteln in Lacken, in Holzschutzmitteln, Bautenschutzmitteln, Klebstoffen, in Abbeiz- und Reinigungsmitteln sowie in Pflanzenschutzmitteln.
+
+(3) Vom Verbot gemäß Abs. 2 sind ausgenommen:
+
+1\. Produkte gemäß §1 LMVO 1995, die den Anforderungen bezüglich des Gehaltes an organischen Lösungsmitteln (§§ 3,4 und 7 der LMVO 1995) entsprechen, wobei jedoch abweichend von der LMVO 1995 Ethanol und Propanol in den Gehalt an organischen Lösungsmitten einzurechnen sind. Für Reinigungsmittel und Pflanzenschutzmittel gilt als höchstzulässiger Grenzwert 10 Masseprozent an organischen Lösungsmitteln, wobei in diesen Gehalt Ethanol und Propanol einzurechnen sind.
+
+2\. Die Verwendung von organischen Lösungsmitteln und von Produkten, die organische Lösungsmittel enthalten, wenn sie nachweisbar medizinischen Zwecken dienen.
+
+3\. Die Verwendung von organischen Lösungsmitteln und von Produkten, die organische Lösungsmittel enthalten, in ortsfesten Anlagen, in denen durch Schutzvorrichtungen (Abluftreinigung) sichergestellt ist, dass in der Umgebungsluft je Mengeneinheit kein höherer Anteil an organischen Lösungsmitteln emittiert wird, als bei der Verwendung von Produkten, die Z 1 entsprechen.
+
+## § 3 – Verbot des Verbrennens von Materialienaußerhalb von Anlagen
+
+§ 3. (1) Ab dem im § 4 Abs. 1 bezeichneten Zeitpunkt ist im Gebiet des Landes Wien das Verbrennen von festen, flüssigen oder gasförmigen Materialien außerhalb von ortsfesten Anlagen vorübergehend untersagt.
+
+(2) Vom Verbot gemäß Abs. 1 sind
+
+1\. Maßnahmen zur Bekämpfung von Seuchen und ansteckenden Krankheiten und
+
+2\. die unaufschiebbare Zubereitung von Lebensmitteln, wenn eine Zubereitung ohne offenes Feuer nicht möglich ist,
+
+ausgenommen.
+
+## § 4 – In- und Außerkrafttreten der Sofortmaßnahmen
+
+§ 4. (1) Diese Verordnung tritt mit ihrer Kundmachung im österreichischen Rundfunk in Kraft.
+
+(2) Diese Verordnung tritt mit Kundmachung der Entwarnung im österreichischen Rundfunk außer Kraft.
+
+## § 5
+
+§ 5. Diese Verordnung wurde unter Einhaltung der Bestimmungen der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften der Europäischen Kommission notifiziert (Notifikationsnummer 2000/169/A).
