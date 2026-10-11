@@ -1,0 +1,122 @@
+---
+title: "Aquakultur-Statistikverordnung 2012"
+identifier: "20008019"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 344/2012"
+last_amended: 2023-10-17
+last_amendment: "BGBl. II Nr. 307/2023"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2012/344/P0/NOR40142821"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008019"
+retrieved: 2026-10-11
+documents: 14
+---
+
+# Aquakultur-Statistikverordnung 2012
+
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft betreffend die Statistik über die Aquakulturproduktion 2012 (Aquakultur-Statistikverordnung 2012)
+
+StF: BGBl. II Nr. 344/2012
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 307/2023  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Aufgrund der §§ 4 bis 10 des Bundesstatistikgesetzes 2000, BGBl. I Nr. 163/1999, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 111/2010, wird im Einvernehmen mit dem Bundeskanzler, hinsichtlich des § 12 zusätzlich im Einvernehmen mit der Bundesministerin für Finanzen und hinsichtlich des § 11 auf Grund des § 3 des LFBIS-Gesetzes, BGBl. Nr. 448/1980, zuletzt geändert durch das Bundesgesetz BGBl. Nr. 505/1994, verordnet:
+
+## Anordnung zur Erstellung der Statistik
+
+### § 1
+
+§ 1. Die Bundesanstalt Statistik Österreich (Bundesanstalt) hat zur Erfüllung der Verpflichtungen Österreichs aufgrund der Verordnung (EG) Nr. 762/2008 über die Vorlage von Aquakulturstatistiken durch die Mitgliedstaaten und zur Aufhebung der Verordnung (EG) Nr. 788/96, ABl. Nr. L 218 vom 13.08.2008 S. 1, gemäß dieser Verordnung Erhebungen durchzuführen und auf Grundlage der erhobenen Daten jeweils bis Jahresende eine Statistik über die Aquakulturproduktion zu erstellen.
+
+## Statistische Einheiten, Erhebungsmasse
+
+### § 2
+
+§ 2. Statistische Einheiten im Sinne dieser Verordnung sind Unternehmen, die Aquakultur im Sinne des Art. 2 Abs. 1 lit. b der Verordnung (EG) Nr. 762/2008 betreiben.
+
+## Periodizität, Kontinuität
+
+### § 3
+
+§ 3. Die statistischen Erhebungen sind jährlich über das vorangegangene Kalenderjahr (Berichtskalenderjahr) bei den statistischen Einheiten gemäß § 2 durchzuführen.
+
+## Erhebungsmerkmale
+
+### § 4
+
+§ 4. Folgende Merkmale sind zu erheben:
+
+1\. die Erzeugung der Aquakultur ohne Aufzuchtanlagen und Brutanlangen gemäß Anhang II der Verordnung (EG) Nr. 762/2008, aufgeschlüsselt nach konventioneller und biologischer Produktionsmenge im Sinne der Verordnung (EU) 2018/848 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen, ABl. Nr. L 150 vom 14.6.2018 S. 1,
+
+2\. die Erzeugung in Brutanlagen und Aufzuchtanlagen gemäß Anhang IV der Verordnung (EG) Nr. 762/2008 und
+
+3\. die Struktur des Aquakultursektors gemäß Anhang V der Verordnung (EG) Nr. 762/2008.
+
+## Erhebungsart
+
+### § 5
+
+§ 5. Die Merkmale gemäß § 4 sind personenbezogen in der Art der Vollerhebung durch Befragung statistischer Einheiten gemäß § 2 zu erheben.
+
+## Auskunftspflicht
+
+### § 6
+
+§ 6. (1) Bei den Befragungen besteht Auskunftspflicht gemäß § 9 des Bundesstatistikgesetzes 2000.
+
+(2) Zur Auskunftserteilung sind jene natürliche und juristische Personen sowie Personengesellschaften des Handelsrechts verpflichtet, die eine statistische Einheit gemäß § 2 im eigenen Namen betreiben.
+
+## Durchführung der Erhebung
+
+### § 7
+
+§ 7. (1) Die Befragung gemäß § 6 Abs. 1 erfolgt durch die Bundesanstalt.
+
+(2) Für die Befragung hat die Bundesanstalt einheitliche Erhebungsunterlagen (Fragebogen samt Erläuterungen) zu erstellen und diese den Auskunftspflichtigen sowohl in elektronischer Form als auch in Papierform zur Verfügung zu stellen.
+
+## Mitwirkungspflicht der Auskunftspflichtigen
+
+### § 8
+
+§ 8. Die Auskunftspflichtigen gemäß § 6 sind verpflichtet, den Fragebogen der Bundesanstalt innerhalb von drei Wochen nach Erhalt vollständig und nach bestem Wissen auszufüllen und diesen innerhalb dieser Frist an die Bundesanstalt zu retournieren.
+
+### § 9 – Sonstige Mitwirkungspflichten
+
+§ 9. Ehemalige Inhaber statistischer Einheiten gemäß § 2 sind zur Mitwirkung an der Feststellung des neuen Auskunftspflichtigen gemäß § 6 Abs. 2 durch die Bundesanstalt verpflichtet.
+
+## Information über die Auskunftspflicht
+
+### § 10
+
+§ 10. Die Bundesanstalt hat die Auskunftspflichtigen über die Rechtsfolgen gemäß § 66 des Bundesstatistikgesetzes 2000 bei Verweigerung der Auskunft und bei wissentlich unvollständigen oder nicht dem besten Wissen entsprechenden Angaben zu belehren.
+
+## Übermittlung von Daten in das LFBIS
+
+### § 11
+
+§ 11. Die Bundesanstalt hat die erhobenen Einzeldaten an den Bundesminister für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft zur Aufnahme in das land- und forstwirtschaftliche Betriebsinformationssystem (LFBIS) zu übermitteln.
+
+## Kostenersatz
+
+### § 12
+
+§ 12. (1) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat der Bundesanstalt einmalig im Jahr 2012 einen Kostenersatz in Höhe von 25 570,- Euro zu leisten.
+
+(2) Der Bundesminister für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft leistet der Bundesanstalt für die Aufschlüsselung der Merkmale nach konventioneller und biologischer Produktionsmenge gemäß § 4 Z 1 im Jahr 2023 einen Kostenersatz von 10 527,17 Euro, im Jahr 2024 einen Betrag von 8 477,46 Euro und im Jahr 2025 einen Betrag von 8 731,78. Der Betrag aus dem Jahr 2025 unterliegt ab dem Jahr 2026 einer jährlichen Valorisierung von 3%.
+
+## Inkrafttreten; Außerkrafttreten
+
+### § 13
+
+§ 13. Diese Verordnung tritt mit Ablauf des Tages der Kundmachung in Kraft; gleichtzeitig tritt die Verordnung über die Statistik der Aquakulturproduktion, BGBl. II Nr. 288/2003, außer Kraft.

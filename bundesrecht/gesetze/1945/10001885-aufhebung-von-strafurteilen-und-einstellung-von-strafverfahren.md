@@ -1,0 +1,73 @@
+---
+title: "Aufhebung von Strafurteilen und Einstellung von Strafverfahren"
+identifier: "10001885"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "StGBl. Nr. 48/1945"
+date: 1945-07-03
+last_amended: 1945-07-10
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/stgbl/1945/48/P0/NOR11001908"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001885"
+retrieved: 2026-10-11
+documents: 10
+---
+
+# Aufhebung von Strafurteilen und Einstellung von Strafverfahren
+
+Gesetz vom 3. Juli 1945 über die Aufhebung von Strafurteilen und die Einstellung von Strafverfahren (Aufhebungs- und Einstellungsgesetz)
+
+StF: StGBl. Nr. 48/1945
+
+## Präambel/Promulgationsklausel
+
+Die Provisorische Staatsregierung hat beschlossen:
+
+## § 1
+
+§ 1. Verurteilungen von österreichischen Staatsangehörigen, gleichgültig, ob innerhalb oder außerhalb des Staatsgebietes der Republik Österreich, gelten als nicht erfolgt,
+
+a) wenn sie nach den Bestimmungen gegen Hoch- und Landesverrat (§§ 80 bis 83, 85, 88, 90a bis 90i, 91, 91a und b, 92, 92a bis f RStGB.) oder der Verordnung über das Sonderstrafrecht im Kriege und bei besonderem Einsatz (Kriegssonderstrafrechtsverordnung) vom 17. August 1938, Deutsches RGBl. 1939, I S. 1455, ergangen sind und die Handlung gegen die nationalsozialistische Herrschaft oder auf die Wiederherstellung eines unabhängigen Staates Österreich gerichtet war,
+
+b) wenn sie nach § 5, Abs. (1) bis (3), des Gesetzes zum Schutz des deutschen Blutes und der deutschen Ehre vom 15. September 1935, Deutsches RGBl. I S. 1146, nach dem Gesetz gegen heimtückische Angriffe auf Staat und Partei und zum Schutz der Parteiuniform vom 20. Dezember 1934, Deutsches RGBl. I S. 1269, oder nach der Verordnung über außerordentliche Rundfunkmaßnahmen vom 1. September 1939, Deutsches RGBl. I S.1683, ergangen sind.
+
+## § 2
+
+§ 2. Strafverfahren, die wegen der im § 1 angeführten strafbaren Handlungen derzeit noch anhängig sind, sind einzustellen.
+
+## § 3
+
+§ 3. (1) Ist jemand wegen strafbarer Handlungen der im § 1 angeführten Art im Zusammentreffen mit anderen strafbaren Handlungen verurteilt worden, so bleibt der Schuldspruch wegen der anderen strafbaren Handlungen aufrecht; dagegen tritt das Urteil im Punkte der Strafe außer Kraft.
+
+(2) Über die wegen der anderen strafbaren Handlungen zu verhängende Strafe ist in einer neuen Hauptverhandlung durch Urteil zu erkennen.
+
+## § 4
+
+§ 4. (1) Das Gericht stellt von Amts wegen oder auf Antrag mit Beschluß fest, daß die Verurteilung wegen der im § 1 bezeichneten strafbaren Handlungen als nicht erfolgt gilt, im Falle eines Zusammentreffens im Sinne des § 3 auch, daß das Urteil im Punkte der Strafe außer Kraft getreten ist. In letzterem Falle ordnet es gleichzeitig die neue Hauptverhandlung an.
+
+(2) Für die Beschlußfassung ist in den Fällen, in denen sich der Sitz des Urteilsgerichtes außerhalb des Gebietes der Republik Österreich befindet, der Gerichtshof erster Instanz zuständig, in dessen Sprengel der Verurteilte seinen Wohnsitz oder Aufenthalt hat, oder, wenn ein solches Gericht fehlt, das Landesgericht für Strafsachen Wien.
+
+## § 5
+
+§ 5. (1) Der Beschluß ist in nichtöffentlicher Sitzung nach Anhörung des Staatsanwaltes zu fassen.
+
+(2) Gegen die Entscheidung steht dem Verurteilten und dem Staatsanwalt die Beschwerde offen. Sie ist binnen drei Tagen zu erheben und hat aufschiebende Wirkung.
+
+## § 6
+
+§ 6. Ist im Falle des § 3 die Verurteilung auch wegen einer strafbaren Handlung ergangen, die nur auf Begehren eines Beteiligten verfolgt werden kann (§ 2 StPO.), so ist der Beschluß (§ 4) auch dem Privatankläger zuzustellen. Dieser ist auch von dem Zeitpunkte der neu anzuordnenden Hauptverhandlung zu verständigen.
+
+## § 7
+
+§ 7. Entschädigungs- und Rückersatzansprüche können auf Grund dieses Gesetzes nicht erhoben werden.
+
+## § 8
+
+§ 8. Die Provisorische Staatsregierung ist ermächtigt, zu verordnen, daß die Bestimmungen der §§ 1 und 2 auch für Verurteilungen und Strafverfahren zu gelten haben, die wegen Zuwiderhandlung gegen andere Rechtsvorschriften typisch nationalsozialistischer Prägung erfolgt oder eingeleitet sind.
+
+## § 9
+
+§ 9. Mit der Vollziehung dieses Gesetzes ist, soweit sie nicht gemäß § 8 der Provisorischen Staatsregierung zukommt, das Staatsamt für Justiz betraut.

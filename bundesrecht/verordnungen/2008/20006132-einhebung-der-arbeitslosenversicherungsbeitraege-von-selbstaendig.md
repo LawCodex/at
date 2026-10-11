@@ -1,0 +1,46 @@
+---
+title: "Einhebung der Arbeitslosenversicherungsbeiträge von selbständig Erwerbstätigen"
+identifier: "20006132"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 461/2008"
+last_amended: 2009-01-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2008/461/P0/NOR30006830"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006132"
+retrieved: 2026-10-11
+documents: 6
+---
+
+# Einhebung der Arbeitslosenversicherungsbeiträge von selbständig Erwerbstätigen
+
+Verordnung des Bundesministers für Wirtschaft und Arbeit über die Einhebung der Arbeitslosenversicherungsbeiträge von selbständig Erwerbstätigen
+
+StF: BGBl. II Nr. 461/2008
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 5 Abs. 2 und 3 des Arbeitsmarktpolitik-Finanzierungsgesetzes, BGBl. Nr. 315/1994, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 84/2008, wird verordnet:
+
+## § 1
+
+§ 1. Die von der Sozialversicherungsanstalt der gewerblichen Wirtschaft in einem Kalendermonat eingehobenen Arbeitslosenversicherungsbeiträge gemäß § 2 AMPFG sind vermindert um die Einhebungsvergütung bis zum 20. des nächstfolgenden Monates auf das vom Bundesministerium für Wirtschaft und Arbeit bekannt gegebene Konto zu überweisen.
+
+## § 2
+
+§ 2. Zur Abgeltung der laufenden Kosten steht der Versicherungsanstalt eine Einhebungsvergütung in der Höhe eines Prozentes der jeweils eingehobenen Arbeitslosenversicherungsbeiträge zu.
+
+## § 3
+
+§ 3. Die Sozialversicherungsanstalt hat die Abrechnung über die Arbeitslosenversicherungsbeiträge dem Bundesministerium für Wirtschaft und Arbeit jeweils bis zum 20. des Folgemonates vorzulegen.
+
+## § 4
+
+§ 4. Die der Sozialversicherungsanstalt zur Herstellung der Voraussetzungen für die Einhebung der Arbeitslosenversicherungsbeiträge entstehenden anteiligen Aufwendungen betreffend die Durchführung der Arbeitslosenversicherung gemäß § 3 Abs. 7 des Arbeitslosenversicherungsgesetzes 1977 (AlVG), BGBl. Nr. 609, in der Fassung des Bundesgesetzes BGBl. I Nr. 82/2008, hat der Bund aus der Gebarung Arbeitsmarktpolitik zunächst durch Zahlung eines den voraussichtlich entstehenden Kosten entsprechenden Betrages in Höhe von 228 000 € abzugelten. Ein allfälliger Differenzbetrag ist im Falle höherer Kosten vom Bund und im Falle geringerer Kosten von der Sozialversicherungsanstalt binnen zwei Monaten nach Vorliegen der endgültigen Kostenrechnung auszugleichen.
+
+## § 5
+
+§ 5. Diese Verordnung tritt mit 1. Jänner 2009 in Kraft.

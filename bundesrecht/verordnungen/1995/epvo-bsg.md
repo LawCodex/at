@@ -1,0 +1,342 @@
+---
+title: "Eignungsprüfungsverordnung-Binnenschifffahrtsgewerbe"
+abbreviation: "EPVO-BSG"
+identifier: "10012469"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 481/1995"
+last_amended: 2017-07-26
+last_amendment: "BGBl. II Nr. 199/2017"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1995/481/P0/NOR40195298"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012469"
+retrieved: 2026-10-11
+documents: 15
+---
+
+# Eignungsprüfungsverordnung-Binnenschifffahrtsgewerbe (EPVO-BSG)
+
+Verordnung des Bundesministers für öffentliche Wirtschaft und Verkehr über die fachliche Eignung im Binnenschifffahrtsgewerbe (Eignungsprüfungsverordnung-Binnenschifffahrtsgewerbe – EPVO-BSG)
+
+StF: BGBl. Nr. 481/1995
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 225/2002  
+BGBl. II Nr. 199/2017  
+
+</details>
+
+> **Anmerkung:** Mit Wirksamkeit vom 26.7.2017 wurden der Titel und der Kurztitel geändert (vgl. BGBl. II Nr. 199/2017). Aus dokumentalistischen Gründen wurde auch in den Dokumenten bereits außer Kraft getretener Bestimmungen der Kurztitel angepasst.
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 80 Abs. 4 des Schiffahrtsgesetzes 1990, BGBl. Nr. 87/1989, zuletzt geändert durch BGBl. Nr. 429/1995, wird verordnet:
+
+## § 1 – Geltungsbereich
+
+§ 1. Die nachfolgenden Bestimmungen gelten für die Erlangung der fachlichen Eignung für die Ausübung des Binnenschifffahrtsgewerbes auf den in § 74 des Schiffahrtsgesetzes 1990 angeführten Gewässern.
+
+## § 2 – Prüfung der fachlichen Eignung
+
+§ 2. (1) Die Prüfung der fachlichen Eignung vor der Prüfungskommission umfaßt die in der Anlage 1 angeführten Sachgebiete der Prüfung, soweit deren Kenntnis nicht durch eine Bescheinigung gemäß §§ 8 oder 9 nachgewiesen wird.
+
+(2) Die Prüfung ist mündlich und wird in deutscher Sprache abgehalten.
+
+## § 3 – Zulassung zur Prüfung
+
+§ 3. (1) Dem Antrag auf Zulassung zur Prüfung, der schriftlich zu erfolgen hat, sind allfällige Anträge auf Ausstellung von Bescheinigungen sowie die hiefür erforderlichen Unterlagen oder bereits ausgestellte Bescheinigungen der Prüfungskommission gemäß §§ 8 oder 9 anzuschließen.
+
+(2) Anläßlich der Zulassung zur Prüfung sind dem Prüfungswerber Zeit und Ort der Prüfung sowie die Prüfungsgegenstände bekanntzugeben.
+
+(3) Die Entrichtung der Prüfungsgebühr ist vom Prüfungswerber spätestens bei Antritt der Prüfung nachzuweisen.
+
+## § 4 – Identitätsnachweis
+
+§ 4. Der Prüfungswerber hat bei Antritt der Prüfung seine Identität durch einen amtlichen Lichtbildausweis nachzuweisen.
+
+## § 5 – Prüfungsergebnis und Bescheinigungen
+
+§ 5. Hat der Prüfungswerber die Prüfung erfolgreich abgeschlossen, so ist ihm auf Grund eines Beschlusses der Prüfungskommission von dieser über die bestandene Prüfung eine Bescheinigung nach dem Muster der Anlage 2 auszustellen.
+
+## § 6 – Wiederholung
+
+§ 6. Die Prüfung kann im Falle des Nichtbestehens frühestens nach zwei Monaten wiederholt werden.
+
+## § 7 – Prüfungsgebühr
+
+§ 7. (1) Der Prüfungswerber hat als Kostenbeitrag zur Durchführung der Prüfung eine Gebühr in Höhe von 12 vH des zum Zeitpunkt der Prüfung geltenden, im Teil II des Bundesgesetzblatts vom Bundeskanzler kundgemachten besoldungsrechtlichen Referenzbetrags gemäß § 3 Abs. 4 des Gehaltsgesetzes 1956 – GehG, BGBl. Nr. 54/1956, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 119/2016, aufgerundet auf einen durch fünf teilbaren Eurobetrag, zu entrichten.
+
+(2) Zur Bezahlung der Entschädigung an die Mitglieder der Prüfungskommission hat der Landeshauptmann neun Zehntel der Prüfungsgebühr auf die Mitglieder der Prüfungskommission zu gleichen Teilen aufzuteilen. Das verbleibende Zehntel ist zur Abdeckung des durch die Abhaltung der Prüfung entstandenen sonstigen besonderen Verwaltungsaufwandes zu verwenden.
+
+## § 8 – Anrechnung für die Prüfung der fachlichen Eignung
+
+§ 8. (1) Die Prüfungskommission hat auf Antrag des Prüfungswerbers eine Bescheinigung entsprechend dem Muster der Anlage 3 darüber auszustellen, welche der in der Anlage 1 angeführten Sachgebiete der Prüfung durch einen in Abs. 2 bis 5 genannten Abschluß einer Hochschule oder berufsbildenden höheren Schule <sup>1</sup>) oder durch ein in Abs. 6 und 7 genanntes Zeugnis abgedeckt sind.
+
+(2) Die durch ein Zeugnis nachgewiesenen Abschlüsse einer Höheren technischen und gewerblichen Lehranstalt sowie deren Sonderformen gemäß § 73 Abs. 1 lit. a bis c und Abs. 4 des Schulorganisationsgesetzes, BGBl. Nr. 242/1962 in der jeweils geltenden Fassung, ersetzen folgende Sachgebiete der Prüfung:
+
+1\. Grundsätze des Zivilrechtes und des allgemeinen Handelsrechtes,
+
+2\. Steuerrecht,
+
+3\. Kaufmännische und finanzielle Verwaltung des Betriebes.
+
+(3) Die durch ein Zeugnis nachgewiesenen Abschlüsse einer Handelsakademie sowie deren Sonderformen gemäß § 75 Abs. 1 lit. a bis c und Abs. 3 des Schulorganisationsgesetzes, BGBl. Nr. 242/1962 in der jeweils geltenden Fassung, einer Höheren Lehranstalt für wirtschaftliche Berufe sowie deren Sonderformen gemäß § 77 Abs. 1 lit. a bis c und Abs. 3 leg.cit., einer Höheren Lehranstalt für Tourismus sowie deren Sonderformen gemäß § 73 Abs. 1 lit. a bis c und Abs. 4 leg.cit. und einer Höheren Lehranstalt für Mode und Bekleidungstechnik sowie deren Sonderformen gemäß § 73 Abs. 1 lit. a bis c und Abs. 4 leg.cit. ersetzen folgende Sachgebiete der Prüfung:
+
+1\. Grundsätze des Zivilrechtes und des allgemeinen Handelsrechtes,
+
+2\. Grundsätze des Gesellschaftsrechtes,
+
+3\. Sozialversicherungsrecht,
+
+4\. Steuerrecht.
+
+(4) Der durch ein Zeugnis (Diplom) nachgewiesene Abschluß eines Studiums der Betriebswirtschaft oder der Handelswissenschaft ersetzt folgende Sachgebiete der Prüfung:
+
+1\. Grundsätze des Zivilrechtes und des allgemeinen Handelsrechtes,
+
+2\. Grundsätze des Gesellschaftrechtes und des Firmenbuchrechtes,
+
+3\. Sozialversicherungsrecht,
+
+4\. Steuerrecht,
+
+5\. Kaufmännische und finanzielle Verwaltung des Betriebes.
+
+(5) Der durch ein Zeugnis (Diplom) nachgewiesene Abschluß eines Studiums der Rechtswissenschaften ersetzt folgende Sachgebiete der Prüfung:
+
+1\. Grundsätze des Zivilrechtes und des allgemeinen Handelsrechtes,
+
+2\. Grundsätze des Gesellschaftsrechtes und des Firmenbuchrechtes,
+
+3\. Arbeitsrecht, ausgenommen Arbeitnehmerschutzrecht, Arbeitszeitrecht, die einschlägigen Kollektivverträge sowie die einschlägigen EU-Vorschriften,
+
+4\. Sozialversicherungsrecht,
+
+5\. Steuerrecht, falls dieses als Wahlpflichtfach durch eine erfolgreich abgelegte Prüfung nachgewiesen wird.
+
+(6) Die erfolgreich abgelegte Unternehmerprüfung gemäß der Unternehmerprüfungsverordnung, BGBl. Nr. 453/1993 in der jeweils geltenden Fassung, sowie der durch ein Zeugnis nachgewiesene Abschluß jener berufsbildenden Schulen, deren erfolgreicher Abschluß den Entfall der Unternehmerprüfung zur Folge hat, ersetzt folgende Sachgebiete der Prüfung:
+
+1\. Grundsätze des Zivilrechtes und des Allgemeinen Handelsrechtes,
+
+2\. Grundsätze des Gesellschaftsrechtes,
+
+3\. Sozialversicherungsrecht,
+
+4\. Steuerrecht,
+
+5\. Arbeitsrecht, ausgenommen Arbeitnehmerschutzrecht, Arbeitszeitrecht, die einschlägigen Kollektivverträge sowie die einschlägigen EG-Vorschriften,
+
+6\. Kaufmännische und finanzielle Verwaltung des Betriebes.
+
+(7) Der durch ein Zeugnis nachgewiesene erfolgreiche Abschluß des
+
+zweisemestrigen Speziallehrganges für Transportwirtschaft sowie des
+
+zweisemestrigen Speziallehrganges für Transportwirtschaft für Berufstätige gemäß der Verordnung des Bundesministers für Unterricht und Kunst über die Lehrpläne für die Handelsakademie und die Handelsschule, BGBl. Nr. 895/1994 in der jeweils geltenden Fassung, ersetzt folgende Sachgebiete der Prüfung:
+
+1\. Recht,
+
+2\. Kaufmännische und finanzielle Verwaltung des Betriebes,
+
+3\. Zugang zum Markt,
+
+4\. Technische Normen und technischer Betrieb.
+
+(8) Der Nachweis der fachlichen Eignung für das mit Omnibussen betriebene Personenbeförderungsgewerbe gemäß der Richtlinie des Rates 74/562/EWG in der Fassung 89/438/EWG oder für das mit Kraftfahrzeugen betriebene Güterbeförderungsgewerbe gemäß der Richtlinie des Rates 74/561/EWG in der Fassung 89/438/EWG ersetzt folgende Sachgebiete der Prüfung:
+
+1\. Recht,
+
+2\. Kaufmännische und finanzielle Verwaltung des Betriebes.
+
+(9) Die durch ein Kapitänspatent (§ 128 Abs. 1 Z 1 und Z 2 des Schiffahrtsgesetzes 1990) nachgewiesene Berechtigung zur selbständigen Führung von Motorfahrzeugen ersetzt folgende Sachgebiete der Prüfung:
+
+1\. Technische Normen und technischer Betrieb,
+
+2\. Verkehrssicherheit.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup>) im Europäischen Wirtschaftsraum als „ Fachschule“ bezeichnet
+
+## § 9 – Eignungsnachweis durch Berufspraxis
+
+§ 9. Die Prüfungskommission hat auf Antrag des Prüfungswerbers auf Grund des Nachweises einer mindestens dreijährigen, nicht untergeordneten Tätigkeit in einem Schifffahrtsunternehmen mit Sitz in einem EWR-Staat eine Bescheinigung entsprechend dem Muster der Anlage 4 auszustellen.
+
+## § 10 – Inkrafttreten
+
+§ 10. (1) Diese Verordnung tritt mit dem auf ihre Kundmachung folgenden Tag in Kraft.
+
+(2) Diese Verordnung in der Fassung der Verordnung BGBl. II Nr. 199/2017 tritt mit dem auf ihre Kundmachung folgenden Tag in Kraft.
+
+## Anlage 1
+
+\**Sachgebiete der Prüfung**
+
+A. Güterbeförderung
+
+1\. Recht:
+
+Für die Ausübung des Gewerbes erforderliche Kenntnisse im Zivil-, Handels-, Sozial- und Steuerrecht, insbesondere in bezug auf:
+
+a) Grundsätze des Zivilrechtes und des Handelsrechtes (unter besonderer Berücksichtigung des allgemeinen Vertragsrechtes, des Frachtrechtes, des Schadenersatzrechtes und des Dienstnehmerhaftpflichtrechtes),
+
+b) Beförderungsverträge (CMR),
+
+c) Versicherungsrecht, insbesondere im Hinblick auf die Haftung des Zulassungs- und Fahrzeuginhabers sowie des Frachtführers; Transportversicherung,
+
+d) Grundsätze des Gesellschaftsrechtes unter besonderer Berücksichtigung des Firmenbuchrechtes,
+
+e) Arbeitsrecht unter besonderer Berücksichtigung des Arbeitnehmerschutzrechtes, insbesondere Arbeitszeitrecht einschließlich der einschlägigen Kollektivverträge sowie die einschlägigen EU-Vorschriften,
+
+f) Sozialversicherungsrecht,
+
+g) Steuerrecht.
+
+2\. Kaufmännische und finanzielle Verwaltung des Betriebes:
+
+a) Zahlungsverkehr und Finanzierungsverfahren,
+
+b) Berechnung der Selbstkosten,
+
+c) Beförderungspreise und -bedingungen,
+
+d) Kaufmännisches Rechnungswesen,
+
+e) Ausstellung von Rechnungen,
+
+f) Hilfsgewerbetreibende des Verkehrs (82/470/EWG).
+
+3\. Zugang zum Markt:
+
+a) gewerberechtliche Vorschriften des Binnenschifffahrtsgewerbes,
+
+b) Beförderungsdokumente,
+
+c) zuständige Behörden.
+
+4\. Technische Normen und technischer Betrieb:
+
+a) Fahrzeuggewichte und -abmessungen; Fahrzeugarten,
+
+b) Wahl des Fahrzeuges,
+
+c) Be- und Entladen der Fahrzeuge; Umschlag,
+
+d) Zulassungsvoraussetzungen; Registerrecht; Schiffseichung,
+
+e) Liegezeit und Überliegezeit; Hafenentgelte.
+
+5\. Verkehrssicherheit:
+
+a) Rechts- und Verwaltungsvorschriften für den Binnenschiffsverkehr,
+
+b) Pflichten des Zulassungs- bzw. Fahrzeuginhabers nach Zulassungsrecht und Schifffahrtspolizeirecht,
+
+c) Besatzungsvorschriften,
+
+d) die besondere Verantwortung des Schiffsführers bei der Beförderung von gefährlichen Gütern,
+
+e) Unfallverhütung und bei Unfällen oder anderen Zwischenfällen zu ergreifende Maßnahmen.
+
+6\. Zusätzliche Sachgebiete für den grenzüberschreitenden Verkehr:
+
+a) Bestimmungen, die auf Grund einzelstaatlicher Rechtsvorschriften, gemeinschaftlicher Regeln und internationaler Übereinkommen und Abkommen für den Binnenschiffsverkehr zwischen den EWR-Mitgliedsstaaten sowie zwischen dem EWR und Drittländern gelten, insbesondere auf den Gebieten der Befrachtung sowie der Beförderungspreise und -bedingungen,
+
+b) allgemeine Grundsätze des Zollrechtes und Zollvorschriften,
+
+c) kombinierter Verkehr zwischen Landverkehrsträgern und Schiff mit seinen verschiedenen Techniken sowie Ro/Ro-Verkehr (in Verbindung mit Landverkehrsträgern),
+
+d) wichtigste schifffahrtspolizeiliche Vorschriften in den Mitgliedsstaaten.
+
+B. Personenbeförderung mit Fahrzeugen, die für die Beförderung von mehr als 12 Fahrgästen zugelassen sind
+
+1\. Recht:
+
+Für die Ausübung des Gewerbes erforderliche Kenntnisse im Zivil-, Handels-, Sozial- und Steuerrecht, insbesondere in bezug auf:
+
+a) Grundsätze des Zivilrechtes und des Handelsrechtes (unter besonderer Berücksichtigung des allgemeinen Vertragsrechtes, des Schadenersatzrechtes und des Dienstnehmerhaftpflichtrechtes),
+
+b) Grundsätze des Gesellschaftsrechtes unter besonderer Berücksichtigung des Firmenbuchrechtes,
+
+c) Arbeitsrecht unter besonderer Berücksichtigung des Arbeitnehmerschutzrechtes, insbesondere Arbeitszeitrecht einschließlich der einschlägigen Kollektivverträge sowie die einschlägigen EU-Vorschriften,
+
+d) Sozialversicherungsrecht,
+
+e) Steuerrecht.
+
+2\. Kaufmännische und finanzielle Verwaltung des Betriebes:
+
+a) Zahlungsverkehr und Finanzierungsverfahren,
+
+b) Berechnung der Selbstkosten,
+
+c) Beförderungspreise und -bedingungen,
+
+d) Kaufmännisches Rechnungswesen.
+
+3\. Technische Normen und technischer Betrieb:
+
+a) Fahrzeuggewichte und -abmessungen; Fahrzeugarten,
+
+b) Zulassungsbedingungen; Registerrecht; Schiffseichung.
+
+4\. Verkehrssicherheit:
+
+a) Rechts- und Verwaltungsvorschriften für den Binnenschiffsverkehr,
+
+b) Pflichten des Zulassungs- bzw. Fahrzeuginhabers nach Zulassungsrecht und Schifffahrtspolizeirecht,
+
+c) Besatzungsvorschriften,
+
+d) Unfallverhütung und bei Unfällen oder anderen Zwischenfällen zu ergreifende Maßnahmen.
+
+5\. Zusätzliche Sachgebiete für den grenzüberschreitenden Verkehr:
+
+a) Bestimmungen, die auf Grund einzelstaatlicher Rechtsvorschriften, gemeinschaftlicher Regeln und internationaler Übereinkommen und Abkommen für den Binnenschiffsverkehr zwischen den EWR-Mitgliedsstaaten sowie zwischen dem EWR und Drittländern gelten, insbesondere auf den Gebieten der Beförderungspreise und -bedingungen,
+
+b) wichtigste schifffahrtspolizeiliche Vorschriften in den Mitgliedsstaaten.
+
+C. Personenbeförderung mit Fahrzeugen, die für die Beförderung von bis zu 12 Fahrgästen zugelassen sind
+
+1\. Recht:
+
+Für die Ausübung des Gewerbes erforderliche Kenntnisse im Schadenersatzrecht und im Steuerrecht.
+
+2\. Kaufmännische und finanzielle Verwaltung des Betriebes:
+
+Beförderungspreise und -bedingungen.
+
+3\. Technische Normen und technischer Betrieb:
+
+a) Fahrzeuggewichte und -abmessungen; Fahrzeugarten,
+
+b) Zulassungsbedingungen.
+
+4\. Verkehrssicherheit:
+
+a) Rechts- und Verwaltungsvorschriften für den Binnenschiffsverkehr,
+
+b) Pflichten des Zulassungs- bzw. Fahrzeuginhabers nach Zulassungsrecht und Schifffahrtspolizeirecht,
+
+c) Unfallverhütung und bei Unfällen oder anderen Zwischenfällen zu ergreifende Maßnahmen.
+
+## Anlage 2
+
+\*(Anm.: Anlage 2 ist als PDF dokumentiert.*
+
+\*Die Novellierungsanweisung der Novelle BGBl. II Nr. 199/2017. konnte nicht eingearbeitet werden und lautet: „*Die Worte „Schiffahrt“ und „schiffahrt“, *auch in allen Wortverbindungen mit Ausnahme der Wortverbindung* „Schiffahrtsgesetzes 1990“, *werden durch* „Schifffahrt“ *und* „schifffahrt“ *ersetzt*.“)
+
+## Anlage 3
+
+\*(Anm.: Anlage 3 ist als PDF dokumentiert.)*
+
+## Anlage 4
+
+\*(Anm.: Anlage 4 ist als PDF dokumentiert.*
+
+\*Die Novellierungsanweisung der Novelle BGBl. II Nr. 199/2017. konnte nicht eingearbeitet werden und lautet: „*Die Worte „Schiffahrt“ und „schiffahrt“, *auch in allen Wortverbindungen mit Ausnahme der Wortverbindung* „Schiffahrtsgesetzes 1990“, *werden durch* „Schifffahrt“ *und* „schifffahrt“ *ersetzt*.“*)*

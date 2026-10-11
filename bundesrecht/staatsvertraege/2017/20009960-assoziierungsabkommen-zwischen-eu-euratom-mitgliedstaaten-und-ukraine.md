@@ -1,0 +1,80 @@
+---
+title: "Assoziierungsabkommen zwischen EU, EURATOM, Mitgliedstaaten und Ukraine"
+identifier: "20009960"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 129/2017"
+last_amended: 2017-09-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2017/129/P0/NOR40196327"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009960"
+retrieved: 2026-10-11
+documents: 7
+---
+
+# Assoziierungsabkommen zwischen EU, EURATOM, Mitgliedstaaten und Ukraine
+
+Assoziierungsabkommen zwischen der Europäischen Union und der Europäischen Atomgemeinschaft und ihren Mitgliedstaaten einerseits und der Ukraine andererseits
+
+StF: BGBl. III Nr. 129/2017 (NR: GP XXV RV 581 AB 758 S. 85. BR: AB 9433 S. 844.)
+
+**Unterzeichnungsdatum:** 21.03.2014
+
+**Vertragsparteien:** \*Belgien III 129/2017 \*Bulgarien III 129/2017 \*Dänemark III 129/2017 \*Deutschland III 129/2017 \*Estland III 129/2017 \*EU III 129/2017 \*EURATOM III 129/2017 \*Finnland III 129/2017 \*Frankreich III 129/2017 \*Griechenland III 129/2017 \*Irland III 129/2017 \*Italien III 129/2017 \*Kroatien III 129/2017 \*Lettland III 129/2017 \*Litauen III 129/2017 \*Luxemburg III 129/2017 \*Malta III 129/2017 \*Niederlande III 129/2017 \*Polen III 129/2017 \*Portugal III 129/2017 \*Rumänien III 129/2017 \*Schweden III 129/2017 \*Slowakei III 129/2017 \*Slowenien III 129/2017 \*Spanien III 129/2017 \*Tschechische R III 129/2017 \*Ukraine III 129/2017 \*Ungarn III 129/2017 \*Vereinigtes Königreich III 129/2017 \*Zypern III 129/2017
+
+> **Anmerkung:** 1\. Dokumentalistische Gliederung:
+>
+> Anlage 1/1 = Anhang I-A Seite 1 bis 538
+>
+> Anlage 1/2 = Anhang I-A Seite 539 bis 987
+>
+> Anlage 1/3 = Anhang I-A Seite 988 bis 1456
+>
+> Anlage 1/4 = Anhang I-A Seite 1457 bis 1958 und Anhang I-B bis I-D
+>
+> Anlage 2 = Anhang II bis XLIV
+>
+> Anlage 3 = Protokoll I bis III, Gemeinsame Erklärung, Schlussakte und Schlussakte des Gipfeltreffens
+>
+> 2\. Unterzeichnet am 21.3.2014 in Bezug auf die Präambel, den Artikel 1 sowie die Titel I, II und VII des Abkommens. Unterzeichnet am 27.6.2014 hinsichtlich der Titel III, IV, V und VI des Abkommens sowie der diesbezüglichen Anhänge und Protokolle.
+
+> **Beachte:** Der Vertragstext wird wie bei der Kundmachung als PDF dokumentiert. Dokumentalistische Gliederung der Anhänge, Protokolle und Schlussakte siehe in der Anmerkung.
+
+## Anhang I-A Seite 1 bis 538
+
+\*(Anm.: Anhang I-A Seite 1 bis 538 als PDF dokumentiert)*
+
+## Anhang I-A Seite 539 bis 987
+
+\*(Anm.: Anhang I-A Seite 539 bis 987 als PDF dokumentiert)*
+
+## Anhang I-A Seite 988 bis 1456
+
+\*(Anm.: Anhang I-A Seite 988 bis 1456 als PDF dokumentiert)*
+
+## Anhang I-A Seite 1457 bis 1958 – Anhang I-B – Anhang I-C – Anhang I-D
+
+\*(Anm.: Anhänge als PDF dokumentiert)*
+
+## Anhang II bis Anhang XLIV
+
+\*(Anm.: Anhang II bis Anhang XLIV als PDF dokumentiert)*
+
+## Protokoll I bis Protokoll III, – Gemeinsame Erklärung, – Schlussakte
+
+\*(Anm.: Protokoll I bis Protokoll III, Gemeinsame Erklärung, Schlussakte des Gipfeltreffens und Schlussakte als PDF dokumentiert)*
+
+## Ratifikationstext
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde am 6. August 2015 beim Generalsekretariat des Rates der Europäischen Union hinterlegt; laut Mitteilung des Generalsekretärs tritt dieses Abkommen gemäß seinem Art. 486 Abs. 2 mit 1. September 2017 in Kraft.
+
+Das Assoziierungsabkommen sowie die Schlussakte hinsichtlich des Abkommens wurden im Amtsblatt der Europäischen Union, ABl. Nr. L 161 vom 29.5.2014 S. 3 bzw. ABl. Nr. L 278 vom 20.9.2014 S. 4, veröffentlicht.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluss des gegenständlichen Staatsvertrages wird gemäß Art. 50 Abs. 1 Z 1 B-VG genehmigt.

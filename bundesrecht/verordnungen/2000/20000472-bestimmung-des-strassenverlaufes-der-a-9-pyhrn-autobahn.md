@@ -1,0 +1,36 @@
+---
+title: "Bestimmung des Straßenverlaufes der A 9 Pyhrn Autobahn – Halbanschlußstelle „Mitterstraße“ im Bereich der Marktgemeinde Unterpremstätten"
+identifier: "20000472"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 78/2000"
+last_amended: 2000-03-08
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2000/78/P0/NOR30000506"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000472"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Bestimmung des Straßenverlaufes der A 9 Pyhrn Autobahn – Halbanschlußstelle „Mitterstraße“ im Bereich der Marktgemeinde Unterpremstätten
+
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bestimmung des Straßenverlaufes der A 9 Pyhrn Autobahn – Halbanschlußstelle "Mitterstraße" im Bereich der Marktgemeinde Unterpremstätten
+
+StF: BGBl. II Nr. 78/2000
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 4 Abs. 1 Bundesstraßengesetz 1971 (BStG 1971), BGBl. Nr. 286, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 182/1999, und des § 31 des Umweltverträglichkeitsprüfungsgesetzes (UVP-G), BGBl. Nr. 697/1993, zuletzt geändert durch das Bundesgesetz BGBl. Nr. 773/1996, wird verordnet:
+
+## Art. 1
+
+Die Halbanschlußstelle “Mitterstraße” der A 9 Pyhrn Autobahn wird im Bereich der Marktgemeinde Unterpremstätten wie folgt bestimmt:
+
+Die neu herzustellende Halbanschlußstelle “Mitterstraße” liegt zwischen AB-km 190,2 und AB-km 190,9 und stellt über ihre Zu- und Abfahrtsrampe die Verbindung mit dem Gemeindestraßennetz von und nach Graz her.
+
+Im einzelnen ist der Verlauf der neu herzustellenden Zu- und Abfahrtsrampe aus den beim Bundesministerium für wirtschaftliche Angelegenheiten, beim Amt der Steiermärkischen Landesregierung sowie bei der Marktgemeinde Unterpremstätten aufliegenden Planunterlagen im Maßstab 1:1 000 zu ersehen. - Die Festlegung der Straßenachsen erfolgte auf Grundlage des vom Bundesministerium für wirtschaftliche Angelegenheiten mit Erlaß Z 816 509/16-VI/B/5-99 vom 31. August 1999 genehmigten Einreichprojektes 1999 “HAS Mitterstraße”.
+
+§ 15 Bundesstraßengesetz 1971 findet auf den vorangeführten Straßenabschnitt Anwendung. Die Grenzen des Bundesstraßenbaugebietes sind den aufliegenden Planunterlagen zu entnehmen.

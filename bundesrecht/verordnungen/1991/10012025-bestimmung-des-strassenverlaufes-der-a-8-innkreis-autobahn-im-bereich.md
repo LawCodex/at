@@ -1,0 +1,38 @@
+---
+title: "Bestimmung des Straßenverlaufes der A 8 Innkreis Autobahn im Bereich der Gemeinden Sattledt, Steinerkirchen an der Traun, Steinhaus und Wels"
+identifier: "10012025"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 464/1991"
+last_amended: 1991-08-29
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1991/464/P0/NOR11012291"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012025"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Bestimmung des Straßenverlaufes der A 8 Innkreis Autobahn im Bereich der Gemeinden Sattledt, Steinerkirchen an der Traun, Steinhaus und Wels
+
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten betreffend die Bestimmung des Straßenverlaufes der A 8 Innkreis Autobahn im Bereich der Gemeinden Sattledt, Steinerkirchen an der Traun, Steinhaus und Wels
+
+StF: BGBl. Nr. 464/1991
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 4 Abs. 1 des Bundesstraßengesetzes 1971, BGBl. Nr. 286, in der Fassung des Bundesgesetzes BGBl. Nr. 159/1990 wird verordnet:
+
+## Art. 1
+
+Der Straßenverlauf eines Abschnittes der A 8 Innkreis Autobahn wird im Bereich der Gemeinden Sattledt, Steinerkirchen an der Traun, Steinhaus und Wels wie folgt bestimmt:
+
+Die neu herzustellende Straßentrasse beginnt bei Plan-km 75,156 (entspricht km 75,00 der Verordnung BGBl. Nr. 694/1974) nördlich des Autobahnknotens Voralpenkreuz (früher Autobahnknoten Sattledt), verläuft in der Folge im westlichen Talbereich des Aiterbachtales zur Anschlußstelle Wels/Süd mit Zu- und Abfahrtsrampen von und zur Forstberger Gemeindestraße und bindet nach Querung der Traun bei Plan-km 64,700 in den bereits verordneten Abschnitt der A 8 Innkreis Autobahn im Bereich der Anschlußstelle Wels/West ein.
+
+Im einzelnen ist der Verlauf der neu herzustellenden Straßentrasse einschließlich der Anschlußstelle Wels/Süd mit ihren Zu- und Abfahrtsrampen sowie der Anschlußstelle Wels/West mit den Spuren 200 und 400 aus den beim Bundesministerium für wirtschaftliche Angelegenheiten, beim Amt der Oberösterreichischen Landesregierung sowie bei den Gemeinden Sattledt, Steinerkirchen an der Traun, Steinhaus und Wels aufliegenden Planunterlagen im Maßstab 1:2000 zu ersehen.
+
+§ 15 Bundesstraßengesetz 1971 findet auf den vorangeführten Straßenabschnitt Anwendung. Die Grenzen des Bundesstraßenbaugebietes sind den aufliegenden Planunterlagen zu entnehmen.
+
+Durch diese Verordnung wird die Verordnung des Bundesministers für Bauten und Technik vom 10. Oktober 1984, BGBl. Nr. 401 bezüglich des Bereiches von km 64,70 bis km 65,20 sowie bezüglich der Rampen 200 und 400 der Anschlußstelle Wels/West abgeändert.

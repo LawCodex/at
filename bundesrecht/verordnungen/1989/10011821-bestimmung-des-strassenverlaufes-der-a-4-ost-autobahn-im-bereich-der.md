@@ -1,0 +1,37 @@
+---
+title: "Bestimmung des Straßenverlaufes der A 4 Ost Autobahn im Bereich der Gemeinden Bruck an der Leitha, Höflein, Rohrau, Bruckneudorf und Parndorf"
+identifier: "10011821"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 326/1989"
+date: 1989-06-20
+last_amended: 1989-07-12
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1989/326/P0/NOR11012086"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011821"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Bestimmung des Straßenverlaufes der A 4 Ost Autobahn im Bereich der Gemeinden Bruck an der Leitha, Höflein, Rohrau, Bruckneudorf und Parndorf
+
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten vom 20. Juni 1989 betreffend die Bestimmung des Straßenverlaufes der A 4 Ost Autobahn im Bereich der Gemeinden Bruck an der Leitha, Höflein, Rohrau, Bruckneudorf und Parndorf
+
+StF: BGBl. Nr. 326/1989
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 4 Abs. 1 des Bundesstraßengesetzes 1971, BGBl. Nr. 286, in der Fassung des Bundesgesetzes BGBl. Nr. 63/1983 wird verordnet:
+
+## Art. 1
+
+Der Straßenverlauf eines Abschnittes der A 4 Ost Autobahn wird im Bereich der Gemeinden Bruck an der Leitha, Höflein, Rohrau, Bruckneudorf und Parndorf wie folgt bestimmt:
+
+Die neu herzustellende Straßentrasse beginnt bei km 31,80 im Anschluß an den bereits mit Verordnung vom 8. Jänner 1988, BGBl. Nr. 52, bestimmten Abschnitt „Göttlesbrunn“, führt sodann nach Überführung der Leitha zur Anschlußstelle Parndorf mit Zu- und Abfahrtsstraßen zur B 10 Budapester Straße, überführt in der Folge die Bahnlinien der ÖBB Wien-Staatsgrenze bei Nickelsdorf bzw. Wulkaprodersdorf-Parndorf bei Bahn-km 45,99 bzw. 38,45 und endet nach der Anschlußstelle Neusiedl mit Zu- und Abfahrtsstraßen zur B 50 Burgenland Straße bei km 43,50.
+
+Im einzelnen ist der Verlauf der neu herzustellenden Straßentrasse einschließlich der Anschlußstellen „Parndorf“ und „Neusiedl“ mit ihren Zu- und Abfahrtsstraßen aus den beim Bundesministerium für wirtschaftliche Angelegenheiten, bei den Ämtern der niederösterreichischen bzw. burgenländischen Landesregierung sowie bei den Gemeinden Bruck an der Leitha, Höflein, Rohrau, Bruckneudorf und Parndorf aufliegenden Planunterlagen (Plan-Nr. A 4/17-88 im Maßstab 1 : 2 000 und Plan-Nr. 26 im Maßstab 1 : 2 000) zu ersehen.
+
+§ 15 Bundesstraßengesetz 1971 findet auf den vorangeführten Straßenabschnitt Anwendung. Die Grenzen des Bundesstraßenbaugebietes sind den aufliegenden Planunterlagen zu entnehmen.

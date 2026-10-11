@@ -1,0 +1,67 @@
+---
+title: "ERP-Counterpart-Regelung - Ergänzung (USA)"
+identifier: "20003489"
+type: treaty
+ris_type: "Vertrag – USA"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 89/2004"
+date: 1961-03-29
+last_amended: 2004-08-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2004/89/P0/NOR30003797"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003489"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# ERP-Counterpart-Regelung - Ergänzung (USA)
+
+Abkommen zwischen der Regierung der Republik Österreich und der Regierung der Vereinigten Staaten von Amerika über die Ergänzung des Abkommens vom 29. März 1961 über die ERP-Counterpart-Regelung
+
+StF: BGBl. III Nr. 89/2004 (NR: GP XXII RV 473 AB 523 S. 65. BR: AB 7072 S. 711.)
+
+## Präambel/Promulgationsklausel
+
+Die Regierung der Republik Österreich und die Regierung der Vereinigten Staaten von Amerika (die Parteien),
+
+in Erinnerung an den Beitrag, den das European Recovery Program (Marshall-Plan) zum Wohlstand und zur Freiheit Europas durch wirtschaftliche Entwicklung und Integration geleistet hat;
+
+in Erwägung des fortdauernden Wunsches der Vereinigten Staaten, diese Ziele zu fördern;
+
+in Erinnerung daran, dass im Einklang mit den Bestimmungen des Abkommens USA-Österreich über die ERP-Counterpart-Regelung aus dem Jahr 1961 (Abkommen über die Counterpart-Regelung) seit mehr als vierzig Jahren die gesunde wirtschaftliche Entwicklung Österreichs durch Kredite aus einem der Marshall-Plan-Hilfe für Österreich entstammenden und von der Regierung der Republik Österreich verwalteten revolvierenden Fonds (Counterpart-Fonds oder Fonds) unterstützt wird;
+
+unter Berücksichtigung der Absicht der Parteien, wie sie im Abkommen über die Counterpart-Regelung reflektiert ist, das Vermögen des Counterpart-Fonds zu erhalten;
+
+zur Kenntnis nehmend, dass das Abkommen über die Counterpart-Regelung ein betraglich begrenztes Programm von Zuschüssen aus Mitteln des Fonds zur Förderung der Produktivität u. a. durch Ausbildung, Forschung und Produktivitätsstudien vorsah;
+
+in Anerkennung des österreichischen Wunsches, die verfügbaren Ressourcen für Forschungs- und Entwicklungszuschüsse zwecks Verbesserung des Innovations und Technologieumfeldes zu erhöhen, die österreichische Wettbewerbsfähigkeit zu stärken und Ziele, welche Österreich als Mitglied der Europäischen Union vereinbart hat, zu erreichen;
+
+im Hinblick darauf, dass Österreich vor kurzem eine Nationalstiftung für Forschung, Technologie und Entwicklung (die Stiftung) mit dem Mandat eingerichtet hat, Forschung und Entwicklung für diese Zwecke zu verfolgen;
+
+vereinbaren hiermit, das Abkommen über die Counterpart-Regelung wie folgt zu ergänzen:
+
+## Art. 1
+
+1\. Beginnend mit dem Jahr 2004 kann Österreich jährlich Vermögen des Counterpart-Fonds im Rahmen der Stiftung in Form von nicht rückzahlbaren Zuschüssen bis zu einem Betrag verwenden, der die aus dem Counterpart-Fonds im vorhergegangenen Kalenderjahr entstandenen Zinsen nicht übersteigt. Diese Zuschüsse werden für Zwecke gewährt, die den im Abkommen über die Counterpart-Regelung angeführten Zielen entsprechen und erfolgen für den Zweck der Förderung und Verstärkung der Innovation, Forschung und Technologieentwicklung in Österreich. Besondere Aufmerksamkeit bei der Zuschussgewährung wird den KMUs und Projekten zur Förderung der europäischen Integration gewährt.
+
+2\. Im Einklang mit Artikel II des Abkommens über die Counterpart-Regelung wird die Regierung der Republik Österreich der Stiftung auf Grundlage eines Jahresprogramms, welches im voraus genehmigt wird und auf den Forschungs- und Entwicklungszielsetzungen der Regierung beruht, Gelder zur Verfügung stellen.
+
+3\. Die Regierung der Republik Österreich wird spätestens bis zum 15. Februar eines jeden Jahres der amerikanischen Botschaft in Wien einen von der Stiftung erstellten Bericht über die Vergabe der Zuschüsse aus den Mitteln des Counterpart-Fonds des vorhergegangenen Kalenderjahres und über die Verwendung und Ergebnisse dieser Zuschüsse übermitteln. Diese Berichte werden die jährlichen und kumulativen Ausschüttungen nach Sektoren geordnet ausweisen.
+
+Dieses Abkommen tritt in Kraft mit dem ersten Tag des Monats folgend auf das Monat, in dem die Regierung der Republik Österreich die Regierung der Vereinigten Staaten von Amerika davon schriftlich informiert, dass die verfassungsrechtlichen Bedingungen für das Inkrafttreten dieses Abkommens erfüllt wurden und bleibt danach solange in Kraft, als auch das Abkommen über die Counterpart-Regelung in Kraft bleibt, sofern es nicht vorher von einer Partei unter Einhaltung einer sechsmonatigen schriftlichen Kündigungsfrist beendet wird.
+
+ZU URKUND DESSEN haben die hiezu gehörig berechtigten Unterzeichner dieses Abkommen unterzeichnet.
+
+Geschehen zu Wien am 30. April 2004, in doppelter Ausfertigung, in der deutschen und englischen Sprache, wobei jeder Text gleichermaßen verbindlich ist.
+
+## Ratifikationstext
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Mitteilung wurde am 16. Juli 2004 vorgenommen; das Abkommen tritt gemäß seines letzten Absatzes mit 1. August 2004 in Kraft.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluss des nachstehenden Staatsvertrages wird genehmigt.

@@ -1,0 +1,85 @@
+---
+title: "4. Staatsvertragsdurchführungsgesetz"
+identifier: "10000298"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 177/1957"
+date: 1957-07-10
+last_amended: 1958-02-07
+last_amendment: "BGBl. Nr. 16/1958"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1957/177/P0/NOR11000299"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000298"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# 4. Staatsvertragsdurchführungsgesetz
+
+Bundesgesetz vom 10. Juli 1957, mit dem das 1. Staatsvertragsdurchführungsgesetz abgeändert und ergänzt wird (4. Staatsvertragsdurchführungsgesetz).
+
+StF: BGBl. Nr. 177/1957 (NR: GP VIII RV 249 AB 271 S. 34. BR: S. 127.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 16/1958 (NR: GP VIII RV 374 AB 381 S. 51. BR: S. 130.)  
+
+</details>
+
+> **Anmerkung:** Das 4. Staatsvertragsdurchführungsgesetz wurde in Artikel II des BGBl. Nr. 177/1957 kundgemacht.
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+## § 1 – Artikel II.
+
+§ 1. (1) Für die im § 7 des 1. Staatsvertragsdurchführungsgesetzes, BGBl. Nr. 165/1956, genannten Sondervermögen kann vom Bundesministerium für Finanzen oder im Falle einer öffentlichen Verwaltung vom öffentlichen Verwalter mit Genehmigung des Bundesministeriums für Finanzen bis 31. Dezember 1957 ein Aufruf im „Amtsblatt zur Wiener Zeitung“ verlautbart werden, wonach Ansprüche aus Verbindlichkeiten anzumelden sind, die vor dem 8. Mai 1945 begründet wurden und die zum Sondervermögen gehören.
+
+(2) Als Verbindlichkeiten, die zu einem Sondervermögen gehören, sind insbesondere anzusehen
+
+a) Verbindlichkeiten, die im österreichischen Geschäftsbetrieb des Schuldners begründet worden sind;
+
+b) Verbindlichkeiten, die außerhalb des österreichischen Geschäftsbetriebes des Schuldners begründet worden sind, sofern ihr Gegenwert dem das Sondervermögen bildenden Vermögen zugeflossen ist.
+
+(3) Das Ende der Anmeldungsfrist, die Folgen der nicht rechtzeitigen Anmeldung sowie die Stelle, bei der die Ansprüche anzumelden sind, sind in der Verlautbarung anzuführen.
+
+(4) Die Ansprüche sind bis längstens 31. März 1958 bei der im Aufruf genannten Stelle anzumelden. Nicht rechtzeitig angemeldete Ansprüche erlöschen, soweit sie nicht grundbücherlich sichergestellt sind.
+
+## § 2
+
+§ 2. (1) Physische und juristische Personen sowie Personengesellschaften mit dem Wohnsitz (Sitz) in Österreich, die auf Grund einer vor dem 8. Mai 1945 begründeten Verbindlichkeit Schuldner einer deutschen physischen oder juristischen Person (§ 2 des 1. Staatsvertragsdurchführungsgesetzes), des Deutschen Reiches, einer deutschen Gebietskörperschaft oder einer Einrichtung des Deutschen Reiches waren, haben eine solche Verbindlichkeit bis längstens 30. April 1958 dem Bundesministerium für Finanzen in Wien zu melden.
+
+(2) Die Meldung hat den Rechtsgrund der Verbindlichkeit sowie die wesentlichen Nebenbedingungen und Name und Anschrift des ehemaligen deutschen Gläubigers, bei Geldverbindlichkeiten die ursprüngliche Höhe der Verbindlichkeit und den noch aushaftenden Betrag zu enthalten.
+
+## § 3
+
+§ 3. Die Meldung einer Verbindlichkeit kann unterbleiben:
+
+a) wenn sie bereits vor dem 8. Mai 1945 getilgt worden ist;
+
+b) wenn über sie bereits eine Vereinbarung zwischen dem Schuldner und der Republik Österreich (dem öffentlichen Verwalter) getroffen wurde oder wenn der Schuldner der Republik Österreich oder dem öffentlichen Verwalter geleistet hat;
+
+c) wenn sie von der Republik Österreich (von dem öffentlichen Verwalter) bereits gerichtlich geltend gemacht wurde.
+
+## § 4
+
+§ 4. Wird eine physische oder juristische Person oder eine Personengesellschaft mit dem Wohnsitz (Sitz) in Österreich wegen einer in § 2 bezeichneten Verbindlichkeit von der Republik Österreich oder vom öffentlichen Verwalter beim Gericht ihres Wohnsitzes (Sitzes) geklagt, so kann sie die Unzuständigkeit des Gerichtes nicht unter Berufung auf die Vereinbarung eines anderen Gerichtsstandes einwenden. Ist durch Vereinbarung eine in Österreich nicht bestehende Stelle zur Entscheidung über bestimmte Umstände, betreffend eine im § 2 genannte Verbindlichkeit, berufen, so steht die Entscheidung hierüber ausschließlich dem Gericht zu, bei dem der Anspruch geltend gemacht wird.
+
+## § 5
+
+§ 5. § 4 des Verwaltergesetzes 1952, BGBl. Nr. 100/1953, wird aufgehoben.
+
+## § 6
+
+§ 6. Wer einer ihm gemäß § 2 obliegenden Anmeldepflicht nicht oder nicht rechtzeitig nachkommt, begeht eine Verwaltungsübertretung und wird von der Bezirksverwaltungsbehörde mit Geld bis zum Werte der nicht oder nicht rechtzeitig angemeldeten Verbindlichkeit bestraft.
+
+## Artikel III.
+
+(1) Dieses Bundesgesetz tritt am 30. Juni 1957 in Kraft.
+
+(2) Mit der Vollziehung des Artikels I dieses Bundesgesetzes sind die für die Vollziehung der §§ 10 Abs. 2, 19 Abs. 3 und 21 Abs. 2 des 1. Staatsvertragsdurchführungsgesetzes zuständigen Bundesministerien und mit der Vollziehung des Artikels II das Bundesministerium für Finanzen, das Bundesministerium für Justiz und das Bundesministerium für Inneres betraut.

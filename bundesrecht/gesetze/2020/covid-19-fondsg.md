@@ -1,0 +1,109 @@
+---
+title: "Errichtung des COVID-19-Krisenbewältigungsfonds"
+abbreviation: "COVID-19-FondsG"
+identifier: "20011074"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 12/2020"
+last_amended: 2026-07-30
+last_amendment: "BGBl. I Nr. 62/2026"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/2020/12/P0/NOR40221315"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011074"
+retrieved: 2026-10-11
+documents: 6
+---
+
+# Errichtung des COVID-19-Krisenbewältigungsfonds (COVID-19-FondsG)
+
+Bundesgesetz über die Errichtung des COVID-19-Krisenbewältigungsfonds (COVID-19-FondsG)
+
+StF: BGBl. I Nr. 12/2020 (NR: GP XXVII IA 396/A AB 102 S. 16. BR: AB 10287 S. 903.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 23/2020 (NR: GP XXVII IA 402/A AB 115 S. 22. BR: AB 10291 S. 905.)  
+BGBl. I Nr. 135/2020 (NR: GP XXVII RV 408 AB 440 S. 62. BR: 10438 AB 10443 S. 915.)  
+BGBl. I Nr. 4/2021 (NR: GP XXVII RV 468 AB 488 S. 69. BR: AB 10503. S. 917.)  
+BGBl. I Nr. 127/2022 (NR: GP XXVII RV 1570 AB 1593 S. 168. BR: AB 11043 S. 943.)  
+BGBl. I Nr. 62/2026 (NR: GP XXVIII RV 523 AB 561 S. 89. BR: 11838 AB 11839 S. 994.)  
+
+</details>
+
+> **Anmerkung:** Dieses Bundesgesetz wurde in Artikel 1 des COVID-19 Gesetzes, BGBl. I Nr. 12/2020, kundgemacht.
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+## § 1 – COVID-19-Krisenbewältigungsfonds
+
+§ 1. (1) Mit diesem Bundesgesetz wird der „COVID-19-Krisenbewältigungsfonds“ (in weiterer Folge „Fonds“) errichtet. Er verfügt über keine eigene Rechtspersönlichkeit und wird beim Bundesminister für Finanzen eingerichtet und von diesem verwaltet.
+
+(2) Der Fonds verfolgt das Ziel, den Bundesministerien gemäß Art. 77 B-VG die notwendigen finanziellen Mittel zur Verfügung zu stellen, damit diesen auf effizientestem Wege ermöglicht wird, die erforderlichen Maßnahmen im Zusammenhang mit der Bewältigung der COVID-19 Krisensituation setzen zu können.
+
+## § 2 – Mittel des Fonds
+
+\**§ 2** Die Dotierung des Fonds erfolgt im Rahmen des jeweiligen Bundesfinanzrahmengesetzes und Bundesfinanzgesetzes. Die Mittel des Fonds werden aus Kreditoperationen des Bundes aufgebracht.
+
+## § 3 – Verwendung der Mittel des Fonds
+
+§ 3. (1) Die finanziellen Mittel des Fonds können insbesondere für die folgenden Handlungsfelder verwendet werden:
+
+1\. Maßnahmen zur Stabilisierung der Gesundheitsversorgung;
+
+2\. Maßnahmen zur Belebung des Arbeitsmarkts (vor allem Kurzarbeit im Sinne des § 13 Abs. 1 Arbeitsmarktpolitik-Finanzierungsgesetz (AMPFG));
+
+3\. Maßnahmen zur Aufrechterhaltung der öffentlichen Ordnung und Sicherheit;
+
+4\. Maßnahmen im Zusammenhang mit den Vorgaben für die Bildungseinrichtungen;
+
+5\. Maßnahmen zur Abfederung von Einnahmenausfällen in Folge der Krise;
+
+6\. Maßnahmen im Zusammenhang mit dem Epidemiegesetz 1950, BGBl. Nr. 186/1950;
+
+7\. Maßnahmen zur Konjunkturbelebung;
+
+8\. Maßnahmen zur Liquiditätsstabilisierung von Unternehmen.
+
+(2) Der Bundesminister für Finanzen hat per Verordnung Richtlinien für die Abwicklung der Fondsmittel festzulegen.
+
+(3) Soweit die Mittel des Fonds nicht bereits direkt bei den jeweiligen Untergliederungen veranschlagt sind, entscheidet über die konkrete Auszahlung der finanziellen Mittel der Bundesminister für Finanzen im Einvernehmen mit dem Vizekanzler.
+
+(4) Der Bundesminister für Finanzen hat dem Budgetausschuss monatlich einen Bericht, in dem sämtliche Maßnahmen, die nach diesem Bundesgesetz ergriffen wurden, detailliert dargestellt sind, vorzulegen. Der Bericht hat insbesondere die finanziellen Auswirkungen der gesetzten Maßnahmen auszuweisen.
+
+(5) Das entsprechende haushaltsleitende Organ hat dem jeweiligen zuständigen Ausschuss des Nationalrats monatlich einen Bericht vorzulegen, in dem sämtliche Maßnahmen, die aus finanziellen Mitteln des Fonds bedeckt wurden, detailliert dargestellt sind. Der Bericht hat insbesondere die materiellen und finanziellen Auswirkungen der gesetzten Maßnahmen auszuweisen. Mit der erstmaligen Berichtslegung ist von den haushaltsleitenden Organen für die Monate März bis Dezember des Finanzjahres 2020 zusätzlich ein einmaliger Bericht, in dem sämtliche Maßnahmen, die aus finanziellen Mitteln des Fonds bedeckt wurden, detailliert dargestellt sind, zu erstellen und dem jeweiligen zuständigen Ausschuss des Nationalrats vorzulegen.
+
+(6) Die Berichte gemäß Abs. 5 zum Vollzug des Kommunalinvestitionsgesetzes 2020, BGBl. I Nr. 56/2020, in der jeweils geltenden Fassung, haben neben den materiellen und finanziellen Auswirkungen der gesetzten Maßnahmen auch folgende Informationen zu enthalten:
+
+1\. Gemeinden und Gemeindeverbände, die einen Antrag auf Zweckzuschuss gestellt oder erhalten haben;
+
+2\. Gemeinden und Gemeindeverbände, deren Antrag abgelehnt oder zur Verbesserung zurückgestellt wurde;
+
+3\. Investitionsprojekte (Art. Investitionsvolumen, Projektbeginn), für die Anträge gestellt oder für die ein Zweckzuschuss gewährt wurde.
+
+## § 4 – In- und Außerkrafttreten
+
+§ 4. (1) Dieses Bundesgesetz tritt mit dem der Kundmachung folgenden Tag in Kraft.
+
+(2) § 2 und § 3 Abs. 1 Z 7 und 8, in der Fassung BGBl. I Nr. 23/2020, treten mit dem der Kundmachung folgenden Tag in Kraft.
+
+(3) § 3 Abs. 3, in der Fassung des Bundesgesetzes BGBl. I Nr. 135/2020, tritt mit 1. Jänner 2021 in Kraft.
+
+(4) § 3 Abs. 5 und 6 sowie § 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 4/2021 treten mit 1. Jänner 2021 in Kraft.
+
+(5) Die Überschrift zu § 4 in der Fassung des Budgetbegleitgesetzes 2027–2028, BGBl. I Nr. 62/2026, tritt mit dem auf die Kundmachung folgenden Tag in Kraft. § 3 Abs. 4 bis 6 tritt mit Ablauf des 31. Dezember 2026 außer Kraft.
+
+(6) Dieses Bundesgesetz tritt mit Ablauf des 31. Dezember 2028 außer Kraft.
+
+## § 5 – Vollziehung
+
+§ 5. Mit der Vollziehung dieses Bundesgesetzes sind betraut:
+
+1\. hinsichtlich des § 3 Abs. 5 die jeweils zuständige Bundesministerin bzw. der jeweils zuständige Bundesminister;
+
+2\. im Übrigen der Bundesminister für Finanzen.

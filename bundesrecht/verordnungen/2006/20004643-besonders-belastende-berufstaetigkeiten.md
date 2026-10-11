@@ -1,0 +1,58 @@
+---
+title: "Besonders belastende Berufstätigkeiten"
+identifier: "20004643"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 105/2006"
+last_amended: 2023-01-01
+last_amendment: "BGBl. II Nr. 31/2022"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2006/105/P0/NOR30005071"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004643"
+retrieved: 2026-10-11
+documents: 3
+---
+
+# Besonders belastende Berufstätigkeiten
+
+Verordnung der Bundesregierung über besonders belastende Berufstätigkeiten
+
+StF: BGBl. II Nr. 105/2006
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 31/2022  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 15b Abs. 2 des Beamten-Dienstrechtsgesetzes 1979, BGBl. Nr. 333, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 438/2005, des § 2e Abs. 2 des Bundestheaterpensionsgesetzes, BGBl. Nr. 159/1958, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 165/2005, und des § 2a Abs. 2 des Bundesbahn-Pensionsgesetzes, BGBl. I Nr. 86/2001, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 165/2005, wird verordnet:
+
+## § 1 – Anwendung von Bestimmungen der Schwerarbeitsverordnung
+
+§ 1. Die Verordnung der Bundesministerin für soziale Sicherheit, Generationen und Konsumentenschutz über besonders belastende Berufstätigkeiten samt Anlage, BGBl. II Nr. 104/2006, (Schwerarbeitsverordnung), ist auf Beamte und Bundestheaterbedienstete mit den Maßgaben anzuwenden, dass
+
+1\. unter Arbeitsbereitschaft im Sinne des § 1 Abs. 1 Z 1 jede in § 50 des Beamten-Dienstrechtsgesetzes angeführte Form der Bereitschaft sowie vergleichbare Formen der Bereitschaft zu verstehen sind;
+
+2\. ein Schwerarbeitsmonat dann vorliegt, wenn eine oder mehrere besonders belastende Tätigkeiten im Sinne des § 1 Abs. 1 der Schwerarbeitsverordnung mindestens in der Dauer von 15 Kalendertagen in einem Kalendermonat ausgeübt wurden. Dienstfreie Zeiten, während der kein Anspruch auf Monatsbezug besteht, bleiben dabei außer Betracht;
+
+3\. anstelle der Meldung der Schwerarbeitszeiten nach § 5 an den Krankenversicherungsträger die Schwerarbeitsmonate nach Z 2 von den Dienstbehörden bzw. von den personalführenden Stellen automationsunterstützt zu verarbeiten sind;
+
+4\. als Schwerarbeit auch Tätigkeiten mit erhöhter Gefährdung gelten, bei denen das tatsächliche regelmäßige Risiko für Leib und Leben im Einsatz die Grenze von allgemein akzeptierter Gefahr in erheblichem Ausmaß übersteigt. Als solche gelten ausschließlich Tätigkeiten von
+
+a) Exekutivorganen des öffentlichen Sicherheitsdienstes nach dem Sicherheitspolizeigesetz (SPG), BGBl. Nr. 566/1991, die zumindest die Hälfte ihrer monatlichen Dienstzeit tatsächlich als wachespezifischen Außendienst zur Aufrechterhaltung der öffentlichen Ruhe, Ordnung und Sicherheit ausüben,
+
+b) Bediensteten der Justizwache, die zumindest die Hälfte ihrer monatlichen Dienstzeit tatsächlich in Abteilungen, in denen Insassinnen und Insassen untergebracht sind, sowie in Anstaltsbetrieben und Werkstätten, in denen Insassinnen und Insassen ausgebildet und beschäftigt werden oder bei Vorführungen von Insassinnen und Insassen innerhalb und Ausführungen außerhalb der Justizanstalten eingesetzt sind, und
+
+c) Soldatinnen und Soldaten während eines Auslandseinsatzes nach dem Bundesverfassungsgesetz über Kooperation und Solidarität bei der Entsendung von Einheiten und Einzelpersonen in das Ausland (KSE-BVG), BGBl. I Nr. 38/1997, sofern der Anteil des Außendienstes im Rahmen des Auslandseinsatzes dem nach lit. a maßgebenden entspricht.
+
+## § 2 – In-Kraft-Treten
+
+§ 2. (1) Diese Verordnung tritt mit 1. Jänner 2007 in Kraft.
+
+(2) § 1 Z 4 in der Fassung des BGBl. II Nr. 31/2022 tritt am 1. Jänner 2023 in Kraft.

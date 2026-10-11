@@ -1,0 +1,416 @@
+---
+title: "Bundes-Seniorengesetz"
+identifier: "10001535"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 84/1998"
+last_amended: 2025-09-01
+last_amendment: "BGBl. I Nr. 50/2025"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/1998/84/P0/NOR11001555"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001535"
+retrieved: 2026-10-11
+documents: 30
+---
+
+# Bundes-Seniorengesetz
+
+Bundesgesetz über die Förderung von Anliegen der älteren Generation (Bundes-Seniorengesetz)
+
+StF: BGBl. I Nr. 84/1998 (NR: GP XX RV 1184 AB 1257 S. 130. BR: AB 5693 S. 642.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 46/2000 (NR: GP XXI IA 138/A AB 151 S. 30. BR: 6114 AB 6134 S. 666.)  
+BGBl. I Nr. 68/2001 (NR: GP XXI RV 594 AB 660 S. 71. BR: AB 6389 S. 678.)  
+BGBl. I Nr. 52/2009 (NR: GP XXIV RV 113 und Zu 113 AB 198 S. 21. BR: AB 8112 S. 771.)  
+BGBl. I Nr. 94/2012 (NR: GP XXIV RV 1902 AB 1949 S. 173. BR: AB 8804 S. 814.)  
+BGBl. I Nr. 50/2025 (NR: GP XXVIII RV 129 AB 151 S. 35. BR: 11651 AB 11654 S. 980.)  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+## 1. Abschnitt
+
+### Allgemeine Bestimmungen
+
+#### § 1 – Ziel
+
+§ 1. Durch die in diesem Gesetz vorgesehenen Maßnahmen sollen die Vertretung der Anliegen der älteren Generation gegenüber den politischen Entscheidungsträgern auf Bundesebene und die Beratung, Information und Betreuung von Senioren durch Seniorenorganisationen sichergestellt und Maßnahmen zur Wahrung und Weiterentwicklung der Lebensqualität von Senioren gefördert werden.
+
+#### § 2 – Senioren
+
+§ 2. Als Senioren im Sinne dieses Gesetzes gelten alle Personen österreichischer Staatsangehörigkeit oder der Staatsangehörigkeit eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum mit Wohnsitz in Österreich,
+
+1\. die auf Grund eines Gesetzes oder Vertrages aus eigener Tätigkeit eine Pension, gleichgültig welcher Art, beziehen oder
+
+2\. die ein bestimmtes Alter erreicht haben; dieses ist bei Frauen die Vollendung des 55. Lebensjahres und bei Männern die Vollendung des 60. Lebensjahres.
+
+#### § 3 – Seniorenorganisationen
+
+§ 3. (1) Als Seniorenorganisationen im Sinne dieses Gesetzes gelten freiwillige Vereinigungen von Senioren mit eigener Rechtspersönlichkeit, denen gesamtösterreichische Bedeutung zukommt und
+
+1\. deren satzungsmäßiger Hauptzweck die Vertretung und Förderung der sozialen, wirtschaftlichen, kulturellen und sonstigen Interessen der Senioren ist,
+
+2\. deren Tätigkeit nicht auf Gewinnerzielung gerichtet ist,
+
+3\. deren Sitz sich im Inland befindet und
+
+4\. die keine politische Partei im Sinne des Parteiengesetzes, BGBl. Nr. 404/1975, sind.
+
+(2) Einer Seniorenorganisation kommt gesamtösterreichische Bedeutung im Sinne des Abs. 1 zu, wenn sie
+
+1\. gemäß den Satzungen für das ganze Bundesgebiet gebildet ist,
+
+2\. in mindestens drei Bundesländern eine Zweigorganisation hat und
+
+3\. mindestens 20 000 Senioren als Mitglieder hat.
+
+## 2. Abschnitt
+
+### Bundesseniorenbeirat
+
+#### § 4 – Einrichtung des Bundesseniorenbeirates
+
+§ 4. (1) Beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz ist ein Bundesseniorenbeirat einzurichten. Dem Bundesseniorenbeirat gehören der Bundesminister für Arbeit, Soziales und Konsumentenschutz als Vorsitzender und 36 weitere Mitglieder an, die vom Bundesminister für Arbeit, Soziales und Konsumentenschutz bestellt werden.
+
+(2) Dabei werden
+
+1\. 19 Mitglieder auf Vorschlag von Seniorenorganisationen im Verhältnis zur Zahl ihrer Mitglieder,
+
+2\. drei Mitglieder auf gemeinsamen Vorschlag der Länder,
+
+3\. drei Mitglieder auf gemeinsamen Vorschlag des Österreichischen Städtebundes und des Österreichischen Gemeindebundes,
+
+4\. je ein Mitglied auf Vorschlag des Bundeskanzlers, des Bundesministers für europäische und internationale Angelegenheiten, des Bundesministers für Wissenschaft und Forschung, des Bundesministers für Unterricht, Kunst und Kultur, des Bundesministers für Finanzen, des Bundesministers für Verkehr, Innovation und Technologie, des Bundesministers für Wirtschaft, Familie und Jugend und des Bundesministers für Gesundheit sowie
+
+5\. drei weitere Mitglieder ohne Vorschlag
+
+bestellt.
+
+(3) Je ein Stellvertreter des Vorsitzenden ist vom Bundesminister für Arbeit, Soziales und Konsumentenschutz aus dem Kreis der Mitglieder der beiden am stärksten gemäß Abs. 2 Z 1 vertretenen Seniorenorganisationen zu bestellen.
+
+(4) Der Vorsitzende ist berechtigt, Fachleute mit beratender Stimme beizuziehen.
+
+(5) Die Funktionsperiode des Beirates beträgt fünf Jahre. Die Funktionsperiode beginnt mit dem ersten Zusammentreten der Mitglieder des neu bestellten Beirates. Scheidet ein Mitglied vorzeitig aus dem Beirat aus, ist der Beirat durch Neubestellungen zu ergänzen. Nach Ablauf der Funktionsperiode hat der Beirat die Geschäfte so lange weiterzuführen, bis der neu bestellte Beirat zusammentritt.
+
+#### § 5 – Information über das Vorschlagsrecht
+
+§ 5. (1) Vor Bestellung der Mitglieder des Beirates für eine neue Funktionsperiode (§ 4 Abs. 6) sind vom Bundesminister für Arbeit, Soziales und Konsumentenschutz spätestens vier Monate vor Ende der laufenden Funktionsperiode
+
+1\. die Seniorenorganisationen durch Bekanntmachung auf der Internetseite des Bundesministeriums für Arbeit, Soziales und Konsumentenschutz,
+
+2\. die Länder über die Verbindungsstelle der Bundesländer und
+
+3\. die im § 4 Abs. 2 Z 3 und 4 angeführten Vorschlagsberechtigten auf ihr jeweiliges Vorschlagsrecht aufmerksam zu machen.
+
+(2) Scheidet ein Mitglied des Bundesseniorenbeirates vor Ablauf der Funktionsperiode aus dem Beirat aus, so ist innerhalb von zwei Monaten nach dem Ausscheiden der betreffende Vorschlagsberechtigte hievon vom Bundesminister für Arbeit, Soziales und Konsumentenschutz zu informieren; dabei findet Abs. 1 Z 2 Anwendung.
+
+#### § 6 – Ausübung des Vorschlagsrechtes durch die Seniorenorganisationen
+
+§ 6. (1) Seniorenorganisationen, die für eine neue Funktionsperiode des Bundesseniorenbeirates einen Vorschlag erstatten wollen, haben innerhalb von zwei Monaten ab der Bekanntmachung gemäß § 5 Abs. 1 Z 1 dem Bundesminister für Arbeit, Soziales und Konsumentenschutz das Vorliegen der Voraussetzungen gemäß § 3 und die Anzahl ihrer Mitglieder nachzuweisen.
+
+(2) Den Seniorenorganisationen, die fristgerecht den Nachweis gemäß Abs. 1 erbracht haben, ist vom Bundesminister für Arbeit, Soziales und Konsumentenschutz jeweils die gemäß Abs. 3 ermittelte Anzahl der Mitglieder, für die ein Vorschlag erstattet werden kann, mitzuteilen.
+
+(3) Die Anzahl der Mitglieder, für die eine Bundesseniorenorganisation einen Vorschlag erstatten kann, wird derart ermittelt, daß jeweils die Summe der Mitglieder der Seniorenorganisationen, die fristgerecht den Nachweis gemäß Abs. 1 erbracht haben, nach ihrer Größe geordnet nebeneinander geschrieben und unter jeder Summe die Hälfte, darunter das Drittel, das Viertel und die weiterliegenden Teilzahlen geschrieben werden. Die auf diese Weise sich ergebende neunzehntgrößte Zahl ist die Anzahl der Mitglieder, die für die Erstattung des Vorschlages für einen Vertreter erforderlich ist. Jede Seniorenorganisation kann für so viele Mitglieder Vorschläge erstatten, sooft diese Anzahl in der Anzahl ihrer Mitglieder enthalten ist.
+
+#### § 7 – Nichtausübung des Vorschlagsrechtes
+
+§ 7. Werden innerhalb von zwei Monaten nach Information gemäß § 5 Abs. 2 oder nach Mitteilung gemäß § 6 Abs. 2 nicht ausreichend Bestellungsvorschläge erstattet, so verringert sich auf die Dauer der Nichtausübung des Vorschlagsrechtes die Mitgliederzahl des Beirates um die Anzahl der nicht zur Besetzung vorgeschlagenen Mitglieder.
+
+#### § 8 – Bestellung von Ersatzmitgliedern
+
+§ 8. Für jedes Mitglied ist ein Ersatzmitglied zu bestellen. Dabei gelten § 4 Abs. 2 und Abs. 5 sowie § 5 und § 6.
+
+#### § 9 – Enthebung von Mitgliedern (Ersatzmitgliedern)
+
+§ 9. Der Bundesminister für Arbeit, Soziales und Konsumentenschutz hat ein Mitglied (Ersatzmitglied) von seiner Funktion zu entheben, wenn
+
+1\. es dies beantragt,
+
+2\. jene Stelle, auf deren Vorschlag das Mitglied (Ersatzmitglied) bestellt wurde, die Enthebung beantragt,
+
+3\. das Mitglied (Ersatzmitglied) sich der Vernachlässigung seiner Pflichten schuldig macht,
+
+4\. der Verlust der Wählbarkeit zum Nationalrat eingetreten ist,
+
+5\. dem Mitglied (Ersatzmitglied) die ordentliche Funktionsausübung unmöglich ist.
+
+#### § 10 – Mitglieder und Ersatzmitglieder des Beirates
+
+§ 10. (1) Mitglied und Ersatzmitglied des Beirates kann nur sein, wer zum Nationalrat wählbar ist. Die Mitglieder gemäß § 4 Abs. 2 Z 1 müssen außerdem Senioren im Sinne des § 2 sein.
+
+(2) Die Mitgliedschaft ist ein unbesoldetes Ehrenamt. Den Mitgliedern gemäß § 4 Abs. 2 Z 1 gebührt für die Teilnahme an den Sitzungen des Beirates unter sinngemäßer Anwendung der Reisegebührenvorschrift 1955, BGBl. Nr. 133, der Ersatz der Reise- und Aufenthaltskosten.
+
+#### § 11 – Aufgaben des Bundesseniorenbeirates
+
+§ 11. (1) Der Bundesseniorenbeirat dient als Gesprächsforum und dem institutionalisierten Dialog zwischen den politischen Entscheidungsträgern und Vertretern der Seniorenorganisationen in seniorenspezifischen Fragen, die von allgemeiner österreichischer, integrations- oder generationenpolitischer Bedeutung sind.
+
+(2) Weitere Aufgaben des Bundesseniorenbeirates sind:
+
+1\. die Erstattung von Vorschlägen zu Fragen, die die Senioren sowie das Zusammenleben und Zusammenwirken der Generationen betreffen,
+
+2\. die Erstattung von Vorschlägen für soziale, wirtschaftliche, gesundheitspolitische, wohnbaupolitische und kulturelle Maßnahmen der Seniorenpolitik auf Grundlage des Bundesplanes für Seniorinnen und Senioren,
+
+3\. die Erstattung von Stellungnahmen zu Gesetzes- und Verordnungsentwürfen, die die Interessen der Senioren berühren können,
+
+4\. die Erstattung von Empfehlungen für die Gewährung von Förderungen für seniorenspezifische Projekte – mit Ausnahme von Förderungen gemäß § 19 – nach Maßgabe der im Bundesfinanzgesetz hiefür vorgesehenen Mittel,
+
+5\. die Wahrnehmung des Anhörungsrechtes vor Erlassung der Richtlinien gemäß § 19 Abs. 4 und
+
+6\. die Entsendung von Mitgliedern und Ersatzmitgliedern in den Zertifizierungsbeirat gemäß § 20a Abs. 5 Z 3 und Abs. 6.
+
+#### § 12 – Einberufung der Sitzungen
+
+§ 12. (1) Die Sitzungen des Beirates werden vom Vorsitzenden nach Bedarf einberufen, mindestens aber einmal im Jahr. Der Beirat ist auch dann einzuberufen, wenn mindestens ein Drittel der Mitglieder dies unter schriftlicher Bekanntgabe des Verhandlungsgegenstandes beantragt.
+
+(2) Die Einladung zur Sitzung an die Mitglieder soll nach Möglichkeit drei Wochen vor dem Sitzungstermin zugestellt werden und hat die vorläufige Tagesordnung zu enthalten.
+
+#### § 13 – Leitung und Ablauf der Sitzungen
+
+§ 13. (1) Der Vorsitzende eröffnet und leitet die Sitzung. Am Beginn der Sitzung ist die endgültige Tagesordnung festzulegen.
+
+(2) Die Ergebnisse der Beratungen im Bundesseniorenbeirat sind in einem Resümeeprotokoll festzuhalten. Darin sind gegebenenfalls auch die von der überwiegenden Meinung abweichenden Auffassungen festzuhalten.
+
+#### § 14 – Beschlußfähigkeit, Beschlußerfordernisse
+
+§ 14. (1) Der Beirat ist beschlußfähig, wenn nach ordnungsgemäß erfolgter Einladung aller Mitglieder mindestens die Hälfte der Mitglieder (Ersatzmitglieder) anwesend ist.
+
+(2) Die Beschlußfähigkeit ist zu Beginn der Sitzung vom Vorsitzenden des Beirates festzustellen.
+
+(3) Der Beirat faßt seine Beschlüsse mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder. Eine Stimmenthaltung ist unzulässig.
+
+#### § 15 – Öffentlichkeit
+
+§ 15. Die Sitzungen des Beirates sind nicht öffentlich. Die Teilnehmer an den Sitzungen sind zur Geheimhaltung, soweit und solange dies aus den in § 6 Abs. 1 des Informationsfreiheitsgesetzes – IFG, BGBl. I Nr. 5/2024, genannten Gründen erforderlich und verhältnismäßig ist, verpflichtet.
+
+#### § 16 – Geschäftsstelle
+
+§ 16. Bei der Führung der Bürogeschäfte wird der Bundesseniorenbeirat vom Bundesministerium für Arbeit, Soziales und Konsumentenschutz unterstützt.
+
+#### § 17 – Geschäftsordnung
+
+§ 17. Nähere Regelungen betreffend die Führung der Geschäfte kann der Bundesseniorenbeirat in einer Geschäftsordnung festlegen. Sie bedarf der Genehmigung des Bundesministers Arbeit, Soziales und Konsumentenschutz.
+
+## 3. Abschnitt
+
+### Seniorenkurie
+
+#### § 18
+
+§ 18. (1) Die gemäß § 4 Abs. 2 Z 1 bestellten Mitglieder bilden die Seniorenkurie des Bundesseniorenbeirates.
+
+(2) Die Seniorenkurie nimmt die Aufgaben gemäß § 11 Abs. 2 Z 3 bis 6 als Organ des Bundesseniorenbeirates wahr.
+
+(3) Die Vorsitzführung der Seniorenkurie obliegt jährlich alternierend den beiden stellvertretenden Vorsitzenden des Bundesseniorenbeirates (§ 4 Abs. 3).
+
+(4) Auf die Seniorenkurie finden die §§ 12 bis 15 und § 17 Anwendung.
+
+## 4. Abschnitt
+
+### Förderung der Senioren
+
+#### § 19 – Allgemeine Seniorenförderung
+
+§ 19. (1) Der Bund stellt jährlich pro Person gemäß § 2 einen Betrag von 1 Euro zur Unterstützung der Beratung, Information und Betreuung von Senioren durch Seniorenorganisationen als Allgemeine Seniorenförderung sowie für den Ersatz der Aufwendungen der Seniorenkurie zur Verfügung. Bei der Feststellung des Gesamtbetrages dieser Mittel ist vom Ergebnis der letzten kundgemachten Volkszählung auszugehen.
+
+(2) Die Allgemeine Seniorenförderung darf nur Seniorenorganisationen gewährt werden, die
+
+1\. die in Abs. 1 angeführten Aufgaben wahrnehmen,
+
+2\. die Voraussetzungen gemäß § 3 Abs. 1 und Abs. 2 Z 1 und 2 erfüllen und
+
+3\. die bis 31. März des betreffenden Kalenderjahres einen Antrag auf Gewährung der Allgemeinen Seniorenförderung für die in Abs. 1 angeführten Zwecke eingebracht haben.
+
+(3) Bei der jährlichen Festlegung der Allgemeinen Seniorenförderung für die einzelnen Seniorenorganisationen ist insbesondere Folgendes zu berücksichtigen:
+
+1\. die Mittel, die gemäß Abs. 1 abzüglich der Aufwendungen für die Seniorenkurie und des Kostenersatzes gemäß § 24 Abs. 4 zur Verfügung stehen,
+
+2\. die Mitgliederzahl der Seniorenorganisationen gemäß Abs. 2, die im betreffenden Kalenderjahr einen Antrag auf Allgemeine Seniorenförderung gestellt haben, und
+
+3\. der Umfang, in dem die Seniorenorganisationen jeweils die im Abs. 1 angeführten Aufgaben im betreffenden Kalenderjahr wahrnehmen.
+
+(4) Nähere Regelungen zu Abs. 3 sind in den vom Bundesminister für Arbeit, Soziales und Konsumentenschutz im Einvernehmen mit dem Bundesminister für Finanzen zu erlassenden Richtlinien festzulegen.
+
+(5) Die Überweisung der Förderungsmittel gemäß Abs. 1 erfolgt nach Maßgabe des Bedarfs monatlich im voraus.
+
+#### § 20 – Besondere Seniorenförderung
+
+§ 20. Nach Maßgabe dieses Bundesgesetzes und der im jeweiligen Bundesfinanzgesetz hiefür verfügbaren Mittel kann der Bundesminister für Arbeit, Soziales und Konsumentenschutz, unbeschadet der Zuständigkeit anderer Bundesminister, auf Antrag für seniorenspezifische Projekte Förderungsmittel gewähren.
+
+#### § 20a
+
+§ 20a. (1) Als besondere Seniorenförderung kommt auch die Förderung von Projekten oder Maßnahmen in Betracht, die der Vorbereitung und Durchführung der Zertifizierung von Alten- und Pflegeheimen nach österreichweit einheitlichen Kriterien zur objektiven Bewertung der Qualität der Leistungserbringung in solchen Alten- und Pflegeheimen im Rahmen eines „Nationalen Qualitätszertifikats für Alten- und Pflegeheime in Österreich (NQZ)“ dienen.
+
+(2) Für eine Förderung nach Abs. 1 kommen nur gemeinnützige Zertifizierungseinrichtungen in Betracht, die über die erforderliche Erfahrung in der Zertifizierung sowie im Alten- und Pflegeheimbereich verfügen, überregionale Bedeutung haben, weder Träger noch Betreiber eines Alten- oder Pflegeheimes sind und auch sonst eine entsprechende Unabhängigkeit gewährleisten.
+
+(3) Voraussetzung für die Förderung von Projekten oder Maßnahmen nach Abs. 1 ist, dass sich die Zertifizierungseinrichtung nach Abs. 2 insbesondere dazu verpflichtet, dass
+
+1\. die Zertifizierungen nur freiwillig auf Grund eines Antrags des Trägers des betreffenden Alten- bzw. Pflegeheimes erfolgen,
+
+2\. die Zertifizierungen nach einheitlichen, transparenten und objektiven Kriterien und nur von dafür geeigneten und entsprechend ausgebildeten Personen vorgenommen werden,
+
+3\. nur Alten- bzw. Pflegeheime zertifiziert werden, für welche das Land, in dem das Heim betrieben wird,
+
+a) eine befürwortende Stellungnahme abgegeben hat und
+
+b) sich vorher schriftlich zur grundsätzlichen Übernahme der überwiegenden Kosten konkreter Zertifizierungen durch entsprechenden Ersatz an die Einrichtung nach Abs. 2 oder den Träger des zu zertifizierenden Heimes verpflichtet hat.
+
+(4) Der Bundesminister für Arbeit, Soziales und Konsumentenschutz kann nähere Regelungen zu Abs. 3 und zur Umsetzung des NQZ in Richtlinien festlegen, die auf der Internetseite des Bundesministeriums für Arbeit, Soziales und Konsumentenschutz kundzumachen sind.
+
+(5) Beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz wird ein Zertifizierungsbeirat eingerichtet, der vor Abschluss eines Förderungsvertrages (§ 22) mit einer Zertifizierungseinrichtung nach Abs. 2, vor Erlassung oder Änderung von Richtlinien nach Abs. 4 und bei sonstigen grundsätzlichen, die Zertifizierung von Alten- und Pflegeheimen oder die Ausbildung der mit der Zertifizierung betrauten Personen betreffenden Fragen zu befassen ist. Der Zertifizierungsbeirat ist mindestens einmal im Kalenderjahr einzuberufen. Ihm gehören an:
+
+1\. zwei Vertreter des Bundesministeriums für Arbeit, Soziales und Konsumentenschutz, von denen einer den Vorsitz führt,
+
+2\. ein Vertreter des Bundesministeriums für Gesundheit,
+
+3\. zwei Vertreter des Bundesseniorenbeirates,
+
+4\. ein Vertreter des Bundesverbandes der Alten- und Pflegeheime Österreichs,
+
+5\. ein Vertreter der Bundeskammer für Arbeiter und Angestellte,
+
+6\. ein Vertreter der Wirtschaftskammer Österreich,
+
+7\. drei vom Bundesminister für Arbeit, Soziales und Konsumentenschutz zu bestellende Experten aus den Bereichen Alter(n)swissenschaften und Ausbildung,
+
+8\. je ein Vertreter jener Länder, die sich schriftlich für einen Zeitraum von mindestens drei Jahren gemäß Abs. 3 Z 3 lit. b bereit erklärt haben, die überwiegenden Kosten konkreter Zertifizierungen der in ihrem Bereich betriebenen Heime durch entsprechenden Ersatz an die Einrichtung nach Abs. 2 oder den Träger des zu zertifizierenden Heimes zu übernehmen.
+
+(6) Die Mitglieder des Zertifizierungsbeirates sind jeweils für fünf Jahre zu bestellen, die Mitgliedschaft der in Abs. 5 Z 8 genannten Personen ist mit der Dauer der Kostentragungszusage des jeweiligen Landes begrenzt. Für jedes Mitglied des Zertifizierungsbeirates ist ein Ersatzmitglied zu bestellen. Die Mitgliedschaft im Zertifizierungsbeirat ist ein Ehrenamt, die Fahrt- und Aufenthaltskosten der Mitglieder sind von der jeweils entsendenden Stelle zu tragen.
+
+#### § 21 – Art der Förderung
+
+§ 21. Die Förderungen sind in Form von Zuschüssen zu gewähren. Ein Anspruch auf Förderung besteht nicht. § 19 ist hievon nicht berührt.
+
+#### § 22 – Bestimmungen des Förderungsvertrages
+
+§ 22. (1) In dem im Zusammenhang mit der Gewährung der Förderung abzuschließenden Förderungsvertrag ist der Förderungswerber insbesondere zu verpflichten:
+
+1\. die Förderungsmittel entsprechend den Grundsätzen der Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit vertragsgemäß zu verwenden;
+
+2\. die erforderlichen Aufzeichnungen zu führen und Belege aufzubewahren, die die widmungsgemäße Verwendung der Förderungsmittel ermöglichen;
+
+3\. nach Abschluß des geförderten Vorhabens umgehend einen Bericht zu erstatten, der insbesondere eine Übersicht über die durchgeführten Maßnahmen und deren Ergebnis sowie einen zahlenmäßig aufgeschlüsselten Nachweis über die Verwendung der Förderungsmittel sowie über die das geförderte Projekt betreffenden Einnahmen und Ausgaben zu enthalten hat;
+
+4\. Einsicht in seine Bücher und Belege sowie in sonstige der Überprüfung der Durchführung des Projektes dienenden Unterlagen und die Besichtigung an Ort und Stelle zu gestatten und die erforderlichen Auskünfte im Zusammenhang mit dem Projekt zu erteilen;
+
+5\. sich der Prüfung hinsichtlich der Verwendung der Förderungsmittel durch den Rechnungshof im Sinne des § 13 Abs. 3 des Rechnungshofgesetzes 1948, BGBl. Nr. 144, zu unterwerfen;
+
+6\. seine Ansprüche aus dem Förderungsvertrag nicht zu zedieren;
+
+7\. bei Förderungen nach § 20a auch die Voraussetzungen nach § 20a Abs. 3 und 4 einzuhalten.
+
+(2) Im Förderungsvertrag ist der Zeitpunkt der Auszahlung der Förderungsmittel entsprechend der Fälligkeit der Zahlungen bei der Durchführung des geförderten Vorhabens festzulegen. Frühere Auszahlungstermine der Förderungsmittel dürfen nur vorgesehen werden, wenn dies aus Gründen notwendig ist, die sich aus der Eigenart des Vorhabens ergeben. Bei der Festlegung der Auszahlungstermine ist auf die Verfügbarkeit der erforderlichen Bundesmittel Bedacht zu nehmen.
+
+(3) Förderungsverträge für Projekte und Maßnahmen nach § 20a sind mit höchstens fünf Jahren zu befristen und können nur nach einer positiven Evaluierung verlängert werden.
+
+#### § 23
+
+§ 23. (1) Im Förderungsvertrag ist eine Rückforderung und Einstellung der Förderung des Bundes vorzusehen, wenn
+
+1\. der Förderungswerber den Förderungsgeber über wesentliche Umstände unrichtig oder unvollständig unterrichtet hat;
+
+2\. eine im Förderungsvertrag enthaltene allgemeine oder besondere Förderungsvoraussetzung nicht erfüllt worden ist;
+
+3\. vorgesehene Berichte nicht erstattet oder Nachweise und Unterlagen nicht erbracht oder erforderliche Auskünfte nicht erteilt worden sind;
+
+4\. die unverzügliche Meldung von Ereignissen, welche die Durchführung des geförderten Vorhabens verzögern oder unmöglich machen oder deren Abänderung erfordern würde, unterblieben ist;
+
+5\. der Förderungswerber die Förderungsmittel nicht rechtzeitig oder nicht ordnungsgemäß abgerechnet hat;
+
+6\. der Förderungswerber vorgesehene Kontrollmaßnahmen be- oder verhindert;
+
+7\. die Förderungsmittel ganz oder teilweise widmungswidrig verwendet worden sind;
+
+8\. das Vorhaben nicht oder nicht rechtzeitig durchgeführt werden kann oder durchgeführt worden ist;
+
+9\. das Zessionsverbot nicht eingehalten wurde.
+
+(2) Im Förderungsvertrag ist vorzusehen, daß in den Fällen gemäß Abs. 1 Z 3, 5, 7 und 9 jedenfalls, in den übrigen Fällen nur, soweit den Förderungswerber oder solchen Personen, deren er sich zur Erstellung der für die Gewährung der Förderung maßgeblichen Unterlagen oder zur Durchführung des geförderten Projektes bedient hat, am Eintritt eines Rückforderungsgrundes ein Verschulden trifft, die für das betreffende Vorhaben bereits ausbezahlten Förderungsmittel zurückzuzahlen sind und der Rückforderungsbetrag vom Tage der Auszahlung an mit 4% über dem jeweils geltenden Zinsfuß für Eskontierungen der Oesterreichischen Nationalbank *(Anm.: Basiszinssatz)* pro Jahr zu verzinsen ist.
+
+## 5. Abschnitt
+
+### Dachverband der Seniorenorganisationen
+
+#### § 24
+
+§ 24. (1) Der Verein „Österreichischer Seniorenrat“ mit dem Sitz in Wien ist als Dachverband von Seniorenorganisationen zur Vertretung, Förderung und Wahrung der Interessen der österreichischen Senioren nach Maßgabe dieses Bundesgesetzes und der Vereinsstatuten berufen, solange
+
+1\. Seniorenorganisationen gemäß § 3 ihm als Mitgliedsorganisationen angehören, auf deren Vorschlag mindestens zwei Drittel der Mitglieder des Bundesseniorenbeirates gemäß § 4 Abs. 2 Z 1 bestellt worden sind, und
+
+2\. diese Mitglieder des Bundesseniorenbeirates dem Vorstand des „Österreichischen Seniorenrates“ nach dessen Statuten angehören.
+
+(2) Der „Österreichische Seniorenrat“ ist verpflichtet, das Bundesministerium für Arbeit, Soziales und Konsumentenschutz über den Wegfall einer dieser Bedingungen unverzüglich zu verständigen.
+
+(3) In Angelegenheiten, welche die Interessen der österreichischen Senioren berühren können, ist der „Österreichische Seniorenrat“ den gesetzlichen Interessenvertretungen der Dienstnehmer, der Wirtschaftstreibenden und der Landwirte gleichgestellt.
+
+(4) Der Bundesminister für Arbeit, Soziales und Konsumentenschutz ist ermächtigt, mit dem „Österreichischen Seniorenrat“ einen Vertrag abzuschließen, nach dem dem „Österreichischen Seniorenrat“ gegen angemessenen Kostenersatz die Wahrnehmung folgender Aufgaben im Namen und auf Rechnung des Bundes übertragen werden:
+
+1\. die Führung der Bürogeschäfte der Seniorenkurie,
+
+2\. die Vergabe von Förderungen gemäß § 19,
+
+3\. die Abwicklung und Kontrolle der Förderungen.
+
+(5) Im Vertrag gemäß Abs. 4 ist insbesondere festzulegen:
+
+1\. die Durchführung der Kontrolle der Förderungen,
+
+2\. der Ersatz der Kosten für die Führung der Bürogeschäfte der Seniorenkurie,
+
+3\. die Berichtspflicht an den Bundesminister für Arbeit, Soziales und Konsumentenschutz und
+
+4\. die Beendigung des Vertrages mit Wegfall der im Abs. 1 angeführten Voraussetzungen beim „Österreichischen Seniorenrat“.
+
+(6) Solange dem „Österreichischen Seniorenrat“ die Aufgaben gemäß Abs. 1 Z 1 übertragen sind, ist er berechtigt, die Bezeichnung „Geschäftsstelle der Seniorenkurie des beim Bundesministerium für Arbeit, Soziales und Konsumentenschutz eingerichteten Bundesseniorenbeirates“ zu führen.
+
+## 6. Abschnitt
+
+### Übergangs- und Schlußbestimmungen
+
+#### § 25 – Verweisung auf andere Rechtsvorschriften
+
+§ 25. Soweit in diesem Bundesgesetz auf andere Bundesgesetze verwiesen wird, bezieht sich dieser Verweis auf die jeweils geltende Fassung.
+
+#### § 26 – Personenbezogene Bezeichnungen
+
+§ 26. Bei den in diesem Bundesgesetz verwendeten personenbezogenen Bezeichnungen (zB Senioren) gilt die gewählte Form für beide Geschlechter.
+
+#### § 27 – Inkrafttreten, Übergangsbestimmungen
+
+§ 27. (1) Dieses Bundesgesetz tritt mit 1. Juli 1998 in Kraft.
+
+(2) Mit dem Inkrafttreten dieses Bundesgesetzes tritt die Verordnung des Bundeskanzlers, BGBl. Nr. 597/1994, außer Kraft. Der auf Grund dieser Verordnung bestellte Bundesseniorenbeirat besteht als Bundesseniorenbeirat im Sinne dieses Gesetzes weiter. Seine Funktionsperiode endet nach Ablauf von fünf Jahren nach seinem seinerzeitigen erstmaligen Zusammentreten.
+
+(3) Im Jahre 1998 ist der sich gemäß § 19 ergebende Betrag zu halbieren.
+
+(4) §§ 4 Abs. 5, 6 Abs. 1 und 2, 9, 16, 17, 19 Abs. 3 und 4, 20 und 24 in der Fassung des Bundesgesetzes BGBl. I Nr. 46/2000 treten mit 1. April 2000 mit der Maßgabe in Kraft, dass
+
+a) die Funktion der für die laufende Funktionsperiode gemäß § 4 Abs. 2 Z 1 bis 3 bestellten Beiratsmitglieder unbeschadet § 9 aufrecht bleibt und
+
+b) die Funktion der gemäß § 4 Abs. 2 Z 4 und 5 in der Fassung vor Inkrafttreten des Bundesgesetzes BGBl. I Nr. 46/2000 bestellten weiteren Beiratsmitglieder mit der Neubestellung der Beiratsmitglieder gemäß § 4 Abs. 2 Z 4 und 5 endet, die binnen drei Monaten ab Kundmachung dieses Bundesgesetzes zu erfolgen hat.
+
+(5) Der gemäß § 24 zwischen der Republik Österreich und dem Österreichischen Seniorenrat abgeschlossene Vertrag über die Führung der Bürogeschäfte der Seniorenkurie, die Vergabe von Förderungen gemäß § 19 und die Abwicklung und die Kontrolle der Förderungen sowie die gemäß § 19 Abs. 4 erlassenen Richtlinien bleiben unberührt.
+
+(6) § 19 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 68/2001 tritt mit 1. Jänner 2002 in Kraft.
+
+(7) § 19 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 52/2009 tritt rückwirkend mit 1. Jänner 2009 in Kraft.
+
+(8) § 1, § 4 Abs. 1, 2 und 3, § 5 Abs. 1 und 2, § 6 Abs. 1 und 2, § 8, § 9, § 11 Abs. 1 und 2, § 16, § 17, § 18 Abs. 2, § 19 Abs. 4, § 20, § 20a, § 22 Abs. 1 und 3, § 24 Abs. 2, 4, 5 und 6 sowie § 28 in der Fassung des Bundesgesetzes BGBl. I Nr. 94/2012 treten mit 1. Jänner 2013 in Kraft.
+
+(9) § 15 in der Fassung des Informationsfreiheits-Anpassungsgesetzes, BGBl. I Nr. 50/2025, tritt mit 1. September 2025 in Kraft.
+
+#### § 28 – Vollziehung
+
+§ 28. Mit der Vollziehung dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 46/2000 sind betraut:
+
+1\. hinsichtlich des § 19 Abs. 1 und 4 der Bundesminister für Arbeit, Soziales und Konsumentenschutz im Einvernehmen mit dem Bundesminister für Finanzen und
+
+2\. im Übrigen der Bundesminister für Arbeit, Soziales und Konsumentenschutz.

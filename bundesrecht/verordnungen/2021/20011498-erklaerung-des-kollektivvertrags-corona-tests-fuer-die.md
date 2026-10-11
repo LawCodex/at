@@ -1,0 +1,58 @@
+---
+title: "Erklärung des Kollektivvertrags Corona-Tests für die Arbeitnehmerinnen und Arbeitnehmer der privaten Bildungseinrichtungen zur Satzung"
+identifier: "20011498"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 117/2021"
+last_amended: 2021-03-24
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2021/117/P0/NOR40231826"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011498"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# Erklärung des Kollektivvertrags Corona-Tests für die Arbeitnehmerinnen und Arbeitnehmer der privaten Bildungseinrichtungen zur Satzung
+
+Verordnung des Bundeseinigungsamtes beim Bundesministerium für Arbeit, mit der der Kollektivvertrag Corona-Tests für die Arbeitnehmerinnen und Arbeitnehmer der privaten Bildungseinrichtungen zur Satzung erklärt wird
+
+StF: BGBl. II Nr. 117/2021
+
+## Präambel/Promulgationsklausel
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit ist gemäß § 18 Abs. 1 Arbeitsverfassungsgesetz, BGBl. Nr. 22/1974, in der Fassung des Bundesgesetzes BGBl. I Nr. 170/2020 ermächtigt, auf Antrag einer kollektivvertragsfähigen Körperschaft, die Partei eines Kollektivvertrages ist, bei Vorliegen der in Abs. 3 angeführten Voraussetzungen diesem Kollektivvertrag durch Erklärung zur Satzung auch außerhalb seines räumlichen, fachlichen und persönlichen Wirkungsbereiches rechtsverbindliche Wirkung zuzuerkennen.
+
+Das Bundeseinigungsamt beim Bundesministerium für Arbeit hat mit Beschluss vom 17. März 2021 nach Durchführung einer Senatsverhandlung nachstehende Satzung erlassen:
+
+## Satzung des Kollektivvertrages Corona-Tests für die Arbeitnehmerinnen und Arbeitnehmer der privaten Bildungseinrichtungen
+
+### S 4/2021/XXIII/97/1
+
+#### § 1 – Geltungsbereich der Satzung
+
+§ 1. Die Satzung gilt für
+
+a) **Fachlich:** Alle Einrichtungen, deren Hauptzweck in der außerbetrieblichen Erwachsenenbildung liegt, soweit sie nach arbeitsmarktrechtlichen Vorschriften oder bundes- oder landesrechtlichen Fördervorschriften oder Fördervereinbarungen als Einrichtungen der außerbetrieblichen Erwachsenenbildung anerkannt sind.
+
+Ausgenommen sind öffentlich-rechtliche Einrichtungen.
+
+b) **Räumlich:** Republik Österreich.
+
+c) **Persönlich:** Alle Arbeitgeberinnen und Arbeitgeber im fachlichen Geltungsbereich sowie die von diesen Arbeitgeberinnen und Arbeitgebern beschäftigten Arbeitnehmerinnen und Arbeitnehmer sowie Lehrlinge, sofern ihre Arbeitsverhältnisse nicht durch einen gültigen Kollektivvertrag (ausgenommen Kollektivverträge gemäß § 18 Abs. 4 ArbVG) oder durch ein Dienstrecht einer öffentlich-rechtlichen Körperschaft erfasst sind.
+
+#### § 2 – Inhalt der Satzung
+
+§ 2. Der zwischen der Berufsvereinigung der Arbeitgeberinnen und Arbeitgeber privater Bildungseinrichtungen (BABE) und dem Österreichischen Gewerkschaftsbund, Gewerkschaft GPA und Gewerkschaft VIDA, abgeschlossene
+
+### Kollektivvertrag Corona-Tests für die Arbeitnehmerinnen und Arbeitnehmer der privaten Bildungseinrichtungen,
+
+beim Bundesministerium für Arbeit unter Registerzahl KV 98/2021 hinterlegt und im „Amtsblatt zur Wiener Zeitung“ vom 18. Februar 2021 kundgemacht,
+
+### wird zur Satzung erklärt.
+
+#### § 3 – Beginn der Wirksamkeit und Geltungsdauer der Satzung
+
+§ 3. Die Wirksamkeit dieser Satzung beginnt am Tag nach ihrer Veröffentlichung im Bundesgesetzblatt. Die Geltungsdauer der Satzung richtet sich nach der Geltungsdauer des gesatzten Kollektivvertrages.

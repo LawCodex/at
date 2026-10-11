@@ -1,0 +1,67 @@
+---
+title: "Festsetzung von Hundertsätzen für die Bemessung von Kaufkraftausgleichszulagen für im Ausland verwendete Beamte und Vertragsbedienstete des Bundes – Juni 2021"
+identifier: "20011564"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 255/2021"
+last_amended: 2021-06-10
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2021/255/P0/NOR40235016"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011564"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Festsetzung von Hundertsätzen für die Bemessung von Kaufkraftausgleichszulagen für im Ausland verwendete Beamte und Vertragsbedienstete des Bundes – Juni 2021
+
+Verordnung des Bundesministers für europäische und internationale Angelegenheiten über die Festsetzung von Hundertsätzen für die Bemessung von Kaufkraftausgleichszulagen für im Ausland verwendete Beamte und Vertragsbedienstete des Bundes
+
+StF: BGBl. II Nr. 255/2021
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 21b Abs. 2 und 3 des Gehaltsgesetzes 1956 (GehG), BGBl. Nr. 54, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 153/2020, wird im Einvernehmen mit dem Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport verordnet:
+
+## Art. 1
+
+Für nachstehend angeführte Dienstorte im Ausland wird der Hundertsatz für die Bemessung von Kaufkraftausgleichszulagen nach § 21b Abs. 1 GehG für den Monat Juni 2021 wie folgt festgesetzt:
+
+| Abu Dhabi | 9 |  | Djerba | – |  | Los Angeles | 13 |  | Rio de Janeiro | – |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Abuja | – |  | Doha | – |  | Luxemburg | 8 |  | Riyadh | 4 |
+| Addis Abeba | – |  | Dublin | 5 |  | Lyon | 6 |  | Rom | 12 |
+| Agram | – |  | Duino | 3 |  | Madrid | 2 |  | Sankt Petersburg | – |
+| Algier | – |  | Ferney-Voltaire | 6 |  | Mailand | 14 |  | San Francisco | 11 |
+| Almaty | – |  | Frankfurt | 7 |  | Manila | – |  | Santiago de Chile | – |
+| Amman | 6 |  | Genf | 45 |  | Maskat | – |  | Santo Domingo | – |
+| Ankara | – |  | Guangzhou | 27 |  | Mediasch | – |  | Sao Paulo | – |
+| Athen | – |  | Guatemala | – |  | Mexiko | – |  | Sarajewo | – |
+| Bagdad | 40 |  | Hamburg | 5 |  | Minsk | – |  | Seoul | 31 |
+| Baku | – |  | Hanoi | – |  | Montreal | – |  | Shanghai | 32 |
+| Bangkok | 8 |  | Harare | 15 |  | Moskau | – |  | Shkodra | – |
+| Barcelona | 3 |  | Havanna | – |  | Mostar | – |  | Singapur | 35 |
+| Beirut | 114 |  | Helsinki | 13 |  | München | 5 |  | Skopje | – |
+| Belgrad | – |  | Ho Chi Minh City | – |  | Nairobi | – |  | Sofia | – |
+| Berlin | 6 |  | Hongkong | 36 |  | Ndjamena | 28 |  | Stockholm | 8 |
+| Bern | 42 |  | Islamabad | – |  | New Delhi | – |  | Strassburg | 6 |
+| Bogotá | – |  | Istanbul | – |  | New York | 19 |  | Stuttgart | 2 |
+| Bonn | 3 |  | Jakarta | – |  | Nikosia | – |  | Sydney | 11 |
+| Brasilia | – |  | Jeddah | 5 |  | Nur-Sultan | – |  | Taipei | 22 |
+| Brüssel | 13 |  | Johannesburg | – |  | Odessa | – |  | Tallinn | 1 |
+| Budapest | – |  | Kairo | – |  | Oslo | 19 |  | Teheran | – |
+| Buenos Aires | – |  | Kapstadt | – |  | Ottawa | – |  | Tel Aviv | 30 |
+| Bukarest | – |  | Kiew | – |  | Padua | 3 |  | Tiflis | – |
+| Calgary | – |  | Kopenhagen | 33 |  | Paris | 12 |  | Tirana | – |
+| Canberra | 5 |  | Krakau | – |  | Peking | 33 |  | Tokio | 29 |
+| Caracas | – |  | Kuala Lumpur | – |  | Podgorica | – |  | Toronto | 3 |
+| Casablanca | – |  | Kuwait | – |  | Prag | 10 |  | Tripolis | – |
+| Chengdu | 14 |  | Lagos | 11 |  | Pressburg | 4 |  | Tunis | – |
+| Chicago | 11 |  | Laibach | – |  | Pretoria | – |  | Valletta | 1 |
+| Chişinău | – |  | Lemberg | – |  | Pristina | – |  | Warschau | – |
+| Dakar | 19 |  | Lima | – |  | Querétaro | – |  | Washington | 7 |
+| Damaskus | – |  | Lissabon | 2 |  | Rabat | – |  | Wilna | 4 |
+| Den Haag | 13 |  | London | 10 |  | Riga | 7 |  | Zürich | 46 |
+|  |  |  |  |  |  |  |  |  |  |  |

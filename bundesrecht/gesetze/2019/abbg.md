@@ -1,0 +1,214 @@
+---
+title: "Bundesgesetz über die Schaffung eines Amtes für Betrugsbekämpfung"
+abbreviation: "ABBG"
+identifier: "20010789"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 104/2019"
+last_amended: 2026-07-30
+last_amendment: "BGBl. I Nr. 62/2026"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/2019/104/P0/NOR40218906"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010789"
+retrieved: 2026-10-11
+documents: 9
+---
+
+# Bundesgesetz über die Schaffung eines Amtes für Betrugsbekämpfung (ABBG)
+
+Bundesgesetz über die Schaffung eines Amtes für Betrugsbekämpfung (ABBG)
+
+StF: BGBl. I Nr. 104/2019 (NR: GP XXVI IA 985/A AB 692 S. 88. BR: AB 10252 S. 897.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 23/2020 (NR: GP XXVII IA 402/A AB 115 S. 22. BR: AB 10291 S. 905.)  
+BGBl. I Nr. 99/2020 (NR: GP XXVII RV 110 AB 173 S. 32. BR: 10323)  
+BGBl. I Nr. 108/2022 (NR: GP XXVII RV 1534 AB 1585 S. 168. BR: 11010 AB 11044 S. 943.)  
+[CELEX-Nr.: 32021L0514]  
+BGBl. I Nr. 107/2024 (NR: GP XXVII RV 2598 AB 2674 S. 270. BR: 11520 AB 11542 S. 969.)  
+BGBl. I Nr. 62/2026 (NR: GP XXVIII RV 523 AB 561 S. 89. BR: 11838 AB 11839 S. 994.)  
+
+</details>
+
+> **Anmerkung:** Dieses Bundesgesetz wurde in Artikel 1 des Finanz-Organisationsreformgesetz – FORG, BGBl. I Nr. 104/2019, kundgemacht.
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+Inhaltsverzeichnis
+
+§ 1. Einrichtung
+
+§ 2. Organisation
+
+§ 3. Aufgaben
+
+§ 4. Befugnisse
+
+§ 5. Datenschutz
+
+§ 6. Verweise auf andere Bundesgesetze
+
+§ 7. Schlussbestimmungen
+
+§ 8. Inkrafttreten, Übergangsregelungen
+
+## § 1 – Einrichtung
+
+§ 1. Der Bundesminister für Finanzen hat ein Amt für Betrugsbekämpfung (ABB) einzurichten. Der Wirkungsbereich des Amtes für Betrugsbekämpfung erstreckt sich auf das gesamte Bundesgebiet. Der Bundesminister für Finanzen hat mit Verordnung den Sitz des Amtes für Betrugsbekämpfung festzulegen.
+
+## § 2 – Organisation
+
+§ 2. (1) Die Leitung des Amtes für Betrugsbekämpfung erfolgt durch den Vorstand. Ihm obliegt insbesondere die organisatorische, personelle, wirtschaftliche und finanzielle Leitung.
+
+(2) Dem Vorstand können für die dienstliche und fachliche Leitung Geschäftsbereichsleiter zur Seite gestellt werden. Einer der Geschäftsbereichsleiter hat im Fall der Verhinderung des Vorstandes dessen Aufgaben als sein Stellvertreter wahrzunehmen. Das Amt für Betrugsbekämpfung besteht aus folgenden Geschäftsbereichen:
+
+1\. Finanzstrafsachen
+
+2\. Finanzpolizei
+
+3\. Steuerfahndung
+
+4\. Zentralstelle Internationale Zusammenarbeit
+
+(3) Im Amt für Betrugsbekämpfung ist weiters
+
+1\. eine Zentrale Koordinationsstelle für die Kontrolle der illegalen Beschäftigung nach dem Ausländerbeschäftigungsgesetz und dem Lohn- und Sozialdumping-Bekämpfungsgesetz des Amtes für Betrugsbekämpfung (Zentrale Koordinationsstelle), welcher die Wahrnehmung der im Ausländerbeschäftigungsgesetz – AuslBG, BGBl. Nr. 218/1975 und im Lohn- und Sozialdumping-Bekämpfungsgesetz – LSD-BG, BGBl. I Nr. 44/2016 zugewiesenen Aufgaben obliegt sowie
+
+2\. ein Daten-, Informations- und Aufbereitungscenter (DIAC) insbesondere zur Wahrnehmung der Aufgaben gemäß § 82 Abs. 9 Kraftfahrgesetz 1967 – KFG 1967, BGBl. Nr. 267/1967,
+
+einzurichten.
+
+(4) Organe des Amtes für Betrugsbekämpfung werden in nachstehenden Fällen jeweils als Organ der zuständigen Abgabenbehörde tätig:
+
+1\. bei Erfüllung finanzpolizeilicher Aufgaben gemäß § 3 Z 2 lit. a bis c,
+
+2\. bei Erfüllung von Aufgaben der Steuerfahndung gemäß § 3 Z 3 lit. g und h und
+
+3\. bei Erfüllung von Aufgaben der Zentralstelle Internationale Zusammenarbeit gemäß § 3 Z 4 lit. a und c.
+
+## § 3 – Aufgaben
+
+§ 3. Dem Amt für Betrugsbekämpfung obliegt insbesondere
+
+1\. im Geschäftsbereich Finanzstrafsachen
+
+a) die Durchführung von Finanzstrafverfahren nach dem Finanzstrafgesetz – FinStrG, BGBl. Nr. 129/1958,
+
+b) die Wahrnehmung der Rechte und Pflichten im Dienste der Strafrechtspflege gemäß § 196 Abs. 1 FinStrG,
+
+c) die Wahrnehmung der Privatbeteiligtenstellung und sonstiger Aufgaben und Befugnisse gemäß §§ 195 bis 245 FinStrG,
+
+d) die Einhebung, Sicherung, Einbringung sowie der Vollzug der nach dem FinStrG verhängten Geld- und Freiheitsstrafen (Ersatzfreiheitsstrafen) sowie
+
+e) die internationale Amts- und Rechtshilfe in Finanzstrafsachen
+
+soweit diese Aufgaben mit Ausnahme der lit. b nicht gemäß § 53 FinStrG in die Zuständigkeit der Gerichte fallen oder gemäß § 58 Abs. 1 lit. a FinStrG vom Zollamt Österreich zu vollziehen sind;
+
+2\. im Geschäftsbereich Finanzpolizei
+
+a) die Wahrnehmung von allgemeinen Aufsichtsmaßnahmen gemäß §§ 143 f der Bundesabgabenordnung – BAO, BGBl. Nr. 194/1961,
+
+b) die Durchführung von Ermittlungshandlungen für Zwecke der Verhinderung und Aufdeckung von Zuwiderhandlungen gegen die von den Finanzämtern zu vollziehenden Rechtsvorschriften sowie die in diesen Rechtsvorschriften vorgesehene Durchführung von Maßnahmen bei Gefahr in Verzug,
+
+c) die Durchführung von Abgabensicherungsmaßnahmen nach den Vorschriften der BAO und der Abgabenexekutionsordnung – AbgEO, BGBl. Nr. 104/1949, bei Gefahr im Verzug,
+
+d) die Durchführung von Maßnahmen zur Sicherung und Einbringung von nach dem FinStrG verhängten Geldstrafen,
+
+e) die Vollziehung anderer durch unmittelbar anwendbares Recht der Europäischen Union oder Bundesgesetz außerhalb der Abgabenvorschriften dem Amt für Betrugsbekämpfung oder dessen Organen übertragenen Aufgaben,
+
+f) die Vollziehung der im AuslBG und im LSD-BG der Zentralen Koordinationsstelle im Sinne des § 2 Abs. 3 Z 1 übertragenen Aufgaben,
+
+g) die Vollziehung der in § 82 Abs. 9 KFG 1967 dem Daten-, Informations- und Aufbereitungscenter übertragenen Aufgaben im Sinne des § 2 Abs. 3 Z 2,
+
+h) die Wahrnehmung der Rechte und Pflichten im Dienste der Strafrechtspflege gemäß § 6 des Sozialbetrugsbekämpfungsgesetzes – SBBG, BGBl. I Nr. 113/2015, und gemäß § 28c AuslBG, sowie die Vornahme von Maßnahmen gegen Scheinunternehmen gemäß § 8 und § 8a SBBG und – bei Gefahr im Verzug – die Geltendmachung von Haftungen gemäß § 9a SBBG;
+
+i) im Rahmen der Vollziehung von Aufgaben gemäß lit. a, e und h die Erhebung, ob
+
+– den versicherungsrechtlichen Bestimmungen und den Meldungsverpflichtungen des Allgemeinen Sozialversicherungsgesetzes – ASVG, BGBl. Nr. 189/1955,
+
+– den Anzeigepflichten des Arbeitslosenversicherungsgesetzes 1977 – AlVG, BGBl. Nr. 609/1977,
+
+– den Bestimmungen, deren Missachtung die Tatbestände der § 366 Abs. 1 Z 1 oder § 367 Z 54 der Gewerbeordnung 1994 – GewO 1994, BGBl. Nr. 194/1994, erfüllt, und
+
+– den Bestimmungen, deren Missachtung die Tatbestände der § 28 Abs. 2 Z 7, Abs. 3 Z 6, Abs. 3a bzw. Abs. 5 Z 5 oder Z 8 des Arbeitszeitgesetzes – AZG, BGBl. Nr. 461/1969, erfüllt,
+
+entsprochen wird. In Verwaltungsstrafverfahren nach § 71 AlVG und den betroffenen Bestimmungen der GewO 1994 oder des AZG hat das Amt für Betrugsbekämpfung Parteistellung, wenn die Übertretung durch das Amt für Betrugsbekämpfung festgestellt worden ist. In diesem Fall ist das Amt für Betrugsbekämpfung berechtigt, Beschwerden gegen Bescheide, Einsprüche gegen Strafverfügungen sowie Revisionen an den Verwaltungsgerichtshof zu erheben.
+
+j) die Durchführung von vereinfachten Verfahren wegen Finanzordnungswidrigkeiten gemäß § 51 Abs. 1 lit. c und d FinStrG im Zusammenhang mit der Verpflichtung zur Verwendung eines technisch vor Manipulation gesicherten Aufzeichnungssystems (§ 131b BAO) und der Belegerteilungsverpflichtung (§ 132a BAO);
+
+3\. im Geschäftsbereich Steuerfahndung
+
+a) die Durchführung von Ermittlungsmaßnahmen und Beweisaufnahmen nach den Bestimmungen des FinStrG,
+
+b) die Wahrnehmung der Rechte und Pflichten im Dienste der Strafrechtspflege gemäß § 196 Abs. 1 FinStrG,
+
+c) die Auswertung und Analyse von Beweismitteln und Daten sowie die forensische Datensicherung,
+
+d) die Vornahme von oder die Mitwirkung an gemäß § 99 Abs. 2 FinStrG durchzuführenden Prüfungsmaßnahmen,
+
+e) die Vertretung vor Gericht als Privatbeteiligtenvertreter,
+
+f) die Erledigung von Amts- und Rechtshilfeersuchen in Finanzstrafsachen, soweit diese nicht in die Zuständigkeit des Zollamtes Österreich fallen,
+
+g) die Durchführung von Ermittlungs- und Prüfungshandlungen für Zwecke der Verhinderung und Aufdeckung von Zuwiderhandlungen gegen die von den Finanzämtern zu vollziehenden Rechtsvorschriften,
+
+h) die Durchführung von Abgabensicherungsmaßnahmen nach den Vorschriften der BAO und der AbgEO bei Gefahr im Verzug sowie
+
+4\. im Geschäftsbereich Zentralstelle Internationale Zusammenarbeit die Wahrnehmung der sich aus gesetzlichen Vorschriften, unmittelbar anwendbaren Rechtsakten der Europäischen Union oder völkerrechtlichen Vereinbarungen ergebenden Aufgaben, soweit diese nicht dem Bundesminister für Finanzen, den Abgaben- oder Finanzstrafbehörden obliegen,
+
+a) als Central Liaison Office die Durchführung der internationalen Amts- und Rechtshilfe in Abgabensachen,
+
+b) als Competence Center for International Cooperation in Fiscal Criminal Investigations (CC ICFI) die Durchführung der internationalen Amts- und Rechtshilfe in Finanzstrafsachen sowie
+
+c) im Rahmen von EUROFISC nach den Vorschriften der Verordnung (EU) Nr. 904/2010 über die Zusammenarbeit der Verwaltungsbehörden und die Betrugsbekämpfung auf dem Gebiet der Mehrwertsteuer, ABl. Nr. L 268 vom 12.10.2010 S. 1, zuletzt geändert durch die Verordnung (EU) 2018/1909, ABl. Nr. L 311 vom 07.12.2018 S. 1, und daraus folgend die Gewinnung von für die Erhebung von Abgaben maßgebenden Daten sowie im Rahmen der Verarbeitung im Wege der Geldwäschemeldestelle (§ 4 Abs. 2 Z 1 Bundeskriminalamt-Gesetz – BKA–G, BGBl. I Nr. 22/2002) ein- und ausgehender Geldwäscheverdachtsmeldungen.
+
+> **Beachte:** Z 2 lit. i ist auf Verfahren anzuwenden, für die eine Verfolgungshandlung nach dem 1. September 2024 vorgenommen wird (vgl. § 8 Abs. 5).
+
+## § 4 – Befugnisse
+
+§ 4. (1) Den Organen des Amtes für Betrugsbekämpfung kommen im Rahmen ihrer Aufgaben gemäß § 3 Z 2 lit. a, b und e, § 3 Z 3 lit. g sowie § 3 Z 4 lit. a und c die den Organen der Abgabenbehörden in §§ 48b, 146a und 146b BAO eingeräumten Befugnisse zu.
+
+(2) Zur Gewinnung von für die Erhebung von Abgaben maßgebenden Daten können von den Organen des Amtes für Betrugsbekämpfung in Erfüllung ihrer Aufgaben gemäß § 3 Z 2 lit. a, b und e, § 3 Z 2 lit. g sowie § 3 Z 4 lit. a und c allgemeine Aufsichtsmaßnahmen (§§ 143 und 144 BAO) und Ersuchen um Beistand (§ 158 und § 159 BAO), im Falle des § 3 Z 3 lit. g und Z 4 lit. a und c auch Außenprüfungen (§ 147 ff BAO) vorgenommen werden. Dabei können bei Gefahr im Verzug auch
+
+1\. Sicherstellungsaufträge (§ 232 BAO) erlassen sowie
+
+2\. Vollstreckungshandlungen (§§ 31, 65 ff und 75 AbgEO) und
+
+3\. Sicherungsmaßnahmen (§ 78 AbgEO)
+
+vorgenommen werden.
+
+## § 5 – Datenschutz
+
+§ 5. Die Verarbeitung personenbezogener Daten durch das Amt für Betrugsbekämpfung ist zulässig, wenn sie für Zwecke der Erfüllung der Aufgaben gemäß § 3 oder sonst zur Erfüllung seiner Aufgaben oder in Ausübung öffentlicher Gewalt, die ihm übertragen wurde, erforderlich ist.
+
+## § 6 – Verweise auf andere Bundesgesetze
+
+§ 6. Wenn in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden.
+
+## § 7 – Schlussbestimmungen
+
+§ 7. (1) Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Finanzen betraut.
+
+(2) Soweit sich die in diesem Bundesgesetz verwendeten Bezeichnungen auf natürliche Personen beziehen, gilt die gewählte Form für beide Geschlechter.
+
+## § 8 – Inkrafttreten, Übergangsregelungen
+
+§ 8. (1) Dieses Bundesgesetz tritt mit 1. Jänner 2021 in Kraft.
+
+(2) Im Zusammenhang mit im Zeitpunkt des Inkrafttretens dieses Bundesgesetzes anhängigen Verwaltungs- und Verwaltungsstrafverfahren im Sinne des § 3 Z 2 lit. e geht die den Abgabenbehörden gesetzlich eingeräumte Parteistellung auf das Amt für Betrugsbekämpfung über.
+
+(3) § 1 und § 3 Z 4, jeweils in der Fassung des Bundesgesetzes BGBl. I Nr. 104/2019, treten nicht in Kraft.
+
+(4) § 1 und § 3 Z 4, jeweils in der Fassung des Bundesgesetzes BGBl. I Nr. 99/2020, treten mit 1. Jänner 2021 in Kraft.
+
+(5) § 3 Z 2 lit. h bis j in der Fassung des Bundesgesetzes BGBl. I Nr. 107/2024 tritt am Tag nach der Kundmachung in Kraft; § 3 Z 2 lit. i ist auf Verfahren anzuwenden, für die eine Verfolgungshandlung nach dem 1. September 2024 vorgenommen wird.
+
+(6) § 3 Z 2 lit. h in der Fassung des Budgetbegleitgesetzes 2027–2028, BGBl. I Nr. 62/2026, tritt mit dem auf die Kundmachung folgenden Tag in Kraft.

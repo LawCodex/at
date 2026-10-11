@@ -1,0 +1,11037 @@
+---
+title: "2. Tierhaltungsverordnung"
+identifier: "20003860"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 486/2004"
+last_amended: 2026-07-01
+last_amendment: "BGBl. II Nr. 144/2026"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2004/486/P0/NOR40278561"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003860"
+retrieved: 2026-10-11
+documents: 20
+---
+
+# 2. Tierhaltungsverordnung
+
+Verordnung der Bundesministerin für Gesundheit über die Haltung von Wirbeltieren, die nicht unter die 1. Tierhaltungsverordnung fallen, über Wildtiere, die besondere Anforderungen an die Haltung stellen und über Wildtierarten, deren Haltung aus Gründen des Tierschutzes verboten ist (2. Tierhaltungsverordnung)
+
+StF: BGBl. II Nr. 486/2004
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 26/2006  
+BGBl. II Nr. 384/2007  
+BGBl. II Nr. 57/2012  
+BGBl. II Nr. 68/2016  
+BGBl. II Nr. 341/2018  
+BGBl. II Nr. 193/2024  
+BGBl. II Nr. 144/2026  
+
+</details>
+
+> **Anmerkung:** Das Inhaltsverzeichnis wurde gemäß BGBl. II Nr. 486/2004 und BGBl. II Nr. 144/2026 angepasst.
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 24 Abs. 1 Z 1 und 2 sowie des § 25 Abs. 3 des Bundesgesetzes über den Schutz der Tiere (Tierschutzgesetz – TSchG), BGBl. I Nr. 118/2004 Art. 2, wird verordnet:
+
+Inhaltsverzeichnis
+
+§ 1: Geltungsbereich *(Anm.: Geltungsbereich und Zielsetzung)*
+
+§ 2: Allgemeine Anforderungen an die Tierhaltung
+
+§ 2a: Nachweis allgemeiner Sachkunde für die Haltung von Hunden
+
+§ 2b: Nachweis allgemeiner Sachkunde für die Haltung von Reptilien, Amphibien und bestimmten Papageienvögeln
+
+§ 3: Besondere Anforderungen an die Haltung von Säugetieren
+
+§ 4: Besondere Anforderungen an die Haltung von Vögeln
+
+§ 5: Besondere Anforderungen an die Haltung von Reptilien
+
+§ 6: Besondere Anforderungen an die Haltung von Amphibien
+
+§ 7: Besondere Anforderungen an die Haltung von Fischen
+
+§ 8: Wildtiere mit besonderen Anforderungen an die Haltung
+
+§ 9: Verbot der Haltung bestimmter Wildtiere
+
+§ 10: Personenbezogene Bezeichnungen
+
+§ 11: In-Kraft-Treten
+
+\*(Anm.:* *§ 12. Übergangsbestimmungen)*
+
+Anlage 1: Mindestanforderungen an die Haltung von Säugetieren
+
+1\. Haltung von Hunden *(Anm.: Mindestanforderungen für die Haltung von Hunden)*
+
+2\. Haltung von Katzen *(Anm.: Mindestanforderungen für die Haltung von Katzen)*
+
+3\. Haltung von Kleinnagern *(Anm.: Mindestanforderungen für die Haltung von Kleinnagern)*
+
+4\. Haltung von Frettchen *(Anm.: Mindestanforderungen für die Haltung von Frettchen (Mustela putorius furo))*
+
+5\. Kurzfristige Haltung von Ratten und Mäusen als Futtertiere zum Zwecke der Verfütterung *(Anm.: Mindestanforderungen für die kurzfristige (maximal 28 Tage) Haltung von Ratten (Rattus) und Mäusen (Mus) als Futtertiere zum Zwecke der Verfütterung)*
+
+6\. Haltung von Miniaturschweinen (Verweis) *(Anm.: Mindestanforderungen für die Haltung von Miniaturschweinen)*
+
+7\. Haltung von Wildtieren *(Anm.: Mindestanforderungen für die Haltung von Wildtieren)*
+
+Anlage 2: Mindestanforderungen an die Haltung von Vögeln
+
+1\. Haltung von domestizierten Vögeln *(Anm.: Mindestanforderungen für die Haltung von domestizierten Vögeln)*
+
+2\. Haltung von nicht domestizierten Papageien *(Anm.: Mindestanforderungen an die Haltung von nicht domestizierten Vögeln der Ordnung Papageien (Psittaciformes))*
+
+3\. Haltung von Tauben *(Anm.: Mindestanforderungen an die Haltung von Tauben)*
+
+4\. Haltung von Entenvögeln *(Anm.: Mindestanforderungen an die Haltung von Entenvögeln und Lappentauchern)*
+
+5\. Haltung von Hühnervögeln *(Anm.: Mindestanforderungen an die Haltung von Hühnervögeln)*
+
+6\. Haltung von Straußenvögeln *(Anm.: Mindestanforderungen an die Haltung von Straußenvögeln (Struthioformes))*
+
+7\. Haltung von Pinguinen *(Anm.: Mindestanforderungen an die Haltung von Pinguinen)*
+
+8\. Haltung von Ruderfüßern *(Anm.: Mindestanforderungen an die Haltung von Ruderfüßern)*
+
+9\. Haltung von Schreitvögeln *(Anm.: Mindestanforderungen an die Haltung von Schreitvögeln)*
+
+10\. Haltung von Kranichvögeln *(Anm.: Mindestanforderungen an die Haltung von Kranichvögeln)*
+
+11\. Haltung von Greifvögeln und Eulen *(Anm.: Mindestanforderungen an die Haltung von Greifvögeln und Eulen)*
+
+12\. Haltung von Rackenvögeln *(Anm.: Mindestanforderungen an die Haltung von Rackenvögeln)*
+
+13\. Haltung von Spechtvögeln *(Anm.: Mindestanforderungen an die Haltung von Spechtvögeln)*
+
+14\. Haltung von Sperlingsvögeln und Kolibris *(Anm.: Mindestanforderungen an die Haltung von Sperlingsvögeln (Passeriformes) und Kolibris (Apodiformes))*
+
+Anlage 3: Mindestanforderungen an die Haltung von Reptilien
+
+1\. Haltung von Schildkröten *(Anm.: Mindestanforderungen an die Haltung von Schildkröten)*
+
+2\. Haltung von Schlangen *(Anm.: Mindestanforderungen an die Haltung von Schlangen)*
+
+3\. Haltung von Echsen *(Anm.: Mindestanforderungen an die Haltung von Echsen)*
+
+4\. Haltung von Chamäleons *(Anm.: Mindestanforderungen an die Haltung von Chamäleons)*
+
+5\. Haltung von Krokodilen *(Anm.: Mindestanforderungen an die Haltung von Krokodilen)*
+
+Anlage 4: Mindestanforderungen an die Haltung von Amphibien
+
+1\. Schwanzlurche *(Anm.: Mindestanforderungen für die Haltung von Schwanzlurchen)*
+
+2\. Froschlurche *(Anm.: Mindestanforderungen für die Haltung von Froschlurchen)*
+
+Anlage 5: Mindestanforderungen an die Haltung von Fischen
+
+1\. Haltung von Süßwasserfischen *(Anm.: Mindestanforderungen für die Haltung von Süßwasserfischen)*
+
+2\. Haltung von Meerwasserfischen *(Anm.: Mindestanforderungen für die Haltung von Meerwasserfischen)*
+
+### § 1 – Geltungsbereich und Zielsetzung
+
+§ 1. (1) In der vorliegenden Verordnung werden Mindestanforderungen für Wirbeltiere, die zur Haltung in menschlicher Obhut geeignet sind, festgelegt sowie solche Wildtiere, die besondere Anforderungen an die Haltung stellen und solche Wildtierarten, deren Haltung aus Tierschutzgründen verboten ist, bezeichnet.
+
+(2) Diese Verordnung gilt für die Haltung von Wirbeltieren, die nicht unter die 1. Tierhaltungsverordnung, BGBl. II Nr. 485/2004, fallen.
+
+(3) Grundlegendes Ziel ist es, Tieren in Menschenobhut ein Maximum an artspezifischen Verhaltensweisen nicht nur zu ermöglichen, sondern ein Maximum an artspezifischen Verhaltensweisen auch gezielt zu fördern.
+
+### § 2 – Allgemeine Anforderungen an die Tierhaltung
+
+§ 2. (1) Bei der Haltung der in der Verordnung genannten Tiere ist eine Überforderung der artspezifisch unterschiedlich vorhandenen Fähigkeiten der Anpassung verboten. Folgenden Kriterien ist hiebei Rechnung zu tragen:
+
+1\. den artspezifischen und individuellen Fähigkeiten der Anpassung an äußere Bedingungen, und
+
+2\. dem jeweiligen artspezifischen Sozialgefüge.
+
+(2) Jede Veränderung der Haltungsbedingungen eines Tieres in Menschenobhut ist zu vermeiden, wenn die Gefahr besteht, dass dem Tier Schmerzen, Leiden oder Schäden zugefügt werden oder es in schwere Angst versetzt wird.
+
+(3) Einflussnahmen beim Fang und bei Behandlungen sind fachgerecht durchzuführen und ohne Verzug abzuwickeln.
+
+(4) Bei der Ausgestaltung eines Haltungssystems sind der Mindestraumbedarf des gehaltenen Tieres sowie die biologisch sinnvolle Anordnung des Inventars, der Strukturelemente und deren Reizspektren zu beachten.
+
+(5) Die gehaltenen Tiere müssen sich in arttypischen Ruhephasen in geeignete Rückzugmöglichkeiten zurückziehen können und dürfen keiner Dauerbeleuchtung ausgesetzt sein. Bei dauerhafter Haltung unter Kunstlicht ist dafür zu sorgen, dass die tägliche Lichtzeit entsprechend der Bedingungen im natürlichen Lebensraum jahreszeitlich verändert wird.
+
+(6) Die Bodenbeschaffenheit der Haltungseinrichtung muss dem artspezifischen Verhalten Rechnung tragen. Werden Tiere in Stallungen gehalten, müssen diese, sofern in dieser Verordnung nicht anders vorgesehen, über eine geeignete Einstreu verfügen. Gehegeabgrenzungen müssen so beschaffen sein, dass die Tiere sicher verwahrt sind und Schäden an den gehaltenen Tieren durch die Begrenzung oder durch andere Tiere verhindert werden.
+
+(7) Werden Tiere in Außenanlagen gehalten, muss allen Tieren gleichzeitig ein geeigneter Schutz gegenüber Witterungseinflüssen zur Verfügung stehen, ferner ist in Außenanlagen ein Schutz vor Raubwild zu gewährleisten. Wird Tieren, für die gemäß dieser Verordnung Bestimmungen über die Ausgestaltung einer Außenanlage vorgesehen sind, keine Außenanlage angeboten, so muss die Fläche der bereit gestellten Innenanlage der Summe der Mindestflächen der in der Verordnung angegebenen Außen- und Innenanlage entsprechen.
+
+(8) Die gehaltenen Tiere sind gemäß § 20 TSchG auf Krankheitsanzeichen und Verletzungen zu kontrollieren. Gegebenenfalls ist gemäß § 15 TSchG ein Tierarzt zu konsultieren. Für Quarantäne- sowie für sonstige aufgrund von tierseuchenrechtlichen Bestimmungen vorgeschriebenen Schutz- und Überwachungsmaßnahmen oder für die Behandlung erkrankter Tiere sind fachlich begründete abweichende Haltungsbedingungen zulässig.
+
+(9) Von den in den **Anlagen 1** bis **5** genannten Mindestanforderungen kann dann abgewichen werden, wenn die Haltung mittels neuartiger technischer Ausrüstungen erfolgt, die, bei projektgemäßer Verwendung, von der gemäß § 18 Abs. 6 TSchG eingerichteten Fachstelle – auch unter Berücksichtigung der unionsrechtlichen Vorschriften – als tierschutzgesetzkonform befunden wurden.
+
+### § 2a – Nachweis allgemeiner Sachkunde für die Haltung von Hunden
+
+§ 2a. (1) Der gemäß § 13 Abs. 4 TSchG zu absolvierende Theoriekurs für die Haltung von Hunden hat zumindest folgende Inhalte zu umfassen:
+
+1\. Überblick über die rechtlichen Grundlagen der Hundehaltung, jedenfalls Tierschutzgesetz, 2. Tierhaltungsverordnung, einschlägige Landesgesetze sowie allfällige in diesen Vorschriften normierte Meldeverpflichtungen;
+
+2\. Aufklärung über den Aufwand, die Verantwortung und die Folgen der Haltung eines Hundes einschließlich Aufklärung über Herkunft und Qualzucht;
+
+3\. Informationen über die artgerechte Haltung des Hundes, wie insbesondere Kenntnisse über Hundehaltung, Ernährung, Pflege, Gesundheit, Kosten, Entwicklung vom Welpen zum erwachsenen Hund, der Hund als soziales Lebewesen (Kontakte mit Bezugspersonen und Artgenossen), Gefahrenquellen und Gefahrenvermeidung im Umgang mit Hunden (Erkennen von Stress, Angst und Beschwichtigungssignalen, Körpersprache, häufige Missverständnisse zwischen Mensch und Hund), Ruhebedürfnis sowie Beschäftigung;
+
+4\. Kenntnisse über eine tierschutzkonforme Hundeausbildung, jedenfalls über Lernverhalten, positive Bestärkung, Hilfsmittel in der Erziehung und Erkennen von Verhaltensauffälligkeiten und
+
+5\. Kenntnisse über Verhaltensregeln im Alm- und Weidegebiet zur Konfliktprävention zwischen Hunden und Weidetieren sowie Notfallmaßnahmen.
+
+Die Fachstelle für tiergerechte Tierhaltung und Tierschutz gemäß § 18a TSchG hat über diese Inhalte einheitliche Vortragsunterlagen zu erstellen. Diese sind von den Vortragenden der Theoriekurse verpflichtend zu verwenden.
+
+(2) Die gemäß § 13 Abs. 4 TSchG zu absolvierende Praxiseinheit bei Hunden hat zumindest folgende Inhalte zu umfassen:
+
+1\. Tierschutzkonformes Training;
+
+2\. Verständnis der Körpersprache des Hundes;
+
+3\. Tierschutzkonformer Umgang mit dem Hund und Anwendung von passendem Equipment (zum Beispiel Halsband, Brustgeschirr, Leine und Maulkorb) und
+
+4\. Bewältigen von alltäglichen Umwelt- und Stresssituationen (zum Beispiel Begegnung mit anderen Hunden, Radfahrerinnen bzw. Radfahrern und Kindern).
+
+(3) Personen, welche die entsprechende fachliche Eignung (Nachweis von fachrelevanten Aus- und Weiterbildungen) aufweisen sowie über langjährige praktische Erfahrung im Umgang mit Hunden verfügen sind zur Durchführung der Theoriekurse gemäß Abs. 1 geeignet. Gegen diese Personen darf keine rechtskräftige Bestrafung wegen Übertretung des § 5 TSchG und keine rechtskräftige Verurteilung von einem Gericht wegen eines vorsätzlich begangenen Verbrechens oder Vergehens gegen Leib und Leben sowie gegen § 222 StGB oder keine Einstellung eines solches Strafverfahrens mit diversionellem Vorgehen nach dem 11. Hauptstück der Strafprozessordnung 1975 (StPO), BGBl. Nr. 631/1975, vorliegen. Die Landesregierung veröffentlicht die geeigneten Personen namentlich.
+
+(4) Personen, welche die entsprechende fachliche Eignung (Nachweis von fachrelevanten Aus- und Weiterbildungen) aufweisen sowie über langjährige praktische Erfahrung im Umgang mit und dem Training von Hunden nach den Grundsätzen der Hundeausbildung im Sinne des § 2 der Verordnung des Bundesministers für Gesundheit hinsichtlich näherer Bestimmungen über die tierschutzkonforme Ausbildung von Hunden, BGBl. II Nr. 56/2012, verfügen, sind zur Durchführung der Praxiskurse gemäß Abs. 2 geeignet. Gegen diese Personen darf keine rechtskräftige Bestrafung wegen Übertretung des § 5 TSchG und keine rechtskräftige Verurteilung von einem Gericht wegen eines vorsätzlich begangenen Verbrechens oder Vergehens gegen Leib und Leben sowie gegen § 222 StGB oder keine Einstellung eines solches Strafverfahrens mit diversionellem Vorgehen nach dem 11. Hauptstück der StPO vorliegen. Die Landesregierung veröffentlicht die geeigneten Personen namentlich.
+
+(5) Folgende Personen sind von der Absolvierung des Theoriekurses gemäß Abs. 1 und der Praxiseinheit gemäß Abs. 2 befreit:
+
+1\. Personen, die zum Zeitpunkt der Aufnahme eines Hundes bereits einen Hund bzw. mehrere Hunde halten und dies durch eine Registrierung in einer Datenbank gemäß § 24a TSchG belegen können;
+
+2\. Personen, die zum Zeitpunkt der Aufnahme eines Hundes keinen Hund halten, jedoch innerhalb der letzten zwei Jahre zumindest einen Hund gehalten haben und dies durch eine Registrierung in einer Datenbank gemäß § 24a TSchG belegen können. Die vorangegangene Haltung muss zumindest einen Zeitraum von zwei Jahren umfasst haben;
+
+3\. Personen, die zum Zeitpunkt der Aufnahme eines Hundes keinen Hund halten, jedoch innerhalb der letzten sieben Jahre einen Hund gehalten haben und dies durch eine Registrierung in einer Datenbank gemäß § 24a TSchG belegen können, sofern die Halterin bzw. der Halter nachweislich eine Ausbildung positiv abgeschlossen hat, die spezifische Kenntnisse zu Haltung und Umgang mit Hunden beinhaltet. Die vorangegangene Haltung muss zumindest einen Zeitraum von zwei Jahren umfasst haben;
+
+4\. Personen, die das Gütesiegel „Tierschutzqualifizierte Hundetrainerin“ bzw. „Tierschutzqualifizierter Hundetrainer“ führen;
+
+5\. Zertifizierte Trainerinnen und Trainer der DogAudit eGen;
+
+6\. Aktive Trainerinnen und Trainer des Österreichischen Kynologenverbands, des Österreichischen Jagdgebrauchshunde-Verbands und der Österreichischen Hundesport Union;
+
+7\. Aktive Leistungsrichterinnen und Leistungsrichter des Österreichischen Kynologenverbands, des Österreichischen Jagdgebrauchshunde-Verbands und der Österreichischen Hundesport Union;
+
+8\. Tierärztinnen bzw. Tierärzte;
+
+9\. Absolventinnen bzw. Absolventen des Universitätslehrgangs „Angewandte Kynologie“;
+
+10\. Kontrollorgane gemäß der Tierschutz-Kontrollverordnung (TSchKV), BGBl. II Nr. 492/2004;
+
+11\. Personen, die von der Landesregierung zur Durchführung der Theoriekurse gemäß Abs. 3 oder der Praxiseinheiten gemäß Abs. 4 namentlich veröffentlicht wurden;
+
+12\. Hundeführerinnen und Hundeführer von Diensthunden im Sinne des § 1 Abs. 1 Diensthunde-Ausbildungsverordnung, (Diensthunde-AusbV), BGBl. II Nr. 494/2004;
+
+13\. Geprüfte Hundeführerinnen bzw. Hundeführer der Österreichischen Rettungshundebrigade, des Österreichischen Rettungsdienstes-Einsatzorganisation für Rettungshunde, der Rettungshundestaffel des Arbeiter-Samariter-Bundes Österreichs, des Bundesverbandes Rettungshunde Österreich, der Österreichischen Hundewasserrettung, der Suchhundestaffeln des Österreichischen Roten Kreuzes und der Suchhundestaffel der Österreichischen Hundesport-Union;
+
+14\. Personen, die eine Prüfung gemäß § 39a Bundesbehindertengesetz (BBG), BGBl. Nr. 283/1990, absolviert haben;
+
+15\. hinsichtlich der Absolvierung des Theoriekurses: Personen, die bis 30.06.2027 auf Grund einer landesgesetzlichen Regelung einen theoretischen Sachkundenachweis für die Haltung von Hunden erlangt haben und
+
+16\. hinsichtlich der Absolvierung der Praxiseinheit: Personen, die bis 30.06.2027 auf Grund einer landesgesetzlichen Regelung einen praktischen Sachkundenachweis für die Haltung von Hunden erlangt haben.
+
+(6) Abweichend von Abs. 5, haben Personen nach erfolgter behördlicher Abnahme eines Hundes gemäß § 37 Abs. 2 und 2a sowie § 39 Abs. 3 TSchG innerhalb von sechs Monaten nach Wiederausfolgung des Hundes den Theoriekurs und die Praxiseinheit gemäß Abs. 1 und 2 zu absolvieren. Im Fall einer Neuaufnahme eines Hundes ist jedenfalls der Theoriekurs vor Aufnahme der Haltung und die Praxiseinheit gemäß den Fristen des § 13 Abs. 4 TSchG zu absolvieren.
+
+(7) Über die Absolvierung des Theoriekurses sowie der Praxiseinheit ist von den Ausbildnerinnen bzw. Ausbildnern eine Bescheinigung auszustellen, welche zumindest Angaben über die absolvierte Ausbildung, den Namen der Kursteilnehmerin bzw. des Kursteilnehmers sowie den Namen und die Unterschrift der Person, die den Kurs abgehalten hat, zu beinhalten hat. Aus der Bescheinigung für die Praxiseinheit hat zweifelsfrei hervorzugehen, mit welchem Hund (Chipnummer) der Kurs absolviert wurde. Die Absolvierung des Kurses ist nur dann zu bescheinigen, wenn die Teilnahme am Kurs persönlich und bei der Praxiseinheit mit dem eigenen Hund erfolgt ist; dies gilt auch bei online abgehaltenen Kursen. Die Fachstelle für tiergerechte Tierhaltung und Tierschutz hat bundesweit einheitliche Muster für Bescheinigungen zu erstellen, die von den Ausbildnerinnen bzw. Ausbildnern verpflichtend zu verwenden sind. Von den Teilnehmerinnen bzw. Teilnehmern der Theoriekurse und der Praxiseinheiten sind durch die Ausbildnerinnen bzw. Ausbildner kostendeckende Beiträge einzuheben.
+
+### § 2b – Nachweis allgemeiner Sachkunde für die Haltung von Reptilien, Amphibien und bestimmten Papageienvögeln
+
+§ 2b. (1) Der gemäß § 13 Abs. 4 TSchG zu absolvierende Theoriekurs bei Reptilien, Amphibien und Papageienvögeln mit Ausnahme der Unzertrennlichen, der Plattschweifsittiche, der Wellensittiche und der Nymphensittiche umfasst zumindest folgende Ausbildungsinhalte:
+
+1\. Grundsatzwissen über die Anschaffung eines Tieres einschließlich Aufklärung über Herkunft und Qualzucht sowie Kosten der Haltung;
+
+2\. Haltung, Ernährung, Pflege, gesundheitliche Aspekte, Entwicklung des Tieres, Erkennen von Stresssignalen sowie Unterkunft und Besatzdichte;
+
+3\. Vermeidung von Gefahren im Zusammenhang mit der Haltung eines Tieres, Informationen zum sicheren Umgang und
+
+4\. Einschlägige Rechtsvorschriften einschließlich allfälliger Meldepflichten, jedenfalls Tierschutzgesetz, 2. Tierhaltungsverordnung, Artenhandelsgesetz 2009 (ArtHG 2009), BGBl. I Nr. 16/2010, Verordnung (EG) Nr. 338/97 über den Schutz von Exemplaren wildlebender Tier- und Pflanzenarten durch Überwachung des Handels, ABl. Nr. L 61 vom 03.03.1997 S. 1, einschlägige Landesgesetze sowie allfällige in diesen Vorschriften normierte Meldeverpflichtungen.
+
+Die Fachstelle für tiergerechte Tierhaltung und Tierschutz gemäß § 18a TSchG hat über diese Inhalte einheitliche Vortragsunterlagen zu erstellen. Diese sind von den Vortragenden der Theoriekurse verpflichtend zu verwenden.
+
+(2) Personen, welche die entsprechende fachliche Eignung (Nachweis von fachrelevanten Aus- und Weiterbildungen) aufweisen sowie über langjährige praktische Erfahrung auf Grund eigener Haltung oder beruflicher Erfahrungen im Umgang mit jenen Tieren, die vom Kurs umfasst sind, verfügen, sind zur Durchführung der Theoriekurse gemäß Abs. 1 geeignet. Gegen diese Personen darf keine rechtskräftige Bestrafung wegen Übertretung des § 5 TSchG und keine rechtskräftige Verurteilung von einem Gericht wegen eines vorsätzlich begangenen Verbrechens oder Vergehens gegen Leib und Leben sowie gegen § 222 StGB oder keine Einstellung eines solches Strafverfahrens mit diversionellem Vorgehen nach dem 11. Hauptstück der StPO vorliegen. Die Landesregierung veröffentlicht die geeigneten Personen namentlich.
+
+(3) Folgende Personen sind von der Absolvierung des Theoriekurses gemäß Abs. 1 ausgenommen:
+
+1\. Personen, die bei Aufnahme von Reptilien, Amphibien oder Papageienvögeln bereits solche Tiere halten und dies mit einer Meldung der Wildtierhaltung gemäß § 25 Abs. 1 TSchG belegen können;
+
+2\. Personen, die zum Zeitpunkt der Aufnahme von Reptilien, Amphibien oder Papageienvögeln keine solche Tiere halten, jedoch innerhalb der letzten zwei Jahre vor Aufnahme gehalten haben und dies mit einer Meldung der Wildtierhaltung gemäß § 25 Abs. 1 TSchG belegen können. Die vorangegangene Haltung muss dabei zumindest einen Zeitraum von zwei Jahren umfasst haben;
+
+3\. Tierärztinnen bzw. Tierärzte;
+
+4\. Personen, die eine Lehrabschlussprüfung im Lehrberuf Tierpfleger entsprechend der Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über die Berufsausbildung im Lehrberuf Tierpfleger (Tierpfleger-Ausbildungsordnung), BGBl. II Nr. 64/1997, absolviert haben;
+
+5\. Tierheimmitarbeiterinnen bzw. Tierheimmitarbeiter und Zoofachhändlerinnen bzw. Zoofachhändler mit Ausbildungen im Sinne des § 10 Abs. 1 Z 3 und 4 der Tierschutz-Sonderhaltungsverordnung (TSch-SV), BGBl. II Nr. 139/2018;
+
+6\. Personen, die von der Landesregierung zur Durchführung der Theoriekurse gemäß Abs. 1 veröffentlicht wurden und
+
+7\. Personen, die auf Grund einer landesgesetzlichen Regelung bis 30.06.2027 einen theoretischen Sachkundenachweis für die Haltung von Reptilien, Amphibien oder Papageienvögel erlangt haben.
+
+(4) Über den absolvierten Theoriekurs ist von den Ausbildnerinnen bzw. Ausbildnern eine Bescheinigung auszustellen, welche zumindest Angaben über die absolvierte Ausbildung, den Namen der Kursteilnehmerin bzw. des Kursteilnehmers sowie den Namen und die Unterschrift der Person, die den Kurs abgehalten hat, zu beinhalten hat. Die Absolvierung des Kurses ist nur dann zu bescheinigen, wenn die Teilnahme am Kurs persönlich erfolgt ist; dies gilt auch bei online abgehaltenen Kursen. Die Fachstelle für tiergerechte Tierhaltung und Tierschutz gemäß § 18a TSchG hat bundesweit einheitliche Muster für Bescheinigungen zu erstellen, die von den Ausbildnerinnen bzw. Ausbildnern verpflichtend zu verwenden sind. Von den Teilnehmerinnen bzw. Teilnehmern der Theoriekurse sind durch die Ausbildnerinnen bzw. Ausbildner kostendeckende Beiträge einzuheben.
+
+### § 3 – Besondere Anforderungen an die Haltung von Säugetieren
+
+§ 3. (1) Für die Haltung von Säugetieren gelten die in der Anlage 1 enthaltenen Mindestanforderungen.
+
+(2) Pflanzenfressern sind Futter und Wasser dauernd und frei zugänglich anzubieten.
+
+(3) Tiere müssen, sofern es ihren artspezifischen Bedürfnissen entspricht, jederzeit die Möglichkeit haben, Bereiche aufzusuchen, die unterschiedliche Klimaparameter aufweisen.
+
+(4) Entsprechend der Herkunft der spezifischen Tierarten und bezogen auf ihre natürlichen Lebensräume ist auf eine Klimatisierung mit besonderer Berücksichtigung der tageszeitlichen und jahreszeitlichen Rhythmen zu achten.
+
+(5) Sind gehaltene Tiere Einzelgänger oder bestehen individuelle Unverträglichkeiten zwischen einzelnen gehaltenen Tieren, sind entsprechende Trennungen erforderlich.
+
+(6) Bei der Haltung von Primaten, die freien Zugang zu Innen- und Außenanlagen haben, sind mindestens zwei offene Durchgänge erforderlich, wobei die Entstehung von Zugluft verhindert werden muss.
+
+(7) Bei besonders kälteempfindlichen oder wärmeliebenden Tierarten ist neben einer Raumheizung bei Bedarf Strahlungswärme anzubieten.
+
+### § 4 – Besondere Anforderungen an die Haltung von Vögeln
+
+§ 4. (1) Für die Haltung von Vögeln gelten die in der Anlage 2 enthaltenen Mindestanforderungen sowie die folgenden Absätze.
+
+(2) Den unterschiedlichen Lebensgewohnheiten und Bedürfnissen der Vögel, besonders dem Aggressionsverhalten mancher Arten sowie der Geschlechter in unterschiedlichen Lebensphasen, ist durch eine spezifische oder trennende Käfig-, Volieren- oder Gehegeausstattung Rechnung zu tragen.
+
+(3) Ein geeigneter Schutz gegenüber allen Witterungseinflüssen muss allen Vögeln gleichzeitig zur Verfügung stehen.
+
+(4) In Räumen ist für einen ausreichenden Tageslichteinfall oder ein flimmerfreies Kunstlicht entsprechend dem Lichtspektrum des natürlichen Sonnenlichtes zu sorgen. Die Beleuchtungsdauer richtet sich nach den spezifischen Ansprüchen der Vogelart und der Jahreszeit. Ist eine künstliche Beleuchtung erforderlich, muss sie zwischen acht Stunden (Minimum) und 14 Stunden (Maximum) pro Tag liegen. Der Tag-Nacht-Rhythmus ist einzuhalten. Den artspezifischen Anforderungen an das Klima ist Rechnung zu tragen. In geschlossenen Räumen ist für ein adäquates, der jeweiligen Vogelart entsprechendes Raumklima zu sorgen.
+
+(5) Jungvögel müssen so aufgezogen werden, dass sie artgeprägt sind. Handaufzuchten dürfen nur in begründeten Ausnahmefällen erfolgen. Künstliche Handaufzuchten aus kommerziellen Gründen sind verboten.
+
+(6) Die dauerhafte Einschränkung der Flugfähigkeit durch operative Eingriffe ist verboten. Das Einschränken der Flugfähigkeit darf nur aus tier- oder artenschutzrelevanten Gründen durch regelmäßiges Kürzen der Schwungfedern der Handschwingen erfolgen.
+
+(7) Das Futter muss den ernährungsphysiologischen Bedarf der Vögel in ihren verschiedenen Entwicklungsstadien decken. Ferner muss auch die Darbietung des Futters dem artspezifischen Nahrungsaufnahmeverhalten entsprechen.
+
+(8) Futter- und Wassergefäße sowie Badegelegenheiten sind so aufzustellen, dass die Verunreinigung durch Exkremente hintangehalten wird.
+
+### § 5 – Besondere Anforderungen an die Haltung von Reptilien
+
+§ 5. (1) Für die Haltung von Reptilien gelten die in der Anlage 3 enthaltenen Mindestanforderungen sowie die folgenden Absätze.
+
+(2) Vor dem Kauf eines Reptils müssen Kenntnisse über die Biologie der betreffenden Art und die sich daraus ergebenden Haltungsanforderungen erworben sowie ein Terrarium für seine artgemäße Haltung vorbereitet werden. Entsprechende Fachliteratur ist als Quelle für die laufende Weiterbildung über die Reptilienhaltung zu studieren.
+
+(3) Dem Erwerb von Nachzuchten ist grundsätzlich der Vorzug zu geben.
+
+(4) Eine, den natürlichen Verhältnissen entsprechende Klimatisierung der Gehege ist in Form einer, entsprechend den artspezifischen Bedürfnissen, in der Regel ein Temperaturgefälle im Haltungssystem und eine Nachtabsenkung der Umgebungstemperatur, mittels Licht und Wärmequellen einzurichten. Die Spannbreite dieser Minimal- und Maximaltemperatur sowie die Vorzugstemperatur für die gehaltene Tierart sind einzuhalten.
+
+(5) Für frische Luft ist durch Be- und Entlüftung in artspezifisch erforderlichem Ausmaß zu sorgen. Zugluft ist zu vermeiden. Je nach Produktionsform muss die Terrarienseitenwand oder der Terrariendeckel Gitternetzteile aufweisen.
+
+(6) Reptilien, die nicht in der Lage sind eine konstante Körpertemperatur aufrecht zu erhalten, ist eine ihren artspezifischen Bedürfnissen entsprechende Wärmequelle, vorzugsweise durch eine Koppelung von Licht mit Strahlungswärme bereitzustellen.
+
+(7) Es dürfen nur sachgerecht angebrachte und geeignete Lampen und Leuchtstoffröhren verwendet werden. Geeignete Geräte zur Messung von Temperatur und Luftfeuchtigkeit müssen vorhanden sein.
+
+(8) Luft- und Bodensubstratfeuchtigkeit sowie sonstige Umweltfaktoren, wie beispielsweise Beleuchtungsdauer und Temperatur, müssen den natürlichen jahreszeitlichen Verhältnissen der Herkunftsbiotope angepasst sein. Die Parameter Makroklima und Mikroklima der Herkunftsbiotope, wobei das Mikroklima mitunter erheblich vom Makroklima abweichen kann, ist zu berücksichtigen.
+
+(9) Eine, der jeweiligen Art adäquate Ernährung ist zu gewährleisten. Das eingesetzte Futter muss einen den Ernährungsbedürfnissen entsprechenden Gehalt an Vitaminen, Mineralien, essentiellen Aminosäuren und Ballaststoffen aufweisen. Ist es notwendig Wirbeltiere zu verfüttern, so sind nach Möglichkeit frisch tote Futtertiere zu verwenden. Insekten sind möglichst lebend zu verfüttern. Für die Möglichkeiten einer artgemäßen Wasseraufnahme ist zu sorgen.
+
+(10) Die Gehegegestaltung und Infrastruktur des künstlichen Lebensraumes muss sich an den Bedürfnissen der gehaltenen Art wie zum Beispiel Graben, Wühlen, Klettern, Schwimmen oder das Aufsuchen unterschiedlicher Klimaparameter orientieren. Der Einsatz scharfkantiger, verletzender oder Haut reizender Stoffe ist verboten. Zu den wichtigsten Mindestausstattungen für Arten bei denen dies erforderlich oder möglich ist, gehören:
+
+1\. geeignetes Bodensubstrat in genügender Höhe,
+
+2\. Versteckmöglichkeit,
+
+3\. Wasserbecken, Badebecken,
+
+4\. Klettermöglichkeiten wie Felsen, Äste oder Zweige in geeigneter Größe und Dimension,
+
+5\. Bepflanzung zur Herbeiführung eines geeigneten Mikroklimas oder als Versteckmöglichkeit,
+
+6\. bei Haltung geschlechtsreifer eierlegender Weibchen spezielle Eiablagemöglichkeit,
+
+7\. Sichtschutzeinrichtungen innerhalb eines Geheges oder zwischen einzelnen Gehegen bei Bedarf.
+
+(11) Die Tiere sind artgemäß zu pflegen, Verunreinigungen sind regelmäßig zu beseitigen. Auf generelle Sauberkeit ist zu achten.
+
+(12) Zur Vermeidung von sozialem Stress bei Paar- und Gruppenhaltung ist die natürliche Sozialstruktur der Tiere einzuhalten. Bei der Vergesellschaftung verschiedener Arten mit gleichen Biotopansprüchen dürfen sich die Tiere nicht gegenseitig negativ beeinflussen.
+
+(13) Für die Quarantäne und Behandlung erkrankter Tiere sowie bei der Simulation von Ruhephasen und der Aufzucht von Jungtieren sind fachlich begründbare abweichende Haltungsbedingungen zulässig.
+
+### § 6 – Besondere Anforderungen an die Haltung von Amphibien
+
+§ 6. (1) Für die Haltung von Amphibien gelten die in der Anlage 4 enthaltenen Mindestanforderungen sowie die folgenden Absätze.
+
+(2) Der amphibischen Lebensweise ist durch das Anbieten von Wasser- und Landteilen grundsätzlich Rechnung zu tragen. Ausschließlich wasserlebende Arten sind wie Süßwasserfische zu halten.
+
+(3) Die Klima- und Wasserverhältnisse sind an die Heimatgebiete der jeweils gehaltenen Art anzupassen.
+
+(4) Hitzeempfindliche Arten aus tropischen Gebieten dürfen nicht permanent über 26°C gehalten werden.
+
+(5) Gehege müssen über ausreichend große Lüftungsflächen verfügen.
+
+### § 7 – Besondere Anforderungen an die Haltung von Fischen
+
+§ 7. (1) Für die Haltung von Fischen gelten die in der Anlage 5 enthaltenen Mindestanforderungen sowie die folgenden Absätze.
+
+(2) Für die tiergerechte Haltung von Fischen sind die artspezifischen Bedürfnisse in Bezug auf die Herkunftsgewässer (Anlage 5) zu ermitteln.
+
+(3) Bei Meerwasserarten muss der künstlich zu schaffende Lebensraum Aquarium die gleichen physikalischen und chemischen Parameter aufweisen wie die Heimatgewässer.
+
+(4) Bei Süßwasserarten müssen die Variationsbreiten jene physikalischen und chemischen Parameter aufweisen, wie sie auch in Flüssen und Seen der Heimatgewässer im Jahresverlauf zu beobachten sind.
+
+(5) Werden verschiedene Arten gemeinsam gehalten, ist darauf zu achten, dass die Fische hinsichtlich der Ansprüche an die Wasserqualität und Temperatur sowie ihres Sozialverhaltens zueinander passen und dass die Einrichtung den Bedürfnissen aller gemeinsam gehaltenen Arten Rechnung trägt.
+
+\*(Anm.: Abs. 6 aufgehoben durch BGBl. II Nr. 26/2006)*
+
+### § 8 – Wildtiere mit besonderen Anforderungen an die Haltung
+
+§ 8. (1) Folgende Wildtierarten stellen besondere Ansprüche an Haltung und Pflege und dürfen gemäß § 25 TSchG nur nach vorheriger Anzeige – unbeschadet anderer Pflichten nach dem Bundesgesetz über die Überwachung des Handels mit Exemplaren wildlebender Tier- und Pflanzenarten (Artenhandelsgesetz – Arthg) – BGBl. I Nr. 33/1998 sowie der Verordnung über die Kennzeichnung von Arten (Arten-Kennzeichnungsverordnung) – BGBl. II Nr. 321/1998 – an die Behörde gehalten werden:
+
+1\. alle Wildtierarten der Säugetiere (Mammalia), ausgenommen Schalenwild, Bison (Bison bison) und Streifenhörnchen (Tamias Subspezies),
+
+2\. alle Wildtierarten der Vögel (Aves), ausgenommen Arten der Unzertrennlichen (Agapornis spp.), der Plattschweifsittiche (Platycercidae), Wellensittiche (Melopsittacus undulatus), Nymphensittiche (Nymphicus hollandicus), Prachtfinken (Estrilidae) und der Chinesische Sonnenvogel (Leiothrix lutea), die Chinesische Zwergwachtel (Coturnix chinesis) sowie das Diamanttäubchen (Geopelia cuneata),
+
+3\. alle Arten der Reptilien (Reptilia),
+
+4\. alle Arten der Lurche (Amphibia),
+
+5\. Fische, die in Freiheit mehr als 1 m lang werden.
+
+(2) Alle gehaltenen Vögel der Ordnung Eulen (Strigiformes) und Greifvögel (Falconiformes) sind mittels Beinring oder Transponder identifizierbar zu kennzeichnen. Ebenfalls so zu kennzeichnen sind jene nicht domestizierten Vögel der Ordnung Papageien (Psittaciformes), welche im Anhang A der Verordnung (EG) Nr. 338/97 des Rates genannt sind. Anlässlich der Anzeige gemäß Abs. 1 ist der Behörde die Kennzeichnung zur Identifizierung mitzuteilen.
+
+### § 9 – Verbot der Haltung bestimmter Wildtiere
+
+§ 9. Außerhalb von Zoos, die über eine Bewilligung gemäß § 26 Abs. 1 des Tierschutzgesetzes verfügen, sowie von wissenschaftlichen Einrichtungen, die ihre Wildtierhaltung gemäß § 25 Abs. 1 des Tierschutzgesetzes anzeigen, ist die Haltung folgender Wildtiere verboten:
+
+1\. Kloakentiere (Monotremata), alle Arten;
+
+2\. Riesengleiter (Dermoptera), alle Arten;
+
+3\. Menschenaffen (Pongidae);
+
+4\. Nebengelenktiere (Xenarthra), alle Arten;
+
+5\. Schuppentiere (Pholidota), alle Arten;
+
+6\. Schleichkatzen (Viverridae), alle Arten;
+
+7\. Hyänen (Hyaenidae), alle Arten;
+
+8\. Hundeartige Raubtiere (Canidae), alle Arten mit Ausnahme von Wolf (Canis lupus), Fuchs (Vulpes vulpes), Marderhund (Nyctereutes procyonoides) und Goldschakal (Canis aureus);
+
+9\. Großkatzen (Pantherini), alle Arten;
+
+10\. Kleinkatzen (Felini), alle Arten mit Ausnahme der Wildkatze (Felis silvestris) und des Luchses (Lynx lynx);
+
+11\. Gepard (Acinonyx jubatus);
+
+12\. Großbären (Ursidae), alle Arten;
+
+13\. Katzenbär (Ailurus fulgens);
+
+14\. Bambusbär (Ailuropoda melanoleuca);
+
+15\. Robben (Pinnipedia), alle Arten;
+
+16\. Wale (Cetacea), alle Arten;
+
+17\. Röhrchenzähner (Tubulidentata), alle Arten;
+
+18\. Seekühe (Sirenia), alle Arten;
+
+19\. Nashörner (Rhinocerotidae), alle Arten;
+
+20\. Tapire (Tapiridae), alle Arten;
+
+21\. Flusspferde (Hippopotamidae), alle Arten;
+
+22\. Giraffen (Giraffidae), alle Arten;
+
+23\. Rüsseltiere (Proboscidea), alle Arten.
+
+### § 10 – Personenbezogene Bezeichnungen
+
+§ 10. Alle in dieser Verordnung verwendeten personenbezogenen Bezeichnungen gelten gleichermaßen für Personen sowohl weiblichen als auch männlichen Geschlechts.
+
+### § 11 – In-Kraft-Treten
+
+§ 11. (1) Diese Verordnung tritt am 1. Jänner 2005 jedoch nicht vor dem Ablauf des Tages ihrer Kundmachung im Bundesgesetzblatt, in Kraft.
+
+(2) Anlage 1 in der Fassung der Verordnung BGBl. II Nr. 57/2012 tritt mit 1. März 2012 in Kraft.
+
+(3) § 2 Abs. 9 sowie die **Anlagen 1** und **2** in der Fassung der Verordnung BGBl. II Nr. 68/2016 treten mit 1. April 2016 in Kraft.
+
+(4) § 9 Z 12 sowie Punkt 3. der Anlage 1 in der Fassung der Verordnung BGBl. II Nr. 341/2018 treten mit dem der Kundmachung im Bundesgesetzblatt folgenden Tag in Kraft.
+
+(5) Die Punkte 1.2., 1.9., 1.10., 3.1. und 4.2. der Anlage 1, Punkt 9.2.4. und 11.2.1. der Anlage 2 sowie Punkt 4.2.3. der Anlage 3 in der Fassung der Verordnung BGBl. II Nr. 193/2024 treten mit dem der Kundmachung im Bundesgesetzblatt folgenden Tag in Kraft, gleichzeitig tritt Punkt 4.2.8. der Anlage 3 außer Kraft.
+
+(6) Das Inhaltsverzeichnis, § 5 Abs. 5, § 5 Abs. 8, § 7 Abs. 4, § 12 Abs. 1 sowie die Punkte 3.1., 3.4., 5., 7.10.5., 7.10.6. der Anlage 1, Punkt 11.2.1. der Anlage 2, die Punkte 1.1., 1.2.10., 1.2.14., die Überschrift des Punkts 1.2.30., die Überschrift des Punkts 2.2.36. sowie die Überschrift des Punkts 2.2.53. der Anlage 3 in der Fassung der Verordnung BGBl. II Nr. 144/2026 treten mit dem der Kundmachung im Bundesgesetzblatt folgenden Tag in Kraft, gleichzeitig tritt Punkt 3.1. Abs. 5 letzter Satz der Anlage 1 außer Kraft. § 2a und § 2b in der Fassung der Verordnung BGBl. II Nr. 144/2026 treten mit 1. Juli 2026 in Kraft.
+
+### § 12 – Übergangsbestimmungen
+
+§ 12. (1) Entsteht auf Grund dieser Verordnung eine Bewilligungs- oder Anzeigepflicht oder ein Haltungsverbot, so findet § 44 Abs. 8 und 9 TSchG Anwendung.
+
+(2) Vom Tierhalter/Von der Tierhalterin bereits vor Inkrafttreten der Verordnung BGBl. II Nr. 68/2016 verwendete Boxen für den Transport und die Unterbringung von Schlittenhunden, die den Vorgaben von Anlage 1 Punkt 1.8. Abs. 2 lit. b) nicht entsprechen, dürfen bis zum 31. Dezember 2016 weiter verwendet werden. Vom Tierhalter/Von der Tierhalterin vor Inkrafttreten der Verordnung BGBl. II Nr. 68/2016 verwendete Haltungseinrichtungen für Tauben haben jedenfalls ab 1. Jänner 2017 **Anlage 2** Punkt 3 der Verordnung BGBl. II Nr. 68/2016 zu entsprechen.
+
+## Mindestanforderungen an die Haltung von Säugetieren
+
+### Anlage 1
+
+**1. Mindestanforderungen für die Haltung von Hunden**
+
+**1.1. Allgemeine Anforderungen an das Halten von Hunden**
+
+(1) Hunden muss mindestens einmal täglich, ihrem Bewegungsbedürfnis entsprechend, ausreichend Gelegenheit zum Auslauf gegeben werden.
+
+(2) Hunden, die vorwiegend in geschlossenen Räumen, z. B. Wohnungen, gehalten werden, muss mehrmals täglich die Möglichkeit zu Kot- und Harnabsatz im Freien ermöglicht werden.
+
+(3) Hunden muss mindestens zwei Mal täglich Sozialkontakt mit Menschen gewährt werden.
+
+(4) Wer mehrere Hunde hält, hat sie grundsätzlich in der Gruppe zu halten. Von der Gruppenhaltung darf nur dann abgesehen werden, wenn es sich um unverträgliche Hunde handelt oder wenn dies aus veterinärmedizinischen Gründen erforderlich ist.
+
+(5) Welpen dürfen erst ab einem Alter von über acht Wochen vom Muttertier getrennt werden; dies gilt nicht, wenn die Trennung aus veterinärmedizinischen Gründen zum Schutz des Muttertieres oder zum Schutz der Welpen erforderlich ist. Ist eine vorzeitige Trennung mehrerer Welpen vom Muttertier erforderlich, so sind diese bis zu einem Alter von mindestens acht Wochen gemeinsam zu halten. Eine Ausnahme ist nur dann zulässig, wenn dies dem Wohl der Tiere dient und die Personen, welche die Tiere in ihre Obhut nehmen, über die erforderlichen Möglichkeiten, Kenntnisse und Fähigkeiten zur fachgerechten Aufzucht der Welpen verfügen.
+
+(6) Maulkörbe müssen der Größe und Kopfform des Hundes angepasst und luftdurchlässig sein; sie müssen dem Hund das Hecheln und die Wasseraufnahme ermöglichen.
+
+**1.2. Anforderungen an das Halten von Hunden im Freien**
+
+(1) Ein Hund darf nur dann im Freien gehalten werden, wenn sichergestellt ist, dass das Tier auf Grund seiner Rasse, seines Alters und seines Gesundheitszustandes dazu befähigt ist und ihm Gelegenheit gegeben wurde, sich an die Witterungsverhältnisse, die mit einer Haltung im Freien verbunden sind, anzupassen.
+
+(2) Wer einen Hund im Freien hält, hat dafür zu sorgen, dass dem Hund eine Schutzhütte zur Verfügung steht, die den Anforderungen nach Abs. 3 entspricht und außerhalb der Schutzhütte zusätzlich ein witterungsgeschützter, schattiger, wärmegedämmter Liegeplatz zur Verfügung steht.
+
+(3) Die Schutzhütte muss aus wärmedämmendem Material hergestellt und so beschaffen sein, dass der Hund sich daran nicht verletzen und trocken liegen kann. Sie muss einen der Wetterseite abgewandten Zugang haben, über eine für den Hund geeignete Unterlage verfügen, trocken und sauber gehalten werden und so bemessen sein, dass der Hund
+
+1\. sich darin verhaltensgerecht bewegen und hinlegen kann und
+
+2\. den Innenraum mit seiner Körperwärme warmhalten kann, sofern die Schutzhütte nicht beheizbar ist.
+
+(4) Werden Hunde im Freien in Gruppen gehalten, so müssen die Hundehütten und Liegeplätze so dimensioniert und in so großer Zahl vorhanden sein, dass alle Tiere der Gruppe sie gleichzeitig konfliktfrei nützen können.
+
+**1.3. Anforderungen an die Haltung von Hunden in Räumen**
+
+(1) Ein Hund darf nur in Räumen gehalten werden, bei denen der Einfall von natürlichem Tageslicht sichergestellt ist. Die Flächen der Öffnungen für das Tageslicht müssen bei der Haltung in Räumen, die nach ihrer Zweckbestimmung nicht dem Aufenthalt von Menschen dienen, grundsätzlich 12,5% der Bodenfläche betragen; dies gilt nicht, wenn dem Hund ständig ein Auslauf ins Freie zur Verfügung steht. Bei geringem Tageslichteinfall sind die Räume entsprechend dem natürlichen Tag-/Nachtrhythmus zusätzlich zu beleuchten.
+
+(2) In den Räumen muss eine ausreichende Frischluftversorgung sichergestellt sein.
+
+(3) Ein Hund darf in Räumen, die nach ihrer Zweckbestimmung nicht dem Aufenthalt von Menschen dienen, nur dann gehalten werden, wenn die benutzbare Bodenfläche den Anforderungen an die Zwingerhaltung entspricht.
+
+(4) Ein Hund darf in nicht beheizbaren Räumen nur gehalten werden, wenn diese mit einer Schutzhütte gemäß den Anforderungen an das Halten im Freien oder einem trockenen Liegeplatz, der ausreichend Schutz vor Zugluft und Kälte bietet, ausgestattet sind.
+
+**1.4. Anforderungen an die Zwingerhaltung**
+
+(1) Eine dauernde Zwingerhaltung ist verboten. Hunden ist mindestens ein Mal täglich entsprechend ihrem Bewegungsbedürfnis die Möglichkeit zu geben, sich außerhalb des Zwingers zu bewegen.
+
+(2) Jeder Zwinger muss über eine uneingeschränkt benutzbare Zwingerfläche von 15 m<sup>2</sup> verfügen. In diese Fläche ist der Platzbedarf für die Hundehütte nicht eingerechnet. Für jeden weiteren Hund sowie für jede Hündin mit Welpen bis zu einem Alter von acht Wochen muss eine zusätzliche uneingeschränkt benutzbare Grundfläche von 5 m<sup>2</sup> zur Verfügung stehen.
+
+(3) Die Einfriedung des Zwingers muss so beschaffen sein, dass der Hund sie nicht zerstören, nicht überwinden und sich nicht daran verletzten kann. Einfriedungen müssen mindestens 1,8 m hoch sein und ausreichend tief im Boden verankert sein.
+
+(4) An der Hauptwetterseite muss der Zwinger geschlossen ausgeführt sein. Die Zwingertüren sind an der Zwingerinnenseite mit einem Drehknauf auszustatten. Die Türen sind so auszuführen, dass sie nach innen aufschwingen.
+
+(5) Der Zwingerboden und alle Einrichtungen des Zwingers müssen so gewählt und gestaltet werden, dass die Gesundheit der Hunde nicht beeinträchtigt wird und dass sie sich nicht verletzten können. Der Boden ist so auszuführen, dass Flüssigkeit abfließen kann. Trennvorrichtungen müssen so beschaffen sein, dass sich die Hunde nicht gegenseitig verletzten können. Mindestens eine Seite des Zwingers muss dem Hund freie Sicht nach außen ermöglichen. Außerhalb der Hundehütte muss eine Liegefläche aus wärmedämmendem Material bereitgestellt werden. Das Innere des Zwingers muss sauber, ungezieferfrei und trocken gehalten werden.
+
+(6) Der Zwinger muss ausreichend natürlich beleuchtet sein.
+
+(7) In Zwingern sind bauliche Vorkehrungen derart zu treffen, dass für alle im Zwinger gehaltenen Hunde jederzeit schattige Plätze zur Verfügung stehen.
+
+(8) In einem Zwinger dürfen bis zu einer Höhe, die der aufgerichtete Hund mit den Vorderpfoten im Sprung erreichen kann, keine stromführenden Vorrichtungen, mit denen der Hund in Berührung kommen kann, oder Vorrichtungen, die elektrische Impulse aussenden, angebracht sein.
+
+(9) Werden mehrere Hunde auf einem Grundstück einzeln in einem Zwinger gehalten, so sind die Zwinger so anzuordnen, dass die Hunde Sichtkontakt zu anderen Hunden haben. Bei unverträglichen Hunden ist Sichtkontakt untereinander zu verhindern.
+
+**1.5. Fütterung und Pflege**
+
+(1) Der Halter hat dafür zu sorgen, dass dem Hund in seinem gewohnten Aufenthaltsbereich jederzeit Wasser in ausreichender Menge und Qualität zur Verfügung steht.
+
+(2) Der Halter hat den Hund mit geeignetem Futter in ausreichender Menge und Qualität zu versorgen.
+
+(3) Der Halter hat
+
+1\. den Hund unter Berücksichtigung der Rasse regelmäßig zu pflegen und für seine Gesundheit Sorge zu tragen und
+
+2\. für ausreichende Frischluft und angemessene Lufttemperatur zu sorgen, wenn der Hund ohne Aufsicht in einem Fahrzeug verbleibt, und
+
+3\. den Aufenthaltsbereich des Hundes sauber und ungezieferfrei zu halten. Der Kot ist täglich zu entfernen.
+
+**1.6. Hundeausbildung**
+
+\*(Anm.: aufgehoben durch BGBl. II Nr. 57/2012)*
+
+**1.7. Hundesport**
+
+(1) Sportausübung ist nur mit Hunden zulässig, die hierfür physiologisch und psychologisch geeignet sind. Durch die Sportausübung darf keine Beeinträchtigung des Gesundheitszustandes des Tieres erfolgen.
+
+\*(Anm.: Abs. 2 aufgehoben durch BGBl. II Nr. 68/2016)*
+
+**1.8. Schlittenhunde bei Sport- und Freizeitaktivitäten**
+
+(1) Allgemeines:
+
+1\. Schlittenhunde dürfen während des Trainings und der Wettkämpfe vorübergehend angebunden werden.
+
+2\. Schlittenhunde, die während des Rennens die Leistung verweigern, dürfen, unabhängig von der Ursache, nur mit üblichen Stimmsignalen, jedoch nicht mit Zwang, Druck, physischer Einwirkung, In-Angst-Versetzen oder anderen tierschutzrelevanten Methoden zum Weiterlaufen veranlasst werden.
+
+3\. Während des Rennens auffällig gewordene Schlittenhunde sind unverzüglich einer tierärztlichen Untersuchung zu unterziehen.
+
+(2) Boxen für den Transport und die Unterbringung vor Ort:
+
+1\. Größe:
+
+a) Es ist eine Fläche für jeden Schlittenhund erforderlich, die ein entspanntes Liegen, ein Stehen in aufrechter Stellung und ein Drehen des Schlittenhundes ermöglicht. Die Boxen müssen so konstruiert sein, dass die Schlittenhunde ohne Schwierigkeiten herausgenommen werden können. Liegen muss in Seitenlage mit ausgestreckten Gliedmaßen und zusammengerollt möglich sein.
+
+b) Bei einer Veranstaltung von mehr als drei Tagen hat die Größe der Boxen den Mindestmaßen der Tabelle zu entsprechen, wobei eine Abweichung von max. 10% der Fläche oder von max. 5% der Höhe erlaubt ist, wenn die Vorgaben von lit. a) eingehalten sind.
+
+| **Mittlere Widerristhöhe der Tiere (cm)** | **Länge (cm)** | **Behältnis Breite (cm)** | **Höhe (cm)** | **Fläche je Tier (cm²)** |
+|---|---|---|---|---|
+| 30 | 55 | 40 | 40 | 2 200 |
+| 40 | 75 | 50 | 55 | 3 750 |
+| 50 | 90 | 55 | 65 | 4 950 |
+| 55 | 95 | 60 | 70 | 5 700 |
+| 60 | 100 | 65 | 75 | 6 500 |
+| 65 | 110 | 70 | 80 | 7 700 |
+| 70 | 130 | 75 | 95 | 9 750 |
+| 85 | 160 | 85 | 115 | 13 600 |
+|  |  |  |  |  |
+
+2\. Sonstige Anforderungen:
+
+a) Das Boxenmaterial muss wasserdicht sein. Die Boxen müssen Schutz vor Witterung (Regen, Kälte, Hitze, Sonne, Wind etc.) und sonstigen schädlichen Einwirkungen (Abgasen und Streusalz etc.) bieten und müssen so beschaffen sein, dass die Tiere keine Verletzungen, insbesondere durch scharfe Kanten oder Unebenheiten erleiden können. Die Liegefläche in den Boxen muss rutschfest und mit saugfähigem, isolierendem Material versehen sein. Wird Einstreu verwendet, so muss diese hygienisch einwandfrei und von guter Qualität sein.
+
+b) Sowohl am stehenden als auch am fahrenden Fahrzeug muss eine ausreichende Luftzufuhr gewährleistet sein, Luftschlitze müssen im oberen Drittel an allen Seiten vorhanden sein, eine Seite muss mit Gitterstäben offen sein. Die Fläche mit Belüftungsvorrichtungen muss mindestens 16% der Gesamtoberfläche aller vier Seiten ausmachen. Die Belüftung muss dergestalt sein, dass sich nicht übermäßige Wärme aufstauen kann und der Schlittenhund, insbesondere während der Fahrt, keiner Zugluft ausgesetzt wird. Kondenswasserbildung ist zu vermeiden. Für eine ausreichende Be- und Entlüftung ist zu sorgen. Der Schlittenhund darf nicht im Zug liegen, Zuluft muss oberhalb des liegenden Schlittenhundes einströmen.
+
+c) Bei Doppelbelegung dürfen nur verträgliche Schlittenhunde in die Box verbracht werden, die Schlittenhunde dürfen sich nicht gegenseitig behindern.
+
+d) Die Unterbringung in den Boxen darf während der Nachtruhe (z. B. von 22:00 Uhr bis 07:00 Uhr) max. neun Stunden betragen. Unter Tags darf eine Unterbringung in Boxen für längstens drei Stunden durchgehend erfolgen. Die Tiere dürfen unter Tags nicht länger als insgesamt sechs Stunden in Boxen untergebracht werden.
+
+e) Das für die bauliche Ausstattung der Unterkünfte und die Haltungsvorrichtung verwendete Material, mit dem die Tiere in Berührung kommen können, muss für die Tiere ungefährlich sein und sich angemessen reinigen lassen.
+
+(3) Stake out:
+
+1\. Die Schlittenhunde dürfen nicht länger als 90 Minuten unbeschäftigt (ohne direkten Kontakt zum Musher) am Stake-Out befestigt werden.
+
+2\. Es ist nach Möglichkeit ein kunststoffummanteltes Edelstahlkabel, möglichst jedoch keine Kette, zu verwenden.
+
+3\. Bei Verwendung von Ketten darf von diesen keine Verletzungsgefahr für die Tiere ausgehen.
+
+4\. Die Abgänge vom Hauptkabel müssen zumindest 80 cm lang und mit zwei Wirbeln versehen sein. Eine Verwicklung von Nachbarhunden muss ausgeschlossen sein. Die Einzelabgänge sind so zu konzipieren, dass sich der Schlittenhund drehen und strecken, ohne Behinderung durch seine Teamkameraden Futter und Flüssigkeit aufnehmen und auch soziale Kontakte durch Beschnuppern und Berühren pflegen kann. Während der Dauer der Anbindung hat der Musher seine Schlittenhunde zu beaufsichtigen.
+
+(4) Mindestalter:
+
+1\. Die Teilnahme an sogenannten Trainingscamps ist erst erlaubt, wenn die teilnehmenden Tiere mindestens den 12. Lebensmonat vollendet haben.
+
+2\. Die Teilnahme an Sprintrennen (6 km bis max. 18 km) ist erst erlaubt, wenn die teilnehmenden Tiere mindestens den 15. Lebensmonat vollendet haben.
+
+3\. Die Teilnahme an Mitteldistanzrennen (bis max. 25 km) oder Langdistanzrennen (bis max. 70 km) ist erst erlaubt, wenn die teilnehmenden Tiere mindestens den 18. Lebensmonat vollendet haben.
+
+**1.9. Hütehunde zum Hüten von landwirtschaftlichen Nutztieren**
+
+(1) Allgemeines:
+
+1\. Beim Einsatz mehrerer Hütehunde bei einer Herde dürfen nur miteinander verträgliche Hunde gemeinsam eingesetzt werden.
+
+2\. Hütehunde, die während ihrer Tätigkeit ihre Leistung verweigern, dürfen, unabhängig von der Ursache, nur mit üblichen Stimmsignalen, jedoch nicht mit Zwang, Druck, physischer Einwirkung, In-Angst-Versetzen oder anderen nicht-tierschutzkonformen Methoden zum Weiterarbeiten veranlasst werden.
+
+3\. Die fachgerechte Ausbildung und Arbeit von Hütehunden stellt keinen Verstoß gegen § 5 Abs. 2 Z 4 TSchG dar.
+
+(2) Für die Unterbringung in Boxen während des Transports sind die Bestimmungen des Punktes 1.8. Abs. 2 sinngemäß anzuwenden. Dies gilt ebenso, wenn für die allenfalls erforderliche kurzfristige Sicherung der Tiere anstelle des Anbindens eine Unterbringung in Boxen vor Ort erfolgen soll.
+
+**1.10. Herdenschutzhunde bei der Ausbildung und beim Einsatz zum Schutz von landwirtschaftlichen Nutztieren in Alm- oder Weidehaltung vor Beutegreifern**
+
+(1) Ausbildung:
+
+1\. Die fachlichen Kriterien und Anforderungen zur Beurteilung von Betrieben und Hunden gemäß Z 2 und 3 sind von einer mit dem konfliktarmen Zusammenleben von landwirtschaftlichen Nutztieren und großen Beutegreifern befassten Institution, in der Bund und Länder vertreten sind, zu veröffentlichen.
+
+2\. Die Ausbildung von Herdenschutzhunden darf nur in Betrieben erfolgen, die durch die Institution gemäß Z 1 oder einer anderen von der zuständigen Landesregierung dafür autorisierten Institution, entsprechend den gemäß Z 1 festgelegten Kriterien und Anforderungen, als geeignet beurteilt wurden.
+
+3\. Es dürfen nur solche Hunde ausgebildet werden, die von einer in Z 1 oder Z 2 genannten Institution entsprechend den gemäß Z 1 festgelegten Kriterien und Anforderungen als geeignet befunden wurden. Die Ausbildung hat gemeinsam mit bereits ausgebildeten oder in Ausbildung befindlichen Hunden zu erfolgen. Die Bestimmungen der Abs. 2 Z 2, Abs. 3, 4 und 5 gelten auch während der Ausbildung der Hunde.
+
+(2) Einsatz:
+
+1\. Herdenschutzhunde dürfen nur eingesetzt werden, wenn sie das 18. Lebensmonat vollendet haben und von einer in Abs. 1 Z 1 oder Z 2 genannten Institution in einem Gutachten als geeignet beurteilt wurden oder sich in Ausbildung befinden. Auch ausländische Gutachten und Zertifikate können von der Institution gemäß Abs. 1 Z 1 berücksichtigt werden.
+
+2\. Der Einsatz der Herdenschutzhunde bei einer Herde in nicht eingezäunter Almhaltung darf nur unter menschlicher Anleitung und Begleitung im zumindest überwiegenden Teil des Tages erfolgen. Beim Einsatz auf eingezäunten Weiden hat mindestens zwei Mal am Tag eine Betreuung durch den Hundehalter zu erfolgen.
+
+3\. Die Anzahl der Hunde im gemeinsamen Einsatz ist auf die Größe der zu schützenden Herde und den Bestand der Beutegreifer im Einsatzgebiet abzustimmen. Es sind mindestens zwei Hunde gemeinsam einzusetzen.
+
+4\. Beim Einsatz mehrerer Herdenschutzhunde oder von Herdenschutzhunden gemeinsam mit Hütehunden bei einer Herde in Alm- oder Weidehaltung dürfen nur miteinander verträgliche Tiere gemeinsam eingesetzt werden.
+
+(3) Besondere Haltungsbestimmungen in Alm- oder Weidehaltung:
+
+1\. Von den Bestimmungen des Punktes 1.2. Abs. 2 bis 4 kann für Herdenschutzhunde während ihrer Tätigkeit zum Schutz von landwirtschaftlichen Nutztieren in Alm- oder Weidehaltung vor Beutegreifern abgegangen werden, sofern sichergestellt ist, dass den Hunden ein artgerechtes Ruheverhalten ermöglicht wird und ein angemessener Schutz vor der Witterung, der jenem der Herde entspricht, möglich ist.
+
+2\. Die Haltung hinter Zäunen oder zeitweise in geschlossenen Einrichtungen zum Schutz vor Witterung oder Beutegreifern gilt nicht als Zwingerhaltung. Die Haltung hinter stromführenden Zäunen gemeinsam mit der Herde ist zulässig.
+
+3\. Sofern für die landwirtschaftlichen Nutztiere in Alm- oder Weidehaltung eine überdachte, trockene und eingestreute Liegefläche zur Verfügung gestellt wird, muss in diesem Bereich ein Rückzugsort vorhanden sein, der eine selbstständige Absonderung des Herdenschutzhundes von den ausgewachsenen landwirtschaftlichen Nutztieren ermöglicht. Der Rückzugsort muss trocken sein und ausreichend Schutz vor Zugluft und Kälte bieten und so dimensioniert sein, dass er von allen eingesetzten Herdenschutzhunden gleichzeitig konfliktfrei genutzt werden kann.
+
+(4) Haltung in Ställen außerhalb der Alm- oder Weidesaison:
+
+1\. Herdenschutzhunde sollen außerhalb der Alm- oder Weidesaison gemeinsam mit landwirtschaftlichen Nutztieren gehalten werden. Dies ist auch anzustreben, wenn die Herdenschutzhunde zum Arbeitseinsatz im Herdenschutz physisch nicht mehr in der Lage sind.
+
+2\. Die Anforderungen der Punkte 1.1. und 1.3. müssen jedenfalls auch in Stallhaltung sinngemäß erfüllt werden. Insbesondere sind die Aufrechterhaltung des Sozialkontakts mit Menschen und das Bewegungsbedürfnis entsprechend zu berücksichtigen. Ein entsprechender Rückzugsort muss vorhanden sein, der eine selbstständige Absonderung des Herdenschutzhundes von den ausgewachsenen landwirtschaftlichen Nutztieren ermöglicht.
+
+3\. Sofern dem Hund kein entsprechender Auslauf zur Verfügung steht, ist Punkt 1.4. Abs. 1 sinngemäß anzuwenden.
+
+(5) Für die Unterbringung in Boxen während des Transports sind die Bestimmungen des Punktes 1.8. Abs. 2 sinngemäß anzuwenden. Dies gilt ebenso, wenn für die allenfalls erforderliche kurzfristige Sicherung der Tiere anstelle des Anbindens eine Unterbringung in Boxen vor Ort erfolgen soll.
+
+**2. Mindestanforderungen für die Haltung von Katzen**
+
+(1) Katzen dürfen nicht in Käfigen. gehalten werden. Eine Ausnahme stellt die kurzfristige Unterbringung der Tiere zur veterinärmedizinischen Behandlung dar.
+
+(2) Die Anbindehaltung von Katzen ist auch kurzfristig nicht erlaubt
+
+(3) Werden Katzen in Gruppen gehalten, so muss für jede Katze ein eigener Rückzugsbereich vorhanden sein.
+
+(4) Welpen dürfen erst ab einem Alter von über acht Wochen vom Muttertier getrennt werden. Dies gilt jedoch nicht, wenn die Trennung aus veterinärmedizinischen Gründen zum Schutz des Muttertieres oder des Welpen erforderlich ist. Ist dies der Fall, so dürfen die Wurfgeschwister nicht vor dem Alter von acht Wochen getrennt werden. Eine Ausnahme ist nur dann zulässig, wenn dies dem Wohl der Tiere dient und die Personen, welche die Tiere in ihre Obhut nehmen, über die erforderlichen Möglichkeiten, Kenntnisse und Fähigkeiten zur fachgerechten Aufzucht der Welpen verfügen.
+
+(5) Die Katzen sind in ausreichender Menge mit geeignetem Futter und Wasser zu versorgen.
+
+(6) Räumen in denen Katzen gehalten werden sind sauber zu halten. Den Katzen muss eine ausreichende Anzahl von Katzentoiletten zur Verfügung gestellt werden, die entsprechend sauber zu halten sind.
+
+(7) Den Katzen muss die Möglichkeit zum Krallenschärfen geboten werden.
+
+(8) Wohnungskatzen ist Katzengras oder gleichwertiger Ersatz zur Verfügung zu stellen.
+
+(9) Den Katzen müssen Beschäftigungs- und erhöhte Rückzugsmöglichkeiten geboten werden.
+
+(10) Werden Katzen mit regelmäßigem Zugang ins Freie gehalten, so sind sie von einem Tierarzt kastrieren zu lassen, sofern diese Tiere nicht zur Zucht verwendet werden.
+
+(11) Werden Tiere in Räumen gehalten, bei denen die Gefahr eines Fenstersturzes besteht, so sind die Fenster oder Balkone mit geeigneten Schutzvorrichtungen zu versehen.
+
+**3. Mindestanforderungen für die Haltung von Kleinnagern**
+
+**3.1. Allgemeine Haltungsbedingungen:**
+
+(1) Den Tieren ist ausreichend Beschäftigungsmaterial zur Verfügung zu stellen. Nagetieren muss Nagematerial in Form von gesundheitlich unbedenklichem Holz, Ästen und dergleichen ständig zur Verfügung stehen.
+
+(2) Die Käfige müssen rechteckig sein. Und je nach Tierart hinsichtlich ihrer Größe mindestens die in 3.2. bis 3.9. festgelegten Abmessungen aufweisen.
+
+(3) Gitterkäfige müssen querverdrahtet sein und aus korrosionsbeständigem und nicht reflektierendem Material bestehen. Die Gitterweite muss so gewählt werden, dass ein Hängenbleiben der darin lebenden Tiere ausgeschlossen ist.
+
+(4) Glasbecken dürfen nur dann Verwendung finden, wenn sie über ausreichend dimensionierte, seitlich angebrachte Belüftungsöffnungen verfügen und oben nicht dicht geschlossen sind.
+
+(5) Die Haltungseinrichtung muss dreidimensional strukturiert sein. Kleinnagern sind Rückzugsmöglichkeiten in Form von Häuschen, Papprollen, Rohren, Wurzeln oder zuvor heißgebrühter Korkeiche anzubieten.
+
+(6) Boden und Einstreu müssen ständig in sauberem und trockenem Zustand gehalten werden. Die Einstreu muss so beschaffen sein, dass der gesamte Boden gleichmäßig rutschsicher bedeckt ist. Das verwendete Material muss saugfähig und gesundheitlich unbedenklich sein.
+
+(7) Katzenstreu darf nicht als Einstreu verwendet werden.
+
+(8) Wasser muss in Trinkwasserqualität in Hängeflaschen oder standfesten, offenen Gefäßen stets verfügbar sein. Wasser- und Futtergefäße sind so anzuordnen, dass sie nicht verschmutzt werden können. Futter und Wasser sind täglich frisch zu verabreichen.
+
+(9) Futterheu ist in Heuraufen anzubieten.
+
+(10) Für alle Heimtiere ist ein natürlicher Tag-/Nachtrhythmus einzuhalten.
+
+(11) Werden Tiere in Käfigen gehalten, ist ihnen jedenfalls mehrmals wöchentlich ein Auslauf außerhalb des Käfigs zu ermöglichen.
+
+(12) Die Käfige sind in einer Mindesthöhe von 60 cm aufzustellen.
+
+**3.2. Mindestanforderungen für die Haltung von Chinchillas (Chinchillidae):**
+
+(1) Die Tiere sind paarweise zu halten.
+
+(2) Die Käfiggröße muss mindestens 120 x 80 x 100 cm (Länge x Breite x Höhe) betragen.Für jedes weitere adulte Tier sind 20% der Bodenfläche hinzuzurechnen.
+
+(3) Den Tieren sind eine Schlafhöhle, Sitzbretter in unterschiedlicher Höhe und täglich ein Sandbad mit Chinchillaspezialsand anzubieten.
+
+**3.3. Mindestanforderungen für die Haltung von Gerbils:**
+
+(1) Die Tiere sind gruppenweise in Familiengruppen oder gleichgeschlechtlichen Gruppen zu halten.
+
+(2) Die Käfiggröße pro Tier muss mindestens 60 x 30 x 40 cm (Länge x Breite x Höhe), die Terrariengröße mindestens 80 x 50 x 50 cm (Länge x Breite x Höhe) betragen, für jedes weitere adulte Tier sind 20% der Bodenfläche hinzuzurechnen
+
+(3) Den Tieren sind Einstreu aus grabefähigem Substrat in einer Mindesthöhe von 10 cm und ein Sandbad anzubieten.
+
+**3.4. Mindestanforderungen für die Haltung von Hamstern (Cricetini):**
+
+(1) Goldhamster sind einzeln zu halten.
+
+(2) Zwerghamsterarten wie Dsungarische-, Campbell-, Roborowski-Zwerghamster dürfen auch paarweise gehalten werden.
+
+(3) Die Käfiggröße muss mindestens 60 x 30 x 40 cm (Länge x Breite x Höhe) betragen.
+
+(4) Den Tieren ist Einstreu aus grabefähigem Substrat in einer Mindesthöhe von 5 cm anzubieten.
+
+(5) Wird den Tieren ein Laufrad oder eine ähnliche Vorrichtung zur Verfügung gestellt, so muss diese verletzungssicher und an ihre Größe angepasst sein.
+
+**3.5. Mindestanforderungen für die Haltung von Hausmäusen (Mus musculus):**
+
+(1) Die Tiere sind paarweise oder in Gruppen zu halten.
+
+(2) Die Käfiggröße muss pro Paar mindestens 80 x 30 x 30 cm (Länge x Breite x Höhe) betragen, wobei der Gitterabstand nicht über 8 mm betragen darf. Für jedes weitere adulte Tier sind 20% der Bodenfläche hinzuzurechnen
+
+(3) Den Tieren sind eine Einstreu in einer Mindesthöhe von 5 cm und eine dreidimensionale Anordnung der Käfigeinrichtung anzubieten.
+
+**3.6. Mindestanforderungen für die Haltung von Meerschweinchen (Caviinae):**
+
+(1) Die Tiere sind paarweise oder in Gruppen, jedoch nicht zusammen mit Kaninchen, zu halten.
+
+(2) Die Käfiggröße für 1 bis 2 Tiere muss mindestens 100 x 60 x 50 cm (Länge x Breite x Höhe), die Grundfläche für jedes weitere erwachsene Tier mindestens 2000 cm<sup>2</sup> betragen.
+
+(3) Den Tieren sind eine Schlafhöhle und erhöhte Liegeflächen anzubieten.
+
+\*(Anm.: Punkt 3.7. aufgehoben durch Z 2, BGBl. I Nr. 341/2018)*
+
+**3.8. Mindestanforderungen für die Haltung von Ratten (Rattus):**
+
+(1) Die Tiere sind paarweise oder in Gruppen zu halten.
+
+(2) Die Käfiggröße muss pro Paar mindestens 80 x 40 x 50 cm (Länge x Breite x Höhe) betragen. Für jedes weitere adulte Tier sind 20% der Bodenfläche hinzuzurechnen
+
+(3) Den Tieren sind eine dreidimensionale Anordnung der Käfigeinrichtung anzubieten.
+
+**3.9. Mindestanforderungen für die Haltung von Degus (Octodon degus):**
+
+(1) Die Tiere sind paarweise oder in Gruppen zu halten.
+
+(2) Die Käfig oder Terrariengröße muss pro Paar mindestens 100 x 50 x 100 cm (Länge x Breite x Höhe) betragen. Für jedes weitere adulte Tier sind 20% der Bodenfläche hinzuzurechnen
+
+(3) Den Tieren sind eine dreidimensionale Anordnung der Käfigstrukturen, eine Einstreuhöhe von mindestens 10 cm und ein Sandbad anzubieten.
+
+**4. Mindestanforderungen für die Haltung von Frettchen (Mustela putorius furo)**
+
+**4.1. Allgemeine Bestimmungen:**
+
+(1) Mit Ausnahme von permanenter Käfighaltung in Außengehegen muss Frettchen mindestens einmal täglich und über mehrere Stunden die Möglichkeit zur freien Bewegung außerhalb des Käfigs geboten werden.
+
+(2) Das Entfernen der Geruchsdrüsen ist, außer aus veterinärmedizinisch indizierten Gründen, verboten.
+
+**4.2. Käfighaltung in geschlossenen Räumen:**
+
+(1) Der Käfig muss stabil konstruiert sein und über einen festen Boden verfügen. Gitter- und Rostböden sind verboten.
+
+(2) Der Käfig muss für ein bis zwei Tiere über eine begeh- und nutzbare Grundfläche von mindestens 2 m<sup>2</sup> verfügen. Für jedes weitere Tier beträgt die zusätzliche Mindestgrundfläche 0,5 m<sup>2</sup>.
+
+(3) Die begeh- und nutzbare Grundfläche soll über zwei, höchstens drei Etagen verteilt sein.
+
+(4) Die Käfighöhe hat mindestens 60 cm zu betragen. Bei mehretagigen Käfigen hat die Käfighöhe je Etage mindestens 60 cm zu betragen.
+
+(5) Der Käfig ist mit Schlafkisten, Spiel-, Versteckmöglichkeiten auszustatten, die leicht reinigbar sind.
+
+(6) Der Käfig ist mit einer Grabemöglichkeit mit einer Mindestfläche von 0,3 m<sup>2</sup> auszustatten.
+
+**4.3. Permanente Käfighaltung in einem Außengehege:**
+
+(1) Die Grundfläche des Außengeheges hat für ein bis zwei Tiere mindestens 10 m<sup>2</sup> zu betragen. Für jedes weitere Tier beträgt die zusätzliche Mindestgrundfläche 2,5 m<sup>2</sup>.
+
+(2) Das Außengehege muss teilweise überdacht und beschattet sein.
+
+(3) Das Außengehege muss ausreichende Beschäftigungsmöglichkeiten, Klettermöglichkeiten, Versteckmöglichkeiten und Grabemöglichkeiten aufweisen.
+
+(4) Das Außengehege muss über eine ausreichende Anzahl gut isolierter und der Körpergröße der Tiere angepasster Schlafboxen verfügen.
+
+**5. Mindestanforderungen für die kurzfristige (maximal 28 Tage) Haltung von Ratten (Rattus) und Mäusen (Mus) als Futtertiere zum Zwecke der Verfütterung**
+
+**5.1. Allgemeine Bestimmungen:**
+
+Ratten und Mäuse dürfen als Futtertiere unter den unten angeführten Mindestanforderungen gehalten werden, wenn zusätzlich sichergestellt ist, dass
+
+1\. die Tiere nicht einzeln gehalten werden und
+
+2\. eine geeignete staubfreie Einstreu verwendet wird, welche sauber zu halten ist und in einer grabfähigen Höhe verfügbar ist und
+
+3\. den Tieren im ausreichenden Maße Beschäftigungsmöglichkeiten, Nistmaterial und Versteckmöglichkeiten angeboten werden.
+
+**5.2. Käfiggrößen:**
+
+Die in den nachstehenden Tabellen angeführten Größen der Käfige sind Mindestmaße. Die Anzahl der Tiere stellt die maximal zulässige Besatzdichte in diesen Käfigen dar.
+
+<table>
+<tr>
+<td></td>
+<td colspan="3"><b>Maus</b></td>
+</tr>
+<tr>
+<td></td>
+<td>Anzahl Tiere mit Gewicht &lt; 20 g</td>
+<td>Anzahl Tiere mit Gewicht 21 – 30 g</td>
+<td>Anzahl Tiere mit Gewicht &gt; 30 g</td>
+</tr>
+<tr>
+<td>Grundfläche 360 cm², Höhe 14 cm</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Grundfläche 810 cm², Höhe 15 cm</td>
+<td>12</td>
+<td>10</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Grundfläche 1815 cm², Höhe 20 cm</td>
+<td>28</td>
+<td>22</td>
+<td>16</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"><b>Ratte</b></td>
+</tr>
+<tr>
+<td></td>
+<td>Anzahl Tiere mit Gewicht &lt; 250 g</td>
+<td>Anzahl Tiere mit Gewicht 251 – 500 g</td>
+<td>Anzahl Tiere mit Gewicht &gt; 500 g</td>
+</tr>
+<tr>
+<td>Grundfläche 810 cm², Höhe 18 cm</td>
+<td>3</td>
+<td>2</td>
+<td>nicht zulässig</td>
+</tr>
+<tr>
+<td>Grundfläche 1815 cm², Höhe 20 cm</td>
+<td>9</td>
+<td>4</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+**6. Mindestanforderungen für die Haltung von Miniaturschweinen**
+
+siehe 1. Tierhaltungsverordnung
+
+**7. Mindestanforderungen für die Haltung von Wildtieren**
+
+**7.1. Kloakentiere (Monotremata): Schnabeligel (Tachyglossidae)**
+
+(1) Der Raumbedarf darf im Innenraum pro Paar 10 m<sup>2</sup> nicht unterschreiten.
+
+(2) Die Temperatur des Geheges muss mindestens 15°C betragen.
+
+(3) Der Bodengrund des Geheges muss mindestens eine Tiefe von 0,5 m aufweisen. Als Einstreu muss Sand, Torf, Laub oder ähnliches angeboten werden, darüber hinaus Wurzeln und Steine als Versteckmöglichkeit. Die Haltung auf Freianlagen ist während der Sommermonate möglich.
+
+(4) Die Tiere sind paarweise oder bei Verträglichkeit auch in Gruppen von mehreren Tieren zu halten.
+
+(5) Den Tieren sind Insekten und andere Wirbellose sowie Nahrung aus tierischem und pflanzlichem Eiweiß mit Vitamin- und Mineralstoffzusätzen anzubieten.
+
+**7.2. Beuteltiere (Marsupialia)**
+
+**7.2.1. Beutelratten (Didelphidae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Gehegegröße (Mindestmaße) (pro Paar)** | **Gehegehöhe (Mindestmaße)** |
+|---|---|---|
+| **kleinere Arten, wie zB Spitzmausbeutelratten (Monodelphis), Zwergbeutelratten (Marmosa)** | 1,5 m<sup>2</sup> | 2,5 m |
+| **größere Arten, wie zB Nordopossum (Didelphis marsupialis)** | 10 m<sup>2</sup> | 2,5 m |
+|  |  |  |
+
+(2) Beutelratten, die aus nördlicheren Gebieten stammen (Opossum), dürfen ganzjährig im Freien gehalten werden. Südliche Arten müssen bei einer Temperatur von mindestens 15°C unter erhöhter Luftfeuchtigkeit von mindestens 60% gehalten werden.
+
+(3) Beutelratten sind Kletteräste anzubieten. Schlafhöhlen oder ausgehöhlte Baumstämme als Unterschlupfmöglichkeit sind einzurichten.
+
+(4) Die Tiere sind paarweise oder in getrennten Einzelgehegen zu halten.
+
+(5) Den allesfressenden Tieren ist Nahrung mit einem überwiegenden Anteil an tierischem Material anzubieten.
+
+**7.2.2. Raubbeutler (Dasyuridae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Gehegegröße (Mindestmaße) (pro Paar)** | **Gehegehöhe (Mindestmaße)** |
+|---|---|---|
+| **kleinere Arten, wie zB Beutelmäuse (Phascogalinae)** | 1,5 m<sup>2</sup> | 2 m |
+| **Beutelmarder (Dasyurinae)** | 10 m<sup>2</sup> | 2 m |
+| **Beutelteufel (Sarcophilus harrisi)** | 40 m<sup>2</sup> | 2 m |
+|  |  |  |
+
+(2) Für die Haltung des Beutelteufels ist eine Außenanlage verpflichtend. Beutelteufel dürfen ganzjährig im Freigehege gehalten werden, sofern ein frostfreier und wettergeschützter Unterschlupfraum zur Verfügung steht.
+
+(3) Unbeschadet des Abs. 2 müssen die Innenanlagen eine Mindesttemperatur von 15°C aufweisen.
+
+(4) Für alle Raubbeutler sind Versteckmöglichkeiten einzurichten, für Beutelmarder und Beutelmäuse auch Kletteräste. Der Käfig muss Gehegeeinstreu enthalten.
+
+(5) Die Tiere sind paarweise oder in getrennten Einzelgehegen zu halten.
+
+(6) Den Tieren ist Nahrung mit einem überwiegenden Anteil an tierischem Material anzubieten.
+
+**7.2.3. Kletterbeutler (Phalangeridae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Gehegegröße (Mindestmaße) (pro Paar)** | **Gehegehöhe (Mindestmaße)** |
+|---|---|---|
+| **Kuskus (Phalanger) und Kusu (Trichosurus)** | 16 m<sup>2</sup> | 2,5 m |
+| **Gleitbeutler (Petauridae)** | 2 m<sup>2</sup> | 3,5 m |
+| **Koala (Phascolartos cinereus) (pro Tier)** | 25 m<sup>2</sup> | 4 m |
+|  |  |  |
+
+(2) Die Temperaturen in den Innenanlagen dürfen nicht unter 15°C, bei tropischen Arten nicht unter 18°C, bei einer rel. Luftfeuchtigkeit über 60%. liegen
+
+(3) Die Gehege sind mit Kletterästen in verschiedenen Längen und Höhen auszustatten.. Bei Gleitbeutlern muss das Gehege so proportioniert sein, dass ein Gleitflug ermöglicht wird und Schlafhöhlen müssen angeboten werden.
+
+(4) Kuskus und Kusus können einzeln oder paarweise gehalten werden. Beutelflughörnchen können zusätzlich in kleinen Familiengruppen gehalten werden. Männliche Koalas sind außerhalb der Paarungszeit separiert zu halten.
+
+(5) Die Nahrung muss bei Kletterbeutlern aus gemischter Kost, bei Koalas aus Eukalyptus bestehen.
+
+**7.2.4. Wombats (Vombatidae)**
+
+(1) Die Größe der Außenanlage muss eine Mindestfläche von 100 m<sup>2</sup> pro Tier, die Größe der Innenanlage eine Mindestfläche von 20 m<sup>2</sup> pro Tier aufweisen. Eine Freianlage muss angeboten werden. Der ganzjährige Zugang zum Außengehege muss zumindest tagsüber gewährleistet sein.
+
+(2) Die Temperatur im Innengehege muss mindestens 15°C betragen.
+
+(3) Im Gehege ist ein Wühlsubstrat mit Sand und Erde einzurichten.
+
+(4) Wombats müssen im Gehege die Möglichkeit haben sich räumlich abzusondern.
+
+(5) Neben Heu, Obst, Gemüse und Brot sind den Tieren laufend Zweige und Äste anzubieten.
+
+**7.2.5. Kängurus (Macropodidae)**
+
+(1) Mit Ausnahme der Ratten- und Bennettkängurus, sind allen Känguruarten Außen- und Innengehege bereit zu stellen. Der ganzjährige Zugang ist zumindest tagsüber zu gewährleisten. Für das Rattenkänguru ist nur eine Innenanlage, für das Bennettkänguru nur eine Außenanlage notwendig.
+
+(2) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Innengehege (Mindestmaße) (bis höchstens 5 Tiere, jedes weitere Tier zusätzlich 10% der Fläche)** | **Außengehege (Mindestmaße) (bis höchstens 5 Tiere, jedes weitere Tier zusätzlich 10% der Fläche)** |
+|---|---|---|
+| **Rattenkängurus (Potoroinae)** | 16 m<sup>2</sup> | – |
+| **Bennettkängurus (Wallabia rufogrisea)** | – | 300 m<sup>2</sup> |
+| **große Känguruarten, Riesenkängurus (Macropus) wie Bergkängurus (Macopus robustus)** | 25 m<sup>2</sup> | 500 m<sup>2</sup> |
+| **mittelgroße Arten, wie Felsenkänguru (Petrogasle), Arten der Gattung Wallabia** | 20 m<sup>2</sup> | 300 m<sup>2</sup> |
+| **kleinen Kängurus wie Filander (Thylogae)** | 4 m<sup>2</sup> | 200 m<sup>2</sup> |
+| **Baumkängurus (Dendrolagus): pro Paar Raumhöhe mindestens 3 m** | 20 m<sup>2</sup> | 20 m<sup>2</sup> |
+|  |  |  |
+
+(3) Bennetkängurus dürfen ganzjährig im Freien gehalten werden, wenn geeignete Unterstände gegen Witterungseinflüsse, wie Regen, Schnee, Wind, Sonneneinstrahlung und Hitze, für alle Tiere gleichzeitig in einem Gehege zur Verfügung stehen. Bei den anderen Arten muss die Temperatur in den Innenanlagen zum Überwintern mindestens 15°C betragen.
+
+(4) Die Außengehege müssen aus Naturboden mit zusätzlichen Sandflächen zum Abliegen bestehen. Unterstellflächen müssen angeboten werden. Innen- und Außengehege müssen bei Baumkängurus mit Kletterästen reichlich ausgestattet sein. Bodenerhebungen und kleine Felsen sind für Felsenkängurus einzurichten.
+
+(5) Känguruarten sind gruppenweise zu halten. Baumkängurus dürfen nur in Gruppen oder paarweise gehalten werden.
+
+(6) Den Tieren sind Obst, Gemüse, Heu, Rauhfutter, Kraftfutter, Blätter und Äste anzubieten.
+
+**7.3. Insektenfresser (Insectivora)**
+
+**7.3.1. Igel (Erinaceidae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Gehegegröße (Mindestmaße) (pro Tier, jedes weitere Tier zusätzlich 10% der Fläche)** |
+|---|---|
+| **Weißbauchigel (Atelerix albiventris)** | 2 m<sup>2</sup> |
+| **(alle anderen Arten von Igel inklusive der europäischen Igel, Erinaceus europaeus)** | 6 m<sup>2</sup> |
+|  |  |
+
+(2) Europäische Igel sind Winterschläfer und sind in entsprechenden Schutzhöhlen und Nestern im Freien zu überwintern. Bei den wärmebedürftigen Arten muss die Gehegetemperatur mindestens 15°C betragen.
+
+(3) Der Käfig ist mit Einstreu oder Naturboden zu versehen. Die Möglichkeit zum Unterschlupf ist anzubieten.
+
+(4) Igel dürfen bei ausreichend großen und strukturierten Gehegen zu mehreren in einer Anlage gehalten werden.
+
+(5) Neben tierischem Eiweiß ist den Tieren pflanzliche Kost anzubieten.
+
+**7.3.2. Tanreks (Tanrecoidea)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Gehegegröße (Mindestmaße) (jedes weitere Tier zusätzlich 10% der Fläche)** |
+|---|---|
+| **Igeltanreks (Setifer, Echinops) (pro Paar)** | 2 m<sup>2</sup> |
+| **Große Tanreks (Tenrec ecaudatus) (pro Paar)** | 6 m<sup>2</sup> |
+|  |  |
+
+(2) Die Temperatur der Innengehege muss mindestens 18°C betragen.
+
+(3) Die Käfige sind mit Klettermöglichkeiten, Baumwurzeln und tiefem Bodensubstrat als Eingrabemöglichkeit auszustatten.
+
+(4) Die Haltung muss paarweise erfolgen. Beim Großen Tanrek sind Haltungen zu mehreren Tieren möglich.
+
+(5) Neben tierischem Eiweiß wie Fleisch und Insekten muss den Tieren Obst angeboten werden.
+
+**7.4. Fledertiere (Chiroptera)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Gehegegröße (Mindestmaße) (Gruppe bis zu 20 Tieren, jedes weitere Tier zusätzlich 10% der Fläche)** | **Gehegehöhe (Mindestmaße)** |
+|---|---|---|
+| **Große Flughunde, wie der Gattung Pteropus** | 100 m<sup>2</sup> | 5 m |
+| **kleineren Flughunden, wie Nilflughunde (Rousettus aegyptiacus)** | 30 m<sup>2</sup> | 3 m |
+| **Kleine tropische Fledermäuse, wie der Gattung Glossophaga** | 20 m<sup>2</sup> | 2,5 m |
+|  |  |  |
+
+(2) Die Temperaturen dürfen nicht unter 15°C liegen. Bei allen tropischen Fledermäusen darf die Temperatur von 21°C nicht unterschritten werden. Eine erhöhte Luftfeuchte von mind. 70% ist erforderlich.
+
+(3) Im Gehege müssen genügend Kletteräste und Aufhängemöglichkeiten zur Verfügung stehen. Die Käfigeinrichtung muss freie Flugbahnen ermöglichen.
+
+(4) Die Tiere sind in Gruppen zu halten. Bei haremsbildenden Arten ist darauf zu achten, dass mehr Weibchen als Männchen in der Kolonie sind.
+
+(5) Flughunde und Fruchtvampire sind mit Obst zu ernähren. Vampiren müssen Rinderblut und Insekten angeboten werden. Fledermäusen müssen Insekten angeboten werden.
+
+**7.5. Nagetiere (Rodentia)**
+
+**7.5.1. Hörnchen (Sciuroidae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Gehegegröße (Mindestmaße) (jedes weitere Tier zusätzlich 10% der Fläche)** | **Gehegehöhe (Mindestmaße)** |
+|---|---|---|
+| **Kleine Hörnchen, wie zB Streifenhörnchen (Tamias), pro Paar** | 2 m<sup>2</sup> | 2 m |
+| **Größere Arten, wie zB Eichhörnchen (Sciurus), Gleithörnchen (Pteromyinae), Borstenhörnchen (Xerini), pro Paar** | 8 m<sup>2</sup> | 2 m |
+| **großen Arten, wie Riesenhörnchen (Ratufini), pro Paar** | 16 m<sup>2</sup> | 2,5 m |
+| **Präriehunde (Cynomys), Ziesel (Spermophilus) bis zu 5 Tiere** | 40 m<sup>2</sup> | – |
+| **Murmeltiere (Marmota), bis zu 5 Tiere** | 80 m<sup>2</sup> | – |
+|  |  |  |
+
+(2) Winterharte Hörnchenarten wie Eichhörnchen, Flughörnchen und Murmeltier sowie winterschlafende Tiere wie Präriehunde und Murmeltiere dürfen ganzjährig im Außengehege gehalten werden, wenn frostfreie Schlafstellen und Nester vorhanden sind. Tropische Hörnchen wie Prevost-Hörnchen und Riesenhörnchen sind in der Winterzeit in Innenräumen zu halten. Bei tropischen Arten darf die Temperatur von 18°C nie unterschritten werden.
+
+(3) Für Baumhörnchen sind die nagesicheren Gehege mit reichlich Ast- und Klettermaterial aus Holz einzurichten. Schlafhöhlen und –nester sind anzubieten. Murmeltieren, Präriehunden und anderen Erdhörnchen sind Anlagen mit Naturboden der zum Graben von Höhlen geeignet ist einzurichten. Die Möglichkeit zur Überwinterung in einem frostfreien Überwinterungsquartier in Form eines Natur- oder Kunstbaues, muss gegeben sein.
+
+(4) Erdhörnchen sind in Familien oder Kolonien, Baumhörnchen solitär oder in Paaren zu halten.
+
+(5) Zur Abnutzung der Zähne sind den Tieren regelmäßig Äste und anderen Hartmaterialien anzubieten. Ein zusätzliches Angebot von tierischem Eiweiß ist notwendig.
+
+**7.5.2. Springhasen (Pedetoidae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Tiere** | **Gehegegröße (Mindestmaße) (jedes weitere Tier zusätzlich 10% der Fläche)** |
+|---|---|
+| **Bis zu höchstens 5 adulte Tiere** | 20 m<sup>2</sup> |
+|  |  |
+
+(2) Die Innenanlagen müssen eine Temperatur von mindestens 18°C aufweisen.
+
+(3) Der Gehegeboden muss mit Einstreu wie Sandgemischen versehen sein. Für Schlafboxen und Höhlen ist zu sorgen. Heu ist einzustreuen.
+
+(4) Die Tiere sind in Gruppen zu halten. Eine Vergesellschaftung in Nachttierhäusern, zum Beispiel mit Erdferkeln, ist möglich.
+
+**7.5.3. Biber (Castoridae)**
+
+(1) Der Raumbedarf pro Paar mit Jungen hat aufzuweisen:
+
+1\. in der Außenanlage eine Mindestfläche von 100 m<sup>2</sup>, davon mindestens 50 m<sup>2</sup> Wasserfläche,
+
+2\. in den Innenboxen eine Mindestfläche von 1 m<sup>2</sup>.
+
+(2) Biber sind ganzjährig im Freien zu halten.
+
+(3) In der Biberanlage ist ein Wasserbecken mit einer Mindesttiefe von 1 m an der tiefsten Stelle einzurichten. Der Einschlupf zur Schlafbox ist unter Wasser zu wählen. Die Anlage ist mit Holzmaterialien zum Nagen und zur Beschäftigung reichlich zu bestücken.
+
+(4) Biber sind paarweise oder als Familiengruppen zu halten.
+
+(5) Den Tieren sind Äste, Zweige und ergänzend Obst, Gemüse und Brot anzubieten.
+
+**7.5.4. Mäuseartige (Muroidea)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Gehegegröße (Mindestmaße) (Gruppenhaltung)** |
+|---|---|
+| **kleinere Arten, wie Zwerghamster (Cricetini), Hausmäuse (Mus), Streifenmäuse (Sicista), Stachelmäuse (Acomys), Baumwollratten (Sigmodon)** | 1 m<sup>2</sup> |
+| **größere Arten, wie Riesenhamsterratten (Cricetomys)** | 4 m<sup>2</sup> |
+|  |  |
+
+(2) Arten aus kälteren Klimaten wie Zwerghamster und Wühlmäuse dürfen in der Winterzeit bei abgesenkten Temperaturen gehalten werden. Bei wärmeliebenden Arten darf die Temperatur 15°C nicht unterschreiten.
+
+(3) Alle Mäusekäfige müssen Einstreu erhalten sowie Unterschlupfkästen und Versteckmöglichkeiten aufweisen. Zusätzlich sind Heu als Nistmaterial und ausreichend Holz zum Nagen anzubieten. Kletterfreudigen Arten, wie etwa Bilchen, sind zusätzlich Äste in den Käfig zu stellen.
+
+(4) Je nach Art sind Mäuse paarweise oder in Gruppen zu halten.
+
+(5) Mäuseartigen sind zusätzliche Gaben von tierischem Eiweiß anzubieten.
+
+**7.5.5. Stachelschweine (Hystricoidea)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Gehegegröße (Mindestmaße)** |
+|---|---|
+| **Stachelschweine (Hystricidae) (pro Paar)** | 40 m<sup>2</sup> |
+| **für kleinere Arten, wie Quastenstachler (Atherurus) (pro Paar)** | 15 m<sup>2</sup> |
+|  |  |
+
+(2) Stachelschweine der Gattung Hystrix dürfen mit Unterstand ganzjährig in der Freianlage gehalten werden. Tropische Arten, wie Quastenstachler und Zwergstachelschwein, sind zumindest zur Winterzeit in Innenräumen nicht unter 18°C zu halten.
+
+(3) Der Bodengrund von Stachelschweinanlagen muss ihrem Grabbedürfnis Rechnung tragen und ist mit einer Sand- oder Erdschicht zu versehen. Ausgehöhlte Baumstämme oder Schlafhöhlen sind anzubieten.
+
+(4) Ausgehend von der paarweisen Haltung (Quastenstachler) dürfen große Stachelschweinen auch in Familiengruppen gemeinsam gehalten werden.
+
+(5) Stachelschweinen sind frische Pflanzenkost und Äste sowie Knochen zum Nagen mit Fleischresten anzubieten.
+
+**7.5.6. Baum- oder Ferkelratten (Capromyidae)**
+
+(1) Innen- und Außengehege haben pro Tierpaar mindestens 20 m<sup>2</sup> aufzuweisen.
+
+(2) Die Innenanlage muss eine Mindesttemperatur von 15°C haben.
+
+(3) Ausreichende Klettermöglichkeiten und Schlafhöhlen müssen vorhanden sein.
+
+(4) Die Haltung kann paarweise oder in Gruppen erfolgen.
+
+(5) Den Tieren sind überwiegend Pflanzenkost und regelmäßig frische Äste anzubieten.
+
+**7.5.7. Nutrias (Myocastoridae)**
+
+(1) Gehege mit bis zu 20 Tieren haben folgende Maße aufzuweisen:
+
+1\. Mindestfläche Außenanlage: 100 m<sup>2</sup>, davon Wasserfläche: mindestens 20 m<sup>2</sup>
+
+2\. Mindestfläche Innenboxen: 3 m<sup>2</sup>
+
+Für jedes weitere Tier sind zusätzlich 10% der Mindestfläche vorzusehen.
+
+(2) Nutrias oder Sumpfbiber sind ganzjährig im Freien zu halten.
+
+(3) In der Nutriaanlage ist ein Wasserbecken bei einer Tiefe von mindestens 0,5 m an der tiefsten Stelle und einem Flachwasserbereich einzurichten. Das Gehege ist mit Holzmaterialien zum Nagen und zur Beschäftigung reichlich zu bestücken. Nistboxen und Höhlen sind anzubieten.
+
+(4) Sumpfbiber sind paarweise oder als Familiengruppen zu halten.
+
+(5) Den Tieren sind Äste und Zweige sowie zusätzlich Obst, Gemüse und Brot anzubieten.
+
+**7.5.8. Chinchillaartige (Chinchilloidea) als Wildarten**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Gehegegröße (Mindestmaße), (jedes weitere Tier zusätzlich 10% der Fläche)** |
+|---|---|
+| **Chinchillas (Chinchilla) (pro Paar)** | 8 m<sup>2</sup> |
+| **Viscacha (Lagostomus) (pro Paar)** | 20 m<sup>2</sup> |
+|  |  |
+
+(2) Den Tieren sind sowohl ein Innen- als auch ein Außengehege bereit zu stellen. Die Raumhöhe muss mindestens 2 m betragen.
+
+(3) Die Temperatur der Innenräumen muss mindestens 15°C betragen.
+
+(4) Im Gehege sind ausreichende Kletter- und Versteckmöglichkeiten sowie Etagen einzurichten.
+
+(5) Die Tiere sind paarweise oder in Familiengruppen zu halten.
+
+(6) Zur Zahnabnutzung ist für regelmäßige Gaben von Ästen und anderen Hartmaterialien zu sorgen.
+
+**7.5.9. Meerschweinchen (Caviidae) als Wildarten**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Gehegegröße (Mindestmaße), (jedes weitere Tier zusätzlich 10% der Fläche)** |
+|---|---|
+| **Arten wie Wieselmeerschweinchen (Galea musteloides), Aperea (Caviinae aperea) und Bergmeerschweinchen (Keredon), bis 10 Tiere** | 10 m<sup>2</sup> |
+| **Maras (Dolichotinae), pro Paar** | 60 m<sup>2</sup> |
+|  |  |
+
+(2) Pampashasen (Maras) dürfen ganzjährig im Freien gehalten werden, wenn ihnen entsprechende Unterschlupfmöglichkeiten und Wetterschutz geboten werden. Wilde Meerschweinchen sind an den frostigen Wintertagen in frostgeschützten Innenanlagen unterzubringen.
+
+(3) Meerschweinchenkäfige müssen Einstreu und reichlich Heu zum einwühlen aufweisen. Anlagen für Maras müssen als Untergrund Sand oder bewachsenen Boden erhalten. Schutz- und Wurfkisten sind einzurichten. Für Bergmeerschweinchen sind Klettervorrichtungen aus Felsen oder Ästen vorzusehen. In der kalten Jahreszeit ist Bodenfeuchte zu vermeiden.
+
+(4) Echte Meerschweinchen wie Maras sind in der Gruppe zu halten. Die Gemeinschaftshaltung von Pampashasen mit anderen Säugern und Vögeln auf sogenannten Südamerika-Anlagen ist zulässig.
+
+(5) Das Futter muss reich an tierischem Eiweiß sein. Zur Zahnabnutzung ist für regelmäßige Gaben von Ästen und anderen Hartmaterialien zu sorgen.
+
+**7.5.10. Wasserschweine (Hydrochoeridae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Art** | **Außengehegegröße (Mindestmaße), (jedes weitere Tier zusätzlich 10% der Fläche)** | **Innengehege (Mindestmaße), (jedes weitere Tier zusätzlich 10% der Fläche)** |
+|---|---|---|
+| **Wasserschweine (Hydrochoerus hydrochaeris) (pro Paar)** | 100 m<sup>2</sup> | 10 m<sup>2</sup> |
+|  |  |  |
+
+(2) Ein ganzjährig Zugang zum Außengehege muss gewährleistet sein.
+
+(3) Während der warmen Jahreszeit dürfen Wasserschweine ganztägig im Freien gehalten werden.
+
+Bei Kälte müssen sie wahlweise ein Innengehege mit einer Mindesttemperatur von 12°C aufsuchen können.
+
+(4) Der Gehegeuntergrund muss aus Naturboden bestehen. Ein mindestens 10 m<sup>2</sup> großes Badebecken, mit einer Mindesttiefe von 0,5 m ist einzurichten. Auch in der Innenanlage muss eine geeignete Badegelegenheit vorhanden sein.
+
+(5) Die Tiere sind zumindest paarweise oder in Gruppen zu halten.
+
+(6) Das bereitzustellende Futter hat vor allem auch Äste zu enthalten.
+
+**7.5.11. Agutis (Dasyproctidae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| **Arten** | **Gehegegröße (Mindestmaße), (jedes weitere Tier zusätzlich 10% der Fläche)** |
+|---|---|
+| **Agutis (Dasyproctidae) (Gruppe bis höchstens 5 Tiere)** | 20 m<sup>2</sup> |
+| **Pakas (Cuniculinae) (pro Paar)** | 20 m<sup>2</sup> |
+|  |  |
+
+(2) Pakas und Agutis müssen im Winterhalbjahr in einem geheizten Haus untergebracht werden, dessen Temperatur 15°C nicht unterschreiten darf.
+
+(3) Als Bodengrund für Agutigehege sind Sand oder Torf-Laub-Gemische zu wählen. Auf Außenanlagen ist bewachsener Boden zu bevorzugen. Unterschlupfmöglichkeiten wie hohle Baumstämme müssen angeboten werden.
+
+(4) Agutis sind paarweise zu halten. Bei entsprechend großer Anlage dürfen sie auch in Gruppen gehalten werden.
+
+(5) Das Futter muss reich an tierischem Eiweiß sein. Zur Zahnabnutzung ist für regelmäßige Gaben von Ästen und anderen Hartmaterialien zu sorgen.
+
+**7.5.12. Baumstachler (Erethizontoidea)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | Gehegegröße (Mindestmaße), (jedes weitere Tier zusätzlich 10% der Fläche) |
+|---|---|
+| pro Paar | 30 m<sup>2</sup> |
+|  |  |
+
+(2) Tropische und subtropische Arten wie Greifstachler müssen im Winter in geheizten Häusern bei mindestens 18°C gehalten werden.
+
+(3) Im Gehege sind ausgiebige Klettermöglichkeiten, ausgehöhlte Baumstämme und Schlafhöhlen anzubieten.
+
+(4) Die Tiere sind paarweise zu halten.
+
+(5) Den Tieren sind überwiegend Pflanzenkost und frische Äste anzubieten.
+
+**7.6. Hasenartige (Lagomorpha)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | Gehegegröße (Mindestmaße), (jedes weitere Tier zusätzlich 10% der Fläche) |
+|---|---|
+| Schneehase( Lepus timidus t.), Pfeifhasen (Ochotona) (pro Paar) | 20 m<sup>2</sup> |
+| Wildkaninchen (Oryctolagus cuniculus) (Gruppe bis 5 Tiere) | 20 m<sup>2</sup> |
+|  |  |
+
+(2) Schneehasen und Kaninchen dürfen ganzjährig im Freien gehalten werden wenn trockene Unterstände angeboten werden.
+
+(3) Die Gehegeeinrichtung muss als Deckungsmöglichkeit Büsche, kleine Bäume und Boxen enthalten. Für Kaninchenarten sind zusätzliche Baumstümpfe und andere Versteckmöglichkeiten anzubieten, der Bodenuntergrund muss in seiner Beschaffenheit dem Grabbedürfnis Rechnung tragen.
+
+(4) Der nördliche Schneehase ist paarweise oder in Gruppen zu halten. Kaninchenarten dürfen in kleinen Gruppen gehalten werden.
+
+(5) Den Tieren müssen hauptsächlich frisches Grünfutter und Heu sowie frische Äste und Zweige zur Abnützung der Zähne angeboten werden.
+
+**7.7. Herrentiere (Primates)**
+
+**7.7.1. Nachtaktive Affen**
+
+(1) Als Nachtaktive Affen werden folgende Arten bezeichnet:
+
+1\. aus der Unterordnung Halbaffen (Prosimiae): Katzenmakis, Fingertiere, Arten aus der Familie der Loris (Lorisidae), der Galagos (Galagonidae) und der Koboldmakis (Tarsiidae);
+
+2\. aus der Teilordnung der Neuweltaffen (Plytyrrhina):
+
+Nachtaffen.
+
+(2) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | Gehegegröße (Mindestmaße) | Gehegehöhe\* (Mindestmaße) |
+|---|---|---|
+| Mausmakis (Microcebus murinus), Paar oder Familiengruppe | 3 m<sup>2</sup> | 2 m |
+| Loris (Lorisidae), Galagos (Galagidae), Koboldmakis (Tasiidae), Fettschwanzmakis<br>(Cheirogaleus medius), Paar oder Familiengruppe | 4 m<sup>2</sup> | 2 m |
+| Riesengalagos (Otolemur crassicaudatus) und Nachtaffen (Aotes trivirgatus), Paar oder Familiengruppe | 20 m<sup>2</sup> | 3 m |
+| Fingertiere (Daubentoniidae), Paar mit Jungtier | 20 m<sup>2</sup> | 3 m |
+|  |  |  |
+
+\* bei oben geschlossenen Anlagen
+
+(3) Die Temperaturen der Innenanlagen muss für nachtaktiven Primaten aus tropischen Ländern mindestens 20°C betragen. Die Luftfeuchtigkeit muss 50 bis 75% betragen. Es ist für eine Tageslichtlänge von 12 Stunden mit einem dem natürlichen Sonnenlicht entsprechenden Lichtspektrum zu sorgen.
+
+(4) Als Gehegeeinrichtung sind vertikale und horizontale Klettergelegenheiten, vorzugsweise aus Naturmaterialien, mit zahlreichen Versteckmöglichkeiten vorzusehen. Mausmakis, Fettschwanzmakis, Fingertieren, Loris, Galagos und Koboldmakis sind Schlafboxen in den oberen Bereichen der Anlage einzurichten. Für Nachtaffen muss die Schlafbox so groß bemessen sein, dass sie auch die gesamte Gruppe beherbergen kann. Im Gehege müssen Laubzweige, Rindenmulch, Torf, trockenes Laub als Bodenbedeckung und Nistmaterial vorhanden sein.
+
+(5) Die Haltung muss paarweise oder in kleinen Familiengruppen erfolgen. Bei den Mausmakis dürfen zwei bis drei verwandte Weibchen mit zwei Männchen zusammen gehalten werden.
+
+(6) Die Fütterung muss mehrmals, mindestens jedoch zweimal täglich erfolgen. Den Tieren sind vielseitige Obst- und Gemüse anzubieten, wobei die Fütterung tierisches Eiweiß zum Beispiel Heuschrecken, Grillen und neugeborene Mäuse, beinhalten muss.
+
+**7.7.2. Spitzhörnchen (Scandentia) und Lemuren (Lemuriformes)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | Innenanlage (Mindestmaße), (Paar oder Familiengruppe) | Außenanlage (Mindestmaße), (Paar oder Familiengruppe) | Gehegehöhe\*) (Mindestmaße), |
+|---|---|---|---|
+| Spitzhörnchen (Scandentia) | 5 m<sup>2</sup> | – | 2 m |
+| Arten aus der Familie der Lemurenartigen (Lemuridae) | 15 m<sup>2</sup> | 40 m<sup>2</sup> | 2,5 m |
+| Arten aus der Familie der Indriartigen (Indriidae) | 30 m<sup>2</sup> | 60 m<sup>2</sup> | 4 m |
+|  |  |  |  |
+
+\*) bei oben geschlossenen Anlagen
+
+(2) Für Lemurenartige und Indriartige müssen sowohl Innen- und Außenanlagen vorhanden sein. Der ganzjährige Zugang zur Außenanlage mit mindestens 2 Aus- oder Eingängen, ist zumindest tagsüber zu gewähren.
+
+(3) In den der Innenanlagen muss die Raumtemperatur mindestens 15°C betragen. Zusätzliche punktuelle, höher temperierte Wärmeplätze mit Strahlungswärme müssen angeboten werden. Es ist für eine Tageslichtlänge von 12 Stunden mit einem, dem natürlichen Sonnenlicht entsprechenden, Lichtspektrum zu sorgen.
+
+(4) Die Gehegeeinrichtung muss mit horizontal und vertikal verlaufenden Klettermöglichkeiten, vorzugsweise aus Naturholzästen, ausgestattet sein. Es müssen breite Sitzplätze in der Horizontalen, auf denen die Lemuren auch in größeren Gruppen sitzen können, vorhanden sein. Außenanlagen sind mit natürlichem Bewuchs auszustatten. Eine Schlaf- und Nestbox in den oberen Käfigbereichen sind einzurichten. Für Spitzhörnchen sind mindestens zwei Schlafkisten pro Tier vorzusehen. Weiblichen Varis sind je zwei Nestboxen einzurichten.
+
+(5) Bei Außenanlagen auf Inseln müssen bei Lemuren als Randzone Flachwasserstreifen oder geeignete Klettermöglichkeiten vorhanden sein um gegebenenfalls aus dem Wasser zu kommen.
+
+Beschäftigungsmaterialien und -futter sind anzubieten.
+
+(6) Die Tiere sind paarweise oder in Familienverbänden zu halten. Lemuren dürfen in großen bepflanzten Freianlagen auch in Familiengruppen mit mehreren Arten gehalten werden.
+
+(7) Die Fütterung soll mehrmals jedoch mindestens dreimal täglich erfolgen. Ein vielseitiges Angebot an Obst und Gemüse im jahreszeitlichen Wechsel, belaubte Äste sowie tierisches Eiweiß sind anzubieten.
+
+**7.7.3. Springtamarine (Callimiconidae) und Krallenaffen (Callithricidae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | Gehegegröße (Mindestmaße), (Paar oder Familiengruppe) | Gehegehöhe\*) (Mindestmaße), |
+|---|---|---|
+| Zwergseidenäffchen(Callithrix pygmaea) | 4 m<sup>2</sup> | 2 m |
+| alle andere Arten | 10 m<sup>2</sup> | 2,5 m |
+|  |  |  |
+
+\*) bei oben geschlossenen Anlagen
+
+(2) Die Temperaturen im Innengehege müssen mindestens 15°C betragen. Bei Zwergseidenäffchen sind 20°C erforderlich. Zusätzlich müssen punktuell höher temperierte Wärmeplätze mit Strahlungswärme angeboten werden. Für eine Tageslichtlänge von zwölf Stunden, mit einem dem natürlichen Sonnenlicht entsprechenden Lichtspektrum, muss gesorgt werden.
+
+(3) Als Gehegeeinrichtung sind viele vertikale und horizontale Äste als Kletter-, Lauf- und Springeinrichtungen sowie ausreichende Versteck- und Rückzugsmöglichkeiten, besonders in den oberen Bereichen der Anlage, bereitzustellen. Sitzplattformen, auf denen die ganze Familie zusammen sitzen kann sowie Schlaf- und Nestboxen für jede Familiengruppe sind einzurichten. Visuelle Kontakte zwischen benachbarten Krallenaffengruppen sind durch undurchsichtige Trennwände zu vermeiden. Außenanlagen sind mit einem Wetterschutz, natürlichem Boden und Bewuchs auszustatten.
+
+(4) Die Haltung hat paarweise oder in Familiengruppen zu erfolgen.
+
+(5) Den Tieren ist ein vielseitiges Angebot an Obst und Gemüse anzubieten. Das Futter muss reich an tierischem Eiweiß, Vitaminen und Mineralien sein. Während der Wintermonate sind den Tieren bei ausschließlicher Innenhaltung Zusätze von Vitamin D3 zu geben. Für eine Familie sind mehrere Futternäpfe im Gehege zu verteilen. Als Beschäftigungsfutter sind Obst, Holzstückchen mit Honig, lebende Insekten, Gummi Arabicum oder Ähnliches anzubieten.
+
+**7.7.4. Kapuzinerartige (Cebidae): Springaffen (Callicebus), Sakis (Pithecia), Uakaris (Cacajao), Totenkopfäffchen (Saimiri sciureus), Kapuziner (Cebus), Brüllaffen (Alouattinae, Alouatta), Wollaffen (Lagothrix), Klammeraffen (Ateles)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | Gehegegröße (Mindestmaße), Paar oder Familiengruppe bis höchstens 5 Tiere, jedes weitere adulte Tier zusätzlich 10% der Fläche) | Gehegehöhe\*) (Mindestmaße), |
+|---|---|---|
+| Totenkopfäffchen (Saimiri sciureus), Springaffen (Callicebus), kleine Saki-Arten | 16 m<sup>2</sup> | 2,5 m |
+| Saki-Arten (Pithecia), Uakaris (Cacajao), Kapuziner (Cebus), Brüllaffen (Alouattinae, Alouatta) | 20 m<sup>2</sup> | 3 m |
+| Wollaffen (Lagothrix), Klammeraffen (Ateles) | 30 m<sup>2</sup> | 3 m |
+|  |  |  |
+
+\*) bei oben geschlossenen Anlagen
+
+(2) Es sind sowohl Innen- und Außenanlagen erforderlich, jeweils mit den gleichen Mindestanforderungen an die Gehegefläche. Der ganzjährige Zugang zur Außenanlage mit mindestens 2 Aus- oder Eingängen, ist zumindest tagsüber zu gewähren.
+
+(3) Die Temperaturen im Innengehegen müssen mindestens 20°C betragen. Zusätzlich müssen punktuelle, höher temperierte Wärmeplätze mit Strahlungswärme angeboten werden. Es ist für eine Tageslichtlänge von 12 Stunden, mit einem, dem natürlichen Sonnenlicht entsprechenden Lichtspektrum, zu sorgen.
+
+(4) Als Gehegeeinrichtung sind viele Kletter- und Schwingeinrichtungen in Form von Seilen, Netzen, Hängematten und Sitzbrettern in verschiedenen Höhen einzurichten. Die Raumgestaltung ist mit Sichtblenden, Nischen und anderen Rückzugsmöglichkeiten, vor allem im oberen Käfigbereich, auszustatten. Brüllaffen und Klammeraffen sind viele Strukturen, an denen sie sich mit ihrem Schwanz halten können anzubringen. Bei geschlossenen Gehegen sind Klettereinrichtungen an der Decke vorzusehen. Klammeraffen und Totenkopfäffchen sind breite Schlafplätze, so dass mehrere Tiere zusammen sitzen können, anzubieten.
+
+(5) Inseln für Klammeraffen müssen zum Wasser hin sanft abfallen. Die Wassertiefe muss mindestens 1 m im tiefsten Bereich betragen. Die Breite des Wassergrabens muss mindestens 4 m betragen.
+
+(6) Totenkopfäffchen, Kapuziner, Wollaffen und Klammeraffen sind in großen Verbänden, Weißkopfsakis und Springaffen in Familiengruppen zu halten.
+
+(7) Sakis, Brüllaffen, Klammeraffen und Wollaffen sind ein vielseitiges Obst- und Gemüseangebot sowie Getreide, Nüsse und zusätzlich tierisches Eiweiß anzubieten. Es sind mehrere Futterstellen einzurichten, damit auch rangniedere Tiere Futter erlangen können.
+
+**7.7.5. Meerkatzen (Cercopithecus spp.)**
+
+(1) Die Gehege haben bis zu einer Zahl von höchstens 5 Tieren folgende Maße aufzuweisen:
+
+1\. Gehegefläche (Mindestfläche): 30 m<sup>2</sup>
+
+2\. Gehegehöhe (bei oben geschlossenen Anlagen): 3 m
+
+Für jedes weitere Tier sind zusätzlich 10% der Fläche vorzusehen.
+
+(2) Es sind Innen- und Außenanlagen erforderlich jeweils mit den gleichen Mindestanforderungen an die Gehegefläche. Der ganzjährige Zugang zur Außenanlage mit mindestens 2 Aus- oder Eingängen, ist zumindest tagsüber zu gewährleisten.
+
+(3) Die Temperatur darf im Innengehege 16°C nicht unterschreiten. Bei Grünen Meerkatzen, Mona Meerkatzen und bergbewohnenden Arten ist eine Mindesttemperatur von 12°C notwendig. Zusätzliche, punktuelle, höher temperierte Wärmeplätze mit Strahlungswärme und eine Tageslichtlänge von 12 Stunden, mit einem, dem natürlichen Tageslicht entsprechenden Lichtspektrum, müssen angeboten werden.
+
+(4) Als Gehegeeinrichtung müssen ausreichende Klettermöglichkeiten, Sichtblenden, Nischen und andere Rückzugsmöglichkeiten sowie Spielmöglichkeiten und Beschäftigungsfutter mit Laubzweigen und Maisstrünken. Bewegliche Strukturen wie Seile und Ketten sollen als Beschäftigungsmaterial angeboten werden.
+
+(5) Die Tiere sind mindestens paarweise, sonst in Familien- oder Haremsgruppen zu halten.
+
+(6) Mehrmals, jedoch mindestens zweimal täglich, muss Futter in Form von vielseitiger Obst- und Gemüsenahrung, Getreide und ausreichend tierischem Eiweiß angeboten werden. Laubzweige und Maisstrünke sind als Beschäftigungsfutter erforderlich.
+
+**7.7.6. Husarenaffen (Erythrocebus spp.) und Mangaben (Cercocebus spp.)**
+
+(1) Die Gehege haben bis zu einer Zahl von höchstens 5 Tieren folgende Maße aufzuweisen:
+
+1\. Außenanlage (Mindestfläche): 100 m<sup>2</sup>
+
+2\. Innenanlage (Mindestfläche): 30 m<sup>2</sup>
+
+3\. Gehegehöhe (bei oben geschlossenen Anlagen): 2,5 m
+
+Für jedes weitere Tier sind zusätzlich 10% der Fläche vorzusehen.
+
+(2) Es sind Innen- und Außenanlagen erforderlich. Der ganzjährige Zugang zur Außenanlage mit mindestens 2 Aus- oder Eingängen, ist zumindest tagsüber zu gewährleisten.
+
+(3) Im Innengehege müssen Temperaturen von mindestens 15°C und zusätzliche punktuelle, höher temperierte Wärmeplätze mit Strahlungswärme angeboten werden.
+
+(4) Die Gehegeeinrichtung muss ausreichende Klettermöglichkeiten, Sichtblenden, Nischen und andere Rückzugs- und Trennmöglichkeiten bieten. Für Husarenaffen sind zusätzlich erhöhte Beobachtungspunkte und Laufflächen sowie Spiel- und Beschäftigungsmöglichkeiten mit Zweigen und Stroh einzurichten sowie bewegliche Strukturen wie Seile und Ketten anzubieten.
+
+(5) die Tiere sind mindestens paarweise, sonst in Familien- oder Haremsgruppen zu halten.
+
+(6) Mehrmals, jedoch mindestens zweimal täglich, sind Futter in Form von vielseitiger Obst- und Gemüsenahrung, Getreide und ausreichend tierischem Eiweiß sowie Laubzweige als Beschäftigungsfutter anzubieten.
+
+**7.7.7. Makaken (Macaca spp. und Cynopithecus sp.)**
+
+(1) Die Gehege haben bis zu einer Zahl von höchstens 5 Tieren folgende Maße aufzuweisen:
+
+1\. Außenanlage (Mindestfläche): 100 m<sup>2</sup>
+
+2\. Innenanlage (Mindestfläche): 50 m<sup>2</sup>
+
+3\. Gehegehöhe (bei oben geschlossenen Anlagen): 3 m
+
+Für jedes weitere Tier sind zusätzlich 10% der Fläche anzubieten.
+
+(2) Kälteverträglicheren Arten wie Bergrhesus, Rotgesichtsmakaken und Magots können ganzjährig in Außenanlagen mit geeigneten Unterständen gegen Witterungsverhältnisse, wie Regen, Schnee, Wind, Sonneneinstrahlung und Hitze, die von allen Tieren gleichzeitig wahlweise aufgesucht werden können, gehalten werden. Bei Rhesusaffen und Schweinsaffen sind Innenboxen von mindestens 1,5 m<sup>2</sup> pro Tier ausreichend.
+
+(3) Rhesusaffen und Schweinsaffen dürfen ganzjährig in Freigehegen gehalten werden, wenn temperierte Innenboxen mit einer Mindesttemperatur von 10°C und zusätzlich punktuelle, höher temperierte Wärmeplätze mit Strahlungswärme bereitgestellt sind.
+
+(4) Arten wie Javaneraffen, Hutaffen, Bartaffen, Mohrenmakaken und Schopfmakaken sind Innenräume mit einer Mindesttemperatur von 15°C sowie zusätzliche punktuelle, höher temperierte Wärmeplätze mit Strahlungswärme bereitzustellen.
+
+(5) Die Gehegeeinrichtung muss ausreichende Klettermöglichkeiten, Sichtblenden, Nischen und andere Rückzugsmöglichkeiten aufweisen. Zusätzlich sind erhöhte Beobachtungspunkte und Laufflächen, Spiel- und Beschäftigungsmöglichkeiten wie Zweige und Stroh sowie bewegliche Strukturen wie Seile und Ketten einzurichten.
+
+(6) Die Tiere sind paarweise, oder in Gruppen zu halten.
+
+(7) Den Tieren sind mehrmals, mindestens jedoch zweimal täglich vielseitige Obst- und Gemüsenahrung, Getreide, ausreichend tierisches Eiweiß sowie Laubzweige oder Ähnliches als Beschäftigungsfutter anzubieten.
+
+**7.7.8. Paviane (Papio spp.) und Dscheladas (Theropithecus sp.)**
+
+(1) Die Gehege haben bis zu einer Zahl von höchstens 5 Tieren folgende Maße aufzuweisen:
+
+1\. Außenanlage (Mindestfläche): 200 m<sup>2</sup> (für Paviane), 100 m<sup>2</sup> (für Dscheladas)
+
+2\. Innenanlage (Mindestfläche): 30 m<sup>2</sup>
+
+3\. Gehegehöhe (bei oben geschlossenen Anlagen): 3 m
+
+Für jedes weitere Tier sind zusätzlich 10% der Fläche vorzusehen.
+
+(2) Es sind Außenanlagen mit geeigneten Innenräumen für die gesamte Gruppe erforderlich. Der ganzjährige Zugang zur Außenanlage mit mindestens 2 Aus- oder Eingängen, ist zumindest tagsüber zu gewährleisten.
+
+(3) Die Tiere dürfen ganzjährig in Freigehegen gehalten werden, wenn wahlweise temperierte Innenräume für die gesamte Gruppe von mindestens 10°C Raumtemperatur zur Verfügung stehen und zusätzlich punktuelle, höher temperierte Wärmeplätze mit Strahlungswärme angeboten werden.
+
+(4) Als Gehegeeinrichtung sind ausreichende Klettermöglichkeiten, Sichtblenden, Nischen und andere Rückzugsmöglichkeiten vorzusehen. Zusätzlich sind erhöhte Beobachtungspunkte und Laufflächen, Spiel- und Beschäftigungsmöglichkeiten wie Zweige und Stroh sowie bewegliche Strukturen wie Seile und Ketten anzubieten.
+
+(5) Die Tiere sind mindestens paarweise oder in Familiengruppen zu halten.
+
+(6) Pavianen sind mehrmals, jedoch mindestens zweimal täglich sind vielseitige Obst- und Gemüsenahrung, Getreide, ausreichend tierisches Eiweiß sowie Laubzweige, Maisstrünke oder Ähnliches als Beschäftigungsfutter bereitzustellen. Dscheladas sind ausreichend Gras, Heu und frische Blätter anzubieten.
+
+**7.7.9. Drill und Mandrill (Mandrillus spp.)**
+
+(1) Die Gehege haben bis zu einer Zahl von höchstens 5 Tieren folgende Maße aufzuweisen:
+
+1\. Außenanlage (Mindestfläche): 200 m<sup>2</sup>
+
+2\. Innenanlage (Mindestfläche): 50 m<sup>2</sup>
+
+2\. Gehegehöhe (bei oben geschlossenen Anlagen): 3 m
+
+Für jedes weitere Tier sind zusätzlich 10% der Fläche vorzusehen.
+
+(2) Es sind Innen- und Außenanlagen erforderlich. Der ganzjährige Zugang zur Außenanlage mit mindestens 2 Aus- oder Eingängen ist zumindest tagsüber zu gewährleisten.
+
+(3) Im Innengehege sind Mindesttemperaturen von 15°C erforderlich. Es ist für eine Tageslichtlänge von 12 Stunden mit einem, dem natürlichen Sonnenlicht entsprechenden, Lichtspektrum zu sorgen.
+
+(4) Als Gehegeeinrichtung sind Klettergelegenheiten, Sichtblenden, Nischen und andere Rückzugsmöglichkeiten einzurichten. Zusätzlich zu erhöhten Beobachtungspunkten und Laufflächen sind Spiel- und Beschäftigungsmöglichkeiten wie Zweige und Stroh und bewegliche Strukturen wie Seile und Ketten anzubieten.
+
+(5) Die Haltung hat paarweise oder in Haremsgruppen zu erfolgen.
+
+(6) Mehrmals, mindestens jedoch zweimal täglich, sind vielseitige Obst- und Gemüsenahrung, Getreide, ausreichend tierisches Eiweiß sowie Laubzweige oder Ähnliches als Beschäftigungsfutter bereitzustellen.
+
+**7.7.10. Schlankaffen (Colobidae): Languren (Presbytis), Stummelaffen (Colobus), Kleideraffen (Pygathrix nemaeus) und Nasenaffen (Nasalis)**
+
+(1) Die Gehege haben bis zu einer Zahl von höchstens 5 Tieren folgende Maße aufzuweisen:
+
+1\. Gehegefläche (Mindestfläche): 100 m<sup>2</sup>
+
+2\. Gehegehöhe (bei oben geschlossenen Anlagen): 5 m
+
+Für jedes weitere Tier sind zusätzlich 10% der Fläche vorzusehen.
+
+(2) Es sind Innen- und Außenanlagen mit jeweils den gleichen Mindestanforderungen an die Gehegefläche erforderlich. Der ganzjährige Zugang zur Außenanlage mit mindestens 2 Aus- oder Eingängen ist zumindest tagsüber zu gewährleisten.
+
+(3) Die Temperatur im Innengehege muss mindestens 20°C mit erhöhter Luftfeuchtigkeit, für Bergwald bewohnende Arten mindestens 15°C betragen. Zusätzlich müssen punktuelle, höher temperierte Wärmeplätze mit Strahlungswärme angeboten werden. Arten der Gattung Rhinopithecus dürfen ganzjährig in einer Außenanlage gehalten werden, wenn geeigneten Unterständen gegen Witterungsverhältnisse, wie Regen, Schnee, Wind, Sonneneinstrahlung und Hitze, die von allen Tieren gleichzeitig wahlweise aufgesucht werden können, angeboten werden.. Eine Tageslichtlänge von 12 Stunden mit einem, dem natürlichen Sonnenlicht entsprechenden, Lichtspektrum muss angeboten werden.
+
+(4) Als Gehegeeinrichtung sind besonders viele Kletter- und Schwingeinrichtungen nötig. Der Raum muss mit Sichtblenden, Nischen und anderen Rückzugsmöglichkeiten, vor allem im oberen Käfigbereich ausgestattet sein. Seile, Netze, Hängematten, ausreichend dimensionierte Sitzmöglichkeiten, die es der ganzen Gruppe gestattet zu ruhen, sind vorzusehen. Bei geschlossenen Gehegen sind auch an der Decke Klettereinrichtungen notwendig.
+
+(5) Inseln müssen zum Wasser hin sanft abfallen. Die Wassertiefe muss mindestens 1 m im tiefsten Bereich betragen, die Breite des Wassergrabens mindestens 4 m.
+
+(6) Die Tiere sind paarweise oder in Gruppen zu halten.
+
+(7) Die Fütterung muss mehrmals, jedoch mindestens dreimal täglich mit Laubmahlzeiten, Zusatzfutter mit Blattgemüse und anderen Gemüsearten erfolgen. Auch die Gabe von kleinen Mengen Obst ist vorzusehen. Das Ersatzfutter in Form von Gemüse, Obst und Getreide muss möglichst zellulose- und rohfasenreich sein. Nahrungsmittel wie Banane, Reis, Brot und Nüsse müssen mit größter Vorsicht gegeben werden. Frisches Laub muss in großen Mengen ganzjährig angeboten werden. Im Winter ist tiefgefrorenes und immergrünes Laub zu verwenden. Ergänzend müssen den Tieren tierisches Eiweiß und Beschäftigungsfutter angeboten werden.
+
+**7.7.11. Menschenaffen (Pongidae)**
+
+(1) Die Gehege haben bis zu einer Zahl von höchstens 5 Tieren folgende Maße aufzuweisen:
+
+| Arten | Außengehege (Mindestmaße) | Innengehege (Mindestmaße) | Höhe\*) (Mindestmaße) |
+|---|---|---|---|
+| Gorillas (Gorilla gorilla) | 500 m<sup>2</sup> | 300 m<sup>2</sup> | 5 m |
+| Bonobos (Pan paniscus) | 400 m<sup>2</sup> | 200 m<sup>2</sup> | 6 m |
+| Schimpansen (Pan troglodytes) | 400 m<sup>2</sup> | 200 m<sup>2</sup> | 6 m |
+| Orang Utans (Pongo pygmaeus) | 300 m<sup>2</sup> | 150 m<sup>2</sup> | 6 m |
+|  |  |  |  |
+
+\*) bei geschlossenen Anlagen
+
+Für jedes weitere Tier sind zusätzlich 10% der Fläche vorzusehen.
+
+(2) Es sind Innen- und Außenanlagen erforderlich. Der ganzjährige freie Zugang zur Außenanlage mit mindestens 2 Aus- oder Eingängen, ist zumindest tagsüber und bei geeigneter Witterung zu gewährleisten.
+
+(3) Die Temperatur im Innengehege muss mindestens 20°C betragen. Zusätzlich müssen punktuelle, höher temperierte Wärmeplätze mit Strahlungswärme angeboten werden. Eine Tageslichtlänge von etwa 12 Stunden, mit einem, dem natürlichen Sonnenlicht entsprechenden Lichtspektrum muss angeboten werden
+
+(4) Als Gehegeeinrichtung sind Kletterstrukturen, Schwingvorrichtungen und Sitzgelegenheiten in verschiedenen Höhen, so dass der zur Verfügung stehende Raum dreidimensional genutzt werden kann, einzurichten. Sichtblenden, Nischen oder andere Rückzugs- und Ausweichmöglichkeiten, zum Beispiel durch das Vorhandensein von mehr als einem Verbindungsschieber zwischen zwei Gehegen, sind zur Verfügung zu stellen. Absperrmöglichkeiten mit Kontaktgittern, Spiel- und Beschäftigungsmöglichkeiten sowie Material zum Bau von Schlafnestern sind einzurichten.
+
+(5) Die Tiere sine mindestens paarweise, jedoch bevorzugt in Familienverbänden zu halten. Auch Männchengruppen sind möglich.
+
+(6) Mehrmals, mindestens jedoch dreimal täglich sind, entsprechend den artspezifischen Ansprüchen, vielseitige Obst- und Gemüsenahrung, ausreichend tierisches Eiweiß, Laub und Zweige (auch im Winter) sowie Beschäftigungsfutter in Form von verstreuten Getreidekörnern, künstlichen Termitenhügeln, Rosinenhölzern und Ähnlichem, anzubieten.
+
+**7.7.12. Gibbons (Hylobatidae)**
+
+(1) Die Gehege haben für ein Paar mit Jungtieren folgende Maße aufzuweisen:
+
+1\. Außenanlage (Mindestfläche): 80 m<sup>2</sup>
+
+2\. Innenanlage (Mindestfläche): 30 m<sup>2</sup>
+
+3\. Gehegehöhe (Mindestgröße – bei oben geschlossenen Anlagen): 3,5 m (Innenanlage), 5 m (Außenanlage)
+
+(2) Es sind Innen- und Außenanlagen erforderlich. Der ganzjährige freie Zugang zur Außenanlage mit mindestens 2 Aus- oder Eingängen, ist zumindest tagsüber bei geeigneter Witterung zu gewährleisten.
+
+(3) Die Temperatur im Innenraum darf nicht weniger als 15°C betragen. Zusätzlich müssen punktuelle, höher temperierte Wärmeplätze mit Strahlungswärme angeboten werden. Eine Tageslichtlänge von etwa 12 Stunden, mit einem, dem natürlichen Sonnenlicht entsprechenden Lichtspektrum muss angeboten werden.
+
+(4) Als Gehegeeinrichtung sind Kletter- und Schwingvorrichtungen, die das Schwinghangeln ermöglichen sowie Sitzgelegenheiten in verschiedenen Höhen, Sichtblenden, Nischen oder andere Rückzugs- und Ausweichmöglichkeiten und Absperrmöglichkeiten einzurichten. Der Gehegeraum ist durch die entsprechend hohe und lange Konstruktion für die Schwinghandler nutzbar zu machen. Bei geschlossenen Gehegen sind auch an der Decke Klettereinrichtungen anzubringen.
+
+(5) Die Tiere sind paarweise zu halten.
+
+(6) Mehrmals, mindestens jedoch dreimal täglich, sind vielseitige Obst- und Gemüsenahrung, ausreichend tierisches Eiweiß sowie Beschäftigungsfutter anzubieten.
+
+**7.8. Nebengelenktiere (Xenarthra)**
+
+**7.8.1. Gürteltiere (Dasypodidae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | Gehegegröße (Mindestmaße), (pro Paar, jedes weitere adulte Tier zusätzlich 10% der Fläche) |
+|---|---|
+| Riesengürteltier (Priodontini) | 15 m<sup>2</sup> |
+| alle anderen Arten | 10 m<sup>2</sup> |
+|  |  |
+
+(2) Die Temperatur muss laufend über 18°C liegen. Kalte Nässe ist zu vermeiden.
+
+(3) Die Gehegeeinrichtung muss aus Sand oder gewachsenem Boden mit einer Sicherung gegen zu tiefes Eingraben bestehen. Eine Bademöglichkeit muss angeboten werden.
+
+(4) Die Tiere sind paarweise oder in kleinen Gruppen zu halten.
+
+(5) Bei einzelnen, insbesonders den aasfressenden Arten muss der tierische Anteil des Futters stark überwiegen. Das Futter des Borstengürteltieres muss zur Zahnabnutzung Festbestandteile wie Wurzeln enthalten.
+
+**7.8.2. Ameisenbären (Myrmecophagidae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Art | Außengehegegröße (Mindestmaße) | Innengehege (Mindestmaße) |
+|---|---|---|
+| Großer Ameisenbär (Myrmecophaga tridactyla) | 150 m<sup>2</sup> pro Paar | 20 m<sup>2</sup> pro Tier |
+| Tamandua (Tamandua tetradactyla) \*) | 16 m<sup>2</sup> pro Tier | 16 m<sup>2</sup> pro Tier |
+|  |  |  |
+
+\*) Raumhöhe bei oben geschlossenen Anlagen mindestens 2,5 m
+
+(2) Die Temperatur im Innengelände darf beim Großen Ameisenbär 15°C und beim Tamandua 18°C nicht unterschreiten. Beim Großen Ameisenbär muss zumindest tagsüber ein freier Zugang zum Außengehege ganzjährig gewährleistet sein.
+
+(3) Die Gehegeeinrichtung beim Großen Ameisenbär muss in der Außenanlage Sand oder gewachsenen Boden aufweisen. Eine Bademöglichkeit ist einzurichten. Der Innenboden muss scharr- und grabfest, jedoch nicht rau sein. Einstreu oder Bodenheizung für die Liegeflächen ist anzubieten.
+
+(4) Die Gehegeeinrichtung beim Tamandua muss Klettermöglichkeiten und Wasserbecken vorgesehen.
+
+(5) Die Haltung hat paarweise zu erfolgen, mit Abtrennungsmöglichkeiten bei Jungtieraufzucht
+
+(6) Ameisenbären sind als Zusatz Ameisen, Termiten u.ä. Insekten anzubieten. Tierisches Eiweiß in Form von Hackfleisch, Hundekuchen-Mehl, pflanzliche Produkte, Mineral- und Vitaminzusätze müssen in stark zerkleinerter Breiform dargereicht werden. Die Zugabe von Erde, Torf, Sand oder ähnlichen Ballaststoffen zu den Futtermitteln ist erforderlich.
+
+**7.8.3. Faultiere (Bradypodidae)**
+
+(1) Die Gehege haben pro Paar folgende Maße aufzuweisen:
+
+1\. Innenanlage (Mindestfläche): 16 m<sup>2</sup>
+
+2\. Gehegehöhe (bei oben geschlossenen Anlagen): 3 m
+
+Für jedes weitere erwachsene Tier sind zusätzlich 10% der Fläche vorzusehen.
+
+(2) Die Temperatur im Innengehege muss mindestens 20°C betragen und eine möglichst hohe Luftfeuchtigkeit aufweisen.
+
+(3) Als Gehegeeinrichtung sind horizontale und vertikale Klettereinrichtungen, Klettermöglichkeiten an der Decke, ein Kletterbaum mit Futterstelle sowie Wasserbecken einzurichten.
+
+(4) Die Tiere sind paarweise zu halten.
+
+(5) Als Nahrung sind ihnen verschiedenes Laub, Gemüse, gekochter Reis und Obst anzubieten.
+
+**7.9. Erdferkel (Tubulidentata)**
+
+(1) Die Gehege haben pro Paar folgende Maße aufzuweisen:
+
+1\. Gehegegröße (Mindestfläche): 80 m<sup>2</sup>
+
+2\. Schlafkasten (Höhle): 1 m<sup>2</sup> pro Tier
+
+Für jedes weitere erwachsene Tier sind zusätzlich 10% der Fläche vorzusehen.
+
+(2) Es sind Innen- und Außenanlagen jeweils mit den gleichen Mindestmaßen erforderlich.
+
+(3) Die Temperatur des Innengeheges muss mindestens 15°C, in der Höhle über 22°C betragen.
+
+(4) Als Gehegeeinrichtung sind tiefe Grabmöglichkeiten erforderlich. Bei gewachsenen Böden ist außen eine Unterwühlsicherung notwendig. Schlafkasten und Höhlen müssen mindestens 0,5 m<sup>2</sup> groß sein. Eine Liegemulde ist erforderlich.
+
+(5) Die Tiere sind paarweise zu halten.
+
+(6) Den Tiere sind Termiten anzubieten. Tierisches Eiweiß in Form von Hackfleisch, Hundekuchen-Mehl, pflanzliche Produkte, Mineral- und Vitaminzusätze müssen in stark zerkleinerter Breiform dargereicht werden. Die Zugabe von Erde, Torf, Sand oder ähnlichen Ballaststoffen zu den Futtermitteln ist erforderlich.
+
+**7.10. Raubtiere (Carnivora)**
+
+**7.10.1. Marder (Mustelidae)**
+
+(1) Die Mindestmaße für Außengehege gelten jeweils für ein erwachsenes Paar:
+
+| Arten | Gehegegröße (Mindestmaße) | Gehegehöhe\*) (Mindestmaße) |
+|---|---|---|
+| Mauswiesel (Mustela nivalis) | 4 m<sup>2</sup> | 2 m |
+| Hermelin (Mustela erminea) | 10 m<sup>2</sup> | 2 m |
+| Iltis (Pitorius), Nerz (Lutreola) \*\*) | 20 m<sup>2</sup> | 2,5 m |
+| Baummarder (Martes martes), Steinmarder (Martes fiona) | 30 m<sup>2</sup> | 2,5 m |
+| Skunk (Mephitinae), Zwergotter (Amblonyx cinerea) \*\*) | 20 m<sup>2</sup> | 2 m |
+| Honigdachs (Mellivorinae), Dachs (Melinae), Europäischer Otter (Lutra lutra) \*\*) | 50 m<sup>2</sup> | 2 m |
+| Vielfraß (Gulo gulo) | 200 m<sup>2</sup> | 2 m |
+| Riesenotter \*\*\*) (Pteronura brasiliensis) | 150 m<sup>2</sup> | 2 m |
+|  |  |  |
+
+\*) bei oben geschlossenen Anlagen
+
+\*\*) bei diesen Tieren ist 50% der Mindestgehegegröße für eine Wasserfläche mit einer Mindesttiefe von 0,5m vorgesehen
+
+\*\*\*) für diese Tiere ist 50% der Mindestgehegegröße für eine Wasserfläche mit einer Mindesttiefe von 1m vorzusehen
+
+(2) Eine Ausnahme von der Paarhaltung sind Mauswiesel, Hermelin und Nerz. Sie sind außerhalb der Paarungszeit einzeln zu halten.
+
+(3) Bei Zwerg- und Riesenotter sind Innen- und Außenanlagen mit jeweils den gleichen Mindestanforderungen an die Gehegefläche erforderlich.
+
+(4) Für die ganzjährige Haltung von winterharten Arten im Außengehegen sind wettergeschützte Schlafboxen mit Einstreu oder Stroh einzurichten.
+
+(5) Für die Haltung von tropischen Arten wie Zwerg- und Riesenotter sind in der kalten Jahreszeit geheizte Innenanlagen von mindestens 15°C mit einem beheizten Schwimmbecken erforderlich.
+
+(6) Als Gehegeeinrichtung sind außer beim Riesenotter Naturboden mit Grabemöglichkeiten und mindestens zwei Schlafboxen oder –höhlen erforderlich. Die Gehegestrukturierung muss mit Kletterästen, hohlen Baumstämmen, Wurzeln, Strohballen, Steinen, Felsen und natürlicher Vegetationen erfolgen. Für alle Otterarten und auch für Nerze muss sowohl ein Land- als auch ein Wasserteil in etwa gleicher Größe vorhanden sein. Es sind langgestreckte Becken mit strukturiertem Ufer zu errichten. Für die übrige Arten sind Wasserbecken ausreichend.
+
+(7) Die Tiere sind – mit Ausnahme von Mauswiesel, Hermelin und Nerz die überwiegend getrennt gehalten werden müssen – paarweise zu halten. Beim Honigdachs, Dachs, Skunk und einigen anderen Otterarten ist die Haltung vom Familiengruppen möglich.
+
+(8) Den Tieren sind ganze, der Art entsprechende Futtertiere wie Mäuse, Tagesküken und Fische zu füttern. Vitamin- und Mineralstoff-Zusätze sowie Obst und Gemüse müssen angeboten werden.
+
+**7.10.2. Kleinbären (Procyonidae) einschließlich Katzenbären (Ailurus sp.)**
+
+(1) Die Gehege haben pro Paar folgende Maße aufzuweisen:
+
+| Arten | Gehegegröße (Mindestmaße), (pro adultes Paar mit Jungtieren, jedes weitere adulte Tier zusätzlich 10% der Fläche) | Gehegehöhe \*) (Mindestmaße) |
+|---|---|---|
+| Katzenfrett (Bassariscus), Schlankbär (Bassaricyon gabbii), Wickelbär (Potos flavus) | 16 m<sup>2</sup> | 2,5 m |
+| Nasenbär (Nasua), Waschbär (Procyon), Kleiner Panda (Ailurus fulgens) | 40 m<sup>2</sup> | 3 m |
+|  |  |  |
+
+\*) bei oben geschlossenen Anlagen
+
+(2) Bei kälteempfindlichen Arten, wie Katzenfrett, Schlankbär, Wickelbär gilt die Gehegegröße sowohl je für das Innen- als auch für das Außengehege. Das Außengehege muss ganzjährig zugängig sein.
+
+(3) Waschbär, nördlicher Nasenbär und Kleiner Panda dürfen ganzjährig im Freien gehalten werden, wenn ein entsprechender Wetterschutz geboten wird. Die übrigen Arten sind in der kalten Jahreszeit in geheizten Innengehegen, in denen die Temperatur über 15°C liegen muss, zu halten. Bei dem Kleinen Panda ist besonders auf die Ausgewogenheit der Belüftung zu achten.
+
+(4) Die Gehegeeinrichtung muss aus Naturboden bestehen, Kletteräste und Versteckmöglichkeiten sowie Wurf- und Schlafboxen sind einzurichten.
+
+(5) Die Tiere sind paarweise oder in kleinen Gruppen zu halten.
+
+(6) Den Tieren sind Fleisch, Obst und Gemüse anzubieten. Der Kleine Panda muss regelmäßig Bambus erhalten.
+
+**7.10.3. Großbären (Ursidae) einschließlich Großer Panda (Ailuropoda sp.)**
+
+(1) Die Gehege haben pro Paar folgende Maße aufzuweisen:
+
+| Arten | Außengehege (Mindestmaße/pro Paar) \*) | Innengehege (Mindestmaße/pro Paar) \*) | Bemerkung |
+|---|---|---|---|
+| Eisbär (Thalarctos) | 400 m<sup>2</sup> | Überwinterungsbox 8 m<sup>2</sup>/Tier | Wasserbecken mit mittlerer Wassertiefe 2 m und Mindestgröße 60 m<sup>2</sup> notwendig |
+| Braunbär (Ursus arctos), Kragenbär (Ursus thibetanus), | 300 m<sup>2</sup> | Überwinterungsraum 6 m<sup>2</sup>/Tier<br>Wurfbox 6 m<sup>2</sup>/Tier | für Braunbären Wasserbecken mit Wassertiefe 1,5 m und Mindestgröße 20 m<sup>2</sup> notwendig |
+| Großer Panda (Ailuropoda melanoleuca) | 600 m<sup>2</sup> | 50 m<sup>2</sup>/Tier | Wasserbecken mit Wassertiefe von 1,5 m und Mindestgröße von 20 m<sup>2</sup> notwendig |
+| Malaienbär (Helarctos malayanus) Lippenbär (Melursus rsinus) Brillenbär (Tremarctos ornatus) | 300 m<sup>2</sup> | 8 m<sup>2</sup>/Tier |  |
+|  |  |  |  |
+
+\*) Für jedes weitere adulte Tier sind zusätzlich 10% der Fläche vorzusehen.
+
+(2) Bei Malaien-, Lippen- und Brillenbären muss die Temperatur des Innengeheges mindestens 12°C betragen.
+
+(3) Als Gehegeeinrichtung sind Klettergelegenheiten, Beschäftigungsmöglichkeiten und Badebecken sowie weitgehend Naturboden vorzusehen. Die Möglichkeit zur Einzelaufstallung muss gegeben sein. Für die Zucht ist eine Wurfbox mit Einstreu erforderlich. Beim Gehegebau sind Sicherheitseinrichtungen in Form von blechbeschlagenen Vollschiebern, Türen und Schleusen zu berücksichtigen.
+
+(4) Die Tiere sind paar- oder gruppenweise zu halten.
+
+(5) Den Tieren sind Fleisch, Fisch, Obst, Gemüse und Wirbellose anzubieten. Für Lippenbären ist ein zusätzlich erhöhter Insektenanteil erforderlich, bei Großen Pandas überwiegend Bambus und zusätzlich wenig tierisches Eiweiß.
+
+**7.10.4. Schleichkatzen (Viveridae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | Außengehege (Mindestmaße/pro Paar) \*) |
+|---|---|
+| Zwergmanguste (Mungo mungo) | 10 m<sup>2</sup> |
+| Musang (Paradoxurus), Mungo (Herpestes), Zebramanguste (Mungos mungo), Erdmännchen (Suricata suricatta) | 16 m<sup>2</sup> |
+| Zibetkatzen (Viverrinae), Fossa (Cryptoprocta ferox), Binturong (Arctictis binturong), Ichneumon (Galerella, Ichneumia, Atilax) | 30 m<sup>2</sup> |
+|  |  |
+
+\*) Für jedes weitere adulte Tier sind zusätzlich 10% der Fläche vorzusehen.
+
+(2) Den Tieren ist sowohl ein Innen- als auch ein Außengehege einzurichten. Die Größe des Innengeheges muss mindestens 50% des Außengeheges betragen. Der Zugang zur Außenanlage ist zumindest tagsüber ganzjährig zu gewährleisten.
+
+(3) Die Temperatur im Innengehege muss mindestens 18°C betragen. Zibetkatzen, Erdmännchen und Zebramangusten, dürfen ganzjährig im Freien gehalten werden, wenn ihnen jederzeit ein Zugang zu Innenräumen oder Schlafboxen mit einer Temperatur von mindestens 15°C ermöglicht wird.
+
+(4) Im Außengehege müssen Wärmequellen in Form von Wärmestrahlungslampen ausreichend zur Verfügung stehen. Die Einrichtung ist mit Naturboden oder einem befestigten Boden und Sandplatz, Rindenmulch, einer Scharr- oder Grabgelegenheiten und Versteckmöglichkeit zu gestalten. Schlaf- und Wurfboxen, erhöhte Aussichtspunkte, Badebecken für teilaquatische Arten wie zum Beispiel den Sumpfichneumon sind erforderlich. Für baumlebende Arten wie Genette, Musang und Binturong sind viele Kletteräste anzubringen.
+
+(5) Die Tiere sind je nach Art paarweise oder in Familiengruppen zu halten.
+
+(6) Den Tieren sind Fleisch, Futtertiere, besonders auch Insekten sowie Obst und Gemüse anzubieten.
+
+**7.10.5. Hyänen (Hyaenidae) und Erdwölfe (Protelidae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+1\. Außengehege: 300 m<sup>2</sup> pro Paar, für jedes weitere Tier zusätzlich 10 m<sup>2</sup>
+
+2\. Schlafbox oder Höhle: 4 m<sup>2</sup> pro Tier
+
+3\. Für nicht winterharte Arten sind Innengehege von 100 m<sup>2</sup> pro Paar (für jedes weitere Tier zusätzlich 10 m<sup>2</sup>) mit einer Mindesttemperatur von 12°C vorzusehen.
+
+(2) Die Gehegeeinrichtung ist mit einem Naturboden und befestigten Bodenteilen auszustatten. Badebecken sind bei der Tüpfelhyäne verpflichtend einzurichten. Ausreichend Versteck- und Rückzugsmöglichkeiten müssen vorhanden sein. Ein Wasser- oder Trockengraben als Gehegebegrenzung ist möglich. Die Gehegeumzäunung muss gegen Unterwühlen gesichert werden.
+
+(3) Die Tiere sind paar- oder gruppenweise zu halten. Geeignete Abtrennmöglichkeiten, vor allem für die Nacht, sind vorzusehen.
+
+(4) Als Nahrung ist Fleisch mit Knochen anzubieten. Dem Erdwolf als Termitenfresser ist tierisches Eiweiß in Form von Hackfleisch, Hundekuchen-Mehl, etc., pflanzlichen Produkten und Mineral- und Vitaminzusätzen in stark zerkleinerter Breiform anzubieten. Die Zugabe von Erde, Torf, Sand oder ähnlichen Ballaststoffen zu den Futtermitteln ist erforderlich.
+
+**7.10.6. Hundeartige (Canidae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | Außenanlage (Mindestmaße), (pro adultes Paar mit Jungtieren, jedes weitere adulte Tier zusätzlich 10% der Fläche) |
+|---|---|
+| Wölfe (Canis lupus), Afrikanische Wildhunde (Lycaon) | 800 m<sup>2</sup> |
+| Rothunde (Cuon) | 400 m<sup>2</sup> |
+| Mähnenwölfe (Chrysocyon) | 400 m<sup>2</sup> |
+| Schakal- u. Wolfsartige (Canis), Füchse (Vulpes), Marderhunde (Nyctereutes) | 300 m<sup>2</sup> |
+| Löffelhunde (Otocyon), Waldhunde (Speothos), Steppenfüchse (Alopex), Fennek (Fennecus zerda) | 100 m<sup>2</sup> \*) |
+|  |  |
+
+\*) Bei diesen Arten (Löffelhunde, Waldhunde, Steppenfüchse, Fennek) sind sowohl Innen- und Außenanlagen erforderlich. Innenanlagen haben einen Raumbedarf von mindestens 50% der Mindestanforderungen der Außenanlage. Ein ganzjähriger Zugang zur Außenanlage ist zumindest tagsüber zu gewährleisten. Wetterschutz-Boxen sind einzurichten.
+
+(2) Winterharte Arten dürfen ganzjährig im Freien gehalten werden. Als Deckung zum Schutz gegen Witterungsverhältnisse, wie Regen, Schnee, Wind, Sonneneinstrahlung und Hitze sind natürliche Deckungen und Unterstände (Wetterschutz-Boxen) einzurichten. Hunde tropischer Herkunft dürfen nach einer Eingewöhnung ganzjährig in Freigehegen gehalten werden, wenn sie Zugang zu geheizten Innenanlagen mit einer Mindesttemperatur von 18°C haben.
+
+(3) Die Gehegeeinrichtung muss einen gewachsenen Gehegeboden und Sandplätze umfassen. Eine Gliederung des Geheges in Nischen durch Sichtblenden wie Stämme, Felsen, Gebüsch müssen Rückzugsmöglichkeiten ermöglichen. Mehrere Wurf- und Schlafboxen sowie ein Badebecken für Waldhunde ist zur Verfügung zu stellen.
+
+(4) Wolf, Wildhund und Rothund sind in Rudeln, die meisten anderen Arten paarweise mit den Jungtieren zu halten.
+
+(5) Als Futter sind Fleisch mit Knochen, frischgetötete ganze Futtertiere und für Mähnenwölfe und Waldhunde eine abwechslungsreiche Kost mit Fisch, Eiern, Obst und Gemüse anzubieten.
+
+**7.10.7. Katzen (Felidae)**
+
+**7.10.7.1. Kleinkatzen (Felini)**
+
+(1) Die Außengehege haben folgende Maße aufzuweisen:
+
+| Arten | Gehegegröße (Mindestmaße pro adultes Paar mit Jungtieren, jedes weitere adulte Tier zusätzlich 10% der Fläche) | Gehegehöhe \*) (Mindestmaße) |
+|---|---|---|
+| Schwarzfußkatze (Felis nigripes), Salzkatze (Leopardus geoffroyi), Bengalkatze (Prionailurus bengalensis) | 30 m<sup>2</sup> | 2,5 m |
+| Wildkatze (Felis silvestris), Manul (Otocolobus manul), Fischkatze (Prionailurus viverrinus), Rohrkatze (Felis chaus) | 30 m<sup>2</sup> | 2,5 m |
+| Serval (Leptailurus serval), Wüstenluchs (Caracal caracal), Ozelot (Leopardus pardalis), Jaguarundi oder Wieselkatze (Herpailurus yagouaroundi), Goldkatze (Profelis) | 50 m<sup>2</sup> | 3 m |
+| Luchs (Lynx) | 200 m<sup>2</sup> | 3 m |
+|  |  |  |
+
+\*) bei oben geschlossenen Anlagen
+
+(2) Bei tropischen Arten müssen das Innengehege mindestens 50% der Mindestanforderungsfläche der angegebenen Gehegegröße aufweisen. Bei wenig temperaturempfindlichen Arten, wie Serval und Wüstenluchs müssen die Innengehege mindestens 30% der Mindestanforderungsfläche der angegebenen Gehegegröße aufweisen. Der Zugang zu den Außengehegen muss ganzjährig zumindest tagsüber und witterungsabhängig gewährleistet werden.
+
+(3) Winterharte Arten wie der Nordluchs, die Europäische Wildkatze und das Manul müssen ganzjährig in Außengehegen mit witterungsgeschützten Schlafboxen gehalten werden. Manuls sind vor Überhitzung und Feuchtigkeit zu schützen. Für weniger frostempfindliche Arten sind als Mindesttemperatur 10°C, für tropische Formen geheizte Innengehege mit einer Mindesttemperatur von 18°C erforderlich.
+
+(4) Als Gehegeeinrichtung sind im Außengehege ein gewachsener Boden und Sand einzurichten. Kletter-, Kratz- und Versteckmöglichkeiten sind vorzusehen. Für Bengalkatzen, Fischkatzen und Rohrkatzen sind Wasserbecken erforderlich.
+
+(5) Die Tiere sind zumindest paarweise zu halten.
+
+(6) Als Futter sind ganze, frisch getötete Futtertiere und Fleisch mit Mineralstoff- und Vitaminzusatz anzubieten.
+
+**7.10.7.2 Großkatzen (Pantherini)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | Außengehege (Mindestmaße), je Paar oder je Weibchen mit Jungen abgetrennt, +10% zusätzliche Fläche für jedes weitere adulte Tier | Innengehege (Mindestmaße), je Paar oder je Weibchen mit Jungen abgetrennt, +10% zusätzliche Fläche für jedes weitere adulte Tier | Gehegehöhe \*\*) (Mindestmaße) |
+|---|---|---|---|
+| Amur-Tiger (Panthera tigris altaica), Amur-Leopard (Panthera pardus orientalis) | 500 m<sup>2</sup> | Wetterschutz mit Einstreu | 3,5 m |
+| Löwe (Panthera leo) | 500 m<sup>2</sup> | 10 m<sup>2</sup>/Tier | 3,5 m |
+| Tiger (Panthera tigris) (außer Amur-Tiger), Leopard (Panthera pardus) (außer Amur-Leopard), Jaguar (Panthera onca) | 500 m<sup>2</sup> | 50 m<sup>2</sup> | 3,5 m |
+| Puma (Puma concolor), Schneeleopard (Unica unica) | 500 m<sup>2</sup> | Wetterschutz mit Einstreu | 3,5 m |
+| Nebelparder (Neofelis nebulosa) | 200 m<sup>2</sup> | 50 m<sup>2</sup> | 4 m |
+| \*) Gepard (Acinonyx jubatus) (je zwei Weibchen und ein Männchen, für Weibchen mit Jungen eigenes Gehege erforderlich) | 800 m<sup>2</sup> | 10 m<sup>2</sup> | 2,5 m |
+|  |  |  |  |
+
+\*) Längsstreckung der Anlage.
+
+\*\*) bei oben geschlossenen Anlagen
+
+(2) Winterharten Arten wie der Irbis, Amur-Leopard, Amur-Tiger und Puma sind wettergeschützte frostfeste Schlafboxen einzurichten. Für alle anderen Arten und Unterarten sind beheizte Innenräume mit einer Mindesttemperatur von 15°C erforderlich.
+
+(3) Der Zugang zum Außengehege muss ganzjährig ermöglicht werden.
+
+(4) Das Außengehege ist mit gewachsenem Boden und Sand zu gestalten. Kletter- und Kratzmöglichkeiten, erhöhte Aussichtsplattformen sowie witterungsgeschützte Liegeplätze sind erforderlich. Für Tiger und Jaguare sind Badebecken notwendig.
+
+(5) Löwen sind rudelweise, die übrigen Arten paarweise zu halten. Weibchen sind zur Geburt und während der Aufzucht der Jungen zumindest zeitweise getrennt zu halten.
+
+(6) Als Futter sind ganze Futtertiere, Muskelfleisch am Knochen mit Mineralstoff-Vitaminzusatz und gelegentlich Innereien anzubieten.
+
+**7.10.8. Wasserraubtiere (Pinnipedia)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | Wasserfläche (Mindestmaße) (für jedes weitere adulte Tier 10% mehr) | Wassertiefe (Mindestmaße) |
+|---|---|---|
+| Arten der Familie der Hundsrobben (Phocidae) und Seehunde (Phocinae), außer Elefantenrobben (Mirounga): bis höchstens 5 Tiere | 200 m<sup>2</sup> | 1,5 m |
+| Arten der Familie der Ohrenrobben (Otariidae): bis höchstens 5 Tiere | 300 m<sup>2</sup> | 2 m |
+| Walross (Odobenidae) und Elefantenrobben (Mirounga): pro Paar mit Jungtier | 400 m<sup>2</sup> | 3 m |
+|  |  |  |
+
+(2) Bei allen Arten ist darauf zu achten, dass ein Landteil zur Verfügung steht, der es allen Robben erlaubt, sich gleichzeitig am Land aufzuhalten. Neben dem Landteil müssen Absperrboxen vorhanden sein, deren Maße sich nach der Körpergröße der einzelnen Arten richtet, das heißt in einer Absperrbox muss sich eine erwachsene Robbe der jeweiligen Art ohne Mühe ausgestreckt hinlegen und umdrehen können. Zusätzliche Becken für Mutter und Kind oder kranke Tiere sind vorzusehen.
+
+(3) Alle Arten sind winterhart und dürfen ganzjährig im Freien gehalten werden.
+
+(4) Ein regelmäßiger Wasserwechsel ist für den Erhalt der Wasserqualität vorzunehmen. Neben den Landflächen sind Inseln und Unterwasserstrukturen im Wasserbecken als Bereicherung für den Lebensraum der Robben anzubieten. Flachwasserzonen für die Jungtieraufzucht und Beschäftigseinrichtungen müssen abgeboten werden.
+
+(5) Die Haltung hat paarweise oder in Familiengruppen zu erfolgen.
+
+(6) Mehrmals, jedoch mindestens zweimal täglich ist Futter anzubieten. Als Hauptfutter ist Seefisch mit Zusätzen an Vitaminen und speziell Vitamin B1 (Thiamin) zu geben.
+
+**7.11. Rüsseltiere (Proboscidea)**
+
+**7.11.1. Elefanten (Elephantidae)**
+
+(1) Die Haltungsansprüche von Afrikanischen (Loxodonta africana) und Asiatischen Elefanten (Elephas maximus) sind weitgehend gleich, sodass beide Arten gemeinsam geregelt sind.
+
+(2) Eine dauerhafte Anbindehaltung ist verboten.
+
+(3) Die Gehege haben folgende Maße aufzuweisen:
+
+| Haltungsform | Außenanlage (Mindestmaße) | Innenanlage (Mindestmaße) |
+|---|---|---|
+| Adulte Elefantenkühe (bis 3 Tiere, für jedes weitere adulte Tier zusätzliche 10% derFläche) | 3.000 m<sup>2</sup> | 300 m<sup>2</sup> |
+| Adulter Bulle, pro Tier | 700 m<sup>2</sup> | 100 m<sup>2</sup> |
+| Einzelbox pro adulte Elefantenkuh |  | 40 m<sup>2</sup> |
+| Einzelbox pro adulten Elefantenbullen |  | 50 m<sup>2</sup> |
+|  |  |  |
+
+(4) Eine Außen- und eine Innenanlage sind erforderlich. Der Zugang zur Außenanlage muss ganzjährig gewährleistet werden.
+
+(5) Die Innentemperatur des Stalles muss mindestens 15°C betragen. Bei Minusgraden ist darauf zu achten, dass bei den Elefanten keine Erfrierungen an den Ohrrändern auftreten. Eine gute und zugfreie Belüftung der Innenanlage ist sicherzustellen.
+
+(6) Bei der Haltung von erwachsenen Elefantenbullen ist ein separater Bullenstall mit Einzelbox für erwachsene Tiere vorzusehen.
+
+(7) Als Bodenmaterial für die Außenanlage ist Naturboden mit Sandstellen einzurichten. Als Bodenbelag für die Innenanlagen dürfen unterschiedliche Materialien, wie Recycling Gummiboden, Asphalt und andere zur Verwendung gelangen, wobei eine Bodenheizung erforderlich ist.
+
+(8) Ein Schlammbad und Bademöglichkeiten sind einzurichten. Zur Hautpflege sind Scheuersäulen, Baumstämme, oder Ähnliches vorzusehen und für die Tiere jederzeit erreichbar zu halten. Tägliches Duschen ist zwingend durchzuführen. Der Zustand von Fußsohle und Nägel ist regelmäßig zu kontrollieren und gegebenenfalls per Fußpflege zu korrigieren.
+
+(9) Vorrichtungen zur kurzfristigen Ankettung für Routinearbeiten wie das Waschen oder veterinärmedizinische Untersuchungen sind vorzusehen.
+
+(10) Trockengräben zur Gehegebegrenzung sind wegen der Unfallgefahr verboten.
+
+(11) Elefanten sind Herdentiere. Die Einzelhaltung eines Elefanten ist verboten. Für erwachsene Bullen müssen Einrichtungen zur separaten Absperrung vorgesehen sein. Die Haltung von Kühen muss zumindest paarweise erfolgen. In der Gruppe geborene Elefantenweibchen sollen zeitlebens in dieser Gruppe verbleiben. Jungbullen dürfen nicht vor einem Alter von fünf bis sieben Jahre abgeben werden. Jungbullengruppen sind möglich.
+
+(12) Die Betreuung ist durch einen geschulten Pfleger vorzunehmen, der ein regelmäßiges Trainingsprogramm im direkten oder geschützten Kontakt durchzuführen hat.
+
+(13) Als Hauptnahrung ist raufaserreiches Futter anzubieten. Zusätzlich müssen ganzjährig bis zu armdicke Äste angeboten werden. Ergänzend sind insbesondere bei trächtigen und im Wachstum befindlichen Tieren Obst, Gemüse, Vitamin- und Mineralstoffmischungen zu verabreichen. Der ständige Zugang zu sauberem Trinkwasser ist zu gewährleisten.
+
+**7.11.2. Seekühe (Sirenia)**
+
+(1) Seekühe werden, entsprechend den klimatischen Bedingungen, in Anlagen in beheizbaren Gebäuden bei Tageslicht gehalten. Die Anlage muss aus mindestens drei, durch Schieber abtrennbare, und wenn möglich um eine Insel angeordneten Wasserarealen bestehen, die ein Kreisschwimmen ermöglichen.
+
+(2) Einzelbecken müssen getrennt entleert werden können. Unterschiedliche Wassertiefen und ein Flachwasserbereich von 40 cm und Tiefezonen von mindestens 4 m sind einzurichten. Die Tiefezonen dürfen insgesamt 50% der geforderten Wasserfläche nicht unterschreiten.
+
+(3) Die Wasserzusammensetzung ist nach den Erfordernissen der Tierart entweder als Süßwasser (Rundschwanz– Seekühe) oder als Salzwasser (Dugong) einzurichten. Die Wasserqualität muss durch ein geeignetes Filtersystem gewährleistet werden.
+
+(4) Für bis zu zwei erwachsene Paare und je ein Jungtier müssen die Wasserbecken insgesamt mindestens eine Wasserfläche von 300 m<sup>2</sup> haben. Für jedes weitere erwachsene Tier sind 10% der Fläche zusätzlich vorzusehen.
+
+(5) Die Luftfeuchtigkeit muss mindestens 60% relative Luftfeuchtigkeit entsprechen. Die Wassertemperatur muss zwischen 22°C und 25°C liegen. Kurzzeitige Temperaturunterschreitungen bis minimal 18°C sind tolerierbar.
+
+(6) Die Tiere sind paar- oder gruppenweise zu halten.
+
+(7) Während der Vegetationsperiode sind den Tieren kultivierte Grassorten wie Weidegras und Knaulgras sowie Wildgräser, außerhalb der Vegetationsperiode Endivien- und Kopfsalat, mindestens viermal pro Tag anzubieten. Als zusätzliches Futter fungieren Wasserpflanzen (Helodea, Potamogeton, Eichhornia), Mais (grüne Pflanzen und Kolben), Gemüse jeglicher Art in kleineren Mengen roh oder in Salzwasser gekocht. Das Futter ist durch Gaben von Vitaminen (A,E) sowie Selen und Kochsalz zu ergänzen.
+
+**7.11.3. Schliefer (Hyracoidea)**
+
+(1) Die Gehege bis höchstens 5 Tiere haben folgende Maße aufzuweisen:
+
+1\. Außenanlage (Mindestfläche): 20 m<sup>2</sup>
+
+2\. Innenanlage (Mindestfläche): 5 m<sup>2</sup>
+
+Für jedes weitere Tier sind zusätzlich 10% der Fläche vorzusehen. Ein ganzjähriger Zugang zur Außenanlage mit mindestens zwei Ausbeziehungsweise Eingängen ist zu gewährleisten.
+
+(2) Die Temperatur im Innengehege muss mindestens 12°C betragen. Lokale Strahlungswärme ist anzubieten.
+
+(3) Als Gehegeeinrichtung sind Klettermöglichkeiten, kleine Felsaufbauten mit Nischen, Naturboden mit Sand oder Sandbecken einzurichten.
+
+(4) Die Haltung hat paarweise oder in Gruppen zu erfolgen.
+
+(5) Die Ernährung hat überwiegend mit pflanzlicher Kost zu erfolgen. Zusätzlich sind tierisches Eiweiß und Gaben von frischen Ästen und Laub erforderlich.
+
+**7.12. Unpaarhufer (Perissodactyla)**
+
+**7.12.1. Pferdartige Wildtiere (Equidea)**
+
+(1) Die Gehege bis zu einer Gruppe von 5 Tieren haben folgende Maße aufzuweisen:
+
+1\. Gehegefläche (Mindestmaße): 800 m<sup>2</sup>, jedes weitere Tier zusätzl. 10% der Gehegefläche
+
+2\. Innenanlage (Mindestmaße) 20 m<sup>2</sup> für ein Paar, für jedes weitere Tier zusätzl. 10% der Fläche Absperrgehege zum Separieren einzelner Tiere müssen vorhanden sein.
+
+(2) Eine überdachte, wettergeschützte Fläche im Gehege muss wahlweise von allen Tieren aufgesucht werden können. Bei Zebras und Wildeseln darf die Temperatur in Innenanlagen nicht weniger als 10°C betragen. Für winterharte Arten, wie zum Beispiel das Przewaksipferd oder der Halbesel sind keine Innenanlagen nötig, wenn geeignete Unterstände für alle Tiere angeboten werden.
+
+(3) Im Gehege muss der Untergrund häufig begangener Stellen wie Futterstelle oder Tränke befestigen sein. Sandbadeplätze zum Wälzen sind erforderlich. Trocken- oder Wassergräben, jedoch keine Steilgräben, sind als Absperrung möglich.
+
+(4) Die Haltung hat paarweise oder als Herde mit einem erwachsenen Hengst zu erfolgen. Junghengste und Jungstuten müssen von der Herde getrennt gehalten werden können. Die Haltung in Jungesellentrupps ist zulässig.
+
+(5) Als Futter müssen Grünfutter, Heu, Kraftfutter auf Getreidebasis sowie Saftfutter in Form von Rüben und Möhren sowie Laub und Äste angeboten werden.
+
+**7.12.2. Tapire (Tapiridae)**
+
+(1) Die Gehege pro Paar haben folgende Maße aufzuweisen:
+
+1\. Außenanlage (Mindestmaße): 200 m<sup>2</sup>
+
+2\. Innenanlage (Mindestmaße) pro Tier: 20 m<sup>2</sup>.
+
+Für jedes weitere erwachsene Tier sind zusätzlich 10% der Fläche vorzusehen. Absperrgehege zum Separieren einzelner Tiere müssen vorhanden sein. Ein ganzjähriger Zugang zur Außenanlage ist zumindest tagsüber zu gewährleisten.
+
+(2) Mit Ausnahme des Bergtapirs dürfen Stalltemperaturen nicht unter 15°C liegen. Auf der Außenanlage ist ein Schutz vor zu starker Sonneneinstrahlung einzurichten.
+
+(3) Als Gehegeeinrichtung sind die Außenanlage mit Naturboden oder Sand als Untergrund zu gestalten. Sowohl Außen- wie Innenanlagen sind mit Bademöglichkeiten zu versehen.
+
+(4) Die Tiere sind in Paaren oder in kleinen Gruppen zu halten.
+
+(5) Den Tieren sind Gras, Heu, Obst, Gemüse, Laub, Äste und Kraftfutter anzubieten.
+
+**7.12.3. Nashörner (Rhinocerotidae)**
+
+(1) Die Gehege pro Paar haben folgende Maße aufzuweisen:
+
+1\. Außenanlage (Mindestmaße): 1000 m<sup>2</sup>
+
+2\. Innenanlage (Mindestmaße) pro Tier: 30 m<sup>2</sup>, exklusive Badebecken
+
+Für jedes weitere erwachsene Tier sind zusätzlich 10% der Fläche vorzusehen. Ein ganzjähriger Zugang zur Außenanlage ist zu gewährleisten.
+
+(2) Das Außengehege muss sich für ein Paar Nashörner in zumindest zwei einzelne Abteilungen trennen lassen. Innenanlagen müssen eine Einzelaufstallung zulassen.
+
+(3) Die Mindesttemperaturen in der Innenanlage betragen für Afrikanische Arten 15°C, für Asiatische Arten 18°C.
+
+(4) Als Gehegeeinrichtung sind Außengehege mit einem Untergrund aus Sand oder Naturboden zu gestalten. Eine Schlammsuhle und Bademöglichkeit ist für alle Arten im Außengehege erforderlich, für Panzer- und Sumatranashörner ist auch eine Bademöglichkeit im Innengehege einzurichten. Scheuermöglichkeiten sind für alle Arten anzubieten.
+
+(5) Die Tiere müssen mindestens paarweise gehalten werden.
+
+(6) Den Tieren sind Gras, Heu, Kraftfutter, Obst und Laub anzubieten.
+
+**7.13. Paarhufer (Artiodactyla)**
+
+**7.13.1. Schweine (Suidae) und Pekaris (Tayassuidae)**
+
+(1) Die Gehege bis höchstens 5 Tiere haben folgende Maße aufzuweisen:
+
+| Arten | Außenanlage (Mindestmaße) (bis zu höchstens 5 adulte Tiere) | Innenanlage (Mindestmaße) (bis zu höchstens 5 adulte Tiere) |
+|---|---|---|
+| Tropische Arten, wie zB Warzenschwein (Phacochoerus aethiopicus), Buschschwein (Potamochoerus porcus pictus), Hirscheber (Babyrousa babyrussa) | 200 m<sup>2<br></sup>(jedes weitere adulte Tier zusätzlich 10% der Fläche) | 30 m<sup>2<br></sup>plus Wurfbox |
+| Pekaris (Tayassuidae) | 100 m<sup>2<br></sup>(jedes weitere adulte Tier zusätzlich 10% der Fläche) | 2 m<sup>2<br></sup>(pro Tier) |
+|  |  |  |
+
+(2) Der Zugang zum Außengehege muss für alle Arten ganzjährig gewährleistet sein.
+
+(3) Die Temperaturen der Innenanlagen müssen bei tropischen Arten mindestens 15°C, bei Pekaris mindestens 10°C betragen.
+
+(4) Im Gehege muss ausreichend störungsfreie Deckung zum Schutz gegen Witterungsverhältnisse, wie Regen, Schnee, Wind, Sonneneinstrahlung und Hitze in Form von natürlicher Deckung und Unterständen vorhanden sein. Sauberes Trinkwasser und Schlammlöcher zum Suhlen sowie die zugehörigen Scheuerbäume (Mahlbäume) müssen ständig zur Verfügung stehen. Dem angeborenen Wühltrieb muss die Bodenbeschaffenheit in Form von Naturboden Rechnung tragen, ein geeigneter Unterwühlschutz muss vorhanden sein. Die Umgebung der Futtertröge muss befestigt sein. Im Innenstall ist eine tiefe Einstreu zB. in Form eines Strohlagers einzurichten. In der feuchten Jahreszeit Frühling und Herbst ist ein Wühlgehege als Vorgehege in Form eines Wechselgeheges erforderlich.
+
+(5) Die Haltung muss zumindest paarweise oder in Gruppen erfolgen.
+
+(6) Den Tieren sind mindestens zweimal täglich, Kraftfutter wie Pellets und Getreide, gekochte Kartoffeln, Gemüse, Obst, Gras, Silage, Laub und wenig Heu anzubieten. Ergänzend ist dem Futter tierisches Eiweiß beizumengen.
+
+**7.13.2. Flusspferde (Hippopotamidae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | Außenanlage (Mindestmaße) (pro Paar, jedes weitere adulte Tier zusätzlich 10% der Fläche) | Innenanlage (Mindestmaße) (pro Paar, jedes weitere adulte Tier zusätzlich 10% der Fläche) | Bemerkung |
+|---|---|---|---|
+| Zwergflusspferd<br>(Choeropsis liberiensis) | 200 m<sup>2</sup> \*) | 20 m<sup>2<br></sup>pro adultes Tier | Ständig zugängiges Wasserbecken: 10 m<sup>2</sup> pro Tier, Mindesttiefe 1 m |
+| Flusspferd<br>(Hippopotamus amphibius) | 500 m<sup>2</sup> | 20 m<sup>2<br></sup>pro adultes Tier | Ständig zugängiges Wasserbecken: 15 m<sup>2</sup> pro Tier, Mindesttiefe 1,5 m |
+|  |  |  |  |
+
+\*) die Anlage muss sich für ein Paar in zumindest zwei einzelne zusammenhängende Abteilungen trennen lassen. Die Innenanlage muss eine Einzelaufstallung zulassen.
+
+(2) Bei Flusspferden ist eine ganzjährige Haltung im Außenbereich bei Wassertemperaturen über 15°C möglich. Bei Zwergflusspferden müssen sowohl Wasser- und Lufttemperatur mindestens 18°C betragen.
+
+(3) Als Gehegeeinrichtung sind in den Außenanlagen Naturboden oder befestigter Boden ohne scharfkantige Steine einzurichten. Im Innenbereich ist ein wärmeisolierter, abspritzbarer Bodenbelag zu wählen. Der Badebeckenzugang muss durch eine Rampe oder niedrige Stufen erreichbar sein.
+
+(4) Zwergflusspferde sind paarweise zu halten, eine Trennmöglichkeit muss jedoch bestehen. Flusspferde dürfen paarweise oder im Familienverband gehalten werden.
+
+(5) Den Tieren sind Gras, Heu, Silage, Kraftfutter, Obst und Gemüse anzubieten.
+
+**7.13.3. Kamele (Camelidae)**
+
+(1) Die Gehege bis höchstens 5 Tiere haben folgende Maße aufzuweisen:
+
+| Arten | Außenanlage (Mindestmaße) (bis höchstens 5 adulte Tiere, jedes weitere adulte Tier zusätzlich 10% der Fläche) | Unterstände (Mindestmaße) | Bemerkung |
+|---|---|---|---|
+| Großkamele (Camelus) | 800 m<sup>2</sup> | 6 m<sup>2<br></sup>(pro Tier) |  |
+| Kleinkamele (Guanako, Lama guanicoë und Vikunja, Lama vicugna) | 800 m<sup>2</sup> | 2 m<sup>2<br></sup>(pro Tier) | stärkerer Laufdrang |
+|  |  |  |  |
+
+(2) Kamelartige sind winterhart und sind ganzjährig in Außengehegen zu halten, wobei Unterstände zum Schutz gegen Witterungsverhältnisse, wie Regen, Schnee, Wind, Sonneneinstrahlung und Hitze, zur Verfügung stehen müssen, die allen Tieren gleichzeitig Platz bieten. Eine Ausnahme bilden Dromedare, ihnen ist eine Innenanlage mit einer Raumtemperatur über 10°C und einer Fläche von 15 m<sup>2</sup> pro Tier einzurichten.
+
+(3) Als Gehegeuntergrund ist Naturboden wie Sand und Wiesenboden einzurichten. Für Kleinkamele ist eine Geländestrukturierung in Form von Aussichtshügeln vorzusehen.
+
+(4) Kamelartige sind zumindest paarweise oder in kleinen Gruppen zu halten, die auch Hengstgruppen sein können.
+
+(5) Den Tieren sind Heu, im Sommer Gras, etwas Obst, Gemüse und Astwerk anzubieten. Kraftfutter ist nur als Zusatz zu verwenden. Die Gabe von Mineralsalz ist erforderlich.
+
+(6) Bei Kamelen ist regelmäßig Klauenpflege durchzuführen.
+
+**7.13.4. Zwergböckchen (Tragulina)**
+
+(1) Die Gehege haben pro Paar in der Innenanlage eine Mindestfläche von 30 m<sup>2</sup> aufzuweisen. Für jedes weitere erwachsene Tier sind zusätzlich 10% der Fläche vorzusehen.
+
+(2) Die Innenanlagen müssen eine Temperatur von mindestens 18°C aufweisen.
+
+(3) Die Gehege sind mit Naturboden wie Rindenmulch und zahlreichen Versteckmöglichkeiten aus Pflanzen und Wurzeln auszustatten. Kleine Hütten als Schlaf- oder Wurfboxen sind einzurichten.
+
+(4) Die Tiere müssen paarweise oder in kleinen Familiengruppen gehalten werden.
+
+(5) Den Tieren sind blattreiches Heu, Grünfutter, frische Äste und Zweige, Obst und Gemüse, Haferflocken und tierisches Eiweiß in Form von Insekten anzubieten.
+
+**7.13.5. Giraffen (Giraffinae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Tiere | Außenanlage (Mindestmaße) \*) | Innenanlage (Mindestmaße) \*) | Höhe (Mindestmaße) |
+|---|---|---|---|
+| Bis zu höchstens 5 Tiere | 1000 m<sup>2</sup> | 30 m<sup>2<br></sup>pro Tier | Innenanlage: 5,5 m Eingangstor: 3,2 m |
+|  |  |  |  |
+
+\*) Für jedes weitere Tier sind zusätzlich 10% der Fläche vorzusehen. Ein ganzjähriger Zugang zur Außenanlage ist zumindest tagsüber zu gewährleisten.
+
+(2) Die Temperatur im Innengehege muss mindestens 15°C betragen.
+
+(3) Im Gehege sind griffige und befestigte Laufflächen aus Schotter, Kies und Naturboden sowie hochhängende Futterraufen, Sandliegeflächen und Schattenflächen durch Bäume oder Gebäude einzurichten.
+
+(4) Die Tiere sind paarweise oder in kleineren Gruppen zu halten.
+
+**7.13.6. Okapis (Okapiinae)**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Tiere | Außenanlage (Mindestmaße) | Innenanlage (Mindestmaße) |
+|---|---|---|
+| Pro Tier | 150 m<sup>2</sup> | 15 m<sup>2</sup> |
+|  |  |  |
+
+Für jedes weitere Tier sind zusätzlich 10% der Fläche vorzusehen. Ein ganzjähriger Zugang zur Außenanlage ist zumindest tagsüber zu gewährleisten.
+
+(2) Das Innengehege muss eine Temperatur von mindestens 15°C aufweisen.
+
+(3) Im Gehege sind die Außenanlagen mit Naturboden wie Rasen, Schattenflächen durch Bäume, Sichtblenden und reichlich strukturierte Anlagen einzurichten.
+
+(4) Die Haltung muss zumindest paarweise erfolgen. Trennmöglichkeiten für Einzelgänger sind vorzusehen.
+
+(5) Den Tieren sind blattreiches Heu, Luzerne, auch in der kalten Jahreszeit reiche Gaben von Ästen und Laub sowie Obst, Gemüse, Kraftfutter und Salzlecksteine anzubieten.
+
+**7.13.7. Hirsche (Cervidae) mit Ausnahme von Schalenwild**
+
+(1) Die Gehege bis höchstens 5 Tiere haben folgende Maße aufzuweisen:
+
+<table>
+<tr>
+<td rowspan="2">Arten</td>
+<td colspan="2"><b>Außenanlage (Mindestmaße)</b> (bis höchstens 5 adulte Tiere, jedes weitere adulte Tier zusätzlich 10% der Fläche)</td>
+<td rowspan="2">Bemerkung</td>
+</tr>
+<tr>
+<td>in Zoos</td>
+<td>sonstige Haltung</td>
+</tr>
+<tr>
+<td>Kleinhirsche, wie Wasserreh (Hydropotes inermis), Moschustier (Moschus moschiferus), Muntjak (Muntiacus muntjak), Schopfhirsch (Elaphodus cephalophus), Schweinshirsch (Axis porcinus)</td>
+<td>120 m<sup>2</sup></td>
+<td></td>
+<td>Außengehege ganzjährig zugängig</td>
+</tr>
+<tr>
+<td>mittelgroße Arten, wie Weißwedel (Odocoileus virginianus)- und Maultierhirsch (Odocoileus hemionus), Axis (Axis axis), Pferdehirsch (Cervus unicolor), Leierhirsch (Cervus eldi), Sumpfhirsch (Odocoileus dichotomus), Pampashirsch (Odocoileus bezoarticus), Rentier (Rangifer tarandus),</td>
+<td>500 m<sup>2</sup></td>
+<td>5000 m<sup>2 </sup>in extensiver Haltung</td>
+<td></td>
+</tr>
+<tr>
+<td>Große Arten, wie Wapiti (Cervus elaphus), Weißlippenhirsch (Cervus albirostris), Barasingha (Cervus duvauceli), Elch (Alces alces)</td>
+<td>800 m<sup>2</sup></td>
+<td>10000 m<sup>2</sup> in extensiver Haltung,</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+(2) Für alle Hirscharten sind Unterstände zum Schutz gegen Witterungsverhältnisse, wie Regen, Schnee, Wind, Sonneneinstrahlung und Hitze einzurichten, so dass alle Tiere gleichzeitig bei Bedarf Unterschlupf finden können. Tropischen Arten, wie zum Beispiel der Leierhirsch oder das Vietnam-Sika sind einen beheizter Stall mit einem Mindestausmaß von 4 m<sup>2</sup> pro weibliches Tier und mit einer Mindesttemperatur von 10°C, der wahlweise aufgesucht werden kann, anzubieten.
+
+(3) Außengehege sind mit Naturboden und befestigtem Untergrund an den Futterstellen auszustatten. Unterstände oder Innengehege sind mit festem Untergrund und Einstreu einzurichten. Große Gehege sind mit Raumteilern wie Pflanzeninseln, Baumschutzringen, Erdhügeln oder Ähnlichem zu versehen. Für Kleinhirsche sind Versteckmöglichkeiten einzurichten. Asthaufen als Abliegeplätze der sich drückenden Neugeborenen, Fegebäume für Geweihträger und eine Suhle sind notwendig. Trennmöglichkeiten für männliche Tiere in der Brunft sind vorzusehen.
+
+(4) Den Tieren sind Heu ad libitum und zu jeder Tageszeit anzubieten. Die Gabe von Laub, Zweigen und Nadelbäumen sind ganzjährig bei allen Arten notwendig. Grünfutter beziehungsweise Heu, Kraftfutter auf Getreidebasis, Obst und Gemüse nach Saison und Salzlecksteine sind anzubieten. Kleinhirschen wie Schopfhirsche sind auch kleinere Mengen an tierischem Eiweiß zu füttern.
+
+**7.13.8. Gabelhorntiere (Antilocapridae)**
+
+(1) Die Gehege bis höchstens 5 Tiere haben folgende Maße aufzuweisen:
+
+| Tiere | Außenanlage (Mindestmaße) \*) | Innenanlage (Mindestmaße) \*) |
+|---|---|---|
+| bis zu höchstens 5 adulten Tieren | 800 m<sup>2</sup> | 10 m<sup>2</sup> pro Tier |
+|  |  |  |
+
+\*) Für jedes weitere Tier sind zusätzlich 10% der Fläche vorzusehen. Ein ganzjähriger Zugang zur Außenanlage ist zu gewährleisten.
+
+(2) Kalte Nässe ist zu vermeiden. Die Unterbringung muss in temperierten Innenanlagen von mindestens 10°C erfolgen.
+
+(3) Außengehege sind mit Naturboden und an den Futterstellen befestigtem Untergrund auszustatten. Unterstände oder Innengehege sind mit festem Untergrund und Einstreu zu versehen. Große Gehege sind mit Raumteilern wie Pflanzeninseln, Baumschutzringen, Erdhügeln oder ähnlichem einzurichten.
+
+Abtrennungen für männliche Tiere sind vorzusehen.
+
+(4) Die Haltung hat paarweise oder in kleinen Gruppen mit nur einem erwachsenen Männchen zu erfolgen.
+
+(5) Den Tieren sind eiweißreiche Pflanzennahrung und Salzlecksteine anzubieten.
+
+**7.13.9. Hornträger (Bovidae)**
+
+**7.13.9.1. Ducker (Cephalophinae) und Böckchen (Neotraginae)**
+
+(1) Die Gehege bis höchstens 5 erwachsene Tiere haben folgende Maße aufzuweisen:
+
+| Arten | Außenanlage (Mindestmaße) \*) | Innenanlage (Mindestmaße) \*) |
+|---|---|---|
+| für kleine Arten (wie zB die Dikdikarten [Madoquini]) | 100 m<sup>2</sup> | 4 m<sup>2<br></sup>pro Tier |
+| für mittelgroße Arten (wie zB Klippspringer [Oreotragus oreotragus]) | 200 m<sup>2</sup> | 10 m<sup>2<br></sup>pro Tier |
+| für größere Arten (wie zB Gelbrückenducker [Cephalophus sylvicultor]) | 500 m<sup>2</sup> | 10 m<sup>2<br></sup>pro Tier |
+|  |  |  |
+
+\*) Für jedes weitere Tier sind zusätzlich 10% der Fläche vorzusehen. Ein ganzjähriger Zugang zur Außenanlage ist zumindest tagsüber zu gewähren.
+
+(2) Die Temperatur der Innenanlage muss mindestens 18°C betragen.
+
+(3) Im Gehege müssen ausreichend Versteck- und Ausweichmöglichkeiten vorhanden sein. Für Klippspringer sind Kletterfelsen vorzusehen.
+
+(4) Die Tiere müssen paarweise oder in Familiengruppen gehalten werden.
+
+(5) Den Tieren sind Gräser, Laub, Obst und Gemüse, Körner sowie ein geringer Anteil an tierischem Eiweiß und Salzlecksteine anzubieten.
+
+**7.13.9.2. Waldböcke (Tragelaphinae), Kuhantilopen (Alcephalinae), Pferdeböcke (Hippotraginae) Riedböcke (Reduncinae), Gazellenartige (Antilopinae) und Saigaartige (Saiginae)**
+
+(1) Die Gehege bis höchstens 5 Tiere haben folgende Maße aufzuweisen:
+
+| Arten | Außenanlage (Mindestmaße) \*) | Innenanlage (Mindestmaße) \*) |
+|---|---|---|
+| mittelgroße Arten, wie Ried- und Wasserböcke (Reduncinae), Impalas (Aepyceros melampus), etc. | 500 m<sup>2</sup> | 4 m<sup>2<br></sup>pro Tier |
+| größere Arten, wie Oryx (Orynx gazella)-, Elen (Taurotragus orynx)- und Nilgauantilopen (Boselaphus tragocamelus), etc. | 800 m<sup>2</sup> | 5 m<sup>2<br></sup>pro Tier |
+|  |  |  |
+
+\*) Für jedes weitere Tier sind zusätzlich 10% der Fläche vorzusehen. Ein ganzjähriger Zugang zur Außenanlage ist zu gewährleisten.
+
+(2) Tropische Arten brauchen im Innengehege eine Temperatur von mindestens 10°C. Winterharten Formen wie der Kropfgazelle, Hirschziegenantilope und Saiga-Antilope sind Unterstände zum Schutz gegen Witterungsverhältnisse, wie Regen, Schnee, Wind, Sonneneinstrahlung und Hitze, so einzurichten, dass bei Bedarf alle Tiere gleichzeitig Unterschlupf finden können.
+
+(3) Für wenig temperaturempfindliche Arten wie Springböcke und Oryx-Antilopen muss der Zugang zu einem trockenen, windgeschützten Innenraum gewährleistet sein.
+
+(4) Die Strukturierung des Geheges durch Bäume, Pflanzeninseln, Hügel, große Steine oder andere Raumteiler muss den Tieren der Herde das Ausweichen ermöglichen. Häufig begangene Gehegeteile wie Futterstelle und Tränke sind zu befestigen. Versteckmöglichkeiten für Neugeborene des „Abliege-Typs“ sind einzurichten. Absperrmöglichkeiten für aggressiven Männchen müssen vorhanden sein.
+
+(5) Die Haltung hat in Gruppen mit einem erwachsenen Männchen, mehreren Weibchen und deren Nachwuchs zu erfolgen.
+
+(6) Den Tieren sind jedenfalls Äste und Laub, Heu, Gras, Gemüse und Obst sowie Kraftfutter und Salzlecksteine anzubieten.
+
+**7.13.9.3. Rinder (Bovinae) die nicht unter die 1. Tierhaltungsverordnung fallen:**
+
+(1) Die Gehege haben folgende Maße aufzuweisen:
+
+| Arten | **Außenanlage (Mindestmaße)** (bis zu höchstens 5 adulte Tiere, für jedes weitere adulte Tier zusätzlich 10% der Fläche) | Innenanlage (Mindestmaße) |
+|---|---|---|
+| Anoas (Bubalus depressicornis) (pro Paar) | 300 m<sup>2</sup> | 8 m<sup>2<br></sup>pro Tier |
+| alle anderen Arten | 800 m<sup>2</sup> | 10 m<sup>2<br></sup>pro Tier |
+|  |  |  |
+
+Ein ganzjähriger Zugang zur Außenanlage ist zu gewährleisten.
+
+(2) Arten aus gemäßigten und nordischen Klimazonen dürfen ganzjährig im Freien gehalten werden, wenn ein geeigneter Unterstand zum Schutz gegen Witterungsverhältnisse, wie Regen, Schnee, Wind, Sonneneinstrahlung und Hitze, zur Verfügung steht. Für tropische Arten muss die Temperatur im Innengehege mindestens 18°C betragen.
+
+(3) Befestigte Stellen am Futterplatz oder auf Hauptwechseln sind notwendig. Scheuerbäume, Sandbäder und bei Wasserbüffeln auch Wasserbecken, sind erforderlich. Gehegeunterteilungen müssen vorhanden sein.
+
+(4) Die Tiere sind paarweise, in Familiengruppen oder Herden zu halten. Bei Anoas ist die Haltung als Paar oder Familiengruppen nur zeitweise möglich.
+
+(5) Den Tieren sind Heu, Grünfutter, Kraftfutter auf Getreidebasis, Obst und Gemüse nach Saison, Laub, Äste und Salzlecksteine anzubieten.
+
+**7.13.9.4. Ziegenartige (Caprinae), außer Arten der Gattung Budorcas und Ovibos**
+
+(1) Für Gruppen bis zu 10 erwachsene Tiere haben die Gehege eine Mindestfläche von 500 m<sup>2</sup> aufzuweisen. Für jedes weitere erwachsene Tier ist die Grundfläche um 50 m<sup>2</sup> zu erweitern.
+
+(2) Unterstände zum Schutz gegen Witterungsverhältnisse wie Regen, Wind, Sonneneinstrahlung und Hitze sind einzurichten, so dass alle Tiere bei Bedarf gleichzeitig Unterschlupf finden können.
+
+(3) Als Gehegeeinrichtung sind ein Absperrgehege und Steinaufbauten als Kletterfelsen und zur Raumgliederung vorzusehen. Im Futterbereich sind Naturboden wie Naturfels und befestigter Boden erforderlich.
+
+(4) Die Tiere müssen je nach Art paarweise oder in Herden gehalten werden.
+
+(5) Den Tieren sind Heu, Grünfutter, Kraftfutter, Obst und Gemüse sowie reichlich Laub, Zweige, Nadelhölzer und Salzlecksteine anzubieten.
+
+**7.13.9.5. Takine (Budorcas sp.) und Moschusochsen (Ovibos sp.)**
+
+(1) Für Gruppen bis zu zehn erwachsene Tiere haben die Gehege eine Mindestfläche von 500 m<sup>2</sup> aufzuweisen. Für jedes weitere erwachsene Tier ist die Grundfläche um 50 m<sup>2</sup> zu erweitern.
+
+(2) Unterstände zum Schutz gegen Witterungsverhältnisse wie Regen, Wind Sonneneinstrahlung und Hitze müssen angeboten werden, so dass alle Tiere bei Bedarf darin gleichzeitig Unterschlupf finden können.
+
+(3) Für Moschusochsen sind sehr stabile Metallzäune, Beton oder Fels nötig. Die Gliederung des Raumes durch Steine, Bäume oder mittels Rundlaufmöglichkeit durch Vorgehege ist einzurichten. Kletterhügel für Takine sowie Unterstände sind erforderlich.
+
+(4) Die Haltung hat in kleinen Herden mit einem erwachsenen Bullen zu erfolgen.
+
+(5) Den Tieren sind pflanzliche Nahrung in Form von Heu, Grünfutter, Kraftfutter, Obst und Gemüse und Salzlecksteine anzubieten. Laub und Zweige sind ad libitum anzubieten.
+
+### Anlage 2
+
+**Mindestanforderungen an die Haltung von Vögeln**
+
+Die unter den Punkten 1 bis 4 der Anlage 2 beschriebenen Haltungsanforderungen gelten nicht für kranke oder verletzte Vögel, sofern nach tierärztlichem Ermessen eine andere Haltung erforderlich ist.
+
+Die Systematik dieser Anlage entstammt dem Buch Christopher M. Perrins: „Die Große Enzyklopädie der Vögel“ 1996, Orbis Verlag München.
+
+Unter der Gesamtlänge eines Vogels ist die Länge von Kopf- bis Schwanzspitze zu verstehen.
+
+**1. Mindestanforderungen für die Haltung von domestizierten Vögeln**
+
+(1) Zu den besonders häufig gehaltenen domestizierten Vögeln zählen: der Wellensittich (Meliopsittacus undulatus), der Nymphensittich (Nymphicus hollandicus), der Kanarienvogel (Serinus canaria), der Reisfink (Padda oryzivora), der Zebrafink (Taeniopygia guttata f. dom.) und das Japanische Mövchen (Lonchura striata f. dom.).
+
+(2) Den Tieren sind Sämereien, Grünfutter, Knospen, Beeren, Obst und besonders während der Jungenaufzucht auch Keimfutter und tierisches Eiweiß anzubieten. Bei mehr als nur einem Paar sind mehrere Futterstellen einzurichten, damit auch rangniedere Tiere zum Futter gelangen können.
+
+(3) Alle genannten Arten sind mindestens paarweise, mit Ausnahme des Kanarienvogels auch in Gruppen zu halten. Vögel, die individuell oder bei der Revierbildung extrem aggressives Verhalten zeigen, sind für den Zeitraum ihres aggressiven Verhaltens einzeln zu halten, wenn durch gesetzte Maßnahmen (zB Beseitigung von Überbesatz,..) keine Besserung des Verhaltens zu erzielen ist.
+
+(4) Als Standort für den Käfig oder die Voliere ist ein heller, zugluftfreier, ruhiger Platz zu wählen. Käfige müssen in mindestens 80 cm Höhe aufgestellt werden. Käfige in Wohnräumen sind abends abzudecken um den natürlichen Tag-Nachtrhythmus zu erhalten. In Käfigen gehaltenen Vögeln ist nach der Eingewöhnungszeit regelmäßig Zimmerfreiflug zu gewähren; dabei ist darauf zu achten, die Gefahren für freifliegende Vögel so gering als möglich zu halten. Das Halten von Vögeln in Rundvolieren mit einem Durchmesser unter 2 Meter ist verboten.
+
+(5) Die Ausstattung der Käfige und Volieren ist dem Verhaltensmuster der gehaltenen Vogelart tiergerecht anzupassen. Der Boden muß mit Sand, Hobelspänen von unbehandeltem Holz oder ähnlichem Material bedeckt sein, welches zur Aufnahme von Exkrementen geeignet ist. Dieser ist regelmäßig zu reinigen. Es sind mindestens 2 Sitzstangen aus Holz oder Ästen unterschiedlicher Stärke so anzubringen, dass eine Verschmutzung der Futter- und Wasserbehälter verhindert wird.
+
+(6) Für Vögel, die in Außenvolieren gehalten werden, muss ein trockener und zugfreier Schutzraum vorhanden sein. Die Raumtemperatur darf 5°C nicht unterschreiten.
+
+(7) Es müssen Schlafkästen oder Schlafkörbchen angeboten werden die auch als Versteckmöglichkeit dienen. Badegelegenheit ist anzubieten.
+
+(8) Die angegebenen Maße für die Käfige gelten für die paarweise Unterbringung und dürfen auch bei begründeter Einzelhaltung nicht unterschritten werden. Wo die Artverträglichkeit für ein weiteres Paar gegeben ist, ist die Grundfläche um 50% zu erweitern. Jungvögel bleiben bis zum Sebständigwerden unberücksichtigt.
+
+| **Art** | **Maße in Länge x Breite x Höhe in cm** | **Für jedes weitere Tier/Paar** |
+|---|---|---|
+| **Wellensittich** | 80 x 40 x 60 | 50% mehr Grundfläche |
+| **Nymphensittich** | 150 x 80 x 100 | 50% mehr Grundfläche |
+| **Reisfink** | 80 x 40 x 40 | 50% mehr Grundfläche |
+| **Kanarienvogel, Zebrafink, Japanisches Mövchen** | 60 x 35 x 40 | 50% mehr Grundfläche |
+|  |  |  |
+
+**2. Mindestanforderungen an die Haltung von nicht domestizierten Vögeln der Ordnung Papageien (Psittaciformes)**
+
+**2.1 Allgemeines**
+
+(1) Die Mindestanforderungen gelten für Vögel der Ordnung Papageien (Psittaciformes) mit den Familien Loris (Loriidae), Kakadus (Cacatuidae) und eigentliche Papageien (Psittacidae).
+
+(2) Die Haltung von Wellensittich (Melopsittacus undulatus) und Nymphensittich (Nymphicus hollandicus) ist in Abs. 1 geregelt.
+
+(3) Papageien dürfen nicht angekettet oder auf einem Bügel gehalten werden. Flugunfähige Papageien sind auf einer Fläche zu halten, die den Maßen des Käfigs oder der Voliere entspricht und vielfältige Klettermöglichkeiten enthält. Sie müssen jederzeit die Möglichkeit haben ihren Schutzraum aufzusuchen.
+
+(4) Die angegebenen Maße für Käfige oder Volieren gelten für die paarweise Unterbringung und dürfen auch bei begründeter Einzelhaltung nicht unterschritten werden. Bei Schwarmhaltung ganzjährig in Gruppen oder Kolonien zusammenlebender Arten wie den Mönchssittichen und einigen Agapornis-Arten ist die Grundfläche je weiteres gehaltenes Paar um 50% zu erweitern. Jungvögel bleiben bis zum Sebständigwerden unberücksichtigt.
+
+(5) Dem ausgeprägten Explorations- und Spielverhalten ist durch abwechslungsreiche Volieren-, Käfig- oder Schutzraumausstattung und Beschäftigungsmöglichkeiten (z. B. mit frischen Zweigen; „Beschäftigungsfutter“, wie zum Beispiel Hirserispen, und anderen geeigneten Objekten) zu entsprechen.
+
+(6) Besondere Sorgfalt ist auf abwechslungsreiches, geeignetes Futter zu verwenden. Die ausschließliche Ernährung mit trockenen Sämereien ist nicht ausreichend. Es müssen, je nach Art, Keimfutter, Obst, Gemüse, Grünfutter und, zumindest während der Jungenaufzucht, tierisches Eiweiß, gegebenenfalls auch Mineralstoffe, zum Beispiel Schulp (Sepia), angeboten werden. Bei mehr als nur einem Paar sind mehrere Futterstellen einzurichten, damit auch rangniedere Tiere zum Futter gelangen können.
+
+(7) Loris, Fledermauspapageien und Schwalbensittiche müssen Nektarfutter erhalten, das täglich frisch zubereitet werden muss. Zusätzlich sind Obst, Trockenfutter und Keimfutter, bei einigen Arten (zB Schwalbensittichen) auch in geringen Mengen Körnerfutter anzubieten.
+
+(8) Papageien sind grundsätzlich in Gruppen zu halten. Ausgenommen sind unverträgliche, bereits in Einzelhaltung übernommene und auf den Menschen geprägte sowie kranke und verletzte Vögel. Beim gewerblichen Verkauf von Papageien ist auf die erforderliche Paarhaltung hinzuweisen. Als unverträglich ist ein Papagei dann einzustufen, wenn er bei mehrmaligen Versuchen in angemessenen Intervallen, ihn mit Artgenossen zu vergesellschaften mit aggressivem Verhalten gegenüber oder Furcht vor den Artgenossen reagiert
+
+(9) Bei der Haltung in Außenvolieren muss ein allseits geschlossener und beleuchteter Schutzraum, mit jeweils für die Art definierten Größe, mit Ein- und Ausflugsöffnungen und Temperaturen, die den Ansprüchen der jeweiligen Art entsprechen, vorhanden sein. Im Einzelfall ist ein Witterungsschutz erforderlich, der von den Vögeln jederzeit aufgesucht werden können muss.
+
+(10) Werden Arten ausschließlich in Innenräumen gehalten, ist eine Innenvoliere entsprechend den Mindestmaßen der Außenvoliere einzurichten. Einzelheiten zu Mindesttemperaturansprüchen werden pro Artengruppe in den Detailbeschreibungen dieser Anlage angeführt.
+
+(11) Der Boden des Käfigs, der Innenvoliere und des Schutzraumes ist mit Sand, Hobelspänen von unbehandeltem Holz, Holzgranulat, Rindenmulch oder ähnlichem geeigneten Material abzudecken und regelmäßig zu reinigen. Der Boden einer Außenvoliere muss entweder aus Naturboden bestehen oder mit einem Belag aus Sand, Kies oder ähnlichem versehen sein. Die Wände müssen so befestigt sein, dass potentielle Fressfeinde nicht eindringen können. Das Material der Volieren, Käfige und deren Ausstattung darf nicht zu Gesundheitsschäden führen, muss leicht zu reinigen und so verarbeitet und angebracht sein, dass Verletzungen nicht auftreten können. Die Vergitterung muss aus Querstäben oder Geflecht bestehen. Käfige, Volieren und Schutzräume müssen mit mindestens 2 Sitzstangen aus Holz unterschiedlicher Stärke ausgestattet sein. Diese sind so anzubringen, dass möglichst lange Flugstrecken entstehen.
+
+(12) Eine Badeeinrichtung muss den Tieren ständig zur Verfügung stehen. Baden Vögel nicht, müssen sie bei geeignetem Wetter mindestens jedoch einmal wöchentlich mit Wasser besprüht werden.
+
+(13) Bei Schwarmhaltung müssen während der Fortpflanzungszeit mehr Nistkästen angeboten werden als Paare in der Voliere sind.
+
+**2.2. Spezielle Haltungsbedingungen**
+
+**2.2.1. Sittiche**
+
+(1) Die angegebenen Haltungsbedingungen betreffen die Gattungen:
+
+Alisterus, Aprosmictus, Aratinga, Barnardius, Bolborhynchus, Brotogeris, Cyanoliseus, Cyanoramphus, Enicognathus, Eunymphicus, Leptosittaca, Myiopsitta, Nandayus, Neophema, Ognorhynchus, Pezoporus, Platycercus, Polytelis, Prosopeia, Psephotus, Psittacula, Purpureicephalus, Pyrrhura, Rhynchopsitta.
+
+(2) Folgende Maße für Käfige und Volieren dürfen nicht unterschritten werden:
+
+| **Art** | **Maße des Käfigs/der Voliere Länge x Breite x Höhe in m** | **Grundfläche des Schutzraumes in** m<sup>2</sup> | **Mindesthöhe des Schutzraumes in m**<sup>2</sup> |
+|---|---|---|---|
+| **Arten der Gattungen Bolborhynchus, Brotogeris und Neophema bis 30 cm** | 2,0 x 1,5 x 2,0 | 1,0 | 1,0 |
+| **alle anderer Sittiche** | 4,0 x 2,0 x 2,0 | 2,0 | 1,0 |
+|  |  |  |  |
+
+(3) Die Temperatur im Schutzraum darf 5°C nicht unterschreiten.
+
+(4) Für australische Sittiche muss der Schutzraum frostfrei sein, für Halsbandsittich, Mönchssittich, Chinasittich, Felsensittich genügt ein trockener Witterungsschutz.
+
+(5) Südamerikanischen Sittichen mit den Gattungen Aratinga, Pyrrhura, Brotogeris oder Bolborhynchus müssen ganzjährig geeignete Schlafkästen zur Verfügung gestellt werde. Den übrigen Arten sind zur Fortpflanzung Nisthöhlen einzurichten.
+
+(6) Die Tiere sind in Familienverbänden oder Schwärmen zu halten. Während der Brutzeit darf die Haltung auch paarweise erfolgen.
+
+**2.2.2. Kurzschwänzige Papageien**
+
+(1) Die angegebenen Haltungsbedingungen betreffen die Gattungen:
+
+Agapornis, Amazona, Bolbopsittacus, Cacatua, Callocephalon, Calyptorhynchus, Coracopsis, Cyclopsitta, Deroptyus, Eclectus, Eolophus, Forpus, Geoffroyus, Graydidascalus, Gypopsitta, Hapalopsittaca, Micropsitta, Nannopsittaca, Nestor, Pionites, Pionopsitta, Pionus, Poicephalus, Prioniturus, Probosciger, Psittacara, Psittacella, Psittaculirostris, Psittacus, Psittinus, Psittrichas, Strigops, Tanygnathus, Touit, Triclaria.
+
+(2) Folgende Maße für Käfige und Volieren dürfen nicht unterschritten werden:
+
+|  | **Maße des Käfigs/der Voliere Länge x Breite x Höhe in m** | **Grundfläche des Schutzraumes in m**<sup>2</sup> **x Höhe in m** |
+|---|---|---|
+| **Arten der Gattungen Agapornis, Cyclopsitta, Forbus und Micropsitta bis 15 cm** | 0,85 x 0,85 x 1,8 | 0,8 x 0,8 |
+| **Arten mit 15 bis 25 cm Gesamtlänge** | 2,0 x 1,0 x 1,0 | 1,0 x 1,0 |
+| mit 25 bis 40 cm Gesamtlänge | 3,0 x 2,0 x 2,0 | 1,0 x 2,0 |
+| über 40 cm Gesamtlänge | 4,0 x 2,0 x 2,5 | 2,0 x 2,0 |
+|  |  |  |
+
+(3 Die Temperatur im Schutzraum darf für Cyclopsitta, Eclectus, Forpus, Geoffroyus, Graydidascalus, Gypopsitta, Micropsitta, Pionites, Pionopsitta, Prioniturus, Psittacella, Psittaculirostris, Psittinus, Psittrichas, Tanygnathus, Triclaria 15°C, für alle anderen Arten 10°C nicht unterschreiten.
+
+(4) Für Nachzuchten der Gattungen Cacatua, Callocephalon, Eolophus, Hapalopsittaca, Nannopsittaca, Poicephalus darf die Temperatur im Schutzraum 5°C betragen, für Agapornis muss der Schutzraum frostfrei sein. Für Keas genügt ein Witterungsschutz. Weißbauchpapageien (Pionites-Arten) sind ganzjährig Schlafkästen anzubieten. Höhlen sind allen Tieren anzubieten.
+
+(5) Die Tiere sind in Familienverbänden oder Schwärmen zu halten. Während der Brutzeit darf die Haltung auch paarweise erfolgen.
+
+**2.2.3. Aras**
+
+(1) Die angegebenen Haltungsbedingungen betreffen die Gattungen:
+
+Anodorhynchus, Ara, Cyanopsitta, Diopsittaca.
+
+(2) Folgende Maße für Käfige und Volieren dürfen nicht unterschritten werden:
+
+| **Größe** | **Maße des Käfigs/der Voliere Länge x Breite x Höhe in m** | **Grundfläche des Schutzraumes in m**<sup>2</sup> **x Höhe in m** |
+|---|---|---|
+| **Arten bis 60 cm Gesamtlänge** | 4,0 x 2,0 x 3 | 1,0 x 2 |
+| **über 60 cm Gesamtlänge** | 6,0 x 2,5 x 3 | 2,0 x 2 |
+|  |  |  |
+
+(3) Im Schutzraum darf eine Temperatur von 10°C nicht unterschritten werden.
+
+(4) Die Tiere sind außerhalb der Brutzeit in Familienverbänden oder kleinen Gruppen zu halten, während der Brutzeit darf die Haltung paarweise erfolgen.
+
+**2.2.4. Loris und andere nektartrinkende Arten**
+
+(1) Die angegebenen Haltungsbedingungen betreffen die Gattungen:
+
+Chalcopsitta, Charmosyna, Eos, Glossopsitta, Lathamus, Loriculus, Lorius, Neopsittacus, Oreopsittacus, Phigys, Pseudeos, Psitteuteles, Trichoglossus, Vini.
+
+(2) Folgende Maße für Käfige und Volieren dürfen nicht unterschritten werden:
+
+| **Größe** | **Maße des Käfigs/der Voliere Länge x Breite x Höhe in m** | **Grundfläche des Schutzraumes in m**<sup>2</sup> |
+|---|---|---|
+| **Arten bis 20 cm Gesamtlänge** | 1,5 x 1,0 x 1,0 | 1,0 |
+| **über 20 cm Gesamtlänge** | 3,0 x 1,5 x 2,0 | 1,0 |
+|  |  |  |
+
+(3) Die Temperatur im Schutzraum muss mindestens 10°C, für Fledermauspapageien 15°C, betragen, für Loris aus Bergregionen, darf sie 5°C nicht unterschreiten. Für die kälteunempfindlicheren Schwalbensittiche muss der Schutzraum frostfrei sein.
+
+(4) Der Boden von Käfigen oder Innenvolieren muss wegen der flüssigen Ausscheidungen der Tiere mit saugfähiger Einstreu abgedeckt oder mit einem Zwischenboden (Hängekäfige) versehen werden. Volieren dürfen auch gefliest, betoniert oder mit anderem abwaschbarem Material ausgestattet sein, Außenvolieren auch gewachsener Boden; grober Kies muss jährlich ausgetauscht werden.
+
+(5) Die Tiere können in Familienverbänden, Gruppen oder Schwärmen gehalten werden.
+
+(6) Das für diese Nahrungsspezialisten notwendige Futter muss zweimal täglich frisch zubereitet werden.
+
+**3. Mindestanforderungen an die Haltung von Tauben**
+
+Die Mindestanforderungen gelten für Vögel der Ordnung Tauben (Columbiformes) mit der Familie Tauben (Columbidae).
+
+(1) Mindestanforderungen an die Haltung von Tauben, ausgenommen die domestizierten Formen der Felsentaube (Columba livia):
+
+1\. Folgende Maße für Käfige und Volieren dürfen pro Paar der jeweiligen Arten nicht unterschritten werden:
+
+<table>
+<tr>
+<td rowspan="2"><b>Arten</b></td>
+<td colspan="2"><b>Maße des Käfigs/der Voliere</b></td>
+</tr>
+<tr>
+<td>Bodenfläche in m<sup>2</sup></td>
+<td>Höhe in cm</td>
+</tr>
+<tr>
+<td>Kleine Arten, wie Kaptäubchen (Oena capensis)</td>
+<td>1,6</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Mittelgroße Arten, wie Guineataube (Columba guinea)</td>
+<td>3</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Große Arten, wie Kronentaube (Columba coronata)</td>
+<td>5</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+2\. In bepflanzten Volieren sind ausreichend Sitzgelegenheiten, Naturboden sowie Gras und Sand vorzusehen. Flache Badebecken und Möglichkeiten zum Sandbaden sind erforderlich. Bei Arten, die ganzjährig im Freien gehalten werden, ist ein überdachter Wind- und Wetterschutz erforderlich. Tropischen und subtropischen Arten ist ein temperierter Innenraum von mindestens 1 m<sup>2</sup> Grundfläche für kleinere und mittelgroße Arten und 2 m<sup>2</sup> für große Arten einzurichten. Die Temperatur ist je nach Art von frostfrei bis zu mindestens 15°C zu gestalten.
+
+3\. Allen Tauben sind Körnerfutter, zusätzlich Grünfutter und Grit, zur Nahrungszerkleinerung im Muskelmagen, anzubieten:
+
+a) Großen Tauben: eine Körnermischung aus Getreide (60-70%) und Leguminosen (30-40%),
+
+b) Mittelgroßen Tauben: eine Körnermischung aus Getreide (60-70%) und Leguminosen (30-40%) ohne die größten Körnersorten und ergänzt durch Glanz und Hirse,
+
+c) Kleinen Tauben: kleinere Sämereien wie handelsübliche Wellensittich-, Kanarien- und Waldvogelmischungen,
+
+d) Fruchttauben: Beeren und Früchte, Weichfutter und nur ein geringer Anteil Körnerfutter.
+
+4\. Tauben sind paarweise zu halten.
+
+(2) Mindestanforderungen an die Haltung von den domestizierten Formen der Felsentaube:
+
+1\. Die Mindestanforderungen gelten für alle domestizierten Formen der Felsentaube (Columba livia); dies sind z. B. Brieftauben und Rassetauben. Alle domestizierten Formen der Felsentaube gelten als winterhart.
+
+2\. Einteilung der Tauben nach Rassen in Größenkategorien:
+
+a) Kleine Rassen: Ringgröße 6 – 9 (bis Brieftaubengröße bzw. bis zu einer Gesamtlänge von 35 cm)
+
+b) Große Rassen: Ringgröße 10 – 15 (größer als Brieftauben bzw. ab einer Gesamtlänge von 35 cm)
+
+c) Rasselose Tauben sind entsprechend ihrer Gesamtlänge der Gruppe der kleinen oder der Gruppe der großen Rassen zuzuordnen.
+
+3\. Haltungsformen:
+
+a) Zuchttauben (auch mit Jungtauben) ohne Freiflug
+
+b) Zuchttauben (auch mit Jungtauben) mit täglichem Freiflug
+
+c) Zuchttauben (auch mit Jungtauben) mit permanentem Freiflug
+
+d) Adulte Tauben, die sich nicht in der Zucht befinden und abgesetzte Jungtauben ohne Freiflug
+
+e) Adulte Tauben, die sich nicht in der Zucht befinden und abgesetzte Jungtauben mit täglichem Freiflug
+
+f) Adulte Tauben, die sich nicht in der Zucht befinden und abgesetzte Jungtauben mit permanentem Freiflug.
+
+4\. Definitionen:
+
+a) Jungtauben: Tauben bis zum Absetzen oder spätestens bis zum 35. Lebenstag.
+
+b) Adulte Tauben: Tauben ab dem Absetzen oder spätestens ab dem 36. Lebenstag.
+
+c) täglicher Freiflug: Die Tauben müssen mindestens einmal täglich Freiflug erhalten, außer die Witterungsverhältnisse lassen den Freiflug nicht zu.
+
+d) permanenter Freiflug: Den Tauben muss ganzjährig und den ganzen Lichttag lang Freiflug gewährt werden.
+
+5\. Außenvoliere
+
+a) Für Anlagen ohne täglichen oder permanenten Freiflug, die nach Inkrafttreten der Verordnung BGBl. II Nr. 68/2016 errichtet werden, ist, ausgenommen für Brief- und Flugtauben, pro Stalleinheit eine Außenvoliere zu errichten.
+
+b) Die Mindestgrundfläche einer Außenvoliere beträgt 3 m<sup>2</sup>, die Mindesthöhe 1,8 m, wobei die kürzeste Seite mind. 1 m lang sein muss. Die max. Besatzdichte einer derartigen Außenvoliere ist 24 Tauben. Für jede weitere Taube ist die Mindestgrundfläche der Außenvoliere um 0,12 m<sup>2</sup> zu vergrößern.
+
+c) Für bereits vor Inkrafttreten der Verordnung BGBl. II Nr. 68/2016 bestehende Anlagen ohne täglichen oder permanenten Freiflug sind vergitterte Offenfronten mit mind. 2 m<sup>2</sup> Fläche pro Stalleinheit vorzusehen. Diese müssen über die gesamte Länge mit einer entsprechenden Sitzgelegenheit ausgestattet sein.
+
+d) Bei der Haltung von Brief- und Flugtauben ist den Tauben täglicher Freiflug zu gewähren. Ist kein täglicher Freiflug möglich, so sind auch bei bereits bestehenden Anlagen die Bestimmungen für eine Außenvoliere gemäß lit. b) einzuhalten.
+
+e) Die Außenvoliere darf über max. 1/3 der Grundfläche überdacht ausgeführt sein.
+
+f) Die Außenvoliere ist mit geeigneten Sitzgelegenheiten auszustatten.
+
+6\. Stallgröße und Besatzdichte
+
+a) Die Mindeststallgröße beträgt 3 m<sup>2</sup>. Ein Drittel der Stallfläche muss eine Mindesthöhe von 1,8 m aufweisen. Kurzfristige, für einen Zeitraum von max. zwei Tagen, abweichende Haltungsbedingungen (z. B. beim Verpaaren der Haustauben vor der Zuchtzeit) sind fachlich zu begründen.
+
+b) Folgende Mindestmaße dürfen nicht unterschritten werden:
+
+Kleine Rassen (Tabelle1)
+
+| Haltungsvariante | m<sup>2</sup> pro Tier |
+|---|---|
+| Zuchttauben (auch mit Jungtauben) ohne Freiflug\* | 0,3 m<sup>2</sup> |
+| Zuchttauben (auch mit Jungtauben) mit täglichem Freiflug\* | 0,2 m<sup>2</sup> |
+| Adulte Tauben, die sich nicht in der Zucht befinden und abgesetzte Jungtauben ohne Freiflug | 0,2 m<sup>2</sup> |
+| Adulte Tauben, die sich nicht in der Zucht befinden und abgesetzte Jungtauben mit täglichem Freiflug | 0,13 m<sup>2</sup> |
+|  |  |
+
+\* Jungtauben werden nicht gezählt.
+
+Große Rassen (Tabelle 2)
+
+| Haltungsvariante | m<sup>2</sup> pro Tier |
+|---|---|
+| Zuchttauben (auch mit Jungtauben) ohne Freiflug\* | 0,4 m<sup>2</sup> |
+| Zuchttauben (auch mit Jungtauben) mit täglichem Freiflug\* | 0,25 m<sup>2</sup> |
+| Adulte Tauben, die sich nicht in der Zucht befinden und abgesetzte Jungtauben ohne Freiflug | 0,25 m<sup>2</sup> |
+| Adulte Tauben, die sich nicht in der Zucht befinden und abgesetzte Jungtauben mit täglichem Freiflug | 0,16 m<sup>2</sup> |
+|  |  |
+
+\* Jungtauben werden nicht gezählt.
+
+c) Für Tauben, denen permanenter Freiflug gewährt wird, sind die genannten Mindestmaße nicht anzuwenden.
+
+7\. Weitere Anforderungen:
+
+a) Tauben sind in Schwärmen zu halten, mindestens jedoch zu zweit. Dies gilt grundsätzlich auch für Brief- und Flugtauben während der Flugsaison. Kurzfristige – für einen Zeitraum von max. zwei Tagen – abweichende Haltungsbedingungen sind fachlich zu begründen und entsprechend aktuell zu dokumentieren.
+
+b) Einmal wöchentlich ist den Tauben eine geeignete Badegelegenheit anzubieten.
+
+c) Während der Zuchtzeit ist jedem Zuchtpaar mindestens eine geeignete Nistgelegenheit zur Verfügung zu stellen. Weiters ist geeignetes Nistmaterial in Form von Stroh, Birkenreisig oder Ähnlichem anzubieten.
+
+d) Jeder Taube ist im Stall mindestens eine der Körpergröße der Taube angepasste Sitzgelegenheit zur Verfügung zu stellen. Stehen den Tieren Nistgelegenheiten in Form von Nistzellen oder Nistfächern zur Verfügung, so zählt eine Nistgelegenheit für zwei Sitzgelegenheiten. Die Sitzgelegenheiten sind in verschiedenen Höhen anzubringen. Wenn Laufbretter als Sitzgelegenheit verwendet werden, zählen 0,5 lfm Laufbrett als eine Sitzgelegenheit.
+
+e) Der Boden des Schlages muss leicht zu reinigen sein.
+
+f) Allen Tauben ist geeignetes Körnerfutter und Grit zur Nahrungszerkleinerung im Muskelmagen anzubieten.
+
+g) Es ist ein ständiger Zugang zu Frischwasser zu gewähren.
+
+**4. Mindestanforderungen an die Haltung von Entenvögeln und Lappentauchern**
+
+(1) Die Mindestanforderungen gelten für Vögel der Ordnung Entenvögel (Anseriformes) mit den Familien Wehrvögel (Anhimidae) und Entenvögel (Anatidae) und der Ordnung der Lappentaucher (Podicipediformes)
+
+(2) Die Haltung muss in Außenanlagen mit offenen Wasserflächen und angrenzendem Landteil erfolgen. Kleinere Arten dürfen auch in Volieren gehalten werden, wenn ausreichend Wasserflächen vorhanden sind. Nordische Arten und Arten aus den gemäßigten Breiten sind kälteunempfindlich und dürfen in der Freianlage auf eisfreiem Wasser überwintern. Tropische Arten müssen in frostfreien Innenräumen überwintert werden, der Aufenthalt in geschlossenen Räumen ist so kurz als möglich zu halten. Winterharte Enten tropischer Arten (z. B. Hottentottenenten, Rotschulterenten, Bahamaenten, ..) dürfen bei Gewöhnung auch im Freien überwintern.
+
+Voliere müssen pro adultem Paar folgende Mindestmaße an Fläche in m<sup>2</sup> x Höhe in m aufweisen
+
+1\. für kleine Arten (zB Stockente): 4 x 2
+
+2\. für großere Arten (zB Graugans): 8 x 4
+
+(3) Entenvögel sind mindestens paarweise zu halten.
+
+(4) Den Tieren sind pelletiertes handelsübliches Alleinfutter; Körnermischungen aus Weizen, Gerste, Mais und Hirse; Grünfutter in Form von Gräsern und Kräutern; Salat, geschnittenes Gemüse; bei einigen Arten die Fütterung von Fisch, Fleisch, Muscheln, Garnelen und Insekten anzubieten. Zur Aufzucht ist allen Arten auch tierisches Eiweiß zu geben.
+
+**5. Mindestanforderungen an die Haltung von Hühnervögeln**
+
+(1) Die Mindestanforderungen gelten für Vögel der Ordnung Hühnervögel (Galliformes) mit der Familie Großfußhühner (Megapodiidae), Hokkohühner (Cracidae), Truthühner (Meleagrididae), Rauhfußhühner (Tetraonidae), Zahnwachteln (Odontophoridae), Glattfußhühner (Phasianidae) und Perlhühner (Numididae).
+
+(2) Die Voliere müssen pro adultem Paar folgende Mindestmaße an Fläche in m<sup>2</sup> x Höhe in m aufweisen:
+
+1\. für sehr kleine Hühner (zB Wachteln) pro Paar 2 x 2
+
+2\. für kleine Hühner (zB Frankoline) pro Paar 4 x 2
+
+3\. für mittelgroße bis große Hühner (zB Fasane) pro Paar 18 x 2,5
+
+4\. für sehr große Hühner (z. B. Pfaue) pro Paar 18 x 3
+
+(3) Hühnervögeln sind sehr große, dicht mit Büschen, Laubgehölzen oder Koniferen bepflanzte Volieren einzurichten. Für besonders schreckhafte Arten ist eine weiche Volierendeckenbespannung vorzusehen. Für die meisten Arten sind Kletterbäume zum Aufbaumen einzurichten. An der Rückseite der Voliere muss ein Schutzraum und für winterharte Arten ein dreiseitig geschlossener, nur zur Voliere hin offener, überdachter Bereich vorhanden sein. Der Schutzraum oder überdachte Bereich muss ein Drittel des Mindestmaßes der Außenvoliere einnehmen. Bei aneinandergereihten Zuchtvolieren muss das Trenngitter zur Vermeidung optischer Kontakte der territorialen Männchen entlang der Längsseiten 60-80 cm hohe durchgehende Sichtblenden aufweisen.
+
+(4) Die Tiere sind ihren sozial entsprechenden Bedürfnissen paarweise, in Gruppen oder außerhalb der Brutzeit einzeln zu halten.
+
+(5) Zur Ernährung sind grüne Pflanzenteile aller Art, Sämereien und Getreide wie Hafer, Weizen, Mais, Buchweizen, Hirse, Geflügel-, Putenfertigfutter sowie Beeren und Früchte anzubieten. Tierisches Eiweiß in Form von Mehlkäferlarven, Insekten und anderen Kleintieren sind vor allem während der Jungenaufzucht für alle Arten zwingend notwendig. Rauhfußhühner sind im Winter Koniferennadeln zu füttern.
+
+(6) Werden Fasane in einer größeren Anzahl als nur paarweise gehalten, so ist als Mindestmaß ab der 20. Woche eine verfügbarer Fläche von 8 m<sup>2</sup> pro Tier, bei Jungvögeln von der achten bis 12. Wochen 1,5 m<sup>2</sup> pro Tier, von der 12. bis 16. Woche 3 m<sup>2</sup> pro Tier, von der 16. bis 20. Woche 6 m<sup>2</sup> einzuhalten. Für entsprechenden Bodenbewuchs in den Volieren und ein den Bedürfnissen der Hühnervögel angepasstes Nahrungsangebot ist zu sorgen. Schnabelkürzen und Schnabeldurchbohren bei Fasanen ist verboten.
+
+**6. Mindestanforderungen an die Haltung von Straußenvögeln (Struthioformes)**
+
+**6.1. Allgemeines**
+
+(1) Die Mindestanforderungen gelten für Vögel der Ordnung Straußenvögel (Struthioformes) mit den Familien Nandus (Rheidae), Kasuare (Casuariidae) und Emus (Dromaiidae). Die Mindestanforderungen für die Familie der Strauße (Struhionidae) sind in der 1. Tierhaltungsverordnung geregelt.
+
+**6.2. Spezielle Haltungsbedingungen**
+
+**6.2.1. Nandus – Rheidae und Emus – Dromaiidae**
+
+(1) Der Raumbedarf im Außengehege beträgt bei Nandus 200 m<sup>2</sup> je Paar. Für jedes weitere Tier sind 50 m<sup>2</sup> vorzusehen.
+
+(2) Der Raumbedarf im Außengehege beträgt bei Emus 200 m<sup>2</sup> je Paar. Im Innengehege 4 m<sup>2</sup> je Tier.
+
+(3) Haltung erfolgt zumindest paarweise, bei Verträglichkeit auch in Gruppen.
+
+(4) Gehegeecken dürfen nicht spitzwinkelig angelegt sein. Rechtwinklige Gehegeecken müssen gebrochen werden, wenn die Tiere nicht unter ständiger Aufsicht stehen. Für Emus muss ein Badebecken angelegt werden, dass sie, außer in den Wintermonaten, ständig aufsuchen können. Bei Emus ist für ausreichend beschattete Flächen zu sorgen. Elektrozäune als alleinige Einfriedung sowie Stacheldraht sind verboten.
+
+(5) Bei Dauerfrost unter einer Temperatur von 10°C müssen die Tiere einen trockenen, windgeschützten Innenraum aufsuchen können. Im Winter ist ein Strohlager einzurichten.
+
+(6) Emus und Nandus ist Grünfutter und Kraftfutter anzubieten. Der höhere Eiweißbedarf ist durch Kückenmischfutter oder Insekten zu decken.
+
+**6.2.2. Kasuare – Casuaridae**
+
+(1) Der Raumbedarf im Außengehege beträgt je Paar 300 m<sup>2</sup>, trennbar in zwei gleich große Teilbereiche. Im Innengehege sind 10 m<sup>2</sup> je Tier vorzusehen.
+
+(2) Gehegeecken dürfen nicht spitzwinkelig angelegt sein. Rechtwinklige Gehegeecken müssen gebrochen werden, wenn die Tiere nicht unter ständiger Aufsicht stehen. Elektrozäune als alleinige Einfriedung sowie Stacheldraht sind verboten.
+
+(3) Kasuare sind bei Temperaturen unter 0°C im Innengehege zu halten. Ein stundenweiser Auslauf ist auch bei Temperaturen unter 0°C möglich. Die Temperatur im Innengehege darf 15°C nicht unterschreiten.
+
+(4) Kasuare sind außerhalb der Balzzeit einzeln zu halten.
+
+(5) Das Futter der Kasuare muss ausreichend Obst und Gemüse enthalten.
+
+**7. Mindestanforderungen an die Haltung von Pinguinen**
+
+(1) Die Mindestanforderungen gelten für Vögel der Ordnung Pinguine (Sphenisciformes) mit der Familie Pinguine (Spheniscidae).
+
+(2) Den Tieren sind Seefische, Heringe, Sardinen, Sprotten, Makrelen, Stinte, Wittlinge und nach Möglichkeit auch Krebstiere und Tintenfische anzubieten. Zusätzliche Multivitamingaben, besonders Vit. A und D3 sowie Salz in Form von NaCl-Tabletten sind notwendig.
+
+(3) Pinguine sind in Gruppen von mindestens 3 Paaren zu halten.
+
+(4) Für die kleineren Arten aus den gemäßigten Breiten sind Außenanlagen mit Naturstein- oder Naturboden, auch Sand und Rasen einzurichten. Bruthöhlen (ca. 60 x 60 cm) sind anzubieten. Die Vögel dürfen ganzjährig in den Außenanlagen gehalten werden.
+
+(5) Mindestmaße der Außenanlage:
+
+1\. für bis zu 12 Pinguine 60 m<sup>2</sup>, für jedes weitere Tier 3 m<sup>2</sup>.
+
+2\. Zusätzlich muss ein Wasserbecken mit einer Mindestgröße von 10 m<sup>2</sup> und einer Mindesttiefe von 1 m vorhanden sein.
+
+(6) Für kleine Arten der antarktischen Region sowie für die großen Pinguinarten sind klimatisierte Innenanlagen mit einer Lufttemperatur zwischen 2 und 10°C und einer Luftfilterung durch keimtötende Lampen oder Ähnliches einzurichten.
+
+(7) Die Mindestmaße der Innenanlage haben zu betragen:
+
+1\. Für bis zu 12 kleine Pinguine 60 m<sup>2</sup>, für jedes weitere Tier 1 m<sup>2</sup>.
+
+2\. Zusätzlich muss ein Wasserbecken mit einer Mindestgröße von 10 m<sup>2</sup> und einer Mindesttiefe von 1 m vorhanden sein.
+
+3\. Für bis zu 6 große Pinguinarten ab Eselspinguine (Pygoscelis papua) 60 m<sup>2</sup>, für jedes weitere Tier 2 m<sup>2</sup>.
+
+4\. Zusätzlich muss ein Wasserbecken mit einer Mindestgröße von 12 m<sup>2</sup> und einer Mindesttiefe von 2 m vorhanden sein.
+
+(8) Die Wasserqualität in den Wasserbecken ist durch geeignete Filteranlagen und regelmäßigen Wassertausch zu gewährleisten.
+
+**8. Mindestanforderungen an die Haltung von Ruderfüßern**
+
+(1) Die Mindestanforderungen gelten für Vögel der Ordnung Ruderfüßer (Pelecaniformes) mit den Familien Pelikane (Pelecanidae) und Kormorane (Phalacrocoracidae).
+
+(2) Den Tieren sind kleine Süß- und Seewasserfische wie Weißfische, Barsche und Heringe, zusätzlich auch Ersatzfutter in Form von Futterkücken mit Mineralstoff- und Vitaminpräparaten anzubieten.
+
+(3) Pelikane und Kormorane sind in Gruppen von mindestens 4 Tieren zu halten.
+
+(4) Auf den Außenanlagen sind Teiche mit Inseln oder natürlichen Wasserläufen erforderlich. Pelikane und Kormorane der gemäßigten Breiten dürfen ganzjährig auf den Außenanlagen gehalten werden, wobei dafür zu sorgen ist, dass die Wasserflächen auch bei Temperaturen unter 0°C nicht zufrieren. Arten der subtropischen und tropischen Küsten müssen während der Frostperioden in beheizten Innengehegen gehalten werden. Auch in den Innenanlagen ist eine Badegelegenheit zur Verfügung zu stellen.
+
+(5) Mindestmaße für die Außenanlage:
+
+1\. für 6 Pelikane 60 m<sup>2</sup>, für jedes weitere Tier 10 m<sup>2</sup> mehr;
+
+zusätzlich ein Wasserbecken: mindestens 50 m<sup>2</sup>, Mindesttiefe 1 m.
+
+2\. für 6 Kormorane 40 m<sup>2</sup>, für jedes weitere Tier 2 m<sup>2</sup> mehr;
+
+zusätzlich ein Wasserbecken: mindestens 40 m<sup>2</sup>, Mindesttiefe 1 m.
+
+(6) Mindestmaße für die Innenanlage:
+
+für 6 Pelikane oder für 6 Kormorane 20 m<sup>2</sup>, für jedes weitere Tier 3 m<sup>2</sup> mehr.
+
+**9. Mindestanforderungen an die Haltung von Schreitvögeln**
+
+**9.1 Allgemeines**
+
+(1) Die Mindestanforderungen gelten für Vögel der Ordnung Schreitvögel (Ciconiiformes) mit den Familien Reiher (Ardeidae), Störche (Ciconiidae), Ibisse (Threskiornithidae) und der Ordnung Flamingos (Phoenicopteriformes) mit der Familie Flamingos (Phoenicopteridae)).
+
+**9.2. Spezielle Haltungsbedingungen**
+
+**9.2.1. Reiher – Ardeidae**
+
+(1) Alle Reiherarten ernähren sich von tierischer Kost. Gefüttert werden Fische, Kleinsäuger (wie Mäuse und Ratten), Futterkücken, kleineren Arten auch Weichfutter und Insekten.
+
+(2) Die Tiere sind zumindest paarweise zu halten.
+
+(3) Das Gehege ist mit Naturboden, Sträuchern und Bäumen zu strukturieren. Aufbaummöglichkeiten müssen vorhanden sein; ein Teich oder Wasserbecken ist zwingend erforderlich.
+
+(4) Arten aus gemäßigten Breiten dürfen ganzjährig auf der Außenanlage gehalten werden. Arten aus den Tropen und Subtropen müssen warm überwintert werden. Die Temperatur in den Innenräumen darf 10°C nicht unterschreiten. Nach einer Eingewöhnung darf diesen Arten bei Außentemperaturen über 5°C auch in den Wintermonaten ein Zugang zu den Außenanlagen gewährt werden.
+
+(5) Mindestmaße der Außenanlage:
+
+1\. für Goliathreiher pro Paar 100 m<sup>2</sup>
+
+2\. für bis zu 6 Reiher 50 m<sup>2</sup>, für jedes weitere Tier 5 m<sup>2</sup> mehr;
+
+(6) Mindestmaße der Innenanlage:
+
+1\. für Goliathreiher pro Paar 10 m<sup>2</sup>
+
+2\. für bis zu 6 große Reiher (zB Graureiher) 20 m<sup>2</sup>, für jedes weitere Tier 1 m<sup>2</sup> mehr,
+
+3\. für bis zu 6 mittelgroße und kleine Reiher (zB Kuhreiher) 10 m<sup>2,</sup> für jedes weitere Tier 0,5 m<sup>2</sup> mehr.
+
+**9.2.2. Störche – Ciconiidae**
+
+(1) Alle Störche ernähren sich ausschließlich von tierischer Kost; gefüttert werden Fische, Futterkücken, Kleinsäuger (Mäuse, Jungratten), Fleischstreifen sowie Weichfutter und Insekten.
+
+(2) Sie sind mindestens paarweise zu halten.
+
+(3) Die Gehege sind als Freianlagen mit Naturboden und natürlicher Bepflanzung einzurichten. Naturnah angelegte Teiche mit Flachwasserzonen sind anzustreben; mindestens ein Wasserbecken ist erforderlich. Für mittelgroße und kleine Störche sind Aufbaummöglichkeiten anzubieten. Während der Brutzeit ist den Störchen genügend Nistmaterial in Form von Reisig und Ästen für das umfangreiche Nest zur Verfügung zu stellen. Weiß- und Schwarzstorch können ganzjährig auf der Außenanlage gehalten werden. Ein trockener Unterstand, der allen auf der Anlage befindlichen Störchen gleichzeitig Platz bietet, ist zwingend erforderlich. Die anderen Arten sind warm zu überwintern, die Temperatur in den Innenräumen darf 10°C nicht unterschreiten.
+
+(4) Mindestmaße der Außenanlage:
+
+1\. für große Störche (zB Sattelstorch) pro Paar 100 m<sup>2</sup>
+
+2\. für mittelgroße und kleine Störche (zB Abdimstorch) pro Paar 50 m<sup>2</sup>, für jedes weitere Tier 10 m<sup>2</sup> mehr.
+
+(5) Mindestmaße der Innenanlage:
+
+1\. für große Störche (zB Sattelstorch) pro Paar 10 m<sup>2</sup>.
+
+2\. für bis zu 6 mittelgroße und kleine Störche 20 m<sup>2</sup>, für jedes weitere Tier 1 m<sup>2</sup> mehr.
+
+**9.2.3. Ibisse – Threskiornitidae**
+
+(1) Den Tieren sind Fleisch, Rinderherz, Süßwasserfisch, Futterkücken, Weichfutter, Garnelenschrot und Insekten anzubieten.
+
+(2) Ibisvögel sind in Gruppen zu halten.
+
+(3) Die Tiere sind in Volieren mit Naturboden, auch Gras und Sand und möglichst reichhaltigem Gebüsch- und Baumbestand zu halten. Wasserflächen und genügend Aufbaummöglichkeiten müssen vorhanden sein. Für Löffler ist ein flaches Wasserbecken mit einer Wassertiefe bis höchstens 60 cm im Innenraum und in der Freivoliere zwingend notwendig. Ibisvögel sind warm zu überwintern, die Temperatur in den Innenräumen darf 10°C nicht unterschreiten. Waldrappe dürfen ganzjährig in Außenvolieren gehalten werden, ein trockener Unterstand, der allen Vögeln gleichzeitig Platz bietet, ist dazu zwingend erforderlich.
+
+(4) Mindestmaße für die Freivoliere:
+
+für bis zu 6 Ibisse 20 m<sup>2</sup>, für jedes weitere Tier 1 m<sup>2 </sup>mehr; Mindesthöhe 3 m
+
+(5) Mindestmaße der die Innenanlage:
+
+für bis zu 6 Ibisse 10 m<sup>2</sup>,für jedes weitere Tier 0,5 m<sup>2</sup> mehr.
+
+**9.2.4. Flamingos – Phoenicopteridae**
+
+(1) Den Tieren sind wenn möglich Blaualgen und Kieselalgen bis zu Mollusken und kleinen freischwimmenden Krebsen anzubieten. Als Ersatznahrung sind im Handel angebotenes Fertigfutter für Flamingos in pulverisierter oder pelletierter Form, die Fütterung mit handelsüblichem Geflügelmehl oder -pellets, angereichert mit Getreidekörnern und getrockneten Garnelen, aufgeschwemmt und in flachen Wasserbecken angeboten, zulässig.
+
+(2) Flamingos sind in Gruppen von mindestens 5 Paaren zu halten.
+
+(3) Die Haltung muss in Freianlagen mit offenem, flachen Landteil mit Naturboden, Sand oder Gras, und weitläufigem Wasserteil mit flachen und tiefen Zonen von 0-1 m erfolgen. Für den Nestbau (Bruthügel) ist mit Lehm durchsetzter Sand, Schlamm oder Mergel zur Verfügung zu stellen. In den Wintermonaten muss eine beheizte Innenanlage zur Verfügung stehen. Einige Arten wie zum Beispiel Rosa Flamingos dürfen ganzjährig in der Außenanlage gehalten werden, sofern die Wasserflächen eisfrei gehalten werden.
+
+(4) Mindestmaße der Außenanlage:
+
+1\. für 10 Flamingos 100 m<sup>2,</sup> für jedes weitere Tier 2,5 m<sup>2 </sup>mehr
+
+2\. davon Wasserbecken: mindestens 20 m<sup>2</sup>; für jedes weitere Tier 1 m<sup>2</sup> mehr
+
+(5) Mindestmaße der Innenanlage:
+
+1\. für 10 Flamingos 20 m<sup>2</sup>, für jedes weitere Tier 1 m<sup>2</sup> mehr
+
+2\. davon Wasserbecken: mindestens 10 m<sup>2</sup>, für jedes weitere Tier 0,5 m<sup>2</sup> mehr
+
+**10. Mindestanforderungen an die Haltung von Kranichvögeln**
+
+(1) Die Mindestanforderungen gelten für Vögel der Ordnung Kranichvögel (Gruiformes) mit der Familie Kraniche (Gruidae).
+
+(2) Den Tieren sind wenn möglich Pflanzen aller Art, Wirbellose und kleine Wirbeltiere wie Amphibien, Kleinsäuger und Jungvögel anzubieten. Als Ersatzfutter erhalten Kraniche eine Körnermischung und tierisches Eiweiß in Form von Topfen, Mahlfleisch, Futterküken, Fisch, Kleinsäuger und Insekten. Alternativ darf im Handel angebotenes pelletiertes Fertigfutter für Kraniche angeboten werden.
+
+(3) Geschlechtsreife Kraniche sind während der Brutzeit ausnahmslos paarweise zu halten. Außerhalb der Brutzeit ist eine Gruppenhaltung, möglich. Jungtiere können bis zum 3. Lebensjahr in Junggesellengruppen gehalten werden.
+
+(4) Freianlagen sind mit Naturboden, Gras und natürlicher Bepflanzung wie Bäumen und Sträuchern als Sichtschutz auszustatten. Im Falle einer Übernetzung der Anlage muss diese in mindestens 3 m Höhe angebracht sein. Ein Badebecken muss vorhanden sein, günstig sind natürliche Wasserläufe. Winterharte Arten wie zum Beispiel der Mandschurenkranich (Grus japonensis) dürfen ganzjährig auf der Freianlage gehalten werden. Ein trockener, windgeschützter Unterstand ist dazu einzurichten. Subtropische Arten wie der Kronenkranich (Balearica pavonina) müssen warm, mit einer Mindesttemperatur von 10°C überwintert werden. Allen anderen Arten (zB Brolga, Grus rubicunda) muss ein frostfreier Schutzraum zur Verfügung stehen. Allen Arten ist bei Temperaturen über 0°C der Zugang zum Außengehege zu gewähren.
+
+(5) Mindestmaße des Außengeheges pro Paar:
+
+1\. für große Kraniche (zB Saruskranich, Grus antigone): 300 m<sup>2</sup>
+
+2\. für kleine Kraniche (zB Jungfernkranich, Grus virgo): 150 m<sup>2</sup>
+
+(6) Mindestmaße der Innenanlage pro Paar:
+
+für subtropische Arten: 10 m<sup>2</sup>.
+
+**11. Mindestanforderungen an die Haltung von Greifvögeln und Eulen**
+
+**11.1. Allgemeines**
+
+(1) Die Mindestanforderungen gelten für Vögel der Ordnung Greifvögel (Falconiformes), mit den Familien der Neuweltgeier (Cathartidae), Fischadler (Pandionidae), Habichtartige (Accipitridae), Sekretäre (Sagittariidae) und Falken (Falconidae) sowie der Ordnung Eulen (Strigiformes) einschließlich der Schleiereulen. Die am häufigsten gehaltenen Arten sind in den Tabellen 1 und 2 genannt.
+
+(2) Die Haltung von Greifvögeln und Eulen erfordert Sachkunde. Verletzt oder pflegebedürftig aufgefundene Greifvögel oder Eulen sind bei einer behördlich genehmigten oder anerkannten Auffang- oder Pflegestation abzugeben.
+
+(3) Ausfuhr, Handel und Besitz aller Greifvögel- und Eulenarten werden durch Artenschutz- und Veterinärbestimmungen geregelt. Zusätzlich gelten für einheimische Greifvogelarten auch die jeweiligen jagdrechtlichen Bestimmungen der Länder.
+
+**11.2. Spezielle Haltungsbedingungen**
+
+**11.2.1. Haltung**
+
+(1) Greifvögel und Eulen dürfen nur in Volieren gehalten werden, die dauernde Anbindehaltung ist verboten. Kommerzielle Wanderschauhaltungen mit Greifvögeln oder Eulen sind verboten.
+
+(2) Alle Einrichtungen für die Haltung von Greifvögeln und Eulen sind so zu gestalten, dass Schäden insbesondere Gefiederschäden, ausgeschlossen sind. Netz- und Drahtbespannungen der Volieren sind regelmäßig auf ausreichende Spannung zu kontrollieren und rechtzeitig so nachzuspannen, dass die Vögel nicht hängen bleiben können. Schutz vor Witterungseinflüssen, insbesondere vor Niederschlag und starker Sonneneinstrahlung muss bei jeder Haltung gegeben sein. Auf artspezifische Temperaturansprüche ist zu achten.
+
+(3) Es ist verboten Greifvögel und Eulen schädlichem Stress durch die Nähe des Menschen oder anderer Tiere auszusetzen. Verhaltensgerechte Rückzugsmöglichkeiten sind zu gewährleisten. Greifvögel und Eulen in Schauhaltungen müssen in ausreichend großem Abstand von den Betrachtern untergebracht werden. Absperrungen vor Gehegen sind erforderlich, wenn die Maße der Volieren die Mindestanforderungen nicht um mindestens 50% überschreiten.
+
+(4) Das Verabreichen lebender Wirbeltiere zur Ernährung ist verboten. Ausnahmen zur Verabreichung lebender Futtertiere zum Beispiel bei der Vorbereitung auf die Auswilderung sind gesondert behördlich zu genehmigen.
+
+(5) Das Futter muss den ernährungsphysiologischen Bedarf der Vögel in ihren verschiedenen Entwicklungsstadien decken. Die Nahrung muss abwechslungsreich sein und neben dem Muskelfleisch, Knochen, Haare und Federn zur Gewöllebildung enthalten. Nach Bedarf sind Vitamine und Mineralstoffe zuzufüttern.
+
+(6) Den Tieren muss jederzeit einwandfreies Wasser in einem flachen Gefäß zum Trinken und Baden zur Verfügung stehen.
+
+(7) Die Tiere sind paarweise oder in Gruppen zu halten. Ausgenommen sind unverträgliche, bereits vorhandene, nur auf Menschen geprägte, sowie kranke oder verletzte Vögel.
+
+(8) Volieren müssen so gestaltet und ausgestattet sein, dass sie dem Verhalten der entsprechenden Vogelarten Rechnung tragen. Besonders das Flugverhalten der Greifvögel und Eulen ist für die Unterbringung in Volieren zu berücksichtigen:
+
+1\. Arten, die breite, lange, großflächige Flügel haben, relativ langsam beschleunigen und fliegen, wie z. B. Adler, Bussarde, Milane, Geier und Eulen dürfen in Ganzdrahtvolieren untergebracht werden.
+
+2\. Arten, die lange, schmale Flügel haben, relativ langsam beschleunigen, wenig wendig sind, aber schnell fliegen, wie z. B. Falken dürfen, sobald sie eingewöhnt sind, in Ganzdrahtvolieren untergebracht werden.
+
+3\. Arten, die kurze, runde Flügel und einen langen Schwanz haben, schnell beschleunigen und sehr wendig sind, z. B. Habicht, Sperber eignen sich nicht für die Unterbringung in Ganzdrahtvolieren. Diese Tiere müssen in teilweise geschlossenen Volieren mit geschlossenen Seitenwänden aus Holz, Mauerwerk oder Ähnlichem und einer oder mehreren durchsichtigen Fronten oder in ganzseitig geschlossenen Volieren die von außen nicht einsehbar, aber mit Licht- und Luftzutritt von oben versehen sind, gehalten werden.
+
+(9) Die Größe der Voliere muss so gewählt sein, dass sie den Vögeln ausreichend Bewegungsmöglichkeit bietet, gleichzeitig aber entsprechend dem Flugverhalten Verletzungen ausschließt. Besondere Aufmerksamkeit ist auf die Gestaltung der Wände und Inneneinrichtung zu richten.
+
+(10) Volieren müssen so eingerichtet sein, dass zielgerichtete und möglichst lange Flüge ausgeführt werden können. Einrichtungsgegenstände dürfen die Flugaktivitäten nicht behindern. Sitzgelegenheiten müssen in den oberen Bereichen der Voliere angebracht sein und unterschiedliche Oberflächenstrukturen aufweisen.
+
+(11) Von außen einsehbare Volieren müssen Rückzugsmöglichkeiten bieten, von denen aus die Vögel die Umgebung beobachten können.
+
+(12) Es müssen leicht zu reinigende Fütterungseinrichtungen und ein Badebecken in einer Größe der Gesamtlänge des Vogels vorhanden sein, die ebenso wie die Sitzstangen so anzubringen sind, dass ein Verschmutzen durch Exkremente verhindert wird.
+
+(13) Die Größenangaben der nachstehenden Tabelle beziehen sich auf die Haltung eines Paares, wobei auch bei Einzelhaltung die jeweiligen Mindestmaße nicht unterschritten werden dürfen. Detaillierte Angaben zu Mindestmaßen für häufig gehaltene Arten sowie zu deren Temperaturansprüchen sind dem Punkt 11.4.3. zu entnehmen.
+
+| **Tierart** | **Mindestfläche m**<sup>**2**</sup> | **Mindesthöhe m** | **Für jedes weitere Tier Mindestfläche m**<sup>**2**</sup> |
+|---|---|---|---|
+| **Kondore, große Geier, große Adler** | 60 | 3 | 15 |
+| **Kleine Neuweltgeier, kleine Adler** | 30 | 2,5 | 10 |
+| **Großfalken, Bussarde, Caracara, Milane, Weihen, große Eulen** | 10 | 2,5 | 5 |
+| **Kleine Falken, mittelgroße Eulen** | 8 | 2 | 3 |
+| **Zwergfalken, kleine Eulen** | 5 | 2 | 1 |
+|  |  |  |  |
+
+**11.2.2. Haltung von Greifvögel und Eulen zur Ausübung der Beizjagd**
+
+(1) Greifvögel zur Ausübung der Beizjagd dürfen nur von Personen gehalten werden, die im Besitz einer gültigen Jagdkarte sind. Die Zahl der bei der Beizjagd verwendeten Greifvögel (Beizvögel) ist pro Falkner auf zwei Individuen beschränkt.
+
+(2) Die falknerische Haltung (Anbindehaltung) der Beizvögel ist nur bei Vögeln, die für den Freiflug trainiert sind oder ausgebildet werden anzuwenden und auf die Jagdzeit beschränkt. Falknerisch gehaltenen Beizvögeln muss jeden zweiten Tag Freiflug von mindestens einer Stunde gewährt werden.
+
+(3) Außerhalb der Jagdzeiten müssen den Greifvögeln entsprechende Volieren mit den Mindestmaßen zur Verfügung stehen.
+
+(4) Auf den Schutz der Tiere vor Witterungseinflüssen ist bei der falknerischen Haltung besonders zu achten.
+
+(5) Einrichtungen und Ausrüstungen für die falknerische Haltung müssen so gestaltet sein, dass an den Vögeln durch Hängen bleiben oder durch andere Beutegreifer keine Schäden entstehen können.
+
+(6) Zum Anbinden der Vögel dienen Lederriemchen oder Ledermanschetten, die an beiden Beinen angebracht werden. Die Ledermanschetten sind ebenfalls mit kurzen Riemchen versehen. Diese sind, solange der Vogel angebunden gehalten wird, mit einem Wirbel aus rostfreiem Material zu verknüpfen und damit vor Verdrehung zu schützen. An der anderen Seite des Wirbels wird ein Lederriemen oder eine geflochtene Nylonschnur von 1 bis 2 Meter Länge angebracht und der Vogel an der Sitzgelegenheit oder der Flugdrahtanlage befestigt. Das Anbinden der Vögel hat immer an beiden Beinen zu erfolgen.
+
+(7) Während des Freifluges dürfen die Riemchen nicht miteinander verbunden sein.
+
+(8) Die Geschüre müssen so gefertigt sein und gewartet werden, dass der Vogel keine Schäden erleidet, sie nicht zerreißen können und Knoten sich nicht von selbst lösen oder vom Vogel gelöst werden können sowie alle Teile, die direkt mit der Haut in Berührung kommen aus ausreichend breitem, weichem wie zum Beispiel fettgegerbtem Naturleder bestehen.
+
+(9) Für eine zeitweilige Abschirmung visueller Reize, insbesondere beim Transport, ist der Gebrauch individuell angepasster Hauben zulässig.
+
+(10) Als Sitzmöglichkeiten dienen Blöcke, Sprenkel und Recks.
+
+(11) Die Oberfläche der Sitzmöglichkeiten muss aus weichem Naturholz bestehen oder mit Kork oder Kunstrasen belegt sein, sofern sie nicht gepolstert und mit Leder, Stoff oder anderem geeignetem Material bezogen ist.
+
+(12) Die Haltungsform des Vogels auf dem Reck ist nur in den ersten Tagen der Ausbildung ganztägig, sonst nur in der Zeit des Freifluges während weniger Stunden oder in der Zeit der Nachtruhe statthaft. Das Unterfliegen des Recks ist zu verhindern.
+
+**11.3. Haltung pflegebedürftiger Vögel**
+
+**11.3.1. Versorgung**
+
+(1) Kranke, verletzte oder vermeintlich elternlose, junge aufgefundene Greifvögel und Eulen sind in behördlich genehmigten Auffang- oder Pflegestationen abzugeben.
+
+(2) Die Haltung pflegebedürftiger Vögel muss in Volieren erfolgen. Verletzte oder kranke Vögel dürfen auch in Boxen gehalten werden. Jungvögel sind in geeigneten Kunsthorsten zu halten.
+
+(3) Im Falle kranker oder verletzter Vögel ist die vorübergehende Bewegungseinschränkung zulässig.
+
+(4) Eingriffe sind nur durch Tierärzte/innen durchzuführen. Ziel der Pflege muss die erfolgreiche Auswilderung sein. Eine Dauerhaltung ist nur zu rechtfertigen, wenn eine Auswilderung aus medizinischen Gründen nicht in Frage kommt und langfristige Schmerzen oder Leiden nicht zu erwarten sind.
+
+**11.3.2. Nestjunge Vögel (Nestlinge)**
+
+(1) Bei der Aufzucht von Nestlingen ist die Prägung auf den Menschen zu vermeiden.
+
+(2) Das Auswildern nicht ausreichend auf das Leben in freier Natur vorbereiteter Jungvögel ist verboten.
+
+**11.3.3. Adulte Greifvögel und Eulen**
+
+(1) Die Art der Unterbringung kranker oder verletzter Vögel ist von der Ursache der Hilflosigkeit und den Erfordernissen der Behandlung und Pflege abhängig zu machen. Vögel, die nur kurze Zeit – bis zu etwa drei Wochen – einer Behandlung bedürfen, dürfen in allseits geschlossenen Boxen untergebracht werden.
+
+(2) Die Boxen müssen so beschaffen sein, dass sie nicht zu Verletzungen führen. Sitzgelegenheiten können je nach Erkrankung oder Verletzung erforderlich sein.
+
+(3) Tiere, bei denen eine längere Pflege erforderlich ist, sollen, sobald es der Zustand erlaubt, der Volierenhaltung zugeführt werden.
+
+(4) Das Auswildern von genesenen Pfleglingen darf erst erfolgen, wenn sie ausreichend auf das Leben in freier Natur vorbereitet sind.
+
+**11.4. Räumliche Anforderungen und Tabellen**
+
+**11.4.1. Kategorien der räumlichen Anforderungen und Mindestmaße für Greifvögel und Eulen pro Paar**
+
+Jungtiere bleiben unberücksichtigt, bis sie selbständig sind.
+
+A. Außenvoliere: Fläche 5 m<sup>2</sup>, Höhe 2 m,
+
+für jedes weitere Tier: 1 m<sup>2</sup> mehr, dazu Innenraum 1 m<sup>2</sup>.
+
+bei ausschließlicher Haltung in geheizter Innenvoliere: Fläche 2 m<sup>2</sup>, Höhe 1 m, Breite 1 m,
+
+jedes weitere Tier: 1 m<sup>2</sup> mehr;
+
+b. Außenvoliere: Fläche 8 m<sup>2</sup>,Höhe 2 m,
+
+für jedes weitere Tier: 3 m<sup>2</sup> mehr,
+
+dazu Innenraum, wenn erforderlich, 1,5 m<sup>2</sup>; Höhe 2 m
+
+C. Außenvoliere: Fläche 10 m<sup>2</sup>, Höhe 2,5 m,
+
+für jedes weitere Tier: 5 m<sup>2</sup> mehr,
+
+dazu Innenraum, wenn erforderlich, 2 m<sup>2</sup>; Höhe 2 m,
+
+D. Außenvoliere: Fläche 30 m<sup>2</sup>, Höhe 2,5 m,
+
+für jedes weitere Tier 10 m<sup>2</sup> mehr
+
+dazu Innenraum, wenn erforderlich, 4 m<sup>2</sup>; Höhe 2 m,
+
+E. Außenvoliere: Fläche 60 m<sup>2</sup>, Höhe 3 m
+
+für jedes weitere Tier: 15 m<sup>2</sup> mehr
+
+dazu Innenraum, wenn erforderlich, 4 m<sup>2</sup>; Höhe 2 m,
+
+F. Außenvoliere: Fläche 100 m<sup>2</sup>
+
+**11.4.2. Kategorien der Temperaturanforderungen für Greifvögel und Eulen**
+
+I. Völlig winterhart, nur Regen- und Windschutz sind erforderlich
+
+II. Gegen sehr starken Frost empfindlich, ein ungeheizter Schutzraum oder Schlafhöhle ist erforderlich
+
+III. Nicht völlig frostunempfindlich, ein frostfreier und zugfreier Innenraum
+
+IV. Frostempfindlich, geheizter Innenraum mit Temperaturen über +10°C erforderlich
+
+**11.4.3. Anforderungen an Volierengrößen und Temperaturen für häufig gehaltene Greifvögel**
+
+<table>
+<tr>
+<td><b>Familie</b></td>
+<td><b>Art</b></td>
+<td><b>Kategorie der Räumlichen Anforderungen nach 11.4.1.</b></td>
+<td><b>Kategorie der Temperaturanforderungen nach 11.4.2.</b></td>
+</tr>
+<tr>
+<td rowspan="4"><b>Neuweltgeier Catharthidae</b></td>
+<td>Rabengeier Catharthes atratus</td>
+<td>D</td>
+<td>III</td>
+</tr>
+<tr>
+<td>Truthahngeier Cathartes aura</td>
+<td>D</td>
+<td>IV</td>
+</tr>
+<tr>
+<td>Königsgeier Sarcoramphus papa</td>
+<td>D</td>
+<td>IV</td>
+</tr>
+<tr>
+<td>Kondor Vultur gryphus</td>
+<td>E</td>
+<td>I</td>
+</tr>
+<tr>
+<td><b>Fischadler</b><br><b>Pandionidae</b></td>
+<td>Fischadler Pandion haliaetus</td>
+<td>D</td>
+<td>II</td>
+</tr>
+<tr>
+<td><b>Sekretäre</b><br><b>Sagittariidae</b></td>
+<td>Sekretär Sagittarius serpentarius</td>
+<td>F</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>da Bodenvogel, Haltung auch mit einseitig geschnittenen Schwungfedern in offener Anlage möglich.</td>
+<td>III</td>
+</tr>
+<tr>
+<td><b>Greife</b><br><b>Accipitridae</b><br><b>G. Elanus</b></td>
+<td>Gleitaar Elanus caeruleus</td>
+<td>C</td>
+<td>IV</td>
+</tr>
+<tr>
+<td rowspan="3"><b>G. Milvus</b></td>
+<td>Schwarzer Milan<br>Milvus migans</td>
+<td>D</td>
+<td>I-II (je nach Herkunftsland)</td>
+</tr>
+<tr>
+<td>Roter Milan<br>Milvus milvus</td>
+<td>D</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Brahaminenweihe Haliastur indus</td>
+<td>D</td>
+<td>IV</td>
+</tr>
+<tr>
+<td><b>G. Ichthyophaga</b></td>
+<td>Weißschwanzfischadler<br>Ichthyophaga<br>Ichthyaetus</td>
+<td>D</td>
+<td>IV</td>
+</tr>
+<tr>
+<td rowspan="6"><b>G. Haliaeetus</b></td>
+<td>Europäischer Seeadler Haliaeetus albicilla</td>
+<td>E</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Weißkopfseeadler Haliaeetus<br>leucocephalus</td>
+<td>E</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Weißbauchseeadler Haliaeetus leucogaster</td>
+<td>D</td>
+<td>III</td>
+</tr>
+<tr>
+<td>Bindenseeadler Haliaeetus leucoryphus</td>
+<td>D</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Riesenseeadler Haliaeetus pelagicus</td>
+<td>E</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Schreiseeadler Haliaeetus vocifer</td>
+<td>D</td>
+<td>III</td>
+</tr>
+<tr>
+<td><b>G. Gypaetus</b></td>
+<td>Bartgeier Gypaetus barbatus</td>
+<td>E</td>
+<td>I</td>
+</tr>
+<tr>
+<td><b>G. Aegypius</b></td>
+<td>Mönchsgeier Kuttengeier Aegypius monachus</td>
+<td>E</td>
+<td>I</td>
+</tr>
+<tr>
+<td><b>G. Gypohierax</b></td>
+<td>Palmgeier Gypohierax angolensis</td>
+<td>D</td>
+<td>IV</td>
+</tr>
+<tr>
+<td><b>G. Neophron</b></td>
+<td>Schmutzgeier Neophron percnopterus</td>
+<td>D</td>
+<td>I-II (je nach Ursprungsland)</td>
+</tr>
+<tr>
+<td><b>G. Necrosyrtes</b></td>
+<td>Kappengeier Necrosyrtes monachus</td>
+<td>D</td>
+<td>II</td>
+</tr>
+<tr>
+<td><b>G. Sarcogyps</b></td>
+<td>Lappengeier Sarcogyps calvus</td>
+<td>E</td>
+<td>IV</td>
+</tr>
+<tr>
+<td><b>G. Torgos</b></td>
+<td>Ohrengeier Torgos tracheliotus</td>
+<td>E</td>
+<td>II</td>
+</tr>
+<tr>
+<td><b>G. Trigonoceps</b></td>
+<td>Wollkopfgeier Trigonoceps occipitalis</td>
+<td>E</td>
+<td>II</td>
+</tr>
+<tr>
+<td rowspan="3"><b>G. Gyps</b></td>
+<td>Gänsegeier Gyps fulvus</td>
+<td>E</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Himalajageier, Schneegeier<br>Gyps himalayensis</td>
+<td>E</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Sperbergeier<br>Gyps rueppellii</td>
+<td>E</td>
+<td>II</td>
+</tr>
+<tr>
+<td rowspan="2"><b>G. Pseudogyps</b></td>
+<td>Bengalgeier Pseudogyps bengalensis</td>
+<td>E</td>
+<td>III</td>
+</tr>
+<tr>
+<td>Zwerggänsegeier Weißrückengeier<br>Pseudogyps africanus</td>
+<td>E</td>
+<td>II</td>
+</tr>
+<tr>
+<td rowspan="2"><b>G. Circaetus</b></td>
+<td>Circaetus cinereus</td>
+<td>D</td>
+<td>IV</td>
+</tr>
+<tr>
+<td>Schlangenadler Circaetus gallicus</td>
+<td>D</td>
+<td>IV</td>
+</tr>
+<tr>
+<td><b>G. Terathopius</b></td>
+<td>Gaukler<br>Terathopius ecaudatus</td>
+<td>D</td>
+<td>III</td>
+</tr>
+<tr>
+<td><b>G. Spilornis</b></td>
+<td>Schlangenhabicht Spilornis cheela</td>
+<td>C</td>
+<td>IV</td>
+</tr>
+<tr>
+<td rowspan="2"><b>G. Circus</b></td>
+<td>Rohrweihe<br>Circus aeruginosus</td>
+<td>C</td>
+<td>II</td>
+</tr>
+<tr>
+<td>Kornweihe<br>Circus cyaneus</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td><b>G. Melierax</b></td>
+<td>Singhabicht<br>Meliarex canorus</td>
+<td>C</td>
+<td>IV</td>
+</tr>
+<tr>
+<td rowspan="2"><b>G. Accipiter</b></td>
+<td>Habicht<br>Accipiter gentilis</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Sperber<br>Accipiter nisus</td>
+<td>B</td>
+<td>I</td>
+</tr>
+<tr>
+<td><b>G. Geranoaetus</b></td>
+<td>Aguja, Blaubussard Geranoaetus melanoleucus</td>
+<td>C</td>
+<td>II</td>
+</tr>
+<tr>
+<td rowspan="5"><b>G. Buteo</b></td>
+<td>Mäusebussard<br>Buteo buteo</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Rotschwanzbussard Buteo jamaicensis</td>
+<td>C</td>
+<td>I-II (je nach Ursprungsland)</td>
+</tr>
+<tr>
+<td>Rauhfußbussard<br>Buteo lagopus</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Rotrückenbussard Buteo polyosoma</td>
+<td>C</td>
+<td>II</td>
+</tr>
+<tr>
+<td>Adlerbussard<br>Buteo rufinus</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td><b>G. Pemis</b></td>
+<td>Wespenbussard<br>Pernis apivorus</td>
+<td>C</td>
+<td>III</td>
+</tr>
+<tr>
+<td><b>G. Harpia</b></td>
+<td>Harpyie<br>Harpia harpyija</td>
+<td>E</td>
+<td>III</td>
+</tr>
+<tr>
+<td><b>G. Pithecophaga</b></td>
+<td>Affenadler<br>Pithecophaga jefferyi</td>
+<td>E</td>
+<td>IV</td>
+</tr>
+<tr>
+<td><b>G. Stephanoaetus</b></td>
+<td>Kronenadler Stephanoaetus coronatus</td>
+<td>E</td>
+<td>III</td>
+</tr>
+<tr>
+<td><b>G. Lophaetus</b></td>
+<td>Schopfadler<br>Lophaetus occipitalis</td>
+<td>E</td>
+<td>III</td>
+</tr>
+<tr>
+<td><b>G. Hieraaetus</b></td>
+<td>Habichtsadler Hieraaetus fasciatus</td>
+<td>E</td>
+<td>I-II je nach Ursprungsland</td>
+</tr>
+<tr>
+<td rowspan="6"><b>G. Aquila</b></td>
+<td>Schelladler<br>Aquila clanga</td>
+<td>D</td>
+<td>II</td>
+</tr>
+<tr>
+<td>Steinadler<br>Aquila chrysaetos</td>
+<td>E</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Kaiseradler<br>Aquila heliacea</td>
+<td>E</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Schreiadler<br>Aquila pomarina</td>
+<td>D</td>
+<td>II</td>
+</tr>
+<tr>
+<td>Steppenadler<br>Aquila rapax</td>
+<td>E</td>
+<td>I-II je nach Ursprungsland</td>
+</tr>
+<tr>
+<td>Kaffernadler<br>Aquila verreauxii</td>
+<td>E</td>
+<td>III</td>
+</tr>
+<tr>
+<td rowspan="2"><b>G. Phalcoboenus</b></td>
+<td>Falklandkarakara<br>Phalcoboenus australis</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Bergkarakara<br>Phalcoboenus megalopterus</td>
+<td>C</td>
+<td>II</td>
+</tr>
+<tr>
+<td><b>G. Polemaetus</b></td>
+<td>Kampfadler<br>Polemaetus bellicosus</td>
+<td>E</td>
+<td>III</td>
+</tr>
+<tr>
+<td><b>G. Polyborus</b></td>
+<td>Karakara<br>Polyborus plancus</td>
+<td>D</td>
+<td>II</td>
+</tr>
+<tr>
+<td><b>G. Microhierax</b></td>
+<td>Rotschenkelzwergfalke<br>Microhierax caerulescens</td>
+<td>A</td>
+<td>über 15°C</td>
+</tr>
+<tr>
+<td rowspan="12"><b>G. Falco</b></td>
+<td>Lanner<br>Falco biarmicus</td>
+<td>C</td>
+<td>I-II je nach Ursprungsland</td>
+</tr>
+<tr>
+<td>Saker, Würgfalke<br>Falco cherrug</td>
+<td>C</td>
+<td>I-II je nach Ursprungsland</td>
+</tr>
+<tr>
+<td>Merlin<br>Falco columbarius</td>
+<td>B</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Eleonorenfalke<br>Falco eleonorae</td>
+<td>C</td>
+<td>II</td>
+</tr>
+<tr>
+<td>Laggerfalke<br>Falco jugger</td>
+<td>C</td>
+<td>II</td>
+</tr>
+<tr>
+<td>Präriefalke<br>Falco mexicanus</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Wanderfalke<br>Falco peregrinus</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Gerfalke, Jagdfalke<br>Falco rusticolus</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Buntfalke<br>Falco sparverius</td>
+<td>B</td>
+<td>I-II je nach Ursprungsland</td>
+</tr>
+<tr>
+<td>Baumfalke<br>Falco subbuteo</td>
+<td>B</td>
+<td>III</td>
+</tr>
+<tr>
+<td>Turmfalke<br>Falco tinnunculus</td>
+<td>B</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Rotfußfalke<br>Falco vespertinus</td>
+<td>B</td>
+<td>III</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+**11.4.4. Anforderungen an Volierengrößen und Temperaturen für häufig gehaltene Eulen**
+
+<table>
+<tr>
+<td><b>Familie</b></td>
+<td><b>Art</b></td>
+<td><b>Kategorie der räumlichen Anforderungen nach 11.4.1.</b></td>
+<td><b>Kategorie der Temperaturanforderungen nach 11.4.2.</b></td>
+</tr>
+<tr>
+<td rowspan="2"><b>Strigidae</b><br><b>U. Fam. Tytoninae</b><br><b>G. Tyto</b></td>
+<td>Tyto alba Schleiereule</td>
+<td>B</td>
+<td>I-II je nach Ursprungsland</td>
+</tr>
+<tr>
+<td>Tyto capensis Graseule</td>
+<td>B<br>weitgehend bodenlebend, braucht Deckung auf dem Boden</td>
+<td>IV</td>
+</tr>
+<tr>
+<td><b>U. Fam. Phodilinae</b><br><b>G. Phodilus</b></td>
+<td>Phodilus badius<br>Maskeneule</td>
+<td>B</td>
+<td>IV</td>
+</tr>
+<tr>
+<td rowspan="3"><b>U. Fam. Asioninae</b><br><b>G. Asio</b></td>
+<td>Asio capensis<br>Kapohreule</td>
+<td>B<br>weitgehend bodenlebend, braucht Deckung auf dem Boden</td>
+<td>III</td>
+</tr>
+<tr>
+<td>Asio flammeus,<br>Sumpfohreule</td>
+<td>B<br>weitgehend bodenlebend, braucht Deckung auf dem Boden</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Asio otus<br>Waldohreule</td>
+<td>B</td>
+<td>I</td>
+</tr>
+<tr>
+<td rowspan="2"><b>U. Fam. Striginae</b><br><b>G. Aegolius</b></td>
+<td>Aegolius acadicus</td>
+<td>B</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Aegolius funereus,<br>Rauhfußkauz</td>
+<td>B</td>
+<td>I</td>
+</tr>
+<tr>
+<td rowspan="3"><b>G. Athene</b></td>
+<td>Athene brama<br>Brahmakauz</td>
+<td>B</td>
+<td>IV</td>
+</tr>
+<tr>
+<td>Athene noctua<br>Steinkauz</td>
+<td>B</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Athene (Speotyto)<br>cunicularia,<br>Kanincheneule</td>
+<td>B<br>Benötigt Grabmöglichkeit im Boden</td>
+<td>II</td>
+</tr>
+<tr>
+<td rowspan="6"><b>G. Bubo</b></td>
+<td>Bubo africanus,<br>Fleckenuhu</td>
+<td>B</td>
+<td>II</td>
+</tr>
+<tr>
+<td>Bubo. b. bubo,<br>Uhu</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Bubo b. omissus<br>Turkmen. Uhu</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Bubo capensis<br>Kap-Uhu</td>
+<td>C</td>
+<td>II-III</td>
+</tr>
+<tr>
+<td>Bubo lacteus<br>Milchuhu</td>
+<td>C</td>
+<td>III</td>
+</tr>
+<tr>
+<td>Bubo virginianus<br>Vigin. Uhu<br>Amerikanischer Uhu</td>
+<td>C</td>
+<td>I-II je nach Ursprungsland</td>
+</tr>
+<tr>
+<td rowspan="3"><b>G. Glaucidium</b></td>
+<td>Glaucidium<br>brasilianum, Brasilianischer Sperlingkauz Strichelkauz</td>
+<td>A</td>
+<td>IV</td>
+</tr>
+<tr>
+<td>Glaucidium passerinum,<br>Sperlingskauz</td>
+<td>A</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Glaucidium perlatum<br>Perlkauz</td>
+<td>A</td>
+<td>III-IV je nach Ursprungsland</td>
+</tr>
+<tr>
+<td><b>G. Nyctea</b></td>
+<td>Nyctea scandiaca,<br>Schnee-Eule</td>
+<td>C<br>weitgehend bodenlebend</td>
+<td>I</td>
+</tr>
+<tr>
+<td><b>G. Otus</b></td>
+<td>Otus scops<br>Zwergohreule</td>
+<td>A</td>
+<td>III</td>
+</tr>
+<tr>
+<td rowspan="4"><b>G. Strix</b></td>
+<td>Strix aluco<br>Waldkauz</td>
+<td>B</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Strix nebulosa<br>Bartkauz</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td>Strix (Pulsatrix)<br>perspicillata,<br>Brillenkauz</td>
+<td>C</td>
+<td>III</td>
+</tr>
+<tr>
+<td>Strix uralensis<br>Habichtskauz</td>
+<td>C</td>
+<td>I</td>
+</tr>
+<tr>
+<td><b>G. Surnia</b></td>
+<td>Surnia ulula<br>Sperbereule</td>
+<td>B</td>
+<td>I</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+**12. Mindestanforderungen an die Haltung von Rackenvögeln**
+
+**12.1. Allgemeines**
+
+(1) Die Mindestanforderungen gelten für Vögel der Ordnung Rackenvögel (Coraciiformes) mit den Familien Eisvögel (Alcedinidae), Sägeracken (Momotidae) Spinte (Meropidae), Racken (Coraciidae), Wiedehopfe (Upupidae), Baumhopfe (Phoeniculidae) und Nashornvögel (Bucerotidae).
+
+**12.2. Spezielle Haltungsbedingungen**
+
+**12.2.1. Eisvögel – Alcedinidae**
+
+(1) Den Tieren sind Insekten, Mehlkäferlarven, Fische, zerteilte Eintagsküken und Mäuse sowie mit Vitaminen und Kalkpräparaten angereicherte Fleischstreifen anzubieten.
+
+(2) Eisvögel sind mindestens paarweise zu halten. Trenngehege sind bei Bedarf vorzusehen.
+
+(3) Den Tieren sind geräumige bepflanzte Volieren, mit frei stehenden kahlen Ästen als Ansitzwarten, zur Verfügung zu stellen. Für ausschließlich Fisch fressende Arten sind Wasserbecken mit einer Mindesttiefe von 10 cm und einer Mindestgröße von 0,8 m<sup>2</sup>, mit durchfließendem Wasser zwingend erforderlich. Für die Brut sind waagrechte Brutkästen mit Einflugsröhren anzubieten. Tropische Arten müssen warm überwintert werden, die Temperaturen der Innenanlagen dürfen 18°C nicht unterschreiten; zusätzlich ist Strahlungswärme anzubieten.
+
+(4) Mindestmaße der Außenvoliere je Paar (Fläche in m<sup>2</sup> x Höhe in m):
+
+1\. große und mittelgroße Eisvögel (zB Lachender Hans, Dacelo novaeguineae; Graufischer Ceryle rudis): 6 x 2
+
+2\. kleine Eisvögel (zB Zwergkönigsfischer, Ispidina picta) : 3 x 2
+
+(5) Bei der Haltung in Außenvolieren muss ein Schutzraum von mindestens 2 m<sup>2</sup> x 2 m für kleine Vertreter, und 3 m<sup>2</sup> x 2 m für große Vertreter zur Verfügung stehen. Für Vögel die ganzjährig im Innenraum gehalten werden, ist eine Innenvoliere zumindest entsprechend den Mindestmaßen der Außenvoliere zu errichten.
+
+**12.2.2. Sägeracken – Momotidae**
+
+(1) Säegeracken sind paarweise zu halten.
+
+(2) Den Tieren sind Insekten, Mehlkäferlarven, Fleischstreifen die mit Vitaminen und Mineralstoffen angereichert sind sowie Weichfutter, Mäuse, Beeren und Früchte anzubieten.
+
+(3) Den Tieren sind geräumige, reichlich bepflanzte Volieren mit kahlen Ästen als Sitzwarten einzurichten. Aufgeschüttete Erd- oder Lehmwände zum Graben der Nisthöhle oder ersatzweise entsprechende Nistkästen sind anzubieten. Sägeracken sind sehr frostempfindlich und daher warm zu überwintern. Die Mindesttemperatur des Innenraums muss 15°C betragen. zusätzlich ist Strahlungswärme anzubieten.
+
+(4) Die Mindestmaße der Außenvoliere je Paar muss (Fläche in m<sup>2</sup> x Höhe in m) 6 x 2 betragen.
+
+(5) Bei der Haltung in Außenvolieren muss ein Schutzraum von mindestens 3 m<sup>2</sup> x 2 m zur Verfügung stehen.
+
+(6) Bei ständiger Haltung im Innenraum ist die Innenvoliere zumindest entsprechend den Mindestmaßen der Außenvoliere zu errichten
+
+**12.2.3. Spinte – Meropidae**
+
+(1) Spinte sind in Gruppen zu halten.
+
+(2) Den Tieren sind Mehlkäferlarven, Heimchen, Heuschrecken, Wachsmotten, Wiesenplankton, Fliegen und Bienen anzubieten.
+
+(3) Den Tieren sind geräumige bepflanzte Volieren mit kahlen Ästen als Sitzwarten einzurichten. Auf freie Flugstrecken ist zu achten. Für die Brut sind aufgeschüttete Erd- oder Lehmwände zum Graben der Nisthöhle oder ersatzweise waagrechte Nistkästen anzubieten.
+
+(4) Die Tiere sind warm zu überwintern. Die Mindesttemperatur im Innenraum darf 15°C nicht unterschreiten. Zusätzlich müssen Strahlungswärmequellen angeboten werden.
+
+(5) Die Mindestmaße der Außenvoliere für bis zu 6 Vögel muss (Fläche in m<sup>2</sup> x Höhe in m:) 10 x 2 betragen.
+
+(6) Für jeden weiteren Vogel ist die Grundfläche um 15% der Mindestgrundfläche zu erweitern.
+
+(7) Bei der Haltung in Außenvolieren muss ein Schutzraum von mindestens 5 m<sup>2</sup> x 2 m zur Verfügung stehen.
+
+(8) Bei ständiger Haltung im Innenraum ist die Innenvoliere zumindest entsprechend den Mindestmaßen der Außenvoliere zu errichten.
+
+**12.2.4. Racken (Coraciidae), Wiedehopfe (Upupidae) und Baumhopfe (Phoeniculidae)**
+
+(1) Vertreter der Racken, Wiedehopfe und Baumhopfe sind paarweise zu halten.
+
+(2) Den Tieren sind Insekten wie Heuschrecken, Heimchen, Mehlkäferlarven auch Futterkücken und Mäuse sowie geschnittenes Rinderherz und Insektenweichfutter anzubieten.
+
+(3) Den Tieren sind reichlich bepflanzte Volieren mit ausreichend Versteckmöglichkeiten einzurichten. Die Vertreter der genannten Familien sind überwiegend Höhlenbrüter, je nach Art sind daher entsprechend hohle Baumstämmen oder Nistkästen anzubieten.
+
+(4) Alle Arten sind warm zu überwintern, die Mindesttemperatur im Innenraum darf 12°C nicht unterschreiten. Zusätzlich sind Strahlungswärmequellen anzubieten.
+
+(5) Die Mindestmaße der Außenvoliere je Paar müssen (Fläche in m<sup>2</sup> x Höhe in m): 6 x 2 betragen.
+
+(6) Bei der Haltung in Außenvolieren muss ein Schutzraum von mindestens 3 m<sup>2</sup> x 2 m zur Verfügung stehen.
+
+(7) Bei ständiger Haltung im Innenraum ist die Innenvoliere zumindest entsprechend den Mindestmaßen der Außenvoliere zu errichten
+
+**12.2.5. Nashornvögel – Bucerotidae**
+
+(1) Hornvögel müssen zumindest paarweise gehalten werden.
+
+(2) Den Tieren sind, je nach Art und biologischem Rhythmus, verschiedene Obstsorten, Futterküken, Kleinsäuger und Fleischstreifen sowie mit Vitaminen und Mineralstoffen angereichertes Weichfutter anzubieten.
+
+(3) Den Tieren sind großräumige Volieren einzurichten. Neben horizontalen Sitzästen müssen auch Äste mit Verzweigungen als Putzäste angeboten werden. Für die Brut sind große hohle Baumstämme mit einer Einflugsöffnung, die gerade so groß ist dass das Weibchen hindurch passt bereitzustellen. Ausgenommen sind Hornraben, bei denen die Höhlenöffnung auch größer sein kann. Mit Ausnahme der Hornraben (Bucorvus sp.) vermauern die Vögel während der Brut die Nisthöhle, daher ist hierfür ein Lehm-Sand-Gemisch anzubieten.
+
+(4) Arten, die nur in tropischen Regionen vorkommen sind in beheizten Innenanlagen mit einer Temperatur von mindestens 15°C zu halten. Für weniger kälteempfindliche Arten, wie die Bewohner der afrikanischen Savanne, genügt eine Mindesttemperatur von 5°C. Jedenfalls sind zusätzlich punktuelle Strahlungswärmequellen anzubieten.
+
+(5) Die Mindestmaße der Außenvoliere je Paar (Fläche in m<sup>2</sup> x Höhe in m) betragen:
+
+1\. für große Hornvögel (zB Doppelhornvogel, Buceros bicornis) 20 x 3
+
+2\. für kleine Hornvögel (zB Tockos, Tockus sp.) 12 x 2,5
+
+3\. Mindestmaße der Innenanlage je Paar (Fläche in m<sup>2</sup> x Höhe in m):
+
+4\. für große Hornvögel 8 m<sup>2</sup> x 2,5
+
+5\. für kleine Hornvögel 4 m<sup>2</sup> x 2 m
+
+**13. Mindestanforderungen an die Haltung von Spechtvögeln**
+
+**13.1. Allgemeines**
+
+(1) Die Mindestanforderungen gelten für Vögel der Ordnung Spechtvögel (Piciformes) mit den Familien Bartvögel (Capitonidae) und Tukane (Ramphastidae).
+
+**13.2. Spezielle Anforderungen**
+
+**13.2.1. Bartvögel – Capitonidae**
+
+(1) Bartvögel sind zumindest paarweise zu halten.
+
+(2) Den Tieren sind alle Arten von Früchten, Beeren und tierisches Eiweiß in Form von Insekten anzubieten.
+
+(3) Den Tieren sind bepflanzte Volieren mit genügend Versteckmöglichkeiten einzurichten. Als Höhlenbrüter sind, ihnen geeignete Nistkästen zur Verfügung zu stellen. Diese sind auch außerhalb der Brutzeit anzubieten, da sie als Schlafplatz genutzt werden.
+
+(4) Bartvögel müssen in der kalten Jahreszeit in einer Innenvoliere mit einer Mindesttemperatur von 15°C gehalten werden.
+
+(5) Die Mindestmaße der Außenvoliere je Paar (Fläche in m<sup>2</sup> x Höhe in m) müssen 6 x 2,5 betragen.
+
+Bei in Gruppen lebenden Arten ist bei Unterbringung von zwei weiteren Vögeln die Grundfläche um 25% zu erweitern.
+
+(6) Die Mindestmaße der Innenvoliere je Paar (Fläche in m<sup>2</sup>/x Höhe in m) müssen 3 x 2 beragen.
+
+(7) Bei ganzjähriger Haltung in Innenräumen ist eine Innenvoliere entsprechend der Maße der Außenvoliere zu errichten.
+
+**13.2.2. Tukane – Ramphastidae**
+
+(1) Tukane sind zumindest paarweise zu halten.
+
+(2) Den Tieren sind weiches Obst und in geringen Mengen auch tierisches Eiweiß in Form von Weichfutter, Topfen und Insekten anzubieten. Der Eisengehalt des Futters muss unter 7 mg pro 100 g liegen.
+
+(3) Den Tieren sind mit reichlich Baumstämmen und Ästen eingerichtete, bepflanzte Voliere einzurichten. Den Höhlenbrütern sind adäquate Nistkästen bereitzustellen. Dem Badebedürfnis ist durch das Anbieten von Badebecken Rechnung zu tragen.
+
+(4) Tukane sind in der kalten Jahreszeit in einer Innenvoliere, die eine Mindesttemperatur von 15°C aufweisen muss zu halten.
+
+(5) Die Mindestmaße der Außenvoliere müssen je Paar (Fläche in m<sup>2</sup> x Höhe in m) 8 x 2,5 betragen. Bei in Gruppen lebenden Arten ist bei Unterbringung von zwei weiteren Vögeln die Grundfläche um 25% zu erweitern.
+
+(6) Die Mindestmaße der Innenvoliere müssen je Paar (Fläche in m<sup>2</sup> x Höhe in m): 4 x 2 betragen.
+
+Bei ganzjähriger Haltung in Innenräumen ist eine Innenvoliere entsprechend der Maße der Außenvoliere zu errichten.
+
+**14. Mindestanforderungen an die Haltung von Sperlingsvögeln (Passeriformes) und Kolibris (Apodiformes)**
+
+**14.1. Allgemeines**
+
+(1) Die Mindestanforderungen gelten für Vögel der Ordnung Sperlingsvögel (Passeriformes), wobei hier nur solche Familien berücksichtigt werden, zu welchen handlungsrelevante Gattungen und Arten zugehörig sind. Es sind dies: Schnurrvögel (Pipridae), Lerchen (Alaudidae), Bülbüls (Pycnonotidae), Blattvögel (Irenidae), Drosseln (Turdidae), Timalien (Timaliidae), Meisen (Paridae), Nektarvögel (Nectariniidae), Brillenvögel (Zosteropidae), Ammern (Emberizidae), Finkenvögel (Fringillidae), Prachtfinken (Estrildidae), Webervögel (Ploceidae),Stare (Sturnidae). Weiters gelten diese Mindestanforderungen für die Familie Kolibris (Trochilidae) aus der Ordnung Segler und Kolibris (Apodiformes)
+
+(2) Die Haltung von domestizierten Formen des Zebrafinken (Taeniopygia guttata), der Reisamadine (Reisfink, Padda oryzivora), des Kanarienvogels (Serinus canaria) oder des Japanischen Mövchens (Lonchura striata), sind geregelt in Punkt 1.
+
+**14.2. Spezielle Anforderungen**
+
+(1) Sperlingsvögel und Kolibris sind grundsätzlich paarweise oder in Gruppen als Schwarm zu halten, ausgenommen sind unverträgliche Individuen wie zum Beispiel Schamadrossel und Kolibris während der Revierbildung und kranke Tiere.
+
+(2) Besondere Sorgfalt ist auf abwechslungsreiches und geeignetes Futter zu verwenden.
+
+(3) Die angegebenen Maße für Käfige, Volieren und Schutzräume gelten, sofern nicht anders vermerkt, für die paarweise Unterbringung. Jungvögel bleiben bis zum Selbstständigwerden unberücksichtigt. Die Maße dürfen auch bei begründeter Einzelhaltung nicht unterschritten werden. Wo die Artverträglichkeit für ein weiteres Paar gegeben ist, ist die Grundfläche um 25% der ursprünglichen Grundfläche zu erweitern.
+
+(4) Für Vögel die ganzjährig in Innenräumen gehalten werden ist eine Innenvoliere entsprechend den Maßen der Außenvolieren einzurichten.
+
+(5) Käfige sind mit Ausnahme der bodenbrütenden Arten wie zum Beispiel Lerchen in mindestens 80 cm Höhe aufzustellen. Vogelkäfige müssen rechteckige Grundflächen haben, Rundvolieren sind erst ab einem Durchmesser von 2 m zulässig. Die Maschenweite des Gitters muss der Größe der gehaltenen Vögel angepasst sein.
+
+(6) Käfige müssen an drei Seiten, Volieren an einer Seite undurchsichtig sein. Außenvolieren müssen teilweise überdacht sein, einen begehbaren Schutzraum oder, bei winterharten Arten, einen Witterungsschutz gegen Sonne, Wind und Niederschlag aufweisen, der jederzeit von den Vögeln aufgesucht werden kann.
+
+(7) Der Boden der Innenvoliere ist mit Sand, Holzgranulat, Rindenmulch oder ähnlichem geeignetem Material abzudecken. Der Boden der Außenvoliere darf entweder aus Naturboden bestehen oder ist mit einem Belag aus Sand, Kies, Rindenmulch oder ähnlichem zu versehen.
+
+(8) Zur Mindestausstattung von Käfigen und Volieren gehören Sitz-, Versteck-, Schlaf- und Nistmöglichkeiten. Bademöglichkeiten sind anzubieten.
+
+(9) Je nach geographischer Verbreitung der hier aufgeführten Sperlingsvögel und Kolibris sind unterschiedliche Klimaansprüche zu berücksichtigen. Viele Arten der aufgelisteten Familien sind tropischen Ursprungs. Ihnen ist, sofern nicht unter den einzelnen Haltungsansprüche, anders festgelegt, ganzjährig ein temperierter Schutzraum einzurichten. In den Wintermonaten sind die Tiere in beheizten Innenvolieren zu halten. Bei der Käfighaltung tropischer Vögel müssen die Unterbringungsräume ebenfalls beheizbar sein. Die festgelegten Temperaturen sind einzuhalten.
+
+**14.3. Mindestanforderungen an Haltung handelsrelevanter Sperlingsvögel**
+
+**14.3.1. Schnurrvögel – Pipridae**
+
+(1) Die Mindestmaße des Käfigs je Paar (Länge x Breite x Höhe in m) müssen 1,80 x 0,80 x 1,50 betragen.
+
+(2) Bei der Unterbringung von weiteren 2 Vögeln ist die Grundfläche um 25% zu erweitern.
+
+(3) Bei der Haltung in Außenvolieren, die ausschließlich während der Sommermonate erfolgen darf, muss ein Schutzraum von mindestens 1 m<sup>2</sup> Grundfläche zur Verfügung stehen.
+
+(4) Die Mindesttemperatur darf 20°C in der Eingewöhnungsphase, später 18°C nicht unterschreiten. Zusätzlich sind punktförmige Wärmequellen mit Strahlungswärme, die bei Bedarf aufgesucht werden können, anzubieten. Eine hohe Luftfeuchtigkeit von mindestens 60% ist notwendig.
+
+(5) Den Tieren sind bepflanzte Volieren mit weichem Bodenuntergrund wie Grasboden, Rindenmulch und Laub einzurichten. Für das komplizierte Balzverhalten sind „Tanzplätze“ mit waagrechten, kahlen, flexiblen dünnen Zweigen einzurichten. Dem ausgeprägten Badebedürfnis ist durch Badebecken oder künstliche Wasserläufe Rechnung zu tragen.
+
+(6) Den Tieren sind Beeren, Früchte, Insekten, auch Weichfutter und Nektar anzubieten. Das Futter muss täglich mindestens zweimal frisch zubereitet werden.
+
+**14.3.2. Lerchen – Alaudidae**
+
+(1) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) betragen:
+
+1\. Arten mit einer Gesamtlänge bis 20 cm (zB Heidelerche, Lullula arborea ): 1,20 x 0,80 x 0,50
+
+2\. Arten mit einer Gesamtlänge über 20 cm (zB Haubenlerche, Galerida cristata): 1,60 x 0,80 x 0,50
+
+(2) Bei der Haltung in Außenvolieren muss ein Schutzraum von mindestens 1 m<sup>2</sup> Grundfläche vorhanden sein. Auf Verträglichkeit zwischen der einzelnen Tiere ist wegen ihres ausgeprägten Territorialverhaltens besonders zu achten.
+
+(3) Die in Europa vorkommenden Arten müssen frostfrei überwintert werden. Die Haltung in Außenvolieren ist zulässig, sofern die Tiere einen frostfreien Schutzraum aufsuchen können. Bei tropischen Arten darf die Mindesttemperatur von 10°C nicht unterschritten werden.
+
+(4) Lerchen sind in den Volieren Steine, Büsche oder Ähnliches als Sitzwarten sowie im oberen Bereich dünne Zweige als Singwarten einzurichten. Der Boden muss mit einer mindestens 4 cm dicken Kies-, Sand- oder Erdschicht bedeckt sein, damit die Vögel Schlafmulden anlegen können.
+
+(5) Den Tieren ist ein hochwertiges und vielseitiges Körner- und Insektenweichfutter anzubieten. Besonders während der Jungenaufzucht sind lebende Insekten zu reichen.
+
+**14.3.3. Bülbüls – Pycnonotidae**
+
+(1) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) 2,0 x 1,0 x 1,0 betragen.
+
+(2) Bei der Haltung in Außenvolieren muss ein Schutzraum von mindestens 1 m<sup>2</sup> Grundfläche zur Verfügung stehen.
+
+(3) Während der Eingewöhnungsphase darf die Mindesttemperatur 20°C nicht unterschreiten. Nach der Eingewöhnungsphase darf bei Temperaturen über 10°C der ganzjährige Zugang zur Außenvoliere gewährt werden.
+
+(4) Die Voliere ist dicht mit Sträuchern, Laubgehölzen oder Koniferen auszustatten.
+
+(5) Als Grundfutter sind den Tieren alle Arten von Früchten und Beeren, Weichfutter und Nektar anzubieten. Arten der Gattung Spizixos fressen auch hartschalige Samen. Tierisches Eiweiß in Form von Insekten und Mehlwürmern sind vor allem während der Jungenaufzucht notwendig.
+
+**14.3.4. Blattvögel, Feenvögel – Irenidae**
+
+(1) Die Familie der Irenidae umfasst drei Unterfamilien: Ioras (Aegithininae), Feenvögel (Ireninae) und Blattvögel (Chloropseinae). Die nachstehenden Angaben beziehen sich nur auf die Unterfamilie der häufig gehaltenen Blattvögel.
+
+(2) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) 2,0 x 1,0 x 2,0 betragen.
+
+(3) Die Tiere sind in Gruppen zu halten. Nicht gut harmonierende Paare dürfen nur in Volieren gehalten werden, welche die angegebenen Mindestmaße deutlich überschreiten. Die Mindestmaße dürfen auch bei zeitweiliger Einzelhaltung nicht unterschritten werden.
+
+(4) Bei der Haltung in Außenvolieren ausschließlich in den Sommermonaten muss ein Schutzraum von mindestens 1 m<sup>2</sup> Grundfläche zur Verfügung stehen.
+
+(5) Die Mindesttemperatur darf 15°C nicht unterschreiten.
+
+(6) Die Voliere ist reich mit lebenden Pflanzen auszustatten. Wasserbecken und Futtergefäße sind in der oberen Hälfte der Voliere anzubringen.
+
+(7) Den Tieren sind Nektar, Beeren und Früchten sowie Weichfutter anzubieten. Zusätzlich und zwingend notwendig während der Aufzuchtperiode, sind Insekten wie Heimchen und Grillen zu reichen.
+
+**14.3.5. Drosseln – Turdidae**
+
+(1) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) betragen:
+
+1\. Arten mit einer Gesamtlänge bis 20 cm (zB Schuppenkopf-Rötel, Cossypha niveicapilla): 2,0 x 1,0 x 2,0
+
+2\. Arten mit einer Gesamtlänge über 20 cm (zB Buntdrossel, Zoothera dauma) 3,0 x 1,5 x 2,0
+
+(2) Bei der Unterbringung von weiteren 2 Vögeln ist die Grundfläche um 25% zu erweitern (Ruhephase).
+
+(3) Bei der Haltung in Außenvolieren muss ein Schutzraum von mindestens 1 m<sup>2</sup> Grundfläche zur Verfügung stehen.
+
+(4) Arten der nördlichen Hemisphäre dürfen ganzjährig in Außenvolieren gehalten werden. Ein trockener und zugfreier Schutzraum oder überdachter geschützter Volierenteil muss zur Verfügung stehen.
+
+(5) Den Tieren sind Biotopvoliere mit natürlicher Bepflanzung aus Sträuchern, Laubgehölzen und Koniferen einzurichten. Je nach Art sind Höhlen, Halbhöhlen oder Astquirle als Nestplatz anzubieten.
+
+(6) Drosseln erhalten als Ersatzfutter handelsübliches oder selbst hergestelltes Weichfutter von feuchtkrümeliger Beschaffenheit. Die Futterbestandteile tierischen Ursprungs müssen 50%, die kohlehydratreichen Anteile pflanzlichen Ursprungs 40-50% und ergänzend Beeren und grüne Pflanzenteile wie Vogelmiere, Löwenzahn, Brennessel bis zu 10% betragen. Insekten wie Heimchen, Grillen und Mehlkäferlarven müssen vor allem während der Jungenaufzucht angeboten werden. Vielen Arten wie zum Beispiel der Natalrötel, Cossypha natalensis sind als Ergänzung auch Früchte, besonders Beeren anzubieten. Einigen Arten wie zum Beispiel der Schamadrossel, Copsychus malabaricus auch Sämereien.
+
+**14.3.6. Timalien – Timaliidae**
+
+(1) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) betragen:
+
+1\. Arten mit einer Gesamtlänge bis 20 cm (zB Sonnenvogel, Leiothrix lutea): 2,0 x 1,0 x 2,0
+
+2\. Arten mit einer Gesamtlänge ab 20 cm (zB Arten der Gattungsgruppe Häherlinge, Garrulax sp.): 3,0 x 1,5 x 2,0
+
+(2) Bei der Unterbringung von weiteren 2 Vögeln ist die Grundfläche um 25% zu erweitern (Ruhephase).
+
+(3) Bei der Haltung in Außenvolieren muss ein Schutzraum von mindestens 1 m<sup>2</sup> Grundfläche zur Verfügung stehen.
+
+(4) Die Vögel dürfen ganzjährig in der Außenvoliere gehalten werden. Bei Minustemperaturen muss ein frostfreier Schutzraum jederzeit aufgesucht werden können. Kleinere Arten der asiatischen Gebirgsregionen wie Arten der Gattungsgruppe Siva, Minla Spezies müssen frostfrei überwintert werden. Alle anderen Arten wie Arten der Gattung Yuhina sind mit einer Mindesttemperatur von 15°C warm zu überwintern.
+
+(5) Den Tieren sind Biotopvoliere mit natürlicher Bepflanzung aus Sträuchern, Laubgehölzen und Koniferen einzurichten.
+
+(6) Den Tieren sind handelsübliches Weichfutter wie Insekten, Beeren, Obst, Sämereien anzubieten. Für Zwergtimalien der Gattungsgruppe Yuhina sind Honig oder Nektarpräparate erforderlich. Auch Drosophilas, Wachsmottenraupen und andere kleine Insekten sind zu füttern.
+
+**14.3.7. Meisen – Paridae**
+
+(1) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) 1,80 x 0,80 x 1,50 betragen.
+
+(2) Bei der Unterbringung von weiteren 2 Vögeln ist die Grundfläche um 25% zu erweitern.
+
+(3) Die Arten der nördlichen Hemisphäre dürfen ganzjährig in Außenvolieren gehalten werden, wenn ein trockener Schutzraum oder ein überdachter geschützter Volierenteil zur Verfügung steht. Afrikanische Arten müssen frostfrei überwintert werden.
+
+(4) Den Tieren sind Biotopvoliere mit dichter, natürlicher Bepflanzung aus Sträuchern, Laubgehölzen und Koniferen sowie Nisthöhlen einzurichten.
+
+(5) Den Tieren sind Weichfutter, Eifutter, kleine Insekten, Spinnen und im Winterhalbjahr Sämereien, Nüsse und Beeren anzubieten. Beschäftigungsfutter in Form von mit Blattläusen befallenen Pflanzen ist bereitzustellen.
+
+**14.3.8. Nektarvögel – Nectariniidae**
+
+(1) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) 2,0 x 1,0 x 1,5 betragen.
+
+(2) Bei der Unterbringung von weiteren 2 Vögeln ist die Grundfläche um 25% zu erweitern.
+
+(3) Bei der Haltung in Außenvolieren ausschließlich während der Sommermonate muss ein Schutzraum von mindestens 1 m<sup>2</sup> Grundfläche zur Verfügung stehen. In Innenvolieren ist wegen der erhöhten Gefahr der Verbreitung von Pilzerkrankungen auf ausreichende Belüftung zu achten.
+
+(4) Die Mindesttemperatur darf in der Eingewöhnungsphase 20°C, später 15°C nicht unterschreiten. Zusätzlich sind punktförmige Wärmequellen mit Strahlungswärme, die bei Bedarf aufgesucht werden können, anzubieten. Die Luftfeuchtigkeit muss 50–60% betragen. Für den Nestbau sind feine Pflanzenfasern, Tierhaare und Spinnweben anzubieten.
+
+(5) Den Tieren sind Volieren mit dichter natürlicher Bepflanzung und weichem, saugfähigem Bodenuntergrund wie Grasboden, Rindenmulch und Laub einzurichten. Sand ist wegen der Staubbildung nicht geeignet. Auf das Vorhandensein ausreichend dünner Sitzäste mit 4-8 mm Durchmesser ist zu achten.
+
+(6) Den Tieren sind Nektar, kleine Insekten und süßes Obst anzubieten. Das Futter muss täglich mindestens zweimal frisch zubereitet werden.
+
+**14.3.9. Brillenvögel – Zosteropidae**
+
+(1) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) 1,80 x 0,80 x 1,5 betragen.
+
+(2) Bei der Unterbringung von weiteren 2 Vögeln während der Brutzeit ist die Grundfläche um 25% zu erweitern. Außerhalb der Brutzeit ist eine Schwarmhaltung möglich.
+
+(3) Bei der Haltung in Außenvolieren ausschließlich während der Sommermonate muss den Tieren ein Schutzraum von mindestens 1 m<sup>2</sup> Grundfläche zur Verfügung stehen.
+
+(4) Die Mindesttemperatur darf in der Eingewöhnungsphase 20°C, später 15°C nicht unterschreiten. Zusätzlich sind punktförmige Wärmequellen mit Strahlungswärme, die bei Bedarf aufgesucht werden können, anzubieten.
+
+(5) Den Tieren sind Volieren mit dichter natürliche Bepflanzung und weicher, saugfähiger Bodenuntergrund wie Grasboden, Rindenmulch und Laub einzurichten. In Außenvolieren ist auf genügend Sonnenplätze zu achten. Badebecken sind zur Verfügung zu stellen.
+
+(6) Den Tieren sind Nektar, kleine Insekten, Wachsmotten, Spinnen, Blattläuse, süßes Obst und Beeren anzubieten. Das Futter muss täglich mindestens zweimal frisch zubereitet werden. Futter und Wasser sind in der oberen Volierenhälfte anzubieten.
+
+**14.3.10. Ammern – Emberizidae**
+
+(1) Die Mindestanforderungen gelten für die eigentlichen Ammern (Emberizinae), die Unterfamilien Plüschkopftangaren (Catamblyrhynchinae), Kardinäle (Cardinalinae), Tangaren (Thraupinae), und Schwalbentangaren (Tersininae).
+
+(2) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) betragen:
+
+1\. Arten mit einer Gesamtlänge bis 15 cm (zB Zwergpfäffchen, Sporophila minuta): 0,80 x 0,40 x 0,40
+
+2\. Arten mit einer Gesamtlänge von 15-20 cm (zB Goldammer, Emberiza citrinella) 1,20 x 0,50 x 0,80
+
+3\. Arten mit einer Gesamtlänge über 20 cm (zB Rotkardinal, Cardinalis cardinalis) und alle Tangaren: 1,80 x 0,80 x 1,0
+
+(3) Bei der Unterbringung von weiteren 2 Vögeln ist die Grundfläche um 25% zu erweitern.
+
+Außerhalb der Brutzeit Schwarmhaltung möglich.
+
+(4) Nordische Arten und Arten der gemäßigten Breiten wie Goldammer, Emberiza citrinella und Rotkardinal Cardinalis cardinalis, dürfen ganzjährig in Außenvolieren gehalten werden, sofern ihnen ein trockener und zugfreier Schutzraum oder überdachter geschützter Volierenteil zur Verfügung steht. Andere Arten, besonders Arten der Unterfamilie Tangaren müssen warm überwintert werden. Die Mindesttemperaturen müssen je nach Art zwischen 15°C zum Beispiel beim Halsbandorganist, Chlorophonia sp. und 18°C bei den Purpurtangare, Ramphocelus carbo betragen.
+
+(5) Den Tieren sind Biotopvoliere mit natürlicher Bepflanzung einzurichten. Bei Tangaren mit weichem, saugfähigen Bodenuntergrund wie Grasboden, Rindenmulch und Laub, bei Arten der Unterfamilie Ammern, Emberizinae auch Sand.
+
+(6) Für Arten der Unterfamilie Ammern, Emberizinae müssen vorwiegend Sämereien und Insekten wobei letztere während der Jungenaufzucht zwingend notwendig sind, Weichfutter, Grünfutter in Form von Gräsern und Kräuter angeboten werden. Für größere Arten auch Hafer, Weizen und Gerste. Tangaren sind Beeren, Früchte, Insekten, Spinnen und auch Weichfutter und Nektar anzubieten. Für diese Arten muss das Futter täglich mindestens zweimal frisch zubereitet und in der oberen Hälfte der Voliere angeboten werden.
+
+**14.3.11. Finkenvögel – Fringillidae**
+
+(1) Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) betragen:
+
+1\. Arten mit einer Gesamtlänge bis 12 cm (zB Kapuzenzeisig, Carduelis cucullata) 0,80 x 0,40 x 0,40
+
+2\. Arten mit einer Gesamtlänge von 12 – 18 cm (zB Fichtenkreuzschnabel, Loxia curvirostra) 1,20 x 0,50 x 0,80
+
+3\. Arten mit einer Gesamtlänge über 18 cm (zB Berggimpel, Carpodactus rubicilla) 1,80 x 0,80 x 1,00
+
+(2) Bei der Unterbringung von weiteren 2 Vögeln ist die Grundfläche um 25% zu erweitern. Die Schwarmhaltung ist außerhalb der Brutzeit beziehungsweise bei nicht territorialen Arten möglich, sofern ausreichend Versteck- und Schlafmöglichkeiten angeboten werden.
+
+(3) Arten der gemäßigten Breiten wie einheimische Arten zB Stieglitz (Carduelis carduelis) und Hochgebirgsvögel der Subtropen bis Tropen, wie der Dickschnabelgirlitz (Serinus burtoni) dürfen ganzjährig in Außenvolieren gehalten werden, sofern ihnen ein trockener und zugfreier Schutzraum oder überdachter geschützter Volierenteil zur Verfügung steht. Arten der Subtropen und Tropen, wie der Dünnschnabelgirlitz und Dendrospiza citrinelloides sind bei einer Mindesttemperatur von 5°C – und Arten der Gattungsgruppe Spinus sp. bei einer Mindesttemperatur von von 15°C zu halten.
+
+(4) Den Tieren sind Volieren mit natürlicher Bepflanzung von Sträuchern, Laubgehölzen und Koniferen einzurichten. Bei Schwarmhaltung ist auf ausreichende Versteckmöglichkeiten zu achten. Eine Badegelegenheit ist erforderlich.
+
+(5) Den Tieren sind Sämereien, Grünfutter, Knospen, Beeren und Obst, den größeren Arten auch Weizen und Hafer anzubieten. Für Arten der Gattung Loxia sp. sind Samen der Koniferen erforderlich. Insekten sind vor allem während der Jungenaufzucht zwingend notwendig.
+
+**14.3.12. Prachtfinken – Estrildidae**
+
+(1) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) betragen:
+
+1\. Arten mit einer Gesamtlänge bis 13 cm (zB Goldbrüstchen, Amandava subflava): 0,80 x 0,40 x 0,40
+
+2\. Arten mit einer Gesamtlänge über 13 cm (zB Rotkopfamadine, Amadina erythrocephala): 1,20 x 0,50 x 0,80
+
+(2) Bei der Unterbringung von weiteren 2 Vögeln ist die Grundfläche um 25% zu erweitern. Für die Schwarmhaltung sind Volieren erforderlich.
+
+(3) Bei der Haltung in Außenvolieren muss ein Schutzraum von mindestens 1 m<sup>2</sup> Grundfläche vorhanden sein.
+
+(4) Die ganzjährige Haltung in Außenvolieren ist nur möglich, wenn ein temperierter Schutzraum aufsucht werden kann. Die Temperatur darf 15°C nicht unterschreiten. Für Arten der Gattungen Chloebia, Lagonosticta, Reichenowia, Parmoptila, Percnopis, Nigrita, Pyrenestes und Spermophaga sind Temperaturen von mindestens 18°C erforderlich.
+
+(5) Den Tieren müssen Schlafkörbchen oder -kästen angeboten werden, die auch als Versteckmöglichkeit dienen. Bodenbrütenden Prachtfinken wie dem Rebhuhnastrild, Orthygospiza atricollis sind Grasbüschel zur Deckung anzubieten. Für Arten aus Trockengebieten sind zusätzlich Staubbademöglichkeiten aeinzurichten.
+
+(6) Den Tieren sind Körner, Grünfutter und vor allem während der Jungenaufzucht tierisches Eiweiß anzubieten.
+
+**14.3.13. Webervögel – Ploceidae**
+
+(1) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) betragen:
+
+1\. Arten mit einer Gesamtlänge bis 13 cm (zB Blutschnabelweber, Quelea quelea): 0,80 x 0,40 x 0,40
+
+2\. Arten mit einer Gesamtlänge von 13-18 cm (zB Graukopfsperling, Pyrgitopsis grisea) 1,20 x 0,50 x 0,80
+
+3\. Arten mit einer Gesamtlänge über 18 cm (zB Starweber, Dinemellia dinemellii): 1,80 x 0,80 x 1,00
+
+(2) Bei der Unterbringung von weiteren 2 Vögeln ist die Grundfläche um 25% zu erweitern. Für Schwarmhaltung, die der geselligen Lebensweise am besten entspricht, sind Volieren erforderlich.
+
+(3) Bei der Haltung in Außenvolieren muss ein Schutzraum von mindestens 1 m<sup>2</sup> Grundfläche vorhanden sein.
+
+(4) Arten der Unterfamilie Witwenvögel, Viduinae sp., sind Brutparasiten bei Prachtfinken. Für Ihre Haltung sind besondere Kenntnisse erforderlich.
+
+(5) Alle Arten dürfen ganzjährig in Außenvolieren gehalten werden. Bei europäische Arten und Hochgebirgsbewohnern der Unterfamilie Passerinae genügt ein Witterungsschutz, alle anderen Arten müssen jederzeit einen Schutzraum aufsuchen können, dessen Temperatur 10°C nicht unterschreiten darf.
+
+(6) Bei der Schwarmhaltung sind ausreichend Versteckmöglichkeiten, bei Arten der Unterfamilie Passerinae auch ausreichend Schlafkästen zur Verfügung zu stellen. Bademöglichkeiten und Staubbademöglichkeiten, wie Sand, sind anzubieten.
+
+(7) Den Tieren sind Sämereien, Grünfutter und besonders während der Jungenaufzucht Insekten anzubieten. Einige Arten, wie Waldweber, Ploceus bicolor, sind Insektenfresser, ihnen ist ganzjährig ausreichend tierisches Eiweiß anzubieten.
+
+**14.3.14. Stare – Sturnidae**
+
+(1) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) betragen:
+
+1\. Arten mit einer Gesamtlänge bis 25 cm (zB Lappenstar, Creatophora cinerea): 2,0 x 1,0 x 2,0
+
+2\. Arten mit einer Gesamtlänge über 25 cm (zB Königsglanzstar, Cosmopsarus regius): 3,0 x 1,5 x 2,0
+
+(2) Bei der Haltung in Außenvolieren muss ein Schutzraum von mindestens 1 m<sup>2</sup> Grundfläche zur Verfügung stehen.
+
+(3) Die ganzjährige Haltung in Außenvolieren ist bei einigen Arten wie Ufermaina, Acridotherus ginginianus zulässig, wenn die Vögel einen temperierten Schutzraum aufsuchen können. Die Temperatur des Schutzraumes darf 10°C nicht unterschreiten. Die anderen Arten sind warm zu überwintern, die Mindesttemperatur darf 15°C nicht unterschreiten.
+
+(4) Den Tieren sind Biotopvoliere mit natürlicher Bepflanzung aus Sträuchern und Laubgehölzen anzubieten. Den höhlenbrütenden Arten sind Nistkästen einzurichten.
+
+(5) Den Tieren sind handelsübliches Weichfutter, Insekten, Früchte, Beeren und Sämereien anzubieten.
+
+**14.3.15. Kolibris – Trochilidae**
+
+(1) Die Mindestmaße des Käfigs je Paar müssen (Länge x Breite x Höhe in m) 2,0 x 1,0 x 2,0 betragen.
+
+(2) Bei der Haltung in Außenvolieren ausschließlich während der Sommermonate muss ein Schutzraum von mindestens 1 m<sup>2</sup> Grundfläche zur Verfügung stehen. In Innenvolieren ist wegen der Gefahr der Verbreitung von Pilzerkrankungen auf ausreichende Belüftung zu achten.
+
+(3) Die Mindesttemperatur darf tagsüber 18°C, nachts 10°C nicht unterschreiten. Ein Tag- Nacht-Gefälle ist anzustreben. Zusätzlich sind punktförmige Wärmequellen mit Strahlungswärme, die bei Bedarf aufgesucht werden können, einzurichten. Die Luftfeuchtigkeit muss 50–60% betragen. Für den Nestbau sind feine Pflanzenfasern, Tierhaare und Spinnweben anzubieten.
+
+(4) Den Tieren sind Volieren mit dichter, natürliche Bepflanzung, ausreichend glattrindigen dünnen Sitzästen und einem weichen, saugfähigen Bodenuntergrund wie Grasboden, Rindenmulch und Laub einzurichten. Sand ist wegen der Staubbildung nicht geeignet.
+
+(5) Den Tieren sind Nektar und kleine Insekten, vor allem Drosophila-Arten, anzubieten. Das Futter muss täglich mindestens zweimal frisch zubereitet werden. Auf äußerste Sauberkeit aller Futtergefäße ist besonders zu achten.
+
+## Mindestanforderungen an die Haltung von Reptilien
+
+### Anlage 3:
+
+**1. Mindestanforderungen an die Haltung von Schildkröten**
+
+**1. 1. Allgemeine Haltungsbedingungen**
+
+(1) Die Mindestanforderungen gelten für die Pflege erwachsener Tiere. Sie sind sinngemäß auf die Aufzucht junger Tiere anzuwenden, abweichenden Haltungsansprüchen ist jedoch Rechnung zu tragen.
+
+(2) Viele Schildkrötenarten werden sehr groß und erreichen bei guter Pflege ein hohes Alter von 25 bis 50 Jahre bei Wasserschildkröten, ein noch wesentlich höheres Alter bei Landschildkröten. Das ist bei der Anschaffung von Schildkröten zu berücksichtigen.
+
+(3) Die Notwendigkeit eines natürlichen Lichteinfalls oder künstlicher Beleuchtung sind artgemäß zu berücksichtigen um den Tieren den Tag-Nacht-Rhythmus und die jahreszeitliche Schwankungen zwischen Kurztag und Langtag zu signalisieren. Notwendigen Ruhephasen, verbunden mit Lichtentzug und Temperaturabsenkung, im Extremfall Hibernation ist Rechnung zu tragen. Lokale Strahlungswärme ist für viele Schildkrötenarten zur Erreichung einer optimalen Körpertemperatur anzubieten.
+
+(4) Im saisonalen Hauptaktivitätszeitraum der Schildkröten muss die Tagestemperatur von Luft/ Wasser für die meisten Arten bei mindestens 23-bis 26 °C liegen.
+
+(5) Die nachfolgenden Angaben sind Mindestmaße die das Terrarium in denen die Tiere gehalten werden aufweisen muss.
+
+**1.2. Spezielle Haltungsbedingungen**
+
+**1.2.1. Testudo Kleinmanni (Ägyptische Landschildkröte)**
+
+<u>Terrarium /Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 6 cm** | **6-12 cm** | **über 12 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 0,50 m² | 1,00 m² | 2,00 m² |
+| jedes weitere Tier | 0,20 m² | 0,40 m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Einrichtung:</td>
+<td>Strukturierung der Bodenfläche mit flachen Steinen; Versteckplätze;</td>
+</tr>
+<tr>
+<td>Trinkmöglichkeit; HQI- und Wärmestrahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>grober Sand, Lehm, zum Eingraben geeignet;</td>
+</tr>
+<tr>
+<td rowspan="5">Temperatur:</td>
+<td>Einrichtung warmer und kühler Zonen; Sommer: tagsüber</td>
+</tr>
+<tr>
+<td>25-35 °C; lokale Erwärmung auf 35-45 °C durch</td>
+</tr>
+<tr>
+<td>Wärmestrahler; Nachtabsenkung um ca. 15-20 °C;</td>
+</tr>
+<tr>
+<td>Winter: tagsüber 15-23 °C; lokale Erwärmung auf 25-30 °C durch</td>
+</tr>
+<tr>
+<td>Wärmestrahler; Nachtabsenkung um ca 5-10 °C</td>
+</tr>
+<tr>
+<td rowspan="2">Beleuchtungsdauer:</td>
+<td>je nach Jahreszeit täglich 10-14 Stunden; HQI-Strahler für hohe</td>
+</tr>
+<tr>
+<td>Beleuchtungsintensität; UV-Bestrahlung täglich</td>
+</tr>
+<tr>
+<td>Luftfeuchtigkeit:</td>
+<td>40-60 %; bei Jungtieren 60-80 %; im Winter täglich sprühen</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Besondere Hinweise: Ägyptische Landschildkröten halten keine Winterruhe, sie sind ganzjährig aktiv; Ruheperioden werden häufig im Sommer gehalten; Tiere möglichst weinig manipulieren,häufiges Anfassen der Tiere kann stressbedingt zum Todführen; von einer Freilandhaltung ist abzuraten;Unterbringung im Wintergarten oder Glashaus
+
+**1.2.2. Emys orbicularis (Europäische Sumpfschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **über 15 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 300 l | 500 l | 750 l |
+| Landteil | 0,05 m² | 0,10 m² | 0,20 m² |
+| jedes weitere Tier | 100 l | 150 l | 250 l |
+| Landteil | 0,02 m² | 0,06 m² | 0,10 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td>Einrichtung:</td>
+<td>einige Holz- oder Korkrindenstücke als Landteil, die so befestigt sind, dass der Schwimmraum nicht wesentlich beeinträchtigt ist; Wärmestrahler über dem Sonnenplatz; UV-Strahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>2 – 3 cm Sand oder Kies</td>
+</tr>
+<tr>
+<td rowspan="4">Temperatur:</td>
+<td>Sommer: 20-28 °C Wassertemperatur;</td>
+</tr>
+<tr>
+<td>Lufttemperatur: unter dem Wärmestrahler 35-45 °C;</td>
+</tr>
+<tr>
+<td>Winter: Winterruhe im Wasser oder in feuchtem Substrat bei 4-8 °C, je nach</td>
+</tr>
+<tr>
+<td>Herkunft der Tiere 3-5 Monate</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>im Sommer mindestens 12 Stunden täglich; UV- Bestrahlung täglich</td>
+</tr>
+<tr>
+<td>Luftfeuchtigkeit:</td>
+<td>70 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Freilandterrarium</u>
+
+<table>
+<tr>
+<td>Lage:</td>
+<td colspan="2">sonnige Lage mit mindestens 8 Stunden Sonne täglich</td>
+</tr>
+<tr>
+<td rowspan="3">Wasserteil:</td>
+<td rowspan="2">Einrichtung:</td>
+<td>Bepflanzung; ins Wasser ragende Holzstücke;</td>
+</tr>
+<tr>
+<td>Flachwasserbereiche</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand oder Kies</td>
+</tr>
+<tr>
+<td>Landteil:</td>
+<td>Einrichtung:</td>
+<td>Bepflanzung mit Stauden; Hügel mit teilweise pflanzenfreien Zonen für die Eiablage</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Besondere Hinweise: für den ganzjährigen Aufenthalt im Gartenteich bei einer Mindestwassertiefe von 1 m und flachen Ufern geeignet
+
+**1.2.3 Chelonidis (Geochelone) chilensis (Argentinische Landschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-20 cm** | **über 20 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 1,00 m² | 1,50 m² | 2,00 m² |
+| jedes weitere Tier | 0,20 m² | 0,40 m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Strukturierung mit Steinen, Ästen und Pflanzen; Versteckplätze; Trinkmöglichkeit; HQI- und Wärmestrahler; UV-Strahler |
+|---|---|
+| Bodengrund: | Lehm, lehmiger Sand; zum Eingraben geeignet; flache Steine |
+| Temperatur: | tagsüber 22-35 °C; lokale Erwärmung durch Wärmestrahler auf 35-45 °C; wärmere und kühlere Zonen einrichten; nachts 16-20 °C |
+| Beleuchtungsdauer: | täglich 10-14 Stunden; HQI-Strahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 40-60 % |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage |
+|---|---|
+| Einrichtung: | Bepflanzung mit schattenspendenden Sträuchern oder Stauden, dazwischen Freiflächen; beheizbares Schutzhaus oder Zugang zu Glashaus oder Wintergarten mit Wärmestrahler für kühle Tage |
+| Bodengrund: | Lehmerde, Sand, zum Eingraben geeignet; stellenweise Schotter |
+| Temperatur: | tagsüber mindestens 20 °C; nachts mindestens 15 °C |
+|  |  |
+
+**1.2.4. Testudo marginata (Breitrandschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 6 cm** | **6-12 cm** | **12-18 cm** | **über 18 cm** |
+|---|---|---|---|---|
+| 1-2 Tiere | 0,50 m² | 1,00 m² | 2,00 m² | 3,00 m² |
+| jedes weitere Tier | 0,20 m² | 0,40 m² | 0,50 m² | 0,70 m² |
+|  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Strukturierung mit Pflanzen, Steinen und Ästen; Versteckplätze; Trinkmöglichkeit; HQI- und Wärmestrahler |
+|---|---|
+| Bodengrund: | Lehmerde, Sand, zum Eingraben geeignet, stellenweise Schotter |
+| Temperatur: | tagsüber 25-30 °C; lokale Erwärmung auf 35-45 °C durch Wärmestrahler; Nachtabsenkung um ca. 10 °C; Einrichtung warmer und kühler Zonen |
+| Beleuchtungsdauer: | je nach Jahreszeit 6-14 Stunden täglich; HQI-Strahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 40-60 %; bei Jungtieren 60-80 %; täglich sprühen |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage |
+|---|---|
+| Einrichtung: | trockenes Schutzhaus mit Substrat zum Eingraben und Öffnung nach Osten bis Südosten; sonnige Plätze mit leicht abtrocknendem Bodengrund; Schattenplätze und Versteckmöglichkeiten durch kleine Büsche, Stauden, Steine und Wurzeln; Wasserstelle; bei Jungtieren als Schutz vor Vögeln und Raubtieren mit Gitter abdecken; Hügel für die Eiablage |
+| Bodengrund: | Blumenwiese, Lehmerde, Sand, stellenweise Schotter |
+| Temperatur: | tagsüber mindestens 15 °C; nachts mindestens 10 °C |
+|  |  |
+
+Besondere Hinweise: Winterruhe 3-5 Monate bei 4-6 °C
+
+**1.2.5 Terrapene carolina (Carolina Dosenschidlkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **über 15 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 0,50 m² | 1,20 m² | 2,00 m² |
+| jedes weitere Tier | 0,10 m² | 0,30 m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Aquaterrarium – ca. ein Drittel als flachen Wasserteil gestalten; Versteckmöglichkeiten aus Wurzeln und Pflanzen; Wärmestrahler; UV-Strahler |
+|---|---|
+| Bodengrund: | Mischung aus Sand, Erde und Rindenmulch; Torfmoos |
+| Temperatur: | Sommer: 22-30 °C; unter Wärmestrahler bis 35 °C; Winter: je nach Herkunft 2-3 Monate Winterruhe bei 12-18 °C |
+| Beleuchtungsdauer: | 8-14 Stunden täglich; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 60-80 % |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage |
+|---|---|
+| Einrichtung: | kleiner, flacher, stark bepflanzter Teich; Landteil mit schattenspendenden Pflanzen und Versteckmöglichkeiten; einige vegetationsfreie Stellen zum Sonnen |
+| Bodengrund: | Mischung aus feinem Sand, Erde und Rindenmulch, zum Eingraben geeignet |
+|  |  |
+
+Besondere Hinweise: für den Freilandaufenthalt während des Sommers geeignet; die Winterruhe sollte nur unter kontrollierten Bedingungen durchgeführt werden
+
+**1.2.6. Chinemys reevesii (Chinesische Dreikielschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-18 cm** | **über 18 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 300 l | 500 l | 750 l |
+| Landteil | 0,05 m² | 0,10 m² | 0,30 m² |
+| jedes weitere Tier | 100 l | 150 l | 250 l |
+| Landteil | 0,02 m² | 0,05 m² | 0,10 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln, Steinen und Wasserpflanzen;UV-Strahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Kies oder Sand</td>
+</tr>
+<tr>
+<td rowspan="4">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Wärmelampe; Versteckplätze aus Wurzeln und Pflanzen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand-Erde-Gemisch</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Wassertemperatur: Sommer 22-28 °C; Lufttemperatur: unter dem Wärmestrahler 35-40 °C</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>je nach Jahreszeit 6-14 Stunden; UV-Bestrahlung täglich</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Freilandterrarium</u>
+
+<table>
+<tr>
+<td>Lage:</td>
+<td colspan="2">sonnige, windgeschützte Lage</td>
+</tr>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>mit Wurzeln und Pflanzen strukturieren, um Versteckplätze zu schaffen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, feiner Kies</td>
+</tr>
+<tr>
+<td rowspan="2">Landteil:</td>
+<td>Einrichtung:</td>
+<td>mit Wurzeln und Pflanzen strukturieren, um Versteckplätze zu schaffen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Lehmerde, Sand, Rindenmulch</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Besondere Hinweise: für den Aufenthalt im Gartenteich den Sommer über geeignet; Winterruhe: zwei Monate bei 4-8 °C in Wasser oder in erdfeuchtem Substrat; die Überwinterung sollte unter kontrollierten Bedingungen durchgeführt werden.
+
+**1.2.7. Pelodiscus sinensis (Chinesische Weichschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-20 cm** | **20-30 cm** |
+|---|---|---|---|
+| 1 Tier | 200 l | 350 l | 500 l |
+| Landteil | 0,10 m² | 0,20 m² | 0,30 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>großzügiger Schwimmraum mit Wurzeln und Pflanzen strukturiert</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, feiner Kies</td>
+</tr>
+<tr>
+<td rowspan="4">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Strukturierung mit Wurzeln und Pflanzen; Wärmelampe</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>feiner Sand, zum Eingraben geeignet</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Sommer: 25-30 °C; Winter: 15-20 °C; je nach Jahreszeit unter der Wärmelampe 25-40 °C</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>je nach Jahreszeit 8-14 Stunden; UV-Bestrahlung täglich</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Freilandterrarium</u>
+
+<table>
+<tr>
+<td>Lage:</td>
+<td colspan="2">sonnige, windgeschützte Lage</td>
+</tr>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>großzügiger Schwimmraum mit Wurzeln und Pflanzen strukturiert</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, feiner Kies</td>
+</tr>
+<tr>
+<td rowspan="2">Landteil:</td>
+<td>Einrichtung:</td>
+<td>schattenspendende Sträucher oder Stauden als Versteckplätze</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Lehmerde, sandige Stellen</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+**1.2.8. Cuora trifasciata (Dreistreifen-Scharnierschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **15-20 cm** | **über 20 cm** |
+|---|---|---|---|---|
+| 1-2 Tiere | 300 l | 500 l | 750 l | 1000 l |
+| Landteil | 0,05 m² | 0,10 m² | 0,20 m² | 0,30 m² |
+| jedes weitere Tier | 100 l | 150 l | 250 l | 350 l |
+| Landteil | 0,02 m² | 0,06 m² | 0,10 m² | 0,15 m² |
+|  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>mit Wurzeln und Wasserpflanzen Versteckplätze schaffen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, feiner Kies</td>
+</tr>
+<tr>
+<td rowspan="4">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Strukturierung mit Wurzeln und Pflanzen, um Versteckplätze zu schaffen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand-Erde-Gemisch</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Sommer: 25-32 °C; unter dem Wärmestrahler bis 40 °C; Winter: 20-25 °C; unter Wärmestrahler bis 40 °C</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>täglich 10-14 Stunden; UV-Bestrahlung täglich</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Besondere Hinweise: nur für Terrarien- oder Glashaushaltung geeignet
+
+**1.2.9. Pseudemys floridana (Florida-Schmuckschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **15-20 cm** | **über 20 cm** |
+|---|---|---|---|---|
+| 1-2 Tiere | 300 l | 500 l | 750 l | 1000 l |
+| Landteil | 0,05 m² | 0,10 m² | 0,20 m² | 0,30 m² |
+| jedes weitere Tier | 100 l | 150 l | 250 l | 350 l |
+| Landteil | 0,02 m² | 0,06 m² | 0,10 m² | 0,15 m² |
+|  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln, Ästen und Wasserpflanzen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, Kies</td>
+</tr>
+<tr>
+<td rowspan="4">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Pflanzen; Sonnenplatz mit Wärmestrahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand-Erde-Gemisch</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Sommer: 24-30 °C; je nach Jahreszeit unter Wärmestrahler 25-40°C Winter: 18-25 °C; Winterruhe von 2-3 Monate bei ca. 12-18 °C</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>je nach Jahreszeit täglich 8-14 Stunden; HQIStrahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Freilandterrarium</u>
+
+<table>
+<tr>
+<td>Lage:</td>
+<td colspan="2">sonnige, windgeschützte Lage</td>
+</tr>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Pflanzen; Flachwasserbereiche</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, Kies</td>
+</tr>
+<tr>
+<td rowspan="2">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Pflanzen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Lehmerde, Sand</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Besondere Hinweise: für den Aufenthalt im Gartenteich während des Sommers geeignet; die Winterruhe sollte unter kontrollierten Bedingungen erfolgen
+
+**1.2.10. Cuora flavomarginata (Gelbrand-Scharnierschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **über 15 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 0,50 m² | 1,20 m² | 2,00 m² |
+| jedes weitere Tier | 0,10 m² | 0,30 m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>ein Drittel des Terrariums als flacher Wasserteil; Ausstattung mit Schwimmpflanzen; Versteckplätze aus Pflanzen und Wurzeln; schattige Bereiche müssen vorhanden sein; Wärmestrahler über Landteil; UV-Strahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Mischung aus feinem Sand, Erde und Rindenmulch; zum Eingraben geeignet</td>
+</tr>
+<tr>
+<td rowspan="5">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Pflanzen; Sonnenplatz mit Wärmestrahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand-Erde-Gemisch</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Sommer: 25-30 °C; unter dem Wärmestrahler 35-35°C; Winter: zwei- bis dreimonatige Winterruhe bei 10-15 °C</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>täglich 8-14 Stunden; UV-Bestrahlung täglich</td>
+</tr>
+<tr>
+<td>Luftfeuchtigkeit:</td>
+<td>mindestens 60 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage |
+|---|---|
+| Einrichtung: | flacher, stark bepflanzter Teich; Landteil mit Versteckplätzen und schattenspendenden Pflanzen |
+| Bodengrund: | Mischung aus feinem Sand, Erde und Rindenmulch, zum Eingraben geeignet |
+|  |  |
+
+Besondere Hinweise: Freilandaufenthalt von Anfang Mai bis Anfang Oktober simuliert den natürlichen Spätsommer und Herbst, anschließend zwei- bis dreimonatige Winterruhe, danach Aufenthalt im Zimmerterrarium bis zum nächsten Sommer
+
+**1.2.11. Graptemys pseudogeographica kohnii (Mississippi-Höckerschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **15-20 cm** | **über 20 cm** |
+|---|---|---|---|---|
+| 1-2 Tiere | 300 l | 500 l | 750 l | 1000 l |
+| Landteil | 0,05 m² | 0,10 m² | 0,20 m² | 0,30 m² |
+| jedes weitere Tier | 100 l | 150 l | 250 l | 350 l |
+| Landteil | 0,02 m² | 0,06 m² | 0,10 m² | 0,15 m² |
+|  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln, Steinen und Wasserpflanzen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, Kies</td>
+</tr>
+<tr>
+<td rowspan="4">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Pflanzen; Wärmestrahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand-Erde-Gemisch</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Sommer: 20-28 °C Wassertemperatur; unter dem Wärmestrahler je nach Jahreszeit 25-40 °C Lufttemperatur; 2-3 Monate Winterruhe bei 8-15 °C Wassertemperatur</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>je nach Jahreszeit 6-14 Stunden täglich; HQIStrahler für hohe Beleuchtungsintensität; UVBestrahlung täglich</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Freilandterrarium</u>
+
+<table>
+<tr>
+<td>Lage:</td>
+<td colspan="2">sonnige, windgeschützte Lage</td>
+</tr>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Pflanzen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, Kies</td>
+</tr>
+<tr>
+<td rowspan="2">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Pflanzen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Lehmerde, Sand</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Besondere Hinweise: für den Aufenthalt im Gartenteich den Sommer über geeignet; die Winterruhe sollte unter kontrollierten Bedingungen erfolgen
+
+**1.2.12. Kinosternon odoratum (Gewöhnliche Moschusschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 6 cm** | **6-10 cm** | **über 10 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 80 l | 150 l | 300 l |
+| jedes weitere Tier | 10 l | 20 l | 50 l |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Aufbauten bis zur Wasseroberfläche, zahlreich Versteckplätze aus Wurzeln, Steine und Wasserpflanzen; UV-Strahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, Kies</td>
+</tr>
+<tr>
+<td rowspan="4">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Pflanzen; Wärmelampe</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand-Erde-Gemisch</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Sommer: 20-28 °C, unter dem Wärmestrahler 35-40°C; Winter: 2 Monate Winterruhe bei 8-12 °C</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>je nach Jahreszeit 6-14 Stunden täglich; HQIStrahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Freilandterrarium</u>
+
+<table>
+<tr>
+<td>Lage:</td>
+<td colspan="2">sonnige, windgeschützte Lage</td>
+</tr>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>mehrere kleine flache Teiche mit vielen Wasserpflanzen und Wurzeln als Versteckplätze</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, feiner Kies</td>
+</tr>
+<tr>
+<td rowspan="2">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Pflanzen und Wurzeln</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Lehmerde, Sand, Rindenmulch</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Besondere Hinweise: Für den Aufenthalt im Gartenteich den Sommer über geeignet; die Überwinterung kann in Wasser oder erdfeuchtem Substrat erfolgen, sollte jedoch immer unter kontrollierten Bedingungen durchgeführt werden.
+
+**1.2.13. Kinixys belliana (Glattrand-Gelenkschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **über 15 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 1,00 m² | 1,50 m² | 2,00 m² |
+| jedes weitere Tier | 0,20 m² | 0,40 m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Strukturierung mit Ästen und Pflanzen; Trinkmöglichkeit |
+|---|---|
+| Bodengrund: | Sand, Erde, Rindenmulch, zum Eingraben geeignet |
+| Temperatur: | Sommer: Aktivitätsphase ca. 9-10 Monate; 25-30 °C;mit Nachtabsenkung um etwa 5°C; unter Wärmestrahler 35-45 °C; Winter: Ruhephase etwa 3-4 Monate; 20-25 °C mit Nachtabsenkung um etwa 5°C; unter Wärmestrahler 35-40 °C |
+| Beleuchtungsdauer: | je nach Jahreszeit 10-14 Stunden täglich; HQI-Strahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | während des Sommers 70-90 % (Behälter gut abdecken); während der Ruheperiode um 60 % |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage |
+|---|---|
+| Einrichtung: | Lehmerde, Sand, Rindenmulch, zum Eingraben geeignet |
+| Bodengrund: | schattenspendende Stauden und Sträucher, dazwischen Freiflächen; Trinkmöglichkeit; beheizbares Schutzhaus oder Zugang in Glashaus oder Wintergarten mit Wärmestrahler für kühle Tage |
+| Temperatur: | sollt nicht für längere Zeit unter 10 °C sinken |
+| Luftfeuchtigkeit: | 60-80 % |
+|  |  |
+
+**1.2.14. Testudo hermanni boettgeri (Griechische Landschildkröte)**
+
+Terrarium/Mindestmaße
+
+| **Größe der Tiere** | **bis 6 cm** | **6-12 cm** | **über 12 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 0,50 m² | 1,00 m² | 2,00 m² |
+| jedes weitere Tier | 0,20 m² | 0,40 m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium;</u>
+
+| Einrichtung: | Strukturierung mit Pflanzen, Steinen und Ästen; Versteckplätze; Trinkmöglichkeit; HQI- und Wärmestrahler |
+|---|---|
+| Bodengrund: | Lehmerde, Sand, zum Eingraben geeignet, stellenweise Schotter |
+| Temperatur: | tagsüber 25-30 °C; lokale Erwärmung durch Wärmestrahler mit Temperaturen von 35-45 °C; Nachtabsenkung um ca. 10 °C |
+| Beleuchtungsdauer: | je nach Jahreszeit täglich 6-14 Stunden; HQI-Strahler für hohe Beleuchtungsintensität; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 40-60 %; bei Jungtieren 60-80 %; täglich sprühen |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage |
+|---|---|
+| Einrichtung: | trockenes Schutzhaus ausgestattet mit Substrat zum Eingraben; Öffnung des Schutzhauses möglichst nach Osten bis Südosten; sonnige Plätze mit leicht abtrocknendem Bodengrund; Hügel für die Eiablage; Versteckmöglichkeiten unter kleinen Büschen, Stauden, Steinen, Wurzeln etc; Wasserstelle; bei Jungtieren Gitterabdeckung als Schutz vor Vögeln und Raubtieren |
+| Bodengrund: | Blumenwiese, Lehmerde, Sand, stellenweise Schotter |
+| Temperatur: | tagsüber mindestens 15 °C; nachts mindestens 10 °C |
+|  |  |
+
+Besondere Hinweise: Winterruhe 3-5 Monate bei 4-6 °C
+
+**1.2.15. Testudo hermanni hermanni (Griechische Landschildkröte, Westrasse)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 6 cm** | **6-12 cm** | **über 12 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 0,50 m² | 1,00 m² | 2,00 m² |
+| jedes weitere Tier | 0,20 m² | 0,40 m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Strukturierung mit Pflanzen, Steinen und Ästen; Versteckplätze; Trinkmöglichkeit; HQI- und Wärmestrahler |
+|---|---|
+| Bodengrund: | Lehmerde, Sand, zum Eingraben geeignet, stellenweise Schotter |
+| Temperatur: | tagsüber 25-30 °C; lokale Erwärmung auf 35-45 °C durch Wärmestrahler Nachtabsenkung um ca. 10 °C; Einrichtung von warmen und kühlen Zonen |
+| Beleuchtungsdauer: | je nach Jahreszeit täglich 6-14 Stunden; HQI-Strahler für hohe Beleuchtungsintensität; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 40-60 %; bei Jungtieren 60-80 %; täglich sprühen |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage |
+|---|---|
+| Einrichtung: | trockenes Schutzhaus mit Substrat zum Eingraben und Öffnung nach Osten bis Südosten; sonnige Plätze mit leicht abtrocknendem Bodengrund; Schattenplätze und Versteckmöglichkeiten durch kleine Büsche, Stauden, Steine und Wurzeln; Wasserstellen; bei Jungtieren als Schutz vor Vögeln und Raubtieren mit Gitter abdecken; Hügel für die Eiablage |
+| Bodengrund: | Blumenwiese, Lehmerde, Sand, stellenweise Schotter |
+| Temperatur: | tagsüber mindestens 15 °C; nachts mindestens 10 °C |
+|  |  |
+
+Besondere Hinweise: Winterruhe 3-5 Monate bei 4-6 °C
+
+**1.2.16. Cuora galbinifrons (Hinterindische Scharnierschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **über 15 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 0,50 m² | 1,20 m² | 2,00 m² |
+| jedes weitere Tier | 0,10 m² | 0,30 m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | ein Drittel des Terrariums als flacher Wasserteil; Ausstattung mit Schwimmpflanzen; Versteckplätzen aus Pflanzen und Wurzeln; auf dem Landteil Wärmelampen; UV-Strahler |
+|---|---|
+| Bodengrund: | Mischung aus feinem Sand, Erde und Rindenmulch, zum Eingarben geeignet |
+| Temperatur: | Sommer: 20-30 °C, unter der Wärmelampe bis 35 °C;Winter: zwei- bis dreimonatige Winterruhe bei 10-15 °C |
+| Beleuchtungsdauer: | täglich 8-14 Stunden; UV-Bestrahlung täglich |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage |
+|---|---|
+| Einrichtung: | flaches, stark bepflanztes Wasserbecken; Landteil mit Versteckplätzen und schattenspendenden Stauden |
+| Bodengrund: | Mischung aus feinem Sand, Erde und Rindenmulch, zum Eingraben geeignet |
+|  |  |
+
+Besondere Hinweise: Freilandaufenthalt von Anfang Mai bis Anfang Oktober; anschließend zwei- bis dreimonatige Winterruhe; danach Aufenthalt im Zimmerterrarium bis zum nächsten Sommer
+
+**1.2.17. Kachuga tecta (Indische Dachschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **15-20 cm** | **über 20 cm** |
+|---|---|---|---|---|
+| 1-2 Tiere | 300 l | 500 l | 750 l | 1000 l |
+| Landteil | 0,05 m² | 0,10 m² | 0,20 m² | 0,30 m² |
+| jedes weitere Tier | 100 l | 150 l | 250 l | 350 l |
+| Landteil | 0,02 m² | 0,06 m² | 0,10 m² | 0,15 m² |
+|  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Steine</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, Kies</td>
+</tr>
+<tr>
+<td rowspan="4">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Pflanzen; Wärmestrahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand-Erde-Gemisch</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Sommer: 28-32 °C; Winter: 20-25 °C; unter dem Wärmestrahler je nach Jahreszeit 35-40 °C</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>je nach Jahreszeit 10-14 Stunden täglich; HQIStrahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Besondere Hinweise: nur für die Haltung im Zimmerterrarium oder Glashaus geeignet.
+
+**1.2.18. Chelonoidis (Geochelone) carbonaria (Köhlerschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-20 cm** | **20-30 cm** | **über 30 cm** |
+|---|---|---|---|---|
+| 1-2 Tiere | 1,00 m² | 1,50 m² | 3,00 m² | 5,00 m² |
+| jedes weitere Tier | 0,30 m² | 0,50 m² | 0,70 m² | 1,00 m² |
+|  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Möglichkeit zum Graben; Strukturierung mit Ästen oder Pflanzen; Versteckplätze; Trink- und Bademöglichkeit; Wärmestrahler; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Erde, Rindenmulch, Sand, zum Eingraben geeignet |
+| Temperatur: | tagsüber 25-30 °C; lokale Erwärmung durch Wärmestrahler auf 35-45 °C; Nachtabsenkung um etwa 5 °C |
+| Beleuchtungsdauer: | täglich 10-14 Stunden; HQI-Strahler für Beleuchtungsintensität verwenden; UV–Bestrahlung täglich |
+| Luftfeuchtigkeit: | um 70 % |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage; |
+|---|---|
+| Einrichtung: | beheizbares Schutzhaus oder Zugang ins Glashaus oder Wintergarten mit Wärmestrahler für kühle Tage; beheizte Eiablagestelle |
+| Bodengrund: | Bepflanzung mit schattenspendenden Sträuchern oder Stauden, dazwischen Freiflächen; Trink- und Bademöglichkeit; schnell abtrocknender Lehmerde |
+| Temperatur: | sollte nicht für längere Zeit unter 20 °C sinken |
+|  |  |
+
+**1.2.19. Astrochelys (Geochelone) radiata (Madagassische Strahlenschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-20 cm** | **20-30 cm** | **über 30 cm** |
+|---|---|---|---|---|
+| 1-2 Tiere | 1,00 m² | 1,50 m² | 3,00 m² | 5,00 m² |
+| jedes weitere Tier | 0,30 m² | 0,50 m² | 0,70 m² | 1,00 m² |
+|  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Strukturierung mit Ästen, Steinen oder Pflanzen; Versteckplätze; Trinkmöglichkeit; UV-Strahler |
+|---|---|
+| Bodengrund: | Sand, Lehmerde, flache Steine |
+| Temperatur: | Regenzeit: tagsüber 28-35 °C; lokale Erwärmung auf 35-40 °C durch Wärmestrahler; Nachtabsenkung um ca. 5-8 °C; Trockenzeit: tagsüber 22-30 °C; lokale Erwärmung auf 35-45 °C durch Wärmestrahler; Nachtabsenkung um ca. 8-10 °C |
+| Beleuchtungsdauer: | täglich 10–14 Stunden; HQI-Strahler für Beleuchtungsintensität verwenden; UV–Bestrahlung täglich |
+| Luftfeuchtigkeit: | Regenzeit: 60-100 %; täglich mehrmals sprühen; Trockenzeit: 40–60 % |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage; |
+|---|---|
+| Einrichtung: | Bepflanzung mit schattenspendenden Sträuchern oder Stauden, dazwischen Freiflächen; beheizbares Schutzhaus oder Zugang ins Glashaus oder in den Wintergarten mit Wärmestrahler für kühle Tage; Trinkmöglichkeit |
+| Bodengrund: | schnell abtrocknender Lehmerde und Sand |
+| Temperatur: | sollte nicht dauerhaft unter 15 °C sinken |
+|  |  |
+
+**1.2.20. Testudo graeca graeca (Maurische Landschidlkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 6 cm** | **6-12 cm** | **über 12 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 0,50 m² | 1,00 m² | 2,00 m² |
+| jedes weitere Tier | 0,20 m² | 0,40 m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Strukturierung mit Pflanzen, Steinen und Ästen; Versteckplätze; Trinkmöglichkeit; HQI- und Wärmestrahler |
+|---|---|
+| Bodengrund: | Lehmerde, Sand, zum Eingraben geeignet; stellenweise Schotter |
+| Temperatur: | Sommer: tagsüber 25-35 °C; lokale Erwärmung auf 35-45 °C durch Wärmestrahler; Nachtabsenkung um ca.15-20 °C; Winter: tagsüber 15-35 °C; lokale Erwärmung auf 25-30 °C durch Wärmestrahler; Nachtabsenkung um ca. 5-10 °C |
+| Beleuchtungsdauer: | je nach Jahreszeit täglich 6-14 Stunden; HQI-Strahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 40-60 %; bei Jungtieren 60-80 %; täglich sprühen |
+|  |  |
+
+Besondere Hinweise: Testudo graeca graeca halten keine Winterruhe im herkömmlichen Sinn; sie sind ganzjährig aktiv, Ruheperioden werden häufig während des Sommers eingelegt; von einer Freilandhaltung ist abzuraten; Unterbringung in einem Wintergarten oder Glashaus
+
+**1.2.21. Testudo graeca ibera (Maurische Landschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 6 cm** | **6-12cm** | **über 12 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 0,50 m² | 1,00 m² | 2,00 m² |
+| jedes weitere Tier | 0,20 m² | 0,40m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Strukturierung der Bodenfläche mit Pflanzen, Steinen und Ästen; Versteckplätze; Trinkmöglichkeit; Wärmestrahler; UV-Strahler |
+|---|---|
+| Bodengrund: | Lehmerde, Sand, zum Eingraben geeignet, stellenweise Schotter |
+| Temperatur: | tagsüber 25-30 °C; lokale Erwärmung auf 35-45 °C durch Wärmestrahler; Nachtabsenkung um ca. 10 °C |
+| Beleuchtungsdauer: | je nach Jahreszeit täglich 6-14 Stunden; HQI-Strahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 40-60 %; bei Jungtieren 60-80 %; täglich sprühen |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage; |
+|---|---|
+| Einrichtung: | trockenes Schutzhaus mit Substrat zum Eingraben und Öffnung nach Osten bis Südosten; sonnige Plätze mit leicht abtrocknendem Bodengrund; Schattenplätze und Versteckmöglichkeiten unter kleinen Büschen, Stauden und Steinen etc; Wasserstelle; Gehege bei Jungtieren als Schutz vor Vögeln und Raubtieren mit Gitter abdecken; Hügel für die Eiablage |
+| Bodengrund: | Blumenwiese, Lehmerde, Sand, stellenweise Schotter |
+| Temperatur: | tagsüber mindestens 15 °C; nachts mindestens 10 °C |
+|  |  |
+
+Besondere Hinweise: Winterruhe je nach Herkunft 3-5 Monate bei 4-6 °C
+
+**1.2.22. Chrysemys picta belli (Zierschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **über 15 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 300 l | 500 l | 750 l |
+| Landteil | 0,05 m² | 0,10 m² | 0,20 m² |
+| jedes weitere Tier | 100 l | 150 l | 250 l |
+| Landteil | 0,02 m² | 0,06 m² | 0,10 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln, Steine und Wasserpflanzen; HQI-Strahler; UV-Strahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Kies oder Sand</td>
+</tr>
+<tr>
+<td rowspan="4">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Pflanzen; Wärmestrahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand-Erde-Gemisch</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Sommer: Wassertemperatur 22-28 °C; Lufttemperatur unter dem Wärmestrahler 35-40 °C; Winter: zwei- bis dreimonatige Winterruhe bei 8-15°C</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>im Sommer mindestens 12 Stunden täglich; im Winter 6-8 Stunden täglich; UV-Bestrahlung täglich</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Freilandterrarium</u>
+
+<table>
+<tr>
+<td>Lage:</td>
+<td colspan="2">sonnige, windgeschützte Lage</td>
+</tr>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Wasserpflanzen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, Kies</td>
+</tr>
+<tr>
+<td rowspan="2">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Wurzeln und Pflanzen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Lehmerde, Rindenmulch</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Besondere Hinweise: Exemplare aus dem nördlichen Teil des Verbreitungsgebietes sind für den ganzjährigen Aufenthalt im Gartenteich geeignet
+
+**1.2.23. Chelonidis (Geochelone) denticulata (Waldschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-20 cm** | **20-30 cm** | **30-40 cm** | **über 40 cm** |
+|---|---|---|---|---|---|
+| 1-2 Tiere | 1,00 m² | 1,50 m² | 3,00 m² | 5,00 m² | 7,00 m² |
+| jedes weitere Tier | 0,30 m² | 0,50 m² | 0,70 m² | 1,00 m² | 1,50 m² |
+|  |  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Strukturierung mit Steinen, Ästen und Pflanzen; Versteckplätze; Trink- und Bademöglichkeit; HQI- und Wärmestrahler; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Erde, Rindenmulch, Sand; zum Eingarben geeignet |
+| Temperatur: | tagsüber 25-30 °C; lokale Erwärmung auf 35-45 °C; durch Wärmestrahler; Nachtabsenkung um etwa 5 °C |
+| Beleuchtungsdauer: | täglich 10-14 Stunden; HQI-Strahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | um 70 % |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage; |
+|---|---|
+| Einrichtung: | Bepflanzung mit schattenspendenden Sträuchern oder Stauden, dazwischen Freiflächen; Trink- und Bademöglichkeit; beheizbares Schutzhaus oder Zugang ins Glashaus oder Wintergarten mit Wärmestrahler für kühle Tage |
+| Bodengrund: | schnell abtrocknende Lehmerde |
+| Temperatur: | sollte nicht für längere Zeit unter 20 °C sinken |
+|  |  |
+
+**1.2.24. Kinosternon subrubrum (Pennsylvania-Klappschidlkröte *(Anm.: richtig: Klappschildkröte))***
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 6 cm** | **6-10 cm** | **über 10 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 80 l | 150 l | 300 l |
+| jedes weitere Tier | 10 l | 20 l | 50 l |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Aufbauten bis zur Wasseroberfläche; zahlreich Versteckplätze aus Wurzeln, Pflanzen uns Steine; UV-Strahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Kies, Sand</td>
+</tr>
+<tr>
+<td rowspan="4">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Wurzeln und Pflanzen als Versteckplätze; Wärmestrahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand-Erde-Gemisch</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Sommer: 20-28 °C, unter dem Wärmestrahler 35-40°C; Winter: 2 Monate Winterruhe bei 8-12 °C</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>je nach Jahreszeit 6-14 Stunden täglich; UVBestrahlung täglich</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Freilandterrarium</u>
+
+<table>
+<tr>
+<td>Lage:</td>
+<td colspan="2">sonnige, windgeschützte Lage</td>
+</tr>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>mehrere kleine flache Teiche mit vielen Wasserpflanzen und Wurzeln als Versteckplätze</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, feiner Kies</td>
+</tr>
+<tr>
+<td rowspan="2">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Pflanzen und Wurzeln als Versteckplätze</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Lehmerde, Sand, Rindenmulch</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+**1.2.25. Rhinoclemmys pulcherrima (Pracht-Erdschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **über 15 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 0,50 m² | 1,20 m² | 2,00 m² |
+| jedes weitere Tier | 0,10 m² | 0,30 m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Aquaterrarium – ca. ein Drittel bis die Hälfte der Fläche als flachen Wasserteil gestalten; Versteckmöglichkeiten aus Wurzeln und Pflanzen; Wärmestrahler; UV-Strahler |
+|---|---|
+| Bodengrund: | Landteil: Torf mit Laubschicht; Wasserteil: Sand, feiner Kies |
+| Temperatur: | 22-30 °C; unter dem Wärmestrahler bis 40 °C |
+| Beleuchtungsdauer: | -14 Stunden täglich; UV-Bestrahlung täglich |
+|  |  |
+
+Besondere Hinweise: nur für die Haltung im Zimmerterrarium oder Glashaus geeignet
+
+**1.2.26. Trachemys scripta elegans (Rotwangen-Schmuckschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **15-20 cm** | **über 20 cm** |
+|---|---|---|---|---|
+| 1-2 Tiere | 300 l | 500 l | 750 l | 1000 l |
+| Landteil | 0,05 m² | 0,10 m² | 0,20 m² | 0,30 m² |
+| jedes weitere Tier | 100 l | 150 l | 250 l | 350 l |
+| Landteil | 0,02 m² | 0,06 m² | 0,10 m² | 0,15 m² |
+|  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Pflanzen und Wurzeln</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, Kies</td>
+</tr>
+<tr>
+<td rowspan="4">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Sonnenplatz mit Wärmestrahler; Versteckplätze aus Pflanzen und Wurzeln</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand-Erde-Gemisch</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Sommer: 22-30 °C; unter Wärmestrahler 35-40 °C Winter: 2-3 Monate Ruheperiode bei 10-14 °C</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>je nach Jahreszeit 8-14 Stunden täglich; HQIStrahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Freilandterrarium</u>
+
+<table>
+<tr>
+<td>Lage:</td>
+<td colspan="2">sonnige, windgeschützte Lage</td>
+</tr>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Pflanzen, Wurzeln und Ästen; Flachwasserbereiche</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand, Kies</td>
+</tr>
+<tr>
+<td rowspan="2">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze aus Pflanzen, Wurzeln und Ästen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Lehmerde, Sand</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Besondere Hinweise: für den Aufenthalt im Gartenteich den Sommer über geeignet; die Winterruhe sollte nur unter kontrollierten Bedingungen erfolgen
+
+**1.2.27. Terrapene ornata (Schmuck-Dosenschidlkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 8 cm** | **8-12 cm** | **über 12 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 0,50 m² | 1,00 m² | 1,50 m² |
+| jedes weitere Tier | 0,10 m² | 0,20 m² | 0,30 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Versteckmöglichkeit aus Wurzeln, Steine und Pflanzen; Wärmestrahler; UVStrahler; Trinkmöglichkeit |
+|---|---|
+| Bodengrund: | Lehmerde, Sand |
+| Temperatur: | Sommer: 22-30 °C; unter Wärmestrahler bis 35 °C; Winter: 2-3 Monate Winterruhe bei 12-18 °C |
+| Beleuchtungsdauer: | 8-14 Stunden täglich; HQI-Strahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 40-80 % |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage; |
+|---|---|
+| Einrichtung: | Versteckmöglichkeiten aus Wurzeln, Steinen und Pflanzen; einige vegetationsfreie Stellen zum Sonnen; Trinkmöglichkeit |
+| Bodengrund: | Lehmerde, Sand, feiner Kies |
+|  |  |
+
+Besondere Hinweise: für den Freilandaufenthalt während des Sommers geeignet; die Winterruhe sollte nur unter kontrollierten Bedingungen durchgeführt werden
+
+**1.2.28. Chelydra serpentine serpentine (Schnappschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 20 cm** | **20-30 cm** | **30-40 cm** | **über 40 cm** |
+|---|---|---|---|---|
+| 1-2 Tiere | 150 l | 300 l | 500 l | 800 l |
+| Landteil | 0,20 m² | 0,50 m² | 1,00 m² | 2,00 m² |
+|  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplatz aus Wurzeln oder unter eingeklebtem Landteil; der Wasserstand muss so gewählt werden, dass die Tiere durch Heben des Kopfes die Wasseroberfläche erreichen</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Kies oder Sand</td>
+</tr>
+<tr>
+<td rowspan="4">Landteil:</td>
+<td>Einrichtung:</td>
+<td>muss dem Tier die Möglichkeit zum Aufheizen unter einer Wärmelampe bieten; Versteckplätze</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand-Erde-Gemisch</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Wassertemperatur: Sommer 22-28 °C; Winter: 4-10°C (Winterruhe 2-4 Monate); Lufttemperatur: unter dem Wärmestrahler 35-45 °C</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>im Sommer mindestens 12 Stunden; im Winter 6-8 Stunden; UV-Bestrahlung täglich</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Freilandterrarium</u>
+
+<table>
+<tr>
+<td>Lage:</td>
+<td colspan="2">sonnige, windgeschützte Lage</td>
+</tr>
+<tr>
+<td rowspan="2">Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Versteckplätze; Verkrautete Bereiche; Flachwasserbereiche (Wasserstand so, dass das Tier durch das heben des Kopfes die Wasseroberfläche erreichen kann)</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Kies oder Sand</td>
+</tr>
+<tr>
+<td rowspan="2">Landteil:</td>
+<td>Einrichtung:</td>
+<td>ausreichend dimensioniert; der Größe der Tiere angepasst; Versteckplätze</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Lehmerde, Sand</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Besondere Hinweise: Chelydra serpentina sperentina ist für den ganzjährigen Aufenthalt in Freilandanlagen geeignet; Unterarten aus südlichen Verbreitungsgebieten im Winter nicht unter 10 °C halten; Vorsicht, Bisse können schwere Verletzungen verursachen!
+
+**1.2.29. Malacochersus tornieri (Spaltenschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **über 15 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 1,00 m² | 1,50 m² | 2,00 m² |
+| jedes weitere Tier | 0,20 m² | 0,40 m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Spalten aus aufeinandergeschichteten und verklebten, abgerundeten Steinen Versteckplätze; Trinkmöglichkeit; UV-Strahler |
+|---|---|
+| Bodengrund: | grober Sand; Lehm; flache Steine |
+| Temperatur: | Regenzeit: tagsüber 25-30 °C; lokale Erwärmung auf 35-40 °C durch Wärmestrahler; Nachtabsenkung um ca. 5-8 °C; Trockenzeit: tagsüber 22-30 °C; lokale Erwärmung auf 35-45 °C durch Wärmestrahler; Nachtabsenkung um ca. 8-10 °C |
+| Beleuchtungsdauer: | unter Beibehaltung eines natürlichen Tag-Nachtrhythmus täglich 10-14 Stunden; HQI-Strahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | Regenzeit: 5-6 Monate 60-100 %; täglich mehrmals sprühen; Trockenzeit: 6-7 Monate 40-60 % |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage; |
+|---|---|
+| Einrichtung: | Bepflanzung mit einigen schattenspendenden Sträuchern oder Stauden; dazwischen fix verankerte Steinaufbauten mit Spalten als Versteckmöglichkeiten; beheizbares Schutzhaus oder Zugang in ein Glashaus oder einen Wintergarten; Wärmestrahler für kühle Tage; Trinkmöglichkeit |
+| Bodengrund: | schnell abtrocknender Lehm- oder Sandboden |
+| Temperatur | sollte nicht für längere Zeit unter 18 °C sinken |
+|  |  |
+
+**1.2.30. Centrochelys sulcata (Spornschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-25 cm** | **25-40 cm** | **40-55 cm** | **über 55cm** |
+|---|---|---|---|---|---|
+| 1-2 Tiere | 1,00 m² | 2,50 m² | 4,00 m² | 6,00 m² | 10,00 m² |
+| jedes weitere Tier | 0,30 m² | 0,60 m² | 1,00 m² | 1,50 m² | 3,00 m² |
+|  |  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | mit gut verankerten Ästen und Steinen Versteckplätze schaffen; 1 x pro Woche Trinkmöglichkeit anbieten, Wärmestrahler; UV-Strahler |
+|---|---|
+| Bodengrund: | grober Sand, Lehm, flache Steine |
+| Temperatur: | Regenzeit: 4-6 Monate; tagsüber 28-35 °C; lokale 35-40 °C unter Wärmestrahler; Nachtabsenkung um etwa 10-12 °C; Trockenzeit: 6-8 Monate; tagsüber 25-35 °C, lokale Erwärmung auf 38-45 °C durch Wärmestrahler; Nachtabsenkung um etwa 12-15 °C |
+| Beleuchtungsdauer: | täglich 10–14 Stunden; HQI-Strahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | Regenzeit: 60-100 %, täglich mehrmals sprühen; Trockenzeit: 40–60 % |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage; |
+|---|---|
+| Einrichtung: | Bepflanzung mit schattenspendenden Sträuchern oder Stauden, dazwischen Freiflächen; beheizbares Schutzhaus oder Zugang ins Glashaus oder Wintergarten; Wärmestrahler oder Heizmatten für kühle Tage; |
+| Bodengrund: | schnell abtrocknender Lehm- oder Sandboden |
+| Temperatur | sollte nicht für längere Zeit unter 15 °C sinken |
+|  |  |
+
+**1.2.31. Geoclemys hamiltonii (Strahlen-Dreikielschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-15 cm** | **15-20 cm** | **über 20 cm** |
+|---|---|---|---|---|
+| 1-2 Tiere | 300 l | 500 l | 750 l | 1000 l |
+| Landteil | 0,05 m² | 0,10 m² | 0,20 m² | 0,30 m² |
+| jedes weitere Tier | 100 l | 150 l | 250 l | 350 l |
+| Landteil | 0,05 m² | 0,10 m² | 0,15 m² | 0,20 m² |
+|  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+<table>
+<tr>
+<td>Wasserteil:</td>
+<td>Einrichtung:</td>
+<td>Strukturierung mit Ästen oder Steinen zum Herausklettern</td>
+</tr>
+<tr>
+<td rowspan="4">Landteil:</td>
+<td>Einrichtung:</td>
+<td>Holz, Steine, Bepflanzung; Sonnenplatz mit Wärmestrahler</td>
+</tr>
+<tr>
+<td>Bodengrund:</td>
+<td>Sand</td>
+</tr>
+<tr>
+<td>Temperatur:</td>
+<td>Lufttemperatur tagsüber 25-33 °C; zusätzlich lokalen Wärmestrahler am Sonnenplatz; Wassertemperatur 24-29 °C</td>
+</tr>
+<tr>
+<td>Beleuchtungsdauer:</td>
+<td>unter Beibehaltung eines natürlichen Tag-Nachtrhythmus täglich 10-12 Stunden</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Besondere Hinweise: eine kühlere Ruhephase von 6-8 Wochen in den Monaten November/Dezember bei Luft- und Wassertemperaturen von 20-22 °C ist empfehlenswert
+
+**1.2.32. Testudo horsfieldii (Vierzehenschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 6 cm** | **6-12cm** | **über 12 cm** |
+|---|---|---|---|
+| 1-2 Tiere | 0,50 m² | 1,00 m² | 2,00 m² |
+| jedes weitere Tier | 0,20 m² | 0,40 m² | 0,50 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Strukturierung mit Steinen und Ästen; Versteckplätze; Trinkmöglichkeit; UVStrahler |
+|---|---|
+| Bodengrund: | Lehmerde, Sand, zum Eingraben geeignet, stellenweise Schotter |
+| Temperatur: | tagsüber 25-30 °C; lokale Erwärmung auf 35-45 °C durch Wärmestrahler; Nachtabsenkung um ca. 10 °C |
+| Beleuchtungsdauer: | je nach Jahreszeit 6-14 Stunden täglich; HQI-Strahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 40-60 %; bei Jungtieren 60-80 %; täglich sprühen |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage; |
+|---|---|
+| Einrichtung: | trockenes Schutzhaus, ausgestattet mit Substrat zum Eingraben; Öffnung des Schutzhauses möglichst nach Osten bis Südosten; sonnige Plätze mit leicht abtrocknendem Bodengrund; Versteckmöglichkeiten unter kleinen Büschen, Stauden, Steinen oder Wurzeln; Trinkmöglichkeit; bei Jungtieren Freilandterrarium als Schutz vor Vögeln und Raubtieren mit Gitter abdecken; Hügel für die Eiablage |
+| Bodengrund: | Blumenwiese, Lehmerde, Sand, zum Eingraben geeignet, stellenweise Schotter |
+| Temperatur | tagsüber mindestens 15 °C; nachts mindestens 10 °C |
+|  |  |
+
+Besondere Hinweise: Steppenschildkröten vertragen unser nasskaltes Frühjahrs- und Herbstklima sehr schlecht, deshalb sollte das Schutzhaus tagsüber in kühlen Perioden auf zumindest 20 °C erwärmt werden; Winterruhe 3-5 Monate bei 4-8 °C
+
+**1.2.33. Geochelone paradalis (Pantherschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 10 cm** | **10-20 cm** | **20-35 cm** | **über 35 cm** |
+|---|---|---|---|---|
+| 1-2 Tiere | 1,00 m² | 1,50 m² | 3,50 m² | 6,00 m² |
+| jedes weitere Tier | 0,30 m² | 0,50 m² | 1,00 m² | 1,20 m² |
+|  |  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Strukturierung mit Pflanzen, Ästen und Steinen; Versteckplätze; Trinkmöglichkeit 1 x pro Woche; HQI- und Wärmestrahler; UV-Strahler |
+|---|---|
+| Bodengrund: | grober Sand, Lehm, zum Eingraben geeignet; flache Steine |
+| Temperatur: | Regenzeit: tagsüber 28-35 °C; lokale Erwärmung auf 35-40 °C durch Wärmestrahler; Nachtabsenkung um etwa 5-8 °C; Trockenzeit: tagsüber 22-30 °C; lokale Erwärmung auf 35-45 °C durch Wärmestrahler; Nachtabsenkung um etwa 8-10 °C |
+| Beleuchtungsdauer: | unter Beibehaltung eines natürlichen Tag-Nachtrhythmus täglich 10-14 Stunden; HQI-Strahler für hohe Beleuchtungsintensität verwenden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | Regenzeit: 6-8 Monate lang 60-100 %, täglich mehrmals sprühen; Trockenzeit: 4-6 Monate lang 40–60 % |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage; |
+|---|---|
+| Einrichtung: | Bepflanzung mit schattenspendenden Sträuchern oder Stauden, dazwischen großzügige Freiflächen; beheizbares Schutzhaus oder Zugang ins Glashaus oder Wintergarten; Wärmestrahler für kühle Tage; |
+| Bodengrund: | schnell abtrocknender Lehm- oder Sandboden |
+| Temperatur | sollte nicht für längere Zeit unter 15 °C sinken |
+|  |  |
+
+**1.2.34. Geoemyda spengleri (Zacken-Erdschildkröte)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Größe der Tiere** | **bis 6 cm** | **6-12 cm** | **über 12 cm** |
+|---|---|---|---|
+| 1 Tier | 0,15 m² | 0,50 m² | 0,80 m² |
+|  |  |  |  |
+
+<u>Zimmerterrarium</u>
+
+| Einrichtung: | Versteckmöglichkeiten aus Wurzeln, Rinde und Pflanzen; Leuchtstoffröhre; UV-Strahler |
+|---|---|
+| Bodengrund: | Sand-Erde-Gemisch, Rindenmulch, Mosspolster, Torfmoos, Laub |
+| Temperatur: | Sommer: 20–28 °C; Winter: zwei- bis dreimonatige Ruheperiode bei 10-15 °C; sonst 20-24 °C |
+| Beleuchtungsdauer: | je nach Jahreszeit 10-14 Stunden täglich; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | über 70 %, tägliches Sprühen notwendig |
+|  |  |
+
+<u>Freilandterrarium</u>
+
+| Lage: | sonnige, windgeschützte Lage; |
+|---|---|
+| Einrichtung: | Schatten durch dichten Staudenbewuchs; feuchte Zonen; Versteckplätze und Rinden – oder Holzstücken |
+| Bodengrund: | Mischung aus feinem Sand, Erde und Rindenmulch, der sich zum Eingraben eignet |
+|  |  |
+
+Besondere Hinweise: Freilandhaltung nur von Mitte Mai bis Ende September simuliert den natürlichen Spätsommer und Herbst; anschließend 2-3 monatige Winterruhe; danach Aufenthalt im Zimmerterrarium bis zum nächsten Sommer; Geomyda spengleri ist relativ stressempfindlich; nur in großen, reich strukturierten Terrarien, wenn sie sich dem Blickbereich des Artgenossen entziehen kann, lässt sich diese Art paarweise halten
+
+**1.2.35. Geochelone gigantea (Seychellen-Riesenschildkröten) und**
+
+**1.2.36 Geochelone nigra (Galapagos-Schildkröte)**
+
+<u>Gehege/Mindestmaße</u>
+
+| **Anzahl der Tiere** |  |
+|---|---|
+| 1-2 Tiere |  |
+| Innengehege | 10,00 m² |
+| Außengehege | 20,00 m² |
+| jedes weitere Tier |  |
+| Innengehege | 5,00 m² |
+| Außengehege | 10,00 m² |
+|  |  |
+
+<u>Innengehege</u>
+
+| Einrichtung: | Fußbodenheizung mit Oberflächentemperaturen von 22° bis 26°C; Futterplatz auf Stein- oder Betonplatte; lokale Wärmestrahlung von oben bis 35°C; – Lampen mit Tageslichtspektrum; täglich 2 Stunden UV- Bestrahlung mit Ultra-Vita-Lux 300 W in 2 m Höhe; beheiztes Wasserbecken zum Baden mit mind. 30 cm Wasserstand und 25°c Wassertemperatur |
+|---|---|
+| Bodengrund: | Sand mind. 20 cm hoch |
+| Temperatur: | 22° bis 28° C Lufttemperatur |
+| Beleuchtungsdauer: | 10 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 80 % wechselnd |
+|  |  |
+
+<u>Außengehege</u>
+
+| Einrichtung: | Sonnige Wiese mit einigen Schatten spendenden Büschen und Tage, wenn keine direkte Verbindung zum Innengehege und Bäumen; Unterstand mit Wärmestrahlern für kalte Nächte besteht. |
+|---|---|
+|  |  |
+
+Besondere Hinweise: Aufenthalt im Außengehege nicht unter 18° Bodentemperatur; immer Laub (z. B. Ficus) frisch oder getrocknet zusätzlich anbieten
+
+**2. Mindestanforderungen an die Haltung von Schlangen**
+
+**2. 1. Allgemeine Haltungsbedingungen**
+
+(1) Die Mindestanforderungen gelten für die Pflege erwachsener Tiere. Zur Aufzucht von Jungschlangen können Kleinbehälter erforderlich sein, deren Abmessungen die geforderten Maße erheblich unterschreiten. Das gleiche gilt für Behälter, in denen die Schlangen zur Trocken- und Winterruhe untergebracht werden sollen.
+
+(2) Die nachfolgenden Angaben sind Mindestmaße die das Terrarium in denen die Tiere gehalten werden aufweisen muss:
+
+1\. Schlangen-bodenbewohnend, bis 2,5m:
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m**<sup>2</sup> | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m**<sup>2</sup> |
+|---|---|---|---|
+| 1- 2 Tiere, bis 20cm | 0.1 | 0,2 | 0,015 |
+| 1- 2 Tiere, 20-50cm | 0.2 | 0,3 | 0.05 |
+| 1-2 Tiere, 50-100cm | 0,5 | 0.4 | 0.15 |
+| 1-2 Tiere, 100-150cm | 0.9 | 0,6 | 0.2 |
+| 1-2 Tiere, 150-200cm | 1,2 | 0,8 | 0,4 |
+| 1-2 Adulte | 1,5 | 1,2 | 0,6 |
+|  |  |  |  |
+
+2\. Schlangen-kletternd, bis 2,5m:
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m**<sup>2</sup> | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m**<sup>2</sup> |
+|---|---|---|---|
+| 1-2 Tiere, bis 50cm | 0,2 | 0,4 | 0,05 |
+| 1-2 Tiere, 50-100cm | 0,5 | 0.6 | 0.1 |
+| 1-2 Tiere, 100-150cm | 0.9 | 1 | 0.2 |
+| 1-2 Tiere, 150-200cm | 1,2 | 1,5 | 0,4 |
+| 1-2 Adulte | 1,5 | 1,8 | 0,6 |
+|  |  |  |  |
+
+**2.2. Spezielle Haltungsbedingungen für ungiftige Schlangen**
+
+**2.2.1. Lamprophis fuliginosus (Braune Hausschlange)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m**<sup>2</sup> | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m**<sup>2</sup> |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,015 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,05 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,15 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; kleineres Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde, Sand |
+| Temperatur: | tagsüber 24-28 °C; lokal bis 35 °C; nachts 20-24 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: Meist nicht notwendig, bei Tieren aus dem nördlichen oder südlichen Afrika Verkürzung der Beleuchtungsdauer um 2-6 Stunden und Absenkung der Temperatur um 3-8 ºC für 2-4 Monate
+
+**2.2.2 Elaphe longissima (Äskulapnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,40 | 0,015 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,40 | 0,05 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,90 | 0,80 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert;Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-29 ºC; lokal bis 35 ºC; nachts 18-23ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-80 % |
+| Bodenfeuchtigkeit: | ca. ein Viertel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: je nach Herkunft der Tiere 3-5 Monate bei 3-8 ºC
+
+**2.2.3. Dasypeltis scabra (Afrikanische Eierschlange)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,015 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,05 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,15 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; kleineres Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf-Sand-Gemisch, Erde, Sand |
+| Temperatur: | tagsüber 24-28 ºC; lokal bis 35 ºC; nachts 20-24 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: je nach Herkunft der Tiere Verkürzung der Beleuchtungsdauer um 2-6 Stunden und Absenkung der Temperatur um 3-10 °C für 2-4 Monate
+
+**2.2.4. Lampropeltis pyromelana (Arizona-Bergkönigsnatter)**
+
+<u>Terrarium/Mindestmaßen</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,015 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,05 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,15 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze aus Steinen oder Holz; Trinkgefäß; Lichtquelle, die gleichzeitig die notwendige Wärme produziert |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde, Sand |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-28 °C; lokal bis 32 °C; nachts 18-24°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-70 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 3-4 Monate bei 8-12 °C
+
+**2.2.5. Elaphe schrencki (Amurnatter)**
+
+<u>Terrarium/Mindestmaßen</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,40 | 0,015 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,40 | 0,05 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,15 |
+| 1-2 adulte Tiere | 0,90 | 0,60 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze aus Steinen oder Holz; günstig sind mehrere verzweigte Kletteräste; Lichtquellen, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 22-28 °C, lokal bis 35 °C; nachts 18-22°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ca. ein Viertel bis die Hälfte des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 4-5 Monate bei 2-10 °C
+
+**2.2.6. Elaphe bairdi (Bairds Kletternatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,015 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,05 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,40 | 0,10 |
+| 1-2 adulte Tiere | 0,90 | 0,60 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 25-29 ºC; lokal bis 35 ºC; nachts 20-25ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | ein Viertel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 3-4 Monate bei 8-12 ºC
+
+**2.2.7. Bothrochilus boa (Bismarckzwergpython)**
+
+<u>Terrarium/Mindestmaßen</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,20 | 0,30 | 0,05 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,40 | 0,10 |
+| 1-2 adulte Tiere | 0,90 | 0,80 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze; Wasserbecken zum Baden; feuchtes Moos; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; bei Bedarf leichte Zusatzheizung; unter Umstände als Bodenheizung zur Anhebung der Luftfeuchtigkeit |
+|---|---|
+| Bodengrund: | tief, locker, z. B. Torf oder Erde |
+| Temperatur: | tagsüber 30-32 °C, lokal bis 36 °C durch Strahlungswärme; nachts 25-26 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 90 % |
+| Bodenfeuchtigkeit: | Boden im größten Teil des Beckens leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um ca. 4 Stunden und Absenkung der Temperatur um 3-4 °C
+
+**2.2.7. Python curtus (Buntpython, Blutpython)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,50 | 0,60 | 0,20 |
+| 1-2 Tiere, 50-100 cm | 1,0 | 0,80 | 0,40 |
+| 1-2 adulte Tiere | 2,0 | 1,20 | 0,60 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze, bei Jungtieren ist eine dicke Laubschicht als Versteck günstig; ein Wasserbecken zum Baden; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; bei Bedarf eine leichte Zusatzheizung |
+|---|---|
+| Bodengrund: | Torf oder Erde, tief und locker |
+| Temperatur: | während der Aktivitätsperiode tagsüber 30-32 ºC; lokal bis 36 ºC durch Strahlungswärme; nachts 25-28 ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 75-90 % |
+| Bodenfeuchtigkeit: | der größte Teil des Bodengrundes ist permanent feucht zu halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Belichtungsdauer um 3-4 Stunden
+
+**2.2.8. Dasypeltis inornata (Braune Eierschlange)**
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20cm | 0,10 | 0,40 | 0,015 |
+| 1-2 Tiere, 20-50cm | 0,20 | 0,60 | 0,05 |
+| 1-2 adulte Tiere | 0,50 | 0,80 | 0,15 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; kleineres Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde, Sand |
+| Temperatur: | tagsüber 24-28 °C; lokal bis 35 °C; nachts 18-24 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-70 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Eierfresser! Überwinterung: Absenkung der Temperatur auf 15-18 °C für 3 Monate
+
+**2.2.9. Boa constrictor imperator (Abgottschlange)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,50 | 0,60 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,80 | 0,60 | 0,20 |
+| 1-2 Tiere, 100-150 cm | 1,20 | 0,80 | 0,40 |
+| 1-2 Tiere, 150-200 cm | 1,50 | 1,50 | 0,60 |
+| 1-2 adulte Tiere | 2,00 | 1,80 | 0,80 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; ausreichend dimensioniertes Wasserbecken; mehrere verzweigte Kletteräste; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; bei Bedarf leichte Zusatzheizung |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | tagsüber 26-32 ºC; lokal bis 35 ºC; nachts 20-24 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ca. die Hälfte des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-4 Stunden und Absenkung der Temperatur um 3-4 ºC für 6-8 Wochen
+
+**2.2.10. Elaphe (Senticolis) flavirufa (Mexikanische Nachtnatter)**
+
+<u>Terrarium/Mindestmaße:</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,05 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,05 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,40 | 0,10 |
+| 1-2 adulte Tiere | 0,90 | 0,60 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz, Äste oder Zweige zum Klettern; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 25-28 ºC; lokal bis 36 ºC, nachts 20-23ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | ein Drittel des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: im Winter für etwa 2 Monate Absenkung der Tagestemperatur um ca. 5 ºC und Verkürzung der Beleuchtungsdauer um 3-4 Stunden
+
+**2.2.11. Corallus enydris (Gartenboa)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,10 | 0,40 | 0,05 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,10 |
+| 1-2 Tiere, 100-150 cm | 0,90 | 1,00 | 0,20 |
+| 1-2 adulte Tiere | 1,20 | 1,50 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Kletteräste, Wasserbecken, Beleuchtung als Wärmequelle, bei Bedarf leichte Zusatzheizung, unter Umstände als Bodenheizung zur Anhebung der Luftfeuchtigkeit |
+|---|---|
+| Bodengrund: | gut feuchtigkeitsspeicherndes Material wie z. B. Torf oder Erde |
+| Temperatur: | tagsüber: 26-30 ºC; lokal bis 35 ºC; nachts 23-25 ºC |
+| Beleuchtungsdauer: | 12-14 Stunden pro Tag |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | ca. die Hälfte des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-4 Stunden; Absenkung der Temperatur um 3-4 ºC und leichte Verringerung der Feuchtigkeit
+
+**2.2.12. Liasis childreni (Gefleckter Python)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,02 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,05 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,15 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; Wasserbecken zum Baden; Beleuchtung, auch als Wärmequelle; bei Bedarf leichte Zusatzheizung |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemsich oder Erde |
+| Temperatur: | tags 25-30 ºC, lokal bis 35 ºC; nachts 23-25 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60 -90 % |
+| Bodenfeuchtigkeit: | ca. ein Viertel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-4 Stunden und Absenkung der Temperatur um 3-4 °C
+
+**2.2.13. Elaphe carinata (Gekielte Kletternatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,10 |
+| 1-2 Tiere, 100-150 cm | 0,90 | 0,80 | 0,20 |
+| 1-2 adulte Tiere | 1,20 | 1,00 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; ausreichend dimensioniertes Wasserbecken; günstig sind mehrere verzweigte Kletteräste; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-28 ºC; lokal bis 35 ºC; nachts 18-22ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ca. ein Drittel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 3-4 Monate bei 8-15 ºC
+
+**2.2.14. Elaphe obsoleta spiloides (Graue Erdnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 0,90 | 0,80 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; günstig sind mehrere verzweigte Kletteräste; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 22-28 ºC; lokal bis 35 ºC; nachts 20-24°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ca. ein Viertel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 3-5 Monate bei 7-12 ºC
+
+**2.2.15. Morelia (Chondropython) viridis (Grüner Baumpython)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,90 | 1,00 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Kletteräste; Wasserbecken; Beleuchtung als Wärmequelle; bei Bedarf leichte Zusatzheizung, unter Umständen als Bodenheizung zur Anhebung der Luftfeuchtigkeit |
+|---|---|
+| Bodengrund: | gut feuchtigkeitsspeicherndes Material wie z. B. Torf oder Erde |
+| Temperatur: | tagsüber 29-31 ºC; lokal bis 35 ºC; nachts 23-25 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 90 % |
+| Bodenfeuchtigkeit: | Boden fast im gesamten Becken feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-4 Stunden und Absenkung der Temperatur um 3-4 º; während der Paarungszeit dürfen nicht mehrere Männchen zusammen gehalten werden, da sie sonst kämpfen und einander schwere Verletzungen zufügen können
+
+**2.2.16. Corallus caninus (Grüner Hundskopfschlinger)**
+
+<u>Terrarium/Mindestmaßen</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,10 |
+| 1-2 Tiere, 100-150 cm | 0,90 | 1,00 | 0,20 |
+| 1-2 adulte Tiere | 1,20 | 1,50 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Kletteräste; Wasserbecken; Beleuchtung als Wärmequelle; bei Bedarf leichte Zusatzheizung; unter Umstände als Bodenzeitung zur Anhebung der Luftfeuchtigkeit |
+|---|---|
+| Bodengrund: | gut feuchtigkeitsspeicherndes Material wie z. B. Torf oder Erde |
+| Temperatur: | tagsüber 29-31 °C, lokal bis 35 °C; nachts 23-25 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 90 % |
+| Bodenfeuchtigkeit: | Boden fast im gesamten Becken feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-4 Stunden und Absenkung der Temperatur um 3-4 °C
+
+**2.2.17. Elaphe prasina (Grüne Strauchnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,30 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,60 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Äste oder Zweige zum Klettern und als Liegeplätze; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 20-27 ºC; lokal bis 32 ºC; nachts 18-21ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | ein Drittel des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: je nach Herkunft der Tiere Überwinterung 1-3 Monate bei 17-20 ºC und Verkürzung der Beleuchtungsdauer um 2-6 Stunden
+
+**2.2.18. Spilotes pullatus (Hühnerfresser)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1- 2 Tiere, bis 50 cm | 0,20 | 0,40 | 0,05 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,15 |
+| 1-2 Tiere, 100-150 cm | 0,90 | 1,00 | 0,20 |
+| 1-2 Tiere, 150-200 cm | 1,20 | 1,50 | 0,40 |
+| 1-2 adulte Tiere | 1,50 | 1,80 | 0,60 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | mehrere verzweigte Kletteräste; Wasserbecken; Versteckplätze; Beleuchtung auch als Wärmequelle; bei Bedarf leichte Zusatzheizung; unter Umstände als Bodenheizung zur Anhebung der Luftfeuchtigkeit |
+|---|---|
+| Bodengrund: | gut Feuchtigkeit speicherndes Material wie z. B. Torf oder Erde |
+| Temperatur: | tagsüber 24-28 ºC; lokal bis 35 ºC; nachts 20-24 °C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | ca. die Hälfte des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-4 Stunden und Absenkung der Temperatur um 3-4 ºC
+
+**2.2.19. Elaphe helena (Indische Schmucknatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 adulte Tier | 0,50 | 0,60 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 25-28 ºC; lokal bis 36 ºC; nachts 20-23ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ein Drittel des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: bei Tieren aus dem südlichen Teil des Verbreitungsgebiets im Winter Verkürzung der Beleuchtungsdauer um 2-4 Stunden; bei Tieren aus dem Norden Überwinterung bei ca. 15 ºC für 2-3 Monate
+
+**2.2.20. Elaphe climacophora (Inselkletternatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 0,90 | 0,80 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 22-28 ºC; lokal bis 35 ºC; nachts 18-22ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | ein Viertel des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung je nach Herkunft der Tiere 3-5 Monate bei 5-10 ºC
+
+**2.2.21. Lampropeltis getulus californiae (Kalifornische Königsnatter)**
+
+<u>Terrarium/Mindestmaßen</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1Tier, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1 Tier, 20-50 cm | 0,20 | 0,30 | 0,10 |
+| 1 Tier, 50-100 cm | 0,50 | 0,40 | 0,20 |
+| 1 adultes Tier | 0,90 | 0,60 | 0,30 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze aus Steinen oder Holz; Trinkgefäß; Lichtquelle, die gleichzeitig die notwendige Wärme produziert |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde, Sand |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-28 °C; lokal bis 35 °C; nachts 18-22°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | kleinen Bereich des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: je nach Herkunft 2-5 Monate bei 8-15 °C überwintern; Achtung beim Vergesellschaften: Tiere fressen auch Schlangen und Schlangeneier! Einzelhaltung
+
+**2.2.22. Lampropeltis getulus getulus (Kettennatter)**
+
+<u>Terrarium/Mindestmaße:</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1Tier, bis 20 cm | 0,10 | 0,20 | Einzelhaltung |
+| 1 Tier, 20-50 cm | 0,20 | 0,30 |  |
+| 1 Tier, 50-100 cm | 0,50 | 0,40 |  |
+| 1 adultes Tier | 0,90 | 0,60 |  |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde, Sand |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-28 ºC, lokal bis 35 ºC; nachts 18-22ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ca. ein Drittel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: je nach Herkunft 2-5 Monate bei 5-15 ºC überwintern; Schlangenfresser
+
+**2.2.23. Python regius (Königspython)**
+
+<u>Terrarium/Mindestmaßen</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,90 | 0,70 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Kletterast; Versteckplatz; Wasserbecken; Beleuchtung als Wärmequelle; bei Bedarf leichte Zusatzheizung |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch oder Erde |
+| Temperatur: | tagsüber 29-31 °C; lokal bis 35 °C; nachts 23-25 °C |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ein Viertel des Bodens permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-4 Stunden und Temperaturabsenkung um 4-6 °C
+
+**2.2.24. Elaphe guttata (Kornnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,015 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,05 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,40 | 0,10 |
+| 1-2 adulte Tiere | 0,90 | 0,60 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; günstig sind mehrere verzweigte Kletteräste; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-28 ºC; lokal bis 35 ºC; nachts 18-22ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ca. ein Viertel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 2-5 Monate bei 8-15 ºC
+
+**2.2.25. Elaphe situla (Leopardnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,50 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,60 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze aus Steinen oder Holz; Lichtquellen, die gleichzeitig auch die notwendige Wärme produziert; kleineres Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-28 °C, lokal bis 32 °C; nachts 18-22°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-70 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 4-5 Monate bei 8-12 °C
+
+**2.2.26. Sanzinia madagascariensis (Madagaskar – Hundskopfboa)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,10 |
+| 1-2 Tiere, 100-150 cm | 1,00 | 1,00 | 0,20 |
+| 1-2 adulte Tiere | 1,50 | 1,50 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz, Wasserbecken; mehrere verzweigte Kletteräste; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; bei Bedarf leichte Zusatzheizung |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | tagsüber 26-32 ºC; lokal bis 35 ºC; nachts 20-24 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | je nach geografischer Herkunft der Tiere 60-90 % |
+| Bodenfeuchtigkeit: | ein Viertel bis die Hälfte des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: von Oktober bis Dezember Absenkung der Tag- und der Nachttemperatur um 4-6ºC
+
+und Verkürzung der Beleuchtungsdauer um 3-4 Stunden
+
+**2.2.27. Lampropeltis calligaster (Prärie-Königsnatter, Maulwurfsnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde, Sand |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-28 ºC, lokal bis 35 ºC, nachts 18-22ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-80 % |
+| Bodenfeuchtigkeit: | ca. ein Viertel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: je nach Herkunft 2 bis 5 Monate bei 7-15 ºC überwintern
+
+**2.2.28 Lampropeltis mexicana (Mexikanische Königsnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Trinkgefäß Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde, Sand |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-28 ºC, lokal bis 32 ºC; nachts 20-26ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-70 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 3-4 Monate bei 8-12 ºC; Futterpause
+
+**2.2.29. Elaphe volpina (Fuchsnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 0,90 | 0,80 | 0,30 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze aus Steinen oder Holz; günstig sind mehrere verzweigte Kletteräste; ausreichend dimensioniertes Wasserbecken; Lichtquellen, die gleichzeitig auch die notwendige Wärme produziert |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 22-28 °C, lokal bis 32 °C; nachts 16-20°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ca. die Hälfte des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 4-5 Monate bei 4-10 °C
+
+**2.2.30. Elaphe bimaculata (Zweifleckennatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,15 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze aus Steinen oder Holz; Lichtquellen, die gleichzeitig auch die notwendige Wärme produziert; kleineres Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-30 °C, lokal bis 35 °C; nachts 18-22°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: 3-4 Monate Überwinterung bei 8-12 °C
+
+**2.2.31. Heterodon platyrhinos (Östliche Hakennatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen, Rinde oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | höhere Schicht aus Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 23-28 ºC, lokal bis 35 ºC, nachts 18-20°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | ein Drittel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: je nach Herkunft der Tiere 3-5 Monate bei 4-12 ºC
+
+**2.2.32. Thamnophis sirtalis sirtalis (Östliche Strumpfbandnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß und Bademöglichkeit |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-30 °C; lokal bis 38 °C; nachts 18-24°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ein Drittel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: je nach Herkunft 2-5 Monate bei 2-15 °C
+
+**2.2.33. Elaphe persica (Persische Kletternatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,60 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-29 ºC; lokal bis 35 ºC; nachts 18-23°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | ca. ein Viertel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 3-4 Monate bei 5-8 ºC
+
+**2.2.34. Elaphe erythrura (Philippinen-Kletternatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,50 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 1,00 | 0,80 | 0,30 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | tagsüber 25-28 ºC; lokal bis 36 ºC; nachts 18-23 ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ein Drittel des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: im Winter Verkürzung der Beleuchtungsdauer um 2-4 Stunden
+
+**2.2.35. Bogertophis (Elaphe) subocularis (Trans-Pecos – Rattennatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 20-50cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100cm | 0,50 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 0,90 | 0,80 | 0,30 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; kleines Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-28 ºC; lokal bis 35 ºC; nachts 20-25ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 40-70 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 3-4 Monate bei 10-15 ºC
+
+**2.2.36. Epicrates cenchria cenchria (Regenbogenboa)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,40 | 0,20 |
+| 1-2 adulte Tiere | 0,90 | 0,80 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze; Wasserbecken zu Baden; Beleuchtung als Wärmequelle; bei Bedarf leichte Zusatzheizung |
+|---|---|
+| Bodengrund: | gut feuchtigkeitsspeicherndes Material wie z. B. Torf oder Erde |
+| Temperatur: | tagsüber 29-31 °C; lokal bis 35 °C; nachts 23-25 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 90 % |
+| Bodenfeuchtigkeit: | ca. die Hälfte des Bodens feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-4 Stunden und Absenkung der Temperatur um 3-4 °C
+
+**2.2.37. Elaphe porphyracea coxi (Rote Thailand-Bambusnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen, Rinde oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | höhere Schicht aus Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 20-25 ºC; lokal bis 30 ºC; nachts 18-20°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | ca. die Hälfte des Bodengrundes permanent feucht, aber nicht nass halten |
+|  |  |
+
+Besondere Hinweise: im Winter Verkürzung der Beleuchtungsdauer um 3-4 Stunden
+
+**2.2.38. Liasis mackloti savuensis (Savu-Python)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,40 | 0,40 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,80 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 1,20 | 0,80 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; Wasserbecken zum Baden; feuchtes Moos; Lichtquelle – die auch die notwendige Wärme produziert; Zusatzheizung; Bodenheizung, Wasserbecken zum Baden. |
+|---|---|
+| Bodengrund: | Torf, Erde, Moos |
+| Temperatur: | Tag 28-32 ºC; lokal bis 36 ºC; Strahlungswärme; nachts 25-27 ºC |
+| Luftfeuchtigkeit: | 90 % |
+| Bodenfeuchtigkeit: | 50 % des Bodens feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-4 Stunden und Absenkung der Tagestemperatur um 3-4 °C
+
+**2.2.39. Elaphe taeniura (Schönnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,40 | 0,10 |
+| 1-2 Tiere, 100-150 cm | 1,20 | 0,60 | 0,40 |
+| 1-2 adulte Tiere | 1,50 | 0,80 | 0,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze aus Steinen oder Holz; ausreichend dimensioniertes Wasserbecken; günstig sind mehrere verzweigte Kletteräste; Lichtquellen, die gleichzeitig auch die notwendige Wärme produziert. |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-28 °C, lokal bis 35 °C; nachts 18-22°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ca. ein Drittel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: je nach Herkunft 2-4 Monate bei 10-15 °C; bei den tropischen Unterarten Elaphe taeniuraridleyi und Elaphe taeniura grabowskyi nur Temperaturabsenkung um 2-4 °C
+
+**2.2.40. Elaphe obsoleta obsoleta (Schwarze Erdnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,40 | 0,20 |
+| 1-2 adulte Tiere | 0,90 | 0,60 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; günstig sind mehrere verzweigte Kletteräste; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 22-28 ºC; lokal bis 35 ºC; nachts 18-22ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ca. ein Viertel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 3-5 Monate bei 4-8 ºC
+
+**2.2.41. Lampropeltis triangulum sinaloae (Sinaloa-Königsnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Trinkgefäß; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde, Sand |
+| Temperatur: | während der Aktivitätsperiode tagsüber 22-28 ºC, lokal bis 35 ºC; nachts 18-24ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 65-85 % |
+| Bodenfeuchtigkeit: | ca. ein Viertel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: 2-3 Monate bei 10-15 ºC überwintern; Achtung beim Vergesellschaften, Tiere fressen auch Schlangen und Schlangeneier!
+
+**2.2.42. Python molurus pimbura (Sri Lanka Tigerpython)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, 20-50 cm | 0,40 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,80 | 0,60 | 0,20 |
+| 1-2 Tiere, 100-150 cm | 1,20 | 1,20 | 0,40 |
+| 1-2 adulte Tiere | 2,00 | 1,80 | 0,80 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | starker Kletterast; Versteckplatz; ausreichend dimensioniertes Wasserbecken; Beleuchtung als Wärmequelle; bei Bedarf leichte Zusatzheizung |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch oder Erde |
+| Temperatur: | Tag 29-31 ºC; lokal bis 35 ºC; nachts 23-25 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Bodenfeuchtigkeit: | die Hälfte des Bodens permanent leicht feucht halten |
+|  |  |
+
+**2.2.43. Elaphe dione (Steppennatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze aus Steinen oder Holz; Lichtquellen, die gleichzeitig auch die notwendige Wärme produziert; kleineres Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-30 °C, lokal bis 35 °C; nachts 15-22°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 4-5 Monate bei 2-10 °C
+
+**2.2.44. Elaphe radiata (Strahlennatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,20 |
+| 1-2 adulte Tier | 1,00 | 0,80 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 25-28 ºC; lokal bis 36 ºC; nachts 20-23ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-90 % |
+| Bodenfeuchtigkeit: | ein Drittel des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: bei Tieren aus dem südlichen Teil des Verbreitungsgebiets im Winter Verkürzung der Beleuchtungsdauer um 2-4 Stunden; bei Tieren aus dem Norden Überwinterung bei ca. 15 ºC für 2-3 Monate
+
+**2.2.45. Acrantophis dumerili (Südliche Madagaskar-Boa)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 1,00 | 0,80 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; Wasserbecken zum Baden; starker Kletterast; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; bei Bedarf leichte Zusatzheizung |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde, unter Umständen gemischt mit Rindenmulch |
+| Temperatur: | tagsüber 25-30 ºC; lokal bis 35 ºC; nachts 22-24 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 60-80 % |
+| Bodenfeuchtigkeit: | ca. ein Drittel des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-4 Stunden und Absenkung der Temperatur um 4-6 ºC für 6-8 Wochen
+
+**2.2.46. Lampropeltis alterna (Transpecos-Königsnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze aus Steinen oder Holz; Trinkgefäß; Lichtquelle, die gleichzeitig die notwendige Wärme produziert |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde, Sand |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-28 °C; lokal bis 32 °C; nachts 20-26°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-70 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 3-4 Monate bei 8-12 °C
+
+**2.2.47. Elaphe scalaris (Treppennatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 0,90 | 0,80 | 0,30 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 25-30 ºC; lokal bis 38 ºC; nachts 18-23ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 3-5 Monate bei 7-12 ºC
+
+**2.2.48. Elaphe quatuorlineata (Vierstreifennatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,40 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 0,90 | 0,80 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze aus Steinen oder Holz; Lichtquellen, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 24-28 °C, lokal bis 32 °C; nachts 18-22°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: 3-4 Monate bei 8-12 °C
+
+**2.2.49. Liasis albertisii (Weißlippenpython)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,40 | 0,10 |
+| 1-2 Tiere, 100-150 cm | 1,00 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 1,50 | 0,80 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze, Wasserbecken zum Baden, feuchtes Moos; Beleuchtung als Wärmequelle, bei Bedarf leichte Zusatzheizung |
+|---|---|
+| Bodengrund: | Torf oder Erde |
+| Temperatur: | tagsüber 30-32 ºC; lokal bis 36 ºC durch Strahlungswärme, nachts 20-22 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 90 % |
+| Bodenfeuchtigkeit: | Boden im größten Teil des Beckens feucht aber nicht nass halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um ca. 4 Stunden und Absenkung der Temperatur um 3-4 ºC; Vorsicht beim Zusammenhalten mehrerer Tiere, es können Territorialkämpfe mit daraus resultierenden Verletzungen auftreten
+
+**2.2.50. Heterodon nasicus (Westliche Hakennatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,20 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,30 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen, Rinde oder Holz; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; kleines Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | höhere Schicht aus Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 23-28 ºC, lokal bis 35 ºC, nachts 18-20°C |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 50-70 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: je nach Herkunft der Tiere 3-5 Monate bei 5-12 ºC; bei Nachzucht vor Eiablage Weibchen allein halten, da die Tiere auch Schlangeneier fressen
+
+**2.2.51. Elaphe frenata (Zügelnatter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,10 | 0,30 | 0,10 |
+| 1-2 Tiere, 20-50 cm | 0,20 | 0,40 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,60 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus Steinen oder Holz; Äste oder Zweige zum Klettern und als Liegeplätze; günstig ist ein Versteck zwischen den Zweigen; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; Wasserbecken als Trinkgefäß |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde |
+| Temperatur: | während der Aktivitätsperiode tagsüber 20-25 ºC; lokal bis 32 ºC; nachts 18-20ºC |
+| Beleuchtungsdauer: | während der Aktivitätsperiode täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | ein Drittel des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Tiere trinken vorzugsweise von Tropfen, daher regelmäßig sprühen; nicht zu warm halten, da die Tiere sonst meist im Wasserbecken liegen und dadurch Hautschädigungen bekommen können; je nach Herkunft der Tiere Überwinterung 1-3 Monate bei 17-20 ºC
+
+**2.2.52. Acrantophis madagascariensis (Nördliche Madagaskar-Boa)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,20 | 0,30 | 0,10 |
+| 1-2 Tiere, 50-100 cm | 0,50 | 0,40 | 0,10 |
+| 1-2 Tiere, 100-150 cm | 0,90 | 0,60 | 0,20 |
+| 1-2 Tiere, 150-200 cm | 1,20 | 0,80 | 0,40 |
+| 1-2 adulte Tiere | 1,50 | 1,20 | 0,60 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; zum Baden ausreichend dimensioniertes Wasserbecken; starken Kletterast; Lichtquelle, die gleichzeitig auch die notwendige Wärme produziert; bei Bedarf leichte Zusatzheizung |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch, Erde, unter Umständen gemischt mit Rindenmulch |
+| Temperatur: | tagsüber 26-32 ºC; lokal bis 35 ºC; nachts 22-24 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | ca. die Hälfte des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-4 Stunden und Absenkung der Temperatur um 3-4 ºC für 6-8 Wochen
+
+**2.2.53. Morelia spilota (Teppichpython, Diamantpython)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 100 cm | 0,50 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 1,50 | 1,50 | 0,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplätze; Wasserbecken zum Baden; starke verzweigte Kletteräste; Licht kombiniert mit Wärmestrahlung; Bodenheizung in Teilbereichen mit Oberflächentemperaturen von 22° bis 25°C; |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch oder Erde |
+| Temperatur: | 26° bis 32°C im Strahlungsbereich bis 35°C; nächtliche Abkühlung auf 20° bis 24°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 90 % |
+| Bodenfeuchtigkeit: | Die Hälfte der Bodenfläche ist feucht zu halten. |
+|  |  |
+
+Besondere Hinweise: Im Winter Verkürzung der Beleuchtungsdauer um 2-4 Stunden
+
+**2.2.54. Python molurus bivittatus (Dunkler Tigerpython)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 100 cm | 1,00 | 1,0 | 0,40 |
+| 1-2 adulte Tiere | 2,00 | 1,8 | 0,80 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit Wurzeln, Steinen, starken Hölzern; Licht, kombiniert mit Wärmestrahlung; Wasserbecken zum Baden; Bodenheizung in Teilbereichen mit Oberflächentemperaturen von 22° bis 25° C |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch oder Erde |
+| Temperatur: | 24° bis 30°C, im Strahlungsbereich bis 35° C; nachts 20° bis 24°C; |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 90 % |
+| Bodenfeuchtigkeit: | Die Hälfte des Bodens ist feucht zu halten. |
+|  |  |
+
+**2.2.55. Liasis amethystinus (Amethystpython)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 100 cm | 1,00 | 1,20 | 0,40 |
+| 1-2 adulte Tiere | 2,00 | 1,80 | 0,80 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit Wurzeln, Steinen und starken Hölzern; |
+|---|---|
+| Bodengrund: | Wasserbecken zum Baden; Licht kombiniert mit Wärmestrahlung; in Teilbereichen Bodenheizung mit Oberflächentemperaturen von 22° bis 25°C. |
+| Temperatur: | Torf, Torf-Sand-Gemisch oder Erde 24° bis 30°C; im Strahlungsbereich bis 35°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 90 % |
+| Bodenfeuchtigkeit: | Die Hälfte des Bodens ist feucht zu halten. |
+|  |  |
+
+**2.2.56. Eunectes notaeus (Gelbe oder Süd-Anakonda)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 100 cm | 0,80 | 0,80 | 0,40 |
+| 1-2 adulte Tiere | 1,80 | 1,50 | 0,80 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Geräumiges Wasserbecken; Raumstrukturen mit Wurzeln, Steinen und starken Hölzern. Licht kombiniert mit Wärmestrahlung; in Teilbereichen Bodenheizung mit Oberflächentemperaturen von 22° bis 25° C |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch oder Erde |
+| Temperatur: | 24° bis 30°C im Strahlungsbereich bis 35°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 90 % |
+| Bodenfeuchtigkeit: | Die Hälfte des Bodens ist feucht zu halten. |
+|  |  |
+
+Besondere Hinweise: Die Art legt häufig im Winter eine freiwillige Futterpause ein
+
+**2.2.57. Python sebae (Felsenpython)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 100 cm | 0,80 | 0,80 | 0,30 |
+| 1-2 adulte Tiere | 3,50 | 1,80 | 1,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit Wurzeln, Steinen und starken Hölzern; Wasserbecken zum Baden; Licht kombiniert mit Wärmestrahlung; In Teilbereichen Bodenheizung mit Oberflächentemperaturen von 22° bis 25° C |
+|---|---|
+| Bodengrund: | Torf, Sand-Torf-Gemisch oder Erde |
+| Temperatur: | 24° bis 30° C; im Strahlungsbereich bis 35°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 80 % |
+| Bodenfeuchtigkeit: | Die Hälfte des Bodens ist feucht zu halten |
+|  |  |
+
+**2.2.58. Python reticulatus (Netzpython)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 100 cm | 1,00 | 1,00 | 0,40 |
+| 1-2 adulte Tiere | 3,50 | 1,80 | 1,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit Wurzeln, Steinen und starken Hölzern; geräumiges Wasserbecken zum Baden; Licht kombiniert mit Wärmestrahlung; in Teilbereichen Bodenheizung mit Oberflächentemperaturen von 22° bis 25° C; |
+|---|---|
+| Bodengrund: | Torf, Sand-Torf-Gemisch oder Erde |
+| Temperatur: | 24° bis 30°C; im Strahlungsbereich bis 35°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 90 % |
+| Bodenfeuchtigkeit: | Die Hälfte des Bodens ist feucht zu halten |
+|  |  |
+
+**2.2.59. Eunectes murinus (Grüne Anakonda)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 100 cm | 0,80 | 0,80 | 0,40 |
+| 1-2 adulte Tiere | 3,50 | 1,80 | 1,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Sehr geräumiges Wasserbecken; Raumstrukturen mit Wurzeln, Steinen und starken hölzern; Licht kombiniert mit Wärmestrahlung; In Teilbereichen Bodenheizung mit Oberflächentemperaturen von 22° bis 25° C; |
+|---|---|
+| Bodengrund: | Torf, Sand-Torf-Gemisch oder Erde |
+| Temperatur: | 24° bis 30°; im Strahlungsbereich bis 35°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 90 % |
+| Bodenfeuchtigkeit: | Die Hälfte des Bodens ist feucht zu halten |
+|  |  |
+
+**2.3. Spezielle Haltungsbedingungen für Giftschlangen**
+
+**2.3.1. Crotalus atrox (Texas-Klapperschlange)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,40 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 2,00 | 1,20 | 0,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit Steinen und Ästen; Leuchten mit Tageslichtspektrum und lokaler Wärmestrahler;Trinkgefäß |
+|---|---|
+| Bodengrund: | Sand oder Sand-Torf-Gemisch |
+| Temperatur: | 22°bis 25°; im Strahlungsbereich bis 35°C |
+| Beleuchtungsdauer: | 10 bis 14 Stunden |
+| Luftfeuchtigkeit: | 50 bis 70 % |
+| Bodenfeuchtigkeit: | Boden soll nach dem täglichen Sprühen mit Wasser wieder trocknen. |
+|  |  |
+
+Besondere Hinweise: Je nach Herkunft ist eine entsprechende Winterpause zu ermöglichen
+
+**2.3.2.Crotalus durissus (Tropische Klapperschlange)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,40 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 2,00 | 1,20 | 0,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit Steinen und Ästen; Trinkgefäß; Leuchten mit Tageslichtspektrum und lokale Wärmestrahlung. |
+|---|---|
+| Bodengrund: | Sand oder Sand-Torf-Gemisch |
+| Temperatur: | 24° bis 28° C; im Strahlungsbereich bis 35°C |
+| Beleuchtungsdauer: | 10 bis 14 Stunden |
+| Luftfeuchtigkeit: | 50 bis 70 % |
+| Bodenfeuchtigkeit: | Boden muss nach täglichen Sprühen abtrocknen |
+|  |  |
+
+**2.3.3. Bitis arietans (Puffotter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,40 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 2,00 | 1,20 | 0,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit Steinen und Ästen; Trinkgefäß; Leuchten mit Tageslichtspektrum, lokale Wärmestrahlung; Wasserbecken, gelegentliches Baden muss möglich sein |
+|---|---|
+| Bodengrund: | Sand oder Sand-Torf-Gemisch |
+| Temperatur: | 22° bis 28°C; im Strahlungsbereich bis 35°C |
+| Beleuchtungsdauer: | 10 bis 14 Stunden |
+| Luftfeuchtigkeit: | 50 bis 70 % |
+| Bodenfeuchtigkeit: | Boden muss nach täglichem sprühen wieder abtrocknen. |
+|  |  |
+
+Besondere Hinweise: Je nach Herkunft ist eine entsprechende Winterpause zu ermöglichen
+
+**2.3.4. Bitis gabonica (Gabonviper)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,40 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 2,00 | 1,20 | 0,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit Steinen und Ästen; Wasserbecken, das gelegentliches Baden ermöglicht; Leuchten mit Tageslichtspektrum und lokale Wärmestrahlung. |
+|---|---|
+| Bodengrund: | Sand-Torf-Gemisch oder Torf mit Laubeinstreu |
+| Temperatur: | 24° bis 28°C; im Strahlungsbereich bis 35°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 70 bis 90 % |
+| Bodenfeuchtigkeit: | Die hälfte der Bodenfläche muss feucht sein |
+|  |  |
+
+Besondere Hinweise: Typischer Waldbewohner der mit gedämpftem Licht vorlieb nimmt
+
+**2.3.5. Cerastes cerastes (Hornotter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 40 cm | 0,20 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,60 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Wenig Raumstrukturen mit Steinen oder Rinden; Leuchten mit Tageslichtspektrum; lokale Wärmestrahlung; |
+|---|---|
+| Bodengrund: | lockerer Sand, mind. 10 cm hoch |
+| Temperatur: | 20° bis 28° C, Nachtabsenkung auf 18 ° bis 22° |
+| Beleuchtungsdauer: | 10 bis 14 Stunden |
+| Luftfeuchtigkeit: | 40 bis 60 % |
+| Bodenfeuchtigkeit: | Ein viertel des Sandes muss immer feucht gehalten werden |
+|  |  |
+
+Besondere Hinweise: Eine entsprechende Winterpause ist einzuhalten, diese Art trinkt durch Aufschlecken der Sprühtropfen auf Steinen und Körper, tägliches Sprühen von Wasser nötig
+
+**2.3.6. Sistrurus miliaris (Zwergklapperschlange)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 40 cm | 0,20 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,60 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit Steinen und Ästen; Leuchten mit Tageslichtspektrum und lokale Wärmestrahlung Trinkbecken; |
+|---|---|
+| Bodengrund: | Sand oder Sand-Torf-Gemisch; |
+| Temperatur: | 24° bis 28° C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 80% |
+| Bodenfeuchtigkeit: | Ein viertel des Bodens muss stets feucht gehalten werden |
+|  |  |
+
+Besondere Hinweise: Eine entsprechende Winterruhe ist einzuhalten
+
+**2.3.7. Naja naja kaouthia (Monokelkobra)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 60 cm | 0,50 | 0,60 | 0,20 |
+| 1-2 adulte Tiere | 3,00 | 1,50 | 0,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit Steinen, Wurzeln und Hölzern; Leuchten mit tageslichtähnlichem Spektrum, lokale Wärmestrahlung Bodenheizung mit Oberflächentemperaturen von 22° bis 25°C; Wasserbecken, das auch das Baden ermöglicht |
+|---|---|
+| Bodengrund: | Torf, Sand-Torf-Gemisch und/oder Rindenschnitzel |
+| Temperatur: | 24° bis 30°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 80 % |
+| Bodenfeuchtigkeit: | Der Boden ist stets leicht feucht zu halten |
+|  |  |
+
+**2.3.8. Trimeresurus albolabris (Weißlippen-Lanzenotter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 40 cm | 0,20 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 1,50 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Gute Klettermöglichkeit mit verzweigten Ästen: Leuchten mit Tageslichtspektrum und lokale Wärmestrahlung Trinkbecken; Kräftige Bepflanzung möglich. |
+|---|---|
+| Bodengrund: | Torf, Torf-Sand-Gemisch |
+| Temperatur: | 24° bis 30°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 70 bis 90% |
+| Bodenfeuchtigkeit: | Boden muss zur Erhaltung der Luftfeuchtigkeit immer feucht sein. |
+|  |  |
+
+Besondere Hinweise: Typischer Baumbewohner
+
+**2.3.9. Trimeresurus wagleri (Waglers Lanzenotter)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 40 cm | 0,20 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 1,50 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Gute Klettermöglichkeiten mit verzweigten Ästen; Leuchten mit Tageslichtspektrum und lokale Wärmestrahlung; Trinkbecken; kräftige Bepflanzung möglich |
+|---|---|
+| Bodengrund: | Torf oder Torf-Sand-Gemisch |
+| Temperatur: | 24° bis 30°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 70 bis 90 % |
+| Bodenfeuchtigkeit: | Boden muss zur Erhaltung der Luftfeuchtigkeit immer feucht sein. |
+|  |  |
+
+Besondere Hinweise: Typischer Baumbewohner
+
+**3. Mindestanforderungen an die Haltung von Echsen**
+
+**3. 1. Allgemeine Haltungsbedingungen**
+
+(1) Den unterschiedlichen Bedürfnissen der einzelnen Tierarten im Jahresverlauf ist in Abhängigkeit von Alter, Reproduktionsstatus und Jahreszeit (Winterruhe, Ruhephasen bei tropischen Arten) Rechnung zu tragen.
+
+(2) Bei der Klimatisierung der Gehege ist ein artspezifisches Mikroklima im Haltungssystem mit Temperatur- und Feuchtigkeitsgradienten, die den Tieren eine entsprechende Auswahl bieten, einzurichten.
+
+(3) Die nachfolgenden Angaben sind Mindestmaße die das Terrarium in denen die Tiere gehalten werden aufweisen muss.
+
+**3.2. Spezielle Haltungsbedingungen**
+
+**3.2.1. Physignathus lesueurii (Australische Wasseragame)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 40 cm | 0,60 | 0,80 | 0,20 |
+| 1-2 Tiere, 40-60 cm | 1,20 | 1,20 | 0,50 |
+| 1-2 adulte Tiere | 2,00 | 2,00 | 1,00 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; mehrere Kletteräste; großes, auch zum Baden geeignetes Wasserbecken; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 27-30 °C; lokal bis 35 °C; nachts 20-22 °C; Wassertemperatur tagsüber um 25 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | die Hälfte des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: je nach Herkunft der Tiere Verkürzung der Beleuchtungsdauer um 2-6 Stunden und Absenkung der Temperatur um 3-10 °C; nicht mehr als ein adultes Männchen je Terrarium halten, da die Tiere territorial sind
+
+**3.2.2. Pogona barbatus (Bartagame)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 12 cm | 0,40 | 0,40 | 0,10 |
+| 1-2 Tiere, 12-20 cm | 0,60 | 0,50 | 0,20 |
+| 1-2 Tiere, 20-40 cm | 0,80 | 0,60 | 0,30 |
+| 1-2 adulte Tiere | 1,00 | 0,80 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; Steine, die den Tieren Sichtschutz voreinander geben; Trinkgefäß; starke Lichtquelle, die auch die notwendige Wärme produziert; UVStrahler |
+|---|---|
+| Bodengrund: | Sand, Sand-Lehm-Gemisch |
+| Temperatur: | tagsüber 25-33 °C; lokal bis 45 °C; nachts 18-22 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 50-80 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: für ca. zwei Monate Verkürzung der Beleuchtungsdauer auf 6-8 Stunden und Absenkung der Temperatur auf 15-20 °C; nicht mehr als ein adultes Männchen je Terrarium halten, da die Tiere territorial sind
+
+**3.2.3. Siliqua scincoides scincoides (Blauzungenskink)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,40 | 0,40 | 0,20 |
+| 1-2 Tiere, 20-35 cm | 0,50 | 0,50 | 0,30 |
+| 1-2 adulte Tiere | 0,60 | 0,60 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; Steine und Wurzelstock, die den Tieren Sichtschutz voreinander geben; kleines Wasserbecken als Trinkgefäß; starke Lichtquelle, die auch die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Sand, Sand-Lehm-Gemisch |
+| Temperatur: | tagsüber 25-33 °C; lokal bis 45 °C; nachts 18-22 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 50-70 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: je nach Herkunft der Tiere Absenkung der Temperatur auf 6-10 °C für 2-4 Monate; Vorsicht bei Vergesellschaftung mehrere Tiere – sie können territorial sein
+
+**3.2.4. Lguana iguana (Grüner Leguan)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 40 cm | 0,60 | 0,80 | 0,20 |
+| 1-2 Tiere, 40-70 cm | 1,20 | 1,20 | 0,40 |
+| 1-2 Tiere, 70-100 cm | 2,00 | 1,50 | 0,70 |
+| 1-2 adulte Tiere | 3,00 | 1,80 | 1,00 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; mehrere Kletteräste; großes, auch zum Baden geeignetes Wasserbecken; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 27-30 °C; lokal bis 38 °C; nachts 22-24 °C; Wassertemperatur um 25°C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | die Hälfte Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Temperatur um 3-4 °C; nicht mehr als ein adultes Männchen je Terrarium halten, da die Tiere territorial sind; Vorsicht im Umgang mit nicht an Menschen gewähnten Tieren – Verletzungsgefahr!
+
+**3.2.5. Chlamydosaurus kinii (Kragenechse)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 40 cm | 0,60 | 0,80 | 0,10 |
+| 1-2 Tiere, 40-60 cm | 1,20 | 1,20 | 0,20 |
+| 1-2 adulte Tiere | 2,00 | 1,80 | 0,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; mehrere Kletteräste; Wasserbecken als Trinkgefäß; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 27-30 °C, lokal bis 35 °C; nachts 20-24 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 60-80 % |
+| Bodenfeuchtigkeit: | ein Viertel des Bodengrundes permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Temperatur um 3-4 °C; nicht mehr als ein adultes Männchen je Terrarium halten, da die Tiere territorial sind
+
+**3.2.6. Cyclura nubila (Kuba-Felsenleguan)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 40 cm | 1,00 | 0,60 | 0,30 |
+| 1-2 Tiere, 40-70 cm | 2,00 | 1,00 | 0,50 |
+| 1-2 Tiere, 70-100 cm | 3,00 | 1,50 | 1,00 |
+| 1-2 adulte Tiere | 5,00 | 1,80 | 2,00 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | mehrere robuste, nicht durch die Tiere zerlegbare Verstecke und Steine, die den Tieren Sichtschutz voreinander geben; kleines, fest verankertes Wasserbecken; starke Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UVStrahler |
+|---|---|
+| Bodengrund: | Sand, Sand-Lehm-Gemisch, Erde |
+| Temperatur: | tagsüber 25-35 °C; lokal bis 45 °C; nachts 22-24 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 45-60 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: für 2 Monate Verkürzung der Beleuchtungsdauer um 2-3- Stunden und Absenkung der Tagestemperatur um 3-5 °C; nicht mehr als ein adultes Männchen je Terrarium halten, da die Tiere territorial sind
+
+**3.2.7. Eublenpharis macularius (Leopardgecko)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 10 cm | 0,10 | 0,30 | 0,10 |
+| 1-2 Tiere, 10-15 cm | 0,30 | 0,40 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,40 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; kleines Wasserbecken als Trinkgefäß; Lichtquelle, die auch die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Sand, Sand-Lehm-Gemisch, Erde |
+| Temperatur: | tagsüber 28-32 °C; lokal bis 35 °C; nachts 20-22 °C; |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 45-60 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Überwinterung: ca. 2 Monate bei 15-18 °C
+
+**3.2.8. Phelsuma madagascariensis (Madagaskar-Taggecko)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 10 cm | 0,10 | 0,50 | 0,05 |
+| 1-2 Tiere, 10-15 cm | 0,30 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,50 | 0,80 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; mehrere verzweigte Kletteräste; Wasserbecken; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 27-32 °C; lokal bis 35 °C; nachts 20-22 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 60-80 % |
+| Bodenfeuchtigkeit: | die Hälfte Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Temperatur um 3-4 °C; nicht mehr als ein adultes Männchen je Terrarium halten, da die Tiere territorial sind
+
+**3.2.9. Cyclura cornuta (Nashornleguan)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 40 cm | 1,00 | 0,60 | 0,30 |
+| 1-2 Tiere, 40-70 cm | 2,00 | 1,00 | 0,50 |
+| 1-2 Tiere, 70-100 cm | 3,00 | 1,50 | 2,00 |
+| 1-2 adulte Tiere | 5,00 | 1,80 | 2,00 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | mehrere robuste, nicht durch die Tiere zerlegbare Verstecke und Steine, die den Tieren Sichtschutz voreinander geben; kleines, fest verankertes Wasserbecken; starke Lichtquelle, die auch die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Sand, Sand-Lehm-Gemisch, Erde |
+| Temperatur: | tagsüber 25-35 °C; lokal bis 45 °C; nachts 22-24 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 45-60 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: für 2 Monate Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Tagestemperatur um 3-5 °C; nicht mehr als ein adultes Männchen je Terrarium halten, da die Tiere territorial sind
+
+**3.2.10. Varanus niloticus (Nilwaran)**
+
+<u>Terrarium/Mindestmaße</u>
+
+<table>
+<tr>
+<td rowspan="2"><b>Anzahl und Größe der Tiere</b></td>
+<td rowspan="2"><b>Grundfläche m²</b></td>
+<td rowspan="2"><b>Höhe m</b></td>
+<td rowspan="2"><b>Wasseranteil m²</b></td>
+<td colspan="2"><b>zusätzliche Fläche für jedes weitere Tier m²</b></td>
+</tr>
+<tr>
+<td><b>Grundfläche m²</b></td>
+<td><b>Wasserfläche m²</b></td>
+</tr>
+<tr>
+<td>1-2 Tiere, bis 30 cm</td>
+<td>0,60</td>
+<td>0,50</td>
+<td>0,50</td>
+<td>0,50</td>
+<td>0,50</td>
+</tr>
+<tr>
+<td>1-2 Tiere, bis 60 cm</td>
+<td>2,00</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>1,00</td>
+</tr>
+<tr>
+<td>1-2 adulte Tiere</td>
+<td>6,00</td>
+<td>1,50</td>
+<td>1,80</td>
+<td>1,00</td>
+<td>1,50</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; Steinhöhle; Holz; robuste, flacher Kletterast; beheiztes Badebecken; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Sand, Kies, Lehm-Sand-Gemisch |
+| Temperatur: | tagsüber 26-28 °C; lokal bis 35 °C; nachts 23-25 °C; Wassertemperatur 26 °C; nachts 24-25 °C |
+| Beleuchtungsdauer: | täglich 8-12 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 60-80 % |
+| Bodenfeuchtigkeit: | Teil des Behälters leicht befeuchtet |
+|  |  |
+
+**3.2.11. Uromastyx acanthinurus (Nordafrikanische Dornschwanzagame)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 12 cm | 0,40 | 0,40 | 0,20 |
+| 1-2 Tiere, 12-20 cm | 0,60 | 0,50 | 0,30 |
+| 1-2 adulte Tiere | 1,00 | 0,60 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | mehrere robuste, nicht durch die Tiere zerlegbare Verstecke und Steine, die den Tieren Sichtschutz voreinander geben; kleines, fest verankertes Wasserbecken; starke Lichtquelle, die auch die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Sand, Sand-Lehm-Gemisch |
+| Temperatur: | tagsüber 25-35 °C; lokal bis 45 °C; nachts 18-22 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 45-60 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: für 3-4 Monate Verkürzung der Beleuchtungsdauer auf 6-8 Stunden und Absenkung der Temperatur auf 15-20 °C; nicht mehr als ein adultes Männchen je Terrarium halten, das die Tiere territorial sind
+
+**3.2.12. Varanus indicus (Pazifikwaran)**
+
+<table>
+<tr>
+<td rowspan="2"><b>Anzahl und Größe der Tiere</b></td>
+<td rowspan="2"><b>Grundfläche m²</b></td>
+<td rowspan="2"><b>Höhe m</b></td>
+<td rowspan="2"><b>Wasseranteil m²</b></td>
+<td colspan="2"><b>zusätzliche Fläche für jedes weitere Tier m²</b></td>
+</tr>
+<tr>
+<td><b>Grundfläche m²</b></td>
+<td><b>Wasserfläche m²</b></td>
+</tr>
+<tr>
+<td>1-2 Tiere, bis 30 cm</td>
+<td>0,50</td>
+<td>0,50</td>
+<td>0,30</td>
+<td>0,20</td>
+<td>0,20</td>
+</tr>
+<tr>
+<td>1-2 Tiere, bis 60 cm</td>
+<td>1,50</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>0,50</td>
+<td>0,50</td>
+</tr>
+<tr>
+<td>1-2 adulte Tiere</td>
+<td>3,00</td>
+<td>1,60</td>
+<td>1,80</td>
+<td>1,00</td>
+<td>1,50</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; Holz, Rinde; robuste Kletteräste; beheiztes Badebecken; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf-Rindenmulch, Moos |
+| Temperatur: | tagsüber 25-28 °C; lokal bis 32 °C; nachts 23-25 °C |
+| Beleuchtungsdauer: | täglich 8-12 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | 40-50 % der Bodenfläche feucht halten |
+|  |  |
+
+**3.2.13. Physignathus cocincinus (Grüne Wasseragame)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 40 cm | 0,60 | 0,80 | 0,20 |
+| 1-2 Tiere, 40-60 cm | 1,20 | 1,20 | 0,50 |
+| 1-2 adulte Tiere | 2,50 | 1,80 | 1,00 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; mehrere Kletteräste; großes, auch zum Baden geeignetes Wasserbecken; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 27-30 °C; lokal bis 35 °C; nachts 20-22 °C; Wassertemperatur tagsüber um 25°C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | die Hälfte des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Temperatur um 3-4 °C; nicht mehr als ein adultes Männchen je Terrarium halten, da die Tiere territorial sind
+
+**3.2.14. Varanus timorensis (Timorwaran)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 30 cm | 0,50 | 0,80 | 0,30 |
+| 1-2 adulte Tiere | 1,00 | 1,00 | 0,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Bepflanzung (robuste Pflanzen); Kletteräste; großes, auch zum Baden geeignetes Wasserbecken; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler; Versteckmöglichkeit |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde, Rindenmulch, Moos |
+| Temperatur: | tagsüber 25-28 °C; lokal bis 32 °C; nachts 23-25 °C |
+| Beleuchtungsdauer: | täglich 8-12 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | 40-50 % der Bodenfläche feucht halten |
+|  |  |
+
+**3.2.15. Varanus prasinus (Smaragdwaran)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 30 cm | 0,50 | 0,80 | 0,30 |
+| 1-2 adulte Tiere | 1,50 | 1,00 | 0,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Bepflanzung (robuste Pflanzen); Kletteräste; großes, zum Baden geeignetes Wasserbecken; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde, Rindenmulch, Moos |
+| Temperatur: | tagsüber 25-28 °C; lokal bis 32 °C; nachts 23-25 °C |
+| Beleuchtungsdauer: | täglich 8-12 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | 40-50 % der Bodenfläche feucht halten |
+|  |  |
+
+**3.2.16. Varanus exanthematicus (Steppenwaran)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,50 | 0,40 | 0,10 |
+| 1-2 Tiere, bis 40 cm | 1,50 | 1,00 | 0,50 |
+| 1-2 adulte Tiere | 3,00 | 1,60 | 1,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz aus festverankerten Steinen oder Holz; Trinkgefäß; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Sand, Lehmerde |
+| Temperatur: | tagsüber 28-30 °C; lokal 30-40 °C; nachts 23-26 °C |
+| Beleuchtungsdauer: | täglich 8-12 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 50-70 % |
+| Bodenfeuchtigkeit: | Teil des Behälters leicht befeuchtet |
+|  |  |
+
+**3.2.17. Basiliscus plumifrons (Stirnlappenbasilisk)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 20 cm | 0,40 | 0,50 | 0,10 |
+| 1-2 Tiere, 20-40 cm | 0,60 | 0,80 | 0,20 |
+| 1-2 Tiere, 40-60 cm | 1,20 | 1,20 | 0,40 |
+| 1-2 adulte Tiere | 2,00 | 1,80 | 1,00 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; mehrere Kletteräste; großes, auch zum Baden geeignetes Wasserbecken; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 27-30 °C; lokal bis 35 °C; nachts 23-24 °C; Wassertemperatur um 25°C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | die Hälfte des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Temperatur um 3-4 °C; nicht mehr als ein adultes Männchen je Terrarium halten, da die Tiere territorial sind
+
+**3.2.18. Pogona vitticeps (Streifenkopf-Bartagame)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 12 cm | 0,40 | 0,40 | 0,10 |
+| 1-2 Tiere, 12-20 cm | 0,60 | 0,50 | 0,20 |
+| 1-2 Tiere, 20-40 cm | 0,80 | 0,60 | 0,30 |
+| 1-2 adulte Tiere | 1,00 | 0,80 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; Steine, die den Tieren Sichtschutz voreinander geben; kleines Wasserbecken als Trinkgefäß; starke Lichtquelle, die auch die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Sand, Sand-Lehm-Gemisch |
+| Temperatur: | tagsüber 25-33 °C; lokal bis 45 °C; nachts 18-22 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 45-65 % |
+| Bodenfeuchtigkeit: | einen kleinen Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: für ca. zwei Monate Verkürzung der Beleuchtungsdauer auf 6-8 Stunden und Absenkung der Temperatur auf 15-20 °C; nicht mehr als ein adultes Männchen je Terrarium halten, da die Tiere territorial sind
+
+**3.2.19. Hydrosaurus amboinensis (Segelechse)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 40 cm | 0,60 | 0,80 | 0,20 |
+| 1-2 Tiere, 40-60 cm | 1,20 | 1,20 | 0,50 |
+| 1-2 adulte Tiere | 2,00 | 1,80 | 1,00 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; mehrere Kletteräste; großes, auch zum Baden geeignetes Wasserbecken; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 27-30 °C; lokal bis 35 °C; nachts 22-24 °C; Wassertemperatur um 25°C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | die Hälfte Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Temperatur um 3-4 °C; nicht mehr als ein adultes Männchen je Terrarium halten, da die Tiere territorial sind
+
+**3.2.20. Coruzia zebrata (Salomonen-Riesenskink)**
+
+<u>Terrarium/Mindestmaßen</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 35 cm | 0,60 | 0,80 | 0,15 |
+| 1-2 Tiere, 35-50 cm | 0,80 | 1,20 | 0,30 |
+| 1-2 adulte Tiere | 1,00 | 1,50 | 0,50 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Versteckplatz; mehrere Kletteräste; Wasserbecken; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 27-30 °C, lokal bis 35 °C; nachts 23-24 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 70-90 % |
+| Bodenfeuchtigkeit: | die Hälfte des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-3 Stunden
+
+**3.2.21. Varanus salvator (Bindenwaran)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 60 cm | 1,00 | 1,00 | 0,40 |
+| jedes adulte Tier | 3,00 | 1,50 |  |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit Steinen Wurzeln und Hölzern bei guter Verankerung; Leuchten mit Tageslichtspektrum lokale Wärmestrahlung Geräumiges Wasserbecken zum Baden; UV-Strahler; Teilbereiche mit Bodenheizung mit Temperaturen von 22° bis 25° |
+|---|---|
+| Bodengrund: | Sand |
+| Temperatur: | 24° bis 30° C,im Strahlungsbereich bis 35°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 70 bis 90 % |
+| Bodenfeuchtigkeit: | Sandboden muss täglich feucht gemacht werden |
+|  |  |
+
+Besondere Hinweise: Jungtieren müssen Klettermöglichkeiten angeboten werden
+
+**3.2.22. Varanus niloticus (Nilwaran) *(Anm.: aufgehoben durch BGBl. II NR. 57/2012)***
+
+**3.2.23. Varanus griseus (Wüstenwaran)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,60 | 0,80 | 0,30 |
+| jedes adulte Tier | 2,00 | 1,50 |  |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit Steinen oder Hölzern, Leuchten mit tageslichtähnlichem Spektrum und lokale Wärmestrahlung: UV-Strahler; geräumiges Badebecken, in Teilbereichen Bodenheizung mit Oberflächentemperaturen von 25°C |
+|---|---|
+| Bodengrund: | Sand |
+| Temperatur: | 24° bis 30° C im Strahlungsbereich bis 35 °C |
+| Beleuchtungsdauer: | 10 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 80% |
+| Bodenfeuchtigkeit: | Ein Viertel des Bodens muss stets feucht sein |
+|  |  |
+
+Besondere Hinweise: Je nach Herkunft können bei guter Versteckmöglichkeit Nachtabsenkungen der Temperatur bis 20° angebracht sein.
+
+**3.2.24. Varanus gouldi (Goulds Waran)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 50 cm | 0,60 | 0,80 | 0,30 |
+| jedes adulte Tier | 2,00 | 1,50 |  |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Raumstrukturen mit steinen und Hölzern bei guter Verankerung; Leuchten mit tageslichtähnlichem Spektrum und lokaler Wärmestrahlung; UV-Strahler Trinkbecken |
+|---|---|
+| Bodengrund: | Sand |
+| Temperatur: | 24° bis 30°; im Strahlungsbereich bis 35°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 50 bis 70 % |
+| Bodenfeuchtigkeit: | Boden muss 15 Minuten nach täglichem leichtem Sprühen wieder trocken sein |
+|  |  |
+
+**4. Mindestanforderungen an die Haltung von Chamäleons**
+
+**4. 1. Allgemeine Haltungsbedingungen**
+
+(1) Die nachfolgenden Empfehlungen gelten für die Pflege erwachsener Tiere. Sie sind sinngemäß für die Aufzucht junger Tiere anzuwenden, deren Ansprüche jedoch deutlich abweichen können.
+
+(2) Chamäleons sind für einen „Einstieg“ in die Reptilienhaltung nicht geeignet.
+
+(3) Für die meisten Arten sind Tagestemperaturen zwischen 20°C und 30°C erforderlich. Sehr wichtig ist für zahlreiche Chamäleon-Arten eine starke Nachtabsenkung um 5°C bis 8°C. Ruhephasen verbunden mit Lichtentzug und Temperaturabsenkung sind bei einigen Arten Voraussetzung für eine Reproduktion. Für viele Arten ist lokale Strahlungswärme erforderlich.
+
+(4) Einige Arten von Chamäleons reagieren sehr empfindlich auf die sich leicht in einem Terrarium bildende „stehende“ Luft. Dabei handelt es sich meist um ostafrikanische Hochlandarten oder um südafrikanische Arten. Sie benötigen ständig „Frischluft“ und werden deshalb am günstigsten in Drahtkäfigen oder in Terrarien mit großen Lüftungsflächen gepflegt. Ausreichende Frischluft ist in einem Terrarium vorhanden, wenn etwa zwei Stunden nach Überbrausen des gesamten Terrariums die Feuchtigkeit nahezu vollständig verdunstet ist.
+
+(5) Die meisten Chamäleons sind Einzelgänger. Dem muss auch bei der Pflege Rechnung getragen werden. Nur wenige Arten können dauerhaft in Paarhaltung verbleiben. Die Verträglichkeit der Tiere untereinander ist unter Aufsicht zu testen.
+
+(6) Die Versorgung der Chamäleons mit ausreichend Wasser ist schwierig. Die Terrarien sollten täglich einmal mit Wasser überbraust werden und Tiere ab einer Gesamtlänge von 20 cm mindestens einmal wöchentlich Wasser aus der Pipette erhalten. Alternativ können Chamäleons auch täglich aus der Pipette getränkt werden.
+
+**4.2. Spezielle Haltungsbedingungen**
+
+**4.2.1. Furcifer lateralis (Teppichchamäleon)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 8 cm | 0,05 | 0,50 | 0,05 |
+| 1-2 Tiere, 8-15 cm | 0,10 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,60 | 0,80 | entfällt |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | mehrere verzweigte Kletteräste; robuste Pflanzen; Strukturen, die den Tieren Sichtschutz voreinander geben; kleines Wasserbecken bzw. Tropftränke; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 22-30 ºC; lokal bis 33 ºC; nachts 20-22 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Temperatur um 4-6 ºC; da die Tiere sehr territorial sind, können Adulte und Jungtiere meist nur einzeln, in Ausnahmefällen auch paarweise gehalten werden; tränken mit Pipette; Multivitamin – Kalzium – Lösung
+
+**4.2.2. Chamaeleo (Terioceros) jacksonii (Dreihornchamäleon)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 10 cm | 0,10 | 0,50 | 0,05 |
+| 1-2 Tiere, 10-20 cm | 0,40 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,60 | 0,80 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | mehrere verzweigte Kletteräste; robuste Pflanzen, Strukturen, die den Tieren Sichtschutz voneinander geben kleines Wasserbecken bzw. Tropftränke; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 20-25 ºC; lokal bis 35 ºC; nachts 15-18 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 60-80 %; täglich sprühen |
+| Bodenfeuchtigkeit: | größeren Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Tagestemperatur um 6-8 °C mit Verringerung der Feuchtigkeit für ca. 2 Monate im Jahr
+
+**4.2.3. Chamaeleo (Trioceros) hoehnelii (Helmchamäleon)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 10 cm | 0,10 | 0,50 | 0,05 |
+| 1-2 Tiere, 10-20 cm | 0,40 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,60 | 0,80 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | gut belüftetes Becken mit mehrere verzweigte Kletteräste; robuste Pflanzen mit dichtem Blattwerk; kleines Wasserbecken bzw. Tropftränke; Lichtquelle, die in Form von einem oder mehreren nicht zu warmen Spots, UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 20-25 ºC; punktuell bis 30 ºC; nachts 5-15 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 60-80 %, nachts höher |
+| Bodenfeuchtigkeit: | größeren Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Tagestemperatur um 8-10 °C mit Verringerung der Feuchtigkeit für ca. zwei Monate im Jahr; diese Art kann in Gruppen gehalten werden, bei Auftreten von Territorialverhalten unterlegene Tiere aus dem Becken nehmen; die Haltung in normal temperierten Wohnräumen ist nicht zu empfehlen
+
+**4.2.4. Chamaeleo (Trioceros) montium (Bergchamäleon)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 10 cm | 0,10 | 0,50 | 0,05 |
+| 1-2 Tiere, 10-20 cm | 0,40 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,60 | 0,80 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | mehrere verzweigte Kletteräste; robuste Pflanzen; Strukturen, die den Tieren Sichtschutz voreinander geben; kleines Wasserbecken bzw. Tropftränke; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde, mindestens 5-10 cm hoch, da sich die Tiere manchmal eingraben |
+| Temperatur: | tagsüber 24-27 ºC; lokal bis 35 ºC; nachts 15-18 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 60-80 %, täglich, mehrmals sprühen |
+| Bodenfeuchtigkeit: | größeren Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Von September bis November Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Tagestemperatur um 6-8 °C; von Dezember bis Februar Herabsetzung der Feuchtigkeit bei normaler Temperatur; da die Tiere territorial sind, können Adulte und Jungtiere meist nur einzeln, in Ausnahmefällen auch paarweise gehalten werden.
+
+**4.2.5. Chamaeleo (Terioceros) quadricornis (Vierhornchamäleon)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 10 cm | 0,10 | 0,50 | 0,05 |
+| 1-2 Tiere, 10-20 cm | 0,40 | 0,60 | 0,10 |
+| 1-2 adulte Tiere | 0,60 | 0,80 | 0,20 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | mehrere verzweigte Kletteräste; robuste Pflanzen, Strukturen, die den Tieren Sichtschutz voneinander geben kleines Wasserbecken bzw. Tropftränke; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 20-25 ºC; lokal bis 33 ºC; nachts 10-15 ºC |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 60-80 %; täglich möglichst mehrmals sprühen |
+| Bodenfeuchtigkeit: | größeren Teil des Bodengrundes permanent feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Tagestemperatur um 6-8 °C mit Verringerung der Feuchtigkeit für ca. 2 Monate im Jahr; die Haltung in normal temperierten Wohnräumen ist nicht zu empfehlen; da die Tiere territorial sind, können Adulte und Jungtiere meist nur einzeln, in Ausnahmefällen auch paarweise gehalten werden
+
+**4.2.6. Chamaeleo calyptratus (Yemen-Chamaeleon)**
+
+<u>Terrarium/Mindestmaße</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 10 cm | 0,10 | 0,50 | 0,05 |
+| 1-2 Tiere, 10-20 cm | 0,40 | 0,60 | 0,10 |
+| 1-2 Tiere, 20-35 cm | 0,60 | 0,80 | 0,20 |
+| 1-2 adulte Tiere | 0,80 | 1,00 | 0,40 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | mehrere verzweigte Kletteräste; robuste Pflanzen; kleines Wasserbecken bzw. Tropftränke; Lichtquelle, die gleichzeitig die notwendige Wärme produziert; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tags 22-32 °C; lokal bis 35 °C; nachts 20-22 °C |
+| Beleuchtungsdauer: | täglich 12-14 Stunden; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 50-70 % |
+| Bodenfeuchtigkeit: | ein Viertel des Bodengrundes permanent etwas feucht halten |
+|  |  |
+
+Besondere Hinweise: Winter: Verkürzung der Beleuchtungsdauer um 2-3 Stunden und Absenkung der Temperatur um 4-6 ºC; nicht mehr als ein adultes Männchen je Terrarium halten, da die Tiere territorial sind; tränken mit Pipette; Multivitamin-Kalzium-Lösung
+
+**4.2.7. Rhampholeum spectrum (Blattchamäleon)**
+
+<u>Terrarium/Mindestmaße:</u>
+
+| **Anzahl und Größe der Tiere** | **Grundfläche m²** | **Höhe m** | **zusätzliche Fläche für jedes weitere Tier m²** |
+|---|---|---|---|
+| 1-2 Tiere, bis 5 cm | 0,05 | 0,30 | 0,03 |
+| 1-2 Tiere, bis 7 cm | 0,10 | 0,40 | 0,05 |
+| 1-2 adulte Tiere | 0,15 | 0,40 | 0,07 |
+|  |  |  |  |
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | mehrere Zentimeter hoher Bodengrund, bedeckt mit welkem Laub; Rindenstücke als Verstecke; Strukturen zum Klettern vor allem in Bodennähe, in Form von Zweigen oder lebenden Pflanzen; Tropftränke, Bepflanzung; Tageslicht oder nicht zu starke Lichtquelle; UV-Strahler |
+|---|---|
+| Bodengrund: | Torf, Torf-Erde-Gemisch, Erde |
+| Temperatur: | tagsüber 25-28 ºC; nachts 18-21 ºC |
+| Beleuchtungsdauer: | täglich 12 Stunden; leichte UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | über 60 % |
+| Bodenfeuchtigkeit: | Bodengrund permanent leicht feucht halten |
+|  |  |
+
+Besondere Hinweise: Tiere können territorial sein, deshalb Vorsicht bei Haltung mehrerer Tiere in einem Terrarium; Tiere trinken Tropfen, deshalb täglich sprühen
+
+\*(Anm.: Punkt 4.2.8. aufgehoben durch BGBl. II Nr. 193/2924)*
+
+**5. Mindestanforderungen an die Haltung von Krokodilen**
+
+**5. 1. Allgemeine Haltungsbedingungen**
+
+(1) Die meisten Krokodile sind für die Haltung durch Privatpersonen nicht geeignet, da sie sehr groß werden und ein Alter von 40 bis über 100 Jahre erreichen. Das muss bei der Anschaffung berücksichtigt werden.
+
+(2) Das Gehege muss über einen großen Wasserteil als auch einen entsprechend großen Landteil verfügen.
+
+(3) Da die Tier zumindest zeitweilig auch gegen Artgenossen unverträglich sein können, muss bei der Pflege mehrerer Tiere eine Absperrmöglichkeit vorhanden sein.
+
+**5.2. Spezielle Haltungsbedingungen**
+
+**5.2.1. Paleosuchus palpebrosus (Brauen-Glattstirnkaiman)**
+
+<table>
+<tr>
+<td rowspan="2"><b>Größe der Tiere 1-2 Tiere</b></td>
+<td colspan="2"><b>Landteil</b></td>
+<td colspan="2"><b>Wasserteil</b></td>
+</tr>
+<tr>
+<td><b>m²</b></td>
+<td><b>Höhe/m</b></td>
+<td><b>m²</b></td>
+<td><b>Tiefe/cm</b></td>
+</tr>
+<tr>
+<td>bis 45 cm</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>25,00</td>
+</tr>
+<tr>
+<td>45-90 cm</td>
+<td>1,50</td>
+<td>1,50</td>
+<td>2,50</td>
+<td>40,00</td>
+</tr>
+<tr>
+<td>90-130 cm</td>
+<td>2,00</td>
+<td>1,50</td>
+<td>3,00</td>
+<td>60,00</td>
+</tr>
+<tr>
+<td>adulte Tiere</td>
+<td>3,00</td>
+<td>1,50</td>
+<td>6,00</td>
+<td>80,00</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | gut gesicherte großblättrige Pflanzen neben dem Wasserteil (Versteck- und Schattenspender); Wurzeln; Höhle (Versteckmöglichkeit) im Wasserteil; Heizung; UV-Strahler |
+|---|---|
+| Bodengrund: | Fliesen (rutschgesichert), Glas, Beton, Sand, Kies, Rinde |
+| Temperatur: | Bodenheizung lokal 28 °C; Lufttemperatur 25-27 °C; Wassertemperatur 26-28°C |
+| Beleuchtungsdauer: | täglich 8-12 Stunden; HQI-Lampe; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 60-80 % |
+|  |  |
+
+Besondere Hinweise: Verletzungsgefahr
+
+**5.2.2. Paleosuchus trigonatus (Keilkopf-Glattstirnkaiman)**
+
+<u>Terrarium/Mindestmaße</u>
+
+<table>
+<tr>
+<td rowspan="2"><b>Größe der Tiere 1-2 Tiere</b></td>
+<td colspan="2"><b>Landteil</b></td>
+<td colspan="2"><b>Wasserteil</b></td>
+</tr>
+<tr>
+<td><b>m²</b></td>
+<td><b>Höhe/m</b></td>
+<td><b>m²</b></td>
+<td><b>Tiefe/cm</b></td>
+</tr>
+<tr>
+<td>bis 45 cm</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>25,00</td>
+</tr>
+<tr>
+<td>45-90 cm</td>
+<td>1,50</td>
+<td>1,50</td>
+<td>2,50</td>
+<td>40,00</td>
+</tr>
+<tr>
+<td>90-130 cm</td>
+<td>2,00</td>
+<td>1,50</td>
+<td>3,00</td>
+<td>60,00</td>
+</tr>
+<tr>
+<td>adulte Tiere</td>
+<td>3,00</td>
+<td>1,50</td>
+<td>6,00</td>
+<td>80,00</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | gut gesicherte großblättrige Pflanzen neben dem Wasserteil (Versteck- und Schattenspender); Wurzeln; Höhle (Versteckmöglichkeit) im Wasserteil; Heizung; UV-Strahler |
+|---|---|
+| Bodengrund: | Fliesen (rutschgesichert), Glas, Beton, Sand, Kies, Rinde |
+| Temperatur: | Bodenheizung lokal 28 °C; Lufttemperatur 25-27 °C; Wassertemperatur 26-28°C |
+| Beleuchtungsdauer: | täglich 8-12 Stunden; HQI-Lampe; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 60-80 % |
+|  |  |
+
+Besondere Hinweise: Verletzungsgefahr
+
+**5.2.3. Osteolaemus tetraspis (Stumpfkrokodil)**
+
+<u>Terrarium/Mindestmaße</u>
+
+<table>
+<tr>
+<td rowspan="2"><b>Größe der Tiere 1-2 Tiere</b></td>
+<td colspan="2"><b>Landteil</b></td>
+<td colspan="2"><b>Wasserteil</b></td>
+</tr>
+<tr>
+<td><b>m²</b></td>
+<td><b>Höhe/m</b></td>
+<td><b>m²</b></td>
+<td><b>Tiefe/cm</b></td>
+</tr>
+<tr>
+<td>bis 45 cm</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>25,00</td>
+</tr>
+<tr>
+<td>45-90 cm</td>
+<td>1,50</td>
+<td>1,50</td>
+<td>2,50</td>
+<td>40,00</td>
+</tr>
+<tr>
+<td>90-130 cm</td>
+<td>2,00</td>
+<td>1,50</td>
+<td>3,00</td>
+<td>60,00</td>
+</tr>
+<tr>
+<td>adulte Tiere</td>
+<td>3,00</td>
+<td>1,50</td>
+<td>6,00</td>
+<td>80,00</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | gut gesicherte großblättrige Pflanzen neben dem Wasserteil (Versteck- und Schattenspender); Wurzeln; Höhle; Heizung; UV-Strahler |
+|---|---|
+| Bodengrund: | Fliesen (rutschgesichert), Glas, Beton, Sand, Kies, Rinde |
+| Temperatur: | Bodenheizung lokal 28 °C; Lufttemperatur 25-27 °C; Wassertemperatur 26-28°C |
+| Beleuchtungsdauer: | täglich 8-12 Stunden; HQI-Lampe; UV-Bestrahlung täglich |
+| Luftfeuchtigkeit: | 60-80 % |
+|  |  |
+
+Besondere Hinweise: Verletzungsgefahr
+
+**5.2.4. Alligator mississippiensis (Mississippi-Alligator)**
+
+<u>Terrarium/Mindestmaße</u>
+
+<table>
+<tr>
+<td rowspan="2"><b>Für 1-2 Tiere</b></td>
+<td colspan="2"><b>Landteil</b></td>
+<td colspan="2"><b>Wasserteil</b></td>
+</tr>
+<tr>
+<td><b>m²</b></td>
+<td><b>Höhe/m</b></td>
+<td><b>m²</b></td>
+<td><b>Tiefe/m</b></td>
+</tr>
+<tr>
+<td>adulte Tiere</td>
+<td>15 m²</td>
+<td>1,80</td>
+<td>20 m²</td>
+<td>1,20</td>
+</tr>
+<tr>
+<td>jedes weitere Tier</td>
+<td>5 m²</td>
+<td></td>
+<td>5 m²</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Landteil mit Strukturen als Sichtschutz; Liegeflächen mit Bodenheizung für Oberflächentemperaturen von 35 °C Leuchten mit tageslichtähnlichem Spektrum; UV-Strahler |
+|---|---|
+| Bodengrund: | Sand oder Kies |
+| Temperatur: | Luft 24° bis 30° C; Wasser 24° bis 26°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 80% |
+|  |  |
+
+Besondere Hinweise: Eine entsprechende Winterpause mit Temperaturabsenkung bis 18°C ist zu empfehlen.
+
+**5.2.5. Crocodylus niloticus (Nilkrokodil)**
+
+<u>Terrarium/Mindestmaße</u>
+
+<table>
+<tr>
+<td rowspan="2"><b>Größe</b></td>
+<td colspan="2"><b>Landteil</b></td>
+<td colspan="2"><b>Wasserteil</b></td>
+</tr>
+<tr>
+<td><b>m²</b></td>
+<td><b>Höhe/m</b></td>
+<td><b>m²</b></td>
+<td><b>Tiefe/m</b></td>
+</tr>
+<tr>
+<td>adulte Tiere</td>
+<td>15 m²</td>
+<td>1,80</td>
+<td>20 m²</td>
+<td>1,20</td>
+</tr>
+<tr>
+<td>jedes weitere Tier</td>
+<td>5 m²</td>
+<td></td>
+<td>5 m²</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Landteil mit Strukturen als Sichtschutz; Bodenheizung in Liegeflächen mit Oberflächentemperaturen von 35°C; Leuchten mit tageslichtähnlichem Spektrum; UV-Strahler |
+|---|---|
+| Bodengrund: | Sand oder Kies |
+| Temperatur: | Luft 24° bis 30°C; Wasser 24° bis 26°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 80 % |
+|  |  |
+
+**5.2.6. Crocodylus moreleti (Beulenkrokodil)**
+
+<u>Terrarium/Mindestmaße</u>
+
+<table>
+<tr>
+<td rowspan="2"><b>Größe</b></td>
+<td colspan="2"><b>Landteil</b></td>
+<td colspan="2"><b>Wasserteil</b></td>
+</tr>
+<tr>
+<td><b>m²</b></td>
+<td><b>Höhe/m</b></td>
+<td><b>m²</b></td>
+<td><b>Tiefe/m</b></td>
+</tr>
+<tr>
+<td>adulte Tiere</td>
+<td>12 m²</td>
+<td>1,50</td>
+<td>15 m²</td>
+<td>0,80</td>
+</tr>
+<tr>
+<td>jedes weitere Tier</td>
+<td>3 m²</td>
+<td></td>
+<td>3 m²</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Landteil mit Raumstrukturen als Sichtschutz; Liegeflächen mit Bodenheizung für Oberflächentemperaturen von 35°C Leuchten mit tageslichtähnlichem Spektrum, UV-Strahler |
+|---|---|
+| Bodengrund: | Sand oder Kies, in der Fortpflanzungszeit Laubeinstreu |
+| Temperatur: | Luft 24° bis 30° C; Wasser 24° bis 26°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 80% |
+|  |  |
+
+**5.2.7. Caiman crocodilus (Krokodilkaiman)**
+
+<u>Terrarium/Mindestmaße</u>
+
+<table>
+<tr>
+<td rowspan="2"><b>Größe</b></td>
+<td colspan="2"><b>Landteil</b></td>
+<td colspan="2"><b>Wasserteil</b></td>
+</tr>
+<tr>
+<td><b>m²</b></td>
+<td><b>Höhe/m</b></td>
+<td><b>m²</b></td>
+<td><b>Tiefe/m</b></td>
+</tr>
+<tr>
+<td>adulte Tiere</td>
+<td>12 m²</td>
+<td>1,80</td>
+<td>15 m²</td>
+<td>1,00</td>
+</tr>
+<tr>
+<td>jedes weitere Tier</td>
+<td>3 m²</td>
+<td></td>
+<td>3 m²</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<u>Terrarium/Ausstattung</u>
+
+| Einrichtung: | Landteil mit Raumstrukturen als Sichtschutz; Liegeflächen mit Oberflächentemperaturen von 35°C; Leuchten mit tageslichtähnlichem Spektrum; UV-Strahler |
+|---|---|
+| Bodengrund: | Sand oder Kies |
+| Temperatur: | Luft 26° bis 30°C; Wasser 25° bis 28°C |
+| Beleuchtungsdauer: | 12 bis 14 Stunden |
+| Luftfeuchtigkeit: | 60 bis 80 % |
+|  |  |
+
+## Mindestanforderungen an die Haltung von Amphibien
+
+### Anlage 4
+
+**1. Mindestanforderungen für die Haltung von Schwanzlurchen**
+
+(1) Aufgrund der meist amphibischen Lebensweise der Schwanzlurche sind drei Grundtypen von Gehegen definiert und der gehaltenen Tierart entsprechend auszuwählen:
+
+1\. Das Aquarium für rein aquatile Arten.
+
+2\. Das Aquaterrarium, das je nach Art in unterschiedlichem Verhältnis Landteil und Wasserteil beinhaltet.
+
+3\. Das Terrarium für rein terrestrische Arten...
+
+(2) Eine Vielzahl an Arten ist auch saisonal abwechselnd im Aquarium und im Terrarium zu halten.
+
+(3) Die Gehege müssen ausbruchsicher konstruiert sein.
+
+(4) Aufgrund des eingeschränkten Bewegungsbedürfnisses von Schwanzlurchen im Landhabitat sind Gehege mit geringen Grundflächen als Mindestanforderung anzuerkennen. Artspezifisch kann dieses Bewegungsbedürfnis im Wasserhabitat deutlich größer sein und ist entsprechend zu berücksichtigen.
+
+(5) Die Mindestflächen gelten für zwei erwachsene Tiere für die Dauerhaltung. Jedes weitere Tier erfordert eine Erweiterung der Mindestgrundfläche um 25%. Abweichungen von diesen Mindestmaßen sind für Gehege zur Quarantäne, Nachzucht und Aufzucht zulässig.
+
+<table>
+<tr>
+<td><b>Gesamtlänge der Tiere</b></td>
+<td><b>Mindestgrundfläche in m</b><sup>2</sup></td>
+<td><b>Wassertiefe in cm</b></td>
+</tr>
+<tr>
+<td><b>bis 10 cm</b></td>
+<td>0.1 m<sup>2</sup></td>
+<td rowspan="3">Mindestens 1 x bis höchstens 3 x Gesamtlänge des Tieres</td>
+</tr>
+<tr>
+<td><b>bis 20 cm</b></td>
+<td>0,4 m<sup>2</sup></td>
+</tr>
+<tr>
+<td><b>bis 30 cm</b></td>
+<td>0,9 m<sup>2</sup></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+(6) Besondere Mindestmaße gelten für:
+
+1\. Der Schlammteufel (Cryptobranchus alleganiensis) benötigt ein Aquarium mit der Grundfläche von 1,5 m x 0,8 m bei einer Wassertiefe von nicht über 40 cm für ein Paar.
+
+2\. Ein Aquarium für je zwei Aalmolche (Amphiuma means) oder Armmolche (Siren lacertina und Siren intermedia) muss mindestens 1,5 m x 0,8 m Grundfläche bei einem Wasserstand von nicht mehr als 20 cm aufweisen. Für jedes weitere Tier sind 25% der Grundfläche zu bemessen.
+
+3\. Ein Aquarium für je einen Riesensalamander der Gattung Andrias spec. muss mindestens 2 m x 1 m Grundfläche aufweisen. Der Schwimmraum ist durch eine Vielzahl verhältnismäßig enger Röhren und Kammern zu gliedern.
+
+(7) Schwanzlurchen sind Temperaturen anzubieten, die den jahreszeitlichen und täglichen Verläufen im natürlichen Habitat entsprechen. Hibernierenden Arten ist eine Überwinterungstemperatur zwischen 3° und 6°C anzubieten. Arten, die eine Sommerruhe einhalten, ist eine entsprechende Temperatur zusammen mit relativer Trockenheit zu bieten.
+
+(8) Den landlebenden und den saisonal landlebenden Arten ist im Gehege sowohl ein Gradient an Bodenfeuchtigkeit wie auch an Luftfeuchtigkeit zu gewähren.
+
+(9) Direktes Sonnenlicht ist zu vermeiden. Für einen jahreszeitlichen Tag-Nacht-Wechsel ist zu sorgen. Höhlenbewohner müssen, abgesehen von unbedingt nötigen Wartungsarbeiten, in ständiger Dunkelheit gehalten werden.
+
+(10) Die Ernährung ist den artspezifischen Bedürfnissen entsprechend vorzunehmen. Sie sollte in erster Linie aus lebenden Beutetieren bestehen. Gezüchtete Futtertiere müssen selbst von hoher Ernährungsqualität sein. Larven sollten mehrmals täglich und Jungtiere mindestens einmal täglich gefüttert werden; ein permanentes Futterangebot ist anzustreben. Adulte Tiere sind ein bis zweimal pro Woche zu füttern, wenn die Aktivität der Tiere dies erfordert.
+
+(11) Die Haut von Schwanzlurchen ist empfindlich. Auf ein hohes Maß von Hygiene in den Behältern ist zu achten. Insbesondere sollte die Bodenreaktion für den Großteil der Arten aus gemäßigten Zonen im basisch reagierenden Bereich gehalten werden. Die Wasserqualität bei den meisten aquatilen und saisonal aquatilen Arten muss ebenso im leicht basischen Bereich gehalten werden. Auf den hohen Sauerstoffgehalt sowie die Bevorzugung leicht basischer Verhältnisse durch die meisten Arten ist zu achten.
+
+**2. Mindestanforderungen für die Haltung von Froschlurchen**
+
+**2.1. Allgemeiner Teil**
+
+(1) Für die speziellen Anforderungen und Haltungsbedingungen der Froschlurche ist für viele Arten im speziellen Teil eine Artenliste aufgeführt, welche die in der Terraristik häufigsten und handelsrelevanten Arten mit Grundbedingungen der Haltung beinhaltet.
+
+(2) Die Gehege müssen ausbruchsicher konstruiert sein.
+
+(3) Die Gehege sind als folgende Größentypen (GTyp) definiert:
+
+1\. Gtyp 1: für 2 größere Dendrobatiden oder 1 kleineren Lauerjäger knapp über 3 cm KRL mit einer Mindestfläche von 1200 cm<sup>2</sup> und einer Mindesthöhe von 35 cm. Je weiterem Tier der jeweiligen Art sind zusätzlich 200 cm<sup>2</sup> bereitzustellen.
+
+2\. Gtyp 2: für 3 kleinere Dendrobatiden oder 3 kleinere Kletterfroschlurche unter 3 cm KRL mit einer Mindestfläche von 750 cm<sup>2</sup> und einer Mindesthöhe von 40 cm. Je weiterem Tier sind zusätzlich 200 cm<sup>2</sup> Fläche bereitzustellen.
+
+3\. Gtyp 3: für einen größeren Lauerjäger mit KRL bis 15 cm mit einer Mindestfläche von 2500 cm<sup>2</sup> und einer Mindesthöhe von 40 cm. Je weiterem Tier sind zusätzlich 1000 cm<sup>2</sup> Fläche bereitzustellen.
+
+4\. Gtyp 4: für 2 größere Kletterfroschlurche bis 15 cm KRL mit einer Mindestfläche von 1600 cm<sup>2</sup> und einer Mindesthöhe von 60 cm. Je weiterem Tier sind zusätzlich 500 cm<sup>2</sup> Fläche und 10 cm Höhe bereitzustellen.
+
+1\. Gtyp 5: für 3 semiaquatile Froschlurche bis 8 cm KRL mit einer Mindestfläche von 1500 cm<sup>2</sup> und einer Mindesthöhe von 50 cm mit 2/3 der Fläche als Wasserteil. Je weiterem Tier sind zusätzlich 300 cm<sup>2</sup> Fläche bereitzustellen.
+
+6\. Gtyp 6: Aquarium für 3 kleinere rein aquatile Froschlurche bis 6 cm KRL mit einer Mindestfläche von 1250 cm<sup>2</sup> und einem Mindestwasserstand von 25 cm. Je weiterem Tier sind zusätzlich 300 cm<sup>2</sup> Fläche bereitzustellen.
+
+7\. Gtyp 7: Aquarium für 2 große rein aquatile Froschlurche bis 18 cm KRL mit einer Mindestfläche von 3200 cm<sup>2</sup> und einem Mindestwasserstand von 40 cm. Je weiterem Tier ist eine zusätzliche Fläche von 500 cm <sup>2</sup> bereitzustellen.
+
+8\. Gtyp 8: für 2 große oder stark territoriale Froschlurche bis 25 cm KRL mit einer Mindestfläche von 1 m<sup>2</sup> und einer Mindesthöhe von 70 cm. Je weiterem Tier ist eine zusätzliche Fläche von 2500 cm<sup>2</sup> bereitzustellen.
+
+(4) Für Froschlurche sind in der artspezifischen Haltung Temperatur und Luftfeuchte untrennbare Klimafaktoren und daher einzuhalten. Entsprechend den ökologischen Grundbedingungen der Heimatgebiete werden die Gehege in Ökotypen (Ötyp) eingeteilt. Alle Gehege sind mit einem Bodengrund, der im Landbereich aus nicht faulendem Material wie Sand, Kies, Tongranulat, Torf oder Kokosfasern besteht, auszustatten. Im Wasserteil kann – wenn es die hygienischen Bedingungen zulassen – gewaschener Sand oder Kies verwendet werden, sonst ist von einem Bodengrund abzusehen. Alle Gehege mit Landbereichen sind –sofern keine saisonal benötigte Trockenphase eingehalten werden muss – täglich zweimal mit dem Lebensraum der Tierart entsprechendem Wasser zu übersprühen. Die Typen werden im einzelnen in der Artentabelle wie folgt benannt:
+
+1\. Ötyp 1: Tropischer Regenwald, relative Luftfeuchte 70% bis 100%, Temperatur 20°C bis 30°C.
+
+2\. Ötyp 2: Nebelwald, relative Luftfeuchte 80% bis 100%, Temperatur 15°C bis 25°C.
+
+3\. Ötyp 3: Savanne mit saisonal wechselnder Regenzeit und Trockenzeit und entsprechenden relativen Luftfeuchten von 70% bis 100% oder 50% bis 80% und Temperaturen zwischen 20°C und 35°C.
+
+4\. Ötyp 4: Steppe, mäßig feucht bis trocken, relative Luftfeuchte von 40% bis 80%, Temperaturen von 15°C bis 35°C für tropische Arten, Temperaturen von 4°C bis 30°C für Arten aus gemäßigten Zonen. Wichtig: Tag-Nacht-Differenz der Temperaturen 8°c bis 10°C. Mindesttemperatur darf nicht unterschritten werden.
+
+5\. Ötyp 5: Aquaterrarium (Teich-, See- oder Flussufer), großes Wasserteil mit Landfläche mit Trockenplätzen unter Punktstrahlern, relative Luftfeuchte von 60% bis 100%, Temperaturen für tropische Arten von 20°C bis 30°C, für Arten aus gemäßigten Zonen von 4°C bis 25°C.
+
+6\. Ötyp 6: Aquarium für rein aquatile Arten (nur tropisch), Temperaturen von 20°C bis 30°C.
+
+(5) Erwachsene Froschlurche sind Beutegreifer und es ist ausschließlich lebende Nahrung in Form von Würmern, Schnecken, Kleinkrebsen, Spinnen, Insekten und deren Larven art- und lebensraumspezifisch anzubieten. Gezüchtete Futtertiere bedürfen einer Ergänzung mit Mineralien und Vitaminen. Kaulquappen sind entsprechend ihren Nahrungsansprüchen zu ernähren. Larven und Jungtiere sind täglich, erwachsene Tiere je nach Größe zwei- bis dreimal pro Woche zu füttern.
+
+(6) Die Schleimhaut der Froschlurche ist äußerst empfindlich. Entsprechend ist auf die notwendige Luftfeuchte sowie durch das laufende entfernen von Kot und Futterresten auf maximale Sauberkeit zu achten. Die Wasserqualität bei aquatilen, saisonal aquatilen und semiaquatilen Froschlurchen muss derjenigen, bei der Haltung durchschnittlicher Süßwasserzierfische entsprechen.
+
+**2.2. Spezieller Teil**
+
+(1) In den folgenden Tabellen sind die handels- und haltungsrelevanten Arten mit den dazugehörenden Gehegetypen bezüglich Größe und Struktur (GTyp), notwendiger ökologischer Faktoren (ÖTyp), der durchschnittlichen Kopf-Rumpf-Länge (KRL), den artspezifischen Temperaturbereichen in Grad Celsius (T°C) und der optimalen artspezifischen relativen Luftfeuchte (rF) aufgelistet.
+
+(2) Die Beurteilung anderer Arten ist im Einzelfall und nur nach entsprechendem Literaturstudium vorzunehmen.
+
+(3) Bei der Aufzucht, beim Züchter, der Winterruhe sowie der Therapie von Krankheiten und Parasitosen ist es zeitlich begrenzt zulässig, kleinere Terrarien als solche, die den in der nachfolgenden Tabelle aufgelisteten Kriterien entsprechen, zu verwenden.
+
+| **Name** | **GTyp** | **ÖTyp** | **KRL (cm)** | **Temp**<br>**(°C)** | **rF (%)** | **Bemerkungen** |
+|---|---|---|---|---|---|---|
+| Agalychnis callidryas | 4 | 3 | 8 | 22-30 | 85 |  |
+| Alytes obstetricans | 1 | 4 | 5,5 | 5-25 | 70 | Überwinterung |
+| Atelopus varius | 1 | 2 | 5 | 15-25 | 80 |  |
+| Atelopus flavescens | 1 | 1 | 5 | 20-30 | 80 |  |
+| Bombina bombina | 5 | 5 | 5 | 5-28 | 80 | Überwinterung |
+| Bombina maxima | 5 | 5 | 8 | 5-28 | 80 | Winterruhe |
+| Bombina orientalis | 5 | 5 | 6 | 5-28 | 80 | (Überwinterung) |
+| Bombina variegata | 5 | 5 | 5 | 5-28 | 80 | Überwinterung |
+| Bufo bufo | 2 | 4 | 11 | 5-25 | 70 | Überwinterung |
+| Bufo blombergi | 8 | 1 | 25 | 20-30 | 80 |  |
+| Bufo calamita | 1 | 4 | 8 | 5-25 | 70 | Überwinterung |
+| Bufo marinus | 10 | 1 | 25 | 20-30 | 80 |  |
+| Bufo regularis | 1 | 1 | 10 | 20-30 | 80 |  |
+| Bufo typhonius | 1 | 1 | 8 | 20-30 | 80 |  |
+| Bufo viridis | 1 | 4 | 9,5 | 5-25 | 70 | Überwinterung |
+| Bufo mauritanicus | 3 | 4 | 12 | 15-28 | 60 |  |
+| Ceratophrys ornata | 3 | 1 | 14 | 23-30 | 80 |  |
+| Ceratophrys calcarata | 3 | 1 | 15 | 23-30 | 80 |  |
+| Chiromantis rufescens | 3 | 1 | 9 | 25-35 | 70 |  |
+| Colostethus talamancae | 1 | 1 | 2,5 | 20-30 | 80 |  |
+| Colostethus trinitatis | 1 | 1 | 3,5 | 20-30 | 80 |  |
+| Colostethus inguinalis | 1 | 1 | 3,5 | 20-30 | 80 |  |
+| Colostethus nubicola | 1 | 1 | 2 | 20-30 | 80 |  |
+| Dendrobates auratus | 1 | 1 | 4 | 22-30 | 85 |  |
+| Dendrobates azureus | 1 | 1 | 5 | 22-30 | 85 |  |
+| Dendrobates fantasticus | 2 | 1 | 2,5 | 20-30 | 85 |  |
+| Dendrobates galactonotus | 1 | 1 | 5 | 20-30 | 85 |  |
+| Dendrobates granuliferus | 2 | 1 | 2,5 | 22-35 | 85 |  |
+| Dendrobates histrionicus | 1 | 2 | 3,5 | 22-25 | 85 |  |
+| Dendrobates imitator | 2 | 1 | 2,5 | 20-30 | 85 |  |
+| Dendrobates lamasi | 2 | 1 | 2,2 | 20-30 | 85 |  |
+| Dendrobates lehmanni | 1 | 2 | 4 | 18-25 | 85 |  |
+| Dendrobates leucomelas | 1 | 1 | 4 | 20-30 | 85 |  |
+| Dendrobates pumilio | 2 | 1 | 2,5 | 22-33 | 85 |  |
+| Dendr. quinquevittatus | 2 | 1 | 2,2 | 22-30 | 85 |  |
+| Dendrobates reticulates | 2 | 1 | 2 | 22-30 | 85 |  |
+| Dendrobates silverstonei | 1 | 1 | 5 | 18-28 | 80 |  |
+| Dendrobates tinctorius | 1 | 1 | 6 | 22-30 | 85 |  |
+| Dendrobates truncates | 1 | 1 | 4 | 22-30 | 85 | extrem variable Art |
+| Dendrobates variabilis | 2 | 1 | 2,2 | 22-30 | 80 |  |
+| Discophus antongilli | 1 | 1 | 9 | 22-30 | 85 |  |
+| Epipedobates tricolor | 2 | 1 | 2,5 | 18-30 | 80 |  |
+| Epipedobates trivittatus | 1 | 1 | 5 | 22-30 | 85 |  |
+| Gastrotheca peruana | 1 | 2 | 6 | 5-22 | 80 | Wärmeempfindlich |
+| Gastrotheca marsupiata | 1 | 2 | 6 | 5-22 | 80 | Wärmeempfindlich |
+| Gastrotheca riobambae | 1 | 1 | 8 | 10-30 | 80 |  |
+| Hyla arborea | 2 | 4 | 6 | 5-30 | 70 | Überwinterung |
+| Hyla meridionalis | 2 | 4 | 6 | 10-30 | 70 | (Überwinterung) |
+| Hyla crucifer | 2 | 4 | 3,5 | 10-30 | 70 |  |
+| Hyla graciosa | 2 | 4 | 6 | 22-30 | 80 |  |
+| Hyla regilla | 2 | 4 | 5 | 20-30 | 80 |  |
+| Hyla ebraccata | 4 | 1 | 3,5 | 20-30 | 80 |  |
+| Hyla versicolor | 4 | 4 | 6 | 22-33 | 70 |  |
+| Hymenochirus boettgeri | 6 | 6 | 6 | 20-30 | 70 |  |
+| Hymenochirus curtipes | 6 | 6 | 6 | 20-30 | 70 |  |
+| Hyperolius marmoratus | 2 | 3 | 4 | 20-35 | 70 |  |
+| Kaloula pulchra | 1 | 1 | 8 | 22-30 | 80 |  |
+| Kassina senegalensis | 1 | 3 | 5 | 20-30 | 80 |  |
+| Litoria caerulea | 4 | 3 | 13 | 22-30 | 70 |  |
+| Litoria infrafrenata | 4 | 3 | 15 | 22-30 | 70 |  |
+| Mantella aurantiaca | 2 | 2 | 2,5 | 18-28 | 80 |  |
+| Mantella viridis | 2 | 4 | 3 | 18-28 | 80 |  |
+| Mantella madagascariensis | 2 | 2 | 2,5 | 18-28 | 80 |  |
+| Mantella cowani | 2 | 2 | 2,5 | 17-25 | 80 |  |
+| Megophrys nasuta | 1 | 1 | 5 | 20-30 | 80 |  |
+| Melanophryniscus stelzneri | 2 | 1 | 2,5 | 20-30 | 70 |  |
+| Pelobates fuscus | 1 | 4 | 8 | 5-27 | 70 | Überwinterung |
+| Phyllobates aurotaenia | 1 | 1 | 4 | 22-30 | 85 |  |
+| Phyllobates bassleri | 1 | 1 | 4 | 22-30 | 80 |  |
+| Phyllobates bicolor | 1 | 1 | 4 | 22-30 | 85 |  |
+| Phyllobates lugubris | 2 | 1 | 3 | 22-30 | 85 |  |
+| Phyllobates terribilis | 1 | 1 | 5 | 22-30 | 85 |  |
+| Phyllobates vittatus | 1 | 1 | 3,5 | 22-30 | 85 |  |
+| Phyllomedusa lemur | 8 | 3 | 5 | 20-35 | 70 | Sonnenplatz<br>Keine Nässe ! |
+| Phyllomedusa bicolor | 8 | 3 | 14 | 20-35 | 70 | Sonnenplatz<br>Keine Nässe ! |
+| Phrynohyas venulosa | 4 | 1 | 14 | 20-30 | 80 |  |
+| Phrynohyas resinifictrix | 4 | 1 | 8 | 20-30 | 80 |  |
+| Phrynomantis bifasciatus | 1 | 3 | 8 | 20-30 | 70 |  |
+| Pipa pipa | 7 | 6 | 20 | 20-30 | -- |  |
+| Pipa carvalhoi | 6 | 6 | 6 | 20-30 | -- |  |
+| Polypedates leucomystax | 2 | 3 | 7 | 20-35 | 70 |  |
+| Pyxicephalus adspersus | 8 | 3 | 25 | 23-30 | 80 |  |
+| Rana erythraea | 1 | 5 | 8 | 15-28 | 80 |  |
+| Rana pipiens | 3 | 5 | 8 | 20-28 | 80 |  |
+| Rana temporaria | 3 | 4 | 9 | 5-25 | 70 | Überwinterung |
+| Rana arvalis | 3 | 4 | 6,5 | 5-25 | 70 | Überwinterung |
+| Rana dalmatina | 8 | 4 | 8 | 5-25 | 70 | Überwinterung |
+| Rana ridibunda | 8 | 5 | 14 | 5-30 | 80 | Überwinterung |
+| Rana lessonae | 8 | 5 | 6,5 | 5-30 | 80 | Überwinterung |
+| Rana esculenta | 8 | 5 | 9 | 5-30 | 80 | Überwinterung |
+| Smilisca baudini | 4 | 3 | 8 | 22-30 | 85 |  |
+| Smilisca phaeota | 4 | 3 | 6 | 22-30 | 85 |  |
+| Xenopus laevis | 7 | 6 | 10 | 20-30 | -- |  |
+|  |  |  |  |  |  |  |
+
+## Mindestanforderungen an die Haltung von Fischen
+
+### Anlage 5
+
+**1. Mindestanforderungen für die Haltung von Süßwasserfischen**
+
+**1.1. Allgemeine Anforderungen an das Halten von Süßwasserfischen**
+
+(1) Die angegebenen Wasserwerte sind Grenzen, innerhalb derer Fische dauerhaft gepflegt werden müssen. Zur Zucht oder zur Zuchtvorbereitung sind Abweichungen zulässig.
+
+(2) Die Temperaturangaben in dieser Anlage sind Grenzwerte, zwischen denen die jeweiligen Arten gehalten werden müssen. Die Temperaturbereiche dürfen kurzfristig, höchstens bis zu 24 Stunden über- oder unterschritten werden. Aus technischen Gründen sind mittlere Werte anzustreben.
+
+(3) Die Härte des Wassers wird in Grad deutscher Gesamthärte (°dGH) ermittelt. Die Bedürfnisse handelsrelevanter Arten lassen sich in zwei Bereiche, Härtebereich I: &lt; 15°dGH und Härtebereich II: 15°dGH bis 30°dGH, gliedern. Diese Werte dürfen um höchstens 3°dGH über- oder unterschritten werden. Für die dauerhafte Pflege ist ein mittlerer Wert anzustreben. Die Fische werden in der Tabelle einem dieser zwei Härtebereiche zugeordnet. Einzelne Arten tolerieren den gesamten Härtebereich. Steht extrem weiches (kalkfreies) Wasser als Ausgangswasser zur Verfügung muss eine Mindesthärte von 4-5°dGH eingerichtet werden.
+
+(4) Die Einhaltung des pH-Wertes sorgt für Übereinstimmung mit den Verhältnissen im Heimatgewässer und ist für das Wohlbefinden der Fische unabdingbar. Aus der Praxis der Aquaristik werden in der Tabelle unter Punkt 1.2. drei Teilbereiche zugeordnet:
+
+Bereich I: pH 5,0 bis pH 7,0
+
+Bereich II: pH 6,0 bis pH 8,0
+
+Bereich III: pH 7,0 bis pH 9,0
+
+Mögliche erweiterte Toleranzbereiche sind in der Tabelle eingearbeitet. Für die dauerhafte Pflege sind Mittelwerte anzustreben.
+
+(5) Enthält das Ausgangswasser Chlor, Schmermetalle, Nitratund/oder Phosphationen, ist dies beim Wasserwechsel zu berücksichtigen. Ammoniak/Ammonium und Nitrit darf nicht nachweisbar sein. In einem Aquarium darf der Nitratwert 50 mg/l nicht überschreiten.
+
+(6) Durch Tageslicht oder beleuchtungstechnische Einrichtungen ist für einen eindeutigen Tag-Nacht-Wechsel zu sorgen. Eine Ausnahme bilden streng an Höhlen gebundene Arten.
+
+(7) Die Angabe der Aquariengröße ist ein Näherungswert. Der Allgemeinzustand der Fische und des Aquariums mit Versteckmöglichkeiten, Bepflanzung, Vergesellschaftung und Besatzdichte sind maßgebend für die Beurteilung des Wohlbefindens der Tiere. Die in der Anlage angeführten Angaben zur Aquariengröße sind Mindestmaße für adulte Tiere. Jungfische müssen in Aquarien der gleichen Größe wie Adulte gehalten werden. Süßwasserrochen, Knochenzüngler und Großwelse sowie andere Arten mit einer Endgröße von über 40 cm sind in Aquarien mit mindestens vier Quadratmeter Grundfläche für zwei Tiere zu halten. Jedem weiteren Tier muss ein Quadratmeter mehr zur Verfügung gestellt werden. Bei der Haltung von Kaltwasserzierfischen wie Koi, Goldfisch und Goldorfe muss die Länge der Haltungseinheit (Teich, Aquarium) mindestens das zehnfache und ihre Tiefe mindestens das dreifache der Gesamtkörperlänge des größten Fisches betragen. Dabei ist von der Gesamtkörperlänge, welche die betreffenden Fischarten im ausgewachsenen Zustand erreichen können, auszugehen.
+
+(8) Die Angaben in der Tabelle unter Punkt 1.2. beziehen sich auf die Kantenlänge in cm von handelsüblichen Aquariengrößen (Länge x Breite x Höhe):
+
+60 cm = 60 cm x 30 cm x 30 cm (54 Liter (l))
+
+80 cm = 80 cm x 35 cm x 40 cm (112 l)
+
+100 cm = 100 cm x 40 cm x 50 cm (200 l)
+
+120 cm = 120 cm x 40 cm x 50 cm (240 l)
+
+150 cm = 150 cm x 50 cm x 50 cm ( 375 l )
+
+(9) Je größer das Wasservolumen eines Aquariums ist, desto stabiler ist die Wasserqualität. Eine dauerhafte Haltung auch kleiner Arten in Aquarien unter 54 Liter ist verboten. Zur Zuchtvorbereitung, Zucht, bei Ausstellungen von Einzeltieren oder Paaren und bei Wettbewerben sind geringere Beckenmaße zulässig.
+
+(10) Die Einrichtung der Aquarien hat sich an den ökologischen Bedürfnissen der zu pflegenden Arten zu orientieren. Zu den wichtigsten Mindestausstattungen gehören:
+
+1\. Bedarfsgemäßer freier Schwimmraum
+
+2\. Technische Geräte zur Sicherung des Sauerstoffgehaltes und der Wasserqualität (Filter, Heizung, Pumpe)
+
+3\. Bodengrund ( Sand, Kies, Steine)
+
+4\. Bedarfsgemäße Versteckplätze und Deckungmöglichkeiten
+
+5\. Bepflanzung, soweit die Fressgewohnheiten der Fische dieses zulassen
+
+(11) Verbindliche Angaben zur Besatzdichte sind aufgrund vieler Variablen nicht möglich. Alter, spezifischen Aktivitätsphasen, das Zahlenverhältnis der Geschlechter wie auch das Verhältnis der Einrichtungsgegenstände zur Grundfläche des Aquariums sind von Bedeutung. Ein kleineres aber gut strukturiertes Aquarium ist für eine höhere Besatzdichte günstiger als ein größeres aber weitgehend leeres Aquarium.
+
+(12) Jede Fischart in einem Aquarium muss ihrer natürlichen Sozialstruktur entsprechend gehalten werden. Dem unter Punkt 1.2. genannten „Sozialverhalten“ sind folgende Kategorien zugeordnet:
+
+1\. Schwarm: Fische die sich in einer größeren Gemeinschaft von Artgenossen in ihrem Lebensraum bewegen. Daraus ergibt sich eine Mindestzahl von 10 Tieren dieser Art.
+
+2\. Gesellig: Fische, die auch von anderen Fischen begleitet werden sollen um ihr arttypisches Verhalten zu zeigen. Neben anderen Fischen sind mindesten fünf Tiere dieser Art zusammen zu halten.
+
+3\. Harem: Ein Männchen darf nur mit mehreren Weibchen gehalten werden.
+
+4\. Paar: Fische, die zumindest während der Fortpflanzungzeit eine feste Paarbindung eingehen.
+
+5\. Einzelgänger: Fische von Arten mit dauerhaft hoher Territorialität.
+
+(13) Das Wohlbefinden von Aquarienfischen ist regelmäßig zu kontrollieren.
+
+(14) Plötzliche Veränderungen der Wasserqualität sind zu vermeiden. Neu einzusetzenden Fische müssen langsam an die neue Wasserqualität angeglichen werden.
+
+(15) In Abhängigkeit der Kontrolle der Wasserparameter ist ein regelmäßiger Teilwasserwechsel vorzunehmen, auch wenn die Schadstoffbelastung die Obergrenze noch nicht erreicht hat. Die Temperatur ist täglich, der pH-Wert, Härte und Nitratwert sind mindestens 14-tägig zu kontrollieren. Neueingerichtete Aquarien sind in den ersten sechs Wochen täglich auf Nitrit zu kontrollieren.
+
+(16) Die in der Tabelle aufgeführten Fischarten sind weitgehend Allesfresser. Als Futter steht eine breite Palette an fertig- und Frostfuttersorten im Handel zur Verfügung. Regelmäßige und abwechslungsreiche Lebendfütterung ist zur Vermeidung von Mangelerscheinungen und Bewegungsarmut vorzunehmen.
+
+(17) Jungfische sind täglich zu füttern. Es darf nur so viel gefüttert werden, wie sofort gefressen wird. Ausgewachsene Tiere vermögen ein bis zwei Tage auf Futter verzichten. Regelmäßige Fastentage bei erwachsenen Fischen sind empfehlenswert.
+
+**1.2. Haltungskriterien (Aquariengrößen) handelsrelevanter Arten von Süßwasserfischen**
+
+<table>
+<tr>
+<td colspan="3" rowspan="2"><b>Arten</b></td>
+<td colspan="5"><b>Härte 1)</b></td>
+<td colspan="4" rowspan="2"><b>Temp</b><br><b>°C</b></td>
+<td colspan="8"><b>ph-Wert</b><br><b>2)</b></td>
+<td colspan="2" rowspan="2"><b>Bemerkungen</b></td>
+<td rowspan="2"><b>Sozial- verhalten</b></td>
+<td colspan="2" rowspan="2"><b>Aquarien-größe</b></td>
+</tr>
+<tr>
+<td colspan="3"><b>I</b></td>
+<td colspan="2"><b>II</b></td>
+<td colspan="4"><b>I</b></td>
+<td colspan="2"><b>II</b></td>
+<td colspan="2"><b>III</b></td>
+</tr>
+<tr>
+<td colspan="25"><b>O. CHARACIFORMES (Salmlerartige)</b></td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Alestidae</b></td>
+</tr>
+<tr>
+<td colspan="3">Arnoldichthys<br>spilopterus<br>(Afrik.<br>Großschuppen-salmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">23-28</td>
+<td colspan="2"></td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">Brycinus longipinnis<br>(Langflossensalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">22-28</td>
+<td colspan="2"></td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">Phenogrammus<br>interruptus<br>(Kongosalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">23-28</td>
+<td colspan="2"></td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Characidae (Echte Amerik. Salmler)</b></td>
+</tr>
+<tr>
+<td colspan="3">Aphyocharax<br>anisitsi<br>(Rotflossensalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">20-26</td>
+<td colspan="2"></td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Gymnocorymbus<br>ternetzi<br>(Trauermantel-salmler)</td>
+<td colspan="4">X)</td>
+<td colspan="3">X)</td>
+<td colspan="4">18-28</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Hasemania nana (Kupfermantel-salmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">22-28</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Hemigrammus caudovittatus (Rautenflecksalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3">X</td>
+<td colspan="4">18-28</td>
+<td colspan="2">X</td>
+<td colspan="3">X</td>
+<td></td>
+<td>Frisst Pflanzen</td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">H. erythrozonus (Glühlichtsalmler)</td>
+<td colspan="4">X)</td>
+<td colspan="3"></td>
+<td colspan="4">23-29</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">H. ocellifer (Schlußlichtsalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">23-29</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">H. pulcher (Karfunkelsalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">23-29</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">H. rhodostomus (Rotmaulsalmler)</td>
+<td colspan="4">X)</td>
+<td colspan="3"></td>
+<td colspan="4">23-29</td>
+<td colspan="2">X</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Hyphessobrycon bentosi<br>(Schmucksalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">23-29</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">H. callistus (Blutsalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">18-29</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td>Aggressivität</td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">H. erythrostigma (Kirschflecksalmler)</td>
+<td colspan="4">X)</td>
+<td colspan="3"></td>
+<td colspan="4">23-28</td>
+<td colspan="2">X</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">H. flammeus<br>(Roter von Rio)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">20-28</td>
+<td colspan="2">X</td>
+<td colspan="3">X</td>
+<td></td>
+<td>Bis 25°dGH</td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">H. herbertaxelrodi (Schwarzer Neon)</td>
+<td colspan="4">X)</td>
+<td colspan="3"></td>
+<td colspan="4">23-28</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">H. pulchripinnis (Zitronensalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">23-28</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td>Bis 25°dGH</td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Inpaichthys kerri (Königssalmler)</td>
+<td colspan="4">X)</td>
+<td colspan="3"></td>
+<td colspan="4">23-28</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Megalamphodus megalopterus (Schwarzer Phantomsalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">22-29</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">M. sweglesi<br>(Roter Phantomsalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">22-29</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Moenkhausia pittieri (Brilliantsalmler)</td>
+<td colspan="4">X)</td>
+<td colspan="3"></td>
+<td colspan="4">22-29</td>
+<td colspan="2">X</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">M. sanctaefilomenae (Rotaugen-Moenkhausia)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">20-28</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td></td>
+<td>Bis 25°dGH</td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Nematobrycon palmeri<br>(Kaisertetra)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">22 29</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Paracheirodon axelrodi<br>(Roter Neon)</td>
+<td colspan="4">X)</td>
+<td colspan="3"></td>
+<td colspan="4">24-30</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">P. innesi<br>(Neonsalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">20-28</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Petitella georgiae<br>(Rotkopfsalmler)</td>
+<td colspan="4">X)</td>
+<td colspan="3"></td>
+<td colspan="4">22-29</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Pristella maxillaris<br>(Sternflecksalmler)</td>
+<td colspan="4">X</td>
+<td colspan="3">X)</td>
+<td colspan="4">22-29</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Thayeria boehlkei<br>(Schrägschwimmer)</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="4">22-29</td>
+<td colspan="2"></td>
+<td colspan="3">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Gasteropelecidae (Beilbauchfische)</b></td>
+</tr>
+<tr>
+<td colspan="3">Carnegiella strigata<br>(Marmorierter Beilbauchfisch)</td>
+<td colspan="4">X)</td>
+<td></td>
+<td colspan="4">23-30</td>
+<td colspan="3">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td>Aquarium-abdeckung</td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Gasteropelecus sternicla<br>(Silberbeilbauch-fisch)</td>
+<td colspan="4">X)</td>
+<td></td>
+<td colspan="4">23-29</td>
+<td colspan="3">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td>Aquarium-abdeckung</td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Thoracocharax securis<br>(Platinbeilbauch)</td>
+<td colspan="4">X)</td>
+<td></td>
+<td colspan="4">23-30</td>
+<td colspan="3">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td>Aquarium-abdeckung</td>
+<td colspan="3">Gesellig</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Lebiasinidae (Schlanksalmler)</b></td>
+</tr>
+<tr>
+<td colspan="3">Nannostomus eques<br>(Spitzmaul-Ziersalmler)</td>
+<td colspan="4">X)</td>
+<td></td>
+<td colspan="4">23-30</td>
+<td colspan="3">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">N. beckfordi<br>(Längsbinden-Ziersalmler)</td>
+<td colspan="4">X</td>
+<td></td>
+<td colspan="4">23-30</td>
+<td colspan="3">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">N. marginatus<br>(Zwerg-Ziersalmler)</td>
+<td colspan="4">X)</td>
+<td></td>
+<td colspan="4">23-30</td>
+<td colspan="3">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="25"><b>O. CYPRINIFORMES (Karpfenartige)</b></td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Cobitidae (Schmerlen, Dorngrundeln)</b></td>
+</tr>
+<tr>
+<td colspan="3">Acanthopsis sp.<br>(Pferdekopf-schmerle)</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td colspan="4">23-28</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3"></td>
+<td>Feiner Kies (Sand) als Boden</td>
+<td colspan="3">Gesellig</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">Botia macracanthus<br>(Prachtschmerle)</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td colspan="4">23-28</td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td colspan="3"></td>
+<td>Aggressiv!</td>
+<td colspan="3">Gesellig</td>
+<td>150</td>
+</tr>
+<tr>
+<td colspan="3">Pangio spp.<br>(Dornaugen)</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td colspan="4">23-28</td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td colspan="3"></td>
+<td>Feiner Kies (Sand) als Boden</td>
+<td colspan="3">Schwarm</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Gyrinocheilidae (Algenfresser)</b></td>
+</tr>
+<tr>
+<td colspan="3">Gyrinocheilus<br>aymonieri<br>(Siames. Saugschmerle)</td>
+<td colspan="3">X</td>
+<td colspan="2">X)</td>
+<td colspan="4">22-28</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3"></td>
+<td>Pflanzliche Kost, im Alter revierbildend</td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Cyprinidae (Karpfenfische)</b></td>
+</tr>
+<tr>
+<td colspan="3">Balantiocheilus<br>melanopterus<br>(Haibarbe)</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="4">22-28</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td>Größe!<br>Schwimm-bedürfnis</td>
+<td colspan="3">Gesellig</td>
+<td>&gt;150</td>
+</tr>
+<tr>
+<td colspan="3">Brachydanio<br>albolineatus<br>(Schillerbärbling)</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="4">20-30</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">B. frankei<br>(Leopardbärbling)</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="4">18-28</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">B. rerio<br>X</td>
+<td colspan="3">X)</td>
+<td colspan="3"></td>
+<td colspan="4">18-28</td>
+<td colspan="2">X</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Crossocheilus spp.<br>(Algenfresser)</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="4">22-28</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td>Pflanzliche Kost</td>
+<td colspan="3">Gesellig</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">Danio aequipinnatus<br>(Malabarbärbling)</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="4">20-28</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">Epalzeorhynchus<br>bicolor<br>(Feuerschwanz)</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="4">22-28</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td>Revierbildend, nur bedingt geeignet als Aquarienfisch</td>
+<td colspan="3">Einzelgänger im Alter</td>
+<td>120</td>
+</tr>
+<tr>
+<td colspan="3">E. kallopterus<br>(Schönflossenbarbe)</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="4">24-28</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td>Revierbildend,</td>
+<td colspan="3">Einzelgänger</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">E. frenatus<br>(Grüner Fransenlipper)</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="4">22-28</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>120</td>
+</tr>
+<tr>
+<td colspan="3">Puntius conchonius<br>(Prachtbarbe)</td>
+<td colspan="3">X</td>
+<td colspan="3">X</td>
+<td colspan="4">18-30</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">P. nigrofasciatus<br>(Purpurkopfbarbe)</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="4">20-27</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">P. „schuberti“<br>(Messingbarbe)</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="4">18-27</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">P. tetrazona<br>(Sumatrabarbe)</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="4">21-28</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td>Nicht mit langflossigen Fischen vergesell-schaften</td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">P. ticto<br>(Odessa-, Rubinbarbe)</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="4">16-26</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">P. titteya<br>(Bitterlingsbarbe)</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="4">22-29</td>
+<td colspan="2"></td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Rasbora heteromorpha<br>(Keilfleckbarbe)</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="4">24-29</td>
+<td colspan="2">X</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Tanichthys albonubes<br>(Kardinalfisch)</td>
+<td colspan="3">X</td>
+<td colspan="3">X</td>
+<td colspan="4">16-30</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="25"><b>O. SILURIFORMES (Welsartige)</b></td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Aridae (Kreuzwelse)</b></td>
+</tr>
+<tr>
+<td colspan="3">Arius seemanni<br>(Minihai)</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="4">22-26</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td>Nicht geeignet als Aquarienfisch! Geschlechts-reife Tiere müssen in Meerwasser gehalten werden</td>
+<td colspan="3"></td>
+<td>&gt;150</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Aspredinidae (Bratpfannenwelse)</b></td>
+</tr>
+<tr>
+<td colspan="3">Dysichthys bicolor<br>(Zweif. Bratpfannenwels)</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td colspan="4">22-27</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td>feiner Kies (Sand) als Boden</td>
+<td colspan="3"></td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Callichthyidae (Schwielenwelse)</b></td>
+</tr>
+<tr>
+<td colspan="3">Callichthys callichthys<br>(Schwielenwels)</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="3">18-28</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>120</td>
+</tr>
+<tr>
+<td colspan="3">Corydoras aeneus<br>(Metallpanzerwels)</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="3">20-30</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">C. paleatus<br>(Marmorierter Panzerwels)</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="3">18-30</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">C. trilineatus<br>(i. d. R. verkauft als C. julii)</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="3">22-30</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam.: Loricariidae (Horniswelse)</b></td>
+</tr>
+<tr>
+<td>Ancistrus spp.<br>(Antennenwels)</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td colspan="4">18-30</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td>Pflanzliche Kost und Wurzeln</td>
+<td colspan="3"></td>
+<td>80</td>
+</tr>
+<tr>
+<td>Farlowella acus<br>(Nadelwels)</td>
+<td colspan="4">X)</td>
+<td colspan="4"></td>
+<td colspan="4">24-27</td>
+<td colspan="2">X</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Pflanzliche Kost und Wurzeln</td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Glyptopterichthys<br>gibbiceps<br>(Wabenschilder-wels)</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td colspan="4">22-30</td>
+<td colspan="2">X</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td>Größe!</td>
+<td colspan="3"></td>
+<td>150</td>
+</tr>
+<tr>
+<td>Hoplosternum thoracatum<br>(Gemalter Panzerwels)</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td colspan="4">22-30</td>
+<td colspan="2">X</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>120</td>
+</tr>
+<tr>
+<td>Hypostomus punctatus<br>(Punktierter Schilderwels)</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td colspan="4">22-30</td>
+<td colspan="2">X</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td>Pflanzliche Kost und Wurzeln</td>
+<td colspan="3"></td>
+<td>120</td>
+</tr>
+<tr>
+<td>Otocinclus affinis<br>(Kleiner Saugwels)</td>
+<td colspan="4">X</td>
+<td colspan="4"></td>
+<td colspan="4">22-30</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td>Pflanzliche Kost und Wurzeln</td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Panaque nigrolineatus<br>(Rotaugen-Panaque)</td>
+<td colspan="4">X</td>
+<td colspan="4"></td>
+<td colspan="4">22-30</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td>Pflanzliche Kost und Wurzeln; Größe!</td>
+<td colspan="3"></td>
+<td>120</td>
+</tr>
+<tr>
+<td>Peckoltia vittata<br>(Gebänderter Schilderwels)</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td colspan="4">22-28</td>
+<td colspan="2">X</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td>Pflanzliche Kost und Wurzeln</td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Rineloricaria lanceolata<br>(Lanzenharnisch-wels)</td>
+<td colspan="4">X</td>
+<td colspan="4"></td>
+<td colspan="4">22-30</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td>Pflanzliche Kost und Wurzeln</td>
+<td colspan="3"></td>
+<td>80</td>
+</tr>
+<tr>
+<td>Sturisoma aureum<br>(Goldbartwels)</td>
+<td colspan="4">X)</td>
+<td colspan="4"></td>
+<td colspan="4">22-30</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td>Pflanzliche Kost und Wurzeln</td>
+<td colspan="3"></td>
+<td>120</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Mochocidae (Fiederbartwelse)</b></td>
+</tr>
+<tr>
+<td colspan="3">Synodontis nigriventris<br>(Rückenschw. Kongowels)</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td colspan="4">22-28</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Pangasiidae (Haiwelse)</b></td>
+</tr>
+<tr>
+<td colspan="3">Pangasius sutchi<br>(Haiwels)</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td colspan="4">22-27</td>
+<td colspan="3"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td>Nur bedingt geeignet als Aquarienfisch</td>
+<td colspan="3">Gesellig</td>
+<td>&gt;150</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Pimelodidae (Antennenwelse)</b></td>
+</tr>
+<tr>
+<td colspan="3">Pimelodus pictus<br>(Gemalter Antennenwels)</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td colspan="4">22-26</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Nur bedingt geeignet als Aquarienfisch</td>
+<td colspan="3"></td>
+<td>120</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Siluridae (echte Welse)</b></td>
+</tr>
+<tr>
+<td colspan="2">Kryptopterus bicirrhis<br>(Indischer Glaswels)</td>
+<td colspan="4">X)</td>
+<td colspan="2"></td>
+<td colspan="4">23-28</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Schwarm</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="25"><b>O. ATHERINIFORMES (Ährenfischartige)</b></td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Melanotaeniidae (Regenbogenfische)</b></td>
+</tr>
+<tr>
+<td colspan="3">Glossolepis inciscus<br>(Lachsroter Regenbogenfisch)</td>
+<td colspan="3">X</td>
+<td colspan="4">X)</td>
+<td colspan="4">22-28</td>
+<td colspan="2"></td>
+<td colspan="2">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">Melanotaenia boesemani<br>(Boesemans Regenbogenfisch)</td>
+<td colspan="3">X</td>
+<td colspan="4"></td>
+<td colspan="4">22-28</td>
+<td colspan="2">X</td>
+<td colspan="2">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">M. praecox<br>(Neon Regenbogenfisch)</td>
+<td colspan="3">X</td>
+<td colspan="4"></td>
+<td colspan="4">22-28</td>
+<td colspan="2">X</td>
+<td colspan="2">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Iriatherina werneri<br>(Filigranährenfisch)</td>
+<td colspan="3">X</td>
+<td colspan="4"></td>
+<td colspan="4">22-28</td>
+<td colspan="2">X</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="25"><b>O. CYPRINODONTIFORMES (Zahnkarpfen)</b></td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Cyprinodontidae (Eierlegende Zahnkarpfen)</b></td>
+</tr>
+<tr>
+<td colspan="2">Aphyosemion australe<br>(Kap Lopez)</td>
+<td colspan="4">X)</td>
+<td colspan="2"></td>
+<td colspan="4">21-26</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="2">Aphyosemion australe<br>(Kap Lopez)</td>
+<td colspan="4">X</td>
+<td colspan="2"></td>
+<td colspan="4">21-26</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="2">A. gardneri<br>(Blauer Prachtkärpfling)</td>
+<td colspan="4">X</td>
+<td colspan="2"></td>
+<td colspan="4">22-28</td>
+<td colspan="3"></td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="2">Aplocheilus lineatus<br>(Streifenhechtling)</td>
+<td colspan="4">X</td>
+<td colspan="2"></td>
+<td colspan="4">22-30</td>
+<td colspan="3"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="2">Epiplatys sexfasciatus<br>(Querbandhecht-ling)</td>
+<td colspan="4">X</td>
+<td colspan="2"></td>
+<td colspan="4">22-28</td>
+<td colspan="3"></td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Poeciliidae (lebendgeb Zahnkarpfen.)</b></td>
+</tr>
+<tr>
+<td>Poecilia reticulate<br>(Guppy)</td>
+<td colspan="3">X</td>
+<td colspan="4">X</td>
+<td colspan="4">20-30</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td>P. sphenops<br>(Black Molly, Zuchtform)</td>
+<td colspan="3">X</td>
+<td colspan="4">X</td>
+<td colspan="4">25-30</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3"></td>
+<td>60</td>
+</tr>
+<tr>
+<td>P. velifera<br>(Segelkärpfling)</td>
+<td colspan="3"></td>
+<td colspan="4">X</td>
+<td colspan="4">24-30</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">X)</td>
+<td></td>
+<td colspan="3"></td>
+<td>100</td>
+</tr>
+<tr>
+<td>Xiphophorus helleri<br>(Schwertträger)</td>
+<td colspan="3">X</td>
+<td colspan="4">X</td>
+<td colspan="4">22-28</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td>Männchen untereinander aggressiv</td>
+<td colspan="3"></td>
+<td>80</td>
+</tr>
+<tr>
+<td>X. maculatus<br>(Platys)</td>
+<td colspan="3">X</td>
+<td colspan="4">X</td>
+<td colspan="4">18-28</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td colspan="3"></td>
+<td>60</td>
+</tr>
+<tr>
+<td>X. variatus<br>(Pagaeienplaty, Zuchtform)</td>
+<td colspan="3">X</td>
+<td colspan="4">X)</td>
+<td colspan="4">22-28</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td></td>
+<td colspan="3"></td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="25"><b>O. PERCIFORMES (Barschartige Fische)</b></td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Belontiidae (Labyrinthfische)</b></td>
+</tr>
+<tr>
+<td colspan="3">Betta splendens<br>(Schleierkampffisch)</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="4">24-30</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td>Artspezifische Aggressivität *</td>
+<td colspan="3">Harem</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Colisa chuna<br>(Honiggurami)</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="4">24-30</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">C. labiosa<br>(Dicklippiger Fadenfisch)</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="4">24-30</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">C. lalia<br>(Zwergfadenfisch)</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="4">24-30</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Macropodus opercularis<br>(Makropode)</td>
+<td colspan="3">X</td>
+<td colspan="3">X</td>
+<td colspan="4">18-30</td>
+<td colspan="2"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Trichogaster<br>leerii<br>(Mosaikfadenfisch)</td>
+<td colspan="3">X</td>
+<td colspan="3"></td>
+<td colspan="4">24-30</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>120</td>
+</tr>
+<tr>
+<td colspan="3">T. trichopterus<br>(Blauer Fadenfisch)</td>
+<td colspan="3">X</td>
+<td colspan="3">X)</td>
+<td colspan="4">24-30</td>
+<td colspan="2">X</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td>120</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Helostomatidae (Küssende Guramis)</b></td>
+</tr>
+<tr>
+<td colspan="3">Helostoma temminckii<br>(Küssender Gurami)</td>
+<td colspan="2">X</td>
+<td colspan="3">X)</td>
+<td colspan="4">24-30</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3"></td>
+<td>Nur bedingt geeignet als Aquarienfisch</td>
+<td colspan="3"></td>
+<td>150</td>
+</tr>
+<tr>
+<td colspan="25"><b>Fam. Cichlidae (Buntbarsche) 3)</b></td>
+</tr>
+<tr>
+<td colspan="25"><b>Amerika</b></td>
+</tr>
+<tr>
+<td colspan="3">Aequidens pulcher<br>(Blaupunktbarsch)</td>
+<td colspan="4">X</td>
+<td></td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="4">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Paarweise</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">Apistogramma agassizii<br>(Agassiz‘ Zwergbuntbarsch)</td>
+<td colspan="4">X</td>
+<td></td>
+<td colspan="3">22-30</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Harem</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">A. borelli<br>(Borellis Zwergbuntbarsch)</td>
+<td colspan="4">X</td>
+<td></td>
+<td colspan="3">20-30</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Paarweise</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">A. cacatuoides<br>(Kakadu – Zwergbuntbarsch)</td>
+<td colspan="4">X</td>
+<td></td>
+<td colspan="3">22-30</td>
+<td colspan="4"></td>
+<td colspan="4">(X</td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">A. macmasteri<br>(Villavicencio Zwergbuntbarsch)</td>
+<td colspan="4">X)</td>
+<td></td>
+<td colspan="3">23-30</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Harem</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Archocentrus nigrofasciatus<br>(Zebrabuntbarsch)</td>
+<td colspan="4"></td>
+<td>X</td>
+<td colspan="3">20-30</td>
+<td colspan="4"></td>
+<td colspan="4">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Paarweise</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Dicrossus filamentosus<br>(Gabelschwanz- Schachbrettcichlide)</td>
+<td colspan="4">X)</td>
+<td></td>
+<td colspan="3">23-30</td>
+<td colspan="4">X</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="3">Paarweise</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Laetacara curviceps<br>(Tüpfelbuntbarsch)</td>
+<td colspan="4">X</td>
+<td></td>
+<td colspan="3">23-30</td>
+<td colspan="4">X</td>
+<td colspan="4">X</td>
+<td></td>
+<td></td>
+<td colspan="3">Paarweise</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Nannacara anomala<br>(Glänzender Zwergbuntbarsch)</td>
+<td colspan="4">X)</td>
+<td></td>
+<td colspan="3">23-30</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Harem</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Papiliochromis ramirezi<br>(Schmetterlings-buntbarsch)</td>
+<td colspan="4">X</td>
+<td></td>
+<td colspan="3">22-30</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Paarweise</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Pterophyllum scalare<br>(Segelflosser)</td>
+<td colspan="4">X</td>
+<td></td>
+<td colspan="3">24-30</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td>Zur Fortpflanzung in kleinere Becken</td>
+<td colspan="3">Gesellig</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">Symphysodon aequifasciatus<br>(Diskusbuntbarsch)</td>
+<td colspan="4">X)</td>
+<td></td>
+<td colspan="3">26-31</td>
+<td colspan="4">X</td>
+<td colspan="4"></td>
+<td></td>
+<td>Paarweise halten</td>
+<td colspan="3">Gesellig</td>
+<td>120</td>
+</tr>
+<tr>
+<td colspan="3">Thorichthys meeki<br>(Feuermaulbunt-barsch)</td>
+<td colspan="4">X</td>
+<td></td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="4">X)</td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="25"><b>Westafrika</b></td>
+</tr>
+<tr>
+<td colspan="3">Hemichromis spp. (Rote Cichlide)</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td colspan="3">23-30</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td>Aggressivität</td>
+<td colspan="3">Paarweise</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">Pelvicachromis pulcher<br>(Purpurprachtbunt-barsch)</td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td colspan="3">23-30</td>
+<td colspan="4">X</td>
+<td colspan="4">X)</td>
+<td></td>
+<td></td>
+<td colspan="3">Paarweise</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">P. taeniatus<br>(Smaragd – Prachtbuntbarsch)</td>
+<td colspan="3">X)</td>
+<td colspan="2"></td>
+<td colspan="3">23-30</td>
+<td colspan="4">X</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="3">Paarweise</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Steatocranus casuaris<br>(Buckelkopfbunt-barsch)</td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td colspan="3">23-30</td>
+<td colspan="4">X</td>
+<td colspan="4">X</td>
+<td></td>
+<td></td>
+<td colspan="3">Paarweise</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="25"><b>Ostafrika (Tanganjikasee) 4</b><sup>)</sup></td>
+</tr>
+<tr>
+<td colspan="3">Cyphotilapia frontosa<br>(Tanganjikabeulen-kopf)</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3">(X</td>
+<td>Größe!</td>
+<td colspan="3">Harem</td>
+<td>&gt;200</td>
+</tr>
+<tr>
+<td colspan="3">Julidochromis spp.<br>(Schlankcichliden)</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3">(X</td>
+<td></td>
+<td colspan="3">Paarweise</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Lamprologus ocellatus<br>(Kleiner Schneckenbuntbarsch)</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3">(X</td>
+<td>Leere Schnecken-häuser</td>
+<td colspan="3"></td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Neolamprologus brichardi<br>(Feenbarsch)</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3">(X</td>
+<td>Komplexe Sozialstruktur</td>
+<td colspan="3">Paarweise</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Neolamprologus leleupi<br>(Tanganjika – Goldcichlide)</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3">(X</td>
+<td></td>
+<td colspan="3"></td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Tropheus spp.<br>(Brabantbunt-barsche)</td>
+<td colspan="3"></td>
+<td colspan="2">X</td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3">(X</td>
+<td>Aufwuchs-fresser</td>
+<td colspan="3">Harem</td>
+<td>150</td>
+</tr>
+<tr>
+<td colspan="25"><b>Ostafrika (Malawisee) 4)</b></td>
+</tr>
+<tr>
+<td colspan="3">Aulonocara spp.<br>(Kaiserbuntbarsche)</td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3">(X</td>
+<td></td>
+<td colspan="3">Harem</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">„Haplochromis“ spp.<br>(Copadichromis sp., Nimbochromis sp.)</td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3">(X</td>
+<td></td>
+<td colspan="3">Harem</td>
+<td>120</td>
+</tr>
+<tr>
+<td colspan="3">Labidochromis caeruleus</td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3">(X</td>
+<td></td>
+<td colspan="3">Harem</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="3">Melanochromis auratus<br>(Türkisgoldbarsch)</td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3">(X</td>
+<td>Innerartliche Aggressivität</td>
+<td colspan="3">Harem</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">Pseudotropheus estherae<br>(Roter Zebrabuntbarsch)</td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td colspan="3">23-30</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3">(X</td>
+<td></td>
+<td colspan="3">Harem</td>
+<td>120</td>
+</tr>
+<tr>
+<td colspan="25"><b>Verschiedene Ordnungen und Familien</b></td>
+</tr>
+<tr>
+<td colspan="3">Brachygobius xanthozona<br>(Goldringelgrundel)</td>
+<td colspan="4"></td>
+<td>X</td>
+<td colspan="3">22-29</td>
+<td colspan="4"></td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Carassius auratus<br>(Goldfisch)</td>
+<td colspan="4">X</td>
+<td>X</td>
+<td colspan="3">4-30</td>
+<td colspan="4"></td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">Chanda ranga<br>(Indischer Glasbarsch)</td>
+<td colspan="4">X</td>
+<td></td>
+<td colspan="3">24-30</td>
+<td colspan="4"></td>
+<td colspan="3">X</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Gesellig</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="3">Cyprinus carpio<br>(Koi, Farbkarpfen)</td>
+<td colspan="4">X</td>
+<td>X</td>
+<td colspan="3">4-30</td>
+<td colspan="4"></td>
+<td colspan="3">(X</td>
+<td colspan="2">X</td>
+<td>Nur bedingt geeignet als Aquarienfisch Teichfisch!</td>
+<td colspan="3">Gesellig</td>
+<td>&gt;200</td>
+</tr>
+<tr>
+<td colspan="3">Gnathonemus petersi<br>(Elefantenrüssel-fisch)</td>
+<td colspan="4">X)</td>
+<td></td>
+<td colspan="3">24-30</td>
+<td colspan="4">X</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Nur bedingt geeignet als Aquarienfisch</td>
+<td colspan="3">Gesellig</td>
+<td>150</td>
+</tr>
+<tr>
+<td colspan="3">Leucaspius delineatus<br>(Moderlieschen)</td>
+<td colspan="4">X</td>
+<td>X</td>
+<td colspan="3">Win-ter<br>mind.<br>4 Som-<br>mer<br>max.<br>30</td>
+<td colspan="4"></td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td>Nur bedingt geeignet als Aquarienfisch</td>
+<td colspan="3">Schwarm</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">Leuciscus idus<br>(Goldorfe)</td>
+<td colspan="4">X</td>
+<td>X</td>
+<td colspan="3">4-30</td>
+<td colspan="4"></td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td>Nur bedingt geeignet als Aquarienfisch Teichfisch!</td>
+<td colspan="3">Schwarm</td>
+<td>&gt;200</td>
+</tr>
+<tr>
+<td colspan="3">Tetraodon nigroviridis<br>(Grüner Kugelfisch)</td>
+<td colspan="4"></td>
+<td>X</td>
+<td colspan="3">22-28</td>
+<td colspan="4"></td>
+<td colspan="3">X</td>
+<td colspan="2">X</td>
+<td>Aggressiv, Salzzusatz</td>
+<td colspan="3"></td>
+<td>120</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+**2. Mindestanforderungen für die Haltung von Meerwasserfischen**
+
+**2.1. Allgemeine Anforderungen an das Halten von Meerwasserfischen**
+
+(1) Die Wasserwerte für Meerwasseraquarien zeigen prinzipiell eine große Einheitlichkeit. Innerhalb der einzelnen Parameter sind jedoch Bereiche auszuweisen, die eine laufende Kontrolle erfordern.
+
+(2) Für tropische Meere liegt der Temperaturbereich zwischen 22°C und 28°C. Tiere aus dem Mittelmeer sind bei Temperaturen zwischen 14°C und 20°C zu halten. Diese Temperaturen dürfen nur kurzfristig und geringfügig über- oder unterschritten werden. Aus technischen Gründen sind Mittelwerte anzustreben.
+
+(3) Meersalzmischungen mit optimaler Zusammensetzung sind im Fachhandel erhältlich. Der Gesamtsalzgehalt unter Berücksichtigung der Temperaturkompensation ist laufend zu kontrollieren. Der Salzgehalt muss für die Salinität im Bereich zwischen 29,5°/oo bis 35°/oo, Mittelmeer höchstens 37°/oo, Rotes Meer höchstens 40°/oo, liegen. Es ist ein Mittelwert anzustreben, der mit einer Salinität von +/-0,5°/oo, nur geringfügig schwanken darf. Der Verdunstungsverlust ist mit Leitungswasser und bei mangelnder Qualität desselben mit entsalztem Wasser in möglichst kurzen Abständen auszugleichen.
+
+(4) Der mittlere pH-Wert des Wassers von pH 8,1 und pH 8,4 darf im Meerwasseraquarium nur unwesentlich, bis pH 7,9 oder bis pH 8,5, unter oder überschritten werden.
+
+(5) Eine Karbonathärte von 7°KH bis 9°KH darf nicht unterschritten werden. Die Haltung von Steinkorallen und anderen Kalkskelettorganismen erlaubt eine höhere Karbonathärte. Sie darf jedoch einen Wert von 14°KH nicht überschreiten.
+
+(6) Für den Stickstoff ist die Nachweisbarkeit von Ammoniak und Ammonium zu vermeiden. Nitrit darf in der ersten Einlaufphase von zwei Wochen nur in geringen Mengen bis höchstens 0,2 mg/l NO<sup>2</sup> nachweisbar sein. Der Nitratgehalt (NO<sup>3</sup>) darf 50 mg/l nicht überschreiten. Die Grenzwerte für die gleichzeitige Haltung von wirbellosen Tieren liegen für Nitrit bei 0,05 mg/l und für Nitrat bei 5 mg/l. Beim Einsatz von Denitrifikationsanlagen müssen die Phosphatwerte regelmäßig kontrolliert werden, da der Nitratwert als Maßstab für die Alterung des Wassers entfällt.
+
+(7) Phosphat, darf für Fische bis 0,5 mg/l toleriert werden.
+
+(8) Schwermetalle sind im Meerwasseraquarium strikt zu vermeiden. Der Einsatz von Schwermetallsalzen zur Therapie bei Parasitenbefall der Fische ist in separaten Aquarien vorzunehmen.
+
+(9) Die Simulation von. Gezeiten, Wellengang und Grundströmungen ist im Aquarium notwendig.
+
+(10) Ein tageszeitlicher Wechsel von Hell und Dunkel ist zu gewährleisten. Bei gleichzeitiger Haltung von Wirbellosen mit Zooxanthellen ist eine Lichtleistung hoher Quantität und Qualität, von zum Beispiel 10 000 Lux im Bereich der Korallen und eine Farbtemperatur von 5000°K oder darüber, zu erreichen. Fischarten mit Leuchtorganen oder strenge Höhlenbewohner sind in überwiegender Dunkelheit zu halten.
+
+(11) Für eine dauerhafte Haltung auch kleiner Fischarten ist ein Aquarium mit mindestens 200 Liter Rauminhalt (Länge 100 cm x Breite 50 cm x Höhe 40 cm) einzurichten. Zur Therapie und Aufzucht von Jungfischen bis zur stabilen Futteraufnahme dürfen die Mindestmaße vorübergehend unterschritten werden. Kleinere Aquarien sind nur stabil, wenn sie in direktem Zusammenhang mit Aquarien der Mindestgröße stehen.
+
+(12) Die Einrichtung der Meerwasseraquarien muss sich an den ökologischen Bedürfnissen der zu pflegenden Arten orientieren. Zu den wichtigsten Mindestausstattungen gehören:
+
+1\. Technische Geräte zur Sicherung der Wasserqualität wie Filter, Heizung, Kühlung, Pumpen und Abschäumer
+
+2\. Steinaufbauten entsprechend der notwendigen Riffstrukturen mit Versteck- Ruhe- und Deckungsmöglichkeiten
+
+3\. Bedarfsgemäßer freier Schwimmraum
+
+4\. Bodengrund in Form von kalkreichen aber schwermetallfreien Sänden, Kiese, Steine oder Meersand verschiedener Körnung.
+
+(13) Das Gleichgewicht zwischen Parasitenbefall und Fischgesundheit wird durch Fang-, Transport- und Anpassungsstress geschwächt. Ist ein ernsthaftes Krankheitsbild die Folge, sind entsprechende Therapiemaßnahmen einzuleiten.
+
+(14) Fische die mit Gift, meist Cyanide, gefangen wurden und schweren Stoffwechselstörungen unterliegen, sind nicht therapierbar.
+
+(15) Das Wohlbefinden der Fische ist aus dem Gesamtzustand des Aquariums und ihrem Verhalten zu beurteilen. Eine regelmäßige Kontrolle ebenso wie die der Wasserparameter ist unerlässlich. Plötzliche starke Veränderungen der Wasserqualität sind schädlich. Die regelmäßig notwendigen Teilwasserwechsel dürfen nur mit Wasser gleicher Qualität durchgeführt werden. Die technischen Geräte sowie die Temperatur sind täglich, die übrigen Wasserparameter sind 14-tägig zu kontrollieren. Neueingerichtete Aquarien sind in den ersten sechs Wochen täglich auf die Konzentration von Nitrit zu kontrollieren.
+
+(16) Einigen allesfressenden Arten stehen viele Nahrungsspezialisten gegenüber, die ihrem Futterbedarf entsprechend, möglichst vielseitig zu ernähren sind. Der Fachhandel stellt sowohl trockene Flocken- und Pelletfutter, sowie diverse tiefgefrorene oder lebende Nahrungsorganismen zur Verfügung.
+
+**2.2. Haltungskriterien (Aquariengrößen) handelsrelevanter Arten vonMeerwasserfischen**
+
+<table>
+<tr>
+<td><b>Familie</b></td>
+<td><b>Art</b></td>
+<td><b>Aquariengröße</b><br><b>Liter Wasser (l)</b></td>
+<td><b>Bemerkung</b></td>
+</tr>
+<tr>
+<td colspan="4"><b>Kl. KNORPELFISCHE (Chondrichthyes)</b></td>
+</tr>
+<tr>
+<td><b>F. Katzenhaie</b><br><b>(Scyliorhinidae)</b><br><b>F. Lippenhaie</b><br><b>(Hemiscylliidae)</b></td>
+<td>Arten bis 100 cm Länge</td>
+<td>ab 5 000 l</td>
+<td>1-2 Tiere jedes weitere Tier + 500 l</td>
+</tr>
+<tr>
+<td><b>F. Carcharhinidae</b></td>
+<td>Schwarzspitzenriffhai<br>(Carcharhinus<br>melanopterus)<br>Weissspitzenriffhai<br>(Triaenodin obesus)</td>
+<td>Ab 50 m<sup>2</sup> freie Schwimmfläche und einem Wasserstand von 2m. Für 1-2 Tiere; jedes weitere Tier +20 m<sup>2</sup></td>
+<td>Riffstrukturen dürfen Schwimmfläche nicht einengen. Intensive gezeitenähnliche Strömung</td>
+</tr>
+<tr>
+<td><b>F. Stachelrochen</b><br><b>(Dasyatidae)</b></td>
+<td>Blauflecken-<br>Stechrochen (Taeniura<br>lymna)</td>
+<td>ab 10 000 l<br>(min 5 m<sup>2</sup> Fläche)</td>
+<td>1-2 Tiere jedes weitere Tier + 1 m<sup>2</sup></td>
+</tr>
+<tr>
+<td colspan="4"><b>Kl. KNOCHENFISCHE (Teleostei)</b></td>
+</tr>
+<tr>
+<td><b>F. Muränen (Muraenidae)</b></td>
+<td rowspan="3">Arten bis 1 m Länge<br>darüber</td>
+<td rowspan="3">ab 1 000 l;<br>ab 5 000 l</td>
+<td>1-2 Tiere jedes weitere Tier + 20%</td>
+</tr>
+<tr>
+<td><b>F. Röhrenaale (Heterocongridae)</b></td>
+<td>Mind. 10 Tiere Tiefer Bodengrund</td>
+</tr>
+<tr>
+<td><b>F. Schlangenaale</b><br><b>(Ophichthyidae)</b></td>
+<td>1-2 Tiere Tiefer Bodengrund</td>
+</tr>
+<tr>
+<td><b>F. Eidechsenfische</b><br><b>(Synodontidae)</b></td>
+<td></td>
+<td>Ab 500 l</td>
+<td>1-3 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Korallenwelse</b><br><b>(Plotosidae)</b></td>
+<td>Kl. Korallenwels<br>(Plotosus lineatus)</td>
+<td>ab 1 000 l</td>
+<td>mindestens 20 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Fühlerfische (Antennariidae)</b></td>
+<td>Antennarius<br>commersoni</td>
+<td>ab 200 l<br>ab 500 l</td>
+<td>Mit Ausnahme von Antennarius commersoni</td>
+</tr>
+<tr>
+<td><b>F. Soldatenfische</b><br><b>(Holocentridae)</b></td>
+<td></td>
+<td>ab 1 000 l</td>
+<td>mindestens paarweise</td>
+</tr>
+<tr>
+<td><b>F. Flügelrossfische</b><br><b>(Pegasidae)</b></td>
+<td></td>
+<td>ab 200 l</td>
+<td>1-2 Tiere jedes weitere Tier + 20%</td>
+</tr>
+<tr>
+<td><b>F. Flötenfische</b><br><b>(Fistulariidae)</b></td>
+<td></td>
+<td>ab 5 000 l</td>
+<td>Mind. 10 Tiere Tiefer Bodengrund</td>
+</tr>
+<tr>
+<td><b>F. Trompetenfische</b><br><b>(Aulostomidae)</b></td>
+<td></td>
+<td>ab 1 000 l</td>
+<td>1-2 Tiere Tiefer Bodengrund</td>
+</tr>
+<tr>
+<td><b>F. Schnepfenmesser-fische</b><br><b>(Centriscidae)</b></td>
+<td></td>
+<td>ab 200 l</td>
+<td>1-2 Tiere jedes weitere Tier + 20%</td>
+</tr>
+<tr>
+<td><b>F. Geisterpfeifenfische</b><br><b>(Solenostomidae)</b></td>
+<td></td>
+<td>ab 200 l</td>
+<td>Mind. 10 Tiere Tiefer Bodengrund</td>
+</tr>
+<tr>
+<td><b>F. Pfeifenfische</b><br><b>(Syngnathidae)</b></td>
+<td>(Seepferdchen und Seenadeln)</td>
+<td>ab 200 l</td>
+<td>1-2 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Skorpionsfische</b><br><b>(Scorpaenidae)</b></td>
+<td></td>
+<td>ab 500 l</td>
+<td>1-2 Tiere jedes weitere Tier + 20%</td>
+</tr>
+<tr>
+<td><b>F. Sägebarsche</b><br><b>(Serranidae)</b></td>
+<td>Arten bis 30 cm<br>Arten bis 60 cm<br>Arten über 60 cm</td>
+<td>ab 1 000 l<br>ab 5 000 l<br>ab 10 000 l</td>
+<td>Mind. 10 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Fahnenbarsche</b><br><b>(Anthiinae)</b></td>
+<td></td>
+<td>ab 1 000 l</td>
+<td>Ab 10 Tiere oder Harem Tiefer Bodengrund</td>
+</tr>
+<tr>
+<td><b>F. Seifenbarsche</b><br><b>(Grammistinae)</b></td>
+<td></td>
+<td>ab 1 000 l</td>
+<td>1-2 Tiere jedes weitere Tier + 20%</td>
+</tr>
+<tr>
+<td><b>F. Zwergbarsche</b><br><b>(Pseudochromidae)</b></td>
+<td></td>
+<td>ab 500 l</td>
+<td>Mind. 10 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Mirakelbarsche</b><br><b>(Plesiopidae)</b></td>
+<td></td>
+<td>ab 500 l</td>
+<td>1-2 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Fahnenschwänze</b><br><b>(Kuhliidae)</b></td>
+<td></td>
+<td>ab 1 000 l</td>
+<td>1-2 Tiere jedes weitere Tier + 20%</td>
+</tr>
+<tr>
+<td><b>F. Tigerbarsche</b><br><b>(Teraponidae)</b></td>
+<td></td>
+<td>ab 1 000 l</td>
+<td>Mind. 10 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Großaugenbarsche</b><br><b>(Priacanthidae)</b></td>
+<td></td>
+<td>ab 1 000 l</td>
+<td>1-2 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Kardinalbarsche</b><br><b>(Apogonidae)</b></td>
+<td></td>
+<td>ab 500 l</td>
+<td>1-2 Tiere jedes weitere Tier + 20%</td>
+</tr>
+<tr>
+<td><b>F: Torpedobarsche</b><br><b>(Malacanthidae)</b></td>
+<td></td>
+<td>ab 500 l</td>
+<td>Mind. 10 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Süßlippen</b><br><b>(Haemulidae)</b></td>
+<td>Arten bis 30 cm größere Arten</td>
+<td>ab 5 000 l<br>ab 10 000 l</td>
+<td>1-2 Tiere Tiefer Bodengrund</td>
+</tr>
+<tr>
+<td><b>F. Schnapper</b><br><b>(Lutjanidae)</b></td>
+<td>Arten bis 30 cm<br>Arten bis 60 cm<br>größere Arten</td>
+<td>ab 1 000 l<br>ab 5 000 l<br>ab 10 000 l</td>
+<td>1-2 Tiere jedes weitere Tier + 20%</td>
+</tr>
+<tr>
+<td><b>F. Füsiliere</b><br><b>(Caesionidae)</b></td>
+<td></td>
+<td>ab 1 000 l</td>
+<td>Mind. 10 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Scheinschnapper</b><br><b>(Nemipteridae)</b></td>
+<td></td>
+<td>ab 1 000 l</td>
+<td>1-2 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Straßenkehrer</b><br><b>(Lethrinidae)</b></td>
+<td></td>
+<td>ab 20 000 l</td>
+<td>1-2 Tiere jedes weitere Tier + 20%</td>
+</tr>
+<tr>
+<td><b>F. Fledermausfische</b><br><b>(Ephippidae)</b></td>
+<td></td>
+<td>ab 10 000 l</td>
+<td>Mind. 10 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Flossenblätter</b><br><b>(Monodactylidae)</b></td>
+<td></td>
+<td>ab 1 000 l</td>
+<td>1-2 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Argusfische</b><br><b>(Scatophagidae)</b></td>
+<td></td>
+<td>ab 1 000 l</td>
+<td>1-10 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Meerbarben</b><br><b>(Mullidae)</b></td>
+<td>Arten bis 30 cm größere Arten</td>
+<td>ab 1 000 l<br>ab 5 000 l</td>
+<td>1-5 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Kaiserfische</b><br><b>(Pomacanthidae)</b></td>
+<td>Arten bis 25 cm<br>größere Arten<br>Zwergkaiser<br>(Centropyge spec.)</td>
+<td>ab 5 000 l<br>ab 10 000 l<br>ab 500 l</td>
+<td>Einzeln oder paarweise</td>
+</tr>
+<tr>
+<td><b>F. Falterfische</b><br><b>(Chaetodontidae)</b></td>
+<td></td>
+<td>ab 1 000 l</td>
+<td>1-5 Tiere jedes weitere Tier + 20%</td>
+</tr>
+<tr>
+<td><b>F. Büschelbarsche</b><br><b>(Cirrhithidae)</b></td>
+<td>Cirrhites pinnulatus</td>
+<td>ab 300 l<br>ab 1 000 l</td>
+<td>1-3 Tiere jedes weitere Tier + 20%</td>
+</tr>
+<tr>
+<td><b>F. Beilbauchfische</b><br><b>(Pempheridae)</b></td>
+<td>Parapriacanthus spec.</td>
+<td>ab 1 000 l<br>ab 500 l</td>
+<td>In Gruppen ab 5 Tieren</td>
+</tr>
+<tr>
+<td><b>F. Riffbarsche</b><br><b>(Pomacentridae)</b></td>
+<td>Abudefduf spec.</td>
+<td>ab 300 l<br>ab 1 000 l</td>
+<td>Gattung <i>Amphiprion</i> und Promnas immer paarweise mit Wirtsanemone</td>
+</tr>
+<tr>
+<td><b>F. Lippfische</b><br><b>(Labridae)</b></td>
+<td>Arten bis 10 cm Länge<br>Arten bis 20 cm Länge<br>Arten bis 50 cm Länge<br>Größere Arten Napoleon<br>(Cheilinus undulatus)</td>
+<td>ab 500 l<br>ab 1 000 l<br>ab 5 000 l<br>ab 10 000 l<br>ab 500 000 l</td>
+<td>Paarweise oder in Gruppen ab 5 Tieren</td>
+</tr>
+<tr>
+<td><b>F. Papageifische</b><br><b>(Scaridae)</b></td>
+<td>Arten bis 40 cm Länge<br>Arten bis 80 cm Länge</td>
+<td>ab 5 000 l<br>ab 10 000 l</td>
+<td>Einzeln oder paarweise</td>
+</tr>
+<tr>
+<td><b>F. Sandbarsche</b><br><b>(Pinguipedidae)</b></td>
+<td></td>
+<td>ab 200 l</td>
+<td>1-2 Tiere mit hoher Sandschicht</td>
+</tr>
+<tr>
+<td><b>F. Sandtaucher</b><br><b>(Trichonotidae)</b></td>
+<td></td>
+<td>ab 200 l</td>
+<td>1-2 Tiere mit hoher Sandschicht</td>
+</tr>
+<tr>
+<td><b>F. Kieferfische (Opistognathidae)</b></td>
+<td></td>
+<td>Ab 200 l</td>
+<td>1-2 Tiere mit hoher Sandschicht</td>
+</tr>
+<tr>
+<td><b>F. Schleimfische</b><br><b>(Bleniidae/tropisch)</b></td>
+<td></td>
+<td>ab 300 l</td>
+<td>Paarweise oder in Gruppen ab 5 Tieren</td>
+</tr>
+<tr>
+<td><b>F. Dreiflosser</b><br><b>(Tripterygiidae)</b></td>
+<td></td>
+<td>ab 300 l</td>
+<td>Paarweise oder in Gruppen ab 5 Tieren</td>
+</tr>
+<tr>
+<td><b>F. Leierfische</b><br><b>(Callionymidae/tropisch)</b></td>
+<td></td>
+<td>ab 300 l</td>
+<td>Paarweise</td>
+</tr>
+<tr>
+<td><b>F. Grundeln</b><br><b>(Gobiidae/tropisch)</b></td>
+<td></td>
+<td>ab 300 l</td>
+<td>1-5 Tiere</td>
+</tr>
+<tr>
+<td><b>F. Pfeilgrundeln</b><br><b>(Microdesmidae)</b></td>
+<td>Valencienna spec.</td>
+<td>ab 300 l<br>ab 1 000 l</td>
+<td>Paarweise ab 2 Paaren</td>
+</tr>
+<tr>
+<td><b>F. Doktorfische</b><br><b>(Acanthuridae) und</b><br><b>Kaninchenfische</b><br><b>(Siganidae)</b></td>
+<td>Arten bis 25 cm Länge<br>Arten bis 50 cm Länge<br>Größere Arten</td>
+<td>ab 1 000 l<br>ab 5 000 l<br>ab 10 000 l</td>
+<td>1-3 Tiere jedes weiter Tier + 20%</td>
+</tr>
+<tr>
+<td><b>F. Halfterfische</b><br><b>(Zanclidae)</b></td>
+<td></td>
+<td>ab 2 500 l</td>
+<td>Einzeln oder paarweise</td>
+</tr>
+<tr>
+<td><b>F. Butte</b><br><b>(Bothidae)</b></td>
+<td>Arten bis 30 cm Länge<br>Arten bis 50 cm Länge</td>
+<td>ab 1 000 l<br>ab 5 000 l</td>
+<td>jedes weitere Tier + 20% große Sandflächen</td>
+</tr>
+<tr>
+<td><b>F. Hundszungen</b><br><b>(Cynoglossidae)</b></td>
+<td>Arten bis 30 cm Länge<br>Arten bis 50 cm Länge</td>
+<td>ab 1 000 l<br>ab 5 000 l</td>
+<td>1-3 Tiere; jedes weiter Tier + 20% große Sandflächen</td>
+</tr>
+<tr>
+<td><b>F. Seezungen</b><br><b>(Soleidae)</b></td>
+<td>Arten bis 30 cm Länge<br>Arten bis 50 cm Länge</td>
+<td>ab 1 000 l<br>ab 5 000 l</td>
+<td>1-3 Tiere; jedes weitere Tier + 20% große Sandflächen</td>
+</tr>
+<tr>
+<td><b>F. Drückerfische</b><br><b>(Balistidae)</b></td>
+<td>Arten bis 25 cm Länge<br>Arten bis 50 cm Länge<br>größere Arten</td>
+<td>ab 1 000 l<br>ab 5 000 l<br>ab 10 000 l</td>
+<td>Einzelhaltung</td>
+</tr>
+<tr>
+<td><b>F. Feilenfische</b><br><b>(Monacanthidae)</b></td>
+<td>Arten bis 10 cm Länge<br>Arten bis 25 cm Länge<br>Arten bis 50 cm Länge<br>größere Arten</td>
+<td>ab 500 l<br>ab 1 000 l<br>ab 5 000 l<br>ab 10 000 l</td>
+<td>Einzelhaltung</td>
+</tr>
+<tr>
+<td><b>F. Kofferfische</b><br><b>(Ostraciidae)</b></td>
+<td>Arten bis 20 cm Länge<br>Arten bis 40 cm Länge</td>
+<td>ab 1 000 l<br>ab 5 000 l</td>
+<td>Einzelhaltung</td>
+</tr>
+<tr>
+<td><b>F. Kugelfische</b><br><b>(Tetraodontidae)</b></td>
+<td>Arten bis 10 cm Länge<br>Arten bis 20 cm Länge<br>Arten bis 50 cm Länge<br>Größere Arten</td>
+<td>ab 500 l<br>ab 1 000 l<br>ab 5 000 l<br>ab 10 000 l</td>
+<td>Einzelhaltung</td>
+</tr>
+<tr>
+<td><b>F. Igelfische</b><br><b>(Diodontidae)</b></td>
+<td>Arten bis 20 cm Länge<br>Größere Arten</td>
+<td>ab 1 000 l<br>ab 5 000 l</td>
+<td>1-2 Tiere jedes weitere Tier + 20%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+**2.3. Haltungskriterien anderer Arten von Meerwasserfischen**
+
+Vertreter von unter Punkt 2.2 nicht angeführten Familien, insbesondere solche, die wegen ihrer Größe nicht mehr angeführt werden, dürfen ausschließlich in Großaquarien gehalten werden und sind im Einzelfall zu genehmigen
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+1\) Angaben zur Wasserhärte: X es wird eine Toleranz von ±5° dGH akzeptiert; X) es wird keine Toleranz nach oben akzeptiert
+
+2\) Angaben zum ph-Wert: X es wird eine Toleranz von ±0,5 akzeptiert; (X es wird eine Toleranz von ±0,5 akzeptiert; X) es wird eine Toleranz von -0,5 akzeptiert; (X) es wird keine Toleranz akzeptiert
+
+3\) für längere Verkaufspräsentationen muss für die Einzelhaltung der Betta splendens Männchen bei täglichem halben Wasserwechsel ein Mindestwasservolumen von einem Liter Wasser zur Verfügung stehen. Außerdem sollte eine schutzgebende, stressverhindernde Dekoration wie z. B. Wasserpflanzenbüscheln oder Moorkienholz u.ä. nicht fehlen
+
+4\) Cichliden sind insbesondere während der Brutpflege aggressiv. Ihnen ist ein gut gegliedertes Becken mit Versteckmöglichkeiten für unterlegene Fische und auch für den Partner einzurichten.
+
+5\) Entscheidend ist im Bezug auf die Härte die genügend hohe Carbonhärte und dass der pH-Wert nicht unter pH = 7.0 fällt.

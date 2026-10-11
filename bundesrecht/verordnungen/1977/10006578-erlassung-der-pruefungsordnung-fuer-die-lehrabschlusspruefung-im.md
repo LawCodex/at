@@ -1,0 +1,147 @@
+---
+title: "Erlassung der Prüfungsordnung für die Lehrabschlußprüfung im Lehrberuf Waffenmechaniker"
+identifier: "10006578"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 266/1977"
+date: 1977-05-13
+last_amended: 1977-06-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1977/266/P0/NOR11006691"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006578"
+retrieved: 2026-10-11
+documents: 7
+---
+
+# Erlassung der Prüfungsordnung für die Lehrabschlußprüfung im Lehrberuf Waffenmechaniker
+
+Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 13. Mai 1977, mit der die Prüfungsordnung für die Lehrabschlußprüfung im Lehrberuf Waffenmechaniker erlassen wird
+
+StF: BGBl. Nr. 266/1977
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 24 des Berufsausbildungsgesetzes, BGBl. Nr. 142/1969, wird verordnet:
+
+## § 1 – Gliederung der Lehrabschlußprüfung
+
+§ 1. (1) Die Lehrabschlußprüfung im Lehrberuf Waffenmechaniker gliedert sich in eine praktische und in eine theoretische Prüfung.
+
+(2) Die praktische Prüfung umfaßt die Gegenstände
+
+a) Prüfarbeit,
+
+b) Fachgespräch.
+
+(3) Die theoretische Prüfung umfaßt die Gegenstände
+
+a) Fachrechnen,
+
+b) Fachkunde,
+
+c) Fachzeichnen.
+
+Die Prüfung in den Gegenständen a) bis c) erfolgt schriftlich.
+
+(4) Die Gegenstände der theoretischen Prüfung sind nicht zu prüfen, wenn der Prüfling die Erreichung des Lehrzieles der letzten Klasse der fachlichen Berufsschule gemäß § 4 Abs. 1 der Verordnung BGBl. Nr. 170/1974 nachgewiesen hat.
+
+## § 2 – Durchführung der praktischen Prüfung
+
+§ 2. (1) Die Prüfung im Gegenstand „Prüfarbeit“ hat die Anfertigung einer Arbeit, bestehend aus mehreren Teilen nach Angabe zu umfassen, wobei folgende Fertigkeiten nachzuweisen sind:
+
+Messen, Anreißen, Feilen, Bohren,
+
+Gewindeschneiden von Hand, Hartlöten,
+
+einfache Dreh- oder Fräsarbeiten,
+
+Zusammenbauen.
+
+(2) Die Prüfungskommission hat unter Bedachtnahme auf den Zweck der Lehrabschlußprüfung und die Anforderungen der Berufspraxis jedem Prüfling eine Prüfarbeit zu stellen, die in der Regel in sieben Arbeitsstunden durchgeführt werden kann.
+
+(3) Die Prüfung im Gegenstand „Prüfarbeit“ ist nach acht Arbeitsstunden zu beenden.
+
+(4) Die Prüfung im Gegenstand „Fachgespräch“ ist unter Verwendung von Fachausdrücken vor der gesamten Prüfungskommission abzulegen; sie hat sich aus der praktischen Tätigkeit heraus zu entwickeln und das praktische Wissen des Prüflings festzustellen.
+
+(5) Die Themenstellung hat dem Zweck der Lehrabschlußprüfung und den Anforderungen der Berufspraxis zu entsprechen. Fragen über Schutzmaßnahmen und Unfallverhütung sind miteinzubeziehen.
+
+(6) Die Dauer der Prüfung im Gegenstand „Fachgespräch“ soll je Prüfling 20 Minuten nicht übersteigen. Eine Verlängerung kann im Einzelfall erfolgen, wenn der Prüfungskommission eine zweifelsfreie Beurteilung des Prüflings sonst nicht möglich erscheint.
+
+(7) Für die Bewertung im Gegenstand „Prüfarbeit“ sind folgende Kriterien maßgebend:
+
+Maßhaltigkeit und Sauberkeit,
+
+Winkeligkeit und Ebenheit,
+
+Verwenden der richtigen Werkzeuge bei der Ausführung der Prüfarbeit,
+
+richtiger Zusammenbau.
+
+## § 3 – Durchführung der theoretischen Prüfung
+
+§ 3. (1) Die theoretische Prüfung kann für eine größere Anzahl von Prüflingen gemeinsam durchgeführt werden, wenn dies ohne Beeinträchtigung des Prüfungsablaufes möglich ist.
+
+(2) Der theoretische Prüfungsteil hat in der Regel zeitlich vor dem praktischen Prüfungsteil zu liegen.
+
+(3) Die schriftlichen Prüfungsaufgaben haben nach Umfang und Niveau dem Zweck der Lehrabschlußprüfung und den Anforderungen der Berufspraxis zu entsprechen. Im Gegenstand „Fachrechnen“ ist die Verwendung von Formel- und Tabellenbehelfen zulässig.
+
+(4) Die schriftlichen Arbeiten des Prüflings sind entsprechend zu kennzeichnen.
+
+(5) Die Prüfung im Gegenstand „Fachrechnen“ hat die Durchführung je einer Prüfungsaufgabe aus sämtlichen nachstehenden Bereichen zu umfassen:
+
+Längen- und Flächenberechnung,
+
+Volums- und Gewichtsberechnung,
+
+Festigkeitsberechnung (Zug, Druck, Biegung, Abscherung),
+
+Berechnungen aus dem Gebiet der Innenballistik,
+
+Berechnungen aus der Schießtechnik.
+
+(6) Die Aufgaben sind so zu stellen, daß sie in der Regel in 60 Minuten durchgeführt werden können. Die Prüfung in diesem Gegenstand ist nach 80 Minuten zu beenden.
+
+(7) Die Prüfung im Gegenstand „Fachkunde“ hat die stichwortartige Durchführung je einer Prüfungsaufgabe aus sämtlichen nachstehenden Bereichen zu umfassen:
+
+Werk- und Hilfsstoffe,
+
+Meß- und Prüfverfahren,
+
+Werkzeuge und Maschinen,
+
+Geschoße,
+
+Grundbegriffe der Ballistik und Waffenlehre.
+
+(8) Die Aufgaben sind so zu stellen, daß sie in der Regel in 60 Minuten durchgeführt werden können. Die Prüfung in diesem Gegenstand ist nach 80 Minuten zu beenden.
+
+(9) Die Prüfung im Gegenstand „Fachzeichnen“ hat die Herstellung der Fertigungszeichnung eines einfachen Waffenteiles nach Angabe zu umfassen.
+
+(10) Die Aufgabe ist so zu stellen, daß sie in der Regel in 90 Minuten durchgeführt werden kann. Die Prüfung in diesem Gegenstand ist nach 105 Minuten zu beenden.
+
+## § 4 – Wiederholungsprüfung
+
+§ 4. (1) Die Lehrabschlußprüfung kann wiederholt werden, wenn sie nicht bestanden wurde.
+
+(2) Wenn mehr als drei Prüfungsgegenstände mit „nichtgenügend“ bewertet wurden, ist die gesamte Prüfung zu wiederholen; andernfalls ist die Wiederholungsprüfung auf die mit „nichtgenügend“ bewerteten Gegenstände zu beschränken.
+
+(3) Ist die Wiederholungsprüfung auf die mit „nichtgenügend“ bewerteten Gegenstände zu beschränken, hat die Prüfungskommission unter Berücksichtigung der festgestellten Mängel an Fertigkeiten und Kenntnissen eine Wiederholungsprüfung zuzulassen, die frühestens drei, spätestens sechs Monate nach der nichtbestandenen Lehrabschlußprüfung zu liegen hat. Ansonsten darf die Wiederholungsprüfung frühestens sechs Monate nach der nichtbestandenen Lehrabschlußprüfung liegen.
+
+## § 5 – Zusatzprüfung
+
+§ 5. (1) Nach erfolgreich abgelegter Lehrabschlußprüfung im Lehrberuf Büchsenmacher kann eine Zusatzprüfung im Lehrberuf Waffenmechaniker abgelegt werden. Diese hat den Gegenstand „Fachgespräch“ zu umfassen.
+
+(2) Nach erfolgreich abgelegter Lehrabschlußprüfung im Lehrberuf Werkzeugmacher kann eine Zusatzprüfung im Lehrberuf Waffenmechaniker abgelegt werden. Diese hat die Gegenstände „Prüfarbeit“ und „Fachgespräch“ zu umfassen.
+
+(3) Für die Zusatzprüfung gemäß Abs. 1 gilt § 2 Abs. 4 bis 6 sinngemäß.
+
+(4) Für die Zusatzprüfung gemäß Abs. 2 gilt § 2 sinngemäß.
+
+## § 6 – Schlußbestimmungen
+
+§ 6. (1) Auf die Durchführung der Lehrabschlußprüfung im Lehrberuf Waffenmechaniker ist im übrigen die Verordnung BGBl. Nr. 170/1974 anzuwenden.
+
+(2) Diese Verordnung tritt mit 1. Juni 1977 in Kraft.

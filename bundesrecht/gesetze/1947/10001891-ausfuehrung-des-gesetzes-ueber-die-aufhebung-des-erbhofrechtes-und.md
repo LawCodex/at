@@ -1,0 +1,399 @@
+---
+title: "Ausführung des Gesetzes über die Aufhebung des Erbhofrechtes und des Landbewirtschaftungsrechtes"
+identifier: "10001891"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 85/1947"
+date: 1947-03-21
+last_amended: 1954-05-29
+last_amendment: "BGBl. Nr. 184/1962"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1947/85/P0/NOR11001914"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001891"
+retrieved: 2026-10-11
+documents: 32
+---
+
+# Ausführung des Gesetzes über die Aufhebung des Erbhofrechtes und des Landbewirtschaftungsrechtes
+
+Bundesgesetz vom 21. März 1947 zur Ausführung des Gesetzes vom 19. September 1945, St. G. Bl. Nr. 174, über die Aufhebung des Erbhofrechtes und des Landbewirtschaftungsrechtes.
+
+StF: BGBl. Nr. 85/1947 idF BGBl. Nr. 202/1947 (DFB) (NR: GP V RV 300 AB 334 S. 48. BR: S. 17.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 100/1950 (NR: GP VI RV 95 AB 108 S. 22. BR: S. 52.)  
+BGBl. Nr. 88/1951 (NR: GP VI RV 317 AB 323 S. 49. BR: S. 61.)  
+BGBl. Nr. 72/1952 (NR: GP VI RV 500 AB 512 S. 83. BR: S. 72.)  
+BGBl. Nr. 132/1953 (NR: GP VII RV 40 AB 118 S. 15. BR: S. 86.)  
+BGBl. Nr. 184/1962 (NR: GP IX RV 673 AB 709 S. 102. BR: S. 192.)  
+
+</details>
+
+> **Anmerkung:** Erfassungsstichtag: 1.11.1988
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+## I. Allgemeine Bestimmungen.
+
+### § 1
+
+§ 1. Die §§ 1 und 2 des Gesetzes vom 19. September 1945, St. G. Bl. Nr. 174, über die Aufhebung des Erbhofrechtes und des Landbewirtschaftungsrechtes treten gleichzeitig mit diesem Bundesgesetz in Wirksamkeit.
+
+> **Anmerkung:** Der Zeitpunkt der Aufhebung der (reichsdeutschen) Vorschriften über das Erbhof- und Landbewirtschaftungsrecht sollte gemäß § 3 StGBl. Nr. 174/1945 noch durch ein besonderes Gesetz festgelegt werden. Mit dem Inkrafttreten des vorliegenden BG (29. 5. 1947) wurden die genannten reichsdeutschen Vorschriften endgültig außer Kraft gesetzt.
+
+### § 2
+
+§ 2. Die auf Grund der aufgehobenen Vorschriften getroffenen Regelungen bleiben unberührt, soweit sich nicht aus den Bestimmungen dieses Bundesgesetzes etwas anderes ergibt. Die Anfechtung einer Regelung kann nicht darauf gestützt werden, daß die Vorschriften des Erbhofrechtes zu Unrecht oder unrichtig angewendet worden seien oder daß ihre Anwendung zu Unrecht unterblieben sei oder daß eine nach diesen Vorschriften erforderliche Genehmigung nicht vorgelegen sei.
+
+### § 3
+
+§ 3. (1) Aus rechtskräftigen Entscheidungen der Anerbenbehörden findet die Zwangsvollstreckung nach den Vorschriften der Exekutionsordnung statt. Das gleiche gilt für gerichtliche Entscheidungen, aus denen gemäß § 43 der Verordnung zur Durchführung der Verordnung zur Sicherung der Landbewirtschaftung vom 20. Jänner 1943, Deutsches R. G. Bl. I S. 35, die Zwangsvollstreckung zulässig ist.
+
+(2) Zur Bewilligung der Zwangsvollstreckung aus Entscheidungen der Anerbenbehörden ist das Bezirksgericht zuständig, bei dem das Anerbengericht bestanden hat, das bisher zur Bewilligung der Zwangsvollstreckung berufen war. Zur Bewilligung der Zwangsvollstreckung aus gerichtlichen Entscheidungen in Landbewirtschaftungssachen bleibt das Gericht zuständig, das nach den bisherigen Vorschriften zuständig war.
+
+> **Anmerkung:** Die Bestimmung ist durch Zeitablauf gegenstandslos.
+
+## II. Ausführungsbestimmungen zur Aufhebung des Erbhofrechtes.
+
+### § 4 – Wiederinkrafttreten des Höfe- und Anerbenrechtes in Tirol und Kärnten.
+
+§ 4. (1) Im Bundesland Tirol wird das Gesetz vom 12. Juni 1900, L. G. Bl. für Tirol Nr. 47, betreffend die besonderen Rechtsverhältnisse geschlossener Höfe, in der Fassung des Gesetzes vom 26. Jänner 1928, L. G. Bl. für Tirol Nr. 16, und der Verordnung vom 3. August 1934, L. G. Bl. für Tirol Nr. 38, samt den dazu ergangenen Vorschriften in der Fassung vom 13. März 1938 wieder in Kraft gesetzt.
+
+(2) Die Höfekommissionen sind neu zu bestellen.
+
+> **Anmerkung:** 1\. Zu Abs. 1: Das Gesetz betreffend die besonderen Rechtsverhältnisse geschlossener Höfe, GVBlTirVbg. Nr. 47/1900, regelt in seinen §§ 1 bis 14 Höferecht im engeren Sinn, während die §§ 15 bis 26 das Anerbenrecht betreffen.
+>
+> 2\. Zu Abs. 2: Zu den Höfekommissionen vgl. § 9 des Gesetzes betreffend die besonderen Rechtsverhältnisse geschlossener Höfe, GVBlTirVbg. Nr. 47/1900.
+
+### § 5
+
+§ 5. (1) Im Bundesland Kärnten wird das Gesetz vom 16. September 1903, L. G. Bl. für Kärnten Nr. 33, betreffend die Einführung besonderer Erbteilungsvorschriften für landwirtschaftliche Besitzungen mittlerer Größe (Erbhöfe), in der Fassung des Bundesgesetzes vom 11. Juli 1930, B. G. Bl. Nr. 235, samt den dazu ergangenen Vorschriften in der Fassung vom 13. März 1938 wieder in Kraft gesetzt.
+
+(2) Bei Erbfällen, die sich vor dem Inkrafttreten dieses Bundesgesetzes ereignet haben, findet das im Abs. (1) genannte Gesetz auch außerhalb des Geltungsbereiches des § 8 Anwendung, wenn die Einantwortung noch nicht verfügt ist. Die Bestimmungen des § 25 gelten sinngemäß.
+
+> **Anmerkung:** 1\. Zu Abs. 1: Als „dazu ergangene Vorschrift“ ist die Verordnung des Justizministeriums vom 14.1.1904, JMVBl. Nr. 2/1904 anzusehen.
+>
+> 2\. Zum Begriff der Einantwortung siehe § 819 ABGB, JGS Nr. 946/1811, und die §§ 177 bis 180 Außerstreitgesetz, BGBl. I Nr. 111/2003.
+
+### § 6
+
+§ 6. Wo in den folgenden Bestimmungen die Vorschriften des allgemeinen Rechtes bezogen sind, gehören dazu in den Bundesländern Tirol und Kärnten auch die durch die §§ 4 und 5 dort wieder in Kraft gesetzten Vorschriften.
+
+### § 7 – Erbhofvermerk.
+
+§ 7. Der Erbhofvermerk im Grundbuch und die Ersichtlichmachungen über die Zugehörigkeit von Grundstücken zu einem Erbhof im Grundbuch (§ 53 des Erbhofgesetzes, §§ 50 ff. der Erbhofverfahrensordnung, Artikel 4 der Verordnung vom 27. Juli 1938, Deutsches R. G. Bl. I S. 935) sind nach Ablauf von sieben Jahren seit dem Inkrafttreten dieses Bundesgesetzes von Amts wegen zu löschen.
+
+> **Anmerkung:** Die Bestimmung ist durch Zeitablauf gegenstandslos.
+
+### § 8 – Abgrenzung der Erbfolge nach Erbhofrecht und nach allgemeinem Recht.
+
+§ 8. Die Vorschriften des Erbhofrechtes über die Erbfolge kraft Anerbenrechtes finden auch dann nicht mehr Anwendung, wenn sich der Erbfall zwar vor dem Inkrafttreten dieses Bundesgesetzes ereignet hat, die Einantwortung aber noch nicht verfügt ist. Für die Erbfolge gelten in diesen Fällen die Vorschriften des allgemeinen Rechtes.
+
+> **Anmerkung:** 1\. Zum Begriff der Einantwortung siehe § 819 ABGB, JGS Nr. 946/1811, und die §§ 177 bis 180 Außerstreitgesetz, BGBl. I Nr. 111/2003.
+>
+> 2\. Zu den „Vorschriften des allgemeinen Rechtes“ siehe auch § 6.
+>
+> 3\. Die Bestimmung ist durch Zeitablauf gegenstandslos.
+
+### § 9 – Letztwillige Verfügungen.
+
+§ 9. (1) Letztwillige Anordnungen über einen Erbhof sind bei Erbfällen, die sich nach dem Inkrafttreten dieses Bundesgesetzes ereignen, als wirksam anzusehen, soweit sie mit dem nunmehr geltenden Recht in Einklang zu bringen sind und hinsichtlich der Formerfordernisse dem Recht zur Zeit ihrer Errichtung oder dem nunmehr geltenden Recht entsprechen. Einer im Erbhofrecht vorgesehenen Zustimmung bedarf es nicht. Die Versagung einer solchen Zustimmung ist ohne Wirkung.
+
+(2) Abs. (1) gilt auch für Erbfälle, die sich vor dem Inkrafttreten dieses Bundesgesetzes ereignet haben, wenn für die Erbfolge gemäß § 8 die Vorschriften des allgemeinen Rechtes Anwendung finden.
+
+(3) Für die Auslegung der letztwilligen Anordnung der „Verwaltung und Nutznießung“ oder der „bäuerlichen Verwaltung und Nutznießung“ gelten sinngemäß die Bestimmungen des § 11, Abs. (2).
+
+> **Anmerkung:** 1\. Zu den letztwilligen Verfügungen siehe die §§ 552 bis 603 und die §§ 1248 ff. ABGB, JGS Nr. 946/1811.
+>
+> 2\. Zu Abs. 2: Zu den "Vorschriften des allgemeinen Rechtes" vgl. auch § 6.
+
+### § 10
+
+§ 10. (1) Dem überlebenden Ehegatten als Anerben nach § 12 der Erbhoffortbildungsverordnung kommt an dem eingeantworteten Erbhof des vorverstorbenen Ehegatten für die verbleibende Dauer seines Rechtes die Rechtsstellung eines Vorerben zu. Nacherben sind der vom vorverstorbenen Ehegatten oder von beiden Ehegatten bereits bestimmte weitere Anerbe, sonst die Personen, die nach dem allgemeinen Recht als gesetzliche Erben des vorverstorbenen Ehegatten berufen wären, wenn dieser erst bei Eintritt der Nacherbfolge gestorben wäre. Die Bestimmung eines weiteren Anerben durch den überlebenden Ehegatten ist ohne Wirkung.
+
+(2) Dem überlebenden Ehegatten als Anerben nach den §§ 24 und 25 der Erbhoffortbildungsverordnung kommt an dem eingeantworteten Anteil des vorverstorbenen Ehegatten am Erbhof für die verbleibende Dauer seines Rechtes die Rechtsstellung eines Vorerben zu. Nacherben sind der von den beiden Ehegatten oder von dem vorverstorbenen Ehegatten allein bereits bestimmte weitere Anerbe, sonst die Personen, die nach dem allgemeinen Recht als gesetzliche Erben des vorverstorbenen Ehegatten berufen wären, wenn dieser erst bei Eintritt der Nacherbfolge gestorben wäre. An seinem Anteil am Erbhof steht dem überlebenden Ehegatten freies Eigentum zu. Die Bestimmung eines Anerben durch beide Ehegatten oder durch den überlebenden Ehegatten allein für dessen Erbhofbesitz ist als letztwillige Anordnung für dieses Vermögen nach dem Tode des überlebenden Ehegatten wirksam. Anerbenbestimmungen eines Ehegatten allein zum Erbhofbesitz des anderen Ehegatten sind ohne Wirkung.
+
+> **Anmerkung:** 1\. Zu der Nacherbschaft (fideikommissarische Substitution) siehe die §§ 608 bis 617 ABGB, JGS Nr. 946/1811.
+>
+> 2\. Für die Fälle, in denen der Tatbestand der Nacherbfolge nach dem Inkrafttreten des Anerbengesetzes, BGBl. Nr. 106/1958 (d. i. der 7.9.1958), eintrat, wurden dem zweiten Satz des Abs. 1 durch § 20 Abs. 2 Anerbengesetz und dem Abs. 2 - bis auf den letzten Satz - durch § 20 Abs. 3 Anerbengesetz derogiert.
+
+### § 11 – Recht der Verwaltung und Nutznießung.
+
+§ 11. (1) Das Recht der bäuerlichen Verwaltung und Nutznießung des Ehemannes auf Grund der §§ 4 und 22 der Erbhoffortbildungsverordnung entfällt. Das gleiche gilt für das Recht der bäuerlichen Verwaltung und Nutznießung auf Grund der §§ 9, 13 und 26 der Erbhoffortbildungsverordnung, wenn die Ehegattin noch lebt.
+
+(2) Ein bereits eingetretenes Recht der Verwaltung und Nutznießung auf Grund des § 26 des Erbhofgesetzes oder auf Grund der §§ 11, 21, 22 und 52 der Erbhofrechtsverordnung sowie ein bereits eingetretenes Recht der bäuerlichen Verwaltung und Nutznießung auf Grund der §§ 7, 24 und 37 der Erbhoffortbildungsverordnung bleibt bestehen. Das gleiche gilt für das Recht der bäuerlichen Verwaltung und Nutznießung auf Grund der §§ 9, 13 und 26 der Erbhoffortbildungsverordnung, das nach dem Tode der Ehegattin für den Ehemann eingetreten ist. Dem Berechtigten kommt für die verbleibende Dauer seines Rechtes die Rechtsstellung eines Fruchtnießers gemäß den §§ 509 ff. ABGB. zu. Er hat dem Eigentümer, soweit dies der Billigkeit entspricht, nach seinen Kräften Unterhalt zu gewähren und ihm, auch wenn dieser nicht zu seiner häuslichen Gemeinschaft gehört, Gelegenheit zur bäuerlichen Ausbildung zu geben. Über Streitigkeiten entscheidet das Gericht.
+
+(3) Für die im Abs. (2) bezeichneten Rechte haften mit dem Rang vom Zeitpunkt des Inkrafttretens dieses Bundesgesetzes die Liegenschaften, auf die sich die Rechte in diesem Zeitpunkt erstreckten. Sie sind im Grundbuch als Fruchtgenußrechte im Sinne dieses Bundesgesetzes einzutragen.
+
+(4) Die Grundlage für die bücherliche Eintragung bildet eine in verbücherungsfähiger Form getroffene Vereinbarung der Parteien über Bestand und Inhalt des Rechtes oder, wenn eine solche nicht zustande kommt, eine auf Antrag einer der Parteien vom Gericht getroffene Entscheidung darüber.
+
+(5) Die Einleitung eines gerichtlichen Verfahrens nach Abs. (4) ist von Amts wegen im Grundbuch anzumerken. Wird im Verfahren dem Antrag auf Feststellung eines Rechtes stattgegeben, so hat das Gericht die grundbücherliche Eintragung des Rechtes von Amts wegen zu veranlassen. Die Anmerkung der Einleitung des Verfahrens ist unter einem zu löschen. Diese Anmerkung ist ferner zur Löschung zu bringen, wenn das Verfahren ohne Feststellung eines Rechtes endet.
+
+(6) Werden die im Abs. (2) bezeichneten Rechte nicht auf Grund eines binnen sieben Jahren nach dem Inkrafttreten dieses Bundesgesetzes gestellten Antrages auf Verbücherung oder von Amts wegen auf Grund eines gerichtlichen Verfahrens, dessen Einleitung innerhalb der gleichen Frist grundbücherlich angemerkt worden ist, im Grundbuch eingetragen, so erlischt die Haftung der Liegenschaften. Das Gericht hat auch später auf Antrag einer der Parteien den Bestand und Inhalt des Rechtes gegen diejenige Person, die im Zeitpunkt des Ablaufes der Frist Eigentümerin der Liegenschaften war, oder ihre Erben als Verpflichtete festzustellen. Ist der Verpflichtete noch Eigentümer aller Liegenschaften oder doch deren wesentlichen Bestandes, so ist der Abs. (5) sinngemäß anzuwenden; das Recht ist im Range der Anmerkung einzutragen. Andernfalls legt das Gericht unter billiger Berücksichtigung der Verhältnisse der Parteien fest, ob, in welchem Umfang und in welcher Gestalt der Verpflichtete, der Übernehmer der Liegenschaften (deren wesentlichen Bestandes) oder beide als persönliche Schuldner dem Berechtigten zur Leistung weiterhin verpflichtet sein sollen. Der Übernehmer kann nur verpflichtet werden, wenn er im Zeitpunkt der Übernahme den Bestand des Rechtes kannte oder kennen mußte. Im Falle der Heranziehung des Übernehmers kann das Gericht eine Sicherstellung des Anspruches des Berechtigten durch Eintragung im Grundbuch im laufenden Rang anordnen.
+
+(7) Die vorstehenden Bestimmungen über Verbücherung finden nicht Anwendung, wenn ein im Abs. (2) bezeichnetes Recht schon vor dem Inkrafttreten dieses Bundesgesetzes im Grundbuche eingetragen worden ist. Die Eintragung bleibt unberührt.
+
+> **Anmerkung:** 1\. Zu Abs. 4: Zu den Formerfordernissen siehe insbesondere die §§ 26 f. und 31 ff. GBG 1955, BGBl. Nr. 39/1955.
+>
+> 2\. Zu Abs. 5 und 6: Zu der bücherlichen Anmerkung siehe insbesondere die §§ 20 und 52 ff. GBG 1955, BGBl. Nr. 39/1955.
+
+### § 12 – Versorgungsrechte.
+
+§ 12. (1) Die auf Grund der §§ 30 und 31 des Erbhofgesetzes in der Fassung des § 44 der Erbhoffortbildungsverordnung und des Artikels 4 der Verordnung vom 27. Juli 1938, Deutsches R. G. Bl. I S. 935, bereits eingetretenen Versorgungsrechte der Abkömmlinge und Eltern eines Erblassers sowie seines überlebenden Ehegatten bleiben bestehen. Das gleiche gilt für die auf Grund der §§ 9, 10, 13, 14 und 26 der Erbhoffortbildungsverordnung eingetretenen Versorgungsrechte eines neuen Ehegatten des überlebenden Eheteiles und von Kindern aus der neuen Ehe, die zur Zeit des Inkrafttretens dieses Bundesgesetzes bereits geboren sind. In diesen Fällen sind bei der Bemessung des Altenteiles des neuen Ehegatten und der Ausstattungsansprüche der Kinder aus der neuen Ehe außer der Leistungsfähigkeit des Verpflichteten grundsätzlich die Verdienste der Berechtigten um den Besitz maßgebend zu berücksichtigen. Die Beschränkung gilt nicht für Versorgungsrechte auf Grund des § 26 der Erbhoffortbildungsverordnung, wenn der Besitz unter Zugrundelegung der Bestimmungen des § 23, Abs. (1), der gleichen Verordnung als von dem überlebenden Ehegatten stammend anzusehen ist.
+
+(2) Bei Streitigkeiten aus den im Abs. (1) bezeichneten Versorgungsrechten trifft die Bäuerliche Schlichtungsstelle die erforderliche Regelung unter billiger Berücksichtigung der Verhältnisse der Beteiligten. Sie kann auch Rechte aufheben oder einschränken, wenn der Berechtigte anderweitig gesichert ist oder wenn dem Verpflichteten die Leistung nicht mehr zugemutet werden kann, insbesondere, wenn sie seine wirtschaftliche Kraft übersteigt.
+
+(3) Für die im Abs. (1) bezeichneten Rechte haften mit dem Range vom Zeitpunkt des Inkrafttretens dieses Bundesgesetzes die zu dieser Zeit zum Erbhof gehörenden Liegenschaften. Sie sind im Grundbuch als Reallasten im Sinne dieses Bundesgesetzes einzutragen.
+
+(4) Die Grundlage für die bücherliche Eintragung bildet eine in verbücherungsfähiger Form getroffene Vereinbarung der Parteien über Bestand und Inhalt der Rechte oder, wenn eine solche nicht zustande kommt, eine auf Antrag einer der Parteien von der Bäuerlichen Schlichtungsstelle getroffene Entscheidung darüber.
+
+(5) Die Bestimmungen der Abs. (5) bis (7) des § 11 sind sinngemäß anzuwenden; auch für ein nach Ablauf der Frist eingeleitetes Verfahren ist die Bäuerliche Schlichtungsstelle zuständig.
+
+> **Anmerkung:** Zu Abs. 4: Zu den Formerfordernissen siehe die §§ 26 f. und 31 ff. GBG 1955, BGBl. Nr. 39/1955.
+
+> **Beachte:** Gemäß § 1 Abs. 1 des BG, BGBl. Nr. 184/1962, sind zur Besorgung der den Bäuerlichen Schlichtungsstellen noch obliegenden Aufgaben die Gerichte (§ 22) zuständig.
+
+### § 13
+
+§ 13. (1) Die Bäuerliche Schlichtungsstelle entscheidet auch bei Streitigkeiten über Versorgungsrechte, die im Sinne des § 36 der Erbhofrechtsverordnung auf Grund eines Übergabsvertrages oder eines anderen Versorgungsvertrages oder einer Verfügung von Todes wegen zustehen. Das gleiche gilt für Versorgungsrechte auf Grund eines Zwischenwirtschaftsvertrages oder einer Zwischenwirtschaftsregelung gemäß § 11 der Erbhoffortbildungsverordnung oder auf Grund der gerichtlichen Übergabe eines Erbhofes gemäß § 43 der gleichen Verordnung. Die Bäuerliche Schlichtungsstelle kann die Versorgungsleistungen, soweit dies unter Berücksichtigung der Umstände des Falles der Billigkeit entspricht, auf Antrag anderweitig festsetzen. Dies gilt insbesondere dann, wenn sich die Verhältnisse, die für die Bemessung der Leistungen maßgebend waren, seit dem Abschluß des Vertrages oder seit der Errichtung der Verfügung von Todes wegen oder seit der Zwischenwirtschaftsregelung wesentlich verändert haben.
+
+(2) Für die im Abs. (1) bezeichneten Rechte haften gleichfalls mit dem Range vom Zeitpunkt des Inkrafttretens dieses Bundesgesetzes die zu dieser Zeit zum Erbhof gehörenden Liegenschaften. Sie sind im Grundbuch als Reallasten im Sinne dieses Bundesgesetzes einzutragen.
+
+(3) Kommt die bücherliche Eintragung im Einvernehmen zwischen dem Berechtigten und dem Verpflichteten nicht zustande, so hat die Bäuerliche Schlichtungsstelle auf Antrag einer der Parteien zu entscheiden, ob die Voraussetzungen für eine bücherliche Eintragung gegeben sind und wie sie zu lauten hat. Eine festgestellte Eintragung ist von Amts wegen zu veranlassen.
+
+(4) Die Bestimmungen der Abs. (5) bis (7) des § 11 sind sinngemäß anzuwenden; auch für ein nach Ablauf der Frist eingeleitetes Verfahren ist die Bäuerliche Schlichtungsstelle zuständig.
+
+> **Beachte:** Gemäß § 1 Abs. 1 des BG, BGBl. Nr. 184/1962, sind zur Besorgung der den Bäuerlichen Schlichtungsstellen noch obliegenden Aufgaben die Gerichte (§ 22) zuständig.
+
+### § 14
+
+§ 14. (1) Soweit Versorgungsrechte (§§ 12, 13) bereits den Gegenstand der Entscheidung eines Gerichtes oder einer Bäuerlichen Schlichtungsstelle gebildet haben, können sie durch die Bäuerliche Schlichtungsstelle nur dann anderweitig bestimmt werden, wenn sich die Verhältnisse, die für die Bemessung der Leistungen maßgebend waren, seit der Entscheidung wesentlich verändert haben.
+
+(2) Wird durch eine Entscheidung gemäß Abs. (1) die Grundlage für neue bücherliche Eintragungen festgestellt, so sind sie durch die Bäuerliche Schlichtungsstelle von Amts wegen zu veranlassen. Für den Rang der Eintragungen gilt § 29 des Allgemeinen Grundbuchsgesetzes.
+
+> **Beachte:** Gemäß § 1 Abs. 1 des BG, BGBl. Nr. 184/1962, sind zur Besorgung der den Bäuerlichen Schlichtungsstellen noch obliegenden Aufgaben die Gerichte (§ 22) zuständig.
+
+### § 15 – Entschädigung weichender Erben.
+
+§ 15. (1) Ist das Eigentum an einem Erbhof zuletzt im Erbwege auf einen neuen Eigentümer übergegangen und stellt die auf Grund des Erbhofrechtes getroffene Regelung für einen Angehörigen des Erblassers, der nach dem allgemeinen Recht bei gesetzlicher Erbfolge dessen Erbe oder ein Miterbe gewiesen wäre, nach bäuerlicher Lebensordnung eine als ungerecht und unbillig anzusehende schwere Härte dar, so kann ihm auf seinen Antrag durch die Bäuerliche Schlichtungsstelle eine vom Erben zu leistende Entschädigung zuerkannt werden.
+
+(2) Wenn der Erbe das, was er erhalten hat, selbst nicht mehr besitzt, ist nur der Wert in Anschlag zu bringen, den er noch besitzt oder in unredlicher Weise aus dem Besitz gelassen hat (§ 952 ABGB.).
+
+(3) Die Höhe der Entschädigung ist nach billigem Ermessen so zu bestimmen, daß die Härte nach Tunlichkeit behoben wird. Durch die Entschädigung darf sich die Lage des Entschädigungswerbers nicht günstiger gestalten, als sie sich bei entsprechender Berücksichtigung alles dessen, was er unter Lebenden oder von Todes wegen erhalten hat, nach dem allgemeinen Recht bei gesetzlicher Erbfolge ergeben hätte.
+
+(4) Bei der Bemessung der Entschädigung ist auf die Leistungsfähigkeit des Erben, vor allem auf die Aufrechterhaltung seines Wirtschaftsbetriebes sowie darauf Bedacht zu nehmen, daß die Entschädigung den Erben insbesondere nicht zum Verkauf lebenswichtiger Teile seiner Wirtschaft oder zur Veräußerung unter besonders ungünstigen Verhältnissen zwingen darf.
+
+(5) Kommt eine Entschädigung für mehrere Angehörige des Erblassers in Betracht, so ist dies bei der Bemessung der Entschädigung für einen von ihnen entsprechend zu berücksichtigen.
+
+(6) Die Fälligkeit der Entschädigung kann auch aufgeschoben werden, jedoch ohne Zustimmung des Entschädigungswerbers nur bis zur Höchstdauer von drei Jahren. In diesem Falle ist zu bestimmen, ob und welche Verzinsung in der Zwischenzeit stattzufinden hat. Nötigenfalls kann dem Erben eine angemessene Sicherstellung der Entschädigung aufgetragen oder die Gewährung längerer Leistungsfristen von einer entsprechenden Sicherheitsleistung abhängig gemacht werden.
+
+(7) Die Entschädigung und die Verzinsung einer gestundeten Entschädigung können auf Antrag statt in Geld auch in beweglichen oder unbeweglichen Sachen oder Rechten gewährt werden.
+
+(8) In das Verfahren können auch Rechte der Anspruchswerber am Erbhofbesitz, wie Fruchtgenußrechte, Versorgungsrechte u. a. einbezogen werden. Sie können im Zusammenhang mit der Zuerkennung einer Entschädigung geändert, auch beschränkt und aufgehoben werden.
+
+(9) Der Antrag auf Entschädigung kann nur binnen drei Jahren nach dem Inkrafttreten dieses Bundesgesetzes bei der Bäuerlichen Schlichtungsstelle gestellt werden. Die Einleitung und Durchführung eines Verfahrens wird dadurch nicht gehindert, daß der Erbe stirbt, bevor ein Antrag gestellt oder ein gegen ihn eingeleitetes Verfahren beendet ist.
+
+> **Anmerkung:** Infolge des Ablaufs der in Abs. 9 festgesetzten Frist ist die Bestimmung gegenstandslos.
+
+> **Beachte:** Gemäß § 1 Abs. 1 des BG, BGBl. Nr. 184/1962, sind zur Besorgung der den Bäuerlichen Schlichtungsstellen noch obliegenden Aufgaben die Gerichte (§ 22) zuständig.
+
+### § 16
+
+§ 16. (1) Bei der Bemessung der Entschädigung kann von den Bestimmungen des § 15, Abs. (4), abgegangen werden, wenn sich bei Anwendung dieser Bestimmungen eine nach bäuerlicher Lebensordnung tragbare Lösung nicht ergibt. In diesem Falle kann ausnahmsweise auch der gesamte zu veranschlagende Wert als Entschädigung [§ 15, Abs. (7)] zuerkannt werden.
+
+(2) Hat der Erbe eigenes, nicht aus dem Erbhof stammendes Vermögen auf den Besitz aufgewendet, so muß ihm aber jedenfalls ein Wert verbleiben oder in Form einer Geldleistung durch die Entschädigungswerber zuerkannt werden, wodurch der Aufwand gedeckt ist. Auf eine dem Erben zuerkannte Geldleistung findet § 15, Abs. (6), sinngemäß Anwendung.
+
+> **Anmerkung:** Infolge des Ablaufs der in § 15 Abs. 9 festgesetzten Frist ist die Bestimmung gegenstandslos.
+
+## Maßnahmen der Standesaufsicht.
+
+### § 17 – a) Wirtschaftsüberwachung, Wirtschaftsführung durch einen Treuhänder, Entziehung der Verwaltung und Nutznießung.
+
+§ 17. (1) Besteht auf einem Erbhof eine Wirtschaftsüberwachung durch einen Vertrauensmann (§§ 74 bis 76 der Erbhofverfahrensordnung) oder eine Wirtschaftsführung durch einen Treuhänder (§§ 77 bis 84 der Erbhofverfahrensordnung) oder ist dem Eigentümer die Verwaltung und Nutznießung des Hofes entzogen [§ 15, Abs. (2), des Erbhofgesetzes, §§ 85 bis 94 der Erbhofverfahrensordnung], so verlieren diese Maßnahmen, wenn sie nicht durch Zeitablauf oder aus einem anderen Grunde schon früher enden, drei Monate nach dem Inkrafttreten dieses Bundesgesetzes ihre Wirksamkeit. Nach Ablauf dieser Frist sind die bücherlichen Anmerkungen über die Anordnung der Wirtschaftsführung und der Übertragung der Verwaltung und Nutznießung auf Antrag des Eigentümers oder von Amts wegen zu löschen.
+
+(2) Das Gericht kann die im Abs. (1) genannten Maßnahmen auf Antrag des Eigentümers auch schon früher aufheben, wenn wichtige Interessen des Eigentümers es erfordern. In diesem Falle hat das Gericht von Amts wegen die Löschung bücherlicher Anmerkungen, die sich auf die aufgehobenen Maßnahmen beziehen, zu veranlassen.
+
+(3) Auf Antrag einer der Parteien hat das Gericht gemäß § 75, Abs. (9), der Erbhofverfahrensordnung die Beträge festzusetzen, die der Eigentümer dem Vertrauensmann als Ersatz angemessener barer Auslagen zu erstatten hat, ferner gemäß § 83, Abs. (1) und (2), der Erbhofverfahrensordnung zu bestimmen, ob der Treuhänder vom Eigentümer eine angemessene Vergütung für seine Tätigkeit sowie eine Erstattung barer Auslagen verlangen kann, und die Höhe der Vergütung und der Auslagen festzusetzen. Die Ansprüche auf Auslagenersatz und Vergütung verjähren in sechs Monaten nach dem Inkrafttreten dieses Bundesgesetzes.
+
+(4) Der abtretende Treuhänder hat binnen drei Monaten nach Beendigung der Wirtschaftsführung dem Gericht die im § 82, Abs. (3), der Erbhofverfahrensordnung vorgesehene Schlußrechnung zu legen, wenn nicht der Eigentümer ihn von der gerichtlichen Erstattung einer Schlußrechnung befreit. Mit der Schlußrechnung zusammenhängende Streitigkeiten entscheidet das Gericht, dem die Schlußrechnung zu legen ist.
+
+(5) Für Verpachtungen durch einen Treuhänder oder Nutzverwalter gelten sinngemäß die Bestimmungen des § 28.
+
+> **Anmerkung:** Infolge des Ablaufs der in Abs. 1, 3 und 4 genannten Fristen ist die Bestimmung gegenstandslos.
+
+### § 18 – b) Entziehung des Eigentums am Erbhof.
+
+§ 18. (1) Ist das Eigentum an einem Erbhof gemäß dem § 15, Abs. (3) und (4), des Erbhofgesetzes und den §§ 95 bis 98 der Erbhofverfahrensordnung auf einen neuen Eigentümer übertragen worden, so bleiben die zur Regelung der Rechtsstellung des früheren Eigentümers und seiner Angehörigen auf Grund des § 98, Abs. (1) bis (3), der Erbhofverfahrensordnung getroffenen Maßnahmen bestehen. Ein Beitrag des früheren Eigentümers zu den Bewirtschaftungskosten nach § 98, Abs. (5), der Erbhofverfahrensordnung entfällt, bereits geleistete Beiträge können jedoch nicht zurückgefordert werden.
+
+(2) Für Wohnungs- und Unterhaltsrechte, die auf Grund des § 98, Abs. (1) und (2), der Erbhofverfahrensordnung bestehen, haften mit dem Range vom Zeitpunkt des Inkrafttretens dieses Bundesgesetzes die zu dieser Zeit zum Erbhof gehörenden Liegenschaften. Sie sind im Grundbuch als Reallasten im Sinne dieses Bundesgesetzes einzutragen.
+
+(3) Die Bestimmungen der §§ 13 und 14 gelten sinngemäß.
+
+### § 19
+
+§ 19. (1) Dem früheren Eigentümer kann auf seinen Antrag durch die Bäuerliche Schlichtungsstelle das entzogene Eigentum wieder eingeräumt werden, wenn nach bäuerlicher Lebensordnung zureichende Gründe für die getroffene Maßnahme nicht anzuerkennen sind und bei Berücksichtigung aller Umstände des einzelnen Falles überwiegende Gründe für die Rückübertragung des Eigentumes sprechen. Sie ist ausgeschlossen, wenn im Zeitpunkt des Inkrafttretens dieses Bundesgesetzes der neue Eigentümer bereits verstorben und die Einantwortung seines Nachlasses schon verfügt ist.
+
+(2) Die Rückübertragung des Eigentums beschränkt sich auf das, was der neue Eigentümer noch im Besitz hat oder zu seinem Nachlaß gehört. Zum Ersatz ist vorzuschreiben, was der neue Eigentümer in unredlicher Weise aus dem Besitz gelassen hat (§ 952 ABGB.). § 16, Abs. (2), gilt sinngemäß.
+
+(3) Die Einleitung des Verfahrens auf Rückübertragung des Eigentums ist auf Ersuchen der Bäuerlichen Schlichtungsstelle im Grundbuch anzumerken. Die Anmerkung hat die Wirkungen einer Streitanmerkung nach § 61, Abs. (2), des Allgemeinen Grundbuchsgesetzes. § 65 des Allgemeinen Grundbuchsgesetzes gilt sinngemäß.
+
+(4) Der frühere Eigentümer kann den Antrag auf Rückübertragung des Eigentums bei der Bäuerlichen Schlichtungsstelle nur binnen einem Jahr nach Inkrafttreten dieses Bundesgesetzes stellen. Die Einleitung und Durchführung eines Verfahrens wird dadurch nicht gehindert, daß der neue Eigentümer stirbt, bevor ein Antrag gestellt oder ein gegen ihn eingeleitetes Verfahren beendet ist.
+
+> **Anmerkung:** Die Bestimmung ist infolge des Ablaufs der in Abs. 4 festgesetzten Frist gegenstandslos.
+
+> **Beachte:** Gemäß § 1 Abs. 1 des BG, BGBl. Nr. 184/1962, sind zur Besorgung der den Bäuerlichen Schlichtungsstellen noch obliegenden Aufgaben die Gerichte (§ 22) zuständig.
+
+### § 20
+
+§ 20. (1) Kommt es nicht gemäß § 19 zur Rückübertragung des Eigentumes, so kann einem Angehörigen des früheren Eigentümers, der im Falle des Todes des früheren Eigentümers zur Zeit der Entziehung des Eigentums nach dem allgemeinen Recht bei gesetzlicher Erbfolge dessen Erbe oder ein Miterbe gewesen wäre, auf seinen Antrag durch die Bäuerliche Schlichtungsstelle eine Entschädigung durch den neuen Eigentümer zuerkannt werden.
+
+(2) Die §§ 15 und 16 finden sinngemäß Anwendung. Über Anträge auf Entschädigung nach Abs. (1) kann erst entschieden werden, wenn feststeht, daß das Eigentum nicht gemäß § 19 vom neuen Eigentümer auf den früheren Eigentümer rückübertragen wird.
+
+> **Anmerkung:** Die Bestimmung ist infolge des Ablaufs der in § 15 Abs. 9 festgesetzten Frist gegenstandslos.
+
+> **Beachte:** Gemäß § 1 Abs. 1 des BG, BGBl. Nr. 184/1962, sind zur Besorgung der den Bäuerlichen Schlichtungsstellen noch obliegenden Aufgaben die Gerichte (§ 22) zuständig.
+
+### § 21 – Übergang des Eigentums am Erbhof in anderen Fällen.
+
+§ 21. Die §§ 19 und 20 finden sinngemäß Anwendung, wenn das Eigentum an einem Teil des Erbhofes oder am ganzen Erbhof zuletzt kraft Gesetzes auf Grund des § 22 der Erbhofrechtsverordnung oder durch gerichtliche Anordnung auf Grund der §§ 15, 27 oder 43 der Erbhoffortbildungsverordnung zu Lebzeiten des Eigentümers auf einen neuen Eigentümer übergegangen ist. Das gleiche gilt, wenn das Eigentum an einem Erbhof zuletzt durch einen Übergabsvertrag auf einen neuen Eigentümer übertragen worden ist.
+
+> **Anmerkung:** Infolge des Ablaufs der in § 15 Abs. 9 und in § 19 Abs. 4 festgesetzten Frist ist die Bestimmung gegenstandslos.
+
+### § 22 – Gerichtliches Verfahren.
+
+§ 22. (1) Soweit nach diesem Bundesgesetz das Gericht zur Entscheidung berufen ist, ist das Bezirksgericht zuständig, bei dem das für den früheren Erbhof zuständige Anerbengericht bestanden hat. Es entscheidet im Verfahren außer Streitsachen, allfällig nach Anhörung einer landwirtschaftlichen Berufskörperschaft oder von geeigneten und mit den Verhältnissen vertrauten Sachverständigen. Eine Verweisung auf den Rechtsweg findet nicht statt. Vor Bestellung von Sachverständigen und über Sachverständigengutachten sind die Parteien zu hören.
+
+(2) Das Gericht hat nach Tunlichkeit die Herstellung eines gütlichen Übereinkommens zu versuchen.
+
+(3) Zu den Verhandlungen kann die Partei auch in Begleitung eines Bevollmächtigten erscheinen.
+
+(4) Inwieweit die Kosten des Verfahrens von einer Partei zu ersetzen oder unter die Parteien zu teilen sind, entscheidet das Gericht nach freiem Ermessen. Die Kosten eines beigezogenen Vertreters hat die Partei stets selbst zu tragen.
+
+(5) Gegen die Entscheidung des Gerichtes zweiter Instanz findet kein Rechtsmittel statt.
+
+> **Anmerkung:** Zum Verfahren außer Streitsachen siehe Außerstreitgesetz, BGBl. I Nr. 111/2003.
+
+### § 23 – Bäuerliche Schlichtungsstelle.
+
+§ 23. (1) Bei jedem Amt der Landesregierung und beim Magistrat der Stadt Wien wird eine Bäuerliche Schlichtungsstelle gebildet. Sie kann auch außerhalb des Sitzes des Amtes der Landesregierung Sitzungen abhalten. Die Bäuerliche Schlichtungsstelle besteht aus einem vom Oberlandesgerichtspräsidenten bestellten Richter als Vorsitzenden, einem vom Landeshauptmann (Bürgermeister von Wien) berufenen rechtskundigen Verwaltungsbeamten und zwei von ihm auf Vorschlag der Landeslandwirtschaftskammer berufenen Mitgliedern. Für jedes Mitglied sind nach Bedarf ein oder mehrere Ersatzmitglieder zu bestellen, die im Falle der Verhinderung des Mitgliedes an dessen Stelle treten.
+
+(2) Die Bestellung zum Mitglied gilt für drei Kalenderjahre.
+
+(3) Die Mitglieder sind in Ausübung ihres Amtes unabhängig und an keine Weisungen gebunden.
+
+(4) Die Mitgliedschaft zur Bäuerlichen Schlichtungsstelle ist ein unbesoldetes Ehrenamt. Die den Mitgliedern zu ersetzenden Reise- und Aufenthaltsgebühren werden durch Verordnung festgesetzt.
+
+(5) Auf das Verfahren vor der Bäuerlichen Schlichtungsstelle finden die Bestimmungen des Allgemeinen Verwaltungsverfahrensgesetzes sinngemäß Anwendung.
+
+(6) Die Bäuerliche Schlichtungsstelle hat nach Tunlichkeit die Herstellung eines gütlichen Übereinkommens zu versuchen.
+
+(7) Die Bäuerliche Schlichtungsstelle faßt ihre Beschlüsse mit einfacher Mehrheit der Stimmen. Der Vorsitzende gibt seine Stimme zuletzt ab. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. Der Vorsitzende kann allein Vergleichsverhandlungen führen und zustandegekommene Vergleiche beurkunden.
+
+(8) Inwieweit die Kosten des Verfahrens von einer Partei zu ersetzen oder unter die Parteien zu teilen sind, entscheidet die Bäuerliche Schlichtungsstelle nach freiem Ermessen. Die Kosten eines beigezogenen Vertreters hat die Partei stets selbst zu tragen.
+
+(9) Die Bescheide der Bäuerlichen Schlichtungsstelle und die vor ihr geschlossenen Vergleiche sind Exekutionstitel im Sinne des § 1 der Exekutionsordnung. Sie sind als öffentliche Urkunden im Sinne des § 33 des Allgemeinen Grundbuchsgesetzes anzusehen.
+
+(10) Örtlich zuständig ist die Bäuerliche Schlichtungsstelle, in deren Sprengel das für den früheren Erbhof zuständig gewesene Anerbengericht seinen Sitz hatte.
+
+> **Anmerkung:** Zu Abs. 4: V des BMJ BGBl. Nr. 257/1947.
+
+> **Beachte:** Gemäß § 1 Abs. 1 des BG, BGBl. Nr. 184/1962, sind zur Besorgung der den Bäuerlichen Schlichtungsstellen noch obliegenden Aufgaben die Gerichte (§ 22) zuständig. Die Bestimmung ist daher gegenstandslos.
+
+### § 24
+
+§ 24. (1) Gegen die Entscheidung einer Bäuerlichen Schlichtungsstelle kann von jeder Partei die Berufung an die Bäuerliche Oberschlichtungsstelle erhoben werden.
+
+(2) Die Bäuerliche Oberschlichtungsstelle wird beim Bundesministerium für Land- und Forstwirtschaft in Wien gebildet. Sie kann außerhalb von Wien Sitzungen abhalten. Sie besteht aus einem vom Präsidenten des Obersten Gerichtshofes bestellten Mitglied des Obersten Gerichtshofes als Vorsitzenden, einem vom Bundesminister für Land- und Forstwirtschaft berufenen rechtskundigen Verwaltungsbeamten und zwei von ihm auf Vorschlag der Landeslandwirtschaftskammern berufenen Mitgliedern. Für jedes Mitglied sind nach Bedarf ein oder mehrere Ersatzmitglieder zu bestellen, die im Falle der Verhinderung des Mitgliedes an dessen Stelle treten.
+
+(3) Die Bestimmungen des § 23, Abs. (2) bis (9), finden Anwendung.
+
+> **Beachte:** Gemäß § 1 Abs. 1 des BG, BGBl. Nr. 184/1962, sind zur Besorgung der den Bäuerlichen Schlichtungsstellen noch obliegenden Aufgaben die Gerichte (§ 22) zuständig. Die Bestimmung ist daher gegenstandslos.
+
+### § 25 – Anhängige Verlassenschaftsabhandlungen.
+
+§ 25. Gemäß den Vorschriften des Erbhofrechtes anhängige Verlassenschaftsabhandlungen sind fortzusetzen. Soweit es durch die Bestimmungen des § 8 nötig wird, sind sie neu durchzuführen. In den unter § 8 fallenden Verfahren sind bereits abgegebene Erbserklärungen wirkungslos. Das gleiche gilt für Vereinbarungen im Hinblick auf eine Erbregelung gemäß dem Erbhofrecht. In diesen Verfahren anhängige Rekurse sind vom Rekursgericht durch Beschluß insoweit als gegenstandslos zu erklären, als sie erbhofrechtliche Fragen zum Gegenstand haben.
+
+> **Anmerkung:** 1\. Zur Verlassenschaftsabhandlung siehe die §§ 143 bis 185 Außerstreitgesetz, BGBl. I Nr. 111/2003.
+>
+> 2\. Zu den Erbantrittserklärungen siehe die §§ 157ff Außerstreitgesetz, BGBl. I Nr. 111/2003, sowie die §§ 799ff ABGB, JGS Nr. 946/1811.
+>
+> 3\. Die Bestimmung ist durch Zeitablauf gegenstandslos.
+
+### § 26 – Anhängige anerbenbehördliche Verfahren.
+
+§ 26. (1) Soweit anerbenbehördliche Verfahren noch als nicht kriegsdringlich zurückgestellt oder aus einem anderen Grunde unterbrochen sind, endet die Zurückstellung oder Unterbrechung mit dem Inkrafttreten dieses Bundesgesetzes.
+
+(2) Die bei einem Anerbengericht anhängigen Rechtssachen sind von dem Bezirksgericht, bei dem das bisher zuständige Anerbengericht bestanden hat, an die nunmehr zuständige Behörde zu überweisen. Fehlt es an einer solchen, so hat dieses Bezirksgericht selbst im Verfahren außer Streitsachen zu entscheiden.
+
+(3) Verfahren, die durch die Aufhebung des Erbhofrechtes gegenstandslos geworden sind, sind durch Beschluß einzustellen. Andere Verfahren sind fortzusetzen. Soweit es durch die Änderung des anzuwendenden Rechtes nötig wird, sind sie neu durchzuführen.
+
+(4) Rechtsmittelfristen, die noch nicht abgelaufen sind, beginnen nach den nunmehr geltenden Vorschriften mit dem Tage des Inkrafttretens dieses Bundesgesetzes. Innerhalb dieser Fristen können nur nach den nunmehr geltenden Vorschriften zulässige Rechtsmittel erhoben werden.
+
+(5) Entscheidungen des Reichserbhofgerichtes über Beschwerden gegen Entscheidungen der im Gebiet der Republik Österreich gelegenen Anerbenbehörden sind unwirksam, wenn sie nach dem 27. April 1945 erlassen worden sind oder zwar früher gefällt wurden, aber den österreichischen Anerbenbehörden nicht spätestens am 1. Oktober 1945 zugekommen sind.
+
+(6) Hat in einem Verfahren, das nach Abs. (2) fortzusetzen ist, über eine an das Reichserbhofgericht gerichtete Beschwerde dieses Gericht noch nicht entschieden oder ist seine Entscheidung nach Abs. (5) unwirksam, so hat die nach den nunmehr geltenden Vorschriften in letzter Instanz zuständige Behörde zu entscheiden. Bei Beschwerden gemäß § 11 und § 15, Abs. (2), der Zweiten Kriegsvereinfachungs-Verordnung für das Erbhofrecht vom 27. September 1944, Deutsches R. G. Bl. I S. 238, ist die in zweiter Instanz zuständige Behörde zur Entscheidung berufen.
+
+(7) Verfahren über Gebühren und Auslagen (§§ 99 ff. der Erbhofverfahrensordnung) sind von dem Gericht, bei dem die für sie zuständige Anerbenbehörde bestanden hat, unter Zugrundelegung der bisherigen Vorschriften durchzuführen. An die Stelle des Reichserbhofgerichtes tritt der Oberste Gerichtshof.
+
+(8) Dem Reichserbhofgericht oder anderen ausländischen Gerichten oder Behörden übersendete Akten über Erbhofsachen sind auf Antrag eines Beteiligten zu erneuern, wenn sie noch nicht zurückgelangt sind. Die Bestimmungen der §§ 20 bis 33 der Verordnung vom 9. August 1927, B. G. Bl. Nr. 248, sind sinngemäß anzuwenden.
+
+> **Anmerkung:** 1\. Zu Abs. 2: Zum Verfahren außer Streitsachen siehe Außerstreitgesetz, BGBl. I Nr. 111/2003.
+>
+> 2\. Die Bestimmung ist durch Zeitablauf gegenstandslos.
+
+## III. Ausführungsbestimmungen zur Aufhebung des Landbewirtschaftungsrechtes.
+
+### § 27 – Bewirtschaftungsmaßnahmen.
+
+§ 27. (1) Besteht auf einem landwirtschaftlichen Betrieb oder auf einem Grundstück auf Grund der Verordnung zur Durchführung der Verordnung zur Sicherung der Landbewirtschaftung vom 20. Jänner 1943, Deutsches R. G. Bl. I S. 35, (im folgenden mit „Verordnung“ bezeichnet) eine Wirtschaftsüberwachung durch einen Vertrauensmann (§§ 7 bis 11 der Verordnung) oder eine treuhänderische Verwaltung (§§ 12 bis 23 der Verordnung), so verlieren diese Maßnahmen, wenn sie nicht durch Zeitablauf oder aus einem anderen Grunde schon früher enden, drei Monate nach dem Inkrafttreten dieses Bundesgesetzes ihre Wirksamkeit. Nach Ablauf dieser Frist sind die bücherlichen Anmerkungen über die treuhänderischen Verwaltungen auf Antrag des Eigentümers oder von Amts wegen zu löschen.
+
+(2) Das Gericht kann die im Abs. (1) genannten Maßnahmen auf Antrag des Nutzungsberechtigten schon früher aufheben, wenn wichtige Interessen des Nutzungsberechtigten es erfordern. In diesem Falle hat das Gericht von Amts wegen die Löschung bücherlicher Anmerkungen über die treuhänderischen Verwaltungen zu veranlassen.
+
+(3) Auf Antrag einer der Parteien hat das Gericht die gemäß § 8, Abs. (6), der Verordnung dem Vertrauensmann zu erstattenden Kosten und baren Auslagen sowie die gemäß § 20, Abs. (2), der Verordnung dem Treuhänder zu erstattenden Auslagen und die ihm für seine Tätigkeit zu gewährende Vergütung festzusetzen. Die Ansprüche auf Auslagenersatz und Vergütung verjähren in sechs Monaten nach dem Inkrafttreten dieses Bundesgesetzes.
+
+(4) Der abtretende Treuhänder hat dem Gericht binnen drei Monaten nach Beendigung der Verwaltung die im § 18, Abs. (3), der Verordnung vorgesehene Schlußrechnung zu legen, wenn nicht der Nutzungsberechtigte ihn von der gerichtlichen Erstattung einer Schlußrechnung befreit. Mit der Schlußrechnung zusammenhängende Streitigkeiten entscheidet das Gericht, dem die Schlußrechnung zu legen ist.
+
+(5) Als Gericht schreitet das bisher zuständige Bezirksgericht ein. Es entscheidet im Verfahren außer Streitsachen. Gegen die Entscheidung des Gerichtes zweiter Instanz findet kein Rechtsmittel statt.
+
+(6) Für Verpachtungen durch einen Treuhänder gelten sinngemäß die Bestimmungen des § 28.
+
+> **Anmerkung:** 1\. Zu Abs. 5: Zum Verfahren außer Streitsachen siehe Außerstreitgesetz, BGBl. I Nr. 111/2003.
+>
+> 2\. Infolge des Ablaufs der in den Abs. 1, 3 und 4 festgesetzten Fristen ist die Bestimmung gegenstandslos.
+
+### § 28
+
+§ 28. Ein auf Grund des § 24 der Verordnung bestehender Pachtvertrag kann auf Antrag des Verpächters vom Pachtamt auch vorzeitig aufgehoben werden, wenn die Voraussetzungen des § 3, Abs. (2), Z. 3, der Reichspachtschutzordnung vom 30. Juli 1940, Deutsches R. G. Bl. I S. 1065, gegeben sind.
+
+> **Anmerkung:** An die Stelle der Reichspachtschutzordnung trat mit 1. 1. 1970 das Landpachtgesetz, BGBl. Nr. 451/1969.
+
+### § 29
+
+§ 29. Ist in einem auf Grund des § 28 der Verordnung eingeleiteten Zwangsversteigerungsverfahren der Zuschlag noch nicht rechtskräftig erteilt, so ist das Verfahren einzustellen oder der Zuschlag zu versagen.
+
+> **Anmerkung:** Die Bestimmung ist durch Zeitablauf gegenstandslos.
+
+### § 30 – Anhängige Verfahren.
+
+§ 30. (1) Soweit Verfahren noch als nicht kriegsdringlich zurückgestellt oder aus einem anderen Grunde unterbrochen sind, endet die Zurückstellung oder Unterbrechung mit dem Inkrafttreten dieses Bundesgesetzes.
+
+(2) Anhängige Verfahren, die durch die Aufhebung des Landbewirtschaftungsrechtes gegenstandslos geworden sind, sind durch Beschluß einzustellen. Andere Verfahren sind von dem bisher zuständigen Gericht im Verfahren außer Streitsachen durchzuführen.
+
+(3) Verfahren über Gebühren und Auslagen sind von dem Gericht, bei dem sie anhängig sind, unter Zugrundelegung der bisherigen Vorschriften durchzuführen.
+
+> **Anmerkung:** 1\. Zu Abs. 2: Zum Verfahren außer Streitsachen siehe Außerstreitgesetz, BGBl. I Nr. 111/2003.
+>
+> 2\. Die Bestimmung ist durch Zeitablauf gegenstandslos.
+
+## IV. Schlußbestimmungen.
+
+### § 31
+
+§ 31. Mit der Vollziehung dieses Bundesgesetzes sind die Bundesministerien für Justiz, für Land- und Forstwirtschaft und für Finanzen betraut.

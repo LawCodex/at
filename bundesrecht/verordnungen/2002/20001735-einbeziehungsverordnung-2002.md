@@ -1,0 +1,44 @@
+---
+title: "Einbeziehungsverordnung 2002"
+identifier: "20001735"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 72/2002"
+last_amended: 2002-03-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2002/72/P0/NOR30001885"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001735"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Einbeziehungsverordnung 2002
+
+Verordnung des Bundesministers für soziale Sicherheit und Generationen betreffend die Einbeziehung einer weiteren Personengruppe in den anspruchsberechtigten Personenkreis des Bundespflegegeldgesetzes (Einbeziehungsverordnung 2002)
+
+StF: BGBl. II Nr. 72/2002
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 3 Abs. 4 des Bundespflegegeldgesetzes, BGBl. Nr. 110/1993, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 69/2001, wird mit Zustimmung des Bundesministers für Finanzen verordnet:
+
+## § 1
+
+§ 1. Nachstehende Personen zählen zum anspruchsberechtigten Personenkreis gemäß § 3 Abs. 1 des Bundespflegegeldgesetzes:
+
+Weltpriester der Katholischen Kirche, welche in einer ihren Sitz im Bundesgebiet habenden Diözese inkardiniert oder vorläufig aufgenommen sind und Anspruch auf Bezüge gegen eine dieser Diözesen haben.
+
+## § 2
+
+§ 2. Die Entscheidung in Angelegenheiten nach dem Bundespflegegeldgesetz obliegt hinsichtlich der im § 1 genannten Personen der Pensionsversicherungsanstalt der Angestellten.
+
+## § 3
+
+§ 3. Bringen die im § 1 genannten Personen bis 31. August 2002 einen Antrag auf Zuerkennung des Pflegegeldes ein, ist dieses ab Vorliegen der Voraussetzungen – frühestens ab 1. März 2002 – zu leisten.
+
+## § 4
+
+§ 4. Diese Verordnung tritt mit 1. März 2002 in Kraft.

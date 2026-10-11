@@ -1,0 +1,205 @@
+---
+title: "Beförderungsvertrag im internationalen Straßengüterverkehr (CMR) - Protokoll"
+identifier: "20003273"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 192/1981"
+last_amended: 2020-07-11
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1981/192/P0/NOR40224584"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003273"
+retrieved: 2026-10-11
+documents: 13
+---
+
+# Beförderungsvertrag im internationalen Straßengüterverkehr (CMR) - Protokoll
+
+(Übersetzung)
+
+PROTOKOLL ZUM ÜBEREINKOMMEN ÜBER DEN BEFÖRDERUNGSVERTRAG IM INTERNATIONALEN STRASSENGÜTERVERKEHR (CMR) \*)
+
+StF: BGBl. Nr. 192/1981 (NR: GP XV RV 432 AB 500 S. 51. BR: AB 2239 S. 403.)
+
+**Unterzeichnungsdatum:** 05.07.1978
+
+**Vertragsparteien:** Vertragsparteien siehe Stammvertrag, BGBl. Nr. 138/1961
+
+**Sprachen:** Englisch, Französisch
+
+<details>
+<summary>Änderungen</summary>
+
+etwaige idF-Liste siehe Stammvertrag, BGBl. Nr. 138/1961  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluß des nachstehenden Staatsvertrages wird genehmigt.
+
+DIE VERTRAGSPARTEIEN DIESES PROTOKOLLS –
+
+ALS VERTRAGSPARTEIEN des am 19. Mai 1956 in Genf beschlossenen Übereinkommens über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR) –
+
+SIND wie folgt ÜBEREINGEKOMMEN:
+
+### Art. 1 – Artikel 1
+
+Im Sinn dieses Protokolls bedeutet “Übereinkommen” das Übereinkommen über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR).
+
+## Artikel 2
+
+### Art. 2
+
+Artikel 23 des Übereinkommens wird wie folgt geändert:
+
+(1) Absatz 3 wird durch folgenden Wortlaut ersetzt:
+
+(Anm.: Es folgt der Text der Änderung.)
+
+(2) Am Schluß dieses Artikels werden die folgenden Absätze 7, 8 und 9 hinzugefügt:
+
+(Anm.: Es folgt der Text der Änderung.)
+
+### Art. 3
+
+\**SCHLUSSBESTIMMUNGEN**
+
+**Artikel 3**
+
+(1) Dieses Protokoll liegt für Staaten, die das Übereinkommen unterzeichnet haben oder ihm beigetreten sind und die entweder Mitgliedstaaten der Wirtschaftskommission für Europa oder nach Absatz 8 des der Kommission erteilten Auftrages in beratender Eigenschaft zu der Kommission zugelassen sind, zur Unterzeichnung auf.
+
+(2) Dieses Protokoll liegt für die in Absatz 1 bezeichneten Staaten, die Vertragsparteien des Übereinkommens sind, zum Beitritt auf.
+
+(3) Staaten, die nach Absatz 11 des der Wirtschaftskommission für Europa erteilten Auftrages berechtigt sind, an bestimmten Arbeiten der Kommission teilzunehmen, und die dem Übereinkommen beigetreten sind, können Vertragsparteien dieses Protokolls werden, indem sie ihm nach seinem Inkrafttreten beitreten.
+
+(4) Dieses Protokoll liegt vom 1. September 1978 bis zum 31. August 1979 in Genf zur Unterzeichnung auf. Danach liegt es zum Beitritt auf.
+
+(5) Dieses Protokoll bedarf der Ratifikation, nachdem der betreffende Staat das Übereinkommen ratifiziert hat oder ihm beigetreten ist.
+
+(6) Die Ratifikation oder der Beitritt erfolgt durch Hinterlegung einer Urkunde beim Generalsekretär der Vereinten Nationen.
+
+(7) Jede Ratifikations- oder Beitrittsurkunde, die hinterlegt wird, nachdem eine Änderung dieses Protokolls für alle Vertragsparteien in Kraft getreten ist oder nachdem alle für das Inkrafttreten der Änderung für diese Vertragsparteien notwendigen Maßnahmen getroffen worden sind, gilt für das Protokoll in der geänderten Fassung.
+
+### Art. 4 – Artikel 4
+
+(1) Dieses Protokoll tritt am neunzigsten Tag nach Hinterlegung der Ratifikations- oder Beitrittsurkunden durch fünf der in Artikel 3 Absätze 1 und 2 bezeichneten Staaten in Kraft.
+
+(2) Dieses Protokoll tritt für jeden Staat, der es nach Hinterlegung der Ratifikations- oder Beitrittsurkunden durch fünf Staaten ratifiziert oder ihm beitritt, am neunzigsten Tag nach Hinterlegung seiner Ratifikations- oder Beitrittsurkunde in Kraft.
+
+### Art. 5 – Artikel 5
+
+(1) Jede Vertragspartei kann dieses Protokoll durch eine an den Generalsekretär der Vereinten Nationen gerichtete Notifikation kündigen.
+
+(2) Die Kündigung wird zwölf Monate nach Eingang der Notifikation beim Generalsekretär wirksam.
+
+(3) Eine Vertragspartei, die aufhört, Vertragspartei des Übereinkommens zu sein, hört damit auch auf, Vertragspartei dieses Protokolls zu sein.
+
+### Art. 6 – Artikel 6
+
+Sinkt durch Kündigungen die Anzahl der Vertragsparteien nach Inkrafttreten dieses Protokolls auf weniger als fünf, so tritt das Protokoll mit dem Tag außer Kraft, an dem die letzte dieser Kündigungen wirksam wird. Es tritt auch mit dem Tag außer Kraft, an dem das Übereinkommen außer Kraft tritt.
+
+### Art. 7 – Artikel 7
+
+(1) Jeder Staat kann bei der Hinterlegung seiner Ratifikations- oder Beitrittsurkunde oder zu jedem späteren Zeitpunkt durch eine an den Generalsekretär der Vereinten Nationen gerichtete Notifikation erklären, daß dieses Protokoll für alle oder für einen Teil der Hoheitsgebiete gelten soll, deren internationale Beziehungen er wahrnimmt und hinsichtlich deren er eine Erklärung nach Artikel 46 des Übereinkommens abgegeben hat. Das Protokoll wird für das oder die in der Notifikation genannten Hoheitsgebiete am neunzigsten Tag nach Eingang der Notifikation beim Generalsekretär der Vereinten Nationen oder, falls das Protokoll noch nicht in Kraft getreten ist, mit seinem Inkrafttreten wirksam.
+
+(2) Jeder Staat, der nach Absatz 1 erklärt hat, daß dieses Protokoll für ein Hoheitsgebiet gelten soll, dessen internationale Beziehungen er wahrnimmt, kann das Protokoll allein für dieses Hoheitsgebiet nach Artikel 5 kündigen.
+
+### Art. 8 – Artikel 8
+
+Jede Streitigkeit zwischen zwei oder mehr Vertragsparteien über die Auslegung oder Anwendung dieses Protokolls, welche die Parteien nicht durch Verhandlungen oder auf anderem Weg beilegen können, kann auf Antrag einer der beteiligten Vertragsparteien dem Internationalen Gerichtshof zur Entscheidung unterbreitet werden.
+
+### Art. 9 – Artikel 9
+
+(1) Jede Vertragspartei kann bei der Unterzeichnung oder der Ratifikation dieses Protokolls oder beim Beitritt zu diesem durch eine an den Generalsekretär der Vereinten Nationen gerichtete Notifikation erklären, daß sie sich durch Artikel 8 nicht als gebunden betrachtet. Die anderen Vertragsparteien sind gegenüber einer Vertragspartei, die einen solchen Vorbehalt gemacht hat, durch
+
+Artikel 8 nicht gebunden.
+
+(2) Eine Erklärung nach Absatz 1 kann jederzeit durch eine an den Generalsekretär der Vereinten Nationen gerichtete Notifikation zurückgezogen werden.
+
+(3) Andere Vorbehalte zu diesem Protokoll sind nicht zulässig.
+
+### Art. 10 – Artikel 10
+
+(1) Nachdem dieses Protokoll drei Jahre lang in Kraft gewesen ist, kann jede Vertragspartei durch eine an den Generalsekretär der Vereinten Nationen gerichtete Notifikation die Einberufung einer Konferenz zur Revision des Protokolls beantragen. Der Generalsekretär notifiziert diesen Antrag allen Vertragsparteien und beruft eine solche Konferenz ein, wenn binnen vier Monaten nach der von ihm vorgenommenen Notifikation mindestens ein Viertel der Vertragsparteien ihm ihre Zustimmung zu dem Antrag mitteilt.
+
+(2) Wird eine Konferenz nach Absatz 1 einberufen, so teilt der Generalsekretär dies allen Vertragsparteien mit und fordert sie auf, binnen drei Monaten die Vorschläge einzureichen, die sie durch die Konferenz prüfen lassen wollen. Der Generalsekretär übermittelt allen Vertragsparteien mindestens drei Monate vor Eröffnung der Konferenz deren vorläufige Tagesordnung sowie den Wortlaut der Vorschläge.
+
+(3) Der Generalsekretär lädt zu jeder nach diesem Artikel einberufenen Konferenz alle in Artikel 3 Absätze 1 und 2 bezeichneten Staaten sowie die Staaten ein, die auf Grund des Artikels 3 Absatz 3 Vertragsparteien geworden sind.
+
+### Art. 11 – Artikel 11
+
+Außer den in Artikel 10 vorgesehenen Notifikationen notifiziert der Generalsekretär der Vereinten Nationen den in Artikel 3 Absätze 1 und 2 bezeichneten Staaten sowie den Staaten, die auf Grund des Artikels 3 Absatz 3 Vertragsparteien geworden sind,
+
+a) die Ratifikationen und Beitritte nach Artikel 3;
+
+b) die Zeitpunkte, zu denen dieses Protokoll nach Artikel 4 in Kraft tritt;
+
+c) den Eingang der Mitteilungen nach Artikel 2 Absatz (2);
+
+d) die Kündigungen nach Artikel 5;
+
+e) das Außerkrafttreten dieses Protokolls nach Artikel 6;
+
+f) den Eingang der Notifikationen nach Artikel 7;
+
+g) den Eingang der Erklärungen und Notifikationen nach Artikel 9 Absätze (1) und (2).
+
+### Art. 12 – Artikel 12
+
+Nach dem 31. August 1979 wird die Urschrift dieses Protokolls beim Generalsekretär der Vereinten Nationen hinterlegt; dieser übermittelt allen in Artikel 3 Absätze 1, 2 und 3 bezeichneten Staaten beglaubigte Abschriften.
+
+GESCHEHEN zu Genf am 5. Juli 1978, in einer Urschrift in englischer und französischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist.
+
+ZU URKUND DESSEN haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben.
+
+## Ratifikationstext
+
+***(Anm.: letzte Anpassung durch Kundmachung BGBl. III Nr. 101/2020)***
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Beitrittsurkunde wurde am 19. Feber 1981 hinterlegt; das Protokoll tritt gemäß seinem Art. 4 Abs. 2 für Österreich am 20. Mai 1981 in Kraft. Zum Zeitpunkt der Hinterlegung der Beitrittsurkunde Österreichs war das Protokoll bereits für Dänemark, die Bundesrepublik Deutschland (einschließlich Berlin West), Finnland, Luxemburg und das Vereinigte Königreich Großbritannien und Nordirland (einschließlich Gibraltar) in Kraft.
+
+Nachstehende Staaten haben anläßlich der Hinterlegung der Ratifikations- bzw. Beitrittsurkunden Vorbehalte erklärt:
+
+**Frankreich:**
+
+„Die Regierung der Französischen Republik erklärt unter Bezugnahme auf Art. 9 des Protokolls, daß sie sich nicht an Art. 8, welcher die obligatorische Zuständigkeit des Internationalen Gerichtshofes vorsieht, gebunden erachtet.“
+
+**Rumänien:**
+
+„Die Sozialistische Republik Rumänien erklärt gemäß Art. 9 des Protokolls zum Übereinkommen über den Beförderungsvertrag im Internationalen Straßengüterverkehr (CMR), daß sie sich nicht an die Bestimmungen des Art. 8 des Protokolls, wonach jede Streitigkeit zwischen zwei oder mehr Vertragsparteien über die Auslegung oder Anwendung dieses Protokolls, welche die Parteien nicht durch Verhandlungen oder auf anderem Weg beilegen können, auf Antrag einer der beteiligten Vertragsparteien dem Internationalen Gerichtshof zur Entscheidung unterbreitet werden kann, gebunden erachtet.
+
+Die Sozialistische Republik Rumänien findet, daß solche Streitigkeiten in jedem einzelnen Fall dem Internationalen Gerichtshof nur mit Zustimmung aller Streitparteien zur Entscheidung unterbreitet werden können.“
+
+**Schweiz:**
+
+Die Schweiz hat anläßlich der Hinterlegung ihrer Beitrittsurkunde nachstehende Erklärung abgegeben:
+
+„Unter Bezugnahme auf die gemäß Artikel 2 des Protokolls hinzugefügten neuen Absätze 7 und 9 des Artikels 23 des CMR erklärt der Schweizer Bundesrat, daß die Schweiz den Wert ihrer nationalen Währung in Sonderziehungsrechten (SZR) auf folgende Weise berechnet:
+
+Jeden Tag gibt die Schweizer Nationalbank (BNS) dem Internationalen Währungsfonds (IWF) den Mittelkurs des US-Dollars am Züricher Devisenmarkt bekannt. Den Kurswert eines SZR in Schweizer Franken erhält man, indem man den Wechselkurs des Dollars und den Kurs des SZR in Dollar, so wie er vom IWF berechnet wird, heranzieht. Auf Grund dieser Werte berechnet die Schweizer Nationalbank einen Mittelkurs des SZR, den sie in ihrem Monatsbericht veröffentlicht.“
+
+**Türkei:**
+
+Anläßlich der Hinterlegung ihrer Beitrittsurkunde hat die Türkei den Vorbehalt erklärt, daß es sich nicht an Art. 8 des Protokolls gebunden erachtet.
+
+**Ukraine:**
+
+Die Ukraine hat unter Bezugnahme auf Art. 9 Abs. 1 des Protokolls erklärt, sich als durch Art. 8 nicht gebunden zu betrachten.
+
+**Vereinigtes Königreich:**
+
+Das Vereinigte Königreich hat mit Note, welche am 19. April 1982 hinterlegt wurde, den Geltungsbereich des Protokolls auf die Insel Man ausgedehnt.
+
+Einer weiteren Mitteilung des Generalsekretärs der Vereinten Nationen zufolge hat das Vereinigte Königreich am 9. Oktober 1986 den Geltungsbereich auf Guernsey ausgedehnt.
+
+## Sonstige Textteile
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\*) Kundgemacht in BGBl. Nr. 138/1961

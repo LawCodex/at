@@ -1,0 +1,125 @@
+---
+title: "Erlassung der Prüfungsordnung für die Lehrabschlußprüfung im Lehrberuf Miedererzeuger"
+identifier: "10006605"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 29/1978"
+date: 1977-12-15
+last_amended: 1978-02-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1978/29/P0/NOR11006718"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006605"
+retrieved: 2026-10-11
+documents: 7
+---
+
+# Erlassung der Prüfungsordnung für die Lehrabschlußprüfung im Lehrberuf Miedererzeuger
+
+Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 15. Dezember 1977, mit der die Prüfungsordnung für die Lehrabschlußprüfung im Lehrberuf Miedererzeuger erlassen wird
+
+StF: BGBl. Nr. 29/1978
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 24 des Berufsausbildungsgesetzes, BGBl. Nr. 142/1969, wird verordnet:
+
+## § 1 – Gliederung der Lehrabschlußprüfung
+
+§ 1. (1) Die Lehrabschlußprüfung im Lehrberuf Miedererzeuger gliedert sich in eine praktische und in eine theoretische Prüfung.
+
+(2) Die praktische Prüfung umfaßt die Gegenstände
+
+a) Prüfarbeit,
+
+b) Fachgespräch.
+
+(3) Die theoretische Prüfung umfaßt die Gegenstände
+
+a) Fachrechnen,
+
+b) Fachkunde,
+
+c) Fachzeichnen.
+
+Die Prüfung in den Gegenständen a) bis c) erfolgt schriftlich.
+
+(4) Die Gegenstände der theoretischen Prüfung sind nicht zu prüfen, wenn der Prüfling die Erreichung des Lehrzieles der letzten Klasse der fachlichen Berufsschule gemäß § 4 Abs. 1 der Verordnung BGBl. Nr. 170/1974 nachgewiesen hat.
+
+## § 2 – Durchführung der praktischen Prüfung
+
+§ 2. (1) Die Prüfung im Gegenstand „Prüfarbeit“ hat die Fertigstellung je eines bereits zugeschnittenen Büstenhalters und Strumpfbandgürtels zu umfassen.
+
+(2) Die Prüfungskommission hat unter Bedachtnahme auf den Zweck der Lehrabschlußprüfung und die Anforderungen der Berufspraxis jedem Prüfling eine Prüfarbeit zu stellen, die in der Regel in vier Arbeitsstunden durchgeführt werden kann.
+
+(3) Die Prüfung im Gegenstand „Prüfarbeit“ ist nach fünf Arbeitsstunden zu beenden.
+
+(4) Die Prüfung im Gegenstand „Fachgespräch“ ist unter Verwendung von Fachausdrücken vor der gesamten Prüfungskommission abzulegen; sie hat sich aus der praktischen Tätigkeit heraus zu entwickeln und das praktische Wissen des Prüflings festzustellen.
+
+(5) Die Themenstellung hat dem Zweck der Lehrabschlußprüfung und den Anforderungen der Berufspraxis zu entsprechen. Fragen über Schutzmaßnahmen und Unfallverhütung sind miteinzubeziehen.
+
+(6) Die Dauer der Prüfung im Gegenstand „Fachgespräch“ soll je Prüfling 20 Minuten nicht übersteigen. Eine Verlängerung kann im Einzelfall erfolgen, wenn der Prüfungskommission eine zweifelsfreie Beurteilung des Prüflings sonst nicht möglich erscheint.
+
+(7) Für die Bewertung im Gegenstand „Prüfarbeit“ sind folgende Kriterien maßgebend:
+
+Sauberkeit der Ausführung,
+
+Verwenden der richtigen Werkzeuge bei der Ausführung der Prüfarbeit,
+
+Genauigkeit der Ausführung.
+
+## § 3 – Durchführung der theoretischen Prüfung
+
+§ 3. (1) Die theoretische Prüfung kann für eine größere Anzahl von Prüflingen gemeinsam durchgeführt werden, wenn dies ohne Beeinträchtigung des Prüfungsablaufes möglich ist.
+
+(2) Der theoretische Prüfungsteil hat in der Regel zeitlich vor dem praktischen Prüfungsteil zu liegen.
+
+(3) Die schriftlichen Prüfungsaufgaben haben nach Umfang und Niveau dem Zweck der Lehrabschlußprüfung und den Anforderungen der Berufspraxis zu entsprechen. Im Gegenstand „Fachrechnen“ ist die Verwendung von Formel- und Tabellenbehelfen zulässig.
+
+(4) Die schriftlichen Arbeiten des Prüflings sind entsprechend zu kennzeichnen.
+
+(5) Die Prüfung im Gegenstand „Fachrechnen“ hat die Durchführung je einer Prüfungsaufgabe aus sämtlichen nachstehenden Bereichen zu umfassen:
+
+Materialbedarfsberechnung,
+
+einfache Kalkulation.
+
+(6) Die Aufgaben sind so zu stellen, daß sie in der Regel in 40 Minuten durchgeführt werden können. Die Prüfung in diesem Gegenstand ist nach 60 Minuten zu beenden.
+
+(7) Die Prüfung im Gegenstand „Fachkunde“ hat die stichwortartige Durchführung je einer Prüfungsaufgabe aus sämtlichen nachstehenden Bereichen zu umfassen:
+
+Werkstoffe,
+
+Arbeitsverfahren,
+
+Werkzeuge, Geräte und Maschinen.
+
+(8) Die Aufgaben sind so zu stellen, daß sie in der Regel in 40 Minuten durchgeführt werden können. Die Prüfung in diesem Gegenstand ist nach 60 Minuten zu beenden.
+
+(9) Die Prüfung im Gegenstand „Fachzeichnen“ hat das Zeichnen des Schnittes eines Mieders nach Angabe von Maßen zu umfassen.
+
+(10) Die Aufgabe ist so zu stellen, daß sie in der Regel in 60 Minuten durchgeführt werden kann. Die Prüfung in diesem Gegenstand ist nach 90 Minuten zu beenden.
+
+## § 4 – Wiederholungsprüfung
+
+§ 4. (1) Die Lehrabschlußprüfung kann wiederholt werden, wenn sie nicht bestanden wurde.
+
+(2) Wenn mehr als drei Prüfungsgegenstände mit „nichtgenügend“ bewertet wurden, ist die gesamte Prüfung zu wiederholen; andernfalls ist die Wiederholungsprüfung auf die mit „nichtgenügend“ bewerteten Gegenstände zu beschränken.
+
+(3) Ist die Wiederholungsprüfung auf die mit „nichtgenügend“ bewerteten Gegenstände zu beschränken, hat die Prüfungskommission unter Berücksichtigung der festgestellten Mängel an Fertigkeiten und Kenntnissen eine Wiederholungsprüfung zuzulassen, die frühestens drei, spätestens sechs Monate nach der nichtbestandenen Lehrabschlußprüfung zu liegen hat. Ansonsten darf die Wiederholungsprüfung frühestens sechs Monate nach der nichtbestandenen Lehrabschlußprüfung liegen.
+
+## § 5 – Zusatzprüfung
+
+§ 5. (1) Nach erfolgreich abgelegter Lehrabschlußprüfung im Lehrberuf Bandagist kann eine Zusatzprüfung im Lehrberuf Miedererzeuger abgelegt werden. Diese hat die Gegenstände „Prüfarbeit“ und „Fachgespräch“ zu umfassen.
+
+(2) Für die Zusatzprüfung gilt § 2 sinngemäß.
+
+## § 6 – Schlußbestimmungen
+
+§ 6. (1) Auf die Durchführung der Lehrabschlußprüfung im Lehrberuf Miedererzeuger ist im übrigen die Verordnung BGBl. Nr. 170/1974 anzuwenden.
+
+(2) Diese Verordnung tritt mit 1. Feber 1978 in Kraft.
+
+(3) Hinsichtlich der Personen, die vor dem 1. Feber 1978 zur Lehrabschlußprüfung angetreten sind, diese nicht bestanden haben, und die bis 31. Juli 1978 zu einer Wiederholungsprüfung antreten, tritt diese Verordnung mit 1. August 1978 in Kraft.

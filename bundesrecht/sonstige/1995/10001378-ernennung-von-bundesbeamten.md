@@ -1,0 +1,160 @@
+---
+title: "Ernennung von Bundesbeamten"
+identifier: "10001378"
+type: other
+ris_type: "Entschl. d. BPräs."
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 54/1995"
+last_amended: 2018-09-15
+last_amendment: "BGBl. II Nr. 245/2018"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1995/54/P0/NOR11001389"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001378"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Ernennung von Bundesbeamten
+
+Entschließung des Bundespräsidenten betreffend die Ausübung des Rechtes zur Ernennung von Bundesbeamten
+
+StF: BGBl. Nr. 54/1995
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 245/2018  
+
+</details>
+
+## Art. 1 – Artikel I
+
+(1) Auf Grund des Art. 66 Abs. 1 B-VG übertrage ich bis auf Widerruf den Mitgliedern der Bundesregierung das Recht, in ihrem Verwaltungsbereich Beamte auf folgende Planstellen zu ernennen:
+
+1\. Beamte des Allgemeinen Verwaltungsdienstes auf Planstellen
+
+a) der Verwendungsgruppen A 7 bis A 3,
+
+b) der Verwendungsgruppe A 2 mit Ausnahme der Funktionsgruppe 8,
+
+c) der Verwendungsgruppe A 1 mit Ausnahme der Funktionsgruppen 5 bis 9,
+
+2\. Beamte des Exekutivdienstes auf Planstellen
+
+a) der Verwendungsgruppen E 2c, E 2b und E 2a,
+
+b) der Verwendungsgruppe E 1 mit Ausnahme der Funktionsgruppen 8 bis 11,
+
+3\. Beamtinnen und Beamte des militärischen Dienstes auf Planstellen
+
+a) der Verwendungsgruppen M ZCh, M ZUO und M BUO,“
+
+b) der Verwendungsgruppen M ZO 3, M ZO 2 und M BO 2 mit Ausnahme der Funktionsgruppen 8 und 9,
+
+c) der Verwendungsgruppen M ZO 1 und M BO 1 mit Ausnahme der Funktionsgruppen 5 bis 9,
+
+4\. Richteramtsanwärterinnen und Richteramtsanwärter, Richterinnen und Richter sowie Staatsanwältinnen und Staatsanwälte auf Planstellen <sup>*(Anm. 1)*</sup>
+
+a) der Richteramtsanwärterinnen und Richteramtsanwärter,
+
+b) der Richterinnen und Richter der Gehaltsgruppen I und R 1a und R 1b mit Ausnahme der Präsidentinnen und Präsidenten sowie Vizepräsidentinnen und Vizepräsidenten der Gerichtshöfe erster Instanz,
+
+c) der Staatsanwältinnen und Staatsanwälte der Gehaltsgruppen I und St 1 mit Ausnahme der Leitenden und Ersten Staatsanwältinnen und Staatsanwälte,
+
+5\. Beamte des Schulaufsichtsdienstes auf Planstellen der Bezirksschulinspektoren,
+
+6\. Beamte der Post- und Telegraphenverwaltung auf Planstellen
+
+a) der Verwendungsgruppen PT 9 bis PT 3,
+
+b) der Verwendungsgruppen PT 2 mit Ausnahme der Dienstzulagengruppe S,
+
+c) der Verwendungsgruppen PT 1 mit Ausnahme der Dienstzulagengruppen 1 und S und mit Ausnahme der Beamten in zeitlich begrenzten Funktionen,
+
+7\. Beamte des Krankenpflegedienstes auf Planstellen der Verwendungsgruppen K 1 bis K 6,
+
+8\. Beamte der Allgemeinen Verwaltung und in handwerklicher Verwendung auf Planstellen der Dienstklassen III bis VII,
+
+9\. Wachebeamte und Berufsoffiziere auf Planstellen der Dienstklassen III bis VII.
+
+(2) Ferner ermächtige ich die zuständigen Mitglieder der Bundesregierung, das Recht zur Ernennung auf folgende Planstellen an Leiter von Dienstbehörden erster Instanz zu übertragen:
+
+1\. Beamte des Allgemeinen Verwaltungsdienstes auf Planstellen
+
+a) der Verwendungsgruppen A 7 bis A 4,
+
+b) der Grundlaufbahn und der Funktionsgruppen 1 und 2 der Verwendungsgruppen A 3 und A 2,
+
+c) der Grundlaufbahn und der Funktionsgruppe 1 der Verwendungsgruppe A 1,
+
+2\. Beamte des Exekutivdienstes auf Planstellen
+
+a) der Verwendungsgruppen E 2c und E 2b,
+
+b) der Grundlaufbahn und der Funktionsgruppen 1 bis 4 der Verwendungsgruppe E 2a,
+
+c) der Grundlaufbahn und der Funktionsgruppen 1 und 2 der Verwendungsgruppe E 1,
+
+3\. Beamtinnen und Beamte des militärischen Dienstes auf Planstellen
+
+a) der Verwendungsgruppen M ZCh sowie der Grundlaufbahn und der Funktionsgruppen 1 und 2 der Verwendungsgruppen M ZUO und M BUO,“
+
+b) der Grundlaufbahn und der Funktionsgruppen 1 und 2 der Verwendungsgruppen M ZO 3, M ZO 2 und M BO 2,
+
+c) der Grundlaufbahn und der Funktionsgruppe 1 der Verwendungsgruppen M ZO 1 und M BO 1,
+
+4\. Beamte der Post- und Telegraphenverwaltung auf Planstellen
+
+a) der Verwendungsgruppen PT 9 bis PT 3,
+
+b) der Dienstzulagengruppen 3b und 3 der Verwendungsgruppen PT 2,
+
+c) der Dienstzulagengruppen 3b und 3 der Verwendungsgruppen PT 1,
+
+5\. Beamte der Besoldungsgruppe der Beamten des Krankenpflegedienstes auf Planstellen der Verwendungsgruppen K 1 bis K 6,
+
+6\. Beamte der Allgemeinen Verwaltung und in handwerklicher Verwendung auf Planstellen
+
+a) der Verwendungsgruppen E, D und P 5 bis P 1,
+
+b) der Dienstklassen III und IV der Verwendungsgruppe C,
+
+c) der Dienstklassen III bis VI der Verwendungsgruppe B,
+
+d) der Dienstklassen III bis VII der Verwendungsgruppe A,
+
+7\. Wachebeamte auf Planstellen
+
+a) der Verwendungsgruppe W 3,
+
+b) der Dienstklassen III und IV der Verwendungsgruppe W 2,
+
+c) der Dienstklassen III bis VI der Verwendungsgruppe W 1,
+
+8\. Berufsoffiziere auf Planstellen
+
+a) der Dienstklassen III bis VI der Verwendungsgruppe H 2,
+
+b) der Dienstklassen III bis VII der Verwendungsgruppe H 1.
+
+(3) Die von den Mitgliedern der Bundesregierung mit der Ernennung betrauten Stellen haben die Ernennung im Namen des zuständigen Mitgliedes der Bundesregierung vorzunehmen.
+
+\*(\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+\*Anm. 1: Die zweite Anweisung der Novelle BGBl. II Nr. 245/2018 lautet „Art. I Abs. 1 Z 4 lit. b und c lautet: „4. ...“.“ Gemeint war wohl: „Art. I Abs. 1 Z 4 lautet: „4. ...“.“)*
+
+## Art. 2 – Artikel II
+
+Auf Grund des Art. 125 Abs. 1 B-VG ermächtige ich bis auf Widerruf den Präsidenten des Rechnungshofes, unbeschadet des diesem schon nach Art. 125 Abs. 2 B-VG zustehenden Rechtes zur Ernennung von Hilfskräften, die Beamten des Rechnungshofes auf die im Art. I Abs. 1 Z 1 und 8 umschriebenen Planstellen zu ernennen.
+
+## Art. 3 – Artikel III
+
+Auf Grund des Art. 148h Abs. 1 B-VG ermächtige ich bis auf Widerruf den Vorsitzenden der Volksanwaltschaft, Beamte der Volksanwaltschaft auf die im Art. I Abs. 1 Z 1 und 8 umschriebenen Planstellen zu ernennen.
+
+## Art. 4 – Artikel IV
+
+(1) Diese Entschließung tritt mit 1. Jänner 1995 in Kraft.
+
+(2) Mit Ablauf des 31. Dezember 1994 treten die Entschließung des Bundespräsidenten betreffend die Ausübung des Rechtes zur Ernennung von Bundesbeamten, BGBl. Nr. 312/1924, zuletzt geändert durch die Entschließung BGBl. Nr. 733/1993, sowie die Entschließung des Bundespräsidenten betreffend die Ausübung des Rechtes zur Ernennung von Beamten der Volksanwaltschaft, BGBl. Nr. 586/1977, außer Kraft.

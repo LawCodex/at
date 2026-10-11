@@ -1,0 +1,55 @@
+---
+title: "Bauherrenverordnung"
+identifier: "10004660"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 321/1990"
+date: 1990-05-18
+last_amended: 1990-06-23
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1990/321/P0/NOR11004709"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004660"
+retrieved: 2026-10-11
+documents: 6
+---
+
+# Bauherrenverordnung
+
+Verordnung des Bundesministers für Finanzen vom 18. Mai 1990 betreffend Herstellungs- und Instandsetzungsaufwendungen bei Gebäuden (Bauherrenverordnung)
+
+StF: BGBl. Nr. 321/1990
+
+## Präambel/Promulgationsklausel
+
+Zu § 28 Abs. 2 Z 2 bis 4 EStG 1972, BGBl. Nr. 440/1972, und § 28 Abs. 2 und 3 EStG 1988, BGBl. Nr. 400/1988, wird verordnet:
+
+## Artikel I
+
+### Art. 1 § 1
+
+§ 1. Im Zusammenhang mit der Anschaffung von Grund und Boden (Gebäuden) durch den Steuerpflichtigen gelten für die Herstellung (Instandsetzung) die §§ 2 bis 4.
+
+### Art. 1 § 2
+
+§ 2. Aufwendungen für die Herstellung (Instandsetzung) eines Gebäudes können nur dann gemäß § 28 Abs. 2 und 3 Einkommensteuergesetz 1988 (§ 28 Abs. 2 Z 2 bis 4 Einkommensteuergesetz 1972) abgesetzt werden, wenn der Steuerpflichtige das mit der Herstellung (Instandsetzung) verbundene wirtschaftliche Risiko trägt. Dieses Risiko trägt derjenige, der auf eigene Rechnung und Gefahr ein Gebäude herstellt (instand setzt) oder herstellen (instand setzen) läßt.
+
+### Art. 1 § 3
+
+§ 3. Ein wirtschaftliches Risiko gemäß § 2 ist anzunehmen, wenn folgende Voraussetzungen vorliegen:
+
+1\. Die Leistungen der die Herstellung (Instandsetzung) tatsächlich ausführenden Unternehmer müssen dem Steuerpflichtigen gegenüber aufgeschlüsselt werden. Wird gegenüber dem Steuerpflichtigen eine Preisgarantie abgegeben, so darf nicht ausgeschlossen sein, daß Preisunterschiede, die durch den Steuerpflichtigen oder durch Gesetze, Verordnungen bzw. behördliche Anordnungen verursacht worden sind, auf Rechnung des Steuerpflichtigen gehen.
+
+2\. Mit der tatsächlichen Bauausführung darf erst nach der Anschaffung des Grund und Bodens (Gebäudes) durch den Steuerpflichtigen begonnen werden.
+
+### Art. 1 § 4
+
+§ 4. Im Falle einer Personenvereinigung (Personengemeinschaft) ohne eigene Rechtspersönlichkeit können Aufwendungen nur von jenen Steuerpflichtigen gemäß § 28 Abs. 2 Z 2 bis 4 EStG 1972 bzw. gemäß § 28 Abs. 2 und 3 EStG 1988 abgesetzt werden, die die Voraussetzungen der §§ 2 und 3 erfüllen.
+
+## Artikel II
+
+### Art. 2
+
+Artikel I ist auf alle noch nicht endgültig rechtskräftig veranlagten Fälle anzuwenden.

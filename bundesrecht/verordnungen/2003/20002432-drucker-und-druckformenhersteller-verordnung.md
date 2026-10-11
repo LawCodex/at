@@ -1,0 +1,102 @@
+---
+title: "Drucker und Druckformenhersteller-Verordnung"
+identifier: "20002432"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 40/2003"
+last_amended: 2008-11-22
+last_amendment: "BGBl. II Nr. 399/2008"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2003/40/P0/NOR30002670"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002432"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Drucker und Druckformenhersteller-Verordnung
+
+Verordnung des Bundesministers für Wirtschaft und Arbeit über die Zugangsvoraussetzungen für das reglementierte Gewerbe der Drucker und Druckformenhersteller (Drucker und Druckformenhersteller-Verordnung)
+
+StF: BGBl. II Nr. 40/2003
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 399/2008  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 18 Abs. 1 der Gewerbeordnung 1994, BGBl. Nr. 194, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 111/2002, wird verordnet:
+
+## § 1 – Zugangsvoraussetzungen
+
+§ 1. Durch die im Folgenden angeführten Belege ist die fachliche Qualifikation zum Antritt des unbeschränkten Gewerbes der Drucker und Druckformenhersteller (§ 94 Z 15 GewO 1994) als erfüllt anzusehen:
+
+1\. Zeugnisse über
+
+a) den erfolgreichen Abschluss eines Fachhochschul-Studienganges, dessen schwerpunktmäßige Ausbildung im Medienbereich liegt und
+
+b) eine mindestens einjährige fachliche Tätigkeit (§ 18 Abs. 3 GewO 1994) oder
+
+2\. Zeugnisse über
+
+a) den erfolgreichen Abschluss einer berufsbildenden höheren Schule oder deren Sonderformen, deren Ausbildung im Bereich Medientechnik und Medienmanagement bzw. Reproduktions- und Drucktechnik mit einem für das reglementierte Gewerbe spezifischen Schwerpunkt liegt, und
+
+b) eine mindestens einjährige fachliche Tätigkeit oder
+
+3\. Zeugnisse über
+
+a) den erfolgreichen Abschluss einer mindestens dreijährigen berufsbildenden Schule, deren Ausbildung im Bereich Medientechnik und Medienmangement bzw. Reproduktions- und Drucktechnik mit einem für das reglementierte Gewerbe spezifischen Schwerpunkt liegt, und
+
+b) eine mindestens zweijährige fachliche Tätigkeit oder
+
+4\. Zeugnisse über
+
+a) die erfolgreich abgelegte Lehrabschlussprüfung im Lehrberuf Druckvorstufentechniker oder einem anderen dem Gewerbe der Drucker und Druckformenhersteller entsprechenden Lehrberuf mit Ausnahme des Lehrberufes Kupferdrucker und
+
+b) eine mindestens zweijährige fachliche Tätigkeit oder
+
+5\. das Zeugnis über die erfolgreich abgelegte Befähigungsprüfung oder
+
+6\. Zeugnisse über eine ununterbrochene sechsjährige einschlägige Tätigkeit als Selbstständiger oder als Betriebsleiter oder
+
+7\. Zeugnisse über eine ununterbrochene dreijährige einschlägige Tätigkeit als Selbstständiger oder als Betriebsleiter, wenn der Gewerbeanmelder für die betreffende Tätigkeit eine vorherige mindestens dreijährige Ausbildung wie in Z 1a, 2a, 3a oder 4a oder eine vorherige mindestens dreijährige Ausbildung mit vergleichbarer Schwerpunktsetzung nachweist, oder
+
+8\. Zeugnisse über eine ununterbrochene vierjährige einschlägige Tätigkeit als Selbstständiger oder als Betriebsleiter, wenn der Gewerbeanmelder für die betreffende Tätigkeit eine vorherige mindestens zweijährige Ausbildung wie in Z 1a, 2a, 3a oder 4a oder eine vorherige mindestens zweijährige Ausbildung mit vergleichbarer Schwerpunktsetzung nachweist, oder
+
+9\. Zeugnisse über eine ununterbrochene dreijährige einschlägige Tätigkeit als Selbstständiger, wenn der Gewerbeanmelder für die betreffende Tätigkeit eine mindestens fünfjährige einschlägige Tätigkeit als Unselbstständiger nachweist, oder
+
+10\. Zeugnisse über eine ununterbrochene fünfjährige fachspezifische Tätigkeit in leitender Stellung, davon eine mindestens dreijährige Tätigkeit mit technischen Aufgaben und mit der Verantwortung für mindestens eine Abteilung des Unternehmens, wenn für die betreffende Tätigkeit eine vorherige mindestens dreijährige Ausbildung wie in Z 1a, 2a, 3a oder 4a oder eine vorherige mindestens dreijährige Ausbildung mit vergleichbarer Schwerpunktsetzung nachgewiesen wird.
+
+## § 2
+
+§ 2. Neben der Befähigung nach § 1 ist durch die im Folgenden angeführten Belege die fachliche Qualifikation zum Antritt des auf den Kupferdruck eingeschränkten Gewerbes der Drucker und Druckformenhersteller als erfüllt anzusehen:
+
+1\. Zeugnisse über die erfolgreich abgelegte Lehrabschlussprüfung in den Lehrberufen Kupferdrucker oder Tiefdruckformenhersteller und
+
+2\. eine mindestens zweijährige fachliche Tätigkeit.
+
+## § 3
+
+§ 3. (1) Die Befähigung für die Ausübung des auf einfache Verfahrensarten gemäß Abs. 2 eingeschränkten Gewerbes der Drucker und Druckformenhersteller kann auch durch Zeugnisse über eine mindestens zweijährige fachliche Tätigkeit nachgewiesen werden.
+
+(2) Als einfache Verfahrensarten im Sinne des Abs. 1 gelten:
+
+1\. elektronische und digitale Druckverfahren (anschlaglose Druckverfahren und Digitaldruck), wie elektrostatische (beispielsweise Xerografie und Laserdruck), elektrografische und magnetografische Verfahren,
+
+2\. Farbstrahldruck (beispielsweise Tintenstrahldruck) und
+
+3\. Desktop-Publishing-Systeme.
+
+## § 4 – Übergangsbestimmungen
+
+§ 4. (1) Zeugnisse über bestandene Prüfungen gemäß den §§ 4 und 16 Abs. 3 der Verordnung BGBl. Nr. 291/1994 sowie gemäß § 4 der Verordnung BGBl. II Nr. 46/2000 gelten als Zeugnisse über die Prüfungen gemäß § 1 Z 5.
+
+(2) Der erfolgreiche Abschluss der Abteilungen für Buch- und Illustrationsdruck und für Reproduktionsverfahren an der ehemaligen Graphischen Lehr- und Versuchsanstalt in Wien sind der erfolgreich abgelegten Lehrabschlussprüfung in den im § 1 Z 4 lit. a und im § 2 Z 1 angeführten Lehrberufen gleichgestellt.
+
+(3) Der erfolgreiche Abschluss der ehemaligen Höheren Abteilung für Buchdruck an der ehemaligen Graphischen Lehr- und Versuchsanstalt in Wien ist dem erfolgreichen Abschluss der im § 1 Z 2 lit. a angeführten berufsbildenden höheren Schulen einschließlich deren Sonderformen gleichgestellt.

@@ -1,0 +1,3243 @@
+---
+title: "Alternative Investmentfonds Manager-Gesetz"
+abbreviation: "AIFMG"
+identifier: "20008521"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 135/2013"
+last_amended: 2026-07-29
+last_amendment: "BGBl. I Nr. 57/2026"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/2013/135/P0/NOR40279071"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008521"
+retrieved: 2026-10-11
+documents: 84
+---
+
+# Alternative Investmentfonds Manager-Gesetz (AIFMG)
+
+Alternative Investmentfonds Manager-Gesetz – AIFMG
+
+StF: BGBl. I Nr. 135/2013 idF BGBl. I Nr. 9/2020 (VFB) (NR: GP XXIV RV 2401 AB 2516 S. 216. BR: 9051 AB 9088 S. 823.)
+
+[CELEX-Nr.: 32011L0061]
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 70/2014 (NR: GP XXV RV 176 AB 190 S. 34. BR: 9201 AB 9208 S. 832.)  
+[CELEX-Nr.: 32013L0014, 32013L0036]  
+BGBl. I Nr. 98/2014 (NR: GP XXV RV 361 AB 437 S. 55. BR: AB 9298 S. 837.)  
+[CELEX-Nr.: 32014L0059, 32014L0065]  
+BGBl. I Nr. 68/2015 (NR: GP XXV RV 560 AB 589 S. 73. BR: AB 9374 S. 842.)  
+[CELEX-Nr.: 32013L0034]  
+BGBl. I Nr. 117/2015 (NR: GP XXV RV 686 AB 751 S. 83. BR: 9404 AB 9415 S. 844.)  
+[CELEX-Nr.: 31997L0009, 32014L0049]  
+BGBl. I Nr. 150/2015 (NR: GP XXV RV 897 AB 908 S. 107. BR: AB 9499 S. 849.)  
+[CELEX-Nr.: 32013L0050]  
+BGBl. I Nr. 73/2016 (NR: GP XXV RV 1174 AB 1247 S. 136. BR: AB 9625 S. 856.)  
+BGBl. I Nr. 118/2016 (NR: GP XXV RV 1335 AB 1391 S. 158. BR: 9671 AB 9690 S. 863.)  
+[CELEX-Nr.: 32015L0849]  
+BGBl. I Nr. 106/2017 (NR: GP XXV IA 2237/A AB 1723 S. 190. BR: AB 9840 S. 870.)  
+BGBl. I Nr. 107/2017 (NR: GP XXV RV 1661 AB 1728 S. 190. BR: 9823 AB 9846 S. 870.)  
+[CELEX-Nr.: 32014L0065, 32017L0593]  
+BGBl. I Nr. 67/2018 (NR: GP XXVI IA 262/A AB 198 S. 34. BR: AB 10004 S. 882.)  
+BGBl. I Nr. 76/2018 (NR: GP XXVI IA 387/A AB 323 S. 43. BR: AB 10050 S. 885.)  
+BGBl. I Nr. 46/2019 (NR: GP XXVI RV 508 AB 583 S. 70. BR: AB 10162. S. 892.)  
+BGBl. I Nr. 62/2019 (NR: GP XXVI AB 644 S. 86. BR: 10197 AB 10224 S. 896.)  
+[CELEX-Nr.: 32016L0800, 32016L1919, 32017L1371, 32017L1852, 32018L0843]  
+BGBl. I Nr. 88/2019 (K über Idat)  
+BGBl. I Nr. 198/2021 (NR: GP XXVII RV 1100 AB 1146 S. 131. BR: AB 10776 S. 934.)  
+[CELEX-Nr.: 32019L1160]  
+BGBl. I Nr. 36/2022 (NR: GP XXVII RV 1364 AB 1374 S. 147. BR: 10912 AB 10944 S. 939.)  
+[CELEX-Nr.: 32019L2177, 32020L1504]  
+BGBl. I Nr. 112/2022 (NR: GP XXVII RV 1569 AB 1587 S. 168. BR: AB 11047 S. 943.)  
+[CELEX-Nr.: 32021L1270, 32021L2261]  
+BGBl. I Nr. 237/2022 (NR: GP XXVII RV 1757 AB 1815 S. 187. BR: 11125 AB 11133 S. 949.)  
+[CELEX-Nr. 32019L2034]  
+BGBl. I Nr. 111/2023 (NR: GP XXVII RV 2096 AB 2141 S. 224. BR: AB 11273 S. 957.)  
+BGBl. I Nr. 111/2024 (NR: GP XXVII IA 4113/A AB 2683 S. 270. BR: AB 11540 S. 969.)  
+BGBl. I Nr. 112/2024 (NR: GP XXVII RV 2596 AB 2673 S. 270. BR: AB 11539 S. 969.)  
+[CELEX-Nr.: 32022L2556]  
+BGBl. I Nr. 49/2025 (NR: GP XXVIII RV 132 AB 139 S. 35. BR: AB 11680 S. 980.)  
+[CELEX-Nr.: 32024L2994, 32019L2034, 32013L0036, 32009L0065]  
+BGBl. I Nr. 5/2026 (NR: GP XXVIII RV 366 AB 380 S. 63. BR: 11763 AB 11768 S. 986.)  
+[CELEX-Nr.:32023L2864, 32024R0886, 32015L2366, 31998L0026]  
+BGBl. I Nr. 6/2026 (NR: GP XXVIII RV 300 AB 386 S. 63. BR: 11762 AB 11764 S. 986.)  
+[CELEX-Nr.: 32022L2464]  
+BGBl. I Nr. 57/2026 (NR: GP XXVIII RV 502 AB 543 S. 87. BR: AB 11844 S. 994.)  
+[CELEX-Nr.: 32024L0927]  
+
+</details>
+
+> **Anmerkung:** 1\. Das Alternative Investmentfonds Manager-Gesetz wurde in Artikel 2 des BGBl. I Nr. 135/2013 kundgemacht.
+>
+> 2\. EU: Art. 1, BGBl. I Nr. 135/2013; Art. 1, BGBl. I Nr. 70/2014
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+<table>
+<tr>
+<td colspan="2">Inhaltsverzeichnis<br>1. Teil<br>Geltungsbereich</td>
+</tr>
+<tr>
+<td>§ 1.</td>
+<td></td>
+</tr>
+<tr>
+<td>§ 2.</td>
+<td>Begriffsbestimmungen</td>
+</tr>
+<tr>
+<td>§ 3.</td>
+<td>Bestimmung des AIFM</td>
+</tr>
+<tr>
+<td>§ 3a.</td>
+<td>Registrierung</td>
+</tr>
+<tr>
+<td colspan="2">2. Teil<br>Konzessionierung von AIFM</td>
+</tr>
+<tr>
+<td>§ 4.</td>
+<td>Bedingungen für die Aufnahme der Tätigkeit als AIFM</td>
+</tr>
+<tr>
+<td>§ 5.</td>
+<td>Konzessionsantrag</td>
+</tr>
+<tr>
+<td>§ 6.</td>
+<td>Konzessionsvoraussetzungen</td>
+</tr>
+<tr>
+<td>§ 7.</td>
+<td>Anfangskapital und Eigenmittel</td>
+</tr>
+<tr>
+<td>§ 8.</td>
+<td>Änderungen des Umfangs der Konzession</td>
+</tr>
+<tr>
+<td>§ 9.</td>
+<td>Rücknahme und Erlöschen der Konzession</td>
+</tr>
+<tr>
+<td colspan="2">3. Teil<br>Bedingungen für die Ausübung der Tätigkeit des AIFM<br>1. Abschnitt<br>Allgemeine Anforderungen</td>
+</tr>
+<tr>
+<td>§ 10.</td>
+<td>Allgemeine Grundsätze</td>
+</tr>
+<tr>
+<td>§ 11.</td>
+<td>Vergütung</td>
+</tr>
+<tr>
+<td>§ 12.</td>
+<td>Interessenkonflikte</td>
+</tr>
+<tr>
+<td>§ 13.</td>
+<td>Risikomanagement</td>
+</tr>
+<tr>
+<td>§ 14.</td>
+<td>Liquiditätsmanagement</td>
+</tr>
+<tr>
+<td>§ 15.</td>
+<td>Anlagen in Verbriefungspositionen</td>
+</tr>
+<tr>
+<td colspan="2">2. Abschnitt<br>Organisatorische Anforderungen</td>
+</tr>
+<tr>
+<td>§ 16.</td>
+<td>Allgemeine Grundsätze</td>
+</tr>
+<tr>
+<td>§ 17.</td>
+<td>Bewertung</td>
+</tr>
+<tr>
+<td colspan="2">3. Abschnitt<br>Übertragung von Funktionen des AIFM</td>
+</tr>
+<tr>
+<td>§ 18.</td>
+<td>Übertragung</td>
+</tr>
+<tr>
+<td colspan="2">4. Abschnitt</td>
+</tr>
+<tr>
+<td>§ 19.</td>
+<td>Verwahrstelle</td>
+</tr>
+<tr>
+<td colspan="2">4. Teil<br>Transparenzanforderungen</td>
+</tr>
+<tr>
+<td>§ 20.</td>
+<td>Jahresbericht</td>
+</tr>
+<tr>
+<td>§ 21.</td>
+<td>Informationspflichten gegenüber Anlegern</td>
+</tr>
+<tr>
+<td>§ 22.</td>
+<td>Informationspflichten gegenüber den zuständigen Behörden</td>
+</tr>
+<tr>
+<td colspan="2">5. Teil<br>AIFM, die bestimmte Arten von AIF verwalten<br>1. Abschnitt<br>AIFM, die AIF mit Hebelfinanzierung verwalten</td>
+</tr>
+<tr>
+<td>§ 23.</td>
+<td>Nutzung der Informationen durch die zuständigen Behörden, aufsichtsbehördliche Zusammenarbeit und Beschränkungen der Hebelfinanzierung</td>
+</tr>
+<tr>
+<td colspan="2">2. Abschnitt<br>Pflichten von AIFM, die AIF verwalten, die die Kontrolle über nicht börsennotierte Unternehmen und Emittenten erlangen</td>
+</tr>
+<tr>
+<td>§ 24.</td>
+<td>Geltungsbereich</td>
+</tr>
+<tr>
+<td>§ 25.</td>
+<td>Mitteilung über den Erwerb bedeutender Beteiligungen und die Erlangung der Kontrolle über nicht börsennotierte Unternehmen</td>
+</tr>
+<tr>
+<td>§ 26.</td>
+<td>Offenlegungspflicht bei Erlangung der Kontrolle</td>
+</tr>
+<tr>
+<td>§ 27.</td>
+<td>Besondere Bestimmungen hinsichtlich des Jahresberichts von AIF, die die Kontrolle über nicht börsennotierte Unternehmen ausüben</td>
+</tr>
+<tr>
+<td>§ 28.</td>
+<td>Zerschlagung von Unternehmen</td>
+</tr>
+<tr>
+<td>§ 28a.</td>
+<td>Voraussetzungen für das Pre-Marketing durch einen EU-AIFM</td>
+</tr>
+<tr>
+<td colspan="2">6. Teil<br>Recht der EU-AIFM auf Vertrieb und Verwaltung von EU-AIF</td>
+</tr>
+<tr>
+<td>§ 29.</td>
+<td>Vertrieb von Anteilen von EU-AIF in Österreich als Herkunftsmitgliedstaat des AIFM</td>
+</tr>
+<tr>
+<td>§ 30.</td>
+<td>Vertrieb von Anteilen von EU-AIF in anderen Mitgliedstaaten durch einen in Österreich konzessionierten AIFM</td>
+</tr>
+<tr>
+<td>§ 31.</td>
+<td>Vertrieb von Anteilen von EU-AIF aus anderen Mitgliedstaaten in Österreich durch einen in einem Mitgliedstaat zugelassenen AIFM</td>
+</tr>
+<tr>
+<td>§ 32.</td>
+<td>Bedingungen für die Verwaltung von EU-AIF und die Erbringung von Dienstleistungen durch einen in Österreich konzessionierten AIFM</td>
+</tr>
+<tr>
+<td>§ 33.</td>
+<td>Bedingungen für die Verwaltung von EU-AIF und die Erbringung von Dienstleistungen in Österreich durch AIFM mit Sitz in einem anderen Mitgliedstaat</td>
+</tr>
+<tr>
+<td>§ 33a.</td>
+<td>Widerruf der getroffenen Vorkehrungen für den Vertrieb von Anteilen einiger oder aller EU-AIF durch einen in Österreich konzessionierten AIFM</td>
+</tr>
+<tr>
+<td colspan="2">7. Teil<br>Spezifische Vorschriften in Bezug auf Drittländer</td>
+</tr>
+<tr>
+<td>§ 34.</td>
+<td>Bedingungen für EU-AIFM, die Nicht-EU-AIF verwalten, die in den Mitgliedstaaten nicht vertrieben werden</td>
+</tr>
+<tr>
+<td>§ 35.</td>
+<td>Vertrieb von Anteilen eines Nicht-EU-AIF in Österreich durch einen in Österreich konzessionierten AIFM</td>
+</tr>
+<tr>
+<td>§ 36.</td>
+<td>Vertrieb von Anteilen eines Nicht-EU-AIF in anderen Mitgliedstaaten durch einen in Österreich konzessionierten AIFM mit einem Pass</td>
+</tr>
+<tr>
+<td>§ 37.</td>
+<td>Vertrieb von Nicht-EU-AIF mit einem Pass in Österreich durch einen EU-AIFM</td>
+</tr>
+<tr>
+<td>§ 38.</td>
+<td>Bedingungen für den ohne Pass erfolgenden Vertrieb in Österreich von durch EU-AIFM verwalteten Nicht-EU-AIF</td>
+</tr>
+<tr>
+<td>§ 39.</td>
+<td>Zulassung von Nicht-EU-AIFM, für die Österreich Referenzmitgliedstaat ist</td>
+</tr>
+<tr>
+<td>§ 40.</td>
+<td>Bedingungen für den in der Union mit einem Pass erfolgenden Vertrieb von EU-AIF, die von Nicht-EU-AIFM verwaltet werden, für die Österreich Referenzmitgliedstaat ist</td>
+</tr>
+<tr>
+<td>§ 41.</td>
+<td>Vertrieb von EU-AIF mit Pass in Österreich durch einen Nicht-EU-AIFM</td>
+</tr>
+<tr>
+<td>§ 42.</td>
+<td>Bedingungen für den in der Union mit einem Pass erfolgenden Vertrieb von Nicht-EU-AIF, die von einem Nicht-EU-AIFM verwaltet werden, für den Österreich Referenzmitgliedstaat ist</td>
+</tr>
+<tr>
+<td>§ 43.</td>
+<td>Vertrieb von Nicht-EU-AIF durch einen Nicht-EU-AIFM mit Pass in Österreich</td>
+</tr>
+<tr>
+<td>§ 44.</td>
+<td>Bedingungen für die Verwaltung von EU-AIF aus anderen Mitgliedstaaten durch Nicht-EU-AIFM, für die Österreich Referenzmitgliedstaat ist</td>
+</tr>
+<tr>
+<td>§ 45.</td>
+<td>Bedingungen für die Erbringung von Dienstleistungen eines Nicht-EU-AIFM in Österreich als Aufnahmemitgliedstaat</td>
+</tr>
+<tr>
+<td>§ 46.</td>
+<td>Zusammenarbeit der FMA als zuständige Behörde des Aufnahmemitgliedstaats mit ESMA und zuständigen Behörden anderer Mitgliedstaaten</td>
+</tr>
+<tr>
+<td>§ 47.</td>
+<td>Bedingungen für den ohne Pass in Österreich erfolgenden Vertrieb von AIF, die von Nicht-EU-AIFM verwaltet werden</td>
+</tr>
+<tr>
+<td colspan="2">8.Teil<br>Vertrieb an Privatkunden</td>
+</tr>
+<tr>
+<td>§ 48.</td>
+<td>Vertrieb von österreichischen AIF durch AIFM an Privatkunden und qualifizierte Privatkunden</td>
+</tr>
+<tr>
+<td>§ 48a.</td>
+<td>Einrichtungen für den Vertrieb an Privatkunden</td>
+</tr>
+<tr>
+<td>§ 49.</td>
+<td>Vertrieb von EU-AIF aus anderen Mitgliedstaaten und Nicht-EU-AIF durch österreichische AIFM oder von AIF durch EU-AIFM mit Sitz in einem anderen Mitgliedstaat oder durch Nicht-EU-AIFM an Privatkunden und qualifizierte Privatkunden</td>
+</tr>
+<tr>
+<td>§ 50.</td>
+<td>Vertriebsuntersagung</td>
+</tr>
+<tr>
+<td>§ 51.</td>
+<td>Werbung</td>
+</tr>
+<tr>
+<td>§ 52.</td>
+<td>Kostenloses Zur-Verfügung-Stellen von Prospekten, Rechenschaftsbericht und Halbjahresbericht</td>
+</tr>
+<tr>
+<td>§ 53.</td>
+<td>Weiterverwendung von allgemeinen Bezeichnungen</td>
+</tr>
+<tr>
+<td colspan="2">9.Teil<br>Zuständige Behörden<br>1. Abschnitt<br>Benennung, Befugnisse und Rechtsbehelfe</td>
+</tr>
+<tr>
+<td>§ 54.</td>
+<td>Benennung der zuständigen Behörde und ESAP-Sammelstelle</td>
+</tr>
+<tr>
+<td>§ 55.</td>
+<td>Aufgaben der zuständigen Behörden in den Mitgliedstaaten</td>
+</tr>
+<tr>
+<td>§ 56.</td>
+<td>Befugnisse und Kosten der FMA</td>
+</tr>
+<tr>
+<td>§ 57.</td>
+<td>Maßnahmen der FMA</td>
+</tr>
+<tr>
+<td>§ 58.</td>
+<td>Form der Kommunikation mit der FMA – elektronische Übermittlung</td>
+</tr>
+<tr>
+<td>§ 59.</td>
+<td>Befugnisse und Zuständigkeiten von ESMA</td>
+</tr>
+<tr>
+<td>§ 60.</td>
+<td>Verwaltungsstrafen und Veröffentlichungen</td>
+</tr>
+<tr>
+<td colspan="2">2. Abschnitt<br>Zusammenarbeit der verschiedenen zuständigen Behörden</td>
+</tr>
+<tr>
+<td>§ 61.</td>
+<td>Verpflichtung zur Zusammenarbeit</td>
+</tr>
+<tr>
+<td>§ 62.</td>
+<td>Übermittlung und Speicherung personenbezogener Daten</td>
+</tr>
+<tr>
+<td>§ 63.</td>
+<td>Offenlegung von Informationen gegenüber Drittländern</td>
+</tr>
+<tr>
+<td>§ 64.</td>
+<td>Austausch von Informationen in Bezug auf potenzielle Systemauswirkungen von AIFM-Geschäften</td>
+</tr>
+<tr>
+<td>§ 65.</td>
+<td>Zusammenarbeit bei der Aufsicht</td>
+</tr>
+<tr>
+<td>§ 66.</td>
+<td>Streitbeilegung</td>
+</tr>
+<tr>
+<td colspan="2">10. Teil<br>Übergangs- und Schlussbestimmungen</td>
+</tr>
+<tr>
+<td>§ 67.</td>
+<td>Übergangsbestimmung</td>
+</tr>
+<tr>
+<td>§ 68.</td>
+<td></td>
+</tr>
+<tr>
+<td>§ 69.</td>
+<td></td>
+</tr>
+<tr>
+<td>§ 70.</td>
+<td></td>
+</tr>
+<tr>
+<td>§ 71.</td>
+<td>Verweise und Verordnungen</td>
+</tr>
+<tr>
+<td>§ 71a.</td>
+<td>Umsetzungshinweis</td>
+</tr>
+<tr>
+<td>§ 72.</td>
+<td>Sprachliche Gleichbehandlung</td>
+</tr>
+<tr>
+<td>§ 73.</td>
+<td>Vollziehung</td>
+</tr>
+<tr>
+<td>§ 74.</td>
+<td>Inkrafttreten</td>
+</tr>
+<tr>
+<td colspan="2">Anlage 1 zu § 4</td>
+</tr>
+<tr>
+<td colspan="2">Anlage 2 zu § 11</td>
+</tr>
+<tr>
+<td colspan="2">Anlage 3 zu § 29</td>
+</tr>
+<tr>
+<td colspan="2">Anlage 4 zu § 30</td>
+</tr>
+<tr>
+<td colspan="2">Anlage 5 zu § 14</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## 1. Teil
+
+### Geltungsbereich
+
+#### § 1
+
+§ 1. (1) Vorbehaltlich Abs. 3 bis 5 gilt dieses Bundesgesetz für
+
+1\. EU-AIFM, die einen oder mehrere AIF verwalten, unabhängig davon, ob es sich bei solchen AIF um EU-AIF oder Nicht-EU-AIF handelt,
+
+2\. Nicht-EU-AIFM, die einen oder mehrere EU-AIF verwalten, und
+
+3\. Nicht-EU-AIFM, die einen oder mehrere AIF in der Europäischen Union vertreiben, unabhängig davon, ob es sich bei solchen AIF um EU-AIF oder Nicht-EU-AIF handelt.
+
+(2) Für die Zwecke des Abs. 1 ist es ohne Bedeutung,
+
+1\. ob es sich bei dem AIF um einen offenen oder geschlossenen Typ handelt,
+
+2\. ob der AIF in der Vertragsform, der Form des Trust, der Satzungsform oder irgendeiner anderen Rechtsform errichtet ist,
+
+3\. welche Rechtsstruktur der AIFM hat.
+
+(3) Dieses Bundesgesetz gilt nicht für
+
+1\. Holdinggesellschaften,
+
+2\. Einrichtungen der betrieblichen Altersversorgung, die unter die Richtlinie (EU) 2016/2341 fallen, gegebenenfalls einschließlich der in Art. 2 Abs. 1 der genannten Richtlinie aufgeführten zugelassenen Stellen, die für die Verwaltung solcher Einrichtungen verantwortlich und in ihrem Namen tätig sind, oder der nach Art. 32 der genannten Richtlinie bestellten Vermögensverwalter, sofern sie nicht AIF verwalten,
+
+3\. supranationale Institutionen, wie die Europäische Zentralbank, die Europäische Investitionsbank, den Europäischen Investitionsfonds, die Europäischen Entwicklungsfinanzierungsinstitute und bilateralen Entwicklungsbanken, die Weltbank, den Internationalen Währungsfonds und sonstige supranationale Einrichtungen und ähnliche internationale Organisationen, falls solche Einrichtungen oder Organisationen AIF verwalten, und sofern diese AIF im öffentlichen Interesse handeln,
+
+4\. nationale Zentralbanken,
+
+5\. staatliche Stellen und Gebietskörperschaften oder andere Einrichtungen, die Fonds zur Unterstützung von Sozialversicherungs- und Pensionssystemen verwalten,
+
+6\. Arbeitnehmerbeteiligungssysteme oder Arbeitnehmersparpläne und
+
+7\. Verbriefungszweckgesellschaften.
+
+(4) Dieses Bundesgesetz gilt nicht für AIFM, welche einen oder mehrere AIF verwalten, deren einzige Anleger der AIFM oder die Muttergesellschaften oder die Tochtergesellschaften des AIFM oder andere Tochtergesellschaften jener Muttergesellschaften sind, sofern keiner dieser Anleger selbst ein AIF ist.
+
+(5) Unbeschadet der Anwendung der §§ 24 bis 28, 56 und 60 gilt dieses Bundesgesetz nicht für AIFM, die entweder direkt oder indirekt über eine Gesellschaft, mit der der AIFM über eine gemeinsame Geschäftsführung, ein gemeinsames Kontrollverhältnis oder durch eine wesentliche direkte oder indirekte Beteiligung verbunden ist, die Portfolios von AIF verwalten, deren verwaltete Vermögenswerte – einschließlich der durch Einsatz einer Hebelfinanzierung erworbenen Vermögenswerte – insgesamt nicht über einen Schwellenwert von 100 Millionen Euro hinausgehen, oder deren verwaltete Vermögenswerte insgesamt nicht über einen Schwellenwert von 500 Millionen Euro hinausgehen, wenn die Portfolios dieser AIF aus AIF bestehen, die keine Hebelfinanzierung verwenden und die für einen Zeitraum von fünf Jahren nach der Tätigung der ersten Anlage in jeden dieser AIF keine Rücknahmerechte ausüben dürfen. Allerdings hat ein solcher AIFM
+
+1\. sich bei der FMA registrieren zu lassen;
+
+2\. sich und die von ihm verwalteten AIF zum Zeitpunkt ihrer Registrierung gegenüber der FMA auszuweisen;
+
+3\. der FMA zum Zeitpunkt ihrer Registrierung Informationen zu den Anlagestrategien der von ihm verwalteten AIF vorzulegen;
+
+4\. die FMA jährlich und zusätzlich auf Verlangen über die wichtigsten Instrumente, mit denen er handelt, und über die größten Risiken und Konzentration der von ihm verwalteten AIF zu unterrichten, um der FMA eine effektive Überwachung der Systemrisiken zu ermöglichen;
+
+5\. der FMA jede Auflage eines AIF und jeden Beginn der Abwicklung eines AIF unverzüglich anzuzeigen;
+
+5a. der FMA unverzüglich jede Änderung in der Person der Geschäftsleiter sowie jede Verlegung des Sitzes des AIFM anzuzeigen, wobei AIFM, die einen oder mehrere qualifizierte Risikokapitalfonds oder qualifizierte Fonds für soziales Unternehmertum verwalten, der FMA gemeinsam mit der Anzeige über die Änderung in der Person des Geschäftsleiters die Angaben gemäß § 5 Abs. 2 Z 1 zu übermitteln haben;
+
+6\. zu erklären, Anteile des AIF nicht an Privatkunden gemäß § 2 Abs. 1 Z 36 zu vertreiben und
+
+7\. der FMA unverzüglich mitzuteilen, wenn er die in diesem Absatz genannten Voraussetzungen nicht mehr einhalten kann.
+
+Übersteigen die Vermögenswerte der Portfolios der verwalteten AIF eines gemäß diesem Absatz registrierten AIFM zu einem späteren Zeitpunkt eine der genannten Schwellen, hat der AIFM die gemäß diesem Bundesgesetz erforderliche Konzession gemäß § 4 binnen 30 Kalendertagen zu beantragen. Unbeschadet der Schwellenwerte kann ein AIFM beschließen, eine Konzession gemäß § 4 zu beantragen. Diesfalls findet mit Erteilung der Konzession dieses Bundesgesetz in seiner Gesamtheit Anwendung. Sind von einem AIFM verwaltete AIF für den Vertrieb an Privatkunden gemäß § 2 Abs. 1 Z 36 bestimmt, ist unter Vorbehalt der Erteilung der Konzession gemäß § 4 dieses Bundesgesetz jedenfalls in seiner Gesamtheit anzuwenden.
+
+#### § 2 – Begriffsbestimmungen
+
+§ 2. (1) Im Sinne dieses Bundesgesetzes gelten folgende Begriffsbestimmungen:
+
+1\. „AIF“ ist jeder Organismus für gemeinsame Anlagen einschließlich seiner Teilfonds, der
+
+a) von einer Anzahl von Anlegern Kapital einsammelt, um es gemäß einer festgelegten Anlagestrategie zum Nutzen dieser Anleger zu investieren, ohne dass das eingesammelte Kapital unmittelbar der operativen Tätigkeit dient, und
+
+b) keine Genehmigung gemäß Art. 5 der Richtlinie 2009/65/EG benötigt.
+
+2\. „AIFM“ ist jede juristische Person, deren reguläre Geschäftstätigkeit darin besteht, einen oder mehrere AIF zu verwalten.
+
+3\. „Zweigniederlassung“ in Bezug auf einen AIFM ist eine Betriebsstelle, die einen rechtlich unselbstständigen Teil eines AIFM bildet und die die Dienstleistungen erbringt, für die dem AIFM eine Zulassung erteilt wurde; alle Betriebsstellen eines AIFM mit satzungsmäßigem Sitz in einem anderen Mitgliedstaat oder einem Drittland, die sich in ein und demselben Mitgliedstaat befinden, gelten als eine einzige Zweigniederlassung.
+
+4\. „Carried interest“ ist ein Anteil an den Gewinnen des AIF, den ein AIFM als Vergütung für die Verwaltung des AIF erhält, hiervon sind sämtliche Anteile an den Gewinnen des AIF ausgeschlossen, die der AIFM als Rendite für Anlagen des AIFM in den AIF bezieht.
+
+5\. „Enge Verbindungen“ ist eine Situation, in der zwei oder mehrere natürliche oder juristische Personen verbunden sind durch
+
+a) Beteiligung, dh. das direkte Halten oder das Halten im Wege der Kontrolle von mindestens 20 vH der Stimmrechte oder des Kapitals an einem Unternehmen;
+
+b) Kontrolle, dh. das Verhältnis zwischen einem Mutterunternehmen und einem Tochterunternehmen gemäß Art. 22 Abs. 1 und 2 der Richtlinie 2013/34/EU oder ein ähnliches Verhältnis zwischen einer natürlichen oder juristischen Person und einem Unternehmen; für die Zwecke dieser Bestimmung wird ein Tochterunternehmen eines Tochterunternehmens auch als Tochterunternehmen des Mutterunternehmens angesehen.
+
+Eine Situation, in der zwei oder mehr natürliche oder juristische Personen durch ein Kontrollverhältnis mit ein und derselben Person dauerhaft verbunden sind, gilt auch als „enge Verbindung“ zwischen diesen Personen.
+
+6\. „Zuständige Behörden“ sind die nationalen Behörden der Mitgliedstaaten, die aufgrund von Rechts- oder Verwaltungsvorschriften zur Beaufsichtigung von AIFM befugt sind.
+
+7\. „Zuständige Behörden“ in Bezug auf eine Verwahrstelle sind
+
+a) die zuständigen Behörden im Sinne des Art. 4 Abs. 1 Nr. 40 der Verordnung (EU) Nr. 575/2013, wenn die Verwahrstelle ein nach jener Richtlinie zugelassenes Kreditinstitut ist;
+
+b) die zuständigen Behörden im Sinne des Art. 4 Abs. 1 Nr. 26 der Richtlinie 2014/65/EU, wenn die Verwahrstelle eine nach jener Richtlinie zugelassene Wertpapierfirma ist;
+
+c) die nationalen Behörden des Herkunftsmitgliedstaats der Verwahrstelle, die aufgrund von Rechts- oder Verwaltungsvorschriften zur Beaufsichtigung von Kategorien von Einrichtungen im Sinne von Art. 21 Abs. 3 Unterabsatz 1 lit. c der Richtlinie 2011/61/EU befugt sind, wenn die Verwahrstelle zu einer in jener Vorschrift genannten Kategorie von Einrichtungen gehört;
+
+d) die nationalen Behörden des Mitgliedstaats, in dem ein Unternehmen im Sinne von Art. 21 Abs. 3 Unterabsatz 3 der Richtlinie 2011/61/EU seinen satzungsmäßigen Sitz hat, wenn die Verwahrstelle ein in jener Vorschrift genanntes Unternehmen ist, und die aufgrund von Rechts- oder Verwaltungsvorschriften zur Beaufsichtigung eines solchen Unternehmens befugt sind, oder die amtliche Stelle, die für die Registrierung oder Beaufsichtigung eines solchen Unternehmens gemäß den für dieses geltenden berufsständischen Regeln zuständig ist;
+
+e) die betreffenden nationalen Behörden des Drittlands, in dem die Verwahrstelle ihren satzungsmäßigen Sitz hat, wenn die Verwahrstelle gemäß Art. 21 Abs. 5 lit. b der Richtlinie 2011/61/EU als Verwahrstelle für einen Nicht-EU-AIF benannt wird und nicht unter die Ziffern i bis iv dieser Richtlinie fällt.
+
+8\. „Zuständige Behörden des EU-AIF“ sind die nationalen Behörden eines Mitgliedstaats, die aufgrund von Rechts- oder Verwaltungsvorschriften zur Beaufsichtigung von AIF befugt sind.
+
+9\. „Kontrolle“ ist die Kontrolle im Sinne des Art. 22 Abs. 1 und 2 der Richtlinie 2013/34/EU.
+
+10\. „Mit Sitz in“ bezeichnet
+
+a) bei AIFM: „mit satzungsmäßigem Sitz in“;
+
+b) bei AIF: „bewilligt oder registriert in“; oder, falls der AIF nicht bewilligt oder registriert ist: „mit satzungsmäßigem Sitz in“;
+
+c) bei Verwahrstellen: „mit satzungsmäßigem Sitz oder Zweigniederlassung in“;
+
+d) bei gesetzlichen Vertretern, die juristische Personen sind: „mit satzungsmäßigem Sitz oder Zweigniederlassung in“;
+
+e) bei gesetzlichen Vertretern, die natürliche Personen sind: „mit Wohnsitz in“.
+
+11\. „EU-AIF“ bezeichnet
+
+a) einen AIF, der nach einschlägigem nationalen Recht in einem Mitgliedstaat zugelassen oder registriert ist, oder
+
+b) einen AIF, der nicht in einem Mitgliedstaat zugelassen oder registriert ist, dessen satzungsmäßiger Sitz und/oder Hauptverwaltung sich jedoch in einem Mitgliedstaat befindet.
+
+12\. „EU-AIFM“ bezeichnet einen AIFM mit satzungsmäßigem Sitz in einem Mitgliedstaat.
+
+13\. „Feeder-AIF“ bezeichnet einen AIF, der
+
+a) mindestens 85 vH seiner Vermögenswerte in Anteilen eines anderen AIF („Master-AIF“) anlegt, oder
+
+b) mindestens 85 vH seiner Vermögenswerte in mehr als einem Master-AIF anlegt, wenn diese Master-AIF identische Anlagestrategien verfolgen, oder
+
+c) anderweitig ein Engagement von mindestens 85 vH seiner Vermögenswerte in solch einem Master-AIF hat.
+
+14\. „Finanzinstrument“ ist eines der in Anhang I Abschnitt C der Richtlinie 2014/65/EU genannten Instrumente.
+
+15\. „Holdinggesellschaft“ ist eine Gesellschaft, die an einem oder mehreren anderen Unternehmen eine Beteiligung hält, deren Geschäftsgegenstand darin besteht, durch ihre Tochterunternehmen oder verbundenen Unternehmen oder Beteiligungen eine Geschäftsstrategie oder –strategien zur Förderung deren langfristigen Werts zu verfolgen, und bei der es sich um eine Gesellschaft handelt, die entweder
+
+a) auf eigene Rechnung tätig ist und deren Anteile zum Handel auf einem geregelten Markt in der Union zugelassen sind, oder
+
+b) die ausweislich ihres Jahresberichts oder anderer amtlicher Unterlagen nicht mit dem Hauptzweck gegründet wurde, ihren Anlegern durch Veräußerung ihrer Tochterunternehmen oder verbundenen Unternehmen eine Rendite zu verschaffen.
+
+16\. „Herkunftsmitgliedstaat des AIF“ ist:
+
+a) der Mitgliedstaat, in dem der AIF nach den geltenden nationalen Rechtsvorschriften zugelassen oder registriert ist, oder im Falle mehrfacher Bewilligungen oder Registrierungen der Mitgliedstaat, in dem der AIF zum ersten Mal bewilligt oder registriert wurde, oder
+
+b) wenn der AIF in keinem Mitgliedstaat bewilligt oder registriert ist, der Mitgliedstaat, in dem der AIF seinen Sitz und/oder seine Hauptverwaltung hat;
+
+17\. „Herkunftsmitgliedstaat des AIFM“ ist der Mitgliedstaat, in dem der AIFM seinen satzungsmäßigen Sitz hat; im Falle von Nicht-EU-AIFM ist bei allen Bezugnahmen der Richtlinie 2011/61/EU auf den „Herkunftsmitgliedstaat des AIFM“ immer der „Referenzmitgliedstaat“ gemeint, wie im 7. Teil vorgesehen.
+
+18\. „Aufnahmemitgliedstaat des AIFM“ ist:
+
+a) ein Mitgliedstaat außer dem Herkunftsmitgliedstaat, in dem ein EU-AIFM EU-AIF verwaltet;
+
+b) ein Mitgliedstaat außer dem Herkunftsmitgliedstaat, in dem ein EU-AIFM Anteile eines EU-AIF vertreibt;
+
+c) ein Mitgliedstaat außer dem Herkunftsmitgliedstaat, in dem ein EU-AIFM Anteile eines Nicht-EU-AIF vertreibt;
+
+d) ein Mitgliedstaat außer dem Referenzmitgliedstaat, in dem ein Nicht-EU-AIFM Anteile eines EU-AIF verwaltet;
+
+e) ein Mitgliedstaat außer dem Referenzmitgliedstaat, in dem ein Nicht-EU-AIFM Anteile eines EU-AIF vertreibt;
+
+f) ein Mitgliedstaat außer dem Referenzmitgliedstaat, in dem ein Nicht-EU-AIFM Anteile eines Nicht-EU-AIF vertreibt, oder
+
+g) ein Mitgliedstaat, der nicht der Herkunftsmitgliedstaat ist und in dem ein EU-AIFM die Dienstleistungen gemäß § 4 Abs. 4 erbringt.
+
+19\. „Anfangskapital“ bezeichnet Mittel im Sinne von Art. 12 der Richtlinie 2013/36/EU.
+
+20\. „Emittent“ ist jeder Emittent im Sinne von Art. 2 Abs. 1 lit. d der Richtlinie 2004/109/EG, der seinen satzungsmäßigen Sitz in der Union hat, und dessen Wertpapiere im Sinne von Art. 4 Abs. 1 Nr. 21 der Richtlinie 2014/65/EU zum Handel auf einem geregelten Markt zugelassen sind.
+
+21\. „Gesetzlicher Vertreter“ ist jede natürliche Person mit Wohnsitz in der Union oder jede juristische Person mit Sitz in der Union, die von einem Nicht-EU-AIFM ausdrücklich dazu ernannt worden ist, im Namen dieses Nicht-EU-AIFM gegenüber Behörden, Kunden, Einrichtungen und Gegenparteien des Nicht-EU-AIFM in der Union hinsichtlich der Verpflichtungen des Nicht-EU-AIFM nach der Richtlinie 2011/61/EU zu handeln.
+
+22\. „Hebelfinanzierung“ ist jede Methode, mit der ein AIFM das Risiko eines von ihm verwalteten AIF durch Kreditaufnahme, Wertpapierleihe, in Derivate eingebettete Hebelfinanzierung oder auf andere Weise erhöht.
+
+23\. „Verwaltung von AIF“ bedeutet, dass mindestens die in Anlage 1 Z 1 lit. a oder b genannten Anlageverwaltungsfunktionen für einen oder mehrere AIF erbracht werden.
+
+24\. „Vertrieb“ ist das direkte oder indirekte, auf Initiative des AIFM oder in dessen Auftrag erfolgende Anbieten oder Platzieren von Anteilen an einem vom AIFM verwalteten AIF an Anleger oder bei Anlegern mit Wohnsitz oder Sitz in der Union.
+
+25\. „Master-AIF“ ist jeder AIF, in den ein anderer AIF investiert oder Risiken an ihm gemäß Z 13 übernommen hat.
+
+26\. „Referenzmitgliedstaat“ ist der gemäß Art. 37 Abs. 4 der Richtlinie 2011/61/EU festgelegte Mitgliedstaat.
+
+27\. „Nicht-EU-AIF“ ist ein AIF, der kein EU-AIF ist.
+
+28\. „Nicht-EU-AIFM“ ist ein AIFM, der kein EU-AIFM ist.
+
+29\. „Nicht börsennotiertes Unternehmen“ ist ein Unternehmen, das seinen satzungsmäßigen Sitz in der Union hat und dessen Anteile im Sinne von Art. 4 Abs. 1 Nr. 21 der Richtlinie 2014/65/EU nicht zum Handel auf einem regulierten Markt zugelassen sind.
+
+30\. „Eigenmittel“ sind Eigenmittel gemäß Art. 4 Abs. 1 Nr. 118 der Verordnung (EU) Nr. 575/2013.
+
+31\. „Mutterunternehmen“ ist ein Mutterunternehmen im Sinne des Art. 22 Abs. 1 bis 5 der Richtlinie 2013/34/EU.
+
+32\. „Primebroker“ ist ein Kreditinstitut, eine regulierte Wertpapierfirma oder eine andere Einheit, die einer Regulierungsaufsicht und ständigen Überwachung unterliegt und professionellen Anlegern Dienstleistungen anbietet, in erster Linie, um als Gegenpartei Geschäfte mit Finanzinstrumenten zu finanzieren oder durchzuführen, und die möglicherweise auch andere Dienstleistungen wie Clearing und Abwicklung von Geschäften, Verwahrungsdienstleistungen, Wertpapierleihe und individuell angepasste Technologien und Einrichtungen zur betrieblichen Unterstützung anbietet.
+
+33\. „Professioneller Anleger“ ist jeder Anleger, der gemäß den §§ 66 und 67 des Wertpapieraufsichtsgesetzes 2018 – WAG 2018, BGBl. I Nr. 107/2017, als ein professioneller Kunde angesehen wird oder auf Antrag als ein professioneller Kunde behandelt werden kann.
+
+34\. „Qualifizierte Beteiligung“ ist das direkte oder indirekte Halten von mindestens 10 vH des Kapitals oder der Stimmrechte eines AIFM nach den Art. 9 und 10 der Richtlinie 2004/109/EG, unter Berücksichtigung der Bedingungen für das Zusammenrechnen der Beteiligungen nach Art. 12 Absätze 4 und 5 der genannten Richtlinie oder die Möglichkeit zur Ausübung eines maßgeblichen Einflusses auf die Geschäftsführung des AIFM, an dem diese Beteiligung gehalten wird.
+
+35\. „Arbeitnehmervertreter“ sind Vertreter der Arbeitnehmer im Sinne von Art. 2 lit. e der Richtlinie 2002/14/EG.
+
+36\. „Privatkunde“ ist ein Anleger gemäß § 1 Z 36 WAG 2018.
+
+37\. „Tochterunternehmen“ ist ein Tochterunternehmen gemäß der Definition in Art. 22 Abs. 1 bis 5 der Richtlinie 2013/34/EU.
+
+38\. „Aufsichtsbehörden“ in Bezug auf Nicht-EU-AIF sind die nationalen Behörden eines Drittlands, die aufgrund von Rechts- oder Verwaltungsvorschriften zur Beaufsichtigung von AIF befugt sind.
+
+39\. „Aufsichtsbehörden“ in Bezug auf Nicht-EU-AIFM sind die nationalen Behörden eines Drittlands, die aufgrund von Rechts- oder Verwaltungsvorschriften zur Beaufsichtigung von AIFM befugt sind.
+
+40\. „Verbriefungszweckgesellschaften“ sind Gesellschaften, deren einziger Zweck darin besteht, eine oder mehrere Verbriefungen im Sinne von Art. 1 Abs. 2 der Verordnung (EU) Nr. 1075/2013, die Verbriefungsgeschäfte betreiben, und weitere zur Erfüllung dieses Zwecks geeignete Tätigkeiten durchzuführen.
+
+41\. „OGAW“ sind Organismen für gemeinsame Anlagen in Wertpapieren gemäß § 2 Abs. 1 Z 3 Investmentfondsgesetz 2011 – InvFG 2011 (BGBl. I Nr. 77/2011).
+
+42\. „Qualifizierter Privatkunde“ ist ein Anleger,
+
+a) der in einem vom Vertrag über die Investitionsverpflichtung getrennten Dokument bestätigt, dass er sich der Risiken im Zusammenhang mit der beabsichtigten Investition bewusst ist und korrekte Informationen vorlegt, dass er über unbelastete Bankguthaben und Finanzinstrumente gemäß § 1 Z 7 WAG 2018 im Wert von mehr als 250 000 Euro verfügt;
+
+b) bei dem die AIF-Verwaltungsgesellschaft oder sofern der Vertrieb nicht direkt erfolgt, die den Vertrieb durchführende natürliche oder juristische Person seinen Sachverstand, Erfahrungen und Kenntnisse bewertet hat;
+
+c) bei dem die AIF-Verwaltungsgesellschaft oder sofern der Vertrieb nicht direkt erfolgt, die den Vertrieb durchführende natürliche oder juristische Person davon hinreichend überzeugt ist, dass der Anleger in der Lage ist, seine Anlageentscheidungen selbst zu treffen und die mit der Investition einhergehenden Risiken zu verstehen und dass eine solche Verpflichtung für den Anleger angemessen ist;
+
+d) der sich verpflichtet, mindestens 10 000 Euro in einen AIF zu investieren, sofern es sich nicht um einen AIF gemäß § 48 Abs. 1 Z 1 bis 4 oder § 49 Abs. 1 Z 3 lit. a bis c handelt;
+
+e) der die Investition zum Zwecke der Diversifizierung und Risikostreuung seiner bestehenden Vermögensveranlagung vornehmen wird.
+
+43\. „Pre-Marketing“ ist die durch einen EU-AIFM oder in dessen Auftrag erfolgende direkte oder indirekte Bereitstellung von Informationen oder Mitteilung über Anlagestrategien oder Anlagekonzepte an potenzielle professionelle Anleger mit Wohnsitz oder satzungsmäßigem Sitz in einem Mitgliedstaat mit dem Ziel, festzustellen, inwieweit diese Interesse an einem AIF oder einem Teilfonds, der in dem Mitgliedstaat, in dem die potenziellen Anleger ihren Wohnsitz oder satzungsmäßigen Sitz haben, entweder noch nicht registriert ist oder zwar registriert ist, für den jedoch noch keine Vertriebsanzeige gemäß den §§ 29 bis 33 erfolgt ist, haben, wobei dies in keinem Fall ein Angebot an den oder eine Platzierung bei dem potenziellen Anleger zur Investition in die Anteile dieses AIF oder Teilfonds darstellt.
+
+44\. „Zentralverwahrer“ ist ein Zentralverwahrer im Sinne von Art. 2 Abs. 1 Nr. 1 der Verordnung (EU) Nr. 909/2014.
+
+45\. „Kapital des AIF“ ist das aggregierte eingebrachte Kapital und das noch nicht eingeforderte einem AIF zugesagte Kapital, berechnet auf der Grundlage der Beträge, die nach Abzug sämtlicher mittelbar oder unmittelbar von den Anlegern getragenen Gebühren, Entgelte und sonstigen Kosten für Anlagen zur Verfügung stehen.
+
+46\. „Kreditvergabe“ oder „Vergabe eines Kredits“ ist die Gewährung eines Kredits
+
+a) direkt durch einen AIF als ursprünglicher Kreditgeber oder
+
+b) indirekt über einen Dritten oder eine Zweckgesellschaft, die einen Kredit für den AIF oder in seinem Namen oder für einen AIFM oder in seinem Namen in Bezug auf den AIF vergibt, wenn der AIFM oder AIF an der Strukturierung des Kredits oder der Festlegung oder Vorabvereinbarung seiner Merkmale beteiligt ist, bevor er ein Kreditrisiko erlangt.
+
+47\. „Gesellschafterdarlehen“ ist ein Kredit, den ein AIF einem Unternehmen gewährt, an dem er direkt oder indirekt mindestens 5 vH des Kapitals oder der Stimmrechte hält, und der nicht unabhängig von den Kapitalinstrumenten, die der AIF an demselben Unternehmen hält, an Dritte verkauft werden darf.
+
+48\. „kreditvergebender AIF“ ist ein AIF,
+
+a) dessen Anlagestrategie hauptsächlich darin besteht, Kredite zu vergeben, oder
+
+b) dessen vergebene Kredite einen Nominalwert haben, der mindestens 50 vH seines Nettoinventarwerts ausmacht.
+
+49\. „hebelfinanzierter AIF“ ist ein AIF, dessen Risiko durch den AIFM, der ihn verwaltet, entweder durch Kreditaufnahme, Wertpapierleihe oder in Derivatpositionen eingebettete Hebelfinanzierungen oder auf andere Weise erhöht wird.
+
+(2) Für die Zwecke von Abs. 1 Z 30 finden die Art. 13 bis 16 der Richtlinie 2006/49/EG entsprechend Anwendung.
+
+(3) Die FMA kann mittels Verordnung unter Bedachtnahme auf die europäischen Gepflogenheiten verschiedene Arten von AIF sowie deren Kriterien festlegen.
+
+(4) Soweit in diesem Bundesgesetz nicht eigene Begriffsbestimmungen festgelegt sind, sind die Begriffsbestimmungen des Bankwesengesetzes – BWG, BGBl. Nr. 532/1993 und des Kapitalmarktgesetzes 2019 – KMG 2019, BGBl. I Nr. 62/2019, anzuwenden.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 70/2014; Art. 1, BGBl. I Nr. 98/2014; Art. 1, BGBl. I Nr. 107/2017
+
+#### § 3 – Bestimmung des AIFM
+
+§ 3. Ein AIF darf nur durch einen einzigen AIFM verwaltet werden, der auch für die Einhaltung der Bestimmungen dieses Bundesgesetzes verantwortlich ist. Der AIFM ist entweder
+
+1\. ein externer Verwalter, der die vom AIF oder im Namen des AIF bestellte juristische Person ist und aufgrund dieser Bestellung oder kraft Gesetzes für die Verwaltung des AIF verantwortlich ist (externer AIFM), oder
+
+2\. der AIF selbst, wenn die Rechtsform des AIF eine interne Verwaltung zulässt und das Leitungsgremium des AIF entscheidet, keinen externen AIFM zu bestellen; in diesem Fall wird der AIF als AIFM zugelassen.
+
+#### § 3a – Registrierung
+
+§ 3a. (1) Die FMA hat einen AIFM, der die Voraussetzungen des § 1 Abs. 5 erfüllt, zu registrieren und darüber eine Bestätigung auszustellen.
+
+(2) Die FMA kann die Registrierung gemäß Abs. 1 zurücknehmen, wenn
+
+1\. der AIFM die Registrierung auf Grund falscher Erklärungen oder auf sonstige rechtswidrige Weise erwirkt hat,
+
+2\. der AIFM schwerwiegend oder systematisch gegen die anwendbaren Bestimmungen dieses Bundesgesetzes sowie der auf Basis der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakte verstoßen hat,
+
+3\. über das Vermögen des AIFM das Insolvenzverfahren eröffnet oder die Eröffnung des Insolvenzverfahrens mangels Masse durch rechtskräftigen Beschluss abgewiesen wird (§ 71b der Insolvenzordnung, RGBl. Nr. 337/1914).
+
+(3) Im Falle eines Widerrufes der Registrierung darf der AIFM im Inland keine weitere Tätigkeit ausüben. Die FMA hat dabei das Verfahren gemäß § 9 Abs. 3 anzuwenden.
+
+(4) Die Registrierung gemäß Abs. 1 erlischt, wenn der AIFM ausdrücklich darauf verzichtet und sämtliche von ihm verwaltete AIF abgewickelt oder auf einen anderen AIFM übertragen worden sind.
+
+## 2. Teil
+
+### Konzessionierung von AIFM
+
+#### § 4 – Bedingungen für die Aufnahme der Tätigkeit als AIFM
+
+§ 4. (1) Die Verwaltung von AIF setzt die Konzession als AIFM durch die FMA voraus. Die gemäß diesem Bundesgesetz konzessionierten AIFM müssen die Konzessionsvoraussetzungen jederzeit einhalten.
+
+(2) Ein externer AIFM darf vorbehaltlich Abs. 4 keine anderen Tätigkeiten ausüben als die in **Anlage 1** genannten Tätigkeiten und die zusätzliche Verwaltung von OGAW vorbehaltlich einer Konzession zum Investmentfondsgeschäft gemäß § 1 Abs. 1 Z 13 BWG in Verbindung mit § 6 Abs. 2 InvFG 2011.
+
+(3) Ein intern verwalteter AIF darf keine andere Tätigkeit ausüben als die interne Verwaltung dieses AIF gemäß Anlage 1.
+
+(4) Die FMA kann einem externen AIFM zusätzlich die Konzession zur Erbringung der folgenden Dienstleistungen erteilen:
+
+1\. Individuelle Verwaltung einzelner Portfolios, einschließlich solcher, die von Pensionsfonds und Einrichtungen der betrieblichen Altersversorgung gehalten werden, gemäß Art. 32 der Richtlinie (EU) 2016/2341 und im Einklang mit von den Anlegern erteilten Einzelmandaten mit Ermessenspielraum,
+
+2\. als Nebendienstleistungen:
+
+a) Anlageberatung,
+
+b) Verwahrung und technische Verwaltung im Zusammenhang mit Anteilen an Organismen für gemeinsame Anlagen,
+
+c) Annahme und Übermittlung von Aufträgen, die Finanzinstrumente zum Gegenstand haben,
+
+d) jede andere Funktion oder Tätigkeit, die der AIFM in Bezug auf einen AIF, den er gemäß § 4 verwaltet, oder in Bezug auf Dienstleistungen, die er gemäß diesem Absatz erbringt, bereits wahrnimmt, sofern ein potenzieller Interessenkonflikt, der durch die Erbringung dieser Funktion oder Tätigkeit für andere Parteien entsteht, angemessen ausgeräumt wird,
+
+3\. Verwaltung von Referenzwerten gemäß der Verordnung (EU) 2016/1011,
+
+4\. Kreditdienstleistungen gemäß der Richtlinie (EU) 2021/2167.
+
+(5) AIFM dürfen nicht konzessioniert werden, um
+
+1\. ausschließlich die in Abs. 4 genannten Dienstleistungen zu erbringen,
+
+\*(Anm.: Z 2 aufgehoben durch Art. 1 Z 8, BGBl. I Nr. 57/2026)*
+
+3\. ausschließlich die in **Anlage 1** Z 2 genannten Tätigkeiten zu erbringen,
+
+4\. die in **Anlage 1** Z 1 lit. a genannten Dienstleistungen zu erbringen, ohne auch die in **Anlage 1** Z 1 lit. b genannten zu erbringen; dasselbe gilt im umgekehrten Fall, oder
+
+5\. die Verwaltung von Referenzwerten gemäß der Verordnung (EU) 2016/1011 zu erbringen, die in den von ihnen verwalteten AIF verwendet werden.
+
+(6) Für die Erteilung und Rücknahme einer Konzession gemäß Abs. 4 Z 1 und 2 gelten § 3 Abs. 5 Z 3, Abs. 8 und 9, § 6 und die §§ 73 bis 76 WAG 2018 sowie § 13 WPFG sinngemäß. AIFM, die zur Erbringung von Dienstleistungen gemäß Abs. 4 Z 1 und 2 in Bezug auf eines oder mehrere der in § 1 Z 7 WAG 2018 angeführten Instrumente berechtigt sind, haben bei der Erbringung dieser Dienstleistungen § 29 Abs. 1 bis 4 und 6, die §§ 30 bis 33 und 38 bis 61 und §§ 94 bis 96 WAG 2018 einzuhalten. Eine OGAW Verwaltungsgesellschaft, deren Konzession sich auch auf Abs. 4 erstreckt, unterliegt in Bezug auf jene Dienstleistungen den Vorschriften gemäß § 45 Abs. 1 des Einlagensicherungs- und Anlegerentschädigungsgesetzes (ESAEG), BGBl. I Nr. 117/2015.
+
+(7) Die AIFM haben der FMA die erforderlichen Angaben vorzulegen, damit sie die Einhaltung der in diesem Bundesgesetz genannten Voraussetzungen zu jeder Zeit überwachen kann.
+
+(8) Wertpapierfirmen gemäß § 1 Z 1 WAG 2018 und Kreditinstitute gemäß § 1 Abs. 1 und § 9 Abs. 1 BWG sind im Rahmen ihrer Berechtigung für die Erbringung von Wertpapierdienstleistungen gemäß Anhang I der Richtlinie 2014/65/EU nicht dazu verpflichtet, eine Konzession nach diesem Bundesgesetz zu erhalten. Wertpapierfirmen und Kreditinstitute sind entsprechend dem jeweiligen Konzessionsumfang ihrer Bankgeschäfte oder Wertpapierdienstleistungen berechtigt, Anteile an AIF direkt oder indirekt Anlegern in der Union anzubieten oder bei ihnen zu platzieren, soweit diese Anteile gemäß diesem Bundesgesetz vertrieben werden dürfen.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 70/2014; Art. 1, BGBl. I Nr. 117/2015; Art. 1, BGBl. I Nr. 107/2017
+
+#### § 5 – Konzessionsantrag
+
+§ 5. (1) Ein AIFM, für den Österreich der Herkunftsmitgliedstaat ist, hat eine Konzession als AIFM gemäß diesem Bundesgesetz durch die FMA zu beantragen.
+
+(2) Der Antragsteller hat dem Antrag auf Erteilung einer Konzession folgende Angaben und Unterlagen anzuschließen:
+
+1\. Auskünfte über die Personen, die die Geschäfte des AIFM tatsächlich führen, insbesondere in Bezug auf die in **Anlage 1** genannten Funktionen, einschließlich
+
+a) einer Beschreibung der Funktion, des Titels und der Position der betreffenden Personen,
+
+b) einer Beschreibung der Berichtslinien und Zuständigkeiten der betreffenden Personen innerhalb und außerhalb des AIFM,
+
+c) eines Überblicks über den Zeitaufwand, den jede dieser Personen für jede Aufgabe einsetzt,
+
+d) einer Beschreibung der personellen und technischen Ressourcen, die die Aktivitäten der betreffenden Personen unterstützen
+
+sowie Informationen über einen eventuellen kontrollierenden Einfluss dieser Personen in Unternehmen in anderen Mitgliedstaaten, die unter die in § 6 Abs. 3 angeführten Kategorien fallen;
+
+1a. die offizielle Bezeichnung und die einschlägige Kennung des AIFM;
+
+2\. Auskünfte über die Identität aller Anteilseigner oder Mitglieder des AIFM, die eine qualifizierte Beteiligung an ihm halten, unabhängig davon, ob diese Beteiligung direkt oder indirekt ist oder es sich um natürliche oder juristische Personen handelt, sowie die Höhe dieser Beteiligungen, sowie Informationen über eventuelle Beteiligungen dieser Personen an Unternehmen in anderen Mitgliedstaaten, die unter die in § 6 Abs. 3 angeführten Kategorien fallen;
+
+3\. einen Geschäftsplan, der neben der Organisationsstruktur des AIFM auch Angaben darüber enthält, wie der AIFM seinen Pflichten nach dem 2. bis 4. Teil und gegebenenfalls dem 5. bis 8. Teil dieses Bundesgesetzes und seinen Pflichten gemäß Art. 3 Abs. 1, Art. 6 Abs. 1 Buchstabe a und Art. 13 der Verordnung (EU) 2019/2088 nachkommen will, sowie eine detaillierte Beschreibung der angemessenen personellen und technischen Ressourcen, die der AIFM zu diesem Zweck einsetzen wird, und die Anlagestrategien der AIF, zu deren Verwaltung der AIFM die Konzession beantragt hat;
+
+4\. Angaben über die Vergütungspolitik und –praxis gemäß § 11; und
+
+5\. Angaben über Vereinbarungen, die zur Übertragung und Weiterübertragung von Funktionen gemäß § 18 an Dritte getroffen wurden, mit zumindest folgenden Angaben:
+
+a) für jeden Beauftragten
+
+aa) die offizielle Bezeichnung und die einschlägige Kennung,
+
+bb) das Land, in dem er ansässig ist, und
+
+cc) gegebenenfalls seine Aufsichtsbehörde,
+
+b) eine ausführliche Beschreibung der von dem AIFM eingesetzten personellen und technischen Ressourcen für
+
+aa) die Wahrnehmung der täglichen Aufgaben des Portfolio- oder Risikomanagements innerhalb des AIFM und
+
+bb) die Überwachung der übertragenen Tätigkeit,
+
+c) in Bezug auf jeden AIF, der von dem AIFM verwaltet wird oder den der AIFM zu verwalten beabsichtigt,
+
+aa) eine kurze Beschreibung der übertragenen Aufgaben des Portfoliomanagements, einschließlich der Frage, ob es sich bei jeder solchen Übertragung um eine anteilige oder vollständige Übertragung handelt, und
+
+bb) eine kurze Beschreibung der übertragenen Risikomanagementfunktion, einschließlich der Frage, ob es sich bei einer solchen Übertragung um eine anteilige oder vollständige Übertragung handelt, und
+
+d) eine Beschreibung der Maßnahmen im Rahmen der Sorgfaltspflichten, die der AIFM zur Überwachung der übertragenen Tätigkeit in regelmäßigen Abständen durchführen muss.
+
+(3) Zu den AIF, die der Antragsteller als AIFM zu verwalten beabsichtigt, sind beizulegen:
+
+1\. Angaben zu den Anlagestrategien, einschließlich der Arten der Zielfonds, falls es sich bei dem AIF um einen Dachfonds handelt, und der Grundsätze, die der AIFM im Zusammenhang mit dem Einsatz einer Hebelfinanzierung anwendet sowie der Risikoprofile und sonstiger Eigenschaften der AIF, die er verwaltet oder zu verwalten beabsichtigt, einschließlich Angaben zu den Mitgliedstaaten oder Drittländern, in denen sich der Sitz solcher AIF befindet oder voraussichtlich befinden wird;
+
+2\. Angaben zum Sitz des Master-AIF, falls es sich bei dem AIF um einen Feeder-AIF handelt;
+
+3\. die Vertragsbedingungen oder Satzungen aller AIF, die der AIFM verwaltet oder zu verwalten beabsichtigt;
+
+4\. Angaben zu den Vereinbarungen zur Bestellung der Verwahrstelle gemäß § 19 für jeden AIF, den der AIFM verwaltet oder zu verwalten beabsichtigt;
+
+5\. alle in § 21 Abs. 1 genannten weiteren Informationen für jeden AIF, den der AIFM verwaltet oder zu verwalten beabsichtigt.
+
+(4) Beantragt eine Verwaltungsgesellschaft, die gemäß § 1 Abs. 1 Z 13 BWG in Verbindung mit § 6 Abs. 2 InvFG 2011 konzessioniert ist (im Folgenden „OGAW-Verwaltungsgesellschaft“), oder eine Kapitalanlagegesellschaft für Immobilien, die gemäß § 1 Abs. 1 Z 13a BWG konzessioniert ist, eine Konzession als AIFM nach diesem Bundesgesetz, so sind jene Angaben und Unterlagen nicht vorzulegen, die sie bereits bei der Beantragung der Konzession nach § 1 Abs. 1 Z 13 BWG in Verbindung mit § 6 Abs. 2 InvFG 2011 oder § 1 Abs. 1 Z 13a BWG vorgelegt hat, sofern diese Angaben oder Unterlagen nach wie vor auf dem neuesten Stand sind.
+
+(5) Die FMA hat ESMA vierteljährlich über die nach diesem Teil erteilten Konzessionen und Rücknahmen von Konzessionen und über alle Änderungen der Liste der AIF, die in der Union von zugelassenen AIFM verwaltet oder vermarktet werden, zu unterrichten.
+
+#### § 6 – Konzessionsvoraussetzungen
+
+§ 6. (1) Die Konzession ist zu erteilen, wenn:
+
+1\. der Nachweis erbracht wurde, dass der AIFM zur Einhaltung der in diesem Bundesgesetz festgelegten Bedingungen in der Lage ist;
+
+2\. der AIFM über ausreichendes Anfangskapital und Eigenmittel gemäß § 7 verfügt;
+
+3\. die Personen, die die Geschäfte des AIFM tatsächlich führen, ausreichend zuverlässig sind und auch in Bezug auf die Anlagestrategien der vom AIFM verwalteten AIF über ausreichende Erfahrung verfügen; die Namen dieser Personen sowie aller ihrer Nachfolger sind der FMA vom AIFM unverzüglich mitzuteilen; über die Geschäftsführung des AIFM haben mindestens zwei Personen zu bestimmen, die die genannten Bedingungen erfüllen und entweder auf Vollzeitbasis bei diesem AIFM beschäftigt sind oder leitende Mitglieder oder Mitglieder des Leitungsorgan des AIFM sind, die sich auf Vollzeitbasis zur Führung der Geschäfte dieses AIFM verpflichten und in der Union ansässig sind;
+
+4\. die Anteilseigner oder Mitglieder des AIFM, die eine qualifizierte Beteiligung an ihm halten, über die entsprechende Eignung verfügen, wobei der Notwendigkeit, die solide und umsichtige Verwaltung des AIFM zu gewährleisten, Rechnung zu tragen ist, und
+
+5\. der Sitz und die Hauptverwaltung des AIFM im Inland liegen.
+
+(2) Die Konzession gilt in allen Mitgliedstaaten.
+
+(3) Die FMA hat die zuständigen Behörden der anderen betroffenen Mitgliedstaaten zu konsultieren, bevor einem AIFM eine Konzession erteilt wird, der
+
+1\. eine Tochtergesellschaft eines anderen AIFM, einer OGAW-Verwaltungsgesellschaft, einer Wertpapierfirma, eines Kreditinstituts oder einer Versicherungsgesellschaft, der, die oder das in einem anderen Mitgliedstaat zugelassen ist,
+
+2\. ein Tochterunternehmen des Mutterunternehmens eines anderen AIFM, einer OGAW-Verwaltungsgesellschaft, einer Wertpapierfirma, eines Kreditinstituts oder einer Versicherungsgesellschaft, der, die oder das in einem anderen Mitgliedstaat zugelassen ist, oder
+
+3\. eine Gesellschaft, die von denselben natürlichen oder juristischen Personen kontrolliert wird wie die, die einen anderen AIFM, eine OGAW-Verwaltungsgesellschaft, eine Wertpapierfirma, ein Kreditinstitut oder eine Versicherungsgesellschaft, der, die oder das in einem anderen Mitgliedstaat zugelassen ist,
+
+kontrolliert.
+
+(4) Die FMA hat die Konzession jedenfalls zu verweigern, wenn die wirksame Wahrnehmung ihrer Aufsichtsfunktionen durch einen der folgenden Umstände verhindert wird:
+
+1\. Durch eine enge Verbindung zwischen dem AIFM und anderen natürlichen oder juristischen Personen;
+
+2\. durch die Rechts- und Verwaltungsvorschriften eines Drittlands, denen natürliche oder juristische Personen unterliegen, mit denen der AIFM eng verbunden ist;
+
+3\. durch Schwierigkeiten bei der Durchsetzung dieser Rechts- und Verwaltungsvorschriften.
+
+(5) Die FMA hat dem Antragsteller binnen drei Monaten nach Eingang des Antrages oder, wenn dieser unvollständig ist, binnen drei Monaten nach Übermittlung aller für den Bescheid erforderlichen Angaben entweder die Konzession zu erteilen oder die Ablehnung des Antrages mittels Bescheids schriftlich mitzuteilen. Die FMA kann diesen Zeitraum um bis zu drei zusätzliche Monate verlängern, wenn sie dies aufgrund der besonderen Umstände des Einzelfalls und nach einer entsprechenden Benachrichtigung des AIFM für notwendig erachtet. § 13 Abs. 3 letzter Satz AVG findet keine Anwendung. Für die Zwecke dieses Absatzes gilt ein Antrag als vollständig, wenn der AIFM mindestens die in § 5 Abs. 2 Z 1 bis 4 und § 5 Abs. 3 Z 1 und 2 genannten Angaben vorgelegt hat. AIFM können mit der Verwaltung von AIF mit den gemäß § 5 Abs. 3 Z 1 in dem Antrag beschriebenen Anlagestrategien im Inland beginnen, sobald die Konzession erteilt ist, frühestens jedoch einen Monat nachdem sie etwaige fehlende, in § 5 Abs. 2 Z 5 und § 5 Abs. 3 Z 3 bis 5 genannte Angaben, nachgereicht haben. Die Konzession ist bei sonstiger Nichtigkeit schriftlich zu erteilen. Die Konzession kann insbesondere im Hinblick auf die Anlagestrategien der AIF, welche der AIFM zulässigerweise verwalten darf, mit Bedingungen, Befristungen und Auflagen versehen werden.
+
+#### § 7 – Anfangskapital und Eigenmittel
+
+§ 7. (1) Ein AIFM, der ein intern verwalteter AIF ist, hat über ein Anfangskapital von mindestens 300 000 Euro zu verfügen.
+
+(2) Ein AIFM, der zum externen Verwalter von AIF bestellt wird, hat über ein Anfangskapital von mindestens 125 000 Euro zu verfügen.
+
+(3) Übersteigt der Wert der von dem AIFM verwalteten AIF-Portfolios 250 Mio. Euro, hat der AIFM zusätzliche Eigenmittel einzubringen; diese zusätzlichen Eigenmittel haben 0,02 vH des Betrags zu entsprechen, um den der Wert der Portfolios des AIFM 250 Mio. Euro übersteigt; die erforderliche Gesamtsumme aus Anfangskapital und zusätzlichem Betrag übersteigt jedoch nicht 10 Mio. Euro.
+
+(4) Für die Zwecke des Abs. 3 gelten die vom AIFM verwalteten AIF, einschließlich AIF, für die der AIFM gemäß § 18 Funktionen an Dritte übertragen hat, jedoch mit Ausnahme von AIF-Portfolios, die der AIFM im Auftrag Dritter verwaltet, als die Portfolios des AIFM.
+
+(5) Ungeachtet des Abs. 3 haben AIFM stets über Eigenmittel in Höhe von mindestens 25 vH der fixen Gemeinkosten des letzten festgestellten Jahresabschlusses gemäß Art. 13 der Verordnung (EU) 2019/2033 über Aufsichtsanforderungen an Wertpapierfirmen und zur Änderung der Verordnungen (EU) Nr. 1093/2010, (EU) Nr. 575/2013, (EU) Nr. 600/2014 und (EU) Nr. 806/2014, ABl. Nr. L 314 vom 05.12.2019 S. 1, in der Fassung der Berichtigung ABl. Nr. L 261 vom 22.07.2021 S. 60 zu verfügen.
+
+(6) Um die potenziellen Berufshaftungsrisiken aus den Geschäftstätigkeiten, denen die AIFM nach diesem Bundesgesetz und der Richtlinie 2011/61/EU nachgehen können, abzudecken, haben sowohl intern verwaltete AIF als auch externe AIFM über
+
+1\. zusätzliche Eigenmittel, um potenzielle Haftungsrisiken aus beruflicher Fahrlässigkeit angemessen abzudecken, oder
+
+2\. eine Berufshaftpflichtversicherung für die sich aus beruflicher Fahrlässigkeit ergebende Haftung, die den abgedeckten Risiken entspricht,
+
+zu verfügen.
+
+(7) Eigenmittel, einschließlich der zusätzlichen Eigenmittel gemäß Abs. 6 Z 1, dürfen nur in liquide Vermögenswerte oder Vermögenswerte investiert werden, die kurzfristig unmittelbar in Bargeld umgewandelt werden können und keine spekulativen Positionen enthalten. Ein AIFM, der zugleich auch OGAW-Verwaltungsgesellschaft ist, hat dies nur in Bezug auf die zusätzlichen Eigenmittel gemäß Abs. 6 Z 1 einzuhalten.
+
+(8) Mit Ausnahme der Abs. 6 und 7 und mit Ausnahme von gemäß Art. 9 der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakten gilt diese Bestimmung nicht für AIFM, die zugleich auch OGAW-Verwaltungsgesellschaften sind.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr.70/2014 Art. 1, BGBl. I Nr. 107/2017
+
+#### § 8 – Änderungen des Umfangs der Konzession
+
+§ 8. (1) Ein AIFM hat der FMA alle wesentlichen Änderungen der Voraussetzungen für die Konzessionserteilung vor deren Anwendung anzuzeigen. Dies gilt insbesondere für wesentliche Änderungen der gemäß § 5 und § 6 Abs. 1 vorgelegten Angaben.
+
+(2) Beschließt die FMA Beschränkungen vorzuschreiben oder diese Änderungen abzulehnen, so hat sie davon den AIFM innerhalb eines Monats nach Erhalt der Mitteilung durch Erlassen eines Bescheides in Kenntnis zu setzen. § 13 Abs. 3 letzter Satz AVG findet keine Anwendung. Die FMA kann diesen Zeitraum um bis zu einen Monat verlängern, wenn sie dies aufgrund der besonderen Umstände des Einzelfalls und nach einer entsprechenden Benachrichtigung des AIFM für notwendig erachtet. Werden die Änderungen innerhalb des vorgesehenen Beurteilungszeitraums nicht von der FMA abgelehnt, so dürfen sie vorgenommen werden.
+
+#### § 9 – Rücknahme und Erlöschen der Konzession
+
+§ 9. (1) Zusätzlich zu den in § 6 Abs. 2 BWG erwähnten Gründen hat die FMA die Konzession zurückzunehmen, wenn:
+
+1\. der AIFM von der Konzession nicht binnen zwölf Monaten Gebrauch macht, ausdrücklich auf sie verzichtet oder die in diesem Bundesgesetz genannten Tätigkeiten in den vorangegangenen sechs Monaten nicht ausgeübt hat;
+
+2\. die für die Erteilung der Konzession erforderlichen Voraussetzungen nicht mehr vorliegen;
+
+3\. der AIFM die Richtlinie 2006/49/EG nicht mehr erfüllt, wenn seine Konzession sich auch auf die Dienstleistung der Portfolioverwaltung mit Ermessensspielraum gemäß § 4 Abs. 4 Z 1 erstreckt;
+
+4\. vom AIFM in schwerwiegender Weise oder systematisch gegen die nach diesem Bundesgesetz erlassenen Bestimmungen oder gegen die Bestimmungen der Richtlinie 2011/61/EU oder gegen die auf Grund dieser Richtlinie erlassenen delegierten Rechtsakte verstoßen wurde.
+
+(2) Im Hinblick auf das Erlöschen der Konzession findet § 7 BWG Anwendung.
+
+(3) Wird die Konzession des AIFM von der FMA entzogen, so geht das Recht zur Verwaltung des AIF auf die Verwahrstelle über. Mit dem Übergang des Rechts zur Verwaltung des AIF auf die Verwahrstelle ist die Auszahlung von Anteilen unzulässig. Die Verwahrstelle hat den AIF unverzüglich abzuwickeln und das Vermögen an die Anleger zu verteilen. Die für den AIF gehaltenen Vermögenswerte sind so rasch, als dies bei Wahrung der Interessen der Anteilinhaber möglich ist, in Geld umzusetzen. Die Verteilung des Vermögens auf die Anteilinhaber ist erst nach Erfüllung der Verbindlichkeiten des AIF sowie der nach den Fondsbestimmungen zulässigen Zahlungen an den AIFM und die Verwahrstelle vorzunehmen. Während der Abwicklung gilt § 22 Abs. 1 bis 4 für die Verwahrstelle sinngemäß. Mit Bewilligung der FMA kann die Verwahrstelle von der Abwicklung des AIF und der Verteilung des Vermögens absehen und binnen eines Monats nach dem Übergang des Rechts zur Verwaltung des AIF auf die Verwahrstelle einem anderen AIFM die Verwaltung des AIF nach Maßgabe der Anlagebedingungen übertragen. Die FMA kann die Bewilligung mit entsprechenden Bedingungen und Auflagen versehen.
+
+## 3. Teil
+
+### Bedingungen für die Ausübung der Tätigkeit des AIFM — 1. Abschnitt
+
+### Allgemeine Anforderungen
+
+#### § 10 – Allgemeine Grundsätze
+
+§ 10. (1) Ein AIFM hat stets:
+
+1\. seiner Tätigkeit ehrlich und redlich, mit der gebotenen Sachkenntnis, Sorgfalt und Gewissenhaftigkeit nachzugehen;
+
+2\. im besten Interesse der von ihm verwalteten AIF oder der Anleger dieser AIF und der Integrität des Marktes zu handeln;
+
+3\. über die für eine ordnungsgemäße Ausübung ihrer Geschäftstätigkeit erforderlichen Mittel und Verfahren zu verfügen und diese wirksam einzusetzen;
+
+4\. alle angemessenen Maßnahmen zur Vermeidung von Interessenkonflikten und, wo diese nicht vermieden werden können, zur Ermittlung, Beilegung, Beobachtung und gegebenenfalls Offenlegung dieser Interessenkonflikte zu treffen, um zu vermeiden, dass sich diese nachteilig auf die Interessen der AIF und ihrer Anleger auswirken, und um sicherzustellen, dass den von ihm verwalteten AIF eine faire Behandlung zukommt;
+
+5\. alle auf die Ausübung ihrer Geschäftstätigkeit anwendbaren regulatorischen Anforderungen zu erfüllen, um das beste Interesse der von ihm verwalteten AIF oder der Anleger dieser AIF und die Integrität des Marktes zu fördern;
+
+6\. alle Anleger der AIF fair zu behandeln.
+
+Der AIFM hat Anleger der von ihm verwalteten AIF gleich zu behandeln und die Interessen einer bestimmten Gruppe von Anlegern nicht über die Interessen einer anderen Gruppe von Anlegern zu stellen, es sei denn, eine solche Vorzugsbehandlung ist in den Vertragsbedingungen oder in der Satzung des entsprechenden AIF vorgesehen.
+
+(2) Ein AIFM, dessen Konzession sich auch auf die individuelle Portfolioverwaltung mit Ermessensspielraum gemäß § 4 Abs. 4 Z 1 erstreckt, darf das Portfolio des Kunden weder ganz noch teilweise in Anteilen der von ihm verwalteten AIF anlegen, es sei denn, er hat zuvor eine allgemeine Zustimmung des Kunden erhalten und unterliegt in Bezug auf die Dienstleistungen gemäß § 4 Abs. 4 den Vorschriften der §§ 73 bis 76 WAG 2018. <sup>*(Anm. 1)*</sup> Hält der AIFM zusätzlich eine Konzession gemäß § 1 Abs. 1 Z 13 BWG in Verbindung mit § 6 Abs. 2 InvFG 2011, so ist stattdessen § 45 Abs. 1 ESAEG beachtlich.
+
+(3) Die FMA hat ESMA zum Zweck der Erstellung des Berichts gemäß Art. 12 Abs. 4 der Richtlinie 2011/61/EU und im Einklang mit Art. 35 der Verordnung (EU) Nr. 1095/2010 einmalig Daten über Kosten, einschließlich aller Gebühren, Entgelte und sonstiger Kosten, die mittelbar oder unmittelbar von den Anlegern oder dem AIFM im Zusammenhang mit den Tätigkeiten des AIF getragen werden und die direkt oder indirekt dem AIF zugeordnet werden sollen, zu übermitteln. Die FMA hat diese Daten ESMA im Rahmen ihrer Befugnisse zur Verfügung zu stellen, zu denen auch die Befugnis gehört, AIFM gemäß § 56 Abs. 2 zur Übermittlung von Informationen zu verpflichten.
+
+\*(\_\_\_\_\_\_\_\_\_\_*
+
+\*Anm. 1: Die Novellierungsanweisung in Art. 1, BGBl. I Nr. 49/2025 lautet: „In § 10 Abs. 2 wird die Wortfolge „der § 10 Abs. 5 Z 1 WAG 2018“ durch die Wortfolge „des Art. 13 Abs. 1 der Verordnung (EU) 2019/2033“ ersetzt.“. Diese Anordnung konnte nicht eingearbeitet werden.)*
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 117/2015; Art. 1, BGBl. I Nr. 118/2016; Art. 1, BGBl. I Nr. 107/2017
+
+#### § 11 – Vergütung
+
+§ 11. (1) Ein AIFM hat für alle Kategorien von Mitarbeitern einschließlich der Geschäftsleiter und Personen welche die Geschäfte tatsächlich führen, Risikoträger, Mitarbeiter mit Kontrollfunktionen und aller Mitarbeiter, die eine Gesamtvergütung erhalten, aufgrund derer sie sich in derselben Einkommensstufe befinden wie die Führungskräfte und Risikoträger, deren berufliche Tätigkeit sich wesentlich auf das Risikoprofil des AIFM oder auf die Risikoprofile der von ihm verwalteten AIF auswirkt, eine Vergütungspolitik und –praxis festzulegen, die mit einem soliden und wirksamen Risikomanagement vereinbar und diesem förderlich ist und nicht zur Übernahme von Risiken ermutigt, die nicht mit dem Risikoprofil, den Vertragsbedingungen oder der Satzung der von ihm verwalteten AIF vereinbar sind.
+
+(2) Ein AIFM hat die Vergütungspolitik und –praxis gemäß **Anlage 2** festzulegen.
+
+(3) Die FMA kann mittels Verordnung unter Bedachtnahme auf die europäischen Gepflogenheiten die Grundsätze für eine Vergütungspolitik festlegen.
+
+#### § 12 – Interessenkonflikte
+
+§ 12. (1) Ein AIFM hat alle angemessenen Maßnahmen zu treffen, um Interessenkonflikte zu ermitteln, die im Zusammenhang mit der Verwaltung von AIF zwischen
+
+1\. dem AIFM sowie seinen Geschäftsleitern, Mitarbeitern oder jeder anderen Person, die über ein Kontrollverhältnis direkt oder indirekt mit dem AIFM verbunden ist, und dem von ihm verwalteten AIF oder den Anlegern dieses AIF,
+
+2\. dem AIF oder den Anlegern dieses AIF und einem anderen AIF oder den Anlegern jenes AIF,
+
+3\. dem AIF oder den Anlegern dieses AIF und einem anderen Kunden des AIFM,
+
+4\. dem AIF oder den Anlegern dieses AIF und einem von dem AIFM verwalteten OGAW oder den Anlegern dieses OGAW oder
+
+5\. zwei Kunden des AIFM
+
+auftreten. Der AIFM hat wirksame organisatorische und administrative Vorkehrungen zur Ergreifung aller angemessen Maßnahmen zur Ermittlung, Vorbeugung, Beilegung und Beobachtung von Interessenkonflikten zu treffen und beizubehalten, um zu verhindern, dass diese den Interessen der AIF und ihrer Anleger schaden. Innerhalb seiner eigenen Prozessabläufe hat der AIFM Aufgaben und Verantwortungsbereiche zu trennen, die als miteinander unvereinbar angesehen werden könnten oder potenziell systematische Interessenkonflikte hervorrufen könnten. Der AIFM hat zu prüfen, ob die Bedingungen der Ausübung seiner Tätigkeit wesentliche andere Interessenkonflikte nach sich ziehen könnten und hat diese den Anlegern der AIF gegenüber offen zu legen.
+
+(2) Reichen die von dem AIFM zur Ermittlung, Vorbeugung, Beilegung und Beobachtung von Interessenkonflikten getroffenen organisatorischen Vorkehrungen nicht aus, um nach vernünftigem Ermessen zu gewährleisten, dass das Risiko einer Beeinträchtigung von Anlegerinteressen vermieden wird, so hat der AIFM die Anleger — bevor er in ihrem Auftrag Geschäfte tätigt — unmissverständlich über die allgemeine Art oder die Quellen der Interessenkonflikte in Kenntnis zu setzen und angemessene Strategien und Verfahren zu entwickeln.
+
+(2a) Verwaltet ein AIFM einen AIF auf Initiative eines Dritten oder beabsichtigt dies, einschließlich Fällen, in denen dieser AIF den Namen eines als Initiator auftretenden Dritten verwendet oder in denen ein AIFM einen als Initiator auftretenden Dritten als Beauftragten gemäß § 18 bestellt, so hat der AIFM der FMA unter Berücksichtigung etwaiger Interessenkonflikte ausführliche Erläuterungen und Belege für die Einhaltung der Abs. 1 und 2 vorzulegen. Der AIFM hat insbesondere darzulegen, welche angemessenen Schritte er unternommen hat, um Interessenkonflikte zu verhindern, die sich aus der Beziehung zu dem Dritten ergeben, oder, falls sich diese Konflikte nicht verhindern lassen, wie er diese Interessenkonflikte ermittelt, handhabt, überwacht und gegebenenfalls offenlegt, damit sie die Interessen des AIF und seiner Anleger nicht beeinträchtigen.
+
+(3) Wenn der AIFM für einen AIF die Dienste eines Primebroker in Anspruch nimmt, muss er die Bedingungen in einem schriftlichen Vertrag vereinbaren. Insbesondere muss die Möglichkeit einer Übertragung und Wiederverwendung von Vermögenswerten des AIF in diesem Vertrag vereinbart werden und den Vertragsbedingungen oder der Satzung des AIF entsprechen. In dem Vertrag muss festgelegt werden, dass die Verwahrstelle von dem Vertrag in Kenntnis gesetzt wird. Bei der Auswahl und Benennung der Primebroker, mit denen ein Vertrag geschlossen wird, hat der AIFM mit der gebotenen Sachkenntnis, Sorgfalt und Gewissenhaftigkeit vorzugehen.
+
+#### § 13 – Risikomanagement
+
+§ 13. (1) Ein AIFM hat die Funktionen des Risikomanagements funktional und hierarchisch von den operativen Abteilungen zu trennen. Die FMA hat dies in Übereinstimmung mit dem Verhältnismäßigkeitsprinzip zu überwachen. Der AIFM muss jedenfalls in der Lage sein, der FMA auf Verlangen nachzuweisen, dass besondere Schutzvorkehrungen gegen Interessenkonflikte verwendet werden um eine unabhängige Ausübung von Risikomanagementmaßnahmen zu ermöglichen und dass das Risikomanagement den Anforderungen dieser Bestimmung genügt und durchgehend Anwendung findet.
+
+(2) Damit alle Risiken, die für die einzelnen AIF-Anlagestrategien wesentlich sind und denen jeder AIF unterliegt oder unterliegen kann, hinreichend festgestellt, bewertet, gesteuert und überwacht werden, hat der AIFM angemessene Risikomanagement-Systeme einzusetzen. Insbesondere stützen AIFM sich bei der Bewertung der Bonität der Vermögenswerte des AIF nicht ausschließlich und automatisch auf Ratings, die von Ratingagenturen im Sinne von Art. 3 Abs. 1 lit. b der Verordnung (EG) Nr. 1060/2009 über Ratingagenturen, ABl. Nr. L 302 vom 17.11.2009 S. 1, abgegeben worden sind. Der AIFM hat die Risikomanagement-Systeme in angemessenen zeitlichen Abständen zu überprüfen, mindestens jedoch einmal jährlich, und sie erforderlichenfalls anzupassen.
+
+(3) Ein AIFM hat zumindest folgende Verpflichtungen:
+
+1\. Er hat eine der Anlagestrategie, den Zielen und dem Risikoprofil des AIF angemessene, dokumentierte und regelmäßig aktualisierte Sorgfaltsprüfung (Due Diligence Process) durchzuführen, wenn er für Rechnung des AIF Anlagen tätigt;
+
+2\. er hat zu gewährleisten, dass die mit den einzelnen Anlagepositionen des AIF verbundenen Risiken samt ihrer Auswirkungen auf das Gesamtportfolio des AIF laufend — unter anderem auch durch die Nutzung angemessener Stresstests — ordnungsgemäß bewertet, eingeschätzt, gesteuert und überwacht werden können;
+
+3\. er hat weiters zu gewährleisten, dass die Risikoprofile der AIF der Größe, der Portfoliostruktur und den Anlagestrategien und –zielen, wie sie in den Vertragsbedingungen oder der Satzung, dem Prospekt und den Emissionsunterlagen des AIF festgelegt sind, entsprechen;
+
+4\. er hat bei der Kreditvergabe für wirksame Strategien, Verfahren und Prozesse für die Vergabe zu sorgen.
+
+(3a) Unter Berücksichtigung der Art, des Umfangs und der Komplexität der Tätigkeit der AIF überwacht die FMA die Angemessenheit der Verfahren der AIFM für die Bonitätsbewertung, bewertet die Verwendung von Bezugnahmen auf die in Abs. 2 genannten Ratings in der Anlagepolitik der AIF und regt, falls angezeigt, die Milderung der Auswirkungen solcher Bezugnahmen an, um dem ausschließlichen und automatischen Rückgriff auf derartige Ratings entgegenzuwirken.
+
+(3b) Für die Zwecke von Abs. 3 Z 4 haben AIFM, die AIF verwalten, die Kredite vergeben oder über Dritte Kreditrisiken erlangen, auch wirksame Strategien, Verfahren und Prozesse für die Bewertung des Kreditrisikos sowie die Verwaltung und Überwachung ihres Kreditportfolios umzusetzen, diese Strategien, Verfahren und Prozesse auf dem neuesten Stand und wirksam zu halten und sie regelmäßig, mindestens jedoch einmal pro Jahr, zu überprüfen.
+
+(3c) Unbeschadet § 10 Abs. 1 Z 2 gelten die in Abs. 3 Z 4 und Abs. 3b genannten Anforderungen nicht für die Vergabe von Gesellschafterdarlehen, wenn der Nominalwert dieser Darlehen insgesamt 150 vH des Kapitals des AIF nicht übersteigt.
+
+(4) Ein AIFM hat ein Höchstmaß an Hebelfinanzierung festzulegen, das er für jeden der von ihm verwalteten AIF einsetzen kann, ebenso wie den Umfang des Rechts der Wiederverwendung von Sicherheiten oder sonstigen Garantien, die im Rahmen der Vereinbarung über die Hebelfinanzierung gewährt werden, wobei er Folgendes zu berücksichtigen hat:
+
+1\. Die Art des AIF,
+
+2\. die Anlagestrategie des AIF,
+
+3\. die Herkunft der Hebelfinanzierung des AIF,
+
+4\. jede andere Verbindung oder relevante Beziehung zu anderen Finanzdienstleistungsinstituten, die potenziell ein Systemrisiko darstellen,
+
+5\. die Notwendigkeit, das Risiko gegenüber jeder einzelnen Gegenpartei zu begrenzen,
+
+6\. das Ausmaß, bis zu dem die Hebelfinanzierung besichert ist,
+
+7\. das Verhältnis von Aktiva und Passiva,
+
+8\. Umfang, Wesen und Ausmaß der Geschäftstätigkeiten des AIFM auf den betreffenden Märkten.
+
+(4a) Unbeschadet der Schwellenwerte, Beschränkungen und Bedingungen gemäß den Verordnungen (EU) Nr. 345/2013, (EU) Nr. 346/2013 und (EU) 2015/760 hat ein AIFM sicherzustellen, dass in Fällen, in denen ein von ihm verwalteter AIF Kredite vergibt, der Nominalwert der von diesem AIF an einen einzelnen Kreditnehmer vergebenen Kredite insgesamt 20 vH des Kapitals des AIF nicht übersteigt, wenn es sich bei dem Kreditnehmer um einen der folgenden Akteure handelt:
+
+1\. ein Finanzunternehmen gemäß § 5 Z 28 des Versicherungsaufsichtsgesetzes 2016 – VAG 2016, BGBl. I Nr. 34/2015,
+
+2\. einen AIF oder
+
+3\. einen OGAW.
+
+(4b) Ein AIFM hat sicherzustellen, dass die Hebelfinanzierung eines von ihm verwalteten kreditvergebenden AIF, wenn es sich um einen offenen AIF handelt, nicht mehr als 175 vH ausmacht und wenn es sich um einen geschlossenen AIF handelt, nicht mehr als 300 vH ausmacht, wobei
+
+1\. die Hebelfinanzierung des kreditvergebenden AIF als das Verhältnis zwischen dem Risiko dieses AIF, berechnet nach der Commitment-Methode, die in Art. 8 der delegierten Verordnung (EU) Nr. 231/2013 festgelegt ist, und seinem Nettoinventarwert, ausgedrückt wird, und
+
+2\. Kreditvereinbarungen, die vollständig durch vertragliche Kapitalverpflichtungen von Anlegern des kreditvergebenden AIF abgedeckt sind, für die Zwecke der Berechnung des in Z 1 genannten Verhältnisses nicht als Risiko gelten.
+
+Verstößt ein kreditvergebender AIF gegen die in diesem Absatz festgelegten Anforderungen und liegt der Verstoß außerhalb der Kontrolle des AIFM, der ihn verwaltet, so hat der AIFM innerhalb einer angemessenen Frist die erforderlichen Maßnahmen zu treffen, um die Situation zu korrigieren, wobei er den Interessen der Anleger des kreditvergebenden AIF gebührend Rechnung zu tragen hat. Unbeschadet der Befugnisse der FMA gemäß § 23 Abs. 3 gelten die Anforderungen dieses Absatzes nicht für einen kreditvergebenden AIF, dessen Kreditvergabe ausschließlich in der Vergabe von Gesellschafterdarlehen besteht, sofern der Nominalwert dieser Darlehen insgesamt 150 vH des Kapitals dieses AIF nicht übersteigt.
+
+(4c) Die in Abs. 4a festgelegte Anlagebeschränkung von 20 vH
+
+1\. gilt ab dem in den Vertragsbedingungen oder der Satzung oder dem Prospekt des AIF genannten Datum, das nicht mehr als 24 Monate nach dem Tag der ersten Zeichnung von Anteilen des AIF liegen darf,
+
+2\. gilt nicht mehr, sobald der AIFM mit der Veräußerung der Vermögenswerte des AIF beginnt, um die Anteile seiner Anleger als Teil der Auflösung des AIF zurücknehmen zu können, und
+
+3\. ist vorübergehend auszusetzen, wenn das Kapital des AIF erhöht oder verringert wird.
+
+Die Aussetzung gemäß Z 3 ist auf den unbedingt erforderlichen Zeitraum zu begrenzen, wobei den Interessen der Anleger des AIF gebührend Rechnung zu tragen ist, und darf in keinem Fall länger als zwölf Monate dauern.
+
+(4d) Der in Abs. 4c Z 1 genannte Anwendungszeitpunkt hat den besonderen Merkmalen und Eigenschaften der von dem AIFM anzulegenden Vermögenswerte Rechnung zu tragen. Unter außergewöhnlichen Umständen kann die FMA eine Verlängerung dieser Frist um bis zu höchstens zwölf Monate genehmigen, wenn ein ausreichend begründeter Anlageplan vorgelegt wird.
+
+(4e) Der AIFM hat sicherzustellen, dass ein AIF, den er verwaltet, keine Kredite an die folgenden Einheiten vergibt:
+
+1\. den AIFM oder die Mitarbeiter dieses AIFM;
+
+2\. die Verwahrstelle des AIF oder die Unternehmen, denen die Verwahrstelle gemäß § 19 Funktionen in Bezug auf den AIF übertragen hat;
+
+3\. ein Unternehmen, dem der AIFM gemäß § 18 Funktionen übertragen hat, oder das Personal dieses Unternehmens;
+
+4\. ein Unternehmen innerhalb derselben Gruppe im Sinne von § 189a Z 8 des Unternehmensgesetzbuches – UGB, dRGBl. S 219/1897, wie der AIFM, es sei denn, es handelt sich um ein Finanzunternehmen, das ausschließlich Kreditnehmer finanziert, die nicht unter den Z 1 bis 3 dieses Absatzes genannt sind.
+
+(4f) Vergibt ein AIF Kredite, sind die Erlöse aus den Krediten abzüglich etwaiger zulässiger Verwaltungsgebühren diesem AIF in voller Höhe zuzurechnen. Alle Kosten und Ausgaben im Zusammenhang mit der Verwaltung des Kredits sind gemäß § 21 anzugeben.
+
+(4g) AIF, die Kredite vergeben, ist es untersagt, Kredite an Verbraucher gemäß § 1 Abs. 1 Z 2 des Konsumentenschutzgesetzes – KSchG, BGBl. Nr. 140/1979, zu vergeben. Außerdem ist AIF die Erbringung von Kreditdienstleistungen für solche Verbraucher in Österreich untersagt.
+
+(4h) Es ist AIFM untersagt, AIF zu verwalten, die Kredite vergeben, wenn die Anlagestrategie dieser AIF ganz oder teilweise darin besteht, Kredite zu dem alleinigen Zweck zu vergeben, diese Kredite oder Risiken auf Dritte zu übertragen.
+
+(4i) Ein AIFM hat sicherzustellen, dass der von ihm verwaltete AIF 5 vH des Nominalwerts jedes vom AIF vergebenen und anschließend auf Dritte übertragenen Kredits wie folgt einbehält:
+
+1\. Bei Krediten mit einer Laufzeit von bis zu acht Jahren oder bei Krediten, die Verbrauchern gewährt werden, ist der Betrag unabhängig von ihrer Laufzeit bis zur Fälligkeit einzubehalten.
+
+2\. Bei sonstigen Krediten ist der Betrag für einen Zeitraum von mindestens acht Jahren einzubehalten.
+
+(4j) Die Anforderung gemäß Abs. 4i gilt nicht, wenn
+
+1\. der AIFM mit der Veräußerung der Vermögenswerte des AIF beginnt, um als Teil der Auflösung des AIF Anteile zurücknehmen zu können,
+
+2\. der Verkauf für die Einhaltung der gemäß Art. 215 AEUV erlassenen restriktiven Maßnahmen oder der Produktanforderungen erforderlich ist,
+
+3\. der Verkauf des Kredits erforderlich ist, damit der AIFM die Anlagestrategie des von ihm verwalteten AIF im besten Interesse der Anleger des AIF umsetzen kann, oder
+
+4\. der Verkauf des Kredits auf eine Verschlechterung des mit dem Kredit verbundenen Risikos zurückzuführen ist, die der AIFM im Rahmen seines in Abs. 3 bis 3c genannten Verfahrens zur Erfüllung der Sorgfaltspflicht und des Risikomanagements festgestellt hat, und der Käufer beim Kauf des Kredits über diese Verschlechterung informiert wird,
+
+wobei der AIFM auf Ersuchen der FMA nachzuweisen hat, dass er die Bedingungen für die Anwendung der einschlägigen Ausnahme erfüllt.
+
+(5) Die FMA kann mittels Verordnung unter Bedachtnahme auf die europäischen Gepflogenheiten nähere Kriterien im Hinblick auf Techniken für ein effizientes Portfoliomanagement festlegen.
+
+> **Anmerkung:** EU: Art. 1, BGBl. I Nr. 70/2014
+
+#### § 14 – Liquiditätsmanagement
+
+§ 14. (1) Ein AIFM hat für jeden von ihm verwalteten AIF, bei dem es sich nicht um einen AIF des geschlossenen Types ohne Hebelfinanzierung handelt, über ein angemessenes Liquiditätsmanagementsystem zu verfügen und Verfahren festzulegen, die es ihm ermöglichen, die Liquiditätsrisiken des AIF zu überwachen und zu gewährleisten, dass sich das Liquiditätsprofil der Anlagen des AIF mit seinen zugrunde liegenden Verbindlichkeiten deckt. Der AIFM hat regelmäßig Stresstests durchzuführen, unter Zugrundelegung von sowohl normalen als auch außergewöhnlichen Liquiditätsbedingungen, mit denen er die Liquiditätsrisiken der AIF bewerten und entsprechend überwachen kann.
+
+(2) Ein AIFM hat zu gewährleisten, dass die Anlagestrategie, das Liquiditätsprofil und die Rücknahmegrundsätze eines jeden von ihm verwalteten AIF miteinander konsistent sind.
+
+(3) Unbeschadet der Schwellenwerte, Beschränkungen und Bedingungen gemäß den Verordnungen (EU) Nr. 345/2013, (EU) Nr. 346/2013 und (EU) 2015/760 hat ein AIFM sicherzustellen, dass der von ihm verwaltete kreditvergebende AIF ein geschlossener Fonds ist. Abweichend kann ein kreditvergebender AIF ein offener Fonds sein, sofern der AIFM, der ihn verwaltet, gegenüber der FMA nachweisen kann, dass das Liquiditätsrisikomanagementsystem des AIF mit der Anlagestrategie und der Rücknahmepolitik des AIFM vereinbar ist.
+
+(4) Um sicherzustellen, dass die Abs. 1 und 2 eingehalten werden, hat ein AIFM, der einen offenen AIF verwaltet, unter den in **Anlage 5** Z 2 bis 8 genannten Instrumenten mindestens zwei geeignete Liquiditätsmanagement-Instrumente auszuwählen, nachdem er die Eignung dieser Instrumente im Hinblick auf die verfolgte Anlagestrategie, das Liquiditätsprofil und die Rücknahmepolitik des AIF bewertet hat. Der AIFM hat diese Instrumente in die Vertragsbedingungen oder die Satzung des AIF aufzunehmen, damit sie im Interesse der Anleger des AIF eingesetzt werden können. Diese Auswahl darf sich nicht nur auf die in **Anlage 5** Z 5 und 6 genannten Instrumente beschränken.
+
+(5) Abweichend von Abs. 4 kann ein AIFM beschließen, für einen von ihm verwalteten AIF nur ein einziges der in **Anlage 5** Z 2 bis 8 genannten Liquiditätsmanagement-Instrumente auszuwählen, wenn dieser AIF als Geldmarktfonds gemäß der Verordnung (EU) 2017/1131 zugelassen ist.
+
+(6) Der AIFM hat detaillierte Strategien und Verfahren für die Aktivierung und Deaktivierung eines ausgewählten Liquiditätsmanagement-Instruments sowie die operativen und administrativen Vorkehrungen für den Einsatz eines solchen Instruments umzusetzen. Die Auswahl im Sinne der Abs. 4 und 5 sowie die detaillierten Strategien und Verfahren für die Aktivierung und Deaktivierung sind der FMA mitzuteilen.
+
+(7) Die Sachauskehr gemäß **Anlage 5** Z 8 darf nur aktiviert werden, um Rücknahmeverlangen professioneller Anleger zu erfüllen und wenn die Sachauskehr einem proportionalen Anteil an den von dem AIF gehaltenen Vermögenswerten entspricht.
+
+(7a) Abweichend von Abs. 7 muss die Sachauskehr nicht einem proportionalen Anteil an den vom AIF gehaltenen Vermögenswerten entsprechen, wenn der AIF ausschließlich an professionelle Anleger vertrieben wird oder wenn das Ziel der Anlagepolitik dieses AIF darin besteht, die Zusammensetzung eines bestimmten Aktien- oder Schuldtitelindex nachzubilden, und dieser AIF ein börsengehandelter Fonds gemäß § 1 Z 10 WAG 2018 ist.
+
+(8) Ein AIFM, der einen offenen AIF verwaltet, kann im Interesse der AIF-Anleger die Zeichnung, den Rückkauf oder die Rücknahme von AIF-Anteilen gemäß **Anlage 5** Z 1 vorübergehend aussetzen oder, wenn diese Instrumente in den Vertragsbedingungen oder der Satzung des AIF enthalten sind, andere aus **Anlage 5** Z 2 bis 8 ausgewählte Liquiditätsmanagement-Instrumente gemäß Abs. 4 bis 7a aktivieren oder deaktivieren. Der AIFM kann im Interesse der AIF-Anleger auch die in **Anlage 5** Z 9 genannte Abspaltung illiquider Anlagen aktivieren. Ein AIFM darf solche Aussetzungen von Zeichnungen, Rückkäufen und Rücknahmen oder die Abspaltung illiquider Anlagen nur in außergewöhnlichen Fällen einsetzen, wenn Umstände vorliegen, die dies erforderlich machen, und es unter Berücksichtigung der Interessen der AIF-Anleger gerechtfertigt ist.
+
+(9) Ein AIFM hat unverzüglich die FMA zu informieren, wenn er
+
+1\. das in **Anlage 5** Z 1 genannte Liquiditätsmanagement-Instrument aktiviert oder deaktiviert oder
+
+2\. eines der in **Anlage 5** Z 2 bis 8 genannten Liquiditätsmanagement-Instrumente in einer Weise aktiviert oder deaktiviert, die nicht dem normalen Geschäftsverlauf gemäß den Vertragsbedingungen oder der Satzung des AIF entspricht.
+
+Ein AIFM hat die FMA innerhalb eines angemessenen Zeitraums vor der Aktivierung oder Deaktivierung des in **Anlage 5** Z 9 genannten Liquiditätsmanagement-Instruments über diese Aktivierung oder Deaktivierung zu unterrichten. In den in diesem Absatz genannten Fällen hat der AIFM auch die AIF-Anleger in geeigneter und in den Vertragsbedingungen vereinbarter Art und Weise über die Aktivierung und Deaktivierung von Liquiditätsmanagement-Instrumenten zu informieren.
+
+(10) Die FMA hat die zuständigen Behörden des Aufnahmemitgliedstaats des AIFM, ESMA und im Falle von potenziellen Risiken für die Stabilität und die Integrität des Finanzsystems den durch die Verordnung (EU) Nr. 1092/2010 eingesetzten Ausschuss für Systemrisiken (ESRB) unverzüglich über alle gemäß Abs. 9 eingegangenen Meldungen zu informieren.
+
+#### § 15 – Anlagen in Verbriefungspositionen
+
+§ 15. Ist ein AIFM für einen von ihm verwalteten AIF eine Verbriefung eingegangen, die die Anforderungen der Verordnung (EU) 2017/2402 nicht mehr erfüllt, so hat er im besten Interesse der Anteilinhaber des betreffenden AIF zu handeln und gegebenenfalls Korrekturmaßnahmen zu ergreifen.
+
+> **Anmerkung:** EU: Art. 1, BGBl. I Nr. 70/2014
+
+## 2. Abschnitt
+
+### Organisatorische Anforderungen
+
+#### § 16 – Allgemeine Grundsätze
+
+§ 16. (1) Ein AIFM hat für die ordnungsgemäße Verwaltung der AIF jederzeit angemessene und geeignete personelle und technische Ressourcen einzusetzen.
+
+(2) Ein AIFM hat unter Berücksichtigung der Art der von dem AIFM verwalteten AIF über eine ordnungsgemäße Verwaltung und Buchhaltung, Kontroll- und Sicherheitsvorkehrungen für die elektronische Datenverarbeitung, einschließlich in Bezug auf Netzwerk- und Informationssysteme, die im Einklang mit der Verordnung (EU) 2022/2554 eingerichtet und verwaltet werden, sowie angemessene interne Kontrollverfahren, zu denen insbesondere Regeln für persönliche Geschäfte seiner Mitarbeiter und für das Halten oder Verwalten von Veranlagungen zum Zwecke der Anlage auf eigene Rechnung gehören, zu verfügen, durch die zumindest gewährleistet wird, dass jedes die AIF betreffende Geschäft nach Herkunft, Vertragsparteien, Art, Abschlusszeitpunkt und –ort rekonstruiert werden kann und dass die Vermögenswerte der vom AIFM verwalteten AIF gemäß den Vertragsbedingungen oder Satzungen der AIF sowie gemäß den geltenden rechtlichen Bestimmungen angelegt werden.
+
+#### § 17 – Bewertung
+
+§ 17. (1) Ein AIFM hat sicher zu stellen, dass für jeden von ihm verwalteten AIF geeignete und kohärente Verfahren festgelegt werden, so dass eine ordnungsgemäße und unabhängige Bewertung der Vermögenswerte des AIF gemäß dieser Bestimmung und den Vertragsbedingungen oder der Satzung der AIF vorgenommen werden kann.
+
+(2) Die für die Bewertung der Vermögenswerte und die Berechnung des Nettoinventarwerts je Anteil eines AIF geltenden Vorschriften sind, sofern der AIF in Österreich seinen Sitz hat, in den Vertragsbedingungen oder der Satzung des AIF zu regeln.
+
+(3) Ein AIFM hat auch sicher zu stellen, dass die Berechnung und Offenlegung des Nettoinventarwertes je Anteil des AIF gegenüber den Anlegern gemäß dieser Bestimmung und den Vertragsbedingungen oder der Satzung des AIF erfolgt. Durch die angewendeten Bewertungsverfahren hat sichergestellt zu werden, dass die Bewertung der Vermögenswerte und die Berechnung des Nettoinventarwerts je Anteil mindestens einmal jährlich erfolgt. Handelt es sich um einen offenen AIF, sind solche Bewertungen und Berechnungen in einem zeitlichen Abstand durchzuführen, der den von dem AIF gehaltenen Vermögenswerten und seiner Ausgabe- und Rücknahmehäufigkeit angemessen ist. Handelt es sich um einen geschlossenen AIF, sind solche Bewertungen und Berechnungen auch durchzuführen, wenn das Kapital des entsprechenden AIF erhöht oder herabgesetzt wird. Die Anleger haben über die Bewertungen und Berechnungen entsprechend den diesbezüglichen Vertragsbedingungen oder der Satzung des AIF informiert zu werden.
+
+(4) Ein AIFM hat zu gewährleisten, dass die Bewertung von einer der folgenden Stellen durchgeführt wird:
+
+1\. einem externen Bewerter, der eine natürliche oder juristische Person unabhängig vom AIF, dem AIFM und anderen Personen mit engen Verbindungen zum AIF oder zum AIFM ist, oder
+
+2\. dem AIFM selbst, vorausgesetzt die Bewertungsaufgabe ist von der Portfolioverwaltung funktional unabhängig, und die Vergütungspolitik und andere Maßnahmen stellen sicher, dass Interessenkonflikte gemindert und ein unzulässiger Einfluss auf die Mitarbeiter verhindert werden.
+
+Die für einen AIF bestellte Verwahrstelle darf nicht als externer Bewerter dieses AIF bestellt werden, außer wenn eine funktionale und hierarchische Trennung der Ausführung ihrer Verwahrfunktionen von ihren Aufgaben als externer Bewerter vorliegt und die potenziellen Interessenkonflikte ordnungsgemäß ermittelt, gesteuert, beobachtet und den Anlegern des AIF gegenüber offengelegt werden.
+
+(5) Wird ein externer Bewerter für die Bewertung herangezogen, so hat der AIFM nachzuweisen, dass:
+
+1\. der externe Bewerter einer gesetzlich anerkannten verpflichtenden berufsmäßigen Registrierung oder Rechts- und Verwaltungsvorschriften oder berufsständischen Regeln unterliegt;
+
+2\. der externe Bewerter ausreichende berufliche Garantien vorweisen kann, um wirksam die entsprechende Bewertungsfunktion gemäß den Abs. 1, 2 und 3 ausüben zu können, und
+
+3\. die Bestellung des externen Bewerters den Anforderungen von § 18 und den gemäß Art. 20 Abs. 7 der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakten entspricht.
+
+(6) Der bestellte externe Bewerter darf die Bewertungsfunktion nicht an einen Dritten delegieren.
+
+(7) Ein AIFM hat die Bestellung eines externen Bewerters der FMA unverzüglich anzuzeigen; diese kann für den Fall, dass die Voraussetzungen nach Abs. 5 nicht erfüllt sind, die Bestellung eines anderen externen Bewerters verlangen.
+
+(8) Die Bewertung hat unabhängig und mit der gebotenen Sachkenntnis, Sorgfalt und Gewissenhaftigkeit zu erfolgen.
+
+(9) Wird die Bewertung nicht von einem externen Bewerter vorgenommen, so kann die FMA verlangen, dass die Bewertungsverfahren und Bewertungen des AIFM von einem externen Bewerter oder gegebenenfalls durch einen Wirtschaftsprüfer überprüft werden.
+
+(10) Ein AIFM ist für die ordnungsgemäße Bewertung der Vermögenswerte der AIF, für die Berechnung und die Bekanntgabe dieses Nettoinventarwerts verantwortlich. Die Haftung des AIFM gegenüber dem AIF und seinen Anlegern darf deshalb nicht durch die Tatsache berührt werden, dass der AIFM einen externen Bewerter bestellt hat. Ungeachtet dessen und unabhängig von anderslautenden vertraglichen Regelungen haftet der externe Bewerter gegenüber dem AIFM für jegliche Verluste des AIFM, die sich auf fahrlässige oder vorsätzliche Nichterfüllung der Aufgaben durch ihn zurückführen lassen.
+
+## 3. Abschnitt
+
+### Übertragung von Funktionen des AIFM
+
+#### § 18 – Übertragung
+
+§ 18. (1) Der AIFM ist berechtigt, eine oder mehrere der in **Anlage 1** genannten Funktionen oder in § 4 Abs. 4 genannten Dienstleistungen an Dritte zu übertragen. Folgende Voraussetzungen müssen dabei erfüllt sein:
+
+1\. Der AIFM hat der FMA unverzüglich ab Beschlussfassung die Übertragung schriftlich anzuzeigen, jedenfalls aber bevor die Vereinbarung zur Übertragung in Kraft tritt;
+
+2\. der AIFM muss in der Lage sein, seine gesamte Struktur zur Übertragung von Aufgaben mit objektiven Gründen zu rechtfertigen;
+
+3\. der Beauftragte muss über ausreichende Ressourcen für die Ausführung der jeweiligen Aufgaben verfügen und die Personen, die die Geschäfte des Dritten tatsächlich führen, müssen gut beleumundet sein und über ausreichende Erfahrung verfügen;
+
+4\. bezieht sich die Übertragung auf das Portfoliomanagement oder das Risikomanagement, so darf sie nur an Unternehmen erfolgen, die für die Zwecke der Vermögensverwaltung bewilligt sind und einer Aufsicht unterliegen, oder, wenn diese Bedingung nicht eingehalten werden kann, nur nach vorheriger Genehmigung durch die FMA;
+
+5\. bezieht sich die Übertragung auf das Portfoliomanagement oder das Risikomanagement und erfolgt sie an ein Unternehmen aus einem Drittland, so muss ergänzend zu den Anforderungen nach Z 4 die Zusammenarbeit zwischen der FMA und der für das Unternehmen zuständigen Aufsichtsbehörde sichergestellt sein;
+
+6\. die Übertragung darf die Wirksamkeit der Beaufsichtigung des AIFM nicht beeinträchtigen; insbesondere darf sie weder den AIFM daran hindern, im Interesse seiner Anleger zu handeln, noch verhindern, dass der AIF im Interesse der Anleger verwaltet wird;
+
+7\. der AIFM muss nachweisen können, dass der betreffende Beauftragte über die erforderliche Qualifikation verfügt und in der Lage ist, die betreffenden Funktionen wahrzunehmen und die Dienstleistungen zu erbringen, dass er sorgfältig ausgewählt wurde und dass der AIFM in der Lage ist, jederzeit die übertragenen Aufgaben wirksam zu überwachen, jederzeit weitere Anweisungen an den Beauftragten zu erteilen und die Übertragung mit sofortiger Wirkung zurückzunehmen, wenn dies im Interesse der Anleger ist.
+
+Der AIFM hat jederzeit die von Beauftragten erbrachten Dienstleistungen zu überprüfen.
+
+(2) Eine Übertragung darf hinsichtlich des Portfoliomanagements oder des Risikomanagements nicht an die folgenden Einrichtungen erfolgen:
+
+1\. die Verwahrstelle oder einen Beauftragten der Verwahrstelle, oder
+
+2\. ein anderes Unternehmen, dessen Interessen mit denen des AIFM oder der Anleger des AIF im Konflikt stehen könnten, außer wenn ein solches Unternehmen eine funktionale und hierarchische Trennung der Ausführung seiner Aufgaben bei der Portfolio-Verwaltung oder dem Risikomanagement von seinen anderen potenziell dazu im Interessenkonflikt stehenden Aufgaben vorgenommen hat und die potenziellen Interessenkonflikte ordnungsgemäß ermittelt, gesteuert, beobachtet und den Anlegern des AIF gegenüber offengelegt werden.
+
+(3) Die Pflichten des AIFM gegenüber dem AIF und seinen Anlegern gemäß diesem Bundesgesetz bleiben durch eine solche Übertragung oder durch eine weitere Unterbeauftragung unberührt. Der AIFM haftet jedenfalls für das Verhalten des Dritten wie für sein eigenes Verhalten. Der AIFM darf seine Aufgaben nicht in einem Umfang übertragen, der darauf hinausläuft, dass er im Grunde nicht länger als Verwalter des AIF oder als Erbringer der in § 4 Abs. 4 genannten Dienstleistungen angesehen werden kann und der ihn zu einer bloßen Briefkastenfirma werden lässt.
+
+(3a) Der AIFM hat sicherzustellen, dass die Wahrnehmung der in **Anlage 1** genannten Aufgaben und die Erbringung der in § 4 Abs. 4 genannten Dienstleistungen diesem Bundesgesetz entsprechen. Diese Verpflichtung gilt unabhängig vom aufsichtsrechtlichen Status oder vom Standort eines Beauftragten oder Unterbeauftragten.
+
+(4) Dritte dürfen jede der ihnen übertragenen Funktionen oder Dienstleistungen weiterübertragen, sofern die folgenden Bedingungen eingehalten werden:
+
+1\. der AIFM hat vorher der Unterbeauftragung zugestimmt;
+
+2\. der AIFM hat der FMA diesbezüglich Anzeige erstattet, bevor die Vereinbarung über die Unterbeauftragung in Kraft tritt;
+
+3\. die in Abs. 1 und 2 festgelegten Bedingungen sind ebenfalls bei einer Unterbeauftragung jederzeit erfüllt;
+
+4\. der vom AIFM Beauftragte hat jederzeit die von Unterbeauftragten erbrachten Dienstleistungen zu überprüfen.
+
+(5) Wenn der Unterbeauftragte an ihn übertragene Funktionen oder Dienstleistungen weiterüberträgt, ist Abs. 4 anzuwenden und einzuhalten.
+
+(6) Abweichend von Abs. 1 bis 5 gilt ungeachtet jeglicher Vertriebsvereinbarung zwischen dem AIFM und der Vertriebsstelle in Fällen, in denen die in **Anlage 1** Z 2 lit. b genannte Vertriebsfunktion von einer oder mehreren Vertriebstellen wahrgenommen wird, die in eigenem Namen handelt bzw. handeln und die AIF im Einklang mit der Richtlinie 2014/65/EU oder über Versicherungsanlageprodukte gemäß der Richtlinie (EU) 2016/97 vertreibt bzw. vertreiben, diese Funktion nicht als eine den Anforderungen der Abs. 1 bis 5 unterliegende Übertragung.
+
+## 4. Abschnitt
+
+#### § 19 – Verwahrstelle
+
+§ 19. (1) Für jeden von ihm verwalteten AIF hat der AIFM sicherzustellen, dass im Einklang mit dieser Bestimmung eine einzige Verwahrstelle bestellt wird.
+
+(2) Die Bestellung der Verwahrstelle hat in einem Vertrag schriftlich vereinbart zu werden. Der Vertrag hat unter anderem den Informationsaustausch zu regeln, der für erforderlich erachtet wird, damit die Verwahrstelle gemäß diesem Bundesgesetz und gemäß den anderen einschlägigen Rechts- und Verwaltungsvorschriften ihren Aufgaben für den AIF, für den sie als Verwahrstelle bestellt wurde, nachkommen kann.
+
+(3) Die Verwahrstelle hat entweder:
+
+1\. ein Kreditinstitut mit Sitz in der Union, das gemäß der Richtlinie 2013/36/EU zugelassen ist oder
+
+2\. eine Wertpapierfirma mit satzungsmäßigem Sitz in der Union, für die die Eigenkapitalanforderungen gemäß Art. 92 der Verordnung (EU) Nr. 575/2013 gelten, einschließlich der Kapitalanforderungen für operationelle Risiken, und die gemäß der Richtlinie 2014/65/EU zugelassen ist, und die auch die Nebendienstleistungen wie Verwahrung und Verwaltung von Finanzinstrumenten für Rechnung von Kunden gemäß Anhang I Abschnitt B Nr. 1 der Richtlinie 2014/65/EU erbringt; solche Wertpapierfirmen müssen in jedem Fall über Eigenmittel verfügen, die den in Art. 28 Abs. 2 der Richtlinie 2013/36/EU genannten Betrag des Anfangskapitals nicht unterschreiten; oder
+
+3\. eine andere Kategorie von Einrichtungen, die einer Beaufsichtigung und ständigen Überwachung unterliegen und die am 21. Juli 2011 unter eine der von den Mitgliedstaaten gemäß Art. 23 Abs. 3 der Richtlinie 2009/65/EG festgelegten Kategorien von Einrichtungen fallen, aus denen eine Verwahrstellen gewählt werden kann,
+
+zu sein. Nur bei Nicht-EU-AIF und unbeschadet des Abs. 5 Z 2 kann die Verwahrstelle auch ein Kreditinstitut oder ein ähnlich wie die in Z 1 und 2 genannten Unternehmen geartetes Unternehmen sein, sofern die Bedingungen des Abs. 6 Z 2 eingehalten sind.
+
+(4) Zur Vermeidung von Interessenkonflikten zwischen der Verwahrstelle, dem AIFM und/oder dem AIF und/oder seinen Anlegern
+
+1\. darf ein AIFM nicht die Aufgabe einer Verwahrstelle wahrnehmen;
+
+2\. darf ein Primebroker, der als Geschäftspartner eines AIF auftritt, nicht die Aufgaben einer Verwahrstelle dieses AIF wahrnehmen, außer wenn eine funktionale und hierarchische Trennung der Ausführung seiner Verwahrfunktionen von seinen Aufgaben als Primebroker vorliegt und die potenziellen Interessenkonflikte ordnungsgemäß ermittelt, gesteuert, beobachtet und den Anlegern des AIF offengelegt werden. Es ist gemäß Abs. 11 zulässig, dass die Verwahrstelle einem solchen Primebroker ihre Verwahraufgaben überträgt, wenn die entsprechenden Bedingungen eingehalten sind.
+
+(5) Die Verwahrstelle hat ihren Sitz an einem der folgenden Orte zu haben:
+
+1\. Bei EU–AIF im Herkunftsmitgliedstaat des AIF, außer der betreffende Herkunftsmitgliedstaat des AIF hat vom Wahlrecht gemäß Art. 21 Abs. 5a der Richtlinie 2011/61/EU Gebrauch gemacht und die Heranziehung einer Verwahrstelle aus einem anderen Mitgliedstaat wurde von der zuständigen Behörde gestattet;
+
+2\. bei Nicht-EU-AIF in dem Drittland, in dem sich der Sitz des AIF befindet, oder in dem Herkunftsmitgliedstaat des AIFM, der den AIF verwaltet, oder in dem Referenzmitgliedstaat des AIFM, der den AIF verwaltet.
+
+(6) Unbeschadet der Anforderungen von Abs. 3 unterliegt die Bestellung einer Verwahrstelle mit Sitz in einem Drittland den folgenden Bedingungen:
+
+1\. die zuständigen Behörden des Mitgliedstaats, in dem die Anteile des Nicht-EU-AIF vertrieben werden sollen, und, falls es sich um unterschiedliche Behörden handelt, die Behörden des Herkunftsmitgliedstaats des AIFM, haben Vereinbarungen über die Zusammenarbeit und den Informationsaustausch mit den zuständigen Behörden der Verwahrstelle unterzeichnet;
+
+2\. die Verwahrstelle unterliegt einer wirksamen aufsichtlichen Regulierung, einschließlich Mindesteigenkapitalanforderungen, und Aufsicht, die den Rechtsvorschriften der Union entsprechen und die wirksam durchgesetzt werden;
+
+3\. das Drittland, in dem die Verwahrstelle ihren Sitz hat, ist kein Drittland mit hohem Risiko gemäß § 2 Z 16 des Finanzmarkt-Geldwäschegesetzes (FM-GwG), BGBl. I Nr. 118/2016;
+
+4\. die Mitgliedstaaten, in denen die Anteile des Nicht-EU-AIF vertrieben werden sollen, und, soweit verschieden, der Herkunftsmitgliedstaat des AIFM, haben mit dem Drittland, in dem die Verwahrstelle ihren Sitz hat, eine Vereinbarung unterzeichnet, die den Standards des Art. 26 des OECD-Musterabkommens zur Vermeidung der Doppelbesteuerung von Einkommen und Vermögen vollständig entspricht und einen wirksamen Informationsaustausch in Steuerangelegenheiten, einschließlich multilateraler Steuerabkommen, gewährleistet und dieses Drittland ist nicht in Anhang I der Schlussfolgerungen des Rates zur überarbeiteten EU–Liste nicht kooperativer Länder und Gebiete für Steuerzwecke aufgeführt;
+
+5\. die Verwahrstelle haftet vertraglich gegenüber dem AIF oder gegenüber den Anlegern des AIF, in Übereinstimmung mit den Abs. 12 und 13, und erklärt sich ausdrücklich zur Einhaltung von Abs. 11 bereit.
+
+Ist die FMA nicht mit der Bewertung der Anwendung von Z 1 bis 4 durch die zuständigen Behörden des Herkunftsmitgliedstaats des AIFM einverstanden, so kann sie die Angelegenheit ESMA zur Kenntnis bringen und zwar im Hinblick auf die ihr gemäß Art. 19 der Verordnung (EU) Nr. 1095/2010 übertragenen Befugnisse.
+
+(6a) Die Bedingungen des Abs. 6 Z 3 und 4 gelten zum Zeitpunkt der Bestellung der Verwahrstelle. Wird ein Drittland, in dem eine Verwahrstelle ihren Sitz hat, entsprechend Abs. 6 Z 3 als Drittland mit hohem Risiko gemäß § 2 Z 16 FM–GwG eingestuft oder entsprechend Abs. 6 Z 4 in den Anhang I der Schlussfolgerungen des Rates zur überarbeiteten EU–Liste nicht kooperativer Länder und Gebiete für Steuerzwecke aufgenommen, so ist innerhalb einer angemessenen Frist eine neue Verwahrstelle zu bestellen, wobei den Interessen der Anleger gebührend Rechnung zu tragen ist. Diese Frist darf höchstens zwei Jahre betragen.
+
+(7) Die Verwahrstelle hat sicherzustellen, dass die Cashflows der AIF ordnungsgemäß überwacht werden und hat insbesondere zu gewährleisten, dass sämtliche Zahlungen von Anlegern oder im Namen von Anlegern bei der Zeichnung von Anteilen eines AIF geleistet wurden und dass die gesamten Geldmittel des AIF auf einem Geldkonto verbucht wurden, das für Rechnung des AIF, im Namen des AIFM, der für Rechnung des AIF tätig ist, oder im Namen der Verwahrstelle, die für Rechnung des AIF tätig ist, bei einer Stelle gemäß Art. 18 Abs. 1 lit. a, b und c der Richtlinie 2006/73/EG oder bei einer Stelle der gleichen Art in dem entsprechenden Markt, in dem Geldkonten verlangt werden, eröffnet wurde, solange eine solche Stelle einer wirksamen aufsichtlichen Regulierung und Aufsicht unterliegt, die den Rechtsvorschriften der Union entsprechen und in Übereinstimmung mit den Grundsätzen des Art. 16 der Richtlinie 2006/73/EG wirksam durchgesetzt werden. Falls Geldkonten im Namen der Verwahrstelle, die für Rechnung des AIF handelt, eröffnet werden, werden keine Geldmittel der in diesem Abs. genannten Stelle und keine Geldmittel der Verwahrstelle selbst auf solchen Konten verbucht.
+
+(8) Die Vermögenswerte des AIF oder des für Rechnung des AIF handelnden AIFM, haben der Verwahrstelle folgendermaßen zur Aufbewahrung anvertraut zu werden:
+
+1\. für Finanzinstrumente, die in Verwahrung genommen werden können, gilt:
+
+a) die Verwahrstelle verwahrt sämtliche Finanzinstrumente, die im Depot auf einem Konto für Finanzinstrumente verbucht werden können, und sämtliche Finanzinstrumente, die der Verwahrstelle physisch übergeben werden können;
+
+b) zu diesem Zweck stellt die Verwahrstelle sicher, dass all jene Finanzinstrumente, die im Depot auf einem Konto für Finanzinstrumente verbucht werden können, gemäß den in Art. 16 der Richtlinie 2006/73/EG festgelegten Grundsätzen in den Büchern der Verwahrstelle auf gesonderten Konten registriert werden, die im Namen des AIF oder des für ihn tätigen AIFM eröffnet wurden, so dass die Finanzinstrumente jederzeit gemäß geltendem Recht eindeutig als im Eigentum des AIF befindliche Instrumente identifiziert werden können;
+
+2\. für sonstige Vermögenswerte gilt:
+
+a) die Verwahrstelle prüft das Eigentum des AIF oder des für Rechnung des AIF tätigen AIFM an solchen Vermögenswerten und führt Aufzeichnungen derjenigen Vermögenswerte, bei denen sie sich vergewissert hat, dass der AIF oder der für Rechnung des AIF tätige AIFM an diesen Vermögenswerten das Eigentum hat;
+
+b) die Beurteilung, ob der AIF oder der für Rechnung des AIF tätige AIFM Eigentümer ist, beruht auf Informationen oder Unterlagen, die vom AIF oder vom AIFM vorgelegt werden und, soweit verfügbar, auf externen Nachweisen;
+
+c) die Verwahrstelle hält ihre Aufzeichnungen auf dem neuesten Stand.
+
+(9) Ergänzend zu den in Abs. 7 und 8 genannten Aufgaben hat die Verwahrstelle sicherzustellen, dass
+
+1\. der Verkauf, die Ausgabe, die Rücknahme, die Auszahlung und die Aufhebung von Anteilen des AIF gemäß den geltenden nationalen Rechtsvorschriften und den Vertragsbedingungen oder der Satzung des AIF erfolgen;
+
+2\. die Berechnung des Wertes der Anteile des AIF nach den geltenden nationalen Rechtsvorschriften, den Vertragsbedingungen oder der Satzung des AIF, gemäß § 17 dieses Bundesgesetzes oder des in Art. 19 der Richtlinie 2011/61/EU festgelegten Verfahrens erfolgt;
+
+3\. die Weisungen des AIFM ausgeführt werden, es sei denn, diese verstoßen gegen geltende nationale Rechtsvorschriften oder die Vertragsbedingungen oder die Satzung des AIF;
+
+4\. bei Transaktionen mit Vermögenswerten des AIF der Gegenwert innerhalb der üblichen Fristen an den AIF überwiesen wird;
+
+5\. die Erträge des AIF gemäß den geltenden nationalen Rechtsvorschriften und den Vertragsbedingungen oder der Satzung des AIF verwendet werden.
+
+(10) Der AIFM und die Verwahrstelle haben im Rahmen ihrer jeweiligen Aufgaben ehrlich, redlich, professionell, unabhängig und im Interesse des AIF und seiner Anleger zu handeln. Eine Verwahrstelle darf keine Aufgaben in Bezug auf den AIF oder den für Rechnung des AIF tätigen AIFM wahrnehmen, die Interessenkonflikte zwischen dem AIF, den Anlegern des AIF, dem AIFM und ihr selbst schaffen könnten, außer wenn eine funktionale und hierarchische Trennung der Ausführung ihrer Aufgaben als Verwahrstelle von ihren potenziell dazu in Konflikt stehenden Aufgaben vorgenommen wurde und die potenziellen Interessenkonflikte ordnungsgemäß ermittelt, gesteuert, beobachtet und den Anlegern des AIF gegenüber offengelegt werden. Die in Abs. 8 genannten Vermögenswerte dürfen nicht ohne vorherige Zustimmung des AIF oder des für Rechnung des AIF tätigen AIFM von der Verwahrstelle wiederverwendet werden.
+
+(11) Die Verwahrstelle darf ihre in dieser Bestimmung festgeschriebenen Funktionen nicht auf Dritte übertragen, hiervon ausgenommen sind die in Abs. 8 genannten Aufgaben. Die Verwahrstelle kann die in Abs. 8 genannten Funktionen unter den folgenden Bedingungen auf Dritte übertragen:
+
+1\. die Aufgaben werden nicht in der Absicht übertragen, die Vorschriften dieses Bundesgesetzes zu umgehen;
+
+2\. die Verwahrstelle kann belegen, dass es einen objektiven Grund für die Übertragung gibt;
+
+3\. die Verwahrstelle ist bei der Auswahl und Bestellung eines Dritten, dem sie Teile ihrer Aufgaben übertragen möchte, mit der gebotenen Sachkenntnis, Sorgfalt und Gewissenhaftigkeit vorgegangen, es sei denn, bei diesem Dritten handelt es sich um einen Zentralverwahrer, der in seiner Eigenschaft als Zentralverwahrer auf Investorenseite gemäß dem aufgrund von Art. 29 Abs. 3 und Art. 48 Abs. 10 der Verordnung (EU) Nr. 909/2014 erlassenen delegierten Rechtsakt handelt, und geht weiterhin bei der regelmäßigen Überprüfung und laufenden Kontrolle von Dritten, denen sie Teile ihrer Aufgaben übertragen hat, und von Vereinbarungen des Dritten hinsichtlich der ihm übertragenen Aufgaben mit der gebotenen Sachkenntnis, Sorgfalt und Gewissenhaftigkeit vor, und
+
+4\. die Verwahrstelle gewährleistet, dass der Dritte jederzeit bei der Ausführung der ihm übertragenen Aufgaben die folgenden Bedingungen einhält:
+
+a) Der Dritte verfügt über eine Organisationsstruktur und die Fachkenntnisse, die für die Art und die Komplexität der Vermögenswerte des AIF oder des für dessen Rechnung handelnden AIFM, die ihm anvertraut wurden, angemessen und geeignet sind;
+
+b) bezogen auf die Verwahraufgaben gemäß Abs. 8 Z 1 unterliegt der Dritte einer wirksamen aufsichtlichen Regulierung, einschließlich Mindesteigenkapitalanforderungen, und Aufsicht in der betreffenden rechtlichen Zuständigkeit und der Dritte unterliegt ferner einer regelmäßigen externen Wirtschaftsprüfung, durch die gewährleistet wird, dass sich die Finanzinstrumente in seinem Besitz befinden;
+
+c) der Dritte trennt die Vermögenswerte der Kunden der Verwahrstelle von seinen eigenen Vermögenswerten und von den Vermögenswerten der Verwahrstelle in einer solchen Weise, dass sie zu jeder Zeit eindeutig als Eigentum von Kunden einer bestimmten Verwahrstelle identifiziert werden können;
+
+d) der Dritte darf die Vermögenswerte nicht ohne vorherige Zustimmung des AIF oder des für Rechnung des AIF tätigen AIFM und eine vorherige Mitteilung an die Verwahrstelle verwenden und
+
+e) der Dritte hält sich an die allgemeinen Verpflichtungen und Verbote gemäß den Abs. 8 und 10.
+
+Unbeschadet der Z 4 lit. b, wenn laut den Rechtsvorschriften eines Drittlands vorgeschrieben ist, dass bestimmte Finanzinstrumente von einer ortsansässigen Einrichtung verwahrt werden müssen und es keine ortsansässigen Einrichtungen gibt, die den Anforderungen für eine Beauftragung gemäß Z 4 lit. b genügen, darf die Verwahrstelle ihre Funktionen an eine solche ortsansässige Einrichtung nur insoweit übertragen, wie es von dem Recht des Drittlandes gefordert wird und nur solange es keine ortsansässigen Einrichtungen gibt, die die Anforderungen für eine Beauftragung erfüllen, vorbehaltlich der folgenden Anforderungen:
+
+aa) Die Anleger des jeweiligen AIF müssen vor Tätigung ihrer Anlage ordnungsgemäß unterrichtet werden, dass eine solche Beauftragung aufgrund rechtlicher Zwänge im Recht des Drittlandes erforderlich ist, und sie müssen über die Umstände unterrichtet werden, die die Übertragung rechtfertigen; und
+
+bb) der AIF oder der für Rechnung des AIF tätige AIFM müssen die Verwahrstelle anweisen, die Verwahrung dieser Finanzinstrumente an eine solche ortsansässige Einrichtung zu übertragen.
+
+Der Dritte kann seinerseits diese Funktionen unter den gleichen Bedingungen weiter übertragen. In diesem Fall gilt Abs. 13 entsprechend für die jeweils Beteiligten. Für die Zwecke dieses Paragraphen ist die Erbringung von Dienstleistungen durch einen Zentralverwahrer, der in seiner Eigenschaft als Zentralverwahrer auf Emittentenseite gemäß dem aufgrund von Art. 29 Abs. 3 und Art. 48 Abs. 10 der Verordnung (EU) Nr. 909/2014 erlassenen delegierten Rechtsakt handelt, nicht als Übertragung von Verwahrfunktionen der Verwahrstelle zu betrachten. Für die Zwecke dieses Paragraphen gilt die Erbringung von Dienstleistungen durch einen Zentralverwahrer, der in seiner Eigenschaft als Zentralverwahrer auf Investorenseite gemäß dem genannten delegierten Rechtsakt handelt, als Übertragung von Verwahrfunktionen der Verwahrstelle.
+
+(12) Die Verwahrstelle haftet gegenüber dem AIF oder gegenüber den Anlegern des AIF für das Abhandenkommen durch die Verwahrstelle oder durch einen Dritten, dem die Verwahrung von Finanzinstrumenten, die gemäß Abs. 8 Z 1 verwahrt wurden, übertragen wurde. Im Falle eines solchen Abhandenkommens eines verwahrten Finanzinstruments hat die Verwahrstelle dem AIF oder dem für Rechnung des AIF handelnden AIFM unverzüglich ein Finanzinstrument gleicher Art zurückzugeben oder einen entsprechenden Betrag zu erstatten. Die Verwahrstelle haftet nicht, wenn sie nachweisen kann, dass das Abhandenkommen auf höhere Gewalt zurückzuführen ist, deren Konsequenzen trotz aller angemessenen Gegenmaßnahmen unabwendbar waren. Die Verwahrstelle haftet auch gegenüber dem AIF oder den Anlegern des AIF für sämtliche sonstigen Verluste, die diese infolge einer von der Verwahrstelle fahrlässig oder vorsätzlich verursachten Nichterfüllung ihrer Verpflichtungen aus diesem Bundesgesetz erleiden.
+
+(13) Die Haftung der Verwahrstelle bleibt von einer etwaigen Übertragung gemäß Abs. 11 unberührt. Unbeschadet dessen kann sich die Verwahrstelle bei Verlust von Finanzinstrumenten, die von einem Dritten gemäß Abs. 11 verwahrt wurden, von der Haftung befreien, wenn sie nachweisen kann, dass:
+
+1\. alle Bedingungen für die Übertragung ihrer Verwahraufgaben gemäß Abs. 11 Z 1 bis Z 4 eingehalten sind;
+
+2\. ein schriftlicher Vertrag zwischen der Verwahrstelle und dem Dritten die Haftung der Verwahrstelle ausdrücklich auf diesen Dritten überträgt und es dem AIF oder dem für Rechnung des AIF tätigen AIFM ermöglicht, seinen Anspruch wegen des Abhandenkommens von Finanzinstrumenten gegenüber dem Dritten geltend zu machen, oder die Verwahrstelle solch einen Anspruch für sie geltend machen darf, und
+
+3\. ein schriftlicher Vertrag zwischen der Verwahrstelle und dem AIF oder dem für Rechnung des AIF handelnden AIFM ausdrücklich eine Befreiung der Verwahrstelle von der Haftung gestattet und einen objektiven Grund für die vertragliche Vereinbarung einer solchen Befreiung angibt.
+
+(14) Wenn ferner laut den Rechtsvorschriften eines Drittlands vorgeschrieben ist, dass bestimmte Finanzinstrumente von einer ortsansässigen Einrichtung verwahrt werden müssen und es keine ortsansässigen Einrichtungen gibt, die den Anforderungen für eine Beauftragung gemäß Abs. 11 Z 4 lit. b genügen, kann die Verwahrstelle sich von der Haftung befreien, sofern die folgenden Bedingungen eingehalten sind:
+
+1\. die Vertragsbedingungen oder die Satzung des betreffenden AIF erlauben ausdrücklich eine solche Befreiung unter den in diesem Abs. genannten Voraussetzungen;
+
+2\. die Anleger der entsprechenden AIF wurden vor Tätigung ihrer Anlage ordnungsgemäß über diese Haftungsbefreiung und die Umstände, die diese Haftungsbefreiung rechtfertigen, unterrichtet;
+
+3\. der AIF oder der für Rechnung des AIF tätige AIFM haben die Verwahrstelle angewiesen, die Verwahrung dieser Finanzinstrumente an eine ortsansässige Einrichtung zu übertragen;
+
+4\. es gibt einen schriftlichen Vertrag zwischen der Verwahrstelle und dem AIF oder dem für Rechnung des AIF tätigen AIFM, in dem solch eine Haftungsbefreiung ausdrücklich gestattet ist; und
+
+5\. es gibt einen schriftlichen Vertrag zwischen der Verwahrstelle und dem Dritten, in dem die Haftung der Verwahrstelle ausdrücklich auf den Dritten übertragen wird und es dem AIF oder dem für Rechnung des AIF tätigen AIFM ermöglicht, seinen Anspruch wegen des Abhandenkommens von Finanzinstrumenten gegenüber dem Dritten geltend zu machen, oder die Verwahrstelle solch einen Anspruch für sie geltend machen darf.
+
+(15) Haftungsansprüche der Anleger eines AIF können in Abhängigkeit von der Art der Rechtsbeziehungen zwischen der Verwahrstelle, dem AIFM und den Anlegern unmittelbar oder mittelbar durch den AIFM geltend gemacht werden.
+
+(16) Die Verwahrstelle hat ihren zuständigen Behörden, den zuständigen Behörden des AIF und des AIFM auf Anfrage alle Informationen zur Verfügung zu stellen, die sie im Rahmen der Erfüllung ihrer Aufgaben erhalten hat. Unterscheiden sich die zuständigen Behörden des AIF oder des AIFM von denen der Verwahrstelle, hat die FMA
+
+1\. als zuständige Behörde der Verwahrstelle den zuständigen Behörden des AIF und des AIFM alle erhaltenen Informationen, die für die Ausübung der Aufsichtsbefugnisse dieser Behörden von Belang sind, unverzüglich zur Verfügung zu stellen und
+
+2\. als zuständige Behörde des AIF und des AIFM den zuständigen Behörden der Verwahrstelle alle Informationen, die für die Ausübung der Aufsichtsbefugnisse dieser Behörden von Belang sind, unverzüglich zur Verfügung zu stellen.
+
+(17) Der AIFM hat geeignete und dokumentierte Verfahren und Vorkehrungen vorzusehen, die für den Fall, dass die Verwahrstelle die Erfüllung ihrer Aufgaben nicht mehr gewährleisten kann, einen raschen Wechsel der Verwahrstelle ermöglichen.
+
+(18) Abweichend von Abs. 3 kann die Verwahrstelle von AIF gemäß 5. Teil 2. Abschnitt auch ein Treuhänder sein, der die Aufgaben einer Verwahrstelle im Rahmen seiner beruflichen oder geschäftlichen Tätigkeit wahrnimmt, sofern
+
+1\. bei den AIF innerhalb von 5 Jahren nach Tätigung der ersten Anlagen keine Rücknahmerechte ausgeübt werden können, und
+
+2\. die AIF im Einklang mit ihrer Hauptanlagestrategie in der Regel
+
+a) nicht in Vermögenswerte investieren, die gemäß Abs. 8 Z 1 verwahrt werden müssen, oder
+
+b) in Emittenten oder nicht börsennotierten Unternehmen investieren, um nach §§ 24 ff möglicherweise die Kontrolle über solche Unternehmen zu erlangen.
+
+(19) Der gemäß Abs. 18 bestellte Treuhänder hat in Bezug auf seine berufliche oder geschäftliche Tätigkeit einer gesetzlich anerkannten obligatorischen Registrierung zu unterliegen oder Rechts- und Verwaltungsvorschriften oder berufsständischen Regeln zu unterliegen, die ausreichend finanzielle und berufliche Garantien bieten können, um es ihm zu ermöglichen, die relevanten Aufgaben einer Verwahrstelle wirksam auszuführen und die mit dieser Funktion einhergehenden Verpflichtungen zu erfüllen. Die ausreichende finanzielle und berufliche Garantie ist laufend zu gewährleisten. Der Treuhänder hat Änderungen hinsichtlich seiner finanziellen oder beruflichen Garantien der FMA unverzüglich anzuzeigen. Sofern der Treuhänder zum Zwecke der finanziellen Garantie eine Versicherung abschließt, so ist das Versicherungsunternehmen im Versicherungsvertrag verpflichtet, der FMA den Beginn und die Beendigung oder Kündigung des Versicherungsvertrags sowie Umstände, die den vorgeschriebenen Versicherungsschutz beeinträchtigen, unverzüglich anzuzeigen.
+
+(20) Der AIFM hat den Treuhänder gemäß Abs. 18 der FMA vor Bestellung bekanntzugeben. Hat die FMA gegen die Bestellung Bedenken, so kann sie verlangen, dass binnen einer angemessenen Frist ein anderer Treuhänder benannt wird. Unterlässt dies der AIFM oder hat die FMA auch gegen die Bestellung des neu vorgeschlagenen Treuhänders Bedenken, so hat der AIFM für den AIF eine Verwahrstelle gemäß Abs. 3 zu beauftragen.
+
+> **Anmerkung:** EU: Art. 1, BGBl. I Nr. 70/2014; Art. 1, BGBl. I Nr. 118/2016
+
+## 4. Teil
+
+### Transparenzanforderungen
+
+#### § 20 – Jahresbericht
+
+§ 20. (1) Ein AIFM hat für jeden vom ihm verwalteten EU-AIF und für jeden von ihm in der Union vertriebenen AIF für jedes Geschäftsjahr spätestens sechs Monate nach Ende des Geschäftsjahrs einen Jahresbericht zu erstellen. Dieser Jahresbericht ist den Anlegern auf Verlangen zu übermitteln. Der Jahresbericht hat innerhalb der genannten Frist der FMA als zuständiger Behörde des Herkunftsmitgliedstaats des AIFM und gegebenenfalls der FMA als zuständiger Behörde des Herkunftsmitgliedstaats des AIF vom AIFM bereitgestellt zu werden. Ist der AIF nach der Richtlinie 2004/109/EG verpflichtet, Jahresfinanzberichte zu veröffentlichen, so sind den Anlegern auf Antrag lediglich die Angaben nach Abs. 2 zusätzlich vorzulegen. Die Übermittlung kann gesondert oder in Form einer Ergänzung zum Jahresfinanzbericht erfolgen. Im letzteren Fall ist der Jahresfinanzbericht spätestens vier Monate nach Ende des Geschäftsjahrs zu veröffentlichen.
+
+(2) Der Jahresbericht muss mindestens Folgendes enthalten:
+
+1\. eine Bilanz oder eine Vermögensübersicht;
+
+2\. eine Aufstellung der Erträge und Aufwendungen des Geschäftsjahres;
+
+3\. einen Bericht über die Tätigkeiten im abgelaufenen Geschäftsjahr;
+
+4\. jede wesentliche Änderung der in § 21 aufgeführten Informationen während des Geschäftsjahrs, auf das sich der Bericht bezieht;
+
+5\. die Gesamtsumme der im abgelaufenen Geschäftsjahr gezahlten Vergütungen, gegliedert in feste und variable vom AIFM an seine Mitarbeiter gezahlte Vergütungen, die Zahl der Begünstigten und gegebenenfalls die vom AIF gezahlten Carried Interests;
+
+6\. die Gesamtsumme der gezahlten Vergütungen, aufgegliedert nach Führungskräften und Mitarbeitern des AIFM, deren Tätigkeit sich wesentlich auf das Risikoprofil des AIF auswirkt.
+
+(3) Die im Jahresbericht enthaltenen Zahlenangaben haben gemäß den Rechnungslegungsstandards des Herkunftsmitgliedstaats des AIF oder gemäß den Rechnungslegungsstandards des Drittlandes, in dem der AIF seinen Sitz hat, und gemäß den in den Vertragsbedingungen oder der Satzung des AIF festgelegten Rechnungslegungsvorschriften erstellt zu werden. Die im Jahresbericht enthaltenen Zahlenangaben werden von einer oder mehreren Personen geprüft, die gemäß der Richtlinie 2006/43/EG gesetzlich zur Abschlussprüfung zugelassen sind. Der Bericht des Abschlussprüfers einschließlich etwaiger Vorbehalte ist in jedem Jahresbericht vollständig wiederzugeben.
+
+(4) § 243b sowie § 267a UGB sind auf AIF nicht anzuwenden.
+
+#### § 21 – Informationspflichten gegenüber Anlegern
+
+§ 21. (1) AIFM haben Anlegern der AIF, bevor diese eine Anlage in einen AIF tätigen, für jeden von ihnen verwalteten EU-AIF sowie für jeden von ihnen in der Union vertriebenen AIF folgende Informationen gemäß den Vertragsbedingungen oder der Satzung des AIF, sowie alle wesentlichen Änderungen dieser Informationen zur Verfügung zu stellen:
+
+1\. die Namensgebung des AIF, eine Beschreibung der Anlagestrategie und der Ziele des AIF, Angaben über den Sitz eines eventuellen Master-AIF und über den Sitz der Zielfonds, wenn es sich bei dem AIF um einen Dachfonds handelt, eine Beschreibung der Art der Vermögenswerte, in die der AIF investieren darf, der Techniken, die er einsetzen darf und aller damit verbundenen Risiken, etwaiger Anlagebeschränkungen, der Umstände, unter denen der AIF eine Hebelfinanzierung einsetzen kann, Art und Herkunft der zulässigen Hebelfinanzierung und damit verbundener Risiken, sonstiger Beschränkungen für den Einsatz von Hebelfinanzierungen und Vereinbarungen über Sicherheiten und über die Wiederverwendung von Vermögenswerten, sowie des maximalen Umfangs der Hebelfinanzierung, den der AIFM für Rechnung des AIF einsetzen darf;
+
+2\. eine Beschreibung der Verfahren, nach denen der AIF seine Anlagestrategie oder seine Anlagepolitik oder beides ändern kann;
+
+3\. eine Beschreibung der wichtigsten rechtlichen Auswirkungen der für die Tätigung der Veranlagung eingegangenen Vertragsbeziehung, einschließlich Informationen über die zuständigen Gerichte, das anwendbare Recht und das Vorhandensein oder Nichtvorhandensein von Rechtsinstrumenten, die die Anerkennung und Vollstreckung von Urteilen in dem Gebiet vorsehen, in dem der AIF seinen Sitz hat;
+
+4\. die Identität des AIFM, der Verwahrstelle des AIF, des Abschlussprüfers oder sonstiger Dienstleistungsanbieter sowie eine Erläuterung ihrer Pflichten und der Rechte der Anleger;
+
+5\. eine Beschreibung, in welcher Weise der AIFM den Anforderungen des § 7 Abs. 6 gerecht wird;
+
+6\. eine Beschreibung sämtlicher vom AIFM übertragener Verwaltungsfunktionen gemäß Anlage 1 sowie sämtlicher von der Verwahrstelle übertragener Verwahrungsfunktionen, Bezeichnung des Beauftragten sowie sämtlicher Interessenkonflikte, die sich aus der Aufgabenübertragung ergeben könnten;
+
+7\. eine Beschreibung des Bewertungsverfahrens des AIF und der Kalkulationsmethoden für die Bewertung von Vermögenswerten, einschließlich der Verfahren für die Bewertung schwer zu bewertender Vermögenswerte gemäß § 17;
+
+8\. eine Beschreibung des Liquiditätsrisikomanagements des AIF, einschließlich der Rücknahmerechte unter normalen und außergewöhnlichen Umständen, der bestehenden Rücknahmevereinbarungen mit den Anlegern und der Möglichkeit und der Bedingungen für den Einsatz der gemäß § 14 Abs. 4 bis 7 ausgewählten Liquiditätsmanagement-Instrumente;
+
+9\. eine Beschreibung sämtlicher Entgelte, Gebühren und sonstiger Kosten unter Angabe der jeweiligen Höchstbeträge, die von den Anlegern mittel- oder unmittelbar getragen werden;
+
+9a. eine Liste der Gebühren, Entgelte und sonstigen Kosten, die vom AIFM im Zusammenhang mit dem Betrieb des AIF getragen werden und die direkt und indirekt dem AIF zugeordnet werden;
+
+10\. eine Beschreibung der Art und Weise, wie der AIFM eine faire Behandlung der Anleger gewährleistet, sowie, wann immer ein Anleger eine Vorzugsbehandlung oder einen Anspruch auf eine solche Behandlung erhält, eine Erläuterung dieser Behandlung, der Art der Anleger, die eine solche Vorzugsbehandlung erhalten, sowie gegebenenfalls der rechtlichen oder wirtschaftlichen Verbindungen zwischen diesen Anlegern und dem AIF oder dem AIFM;
+
+11\. den letzten Jahresbericht nach § 20;
+
+12\. die Verfahren und Bedingungen für die Ausgabe und den Verkauf von Anteilen;
+
+13\. den jüngsten Nettoinventarwert des AIF oder den jüngsten Marktpreis der Anteile des AIF nach § 17;
+
+14\. sofern verfügbar, die bisherige Wertentwicklung des AIF;
+
+15\. die Identität des Primebrokers und eine Beschreibung jeder wesentlichen Vereinbarung zwischen dem AIF und seinen Primebrokern und der Art und Weise, in der diesbezügliche Interessenkonflikte beigelegt werden, sowie die Bestimmung im Vertrag mit der Verwahrstelle über die Möglichkeit einer Übertragung und einer Wiederverwendung von Vermögenswerten des AIF und Angaben über jede eventuell bestehende Haftungsübertragung auf den Primebroker;
+
+16\. eine Beschreibung, in welcher Weise und zu welchem Zeitpunkt die gemäß den Abs. 4 und 5 erforderlichen Informationen offengelegt werden.
+
+(2) Der AIFM hat die Anleger, bevor diese ihre Anlage in den AIF tätigen, über eventuelle Vereinbarungen, die die Verwahrstelle getroffen hat um sich vertraglich von der Haftung gemäß § 19 Abs. 13 freizustellen, zu unterrichten. Der AIFM hat die Anleger ebenfalls unverzüglich über alle Änderungen, die sich in Bezug auf die Haftung der Verwahrstelle ergeben, zu informieren.
+
+(3) Ist der AIF gemäß der Verordnung (EU) 2017/1129 oder gemäß sonstigen nationalen Rechtsvorschriften verpflichtet, einen Prospekt zu veröffentlichen, sind in Ergänzung zu den im Prospekt enthaltenen Angaben lediglich die Angaben gemäß den Abs. 1 und 2 gesondert oder als ergänzende Angaben im Prospekt offenzulegen. Die gemäß § 7 KMG 2019 oder gemäß Art. 20 der Verordnung (EU) 2017/1129 vorgesehene Prospektprüfung oder Prospektbilligung erstreckt sich nicht auf diese ergänzenden Angaben. Bei gesonderter Erstellung dieser Angaben kann das Dokument gemeinsam mit dem Prospekt bei der Meldestelle gemäß § 23 KMG 2019 hinterlegt werden.
+
+(4) Für jeden von ihnen verwalteten EU-AIF sowie für jeden von ihnen in der Union vertriebenen AIF haben die AIFM die Anleger regelmäßig, zumindest jährlich, über Folgendes zu unterrichten:
+
+1\. den prozentualen Anteil an den Vermögenswerten des AIF, die schwer zu liquidieren sind und für die deshalb besondere Regelungen gelten;
+
+2\. jegliche neuen Regelungen zur Steuerung der Liquidität des AIF;
+
+3\. das aktuelle Risikoprofil des AIF und die vom AIFM zur Steuerung dieser Risiken eingesetzten Risikomanagement-Systeme;
+
+4\. die Zusammensetzung des Portfolios der vergebenen Kredite;
+
+5\. auf Jahresbasis über sämtliche Gebühren, Entgelte und sonstige Kosten, die direkt oder indirekt von den Anlegern getragen wurden;
+
+6\. auf Jahresbasis jedes Mutterunternehmen, jedes Tochterunternehmen oder jede Zweckgesellschaft, die in Bezug auf die Anlagen des AIF oder im Namen des AIFM genutzt wurde.
+
+(5) AIFM, die EU-AIF, die eine Hebelfinanzierung verwenden, verwalten oder die AIF, die eine Hebelfinanzierung verwenden, in der Union vertreiben, haben für jeden dieser AIF regelmäßig, zumindest jährlich entsprechend den diesbezüglichen Vertragsbedingungen oder der Satzung des AIF Folgendes offen zu legen:
+
+1\. alle Änderungen zum maximalen Umfang, in dem der AIFM für Rechnung des AIF eine Hebelfinanzierung einsetzen kann, sowie etwaige Rechte zur Wiederverwendung von Sicherheiten oder sonstige Garantien, die im Rahmen der Hebelfinanzierung gewährt wurden;
+
+2\. die Gesamthöhe der Hebelfinanzierung des betreffenden AIF.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 70/2014
+
+#### § 22 – Informationspflichten gegenüber den zuständigen Behörden
+
+§ 22. (1) Der AIFM hat die FMA regelmäßig über die wichtigsten Märkte und Instrumente, auf oder mit denen er für Rechnung des von ihm verwalteten AIF handelt, zu unterrichten. Er hat Informationen zu den wichtigsten Instrumenten, mit denen er handelt, zu den Märkten, in denen er Mitglied ist oder am Handel aktiv teilnimmt, sowie zu den größten Risiken und Konzentrationen jedes von ihm verwalteten AIF vorzulegen.
+
+(2) Der AIFM hat der FMA für jeden von ihm verwalteten EU-AIF und für jeden von ihm in der Union vertriebenen AIF Folgendes vorzulegen:
+
+1\. den prozentualen Anteil an den Vermögenswerten des AIF, die schwer zu liquidieren sind und für die deshalb besondere Regelungen gelten;
+
+2\. jegliche neuen Regelungen zur Steuerung der Liquidität des AIF;
+
+3\. das gegenwärtige Risikoprofil des AIF und die vom AIFM zur Steuerung des Marktrisikos, des Liquiditätsrisikos, des Risikos des Ausfalls der Gegenpartei sowie sonstiger Risiken, einschließlich des operativen Risikos, eingesetzten Risikosteuerungssysteme;
+
+4\. Angaben zu den wichtigsten Kategorien von Vermögenswerten, in die der AIF investiert hat und
+
+5\. die Ergebnisse der nach § 13 Abs. 3 Z 2 und § 14 Abs. 1 durchgeführten Stresstests.
+
+(3) Der AIFM hat der FMA auf Verlangen die folgenden Unterlagen vorzulegen:
+
+1\. einen Jahresbericht über jeden vom AIFM verwalteten EU-AIF und über jeden von ihm in der Union vertriebenen AIF für jedes Geschäftsjahr gemäß § 20 Abs. 1;
+
+2\. zum Ende jedes Quartals eine detaillierte Aufstellung sämtlicher vom AIFM verwalteten AIF.
+
+(4) Ein AIFM, der AIF verwaltet, die in beträchtlichem Umfang Hebelfinanzierungen einsetzen, hat der FMA Angaben zum Gesamtumfang der eingesetzten Hebelfinanzierung für jeden der von ihm verwalteten AIF, eine Aufschlüsselung nach Hebelfinanzierung, die durch Kreditaufnahme oder Wertpapierleihe begründet wurde, und solcher, die in Derivate eingebettet ist, sowie Angaben zu dem Umfang, in dem die Vermögenswerte der AIF im Rahmen einer Hebelfinanzierung wiederverwendet wurden, zu übermitteln. Diese Angaben haben für jeden der vom AIFM verwalteten AIF Angaben zur Identität der fünf größten Kreditgeber oder Wertpapierverleiher sowie zur jeweiligen Höhe der aus diesen Quellen für jeden der genannten AIF erhaltenen Hebelfinanzierung zu umfassen. Für Nicht-EU-AIFM sind die Berichtspflichten gemäß diesem Abs. auf die von ihnen verwalteten EU-AIF und die von ihnen in der Union vertriebenen Nicht-EU-AIF beschränkt.
+
+(5) Sofern dies für die wirksame Überwachung von Systemrisiken erforderlich ist, kann die FMA als zuständige Behörde des Herkunftsmitgliedstaats regelmäßig oder anlassbezogen ergänzende Informationen zu den in diesen Bestimmungen festgelegten Informationen anfordern. Die FMA hat ESMA über den zusätzlichen Informationsbedarf zu informieren. Bei Vorliegen außergewöhnlicher Umstände und soweit zur Sicherung der Stabilität und Integrität des Finanzsystems oder zur Förderung eines langfristigen nachhaltigen Wachstums erforderlich, hat die FMA, zusätzlichen Berichtsersuchen von ESMA zu entsprechen.
+
+(6) AIFM haben einen Jahresabschluss gemäß der Gliederung der Anlage 2 zu § 43 BWG so rechtzeitig zu erstellen, dass die Frist des Abs. 7 eingehalten werden kann. Anlage 2 zu § 43 BWG, Teil 2 (Gliederung der Gewinn- und Verlustrechnung) ist mit der Maßgabe anzuwenden, dass unter der Position „III. Betriebsaufwendungen“ zusätzlich die Position „darunter: fixe Gemeinkosten“ auszuweisen ist. Die §§ 43 Abs. 1, 2 und 3, 45 bis 59a, 64 und 65 Abs. 1 und 2 BWG sind anzuwenden. Die Vorschriften gemäß § 275 UGB über die Verantwortlichkeit des Abschlussprüfers sind anzuwenden.
+
+(7) Der gemäß Abs. 6 erstellte und gemäß Abs. 8 geprüfte Jahresabschluss des AIFM ist längstens innerhalb von sechs Monaten nach Abschluss des Geschäftsjahres der FMA vorzulegen. Die Geschäftsleiter haben für die Gesetzmäßigkeit der Jahresabschlüsse zu sorgen. Die FMA kann die Vorlage der Daten der Jahresabschlüsse auch mittels elektronischer Übermittlung oder elektronischer Datenträger in standardisierter Form verlangen.
+
+(8) Die Jahresabschlüsse sind von Abschlussprüfern, bei Genossenschaften von den Prüfungsorganen gesetzlich zuständiger Prüfungseinrichtungen zu prüfen. Der Abschlussprüfer hat die Gesetzmäßigkeit des Jahresabschlusses zu prüfen. Die Prüfung hat weiters zu umfassen:
+
+1\. Die sachliche Richtigkeit der Bewertung einschließlich der Vornahme gebotener Abschreibungen, Wertberichtigungen und Rückstellungen sowie
+
+2\. die Beachtung der Bestimmungen dieses Bundesgesetzes.
+
+(9) Die FMA kann mittels Verordnung unter Bedachtnahme auf die europäischen Gepflogenheiten nähere Kriterien im Hinblick auf die Informationspflichten gemäß dieser Bestimmung sowie gemäß § 1 Abs. 5 Z 4 sowie die Art der Übermittlung festlegen, wobei insbesondere die Verwendung elektronischer Meldesysteme oder Datenträger sowie EDV-Formate vorgeschrieben werden können.
+
+> **Beachte:** Abs. 6: zum Bezugszeitraum vgl. § 74 Abs. 5 (BGBl. I Nr. 68/2015)
+
+## 5. Teil
+
+### AIFM, die bestimmte Arten von AIF verwalten — 1. Abschnitt
+
+### AIFM, die AIF mit Hebelfinanzierung verwalten
+
+#### § 23 – Nutzung der Informationen durch die zuständigen Behörden, aufsichtsbehördliche Zusammenarbeit und Beschränkungen der Hebelfinanzierung
+
+§ 23. (1) Die FMA als zuständige Behörde des Herkunftsmitgliedstaats des AIFM hat die gemäß § 22 zu erhebenden Informationen der Oesterreichischen Nationalbank (OeNB) weiterzuleiten. Die OeNB hat auf Basis dieser Informationen zu analysieren, inwieweit die Nutzung von Hebelfinanzierung zur Entstehung von Systemrisiken im Finanzsystem, des Risikos von Marktstörungen in einzelnen oder mehreren Marktsegmenten oder zu Risiken für das langfristige Wirtschaftswachstum beiträgt. Die OeNB hat der FMA ihre Analyse unverzüglich weiterzuleiten, wenn darin derartige Risiken festgestellt werden.
+
+(2) Die FMA hat sämtliche Informationen zu den ihrer Aufsicht unterliegenden AIFM, die gemäß § 22 erhoben wurden, sowie die gemäß § 5 erhobenen Informationen anderen zuständigen Behörden, ESMA, EBA, EIOPA und dem ESRB nach den in § 61 und Art. 50 der Richtlinie 2011/61/EU festgelegten Verfahren zur Verfügung zu stellen, wenn dies zur Erfüllung ihrer Aufgaben erforderlich ist. Die FMA hat ferner sämtliche Informationen zu den ihrer Aufsicht unterliegenden AIFM, die gemäß § 22 erhoben wurden, dem ESZB allein für statistische Zwecke nach den in § 61 und Art. 50 der Richtlinie 2011/61/EU vorgesehenen Verfahren zur Verfügung zu stellen. Zudem hat die FMA unverzüglich nach den in § 61 und Art. 50 der Richtlinie 2011/61/EU vorgesehenen Verfahren sowie bilateral die zuständigen Behörden der direkt betroffenen Mitgliedstaaten zu unterrichten, falls von einem ihrer Aufsicht unterliegenden AIFM oder einem von diesem AIFM verwalteten AIF ein erhebliches Gegenparteirisiko für ein Kreditinstitut oder sonstige systemrelevante Institute in anderen Mitgliedstaaten oder für die Stabilität des Finanzsystems in einem anderen Mitgliedstaat ausgehen könnte.
+
+(3) Der AIFM hat der FMA darzulegen, dass die von ihm angesetzte Begrenzung des Umfangs einer Hebelfinanzierung bei jedem von ihm verwalteten AIF angemessen ist und dass er diese Begrenzung stets einhält. Die OeNB hat auf Basis der Informationen gemäß § 22 das Risiko zur Entstehung von Systemrisiken im Finanzsystem oder von Marktstörungen in einzelnen oder mehreren Marktsegmenten zu bewerten, die aus der Nutzung einer Hebelfinanzierung durch einen AIFM bei einem von ihm verwalteten AIF erwachsen könnten. Die OeNB hat der FMA ihre Analyse unverzüglich weiterzuleiten, wenn darin derartige Risiken festgestellt werden. Wenn dies zur Gewährleistung der Stabilität und Integrität des Finanzsystems als nötig erachtet wird, hat die FMA nach Verständigung von ESMA, des ESRB und der zuständigen Behörden des entsprechenden AIF den Umfang der Hebelfinanzierung zu beschränken, die ein AIFM einsetzen darf, oder hat sonstige Beschränkungen der AIF-Verwaltung bezüglich der von ihm verwalteten AIF zu verhängen, so dass das Ausmaß begrenzt wird, in dem die Nutzung einer Hebelfinanzierung zur Entstehung von Systemrisiken im Finanzsystem oder des Risikos von Marktstörungen in einzelnen oder mehreren Marktsegmenten beiträgt. Über die in § 61 und Art. 50 der Richtlinie 2011/61/EU festgelegten Verfahren hat die FMA als zuständige Behörde des Herkunftsmitgliedstaats des AIFM ESMA, den ESRB und die zuständigen Behörden des AIF ordnungsgemäß über die diesbezüglich eingeleiteten Schritte zu informieren.
+
+(4) Die Verständigung gemäß Abs. 3 hat spätestens zehn Arbeitstage vor dem geplanten Wirksamwerden oder der Erneuerung der vorgeschlagenen Maßnahme zu erfolgen. Die Verständigung hat Einzelheiten der vorgeschlagenen Maßnahme zu enthalten, deren Gründe und den Zeitpunkt, zu dem sie wirksam werden soll. Unter besonderen Umständen kann die FMA als zuständige Behörde des Herkunftsmitgliedstaats des AIFM verfügen, dass die vorgeschlagene Maßnahme innerhalb des in Satz 1 genannten Zeitraums wirksam wird.
+
+(5) Wenn die FMA als zuständige Behörde vorschlägt, Maßnahmen zu ergreifen, die im Widerspruch zu der Empfehlung von ESMA gemäß Art. 25 Abs. 6 oder 7 der Richtlinie 2011/61/EU stehen, setzt sie ESMA davon unter Angabe ihrer Gründe in Kenntnis.
+
+(6) Für die in Abs. 1 bis 3 genannten Aufgaben der OeNB gilt § 79 Abs. 4 2. Satz BWG sinngemäß.
+
+## 2. Abschnitt
+
+### Pflichten von AIFM, die AIF verwalten, die die Kontrolle über nicht börsennotierte Unternehmen und Emittenten erlangen
+
+#### § 24 – Geltungsbereich
+
+§ 24. (1) Dieser Abschnitt gilt für:
+
+1\. AIFM, die einen oder mehrere AIF verwalten, die entweder allein oder gemeinsam aufgrund einer Vereinbarung, die die Erlangung von Kontrolle zum Ziel hat, gemäß Abs. 5 die Kontrolle über ein nicht börsennotiertes Unternehmen erlangen;
+
+2\. AIFM, die mit einem oder mehreren anderen AIFM aufgrund einer Vereinbarung zusammenarbeiten, gemäß der die von diesen AIFM verwalteten AIF gemeinsam gemäß Abs. 5 die Kontrolle über ein nicht börsennotiertes Unternehmen erlangen.
+
+(2) Dieser Abschnitt gilt nicht für den Fall, dass es sich bei den nicht börsennotierten Unternehmen
+
+1\. um kleine und mittlere Unternehmen im Sinne von Art. 2 Abs. 1 des Anhangs der Empfehlung der Kommission betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen, ABl. Nr. L 124 vom 20.05.2003 S. 36 oder
+
+2\. um Zweckgesellschaften für den Erwerb, den Besitz oder die Verwaltung von Immobilien handelt.
+
+(3) Unbeschadet der Abs. 1 und 2 gilt § 25 Abs. 1 auch für AIFM, die AIF verwalten, die eine Minderheitsbeteiligung an einem nicht börsennotierten Unternehmen erlangen.
+
+(4) § 26 Abs. 1, 2 und 3 und § 28 gelten auch für AIFM, die AIF verwalten, die die Kontrolle in Bezug auf Emittenten erlangen. Für die Zwecke dieser Paragrafen gelten die Abs. 1 und 2 dieser Bestimmung entsprechend.
+
+(5) Für die Zwecke dieses Abschnitts bedeutet Kontrolle im Falle nicht börsennotierter Unternehmen über 50 vH der Stimmrechte dieser Unternehmen. Bei der Berechnung des Anteils an den Stimmrechten, die von dem entsprechenden AIF gehalten werden, werden zusätzlich zu von dem betreffenden AIF direkt gehaltenen Stimmrechten auch die folgenden Stimmrechte berücksichtigt, wobei die Kontrolle gemäß dem ersten Satz dieses Absatzes festgestellt wird:
+
+1\. von Unternehmen, die von dem AIF kontrolliert werden, und
+
+2\. von natürlichen oder juristischen Personen, die in ihrem eigenen Namen, aber im Auftrag des AIF oder eines von dem AIF kontrollierten Unternehmens handeln.
+
+Der Anteil der Stimmrechte wird ausgehend von der Gesamtzahl der mit Stimmrechten versehenen Anteile berechnet, auch wenn die Ausübung dieser Stimmrechte ausgesetzt ist. Unbeschadet des § 2 Abs. 1 Z 9 wird Kontrolle in Bezug auf Emittenten für die Zwecke des § 26 Abs. 1, 2 und 3 und des § 28 gemäß Art. 5 Abs. 3 der Richtlinie 2004/25/EG definiert.
+
+(6) Dieser Abschnitt gilt vorbehaltlich der Bedingungen und Beschränkungen, die in Art. 6 der Richtlinie 2002/14/EG festgelegt sind.
+
+(7) Dieser Abschnitt gilt unbeschadet jeglicher von den Mitgliedstaaten erlassener strengerer Vorschriften über den Erwerb von Beteiligungen an Emittenten und nicht börsennotierten Unternehmen in ihrem Hoheitsgebiet.
+
+#### § 25 – Mitteilung über den Erwerb bedeutender Beteiligungen und die Erlangung der Kontrolle über nicht börsennotierte Unternehmen
+
+§ 25. (1) Beim Erwerb, Verkauf oder Halten von Anteilen an einem nicht börsennotierten Unternehmen durch einen AIF hat der AIFM, der diesen AIF verwaltet, der FMA von dem Anteil an den Stimmrechten des nicht börsennotierten Unternehmens, die von dem AIF gehalten werden, immer dann Anzeige zu erstatten, wenn dieser Anteil die Schwellenwerte von 10 vH, 20 vH, 30 vH, 50 vH und 75 vH erreicht, überschreitet oder unterschreitet.
+
+(2) Wenn ein AIF allein oder gemeinsam die Kontrolle über ein nicht börsennotiertes Unternehmen gemäß § 24 Abs. 1 in Verbindung mit Abs. 5 erlangt, hat der AIFM, der den betreffenden AIF verwaltet, folgende Personen in Bezug auf den Kontrollerwerb durch den AIF zu informieren:
+
+1\. das nicht börsennotierte Unternehmen;
+
+2\. die Anteilseigner, deren Identität und Adresse dem AIFM vorliegen oder ihm von dem nicht börsennotierten Unternehmen oder über ein Register, zu dem der AIFM Zugang hat oder erhalten kann, zur Verfügung gestellt werden können, und
+
+3\. die FMA als zuständige Behörde des Herkunftsmitgliedstaats des AIFM.
+
+(3) Die gemäß Abs. 2 erforderliche Mitteilung enthält die folgenden zusätzlichen Angaben:
+
+1\. die sich hinsichtlich der Stimmrechte ergebende Situation;
+
+2\. die Bedingungen, unter denen die Kontrolle erlangt wurde, einschließlich Nennung der einzelnen beteiligten Anteilseigner, der zur Stimmabgabe in ihrem Namen ermächtigten natürlichen oder juristischen Personen und gegebenenfalls der Beteiligungskette, über die die Stimmrechte tatsächlich gehalten werden;
+
+3\. das Datum, an dem die Kontrolle erlangt wurde.
+
+(4) In seiner Mitteilung an das nicht börsennotierte Unternehmen hat der AIFM den Vorstand des Unternehmens zu ersuchen, die Arbeitnehmervertreter oder, falls es keine solchen Vertreter gibt, die Arbeitnehmer selbst ohne unnötige Verzögerung von der Erlangung der Kontrolle durch den von dem AIFM verwalteten AIF und von den Informationen gemäß Abs. 3 in Kenntnis zu setzen. Der AIFM hat sich zu bemühen, nach besten Kräften sicherzustellen, dass die Arbeitnehmervertreter oder, falls es keine solchen Vertreter gibt, die Arbeitnehmer selbst ordnungsgemäß vom Vorstand gemäß dieser Bestimmung informiert werden.
+
+(5) Die Mitteilungen gemäß den Abs. 1, 2 und 3 sind spätestens zehn Arbeitstage nach dem Tag, an dem der AIF die entsprechende Schwelle erreicht, über- oder unterschritten hat oder die Kontrolle über das nicht börsennotierte Unternehmen erlangt hat, zu machen.
+
+#### § 26 – Offenlegungspflicht bei Erlangung der Kontrolle
+
+§ 26. (1) Wenn ein AIF allein oder gemeinsam die Kontrolle über ein nicht börsennotiertes Unternehmen oder einen Emittenten gemäß § 24 Abs. 1 in Verbindung mit Abs. 5 erlangt, hat der AIFM, der den betreffenden AIF verwaltet, die Informationen gemäß Abs. 2 dieser Bestimmung
+
+1\. dem betreffenden Unternehmen;
+
+2\. den Anteilseignern des Unternehmens, deren Identität und Adresse dem AIFM vorliegen oder ihm von dem Unternehmen oder über ein Register, zu dem der AIFM Zugang hat oder erhalten kann, zur Verfügung gestellt werden können, und
+
+3\. der FMA als zuständige Behörde des Herkunftsmitgliedstaats des AIFM vorzulegen.
+
+(2) Der AIFM hat die folgenden Informationen vorzulegen:
+
+1\. die Namen der AIFM, die entweder allein oder im Rahmen einer Vereinbarung mit anderen AIFM die AIF verwalten, die die Kontrolle erlangt haben;
+
+2\. die Grundsätze zur Vermeidung und Steuerung von Interessenkonflikten, insbesondere zwischen dem AIFM, dem AIF und dem Unternehmen, einschließlich Informationen zu den besonderen Sicherheitsmaßnahmen, die getroffen wurden, um sicherzustellen, dass Vereinbarungen zwischen dem AIFM und/oder den AIF und dem Unternehmen wie zwischen voneinander unabhängigen Geschäftspartnern geschlossen werden, und
+
+3\. die externe und interne Kommunikationspolitik in Bezug auf das Unternehmen, insbesondere gegenüber den Arbeitnehmern.
+
+(3) In seiner Mitteilung an das Unternehmen gemäß Abs. 1 Z 1 hat der AIFM den Vorstand des Unternehmens zu ersuchen, die Arbeitnehmervertreter oder, falls es keine solchen Vertreter gibt, die Arbeitnehmer selbst ohne unnötige Verzögerung von den Informationen gemäß Abs. 1 in Kenntnis zu setzen. Der AIFM hat sich zu bemühen, nach besten Kräften sicherzustellen, dass die Arbeitnehmervertreter oder, falls es keine solchen Vertreter gibt, die Arbeitnehmer selbst ordnungsgemäß vom Vorstand gemäß diesem Absatz informiert werden.
+
+(4) Wenn ein AIF allein oder gemeinsam die Kontrolle über ein nicht börsennotiertes Unternehmen gemäß § 24 Abs. 1 in Verbindung mit Abs. 5 erlangt, hat der AIFM, der den betreffenden AIF verwaltet, die Absichten des AIF hinsichtlich der zukünftigen Geschäftsentwicklung des nicht börsennotierten Unternehmens und die voraussichtlichen Auswirkungen auf die Beschäftigung, einschließlich wesentlicher Änderungen der Arbeitsbedingungen, gegenüber folgenden Personen offenzulegen oder sicherzustellen, dass der AIF diese Absichten diesen Personen gegenüber offenlegt:
+
+1\. dem nicht börsennotierten Unternehmen, und
+
+2\. den Anteilseignern des nicht börsennotierten Unternehmens, deren Identität und Adresse dem AIFM vorliegen oder ihm von dem nicht börsennotierten Unternehmen oder einem Register, zu dem der AIFM Zugang hat oder erhalten kann, zur Verfügung gestellt werden können.
+
+Darüber hinaus hat der AIFM, der den betreffenden AIF verwaltet, den Vorstand des nicht börsennotierten Unternehmens zu ersuchen, die im ersten Satz dieses Absatzes festgelegten Informationen den Arbeitnehmervertretern oder, falls es keine solchen Vertreter gibt, den Arbeitnehmern des nicht börsennotierten Unternehmens selbst zur Verfügung zu stellen, und hat sich nach besten Kräften zu bemühen, dies sicherzustellen.
+
+(5) Sobald ein AIF die Kontrolle über ein nicht börsennotiertes Unternehmen gemäß § 24 Abs. 1 in Verbindung mit Abs. 5 erlangt, hat der AIFM, der den betreffenden AIF verwaltet, der FMA als zuständiger Behörde seines Herkunftsmitgliedstaats und den Anlegern des AIF Angaben zur Finanzierung des Erwerbs vorzulegen.
+
+#### § 27 – Besondere Bestimmungen hinsichtlich des Jahresberichts von AIF, die die Kontrolle über nicht börsennotierte Unternehmen ausüben
+
+§ 27. (1) Wenn ein AIF allein oder gemeinsam die Kontrolle über ein nicht börsennotiertes Unternehmen gemäß § 24 Abs. 1 in Verbindung mit Abs. 5 erlangt, hat der AIFM, der den betreffenden AIF verwaltet, entweder
+
+1\. darum zu ersuchen und sich nach besten Kräften zu bemühen sicherzustellen, dass der Jahresbericht des nicht börsennotierten Unternehmens innerhalb der Frist, die in den einschlägigen nationalen Rechtsvorschriften für die Erstellung eines solchen Jahresberichts vorgesehen ist, gemäß Abs. 2 erstellt und vom Vorstand des Unternehmens allen Arbeitnehmervertretern oder, falls es keine solchen Vertreter gibt, den Arbeitnehmern selbst zur Verfügung gestellt wird, oder
+
+2\. für jeden betreffenden AIF in den gemäß § 20 vorgesehenen Jahresbericht zusätzlich die in Abs. 2 genannten Informationen über das betreffende nicht börsennotierte Unternehmen aufzunehmen.
+
+(2) Die zusätzlichen Informationen, die gemäß Abs. 1 in den Jahresbericht des Unternehmens oder des AIF aufgenommen werden müssen, müssen zumindest einen Bericht über die Lage am Ende des von dem Jahresbericht abgedeckten Zeitraums enthalten, in dem der Geschäftsverlauf der Gesellschaft so dargestellt wird, dass ein möglichst getreues Bild der Vermögens-, Ertrags- und Finanzlage entsteht. Der Bericht soll außerdem Angaben zu Folgendem enthalten:
+
+1\. Ereignisse von besonderer Bedeutung, die nach Abschluss des Geschäftsjahres eingetreten sind,
+
+2\. die voraussichtliche Entwicklung des Unternehmens und
+
+3\. die in Art. 24 Abs. 2 der Richtlinie 2012/30/EU bezeichneten Angaben über den Erwerb eigener Aktien.
+
+(3) Der AIFM, der den betreffenden AIF verwaltet, hat entweder
+
+1\. darum zu ersuchen und sich nach besten Kräften zu bemühen, sicherzustellen, dass der Vorstand des nicht börsennotierten Unternehmens die in Abs. 1 Z 2 genannten Informationen über das betreffende Unternehmen den Arbeitnehmervertretern des betreffenden Unternehmens oder, falls es keine solchen Vertreter gibt, den Arbeitnehmern selbst innerhalb der in § 20 Abs. 1 genannten Frist zur Verfügung stellt, oder
+
+2\. den Anlegern des AIF die Informationen gemäß Abs. 1 Z 1, soweit bereits verfügbar, innerhalb der in § 20 Abs. 1 genannten Frist und in jedem Fall spätestens bis zu dem Datum, zu dem der Jahresbericht des nicht börsennotierten Unternehmens gemäß den einschlägigen nationalen Rechtsvorschriften erstellt wird, zur Verfügung zu stellen.
+
+#### § 28 – Zerschlagung von Unternehmen
+
+§ 28. (1) Wenn ein AIF allein oder gemeinsam die Kontrolle über ein nicht börsennotiertes Unternehmen oder einen Emittenten gemäß § 24 Abs. 1 in Verbindung mit Abs. 5 erlangt, darf der AIFM, der den betreffenden AIF verwaltet, innerhalb eines Zeitraums von 24 Monaten nach dem Erlangen der Kontrolle über das Unternehmen durch den AIF
+
+1\. Vertrieb, Kapitalherabsetzungen, Rücknahme von Anteilen und/oder Ankauf eigener Anteile durch das Unternehmen gemäß Abs. 2 weder gestatten, noch ermöglichen, unterstützen oder anordnen;
+
+2\. sofern der AIFM befugt ist, in den Versammlungen der Leitungsgremien des Unternehmens im Namen des AIF abzustimmen, nicht für Vertrieb, Kapitalherabsetzungen, Rücknahme von Anteilen und/oder Ankauf eigener Anteile durch das Unternehmen gemäß Abs. 2 stimmen und
+
+3\. hat innerhalb des gleichen Zeitraumes sich in jedem Falle nach besten Kräften zu bemühen, Vertrieb, Kapitalherabsetzungen, Rücknahme von Anteilen und/oder Ankauf eigener Anteile durch das Unternehmen gemäß Abs. 2 zu verhindern.
+
+(2) Die Auflagen, die den AIFM gemäß Abs. 1 auferlegt werden, erstrecken sich auf Folgendes:
+
+1\. Ausschüttungen an die Anteilseigner, die vorgenommen werden, wenn das im Jahresabschluss des Unternehmens ausgewiesene Nettoaktivvermögen bei Abschluss des letzten Geschäftsjahres den Betrag des gezeichneten Kapitals zuzüglich der Rücklagen, deren Ausschüttung das Recht oder die Satzung nicht gestattet, unterschreitet oder durch eine solche Ausschüttung unterschreiten würde, wobei der Betrag des gezeichneten Kapitals um den Betrag des noch nicht eingeforderten Teils des gezeichneten Kapitals vermindert wird, falls Letzterer nicht auf der Aktivseite der Bilanz ausgewiesen ist;
+
+2\. Ausschüttungen an die Aktionäre, deren Betrag den Betrag des Ergebnisses des letzten abgeschlossenen Geschäftsjahres, zuzüglich des Gewinnvortrags und der Entnahmen aus hierfür verfügbaren Rücklagen, jedoch vermindert um die Verluste aus früheren Geschäftsjahren sowie um die Beträge, die nach Gesetz oder Satzung in Rücklagen eingestellt worden sind, überschreiten würde;
+
+3\. Ankäufe durch das Unternehmen, einschließlich Anteilen, die bereits früher vom Unternehmen erworben und von ihm gehalten wurden, und Anteilen, die von einer Person erworben werden, die in ihrem eigenen Namen, aber im Auftrag des Unternehmens handelt, in dem Umfang, in dem der Ankauf eigener Anteile gestattet ist, die zur Folge hätten, dass das Nettoaktivvermögen unter die in Z 1 genannte Schwelle gesenkt würde.
+
+(3) Für die Zwecke des Abs. 2 gilt Folgendes:
+
+1\. der in Abs. 2 Z 1 und 2 verwendete Begriff „Ausschüttung“ bezieht sich insbesondere auf die Zahlung von Dividenden und Zinsen im Zusammenhang mit Anteilen;
+
+2\. die Bestimmungen für Kapitalherabsetzungen erstrecken sich nicht auf Herabsetzungen des gezeichneten Kapitals, deren Zweck im Ausgleich von erlittenen Verlusten oder in der Aufnahme von Geldern in eine nicht ausschüttbare Rücklage besteht, unter der Voraussetzung, dass die Höhe einer solchen Rücklage nach dieser Maßnahme 10 vH des herabgesetzten gezeichneten Kapitals nicht überschreitet, und
+
+3\. die Einschränkung gemäß Abs. 2 Z 3 richtet sich nach Art. 22 Abs. 1 lit. b bis h der Richtlinie 2012/30/EU.
+
+#### § 28a – Voraussetzungen für das Pre-Marketing durch einen EU-AIFM
+
+§ 28a. (1) Ein in Österreich konzessionierter AIFM kann in einem Mitgliedstaat Pre-Marketing betreiben, wenn das Pre-Marketing angemessen dokumentiert wird und die den potenziellen professionellen Anlegern vorgelegten Informationen
+
+1\. nicht ausreichen, um die Anleger in die Lage zu versetzen, sich zum Erwerb von Anteilen eines bestimmten AIF zu verpflichten;
+
+2\. keine Zeichnungsformulare oder vergleichbare Dokumente sind, unabhängig davon, ob sie in einem Entwurf oder in endgültiger Form vorliegen und
+
+3\. keine Gründungsdokumente, Prospekte oder Angebotsunterlagen eines noch nicht registrierten AIF in endgültiger Form sind.
+
+Die gemäß Z 1 vorgelegten Informationen dürfen kein annahmefähiges Anbot im Sinne von § 861 ABGB darstellen.
+
+(2) Werden Entwürfe von Prospekten oder Angebotsunterlagen bereitgestellt, so dürfen diese keine Informationen enthalten, die Anlegern für das Treffen einer Anlageentscheidung genügen, und es ist darin klar und deutlich darzulegen, dass
+
+1\. es sich dabei nicht um ein Angebot oder eine Aufforderung zur Zeichnung von Anteilen eines AIF handelt und
+
+2\. die darin dargelegten Informationen nicht als zuverlässig erachtet werden sollten, da sie unvollständig sind und noch geändert werden können.
+
+(3) Der AIFM hat sicherzustellen, dass professionelle Anleger im Rahmen des Pre-Marketings keine Anteile eines AIF erwerben können. Professionelle Anleger, die im Rahmen des Pre-Marketings kontaktiert wurden, dürfen Anteile des AIF ausschließlich nach einer Vertriebsanzeige gemäß den §§ 29 bis 33 erwerben. Eine durch professionelle Anleger innerhalb von 18 Monaten, nachdem der EU-AIFM das Pre-Marketing aufgenommen hat, vorgenommene Zeichnung
+
+1\. von Anteilen eines AIF, der in den im Rahmen des Pre-Marketings bereitgestellten Informationen genannt wird, oder
+
+2\. eines infolge des Pre-Marketings registrierten AIF
+
+gilt als Vertriebsergebnis und bedarf einer Vertriebsanzeige gemäß den §§ 29 bis 33.
+
+(4) Der AIFM hat binnen zwei Wochen nach Aufnahme des Pre-Marketings die FMA schriftlich über die Mitgliedstaaten, in denen das Pre-Marketing stattfindet oder stattgefunden hat und den Zeitraum für das Pre-Marketing zu informieren sowie eine Kurzbeschreibung des Pre-Marketings, darunter Informationen zu den vorgestellten Anlagestrategien und gegebenenfalls eine Liste der AIF und Teilfonds von AIF, die Gegenstand des Pre-Marketings sind oder waren, anzuschließen. Die FMA hat die zuständigen Behörden jener Mitgliedstaaten, in denen das Pre-Marketing stattfindet oder stattgefunden hat, davon unverzüglich zu informieren. Die FMA hat diesen zuständigen Behörden auf Anfrage weitere Angaben zum Pre-Marketing zu übermitteln.
+
+(5) Im Namen eines in Österreich konzessionierten AIFM darf Pre-Marketing nur unter Einhaltung der Abs. 1 bis 3 von
+
+1\. einer gemäß der Richtlinie 2014/65/EU zugelassenen Wertpapierfirma,
+
+2\. einem gemäß der Richtlinie 2013/36/EU zugelassenen Kreditinstitut,
+
+3\. einer gemäß der Richtlinie 2009/65/EG zugelassenen OGAW-Verwaltungsgesellschaft,
+
+4\. einem gemäß der Richtlinie 2011/61/EU zugelassenen AIFM oder
+
+5\. einem im Sinne der Richtlinie 2014/65/EU handelnden vertraglich gebundenen Vermittler
+
+betrieben werden.
+
+(6) Ein in einem anderen Mitgliedstaat zugelassener AIFM kann in Österreich Pre-Marketing betreiben. Abs. 1 bis 5 ist auf dieses Pre-Marketing sinngemäß anzuwenden.
+
+## 6. Teil
+
+### Recht der EU-AIFM auf Vertrieb und Verwaltung von EU-AIF
+
+#### § 29 – Vertrieb von Anteilen von EU-AIF in Österreich als Herkunftsmitgliedstaat des AIFM
+
+§ 29. (1) Ein in Österreich konzessionierter AIFM kann Anteile von allen EU-AIF, die er verwaltet, an professionelle Anleger in Österreich als seinem Herkunftsmitgliedstaat vertreiben, sobald die in dieser Bestimmung festgelegten Bedingungen eingehalten sind. Handelt es sich bei dem EU-AIF um einen Feeder-AIF, so gilt das im ersten Satz dieses Absatzes genannte Vertriebsrecht nur dann, wenn der Master-AIF ebenfalls ein EU-AIF ist, der von einem in einem Mitgliedstaat zugelassenen EU-AIFM verwaltet wird.
+
+(2) Der AIFM hat bei der FMA für jeden AIF, welchen er zu vertreiben beabsichtigt, einen Antrag auf Bewilligung einzureichen. Der Antrag auf Bewilligung hat die Dokumentation und die Angaben gemäß **Anlage 3** zu umfassen.
+
+(3) Innerhalb von 20 Arbeitstagen nach Eingang des vollständigen Antrags nach Abs. 2 hat die FMA über die Zulässigkeit des Vertriebs des genannten AIF zu entscheiden. § 13 Abs. 3 letzter Satz AVG kommt hinsichtlich der Berechnung der Frist nicht zur Anwendung. Die FMA kann den Vertrieb des AIF untersagen, wenn die Verwaltung des AIF durch den AIFM oder der AIFM in sonstiger Weise gegen dieses Bundesgesetz, die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte verstößt oder verstoßen wird. Im Falle einer positiven Entscheidung kann der AIFM ab dem Datum der diesbezüglichen Bewilligung mit dem Vertrieb des AIF beginnen.
+
+(4) Im Falle, dass die FMA nicht zugleich zuständige Behörde des EU-AIF ist, teilt die FMA den zuständigen Behörden des EU-AIF mit, dass der AIFM den Vertrieb mit Anteilen des AIF in Österreich beginnen kann.
+
+(5) Im Falle einer wesentlichen Änderung der nach Abs. 2 mitgeteilten Angaben hat der AIFM diese der FMA bei von ihm geplanten Änderungen mindestens einen Monat vor Durchführung der Änderung, oder, bei ungeplanten Änderungen, unverzüglich nach Eintreten der ungeplanten Änderung schriftlich anzuzeigen. Sollte die geplante Änderung dazu führen, dass die Verwaltung des EU-AIF durch den AIFM oder der AIFM im Allgemeinen gegen dieses Bundesgesetz, gegen die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte verstößt, hat die FMA binnen 15 Arbeitstagen nach Eingang der vollständigen Anzeige dem AIFM mitzuteilen, dass die beabsichtigte Änderung nicht durchgeführt werden darf. Die FMA hat die zuständigen Behörden des EU-AIF entsprechend zu informieren. Wird eine geplante Änderung ungeachtet dieses Absatzes oder entgegen einer Untersagung durchgeführt oder führt eine durch einen ungeplanten Umstand ausgelöste Änderung dazu, dass die Verwaltung des EU-AIF durch den AIFM oder der AIFM im Allgemeinen nunmehr gegen dieses Bundesgesetz, die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte verstoßen würde, so hat die FMA alle gebotenen Maßnahmen gemäß §§ 56 und 57 zu ergreifen, einschließlich, falls erforderlich, der ausdrücklichen Untersagung des Vertriebs des EU-AIF im Inland und die zuständigen Behörden des EU-AIF über die getroffenen Maßnahmen in Kenntnis zu setzen. Sind die Änderungen zulässig, so hat die FMA binnen eines Monats die zuständigen Behörden des EU-AIF über diese Änderungen zu unterrichten.
+
+(6) Unbeschadet des § 48 Abs. 1 dürfen die von den AIFM verwalteten und vertriebenen AIF nur an professionelle Anleger vertrieben werden.
+
+> **Anmerkung:** EU: Art. 1, BGBl. I Nr. 70/2014
+
+#### § 30 – Vertrieb von Anteilen von EU-AIF in anderen Mitgliedstaaten durch einen in Österreich konzessionierten AIFM
+
+§ 30. (1) Ein in Österreich konzessionierter AIFM kann Anteile eines von ihm verwalteten EU-AIF an professionelle Anleger in anderen Mitgliedstaaten als in Österreich vertreiben, sobald die in dieser Bestimmung festgelegten Bedingungen eingehalten sind. Handelt es sich bei dem EU-AIF um einen Feeder-AIF, so gilt das Vertriebsrecht nur dann, wenn der Master-AIF ebenfalls ein EU-AIF ist und von einem in einem Mitgliedstaat zugelassenen EU-AIFM verwaltet wird.
+
+(2) Wenn ein in Österreich konzessionierter AIFM beabsichtigt, die Anteile eines von ihm verwalteten EU-AIF in einem anderen Mitgliedstaat zu vertreiben, so hat er der FMA im Voraus ein Anzeigeschreiben zu übermitteln, welches die Dokumentation und die Angaben gemäß **Anlage 4** umfasst.
+
+(3) Die FMA hat nach Prüfung der Vollständigkeit der gemäß Abs. 2 übermittelten Anzeige und Unterlagen den zuständigen Behörden des Mitgliedstaats, in dem der EU-AIF vertrieben werden soll, diese spätestens 20 Arbeitstage nach dem Eingang des vollständigen Anzeigeschreibens und der Unterlagen zu übermitteln. § 13 Abs. 3 letzter Satz AVG kommt hinsichtlich der Berechnung der Frist nicht zur Anwendung. Die FMA hat nur dann die Anzeige zu übermitteln, wenn die Verwaltung des EU-AIF durch den AIFM diesem Bundesgesetz, der Richtlinie 2011/61/EU sowie den auf Basis dieser Richtlinie erlassenen delegierten Rechtsakten entspricht und weiterhin entsprechen wird und wenn der AIFM im Allgemeinen sich an dieses Bundesgesetz, die Richtlinie 2011/61/EU sowie auf Basis dieser Richtlinie erlassenen delegierten Rechtsakten hält. Die FMA hat eine Bescheinigung über die Konzession des betreffenden AIFM zur Verwaltung von AIF mit einer bestimmten Anlagestrategie beizufügen.
+
+(4) Die FMA hat den AIFM unverzüglich über den Versand der Anzeigeunterlagen zu unterrichten. Der AIFM kann ab dem Datum dieser Mitteilung mit dem Vertrieb des EU-AIF im Aufnahmemitgliedstaat beginnen. Im Falle, dass die FMA nicht zugleich zuständige Behörde des EU-AIF ist, teilt die FMA zudem den für den EU-AIF zuständigen Behörden mit, dass der AIFM mit dem Vertrieb von Anteilen des EU-AIF im Aufnahmemitgliedstaat des AIFM beginnen kann.
+
+(5) Das in Abs. 2 genannte Anzeigeschreiben des AIFM, die in Abs. 3 genannte Bescheinigung sowie die in Abs. 6 genannte Änderungsanzeige haben in deutscher oder englischer Sprache oder sonst entsprechend dem Sprachenregime gemäß Art. 27 der Verordnung (EU) 2017/1129 bereitgestellt zu werden. Die FMA hat die elektronische Übermittlung und Archivierung der genannten Unterlagen zu akzeptieren.
+
+(6) Im Falle einer wesentlichen Änderung der nach Abs. 2 mitgeteilten Angaben hat der AIFM diese der FMA bei von ihm geplanten Änderungen mindestens einen Monat vor Durchführung der Änderung, oder, bei ungeplanten Änderungen, unverzüglich nach Eintreten der ungeplanten Änderung schriftlich mitzuteilen. Sollte die geplante Änderung dazu führen, dass die Verwaltung des EU-AIF durch den AIFM oder der AIFM im Allgemeinen gegen dieses Bundesgesetz, gegen die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte verstößt, hat die FMA binnen 15 Arbeitstagen nach Eingang der vollständigen Anzeige dem AIFM mitzuteilen, dass die beabsichtigte Änderung nicht durchgeführt werden darf. Die FMA hat die zuständigen Behörden des Aufnahmemitgliedstaates des AIFM entsprechend zu informieren. Wird eine geplante Änderung ungeachtet dieses Absatzes oder entgegen einer Untersagung durchgeführt oder führt eine durch einen ungeplanten Umstand ausgelöste Änderung dazu, dass die Verwaltung des EU-AIF durch den AIFM oder der AIFM im Allgemeinen nunmehr gegen dieses Bundesgesetz, die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte verstoßen würde, so hat die FMA alle gebotenen Maßnahmen gemäß §§ 56 und 57 zu ergreifen, einschließlich, falls erforderlich, der ausdrücklichen Untersagung des Vertriebs des EU-AIF und die zuständigen Behörden des Aufnahmemitgliedstaats des AIFM über die getroffenen Maßnahmen in Kenntnis zu setzen. Sind die Änderungen zulässig, so hat die FMA binnen eines Monats die zuständigen Behörden des Aufnahmemitgliedstaats des AIFM über diese Änderungen zu unterrichten.
+
+(7) Unbeschadet des § 48 Abs. 1 dürfen die von den AIFM verwalteten und vertriebenen AIF im Inland nur an professionelle Anleger vertrieben werden.
+
+#### § 31 – Vertrieb von Anteilen von EU-AIF aus anderen Mitgliedstaaten in Österreich durch einen in einem Mitgliedstaat zugelassenen AIFM
+
+§ 31. (1) Ein in einem Mitgliedstaat zugelassener AIFM kann Anteile eines von ihm verwalteten EU-AIF an professionelle Anleger in Österreich vertreiben, sobald der AIFM von der zuständigen Behörde seines Herkunftsmitgliedstaats darüber unterrichtet wurde, dass die vollständigen Unterlagen und Informationen gemäß Anlage 4 und eine dem § 30 Abs. 3 letzter Satz entsprechende Bescheinigung an die FMA übermittelt wurden.
+
+(2) Die gemäß Anlage 4 lit. h anzugebenden Vorkehrungen für den Vertrieb des EU-AIF und, sofern zutreffend, die Vorkehrungen, die getroffen wurden, um zu verhindern, dass Anteile des EU-AIF an Privatkunden vertrieben werden, auch falls der AIFM für die Erbringung von Wertpapierdienstleistungen für den AIF auf unabhängige Unternehmen zurückgreift, unterliegen den Anforderungen dieses Bundesgesetzes und der Aufsicht durch die FMA. Die FMA hat im Falle eines Verstoßes gegen dieses Bundesgesetz, die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte alle gebotenen Maßnahmen gemäß §§ 56 f zu ergreifen, einschließlich, falls erforderlich, der ausdrücklichen Untersagung des Vertriebs des EU-AIF im Inland.
+
+(3) Die durch die zuständige Behörde des Herkunftsmitgliedstaats des AIFM übermittelte Anzeige samt Unterlagen sowie die in § 30 Abs. 3 genannte Bescheinigung haben in deutscher oder englischer Sprache oder sonst entsprechend dem Sprachenregime gemäß Art. 27 der Verordnung (EU) 2017/1129 bereitgestellt zu werden. Die FMA hat die elektronische Übermittlung und Archivierung der genannten Unterlagen zu akzeptieren.
+
+(4) Für die Bearbeitung der übermittelten Unterlagen gemäß Abs. 1 ist an die FMA eine Gebühr von 1 100 Euro zu entrichten. Diese Gebühr erhöht sich bei EU-AIF, die mehrere Teilfonds enthalten (Umbrella-Fonds), ab dem zweiten Teilfonds für jeden Fonds um 220 Euro. Für die Überwachung der Einhaltung der nach diesem Abschnitt bestehenden Pflichten ist weiters zu Beginn eines jeden Kalenderjahres, spätestens bis zum 15. Jänner dieses Jahres für jeden zum Stichtag 1. Jänner dieses Jahres zugelassenen EU-AIF eine jährliche Gebühr von 600 Euro an die FMA zu entrichten; diese Gebühr erhöht sich bei EU-AIF, die mehrere Teilfonds enthalten (Umbrella-Fonds), ab dem zweiten Teilfonds für jeden Teilfonds um 200 Euro. Gebührenbeiträge, die nicht spätestens am Fälligkeitstag entrichtet wurden, sind vollstreckbar. Die FMA hat einen als Exekutionstitel geltenden Rückstandsausweis auszufertigen. Dieser hat Namen und Anschrift des Gebührenpflichtigen, den Betrag der Schuld und den Vermerk zu enthalten, dass die Schuld vollstreckbar geworden ist. Die nicht fristgerechte Entrichtung der Gebühr ist ein Vertriebsuntersagungsgrund gemäß § 50.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 70/2014
+
+#### § 32 – Bedingungen für die Verwaltung von EU-AIF und die Erbringung von Dienstleistungen durch einen in Österreich konzessionierten AIFM
+
+§ 32. (1) Ein in Österreich konzessionierter AIFM kann entweder direkt oder indirekt über eine Zweigniederlassung
+
+1\. EU-AIF mit Sitz in einem anderen Mitgliedstaat verwalten, sofern die Konzession den AIFM zu der Verwaltung dieser Art von AIF berechtigt, oder
+
+2\. in einem anderen Mitgliedstaat Dienstleistungen gemäß § 4 Abs. 4 erbringen, sofern die Konzession den AIFM dazu berechtigt.
+
+(2) Ein AIFM, der erstmals beabsichtigt, Tätigkeiten oder Dienstleistungen gemäß Abs. 1 zu erbringen, hat der FMA dies anzuzeigen und folgende Angaben zu übermitteln:
+
+1\. den Mitgliedstaat, in dem er EU-AIF direkt oder über eine Zweigniederlassung zu verwalten oder Dienstleistungen gemäß § 4 Abs. 4 zu erbringen beabsichtigt,
+
+2\. einen Geschäftsplan, aus dem insbesondere hervorgeht, welche Dienstleistungen er zu erbringen oder welche EU-AIF er zu verwalten beabsichtigt.
+
+(3) Beabsichtigt der AIFM die Errichtung einer Zweigniederlassung in diesem Mitgliedstaat, so sind zusätzlich zu den Angaben nach Abs. 2 folgende Informationen vorzulegen:
+
+1\. der organisatorische Aufbau der Zweigniederlassung;
+
+2\. die Anschrift, unter der im Herkunftsmitgliedstaat des EU-AIF Unterlagen angefordert werden können; und
+
+3\. die Namen und die Kontaktangaben der Geschäftsführer der Zweigniederlassung.
+
+(4) Die FMA hat binnen eines Monats nach dem Eingang der vollständigen Anzeige nach Abs. 2 oder binnen zwei Monaten nach dem Eingang der vollständigen Unterlagen nach Abs. 3 die vollständigen Anzeigeunterlagen an die zuständigen Behörden des Aufnahmemitgliedstaats des AIFM zu übermitteln. § 13 Abs. 3 letzter Satz AVG kommt hinsichtlich der Berechnung der Frist nicht zur Anwendung. Die FMA hat nur dann die Anzeige zu übermitteln, wenn die Verwaltung des EU-AIF durch den AIFM diesem Bundesgesetz, der Richtlinie 2011/61/EU sowie den auf Basis dieser Richtlinie erlassenen delegierten Rechtsakten entspricht und weiterhin entsprechen wird und wenn der AIFM im Allgemeinen sich an dieses Bundesgesetz, die Richtlinie 2011/61/EU sowie die auf Basis dieser Richtlinie erlassenen delegierten Rechtsakten hält. Die FMA hat eine Bescheinigung über die Konzession des betreffenden AIFM zur Verwaltung von AIF mit einer bestimmten Anlagestrategie beizufügen.
+
+(5) Die FMA hat den AIFM unverzüglich über den Versand der Unterlagen zu unterrichten. Der AIFM kann ab dem Datum dieser Mitteilung mit der Erbringung der Dienstleistungen im Aufnahmemitgliedstaat beginnen.
+
+(6) Im Falle einer wesentlichen Änderung der nach Abs. 2 und gegebenenfalls nach Abs. 3 übermittelten Angaben hat der AIFM diese der FMA bei von ihm geplanten Änderungen mindestens einen Monat vor Durchführung der Änderung, oder, bei ungeplanten Änderungen, unverzüglich nach Eintreten der ungeplanten Änderung schriftlich mitzuteilen. Sollte die geplante Änderung dazu führen, dass die Verwaltung des EU-AIF durch den AIFM oder der AIFM im Allgemeinen gegen dieses Bundesgesetz, gegen die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte verstößt, hat die FMA binnen 15 Arbeitstagen nach Eingang der vollständigen Anzeige dem AIFM mitzuteilen, dass die beabsichtigte Änderung nicht durchgeführt werden darf. Wird eine geplante Änderung ungeachtet dieses Absatzes oder entgegen einer Untersagung durchgeführt oder führt eine durch einen ungeplanten Umstand ausgelöste Änderung dazu, dass die Verwaltung des EU–AIF durch den AIFM oder der AIFM im Allgemeinen nunmehr gegen dieses Bundesgesetz, die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte verstoßen würde, so hat die FMA alle gebotenen Maßnahmen gemäß §§ 56 und 57 zu ergreifen, einschließlich, falls erforderlich, der ausdrücklichen Untersagung des Vertriebs des EU-AIF im Inland und die zuständigen Behörden des Aufnahmemitgliedstaats des AIFM über die getroffenen Maßnahmen unverzüglich in Kenntnis zu setzen. Sind die Änderungen zulässig, so hat die FMA unverzüglich die zuständigen Behörden des Aufnahmemitgliedstaats des AIFM über diese Änderungen zu unterrichten.
+
+(7) Das in Abs. 2 genannte Anzeigeschreiben des AIFM, gegebenenfalls die in Abs. 3 übermittelten Angaben sowie die in Abs. 6 genannte Änderungsanzeige haben in deutscher oder englischer Sprache oder sonst entsprechend dem Sprachenregime gemäß Art. 27 der Verordnung (EU) 2017/1129 bereitgestellt zu werden. Die FMA hat die elektronische Übermittlung und Archivierung der genannten Unterlagen zu akzeptieren.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 98/2014
+
+#### § 33 – Bedingungen für die Verwaltung von EU-AIF und die Erbringung von Dienstleistungen in Österreich durch AIFM mit Sitz in einem anderen Mitgliedstaat
+
+§ 33. (1) Ein in einem anderen Mitgliedstaat zugelassener EU-AIFM kann entweder direkt oder indirekt über eine Zweigniederlassung in Österreich
+
+1\. EU-AIF verwalten, sofern der EU-AIFM für die Verwaltung dieser Art von EU-AIF berechtigt ist, oder
+
+2\. Dienstleistungen gemäß Art. 6 Abs. 4 der Richtlinie 2011/61/EU erbringen, sofern dem AIFM dafür eine Zulassung erteilt wurde.
+
+(2) Die Aufnahme von Tätigkeiten oder Dienstleistungen gemäß Abs. 1 in Österreich sowie die Errichtung einer Zweigstelle durch einen EU-AIFM ist zulässig, wenn die zuständige Behörde des Herkunftsmitgliedstaats des EU-AIFM der FMA alle Angaben gemäß § 32 Abs. 2, 3 und eine dem Abs. 4 letzter Satz entsprechende Bescheinigung übermittelt hat sowie dem EU-AIFM eine Bestätigung der Übermittlung durch die zuständige Behörde seines Herkunftsmitgliedstaats zuging. Die Angaben gemäß § 32 Abs. 2 und 3 haben in deutscher oder englischer Sprache oder sonst entsprechend dem Sprachenregime gemäß Art. 27 der Verordnung (EU) 2017/1129 bereitgestellt zu werden. Die FMA hat die elektronische Übermittlung und Archivierung der genannten Unterlagen zu akzeptieren.
+
+(3) Falls die kollektive Portfolioverwaltung eines in Österreich bewilligten AIF beabsichtigt wird, hat der EU-AIFM dies bei der FMA gemäß § 29 zu beantragen. Verwaltet der EU-AIFM bereits AIF der gleichen Art in Österreich, so reicht der Hinweis auf die bereits vorgelegten Unterlagen aus. Der Vertrieb des EU-AIF an Privatkunden in Österreich ist ausschließlich dann zulässig, wenn die Bedingungen des § 48 eingehalten werden.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 70/2014; Art. 1, BGBl. I Nr. 98/2014
+
+#### § 33a – Widerruf der getroffenen Vorkehrungen für den Vertrieb von Anteilen einiger oder aller EU-AIF durch einen in Österreich konzessionierten AIFM
+
+§ 33a. (1) Ein in Österreich konzessionierter AIFM kann die getroffenen Vorkehrungen für den Vertrieb von Anteilen einiger oder aller seiner AIF in einem Mitgliedstaat, für den eine Anzeige im Sinne des Art. 32a Abs. 2 der Richtlinie 2011/61/EU, gemäß § 30 Abs. 2 oder § 32 Abs. 2 erfolgt ist, widerrufen, sofern alle nachstehend aufgeführten Voraussetzungen erfüllt sind:
+
+1\. Es wird ein Pauschalangebot zum Rückkauf oder zur Rücknahme – ohne Gebühren oder Abzüge – sämtlicher betreffenden AIF-Anteile, ausgenommen Anteile von geschlossenen AIF und Anteile von durch die Verordnung (EU) 2015/760 regulierten Fonds (ELTIF), die von Anlegern im Aufnahmemitgliedstaat gehalten werden, abgegeben, das für die Dauer von mindestens 30 Arbeitstagen öffentlich zugänglich und individuell – direkt oder über Finanzintermediäre – an alle Anleger im Aufnahmemitgliedstaat gerichtet ist, deren Identität bekannt ist;
+
+2\. die Bekanntmachung der Absicht, die Vorkehrungen für den Vertrieb einiger oder aller seiner AIF im Aufnahmemitgliedstaat aufzuheben, erfolgt mittels eines allgemein verfügbaren Mediums, einschließlich elektronischer Mittel, das für den Vertrieb von AIF üblich und für einen typischen AIF-Anleger geeignet ist;
+
+3\. vertragliche Vereinbarungen mit Finanzintermediären oder Vertretern werden mit Wirkung vom Datum des Widerrufs geändert oder beendet, um jedes neue oder weitere unmittelbare oder mittelbare Anbieten oder Platzieren der in der Anzeige gemäß Abs. 3 genannten Anteile zu verhindern.
+
+(2) Ab dem in Abs. 1 Z 3 genannten Datum hat der AIFM im Aufnahmemitgliedstaat jedes neue oder weitere unmittelbare oder mittelbare Anbieten oder Platzieren seiner vom Widerruf umfassten AIF–Anteile zu unterlassen.
+
+(3) Der AIFM hat der FMA den beabsichtigten Widerruf des Vertriebes mit den in Abs. 1 genannten Informationen unverzüglich schriftlich anzuzeigen.
+
+(4) Die FMA hat nach Prüfung der Vollständigkeit der gemäß Abs. 3 übermittelten Angaben und Unterlagen den zuständigen Behörden des Aufnahmemitgliedstaates und der ESMA spätestens fünfzehn Arbeitstage nach Eingang des vollständigen Anzeigeschreibens die Anzeige gemäß Abs. 3 zu übermitteln und den AIFM von der Weiterleitung zu benachrichtigen. § 13 Abs. 3 letzter Satz AVG ist dabei nicht anzuwenden. Der AIFM darf für die Dauer von 36 Monaten ab dem in Abs. 1 genannten Datum in in einem Mitgliedstaat, für den eine Anzeige im Sinne des Art. 32a Abs. 1 Buchstabe c der Richtlinie 2011/61/EU gemäß § 30 Abs. 2 oder § 32 Abs. 2 erfolgt ist, kein Pre-Marketing in Bezug auf Anteile der in dem Anzeigeschreiben genannten EU–AIF oder auf vergleichbare Anlagestrategien oder Anlagekonzepte betreiben.
+
+(5) Der AIFM hat den Anlegern, die ihre Investitionen in den EU-AIF beibehalten, sowie der FMA die Informationen gemäß den §§ 20 und 21 bereitzuhalten. Der AIFM kann dabei unbeschadet § 58 alle elektronischen oder sonstigen Mittel für die Fernkommunikation nutzen.
+
+(6) Die FMA hat den zuständigen Behörden des Aufnahmemitgliedstaates Angaben zu jedweder Änderung an den Unterlagen und Angaben gemäß der **Anlage 4** zu übermitteln.
+
+(7) Die FMA hat im Rahmen der Vollziehung der Abs. 1 bis 6 Aufgaben und Befugnisse gemäß § 55, einschließlich der Möglichkeit, die Vorlage von Informationen zu verlangen, die erforderlich sind, um zu beaufsichtigen, dass die maßgeblichen Bestimmungen, für die die FMA verantwortlich ist, durch den AIFM eingehalten werden und Maßnahmen im Falle einer Verletzung einer dieser Bestimmungen zu setzen. Unbeschadet sonstiger Überwachungstätigkeiten und Aufsichtsbefugnisse gemäß § 55 Abs. 3 hat die FMA ab dem Datum der Übermittlung gemäß Abs. 6 davon abzusehen, dem betroffenen AIFM vorzuschreiben, dass dieser die Einhaltung der in Art. 5 der Verordnung (EU) 2019/1156 genannten nationalen Rechts- und Verwaltungsvorschriften, die die Vertriebsanforderungen regeln, nachweisen muss.
+
+## 7. Teil
+
+### Spezifische Vorschriften in Bezug auf Drittländer
+
+#### § 34 – Bedingungen für EU-AIFM, die Nicht-EU-AIF verwalten, die in den Mitgliedstaaten nicht vertrieben werden
+
+§ 34. Ein im Inland konzessionierter EU-AIFM darf Nicht-EU-AIF verwalten, die nicht in der Europäischen Union vertrieben werden, wenn
+
+1\. der AIFM alle in diesem Bundesgesetz oder in der Richtlinie 2011/61/EU für diese AIF festgelegten Anforderungen mit Ausnahme der Anforderungen in den §§ 19 und 20 oder den Art. 21 und 22 der Richtlinie 2011/61/EU erfüllt, und
+
+2\. geeignete Vereinbarungen über die Zusammenarbeit zwischen der FMA als zuständiger Behörde des Herkunftsmitgliedstaats des AIFM und den Aufsichtsbehörden des Drittlands bestehen, in dem der Nicht-EU-AIF seinen Sitz hat, damit zumindest ein effizienter Informationsaustausch gewährleistet ist, der es der FMA als zuständiger Behörde des Herkunftsmitgliedstaats des AIFM ermöglicht, ihre Aufgaben gemäß diesem Bundesgesetz und der Richtlinie 2011/61/EU wahrzunehmen.
+
+#### § 35
+
+\*(Anm.: § 35.)*
+
+2\. das Drittland, in dem der Nicht-EU-AIF seinen Sitz hat, ist kein Drittland mit hohem Risiko gemäß § 2 Z 16 FM-GwG;
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 118/2016
+
+> **Beachte:** Die übrigen Bestimmungen des § 35 gelten gemäß dem von der Europäischen Kommission nach Artikel 67 Abs. 6 der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakte und erst ab dem darin bestimmten Zeitpunkt (vgl. § 74 Abs. 1).
+
+#### § 36
+
+\*(Anm.: § 36.)*
+
+2\. das Drittland, in dem der Nicht-EU-AIF seinen Sitz hat, ist kein Drittland mit hohem Risiko gemäß § 2 Z 16 FM-GwG;
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 118/2016
+
+> **Beachte:** Die übrigen Bestimmungen des § 36 gelten gemäß dem von der Europäischen Kommission nach Artikel 67 Abs. 6 der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakte und erst ab dem darin bestimmten Zeitpunkt (vgl. § 74 Abs. 1).
+
+#### § 38 – Bedingungen für den ohne Pass erfolgenden Vertrieb in Österreich von durch EU-AIFM verwalteten Nicht-EU-AIF
+
+§ 38. (1) Unbeschadet § 35 darf ein EU-AIFM den ausschließlich im Inland erfolgenden Vertrieb von Anteilen an einem von ihm verwalteten Nicht-EU-AIF sowie von EU-Feeder-AIF, die nicht die Anforderungen gemäß § 29 Abs. 1 zweiter Satz erfüllen, an professionelle Anleger durchführen, sofern folgende Voraussetzungen eingehalten sind:
+
+1\. der EU-AIFM erfüllt mit Ausnahme von § 19 alle in diesem Bundesgesetz festgelegten Anforderungen. Der EU-AIFM benennt eine oder mehrere Stellen, welche die Aufgaben gemäß § 19 Abs. 7, 8 und 9 wahrnehmen, und teilt dies der FMA sowie den Aufsichtsbehörden des Drittlandes, in dem der Nicht-EU-AIF seinen Sitz hat, unverzüglich mit. Die Anforderungen des § 19 Abs. 7, 8 und 9 können nicht vom EU-AIFM selbst übernommen werden.
+
+2\. Es bestehen geeignete, der Überwachung von Systemrisiken dienende und im Einklang mit den internationalen Standards stehende Vereinbarungen über die Zusammenarbeit zwischen der FMA sowie den Aufsichtsbehörden des Drittlandes, in dem der Nicht-EU-AIF seinen Sitz hat, sodass ein effizienter Informationsaustausch gewährleistet ist, der es der FMA ermöglicht, ihre in diesem Bundesgesetz festgelegten Aufgaben zu erfüllen.
+
+3\. Das Drittland, in dem der Nicht-EU-AIF seinen Sitz hat, ist kein Drittland mit hohem Risiko gemäß § 2 Z 16 FM-GwG.
+
+4\. Das Drittland, in dem der Nicht-EU-AIF seinen Sitz hat, hat mit Österreich eine Vereinbarung unterzeichnet, die den Standards gemäß Art. 26 des OECD-Musterabkommens zur Vermeidung der Doppelbesteuerung von Einkommen und Vermögen vollständig entspricht und einen wirksamen Informationsaustausch in Steuerangelegenheiten, gegebenenfalls einschließlich etwaiger multilateraler Abkommen über die Besteuerung, gewährleistet, und das entsprechende Drittland ist nicht in Anhang I der Schlussfolgerungen des Rates zur überarbeiteten EU–Liste nicht kooperativer Länder und Gebiete für Steuerzwecke aufgeführt.
+
+(2) Beabsichtigt ein EU-AIFM, Anteile eines Nicht-EU-AIF in Österreich zu vertreiben, so hat er der FMA für jeden Nicht-EU-AIF ein Anzeigeschreiben zu übermitteln. Dieses Anzeigeschreiben umfasst die Dokumentation und die Angaben gemäß Anlage 3 sowie eine Bestätigung eines Wirtschaftsprüfers oder sonstigen Sachverständigen, dass der Nicht-EU-AIF alle in diesem Bundesgesetz oder der Richtlinie 2011/61/EU sowie auf Basis dieser Richtlinie erlassenen delegierten Rechtsakten festgelegten Anforderungen mit Ausnahme derer im 6. Teil erfüllt. Weiters ist ein Nachweis über die Entrichtung der Gebühr gemäß Abs. 3 beizulegen.
+
+(3) Für die Bearbeitung der Anzeige gemäß Abs. 2 ist an die FMA eine Gebühr von 2 200 Euro zu entrichten. Diese Gebühr erhöht sich bei Nicht-EU-AIF, die mehrere Teilfonds enthalten (Umbrella-Fonds), ab dem zweiten Teilfonds für jeden Fonds um 440 Euro. Für die Prüfung der nach Abs. 6 vorgeschriebenen Unterlagen ist weiters zu Beginn eines jeden Kalenderjahres, spätestens bis zum 15. Jänner dieses Jahres, eine jährliche Gebühr von 1 200 Euro an die FMA zu entrichten; diese Gebühr erhöht sich bei Fonds, die mehrere Teilfonds enthalten (Umbrella-Fonds), ab dem zweiten Teilfonds für jeden Teilfonds um 400 Euro. Gebührenbeiträge, die nicht spätestens am Fälligkeitstag entrichtet wurden, sind vollstreckbar. Die FMA hat einen als Exekutionstitel geltenden Rückstandsausweis auszufertigen. Dieser hat Namen und Anschrift des Gebührenpflichtigen, den Betrag der Schuld und den Vermerk zu enthalten, dass die Schuld vollstreckbar geworden ist. Die nicht fristgerechte Entrichtung der Gebühr ist ein Vertriebsuntersagungsgrund gemäß Abs. 8.
+
+(4) Die FMA hat die Anzeige auf ihre formale Vollständigkeit zu prüfen, eine darüber hinausgehende inhaltliche Prüfung hat nicht zu erfolgen. Spätestens zwei Monate nach Eingang des vollständigen Anzeigeschreibens nach Abs. 2 hat die FMA dem EU-AIFM mitzuteilen, ob er im Inland mit dem Vertrieb des im Anzeigeschreiben nach Abs. 2 genannten Nicht-EU-AIF beginnen kann, wobei der Vertrieb mit dem Tag jener Mitteilung erfolgen darf. § 13 Abs. 3 letzter Satz AVG kommt hinsichtlich der Berechnung der Frist von zwei Monaten nicht zur Anwendung. Die FMA hat den Vertrieb des Nicht-EU-AIF zu untersagen, wenn die Verwaltung des Nicht-EU-AIF durch den EU-AIFM oder der EU-AIFM im Allgemeinen gegen dieses Bundesgesetz oder die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte verstößt. Die Aufnahme des Vertriebes ist weiters zu untersagen, wenn der EU-AIFM oder der Nicht-EU-AIF eine Voraussetzung dieser Bestimmung nicht erfüllt oder die Anzeige nach Abs. 2 nicht ordnungsgemäß erstattet wurde.
+
+(5) Das in Abs. 2 genannte Anzeigeschreiben des EU-AIFM sowie die Beilagen haben in deutscher Sprache oder englischer Sprache oder sonst entsprechend dem Sprachenregime gemäß Art. 27 der Verordnung (EU) 2017/1129 bereitgestellt zu werden. Die FMA als zuständige Behörde hat die elektronische Übermittlung und Archivierung der in Abs. 2 genannten Unterlagen zu akzeptieren.
+
+(6) Im Falle einer wesentlichen Änderung der nach Abs. 2 mitgeteilten Angaben hat der EU-AIFM diese der FMA bei von ihm geplanten Änderungen mindestens einen Monat vor Durchführung der Änderung, oder, bei ungeplanten Änderungen, unverzüglich nach Eintreten der ungeplanten Änderung schriftlich mitzuteilen. Sollte die geplante Änderung dazu führen, dass die Verwaltung des Nicht-EU-AIF durch den EU-AIFM oder der EU-AIFM im Allgemeinen nunmehr gegen dieses Bundesgesetz, gegen die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte verstößt, hat die FMA dem EU-AIFM unverzüglich, die Durchführung der Änderung zu untersagen. Wird eine geplante Änderung ungeachtet dieses Absatzes oder einer Untersagung durchgeführt oder führt eine durch einen ungeplanten Umstand ausgelöste Änderung dazu, dass die Verwaltung des Nicht-EU-AIF durch den EU-AIFM oder der EU-AIFM im Allgemeinen nunmehr gegen dieses Bundesgesetz, die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte verstoßen würde, so hat die FMA alle gebotenen Maßnahmen gemäß §§ 56 f zu ergreifen, einschließlich, falls erforderlich, der ausdrücklichen Untersagung des Vertriebs des Nicht-EU-AIF im Inland.
+
+(7) Der EU-AIFM hat die Absicht, den Vertrieb von Anteilen des Nicht-EU-AIF in Österreich einzustellen, der FMA unverzüglich anzuzeigen.
+
+(8) Die FMA hat den weiteren Vertrieb von Nicht-EU-AIF zu untersagen, wenn
+
+1\. die Anzeige nach Abs. 2 nicht erstattet worden ist,
+
+2\. eine Voraussetzung nach dieser Bestimmung weggefallen ist,
+
+3\. beim Vertrieb erheblich gegen gesetzliche Vorschriften verstoßen wurde,
+
+5\. ein durch rechtskräftiges Urteil oder gerichtlichen Vergleich gegenüber dem Nicht-EU-AIF oder EU-AIFM festgestellter Anspruch eines Anteilinhabers nicht erfüllt worden ist,
+
+6\. die in diesem Gesetz vorgesehenen Verpflichtungen nicht ordnungsgemäß erfüllt werden, oder
+
+7\. die Zulassung durch die zuständigen Stellen des Herkunftsstaates des Nicht-EU-AIF entzogen worden ist.
+
+(9) Hat die FMA die Aufnahme des Vertriebs oder den weiteren Vertrieb des Nicht-EU-AIF untersagt, darf der EU-AIFM die Absicht, Anteile dieses Nicht-EU-AIF im Geltungsbereich dieses Bundesgesetzes zu vertreiben, frühestens dann gemäß Abs. 2 wieder anzeigen, wenn seit dem Tag der Untersagung ein Jahr verstrichen ist.
+
+(10) Die FMA kann bei Umbrella-Konstruktionen auch den Vertrieb von Anteilen eines Nicht-EU-AIF, die im Geltungsbereich dieses Bundesgesetzes vertrieben werden dürfen, unter Beachtung des Abs. 8 untersagen, wenn weitere Anteile von Teilfonds derselben Umbrella-Konstruktion im Geltungsbereich dieses Bundesgesetzes vertrieben werden, die die Anzeige nach Abs. 2 nicht ordnungsgemäß erstattet haben.
+
+(11) Diese Bestimmung gilt gleichermaßen für EU-Feeder-AIF, die nicht die Anforderungen gemäß § 29 Abs. 1 zweiter Satz erfüllen.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 70/2014; Art. 1, BGBl. I Nr. 118/2016
+
+#### § 39
+
+\*(Anm.: § 39.)*
+
+4\. das Drittland, in dem der Nicht-EU-AIFM seinen Sitz hat, ist kein Drittland mit hohem Risiko gemäß § 2 Z 16 FM-GwG;
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 118/2016
+
+> **Beachte:** Die übrigen Bestimmungen des § 39 gelten gemäß dem von der Europäischen Kommission nach Artikel 67 Abs. 6 der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakte und erst ab dem darin bestimmten Zeitpunkt (vgl. § 74 Abs. 1).
+
+#### § 42
+
+\*(Anm.: § 42.)*
+
+2\. das Drittland, in dem der Nicht-EU-AIF seinen Sitz hat, ist kein Drittland mit hohem Risiko gemäß § 2 Z 16 FM-GwG;
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 118/2016
+
+> **Beachte:** Die übrigen Bestimmungen des § 42 gelten gemäß dem von der Europäischen Kommission nach Artikel 67 Abs. 6 der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakte und erst ab dem darin bestimmten Zeitpunkt (vgl. § 74 Abs. 1).
+
+#### § 47 – Bedingungen für den ohne Pass in Österreich erfolgenden Vertrieb von AIF, die von Nicht-EU-AIFM verwaltet werden
+
+§ 47. (1) Unbeschadet der §§ 39, 40 und 42 kann ein Nicht-EU-AIFM Anteile der von ihm verwalteten AIF an professionelle Anleger ausschließlich im Inland vertreiben, sofern der Nicht-EU-AIFM mit Ausnahme des 6. Teils alle in diesem Bundesgesetz, der Richtlinie 2011/61/EU sowie den auf Basis der Richtlinie erlassenen delegierten Rechtsakten festgelegten Anforderungen erfüllt.
+
+(2) Ein Nicht-EU-AIFM, der beabsichtigt, von ihm verwaltete AIF in Österreich zu vertreiben, muss über einen gesetzlichen Vertreter mit Sitz in Österreich verfügen. Der gesetzliche Vertreter vertritt den Nicht-EU-AIFM gerichtlich und außergerichtlich, ist Zustellungsbevollmächtigter und Kontaktstelle für den Nicht-EU-AIFM in Österreich. Sämtliche Korrespondenz zwischen der FMA und dem Nicht-EU-AIFM sowie zwischen den inländischen Anlegern des betreffenden AIF und dem Nicht-EU-AIFM gemäß diesem Bundesgesetz erfolgt über diesen gesetzlichen Vertreter. Der gesetzliche Vertreter hat gemeinsam mit dem Nicht-EU-AIFM die Compliance-Funktion in Bezug auf die von dem Nicht-EU-AIFM gemäß dieser Richtlinie ausgeführten Verwaltungs- und Vertriebstätigkeiten wahrzunehmen. Diese Befugnisse können nicht beschränkt werden.
+
+(3) Beabsichtigt ein Nicht-EU-AIFM, Anteile von AIF in Österreich zu vertreiben, so hat er der FMA für jeden AIF, den er zu vertreiben beabsichtigt, ein Anzeigeschreiben zu übermitteln. Dieses Anzeigeschreiben umfasst die Dokumentation und die Angaben gemäß Anlage 3, sowie eine Bestätigung der zuständigen Behörden des Herkunftsstaates des Nicht-EU-AIFM sowie des AIF, dass der AIF sowie der Nicht-EU-AIFM mit Ausnahme des 6. Teils alle in diesem Bundesgesetz, der Richtlinie 2011/61/EU und auf Basis der Richtlinie erlassenen delegierten Rechtsakten festgelegten Anforderungen erfüllen. Weiters sind der Anzeige beizufügen:
+
+1\. Die sinngemäßen Angaben gemäß § 5 Abs. 2 und 3;
+
+2\. Angaben zur Vertriebsstrategie;
+
+3\. der Name des gesetzlichen Vertreters des Nicht-EU-AIFM samt Angabe des Sitzes;
+
+4\. eine Bestätigung des gesetzlichen Vertreters des Nicht-EU-AIFM, dass er die ihn betreffenden Aufgaben zu erfüllen im Stande ist, den Nicht-EU-AIFM gerichtlich und außergerichtlich vertritt sowie als Kontaktstelle für die Anleger der betreffenden AIF fungiert und zumindest hinreichend ausgestattet ist, um die Compliance-Funktion gemäß diesem Bundesgesetz und der Richtlinie 2011/61/EU wahrnehmen zu können;
+
+5\. der Nachweis über die Entrichtung der Gebühr gemäß Abs. 6;
+
+6\. eine Erklärung des Nicht-EU-AIFM, dass er sich verpflichtet, für die gesamte Dauer des Vertriebs des AIF in Österreich die in diesem Bundesgesetz, der Richtlinie 2011/61/EU sowie den auf Basis der Richtlinie erlassenen delegierten Rechtsakten festgelegten Anforderungen einzuhalten.
+
+(4) Das in Abs. 3 genannte Anzeigeschreiben des Nicht-EU-AIFM sowie die Beilagen haben in deutscher Sprache oder englischer Sprache oder sonst entsprechend dem Sprachenregime gemäß Art. 27 der Verordnung (EU) 2017/1129 bereitgestellt zu werden. Die FMA als zuständige Behörde hat die elektronische Übermittlung und Archivierung der in Abs. 3 genannten Unterlagen zu akzeptieren.
+
+(5) Die FMA hat die Anzeige auf ihre formale Vollständigkeit zu prüfen, eine darüber hinausgehende inhaltliche Prüfung hat nicht zu erfolgen. Spätestens 4 Kalendermonate nach Eingang des vollständigen Anzeigeschreibens nach Abs. 3 hat die FMA dem Nicht-EU-AIFM mitzuteilen, ob er im Inland mit dem Vertrieb des im Anzeigeschreiben nach Abs. 3 genannten AIF beginnen kann. § 13 Abs. 3 AVG kommt hinsichtlich der Berechnung der Frist nicht zur Anwendung. Im Falle einer positiven Entscheidung kann der Nicht-EU-AIFM ab dem Datum der diesbezüglichen Mitteilung der FMA mit dem Vertrieb des AIF beginnen. Die Aufnahme des Vertriebes ist zu untersagen, wenn der Nicht-EU-AIFM oder der AIF eine Voraussetzung dieser Bestimmung nicht erfüllt oder die Anzeige nach Abs. 3 nicht ordnungsgemäß erstattet. Die FMA hat die Zulassung zum Vertrieb des AIF dann zu erteilen, wenn die folgenden zusätzlichen Bedingungen eingehalten sind:
+
+1\. es bestehen geeignete, insbesondere der Überwachung der Systemrisiken dienende und im Einklang mit den internationalen Standards stehende Vereinbarungen über die Zusammenarbeit zwischen der FMA, den zuständigen Behörden des Herkunftsmitgliedstaats des betreffenden AIF und den Aufsichtsbehörden des Drittlands, in dem der Nicht-EU-AIFM seinen Sitz hat, damit ein effizienter Informationsaustausch gewährleistet ist, der den zuständigen Behörden ermöglicht, ihre Aufgaben gemäß diesem Bundesgesetz und der Richtlinie 2011/61/EU wahrzunehmen;
+
+2\. das Drittland, in dem der Nicht-EU-AIFM seinen Sitz hat, ist kein Drittland mit hohem Risiko gemäß § 2 Z 16 FM-GwG;
+
+3\. das Drittland, in dem der Nicht-EU-AIFM oder Nicht-EU-AIF seinen Sitz hat, hat mit Österreich eine Vereinbarung unterzeichnet, die den Standards gemäß Art. 26 des OECD-Musterabkommens zur Vermeidung der Doppelbesteuerung von Einkommen und Vermögen vollständig entspricht und einen wirksamen Informationsaustausch in Steuerangelegenheiten, gegebenenfalls einschließlich multilateraler Abkommen über die Besteuerung, gewährleistet und das entsprechende Drittland ist nicht in Anhang I der Schlussfolgerungen des Rates zur überarbeiteten EU–Liste nicht kooperativer Länder und Gebiete für Steuerzwecke aufgeführt;
+
+4\. die auf Nicht-EU-AIFM anwendbaren Rechts- und Verwaltungsvorschriften eines Drittlands oder die Beschränkungen der Aufsichts- und Ermittlungsbefugnisse der Aufsichtsbehörden dieses Drittlands hindern die zuständigen Behörden nicht an der effektiven Wahrnehmung ihrer Aufsichtsfunktionen gemäß dieser Richtlinie.
+
+(6) Für die Bearbeitung der Anzeige gemäß Abs. 3 ist an die FMA eine Gebühr von 4 500 Euro zu entrichten. Diese Gebühr erhöht sich bei AIF, die mehrere Teilfonds enthalten (Umbrella-Fonds), ab dem zweiten Teilfonds für jeden Fonds um 1 000 Euro. Für die Prüfung der nach den Abs. 3 und 4 vorgeschriebenen Unterlagen ist weiters zu Beginn eines jeden Kalenderjahres, spätestens bis zum 15. Jänner dieses Jahres, eine jährliche Gebühr von 2 500 Euro an die FMA zu entrichten; diese Gebühr erhöht sich bei Fonds, die mehrere Teilfonds enthalten (Umbrella-Fonds), ab dem zweiten Teilfonds für jeden Teilfonds um 600 Euro. Gebührenbeiträge, die nicht spätestens am Fälligkeitstag entrichtet wurden, sind vollstreckbar. Die FMA hat einen als Exekutionstitel geltenden Rückstandsausweis auszufertigen. Dieser hat Namen und Anschrift des Gebührenpflichtigen, den Betrag der Schuld und den Vermerk zu enthalten, dass die Schuld vollstreckbar geworden ist. Die nicht fristgerechte Entrichtung der Gebühr ist ein Vertriebsuntersagungsgrund gemäß Abs. 9.
+
+(7) Im Falle einer wesentlichen Änderung der nach Abs. 3 mitgeteilten Angaben hat der Nicht-EU-AIFM diese der FMA bei von ihm geplanten Änderungen mindestens einen Monat vor Durchführung der Änderung, oder, bei ungeplanten Änderungen, unverzüglich nach Eintreten der ungeplanten Änderung schriftlich mitzuteilen. Sollte die geplante Änderung dazu führen, dass die Verwaltung des AIF durch den Nicht-EU-AIFM oder der Nicht-EU-AIFM im Allgemeinen nunmehr gegen dieses Bundesgesetz, die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte verstößt, hat die FMA dem Nicht-EU-AIFM unverzüglich mitzuteilen, dass er die Änderung nicht durchführen darf. Wird eine geplante Änderung ungeachtet dieses Abs. durchgeführt oder führt eine durch einen ungeplanten Umstand ausgelöste Änderung dazu, dass die Verwaltung des AIF durch den Nicht-EU-AIFM oder der Nicht-EU-AIFM im Allgemeinen nunmehr gegen dieses Bundesgesetz oder die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte verstoßen würde, so hat die FMA alle gebotenen Maßnahmen gemäß §§ 56 f. zu ergreifen, einschließlich, falls erforderlich, der ausdrücklichen Untersagung des Vertriebs des AIF.
+
+(8) Der Nicht-EU-AIFM hat die Absicht, den Vertrieb von Anteilen des AIF in Österreich einzustellen, der FMA unverzüglich anzuzeigen.
+
+(9) Die FMA hat den weiteren Vertrieb von AIF zu untersagen, wenn
+
+1\. die Anzeige nach Abs. 3 nicht erstattet worden ist oder der Nicht-EU-AIFM gegen die Verpflichtungen gemäß der Erklärung nach Abs. 3 Z 6 verstößt;
+
+2\. eine Voraussetzung nach dieser Bestimmung weggefallen ist;
+
+3\. beim Vertrieb erheblich gegen gesetzliche Vorschriften verstoßen worden ist;
+
+4\. ein durch rechtskräftiges Urteil oder gerichtlichen Vergleich gegenüber dem AIF oder Nicht-EU-AIFM festgestellter Anspruch eines Anteilinhabers nicht erfüllt worden ist;
+
+5\. die in diesem Gesetz vorgesehenen Verpflichtungen nicht ordnungsgemäß erfüllt werden; oder
+
+6\. die Zulassung durch die zuständigen Stellen des Herkunftsstaates des Nicht-EU-AIFM oder AIF entzogen worden ist.
+
+(10) Hat die FMA die Aufnahme des Vertriebs oder den weiteren Vertrieb des AIF untersagt, darf der Nicht-EU-AIFM die Absicht, Anteile dieses AIF im Geltungsbereich dieses Bundesgesetzes zu vertreiben, frühestens gemäß Abs. 3 wieder anzeigen, wenn seit dem Tag der Untersagung ein Jahr verstrichen ist.
+
+(11) Die FMA kann bei Umbrella-Konstruktionen auch den Vertrieb von Anteilen eines AIF, die im Geltungsbereich dieses Bundesgesetzes vertrieben werden dürfen, unter Beachtung des Abs. 9 untersagen, wenn weitere Anteile von Teilfonds derselben Umbrella-Konstruktion im Geltungsbereich dieses Bundesgesetzes vertrieben werden, die das Anzeigeverfahren nach Abs. 3 nicht ordnungsgemäß durchlaufen haben.
+
+(12) Die FMA kann durch Kundmachung im Internet, Abdruck im Amtsblatt zur Wiener Zeitung oder in einer Zeitung mit Verbreitungsgebiet im gesamten Bundesgebiet die Öffentlichkeit informieren, dass ein konkret benannter Nicht-EU-AIFM zum Vertrieb von konkret bezeichneten oder jeglichen von ihm verwalteten Nicht-EU-AIF im Bundesgebiet nicht berechtigt ist, sofern dieser Nicht-EU-AIFM dazu Anlass gegeben hat und eine Information der Öffentlichkeit erforderlich und im Hinblick auf mögliche Nachteile des Betroffenen verhältnismäßig ist. Diese Veröffentlichungsmaßnahmen können auch kumulativ getroffen werden. Der Nicht-EU-AIFM muss in der Veröffentlichung identifizierbar sein; zu diesem Zweck können, soweit der FMA bekannt, auch Geschäftsanschrift, Firmenbuchnummer, Internetadresse, Telefonnummer und Telefaxnummer angegeben werden. Unter denselben Voraussetzungen wie nach dem ersten Satz kann die FMA auch nur informieren, dass der Vertrieb eines konkret bezeichneten Nicht-EU-AIF im Bundesgebiet unzulässig ist, ohne den verwaltenden Nicht-EU-AIFM konkret zu benennen, wenn anderenfalls die erforderliche Information der Öffentlichkeit unverhältnismäßig hinausgezögert würde.
+
+(13) Der von einer Veröffentlichung gemäß Abs. 12 Betroffene kann eine Überprüfung der Rechtmäßigkeit der Veröffentlichung in einem bescheidmäßig zu erledigenden Verfahren bei der FMA beantragen. Die FMA hat diesfalls die Einleitung eines solchen Verfahrens in gleicher Weise wie die zu überprüfende Veröffentlichung bekannt zu machen. Wird im Rahmen der Überprüfung die Rechtswidrigkeit der Veröffentlichung festgestellt, so hat die FMA die Veröffentlichung richtigzustellen oder auf Antrag des Betroffenen entweder zu widerrufen oder aus dem Internetauftritt zu entfernen.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 70/2014; Art. 1, BGBl. I Nr. 118/2016
+
+## 8.Teil
+
+### Vertrieb an Privatkunden
+
+#### § 48 – Vertrieb von österreichischen AIF durch AIFM an Privatkunden und qualifizierte Privatkunden
+
+§ 48. (1) Ein AIFM kann in Österreich Anteile von folgenden gemäß § 29 bewilligten inländischen AIF an Privatkunden vertreiben:
+
+1\. Sofern er über eine Konzession gemäß § 1 Abs. 1 Z 13a BWG verfügt, Anteile an Immobilienfonds gemäß dem Immobilien-Investmentfondsgesetzes – ImmoInvFG (BGBl. I Nr. 80/2003),
+
+2\. sofern er über eine Konzession gemäß § 1 Abs. 1 Z 13 BWG in Verbindung mit § 6 Abs. 2 InvFG 2011 verfügt, AIF gemäß dem 3. Teil erstes Hauptstück des InvFG 2011,
+
+3\. sofern er über eine Konzession gemäß dem 2. Teil dieses Bundesgesetzes verfügt, AIF in Immobilien, die die Bedingungen der Abs. 5 und 6 erfüllen,
+
+4\. sofern er über eine Konzession gemäß dem 2. Teil dieses Bundesgesetzes verfügt, AIF, die die Bedingungen der Abs. 7 und 8 erfüllen (Managed Futures Funds),
+
+5\. sofern er über eine Konzession gemäß dem 2. Teil dieses Bundesgesetzes verfügt, AIF, die die Bedingungen der Abs. 8a und 8b erfüllen (Private-Equity-Dachfonds),
+
+6\. sofern er über eine Konzession gemäß dem 2. Teil dieses Bundesgesetzes verfügt, AIF, die die Bedingungen der Abs. 8c und 8d erfüllen (AIF in Unternehmensbeteiligungen),
+
+7\. sofern er über eine Konzession gemäß dem 2. Teil dieses Bundesgesetzes verfügt, AIF, die die Bedingungen der Abs. 8e und 8f erfüllen (Mittelstandsfinanzierungsgesellschaft),
+
+8\. sofern er über eine Konzession gemäß dem 2. Teil dieses Bundesgesetzes verfügt, AIF, die die Bedingungen des Abs. 8g erfüllen (Arbeitnehmerbeteiligungs-Fonds).
+
+(1a) Der Anleger bestätigt im Falle einer Investition gemäß Abs. 1 Z 4, 5, 6 oder 7 schriftlich, in einem vom Vertrag über die Investitionsverpflichtung getrennten Dokument, dass er sich der Risiken im Zusammenhang mit der beabsichtigten Investition bewusst ist und die AIF-Verwaltungsgesellschaft oder sofern der Vertrieb nicht direkt erfolgt, die den Vertrieb durchführende natürliche oder juristische Person seinen Sachverstand, Erfahrungen und Kenntnisse bewertet hat. Die AIF-Verwaltungsgesellschaft oder sofern der Vertrieb nicht direkt erfolgt, die den Vertrieb durchführende natürliche oder juristische Person muss hinreichend davon überzeugt sein, dass der Anleger in der Lage ist, seine Anlageentscheidungen selbst zu treffen und die mit der Investition einhergehenden Risiken zu verstehen und dass eine solche Verpflichtung für den Anleger angemessen ist.
+
+(2) Soweit die Anforderungen des ImmoInvFG für die Verwaltung und den Vertrieb von Immobilienfonds gemäß ImmoInvFG über dieses Bundesgesetz hinausgehen, sind jene Vorschriften maßgeblich.
+
+(3) Soweit die Anforderungen des InvFG 2011 für die Verwaltung und den Vertrieb von AIF über dieses Bundesgesetz hinausgehen, sind für die Verwaltung und den Vertrieb von AIF gemäß dem 3. Teil erstes Hauptstück des InvFG 2011 jene Vorschriften maßgeblich.
+
+(4) Soweit dieses Bundesgesetz über die Anforderungen des ImmoInvFG oder des InvFG 2011 für die Verwaltung und den Vertrieb von AIF an Privatkunden hinausgeht, sind für die Verwaltung und den Vertrieb von AIF oder Immobilienfonds die Vorschriften dieses Bundesgesetzes maßgeblich.
+
+(5) Die FMA hat einen AIF in Immobilien gemäß Abs. 1 Z 3 zum Vertrieb an Privatkunden zu bewilligen, wenn:
+
+1\. gemäß der Anlagestrategie mit dem investierten Kapital direkt oder indirekt überwiegend Erträge aus der Überlassung oder Übertragung von Immobilien an Dritte erwirtschaftet werden sollen, wobei es unerheblich ist, ob die Rechtsform eines Wertpapiers oder einer Veranlagung gemäß § 1 Abs. 1 Z 3 KMG 2019 vorliegt;
+
+2\. die Mindeststreuungsbestimmungen des Immobilienbesitzes gemäß § 22 Abs. 1 bis 4 ImmoInvFG eingehalten werden;
+
+3\. der gemäß § 17 ermittelte Nettoinventarwert des AIF mindestens zweimal im Monat veröffentlicht wird, es sei denn, der AIF ist zum Handel an einem geregelten Markt zugelassen;
+
+4\. für den AIF eine Hebelfinanzierung eingesetzt wird, bei der das Engagement (Exposure), berechnet nach der Commitment-Methode, den Nettoinventarwert des AIF nicht um mehr als das Zweifache übersteigt;
+
+5\. sämtliche Vertriebsunterlagen an drucktechnisch hervorgehobener Stelle einen Hinweis auf das besondere mit dieser Veranlagung verbundene Risiko (Risikohinweis) enthalten;
+
+6\. ein Halbjahresbericht spätestens 2 Monate nach Ablauf des Halbjahres erstellt wird;
+
+\*(Anm.: aufgehoben durch Art. 2 Z 25, BGBl. I Nr. 112/2022)*
+
+8\. sichergestellt ist, dass keine Vorzugsbehandlung einer Gruppe von Anlegern gemäß § 10 Abs. 1 Z 6 gegeben ist, welche die Interessen dieser Gruppe über die Interessen von Privatanlegern stellt;
+
+9\. sichergestellt ist, dass sich die Verwahrstelle bei Verlust von Finanzinstrumenten, die von einem Dritten gemäß § 19 Abs. 11 verwahrt werden, gegenüber dem AIF nicht von der Haftung befreien kann.
+
+(6) Dem Antrag auf Bewilligung sind beizufügen:
+
+1\. Im Falle, dass der AIF in Immobilien einen Prospekt gemäß KMG 2019 zu erstellen hat, der gemäß § 7 KMG 2019 oder gemäß Art. 20 der Verordnung (EU) 2017/1129 geprüfte bzw. gebilligte Prospekt. Die gemäß § 21 Abs. 3 erforderlichen ergänzenden Angaben gemäß § 21 Abs. 1 und 2 sind gesondert vorzulegen, wobei im Prospekt die bereits enthaltenen Angaben gemäß § 21 deutlich gekennzeichnet sein müssen. Die gemäß § 7 KMG 2019 oder gemäß Art. 20 der Verordnung (EU) 2017/1129 vorgesehene Prospektprüfung bzw. -billigung erstreckt sich nicht auf diese ergänzenden Angaben;
+
+2\. im Falle, dass der AIF in Immobilien keinen Prospekt gemäß KMG 2019 zu erstellen hat, die Informationen gemäß § 21;
+
+3\. der letzte Jahresbericht gemäß § 20;
+
+4\. im Falle, dass es sich bei dem AIF in Immobilien um eine Veranlagungsgemeinschaft in Immobilien gemäß § 9 KMG 2019 handelt, der letzte Rechenschaftsbericht gemäß § 9 Z 4 KMG 2019;
+
+5\. eine Bestätigung des AIFM, dass die Bedingungen des Abs. 5 eingehalten werden.
+
+(7) Die FMA hat einen AIF (Managed-Futures-Fonds) zum Vertrieb an Privatkunden zu bewilligen, wenn
+
+1\. das Fondsvermögen so veranlagt wird, dass eine ausreichende Diversifikation und eine angemessene Risikostreuung gewährleistet werden. Neben dem Erwerb von börsengehandelten Terminkontrakten in Form von Futures darf das Fondsvermögen ausschließlich veranlagt werden in
+
+a) außerbörslichen Zins- und Währungstermingeschäften, sofern diese nicht zur Absicherung des Fondsvermögens abgeschlossen werden, in einem Ausmaß, sodass die Einschuss- und Nachschusszahlungen im Zusammenhang mit solchen außerbörslichen Zins- und Währungstermingeschäften 30 vH des Fondsvermögens nicht überschreiten dürfen;
+
+b) Geldmarktinstrumente gemäß § 70 InvFG 2011;
+
+c) unter Einhaltung der §§ 71 und 77 Abs. 1 InvFG 2011, Anteile an OGAW, welche gemäß § 50 InvFG 2011 oder gemäß Art. 5 der Richtlinie 2009/65/EG in ihrem Heimatstaat bewilligt wurden, in einem Ausmaß, welches 50 vH des Fondsvermögens nicht überschreiten darf;
+
+2\. keine anderen Warenkontrakte als Terminkontrakte auf Rohstoffe abgeschlossen werden dürfen und keine offene Position auf
+
+a) einen einzigen Terminkontrakt gehalten wird, für den die Einschuss- oder Nachschusszahlung 5 vH des Fondsvermögens übersteigt sowie
+
+b) Terminkontrakte auf ein und denselben Rohstoff oder auf ein und dieselbe Kategorie von Terminkontrakten auf Finanzinstrumente gehalten wird, für welche die Einschuss- oder Nachschusszahlung 20 vH des Fondsvermögens übersteigt;
+
+3\. bei Geschäften mit Warenderivaten die physische Lieferung der zugrundeliegenden Ware ausgeschlossen ist;
+
+4\. Einschuss- und Nachschusszahlungen im Zusammenhang mit börsengehandelten Terminkontrakten insgesamt 50 vH des Fondsvermögens nicht überschreiten; die Reserve liquider Vermögenswerte muss mindestens dem Betrag der insgesamt vorgenommenen Einschuss- und Nachschusszahlungen entsprechen und aus Geldmarktinstrumenten gemäß § 70 InvFG 2011 bestehen;
+
+5\. Einschuss- oder Nachschusszahlungen nicht durch Kredit- oder Darlehensaufnahmen finanziert werden;
+
+6\. der gemäß § 17 ermittelte Nettoinventarwert des Managed-Futures-Fonds jedes Mal dann veröffentlicht wird, wenn eine Ausgabe oder eine Rücknahme der Anteile des Managed-Futures-Fonds stattfindet, mindestens aber zweimal im Monat;
+
+7\. für den Managed-Futures-Fonds eine Hebelfinanzierung eingesetzt wird, bei der das maximale Risiko für den Managed-Futures-Fonds, berechnet unter Anwendung des § 87 InvFG 2011 mit dem absoluten Value-at-Risk-Ansatz, nicht höher als 35 vH des Nettoinventarwerts des Managed-Futures-Fonds ist. Bei der Berechnung des absoluten Value-at-Risk-Ansatzes sind folgende Parameter heranzuziehen:
+
+a) Konfidenzintervall von 99 vH;
+
+b) Haltedauer von einem Monat (20 Geschäftstage);
+
+c) effektiver Beobachtungszeitraum der Risikofaktoren von mindestens einem Jahr (250 Geschäftstage), außer wenn eine kürzere Beobachtungsperiode durch eine bedeutende Steigerung der Preisvolatilität durch extreme Marktbedingungen begründet ist;
+
+d) vierteljährliche Datenaktualisierung, oder häufiger, wenn die Marktpreise wesentlichen Veränderungen unterliegen;
+
+e) Berechnungen mindestens auf täglicher Basis;
+
+8\. ein von Z 7 lit. a abweichendes Konfidenzintervall und eine von Z 7 lit. b abweichende Haltedauer vom Managed-Futures-Fonds nur herangezogen werden kann, wenn das Konfidenzintervall 95 vH nicht unterschreitet und die Haltedauer einen Monat (20 Geschäftstage) nicht überschreitet; bei Anwendung dieser Berechnungsparameter ist eine Umrechnung der 35 vH-Grenze zur jeweiligen Haltedauer und zum jeweiligen Konfidenzintervall vorzunehmen; diese Umrechnung darf jedoch nur unter der Annahme einer Normalverteilung mit einer identen und unabhängigen Verteilung der Risikofaktoren sowie der Bezugnahme auf die Quantile der Normalverteilung und der mathematischen Wurzel-Zeit-Formel („Square root of time“-Regel) angewendet werden;
+
+9\. sämtliche Vertriebsunterlagen an drucktechnisch hervorgehobener Stelle einen Hinweis auf das besondere mit dieser Veranlagung verbundene Risiko (Risikohinweis) enthalten;
+
+10\. ein Halbjahresbericht spätestens 2 Monate nach Ablauf des Halbjahres erstellt wird;
+
+\*(Anm.: aufgehoben durch Art. 2 Z 26, BGBl. I Nr. 112/2022)*
+
+12\. sichergestellt ist, dass keine Vorzugsbehandlung einer Gruppe von Anlegern gemäß § 10 Abs. 1 Z 6 gegeben ist, welche die Interessen dieser Gruppe über die Interessen von Privatanlegern stellt;
+
+13\. sichergestellt ist, dass sich die Verwahrstelle bei Verlust von Finanzinstrumenten, die von einem Dritten gemäß § 19 Abs. 11 verwahrt werden, gegenüber dem AIF nicht von der Haftung befreien kann.
+
+(8) Dem Antrag auf Bewilligung eines Managed-Futures-Fonds gemäß Abs. 7 sind beizufügen:
+
+1\. Im Falle, dass der Managed-Futures-Fonds einen Prospekt gemäß KMG 2019 zu erstellen hat, der gemäß § 7 KMG 2019 oder gemäß Art. 20 der Verordnung (EU) 2017/1129 geprüfte bzw. gebilligte Prospekt. Die gemäß § 21 Abs. 3 erforderlichen ergänzenden Angaben gemäß § 21 Abs. 1 und 2 sind gesondert vorzulegen, wobei im Prospekt die bereits enthaltenen Angaben gemäß § 21 deutlich gekennzeichnet sein müssen. Die gemäß § 7 KMG 2019 oder gemäß Art. 20 der Verordnung (EU) 2017/1129 vorgesehene Prospektprüfung und -billigung erstreckt sich nicht auf diese ergänzenden Angaben;
+
+2\. im Falle, dass der Managed-Futures-Fonds keinen Prospekt gemäß KMG 2019 zu erstellen hat, die Informationen gemäß § 21;
+
+3\. der letzte Jahresbericht gemäß § 20;
+
+4\. eine Bestätigung des AIFM, dass die Bedingungen des Abs. 7 eingehalten werden.
+
+(8a) Die FMA hat einen AIF (Private-Equity-Dachfonds) zum Vertrieb an Privatkunden zu bewilligen, wenn
+
+1\. gemäß der Anlagestrategie der Private-Equity-Dachfonds überwiegend in andere AIF investiert, welche wiederum gemäß ihrer Anlagestrategie in Unternehmen investieren, die nicht an einem geregelten Markt gemäß § 1 Z 2 Börsegesetz 2018, BGBl. I Nr. 107/2017 (BörseG 2018) notieren. Die Veranlagung in einen einzelnen AIF darf 20 vH des Fondsvermögens des Private-Equity-Dachfonds nicht überschreiten. Zusätzlich zu dieser überwiegenden Veranlagung darf der Private-Equity-Dachfonds nur Geldmarktinstrumente gemäß § 70 InvFG 2011 erwerben. Kann der AIF, in welchen investiert wird, gemäß seiner Satzung oder seiner Veranlagungsbestimmungen neben der überwiegenden Veranlagung in Unternehmen, die nicht an einem geregelten Markt gemäß § 1 Z 2 BörseG 2018 notieren, und in Geldmarktinstrumente auch andere Veranlagungen tätigen, so ist eine Veranlagung des Private-Equity-Dachfonds in einen solchen AIF auf jeweils 5 vH seines Fondsvermögens begrenzt. Insgesamt dürfen maximal 20 vH des Fondsvermögens eines Private-Equity-Dachfonds in solche AIF investiert werden;
+
+2\. der gemäß § 17 ermittelte Nettoinventarwert des Private-Equity-Dachfonds jedesmal dann veröffentlicht wird, wenn eine Ausgabe oder eine Rücknahme der Anteile des Private-Equity-Dachfonds stattfinde, mindestens aber einmal im Quartal, es sei denn, der Private-Equity-Dachfonds ist zum Handel an einem geregelten Markt zugelassen;
+
+3\. für den Private-Equity-Dachfonds keine Hebelfinanzierung eingesetzt wird. Es darf ebenso in keine AIF investiert werden, welche Hebelfinanzierung einsetzen. Wenn die Satzung oder die Veranlagungsbestimmungen eines AIF, in welchen investiert wird, dies vorsehen, sind kurzfristige Kredite bis zur Höhe von 20 vH des Fondsvermögens des AIF auf dessen Rechnung zulässig;
+
+4\. sämtliche Vertriebsunterlagen an drucktechnisch hervorgehobener Stelle einen Hinweis auf das besondere mit dieser Veranlagung verbundene Risiko (Risikohinweis) und die eingeschränkte Liquidität enthalten;
+
+5\. ein Halbjahresbericht spätestens zwei Monate nach Ablauf des Halbjahres erstellt wird;
+
+\*(Anm.: aufgehoben durch durch Art. 2 Z 27, BGBl. I Nr. 112/2022)*
+
+7\. der Privatkunde korrekte Informationenvorlegt, dass er über unbelastete Bankguthaben und Finanzinstrumente gemäß § 1 Z 7 WAG 2018 im Wert von mehr als 100 000 Euro verfügt;
+
+8\. der Privatkunde höchstens 10 vH der Summe aus seinen zur Verfügung stehenden Bankguthaben und Finanzinstrumenten gemäß § 1 Z 7 WAG 2018, mindestens aber 10 000 Euro in einen Private-Equity-Dachfonds veranlagt;
+
+9\. sichergestellt ist, dass keine Vorzugsbehandlung einer Gruppe von Anlegern gemäß § 10 Abs. 1 Z 6 gegeben ist, welche die Interessen dieser Gruppe über die Interessen von Privatanlegern stellt;
+
+10\. sichergestellt ist, dass sich die Verwahrstelle bei Verlust von Finanzinstrumenten, die von einem Dritten gemäß § 19 Abs. 11 verwahrt werden, gegenüber dem AIF nicht von der Haftung befreien kann.
+
+(8b) Dem Antrag auf Bewilligung eines Private-Equity-Dachfonds gemäß Abs. 8a sind beizufügen:
+
+1\. Im Falle, dass der Private-Equity-Dachfonds einen Prospekt gemäß KMG 2019 zu erstellen hat, der gemäß § 7 KMG 2019 oder gemäß Art. 20 der Verordnung (EU) 2017/1129 geprüfte bzw. gebilligte Prospekt. Die gemäß § 21 Abs. 3 erforderlichen ergänzenden Angaben gemäß § 21 Abs. 1 und 2 sind gesondert vorzulegen, wobei im Prospekt die bereits enthaltenen Angaben gemäß § 21 deutlich gekennzeichnet sein müssen. Die gemäß § 7 KMG 2019 oder gemäß Art. 20 der Verordnung (EU) 2017/1129 vorgesehene Prospektprüfung und -billigung erstreckt sich nicht auf diese ergänzenden Angaben;
+
+2\. im Falle, dass der Private-Equity-Dachfonds keinen Prospekt gemäß KMG 2019 zu erstellen hat, die Informationen gemäß § 21;
+
+3\. der letzte Jahresbericht gemäß § 20;
+
+4\. eine Bestätigung des AIFM, dass die Bedingungen des Abs. 8a eingehalten werden.
+
+(8c) Die FMA hat einen AIF in Unternehmensbeteiligungen zum Vertrieb an Privatkunden zu bewilligen, wenn
+
+1\. das Fondsvermögen so veranlagt wird, dass eine ausreichende Diversifikation und eine angemessene Risikostreuung gewährleistet werden. Neben dem Erwerb von Beteiligungen an nicht börsenotierten Unternehmen, großteils KMU, darf das Fondsvermögen ausschließlich in Bankguthaben und Geldmarktinstrumente gemäß § 70 InvFG 2011 veranlagt werden;
+
+2\. Beteiligungen an mindestens fünf Unternehmen eingegangen werden, die zum Zeitpunkt des Eingehens der Beteiligung nicht miteinander verbunden sind;
+
+3\. die Beteiligung an einem Unternehmen zum Zeitpunkt des Eingehens der Beteiligung nicht mehr als 50 vH des Fondsvermögens beträgt;
+
+4\. Beteiligungen an Unternehmen und Geldmarktinstrumente gemäß § 70 InvFG 2011, die einem Währungsrisiko unterliegen, 30 vH des Fondsvermögens nicht übersteigen;
+
+5\. für den AIF in Unternehmensbeteiligungen keine Hebelfinanzierung eingesetzt wird, keine Leerverkäufe stattfinden und eine Kreditaufnahme nicht zulässig ist;
+
+6\. Derivate nur zur Absicherung von im AIF in Unternehmensbeteiligungen gehaltenen Vermögensgegenständen gehalten werden dürfen;
+
+7\. der gemäß § 17 ermittelte Nettoinventarwert des AIF in Unternehmensbeteiligungen jedes Mal dann veröffentlicht wird, wenn eine Ausgabe oder eine Rücknahme der Anteile des AIF in Unternehmensbeteiligungen stattfindet, mindestens aber einmal im Quartal;
+
+8\. sämtliche Vertriebsunterlagen an drucktechnisch hervorgehobener Stelle einen Hinweis auf das besondere mit dieser Veranlagung verbundene Risiko (Risikohinweis) und die eingeschränkte Liquidität enthalten;
+
+9\. ein Halbjahresbericht spätestens zwei Monate nach Ablauf des Halbjahres erstellt wird;
+
+\*(Anm.: aufgehoben durch durch Art. 2 Z 28, BGBl. I Nr. 112/2022)*
+
+11\. der Privatkunde korrekte Informationen vorlegt, dass er über unbelastete Bankguthaben und Finanzinstrumente gemäß § 1 Z 7 WAG 2018 im Wert von mehr als 100 000 Euro verfügt;
+
+12\. der Privatkunde höchstens 10 vH der Summe aus seinen zur Verfügung stehenden Bankguthaben und Finanzinstrumenten gemäß § 1 Z 7 WAG 2018, mindestens aber 10 000 Euro in einen AIF in Unternehmensbeteiligungen veranlagt;
+
+13\. sichergestellt ist, dass keine Vorzugsbehandlung einer Gruppe von Anlegern gemäß § 10 Abs. 1 Z 6 gegeben ist, welche die Interessen dieser Gruppe über die Interessen von Privatanlegern stellt;
+
+14\. sichergestellt ist, dass sich die Verwahrstelle bei Verlust von Finanzinstrumenten, die von einem Dritten gemäß § 19 Abs. 11 verwahrt werden, gegenüber dem AIF nicht von der Haftung befreien kann.
+
+(8d) Dem Antrag auf Bewilligung eines AIF in Unternehmensbeteiligungen gemäß Abs. 8c sind beizufügen:
+
+1\. Im Falle, dass der AIF in Unternehmensbeteiligungen einen Prospekt gemäß KMG 2019 zu erstellen hat, der gemäß § 7 KMG 2019 oder gemäß Art. 20 der Verordnung (EU) 2017/1129 geprüfte bzw. gebilligte Prospekt. Die gemäß § 21 Abs. 3 erforderlichen ergänzenden Angaben gemäß § 21 Abs. 1 und 2 sind gesondert vorzulegen, wobei im Prospekt die bereits enthaltenen Angaben gemäß § 21 deutlich gekennzeichnet sein müssen. Die gemäß § 7 KMG 2019 oder gemäß Art. 20 der Verordnung (EU) 2017/1129 vorgesehene Prospektprüfung und -billigung erstreckt sich nicht auf diese ergänzenden Angaben;
+
+2\. im Falle, dass der AIF in Unternehmensbeteiligungen keinen Prospekt gemäß KMG 2019 zu erstellen hat, die Informationen gemäß § 21;
+
+3\. der letzte Jahresbericht gemäß § 20;
+
+4\. eine Bestätigung des AIFM, dass die Bedingungen des Abs. 8c eingehalten werden.
+
+(8e) Die FMA hat einen AIF im Sinne des § 6b des Körperschaftsteuergesetzes 1988 – KStG 1988, BGBl. Nr. 401/1988 (Mittelstandsfinanzierungsgesellschaft) zum Vertrieb an Privatkunden zu bewilligen, wenn
+
+1\. die Voraussetzungen des § 6b Abs. 1 KStG 1988 erfüllt sind und die Bestimmungen des § 6b Abs. 2 KStG 1988 eingehalten werden,
+
+2\. der gemäß § 17 ermittelte Nettoinventarwert des AIF im Sinne des § 6b KStG 1988 jedes Mal dann veröffentlicht wird, wenn eine Ausgabe oder eine Rücknahme der Anteile des AIF im Sinne des § 6b KStG 1988 stattfindet, mindestens aber einmal im Quartal;
+
+3\. sämtliche Vertriebsunterlagen an drucktechnisch hervorgehobener Stelle einen Hinweis auf das besondere mit dieser Veranlagung verbundene Risiko (Risikohinweis) und die eingeschränkte Liquidität enthalten;
+
+4\. ein Halbjahresbericht spätestens zwei Monate nach Ablauf des Halbjahres erstellt wird;
+
+\*(Anm.: aufgehoben durch durch Art. 2 Z 29, BGBl. I Nr. 112/2022)*
+
+6\. der Privatkunde korrekte Informationen vorlegt, dass er über unbelastete Bankguthaben und Finanzinstrumente gemäß § 1 Z 7 WAG 2018 im Wert von mehr als 100 000 Euro verfügt;
+
+7\. der Privatkunde höchstens 10 vH der Summe aus seinen zur Verfügung stehenden Bankguthaben und Finanzinstrumenten gemäß § 1 Z 7 WAG 2018, mindestens aber 10 000 Euro in einen AIF im Sinne des § 6b KStG 1988 veranlagt;
+
+8\. sichergestellt ist, dass keine Vorzugsbehandlung einer Gruppe von Anlegern gemäß § 10 Abs. 1 Z 6 gegeben ist, welche die Interessen dieser Gruppe über die Interessen von Privatanlegern stellt;
+
+9\. sichergestellt ist, dass sich die Verwahrstelle bei Verlust von Finanzinstrumenten, die von einem Dritten gemäß § 19 Abs. 11 verwahrt werden, gegenüber dem AIF nicht von der Haftung befreien kann.
+
+(8f) Dem Antrag auf Bewilligung eines AIF im Sinne des § 6b KStG 1988 gemäß Abs. 8e sind beizufügen:
+
+1\. Im Falle, dass der AIF im Sinne des § 6b KStG 1988 einen Prospekt gemäß KMG 2019 zu erstellen hat, der gemäß § 7 KMG 2019 oder gemäß Art. 20 der Verordnung (EU) 2017/1129 geprüfte bzw. gebilligte Prospekt. Die gemäß § 21 Abs. 3 erforderlichen ergänzenden Angaben gemäß § 21 Abs. 1 und 2 sind gesondert vorzulegen, wobei im Prospekt die bereits enthaltenen Angaben gemäß § 21 deutlich gekennzeichnet sein müssen. Die gemäß § 7 KMG 2019 oder gemäß Art. 20 der Verordnung (EU) 2017/1129 vorgesehene Prospektprüfung und -billigung erstreckt sich nicht auf diese ergänzenden Angaben;
+
+2\. im Falle, dass der AIF im Sinne des § 6b KStG 1988 keinen Prospekt gemäß KMG 2019 zu erstellen hat, die Informationen gemäß § 21;
+
+3\. der letzte Jahresbericht gemäß § 20;
+
+4\. die zuletzt ausgestellte Bescheinigung des Finanzamts Wien 1/23 gemäß § 6b Abs. 5 KStG 1988;
+
+5\. eine Bestätigung des AIFM, dass die Bedingungen des Abs. 8e eingehalten werden.
+
+(8g) Die FMA hat einen Arbeitnehmerbeteiligungs-Fonds zum Vertrieb an Privatkunden zu bewilligen, welcher
+
+1\. überwiegend in Anteile eines bestimmten Unternehmens investiert und
+
+2\. im Privatkundenvertrieb ausschließlich im Rahmen eines Arbeitnehmerbeteiligungssystems oder Arbeitnehmersparplans an Beschäftigte des Unternehmens, in dessen Anteile der AIF überwiegend investiert, oder der mit ihm verbundenen Unternehmen vertrieben wird.
+
+(8h) Dem Antrag auf Bewilligung eines Arbeitnehmerbeteiligungs-Fonds zum Vertrieb an Privatkunden sind beizufügen:
+
+1\. im Falle, dass der Arbeitnehmerbeteiligungs-Fonds keinen Prospekt gemäß KMG 2019 zu erstellen hat, die Informationen gemäß § 21;
+
+2\. der letzte Jahresbericht gemäß § 20;
+
+3\. eine Bestätigung des AIFM, dass die Bedingungen des Abs. 8g eingehalten werden.
+
+(9) Sind Angaben und Unterlagen gegenüber der gemäß § 29 erstatteten Bewilligung unverändert, kann unter Verweis auf jene eine erneute Übermittlung unterbleiben.
+
+(10) Beginn und Ende des Vertriebs sind der FMA unverzüglich anzuzeigen. Weiters hat der AIFM der FMA das vorübergehende Unterbleiben der Rücknahme der Anteilscheine, wobei außergewöhnliche Umstände vorliegen müssen, und die Wiederaufnahme der Rücknahme der Anteilscheine unverzüglich anzuzeigen sowie die Anleger durch öffentliche Bekanntmachung über das Unterbleiben der Rücknahme der Anteilscheine und die Wiederaufnahme von deren Rücknahme zu unterrichten.
+
+(11) Die FMA kann mittels Verordnung die Ausgestaltung der Risikohinweise gemäß Abs. 5 Z 5, Abs. 7 Z 9, Abs. 8a Z 4 und Abs. 8c Z 8 festlegen sowie weitere Hinweise vorschreiben.
+
+(12) Ein AIFM kann in Österreich Anteile von AIF an qualifizierte Privatkunden vertreiben, wenn für den AIF
+
+1\. keine Hebelfinanzierung oder
+
+2\. eine Hebelfinanzierung, die den Nettoinventarwert des AIF nicht um mehr als 30 vH übersteigt,
+
+eingesetzt wird. § 52 findet keine Anwendung.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 70/2014; Art. 1, BGBl. I Nr. 107/2017
+
+#### § 48a – Einrichtungen für den Vertrieb an Privatkunden
+
+§ 48a. (1) Der AIFM hat in jedem Mitgliedstaat, in dem er Anteile an einem AIF an Privatkunden zu vertreiben beabsichtigt, Einrichtungen zur Wahrnehmung folgender Aufgaben bereitzustellen:
+
+1\. Verarbeitung der Zeichnungs-, Rückkauf- und Rücknahmeaufträge und Leistung weiterer Zahlungen an die Anteilseigner für Anteile des AIF nach Maßgabe der in den Unterlagen des AIF festgelegten Voraussetzungen;
+
+2\. Information der Anleger darüber, wie die unter Z 1 genannten Leistungen erbracht und Aufträge erteilt werden können und wie Rückkaufs- und Rücknahmeerlöse ausgezahlt werden;
+
+3\. Erleichterung der Handhabung von Informationen über die Wahrnehmung von Anlegerrechten aus Anlagen in AIF in dem Mitgliedstaat, in dem der AIF vertrieben wird;
+
+4\. Versorgung der Anleger mit den Angaben und Unterlagen gemäß den §§ 20 und 21 zur Ansicht und zur Anfertigung von Kopien;
+
+5\. Versorgung der Anleger mit relevanten Informationen in Bezug auf die Aufgaben, die die Einrichtungen erfüllen, auf einem dauerhaften Datenträger im Sinne des § 3 Abs. 1 Z 12 InvFG 2011;
+
+6\. Fungieren als Kontaktstelle für die Kommunikation mit den zuständigen Behörden.
+
+(2) Der AIFM hat sicherzustellen, dass die Einrichtungen auch zur elektronischen Erfüllung der in Abs. 1 genannten Aufgaben bereitgestellt werden, und zwar:
+
+1\. In der Amtssprache oder einer der Amtssprachen des Mitgliedstaats, in dem der AIF vertrieben wird, oder in einer Sprache, die von den zuständigen Behörden dieses Mitgliedstaats gebilligt wurde;
+
+2\. von dem AIFM selbst, von einem Dritten, der den für die wahrzunehmenden Aufgaben geltenden Regelungen und der für die wahrzunehmenden Aufgaben geltenden Aufsicht unterliegt, oder von beiden.
+
+Für die Zwecke der Z 2 hat – sofern die Aufgaben durch einen Dritten erfüllt werden sollen – die Benennung dieses Dritten in einem schriftlichen Vertrag vereinbart zu werden, in dem festzulegen ist, welche der in Abs. 1 genannten Aufgaben nicht von dem AIFM erfüllt werden sollen und dass der Dritte von dem AIFM alle relevanten Informationen und Unterlagen zu erhalten hat.
+
+#### § 49 – Vertrieb von EU-AIF aus anderen Mitgliedstaaten und Nicht-EU-AIF durch österreichische AIFM oder von AIF durch EU-AIFM mit Sitz in einem anderen Mitgliedstaat oder durch Nicht-EU-AIFM an Privatkunden und qualifizierte Privatkunden
+
+§ 49. (1) Inländische AIFM können EU-AIF aus anderen Mitgliedstaaten sowie gemäß der Richtlinie 2011/61/EU verwaltete Nicht-EU-AIF, EU-AIFM mit Sitz in einem anderen Mitgliedstaat sowie Nicht-EU-AIFM können von ihnen gemäß der Richtlinie 2011/61/EU verwaltete EU-AIF und Nicht-EU-AIF in Österreich an Privatkunden vertreiben, wenn:
+
+1\. der AIF in seinem Herkunftsstaat zum Vertrieb an Privatkunden zugelassen ist und
+
+2\. der AIF gemäß §§ 29, 31, 35, 38, 40, 42 oder 47 in Österreich zum Vertrieb an professionelle Anleger zugelassen ist und
+
+3\. der AIF materiell einem gemäß § 48 Abs. 1 in Österreich für den Vertrieb an Privatkunden zulässigen Fondstypen gleichwertig ist, und zwar
+
+a) Anteilen an Immobilienfonds gemäß Immobilien-Investmentfondsgesetz,
+
+b) AIF gemäß dem 3. Teil erstes Hauptstück InvFG 2011,
+
+c) AIF in Immobilien gemäß § 48 Abs. 1 Z 3,
+
+d) AIF gemäß § 48 Abs. 7, 8a, 8c und 8e oder
+
+e) der AIF ein AIF ist, der materiell einem OGAW der Richtlinie 2009/65/EU gleichwertig ist, jedoch von einem Nicht-EU-AIFM verwaltet wird.
+
+(1a) Inländische AIFM oder EU-AIFM mit Sitz in einem anderen Mitgliedstaat, welche einen EU–AIF verwalten, der überwiegend in Anteile eines bestimmten Unternehmens investiert, können einen solchen EU–AIF aus einem anderen Mitgliedstaat in Österreich an die Beschäftigten dieses Unternehmens oder der mit ihm verbundenen Unternehmen im Rahmen von Arbeitnehmerbeteiligungssystemen oder Arbeitnehmersparplänen vertreiben, wenn der EU–AIF die Anforderungen, die im Herkunftsmitgliedstaat des EU–AIF gelten, erfüllt.
+
+(2) Beabsichtigt ein AIFM, Anteile solcher AIF in Österreich an Privatkunden zu vertreiben, so hat er der FMA für jeden AIF, den er zu vertreiben beabsichtigt, ein Anzeigeschreiben zu übermitteln. Sind Angaben und Unterlagen gegenüber der gemäß §§ 31, 38 oder 47 erstatteten Anzeige unverändert, kann unter Verweis auf jene Anzeige eine erneute Übermittlung unterbleiben.
+
+(3) Der Anzeige sind beizufügen:
+
+1\. die Dokumentation und die Angaben gemäß Anlage 3;
+
+2\. eine Bestätigung der zuständigen Behörde des Herkunftsstaates des Nicht-EU-AIFM oder Nicht-EU-AIF, dass dieser alle in der Richtlinie 2011/61/EU, mit Ausnahme derer im 6. Kapitel, sowie auf Basis dieser Richtlinie erlassenen delegierten Rechtsakten festgelegten Anforderungen erfüllt, sowie, im Falle des Abs. 1 Z 3 lit. e, dass der AIF materiell einem OGAW gemäß der Richtlinie 2009/65/EU gleichwertig ist;
+
+3\. eine Bestätigung der zuständigen Behörde des Herkunftsstaates des AIF, dass der AIF im Herkunftsstaat zum Vertrieb für Privatkunden zugelassen ist;
+
+4\. ein Halbjahresbericht, der spätestens 2 Monate nach Ablauf des Halbjahres zu erstellen ist;
+
+\*(Anm.: aufgehoben durch durch Art. 2 Z 30, BGBl. I Nr. 112/2022)*
+
+6\. der Nachweis über die Entrichtung der Gebühr gemäß Abs. 6.
+
+(4) In eine Anlage zum Basisinformationsblatt gemäß der Verordnung (EU) Nr. 1286/2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsprodukte, ABl. Nr. L 352 vom 9.12.2014 S 1, beziehungsweise in den Vereinfachten Prospekt gemäß Abs. 3 Z 5 sowie in jede Werbeunterlage des AIF oder des AIFM ist, so es sich nicht um einen in Österreich konzessionierten AIFM handelt, ein drucktechnisch hervorgehobener Warnhinweis aufzunehmen, dass weder der AIF noch der AIFM einer Aufsicht durch eine österreichische Behörde unterliegen, weder ein etwaiger Prospekt noch KID oder Vereinfachter Prospekt von einer österreichischen Behörde geprüft wurden und keine österreichische Behörde die Haftung für Richtigkeit oder Vollständigkeit dieser Unterlagen trägt.
+
+(5) Die FMA kann mittels Verordnung die Ausgestaltung der Warnhinweise gemäß Abs. 4 festlegen sowie weitere Hinweise vorschreiben.
+
+(6) Für die Bearbeitung der Anzeige gemäß Abs. 3 ist an die FMA eine Gebühr von 2 200 Euro zu entrichten. Diese Gebühr erhöht sich bei AIF, die mehrere Teilfonds enthalten (Umbrella-Fonds), ab dem zweiten Teilfonds für jeden Fonds um 440 Euro. Für die Prüfung der nach Abs. 2 und 3 vorgeschriebenen Unterlagen ist weiters zu Beginn eines jeden Kalenderjahres, spätestens bis zum 15. Jänner dieses Jahres, eine jährliche Gebühr von 1 200 Euro an die FMA zu entrichten; diese Gebühr erhöht sich bei Fonds, die mehrere Teilfonds enthalten (Umbrella-Fonds), ab dem zweiten Teilfonds für jeden Teilfonds um 400 Euro. Gebührenbeiträge, die nicht spätestens am Fälligkeitstag entrichtet wurden, sind vollstreckbar. Die FMA hat einen als Exekutionstitel geltenden Rückstandsausweis auszufertigen. Dieser hat Namen und Anschrift des Gebührenpflichtigen, den Betrag der Schuld und den Vermerk zu enthalten, dass die Schuld vollstreckbar geworden ist. Die nicht fristgerechte Entrichtung der Gebühr ist ein Vertriebsuntersagungsgrund gemäß § 50.
+
+(7) Die FMA hat die Anzeige auf ihre formale Vollständigkeit zu prüfen, eine darüber hinausgehende inhaltliche Prüfung hat nicht zu erfolgen. Spätestens 4 Monate nach Eingang des vollständigen Anzeigeschreibens nach Abs. 3 hat die FMA dem AIFM mitzuteilen, ob er im Inland mit dem Vertrieb des im Anzeigeschreiben genannten AIF an Privatkunden beginnen kann. Im Falle einer positiven Entscheidung kann der AIFM ab dem Datum der diesbezüglichen Mitteilung der FMA mit dem Vertrieb des AIF beginnen. § 13 Abs. 3 letzter Satz AVG findet keine Anwendung.
+
+(8) Das in Abs. 2 genannte Anzeigeschreiben des AIFM sowie die Beilagen haben in deutscher Sprache oder englischer Sprache oder sonst entsprechend dem Sprachenregime gemäß Art. 27 der Verordnung (EU) 2017/1129 bereitgestellt zu werden. Die FMA als zuständige Behörde hat die elektronische Übermittlung und Archivierung der in Abs. 2 und 3 genannten Unterlagen zu akzeptieren.
+
+(9) Im Falle einer wesentlichen Änderung der nach Abs. 2 und 3 mitgeteilten Angaben hat der AIFM diese der FMA bei von ihm geplanten Änderungen mindestens einen Monat vor Durchführung der Änderung, oder, bei ungeplanten Änderungen, unverzüglich nach Eintreten der ungeplanten Änderung schriftlich mitzuteilen. Sollte die geplante Änderung dazu führen, dass die Verwaltung des AIF durch den AIFM oder der AIFM im Allgemeinen nunmehr gegen dieses Bundesgesetz oder gegen die Richtlinie 2011/61/EU verstößt, hat die FMA dem AIFM unverzüglich mitzuteilen, dass er die Änderung nicht durchführen darf. Wird eine geplante Änderung ungeachtet dieses Abs. durchgeführt oder führt eine durch einen ungeplanten Umstand ausgelöste Änderung dazu, dass die Verwaltung des AIF durch den AIFM oder der AIFM im Allgemeinen nunmehr gegen dieses Bundesgesetz oder die Richtlinie 2011/61/EU verstoßen würde, so hat die FMA alle gebotenen Maßnahmen gemäß §§ 56 f. zu ergreifen, einschließlich, falls erforderlich, der ausdrücklichen Untersagung des Vertriebs des AIF.
+
+(10) Der AIFM hat der FMA das vorübergehende Unterbleiben der Rücknahme der Anteilscheine, wobei außergewöhnliche Umstände vorliegen müssen, und die Wiederaufnahme der Rücknahme der Anteilscheine unverzüglich anzuzeigen sowie die Anleger durch öffentliche Bekanntmachung über das Unterbleiben der Rücknahme der Anteilscheine und die Wiederaufnahme von deren Rücknahme zu unterrichten.
+
+(11) Der AIFM hat die Absicht, den Vertrieb von Anteilen des AIF an Privatkunden in Österreich einzustellen, der FMA anzuzeigen.
+
+(12) Inländische AIFM können EU-AIF aus anderen Mitgliedstaaten sowie gemäß der Richtlinie 2011/61/EU verwaltete Nicht-EU-AIF, EU-AIFM mit Sitz in einem anderen Mitgliedstaat sowie Nicht-EU-AIFM können von ihnen gemäß Richtlinie 2011/61/EU verwaltete EU-AIF und Nicht-EU-AIF in Österreich an qualifizierte Privatkunden vertreiben, wenn
+
+1\. der AIF gemäß §§ 29, 31, 35, 38, 40, 42 oder 47 in Österreich zum Vertrieb an professionelle Anleger zugelassen ist und
+
+2\. für den AIF
+
+a) keine Hebelfinanzierung oder
+
+b) eine Hebelfinanzierung, die den Nettoinventarwert des AIF nicht um mehr als 30 vH übersteigt,
+
+eingesetzt wird.
+
+§ 52 findet keine Anwendung.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 70/2014
+
+#### § 50 – Vertriebsuntersagung
+
+§ 50. (1) Die Aufnahme des Vertriebes ist zu untersagen, wenn der AIFM oder der AIF eine Voraussetzung nach § 48 oder § 49 nicht erfüllt oder der Antrag auf Bewilligung nach § 48 oder die Anzeige nach § 49 nicht ordnungsgemäß erstattet wurde.
+
+(2) Die FMA hat den weiteren Vertrieb von AIF zu untersagen, wenn
+
+1\. der Antrag auf Bewilligung nach § 48 oder die Anzeige nach § 49 nicht erstattet worden ist;
+
+2\. eine Voraussetzung nach § 48 oder § 49 weggefallen ist;
+
+3\. beim Vertrieb erheblich gegen gesetzliche Vorschriften verstoßen worden ist;
+
+4\. ein durch rechtskräftiges Urteil oder gerichtlichen Vergleich gegenüber dem AIF oder AIFM festgestellter Anspruch eines Anteilinhabers nicht erfüllt worden ist;
+
+5\. die in diesem Gesetz vorgesehenen Verpflichtungen nicht ordnungsgemäß erfüllt werden, oder
+
+6\. die Zulassung durch die zuständigen Stellen des Herkunftsstaates des AIFM oder des AIF entzogen worden ist.
+
+(3) Hat die FMA die Aufnahme des Vertriebs oder den weiteren Vertrieb des AIF untersagt, darf der AIFM die Absicht, Anteile dieses AIF im Geltungsbereich dieses Bundesgesetzes zu vertreiben, frühestens gemäß § 48 oder § 49 wieder anzeigen, wenn seit dem Tag der Untersagung ein Jahr verstrichen ist.
+
+(4) Die FMA kann bei Umbrella-Konstruktionen auch den Vertrieb von Anteilen eines AIF, die im Geltungsbereich dieses Bundesgesetzes vertrieben werden dürfen, unter Beachtung des Abs. 2 untersagen, wenn weitere Anteile von Teilfonds derselben Umbrella-Konstruktion im Geltungsbereich dieses Bundesgesetzes vertrieben werden, die das Anzeigeverfahren nach § 49 nicht ordnungsgemäß durchlaufen haben.
+
+#### § 51 – Werbung
+
+§ 51. (1) Werbung mit dem Hinweis auf die Befugnisse der FMA nach diesem Gesetz ist untersagt.
+
+(2) Die Werbung darf nur unter Anwendung des § 128 Abs. 3 InvFG 2011 erfolgen.
+
+(3) Verstößt der AIFM, sein gesetzlicher Vertreter oder eine mit dem Vertrieb befasste Person gegen Abs. 1 oder 2 oder Art. 4 der Verordnung (EU) 2019/1156 oder Art. 13 der Verordnung (EU) 2019/2088 und werden die Verstöße trotz Verwarnung nicht eingestellt, so hat die FMA den weiteren Vertrieb von Anteilen zu untersagen.
+
+#### § 52 – Kostenloses Zur-Verfügung-Stellen von Prospekten, Rechenschaftsbericht und Halbjahresbericht
+
+§ 52. Einem potentiellen Erwerber vor Vertragsabschluss sowie jedem interessierten Anteilinhaber eines gemäß § 48 oder § 49 vertriebenen AIF sind die Angaben gemäß § 21 sowie allenfalls das zu erstellende KID oder der Vereinfachte Prospekt in der jeweils geltenden Fassung, der zuletzt veröffentlichte Rechenschaftsbericht und der anschließende Halbjahresbericht, sofern er veröffentlicht ist, kostenlos zur Verfügung zu stellen.
+
+#### § 53 – Weiterverwendung von allgemeinen Bezeichnungen
+
+§ 53. Der AIFM und der AIF dürfen dieselben allgemeinen Bezeichnungen verwenden, die sie in dem Staat, in dem sie ihren Sitz haben, berechtigterweise führen. Der AIFM muss jedoch solchen Bezeichnungen geeignete klarstellende Zusätze beifügen, wenn die Gefahr der Irreführung besteht.
+
+## 9.Teil
+
+### Zuständige Behörden — 1. Abschnitt
+
+### Benennung, Befugnisse und Rechtsbehelfe
+
+#### § 54 – Benennung der zuständigen Behörde und ESAP-Sammelstelle
+
+§ 54. (1) Die FMA ist zuständig für die Wahrnehmung der Aufgaben aufgrund dieses Bundesgesetzes und der Richtlinie 2011/61/EU. Die FMA hat durch geeignete Methoden zu überwachen, dass AIFM ihren Verpflichtungen gemäß diesem Bundesgesetz und gemäß der Richtlinie 2011/61/EU, gegebenenfalls auf der Grundlage der von ESMA entwickelten Leitlinien, nachkommen.
+
+(2) Die FMA ist die für Österreich zuständige Behörde gemäß
+
+1\. Art. 3 lit. m der Verordnung (EU) Nr. 345/2013 über Europäische Risikokapitalfonds und
+
+2\. Art. 3 lit. m der Verordnung (EU) Nr. 346/2013 über Europäische Fonds für soziales Unternehmertum und
+
+3\. Art. 2 Z 10 der Verordnung (EU) 2015/760 über europäische langfristige Investmentfonds und
+
+unbeschadet der ihr in anderen Bundesgesetzen zugewiesenen Aufgaben mit der Registrierung von Verwaltern von Organismen für gemeinsame Anlagen gemäß diesen Verordnungen betraut. Die FMA hat die Einhaltung der Vorschriften dieser Verordnungen durch Verwalter eines qualifizierten Risikokapitalfonds, Verwalter eines qualifizierten Fonds für soziales Unternehmertum und Verwalter eines europäischen langfristigen Investmentfonds zu überwachen. Dazu stehen der FMA unbeschadet der Befugnisse, die ihr in diesen Verordnungen zugewiesen werden, insbesondere die Befugnisse gemäß § 56 Abs. 2 Z 1, 2, 3, 5, 8, 9 und 11 zu.
+
+(3) Die FMA hat die Einhaltung
+
+1\. der Vorschriften der Verordnung (EU) 2019/2088 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor und
+
+2\. der Vorschriften der Art. 5, 6 und 7 der Verordnung (EU) 2020/852 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen
+
+durch AIFM, Verwalter eines qualifizierten Risikokapitalfonds, Verwalter eines qualifizierten Fonds für soziales Unternehmertum und Verwalter eines europäischen langfristigen Investmentfonds laufend zu überwachen. Dazu stehen der FMA unbeschadet der Befugnisse, die ihr in diesen Verordnungen zugewiesen werden, insbesondere die Befugnisse gemäß § 56 Abs. 2 Z 1, 2, 3, 5, 8, 9 und 11 zu.
+
+(4) Die FMA ist die Sammelstelle im Sinne des Art. 2 Nr. 2 der Verordnung (EU) 2023/2859 gemäß Art. 18a Abs. 3 der Verordnung (EU) 2019/2088 für AIFM und hat diese Informationen im ESAP zugänglich zu machen.
+
+(5) Die FMA ist Sammelstelle im Sinne des Art. 2 Nr. 2 der Verordnung (EU) 2023/2859 gemäß Art. 3 Abs. 2 der Verordnung (EU) 2023/2859 für die Erhebung freiwillig übermittelter Informationen, die in
+
+1\. der Richtlinie 2011/61/EU,
+
+2\. der Verordnung (EU) Nr. 345/2013,
+
+3\. der Verordnung (EU) Nr. 346/2013,
+
+4\. der Verordnung (EU) 2015/760,
+
+5\. der Verordnung (EU) 2017/1131 und
+
+6\. der Verordnung (EU) 2019/2088, sofern die Informationen von AIFM übermittelt wurden,
+
+angeführt sind.
+
+(6) Die FMA kann für die Übermittlung der Daten gemäß Abs. 4 und 5 durch Verordnung ein bestimmtes Format, zusätzlich beizufügende Metadaten und die Übermittlungsmodalitäten festlegen, wenn dies unter Berücksichtigung der unionsrechtlichen Vorgaben zweckmäßig erscheint.
+
+> **Anmerkung:** EU: Art. 1, BGBl. I Nr. 70/2014
+
+> **Beachte:** zum Bezugszeitraum vgl. § 74 Abs. 23
+
+#### § 55 – Aufgaben der zuständigen Behörden in den Mitgliedstaaten
+
+§ 55. (1) Die Aufsicht über einen AIFM obliegt der FMA als der zuständigen Behörde des Herkunftsmitgliedstaats des AIFM, unabhängig davon, ob der AIFM AIF in einem anderen Mitgliedstaat verwaltet und/oder vertreibt; die Bestimmungen dieses Bundesgesetzes und der Richtlinie 2011/61/EU, die den zuständigen Behörden des Aufnahmemitgliedstaats des AIFM die Zuständigkeit für die Aufsicht übertragen, bleiben hiervon unberührt.
+
+(2) Die Überwachung der Einhaltung der §§ 10 und 12 durch einen AIFM obliegt der FMA als zuständiger Behörde des Aufnahmemitgliedstaats des AIFM, wenn der AIFM AIF über eine Zweigniederlassung in Österreich verwaltet und/oder vertreibt.
+
+(3) Die FMA als zuständig Behörde des Aufnahmemitgliedstaats des AIFM kann von einem AIFM, der in Österreich AIF verwaltet oder vertreibt — unabhängig davon, ob dies über eine Zweigniederlassung erfolgt —, die Vorlage von Informationen verlangen, die erforderlich sind, um zu beaufsichtigen, dass die maßgeblichen Bestimmungen, für die FMA verantwortlich ist, durch den AIFM eingehalten werden.
+
+(4) Stellt die FMA als zuständige Behörde des Aufnahmemitgliedstaats des AIFM fest, dass ein AIFM, der in Österreich AIF verwaltet und/oder vertreibt — unabhängig davon, ob dies über eine Zweigniederlassung erfolgt —, gegen eine der Bestimmungen, hinsichtlich derer sie für die Überwachung der Einhaltung zuständig sind, verstößt, so fordert die FMA den betreffenden AIFM auf, den Verstoß zu beenden und unterrichtet die zuständigen Behörden des Herkunftsmitgliedstaats des AIFM entsprechend.
+
+(5) Lehnt es der betreffende AIFM ab, der FMA als zuständiger Behörde seines Aufnahmemitgliedstaats die in deren Zuständigkeit fallenden Informationen zukommen zu lassen oder unternimmt er nicht die erforderlichen Schritte, um den Verstoß gemäß Abs. 4 zu beenden, so hat die FMA als zuständige Behörde seines Aufnahmemitgliedstaats die zuständigen Behörden seines Herkunftsmitgliedstaats hievon in Kenntnis zu setzen.
+
+(6) Die FMA als zuständige Behörde des AIFM hat
+
+1\. unverzüglich alle geeigneten Maßnahmen zu treffen, um sicherzustellen, dass der betreffende AIFM die von den zuständigen Behörden seines Aufnahmemitgliedstaats gemäß Art. 45 Abs. 3 der Richtlinie 2011/61/EU geforderten Informationen vorlegt oder den Verstoß im Sinne des Abs. 4 der genannten Bestimmung beendet,
+
+2\. die betreffenden Aufsichtsbehörden in Drittländern unverzüglich um Erteilung der erforderlichen Informationen zu ersuchen.
+
+Die Art der Maßnahmen gemäß Z 1 und Z 2 ist von der FMA den zuständigen Behörden des Aufnahmemitgliedstaats des AIFM mitzuteilen.
+
+(7) Weigert sich der AIFM trotz der gemäß Abs. 5 von den zuständigen Behörden seines Herkunftsmitgliedstaats getroffenen Maßnahmen oder weil sich solche Maßnahmen als unzureichend erweisen oder in dem fraglichen Mitgliedstaat nicht verfügbar sind, weiterhin, die von der FMA als zuständiger Behörde seines Aufnahmemitgliedstaats im Sinne des Abs. 3 geforderten Informationen vorzulegen, oder verstößt er weiterhin gegen die in Abs. 4 genannten Rechts- und Verwaltungsvorschriften seines Aufnahmemitgliedstaats, so kann die FMA als zuständige Behörde des Aufnahmemitgliedstaats des AIFM nach Unterrichtung der zuständigen Behörden des Herkunftsmitgliedstaats des AIFM geeignete Maßnahmen einschließlich der Maßnahmen der §§ 56 und 60 ergreifen, um weitere Verstöße zu verhindern oder zu ahnden; soweit erforderlich, kann sie diesem AIFM auch neue Geschäfte in Österreich untersagen. Handelt es sich bei der in Österreich als Aufnahmemitgliedstaat des AIFM durchgeführten Aufgabe um die Verwaltung von AIF, so kann die FMA als zuständige Behörde des Aufnahmemitgliedstaats verlangen, dass der AIFM die Verwaltung dieser AIF einstellt.
+
+(8) Hat die FMA als zuständige Behörde des Aufnahmemitgliedstaats eines AIFM klare und nachweisbare Gründe für die Annahme, dass der AIFM gegen die Verpflichtungen verstößt, die ihm aus Vorschriften erwachsen, hinsichtlich derer sie nicht für die Überwachung der Einhaltung zuständig ist, so hat sie ihre Erkenntnisse den zuständigen Behörden des Herkunftsmitgliedstaats des AIFM mitzuteilen; als zuständige Behörde des Herkunftsmitgliedstaats wiederum hat sie geeignete Maßnahmen zu ergreifen und erforderlichenfalls von den entsprechenden Aufsichtsbehörden in Drittländern zusätzliche Informationen anzufordern.
+
+(9) Verhält sich der AIFM trotz der von den zuständigen Behörden seines Herkunftsmitgliedstaats getroffenen Maßnahmen oder weil sich solche Maßnahmen als unzureichend erweisen oder der Herkunftsmitgliedstaat des AIFM nicht rechtzeitig handelt, weiterhin auf eine Art und Weise, die den Interessen der Anleger des betreffenden AIF, der Finanzstabilität oder der Integrität des Marktes im Aufnahmemitgliedstaat des AIFM eindeutig abträglich ist, so kann die FMA als zuständige Behörde des Aufnahmemitgliedstaats des AIFM nach Unterrichtung der zuständigen Behörden des Herkunftsmitgliedstaats des AIFM alle erforderlichen Maßnahmen ergreifen, um die Anleger des betreffenden AIF, die Finanzstabilität und die Integrität des Marktes im Aufnahmemitgliedstaat zu schützen; sie hat auch die Möglichkeit, dem betreffenden AIFM den weiteren Vertrieb von Anteilen des betreffenden AIF in Österreich als Aufnahmemitgliedstaat zu untersagen.
+
+(10) Das Verfahren nach Abs. 8 und 9 kommt ferner zur Anwendung, wenn die FMA als zuständige Behörde des Aufnahmemitgliedstaats klare und belegbare Einwände gegen die Zulassung eines Nicht-EU-AIFM durch den Referenzmitgliedstaat hat.
+
+(11) Besteht zwischen den betreffenden zuständigen Behörden keine Einigkeit in Bezug auf eine von einer zuständigen Behörde nach den Abs. 4 bis 10 getroffene Maßnahme, so kann die FMA die Angelegenheit ESMA zur Kenntnis bringen, die im Rahmen der ihr durch Art. 19 der Verordnung (EU) Nr. 1095/2010 übertragenen Befugnisse tätig werden kann.
+
+#### § 56 – Befugnisse und Kosten der FMA
+
+§ 56. (1) Die FMA hat unbeschadet der ihr in anderen Bundesgesetzen oder EU-Verordnungen zugewiesenen Aufgaben gegenüber AIF, gemäß § 4 Abs. 1 konzessionierte oder gemäß § 1 Abs. 5 Z 1 registrierte AIFM, EU-AIFM aus anderen Mitgliedstaaten im Rahmen des § 55, Nicht-EU-AIFM, Dritte im Rahmen des § 18 sowie Verwahrstellen gemäß § 19 die Einhaltung dieses Bundesgesetzes, sowie der auf Basis der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakte zu überwachen und alle erforderlichen Maßnahmen zu treffen, um das ordnungsgemäße Funktionieren der Märkte in den Fällen zu gewährleisten, in denen die Tätigkeit eines oder mehrerer AIF am Markt für ein Finanzinstrument das ordnungsgemäße Funktionieren dieses Marktes gefährden könnte.
+
+(2) Die FMA ist in ihrem Zuständigkeitsbereich gemäß Abs. 1 und § 54 Abs. 2 insbesondere befugt,
+
+1\. Unterlagen aller Art einzusehen und eine Kopie von ihnen zu erhalten,
+
+2\. von jeder mit den Tätigkeiten des AIFM, des Verwalters eines qualifizierten Risikokapitalfonds, des Verwalters eines qualifizierten Fonds für soziales Unternehmertum, des Verwalters eines europäischen langfristigen Investmentfonds oder des AIF in Verbindung stehenden Person Auskünfte zu verlangen und gegebenenfalls eine Person zum Zwecke der Informationserlangung vorzuladen und zu vernehmen,
+
+3\. angekündigte und unangekündigte Ermittlungen vor Ort durchzuführen,
+
+4\. bereits existierende Aufzeichnungen von Telefongesprächen und Datenübermittlungen zu verlangen,
+
+5\. vorzuschreiben, dass Praktiken, die gegen
+
+a) dieses Bundesgesetz,
+
+b) die Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassene delegierte Rechtsakte,
+
+c) die Verordnung (EU) Nr. 345/2013,
+
+d) die Verordnung (EU) Nr. 346/2013,
+
+e) die Verordnung (EU) 2015/760,
+
+f) die Verordnung (EU) 2019/2088 oder
+
+g) Art. 5, 6 und 7 der Verordnung (EU) 2020/852
+
+verstoßen, unterlassen werden,
+
+6\. bei der zuständigen Staatsanwaltschaft zu beantragen, dass diese bei Gericht einen Antrag auf Sicherstellung gemäß §§ 109 Z 1 und 110 Abs. 1 Z 3 oder Beschlagnahme gemäß §§ 109 Z 2 und 115 Abs. 1 Z 3 Strafprozessordnung 1975 – StPO (BGBl. Nr. 631/1975) stellt,
+
+7\. ein vorübergehendes Verbot der Ausübung der Berufstätigkeit zu verhängen,
+
+8\. von AIFM, Verwahrstellen, Abschlussprüfern, Verwaltern eines qualifizierten Risikokapitalfonds, Verwaltern eines qualifizierten Fonds für soziales Unternehmertum oder Verwaltern eines europäischen langfristigen Investmentfonds Auskünfte zu verlangen,
+
+9\. jegliche Art von Maßnahmen zu ergreifen, um sicherzustellen, dass AIFM, Verwahrstellen, Verwalter eines qualifizierten Risikokapitalfonds, Verwalter eines qualifizierten Fonds für soziales Unternehmertum oder Verwalter eines europäischen langfristigen Investmentfonds sich weiterhin an die auf sie anwendbaren Anforderungen
+
+a) dieses Bundesgesetzes,
+
+b) der auf Basis der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakte,
+
+c) der Verordnung (EU) Nr. 345/2013,
+
+d) der Verordnung (EU) Nr. 346/2013,
+
+e) der Verordnung (EU) 2015/760,
+
+f) der Verordnung (EU) 2019/2088 und
+
+g) Art. 5, 6 und 7 der Verordnung (EU) 2020/852
+
+halten,
+
+10\. im Interesse der Anleger unter außergewöhnlichen Umständen und nach Konsultation des AIFM von den AIFM zu verlangen, das Liquiditätsmanagement-Instrument gemäß **Anlage 5** Z 1 zu aktivieren oder zu deaktivieren, wenn Risiken für den Anlegerschutz oder die Finanzstabilität bestehen, die bei vernünftiger und ausgewogener Betrachtung eine solche Aktivierung oder Deaktivierung erforderlich machen,
+
+11\. die weitere Tätigkeit eines AIFM, eines Verwalters eines qualifizierten Risikokapitalfonds, eines Verwalters eines qualifizierten Fonds für soziales Unternehmertum, eines Verwalters eines europäischen langfristigen Investmentfonds oder einer Verwahrstelle im Inland zu untersagen,
+
+12\. Überprüfungen oder Ermittlungen durch Wirtschaftsprüfer oder Sachverständige vornehmen zu lassen.
+
+(3) Gelangt die FMA als zuständige Behörde des Referenzmitgliedstaats zu der Auffassung, dass ein zugelassener Nicht-EU-AIFM seinen Pflichten gemäß diesem Bundesgesetz, der Richtlinie 2011/61/EU oder auf Basis dieser Richtlinie erlassenen delegierten Rechtsakten nicht nachkommt, so setzt die FMA ESMA hiervon so bald wie möglich und unter vollständiger Angabe der Gründe in Kenntnis.
+
+(4) Die FMA kann die Verwaltung von AIF durch natürliche oder juristische Personen ohne eine Konzession gemäß § 4 Abs. 1 oder eine Registrierung gemäß § 1 Abs. 5 Z 1 untersagen. Zu diesem Zweck sowie zur Verfolgung der in § 60 Abs. 1 Z 2 genannten Übertretungen durch diese Personen stehen der FMA die Befugnisse gemäß §§ 22b bis 22e Finanzmarktaufsichtsbehördengesetz – FMABG (BGBl. I Nr. 97/2001) zu.
+
+(5) Die Kosten der FMA aus dem Rechnungskreis Wertpapieraufsicht (§ 19 Abs. 1 Z 3 und Abs. 4 FMABG) sind von den gemäß § 4 Abs. 1 konzessionierten oder gemäß § 1 Abs. 5 Z 1 registrierten AIFM, von den AIFM gemäß § 33 Abs. 1, die Tätigkeiten in Österreich über eine Zweigstelle ausüben, von Nicht-EU-AIFM gemäß § 39 Abs. 3, von gemäß Art. 14 der Verordnung (EU) Nr. 345/2013 registrierten Verwaltern eines qualifizierten Risikokapitalfonds, von gemäß Art. 15 der Verordnung (EU) Nr. 346/2013 registrierten Verwaltern eines qualifizierten Fonds für soziales Unternehmertum sowie von Verwaltern eines gemäß Art. 5 der Verordnung (EU) 2015/760 zugelassenen europäischen langfristigen Investmentfonds zu tragen. Die FMA hat zu diesem Zweck einen zusätzlichen gemeinsamen Subrechnungskreis für AIFM, Verwaltungsgesellschaften (InvFG 2011), Kapitalanlagegesellschaften für Immobilien (ImmoInvFG) und BV-Kassen (BMSVG) zu bilden.
+
+(6) Die auf Kostenpflichtige gemäß Abs. 5 entfallenden Beträge sind von der FMA mit Bescheid vorzuschreiben; die Festsetzung von Pauschalbeträgen ist zulässig. Die FMA hat nähere Regelungen über diese Kostenaufteilung und ihre Vorschreibung mit Verordnung festzusetzen. Hierbei sind insbesondere zu regeln:
+
+1\. Die Bemessungsgrundlagen der einzelnen Arten von Kostenvorschreibungen;
+
+2\. die Termine für die Kostenbescheide und die Fristen für die Zahlungen der Kostenpflichtigen.
+
+Die AIFM haben der FMA alle erforderlichen Auskünfte über die Grundlagen der Kostenbemessung zu erteilen.
+
+(7) Die FMA ist als datenschutzrechtliche Verantwortliche gemäß Art. 4 Nr. 7 der Datenschutz-Grundverordnung im Zusammenhang mit den Aufgaben gemäß § 54 Abs. 4 und 5 zur Verarbeitung von personenbezogenen Daten im Sinne der Datenschutz-Grundverordnung ermächtigt.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 70/2014
+
+#### § 57 – Maßnahmen der FMA
+
+§ 57. (1) Ist ein externer AIFM nicht in der Lage, die Einhaltung der Anforderungen dieses Bundesgesetzes sicherzustellen, hat er unverzüglich die zuständigen Behörden seines Herkunftsmitgliedstaats und, sofern anwendbar, die zuständigen Behörden des betreffenden EU-AIF, zu unterrichten. Die FMA hat die Herstellung des rechtmäßigen Zustandes unter Androhung einer Zwangsstrafe binnen jener Frist, welche im Hinblick auf die Umstände des Falles angemessen ist, aufzutragen.
+
+(2) Falls die Anforderungen dieses Bundesgesetzes weiterhin nicht eingehalten werden, hat die FMA anzuordnen, dass der AIFM die Bestellung für die Verwaltung des betroffenen AIF zurücklegt, sofern es sich um einen EU-AIFM oder einen EU-AIF handelt. In diesem Fall darf der AIF nicht mehr in der Union vertrieben werden. Im Falle eins Nicht-EU-AIFM, der einen Nicht-EU-AIF verwaltet, darf der AIF nicht weiter in der Union vertrieben werden. Die FMA hat unverzüglich die zuständigen Behörden der Aufnahmemitgliedstaaten des AIFM von der Anordnung in Kenntnis zu setzen. § 9 Abs. 3 ist sinngemäß anzuwenden.
+
+#### § 58 – Form der Kommunikation mit der FMA – elektronische Übermittlung
+
+§ 58. Die FMA kann unter Bedachtnahme auf die europäischen Gepflogenheiten durch Verordnung vorschreiben, dass die Anzeigen und Übermittlungen gemäß § 1 Abs. 5 Z 4, 5 und 5a, § 8 Abs. 1, § 14 Abs. 6 und 9, § 18 Abs. 1 Z 1, § 20 Abs. 1, § 22 Abs. 1 bis 5 und 7, § 25 Abs. 1, § 28a Abs. 4, § 29 Abs. 2 und 5, § 30 Abs. 2 und 6, § 32 Abs. 2, 3 und 6, § 33a Abs. 3 und 5, § 35 Abs. 2 und 6, § 36 Abs. 2 und 7, § 38 Abs. 2, 6 und 7, § 39 Abs. 1 und 9, § 40 Abs. 2, 4 und 9, § 42 Abs. 3, 5 und 10, § 44 Abs. 2, 3 und 5, § 47 Abs. 3, 7 und 8, § 48 Abs. 6, 8, 8b, 8d, 8f, 8h und 10, § 49 Abs. 2, 3, 9 und 11 dieses Bundesgesetzes sowie § 4 Abs. 2, § 12 Abs. 2, § 13, § 15 Abs. 4 bis 6, § 17 Abs. 5 und 7 und § 19 Abs. 2 des Wagniskapitalfondsgesetzes – WKFG, BGBl. I Nr. 111/2023, ausschließlich in elektronischer Form zu erfolgen haben sowie bestimmten Gliederungen, technischen Mindestanforderungen und Übermittlungsmodalitäten zu entsprechen haben. Die FMA hat sich dabei an den Grundsätzen der Wirtschaftlichkeit und Zweckmäßigkeit zu orientieren und dafür zu sorgen, dass die jederzeitige elektronische Verfügbarkeit der Daten für die FMA gewährleistet bleibt und Aufsichtsinteressen nicht beeinträchtigt werden. Die FMA hat geeignete Vorkehrungen dafür zu treffen, dass sich die Meldepflichtigen oder gegebenenfalls ihre Einbringungsverantwortlichen während eines angemessenen Zeitraums im System über die Richtigkeit und Vollständigkeit der von ihnen oder ihren Einbringungsverantwortlichen erstatteten Meldedaten vergewissern können.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 70/2014
+
+#### § 59 – Befugnisse und Zuständigkeiten von ESMA
+
+§ 59. (1) Die FMA hat die Leitlinien von ESMA für die zuständigen Behörden der Mitgliedstaaten bezüglich der Wahrnehmung ihrer Zulassungsbefugnisse und ihrer Informationspflichten, die gemäß der Richtlinie 2011/61/EU festgelegt wurden, zu beachten und über Aufforderung durch ESMA die Einhaltung dieser Leitlinien nachzuweisen.
+
+(2) Alle Personen, die bei der FMA oder bei einer sonstigen Person, an die ESMA Aufgaben übertragen hat, tätig sind oder tätig waren, einschließlich der von ESMA beauftragten Prüfer und Sachverständigen, sind zur Wahrung des Berufsgeheimnisses verpflichtet. Die unter das Berufsgeheimnis fallenden Informationen werden keiner anderen Person oder Behörde gegenüber offengelegt, es sei denn, die Offenlegung ist für ein Gerichtsverfahren oder für unter das Steuerrecht fallende Fälle erforderlich.
+
+(3) Alle zwischen der FMA, den zuständigen Behörden, ESMA, EBA, EIOPA und dem ESRB im Rahmen dieses Bundesgesetzes und der Richtlinie 2011/61/EU ausgetauschten Informationen sind als vertraulich zu betrachten, es sei denn:
+
+1\. ESMA, die FMA oder die betreffende zuständige Behörde oder eine andere Behörde oder Stelle erklärt zum Zeitpunkt der Mitteilung, dass diese Informationen offengelegt werden können,
+
+2\. die Offenlegung ist für ein Gerichtsverfahren erforderlich oder
+
+3\. die offengelegten Informationen werden in einer Zusammenfassung oder in einer aggregierten Form verwendet, bei der die einzelnen Finanzmarktteilnehmer nicht identifiziert werden können.
+
+(3a) Abs. 2 und 3 stehen dem Informationsaustausch zwischen der FMA und den Abgabenbehörden gemäß den §§ 49 und 50 der Bundesabgabenordnung – BAO, BGBl. Nr. 194/1961, nicht entgegen. Stammen die Informationen aus einem anderen Mitgliedstaat, so dürfen sie nur mit ausdrücklicher Zustimmung der zuständigen Behörden, die sie offengelegt haben, gemäß dem ersten Satz weitergegeben werden.
+
+(4) Die FMA als zuständige Behörde des Referenzmitgliedstaats des betreffenden Nicht-EU-AIFM kann ESMA auffordern, einen Beschluss gemäß Art. 47 Abs. 5 ff der Richtlinie 2011/61/EU zu überprüfen.
+
+#### § 60 – Verwaltungsstrafen und Veröffentlichungen
+
+§ 60. (1) Wer
+
+1\. gegen das Erfordernis einer Konzession gemäß § 4 Abs. 1 oder das Erfordernis einer Registrierung gemäß § 1 Abs. 5 Z 1 verstößt;
+
+2\. trotz Untersagung des Vertriebs durch die FMA gemäß § 29 Abs. 5, § 30 Abs. 6, § 31 Abs. 2, § 32 Abs. 6, § 35 Abs. 6, § 36 Abs. 7, § 38 Abs. 6, § 40 Abs. 8 und 9, § 41 Abs. 4, § 42 Abs. 9 und 10, § 43 Abs. 4, § 44 Abs. 5, § 47 Abs. 6 und 7, § 49 Abs. 9, § 50 oder § 56 Abs. 2 Z 5, 10 und 11 sowie Abs. 4 Anteile an AIF vertreibt oder
+
+3\. entgegen der Anordnung der FMA gemäß § 56 Abs. 4, die Verwaltung von AIF einzustellen, AIF weiter verwaltet,
+
+begeht eine Verwaltungsübertretung und ist hiefür von der FMA mit einer Geldstrafe bis zu 100 000 Euro zu bestrafen.
+
+(2) Wer
+
+1\. es unterlässt, die FMA gemäß § 1 Abs. 5 Z 4 zu unterrichten;
+
+2\. gegen die Bestimmung des § 1 Abs. 5 Z 5 oder 5a verstößt;
+
+3\. entgegen § 3 neben einem anderen AIFM einen AIF verwaltet;
+
+4\. entgegen § 4 Abs. 2 oder 3 andere Tätigkeiten ausübt;
+
+5\. der FMA nicht unverzüglich gemäß § 6 Abs. 1 Z 3 die Namen der Nachfolger der Personen, die die Geschäfte der AIFM tatsächlich führen, anzeigt;
+
+6\. gegen die Vorschrift des § 7 Abs. 5 verstößt;
+
+7\. der FMA entgegen § 8 Abs. 1 nicht alle wesentlichen Änderungen der Voraussetzungen für die Konzessionserteilung vor deren Anwendung anzeigt;
+
+8\. gegen die Vorschriften des § 10 Abs. 2 und der §§ 11 bis 17 verstößt;
+
+9\. der FMA nicht unverzüglich die Übertragung von Aufgaben an Dritte gemäß § 18 Abs. 1 Z 1 anzeigt;
+
+10\. die Pflichten gemäß § 19 verletzt;
+
+11\. gegen die Bestimmungen der §§ 21 bis 23 verstößt;
+
+11a. gegen die Verpflichtung zur Transparenz bei der Berücksichtigung von Nachhaltigkeitsrisiken gemäß Art. 6 Abs. 1 oder 2 der Verordnung (EU) 2019/2088 verstößt;
+
+11b. gegen die Verpflichtung zur Transparenz bei nachteiligen Nachhaltigkeitsauswirkungen auf Ebene des Finanzprodukts gemäß Art. 7 Abs. 1 oder 2 der Verordnung (EU) 2019/2088 verstößt;
+
+11c. gegen die Verpflichtung zur Transparenz bei der Bewerbung ökologischer oder sozialer Merkmale in vorvertraglichen Informationen gemäß Art. 8 Abs. 1 oder 2 der Verordnung (EU) 2019/2088 verstößt;
+
+11d. gegen die Verpflichtung zur Transparenz in vorvertraglichen Informationen bei nachhaltigen Investitionen gemäß Art. 9 Abs. 1, 2, 3 oder 4 der Verordnung (EU) 2019/2088 verstößt;
+
+11e. gegen die Verpflichtung zur Transparenz in vorvertraglichen Informationen und regelmäßigen Berichten
+
+a) bei ökologisch nachhaltigen Investitionen gemäß Art. 5 der Verordnung (EU) 2020/852,
+
+b) bei Finanzprodukten, mit denen ökologische Merkmale gemäß Art. 6 der Verordnung (EU) 2020/852 beworben werden oder
+
+c) bei anderen Finanzprodukten gemäß Art. 7 der Verordnung (EU) 2020/852
+
+verstößt;
+
+11f. gegen die Verpflichtung zur Übermittlung der in Art. 3 Abs. 1 und 2, Art. 4 Abs. 1, 3 und 4, Art. 5 Abs. 1 und Art. 10 Abs. 1 der Verordnung (EU) 2019/2088 genannten Informationen gleichzeitig mit deren Veröffentlichung an die FMA gemäß Art. 18a der Verordnung (EU) 2019/2088;
+
+11g. gegen die Verpflichtung, sich eine Rechtsträgerkennung ausstellen zu lassen, gemäß Art. 18a Abs. 2 der Verordnung (EU) 2019/2088;
+
+12\. gegen die Informationspflichten des § 25 verstößt;
+
+13\. gegen die Offenlegungspflicht des § 26 verstößt;
+
+14\. gegen die Bestimmungen der § 27 und § 28 Abs. 1 verstößt;
+
+15\. entgegen der § 29 Abs. 5, § 30 Abs. 6, § 32 Abs. 6, § 35 Abs. 6, § 36 Abs. 7, § 38 Abs. 6, § 40 Abs. 9, § 42 Abs. 10, § 44 Abs. 5, § 47 Abs. 7 oder § 49 Abs. 9 der FMA die wesentlichen Änderungen der Angaben nicht rechtzeitig mitteilt;
+
+16\. trotz Untersagung des Vertriebs gemäß § 51 Abs. 3 weiter Anteile vertreibt;
+
+17\. gegen die Bestimmungen der §§ 52 oder 53 verstößt;
+
+18\. entgegen § 57 Abs. 1 die Unterrichtung der FMA unterlässt;
+
+19\. entgegen § 57 Abs. 2 nicht die Bestellung für die Verwaltung des betroffenen AIF zurücklegt oder einen AIF weiter vertreibt;
+
+20\. gegen eine Bestimmung der auf Basis der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakte verstößt;
+
+20a. gegen Art. 13 der Verordnung (EU) 2015/2365 über die Transparenz von Wertpapierfinanzierungsgeschäften und der Weiterverwendung sowie zur Änderung der Verordnung (EU) Nr. 648/2012, ABl. Nr. L 337 vom 23.12.2015 S. 1, verstößt;
+
+20b. gegen Art. 14 der Verordnung (EU) 2015/2365 verstößt;
+
+20c. gegen
+
+a) eine der Anforderungen bezüglich der Zusammensetzung der Vermögenswerte gemäß Art. 9 bis 16 der Verordnung (EU) 2017/1131,
+
+b) eine der Anforderungen bezüglich des Portfolios gemäß Art. 17, 18, 24 oder 25 der Verordnung (EU) 2017/1131,
+
+c) eine der Anforderungen bezüglich der internen Bewertung der Kreditqualität gemäß Art. 19 oder 20 der Verordnung (EU) 2017/1131,
+
+d) eine der Anforderungen bezüglich der Geschäftsführung, Dokumentation oder Transparenz gemäß Art. 21, 23, 26, 27, 28 oder 36 der Verordnung (EU) 2017/1131,
+
+e) eine der Anforderungen bezüglich der Bewertung gemäß Art. 29, 30, 31, 32, 33 oder 34 der Verordnung (EU) 2017/1131,
+
+f) eine der Anforderungen bezüglich der Meldepflichten gemäß Art. 37 der Verordnung (EU) 2017/1131
+
+oder gegen die daran anknüpfenden Verpflichtungen gemäß der aufgrund der Verordnung (EU) 2017/1131 erlassenen delegierten Rechtsakte verstößt;
+
+20d. die Zulassung von Geldmarktfonds gemäß Art. 5 der Verordnung (EU) 2017/1131 aufgrund falscher Angaben oder durch andere irreguläre Mittel erhalten hat oder
+
+21\. gegen eine gemäß diesem Bundesgesetz von der FMA erlassene Verordnung verstößt,
+
+begeht eine Verwaltungsübertretung und ist hiefür von der FMA mit einer Geldstrafe bis zu 60 000 Euro zu bestrafen.
+
+\*(Anm.: Abs. 3 und 4 aufgehoben durch BGBl. I Nr. 118/2016)*
+
+(5) Sofern die Tat nicht den Tatbestand einer unter Abs. 1 fallenden Verwaltungsübertretung bildet, begeht eine Verwaltungsübertretung und ist hiefür von der FMA mit einer Geldstrafe bis zu 60 000 Euro zu bestrafen, wer gegen die Bestimmungen der Verordnung (EU) Nr. 345/2013, der Verordnung (EU) Nr. 346/2013 oder der Verordnung (EU) 2015/760 verstößt.
+
+(6) Die FMA als zuständige Behörde kann jede Maßnahme oder Sanktion, die bei einem Verstoß gegen die nach diesem Bundesgesetz oder der Richtlinie 2011/61/EU erlassenen Vorschriften oder gegen die Verordnung (EU) Nr. 345/2013, die Verordnung (EU) Nr. 346/2013 oder die Verordnung (EU) 2015/760 verhängt wird, öffentlich bekannt machen, sofern eine solche Bekanntgabe die Stabilität der Finanzmärkte nicht ernstlich gefährdet, die Interessen der Anleger nicht beeinträchtigt oder den Beteiligten keinen unverhältnismäßig hohen Schaden zufügt.
+
+(7) Der von der Veröffentlichung Betroffene kann eine Überprüfung der Rechtmäßigkeit der Veröffentlichung gemäß Abs. 6 in einem bescheidmäßig zu erledigenden Verfahren bei der FMA beantragen. Die FMA hat diesfalls die Einleitung eines solchen Verfahrens in gleicher Weise bekannt zu machen. Wird im Rahmen der Überprüfung die Rechtswidrigkeit der Veröffentlichung festgestellt, so hat die FMA die Veröffentlichung richtig zu stellen oder auf Antrag des Betroffenen entweder zu widerrufen oder aus dem Internetauftritt zu entfernen. Wird einer Beschwerde gegen einen Bescheid, der gemäß Abs. 6 bekannt gemacht worden ist, in einem Verfahren vor den Gerichtshöfen öffentlichen Rechts aufschiebende Wirkung zuerkannt, so hat die FMA dies in gleicher Weise bekannt zu machen. Die Veröffentlichung ist richtig zu stellen oder auf Antrag des Betroffenen entweder zu widerrufen oder aus dem Internetauftritt zu entfernen, wenn der Bescheid aufgehoben wird.
+
+\*(Anm.: Abs. 8 aufgehoben durch Art. 7 Z 8, BGBl. I Nr. 107/2017)*
+
+(9) Die von der FMA gemäß diesem Bundesgesetz verhängten Geldstrafen fließen dem Bund zu.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 118/2016; Art. 1, BGBl. I Nr. 107/2017
+
+## 2. Abschnitt
+
+### Zusammenarbeit der verschiedenen zuständigen Behörden
+
+#### § 61 – Verpflichtung zur Zusammenarbeit
+
+§ 61. (1) Die FMA hat mit den zuständigen Behörden der anderen Mitgliedstaaten und mit ESMA und dem ESRB zusammenzuarbeiten, wann immer dies zur Wahrnehmung ihrer in diesem Bundesgesetz oder der Richtlinie 2011/61/EU festgelegten Aufgaben oder der ihr durch diese Richtlinie oder durch nationale Rechtsvorschriften übertragenen Befugnisse erforderlich ist.
+
+(2) Die FMA als zuständige Behörde hat zum Zwecke der Zusammenarbeit von ihren Befugnissen Gebrauch zu machen, auch wenn die Verhaltensweise, die Gegenstand der Ermittlung ist, keinen Verstoß gegen eine in Österreich geltende Vorschrift darstellt.
+
+(3) Die FMA als zuständige Behörde hat den zuständigen Behörden der anderen Mitgliedstaaten und ESMA unverzüglich die zur Wahrnehmung ihrer Aufgaben im Rahmen dieses Bundesgesetzes und der Richtlinie 2011/61/EU erforderlichen Informationen zu übermitteln. Die FMA als zuständige Behörde des Herkunftsmitgliedstaats hat zuständigen Behörden der Aufnahmemitgliedstaaten des betreffenden AIFM eine Abschrift der von ihr gemäß Art. 35, 37 oder 40 der Richtlinie 2011/61/EU geschlossenen Vereinbarungen über Zusammenarbeit zu übermitteln. Die FMA als zuständige Behörde des Herkunftsmitgliedstaats hat die Informationen, die sie gemäß den mit Aufsichtsbehörden von Drittländern geschlossenen Vereinbarungen über Zusammenarbeit oder gegebenenfalls nach Maßgabe des Art. 45 Abs. 6 oder 7 der genannten Richtlinie von Aufsichtsbehörden von Drittländern in Bezug auf einen AIFM erhalten hat, gemäß den Verfahren in Bezug auf die anwendbaren technischen Regulierungsstandards gemäß Art. 35 Abs. 14, Art. 37 Abs. 17 oder Art. 40 Abs. 14 der genannten Richtlinie an die zuständigen Behörden des Aufnahmemitgliedstaats des betreffenden AIFM weiterzuleiten. Ist die FMA als zuständige Behörde eines Aufnahmemitgliedstaats der Auffassung, dass der Inhalt der gemäß Art. 35, 37 oder 40 der genannten Richtlinie vom Herkunftsmitgliedstaat des betreffenden AIFM geschlossenen Vereinbarung über die Zusammenarbeit nicht mit dem übereinstimmt, was nach den anwendbaren technischen Regulierungsstandards erforderlich ist, kann die FMA die Angelegenheit ESMA zur Kenntnis bringen, die im Rahmen der ihr durch Art. 19 der Verordnung (EU) Nr. 1095/2010 übertragenen Befugnisse tätig werden kann.
+
+(4) Hat die FMA als zuständige Behörde angemessene Gründe zu der Vermutung, dass ein nicht ihrer Aufsicht unterliegender AIFM gegen dieses Bundesgesetz oder die Richtlinie 2011/61/EU verstößt oder verstoßen hat, so hat sie dies ESMA und den zuständigen Behörden des Herkunfts- und Aufnahmemitgliedstaats des betreffenden AIFM so genau wie möglich mitzuteilen. Ist die FMA die zuständige Behörde, die diese Informationen empfängt, hat sie geeignete Maßnahmen zu ergreifen und ESMA und die zuständigen Behörden, von denen sie informiert wurde, über den Ausgang dieser Maßnahmen und so weit wie möglich über wesentliche zwischenzeitlich eingetretene Entwicklungen zu unterrichten. Die Befugnisse der FMA als zuständiger Behörde, die die Information vorgelegt hat, werden durch diesen Absatz nicht berührt.
+
+(5) Macht die FMA als zuständige Behörde des Herkunftsmitgliedstaats eines AIFM von den Befugnissen gemäß § 56 Abs. 2 Z 10 Gebrauch, so hat sie die zuständigen Behörden des Aufnahmemitgliedstaats des AIFM, ESMA und, falls potenzielle Risiken für die Stabilität und Integrität des Finanzsystems bestehen, den ESRB darüber zu unterrichten.
+
+(6) Die FMA als zuständige Behörde des Aufnahmemitgliedstaats eines AIFM kann die zuständigen Behörden des Herkunftsmitgliedstaats des AIFM ersuchen, die in Art. 46 Abs. 2 Buchstabe j der Richtlinie 2011/61/EU festgelegten Befugnisse auszuüben, wobei sie die Gründe für das Ersuchen anzugeben und ESMA und, falls potenzielle Risiken für die Stabilität und Integrität des Finanzsystems bestehen, den ESRB davon in Kenntnis zu setzen hat.
+
+(7) Stimmt die FMA als zuständige Behörde des Herkunftsmitgliedstaats des AIFM einem Ersuchen gemäß Art. 50 Abs. 5b der Richtlinie 2011/61/EU nicht zu, so hat sie die zuständige Behörde des Aufnahmemitgliedstaats des AIFM, ESMA und, sofern der ESRB gemäß Art. 50 Abs. 5b der Richtlinie 2011/61/EU über das Ersuchen unterrichtet wurde, den ESRB hiervon unter Angabe der Gründe für die Nichtzustimmung zu unterrichten.
+
+(8) Handelt die FMA als zuständige Behörde des Herkunftsmitgliedstaats des AIFM nicht im Einklang mit der Stellungnahme der ESMA gemäß Art. 50 Abs. 5d der Richtlinie 2011/61/EU oder beabsichtigt sie nicht, dieser Stellungnahme nachzukommen, so hat sie ESMA und die zuständigen Behörden des Aufnahmemitgliedstaats des AIFM unter Angabe der Gründe für ihre Nichtbefolgung oder ihre entsprechende Absicht zu unterrichten.
+
+(9) Die FMA als zuständige Behörde des Aufnahmemitgliedstaats eines AIFM kann in begründeten Fällen die zuständigen Behörden des Herkunftsmitgliedstaats des AIFM ersuchen, unverzüglich die Befugnisse gemäß Art. 46 Abs. 2 mit Ausnahme von Buchstabe j der Richtlinie 2011/61/EU auszuüben, wobei sie die Gründe für ihr Ersuchen so genau wie möglich anzugeben und ESMA und, falls potenzielle Risiken für die Stabilität und Integrität des Finanzsystems bestehen, den ESRB davon in Kenntnis zu setzen hat.
+
+(10) Die FMA als zuständige Behörde des Herkunftsmitgliedstaats des AIFM hat im Falle eines Ersuchens gemäß Art. 50 Abs. 5f erster Unterabsatz der Richtlinie 2011/61/EU unverzüglich die zuständigen Behörden des Aufnahmemitgliedstaats des AIFM, ESMA und, falls potenzielle Risiken für die Stabilität und Integrität des Finanzsystems bestehen, den ESRB über die ausgeübten Befugnisse und ihre Erkenntnisse zu unterrichten.
+
+#### § 62 – Übermittlung und Speicherung personenbezogener Daten
+
+§ 62. (1) Bei der Übermittlung personenbezogener Daten zwischen zuständigen Behörden hat die FMA als zuständige Behörde die Verordnung (EU) 2016/679 anzuwenden.
+
+(2) Die Daten dürfen für einen Zeitraum von höchstens fünf Jahren gespeichert werden.
+
+#### § 63 – Offenlegung von Informationen gegenüber Drittländern
+
+§ 63. (1) Die FMA als zuständige Behörde eines Mitgliedstaats kann einer zuständigen Behörde eines Drittlandes Daten und Datenauswertungen einschließlich Kundendaten im Einzelfall übermitteln, soweit dies im Einklang mit Kapitel V der Verordnung (EU) 2016/679 steht und sie sich als zuständige Behörde des Mitgliedstaats vergewissert hat, dass die Übermittlung für die Zwecke dieses Bundesgesetzes oder der Richtlinie 2011/61/EU oder entsprechender Regelung im Drittland oder zur Wahrnehmung sonstiger gesetzlicher Aufgaben im Rahmen der Aufsicht über den Finanzmarkt im Drittland erforderlich ist. Zudem muss sichergestellt sein, dass die zuständige Behörde des Drittlandes die Daten nicht ohne ausdrückliche schriftliche Zustimmung der FMA als zuständiger Behörde des Mitgliedstaats an andere Drittländer weitergeben darf.
+
+(2) Die FMA als zuständige Behörde eines Mitgliedstaats darf die von einer zuständigen Behörde eines anderen Mitgliedstaats erhaltenen Informationen nur dann gegenüber einer Aufsichtsbehörde eines Drittlands offenlegen, wenn sie die ausdrückliche Zustimmung der zuständigen Behörde erhalten hat, die die Informationen übermittelt hat, und, gegebenenfalls, wenn die Informationen lediglich zu dem Zweck offengelegt werden, für den die zuständige Behörde ihre Zustimmung gegeben hat.
+
+#### § 64 – Austausch von Informationen in Bezug auf potenzielle Systemauswirkungen von AIFM-Geschäften
+
+§ 64. (1) Die FMA als für die Zulassung und/oder Beaufsichtigung von AIFM zuständige Behörde hat den zuständigen Behörden anderer Mitgliedstaaten Informationen zu übermitteln, soweit dies für die Überwachung von und die Reaktion auf potenzielle Auswirkungen der Geschäfte einzelner oder aller AIFM auf die Stabilität systemrelevanter Finanzinstitute und das ordnungsgemäße Funktionieren der Märkte, auf denen AIFM tätig sind, wesentlich ist. ESMA und der ESRB haben von der FMA ebenfalls unterrichtet zu werden und leiten ihrerseits diese Informationen an die zuständigen Behörden der anderen Mitgliedstaaten weiter.
+
+(2) Nach Maßgabe des Art. 35 der Verordnung (EU) Nr. 1095/2010 hat die FMA als für die AIFM zuständige Behörde ESMA und dem ESRB zusammengefasste Informationen über die Geschäfte von AIFM, für die sie verantwortlich ist, zu übermitteln.
+
+#### § 65 – Zusammenarbeit bei der Aufsicht
+
+§ 65. (1) Die FMA als zuständige Behörde eines Mitgliedstaats kann bei der Ausübung der ihr durch dieses Bundesgesetz oder durch die Richtlinie 2011/61/EU übertragenen Befugnisse die zuständigen Behörden eines anderen Mitgliedstaats um Zusammenarbeit bei der Aufsicht oder einer Überprüfung vor Ort oder einer Ermittlung im Gebiet dieses anderen Mitgliedstaats ersuchen. Erhält die FMA als zuständige Behörde ein Ersuchen um eine Überprüfung vor Ort oder eine Ermittlung, so hat sie eine der folgenden Maßnahmen durchzuführen:
+
+1\. sie kann die Überprüfung oder Ermittlung selbst vornehmen,
+
+2\. sie kann der ersuchenden Behörde die Durchführung der Überprüfung oder Ermittlung gestatten,
+
+3\. sie kann Wirtschaftsprüfern oder Sachverständigen die Durchführung der Überprüfung oder Ermittlung gestatten.
+
+(2) In dem Fall gemäß Abs. 1 Z 1 kann die zuständige Behörde des um Zusammenarbeit ersuchenden Mitgliedstaats beantragen, dass Mitglieder ihres Personals das Personal der FMA, das die Überprüfung oder Ermittlung durchführt, unterstützen. Die Überprüfung oder Ermittlung unterliegt jedoch der Gesamtkontrolle der FMA als zuständiger Behörde des Mitgliedstaats, in dessen Hoheitsgebiet sie stattfindet. In dem Fall gemäß Abs. 1 Z 2 kann die FMA als zuständige Behörde des Mitgliedstaats, in dessen Hoheitsgebiet die Überprüfung oder Ermittlung durchgeführt wird, beantragen, dass Mitglieder ihres Personals das Personal, das die Überprüfung oder Ermittlung durchführt, unterstützen.
+
+(3) Die FMA als zuständige Behörde kann ein Ersuchen um einen Informationsaustausch oder um Zusammenarbeit bei einer Ermittlung oder einer Überprüfung vor Ort nur in folgenden Fällen ablehnen:
+
+1\. die Ermittlung, die Überprüfung vor Ort oder der Informationsaustausch könnte die Souveränität, Sicherheit oder öffentliche Ordnung Österreichs beeinträchtigen,
+
+2\. aufgrund derselben Handlungen und gegen dieselben Personen ist bereits ein Verfahren vor einem österreichischen Gericht anhängig,
+
+3\. in Österreich ist gegen dieselben Personen und aufgrund derselben Handlungen bereits ein rechtskräftiges Urteil ergangen.
+
+Die FMA als zuständige Behörde hat die ersuchenden zuständigen Behörden über jede nach Abs. 3 getroffene Entscheidung unter Angabe der Gründe zu unterrichten.
+
+(4) Die FMA kann auch mit zuständigen Behörden aus Drittländern im Rahmen der Abs. 1 bis 3 sowie der §§ 61 Abs. 1 und 2 und 64 Abs. 1 zusammenarbeiten. Dies auch für Aufgaben und Zwecke nach Rechtsvorschriften in einem Drittland die jenen nach diesem Bundesgesetz oder der Richtlinie 2011/61/EU gleichwertig sind.
+
+#### § 66 – Streitbeilegung
+
+§ 66. Bei Uneinigkeit zwischen den zuständigen Behörden der Mitgliedstaaten über eine Bewertung, Maßnahme oder Unterlassung einer der zuständigen Behörden in einem Bereich, in dem die Richtlinie 2011/61/EU eine Zusammenarbeit oder Koordinierung der zuständigen Behörden aus mehr als einem Mitgliedstaat vorschreibt, kann die FMA als zuständige Behörde die Angelegenheit an ESMA verweisen, die im Rahmen der ihr durch Art. 19 der Verordnung (EU) Nr. 1095/2010 übertragenen Befugnisse tätig werden kann.
+
+## 10. Teil
+
+### Übergangs- und Schlussbestimmungen
+
+#### § 67 – Übergangsbestimmung
+
+§ 67. (1) AIFM, die vor dem 22. Juli 2013 Tätigkeiten in Österreich nach diesem Bundesgesetz oder der Richtlinie 2011/61/EU ausüben, haben alle erforderlichen Maßnahmen zu setzen, um dem aufgrund dieses Bundesgesetzes erlassenen nationalen Recht nachzukommen und haben bis 22. Juli 2014 einen Antrag auf Konzession gemäß § 5 sowie für die von ihnen verwalteten und vertriebenen AIF einen Antrag auf Bewilligung gemäß § 29 zu stellen oder gegebenenfalls eine Anzeige nach §§ 30, 31, 32 oder 33 einzubringen.
+
+(2) Unbeschadet der §§ 48 ff. ist in Bezug auf Sondervermögen, welche vor dem 22. Juli 2013 als Immobilienfonds gemäß ImmoInvFG oder als AIF gemäß dem 3. Teil erstes Hauptstück des InvFG 2011 errichtet sind, binnen eines Jahres nach Ablauf dieses Datums ein Antrag auf Bewilligung gemäß § 29 zu stellen oder eine Anzeige gemäß §§ 30 oder 32 einzubringen, andernfalls die Vertriebsberechtigung erlischt.
+
+(3) EU-AIFM sowie Nicht-EU-AIFM, die vor dem 22. Juli 2013 AIF in Österreich vertreiben, haben alle erforderlichen Maßnahmen zu setzen, um dem aufgrund dieses Bundesgesetzes erlassenen nationalen Recht nachzukommen und haben bis 21. Juli 2014 einen Antrag auf Zulassung zu stellen, andernfalls die Vertriebsberechtigung des AIF erlischt. AIFM, welche vor dem 22. Juli 2013 Anteile an AIF in Österreich gemäß 3. Teil, 2. Hauptstück InvFG 2011 öffentlich vertreiben dürfen, haben zusätzlich die Anzeige gemäß § 49 auf Zulassung des Vertriebs an Privatkunden bis spätestens 31. Dezember 2014 einzureichen, andernfalls die Berechtigung zum Vertrieb an Privatkunden erlischt.
+
+(3a) AIFM, welche vor dem 22. Juli 2014 Anteile an AIF gemäß § 48 Abs. 1 Z 4 bis 6 öffentlich vertreiben dürfen, haben dem Antrag gemäß § 48 Abs. 8, 8b oder 8d bis spätestens 31. Dezember 2014 einzureichen, anderenfalls die Berechtigung zum Vertrieb an Privatkunden erlischt.
+
+\*(Anm.: Abs. 4 aufgehoben durch Art. 10 Z 24, BGBl. I Nr. 62/2019)*
+
+(5) Sofern AIFM vor dem 22. Juli 2013 AIF des geschlossenen Typs verwalten, die nach dem 22. Juli 2013 keine zusätzlichen Anlagen tätigen, können sie jedoch weiterhin solche AIF verwalten, ohne eine Zulassung gemäß diesem Bundesgesetz oder der Richtlinie 2011/61/EU zu haben.
+
+(6) Sofern AIFM geschlossene AIF verwalten, deren Zeichnungsfrist für Anleger vor Inkrafttreten der Richtlinie 2011/61/EU ablief und die für einen Zeitraum aufgelegt wurden, der spätestens drei Jahre nach dem 22. Juli 2013 abläuft, können sie jedoch weiterhin solche AIF verwalten, ohne – mit Ausnahme von § 20 und gegebenenfalls der §§ 24 bis 28 – die Bestimmungen dieses Bundesgesetzes einhalten oder eine Konzession gemäß diesem Bundesgesetz oder der Richtlinie 2011/61/EU beantragen zu müssen.
+
+(7) Bis 31. Dezember 2013 ist hinsichtlich der Zuordnung der Kosten der FMA § 69a BWG anzuwenden.
+
+(8) Abweichend von § 19 Abs. 5 Z 1 darf der AIFM für von ihm verwaltete AIF bis 22. Juli 2017 eine Verwahrstelle gemäß § 19 Abs. 3 Z 1 bestellen, deren Sitz nicht im Herkunftsmitgliedstaat des AIF liegt. Solche AIF dürfen nicht gemäß §§ 48 und 49 an Privatkunden vertrieben werden.
+
+(9) § 48 Abs. 7, 8a und 8c in der Fassung des Bundesgesetzes BGBl. I Nr. 106/2017 ist auf AIF anzuwenden, die nach dem der Kundmachung des Bundesgesetzes BGBl. I Nr. 46/2019 folgenden Tag neu aufgelegt werden.
+
+(10) Bei AIFM, die kreditvergebende AIF verwalten, die vor dem 15. April 2024 aufgelegt wurden, wird bis zum 16. April 2029 davon ausgegangen, dass sie § 13 Abs. 4a bis 4d und § 14 Abs. 3 einhalten. Wenn der Nominalwert der von einem AIF an einen einzelnen Kreditnehmer vergebenen Kredite oder die Hebelfinanzierung eines AIF über den in § 13 Abs. 4a oder 4b genannten Obergrenzen liegt, dürfen die AIFM, die diese AIF verwalten, diesen Wert oder diese Hebelfinanzierung bis zum 16. April 2029 nicht erhöhen. Liegt der Nominalwert der von einem AIF an einen einzelnen Kreditnehmer vergebenen Kredite oder die Hebelfinanzierung eines AIF unter den in § 13 Abs. 4a oder 4b genannten Obergrenzen, dürfen AIFM, die diese AIF verwalten, diesen Wert oder diese Hebelfinanzierung nicht über diese Obergrenzen hinaus erhöhen.
+
+(11) Bei AIFM, die kreditvergebende AIF verwalten, die vor dem 15. April 2024 aufgelegt wurden und die nach dem 15. April 2024 kein zusätzliches Kapital aufnehmen, wird davon ausgegangen, dass sie § 13 Abs. 4a bis 4d und § 14 Abs. 3 in Bezug auf diese AIF einhalten.
+
+(12) Ungeachtet der Abs. 10 und 11 kann sich ein AIFM, der kreditvergebende AIF verwaltet, die vor dem 15. April 2024 aufgelegt wurden, dafür entscheiden, § 13 Abs. 4a bis 4d und § 14 Abs. 3 zu befolgen, sofern er die FMA darüber in Kenntnis setzt.
+
+(13) Wenn AIF vor dem 15. April 2024 Kredite vergeben haben, können die AIFM diese AIF weiterhin verwalten, ohne § 13 Abs. 3 Z 4 und § 13 Abs. 4e bis 4j in Bezug auf diese Kredite einzuhalten.
+
+> **Anmerkung:** EG/EU: Art. 1, BGBl. I Nr. 70/2014
+
+#### § 68
+
+§ 68. Nach Inkrafttreten dieses Bundesgesetzes und bis zur Vorlage der in Art. 67 Abs. 1 lit. a der Richtlinie 2011/61/EU erwähnten Stellungnahme von ESMA hat die FMA als zuständige Behörde ESMA zu diesem Zweck vierteljährlich Informationen über die AIFM zur Verfügung zu stellen, die ihrer Aufsicht unterliegende AIF gemäß der in dieser Richtlinie vorgesehenen Pass-Regelung oder gemäß der innerstaatlichen Regelungen verwalten und/oder vertreiben. Ferner hat sie ESMA die für eine Bewertung der in Art. 67 Abs. 2 der genannten Richtlinie genannten Punkte erforderlichen Informationen zur Verfügung zu stellen.
+
+#### § 69
+
+§ 69. Nach dem Inkrafttreten des in Art. 67 Abs. 6 der Richtlinie 2011/61/EU erwähnten delegierten Rechtsakts und bis zur Vorlage der in Art. 68 Abs. 1 lit. a der genannten Richtlinie erwähnten ESMA-Stellungnahme hat die FMA als zuständige Behörde ESMA zu diesem Zweck vierteljährlich Informationen über die AIFM zur Verfügung zu stellen, die ihrer Aufsicht unterliegende AIF gemäß der in dieser Richtlinie vorgesehenen Passregelung oder der innerstaatlichen Regelungen verwalten und/oder vertreiben.
+
+#### § 70
+
+§ 70. Für Zwecke der Überprüfung gemäß Art. 69 Abs. 1 der Richtlinie 2011/61/EU hat die FMA der Kommission jährlich Informationen über AIFM zur Verfügung zu stellen, die ihrer Aufsicht unterliegende AIF entweder gemäß der in dieser Richtlinie vorgesehenen Passregelung oder gemäß den innerstaatlichen Regelungen verwalten und/oder vertreiben. Sie hat dabei den Zeitpunkt anzugeben, an dem die Passregelung in ihrem Hoheitsgebiet umgesetzt oder gegebenenfalls angewendet wurde. Die Informationen haben Folgendes zu umfassen:
+
+1\. Angaben zum Sitz der betreffenden AIFM;
+
+2\. gegebenenfalls Angabe der EU-AIF, die von den betreffenden AIFM verwaltet und/oder vertrieben werden;
+
+3\. gegebenenfalls Angabe der Nicht-EU-AIF, die von EU-AIFM verwaltet, aber nicht in der Union vertrieben werden;
+
+4\. gegebenenfalls Angabe der in der Union vertriebenen Nicht-EU-AIF;
+
+5\. Angaben zu der anwendbaren Regelung, ob national oder auf Unionsebene, in deren Rahmen die betreffenden AIFM ihre Tätigkeiten ausüben, und
+
+6\. sonstige Informationen, die wichtig sind, um zu verstehen, wie die Verwaltung und der Vertrieb von AIF durch AIFM in der Union in der Praxis funktioniert.
+
+#### § 71 – Verweise und Verordnungen
+
+§ 71. (1) Soweit in diesem Bundesgesetz auf andere Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden, außer es ist ausdrücklich anderes angeordnet.
+
+(2) Wenn in diesem Bundesgesetz auf folgende Rechtsakte der Europäischen Union verwiesen wird, sind diese, sofern nichts Anderes angeordnet ist, jeweils in der folgenden Fassung anzuwenden:
+
+1\. Richtlinie 2011/61/EU über die Verwalter alternativer Investmentfonds und zur Änderung der Richtlinien 2003/41/EG und 2009/65/EG und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 1095/2010, ABl. Nr. L 174 vom 01.07.2011 S. 1, in der Fassung der Richtlinie (EU) 2024/927, ABl. Nr. L 2024/927 vom 26.03.2024;
+
+2\. Richtlinie (EU) 2016/2341 über die Tätigkeiten und die Beaufsichtigung von Einrichtungen der betrieblichen Altersversorgung, ABl. Nr. L 354 vom 23.12.2016 S. 37;
+
+3\. Richtlinie 2009/65/EG zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW), ABl. Nr. L 302 vom 17.11.2009 S. 32, in der Fassung der Richtlinie (EU) 2024/2994, ABl. Nr. L 2024/2994 vom 04.12.2024;
+
+4\. Richtlinie 2013/34/EU über den Jahresabschluss, den konsolidierten Abschluss und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen und zur Änderung der Richtlinie 2006/43/EG und zur Aufhebung der Richtlinien 78/660/EWG und 83/349/EWG, ABl. Nr. L 182 vom 29.06.2013 S. 19, in der Fassung der Richtlinie (EU) 2021/2101, ABl. Nr. L 429 vom 01.12.2021 S. 1;
+
+5\. Richtlinie 2013/36/EU über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG, ABl. Nr. L 176 vom 27.06.2013 S. 338, in der Fassung der Richtlinie (EU) 2021/338, ABl. Nr. L 68 vom 26.02.2021 S. 14 und der Berichtigung ABl. Nr. L 214 vom 17.06.2021 S. 74;
+
+6\. Richtlinie 2014/65/EU über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU, ABl. Nr. L 173 vom 12.06.2014 S. 349, in der Fassung der Richtlinie (EU) 2021/338, ABl. Nr. L 68 vom 26.02.2021 S. 14
+
+7\. Richtlinie 2004/109/EG zur Harmonisierung der Transparenzanforderungen in Bezug auf Information über Emittenten, deren Wertpapiere zum Handel auf einen geregelten Markt zugelassen sind, und zur Änderung der Richtlinie 2001/34/EG, ABl. Nr. L 390 vom 31.12.2004 S. 38, in der Fassung der Verordnung (EU) 2021/337, ABl. Nr. L 68 vom 26.02.2021 S. 1;
+
+8\. Richtlinie 2002/14/EG zur Festlegung eines allgemeinen Rahmens für die Unterrichtung und Anhörung der Arbeitnehmer in der Europäischen Gemeinschaft – Gemeinsame Erklärung des Europäischen Parlaments, des Rates und der Kommission zur Vertretung der Arbeitnehmer, ABl. Nr. L 080 vom 23.03.2002 S. 29, in der Fassung der Richtlinie (EU) 2015/1794, ABl. Nr. L 263 vom 08.10.2015 S 1;
+
+9\. Verordnung (EU) Nr. 1075/2013 über die Statistik über die Aktiva und Passiva von finanziellen Mantelkapitalgesellschaften, die Verbriefungsgeschäfte betreiben, ABl. Nr. L 297 vom 07.11.2013 S. 107, in der Fassung der Berichtigung ABl. Nr. L 319 vom 29.11.2013 S. 46;
+
+10\. Verordnung (EU) Nr. 575/2013 über Aufsichtsanforderungen an Kreditinstitute und zur Änderung der Verordnung (EU) Nr. 648/2012, ABl. Nr. L 176 vom 27.6.2013 S. 1, in der Fassung der Durchführungsverordnung (EU) 2021/1043, ABl. Nr. L 225 vom 25.06.2021 S. 52 und der Berichtigung, ABl. Nr. L 398 vom 11.11.2021 S. 32;
+
+11\. Verordnung (EU) Nr. 1095/2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Wertpapier- und Marktaufsichtsbehörde), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/77/EG, ABl. Nr. L 331 vom 15.12.2010 S. 84, in der Fassung der Verordnung (EU) 2021/23, ABl. Nr. L 22 vom 22.01.2021 S. 1;
+
+12\. Richtlinie 2006/73/EG zur Durchführung der Richtlinie 2004/39/EG in Bezug auf die organisatorischen Anforderungen an Wertpapierfirmen und die Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie, ABl. Nr. L 241 vom 02.09.2006 S. 26;
+
+13\. Richtlinie 98/26/EG über die Wirksamkeit von Abrechnungen in Zahlungs- sowie Wertpapierliefer– und –abrechnungssystemen, ABl. Nr. L 166 vom 11.06.1998 S. 45, in der Fassung der Richtlinie (EU) 2019/879, ABl. 150 vom 07.06.2019 S. 296;
+
+14\. Richtlinie 2006/43/EG über Abschlussprüfungen von Jahresabschlüssen und konsolidierten Abschlüssen, zur Änderung der Richtlinien 78/660/EWG und 83/349/EWG und zur Aufhebung der Richtlinie 84/253/EWG des Rates, ABl. Nr. L 157 vom 09.06.2006 S. 87, in der Fassung der Richtlinie 2014/56/EU, ABl. Nr. L 158 vom 27.05.2014 S. 196;
+
+15\. Richtlinie 2003/71/EG betreffend den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel zu veröffentlichen ist, und zur Änderung der Richtlinie 2001/34/EG, ABl. Nr. L 345 vom 31.12.2003 S. 64, aufgehoben durch die Verordnung (EU) 2017/1129 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG, ABl. 168 vom 30.06.2017 S. 12, in der Fassung der Verordnung (EU) 2021/337, ABl. Nr. L 68 vom 26.02.2021 S. 1;
+
+16\. Richtlinie 2004/25/EG betreffend Übernahmeangebote, ABl. Nr. L 142 vom 30.04.2004 S. 12, in der Fassung der Richtlinie 2014/59/EU, ABl. Nr. L 173 vom 12.06.2014 S. 190;
+
+17\. Richtlinie 2012/30/EU zur Koordinierung der Schutzbestimmungen, die in den Mitgliedstaaten den Gesellschaften im Sinne des Artikels 54 Absatz 2 des Vertrages über die Arbeitsweise der Europäischen Union im Interesse der Gesellschafter sowie Dritter für die Gründung der Aktiengesellschaft sowie für die Erhaltung und Änderung ihres Kapitals vorgeschrieben sind, um diese Bestimmungen gleichwertig zu gestalten, ABl. Nr. L 315 vom 14.11.2012 S. 74, aufgehoben durch die Richtlinie 2014/59/EU zur Festlegung eines Rahmens für die Sanierung und Abwicklung von Kreditinstituten und Wertpapierfirmen und zur Änderung der Richtlinie 82/891/EWG, der Richtlinien 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU und 2013/36/EU sowie der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 648/2012, ABl. Nr. L 173 vom 12.06.2014 S. 190;
+
+18\. Verordnung (EU) Nr. 1094/2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/79/EG, ABl. Nr. L 331 vom 15.12.2010 S. 48, in der Fassung der Verordnung (EU) 2019/2175, ABl. Nr. L 334 vom 27.12.2019 S. 1;
+
+19\. Verordnung (EU) 2016/679 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung), ABl. Nr. L 119 vom 04.05.2016 S. 1, in der Fassung der Berichtigung ABl. Nr. L 074 vom 04.03.2021 S. 35;
+
+20\. Verordnung (EU) Nr. 345/2013 über Europäische Risikokapitalfonds, ABl. Nr. L 115 vom 25.04.2013 S. 1, in der Fassung der Verordnung (EU) 2023/2869, ABl. Nr. L 2023/2869 vom 20.12.2023;
+
+21\. Verordnung (EU) Nr. 346/2013 über Europäische Fonds für soziales Unternehmertum, ABl. Nr. L 115 vom 25.04.2013 S. 18, in der Fassung der Verordnung (EU) 2023/2869, ABl. Nr. L 2023/2869 vom 20.12.2023;
+
+22\. Verordnung (EU) 2015/760 über europäische langfristige Investmentfonds, ABl. Nr. L 123 vom 19.05.2015 S. 98, in der Fassung der Verordnung (EU) 2023/2869, ABl. Nr. L 2023/2869 vom 20.12.2023;
+
+23\. Verordnung (EU) 2017/1131 über Geldmarktfonds, ABl. Nr. L 169 vom 30.06.2017 S. 8, in der Fassung der Verordnung (EU) 2023/2869, ABl. Nr. L 2023/2869 vom 20.12.2023;
+
+24\. Verordnung (EU) 2017/2402 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefung und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012, ABl. Nr. L 347 vom 28.12.2017 S. 35, in der Fassung der Verordnung (EU) 2021/557, ABl. Nr. L 116 vom 06.04.2021 S. 1;
+
+25\. Verordnung (EU) 2019/1156 zur Erleichterung des grenzüberschreitenden Vertriebs von Organismen für gemeinsame Anlagen und zur Änderung der Verordnungen (EU) Nr. 345/2013, (EU) Nr. 346/2013 und (EU) Nr. 1286/2014, ABl. Nr. L 188 vom 12.07.2019 S. 55;
+
+26\. Verordnung (EU) 2019/2088 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor, ABl. Nr. L 17 vom 09.12.2019 S. 1, in der Fassung der Verordnung (EU) 2023/2869, ABl. Nr. L 2023/2869 vom 20.12.2023;
+
+27\. Verordnung (EU) 2020/852 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088, ABl. Nr. L 198 vom 22.06.2020 S. 13;
+
+28\. Verordnung (EU) 2017/1129 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG, ABl. 168 vom 30.06.2017 S. 12, in der Fassung der Verordnung (EU) 2021/337, ABl. Nr. L 68 vom 26.02.2021 S. 1;
+
+29\. Richtlinie 2014/59/EU zur Festlegung eines Rahmens für die Sanierung und Abwicklung von Kreditinstituten und Wertpapierfirmen und zur Änderung der Richtlinie 82/891/EWG, der Richtlinien 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU und 2013/36/EU sowie der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 648/2012, ABl. Nr. L 173 vom 12.06.2014 S. 190, in der Fassung der Verordnung (EU) 2021/23, ABl. Nr. 22 vom 22.02.2021 S. 1;
+
+30\. Verordnung (EU) 2019/2033 über Aufsichtsanforderungen an Wertpapierfirmen und zur Änderung der Verordnungen (EU) Nr. 1093/2010, (EU) Nr. 575/2013, (EU) Nr. 600/2014 und (EU) Nr. 806/2014, ABl. Nr. L 314 vom 05.12.2019 S. 1, in der Fassung der Berichtigung ABl. Nr. L 261 vom 22.07.2021 S. 60;
+
+31\. Verordnung (EU) 2022/2554 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011, ABl. Nr. L 333 vom 27.12.2022 S. 1;
+
+32\. Verordnung (EU) 2023/2859 zur Einrichtung eines zentralen europäischen Zugangsportals für den zentralisierten Zugriff auf öffentlich verfügbare, für Finanzdienstleistungen, Kapitalmärkte und Nachhaltigkeit relevante Informationen, ABl. Nr. L 2023/2859 vom 20.12.2023, in der Fassung der Richtlinie (EU) 2024/1760, ABl. Nr. L 2024/1760 vom 05.07.2024;
+
+33\. Richtlinie (EU) 2023/2864 zur Änderung bestimmter Richtlinien in Bezug auf die Einrichtung und die Funktionsweise des zentralen europäischen Zugangsportals, ABl. Nr. L 2023/2864 vom 20.12.2023, in der Fassung der Berichtigung ABl. Nr. L 2024/90411 vom 15.07.2024;
+
+34\. Verordnung (EU) 2023/2869 zur Änderung bestimmter Verordnungen in Bezug auf die Einrichtung und die Funktionsweise des zentralen europäischen Zugangsportals, ABl. Nr. L 2023/2869 vom 20.12.2023;
+
+35\. Delegierte Verordnung (EU) Nr. 231/2013 zur Ergänzung der Richtlinie 2011/61/EU im Hinblick auf Ausnahmen, die Bedingungen für die Ausübung der Tätigkeit, Verwahrstellen, Hebelfinanzierung, Transparenz und Beaufsichtigung, ABl. Nr. L 83 vom 22.03.2013 S. 1, in der Fassung der delegierten Verordnung (EU) 2024/382, ABl. Nr. L 2024/382 vom 23.01.2024;
+
+36\. Verordnung (EU) Nr. 909/2014 zur Verbesserung der Wertpapierlieferungen und -abrechnungen in der Europäischen Union und über Zentralverwahrer sowie zur Änderung der Richtlinien 98/26/EG und 2014/65/EU und der Verordnung (EU) Nr. 236/2012, ABl. Nr. L 173 vom 12.06.2014 S. 84, in der Fassung der Verordnung (EU) 2023/2845, ABl. Nr. L 2023/2845 vom 27.12.2023;
+
+37\. Verordnung (EU) 2016/1011 über Indizes, die bei Finanzinstrumenten und Finanzkontrakten als Referenzwert oder zur Messung der Wertentwicklung eines Investmentfonds verwendet werden, und zur Änderung der Richtlinien 2008/48/EG und 2014/17/EU sowie der Verordnung (EU) Nr. 596/2014, ABl. Nr. L 171 vom 29.06.2016 S. 1, in der Fassung der Verordnung (EU) 2025/914, ABl. Nr. L 2025/914 vom 19.05.2025;
+
+38\. Richtlinie (EU) 2021/2167 über Kreditdienstleister und Kreditkäufer sowie zur Änderung der Richtlinien 2008/48/EG und 2014/17/EU, ABl. Nr. L 438 vom 08.12.2021 S. 1;
+
+39\. Verordnung (EU) Nr. 1092/2010 über die Finanzaufsicht der Europäischen Union auf Makroebene und zur Errichtung eines Europäischen Ausschusses für Systemrisiken, ABl. Nr. L 331 vom 15.12.2010, S. 1;
+
+40\. Richtlinie (EU) 2016/97 über Versicherungsvertrieb, ABl. Nr. L 25 vom 02.02.2016 S. 19, in der Fassung der delegierten Verordnung (EU) 2024/896 zur Änderung der Richtlinie (EU) 2016/97 durch technische Regulierungsstandards zur Anpassung der Grundbeträge in Euro für die Berufshaftpflichtversicherung und die finanzielle Leistungsfähigkeit von Versicherungsvermittlern, Rückversicherungsvermittlern und Versicherungsvermittlern in Nebentätigkeit, ABl. Nr. L 2024/896 vom 20.03.2024.
+
+(3) Verordnungen auf Grund dieses Bundesgesetzes in seiner jeweiligen Fassung dürfen bereits von dem Tag an erlassen werden, der der Kundmachung des durchzuführenden Bundesgesetzes folgt; sie dürfen jedoch nicht vor den durchzuführenden Gesetzesbestimmungen in Kraft treten.
+
+> **Anmerkung:** EU: Art. 1, BGBl. I Nr. 70/2014
+
+#### § 71a – Umsetzungshinweis
+
+§ 71a. (1) Mit dem Bundesgesetz BGBl. I Nr. 135/2013 werden
+
+1\. die Richtlinie 2011/61/EU über die Verwalter alternativer Investmentfonds und zur Änderung der Richtlinien 2003/41/EG und 2009/65/EG und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 1095/2010 ABl. Nr. L 174 vom 01.07.2011 S. 1, in der Fassung der Berichtigung ABl. Nr. L 155 vom 27.04.2012 S. 35 umgesetzt sowie
+
+2\. die Voraussetzungen für das Wirksamwerden der
+
+a) Verordnung (EU) Nr. 345/2013 über Europäische Risikokapitalfonds, ABl. Nr. L 115 vom 25.04.2013 S. 1 und
+
+b) Verordnung (EU) Nr. 346/2013 über Europäische Fonds für soziales Unternehmertum, ABl. Nr. L 115 vom 25.04.2013 S. 18 und
+
+geschaffen.
+
+(2) Mit dem Bundesgesetz BGBl. I Nr. 70/2014 wird die Richtlinie 2013/14/EU zur Änderung der Richtlinie 2003/41/EG über die Tätigkeiten und die Beaufsichtigung von Einrichtungen der betrieblichen Altersvorsorge, der Richtlinie 2009/65/EG zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) und der Richtlinie 2011/61/EU über die Verwalter alternativer Investmentfonds im Hinblick auf übermäßigen Rückgriff auf Ratings, ABl. Nr. L 145 vom 31.05.2013 S. 1, umgesetzt.
+
+(3) Mit dem Bundesgesetz BGBl. I Nr. 98/2014 wird Artikel 92 der Richtlinie 2014/65/EU über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU, ABl. Nr. L 173 vom 12.6.2014 S. 349, umgesetzt.
+
+(4) Mit dem Bundesgesetz BGBl. I Nr. 107/2017 wird die Richtlinie 2014/65/EU über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU, ABl. Nr. L 173 vom 12.06.2014 S. 349, in der Fassung der Richtlinie (EU) 2016/1034, ABl. Nr. L 175 vom 23.06.2016 S. 8, in der Fassung der Berichtigung, ABl. Nr. L 64 vom 10.03.2017 S. 116 umgesetzt.
+
+(5) Das Bundesgesetz BGBl. I Nr. 198/2021 dient
+
+1\. der Umsetzung der Richtlinie (EU) 2019/1160 zur Änderung der Richtlinien 2009/65/EG und 2011/61/EU im Hinblick auf den grenzüberschreitenden Vertrieb von Organismen für gemeinsame Anlagen, ABl. Nr. L 188 vom 12.07.2019 S. 106, und
+
+2\. dem Wirksamwerden der Verordnung (EU) 2019/1156 zur Erleichterung des grenzüberschreitenden Vertriebs von Organismen für gemeinsame Anlagen und zur Änderung der Verordnungen (EU) Nr. 345/2013, (EU) Nr. 346/2013 und (EU) Nr. 1286/2014, ABl. Nr. L 188 vom 12.07.2019 S. 55.
+
+(6) Das Bundesgesetz BGBl. I Nr. 36/2022 dient dem Wirksamwerden
+
+1\. der Verordnung (EU) 2019/2088 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor, ABl. Nr. L 17 vom 09.12.2019 S. 1, in der Fassung der Verordnung (EU) 2020/852, ABl. Nr. L 198 vom 22.06.2020 S. 13, und
+
+2\. der Verordnung (EU) 2020/852 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088, ABl. Nr. L 198 vom 22.06.2020 S. 13.
+
+(7) Das Bundesgesetz BGBl. I Nr. 112/2022 dient dem Wirksamwerden der Richtlinie (EU) 2021/2261 zur Änderung der Richtlinie 2009/65/EG im Hinblick auf die Verwendung von Basisinformationsblättern durch Verwaltungsgesellschaften von Organismen für gemeinsame Anlagen in Wertpapieren (OGAW), ABl. Nr. L 455 vom 20.12.2021 S. 15.
+
+(8) Das Bundesgesetz BGBl. I Nr. 111/2024 dient dem Wirksamwerden der Verordnung (EU) 2015/760 über europäische langfristige Investmentfonds, ABl. Nr. L 123 vom 19.05.2015, S. 98, in der Fassung der Verordnung (EU) 2023/606, ABl. Nr. L 80 vom 20.03.2023 S. 1.
+
+(9) Das Bundesgesetz BGBl. I Nr. 112/2024 dient der Umsetzung der Richtlinie (EU) 2022/2556 zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU, 2013/36/EU, 2014/59/EU, 2014/65/EU, (EU) 2015/2366 und (EU) 2016/2341 hinsichtlich der digitalen operationalen Resilienz im Finanzsektor, ABl. Nr. L 333 vom 27.12.2022 S. 153.
+
+(10) Das Bundesgesetz BGBl. I Nr. 5/2026 dient der Umsetzung der Richtlinie (EU) 2023/2864 und dem wirksamen Vollzug der Verordnung (EU) 2023/2859 sowie der Verordnung (EU) 2023/2869.
+
+(11) Das Bundesgesetz BGBl. I Nr. 6/2026 dient der Umsetzung der Richtlinie (EU) 2022/2464 zur Änderung der Verordnung (EU) Nr. 537/2014 und der Richtlinien 2004/109/EG, 2006/43/EG und 2013/34/EU hinsichtlich der Nachhaltigkeitsberichterstattung von Unternehmen, ABl. Nr. L 322 vom 16.12.2022 S. 15.
+
+(12) Das Bundesgesetz BGBl. I Nr. 57/2026 dient der Umsetzung der Richtlinie (EU) 2024/927 zur Änderung der Richtlinien 2011/61/EU und 2009/65/EG im Hinblick auf Übertragungsvereinbarungen, Liquiditätsrisikomanagement, die aufsichtliche Berichterstattung, die Erbringung von Verwahr- und Hinterlegungsdienstleistungen und die Kreditvergabe durch alternative Investmentfonds, ABl. Nr. L 2024/927 vom 26.03.2024.
+
+#### § 72 – Sprachliche Gleichbehandlung
+
+§ 72. Soweit in diesem Bundesgesetz personenbezogene Bezeichnungen nur in männlicher Form angeführt sind, beziehen sie sich auf Frauen und Männer in gleicher Weise. Bei der Anwendung auf bestimmte Personen ist die jeweils geschlechtsspezifische Form zu verwenden.
+
+#### § 73 – Vollziehung
+
+§ 73. Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Finanzen betraut.
+
+#### § 74 – Inkrafttreten
+
+§ 74. (1) Dieses Bundesgesetz tritt mit Ausnahme der §§ 35 bis 37, §§ 39 bis 46, § 56 Abs. 5 und 6 und § 60 mit 22. Juli 2013 in Kraft. § 60 tritt mit dem der Kundmachung folgenden Tag in Kraft. §§ 35 bis 37 und §§ 39 bis 46 gelten gemäß dem von der Europäischen Kommission nach Artikel 67 Abs. 6 der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakte und erst ab dem darin bestimmten Zeitpunkt.
+
+(2) § 56 Abs. 5 und 6 tritt mit 1. Jänner 2014 in Kraft und ist auf Geschäftsjahre der FMA anzuwenden, die nach dem 31. Dezember 2013 beginnen.
+
+(3) § 13 Abs. 2 und 3a und § 71 Abs. 2 Z 1 bis 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 70/2014 treten mit 21. Dezember 2014 in Kraft. § 48 Abs. 1a in der Fassung des Bundesgesetzes BGBl. I Nr. 70/2014 ist auf Neugeschäft anzuwenden, das nach dem 1. August 2014 abgeschlossen wurde.
+
+(4) Das Inhaltsverzeichnis zu §§ 32 und 33, § 2 Abs. 1 Z 18, die Überschriften vor §§ 32 und 33, § 32 Abs. 1 und 2 und § 33 Abs. 1 und 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 98/2014 treten mit 3. Juli 2015 in Kraft.
+
+(5) § 2 Abs. 1, § 22 Abs. 6 und § 71 Abs. 2 Z 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 68/2015 treten mit 20. Juli 2015 in Kraft. Bei Unterlagen der Rechnungslegung für Geschäftsjahre, die vor dem 1. Jänner 2016 begonnen haben, ist § 22 Abs. 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 68/2015 mit der Maßgabe anzuwenden, dass die Bestimmungen des BWG gemäß den Vorgaben des § 107 Abs. 87 BWG anzuwenden sind.
+
+(6) § 60 Abs. 2 Z 20 und 20a in der Fassung des Bundesgesetzes BGBl. I Nr. 73/2016 tritt mit 13. Jänner 2017 in Kraft. § 60 Abs. 2 Z 20b in der Fassung des Bundesgesetzes BGBl. I Nr. 73/2016 tritt mit 13. Juli 2017 in Kraft.
+
+(7) § 19 Abs. 6 Z 3, § 35 Abs. 3 Z 2, § 36 Abs. 3 Z 2, § 38 Abs. 1 Z 3, § 39 Abs. 5 Z 4, § 42 Abs. 2 Z 2 und § 47 Abs. 5 Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 118/2016 treten mit 1. Jänner 2017 in Kraft. § 10 Abs. 3 und § 60 Abs. 3 und 4 treten mit Ablauf des 31. Dezember 2016 außer Kraft.
+
+(8) § 2 Abs. 1 Z 36, § 2 Abs. 1 Z 42 lit. a und e, § 4 Abs. 6 und 8, § 7 Abs. 5 und § 10 Abs. 2, § 48 Abs. 8a Z 8 und Abs. 8c Z 12 in der Fassung des Bundesgesetzes BGBl. I Nr. 107/2017 treten mit 3. Jänner 2018 in Kraft. § 60 Abs. 8 tritt mit Ablauf des 2. Jänner 2018 außer Kraft.
+
+(9) § 1 Abs. 5 und § 67 Abs. 9 in der Fassung des Bundesgesetzes BGBl. I Nr. 106/2017 treten nicht in Kraft. § 2 Abs. 1 Z 42, § 48 Abs. 5 Z 7 bis 9, Abs. 7 Z 11 bis 13, Abs. 8a Z 1, 2, 7 bis 10, Abs. 8c Z 11 bis 14 und Abs. 12 in der Fassung des genannten Bundesgesetzes treten mit dem der Kundmachung des Bundesgesetzes BGBl. I Nr. 46/2019 folgenden Tag in Kraft. § 48 Abs. 1 Z 6 und 7, Abs. 1a, 8e und 8f, § 49 Abs. 1 Z 3 lit. d und § 58 in der Fassung des Bundesgesetzes BGBl. I Nr. 106/2017 treten am ersten Tag des zweitfolgenden Monats nach der Nichtuntersagung durch die Europäische Kommission in Kraft; der Bundesminister für Finanzen hat diesen Zeitpunkt im Bundesgesetzblatt kundzumachen *(Anm.: vgl. BGBl. I Nr. 88/2019)*.
+
+(10) § 15 und § 71 Abs. 2 Z 23 und 24 in der Fassung des Bundesgesetzes BGBl. I Nr. 76/2018 treten mit 1. Jänner 2019 in Kraft.
+
+(11) § 1 Abs. 5 und § 67 Abs. 9 in der Fassung des Bundesgesetzes BGBl. I Nr. 46/2019 treten mit dem der Kundmachung des genannten Bundesgesetzes folgenden Tag in Kraft.
+
+(12) § 2 Abs. 4, § 21 Abs. 3, § 30 Abs. 5, § 31 Abs. 3, § 32 Abs. 7, § 33 Abs. 2, § 38 Abs. 5, § 47 Abs. 4, § 48 Abs. 5 Z 1, Abs. 6 Z 1 bis 4, Abs. 8 Z 1 und 2, Abs. 8b Z 1 und Z 2 und Abs. 8d Z 1 und 2 und § 49 Abs. 8 in der Fassung des Bundesgesetzes BGBl. I Nr. 62/2019 treten mit 21. Juli 2019 in Kraft. § 67 Abs. 4 tritt mit Ablauf des 20. Juli 2019 außer Kraft.
+
+(13) § 35 Abs. 5, § 36 Abs. 5, § 37 Abs. 3, § 40 Abs. 7, § 41 Abs. 3, § 42 Abs. 8, § 43 Abs. 3 und § 45 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 62/2019 gelten gemäß dem von der Europäischen Kommission nach Art. 67 Abs. 6 der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakte und erst ab dem darin bestimmten Zeitpunkt.
+
+(14) § 48 Abs. 8f Z 1 und 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 62/2019 tritt am ersten Tag des zweitfolgenden Monats nach der Nichtuntersagung durch die Europäische Kommission in Kraft.
+
+(15) Das Inhaltsverzeichnis zu den §§ 3a, 28a, 33a, 48a und 71a, § 1 Abs. 3 Z 2, § 2 Abs. 1 Z 7 lit. b, Z 14, 20, 29, 30, 33 und 43, § 3a samt Überschrift, § 4 Abs. 4 Z 1 und Abs. 8, § 19 Abs. 3 Z 2, § 28a samt Überschrift, § 29 Abs. 5, § 30 Abs. 6, § 32 Abs. 6, § 33a samt Überschrift, § 47 Abs. 12 und 13, § 48a samt Überschrift, § 49 Abs. 6, § 51 Abs. 2 und 3, § 58, § 71 Abs. 2 Z 1 bis 8, 10, 11, 13, 14, 16 18 bis 21, 24 und 25, § 71a samt Überschrift und lit. h bis j der Anlage 4 zu § 30 in der Fassung des Bundesgesetzes BGBl. I Nr. 198/2021 treten mit dem auf die Kundmachung folgenden Tag in Kraft.
+
+(16) § 51 Abs. 3, § 54 Abs. 3, § 56 Abs. 2 Z 5 und Z 9, § 60 Abs. 2 Z 11a, 11c, 11d und 11e, § 71 Abs. 2 Z 25 bis 27 und § 71a Abs. 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 36/2022 treten mit dem auf die Kundmachung folgenden Tag in Kraft.
+
+(17) § 60 Abs. 2 Z 11b in der Fassung des Bundesgesetzes BGBl. I Nr. 36/2022 tritt mit 30. Dezember 2022 in Kraft.
+
+(18) In § 48 treten die Abs. 5 Z 7, Abs. 7 Z 11, Abs. 8a Z 6, Abs. 8c Z 10 und Abs. 8e Z 5, in § 49 die Abs. 3 Z 5 und Abs. 4 und § 71a Abs. 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 112/2022 mit 1. Jänner 2023 in Kraft.
+
+(19) § 4 Abs. 6, § 7 Abs. 5 und § 71 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 237/2022 treten mit 1. Februar 2023 in Kraft.
+
+(20) § 58 in der Fassung des Bundesgesetzes BGBl. I Nr. 111/2023 tritt mit dem auf die Kundmachung folgenden Tag in Kraft.
+
+(21) § 48a Abs. 1, § 71 Abs. 2 Z 22 sowie § 71a Abs. 8 in der Fassung des Bundesgesetzes BGBl. I Nr. 111/2024 treten mit dem auf die Kundmachung folgenden Tag in Kraft.
+
+(22) § 16 Abs. 2, § 71 Abs. 2 Z 31 sowie § 71a Abs. 9 in der Fassung des Bundesgesetzes BGBl. I Nr. 112/2024 treten mit 17. Jänner 2025 in Kraft.
+
+(23) Das Inhaltsverzeichnis hinsichtlich § 54, die Überschrift zu § 54, § 54 Abs. 4 bis 6, § 56 Abs. 7, § 60 Abs. 2 Z 11f und 11g, § 71 Abs. 2 Z 1, 20 bis 23, 26 und 32 bis 34 und § 71a Abs. 10 in der Fassung des Bundesgesetzes BGBl. I Nr. 5/2026 treten mit dem auf die Kundmachung folgenden Tag in Kraft. § 54 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 5/2026 ist ab dem 10. Jänner 2028 anzuwenden. Die FMA hat der ESMA bis zum 9. Jänner 2028 mitzuteilen, dass sie Sammelstelle gemäß Art. 18a Abs. 3 der Verordnung (EU) 2019/2088 ist. § 54 Abs. 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 5/2026 ist ab dem 10. Jänner 2030 anzuwenden. Die FMA hat der ESMA bis zum 9. Jänner 2030 mitzuteilen, dass sie Sammelstelle gemäß Art. 3 Abs. 2 der Verordnung (EU) 2023/2859 für die Erhebung freiwillig übermittelter Informationen ist, die in der Richtlinie 2011/61/EU, der Verordnung (EU) Nr. 345/2013, der Verordnung (EU) Nr. 346/2013, der Verordnung (EU) 2015/760, der Verordnung (EU) 2017/1131 und der Verordnung (EU) 2019/2088 angeführt sind.
+
+(24) Das Inhaltsverzeichnis zu Anlage 5 zu § 14, § 2 Abs. 1 Z 44 bis 49, § 4 Abs. 4 Z 2 lit. c und d, Z 3 und 4, Abs. 5 Z 3 bis 5 und Abs. 6, § 5 Abs. 2 und 5, § 6 Abs. 1 Z 3, § 10 Abs. 3, § 12 Abs. 2a, § 13 Abs. 3 Z 3 und 4, Abs. 3b, 3c und Abs. 4a bis 4j, § 14 Abs. 3 bis 10, der Einleitungsteil des § 18 Abs. 1, § 18 Abs. 1 Z 7, Abs. 3, 3a und 4 bis 6, § 19 Abs. 5 Z 1, Abs. 6 Z 4, Abs. 6a. Abs. 11 Z 3, der Schlussteil des § 19 Abs. 11, § 19 Abs. 16, Abs. 18 Z 2, § 21 Abs. 1 Z 1, 8 und 9a, Abs. 4 Z 3 bis 6, § 23 Abs. 2, § 38 Abs. 1 Z 4, § 47 Abs. 5 Z 3, § 48 Abs. 1 Z 6 bis 8, Abs. 8g und 8h, § 49 Abs. 1a, § 56 Abs. 2 Z 10, § 58, § 59 Abs. 2, 3 und 3a, § 61 Abs. 4 bis 10, § 67 Abs. 10 bis 13, § 71 Abs. 2 Z 1, 3 und 34 bis 40, § 71a Abs. 12, Anlage 1 zu § 4 Z 2 lit. c bis e und Anlage 5 zu § 14 in der Fassung des Bundesgesetzes BGBl. I Nr. 57/2026 treten mit dem auf die Kundmachung folgenden Tag in Kraft. § 22 Abs. 1 und Abs. 2 Z 3 bis 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 57/2026 treten mit 16. April 2027 in Kraft. § 35 Abs. 3 Z 3, § 36 Abs. 3 Z 3, § 39 Abs. 5 Z 5, der Schlussteil des § 39 Abs. 5 und § 42 Abs. 2 Z 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 57/2026 treten gemäß dem von der Europäischen Kommission nach Artikel 67 Abs. 6 der Richtlinie 2011/61/EU erlassenen delegierten Rechtsakt und erst ab dem darin bestimmten Zeitpunkt in Kraft. § 4 Abs. 5 Z 2 tritt mit dem auf die Kundmachung folgenden Tag außer Kraft.
+
+#### Anlage 1 zu § 4
+
+1\. Anlageverwaltungsfunktionen, die ein AIFM bei der Verwaltung eines AIF mindestens übernehmen muss:
+
+a) Portfolioverwaltung,
+
+b) Risikomanagement.
+
+2\. Andere Aufgaben, die ein AIFM im Rahmen der kollektiven Verwaltung eines AIF zusätzlich ausüben kann:
+
+a) administrative Tätigkeiten:
+
+i) rechtliche Dienstleistungen sowie Dienstleistungen der Fondsbuchhaltung und Rechnungslegung,
+
+ii) Kundenanfragen,
+
+iii) Bewertung und Preisfestsetzung, einschließlich Steuererklärungen,
+
+iv) Überwachung der Einhaltung der Rechtsvorschriften,
+
+v) Führung eines Anlegerregisters,
+
+vi) Gewinnausschüttung,
+
+vii) Ausgabe und Rücknahme von Anteilen,
+
+viii) Kontraktabrechnungen, einschließlich Versand der Zertifikate,
+
+ix) Führung von Aufzeichnungen;
+
+b) Vertrieb;
+
+c) Tätigkeiten im Zusammenhang mit den Vermögenswerten des AIF, worunter Dienstleistungen, die zur Erfüllung der treuhänderischen Pflichten des AIFM erforderlich sind, das Facility Management, die Immobilienverwaltung, die Beratung von Unternehmen über die Kapitalstruktur, die industrielle Strategie und damit verbundene Fragen, Beratungs- und Dienstleistungen im Zusammenhang mit Fusionen und dem Erwerb von Unternehmen und weitere Dienstleistungen in Verbindung mit der Verwaltung der AIF und der Unternehmen und anderer Vermögenswerte, in die die AIF investiert haben, fallen;
+
+d) Gewährung von Krediten im Namen des AIF;
+
+e) Verwaltung von Verbriefungszweckgesellschaften.
+
+#### Anlage 2 zu § 11
+
+\**Vergütungspolitik**
+
+1\. Bei der Festlegung und Anwendung der gesamten Vergütungspolitik einschließlich der Gehälter und freiwilligen Altersversorgungsleistungen für jene Mitarbeiterkategorien, einschließlich Geschäftsleitung, Risikoträger und Mitarbeiter mit Kontrollfunktionen und aller Mitarbeiter, die eine Gesamtvergütung erhalten, aufgrund derer sie sich in derselben Einkommensstufe befinden wie Mitglieder der Geschäftsleistung und Risikoträger, deren Tätigkeit sich wesentlich auf die Risikoprofile der AIFM oder von ihnen verwalteter AIF auswirkt, wenden AIFM die nachstehend genannten Grundsätze nach Maßgabe ihrer Größe, ihrer internen Organisation und der Art, dem Umfang und der Komplexität ihrer Geschäfte an:
+
+a) Die Vergütungspolitik ist mit einem soliden und wirksamen Risikomanagement vereinbar und diesem förderlich und ermutigt nicht zur Übernahme von Risiken, die unvereinbar sind mit den Risikoprofilen, Vertragsbedingungen oder Satzungen der von ihnen verwalteten AIF;
+
+b) die Vergütungspolitik steht mit Geschäftsstrategie, Zielen, Werten und Interessen des AIFM und der von ihm verwalteten AIF oder der Anleger solcher AIF in Einklang und umfasst auch Maßnahmen zur Vermeidung von Interessenkonflikten;
+
+c) das Leitungsorgan des AIFM legt in seiner Aufsichtsfunktion die allgemeinen Grundsätze der Vergütungspolitik fest, überprüft sie regelmäßig und ist für ihre Umsetzung verantwortlich;
+
+d) mindestens einmal jährlich wird im Rahmen einer zentralen und unabhängigen internen Überprüfung festgestellt, ob die Vergütungspolitik gemäß den vom Leitungsorgan in seiner Aufsichtsfunktion festgelegten Vergütungsvorschriften und –verfahren umgesetzt wurde;
+
+e) die Mitarbeiter, die Kontrollfunktionen innehaben, werden entsprechend der Erreichung der mit ihren Aufgaben verbundenen Ziele entlohnt, und zwar unabhängig von den Leistungen in den von ihnen kontrollierten Geschäftsbereichen;
+
+f) die Vergütung höherer Führungskräfte in den Bereichen Risikomanagement und Compliance-Aufgaben wird vom Vergütungsausschuss unmittelbar überprüft;
+
+g) bei erfolgsabhängiger Vergütung liegt der Vergütung insgesamt eine Bewertung sowohl der Leistung des betreffenden Mitarbeiters und seiner Abteilung oder des betreffenden AIF als auch des Gesamtergebnisses des AIFM zugrunde, und bei der Bewertung der individuellen Leistung werden finanzielle wie auch nicht finanzielle Kriterien berücksichtigt;
+
+h) um zu gewährleisten, dass die Beurteilung auf die längerfristige Leistung abstellt und die tatsächliche Auszahlung erfolgsabhängiger Vergütungskomponenten über einen Zeitraum verteilt ist, der der Rücknahmepolitik der von ihm verwalteten AIF und ihren Anlagerisiken Rechnung trägt, sollte die Leistungsbeurteilung in einem mehrjährigen Rahmen erfolgen, der dem Lebenszyklus der vom AIFM verwalteten AIF entspricht;
+
+i) eine garantierte variable Vergütung kann nur in Ausnahmefällen im Zusammenhang mit der Einstellung neuer Mitarbeiter gezahlt werden und ist auf das erste Jahr beschränkt;
+
+j) bei der Gesamtvergütung stehen feste und variable Bestandteile in einem angemessenen Verhältnis und der Anteil der festen Komponente an der Gesamtvergütung ist genügend hoch, dass eine flexible Politik bezüglich der variablen Komponente uneingeschränkt möglich ist und auch ganz auf die Zahlung einer variablen Komponente verzichtet werden kann;
+
+k) Zahlungen im Zusammenhang mit der vorzeitigen Beendigung eines Vertrags spiegeln die im Laufe der Zeit erzielten Ergebnisse wider und sind so gestaltet, dass sie Versagen nicht belohnen;
+
+l) die Erfolgsmessung, anhand derer variable Vergütungskomponenten oder Pools von variablen Vergütungskomponenten berechnet werden, schließt einen umfassenden Berichtigungsmechanismus für alle einschlägigen Arten von laufenden und künftigen Risiken ein;
+
+m) je nach der rechtlichen Struktur des AIF und seiner Vertragsbedingungen oder seiner Satzung muss ein erheblicher Anteil der variablen Vergütungskomponente, und in jedem Fall mindestens 50 vH, aus Anteilen des betreffenden AIF oder gleichwertigen Beteiligungen oder mit Anteilen verknüpften Instrumenten oder gleichwertigen unbaren Instrumenten bestehen; der Mindestwert von 50 vH kommt jedoch nicht zur Anwendung, wenn weniger als 50 vH des vom AIFM verwalteten Gesamtportfolios auf AIF entfallen. Für die Instrumente nach dieser lit. gilt eine geeignete Rückstellungspolitik, die darauf abstellt, die Anreize an den Interessen des AIFM und der von diesem verwalteten AIF sowie an den Interessen der Anleger der AIF auszurichten. Die Mitgliedstaaten oder die zuständigen nationalen Behörden können Einschränkungen betreffend die Arten und Formen dieser Instrumente beschließen oder, sofern dies angemessen ist, bestimmte Instrumente verbieten. Diese Bestimmung ist sowohl auf den Anteil der variablen Vergütungskomponente anzuwenden, die gemäß lit. n zurückgestellt wird, als auch auf den Anteil der nicht zurückgestellten variablen Vergütungskomponente;
+
+n) ein wesentlicher Anteil der variablen Vergütungskomponente, und in jedem Fall mindestens 40 vH, wird über einen Zeitraum zurückgestellt, der angesichts des Lebenszyklus und der Rücknahmegrundsätze des betreffenden AIF angemessen ist und ordnungsgemäß auf die Art der Risiken dieses AIF ausgerichtet ist. Der Zeitraum nach dieser lit. sollte mindestens drei bis fünf Jahre betragen, es sei denn der Lebenszyklus des betreffenden AIF ist kürzer. Die im Rahmen von Regelungen zur Zurückstellung der Vergütungszahlung zu zahlende Vergütung wird nicht rascher als auf anteiliger Grundlage erworben. Macht die variable Komponente einen besonders hohen Betrag aus, so wird die Auszahlung von mindestens 60 vH des Betrags zurückgestellt;
+
+o) die variable Vergütung, einschließlich des zurückgestellten Anteils, wird nur dann ausgezahlt oder erworben, wenn sie angesichts der Finanzlage des AIFM insgesamt tragbar ist und nach der Leistung der betreffenden Geschäftsabteilung, des AIF und der betreffenden Person gerechtfertigt ist. Eine schwache oder negative finanzielle Leistung des AIFM oder der betreffenden AIF führt in der Regel zu einer erheblichen Schrumpfung der gesamten variablen Vergütung, wobei sowohl laufende Kompensationen als auch Verringerungen bei Auszahlungen von zuvor erwirtschafteten Beträgen, auch durch Malus- oder Rückforderungsvereinbarungen, berücksichtigt werden;
+
+p) die Altersversorgungsregelungen stehen mit Geschäftsstrategie, Zielen, Werten und langfristigen Interessen des AIFM und der von diesem verwalteten AIF in Einklang. Verlässt der Mitarbeiter den AIFM vor Eintritt in den Ruhestand, sollten freiwillige Altersversorgungsleistungen vom AIFM fünf Jahre lang in Form der unter lit. m festgelegten Instrumente zurückbehalten werden. Tritt ein Mitarbeiter in den Ruhestand, sollten die freiwilligen Altersversorgungsleistungen dem Mitarbeiter in Form der unter lit. m festgelegten Instrumente nach einer Wartezeit von fünf Jahren ausgezahlt werden;
+
+q) von den Mitarbeitern wird verlangt, dass sie sich verpflichten, auf keine persönlichen Hedging-Strategien oder vergütungs- und haftungsbezogene Versicherungen zurückzugreifen, um die in ihren Vergütungsregelungen verankerte Ausrichtung am Risikoverhalten zu unterlaufen;
+
+r) die variable Vergütung wird nicht in Form von Instrumenten oder Verfahren gezahlt, die eine Umgehung der Anforderungen dieser Richtlinie erleichtern.
+
+2\. Die in Z 1 genannten Grundsätze gelten für alle Arten von Vergütungen, die von AIFM gezahlt werden, für jeden direkt von dem AIF selbst gezahlten Betrag, einschließlich carried interests, und für jede Übertragung von Anteilen des AIF, die zugunsten derjenigen Mitarbeiterkategorien, einschließlich der Geschäftsleitung, Risikokäufer, Mitarbeiter mit Kontrollfunktionen und aller Mitarbeiter, die eine Gesamtvergütung erhalten, aufgrund derer sie sich in derselben Einkommensstufe befinden wie Mitglieder der Geschäftsleistung und Risikokäufer, vorgenommen werden, deren berufliche Tätigkeit sich wesentlich auf ihr Risikoprofil oder auf die Risikoprofile der von ihnen verwalteten AIF auswirkt.
+
+3\. AIFM, die aufgrund ihrer Größe oder der Größe der von ihnen verwalteten AIF, ihrer internen Organisation und der Art, des Umfangs und der Komplexität ihrer Geschäfte von erheblicher Bedeutung sind, richten einen Vergütungsausschuss ein. Der Vergütungsausschuss ist auf eine Weise zu errichten, die es ihm ermöglicht, kompetent und unabhängig über die Vergütungsregelungen und –praxis sowie die für das Management der Risiken geschaffenen Anreize zu urteilen.
+
+Der Vergütungsausschuss ist für die Ausarbeitung von Entscheidungen über die Vergütung zuständig, einschließlich derjenigen mit Auswirkungen auf das Risiko und das Risikomanagement des AIFM oder der betreffenden AIF; diese Entscheidungen sind vom Leitungsorgan in seiner Aufsichtsfunktion zu fassen. Den Vorsitz im Vergütungsausschuss führt ein Mitglied des Leitungsorgans, das in dem betreffenden AIFM keine Führungsaufgaben wahrnimmt. Die Mitglieder des Vergütungsausschusses sind Mitglieder des Leitungsorgans, die in dem betreffenden AIFM keine Führungsaufgaben wahrnehmen.
+
+#### Anlage 3 zu § 29
+
+\**Unterlagen und Angaben, die im Falle eines beabsichtigten Vertriebs im Herkunftsmitgliedstaat des AIFM beizubringen oder zu machen sind**
+
+a) Ein Anzeigeschreiben einschließlich eines Geschäftsplans, der Angaben zu den AIF, die der AIFM zu vertreiben beabsichtigt, sowie zu deren Sitz enthält;
+
+b) die Vertragsbedingungen oder die Satzung des AIF;
+
+c) Name der Verwahrstelle des AIF;
+
+d) eine Beschreibung des AIF oder alle für die Anleger verfügbaren Informationen über den AIF;
+
+e) Angaben zum Sitz des Master-AIF, falls es sich bei dem AIF um einen Feeder-AIF handelt;
+
+f) alle in § 21 Abs. 1 genannten weiteren Informationen für jeden AIF, den der AIFM zu vertreiben beabsichtigt;
+
+g) sofern zutreffend Angaben zu den Vorkehrungen, die getroffen wurden, um zu verhindern, dass Anteile des AIF an Privatkunden vertrieben werden, auch falls ein AIFM für die Erbringung von Wertpapierdienstleistungen für den AIF auf unabhängige Unternehmen zurückgreift.
+
+#### Anlage 4 zu § 30
+
+\**Unterlagen und Angaben, die im Falle eines beabsichtigten Vertriebs in anderen Mitgliedstaaten als dem Herkunftsmitgliedstaat des AIFM beizubringen oder zu machen sind**
+
+a) Ein Anzeigeschreiben einschließlich eines Geschäftsplans, der Angaben zu den AIF, die der AIFM zu vertreiben beabsichtigt, sowie zu deren Sitz enthält;
+
+b) die Vertragsbedingungen oder die Satzung des AIF;
+
+c) Name der Verwahrstelle des AIF;
+
+d) eine Beschreibung des AIF oder alle für die Anleger verfügbaren Informationen über den AIF;
+
+e) Angaben zum Sitz des Master-AIF, falls es sich bei dem AIF um einen Feeder-AIF handelt;
+
+f) alle in § 21 Abs. 1 genannten weiteren Informationen für jeden AIF, den der AIFM zu vertreiben beabsichtigt;
+
+g) die Angabe des Mitgliedstaats, in dem Anteile des AIF an professionelle Anleger vertrieben werden sollen;
+
+h) Angaben zu den Vorkehrungen für den Vertrieb des AIF und, sofern zutreffend, Angaben zu den Vorkehrungen, die getroffen wurden, um zu verhindern, dass Anteile des AIF an Privatkunden vertrieben werden, auch falls ein AIFM für die Erbringung von Wertpapierdienstleistungen für den AIF auf unabhängige Unternehmen zurückgreift;
+
+i) die Angaben und die Anschrift, die für die Inrechnungstellung oder die Mitteilung etwaiger geltender behördlicher Gebühren und Entgelte durch die zuständigen Behörden des Aufnahmemitgliedstaates erforderlich sind;
+
+j) Angaben zu den Einrichtungen, die für die Erfüllung der in § 48a genannten Aufgaben zuständig sind.
+
+#### Anlage 5 zu § 14
+
+\**Liquiditätsmanagement-Instrumente für AIFM, die offene AIF verwalten**
+
+1\. Aussetzung von Zeichnungen, Rückkäufen und Rücknahmen: Die Aussetzung von Zeichnungen, Rückkäufen und Rücknahmen bedeutet, dass den Anteilinhabern bzw. -eignern die Zeichnung, der Rückkauf oder die Rückgabe von Anteilen des Fonds vorübergehend untersagt wird.
+
+2\. Rücknahmebeschränkung: Eine Rücknahmebeschränkung bedeutet eine vorübergehende und teilweise Beschränkung des Rechts der Anteilinhaber bzw. -eigner auf Rückgabe ihrer Anteile, sodass die Anleger nur einen bestimmten Teil ihrer Anteile zurückgeben können.
+
+3\. Verlängerung der Kündigungsfristen: Die Verlängerung der Kündigungsfrist bedeutet, dass die Kündigungsfrist über eine dem Fonds angemessene Mindestfrist hinaus verlängert wird, die die Anteilinhaber bzw. -eigner den Fondsmanagern vor der Rückgabe ihrer Anteile einräumen müssen.
+
+4\. Rückgabegebühr: Die Rückgabegebühr ist eine Gebühr, die innerhalb einer vorgegebenen Bandbreite unter Berücksichtigung der Liquiditätskosten von den Anteilinhabern bzw. -eignern bei der Rückgabe von Anteilen an den Fonds gezahlt und mit der sichergestellt wird, dass Anteilinhaber bzw. -eigner, die im Fonds verbleiben, nicht unangemessen benachteiligt werden.
+
+5\. Swing Pricing: Bei Swing Pricing handelt es sich um einen im Voraus festgelegten Mechanismus, bei dem der Nettoinventarwert der Anteile eines Investmentfonds durch Anwendung eines Faktors (Swing-Faktor) angepasst wird, der die Liquiditätskosten berücksichtigt.
+
+6\. Dual Pricing: Bei Dual Pricing handelt es sich um einen im Voraus festgelegten Mechanismus, bei dem die Zeichnungs-, Rückkaufs- und Rücknahmepreise für die Anteile eines Investmentfonds festgelegt werden, indem der Nettoinventarwert pro Anteil um einen Faktor, der die Liquiditätskosten abbildet, angepasst wird.
+
+7\. Verwässerungsschutzgebühr: Die Verwässerungsschutzgebühr ist eine Gebühr, die ein Anteilinhaber bzw. -eigner bei der Zeichnung, dem Rückkauf oder der Rücknahme von Anteilen an den Fonds zahlt, die den Fonds für die aufgrund des Umfangs dieser Transaktion entstandenen Liquiditätskosten entschädigt und sicherstellt, dass andere Anteilinhaber bzw. -eigner nicht in ungerechtfertigter Weise benachteiligt werden.
+
+8\. Sachauskehr: Die Sachauskehr bedeutet, dass vom Fonds gehaltene Vermögenswerte anstelle von Bargeld übertragen werden, um Auszahlungsaufträge von Anteilinhabern bzw. -eignern zu erfüllen.
+
+9\. Abspaltung illiquider Anlagen (Side Pockets): Bei der Abspaltung illiquider Anlagen geht es darum, dass bestimmte Vermögenswerte, deren wirtschaftliche oder rechtliche Merkmale sich erheblich verändert haben oder aufgrund außergewöhnlicher Umstände unsicher geworden sind, von den anderen Vermögenswerten des Fonds getrennt werden.
+
+## Artikel 1
+
+### Umsetzungshinweis
+
+#### Art. 1 – *(Anm..: aus BGBl. I Nr. 117/2015, zu den §§ 4 und 10, BGBl. I Nr. 135/2013)*
+
+Mit diesem Bundesgesetz werden
+
+1\. die Richtlinie 2014/49/EU über Einlagensicherungssysteme, ABl. Nr. L 173 vom 12.06.2014 S. 149, zuletzt berichtigt durch ABl. Nr. L 309 vom 30.10.2014 S. 37, und
+
+2\. die Richtlinie 97/9/EG über Systeme für die Entschädigung der Anleger, ABl. Nr. L 84 vom 26.03.1997 S. 22
+
+umgesetzt.
+
+#### Artikel 1 – Umsetzung von Richtlinien der Europäischen Union – *(Anm.: aus BGBl. I Nr. 118/2016, zu den §§ 10, 19, 35, 36, 38, 39, 42, 47 und 60, BGBl. I Nr. 135/2013)*
+
+Durch dieses Bundesgesetz werden
+
+1\. die Richtlinie (EU) 2015/849 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung, zur Änderung der Verordnung (EU) Nr. 648/2012 und zur Aufhebung der Richtlinie 2005/60/EG und der Richtlinie 2006/70/EG, ABl. Nr. L 141 vom 05.06.2015 S. 73, umgesetzt und
+
+2\. die erforderlichen Maßnahmen zur Durchsetzung der Verordnung (EU) 2015/847 über die Übermittlung von Angaben bei Geldtransfers und zur Aufhebung der Verordnung (EU) Nr. 1781/2006, ABl. Nr. L 141 vom 05.06.2015 S. 1, geschaffen.
+
+#### Artikel 1 – Umsetzungshinweis – *(Anm.: aus BGBl. I Nr. 107/2017 zu den §§ 2, 4, 7, 10, 48 und 60, BGBl. I Nr. 135/2013)*
+
+Mit diesem Bundesgesetz werden folgende Rechtsakte der Europäischen Union umgesetzt:
+
+1\. die Richtlinie 2014/65/EU über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU, ABl. Nr. L 173 vom 12.06.2014 S. 349, zuletzt geändert durch die Richtlinie (EU) 2016/1034, ABl. Nr. L 175 vom 23.06.2016 S. 8, in der Fassung der Berichtigung, ABl. Nr. L 64 vom 10.03.2017 S. 116 und
+
+2\. die delegierte Richtlinie (EU) 2017/593 zur Ergänzung der Richtlinie 2014/65/EU im Hinblick auf den Schutz der Finanzinstrumente und Gelder von Kunden, Produktüberwachungspflichten und Vorschriften für die Entrichtung beziehungsweise Gewährung oder Entgegennahme von Gebühren, Provisionen oder anderen monetären oder nicht-monetären Vorteilen, ABl. Nr. L 87 S. 500.
+
+Weiters dient dieses Bundesgesetz dem wirksamen Vollzug folgender Rechtsakte der Europäischen Union:
+
+1\. der Verordnung (EU) Nr. 600/2014 über Märkte für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012, ABl. Nr. L 173 vom 12.06.2014 S. 84, zuletzt geändert durch die Verordnung (EU) 2016/1033, ABl. Nr. L 175 vom 23.06.2016 S. 1,
+
+2\. der delegierten Verordnung (EU) 2017/565 zur Ergänzung der Richtlinie 2014/65/EU in Bezug auf die organisatorischen Anforderungen an Wertpapierfirmen und die Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie, ABl. Nr. L 87 S. 1, und
+
+3\. der delegierten Verordnung (EU) 2017/567 zur Ergänzung der Verordnung (EU) Nr. 600/2014 im Hinblick auf Begriffsbestimmungen, Transparenz, Portfoliokomprimierung und Aufsichtsmaßnahmen zur Produktintervention und zu den Positionen, ABl. Nr. L 87 S. 90.
+
+## Artikel 1
+
+### Umsetzungshinweis
+
+#### Art. 1 – *(Anm.: aus BGBl. I Nr. 135/2013, zu den §§ 1 bis 74 und Anlagen 1 bis 4)*
+
+Mit diesem Bundesgesetz werden
+
+1\. die Richtlinie 2011/61/EU über die Verwalter alternativer Investmentfonds und zur Änderung der Richtlinien 2003/41/EG und 2009/65/EG und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 1095/2010 ABl. Nr. L 174 vom 01.07.2011 S. 1, in der Fassung der Berichtigung ABl. Nr. L 155 vom 27.04.2012 S. 35 umgesetzt sowie
+
+2\. die Voraussetzungen für das Wirksamwerden der
+
+a) Verordnung (EU) Nr. 345/2013 über Europäische Risikokapitalfonds, ABl. Nr. L 115 vom 25.04.2013, S 1 und
+
+b) Verordnung (EU) Nr. 346/2013 über Europäische Fonds für soziales Unternehmertum, ABl. Nr. L 115 vom 25.04,2013, S 18 und
+
+geschaffen.
+
+## Umsetzungshinweis
+
+#### Art. 1 – *(Anm.: aus BGBl. I Nr. 70/2014, zu den §§ 2, 4, 7, 13, 15, 19, 21, 27, 29, 31, 33, 38, 45, 46, 47, 48, 49, 50, 54, 56, 58, 60, 67 und 71, BGBl. I Nr. 135/2013)*
+
+Mit diesem Bundesgesetz wird die Richtlinie 2013/14/EU zur Änderung der Richtlinie 2003/41/EG über die Tätigkeiten und die Beaufsichtigung von Einrichtungen der betrieblichen Altersvorsorge, der Richtlinie 2009/65/EG zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) und der Richtlinie 2011/61/EU über die Verwalter alternativer Investmentfonds im Hinblick auf übermäßigen Rückgriff auf Ratings, ABl. Nr. L 145 vom 31.05.2013 S. 1, umgesetzt.
+
+## Artikel 1
+
+### Umsetzungshinweis
+
+#### Art. 1 – *(Anm.: aus BGBl. I Nr. 98/2014, zu den §§ 2, 32 und 33, BGBl. I Nr. 135/2013)*
+
+Mit diesem Bundesgesetz werden
+
+1\. die Richtlinie 2014/59/EU zur Festlegung eines Rahmens für die Sanierung und Abwicklung von Kreditinstituten und Wertpapierfirmen und zur Änderung der Richtlinie 82/891/EWG, der Richtlinien 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU und 2013/36/EU sowie der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 648/2012, ABl. Nr. L 173 vom 12.6.2014 S. 190, und
+
+2\. Artikel 92 der Richtlinie 2014/65/EU über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU, ABl. Nr. L 173 vom 12.6.2014 S. 349,
+
+umgesetzt.

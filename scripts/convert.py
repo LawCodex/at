@@ -137,12 +137,14 @@ def inline_el(c, mode):
         return f"<sup>{inline(c, mode)}</sup>"
     if t == "sub":
         return f"<sub>{inline(c, mode)}</sub>"
-    if t in ("gldsym", "n", "gs", "span", "feld", "aw", "fnoten", "fnotenref", "kursiv", "fett"):
+    if t in ("gldsym", "n", "gs", "span", "feld", "aw", "fnoten", "fnotenref", "kursiv", "fett", "beschr", "unterschrift"):
         return inline(c, mode)
     if t == "symbol":
         return inline(c, mode) + " "
-    if t in ("nbsp", "tab"):
+    if t in ("nbsp", "tab", "en", "em"):
         return " "
+    if t in ("bdash", "abstand"):
+        return ""
     if t == "gdash":
         return "–"
     if t == "gt":
@@ -272,7 +274,7 @@ def parse_doc(path):
 def block_lines(b):
     """Render one non-heading block element as a list of markdown paragraphs."""
     t = local(b)
-    if t in ("absatz", "schluss", "schlussteil", "inhaltsvz"):
+    if t in ("absatz", "schluss", "schlussteil", "inhaltsvz", "beschr", "unterschrift"):
         if t == "absatz" and b.get("typ") == "abbobj":
             s = para_text(b)
             return [s] if s else []

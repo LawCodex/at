@@ -1,0 +1,34 @@
+---
+title: "Bundesstraßenplanungsgebiet der Gemeinden Wien und Aderklaa"
+identifier: "20003687"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 411/2004"
+last_amended: 2004-10-30
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2004/411/P0/NOR30004005"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003687"
+retrieved: 2026-10-11
+documents: 3
+---
+
+# Bundesstraßenplanungsgebiet der Gemeinden Wien und Aderklaa
+
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Erklärung eines Bundesstraßenplanungsgebietes im Bereich der Gemeinden Wien und Aderklaa
+
+StF: BGBl. II Nr. 411/2004
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 14 Abs. 1 des Bundesstraßengesetzes 1971, BGBl. Nr. 286, zuletzt geändert durch das Bundesgesetz, BGBl. I Nr. 95/2004 (BStG 1971) wird verordnet:
+
+## Art. 1
+
+Zur Sicherung des Baues eines Abschnittes der S 2 Wiener Nordrand Schnellstraße wird das aus den Anlagen ersichtliche umrandete Gelände, das für die spätere Führung der S 2 Wiener Nordrand Schnellstraße in Betracht kommt, zum Bundesstraßenplanungsgebiet erklärt.
+
+## Anl. 1
+
+(Anm.: Anlage ist als PDF dokumentiert.)

@@ -1,0 +1,140 @@
+---
+title: "Aufhebung der Sichtvermerkspflicht für Inhaber von Diplomaten- und Dienstpässen (Indonesien)"
+identifier: "20006041"
+type: treaty
+ris_type: "Vertrag – Indonesien"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 146/2008"
+last_amended: 2008-10-26
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2008/146/P0/NOR30006721"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006041"
+retrieved: 2026-10-11
+documents: 11
+---
+
+# Aufhebung der Sichtvermerkspflicht für Inhaber von Diplomaten- und Dienstpässen (Indonesien)
+
+Abkommen zwischen der Österreichischen Bundesregierung und der Regierung der Republik Indonesien über die Aufhebung der Sichtvermerkspflicht für Inhaber von Diplomaten- und Dienstpässen
+
+StF: BGBl. III Nr. 146/2008
+
+## Präambel/Promulgationsklausel
+
+Die Österreichische Bundesregierung und die Regierung der Republik Indonesien, im Folgenden als „die Vertragsparteien“ bezeichnet,
+
+In Anbetracht der freundschaftlichen Beziehungen zwischen den beiden Staaten;
+
+In dem Wunsch, diese Beziehungen durch die Erleichterung der Einreise von Inhabern von Diplomaten- und Dienstpässen aus Österreich und Indonesien in das jeweils andere Land auf wechselseitiger Basis zu stärken;
+
+In Übereinstimmung mit den geltenden Gesetzen und Verordnungen des jeweiligen Landes,
+
+Sind wie folgt übereingekommen:
+
+## Artikel 1
+
+### Visumsfreiheit
+
+#### Art. 1
+
+Staatsbürger der Republik Österreich, die Inhaber eines gültigen Diplomaten- oder Dienstpasses sind, können ohne Visum in das Hoheitsgebiet der Republik Indonesien einreisen, durch dieses durchreisen oder sich dort bis zu 30 (dreißig) Tagen innerhalb einer Frist von 6 (sechs) Monaten ab dem Tag der Einreise aufhalten. Staatsangehörige von Indonesien, die Inhaber eines gültigen Diplomaten- oder Dienstpasses sind, können ohne Visum in das Hoheitsgebiet der Republik Österreich einreisen, durchreisen oder sich dort bis zu 30 (dreißig) Tagen innerhalb einer Frist von (6) sechs Monaten ab dem Tag der Einreise aufhalten. Die Fristen werden ab dem Tag der ersten Einreise in das Hoheitsgebiet der Republik Österreich oder eines anderen Staates, der das Übereinkommen vom 19. Juni 1990 zur Durchführung des Übereinkommens von Schengen vom 14. Juni 1985 betreffend den schrittweisen Abbau der Kontrollen an den gemeinsamen Grenzen in Kraft gesetzt hat, an gerechnet.
+
+## Artikel 2
+
+### Dauer der Gültigkeit des Passes
+
+#### Art. 2
+
+Die Dauer der Gültigkeit des Diplomaten- oder Dienstpasses von Staatsangehörigen der beiden Vertragsparteien soll am Tag der Einreise in das Hoheitsgebiet der jeweils anderen Vertragspartei mindestens sechs Monate betragen.
+
+## Artikel 3
+
+### Ein- und Ausreisebedingungen
+
+#### Art. 3
+
+Inhaber von gültigen Diplomaten- oder Dienstpässen der beiden Vertragsparteien dürfen in das Hoheitsgebiet der jeweils anderen Vertragspartei an jeder von den zuständigen Einwanderungsbehörden zu diesem Zweck genehmigten Stelle ein- und ausreisen und darf dabei keinen Beschränkungen außer jenen unterworfen werden, die in Sicherheits-, Einwanderungs-, Zoll-, Gesundheits- und anderen gesetzlichen Vorschriften vorgesehen und auf Inhaber solcher gültiger Pässe rechtlich anwendbar sind.
+
+## Artikel 4
+
+### Sichtvermerke für Mitglieder von diplomatischen oder konsularischen Vertretungsbehörden
+
+#### Art. 4
+
+1\. Artikel 1 dieses Abkommens findet keine Anwendung auf die erstmalige Einreise von Inhabern von gültigen Diplomaten- oder Dienstpässen der beiden Vertragsparteien, die einer diplomatischen oder konsularischen Vertretungsbehörde auf dem Gebiet der anderen Vertragspartei zugeteilt sind.
+
+2\. Artikel 4 Absatz 1 findet auch auf Familienmitglieder der in Absatz 1 genannten Passinhaber, die im gemeinsamen Haushalt leben und Inhaber eines gültigen Diplomaten- oder Dienstpasses sind, Anwendung.
+
+3\. Artikel 1 dieses Abkommens findet keine Anwendung auf Personen, die planen, sich länger als für den in Artikel 1 genannten Zeitraum im Hoheitsgebiet der anderen Vertragspartei aufzuhalten, oder beabsichtigen, dort ein Arbeitsverhältnis einzugehen. In diesen Fällen ist entsprechend den Einwanderungsbestimmungen der Vertragsparteien ein Einreisevisum oder ein Aufenthaltstitel erforderlich.
+
+4\. Staatsangehörige beider Vertragsparteien, die völkerrechtliche Privilegien und Immunitäten genießen und Inhaber eines Lichtbildausweises sind, der vom Empfangsstaat ausgestellt wurde, benötigen während der Gültigkeit dieses Ausweises zum Aufenthalt und zur Wiedereinreise in das Hoheitsgebiet dieser Vertragspartei kein Einreisevisum und keinen Aufenthaltstitel, solange beim Grenzübertritt der gültige Lichtbildausweis und der gültige Diplomaten- oder Dienstpass vorgewiesen wird.
+
+## Artikel 5
+
+### Rechte der Behörden
+
+#### Art. 5
+
+1\. Dieses Abkommen befreit die Staatsangehörigen beider Vertragsparteien nicht von der Verpflichtung, die Gesetze und Verordnungen der anderen Vertragspartei über die Einreise, den Aufenthalt und die Ausreise von Ausländern einzuhalten.
+
+2\. Beide Vertragsparteien behalten sich das Recht vor, Personen, die als unerwünscht oder als Gefahr für den öffentlichen Frieden, die öffentliche Ordnung, die öffentliche Gesundheit und die nationale Sicherheit angesehen werden, die Einreise zu verweigern oder den Aufenthalt zu kürzen.
+
+## Artikel 6
+
+### Suspendierung
+
+#### Art. 6
+
+1\. Jede Vertragspartei kann aus Gründen der nationalen Sicherheit, öffentlichen Ordnung oder Gesundheit die Anwendung des Abkommens vorübergehend ganz oder teilweise aussetzen.
+
+2\. Die Einführung sowie die Aufhebung der in Absatz 1 genannten Maßnahmen sind der anderen Vertragspartei unverzüglich auf diplomatischem Wege zu notifizieren.
+
+## Artikel 7
+
+### Muster und Ausstellung eines Passes oder Reisedokuments
+
+#### Art. 7
+
+1\. Die Vertragsparteien werden auf diplomatischem Wege Muster von Diplomaten- und Dienstpässen, die von der jeweiligen Vertragspartei benutzt werden, innerhalb einer Frist von 30 (dreißig) Tagen ab Unterzeichnung dieses Abkommens austauschen; jede Vertragspartei wird der anderen Vertragspartei ein Muster jedes neuen Passes mindestens 30 (dreißig) Tage vor seiner Einführung zukommen lassen.
+
+2\. Die beiden Vertragsparteien werden einander in geeigneter Form über Änderungen ihrer Gesetze und Verordnungen über die Passaustellung informieren.
+
+3\. Verliert ein Staatsangehöriger einer der Vertragsparteien seinen/ihren in Artikel 1 dieses Abkommens genannten gültigen Pass auf dem Hoheitsgebiet der anderen Vertragpartei, wird er/sie die zuständigen Behörden des Empfangsstaates informieren. Die zuständige diplomatische oder konsularische Vertretungsbehörde wird einen neuen Pass oder ein neues Reisedokument für den oben genannten Staatsangehörigen ausstellen und die zuständigen Behörden des Empfangstaates hierüber informieren.
+
+## Artikel 8
+
+### Streitbeilegung
+
+#### Art. 8
+
+Jede Meinungsverschiedenheit oder Streitigkeit über die Auslegung oder Anwendung der Bestimmungen dieses Abkommens wird durch Konsultationen oder Verhandlungen zwischen den Vertragsparteien gütlich geregelt werden.
+
+## Artikel 9
+
+### Änderung
+
+#### Art. 9
+
+Dies Abkommen kann, falls erforderlich, von den Vertragsparteien im gegenseitigen schriftlichen Einvernehmen geändert oder ergänzt werden. Eine solche Änderung oder Ergänzung kann insbesondere eine Verlängerung der in Artikel 1 genannten Fristen enthalten. Die Änderung oder Ergänzung tritt an dem von den Parteien dazu bestimmten Tag in Kraft.
+
+## Artikel 10
+
+### Inkrafttreten, Dauer und Beendigung
+
+#### Art. 10
+
+1\. Dieses Abkommen tritt 30 (dreißig) Tage nach Einlangen der letzten Notifikation in Kraft, mit der die Vertragsparteien einander auf diplomatischem Wege mitgeteilt haben, dass alle erforderlichen Voraussetzungen für das Inkrafttreten dieses Abkommens, die in der jeweiligen Gesetzgebung der Vertragsparteien vorgesehen sind, erfüllt wurden.
+
+2\. Dieses Abkommen bleibt für einen Zeitraum von 5 (fünf) Jahren in Kraft und wird automatisch für einen Zeitraum von jeweils 5 (fünf) Jahren verlängert.
+
+3\. Jede Vertragspartei kann dieses Abkommen durch schriftliche Mitteilung an die andere Vertragspartie auf diplomatischem Wege, 30 (dreißig) Tage vor dem beabsichtigten Termin der Kündigung, kündigen.
+
+Zu Urkund dessen haben die Nachstehenden dieses Abkommen unterzeichnet.
+
+Geschehen in Jakarta, am 9. Jänner 2008 in zwei Urschriften, jede in englischer Sprache.
+
+## Ratifikationstext
+
+Die Mitteilungen gemäß Art. 10 Abs. 1 des Abkommens wurden am 9. Jänner bzw. 25. September 2008 (eingelangt am 26. September 2008) abgegeben; das Abkommen tritt daher gemäß derselben Bestimmung mit 26. Oktober 2008 in Kraft.

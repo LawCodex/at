@@ -1,0 +1,40 @@
+---
+title: "Entgelte für die Rechtsberatung in Beschwerdeverfahren vor dem Asylgerichtshof"
+identifier: "20007474"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 320/2011"
+last_amended: 2011-10-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2011/320/P0/NOR40132107"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007474"
+retrieved: 2026-10-11
+documents: 3
+---
+
+# Entgelte für die Rechtsberatung in Beschwerdeverfahren vor dem Asylgerichtshof
+
+Verordnung des Bundeskanzlers betreffend die Entgelte für die Rechtsberatung in Beschwerdeverfahren vor dem Asylgerichtshof
+
+StF: BGBl. II Nr. 320/2011
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 66 Abs. 3 des Asylgesetzes 2005 - AsylG 2005, BGBl. I Nr. 100, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 38/2011, wird verordnet:
+
+## § 1
+
+§ 1. (1) Das Entgelt für den in einem Beschwerdeverfahren vor dem Asylgerichtshof gemäß § 66 Abs. 1 Asylgesetz einem Asylwerber amtswegig zur Seite gestellten Rechtsberater beträgt 211,00 Euro exklusive USt., wenn mit der Rechtsberatung eine juristische Person betraut wurde.
+
+(2) Das Entgelt gemäß Abs. 1 gebührt für durchgeführte Rechtsberatungen für jeden beratenen Asylwerber. Mit diesem Entgelt werden die damit verbundenen Zeit-, Arbeits- und Sachaufwände, insbesondere auch Reise- und Dolmetschkosten, pauschal abgegolten.
+
+(3) Für die jeweilige mit der Rechtsberatung betraute juristische Person reduziert sich das Entgelt ab der 4001. Rechtsberatung im Kalenderjahr um 25 % und ab der 7001. Rechtsberatung im Kalenderjahr um 35 %, wobei bei der Berechnung der Anzahl die im betreffenden Kalenderjahr durchgeführten Rechtsberatungen gemäß §§ 64 und 65 des Asylgesetzes 2005 sowie gemäß §§ 84 und 85 Fremdenpolizeigesetz 2005, BGBl. I Nr. 100, in der Fassung BGBl. I Nr. 38/2011, einzubeziehen sind.
+
+(4) Das Entgelt gemäß Abs. 1 ist ab dem 1. Jänner 2013 wertgesichert. Als Maß der Wertbeständigkeit dient der von der Bundesanstalt Statistik Österreich verlautbarte Index der Verbraucherpreise 2010 (VPI 2010) oder ein an dessen Stelle tretender Nachfolgeindex. Als Bezugsgröße für die Anpassung dient die für Oktober 2011 verlautbarte Indexzahl. Die mit der Rechtsberatung betrauten juristischen Personen sind berechtigt, jeweils am Beginn des Kalenderjahres, das dem Monat, in dem die Indexzahl des VPI um fünf Punkte im Verhältnis zur Indexzahl für Oktober 2011 gestiegen ist, folgt, eine Preisanpassung zu fordern. Der einer solchen Anwendung der Wertsicherungsklausel zugrunde liegende Index gilt dann für die nächste Berechnung als Basiszahl. Alle veränderlichen Preise sind auf eine gerundete Dezimalstelle zu berechnen.
+
+## § 2
+
+§ 2. Die Verordnung tritt mit 1. Oktober 2011 in Kraft.

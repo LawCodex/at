@@ -1,0 +1,62 @@
+---
+title: "A 13 Fahrverbotsverordnung 30. Mai 2026"
+identifier: "20013181"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 125/2026"
+last_amended: 2026-05-30
+last_amendment: "BGBl. II Nr. 127/2026"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2026/125/P0/NOR40278066"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013181"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# A 13 Fahrverbotsverordnung 30. Mai 2026
+
+Verordnung des Bundesministers für Innovation, Mobilität und Infrastruktur über Fahrverbote auf der A 12 Inntal Autobahn, A 13 Brenner Autobahn und A 14 Rheintal/Walgau Autobahn am 30. Mai 2026 (A 13 Fahrverbotsverordnung 30. Mai 2026)
+
+StF: BGBl. II Nr. 125/2026
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 127/2026  
+
+</details>
+
+> **Beachte:** Zwar nicht formell aufgehoben, aber aus dokumentalistischen Gründen wurde ein Außerkrafttretensdatum gesetzt (Anwendungszeitraum erschöpft).
+
+## Präambel/Promulgationsklausel
+
+Auf Grund § 43 Abs. 1 lit. b und Abs. 3 lit. a Straßenverkehrsordnung 1960, BGBl. Nr. 159/1960, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 17/2026, wird wegen der Abhaltung einer nicht untersagten Versammlung aus Gründen der Sicherheit des Verkehrs und von Personen (Teilnehmer an einer Versammlung) verordnet:
+
+## § 1
+
+§ 1. (1) Das Fahren mit Lastkraftwagen oder Sattelkraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von mehr als 7,5 t und von Lastkraftwagen mit Anhängern, bei denen die Summe der höchsten zulässigen Gesamtgewichte beider Fahrzeuge mehr als 7,5 t beträgt, ist am 30. Mai 2026
+
+1\. in der Zeit von 09:00 bis 19:00 Uhr auf der A 12 Inntal Autobahn und der A 13 Brenner Autobahn in Fahrtrichtung Staatsgrenze Österreich/Italien, sowie
+
+2\. in der Zeit von 09:00 bis 18:00 Uhr auf der A 14 Rheintal/Walgau Autobahn
+
+verboten, wenn das Ziel der Fahrt über den Autobahnabschnitt Hauptmautstelle Schönberg bis Anschlussstelle Brenner Nord der A 13 Brenner Autobahn erreicht werden soll.
+
+(2) Außerdem ist das Fahren mit Lastkraftwagen oder Sattelkraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von mehr als 7,5 t und von Lastkraftwagen mit Anhängern, bei denen die Summe der höchsten zulässigen Gesamtgewichte beider Fahrzeuge mehr als 7,5 t beträgt, auf der A 13 Brenner Autobahn in Fahrtrichtung A 12 von der Staatsgrenze Österreich/Italien bis zur Anschlussstelle Brenner Nord am 30. Mai 2026 in der Zeit von 10:00 bis 19:00 Uhr verboten, wenn das Ziel der Fahrt über den Autobahnabschnitt Anschlussstelle Brenner Nord bis Hauptmautstelle Schönberg der A 13 Brenner Autobahn erreicht werden soll.
+
+> **Beachte:** Zwar nicht formell aufgehoben, aber aus dokumentalistischen Gründen wurde ein Außerkrafttretensdatum gesetzt (Anwendungszeitraum erschöpft).
+
+## § 2
+
+§ 2. Das Befahren der A 13 Brenner Autobahn zwischen der Hauptmautstelle Schönberg und der Anschlussstelle Brenner Nord ist am 30. Mai 2026 in der Zeit von 11:00 bis 19:00 Uhr in beiden Fahrtrichtungen verboten.
+
+> **Beachte:** Zwar nicht formell aufgehoben, aber aus dokumentalistischen Gründen wurde ein Außerkrafttretensdatum gesetzt (Anwendungszeitraum erschöpft).
+
+## § 3
+
+§ 3. Die Erklärung zur Autobahn der A 13 Brenner Autobahn wird am 30. Mai 2026 in der Zeit von 11:00 bis 19:00 Uhr im Bereich der Anschlussstelle Matrei zwischen km 19,0 und km 19,5 aufgehoben.
+
+> **Beachte:** Zwar nicht formell aufgehoben, aber aus dokumentalistischen Gründen wurde ein Außerkrafttretensdatum gesetzt (Anwendungszeitraum erschöpft).

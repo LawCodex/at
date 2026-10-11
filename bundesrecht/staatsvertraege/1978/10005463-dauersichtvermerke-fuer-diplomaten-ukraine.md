@@ -1,0 +1,88 @@
+---
+title: "Dauersichtvermerke für Diplomaten (Ukraine)"
+identifier: "10005463"
+type: treaty
+ris_type: "Vertrag – Ukraine"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 227/1978"
+last_amended: 1991-08-24
+last_amendment: "BGBl. Nr. 291/1996"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1978/227/P0/NOR11005547"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005463"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Dauersichtvermerke für Diplomaten (Ukraine)
+
+Abkommen zwischen der Republik Österreich und der Union der Sozialistischen Sowjetrepubliken betreffend die Erteilung von mehrmaligen Sichtvermerken für Mitarbeiter von Botschaften, konsularischen Vertretungen und deren Familienangehörige (Notenwechsel)
+
+StF: BGBl. Nr. 227/1978
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 291/1996  
+
+</details>
+
+> **Beachte:** Aus dokumentalistischen Gründen wurde für die in BGBl. Nr. 291/1996 kundgemachte Weiteranwendung eine Kopie des Vertrages erstellt.
+
+## Art. 1
+
+(Übersetzung)
+
+Ministerium für Auswärtige
+
+Angelegenheiten der UdSSR
+
+Zl. KU-1877
+
+Das Ministerium für Auswärtige Angelegenheiten der UdSSR entbietet der Österreichischen Botschaft den Ausdruck seiner vorzüglichen Hochachtung und beehrt sich – geleitet von dem Wunsch, die multilateralen und dem gegenseitigen Nutzen dienenden Beziehungen zwischen beiden Ländern hinsichtlich des Sichtvermerksverkehrs zwischen der UdSSR und Österreich zu verbessern – vorzuschlagen, ein Abkommen betreffend die Erteilung von mehrmaligen Sichtvermerken für Mitarbeiter von Botschaften, konsularischen Vertretungen und deren Familienangehörige, gültig für den gesamten Zeitraum ihrer Dienstverwendung an den Botschaften oder konsularischen Vertretungen, abzuschließen.
+
+Die erstmalige Einreise der genannten Personen in das jeweilige Land erfolgt mit einmaligen Einreisesichtvermerken. Nach Eintreffen am Dienstort und Registrierung im Ministerium für Auswärtige Angelegenheiten werden den genannten Personen mehrmalige Sichtvermerke ausgestellt.
+
+Die Gültigkeit des mehrmaligen Sichtvermerkes endet mit dem Augenblick der endgültigen Ausreise des Mitarbeiters einer Botschaft oder konsularischen Vertretung sowie seiner Familienangehörigen aus dem Empfangsstaat. Die Botschaft hat dem Ministerium für Auswärtige Angelegenheiten in Form einer Note das Datum der Abreise des Mitarbeiters und seiner Familienangehörigen mitzuteilen und deren Diplomaten- oder Dienstkarten rückzumitteln.
+
+Falls die österreichische Seite mit diesem Vorschlag einverstanden ist, stellen die vorliegende Note des Ministeriums und die Antwortnote der Botschaft ein Abkommen dar, welches 60 Tage nach dem Zeitpunkt in Kraft tritt, an welchem die Vertragspartner einander gegenseitig über die Einhaltung der für sie notwendigen verfassungsrechtlichen Formalitäten informiert haben.
+
+Das Ministerium benützt auch diesen Anlaß, der Botschaft den Ausdruck seiner vorzüglichen Hochachtung zu erneuern.
+
+Moskau, am 12. September 1977
+
+An die Österreichische Botschaft
+
+Moskau
+
+Österreichische Botschaft
+
+in der UdSSR
+
+Zl. 251/78
+
+Die Österreichische Botschaft in der UdSSR entbietet dem Ministerium für Auswärtige Angelegenheiten der UdSSR den Ausdruck ihrer vorzüglichen Hochachtung und beehrt sich, den Empfang seiner Note vom 12. September 1977, Zl. KU-1877, zu bestätigen, deren Text wie folgt lautet:
+
+\*(Es folgt der volle Wortlaut der Übersetzung der sowjetischen Eröffnungsnote)*
+
+Die Botschaft beehrt sich, dem Ministerium mitzuteilen, daß die österreichische Seite damit einverstanden ist, daß die oberwähnte Note des Ministeriums und die vorliegende Note als Abkommen über die Ausstellung mehrmaliger Sichtvermerke an Mitarbeiter von Botschaften und konsularischen Vertretungen beider Länder sowie an deren Familienangehörige für die gesamte Dauer ihrer Tätigkeit gelten. Das Abkommen wird zu dem in der oberwähnten Note des Ministeriums vorgesehenen Zeitpunkt in Kraft treten.
+
+Was die erstmalige Einreise betrifft, wird von der österreichischen Seite bis auf weiteres die bisher geübte Praxis beibehalten, wonach Inhabern sowjetischer Diplomatenpässe die sichtvermerksfreie Einreise und ein Aufenthalt bis zu drei Monaten auf dem Gebiet der Republik Österreich gestattet wird.
+
+Die Botschaft benützt auch diesen Anlaß, dem Ministerium die Versicherung ihrer besonderen Hochachtung zu erneuern.
+
+Moskau, am 10. März 1978
+
+An das Ministerium für Auswärtige
+
+Angelegenheiten der UdSSR
+
+Konsularabteilung
+
+Moskau
+
+## Ratifikationstext
+
+Das Abkommen tritt gemäß dem vorletzten Absatz der Eröffnungsnote am 29. Mai 1978 in Kraft.

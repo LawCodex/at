@@ -1,0 +1,90 @@
+---
+title: "Drogisten-Verordnung"
+identifier: "20002558"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 130/2003"
+last_amended: 2003-02-12
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2003/130/P0/NOR30002797"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002558"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Drogisten-Verordnung
+
+Verordnung des Bundesministers für Wirtschaft und Arbeit über die Zugangsvoraussetzungen für das reglementierte Gewerbe der Drogisten (Drogisten-Verordnung)
+
+StF: BGBl. II Nr. 130/2003
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 18 Abs. 1 der Gewerbeordnung 1994, BGBl. Nr. 194, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 111/2002, wird im Einvernehmen mit dem Bundesminister für soziale Sicherheit und Generationen verordnet:
+
+## § 1 – Zugangsvoraussetzungen
+
+§ 1. Durch die im Folgenden angeführten Belege ist die fachliche Qualifikation zum Antritt des unbeschränkten Gewerbes der Drogisten (§ 94 Z 14 GewO 1994) als erfüllt anzusehen:
+
+1\. a) das Zeugnis über den erfolgreichen Abschluss einer der folgenden Studienrichtungen: Pharmazie, Chemie, Technische Chemie, Biologie, Medizin/Humanmedizin/Zahnmedizin, Veterinärmedizin, Lebensmittel- und Biotechnologie oder den erfolgreichen Abschluss eines fachlich einschlägigen Fachhochschul-Studienganges und eine mindestens einjährige fachliche Tätigkeit oder
+
+b) das Zeugnis über den erfolgreichen Abschluss einer berufsbildenden höheren Schule oder deren Sonderformen, deren Ausbildung im Bereich Chemie oder Chemieingenieurwesen mit einem für das reglementierte Gewerbe spezifischen Schwerpunkt liegt, und eine mindestens zweijährige fachliche Tätigkeit oder
+
+c) das Zeugnis über den erfolgreichen Abschluss einer berufsbildenden mittleren Schule, deren schwerpunktmäßige Ausbildung im Bereich der Chemie liegt, und eine mindestens zweieinhalbjährige fachliche Tätigkeit oder
+
+d) das Zeugnis über die erfolgreiche Ablegung der Lehrabschlussprüfung in einem der folgenden Lehrberufe:
+
+Drogist, Pharmazeutisch-kaufmännischer Assistent, Chemielaborant, Chemielabortechnik, Chemieverfahrenstechnik, Chemiewerker, Schädlingsbekämpfer, Textilreiniger und eine mindestens zweijährige, nicht im Rahmen eines Lehrverhältnisses zurückgelegte fachliche Tätigkeit und
+
+2\. das Zeugnis über die erfolgreich abgelegte Befähigungsprüfung oder
+
+3\. a) das Zeugnis über den erfolgreichen Abschluss der Studienrichtung Pharmazie und
+
+b) den Beleg über eine mindestens einjährige Tätigkeit im Volldienst als vertretungsberechtigter Apotheker in einer öffentlichen Apotheke oder Anstaltsapotheke.
+
+## § 2
+
+§ 2. Durch die im Folgenden angeführten Belege ist die fachliche Qualifikation zum Antritt des auf den Kleinhandel mit Giften beschränkten Drogistengewerbes als erfüllt anzusehen:
+
+1\. auf eine der im § 1 festgelegten Arten oder
+
+2\. durch Zeugnisse über
+
+a) den erfolgreichen Abschluss einer der folgenden Studienrichtungen: Pharmazie, Chemie, Technische Chemie, Biologie, Medizin/Humanmedizin/Zahnmedizin, Veterinärmedizin, Lebensmittel- und Biotechnologie, Forst- und Holzwirtschaft, Landwirtschaft oder den erfolgreichen Abschluss eines fachlich einschlägigen Fachhochschul-Studienganges und
+
+b) eine mindestens sechsmonatige fachliche Tätigkeit oder
+
+3\. durch Zeugnisse über
+
+a) den erfolgreichen Abschluss einer berufsbildenden höheren Schule oder deren Sonderformen, deren Ausbildung im Bereich Chemie oder Chemieingenieurwesen mit einem für das reglementierte Gewerbe spezifischen Schwerpunkt liegt, und
+
+b) eine mindestens einjährige fachliche Tätigkeit oder
+
+4\. durch Zeugnisse über
+
+a) den erfolgreichen Abschluss einer berufsbildenden höheren Schule, deren Schwerpunkt im Bereich Gartenbau, Landwirtschaft, Forstwirtschaft, Wein- und Obstbau, Umwelt und Wirtschaft liegt, und
+
+b) eine mindestens eineinhalbjährige fachliche Tätigkeit oder
+
+5\. durch Zeugnisse über
+
+a) den erfolgreichen Abschluss einer mindestens dreijährigen Schule, deren Ausbildung im Bereich Chemie oder Chemieingenieurwesen mit einem für das reglementierte Gewerbe spezifischen Schwerpunkt liegt, und
+
+b) eine mindestens eineinhalbjährige fachliche Tätigkeit oder
+
+6\. durch Zeugnisse über
+
+a) die erfolgreiche Ablegung der Lehrabschlussprüfung im Lehrberuf Drogist oder im Lehrberuf Pharmazeutisch-kaufmännischer Assistent und
+
+b) eine mindestens einjährige, nicht im Rahmen eines Lehrverhältnisses zurückgelegte fachliche Tätigkeit.
+
+## § 3
+
+§ 3. Als Gifte im Sinne des § 2 gelten Stoffe und Zubereitungen, die nach den Vorschriften des Chemikaliengesetzes, BGBl. Nr. 326/1987, als sehr giftig oder giftig einzustufen sind.
+
+## § 4 – Übergangsbestimmung
+
+§ 4. Zeugnisse über die erfolgreich abgelegte Befähigungs-(Konzessions–)Prüfung für das Gewerbe der Drogisten, die gemäß den bis zum In-Kraft-Treten dieser Verordnung geltenden Vorschriften erworben worden sind, gelten als Zeugnisse über die erfolgreich abgelegte Prüfung gemäß § 1 Z 2 dieser Verordnung.

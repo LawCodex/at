@@ -1,0 +1,60 @@
+---
+title: "Aufhebung der Visumpflicht - \"Regiao Administrativa Especial de Macau\""
+identifier: "20001325"
+type: notice
+ris_type: "K"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 80/2001"
+last_amended: 2001-04-10
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2001/80/P0/NOR30001422"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001325"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Aufhebung der Visumpflicht - "Regiao Administrativa Especial de Macau"
+
+Kundmachung des Bundeskanzlers betreffend die Aufhebung der Visumpflicht für Inhaber des Passes "Regiao Administrativa Especial de Macau"
+
+StF: BGBl. III Nr. 80/2001
+
+## Präambel/Promulgationsklausel
+
+Gemäß § 2 Abs. 5 Z 1 des Bundesgesetzes über das Bundesgesetzblatt 1996 (BGBlG), BGBl. Nr. 600, zuletzt geändert durch BGBl. I Nr. 158/1998, wird kundgemacht:
+
+## Art. 1
+
+**AUSTRIAN CONSULATE GENERAL**
+
+**HONG KONG**
+
+Zahl 27/A-10/2001
+
+**Verbalnote**
+
+Das Österreichische Generalkonsulat entbietet der Regierung der Sonderverwaltungsregion Macao seine Empfehlungen und beehrt sich mitzuteilen, dass die Österreichische Bundesregierung in ihrer Sitzung vom 3. April 2001 beschlossen hat, dass Inhaber eines gültigen Passes “Regiao Administrativa Especial de Macau” visumfrei in die Republik Österreich einreisen und sich bis zu 90 Tage innerhalb eines Halbjahres ab dem Tag der ersten Einreise in das Hoheitsgebiet eines Staates, für den das Übereinkommen vom 19. Juni 1990 zur Durchführung des Übereinkommens von Schengen vom 14. Juni 1985 betreffend den schrittweisen Abbau der Kontrollen an den gemeinsamen Grenzen \*) in Kraft steht, aufhalten können.
+
+Diese Regelung findet keine Anwendung auf Personen, die sich länger als für den obgenannten Zeitraum in der Republik Österreich aufhalten wollen oder die beabsichtigen, in der Republik Österreich ein Arbeitsverhältnis einzugehen oder einer Erwerbstätigkeit nachzugehen.
+
+Diese Regelung tritt mit Wirksamkeit vom 10. April 2001, 00.00 Uhr, in Kraft.
+
+Das Österreichische Generalkonsulat benützt diese Gelegenheit, der Regierung der Sonderverwaltungsregion Macao die Versicherung seiner ausgezeichneten Hochachtung zu erneuern.
+
+Hongkong, am 9. April 2001
+
+**L. S.**
+
+An die
+
+Regierung der
+
+Sonderverwaltungsregion Macao
+
+**MACAO**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\*) Kundgemacht in BGBl. III Nr. 90/1997

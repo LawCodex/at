@@ -1,0 +1,84 @@
+---
+title: "Abkommen über Getreidelieferungen (Polen)"
+identifier: "10006671"
+type: treaty
+ris_type: "Vertrag – Polen"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 204/1981"
+last_amended: 1981-05-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1981/204/P0/NOR11006784"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006671"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Abkommen über Getreidelieferungen (Polen)
+
+Langfristiges Abkommen zwischen der Republik Österreich und der Volksrepublik Polen über Getreidelieferungen
+
+StF: BGBl. Nr. 204/1981
+
+## Präambel/Promulgationsklausel
+
+Die Republik Österreich und die Volksrepublik Polen haben
+
+– unter Berücksichtigung des Langfristigen Abkommens über den Waren- und Zahlungsverkehr sowie die wirtschaftliche Zusammenarbeit zwischen der Österreichischen Bundesregierung und der Regierung der Volksrepublik Polen vom 22. September 1976 \*),
+
+– unter Bedachtnahme auf die bisherige positive Entwicklung der Wirtschaftsbeziehungen zwischen den beiden Ländern,
+
+– vom Wunsch geleitet, möglichst günstige Bedingungen für die weitere Entwicklung des gegenseitigen Warenaustausches sowie der wirtschaftlichen Zusammenarbeit zwischen beiden Ländern, insbesondere auf dem Gebiet der Landwirtschaft, zu schaffen,
+
+folgendes vereinbart:
+
+\_\_\_\_\_\_\_\_\_\_\_\_
+
+\*) Kundgemacht in BGBl. Nr. 648/1976
+
+## Artikel 1
+
+1\. Die Volksrepublik Polen wird unter Bedachtnahme auf die Bestimmungen in Artikel 2 dieses Abkommens in den Wirtschaftsjahren 1980/81, 1981/82 und 1982/83 innerhalb des ihr österreichischerseits zugesicherten Ausfuhrförderungskreditrahmens jährlich eine Menge bis zu 300.000 Tonnen österreichisches Getreide beziehen.
+
+2\. Die Republik Österreich wird unter Bedachtnahme auf die Bestimmungen in Artikel 2 und 4 dieses Abkommens veranlassen, daß den Rechtsgeschäften in Ausführung von Absatz 1 dieses Artikels von den zuständigen österreichischen Behörden die zur Ausfuhr erforderlichen Genehmigungen erteilt werden.
+
+3\. Die Vertragsparteien stimmen überein, daß innerhalb der gemäß Absatz 1 dieses Artikels bezogenen Menge österreichischen Getreides neben der Lieferung von Normalweizen, Gerste, Mais oder Roggen auch die Lieferung von Weizen aus den österreichischen Qualitätsweizengebieten mit einem Feuchtklebergehalt von möglichst 28% vorgesehen ist.
+
+## Artikel 2
+
+Die Vertragsparteien kommen überein, daß zumindest einmal jährlich nach der Getreideernte, jedoch spätestens im Monat November des Erntejahres, eine Arbeitsgruppe zusammentreten wird. Ihre Aufgabe wird es insbesondere sein, unter Berücksichtigung des Getreidebedarfes beider Länder Vorschläge über die Höhe der im Rahmen dieses Abkommens jährlich zu beziehenden Getreidemengen und Getreidearten an die jeweils zuständigen Stellen der Vertragsparteien zu erstatten, frühestmögliche Bezugs-(Liefer-)termine in Aussicht zu nehmen sowie die Durchführung dieses Abkommens zu überwachen.
+
+## Artikel 3
+
+1\. Die Getreidelieferungen werden zu marktgerechten Preisen auf der Basis des Weltmarktpreises, der für Getreide gleicher Qualität anderer Herkunft maßgebend ist, erfolgen.
+
+2\. Kredit- und Zahlungsbedingungen der Lieferungen werden zwischen der Österreichischen Kontrollbank A.G. und der Bank Handlowy w Warszawie s.A. unter Zugrundelegung der in Österreich für das Ausfuhrförderungsverfahren geltenden gesetzlichen Vorschriften vereinbart.
+
+3\. Alle Zahlungen im Rahmen dieses Abkommens werden in Übereinstimmung mit der in beiden Staaten jeweils geltenden Devisengesetzgebung in frei konvertierbarer Währung erfolgen.
+
+## Artikel 4
+
+Die Lieferungen von österreichischem Getreide werden auf Grund von Verträgen abgewickelt werden, die zwischen österreichischen Unternehmungen mit Sitz in Österreich einerseits und der polnischen Außenhandelsorganisation „ROLIMPEX“ andererseits abgeschlossen werden.
+
+## Artikel 5
+
+Die Volksrepublik Polen wird österreichisches Getreide, das im Rahmen dieses Abkommens bezogen wurde, nur mit Zustimmung der Republik Österreich in dritte Länder exportieren.
+
+## Artikel 6
+
+Dieses Abkommen tritt mit dem ersten Tag des dritten Monats in Kraft, der auf den Monat folgt, in dem die Vertragsparteien einander mitgeteilt haben, daß die innerstaatlichen Voraussetzungen für das Inkrafttreten des Abkommens erfüllt sind.
+
+## Artikel 7
+
+1\. Dieses Abkommen wird für die Dauer von drei Jahren abgeschlossen.
+
+2\. Die Gültigkeit verlängert sich jeweils um weitere drei Jahre, sofern nicht eine der Vertragsparteien dieses Abkommen spätestens sechs Monate vor Ablauf dieser Frist auf diplomatischem Wege schriftlich kündigt. Im Falle der Verlängerung der Gültigkeit dieses Abkommens werden die in diesem Zeitraum fallenden Wirtschaftsjahre den in Artikel 1 Absatz 1 genannten gleichgesetzt.
+
+ZU URKUND DESSEN haben die Bevollmächtigten der beiden Staaten dieses Abkommen unterzeichnet und mit Siegeln versehen.
+
+GESCHEHEN zu Warszawa, am 2. Mai 1980 in zwei Urschriften, jeweils in deutscher und polnischer Sprache, wobei beide Texte in gleicher Weise authentisch sind.
+
+## Ratifikationstext
+
+Die österreichische Ratifikationsurkunde wurde vom Bundespräsidenten unterzeichnet und vom Bundeskanzler gegengezeichnet; das Abkommen tritt gemäß seinem Art. 6 am 1. Mai 1981 in Kraft.

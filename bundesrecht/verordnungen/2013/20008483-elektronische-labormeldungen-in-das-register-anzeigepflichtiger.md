@@ -1,0 +1,107 @@
+---
+title: "Elektronische Labormeldungen in das Register anzeigepflichtiger Krankheiten"
+identifier: "20008483"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 184/2013"
+last_amended: 2023-07-01
+last_amendment: "BGBl. II Nr. 159/2023"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2013/184/P0/NOR40152682"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008483"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Elektronische Labormeldungen in das Register anzeigepflichtiger Krankheiten
+
+Verordnung des Bundesministers für Gesundheit betreffend elektronische Labormeldungen in das Register anzeigepflichtiger Krankheiten
+
+StF: BGBl. II Nr. 184/2013
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 117/2020  
+BGBl. II Nr. 144/2020  
+BGBl. II Nr. 323/2020  
+BGBl. II Nr. 626/2020  
+BGBl. II Nr. 384/2021  
+BGBl. II Nr. 159/2023  
+
+</details>
+
+> **Beachte:** Die Verpflichtung zur elektronischen Meldung tritt mit 1. Jänner 2014 in Kraft (vgl. § 4 Abs. 1).
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 4 Abs. 15 des Epidemiegesetzes 1950, BGBl. Nr. 186/1950, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 80/2013, wird verordnet:
+
+## § 1
+
+§ 1. (1) Labors im Sinne dieser Verordnung sind Einrichtungen, die Erreger anzeigepflichtiger Krankheiten beim Menschen direkt oder indirekt diagnostizieren.
+
+(2) Labors sind verpflichtet, ihrer Meldeverpflichtung nach § 3 Abs. 1 Z 1a des Epidemiegesetzes 1950, BGBl. Nr. 186/1950, in der jeweils geltenden Fassung, elektronisch in das Register anzeigepflichtiger Krankheiten nachzukommen.
+
+(3) Die Meldung umfasst folgende Datenarten:
+
+1\. Daten zur Identifikation von Erkrankten, Verstorbenen oder Ausscheidern (Name, Geschlecht, Geburtsdatum, Wohnsitz, soweit vorhanden Telefonnummer und E-Mail-Adresse sowie Sozialversicherungsnummer),
+
+2\. Art des Erregers,
+
+3\. untersuchtes Material,
+
+4\. Details zur Untersuchungsmethode,
+
+5\. Details zum Analysenergebnis und
+
+6\. Kategorie der Probe.
+
+(4) Im Falle eines technischen Ausfalls des Registers hat die Meldung innerhalb von 24 Stunden auf andere geeignete Weise (z.B. telefonisch) zu erfolgen.
+
+## § 2
+
+§ 2. (1) Die elektronische Übermittlung hat ausschließlich über eine vom Bundesministerium für Gesundheit zur Verfügung gestellte Schnittstelle für Laborinformationssysteme zu erfolgen.
+
+(2) Labors sind verpflichtet, die jeweils gültige Version der Laborschnittstellenbeschreibung, die vom Bundesministerium für Gesundheit zur Verfügung gestellt wird, zur Übermittlung der Daten zu nutzen.
+
+## § 3
+
+§ 3. (1) Labors haben mittels eines auf der Homepage des Bundesministeriums für Gesundheit bereitgestellten Formulars folgende Angaben zu übermitteln:
+
+1\. den Namen oder die Bezeichnung,
+
+2\. die berufliche postalische Erreichbarkeit,
+
+3\. eine elektronische Kontaktadresse,
+
+4\. die Rolle gemäß Anlage 1 der Gesundheitstelematikverordnung 2012, BGBl. II Nr. 483/2012, in der jeweils geltenden Fassung, und
+
+5\. die Art der beabsichtigten Datenübermittlung (§ 2 Abs. 1).
+
+(2) Danach hat das Labor bei jener Bezirksverwaltungsbehörde, in deren Sprengel die Tätigkeit ausgeübt wird, um die elektronische Zugangsberechtigung anzusuchen.
+
+(3) Die Bezirksverwaltungsbehörde hat insbesondere die Vollständigkeit und Richtigkeit der Angaben nach Abs. 1 zu prüfen und dem Labor gegebenenfalls die zur Erlangung des bereitgestellten Zertifikats erforderlichen Zugangsdaten zur Authentifizierung auszuhändigen.
+
+(4) Auf Basis der gemäß Abs. 1 in elektronischer Form festgestellten Identität hat ein Abgleich dieser Daten mit den im eHealth-Verzeichnisdienst (§ 10 des Gesundheitstelematikgesetzes 2012 (GTelG 2012), BGBl. I Nr. 111/2012, in der jeweils geltenden Fassung) zwecks Überprüfung der Rolle (§ 5 GTelG 2012) gespeicherten Daten durch die Bezirksverwaltungsbehörde zu erfolgen.
+
+(5) Die Weitergabe des Zertifikats ist unzulässig. Der Verlust des Zertifikats ist unverzüglich dem Bundesministerium für Gesundheit bekannt zu geben.
+
+## § 4
+
+§ 4. (1) Die Verpflichtung zur elektronischen Meldung tritt mit 1. Jänner 2014 in Kraft.
+
+(2) Labors, die ihre Tätigkeit nach dem 1. Jänner 2014 aufnehmen, haben sicherzustellen, dass sie mit Aufnahme ihrer Tätigkeit der Verpflichtung zur elektronischen Meldung entsprechen können.
+
+(3) Die Änderungen in § 3 Abs. 3 in der Fassung der Verordnung BGBl. II Nr. 117/2020 treten mit Ablauf des Tages der Kundmachung in Kraft und mit 31. Dezember 2021 außer Kraft.
+
+(4) Die Änderungen in § 1 Abs. 3 und § 2 Abs. 1 in der Fassung der Verordnung BGBl. II Nr. 323/2020 treten mit Ablauf des Tages der Kundmachung in Kraft. Labors haben sicherzustellen, dass sie spätestens innerhalb eines Monats nach dem Inkrafttreten den Vorgaben entsprechen können.
+
+(5) § 1 Abs. 3 Z 1 und § 4 Abs. 3 in der Fassung der Verordnung BGBl. II Nr. 626/2020 treten mit 1. Jänner 2021 in Kraft.
+
+(6) Die Änderungen in § 1 Abs. 3 Z 5 in der Fassung der Verordnung BGBl. II Nr. 384/2021 treten mit Ablauf des Tages der Kundmachung in Kraft.
+
+(7) § 1 Abs. 3 Z 5 in der Fassung der Verordnung BGBl. II Nr. 159/2023 tritt mit 1. Juli 2023 in Kraft.

@@ -1,0 +1,62 @@
+---
+title: "AGES – Übertragungsverordnung 2004"
+identifier: "20003568"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 356/2004"
+last_amended: 2004-04-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2004/356/P0/NOR30003884"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003568"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# AGES – Übertragungsverordnung 2004
+
+Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, mit der der Österreichischen Agentur für Gesundheit und Ernährungssicherheit GmbH weitere Aufgaben gemäß § 19 Abs. 2 GESG übertragen werden (AGES – Übertragungsverordnung 2004)
+
+StF: BGBl. II Nr. 356/2004
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 19 Abs. 2 GESG, BGBl. I Nr. 63/2002, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 83/2004, wird verordnet:
+
+## § 1
+
+§ 1. Zur Erreichung der in § 8 Abs. 3 Z 6 GESG genannten Aufgaben werden der Österreichischen Agentur für Gesundheit und Ernährungssicherheit GmbH (im Folgenden: AGES) die Durchführung des Lehrbetriebs gemäß den §§ 2 und 3 für Schüler der Höheren Landwirtschaftlichen Bundeslehranstalt Francisco Josephinum Wieselburg als weitere Aufgabe übertragen.
+
+## § 2
+
+§ 2. Zur Erfüllung der in § 1 angeführten Aufgaben hat die AGES betreffend die Be- und Verarbeitung von Lebensmitteln, insbesondere von Milch, geeignete Sachmittel sowie geeignetes Personal (ausgenommen solchen Personals, für das spezifische Ausbildungserfordernisse erforderlich sind) zur Erbringung von Tätigkeiten in folgenden Gegenständen zu stellen:
+
+1\. Chemisches und lebensmittelchemisches Laboratorium;
+
+2\. Mikrobiologisches Laboratorium;
+
+3\. Lebensmittel- und biotechnologisches Laboratorium;
+
+4\. Chemisches und biotechnologisches Laboratorium;
+
+5\. Projektmanagement;
+
+6\. Landwirtschaftlich- technologisches Praktikum;
+
+7\. Landwirtschaftliches Praktikum.
+
+## § 3
+
+§ 3. Zur Erfüllung der in § 1 angeführten Aufgaben hat die AGES betreffend die Be- und Verarbeitung von Lebensmitteln, insbesondere von Milch, geeignetes Personal, für das spezifische Ausbildungserfordernisse erforderlich sind, zur Erbringung von Tätigkeiten in folgenden Gegenständen zu stellen:
+
+1\. Chemisches und lebensmittelchemisches Laboratorium;
+
+2\. Mikrobiologisches Laboratorium;
+
+3\. Lebensmittel- und biotechnologisches Laboratorium.
+
+## § 4
+
+§ 4. Diese Verordnung tritt mit 1. April 2004 in Kraft.

@@ -1,0 +1,147 @@
+---
+title: "Erlassung der Prüfungsordnung für die Lehrabschlußprüfung im Lehrberuf Lebzelter und Wachszieher"
+identifier: "10006449"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 333/1975"
+date: 1975-05-20
+last_amended: 1976-07-21
+last_amendment: "BGBl. Nr. 355/1976"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1975/333/P0/NOR11006562"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006449"
+retrieved: 2026-10-11
+documents: 7
+---
+
+# Erlassung der Prüfungsordnung für die Lehrabschlußprüfung im Lehrberuf Lebzelter und Wachszieher
+
+Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 20. Mai 1975, mit der die Prüfungsordnung für die Lehrabschlußprüfung im Lehrberuf Lebzelter und Wachszieher erlassen wird
+
+StF: BGBl. Nr. 333/1975
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 355/1976  
+
+</details>
+
+> **Anmerkung:** Erfassungsstichtag: 1.1.1986
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 24 des Berufsausbildungsgesetzes, BGBl. Nr. 142/1969, wird verordnet:
+
+## § 1 – Gliederung der Lehrabschlußprüfung
+
+§ 1. (1) Die Lehrabschlußprüfung im Lehrberuf Lebzelter und Wachszieher gliedert sich in eine praktische und in eine theoretische Prüfung.
+
+(2) Die praktische Prüfung umfaßt die Gegenstände
+
+a) Prüfarbeit,
+
+b) Fachgespräch.
+
+(3) Die theoretische Prüfung umfaßt die Gegenstände
+
+a) Fachrechnen,
+
+b) Fachkunde,
+
+c) Fachzeichnen.
+
+Die Prüfung in den Gegenständen a) bis c) erfolgt schriftlich.
+
+(4) Die Gegenstände der theoretischen Prüfung sind nicht zu prüfen, wenn der Prüfling die Erreichung des Lehrzieles der letzten Klasse der fachlichen Berufsschule gemäß § 4 Abs. 1 der Verordnung BGBl. Nr. 170/1974 nachgewiesen hat.
+
+## § 2 – Durchführung der praktischen Prüfung
+
+§ 2. (1) Die Prüfung im Gegenstand „Prüfarbeit“ hat die Herstellung von Erzeugnissen der Lebzelter und Wachszieher nach Angabe zu umfassen, wobei die damit im Zusammenhang stehenden Fertigkeiten nachzuweisen sind. Solche Fertigkeiten sind:
+
+Backen, Kochen, Rühren, Schlagen, Ausrollen, Brechen, Treiben, Würzen, Passieren, Schneiden, Tunken, Dressieren, Auswiegen, Aufschlagen, Abklaren, Sieben, Streichen, Temperieren, Verzieren, Überziehen, Belegen, Füllen, Spritzen, Ausstechen, Formen, Mischen, Pressen.
+
+(2) Die Prüfungskommission hat unter Bedachtnahme auf den Zweck der Lehrabschlußprüfung und die Anforderungen der Berufspraxis jedem Prüfling eine Prüfarbeit zu stellen, die in der Regel in vier Arbeitsstunden durchgeführt werden kann.
+
+(3) Die Prüfung im Gegenstand „Prüfarbeit“ ist nach fünf Arbeitsstunden zu beenden.
+
+(4) Die Prüfung im Gegenstand „Fachgespräch“ ist unter Verwendung von Fachausdrücken vor der gesamten Prüfungskommission abzulegen; sie hat sich aus der praktischen Tätigkeit heraus zu entwickeln und das praktische Wissen des Prüflings festzustellen.
+
+(5) Die Themenstellung hat dem Zweck der Lehrabschlußprüfung und den Anforderungen der Berufspraxis zu entsprechen. Fragen über Schutzmaßnahmen und Unfallverhütung sind miteinzubeziehen.
+
+(6) Die Dauer der Prüfung im Gegenstand „Fachgespräch“ soll je Prüfling 20 Minuten nicht übersteigen. Eine Verlängerung kann im Einzelfall erfolgen, wenn der Prüfungskommission eine zweifelsfreie Beurteilung des Prüflings sonst nicht möglich erscheint.
+
+(7) Für die Bewertung im Gegenstand „Prüfarbeit“ sind folgende Kriterien maßgebend:
+
+Aussehen,
+
+Geschmack,
+
+Reinlichkeit bei der Herstellung,
+
+Verwenden der richtigen Werkzeuge und Arbeitsgeräte bei der Ausführung der Prüfarbeit.
+
+## § 3 – Durchführung der theoretischen Prüfung
+
+§ 3. (1) Die theoretische Prüfung kann für eine größere Anzahl von Prüflingen gemeinsam durchgeführt werden, wenn dies ohne Beeinträchtigung des Prüfungsablaufes möglich ist.
+
+(2) Der theoretische Prüfungsteil hat in der Regel zeitlich vor dem praktischen Prüfungsteil zu liegen.
+
+(3) Die schriftlichen Prüfungsaufgaben haben nach Umfang und Niveau dem Zweck der Lehrabschlußprüfung und den Anforderungen der Berufspraxis zu entsprechen. Im Gegenstand „Fachrechnen“ ist die Verwendung von schriftlichen Behelfen zulässig.
+
+(4) Die schriftlichen Arbeiten des Prüflings sind entsprechend zu kennzeichnen.
+
+(5) Die Prüfung im Gegenstand „Fachrechnen“ hat die Durchführung je einer Prüfungsaufgabe aus sämtlichen nachstehenden Bereichen zu umfassen:
+
+Umwandeln von Rezepten in Teile,
+
+Multiplikation von Rezepten,
+
+Prozentberechnung,
+
+Brutto-, Netto- und Taraberechnung,
+
+Schwundberechnung.
+
+(6) Die Aufgaben sind so zu stellen, daß sie in der Regel in 60 Minuten durchgeführt werden können. Die Prüfung in diesem Gegenstand ist nach 80 Minuten zu beenden.
+
+(7) Die Prüfung im Gegenstand „Fachkunde“ hat die stichwortartige Durchführung je einer Prüfungsaufgabe aus sämtlichen nachstehenden Bereichen zu umfassen:
+
+Rohmaterial,
+
+Halbfabrikate,
+
+Arbeitstechniken,
+
+Werkzeuge und Geräte,
+
+lebensmittelrechtliche und hygienische Vorschriften.
+
+(8) Die Aufgaben sind so zu stellen, daß sie in der Regel in 40 Minuten durchgeführt werden können. Die Prüfung in diesem Gegenstand ist nach 60 Minuten zu beenden.
+
+(9) Die Prüfung im Gegenstand „Fachzeichnen“ hat das Anfertigen einer Werkzeichnung (Dekorationsentwurf) nach Angabe zu umfassen.
+
+(10) Die Aufgabe ist so zu stellen, daß sie in der Regel in 90 Minuten durchgeführt werden kann. Die Prüfung in diesem Gegenstand ist nach 105 Minuten zu beenden.
+
+## § 4 – Wiederholungsprüfung
+
+§ 4. (1) Die Lehrabschlußprüfung kann wiederholt werden, wenn sie nicht bestanden wurde.
+
+(2) Wenn mehr als drei Prüfungsgegenstände mit „nichtgenügend“ bewertet wurden, ist die gesamte Prüfung zu wiederholen; andernfalls ist die Wiederholungsprüfung auf die mit „nichtgenügend“ bewerteten Gegenstände zu beschränken.
+
+(3) Ist die Wiederholungsprüfung auf die mit „nichtgenügend“ bewerteten Gegenstände zu beschränken, hat die Prüfungskommission unter Berücksichtigung der festgestellten Mängel an Fertigkeiten und Kenntnissen eine Wiederholungsprüfung zuzulassen, die frühestens drei, spätestens sechs Monate nach der nichtbestandenen Lehrabschlußprüfung zu liegen hat. Ansonsten darf die Wiederholungsprüfung frühestens sechs Monate nach der nichtbestandenen Lehrabschlußprüfung liegen.
+
+## § 5 – Zusatzprüfung
+
+§ 5. (1) Nach erfolgreich abgelegter Lehrabschlußprüfung im Lehrberuf Konditor (Zuckerbäcker) kann eine Zusatzprüfung im Lehrberuf Lebzelter und Wachszieher abgelegt werden. Diese hat den Gegenstand „Fachgespräch“ zu umfassen.
+
+(2) Für die Zusatzprüfung gilt § 2 Abs. 4 bis 6 sinngemäß.
+
+(3) Nach erfolgreich abgelegter Lehrabschlußprüfung im Lehrberuf Lebzelter kann bis 31. Dezember 1978 eine Zusatzprüfung im Lehrberuf Lebzelter und Wachszieher abgelegt werden. Diese hat den Gegenstand „Fachgespräch“ zu umfassen. Für diese Zusatzprüfung gilt § 2 Abs. 4 bis 6 sinngemäß.
+
+## § 6 – Schlußbestimmung
+
+§ 6. Auf die Durchführung der Lehrabschlußprüfung im Lehrberuf Lebzelter und Wachszieher ist im übrigen die Verordnung BGBl. Nr. 170/1974 anzuwenden.

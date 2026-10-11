@@ -1,0 +1,66 @@
+---
+title: "Festsetzung von Hundertsätzen für die Bemessung von Kaufkraftausgleichszulagen – März 2015"
+identifier: "20009107"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 43/2015"
+last_amended: 2015-03-06
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2015/43/P0/NOR40169475"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009107"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Festsetzung von Hundertsätzen für die Bemessung von Kaufkraftausgleichszulagen – März 2015
+
+Verordnung des Bundesministers für Europa, Integration und Äußeres über die Festsetzung von Hundertsätzen für die Bemessung von Kaufkraftausgleichszulagen für im Ausland verwendete Beamte und Vertragsbedienstete des Bundes
+
+StF: BGBl. II Nr. 43/2015
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 21b Abs. 2 und 3 des Gehaltsgesetzes 1956 (GehG), BGBl. Nr. 54, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 96/2007, wird im Einvernehmen mit dem Bundeskanzler verordnet:
+
+## Art. 1
+
+Für nachstehend angeführte Dienstorte im Ausland wird der Hundertsatz für die Bemessung von Kaufkraftausgleichszulagen nach § 21b Abs. 1 GehG für den Monat März 2015 wie folgt festgesetzt:
+
+| Abu Dhabi | 15 |  | Djerba | – |  | Luxemburg | 7 |  | Rom | 14 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Abuja | 4 |  | Doha | – |  | Lyon | 4 |  | Sankt Petersburg | – |
+| Addis Abeba | – |  | Dublin | 11 |  | Madrid | 6 |  | Santiago de Chile | – |
+| Agram | – |  | Duino | 4 |  | Mailand | 16 |  | Santo Domingo | – |
+| Algier | – |  | Ferney-Voltaire | 4 |  | Manila | 8 |  | Sao Paulo | 9 |
+| Almaty | 4 |  | Frankfurt | 7 |  | Maskat | 6 |  | Sarajewo | – |
+| Amman | 20 |  | Genf | 56 |  | Mediasch | – |  | Seoul | 40 |
+| Ankara | – |  | Guangzhou | 40 |  | Mexiko | – |  | Shanghai | 45 |
+| Astana | 5 |  | Guatemala | 5 |  | Minsk | – |  | Shkodra | – |
+| Athen | 4 |  | Hamburg | 4 |  | Montreal | 2 |  | Singapur | 48 |
+| Bagdad | 40 |  | Hanoi | 7 |  | Moskau | – |  | Skopje | – |
+| Baku | 25 |  | Harare | 15 |  | Mostar | – |  | Sofia | – |
+| Bangkok | 14 |  | Havanna | 19 |  | München | 6 |  | Stockholm | 5 |
+| Barcelona | 6 |  | Helsinki | 16 |  | Nairobi | 13 |  | Strassburg | 2 |
+| Beirut | 23 |  | Hongkong | 46 |  | Ndjamena | 36 |  | Stuttgart | 2 |
+| Belgrad | – |  | Islamabad | – |  | New Delhi | – |  | Sydney | 20 |
+| Berlin | 6 |  | Istanbul | – |  | New York | 27 |  | Taipei | 20 |
+| Bern | 52 |  | Jakarta | – |  | Nikosia | 3 |  | Tallinn | 1 |
+| Bogotá | – |  | Jeddah | – |  | Odessa | – |  | Teheran | – |
+| Bonn | 4 |  | Johannesburg | – |  | Oslo | 29 |  | Tel Aviv | 30 |
+| Brasilia | – |  | Kairo | – |  | Ottawa | – |  | Tiflis | – |
+| Brüssel | 7 |  | Kapstadt | – |  | Padua | 4 |  | Tirana | – |
+| Budapest | – |  | Kiew | – |  | Paris | 11 |  | Tokio | 30 |
+| Buenos Aires | 34 |  | Kopenhagen | 34 |  | Peking | 46 |  | Toronto | 4 |
+| Bukarest | – |  | Krakau | – |  | Podgorica | – |  | Tripolis | – |
+| Calgary | – |  | Kuala Lumpur | 1 |  | Prag | 2 |  | Tunis | – |
+| Canberra | 14 |  | Kuwait | – |  | Pressburg | 9 |  | Valletta | 1 |
+| Caracas | – |  | Lagos | 9 |  | Pretoria | – |  | Warschau | – |
+| Casablanca | – |  | Laibach | – |  | Prishtina | – |  | Washington | 14 |
+| Chicago | 17 |  | Lemberg | – |  | Querétaro | – |  | Wilna | 3 |
+| Chişinău | – |  | Lima | 1 |  | Rabat | – |  | Zürich | 59 |
+| Dakar | 18 |  | Lissabon | 3 |  | Riga | 10 |  |  |  |
+| Damaskus | – |  | London | 27 |  | Rio de Janeiro | 5 |  |  |  |
+| Den Haag | 10 |  | Los Angeles | 17 |  | Riyadh | – |  |  |  |

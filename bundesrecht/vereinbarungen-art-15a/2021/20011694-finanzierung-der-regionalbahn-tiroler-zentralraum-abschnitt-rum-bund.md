@@ -1,0 +1,253 @@
+---
+title: "Finanzierung der Regionalbahn Tiroler Zentralraum, Abschnitt Rum (Bund – Tirol)"
+identifier: "20011694"
+type: agreement
+ris_type: "Vereinbarung gem. Art. 15a B-VG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 193/2021"
+last_amended: 2021-10-22
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/2021/193/P0/NOR40238891"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011694"
+retrieved: 2026-10-11
+documents: 13
+---
+
+# Finanzierung der Regionalbahn Tiroler Zentralraum, Abschnitt Rum (Bund – Tirol)
+
+Vereinbarung gemäß Art. 15a B-VG zwischen dem Bund und dem Land Tirol über die Finanzierung der Regionalbahn Tiroler Zentralraum, Abschnitt Rum
+
+StF: BGBl. I Nr. 193/2021 (NR: GP XXVII RV 1041 AB 1095 S. 127. BR: AB 10757 S. 931.)
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluss der gegenständlichen Vereinbarung gem. Art. 15a B-VG wurde genehmigt.
+
+Der Bund, vertreten durch die Bundesregierung, und das Land Tirol, vertreten durch den Landeshauptmann, nachfolgend Vertragsparteien genannt, sind
+
+– angesichts der regelmäßigen Überlastungen auf dem hochrangigen Straßennetz (A 12 Inntal Autobahn) durch den überproportional stark steigenden Güterverkehr sowie den zunehmenden Pendlerverkehr speziell in den Morgenstunden,
+
+– angesichts der negativen Auswirkungen auf den öffentlichen Verkehr im Busbereich durch die Verkehrsüberlastung im Stadtnetz, der durch den aus dem umgebenden Straßennetz nach Innsbruck fließenden Verkehr verursacht wird,
+
+– angesichts der Tatsache, dass das Schienennetz im Zentralraum von Innsbruck insbesondere im Abschnitt Hall in Tirol bis Innsbruck Westbahnhof an seine infrastrukturellen Kapazitätsgrenzen stößt, wodurch die Einführung zusätzlicher Züge auf Grund fehlender Trassen nur bedingt und nicht im erforderlichen Ausmaß möglich ist,
+
+– angesichts der angestrebten Entlastung der bestehenden Infrastruktur, der geographischen und zeitlichen Verkürzung der Fahrtbeziehungen sowie der Schaffung zusätzlicher Kapazitäten zur Abwicklung der zunehmenden Mobilitätsnachfrage durch die Kombination der Neuerrichtung von S-Bahn-Haltestellen zwischen Innsbruck Hötting und Hall in Tirol (Thaur, Innsbruck Messe, Innsbruck Westbahnhof, Innsbruck Innrain und Innsbruck Hötting) mit der neuen Regionalbahn von Völs nach Rum und
+
+– angesichts des Bekenntnisses der Vertragsparteien zum fortgesetzten und nachhaltigen Ausbau von Regionalbahnen im städtischen Bereich mit über das Stadtgebiet hinausgehender, überregionaler Funktion für Vororteverkehre als effizientes Verkehrsmittel in den Ballungsräumen vor dem Hintergrund der kontinuierlich steigenden Nachfrage im öffentlichen Nahverkehr in den Ballungsräumen und zur weiteren Forcierung umweltgerechter Mobilitätsformen
+
+übereingekommen, gemäß Art. 15a B-VG die nachstehende Vereinbarung zu schließen:
+
+## Artikel 1 – Zielsetzungen
+
+Hauptzielsetzung dieser Vereinbarung ist es, für den weiterhin zunehmenden Ziel- und Quellverkehr mit dem PKW (Individualverkehr) von und nach Innsbruck sowie vom Umland durch Innsbruck ins Umland ein attraktives Alternativangebot im öffentlichen Personennah- und regionalverkehr (ÖPNRV) bereit zu stellen, Marktanteile für den ÖPNRV zu gewinnen und die bestehende Schieneninfrastruktur der Stubaitalbahn und der Innsbrucker Straßenbahn für regionale Verkehrserfordernisse sinnvoll zu nutzen. Gleichzeitig wird das Ziel verfolgt, durch die verstärkte Nutzung des öffentlichen Verkehrs und den Einsatz von elektrisch betriebenen Verkehrsmitteln einen Beitrag zur Reduktion der Luftschadstoffbelastung sowie zur Dekarbonisierung des Verkehrs (und damit zur Erreichung der Klimaschutzziele) zu leisten.
+
+## Artikel 2 – Vorhaben
+
+(1) Die Vertragsparteien kommen unter Bedachtnahme auf die Zielsetzungen nach Art. 1 überein, das Vorhaben „Regionalbahn Tiroler Zentralraum Abschnitt Rum“, in weiterer Folge kurz „Vorhaben“ genannt, unter besonderer Berücksichtigung der Grundsätze der Sparsamkeit, Wirtschaftlichkeit, Zweckmäßigkeit sowie Transparenz gemeinsam zu finanzieren.
+
+(2) Das Vorhaben umfasst die Maßnahmen der Errichtung der Regionalbahn (einschließlich der Planung, der Grundeinlöse und des Baus) sowie deren Inbetriebsetzung.
+
+(3) Das Vorhaben baut unmittelbar auf dem Straßenbahnkonzept auf. Das Regionalbahnprojekt soll auf einer großteils neu zu errichtenden Trasse einen attraktiven, schnellen und leistungsfähigen regionalen Schienenverkehr ermöglichen. Diese Anforderungen an eine leistungsfähige Regionalbahn werden durch eine Trassierung für gleichmäßig hohe Geschwindigkeiten, konsequente Bevorrangung der Regionalbahn im Stadtbereich und durch den Einsatz modernster Fahrbetriebsmittel sichergestellt.
+
+(4) Eine detaillierte Beschreibung des gemeinsamen Vorhabens ergibt sich aus den **Anlagen 1, 2** und **3**.
+
+## Artikel 3 – Kosten
+
+(1) Die Gesamtkosten des Vorhabens ergeben sich aus der Kostenschätzung in der **Anlage 3** und stellen sich in Summe wie folgt dar:
+
+<table>
+<tr>
+<td colspan="5"><b>Gesamtkosten Regionalbahn Rum 2021-2023</b></td>
+</tr>
+<tr>
+<td></td>
+<td>Plan 2021</td>
+<td>Plan 2022</td>
+<td>Plan 2023</td>
+<td>Gesamt<br>2021-2023</td>
+</tr>
+<tr>
+<td>Summe Investitionen</td>
+<td>15.300.000</td>
+<td>15.606.000</td>
+<td>5.307.361</td>
+<td><b>36.213.361</b></td>
+</tr>
+<tr>
+<td>Gesamtkosten</td>
+<td>15.300.000</td>
+<td>15.606.000</td>
+<td>5.307.361</td>
+<td><b>36.213.361</b></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+(2) Die Gesamtkosten nach Abs. 1 beruhen auf der Preisbasis 2020. Sie enthalten einen Risikozuschlag und sind mit 2 % pro Jahr auf das Projektende vorausvalorisiert.
+
+(3) Unter vorausvalorisierten Kosten im Sinn des Abs. 2 sind die voraussichtlich zu erwartenden Kosten des Vorhabens in Abhängigkeit vom geplanten Fortschritt der Ausführung des Vorhabens sowie den prognostizierten Indexsteigerungen zu verstehen. Diese stellen daher Prognosekosten dar und sind mit Schätzungenauigkeiten behaftet.
+
+## Artikel 4 – Finanzierung
+
+(1) Die Gesamtkosten gemäß Art. 3 werden vom Bund in der Höhe von 45,4 % und vom Land Tirol in der Höhe von 54,6 % getragen. Auf Basis der Gesamtkosten ergibt sich folgende jährliche Finanzierungsteilung:
+
+<table>
+<tr>
+<td rowspan="3">Jahr</td>
+<td rowspan="2">Gesamt-<br>kosten</td>
+<td colspan="2">Bund</td>
+<td colspan="2">Land Tirol</td>
+</tr>
+<tr>
+<td colspan="4">Finanzierungsbeitrag</td>
+</tr>
+<tr>
+<td>in Euro</td>
+<td>in Euro</td>
+<td>%</td>
+<td>in Euro</td>
+<td>%</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>15.300.000</td>
+<td>6.946.200</td>
+<td>45,4</td>
+<td>8.353.800</td>
+<td>54,6</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>15.606.000</td>
+<td>7.085.124</td>
+<td>45,4</td>
+<td>8.520.876</td>
+<td>54,6</td>
+</tr>
+<tr>
+<td>2023</td>
+<td>5.307.361</td>
+<td>2.409.542</td>
+<td>45,4</td>
+<td>2.897.819</td>
+<td>54,6</td>
+</tr>
+<tr>
+<td><b>Gesamt</b></td>
+<td><b>36.213.361</b></td>
+<td><b>16.440.866</b></td>
+<td><b>45,4</b></td>
+<td><b>19.772.495</b></td>
+<td><b>54,6</b></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+(2) Der Bund hat seinen Finanzierungsbeitrag nach Maßgabe des Fortschrittes in der Ausführung des Vorhabens unter Berücksichtigung der im Zeitraum 2021 bis 2023 geplanten Investitionen beginnend mit 2021 in jährlichen Akontierungsraten an das Land Tirol zu leisten.
+
+(3) Das Land Tirol hat die jährlichen Akontierungsraten spätestens zwei Monate vor dem beabsichtigten Zahlungstermin schriftlich beim Bund anzufordern und informiert den Bund über den Zeitpunkt bzw. die betragliche Höhe des geplanten eigenen jährlichen Finanzierungsbeitrages. Die Akontierungsraten sind entsprechend zu begründen und entsprechende Zahlungspläne vorzulegen.
+
+(4) Bis zur Vorlage der Schlussrechnung ist der Bund berechtigt, seine Akontierungszahlungen auf 90 % der vom Land Tirol angeforderten Akontierungsrate zu beschränken.
+
+(5) Bei Vorlage der Schlussrechnung hat das Land Tirol die Höhe seines eigenen geleisteten Finanzierungsbeitrages nachzuweisen. Der noch offene Finanzierungsbeitrag des Bundes richtet sich nach der Höhe des geleisteten Finanzierungsbeitrages des Landes sowie der gemäß Abs. 1 zugesagten Gesamtfinanzierung und ist vom Bund spätestens vor Ablauf des auf die Vorlage der Schlussrechnung folgenden Haushaltsjahres an das Land Tirol zu leisten.
+
+(6) Bedarfsgemäße Unter- oder Überzahlungen während eines oder mehrerer Jahre sind in begründeten Fällen möglich. Die für das Vorhaben gemäß Abs. 1 zugesagte Gesamtfinanzierung darf jedoch nicht überschritten werden. Werden die veranschlagten Kosten des Vorhabens unterschritten, verringern sich die Finanzierungsbeiträge aliquot. Eine Erhöhung der Kosten des Vorhabens hat keine Erhöhung der Finanzierungsmittel des Bundes zur Folge.
+
+## Artikel 5 – Controllingausschuss
+
+(1) Die Vertragsparteien richten zur Begleitung des Vorhabens einen Controllingausschuss bestehend aus vier Mitgliedern, die je zur Hälfte von jeder Vertragspartei ernannt werden, ein. Je ein vom Bund zu ernennendes Mitglied wird durch das Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie und das Bundesministerium für Finanzen ernannt.
+
+(2) Aufgaben des Controllingausschusses sind insbesondere
+
+1\. der wechselseitige Austausch wichtiger Informationen,
+
+2\. die Auslegung dieser Vereinbarung,
+
+3\. die Überwachung der bestimmungsgemäßen Verwendung der von den Vertragsparteien zur Verfügung gestellten finanziellen Mittel,
+
+4\. die Klärung sonstiger offener und strittiger Fragen insbesondere in Bezug auf die Verrechenbarkeit der Kosten (Art. 6) sowie
+
+5\. die Einrichtung eines Berichtswesens.
+
+(3) Der Controllingausschuss ist beschlussfähig, wenn je Vertragspartei mindestens ein von dieser nominiertes Mitglied anwesend ist. Die Entscheidungen sind einstimmig zu treffen. Stimmenthaltung ist nicht zulässig.
+
+(4) Die Vertragsparteien verpflichten sich, bei sämtlichen Streitigkeiten zunächst den Controllingausschuss zu befassen und sich redlich zu bemühen, eine einvernehmliche Lösung herbeizuführen.
+
+(5) In der konstituierenden Sitzung hat der Controllingausschuss eine Geschäftsordnung zu erlassen und den bzw. die Vorsitzende aus seinen Reihen zu wählen.
+
+(6) Der Controllingausschuss tritt ab Inkrafttreten der Vereinbarung mindestens einmal jährlich zusammen. Der bzw. die Vorsitzende hat die anderen Mitglieder rechtzeitig und unter Versendung der Tagesordnung zu den Sitzungen zu laden. Die Ladung zur konstituierenden Sitzung hat durch das Land Tirol zu erfolgen.
+
+(7) Der Controllingausschuss kann zu den Sitzungen auch Auskunftspersonen beiziehen.
+
+(8) Das Land Tirol wird dafür sorgen, dass dem Controllingausschuss mindestens einmal jährlich in Form einer zusammenfassenden Präsentation über den Planungs- und Baufortschritt (Begründungen für allfällige Plan-/Istabweichungen bei der jährlichen Umsetzung sowie aktuelle Fertigstellungsprognose) sowie über die finanzielle Gesamtsituation (insbesondere aktuelle Gesamtkostenprognose) berichtet wird.
+
+(9) Darüber hinaus wird das Land Tirol dafür sorgen, dass der Bund laufend informiert wird und vier Mal pro Jahr einen schriftlichen Bericht über den Planungs- und Baufortschritt sowie über die finanzielle Gesamtsituation erhält.
+
+## Artikel 6 – Verrechnung, Schlussabrechnung
+
+(1) Verrechenbar sind Ausgaben gemäß der Kostenschätzung in Anlage 3, die erstmalig getätigt werden und in einem sachlichen, örtlichen und zeitlichen Zusammenhang mit dem Vorhaben stehen.
+
+(2) Nicht verrechenbar sind Ausgaben für den laufenden Betrieb sowie für die Erhaltung einschließlich Reinvestition und Instandhaltung.
+
+(3) Das Land Tirol hat dem Bund bis spätestens 30. Juni 2024 eine Schlussabrechnung des Vorhabens vorzulegen.
+
+## Artikel 7 – Kontrolle der Mittelverwendung
+
+(1) Jede Vertragspartei behält sich das Recht vor, die Einhaltung der Vereinbarung, insbesondere die bestimmungsgemäße Verwendung der von ihr gewährten finanziellen Mittel, selbst zu überprüfen oder durch einen von ihr zu benennenden Dritten überprüfen zu lassen. Unberührt davon beabsichtigen die Vertragsparteien, eine gemeinsame Überprüfung der bestimmungsgemäßen Verwendung der von ihnen gewährten finanziellen Mittel zu beauftragen.
+
+(2) Die Vertragsparteien verpflichten sich, etwaige aus der Verwirklichung des Vorhabens erzielbare Einnahmen, wie etwa Erlöse aus der späteren Veräußerung von für das Vorhaben nicht mehr benötigten Grundstücken, entsprechend der Finanzierungsteilung zu refundieren.
+
+(3) Ausgaben, die den Kriterien für die Verrechenbarkeit (Art. 6) nicht entsprechen, sind zu refundieren.
+
+## Artikel 8 – Inkrafttreten
+
+(1) Die Vereinbarung tritt mit Ablauf jenes Tages in Kraft, an dem
+
+1\. die nach der Bundesverfassung erforderlichen Voraussetzungen für das Inkrafttreten erfüllt sind und
+
+2\. beim Bundeskanzleramt die schriftliche Mitteilung des Landes Tirol über die Erfüllung der nach der Landesverfassung erforderlichen Voraussetzungen für das Inkrafttreten eingelangt ist.
+
+(2) Das Bundeskanzleramt hat dem Land Tirol die Erfüllung der Voraussetzungen nach Abs. 1 sowie den Tag des Inkrafttretens dieser Vereinbarung mitzuteilen.
+
+## Artikel 9 – Urschrift und beglaubigte Abschrift
+
+Diese Vereinbarung wird in einer Urschrift ausgefertigt. Die Urschrift wird beim Bundeskanzleramt hinterlegt. Dieses hat dem Land Tirol eine beglaubigte Abschrift zu übermitteln.
+
+## Anl. 1
+
+**Anlage 1: Planskizze des gemeinsamen Vorhabens**
+
+\*(Anm.: Anlage 1 als PDF dokumentiert)*
+
+## Anl. 2
+
+**Anlage 2: Detaillierte Beschreibung einschließlich der Darstellung des Nutzens des gemeinsamen Vorhabens**
+
+\*(Anm.: Anlage 2 als PDF dokumentiert)*
+
+## Anl. 3
+
+**Anlage 3: Kostenschätzung des gemeinsamen Vorhabens**
+
+\*(Anm.: Anlage 3 als PDF dokumentiert)*
+
+## Ratifikationstext
+
+Die Vereinbarung ist gem. ihrem Art. 8 Abs. 1 mit Ablauf des 21. Oktober 2021 in Kraft getreten.

@@ -1,0 +1,76 @@
+---
+title: "Anzahl der für Vertragsbedienstete im Pädagogischen Dienst vorzusehenden Verwendungen gemäß § 46a Abs. 7 VBG und § 19 Abs. 7 LVG"
+identifier: "20009362"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 370/2015"
+last_amended: 2015-11-21
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2015/370/P0/NOR40176166"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009362"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Anzahl der für Vertragsbedienstete im Pädagogischen Dienst vorzusehenden Verwendungen gemäß § 46a Abs. 7 VBG und § 19 Abs. 7 LVG
+
+Verordnung der Bundesministerin für Bildung und Frauen über die Anzahl der für Vertragsbedienstete im Pädagogischen Dienst vorzusehenden Verwendungen gemäß § 46a Abs. 7 VBG und § 19 Abs. 7 LVG
+
+StF: BGBl. II Nr. 370/2015
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 46a Abs. 7 des Vertragsbedienstetengesetzes 1948 – VBG, BGBl. Nr. 86/1948, und des § 19 Abs. 7 des Landesvertragslehrpersonengesetzes 1966 – LVG, BGBl. Nr. 172/1966, jeweils zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 65/2015, wird verordnet:
+
+## § 1 – Anwendungsbereich
+
+§ 1. Diese Verordnung gilt für die im Schulorganisationsgesetz – SchOG, BGBl. Nr. 242/1962, in der Fassung des Bundesgesetzes BGBl. I Nr. 104/2015, geregelten öffentlichen Schulen sowie für Privatschulen mit der Führung einer gesetzlich geregelten Schulartbezeichnung.
+
+## § 2 – Verwendung als Bildungsberaterin oder als Bildungsberater
+
+§ 2. (1) Die Spezialfunktion Bildungsberatung mit einer Bildungsberaterin oder einem Bildungsberater wird eingerichtet für die mittleren und höheren Schulen sowie für die Praxisschulen für die Neuen Mittelschulen.
+
+(2) Weiters werden an den mittleren und höheren Schulen zusätzlich weitere Bildungsberaterinnen oder Bildungsberater in folgendem Ausmaß vorgesehen:
+
+1\. eine weitere Bildungsberaterin oder ein weiterer Bildungsberater bei Schulen mit 476 bis einschließlich 1 000 Schülerinnen und Schülern,
+
+2\. zwei weitere Bildungsberaterinnen oder zwei weitere Bildungsberater bei Schulen mit 1 001 bis einschließlich 1 600 Schülerinnen und Schülern,
+
+3\. drei weitere Bildungsberaterinnen oder drei weitere Bildungsberater bei Schulen mit 1 601 bis einschließlich 2 300 Schülerinnen und Schülern,
+
+4\. vier weitere Bildungsberaterinnen oder vier weitere Bildungsberater bei Schulen mit 2 301 bis einschließlich 3 000 Schülerinnen und Schülern sowie
+
+5\. fünf weitere Bildungsberaterinnen oder fünf weitere Bildungsberater bei Schulen mit mehr als 3 000 Schülerinnen und Schülern.
+
+(3) Sind berufsbildende mittlere Schulen gemäß § 54 Abs. 2 des SchOG berufsbildenden höheren Schulen eingegliedert, gilt für die Anwendung des Abs. 2 die gesamte Unterrichtsanstalt als eine Schule.
+
+(4) Die nach Abs. 1 für eine Praxisschule für die Neue Mittelschule vorgesehene Bildungsberaterin oder der vorgesehene Bildungsberater ist nicht zu bestellen, wenn eine nicht dem Entlohnungsschema pd unterliegende Lehrperson mit der Funktion einer Schüler/innenberaterin oder eines Schüler/innenberaters (§ 59b Abs. 4 des Gehaltsgesetzes 1956 – GehG, BGBl. Nr. 54/1956, bzw. § 41 Abs. 2 VBG) betraut worden ist.
+
+(5) Die Höchstzahl der für eine mittlere oder höhere Schule vorgesehenen Bildungsberaterinnen oder Bildungsberater vermindert sich um die gemäß § 2 Abs. 1 Z 1 und 2 der Verordnung der Bundesministerin für Unterricht, Kunst und Kultur, mit der Vergütungen gemäß § 61b Abs. 3 des Gehaltsgesetzes 1956 festgesetzt werden, BGBl. II Nr. 324/2001, bestellten Bildungsberaterinnen oder Bildungsberater. Hierbei vermindert sich für jeweils im Ausmaß von 100 vH der monatlichen Vergütung gemäß Abs. 1 erster Satz der Verordnung BGBl. II Nr. 324/2001 zu vergütende Bildungsberaterinnen oder Bildungsberater oder bei Schulen mit einer Schüler/innenanzahl bis einschließlich 475 Schülerinnen und Schüler bestellte Bildungsberaterinnen oder Bildungsberater die Anzahl der zu bestellenden Bildungsberaterinnen und Bildungsberater um jeweils eine Person. Bruchteile der einer Lehrperson kraft nach der vorgenannten Bestimmung abzugeltenden Tätigkeit einer Bildungsberaterin oder eines Bildungsberaters von weniger als 100 vH der monatlichen Vergütung gemäß Abs. 1 erster Satz der Verordnung BGBl. II Nr. 324/2001 sind zusammenzuzählen.
+
+## § 3 – Verwendung als Schüler/innenberaterin oder als Schüler/innenberater
+
+§ 3. (1) Die Spezialfunktion Schüler/innenberatung mit einer Schüler/innenberaterin oder einem Schüler/innenberater wird eingerichtet für die Neuen Mittelschulen, für die fünfte bis neunte Schulstufe der Sonderschulen, für die Polytechnischen Schulen sowie für die Berufsschulen. Für Schulen mit mehr als 475 Schülerinnen und Schülern darf eine weitere Schüler/innenberaterin oder ein weiterer Schüler/innenberater bestellt werden. Für Berufsschulen tritt an die Stelle der Zahl von 475 Schülerinnen und Schülern die Zahl 1 175.
+
+(2) Bei der im Rahmen der schulorganisationsgesetzlichen Bestimmungen erfolgten gemeinsamen Führung mehrerer Schulen sowie bei den einer Schule angeschlossenen Klassen derselben oder einer anderen Schulart sind die für den Anspruch auf eine Schüler/innenberaterin oder einen Schüler/innenberater maßgeblichen Schülerinnen und Schüler der in Abs. 1 angeführten Schulen zusammenzuzählen.
+
+(3) Die Höchstzahl der Schüler/innenberaterinnen oder Schüler/innenberater, die nach Abs. 1 und 2 bestellt werden können, vermindert sich um die nicht dem Entlohnungsschema pd unterliegende mit der Funktion einer Schüler/innenberaterin oder eines Schüler/innenberaters (§ 59b Abs. 4 bis 6 GehG bzw. § 41 Abs. 2 VBG) betraute Lehrperson.
+
+## § 4 – Verwendung als Berufsorientierungskoordinatorin oder als Berufsorientierungskoordinator
+
+§ 4. Die Spezialfunktion Berufsorientierungskoordination mit einer Berufsorientierungskoordinatorin oder einem Berufsorientierungskoordinator wird eingerichtet für die Unterstufe der allgemein bildenden höheren Schulen, für die Neuen Mittelschulen sowie für die fünften bis achten Schulstufen der Sonderschulen. Bei der im Rahmen der schulorganisationsgesetzlichen Bestimmungen erfolgten gemeinsamen Führung mehrerer Schulen gebührt für die mehreren Schulen nur eine Berufsorientierungskoordinatorin oder ein Berufsorientierungskoordinator. Für auf der siebenten und achten Schulstufe insgesamt mehr als 125 Schülerinnen und Schüler aufweisende Schulen wird eine weitere Berufsorientierungskoordinatorin oder ein weiterer Berufsorientierungskoordinator bzw. für auf der siebenten und achten Schulstufe insgesamt mehr als 250 Schülerinnen und Schüler aufweisende Schulen werden zwei weitere Berufsorientierungskoordinatorinnen oder zwei weitere Berufsorientierungskoordinatoren vorgesehen.
+
+## § 5 – Verwendung als Lerndesignerin oder als Lerndesigner
+
+§ 5. Die Spezialfunktion Lerndesign Neue Mittelschule mit einer Lerndesignerin oder einem Lerndesigner wird eingerichtet für die Neuen Mittelschulen sowie für die nach dem Modell der Neuen Mittelschule geführte Unterstufe einer allgemein bildenden höheren Schule. Die Bestellung einer dem Entlohnungsschema pd unterliegenden Lehrperson zur Lerndesignerin oder zum Lerndesigner ist für den Bereich der Neuen Mittelschulen nicht vorgesehen, wenn von den für die betreffende Schule gemäß § 59b Abs. 1a GehG bzw. § 41 Abs. 2 VBG zu bestellenden drei Koordinatorinnen oder Koordinatoren mehr als zwei Koordinatorinnen oder Koordinatoren bestellt sind oder bestellt werden sollen.
+
+## § 6 – Bezugsgröße
+
+§ 6. Die Anzahl der Schülerinnen und Schüler gemäß §§ 2 bis 4 bemisst sich anhand der für die betreffende Schule bzw. für die maßgeblichen Schulstufen der Schule zu Beginn des Schuljahres ermittelten Gesamtzahl der Schülerinnen und Schüler. Ergibt sich aufgrund der nachfolgend nach dem Stichtag der österreichischen Schulstatistik für das jeweilige Schuljahr feststehenden Zahlen zu den vorerst ermittelten Zahlen eine für die Anzahl der zu bestellenden Spezialfunktionen maßgebliche Abweichung, so ist die Zahl der mit der betreffenden Spezialfunktion zu betrauenden Lehrpersonen mit Wirksamkeit zum nächsten Monatsersten entsprechend anzupassen.
+
+## § 7 – Inkrafttreten
+
+§ 7. Diese Verordnung tritt mit dem der Kundmachung folgenden Tag in Kraft.

@@ -1,0 +1,638 @@
+---
+title: "Entschädigungsgesetz ČSSR"
+identifier: "10000577"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 452/1975"
+date: 1975-07-03
+last_amended: 2014-01-01
+last_amendment: "BGBl. I Nr. 194/2013"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1975/452/P0/NOR11000579"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000577"
+retrieved: 2026-10-11
+documents: 50
+---
+
+# Entschädigungsgesetz ČSSR
+
+Bundesgesetz vom 3. Juli 1975 über die Gewährung von Entschädigungen auf Grund des Vertrages zwischen der Republik Österreich und der Tschechoslowakischen Sozialistischen Republik zur Regelung bestimmter finanzieller und vermögensrechtlicher Fragen (Entschädigungsgesetz ČSSR)
+
+StF: BGBl. Nr. 452/1975 (NR: GP XIII RV 1584 AB 1669 S. 150. BR: AB 1410 S. 344.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 557/1979 (NR: GP XV RV 66 AB 124 S. 20. BR: AB 2086 S. 391.)  
+BGBl. Nr. 99/1982 (VfGH)  
+BGBl. Nr. 549/1982 (NR: GP XV RV 1184 AB 1254 S. 127. BR: S. 428.)  
+BGBl. Nr. 325/1986 (NR: GP XVI RV 934 AB 980 S. 143. BR: 3131 AB 3134 S. 477.)  
+BGBl. Nr. 532/1993 (NR: GP XVIII RV 1130 AB 1170 S. 127. BR: AB 4571 S. 573.)  
+BGBl. I Nr. 125/1997 (NR: GP XX RV 846 AB 862 S. 90. BR: AB 5555 S. 631.)  
+BGBl. I Nr. 9/2010 (NR: GP XXIV RV 477 AB 499 S. 51. BR: AB 8253 S. 780.)  
+BGBl. I Nr. 194/2013 (NR: GP XXIV RV 2437 AB 2521 S. 216. BR: AB 9093 S. 823.)  
+
+</details>
+
+> **Anmerkung:** Erfassungsstichtag: 1.1.1987
+
+## ABSCHNITT I
+
+#### § 1 – Anspruch
+
+§ 1. Entschädigung ist für Vermögenschaften, Rechte und Interessen (Vermögenswerte) österreichischer Personen zu leisten, wenn diese Vermögenswerte bis zum 19. Dezember 1974 tschechoslowakischen Konfiskations-, Nationalisierungs- oder ähnlichen gesetzlichen Maßnahmen unterzogen worden sind.
+
+#### § 2
+
+§ 2. Dieses Bundesgesetz ist nicht anzuwenden auf
+
+1\. Vermögenswerte, die auf eine Weise erworben worden sind, welche nach der österreichischen Rechtsordnung eine nichtige Vermögensentziehung dargestellt hätte;
+
+2\. Ansprüche aus Lieferungen, Leistungen und Förderungen aller Art, die für oder im Auftrage des ehemaligen Deutschen Reiches, seiner Einrichtungen oder deutscher Personen in der Tschechoslowakei bis zum Ende des Zweiten Weltkrieges erbracht worden oder entstanden sind. Unter deutschen Personen sind deutsche physische und juristische Personen zu verstehen;
+
+3\. Ansprüche aus Schuldverschreibungen jeglicher Art, die in der Tschechoslowakei emittiert worden sind und auf Reichsmark lauten;
+
+4\. Ansprüche, die aus der noch offengebliebenen Einlösung der vom tschechoslowakischen Staat, von Gebietskörperschaften und von Unternehmungen im Gebiet der Tschechoslowakischen Sozialistischen Republik ausgegebenen Fremdwährungsanleihen herrühren;
+
+5\. Ansprüche aus dem Bereich der Sozialversicherung.
+
+#### § 3
+
+§ 3. (1) Vermögensverluste, welche durch die im § 1 genannten Maßnahmen bewirkt wurden, gelten als am 8. Mai 1945 eingetreten.
+
+(2) Wurden Vermögenswerte erst nach dem 8. Mai 1945 erworben, so gilt ihr Verlust als an jenem Tag eingetreten, an dem der Erwerb erfolgt ist.
+
+#### § 4
+
+§ 4. Entschädigung ist nicht zu leisten für
+
+1\. Vermögenswerte, die einer Maßnahme (§ 1) unterzogen worden sind und in Durchführung des Briefwechsels 1 und 2 zum Vermögensvertrag österreichischen Personen ins Eigentum übertragen oder übergeben wurden;
+
+2\. Vermögenswerte, die durch das tschechoslowakische Gesetz vom 30. Mai 1953 über die Geldreform, Nr. 41 Slg., betroffen wurden. Dies gilt jedoch nicht für Aktien und Kuxe, wenn diese gemäß dem tschechoslowakischen Dekret des Präsidenten der Republik vom 20. Oktober 1945, Nr. 95 Slg., registriert und hinterlegt worden sind;
+
+3\. a) Ansprüche aus Lieferungen, Leistungen und Forderungen aller Art, die von Kreditinstituten im Sinne des Rekonstruktionsgesetzes, BGBl. Nr. 183/1955, und von Unternehmen im Sinne des Art. I des Versicherungswiederaufbaugesetzes BGBl. Nr. 185/1955, als Verlust ausgewiesen wurden, wenn sich diese Ansprüche gegen tschechoslowakische Personen richten, deren Vermögenswerte einer Maßnahme (§ 1) unterzogen worden sind;
+
+b) Ansprüche aus Lieferungen, Leistungen und Forderungen aller Art, wenn sich diese Ansprüche gegen andere als tschechoslowakische Personen richten;
+
+4\. Vermögenswerte, soweit für deren Verlust bereits nach den Gesetzen anderer Staaten eine Leistung erbracht wurde oder ein Anspruch auf eine solche Leistung besteht;
+
+5\. Ansprüche aus Patentrechten, Marken- und Musterschutzrechten.
+
+#### § 5
+
+§ 5. (1) Entschädigung ist österreichischen Personen zu leisten, in deren Vermögen der Verlust eingetreten ist (Geschädigte), wenn sie
+
+1\. als physische Personen am 27. April 1945 und am 19. Dezember 1974 österreichische Staatsbürger waren oder
+
+2\. als juristische Personen an den in Z 1 genannten Tagen den Sitz im Gebiet der Republik Österreich gehabt haben.
+
+(2) Hat vor dem Tag des Vermögensverlustes (§ 3) eine Rechtsnachfolge von Todes wegen stattgefunden, so ist der Verlust so anzusehen, als wäre er bereits im Vermögen des Rechtsnachfolgers eingetreten.
+
+#### § 6
+
+§ 6. Ist ein Geschädigter, der am 27. April 1945 die österreichische Staatsbürgerschaft besessen hat, vor dem 19. Dezember 1974 verstorben, so ist die Entschädigung Rechtsnachfolgern von Todes wegen entsprechend ihren Quoten in der Rechtsnachfolge zu leisten, wenn sie am 19. Dezember 1974 österreichische Staatsbürger waren oder als juristische Personen an diesem Tag ihren Sitz im Gebiet der Republik Österreich gehabt haben.
+
+#### § 7
+
+§ 7. Ist der Geschädigte eine juristische Person, die am 27. April 1945 ihren Sitz im Gebiet der Republik Österreich gehabt hat, so ist im Falle der Beendigung ihrer Abwicklung vor dem 19. Dezember 1974 die Entschädigung an die nach der aufgelösten juristischen Person Berechtigten entsprechend ihren Quoten aus der Abwicklung zu gewähren, wenn sie als physische Personen am 19. Dezember 1974 österreichische Staatsbürger waren oder als juristische Personen an diesem Tag ihren Sitz im Gebiet der Republik Österreich gehabt haben.
+
+#### § 8
+
+§ 8. Ist der Verlust in einem Vermögen entstanden, das im Eigentum mehrerer Personen oder einer Personenvereinigung nach bürgerlichem Recht oder einer Personengesellschaft des Handelsrechts stand, so ist die Entschädigung jedem Miteigentümer oder jedem Gesellschafter entsprechend seinem Anteil am Vermögen im Zeitpunkt des Verlustes zu leisten, sofern nicht andere vertragliche Vereinbarungen zwischen den Eigentümern bestanden haben.
+
+#### § 9
+
+§ 9. Der Anspruch auf Entschädigung gilt am 19. Dezember 1974 als entstanden.
+
+## ABSCHNITT II
+
+### Ermittlung der Entschädigung
+
+#### § 10 – A. Allgemeine Bestimmungen
+
+§ 10. (1) Vermögenswerte (Wirtschaftsgüter), für deren Verlust Entschädigung zu leisten ist, sind einer im folgenden angeführten Vermögensart zuzuordnen:
+
+1\. Land- und forstwirtschaftliches Vermögen;
+
+2\. Grundvermögen;
+
+3\. Betriebsvermögen;
+
+4\. sonstiges Vermögen.
+
+(2) Die Zuordnung der Wirtschaftsgüter zu den einzelnen Vermögensarten hat in sinngemäßer Anwendung der Bestimmungen des Bewertungsgesetzes 1955, BGBl. Nr. 148, zu erfolgen.
+
+(3) Die Zusammenfassung einzelner Wirtschaftsgüter zu wirtschaftlichen Einheiten ist nach § 2 des im Abs. 2 genannten Gesetzes vorzunehmen.
+
+#### § 11
+
+§ 11. (1) Bei der Ermittlung der Entschädigung ist von den für jede Vermögensart maßgeblichen Bemessungsgrundlagen auszugehen.
+
+(2) Bei Wirtschaftsgütern und wirtschaftlichen Einheiten ist die Entschädigung im ganzen zu ermitteln; dies gilt auch in Fällen, auf die die Bestimmungen des § 8 zutreffen.
+
+(3) Die Bemessungsgrundlagen sind in Rechnungseinheiten (RE) auszudrücken; die Umrechnung der Währungen hat gemäß Anlage 1 zu erfolgen. Bruchteile, die sich bei der Umrechnung in RE ergeben, sind auf volle RE aufzurunden.
+
+\*(4) (Anm.: Aufgehoben durch BG BGBl. Nr. 557/1979)*
+
+#### § 12
+
+§ 12. Sind vor Eintritt des Verlustes, besonders durch Kriegseinwirkung, Plünderung oder durch sonstige damit im Zusammenhang stehende Ereignisse, Schäden entstanden, so sind diese ihrem Ausmaß entsprechend durch einen Abschlag zu berücksichtigen. Ein Schaden von mehr als 75 vom Hundert ist einem Totalschaden gleichzuhalten.
+
+#### § 13
+
+§ 13. (1) Für die Ermittlung der Höhe der Entschädigung in Schilling sind die für sämtliche Vermögensverluste eines Geschädigten festgestellten RE in Schilling umzurechnen. Die einem Geschädigten gebührende Entschädigung ist mit 100 000 RE, d. s. 640 000 S, begrenzt.
+
+(2) Die RE sind wie folgt in Schilling umzurechnen:
+
+| bis einschließlich | 5.000 RE je RE S 12.- |
+|---|---|
+| von 5.001 RE bis einschließlich | 10.000 RE je RE S 11.- |
+| von 10.001 RE bis einschließlich | 15.000 RE je RE S 10.- |
+| von 15.001 RE bis einschließlich | 20.000 RE je RE S 9.- |
+| von 20.001 RE bis einschließlich | 25.000 RE je RE S 8.- |
+| von 25.001 RE bis einschließlich | 30.000 RE je RE S 7.- |
+| von 30.001 RE bis einschließlich | 35.000 RE je RE S 6.- |
+| von 35.001 RE bis einschließlich | 100.000 RE je RE S 5.-. |
+
+(3) Die Entschädigung ist für jeden Rechtsnachfolger entsprechend seinem Anteil an der Entschädigung zu ermitteln, die dem Geschädigten gebührt hätte.
+
+## B. Besondere Bestimmungen
+
+#### § 14 – Land- und forstwirtschaftliches Vermögen
+
+§ 14. Die Bemessungsgrundlage für die Ermittlung der RE bei land- und forstwirtschaftlichem Vermögen richtet sich nach dem Flächenwert und den Zu- und Abschlägen.
+
+#### § 15
+
+§ 15. (1) Der Flächenwert beträgt 1500 RE je Hektar.
+
+(2) Für Gebäude eines land- und forstwirtschaftlichen Betriebes, die auch für Wohnzwecke verwendet wurden, ist ein Zuschlag zu gewähren. Dieser beträgt 20 vom Hundert des Flächenwertes, mindestens 5000 RE, höchstens jedoch 10.000 RE. Für jede wirtschaftliche Einheit ist dieser Zuschlag nur einmal zu gewähren.
+
+(3) Für jeden zu einer wirtschaftlichen Einheit gehörenden land- und forstwirtschaftlichen Nebenbetrieb wird ein Ergänzungszuschlag in Höhe von 10 vom Hundert des Flächenwertes, mindestens jedoch 2000 RE gewährt.
+
+(4) Wurde nach § 10 des UVEG, BGBl. Nr. 177/1962, Entschädigung geleistet, so ist ein Abschlag in Höhe von 7,5 vom Hundert des Flächenwertes vorzunehmen.
+
+#### § 16 – Grundvermögen
+
+§ 16. Die Bemessungsgrundlage für die Ermittlung der RE für Grundvermögen richtet sich nach der Zuordnung des Grundstückes zu einer Grundstücksgruppe, der örtlichen Lage und den Zuschlägen. Von den in der Anlage 2 zu diesem Bundesgesetz enthaltenen Ansätzen (Richtwerten) ist auszugehen.
+
+#### § 17
+
+§ 17. (1) Bebaute Grundstücke sind unter sinngemäßer Anwendung der Bestimmungen des Bewertungsgesetzes 1955 einzuteilen in
+
+1\. Einfamilienhäuser und Eigenheime,
+
+2\. Mietwohn-, Geschäfts- und gemischt genutzte Grundstücke,
+
+3\. sonstige bebaute Grundstücke.
+
+(2) Bei unbebauten Grundstücken sind zu unterscheiden
+
+1\. Bauparzellen, die im Grundbuch ausdrücklich als solche bezeichnet sind,
+
+2\. sonstige unbebaute Grundstücke.
+
+#### § 18
+
+§ 18. (1) Die örtliche Lage eines Grundstückes wird durch die Einstufung in die Ortsklassen I bis III berücksichtigt.
+
+(2) Zur Ortsklasse I gehört das Gebiet der Stadt Prag, zur Ortsklasse II gehören die Gebiete der Städte Brünn, Preßburg, Mährisch-Ostrau und Pilsen und zur Ortsklasse III alle übrigen Gebiete.
+
+#### § 19
+
+§ 19. (1) Den Richtwerten für die im § 17 Abs. 1 Z 1 und 2 genannten Grundstücke ist bei Einfamilienhäusern und Eigenheimen eine Nutzfläche von 100 m<sup>2</sup> und eine Grundfläche von 700 m<sup>2</sup>, bei Mietwohn-, Geschäfts- und gemischt genutzten Grundstücken eine Nutzfläche von 200 m<sup>2</sup> und eine Grundfläche von 900 m<sup>2</sup> zugrunde gelegt.
+
+(2) Übersteigt die tatsächliche Nutzfläche eines bebauten Grundstückes die im Abs. 1 genannten Ausmaße, so erhöht sich der Richtwert um 40 RE je Quadratmeter, höchstens jedoch um 25 vom Hundert des Richtwertes.
+
+(3) Übersteigt die tatsächliche Grundfläche eines bebauten Grundstückes die im Abs. 1 genannten Ausmaße, so ist der Ansatz für den abweichenden Teil der Grundfläche nach den Richtwerten für Bauparzellen vorzunehmen.
+
+#### § 20
+
+§ 20. Kann das Ausmaß der behaupteten Nutz- oder Grundfläche eines bebauten Grundstückes weder bewiesen noch glaubhaft gemacht werden, so ist ein Zuschlag gemäß § 19 Abs. 2 oder 3 nicht zu gewähren.
+
+#### § 21
+
+§ 21. Liegt bei einem bebauten Grundstück Totalschaden im Sinne des § 12 vor, so sind die Richtwerte für Bauparzellen Bemessungsgrundlage.
+
+#### § 22 – Betriebsvermögen
+
+§ 22. (1) Die Bemessungsgrundlage für die Ermittlung der RE für Betriebsvermögen von Unternehmen mit dem Sitz oder Standort im Gebiet der Tschechoslowakei richtet sich nach den für
+
+1\. freiberuflich tätige Unternehmer oder
+
+2\. nichtbuchführende Handels- und Gewerbetreibende festgesetzten Richtwerten und den Zu- und Abschlägen.
+
+(2) Wer nach Abs. 1 Z 1 als freiberuflich tätiger Unternehmer gilt, richtet sich nach § 22 EStG 1972, BGBl. Nr. 493.
+
+(3) Für Unternehmer, die den Gewinn aus Gewerbebetrieb auf Grund eines Betriebsvermögensvergleiches ermittelt haben, richtet sich die Bemessungsgrundlage nach den Bestimmungen der §§ 24 bis 27.
+
+#### § 23
+
+§ 23. (1) Für die Ermittlung der RE für Betriebsvermögen ist bei freiberuflich tätigen Unternehmern von einem Richtwert von 2000 RE, bei einem nichtbuchführenden Handels- und Gewerbetreibenden von einem Richtwert von 3000 RE auszugehen.
+
+(2) Wurde nach § 10 UVEG Entschädigung geleistet, so ist der Richtwert bei freiberuflich tätigen Unternehmern um 40 vom Hundert, bei nichtbuchführenden Handels- und Gewerbetreibenden um 25 vom Hundert zu kürzen.
+
+(3) Der nach Abs. 1 und 2 ermittelte Richtwert erhöht sich bei
+
+1\. Ärzten mit Hausapotheke um 1000 RE;
+
+2\. nichtbuchführenden Handels- und Gewerbetreibenden, wenn der in RE ausgedrückte Wert des Material- und Warenlagers der letzten vor dem 8. Mai 1945 errichteten Inventur 50 vom Hundert des nach Abs. 1 festgesetzten Richtwertes übersteigt, um den übersteigenden Betrag, höchstens jedoch um 3000 RE;
+
+3\. Unternehmen gemäß § 22 Abs. 1, zu deren Betriebsvermögen außer Grundvermögen auch anderes unbewegliches Vermögen gehört, um 20 vom Hundert des in RE ausgedrückten gemeinen Wertes dieses Vermögens nach den Preisverhältnissen in Österreich zum 8. Mai 1945.
+
+(4) Für die Ermittlung der RE von Grundvermögen, welches zum Betriebsvermögen eines im § 22 Abs. 1 genannten Unternehmers gehört, sind die Bestimmungen der §§ 16 bis 21 anzuwenden.
+
+#### § 24
+
+§ 24. (1) Für die Ermittlung der RE für Betriebsvermögen der im § 22 Abs. 3 genannten Unternehmen ist von der letzten vor dem 8. Mai 1945 erstellten Bilanz auszugehen. Bemessungsgrundlage ist die Summe der Buchwerte des Anlagevermögens und des Material- und Warenlagers abzüglich von Wertberichtigungen.
+
+(2) Im Anlagevermögen enthaltene Vermögenswerte gemäß §§ 2 und 4 sind aus der Bemessungsgrundlage auszuscheiden.
+
+(3) Für Aktien und Kuxe, die gemäß dem tschechoslowakischen Dekret des Präsidenten der Republik vom 20. Oktober 1945, Nr. 95 Slg., angemeldet und hinterlegt worden sind, ist an Stelle ihres Buchwertes der nach § 30 ermittelte Wert anzusetzen.
+
+#### § 25
+
+§ 25. Bei der Ermittlung der RE für Grundstücke ist auf Antrag der wertberichtigte Buchwert dieser Grundstücke zu ersetzen
+
+1\. bei bebauten Grundstücken
+
+a) für das Flächenausmaß durch den in der Anlage 2 angeführten Richtwert für Bauparzellen,
+
+b) für Gebäude und Gebäudeteile durch 20 vom Hundert des in RE ausgedrückten gemeinen Wertes nach den Preisverhältnissen in Österreich zum 8. Mai 1945;
+
+2\. bei unbebauten Grundstücken, wenn diese losgelöst vom
+
+gewerblichen Betrieb zum land- und forstwirtschaftlichen Vermögen gehörten, durch den im § 15 genannten Flächenwert, wenn sie zum Grundvermögen gehörten, durch den in der Anlage 2 angeführten Richtwert für unbebaute Grundstücke.
+
+#### § 26
+
+§ 26. Kann die für die Ermittlung der Bemessungsgrundlage erforderliche Bilanz nicht vorgelegt oder beschafft werden, so sind 7000 RE als Bemessungsgrundlage anzusetzen.
+
+#### § 27
+
+§ 27. Wurde nach § 10 UVEG Entschädigung geleistet, so sind die für die Wirtschaftsgüter ermittelten RE oder die Bemessungsgrundlage gemäß § 26 um 12,5 vom Hundert zu kürzen.
+
+#### § 28
+
+§ 28. Die Bemessungsgrundlage für die Ermittlung der RE für einzelne bewegliche Wirtschaftsgüter des Anlagevermögens oder des Material- und Warenlagers, die zum Betriebsvermögen eines Unternehmens mit dem Sitz oder dem Standort außerhalb des Gebietes der Tschechoslowakei gehören, ist 20 vom Hundert des gemeinen Wertes dieser Wirtschaftsgüter nach den Preisverhältnissen in Österreich zum 8. Mai 1945. Die Ermittlung der RE für Grundstücke hat nach den Bestimmungen des § 25 zu erfolgen.
+
+#### § 29
+
+§ 29. Zum sonstigen Vermögen gehören, wenn sie nicht dem land- und forstwirtschaftlichen Vermögen, dem Grundvermögen oder dem Betriebsvermögen zuzurechnen sind,
+
+1\. Aktien und Anteile an Kapitalgesellschaften, Kuxe bergrechtlicher Gewerkschaften und Anteile an Genossenschaften, wenn diese ihren Sitz im Gebiet der Tschechoslowakei gehabt haben;
+
+2\. Ansprüche aus Lieferungen, Leistungen und Forderungen aller Art, wenn sich diese gegen tschechoslowakische physische und juristische Personen richten;
+
+3\. Pfandrechte (Hypotheken) und sonstige Rechte an einer Liegenschaft, wenn diese einer Maßnahme (§ 1) unterzogen worden ist;
+
+4\. Brauereigerechtigkeiten;
+
+5\. a) Kunstgegenstände und Sammlungen von musealem Wert;
+
+b) andere als in lit. a genannte Sammlungen;
+
+6\. Gegenstände des Hausrates, die in der Anlage zum UVEG genannt sind, und
+
+7\. sonstige bewegliche körperliche Sachen.
+
+#### § 30
+
+§ 30. Bei der Ermittlung der RE für die im § 29 Z 1 genannten Vermögenswerte ist vom Nennwert auszugehen. Die Bemessungsgrundlage beträgt 25 vom Hundert dieses Wertes.
+
+#### § 31
+
+§ 31. (1) Bei der Ermittlung der RE für die in § 29 Z 2 genannten Ansprüche, soweit sie nicht unter Abs. 2 oder 4 fallen, ist vom Nennwert zum Zeitpunkt der Maßnahme (§ 1) auszugehen.
+
+(2) Forderungen auf wiederkehrende Nutzungen und Leistungen sind mit ihrem Kapitalwert anzusetzen, der nach den §§ 15 und 16 des Bewertungsgesetzes 1955 zu ermitteln ist.
+
+(3) Bei der Ermittlung der RE für das Pfandrecht an einer Liegenschaft (Hypothek) ist von dem im Zeitpunkt der Maßnahme (§ 1) noch offenen Betrag der sichergestellten Schuldforderung auszugehen. Eine Ermittlung der RE findet nur statt, wenn nach Eintritt des Vermögensverlustes (§ 3) die Schuldforderung nicht geltend gemacht werden konnte oder soweit die Geltendmachung erfolglos geblieben ist.
+
+(4) Für Ansprüche auf wiederkehrende Nutzungen und Leistungen, die nicht in Geld bestehen, sowie für alle anderen Ansprüche aus nicht mit einer Geldforderung verbundenen Rechten sind als Bemessungsgrundlage je 250 RE anzusetzen.
+
+(5) In den Fällen der Abs. 1 bis 3 beträgt die Bemessungsgrundlage 10 vom Hundert der ermittelten Werte; sie ist gemäß § 11 Abs. 3 in RE umzurechnen. In Fällen des Abs. 4 darf die Bemessungsgrundlage insgesamt 1 500 RE nicht übersteigen.
+
+#### § 32
+
+§ 32. Die Bemessungsgrundlage beträgt bei Brauereigerechtigkeiten (§ 29 Z 4) einheitlich 1 500 RE.
+
+#### § 33
+
+§ 33. Die Bemessungsgrundlage für die im § 29 Z 5 lit. a genannten Vermögenswerte beträgt 10 vom Hundert des gemeinen Wertes nach den Preisverhältnissen in Österreich zum 8. Mai 1945 und ist gemäß § 11 Abs. 3 in RE umzurechnen.
+
+#### § 34
+
+§ 34. (1) Für die Ermittlung der RE für Gegenstände des Hausrates ist die Anlage zum Umsiedler- und Vertriebenen-Entschädigungsgesetz – UVEG, BGBl. Nr. 177/1962, sinngemäß anzuwenden, jedoch Z 7 mit der Maßgabe, daß 4 Punkte einer RE entsprechen. Ist jedoch für solche Gegenstände bereits eine Entschädigung nach § 6 UVEG geleistet worden, so ist Z 7 mit der Maßgabe anzuwenden, daß 8 Punkte einer RE entsprechen.
+
+(2) Die Bemessungsgrundlage für die im § 29 Z 5 lit. b genannten Sammlungen und die im § 29 Z 7 genannten beweglichen körperlichen Sachen beträgt 5 vom Hundert des gemeinen Wertes nach den Preisverhältnissen in Österreich zum 8. Mai 1945 und ist gemäß § 11 Abs. 3 in RE umzurechnen. Die Bemessungsgrundlage ist mit je 1 500 RE begrenzt.
+
+## ABSCHNITT III
+
+#### § 35 – Verfahren
+
+§ 35. Über Ansprüche auf Entschädigung nach diesem Bundesgesetz entscheidet die Bundesentschädigungskommission nach dem Besatzungsschädengesetz in der Fassung des Bundesgesetzes BGBl. I Nr. 194/2013.
+
+#### § 36
+
+§ 36. (1) Ansprüche auf Entschädigung sind bei sonstigem Ausschluß nachweislich bis zum 31. Dezember 1980 bei der Finanzlandesdirektion für Wien, Niederösterreich und Burgenland anzumelden. Der Postlauf wird in die Frist nicht eingerechnet.
+
+\*(2)* *(Anm.: aufgehoben durch BGBl. I Nr. 194/2013)*
+
+\*(3)* *(Anm.: aufgehoben durch BGBl. I Nr. 194/2013)*
+
+#### § 37
+
+§ 37. (1) Die Anmeldung ist an keine bestimmte Form gebunden; sie hat den Namen, die Anschrift und das Geburtsdatum des Entschädigungswerbers sowie die Bezeichnung der Vermögenswerte zu enthalten, für die Entschädigung begehrt wird.
+
+(2) Die zur Begründung des Anspruchs dienenden Urkunden sind der Anmeldung in beglaubigter Abschrift beizufügen. Nicht in deutscher Sprache abgefaßte Schriftstücke sind in beglaubigter Übersetzung vorzulegen.
+
+(3) Bei einer Anmeldung von Aktien und Kuxen sind die Effektivstücke dieser Wertpapiere abzuliefern. Ist eine Ablieferung nicht möglich, so kann das Eigentum an diesen Wertpapieren sowie deren Registrierung und Hinterlegung (§ 4 Z 2) durch geeignete Unterlagen bewiesen werden.
+
+(4) Wurden Vermögensverluste bereits vor Inkrafttreten dieses Bundesgesetzes bei in- und ausländischen Behörden oder Dienststellen angemeldet, so ist dies in der Anmeldung anzuführen. Die Vorlage von Urkunden oder Übersetzungen gemäß Abs. 2 kann unterbleiben, wenn diese schon der früheren Anmeldung beigeschlossen waren.
+
+(5) Ist ein Entschädigungswerber gestorben, nachdem er eine Anmeldung gemäß § 36 eingebracht hat, so gilt diese auch für Rechtsnachfolger.
+
+#### § 38
+
+§ 38. Die Anmeldungen sind nach dem Zeitpunkt ihres Einlangens bei dem zuständigen Finanzamt von diesem zu reihen; dabei sind Anmeldungen von Personen des Geburtsjahrganges 1910 und älter getrennt von den anderen Anmeldungen zu reihen und zeitlich bevorzugt zu behandeln.
+
+#### § 39
+
+§ 39. (1) Das zuständige Finanzamt hat die Anmeldung zu prüfen und dem Entschädigungswerber, falls sie dessen Anspruch für begründet ansieht, einen Entschädigungsbetrag anzubieten.
+
+(2) Nimmt der Entschädigungswerber den ihm angebotenen Betrag als Abgeltung seiner ihm nach diesem Bundesgesetz zustehenden Ansprüche innerhalb einer Frist von drei Monaten nach Zustellung des Anbots schriftlich an, so ist durch die erfolgte Einigung der Anspruch auf Entschädigung vergleichsweise bereinigt.
+
+#### § 40
+
+§ 40. (1) Wird von dem zuständigen Finanzamt
+
+1\. ein Entschädigungsbetrag angeboten und kommt innerhalb von drei Monaten nach Zustellung des Anbots keine schriftliche Einigung zustande, so ist das Finanzamt nicht mehr an sein Anbot gebunden und der Entschädigungswerber kann innerhalb einer weiteren Frist von drei Monaten seinen Anspruch bei der Bundesentschädigungskommission geltend machen;
+
+2\. die Zahlung einer Entschädigung ausdrücklich abgelehnt, so kann der Entschädigungswerber innerhalb einer Frist von drei Monaten nach Empfang der ablehnenden Erklärung seinen Anspruch bei der Bundesentschädigungskommission geltend machen;
+
+3\. innerhalb eines Jahres nach Ablauf der Anmeldefrist weder ein Entschädigungsbetrag angeboten noch die Zahlung eines solchen ausdrücklich abgelehnt, so kann der Entschädigungswerber innerhalb einer weiteren Frist von drei Monaten seinen Anspruch bei der Bundesentschädigungskommission geltend machen.
+
+(2) Ansprüche, die nicht innerhalb der im Abs. 1 Z 1 und 2 genannten Fristen von drei Monaten bei der Bundesentschädigungskommission geltend gemacht werden, sind erloschen.
+
+#### § 41
+
+§ 41. Die Bundesentschädigungskommission kann zur Ergänzung des Sachverhalts dem zuständigen Finanzamt auftragen, Ermittlungen durchzuführen und zu den angemeldeten Ansprüchen Stellung zu nehmen.
+
+#### § 42
+
+§ 42. (1) Der einem Entschädigungswerber von dem zuständigen Finanzamt angebotene oder von der Bundesentschädigungskommission zuerkannte Entschädigungsbetrag ist auf volle 0,72 Euro aufzurunden.
+
+(2) Die Leistungsfrist für Zahlungen beträgt vier Wochen. Sie beginnt mit dem Tag der Zustellung des Vergleichs (§ 39) oder der Entscheidung der Bundesentschädigungskommission (§ 35) an das zuständige Finanzamt.
+
+#### § 42a
+
+§ 42a. (1) Für die mit rechtswirksamem Vergleich oder rechtskräftiger Entscheidung der Bundesentschädigungskommission erledigten Anmeldungen ist vom zuständigen Finanzamt von Amts wegen der zuerkannte Entschädigungsbetrag um 34% zu erhöhen. Bei Anmeldungen, die noch unerledigt bei der Bundesentschädigungskommission anhängig sind, hat diese im Falle der Zuerkennung einer Entschädigung von Amts wegen den Erhöhungsbetrag zu ermitteln und dem Berechtigten bzw. seinen Rechtsnachfolgern von Todes wegen anzubieten. § 38 gelangt nicht zur Anwendung.
+
+(2) Das zuständige Finanzamt hat dem Berechtigten bzw. seinen Rechtsnachfolgern von Todes wegen einen Entschädigungsbetrag gemäß Abs. 1 anzubieten, wobei Beträge bis 7,2 Euro nicht anzubieten sind. Wird der angebotene Betrag innerhalb einer Frist von drei Monaten nach Zustellung des Anbotes schriftlich angenommen, so ist dadurch der Anspruch auf Erhöhung durch Vergleich bereinigt. Wird vom zuständigen Finanzamt ein Erhöhungsbetrag angeboten und kommt innerhalb von drei Monaten nach Zustellung des Anbotes keine Einigung durch Vergleich zustande, so ist das zuständige Finanzamt nicht mehr an sein Anbot gebunden.
+
+(3) Der Berechtigte bzw. seine Rechtsnachfolger von Todes wegen können innerhalb einer weiteren Frist von drei Monaten nach Ablauf der Annahmefrist ihren Anspruch auf Erhöhung der Entschädigung bei der Bundesentschädigungskommission geltend machen. Die Bundesentschädigungskommission kann nur wegen unrichtiger Berechnung des angebotenen Erhöhungsbetrages oder unrichtiger Annahme von Erbquoten angerufen werden.
+
+(4) Ansprüche, die nicht durch Vergleich bereinigt oder innerhalb der in Abs. 3 genannten Frist von drei Monaten bei der Bundesentschädigungskommission geltend gemacht werden, sind erloschen.
+
+(5) Das zuständige Finanzamt hat die Zahlung binnen vier Wochen ab Einlangen der fristgerechten Annahmeerklärung oder der Entscheidung der Bundesentschädigungskommission beim zuständigen Finanzamt zu leisten.
+
+(6) Hat das zuständige Finanzamt bis zum 31. Dezember 2004 einem Berechtigten bzw. seinen Rechtsnachfolgern von Todes wegen kein Anbot über die gemäß Abs. 1 erhöhte Entschädigung zugestellt, so kann der Erhöhungsanspruch bei der Bundesentschädigungskommission geltend gemacht werden.
+
+(7) Entschädigungsmittel, die nicht zur Verteilung gelangen, verfallen nach Abschluss aller Verfahren zu zugunsten des Bundes. Erhöhungsbeträge bis 7,2 Euro je Berechtigtem oder Rechtsnachfolger von Todes wegen gelangen nicht zur Auszahlung.
+
+## ABSCHNITT IV
+
+#### § 43 – Schlußbestimmungen
+
+§ 43. (1) Werden in Durchführung des Briefwechsels 1 und 2 zum Vermögensvertrag Vermögenswerte ins Eigentum übertragen oder übergeben, für die bereits eine Entschädigung geleistet worden ist, so ist die Entschädigung unter Ausschluß der übertragenen oder übergebenen Vermögenswerte von der Finanzlandesdirektion für Wien, Niederösterreich und Burgenland neu zu berechnen. Der Unterschiedsbetrag zwischen der geleisteten Entschädigung und dem neu errechneten Betrag ist der Republik Österreich zurückzuzahlen.
+
+(2) Ein Rückzahlungsanspruch der Republik Österreich kann bei sonstigem Verlust des Anspruchs nur innerhalb eines Jahres vor dem ordentlichen Gericht geltend gemacht werden. Die Frist ist von dem Tage an zu berechnen, an dem der Bund imstande war, die den Rückzahlungsanspruch begründenden Tatsachen oder Beweismittel bei Gericht vorzubringen.
+
+#### § 44
+
+§ 44. (1) Entschädigungen, die auf Grund der Bestimmungen dieses Bundesgesetzes gewährt werden, sind keine steuerpflichtigen Einnahmen.
+
+(2) Die durch die Bestimmungen dieses Bundesgesetzes unmittelbar veranlaßten Schriften und Amtshandlungen sind von den Stempelgebühren und den Bundesverwaltungsabgaben befreit.
+
+#### § 45
+
+§ 45. (1) Dieses Bundesgesetz tritt gleichzeitig mit dem Vertrag zwischen der Republik Österreich und der Tschechoslowakischen Sozialistischen Republik vom 19. Dezember 1974 zur Regelung bestimmter finanzieller und vermögensrechtlicher Fragen in Kraft.
+
+(2) Die §§ 35, 41, 42 Abs. 1, 42a Abs. 1, 2 und 5 bis 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 194/2013 treten mit 1. Jänner 2014 in Kraft. § 36 Abs. 2 und 3 tritt mit Ablauf des 31. Dezember 2013 außer Kraft.
+
+#### § 46
+
+§ 46. Mit der Vollziehung dieses Bundesgesetzes ist betraut:
+
+1\. hinsichtlich des § 35, soweit sich dieser auf den § 21 des Besatzungsschädengesetzes bezieht, der Bundesminister für Justiz im Einvernehmen mit dem Bundesminister für Finanzen;
+
+2\. hinsichtlich des § 35, soweit sich dieser auf die §§ 24 und 25 des Besatzungsschädengesetzes bezieht, sowie des § 43 Abs. 2 der Bundesminister für Finanzen im Einvernehmen mit dem Bundesminister für Justiz;
+
+3\. hinsichtlich des § 44, soweit sich dieser auf Bundesverwaltungsabgaben bezieht, der Bundeskanzler;
+
+4\. hinsichtlich aller übrigen Bestimmungen der Bundesminister für Finanzen.
+
+#### <u>Anlage 1</u>
+
+<table>
+<tr>
+<td colspan="6">UMRECHNUNGSTABELLE</td>
+</tr>
+<tr>
+<td>Land</td>
+<td colspan="2">Währung</td>
+<td colspan="3">Rechnungseinheiten (RE)</td>
+</tr>
+<tr>
+<td>Belgien</td>
+<td>100</td>
+<td colspan="2">belgische Francs</td>
+<td>40</td>
+<td></td>
+</tr>
+<tr>
+<td>Bulgarien</td>
+<td>100</td>
+<td colspan="2">Lewa</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>Dänemark.</td>
+<td>100</td>
+<td colspan="2">dänische Kronen</td>
+<td>52</td>
+<td></td>
+</tr>
+<tr>
+<td>Deutschland</td>
+<td>100</td>
+<td colspan="2">Reichsmark</td>
+<td>100</td>
+<td></td>
+</tr>
+<tr>
+<td>Finnland</td>
+<td>100</td>
+<td colspan="2">Finnmark</td>
+<td>7</td>
+<td></td>
+</tr>
+<tr>
+<td>Frankreich</td>
+<td>100</td>
+<td colspan="2">französische Francs</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>Großbritannien</td>
+<td>1</td>
+<td colspan="2">englisches Pfund</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>Holland</td>
+<td>100</td>
+<td colspan="2">Gulden</td>
+<td>133</td>
+<td></td>
+</tr>
+<tr>
+<td>Italien</td>
+<td>100</td>
+<td colspan="2">Lire</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>Jugoslawien</td>
+<td>100</td>
+<td colspan="2">Dinar</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>Kroatien</td>
+<td>100</td>
+<td colspan="2">Kuna</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>Norwegen</td>
+<td>100</td>
+<td colspan="2">norwegische Kronen</td>
+<td>57</td>
+<td></td>
+</tr>
+<tr>
+<td>Polen</td>
+<td>100</td>
+<td colspan="2">Zloty</td>
+<td>50</td>
+<td></td>
+</tr>
+<tr>
+<td>Portugal</td>
+<td>100</td>
+<td colspan="2">Escudos</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>Rumänien</td>
+<td>100</td>
+<td colspan="2">Lei</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>Schweden</td>
+<td>100</td>
+<td colspan="2">schwedische Kronen</td>
+<td>60</td>
+<td></td>
+</tr>
+<tr>
+<td>Schweiz</td>
+<td>100</td>
+<td colspan="2">Franken</td>
+<td>58</td>
+<td></td>
+</tr>
+<tr>
+<td>Slowakei.</td>
+<td>100</td>
+<td colspan="2">slowakische Kronen</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>Spanien</td>
+<td>100</td>
+<td colspan="2">Peseten</td>
+<td>24</td>
+<td></td>
+</tr>
+<tr>
+<td>Tschechoslowakei</td>
+<td>100</td>
+<td colspan="2">tschechische oder tschechoslowakische Kronen</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>100</td>
+<td colspan="2">tschechoslowakische Kronen (neuer Währung) ab 1. Juni 1953</td>
+<td>50</td>
+<td></td>
+</tr>
+<tr>
+<td>Türkei.</td>
+<td>1</td>
+<td colspan="2">türkisches Pfund</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>Ungarn.</td>
+<td>100</td>
+<td colspan="2">Pengö</td>
+<td>26</td>
+<td></td>
+</tr>
+<tr>
+<td>USA</td>
+<td>1</td>
+<td colspan="2">US-Dollar</td>
+<td>2,5</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+#### <u>Anlage 2</u>
+
+**RICHTWERTE FÜR GRUNDVERMÖGEN**
+
+|  |  | Richtwerte in RE Ortsklasse |  |
+|---|---|---|---|
+|  | I | II | III |
+| Einfamilienhäuser und Eigenheime (§ 17 Abs. 1 Z 1) | 10.000 | 7.500 | 5.000 |
+| Mietwohn-, Geschäfts- und gemischt genutzte Grundstücke (§ 17 Abs. 1 Z 2). | 20.000 | 15.000 | 10.000 |
+| Sonstige bebaute Grundstücke (§ 17 Abs. 1 Z 3). | 4.000 | 3.500 | 2.500 |
+| Bauparzelle je Quadratmeter (§ 17 Abs. 2 Z 1). | 4 | 3 | 2 |
+| Sonstige unbebaute Grundstücke je Quadratmeter (§ 17 Abs. 2 Z 2). | 1,5 | 1 | 0,5 |

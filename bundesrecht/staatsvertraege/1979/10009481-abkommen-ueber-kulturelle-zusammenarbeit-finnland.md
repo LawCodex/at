@@ -1,0 +1,114 @@
+---
+title: "Abkommen über kulturelle Zusammenarbeit (Finnland)"
+identifier: "10009481"
+type: treaty
+ris_type: "Vertrag – Finnland"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 213/1979"
+last_amended: 1979-08-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1979/213/P0/NOR11009672"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009481"
+retrieved: 2026-10-11
+documents: 17
+---
+
+# Abkommen über kulturelle Zusammenarbeit (Finnland)
+
+ABKOMMEN über kulturelle Zusammenarbeit zwischen der Republik Österreich und der Republik Finnland
+
+StF: BGBl. Nr. 213/1979 (NR: GP XIV RV 998 AB 1172 S. 118. BR: AB 1960 S. 383.)
+
+**Unterzeichnungsdatum:** 05.05.1978
+
+**Sprachen:** Deutsch, Finnisch
+
+## Präambel/Promulgationsklausel
+
+Die Republik Österreich und die Republik Finnland haben,
+
+vom Wunsche geleitet, die Zusammenarbeit auf den Gebieten des Unterrichts, der Kultur, der Wissenschaft und der Kunst zu fördern und dadurch die freundschaftlichen Beziehungen zwischen den beiden Ländern zu vertiefen,
+
+vereinbart, das vorliegende Abkommen abzuschließen und sind wie folgt übereingekommen:
+
+## Artikel 1
+
+Die Vertragsparteien unterstützen die Zusammenarbeit auf den Gebieten der Wissenschaft und der Forschung, des Bildungswesens und der Erziehung, der Kunst und Kultur und des Sports im Rahmen der Bestimmungen dieses Abkommens.
+
+## Artikel 2
+
+Die Vertragsparteien ermutigen zu direkten Kontakten zwischen den Akademien der Wissenschaften, den Universitäten und anderen wissenschaftlichen Einrichtungen. Sie unterstützen zu diesem Zweck die Ausübung einer Lehrtätigkeit, die Abhaltung von Gastvorträgen oder befristete wissenschaftliche Arbeit durch Universitätslehrer und Forscher des anderen Landes.
+
+## Artikel 3
+
+Die Vertragsparteien gewähren einander angemessene Jahres- und Kurzstipendien für Studierende und absolvierte Akademiker der Universitäten und künstlerischen Hochschulen.
+
+## Artikel 4
+
+Die Vertragsparteien unterstützen die Arbeit von Wissenschaftern und Forschern des anderen Landes durch die Erleichterung des Zuganges zu kulturellen und wissenschaftlichen Institutionen, wie Bibliotheken, Archiven und Museen.
+
+## Artikel 5
+
+Die Vertragsparteien fördern die Zusammenarbeit zwischen Bibliotheken, Einrichtungen der Denkmalpflege und Museen durch Austausch von Informationen, Dokumentationen und durch gegenseitige Einladung von Experten.
+
+## Artikel 6
+
+(1) Die Vertragsparteien unterstützen einen Expertenaustausch auf dem Gebiet des allgemeinbildenden und des berufsbildenden Schulwesens, der Lehrerbildung und der Erwachsenenbildung.
+
+(2) Die Vertragsparteien ermutigen weiters zum Erfahrungsaustausch auf dem Gebiet der Jugendarbeit sowie zu direkten Kontakten zwischen den in Frage kommenden Institutionen und Organisationen beider Länder.
+
+## Artikel 7
+
+Die Vertragsparteien ermutigen zur Durchführung von Ausstellungen im anderen Land und erleichtern die Beteiligung an solchen Veranstaltungen. Die Modalitäten der Durchführung sind jeweils einvernehmlich festzulegen.
+
+## Artikel 8
+
+Die Vertragsparteien ermutigen zu Gastspielen von Theatern, Künstlerensembles und einzelnen Künstlern und zur Aufführung von Theater- und Musikwerken von Autoren und Komponisten des anderen Landes. Sie unterstützen das Auftreten junger Künstler.
+
+## Artikel 9
+
+Die Vertragsparteien ermutigen zur Übersetzung und Herausgabe von hervorragenden literarischen und wissenschaftlichen Werken des anderen Landes sowie zur Einladung von Übersetzern.
+
+## Artikel 10
+
+Die Vertragsparteien ermutigen Institutionen, Vereinigungen und Organisationen beider Länder zu Tätigkeiten, die den Zielen dieses Abkommens entsprechen.
+
+## Artikel 11
+
+Die Vertragsparteien sind bemüht, im Rahmen ihrer Möglichkeiten Kontakte und Austausch im Filmwesen beider Länder zu unterstützen.
+
+## Artikel 12
+
+Die Vertragsparteien begrüßen die direkte Zusammenarbeit zwischen den Organisationen des Rundfunks und Fernsehens in beiden Ländern.
+
+## Artikel 13
+
+Die Vertragsparteien ermutigen zur Intensivierung der Beziehungen auf den Gebieten des Sports durch Zusammenarbeit der entsprechenden Organisationen.
+
+## Artikel 14
+
+Vertreter der Vertragsparteien werden nach Bedarf oder auf Wunsch einer Vertragspartei abwechselnd in einem der beiden Staaten zusammentreten, um die bisherige Durchführung des Abkommens zu überprüfen und um Empfehlungen für die weitere kulturelle Zusammenarbeit auszuarbeiten.
+
+## Artikel 15
+
+Dieses Abkommen ist zu ratifizieren. Es tritt am ersten Tag des dritten Monats in Kraft, der auf den Monat folgt, in dem die Ratifikationsurkunden ausgetauscht werden.
+
+## Artikel 16
+
+Dieses Abkommen wird für die Dauer von fünf Jahren abgeschlossen und wird jeweils um weitere fünf Jahre verlängert, sofern nicht eine der Vertragsparteien dieses Abkommen schriftlich auf diplomatischem Wege mindestens sechs Monate vor Ablauf der Frist kündigt.
+
+Zu Urkund dessen haben die gefertigten Bevollmächtigten das vorliegende Abkommen unterzeichnet und mit Siegeln versehen.
+
+Geschehen zu Helsinki, am 5. Mai 1978, in zwei Urschriften in deutscher und finnischer Sprache, wobei beide Texte in gleicher Weise authentisch sind.
+
+## Ratifikationstext
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Ratifikationsurkunde wurde am 4. Mai 1979 ausgetauscht; das Abkommen tritt gemäß seinem Artikel 15 am 1. August 1979 in Kraft.
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluß des nachstehenden Staatsvertrages wird genehmigt:

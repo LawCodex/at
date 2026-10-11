@@ -1,0 +1,38 @@
+---
+title: "Abkommen über die Freizügigkeit EG - Schweiz - Protokoll"
+identifier: "20005064"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 162/2006"
+last_amended: 2006-04-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2006/162/P0/NOR30005531"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005064"
+retrieved: 2026-10-11
+documents: 1
+---
+
+# Abkommen über die Freizügigkeit EG - Schweiz - Protokoll
+
+Protokoll zum Abkommen zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit1) im Hinblick auf die Aufnahme der Tschechischen Republik, der Republik Estland, der Republik Zypern, der Republik Lettland, der Republik Litauen, der Republik Ungarn, der Republik Malta, der Republik Polen, der Republik Slowenien und der Slowakischen Republik als Vertragsparteien infolge ihres Beitritts zur Europäischen Union
+
+StF: BGBl. III Nr. 162/2006
+
+## Präambel/Promulgationsklausel
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+1 Kundgemacht in BGBl. III Nr. 133/2002
+
+## Ratifikationstext
+
+Das Protokoll wurde im Amtsblatt der Europäischen Union, ABl. Nr. L 89 vom 28. März 2006 S. 30, veröffentlicht.
+
+Nach Mitteilung des Generalsekretärs des Rates der Europäischen Union ist das Protokoll gemäß dessen Art. 7 mit 1. April 2006 in Kraft getreten.
+
+## Sonstige Textteile
+
+Der Rat der Europäischen Union hat gemäß Art. 6 Abs. 2 und Abs. 6 der Akte zum Beitrittsvertrag 2003 (BGBl. III Nr. 20/2004) im Namen der Mitgliedstaaten der Europäischen Union den nachstehenden Staatsvertrag abgeschlossen, bei dem daher auch die Republik Österreich Vertragspartei ist:

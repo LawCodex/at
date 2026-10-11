@@ -1,0 +1,119 @@
+---
+title: "BUAG-Zuschlagsverordnung"
+identifier: "20007039"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 419/2010"
+last_amended: 2022-01-01
+last_amendment: "BGBl. II Nr. 436/2021"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2010/419/P0/NOR40123588"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007039"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# BUAG-Zuschlagsverordnung
+
+Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz betreffend die Lohnzuschläge für die Urlaubsregelung, Abfertigungsregelung und Winterfeiertagsregelung sowie die Nebenleistungen nach dem Bauarbeiter-Urlaubs- und Abfertigungsgesetz (BUAG-Zuschlagsverordnung)
+
+StF: BGBl. II Nr. 419/2010
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 430/2011  
+BGBl. II Nr. 368/2012  
+BGBl. II Nr. 17/2013  
+BGBl. II Nr. 414/2013  
+BGBl. II Nr. 357/2014  
+BGBl. II Nr. 400/2015  
+BGBl. II Nr. 344/2016  
+BGBl. II Nr. 351/2017  
+BGBl. II Nr. 362/2018  
+BGBl. II Nr. 383/2019  
+BGBl. II Nr. 564/2020  
+BGBl. II Nr. 436/2021  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 4 Abs. 2, 13k Abs. 4, 21 und 26 Abs. 1 des Bauarbeiter-Urlaubs- und Abfertigungsgesetzes, BGBl. Nr. 414/1972, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 59/2010, wird verordnet:
+
+## § 1 – Zuschlag – Urlaub
+
+§ 1. (1) Der Zuschlag zum Lohn, der gemäß § 21a in Verbindung mit § 21 Abs. 1 und 2 des Bauarbeiter-Urlaubs- und Abfertigungsgesetzes (BUAG) zur Bestreitung des Aufwandes für den Sachbereich der Urlaubsregelung einschließlich der anteiligen Verwaltungskosten zu entrichten ist, beträgt für eine Anwartschaftswoche das 11,85fache des um 20% erhöhten kollektivvertraglichen Stundenlohnes gemäß § 21a Abs. 3 und 4 BUAG, soweit Abs. 2 nicht anderes bestimmt.
+
+(2) Der Zuschlag gemäß Abs. 1 beträgt
+
+1\. für Arbeitnehmer, für die eine kollektivvertraglich geregelte wöchentliche Normalarbeitszeit von 39 Stunden gilt, das 11,55fache
+
+2\. für Arbeitnehmer, für die eine kollektivvertraglich geregelte wöchentliche Normalarbeitszeit von weniger als 39 Stunden gilt, das 11,4fache
+
+des um 20% erhöhten kollektivvertraglichen Stundenlohnes gemäß § 21a Abs. 3 und 4 BUAG.
+
+(3) Für die Berechnung des für Lehrlinge zu leistenden Zuschlags ist der kollektivvertragliche Stundenlohn zu Grunde zu legen, der sich für den einzelnen Lehrling auf Grund der gesetzlichen oder kollektivvertraglich festgelegten wöchentlichen Arbeitszeit für die Arbeitsstunde ergibt.
+
+## § 2 – Anwartschaften
+
+§ 2. Der Arbeitnehmer erwirbt als Anwartschaft
+
+1\. bei einem Urlaubsausmaß von 30 Werktagen 649,35/1000,
+
+2\. bei einem Urlaubsausmaß von 36 Werktagen 779,22/1000
+
+der in der Anwartschaftsperiode geleisteten Zuschläge (§ 1).
+
+## § 3 – Nebenleistungen
+
+§ 3. Der Gesamtbetrag der zu vergütenden Nebenleistungen gemäß § 26 Abs. 1 BUAG beträgt für Urlaubstage, die nach dem 31. Dezember 2010 liegen, 30,1% des Urlaubsentgelts.
+
+## § 3a – Zuschlag Schichturlaub und Anwartschaft
+
+§ 3a. (1) Der Zuschlag zum Lohn, der gemäß § 21a in Verbindung mit § 21 Abs. 1 und 2 BUAG zur Bestreitung des Aufwandes für die Zusatzurlaubsregelung für Schichtarbeit gemäß § 4b BUAG einschließlich der anteiligen Verwaltungskosten zu entrichten ist, beträgt für eine Anwartschaftswoche das 2,80fache des um 20% erhöhten kollektivvertraglichen Stundenlohnes gemäß § 21a Abs. 3 und 4 BUAG.
+
+(2) Der Arbeitnehmer erwirbt als Anwartschaft 693,43/1000 der in der Anwartschaftsperiode geleisteten Zuschläge (§ 3a Abs. 1).
+
+## § 4 – Zuschlag – Winterfeiertage
+
+§ 4. Der Zuschlag zum Lohn, der gemäß § 13k zur Bestreitung des Aufwands für den Sachbereich der Winterfeiertagsregelung einschließlich der anteiligen Verwaltungskosten zu entrichten ist, beträgt für eine Anwartschaftswoche das 1,3fache des um 20% erhöhten kollektivvertraglichen Stundenlohns gemäß § 21a Abs. 3 und 4 BUAG.
+
+## § 5 – Zuschlag – Abfertigung
+
+§ 5. Der Zuschlag zum Lohn, der gemäß § 21a in Verbindung mit § 21 Abs. 1 und 3 BUAG zur Bestreitung des Aufwandes für die Abfertigungsregelung (Abfertigungsbeiträge an die Betriebliche Vorsorgekasse gemäß § 33b BUAG und Abfertigungen nach Abschnitt III BUAG) einschließlich der anteiligen Verwaltungskosten zu entrichten ist, beträgt für eine Kalenderwoche (Beschäftigungswoche) das 1,5fache des um 20% erhöhten kollektivvertraglichen Stundenlohnes gemäß § 21a Abs. 3 und 4 BUAG.
+
+## § 6 – Inkrafttreten
+
+§ 6. (1) Diese Verordnung tritt mit 1. Jänner 2011 in Kraft.
+
+(2) Mit Ablauf des 31. Dezember 2010 treten die Verordnung des Bundesministers für Wirtschaft und Arbeit betreffend die Lohnzuschläge für die Urlaubs- und die Abfertigungsregelung nach dem Bauarbeiter-Urlaubs- und Abfertigungsgesetz, BGBl. II Nr. 20/2001, zuletzt geändert durch die Verordnung BGBl. II Nr. 366/2009, sowie die Verordnung des Bundesministers für Arbeit, Soziales und Konsumentenschutz betreffend die Festsetzung des Zuschlags zum Lohn für den Sachbereich der Winterfeiertagsregelung außer Kraft. Sie sind jedoch für die Berechnung, Vorschreibung und Eintreibung von Zuschlägen für Anwartschaftswochen bzw. Kalenderwochen (Beschäftigungswochen), die vor dem 1. Jänner 2011 liegen, in der bis dahin geltenden Fassung weiterhin anzuwenden.
+
+(3) § 5 in der Fassung der Verordnung BGBl. II Nr. 430/2011 tritt mit 1. Jänner 2012 in Kraft. Für die Berechnung, Vorschreibung und Eintreibung von Zuschlägen für Kalenderwochen (Beschäftigungswochen) oder Teile davon, die vor dem 1. Jänner 2012 liegen, ist § 5 in der bis dahin geltenden Fassung weiterhin anzuwenden.
+
+(3) § 5 in der Fassung der Verordnung BGBl. II Nr. 368/2012 tritt mit 1. Jänner 2013 in Kraft. Für die Berechnung, Vorschreibung und Eintreibung von Zuschlägen für Kalenderwochen (Beschäftigungswochen) oder Teile davon, die vor dem 1. Jänner 2013 liegen, ist § 5 in der bis dahin geltenden Fassung weiterhin anzuwenden.
+
+(4) § 3a in der Fassung der Verordnung BGBl. II Nr. 17/2013 tritt mit 1. Jänner 2013 in Kraft.
+
+(5) § 5 in der Fassung der Verordnung BGBl. II Nr. 414/2013 tritt mit 1. Jänner 2014 in Kraft. Für die Berechnung, Vorschreibung und Eintreibung von Zuschlägen für Kalenderwochen (Beschäftigungswochen) oder Teile davon, die vor dem 1. Jänner 2014 liegen, ist § 5 in der bis dahin geltenden Fassung weiterhin anzuwenden.
+
+(6) § 1, § 3a und § 5 in der Fassung der Verordnung BGBl. II Nr. 357/2014 treten mit 1. Jänner 2015 in Kraft. Für die Berechnung, Vorschreibung und Eintreibung von Zuschlägen für Kalenderwochen (Beschäftigungswochen) oder Teile davon, die vor dem 1. Jänner 2015 liegen, ist § 5 in der bis dahin geltenden Fassung weiterhin anzuwenden.
+
+(7) § 5 in der Fassung der Verordnung BGBl. II Nr. 400/2015 tritt mit 1. Jänner 2016 in Kraft. Für die Berechnung, Vorschreibung und Eintreibung von Zuschlägen für Kalenderwochen (Beschäftigungswochen) oder Teile davon, die vor dem 1. Jänner 2016 liegen, ist § 5 in der bis dahin geltenden Fassung weiterhin anzuwenden.
+
+(8) § 5 in der Fassung der Verordnung BGBl. II Nr. 344/2016 tritt mit 1. Jänner 2017 in Kraft. Für die Berechnung, Vorschreibung und Eintreibung von Zuschlägen für Kalenderwochen (Beschäftigungswochen) oder Teile davon, die vor dem 1. Jänner 2017 liegen, ist § 5 in der bis dahin geltenden Fassung weiterhin anzuwenden.
+
+(9) § 5 in der Fassung der Verordnung BGBl. II Nr. 351/2017 tritt mit 1. Jänner 2018 in Kraft. Für die Berechnung, Vorschreibung und Eintreibung von Zuschlägen für Kalenderwochen (Beschäftigungswochen) oder Teile davon, die vor dem 1. Jänner 2018 liegen, ist § 5 in der bis dahin geltenden Fassung weiterhin anzuwenden.
+
+(10) § 5 in der Fassung der Verordnung BGBl. II Nr. 362/2018 tritt mit 1. Jänner 2019 in Kraft. Für die Berechnung, Vorschreibung und Eintreibung von Zuschlägen für Kalenderwochen (Beschäftigungswochen) oder Teile davon, die vor dem 1. Jänner 2019 liegen, ist § 5 in der bis dahin geltenden Fassung weiterhin anzuwenden.
+
+(11) § 5 in der Fassung der Verordnung BGBl. II Nr. 383/2019 tritt mit 1. Jänner 2020 in Kraft. Für die Berechnung, Vorschreibung und Eintreibung von Zuschlägen für Kalenderwochen (Beschäftigungswochen) oder Teile davon, die vor dem 1. Jänner 2020 liegen, ist § 5 in der bis dahin geltenden Fassung weiterhin anzuwenden.
+
+(12) § 5 in der Fassung der Verordnung BGBl. II Nr. 564/2020 tritt mit 1. Jänner 2021 in Kraft. Für die Berechnung, Vorschreibung und Eintreibung von Zuschlägen für Kalenderwochen (Beschäftigungswochen) oder Teile davon, die vor dem 1. Jänner 2021 liegen, ist § 5 in der bis dahin geltenden Fassung weiterhin anzuwenden.
+
+(13) § 4 samt Überschrift in der Fassung der Verordnung BGBl. II Nr. 564/2020 tritt rückwirkend mit 1. Dezember 2020 außer Kraft. § 4 samt Überschrift und § 5 in der Fassung der Verordnung BGBl. II Nr. 436/2021 treten mit 1. Jänner 2022 in Kraft.
+
+> **Anmerkung:** Abs. 3 wurde mit Novelle BGBl. II Nr. 368/2012 ein zweites Mal vergeben.

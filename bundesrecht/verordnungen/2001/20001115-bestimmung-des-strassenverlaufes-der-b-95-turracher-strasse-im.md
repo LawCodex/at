@@ -1,0 +1,36 @@
+---
+title: "Bestimmung des Straßenverlaufes der B 95 Turracher Straße im Bereich der Gemeinden Klagenfurt und Moosburg"
+identifier: "20001115"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 40/2001"
+last_amended: 2001-01-17
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2001/40/P0/NOR30001200"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001115"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Bestimmung des Straßenverlaufes der B 95 Turracher Straße im Bereich der Gemeinden Klagenfurt und Moosburg
+
+Verordnung der Bundesministerin für Verkehr, Innovation und Technologie betreffend die Bestimmung des Straßenverlaufes der B 95 Turracher Straße im Bereich der Gemeinden Klagenfurt und Moosburg
+
+StF: BGBl. II Nr. 40/2001
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 4 Abs. 1 des Bundesstraßengesetzes 1971 (BStG 1971), BGBl. Nr. 286, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 182/1999, wird verordnet:
+
+## Art. 1
+
+Der Straßenverlauf eines Abschnittes der B 95 Turracher Straße wird im Bereich der Gemeinden Klagenfurt und Moosburg wie folgt bestimmt:
+
+Die neu herzustellende Straßentrasse beginnt bei km 7,90, führt sodann in gestreckter Linienführung unter teilweiser Verwendung der bestehenden Trasse und bindet bei km 11,0 wieder in den Bestand ein.
+
+Im Einzelnen ist der Verlauf der neu herzustellenden Straßentrasse aus den beim Bundesministerium für Verkehr, Innovation und Technologie, beim Amt der Kärntner Landesregierung sowie bei den Gemeinden Klagenfurt und Moosburg aufliegenden Planunterlagen (Verordnungsplan, Plan Nr. K 207-1-VO1 im Maßstab 1 : 2 000) zu ersehen. - Die Festlegung der Straßenachsen erfolgte auf Grundlage des vom Bundesministerium für wirtschaftliche Angelegenheiten (nunmehr Verkehr, Innovation und Technologie) mit Erlass Zl. 817 095/2-VI/B/5/98 vom 13. Oktober 1998 genehmigten Einreichprojektes. Dieses Einreichprojekt sowie die Beilage zu Zl. 817 095/11-III/6/00 vom 12. Dezember 2000, welche die schriftliche Darlegung der wesentlichen Entscheidungsgründe enthält, liegen gemeinsam mit dem Verordnungsplan zur öffentlichen Einsicht auf.
+
+§ 15 Bundesstraßengesetz 1971 findet auf den vorangeführten Straßenabschnitt Anwendung. Die Grenzen des Bundesstraßenbaugebietes sind den aufliegenden Planunterlagen zu entnehmen.

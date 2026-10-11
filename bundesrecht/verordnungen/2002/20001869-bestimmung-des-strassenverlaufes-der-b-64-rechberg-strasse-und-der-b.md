@@ -1,0 +1,42 @@
+---
+title: "Bestimmung des Straßenverlaufes der B 64 Rechberg Straße und der B 72 Weizer Straße im Bereich der Gemeinden Krottendorf und Weiz"
+identifier: "20001869"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 125/2002"
+last_amended: 2002-03-23
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2002/125/P0/NOR30002030"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001869"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Bestimmung des Straßenverlaufes der B 64 Rechberg Straße und der B 72 Weizer Straße im Bereich der Gemeinden Krottendorf und Weiz
+
+Verordnung des Bundesministers für Verkehr, Innovation und Technologie betreffend die Bestimmung des Straßenverlaufes der B 64 Rechberg Straße und der B 72 Weizer Straße im Bereich der Gemeinden Krottendorf und Weiz
+
+StF: BGBl. II Nr. 125/2002
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 4 Abs. 1 des Bundesstraßengesetzes 1971 (BStG 1971), BGBl. Nr. 286, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 142/2000, wird verordnet:
+
+## Art. 1
+
+1\. Der Straßenverlauf eines Abschnittes der B 64 Rechberg Straße wird im Bereich der Gemeinden Krottendorf und Weiz wie folgt bestimmt:
+
+Die neu herzustellende Straßentrasse beginnt bei km 10,50, führt über die Kreisverkehrsanlage Preding/Süd zum Gleiskörper der Steiermärkischen Landesbahn Weiz - Gleisdorf, verläuft vorerst bahnparallel, wird dann als Unterflurtrasse im Bahnhofsbereich und im Bereich der Kapruner-Generator-Straße geführt und bindet nach der Kreisverkehrsanlage Weiz/Nord bei km 15,10 wieder in den Bestand ein.
+
+2\. Der Straßenverlauf eines Abschnittes der B 72 Weizer Straße wird im Bereich der Gemeinden Krottendorf und Weiz wie folgt bestimmt:
+
+Die neu herzustellende Straßentrasse wird zwischen km 25,822 und km 26,250 gegenüber dem Bestand abgesenkt und im Rahmen einer Kreisverkehrsanlage mit der unter Punkt 1 verordneten Trasse der
+
+B 64 Rechberg Straße verbunden.
+
+3\. Im Einzelnen ist der Verlauf der neu herzustellenden Straßentrassen aus den beim Bundesministerium für Verkehr, Innovation und Technologie, beim Amt der Steiermärkischen Landesregierung sowie bei den Gemeinden Krottendorf und Weiz aufliegenden Planunterlagen (Verordnungsplan, Plan Nr. 61/64 1/97-13 im Maßstab 1 : 2 000) zu ersehen. - Die Festlegung der Straßenachsen erfolgte auf Grundlage des vom Bundesministerium für Verkehr, Innovation und Technologie genehmigten Einreichprojektes 1999. Dieses Einreichprojekt sowie die Beilage zu Zl. 316 064/15-III/6/01 vom 27. Februar 2001, welche die schriftliche Darlegung der wesentlichen Entscheidungsgründe enthält, liegen gemeinsam mit dem Verordnungsplan zur öffentlichen Einsicht auf.
+
+§ 15 Bundesstraßengesetz 1971 findet auf die vorangeführten Straßenabschnitte Anwendung. Die Grenzen des Bundesstraßenbaugebietes für die B 64 Rechberg Straße sind den aufliegenden Planunterlagen zu entnehmen. Für die B 72 Weizer Straße beträgt der im § 15 Abs. 2 BStG 1971 angeführte Geländestreifen 15 m beiderseits der Straßenachse.

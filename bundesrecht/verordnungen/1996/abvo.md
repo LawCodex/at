@@ -1,0 +1,77 @@
+---
+title: "Arbeitsbescheinigungsverordnung"
+abbreviation: "ABVO"
+identifier: "10008994"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 301/1996"
+last_amended: 1996-07-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1996/301/P0/NOR11009161"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008994"
+retrieved: 2026-10-11
+documents: 7
+---
+
+# Arbeitsbescheinigungsverordnung (ABVO)
+
+Verordnung des Bundesministers für Arbeit und Soziales über die Arbeitsbescheinigung zur Geltendmachung von Arbeitslosengeld (Arbeitsbescheinigungsverordnung – ABVO)
+
+StF: BGBl. Nr. 301/1996
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 46 Abs. 4 des Arbeitslosenversicherungsgesetzes 1977 (AlVG), BGBl. Nr. 609, zuletzt geändert durch das Bundesgesetz BGBl. Nr. 201/1996, wird verordnet:
+
+## § 1
+
+§ 1. (1) Zum Nachweis der arbeitslosenversicherungspflichtigen Beschäftigung, auf die der Anspruch auf Arbeitslosengeld gestützt wird, hat der Arbeitslose eine Bestätigung des Arbeitgebers beizubringen.
+
+(2) Die Bestätigung gemäß Abs. 1 hat zu enthalten:
+
+1\. den Familien- und Vornamen des Arbeitnehmers, seine Wohnungsanschrift, seine Versicherungsnummer und die Staatsbürgerschaft;
+
+2\. die Dauer der tatsächlichen Beschäftigung des Arbeitnehmers (Tag des Beginnes und der Beendigung des Arbeitsverhältnisses);
+
+3\. die Art der Verwendung des Arbeitnehmers;
+
+4\. Unterbrechungen der voll entlohnten Beschäftigung durch Kurzarbeit oder Erkrankung (Schwangerschaft);
+
+5\. die Zeit eines Karenzurlaubes;
+
+6\. die vorgeschriebene bzw. vereinbarte Lehrzeit;
+
+7\. den Träger der gesetzlichen Krankenversicherung, bei welchem der Arbeitnehmer versichert war;
+
+8\. die Art der Lösung des Arbeitsverhältnisses (durch Zeitablauf, durch Kündigung durch den Arbeitgeber oder den Arbeitnehmer, im beiderseitigen Einverständnis, durch vorzeitigen Austritt, durch Entlassung, kraft Gesetz oder Lösung in der Probezeit);
+
+9\. ob und für welchen Zeitraum der Arbeitnehmer Kündigungsentschädigung erhielt bzw. ob die Kündigungsentschädigung nicht gezahlt wurde, weil der Anspruch strittig ist oder weil der Arbeitgeber insolvent ist;
+
+10\. ob und für wie viele Werktage der Arbeitnehmer Urlaubsentschädigung oder Urlaubsabfindung erhielt bzw. ob die Urlaubsentschädigung oder Urlaubsabfindung nicht gezahlt wurde, weil der Anspruch strittig ist oder weil der Arbeitgeber insolvent ist;
+
+11\. den Namen (die Firma) des Arbeitgebers und den Standort des Betriebes.
+
+(3) Die Bestätigung gemäß Abs. 1 hat zusätzlich zu den im Abs. 2 genannten Angaben, wenn die regionale Geschäftsstelle des Arbeitsmarktservice dazu auffordert, weil keine Jahresbemessungsgrundlage (§ 21 Abs. 1 AlVG) beim Hauptverband vorliegt, die Höhe des Bruttoverdienstes während der letzten sechs Kalendermonate der tatsächlichen Beschäftigung einschließlich der auf die einzelnen Monate (Wochen bzw. Tage) entfallenden Anteile von Sonderzahlungen und allfälligen Sachbezügen zu enthalten.
+
+## § 2
+
+§ 2. Die Arbeitsbescheinigung ist auf dem vom Arbeitsmarktservice aufgelegten und bei den regionalen Geschäftsstellen des Arbeitsmarktservice erhältlichen Vordruck zu erstellen. Arbeitsbescheinigungen, die im Wege der automationsunterstützten Datenverarbeitung erstellt wurden, sind zulässig, sofern sie inhaltlich mit dem amtlichen Vordruck übereinstimmen.
+
+## § 3
+
+§ 3. Die Arbeitsbescheinigung ist vom Arbeitgeber oder dessen Beauftragten zu fertigen. Zweitausfertigungen der Arbeitsbescheinigung sind als solche zu bezeichnen.
+
+## § 4
+
+§ 4. Die Träger der Krankenversicherung sind verpflichtet, auf Ersuchen der regionalen Geschäftsstelle des Arbeitsmarktservice auf der Arbeitsbescheinigung anzugeben, ob und in welcher Zeit der Arbeitnehmer arbeitslosenversichert war, welcher Arbeitsverdienst der Versicherung zugrunde gelegt wurde, soweit die Berechnung der Beiträge nicht nach dem Lohnsummenverfahren erfolgt, und in welcher Zeit allenfalls Krankengeld bezogen wurde.
+
+## § 5
+
+§ 5. Mit dem Inkrafttreten dieser Verordnung tritt die Verordnung des Bundesministers für soziale Verwaltung vom 21. Dezember 1978, BGBl. Nr. 11/1979, über die Arbeitsbescheinigung zur Geltendmachung von Arbeitslosengeld, zuletzt geändert durch die Verordnung BGBl. Nr. 930/1994, außer Kraft.
+
+## § 6
+
+§ 6. Diese Verordnung tritt mit 1. Juli 1996 in Kraft.

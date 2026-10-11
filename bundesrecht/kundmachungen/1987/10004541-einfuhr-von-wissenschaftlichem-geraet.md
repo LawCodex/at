@@ -1,0 +1,57 @@
+---
+title: "Einfuhr von wissenschaftlichem Gerät"
+identifier: "10004541"
+type: notice
+ris_type: "K (Geltungsbereich)"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 59/1987"
+date: 1987-02-03
+last_amended: 1987-02-14
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1987/59/P0/NOR11004577"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004541"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Einfuhr von wissenschaftlichem Gerät
+
+Kundmachung des Bundeskanzlers vom 3. Feber 1987 betreffend den Geltungsbereich des Zollabkommens über die vorübergehende Einfuhr von wissenschaftlichem Gerät
+
+StF: BGBl. Nr. 59/1987
+
+## Art. 1
+
+Nach Mitteilungen des Generalsekretärs des Brüsseler Zollrates haben folgende weitere Staaten ihre Ratifikations- bzw. Beitrittsurkunden zum Zollabkommen über die vorübergehende Einfuhr von wissenschaftlichem Gerät (BGBl. Nr. 371/1972) hinterlegt:
+
+`                                         Datum der Hinterlegung der`
+
+`Staaten:                                     Ratifikations- bzw.`
+
+`                                              Beitrittsurkunde:`
+
+`Griechenland                                  23. Jänner 1974`
+
+`Italien                                        6. Mai 1975`
+
+`Kanada                                        24. Juli 1974`
+
+`Kenia                                         31. August 1983`
+
+`Philippinen                                   10. April 1973`
+
+`Salomon-Inseln                                 2. April 1982`
+
+`Schweiz                                       14. November 1973`
+
+`Simbabwe                                       5. November 1986`
+
+`Syrien                                        24. Oktober 1974`
+
+`Ungarn                                        25. Feber 1976`
+
+Nach einer weiteren Mitteilung des Generalsekretärs des Brüsseler Zollrates ist auf Grund einer Notifikation der Schweiz der Geltungsbereich des Abkommens mit Wirkung vom 13. Juni 1975 auf Liechtenstein ausgedehnt worden.
+
+Die Bundesrepublik Deutschland hat notifiziert, daß das Abkommen mit Wirkung des Tages, an dem es für die Bundesrepublik Deutschland in Kraft getreten ist, das ist der 10. September 1969, auch auf das „Land Berlin'' Anwendung findet.

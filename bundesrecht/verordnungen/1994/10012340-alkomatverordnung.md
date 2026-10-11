@@ -1,0 +1,81 @@
+---
+title: "Alkomatverordnung"
+identifier: "10012340"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 789/1994"
+last_amended: 2018-05-12
+last_amendment: "BGBl. II Nr. 100/2018"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1994/789/P0/NOR11012633"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012340"
+retrieved: 2026-10-11
+documents: 6
+---
+
+# Alkomatverordnung
+
+Verordnung des Bundesministers für Inneres über die zur Atemalkoholuntersuchung geeigneten Geräte und die zu deren Handhabung zu ermächtigenden Organe der Straßenaufsicht (Alkomatverordnung)
+
+StF: BGBl. Nr. 789/1994
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 146/1997  
+BGBl. II Nr. 100/2018  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 5a Abs. 3 der Straßenverkehrsordnung 1960 (StVO 1960), BGBl. Nr. 159, in der Fassung der 19. StVO-Novelle, BGBl. Nr. 518/1994, wird im Einvernehmen mit dem Bundesminister für öffentliche Wirtschaft und Verkehr verordnet:
+
+## § 1 – Geräte
+
+§ 1. Für die Untersuchung der Atemluft auf Alkoholgehalt sind Alkomaten (§ 5 Abs. 3 StVO) geeignet, die nach dem Maß- und Eichgesetz, BGBl. Nr. 152/1950, eichfähig sind. Derzeit besitzen diese Eichfähigkeit folgende Geräte:
+
+1\. Hersteller: Siemens AG
+
+Gerätebezeichnung: Alcomat M 52052/A15
+
+2\. Hersteller: Dräger AG
+
+Gerätebezeichnung: 7110 MKIII A
+
+## § 2 – Organe der Straßenaufsicht
+
+§ 2. (1) Die Untersuchung der Atemluft darf bei Verdacht auf Beeinträchtigung durch Alkohol gemäß § 5 Abs. 2 StVO 1960 von
+
+1\. Organen des amtsärztlichen Dienstes und besonders geschulten Organen der Bundespolizei;
+
+2\. sonstigen ermächtigten und besonders geschulten Organen der Straßenaufsicht,
+
+vorgenommen werden.
+
+(2) Der Inhalt der Ermächtigung ist in einer dem Organ zu übergebenden Urkunde anzuführen. Die Organe gemäß Abs. 1 Z 2 sind verpflichtet, diese Urkunde auf Verlangen jener Person, deren Atemluft untersucht werden soll, bei der Amtshandlung vorzuweisen.
+
+## § 3 – Schulung
+
+§ 3. Die für die Ermächtigung erforderliche Schulung hat sich
+
+1\. auf die Feststellung der gesetzlichen Voraussetzungen für die Vornahme der Untersuchung der Atemluft auf Alkoholgehalt und auf die Bedeutung des Ergebnisses dieser Untersuchung für den Betroffenen und
+
+2\. auf die Wirkungsweise, die Handhabung und die zweckmäßige Anwendung der Alkomaten sowie
+
+3\. auf die Vorschriften des § 4
+
+zu erstrecken.
+
+## § 4 – Untersuchung
+
+§ 4. Die Untersuchung der Atemluft auf Alkoholgehalt ist am Ort der Amtshandlung vorzunehmen; sie kann jedoch auch bei der nächsten Dienststelle (§ 5 Abs. 4 StVO), bei der sich ein Alkomat befindet, vorgenommen werden, wenn vermutet werden kann, daß sich der Proband in einem durch Alkohol beeinträchtigten Zustand befindet oder zur Zeit des Lenkens befunden hat. Die Untersuchung ist unter größtmöglicher Schonung des Ansehens des Probanden vorzunehmen.
+
+## § 5 – Inkrafttreten und Aufhebung
+
+§ 5. (1) Diese Verordnung tritt mit 1. Oktober 1994 in Kraft. Die Verordnung des Bundesministers für öffentliche Wirtschaft und Verkehr vom 12. März 1987, BGBl. Nr. 106, in der Fassung der Verordnung BGBl. Nr. 390/1988, tritt mit Ablauf des 30. Septembers 1994 außer Kraft; Organe der Straßenaufsicht, die aufgrund dieser Verordnung ermächtigt wurden, gelten als nach der vorliegenden Verordnung ermächtigt.
+
+(2) § 2 in der Fassung der Verordnung BGBl. II Nr. 100/2018 tritt mit Ablauf des Tages der Kundmachung in Kraft.

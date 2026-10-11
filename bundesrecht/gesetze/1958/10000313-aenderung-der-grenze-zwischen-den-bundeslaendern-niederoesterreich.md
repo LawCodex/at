@@ -1,0 +1,51 @@
+---
+title: "Änderung der Grenze zwischen den Bundesländern Niederösterreich und Oberösterreich"
+identifier: "10000313"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 291/1958"
+date: 1958-12-16
+last_amended: 2008-01-01
+last_amendment: "BGBl. I Nr. 2/2008"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1958/291/P0/NOR30006355"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000313"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# Änderung der Grenze zwischen den Bundesländern Niederösterreich und Oberösterreich
+
+Bundesgesetz vom 16. Dezember 1958, betreffend die Änderung der Grenze zwischen den Bundesländern Niederösterreich und Oberösterreich
+
+StF: BGBl. Nr. 291/1958 (NR: GP VIII RV 562 AB 583 S. 76. BR: S. 140.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 2/2008 (BG) (1. BVRBG) (NR: GP XXIII RV 314 AB 370 S. 41. BR: 7799 AB 7830 S. 751.)  
+
+</details>
+
+## § 1
+
+§ 1. Die Landesgrenze zwischen den Bundesländern Niederösterreich und Oberösterreich verläuft künftighin nach dem großen Bogen des Ennsflusses bei Steyr östlich der Höhenkote 280 von der Flußmitte (Flußparzelle Nr. 509/2) vorerst in westöstlicher Richtung, und zwar entlang der Nordgrenze der Grundparzelle Nr. 300/2, übersetzt die Straßenparzelle Nr. 497 und führt sodann entlang der nördlichen Begrenzung der Grundparzelle Nr. 1/1 bis zur Grundparzelle Nr. 1/2. Die Grenze verläuft weiter in östlicher Richtung entlang der nördlichen Begrenzung der Grundparzelle Nr. 1/2 bis zur Grundparzelle Nr. 1/1 und sodann weiter in östlicher Richtung entlang der restlichen nördlichen Begrenzung der Grundparzelle Nr. 1/1. Die Grenze führt sodann entlang der nördlichen Begrenzung der Grundparzellen Nr. 163/2, 16, 2 und 3, überschreitet die Wegparzelle Nr. 282/3 und verläuft weiter entlang der nordöstlichen Begrenzung der Grundparzelle Nr. 21. Die Grenze nimmt nunmehr ihren Verlauf in südlicher Richtung entlang der östlichen Begrenzung der Waldparzellen Nr. 37/1, 37/2, 37/3, 62, 70 und 105. Die Grenze folgt weiter in nach Westen leicht ausholendem Bogen der östlichen Begrenzung der Waldparzelle Nr. 106 sowie der Grundparzellen Nr. 107/1, 118/2, 107/3 und 188. Nach Überquerung der Voralpen-Bundesstraße (Straßenparzelle Nr. 270/1) führt die Grenze der nordöstlichen Grenzlinie der Grundparzelle Nr. 185/1 entlang bis zu deren nordöstlichem Eckpunkt und folgt nunmehr in nahezu rechtem Winkel zu ihrem bisherigen Verlauf der Südostgrenze des vorbezeichneten Grundstückes bis zur Mühlbachparzelle Nr. 287/2. Nach Überquerung des Mühlbaches verläuft die Grenzlinie entlang der östlichen Begrenzung der Grundparzelle Nr. 195 und nach Überschreitung der Straßenparzelle Nr. 267/1 weiter entlang der östlichen Begrenzung der Grundparzelle Nr. 173/1, welche südlich an den Ramingbach stößt. In der Mitte des Ramingbaches trifft die neue Grenzlinie auf den bisherigen Grenzverlauf und folgt diesem nunmehr wieder flußaufwärts.
+
+## § 2
+
+§ 2. Die im § 1 angeführten Bach-, Fluß-, Grund-, Straßen-, Wald- und Wegparzellen sind Parzellen der vormals zur Gemeinde Behamberg gehörenden Katastralgemeinde Hinterberg.
+
+## § 3
+
+§ 3. (1) Dieses Bundesgesetz tritt – unbeschadet der zu seiner Wirksamkeit erforderlichen übereinstimmenden Verfassungsgesetze der Bundesländer Niederösterreich und Oberösterreich – rückwirkend mit 1. Mai 1945 in Kraft.
+
+(2) Mit seiner Vollziehung ist die Bundesregierung betraut.
+
+> **Anmerkung:** LVG – NÖ LGBl. Nr. 471/1958 sowie LVG – OÖ LGBl. Nr. 48/1958
+
+## Sonstige Textteile
+
+Der Nationalrat hat beschlossen:

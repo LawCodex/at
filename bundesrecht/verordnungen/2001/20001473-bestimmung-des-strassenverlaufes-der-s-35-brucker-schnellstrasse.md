@@ -1,0 +1,36 @@
+---
+title: "Bestimmung des Straßenverlaufes der S 35 Brucker Schnellstraße – Anschlussstelle „Röthelstein“ im Bereich der Gemeinde Röthelstein"
+identifier: "20001473"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 289/2001"
+last_amended: 2001-08-11
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2001/289/P0/NOR30001601"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001473"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Bestimmung des Straßenverlaufes der S 35 Brucker Schnellstraße – Anschlussstelle „Röthelstein“ im Bereich der Gemeinde Röthelstein
+
+Verordnung der Bundesministerin für Verkehr, Innovation und Technologie betreffend die Bestimmung des Straßenverlaufes der S 35 Brucker Schnellstraße – Anschlussstelle "Röthelstein" im Bereich der Gemeinde Röthelstein
+
+StF: BGBl. II Nr. 289/2001
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 4 Abs. 1 des Bundesstraßengesetzes 1971 (BStG 1971), BGBl. Nr. 286, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 142/2000, wird verordnet:
+
+## Art. 1
+
+Die Anschlussstelle “Röthelstein” der S 35 Brucker Schnellstraße wird im Bereich der Gemeinde Röthelstein wie folgt bestimmt:
+
+Die neu herzustellende Anschlussstelle liegt zwischen km 16,407 und km 17,363 und stellt über ihre Zu- und Abfahrtsrampen die Verbindung mit der L 121 Brucker Begleitstraße her.
+
+Im Einzelnen ist der Verlauf der neu herzustellenden Zu- und Abfahrtsrampen aus den beim Bundesministerium für Verkehr, Innovation und Technologie, beim Amt der Steiermärkischen Landesregierung sowie bei der Gemeinde Röthelstein aufliegenden Planunterlagen (Verordnungsplan, Plan Nr. SO-35-22 im Maßstab 1 : 2 000) zu ersehen. - Die Festlegung der Straßenachsen erfolgte auf Grundlage des vom Bundesministerium für wirtschaftliche Angelegenheiten (nunmehr Bundesministerium für Verkehr, Innovation und Technologie) genehmigten Einreichprojektes 1996. Dieses Einreichprojekt sowie die Beilage zu Zl. 316435/11-III/6/01 vom 25. Juni 2001, welche die schriftliche Darlegung der wesentlichen Entscheidungsgründe enthält, liegen gemeinsam mit dem Verordnungsplan zur öffentlichen Einsicht auf.
+
+§ 15 Bundesstraßengesetz 1971 findet auf den vorangeführten Straßenabschnitt Anwendung. Die Grenzen des Bundesstraßenbaugebietes sind den aufliegenden Planunterlagen zu entnehmen.

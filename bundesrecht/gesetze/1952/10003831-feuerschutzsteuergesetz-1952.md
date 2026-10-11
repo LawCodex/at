@@ -1,0 +1,131 @@
+---
+title: "Feuerschutzsteuergesetz 1952"
+identifier: "10003831"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 198/1952"
+last_amended: 2025-12-24
+last_amendment: "BGBl. I Nr. 97/2025"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1952/198/P0/NOR30000017"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10003831"
+retrieved: 2026-10-11
+documents: 10
+---
+
+# Feuerschutzsteuergesetz 1952
+
+Feuerschutzsteuergesetz 1952
+
+StF: BGBl. Nr. 198/1952 (WV)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 13/1993 (NR: GP XVIII RV 764 AB 887 S. 99. BR: AB 4430 S. 563.)  
+BGBl. Nr. 254/1993 (NR: GP XVIII IA 485/A, 230/A und 427/A AB 995 S. 111. BR: AB 4517 S. 568.)  
+BGBl. Nr. 917/1993 (K über Idat)  
+BGBl. Nr. 797/1996 (NR: GP XX RV 497 AB 552 S. 51. BR: AB 5355 S. 620.)  
+BGBl. I Nr. 130/1997 (NR: GP XX RV 887 AB 901 S. 94. BR: 5559 AB 5562 S. 632.)  
+BGBl. I Nr. 106/1999 idF BGBl. I Nr. 194/1999 (DFB) (NR: GP XX RV 1766 AB 1858 S. 175. BR: 5965 AB 5976 S. 656.)  
+BGBl. I Nr. 191/1999 (BG) (1. BRBG) (NR: GP XX RV 1811 AB 2031 S. 179. BR: AB 6041 S. 657.)  
+BGBl. I Nr. 59/2001 (NR: GP XXI RV 590 AB 603 S. 71. BR: 6363 AB 6380 S. 678.)  
+BGBl. I Nr. 9/2010 (NR: GP XXIV RV 477 AB 499 S. 51. BR: AB 8253 S. 780.)  
+BGBl. I Nr. 111/2010 (NR: GP XXIV RV 981 AB 1026 S. 90. BR: 8437 AB 8439 S. 792.)  
+[CELEX-Nr.: 32010L0012]  
+BGBl. I Nr. 104/2019 (NR: GP XXVI IA 985/A AB 692 S. 88. BR: AB 10252 S. 897.)  
+BGBl. I Nr. 97/2025 (NR: GP XXVIII RV 294 AB 331 S. 55. BR: 11720 AB 11741 S. 985.)  
+[CELEX-Nr.: 32024L1233, 32025L0872]  
+
+</details>
+
+## § 1 – Gegenstand der Steuer
+
+§ 1. (1) Der Steuer unterliegt die Entgegennahme von Versicherungsentgelten aus Feuerversicherungen, wenn die versicherten Gegenstände bei der Entgegennahme des Versicherungsentgeltes im Inland sind. Als Feuerversicherungen gelten auch Versicherungen, wenn das Versicherungsentgelt teilweise auf Gefahren entfällt, die Gegenstand einer Feuerversicherung sein können, unabhängig davon, ob das Versicherungsentgelt dem Versicherungsnehmer in einem Gesamtbetrag oder in Teilbeträgen in Rechnung gestellt wird.
+
+(2) Eine Feuerversicherung wird auch begründet, wenn zwischen mehreren Personen oder Personenvereinigungen vereinbart wird, solche Schäden gemeinsam zu tragen, die den Gegenstand einer Feuerversicherung bilden können.
+
+(3) Der Steuer unterliegt nicht die Entgegennahme von Versicherungsentgelten aus Feuerversicherungen bei bäuerlichen Brandschadenversicherungsvereinen, die vorwiegend die Gewährung von Sachleistungen (Hand- und Spanndienste) zum Gegenstand haben.
+
+(4) Für die Steuerpflicht gelten die Vorschriften des § 1 Abs. 2 Versicherungssteuergesetz 1953 in der jeweils geltenden Fassung.
+
+## § 2 – Versicherungsentgelt
+
+§ 2. (1) Versicherungsentgelt im Sinne dieses Gesetzes ist jede Leistung, die für die Begründung und zur Durchführung des Versicherungsverhältnisses an den Versicherer zu bewirken ist, mit Ausnahme der vom Versicherungsnehmer gesondert angeforderten Feuerschutzsteuer selbst (Beispiele: Prämien, Beiträge, Vorbeiträge, Vorschüsse, Nachschüsse, Umlagen, außerdem Eintrittsgelder, Kosten für die Ausfertigung des Versicherungsscheines und sonstige Nebenkosten). Zum Versicherungsentgelt gehört nicht, was zur Abgeltung einer Sonderleistung des Versicherers oder aus einem sonstigen in der Person des einzelnen Versicherungsnehmers liegenden Grund gezahlt wird (Beispiele: Kosten für die Ausstellung einer Ersatzurkunde, Mahnkosten). Wird das Versicherungsentgelt für eine Versicherung, die außer einer Feuerversicherung noch andere Risken umfaßt, nur in einem Gesamtbetrag angegeben, ist Versicherungsentgelt der auf die Feuerversicherung entfallende Teil des Gesamtbetrages.
+
+(2) Wird auf die Prämie ein Gewinnanteil verrechnet und nur der Unterschied zwischen Prämie und Gewinnanteil an den Versicherer gezahlt, so ist dieser Unterschiedsbetrag Versicherungsentgelt. Als Gewinnanteil gilt auch die Rückvergütung eines Teiles der Prämie für schadenfreien Verlauf (Bonus).
+
+## § 3 – Steuerberechnung
+
+§ 3. (1) Die Steuer wird vom Gesamtbetrag der in jedem Kalendermonat vereinnahmten Versicherungsentgelte berechnet.
+
+(2) Der Gesamtbetrag darf um die für Rückversicherungen gezahlten Versicherungsentgelte nicht gekürzt werden.
+
+(3) Werte in fremder Währung sind zur Berechnung der Steuer nach den für die Umsatzsteuer geltenden Vorschriften umzurechnen.
+
+> **Beachte:** Zum Bezugszeitraum vgl. § 9 Abs. 6 idF BGBl. I Nr. 130/1997.
+
+## § 4 – Steuersatz
+
+§ 4. Die Steuer beträgt 8 vH des Gesamtbetrages des Versicherungsentgeltes.
+
+## § 5 – Steuerschuldner
+
+§ 5. (1) Steuerschuldner ist der Versicherer.
+
+(2) Hat der Versicherer keinen Wohnsitz (Sitz) in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, ist aber ein Bevollmächtigter zur Entgegennahme des Versicherungsentgeltes bestellt, so haftet dieser für die Steuer.
+
+(3) Der Steuerschuldner ist berechtigt, die Steuer bis zur Höhe von 4 vH des Versicherungsentgeltes neben dem Versicherungsentgelt vom Versicherungsnehmer gesondert anzufordern. Nimmt er Rückversicherung, ist er berechtigt, das an den Rückversicherer zu entrichtende Entgelt um jenen entsprechenden Hundertsatz der Steuer zu kürzen, den er vom Versicherungsnehmer nicht gesondert angefordert hat. Dies gilt auch für den Rückversicherer, der seinerseits Rückversicherung nimmt.
+
+\*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 59/2001)*
+
+> **Anmerkung:** Beachte Gegensatz zu § 7 Versicherungssteuergesetz 1953, BGBl. Nr. 133/1953
+
+> **Beachte:** Abs. 4 in der Fassung vor dem Bundesgesetz BGBl. I Nr. 59/2001 ist bis 31. Dezember 2001 anzuwenden (vgl. § 9 Abs. 7 idF BGBl. I Nr. 59/2001).
+
+## § 6 – Steuererhebung
+
+§ 6. (1) Der Versicherer (§ 5 Abs. 1) oder der Bevollmächtigte (§ 5 Abs. 2) hat spätestens am 15. Tag (Fälligkeitstag) des auf einen Kalendermonat (Anmeldungszeitraum) zweitfolgenden Kalendermonates die Steuer für den Anmeldungszeitraum nach den Prämieneinnahmen selbst zu berechnen. Stehen die Prämieneinnahmen der Höhe nach noch nicht fest, so ist die Steuer nach dem wahrscheinlichen Prämienverlauf zu berechnen. Weicht die zeitgerecht entrichtete Abgabe von der auf die tatsächlichen Einnahmen entfallenden Abgabe um nicht mehr als ein Prozent ab, so bleibt diese Differenz für die Verpflichtung zur Entrichtung eines Säumniszuschlages außer Betracht. Die Steuer ist spätestens am Fälligkeitstag zu entrichten.
+
+(2) Der Versicherer (§ 5 Abs. 1) oder der Bevollmächtigte (§ 5 Abs. 2) hat bis zum 30. April eine Jahressteuererklärung für das abgelaufene Kalenderjahr beim Finanzamt Österreich einzureichen.
+
+(3) Eine nach § 201 BAO festgesetzte oder gemäß § 202 BAO geltend gemachte Steuer hat den in Abs. 1 genannten Fälligkeitstag.
+
+(4) Der Versicherer (§ 5 Abs. 1) oder der Bevollmächtigte (§ 5 Abs. 2) ist verpflichtet, zur Feststellung der Steuer und der Grundlage ihrer Berechnung im Inland Aufzeichnungen zu führen. Diese müssen alle Angaben enthalten, die für die Berechnung der Steuer von Bedeutung sind. Ausländische Versicherer, die im Inland gelegene Risken versichern (§ 1 Abs. 1 und 4), haben auf Anforderung dem Finanzamt Österreich ein vollständiges Verzeichnis dieser Versicherungsverhältnisse mit allen Angaben, die für die Berechnung der Steuer von Bedeutung sind, zu übermitteln. Diese Verpflichtung besteht auch dann, wenn der Versicherer die Voraussetzungen für die Steuerpflicht oder für die Steuerentrichtung nicht für gegeben hält.
+
+## § 7 – Erstattung der Steuer
+
+§ 7. Wird das Versicherungsentgelt ganz oder zum Teil zurückgewährt, weil die Versicherung vorzeitig aufhört oder das Versicherungsentgelt herabgesetzt worden ist, so wird die Steuer auf Antrag insoweit erstattet, als sie bei Berücksichtigung dieser Umstände nicht zu erheben gewesen wäre. Versicherer (§ 5 Abs. 1) und Bevollmächtigte (§ 5 Abs. 2) können den Erstattungsbetrag selbst berechnen und vom Gesamtsteuerbetrag absetzen.
+
+## § 8 – Vollzug
+
+§ 8. Mit der Vollziehung dieses Gesetzes ist das Bundesministerium für Finanzen betraut.
+
+## § 9 – Inkrafttreten
+
+§ 9. (1) Das Gesetz ist in seiner ursprünglichen Fassung am 1. April 1942 in Kraft getreten. Die durch die Verkehrsteuernovelle 1948, BGBl. Nr. 57/1948, bewirkten Änderungen sind am 1. April 1948 wirksam geworden.
+
+(2) § 6 in der Fassung des Bundesgesetzes BGBl. Nr. 13/1993 ist ab dem 1. Jänner 1993 anzuwenden.
+
+(3) Die §§ 1 Abs. 4 und 5 Abs. 2 in der Fassung des Bundesgesetzes BGBl. Nr. 13/1993 treten gleichzeitig mit dem Inkrafttreten des Abkommens über den Europäischen Wirtschaftsraum in Kraft.
+
+(4) § 5 Abs. 4 in der Fassung des Bundesgesetzes BGBl. Nr. 254/1993 tritt mit 1. Mai 1993 in Kraft.
+
+(5) § 6 Abs. 1 in der Fassung des Bundesgesetzes BGBl. Nr. 797/1996 tritt am 1. Jänner 1997 in Kraft.
+
+(6) § 3 Abs. 1 und § 6 Abs. 1 erster Satz in der Fassung vor dem Bundesgesetz BGBl. I Nr. 130/1997 ist letztmalig auf Versicherungsentgelte anzuwenden, die vor dem 1. Jänner 1998 vereinnahmt werden.
+
+(7) § 5 Abs. 4 in der Fassung vor dem Bundesgesetz BGBl. I Nr. 59/2001 ist bis 31. Dezember 2001 anzuwenden.
+
+(8) § 6 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 9/2010 tritt mit 1. Juli 2010 in Kraft.
+
+(9) § 6 Abs. 4 dritter Satz in der Fassung des Budgetbegleitgesetzes 2011, BGBl. I Nr. 111/2010, tritt mit 1. Jänner 2011 in Kraft.
+
+(10) § 6 Abs. 2 und Abs. 4 dritter Satz, jeweils in der Fassung des Bundesgesetzes, BGBl. I Nr. 104/2019 treten mit 1. Juli 2020 in Kraft.
+
+(11) § 3 Abs. 4, § 5 Abs. 2 bis 5, § 6, § 7 und § 9 Abs. 11 zweiter Satz, jeweils in der Fassung des Bundesgesetzes BGBl. I Nr. 97/2025, treten mit 1. Jänner 2027 in Kraft. Die Verordnungen nach § 6 Abs. 6 und § 9 Abs. 11 können bereits ab dem der Kundmachung des Bundesgesetzes BGBl. I Nr. 97/2025 folgenden Tag erlassen werden. Sie dürfen jedoch frühestens mit 1. Jänner 2027 zur Anwendung kommen.
+
+> **Anmerkung:** Zu Abs. 3: Das EWR-Abkommen ist mit 1.1.1994 in Kraft getreten, vgl. BGBl. Nr. 909/1993 und BGBl. Nr. 917/1993.

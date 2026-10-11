@@ -1,0 +1,104 @@
+---
+title: "Flugpolizeiliche Zusammenarbeit zur Durchführung des „Vertrages zwischen der Republik Österreich, dem Fürstentum Liechtenstein und der Schweizerischen Eidgenossenschaft über die grenzüberschreitende polizeiliche Zusammenarbeit“ (Liechtenstein)"
+identifier: "20012190"
+type: treaty
+ris_type: "Vertrag – Liechtenstein"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 39/2023"
+last_amended: 2023-04-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/iii/2023/39/P0/NOR40251392"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012190"
+retrieved: 2026-10-11
+documents: 10
+---
+
+# Flugpolizeiliche Zusammenarbeit zur Durchführung des „Vertrages zwischen der Republik Österreich, dem Fürstentum Liechtenstein und der Schweizerischen Eidgenossenschaft über die grenzüberschreitende polizeiliche Zusammenarbeit“ (Liechtenstein)
+
+Vereinbarung zwischen dem Bundesminister für Inneres der Republik Österreich und der Landespolizei des Fürstentums Liechtenstein betreffend die flugpolizeiliche Zusammenarbeit zur Durchführung des „Vertrages zwischen der Republik Österreich, dem Fürstentum Liechtenstein und der Schweizerischen Eidgenossenschaft über die grenzüberschreitende polizeiliche Zusammenarbeit“
+
+StF: BGBl. III Nr. 39/2023
+
+## Präambel/Promulgationsklausel
+
+Auf Grundlage des Vertrages zwischen der Republik Österreich, dem Fürstentum Liechtenstein und der Schweizerischen Eidgenossenschaft über die grenzüberschreitende polizeiliche Zusammenarbeit<sup>1</sup> (im Folgenden „Polizeikooperationsvertrag“) – insbesondere seiner Artikel 11, 24, 35, 57 und 58 – haben der Bundesminister für Inneres der Republik Österreich und die Landespolizei des Fürstentum Liechtensteins (im Folgenden „Parteien“) Folgendes vereinbart:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+1\) Kundgemacht in BGBl. III Nr. 78/2017
+
+## Artikel 1 – Gegenstand und Zweck der Vereinbarung
+
+Diese Vereinbarung regelt die Modalitäten bei der Unterstützung der Landespolizei des Fürstentums Liechtenstein (im Folgenden „Landespolizei“) durch das Bundesministerium für Inneres der Republik Österreich im Bereich der Flugpolizei sowie die gemeinsame Ausbildung in diesem Bereich aufgrund des Umstandes, dass die Landespolizei über keine eigenen Polizeihubschrauber verfügt. Die Unterstützung im Rahmen flugpolizeilicher Einsätze soll dabei insgesamt zu einem hohen Sicherheitsniveau beitragen.
+
+## Artikel 2 – Begriffsbestimmung
+
+Im Sinne dieser Vereinbarung bedeuten:
+
+a) „Flugpolizeiliche Einsätze“: sämtliche Einsätze der österreichischen Flugpolizei im Sinne des österreichischen Sicherheitspolizeigesetzes, im Sinne der österreichischen Strafprozessordnung und im Sinne der österreichischen Straßenverkehrsordnung, zu deren Aufgabenbewältigung ein Polizeihubschrauber eingesetzt wird. Darunter fallen insbesondere Einsätze bei Fußballländerspielen, der Verkehrsüberwachung, Alpineinsätze, Einsätze zur Bergung unverletzter Personen (Unverletztenbergung), Totbergungen sowie zur Fahndung mit Landungen auf dem Gebiet des Fürstentums Liechtenstein.
+
+b) „Fliegender Einsatzleiter (FEL)“: ein Koordinator/eine Koordinatorin der Landespolizei für sämtliche flugpolizeilichen Einsätze.
+
+## Artikel 3 – Umfang der Unterstützungsleistungen im Einsatzfall
+
+(1) Je nach dienstlicher Verfügbarkeit stellt die Flugeinsatzstelle Hohenems der Landespolizei einen Polizeihubschrauber samt Besatzung, bestehend aus einem Hubschraubereinsatzpiloten/einer Hubschraubereinsatzpilotin und einem Flight-Operator/einer Flight-Operatorin, zur Durchführung flugpolizeilicher Einsätze im Umfang von jährlich maximal 25 Flugstunden zur Verfügung.
+
+(2) Sollte sich dieser jährliche Bedarf erhöhen, werden sich die Parteien darüber verständigen, ob und in welchem Ausmaß diesem Mehrbedarf unter Berücksichtigung der notwendigen Durchführung flugpolizeilicher Einsätze auf österreichischem Hoheitsgebiet entsprochen werden kann.
+
+## Artikel 4 – Zusammenarbeit bei der Ausbildung
+
+(1) Zur Sicherstellung eines einheitlichen Ausbildungsniveaus in der Zusammenarbeit mit der Flugpolizei des Bundesministeriums für Inneres der Republik Österreich wird der Alpinpolizei der Landespolizei sowie dem FEL die regelmäßige Teilnahme an flugpolizeilichen Ausbildungen der Alpinpolizei der Landespolizeidirektion Vorarlberg ermöglicht. Die Einladung für solche Aus- und Weiterbildungen erfolgt direkt durch die Alpinpolizei der Landespolizeidirektion Vorarlberg.
+
+(2) Überdies kann der FEL bei Flugretternachschulungen der Flugpolizei des Bundesministeriums für Inneres der Republik Österreich anwesend sein. Die Einladung für solche Nachschulungen erfolgt direkt durch die Flugeinsatzstelle Hohenems.
+
+## Artikel 5 – Dienststellen und Aufgebot
+
+(1) Sofern in dieser Vereinbarung nichts anderes geregelt ist, sind die zuständigen Dienststellen im Sinne dieser Vereinbarung:
+
+– Auf Seite des Bundesministers für Inneres: Die Abteilung Flugpolizei sowie die als Außenstelle dieser Abteilung und damit auch des Bundesministeriums für Inneres (Zentralstelle) eingerichtete Flugeinsatzstelle Hohenems;
+
+– Auf Seite der Landespolizei: Die Fachstelle FEL.
+
+(2) Die Parteien werden einander die Bezeichnungen, Post- und Email-Adressen und sonstigen Kontaktinformationen der jeweiligen Dienststellen und alle Änderungen umgehend auf schriftlichem Wege mitteilen.
+
+(3) Die zuständigen Dienststellen verkehren direkt miteinander.
+
+(4) Der FEL koordiniert und leitet sämtliche Flugeinsätze auf liechtensteinischem Hoheitsgebiet in Absprache mit der jeweiligen aufgebotenen Hubschrauberbesatzung der Flugpolizei des Bundesministeriums für Inneres der Republik Österreich.
+
+(5) Bei planbaren Einsätzen sucht der FEL nach Möglichkeit mindestens einen Monat im Voraus bei der Flugeinsatzstelle Hohenems um Unterstützung an. Diese teilt dem FEL sobald wie möglich mit, ob die Unterstützungsleistung erbracht werden kann.
+
+## Artikel 6 – Kosten
+
+(1) Die Landespolizei vergütet dem Bundesministerium für Inneres der Republik Österreich für geleistete Einsätze sowie Ausbildungsflüge im Auftrag der Landespolizei den Minutenpreis für Luftfahrzeuge gemäß den nach österreichischem Recht geltenden Regelungen über die Festsetzung von Kostenersätzen für den Einsatz eines Luftfahrzeuges nach dem Sicherheitspolizeigesetz.
+
+(2) Die Abrechnung erfolgt nach jedem durchgeführten Flug, wobei ein Zahlungsziel von 30 Tagen als vereinbart gilt.
+
+(3) Die Rechnungsstellung erfolgt durch die Abteilung Flugpolizei des Bundesministeriums für Inneres der Republik Österreich an den FEL.
+
+## Artikel 7 – Haftung
+
+Für den Ersatz von Schäden, welche in Vollziehung dieser Vereinbarung entstehen, gilt Artikel 37 des Polizeikooperationsvertrages.
+
+## Artikel 8 – Streitbeilegung
+
+Die Parteien verpflichten sich, allfällige Streitigkeiten aus der vorliegenden Vereinbarung im Einvernehmen und unter Bedachtnahme auf die Ziele gemäß der Präambel sowie der Artikel 1 und Artikel 5 des Polizeikooperationsvertrages zu lösen.
+
+## Artikel 9 – Schlussbestimmung
+
+(1) Diese Vereinbarung wird auf unbestimmte Zeit geschlossen und tritt am ersten Tag des zweiten Monats in Kraft, der auf den Zeitpunkt folgt, in dem die Parteien einander mitgeteilt haben, dass die jeweiligen hierfür erforderlichen innerstaatlichen Voraus-setzungen erfüllt sind. Maßgebend ist der Tag des Eingangs der letzten Mitteilung.
+
+(2) Die Parteien können Änderungen zu dieser Vereinbarung einvernehmlich in schriftlicher Form vornehmen.
+
+(3) Jede Partei kann diese Vereinbarung jederzeit schriftlich kündigen, wobei diese Vereinbarung sechs Monate nach Einlangen der Kündigung bei der anderen Partei außer Kraft tritt. Die Vereinbarung tritt darüber hinaus zeitgleich mit dem Polizeikooperationsvertrag<sup>1</sup> außer Kraft, sollte dieser gemäß seines Artikels 61 gekündigt werden.
+
+Wien, am 17. Februar 2023
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+1\) Kundgemacht in BGBl. III Nr. 78/2017
+
+## Ratifikationstext
+
+Die Mitteilungen gemäß Art. 9 Abs. 1 der Vereinbarung wurden am 28. Februar 2023 abgegeben; die Vereinbarung tritt gemäß ihrem Art. 9 Abs. 1 mit 1. April 2023 in Kraft.

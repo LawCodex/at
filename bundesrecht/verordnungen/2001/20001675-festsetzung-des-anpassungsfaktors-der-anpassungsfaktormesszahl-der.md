@@ -1,0 +1,38 @@
+---
+title: "Festsetzung des Anpassungsfaktors, der Anpassungsfaktormesszahl, der Anpassungsrichtwertmesszahl sowie des Wertausgleichs für das Jahr 2002"
+identifier: "20001675"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 439/2001"
+last_amended: 2001-12-15
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2001/439/P0/NOR30001820"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001675"
+retrieved: 2026-10-11
+documents: 3
+---
+
+# Festsetzung des Anpassungsfaktors, der Anpassungsfaktormesszahl, der Anpassungsrichtwertmesszahl sowie des Wertausgleichs für das Jahr 2002
+
+Verordnung des Bundesministers für soziale Sicherheit und Generationen, mit der der Anpassungsfaktor, die Anpassungsfaktormesszahl, die Anpassungsrichtwertmesszahl sowie der
+
+Wertausgleich für das Jahr 2002 festgesetzt werden
+
+StF: BGBl. II Nr. 439/2001
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 108 Abs. 5 in Verbindung mit § 108f Abs. 1, 4 und 5 sowie § 299a des Allgemeinen Sozialversicherungsgesetzes (ASVG), BGBl. Nr. 189/1955, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 103/2001, wird mit Zustimmung der Bundesregierung verordnet:
+
+## § 1
+
+§ 1. Der Anpassungsfaktor für die Anpassung der in den §§ 108g und 108h ASVG angeführten Renten und Pensionen wird für das Jahr 2002 mit 1,011 festgesetzt; die Anpassungsfaktormesszahl wird für das Jahr 2002 mit 118,78, die Anpassungsrichtwertmesszahl wird für das Jahr 2002 mit 118,65 festgesetzt.
+
+## § 2
+
+§ 2. (1) Allen Personen mit gewöhnlichem Aufenthalt im Inland und ohne Anspruch auf Ausgleichszulage, die im Februar 2002 Anspruch auf eine oder mehrere Pensionen haben, auf die § 1 anzuwenden ist, gebührt zu der (höchsten) für Februar 2002 auszuzahlenden Pension als Wertausgleich eine Einmalzahlung. Diese beträgt für Personen mit einem Gesamtpensionseinkommen von nicht mehr als 10 525,17 € 1,8% des Gesamtpensionseinkommens. Für Personen mit einem höheren Gesamtpensionseinkommen als 10 525,17 € gebührt die Einmalzahlung im Ausmaß der Differenz von 305,23 € und der Erhöhung des Gesamtpensionseinkommens aus der Anpassung mit dem Anpassungsfaktor. Unterschreitet die so ermittelte Einmalzahlung den Betrag von 1 €, so ist sie nicht auszuzahlen.
+
+(2) Als Gesamtpensionseinkommen im Sinne des Abs. 1 gilt das Vierzehnfache der Summe aller Pensionen aus der gesetzlichen Pensionsversicherung, auf die § 1 anzuwenden ist und auf die im Februar 2002 Anspruch besteht, jedoch ohne Berücksichtigung der Anpassung nach § 1.

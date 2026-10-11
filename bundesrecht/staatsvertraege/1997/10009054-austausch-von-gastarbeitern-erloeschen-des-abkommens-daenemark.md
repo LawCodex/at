@@ -1,0 +1,78 @@
+---
+title: "Austausch von Gastarbeitern - Erlöschen des Abkommens (Dänemark)"
+identifier: "10009054"
+type: treaty
+ris_type: "Vertrag – Dänemark"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 133/1997"
+last_amended: 1997-08-27
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/1997/133/P0/NOR11009228"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009054"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Austausch von Gastarbeitern - Erlöschen des Abkommens (Dänemark)
+
+Erlöschen des Abkommens zwischen der Österreichischen Bundesregierung und der Regierung des Königreiches Dänemark über den Austausch von Gastarbeitern
+
+StF: BGBl. III Nr. 133/1997
+
+## Art. 1
+
+Österreichische Botschaft
+
+Kopenhagen
+
+Zl. 1201/95
+
+\**Verbalnote**
+
+Die Österreichische Botschaft entbietet dem Königlich Dänischen Ministerium des Äußern ihre Hochachtung und beehrt sich, dem Königlichen Dänischen Ministerium des Äußern den Austausch von Verbalnoten zwischen der Österreichischen Bundesregierung und der Regierung des Königreiches Dänemark über die Feststellung des Erlöschens des Abkommens vom 7. September 1954 vorzuschlagen:
+
+Das im Notenwechsel vom 7. September 1954 enthaltene Abkommen zwischen der Österreichischen Bundesregierung und der Regierung des Königreiches Dänemark über den Austausch von Gastarbeitnehmern <sup>1</sup>) ist mit dem Zeitpunkt des Inkrafttretens des Beitritts der Republik Österreich zur Europäischen Union erloschen.
+
+Falls sich die Regierung des Königreiches Dänemark mit dem Vorschlag der Österreichischen Bundesregierung einverstanden erklärt, werden diese Verbalnote und die das Einverständnis der Regierung des Königreiches Dänemark zum Ausdruck bringende Antwortnote des Königlich Dänischen Ministeriums des Äußeren eine einvernehmliche Feststellung über das Erlöschen des eingangs erwähnten Abkommens vom 7. September 1954 darstellen.
+
+Die Österreichische Botschaft benützt diesen Anlaß, dem Königlich Dänischen Ministerium des Äußern die Versicherung ihrer ausgezeichneten Hochachtung zu erneuern.
+
+Kopenhagen, am 1. Februar 1996
+
+**L.S.**
+
+An das
+
+Königlich Dänische Ministerium des Äußern
+
+\**Kopenhagen**
+
+\**UDENRIGSMINISTERIET**
+
+Az. 96.D.23
+
+\**Verbalnote**
+
+Das Ministerium des Äußern beehrt sich, den Empfang der Note der Österreichischen Botschaft vom 1. Februar dieses Jahres zu bestätigen, die folgenden Wortlaut hat:
+
+„Das im Notenwechsel vom 7. September 1954 enthaltene Abkommen zwischen der Österreichischen Bundesregierung und der Regierung des Königreiches Dänemark über den Austausch von Gastarbeitnehmern ist mit dem Zeitpunkt des Inkrafttretens des Beitritts der Republik Österreich zur Europäischen Union erloschen.
+
+Falls sich die Regierung des Königreiches Dänemark mit dem Vorschlag der Österreichischen Bundesregierung einverstanden erklärt, werden diese Verbalnote und die das Einverständnis der Regierung des Königreiches Dänemark zum Ausdruck bringende Antwortnote des Königlich Dänischen Ministeriums des Äußern eine einvernehmliche Feststellung über das Erlöschen des eingangs erwähnten Abkommens vom 7. September 1954 darstellen.“
+
+In Beantwortung obengenannter Note beehrt sich das Ministerium des Äußern, der Österreichischen Botschaft mitzuteilen, daß die dänische Regierung den in der Note wiedergegebenen Vorschlag annehmen kann, und daß die Regierung sich einverstanden erklärt, die Verbalnote der Botschaft und diese Antwort als ein Übereinkommen zwischen den beiden Regierungen über das Erlöschen des Abkommens vom 7. September 1954 zu betrachten.
+
+Kopenhagen, den 20. März 1996
+
+**L.S.**
+
+An
+
+die Österreichische Botschaft
+
+\**Kopenhagen**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup>) Kundgemacht in BGBl. Nr. 35/1955

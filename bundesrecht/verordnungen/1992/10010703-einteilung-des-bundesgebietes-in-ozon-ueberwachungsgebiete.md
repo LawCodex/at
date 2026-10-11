@@ -1,0 +1,298 @@
+---
+title: "Einteilung des Bundesgebietes in Ozon-Überwachungsgebiete"
+identifier: "10010703"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 513/1992"
+last_amended: 1998-10-09
+last_amendment: "BGBl. II Nr. 359/1998"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1992/513/P0/NOR11010922"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010703"
+retrieved: 2026-10-11
+documents: 3
+---
+
+# Einteilung des Bundesgebietes in Ozon-Überwachungsgebiete
+
+Verordnung des Bundesministers für Umwelt, Jugend und Familie über die Einteilung des Bundesgebietes in Ozon-Überwachungsgebiete
+
+StF: BGBl. Nr. 513/1992
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 359/1998  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 1 des Bundesgesetzes über Maßnahmen zur Abwehr der Ozonbelastung und die Information der Bevölkerung über hohe Ozonbelastungen, mit dem das Smogalarmgesetz, BGBl. Nr. 38/1989, geändert wird (Ozongesetz), BGBl. Nr. 210/1992, wird verordnet:
+
+## § 1 – Einteilung in Ozon-Überwachungsgebiete
+
+§ 1. Das Bundesgebiet wird in acht Ozon-Überwachungsgebiete eingeteilt:
+
+1\. Nordostösterreich (Wien, Niederösterreich, nördliches und mittleres Burgenland) als Ozon-Überwachungsgebiet „Eins“;
+
+2\. Süd- und Oststeiermark und südliches Burgenland als Ozon-Überwachungsgebiet „Zwei“;
+
+3\. Oberösterreich und Nördliches Salzburg als Ozon-Überwachungsgebiet „Drei“;
+
+4\. Pinzgau, Pongau und Steiermark nördlich der Niederen Tauern als Ozon-Überwachungsgebiet „Vier“;
+
+5\. Nordtirol als Ozon-Überwachungsgebiet „Fünf“;
+
+6\. Vorarlberg als Ozon-Überwachungsgebiet „Sechs“;
+
+7\. Kärnten und Osttirol als Ozon-Überwachungsgebiet „Sieben“;
+
+8\. Lungau und oberes Murtal als Ozon-Überwachungsgebiet „Acht“.
+
+## § 2 – Zusammensetzung der Ozon-Überwachungsgebiete
+
+§ 2. (1) Die Ozon-Überwachungsgebiete (§ 1) setzen sich aus Ländern, politischen Bezirken und Gemeinden zusammen.
+
+(2) Das Ozon-Überwachungsgebiet „Nordostösterreich“ umfaßt:
+
+1\. die Länder
+
+a) Wien,
+
+b) Niederösterreich;
+
+2\. die politischen Bezirke
+
+a) Eisenstadt,
+
+b) Eisenstadt-Umgebung,
+
+c) Neusiedl am See,
+
+d) Mattersburg,
+
+e) Oberpullendorf,
+
+f) Rust.
+
+(3) Das Ozon-Überwachungsgebiet „Süd- und Oststeiermark und südliches Burgenland“ umfaßt:
+
+1\. die politischen Bezirke
+
+a) Güssing,
+
+b) Jennersdorf,
+
+c) Oberwart,
+
+d) Deutschlandsberg,
+
+e) Graz,
+
+f) Graz-Umgebung,
+
+g) Feldbach,
+
+h) Fürstenfeld,
+
+i) Hartberg,
+
+j) Leibnitz,
+
+k) Radkersburg,
+
+l) Voitsberg,
+
+m) Weiz;
+
+n) Radkersburg,
+
+o) Voitsberg,
+
+p) Weiz,
+
+q) Tamsweg;
+
+2\. die Gemeinden des politischen Bezirkes Bruck an der Mur
+
+a) Aflenz Kurort,
+
+b) Aflenz Land,
+
+c) Breitenau am Hochlantsch,
+
+d) Bruck an der Mur,
+
+e) Etmißl,
+
+f) Frauenberg,
+
+g) Kapfenberg,
+
+h) Oberaich,
+
+i) Parschlug,
+
+j) Pernegg an der Mur,
+
+k) Sankt Ilgen,
+
+l) Sankt Kathrein an der Laming,
+
+m) Sankt Lorenzen im Mürztal,
+
+n) Sankt Marein im Mürztal
+
+o) Thörl,
+
+p) Tragöß,
+
+q) Turnau;
+
+3\. die Gemeinden des politischen Bezirkes Leoben
+
+a) Gai,
+
+b) Hafning bei Trofaiach,
+
+c) Kalwang,
+
+d) Kammern im Liesingtal,
+
+e) Kraubath an der Mur,
+
+f) Leoben,
+
+g) Mautern in Steiermark,
+
+h) Niklasdorf,
+
+i) Proleb,
+
+j) Sankt Michael in Obersteiermark,
+
+k) Sankt Peter-Freienstein,
+
+l) Sankt Stefan ob Leoben,
+
+m) Traboch,
+
+n) Trofaiach,
+
+o) Vordernberg,
+
+p) Wald am Schoberpaß;
+
+4\. die Gemeinden des politischen Bezirkes Mürzzuschlag
+
+a) Allerheiligen im Mürztal,
+
+b) Altenberg an der Rax,
+
+c) Ganz,
+
+d) Kapellen,
+
+e) Kindberg,
+
+f) Krieglach,
+
+g) Langenwang,
+
+h) Mitterdorf im Mürztal,
+
+i) Mürzhofen,
+
+j) Mürzzuschlag,
+
+k) Neuberg an der Mürz,
+
+l) Spital am Semmering,
+
+m) Stanz im Mürztal,
+
+n) Veitsch,
+
+o) Wartberg im Mürztal.
+
+(4) Das Ozon-Überwachungsgebiet „Oberösterreich und Nördliches Salzburg“ umfaßt:
+
+1\. das Land Oberösterreich;
+
+2\. die politischen Bezirke
+
+a) Hallein,
+
+b) Stadt Salzburg,
+
+c) Salzburg-Umgebung.
+
+(5) Das Ozon-Überwachungsgebiet „Pinzgau, Pongau und Steiermark nördlich der Niederen Tauern“ umfaßt:
+
+1\. die politischen Bezirke
+
+a) Sankt Johann im Pongau,
+
+b) Zell am See,
+
+c) Liezen;
+
+2\. die Gemeinden des politischen Bezirkes Bruck an der Mur
+
+a) Gußwerk,
+
+b) Halltal,
+
+c) Mariazell,
+
+d) Sankt Sebastian;
+
+3\. die Gemeinden des politischen Bezirkes Leoben
+
+a) Eisenerz,
+
+b) Hieflau,
+
+c) Radmer;
+
+4\. die Gemeinde Mürzsteg des politischen Bezirkes Mürzzuschlag.
+
+(6) Das Ozon-Überwachungsgebiet „Nordtirol“ umfaßt: die politischen Bezirke
+
+a) Imst,
+
+b) Innsbruck,
+
+c) Innsbruck Land,
+
+d) Kitzbühel,
+
+e) Kufstein,
+
+f) Landeck,
+
+g) Reutte,
+
+h) Schwaz.
+
+(7) Das Ozon-Überwachungsgebiet „Vorarlberg“ umfaßt das Land Vorarlberg.
+
+(8) Das Ozon-Überwachungsgebiet „Kärnten und Osttirol“ umfaßt:
+
+1\. das Land Kärnten;
+
+2\. den politischen Bezirk Lienz.
+
+(9) Das Ozon-Überwachungsgebiet „Lungau und oberes Murtal“ umfaßt die politischen Bezirke
+
+a) Tamsweg,
+
+b) Judenburg,
+
+c) Knittelfeld,
+
+d) Murau.

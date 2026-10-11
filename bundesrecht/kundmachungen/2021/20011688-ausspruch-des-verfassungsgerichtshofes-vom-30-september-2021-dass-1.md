@@ -1,0 +1,33 @@
+---
+title: "Ausspruch des Verfassungsgerichtshofes vom 30. September 2021, dass § 1 der Verordnung der Bezirkshauptmannschaft Baden vom 9. April 2020, BNA5-I-20151/007, kundgemacht durch Anschlag an der Amtstafel vom 9. April 2020 bis 4. Mai 2020 gesetzwidrig war"
+identifier: "20011688"
+type: notice
+ris_type: "K"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 460/2021"
+date: 2021-09-30
+last_amended: 2021-11-09
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2021/460/P0/NOR40238790"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011688"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Ausspruch des Verfassungsgerichtshofes vom 30. September 2021, dass § 1 der Verordnung der Bezirkshauptmannschaft Baden vom 9. April 2020, BNA5-I-20151/007, kundgemacht durch Anschlag an der Amtstafel vom 9. April 2020 bis 4. Mai 2020 gesetzwidrig war
+
+Kundmachung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über den Ausspruch des Verfassungsgerichtshofes vom 30. September 2021, dass § 1 der Verordnung der Bezirkshauptmannschaft Baden vom 9. April 2020, BNA5-I-20151/007, kundgemacht durch Anschlag an der Amtstafel vom 9. April 2020 bis 4. Mai 2020 gesetzwidrig war
+
+StF: BGBl. II Nr. 460/2021
+
+## Präambel/Promulgationsklausel
+
+Gemäß Art. 139 Abs. 5 und 6 B-VG und gemäß § 59 Abs. 2 des Verfassungsgerichtshofgesetzes 1953 – VfGG, BGBl. Nr. 85/1953, wird kundgemacht:
+
+## Art. 1
+
+Der Verfassungsgerichtshof hat mit Erkenntnis vom 30. September 2021, V 88-89/2021-17, dem Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz zugestellt am 18. Oktober 2021, zu Recht erkannt:
+
+„§ 1 der Verordnung der Bezirkshauptmannschaft Baden vom 9. April 2020, BNA5-I-20151/007, kundgemacht durch Anschlag an der Amtstafel vom 9. April 2020 bis 4. Mai 2020, war gesetzwidrig.“

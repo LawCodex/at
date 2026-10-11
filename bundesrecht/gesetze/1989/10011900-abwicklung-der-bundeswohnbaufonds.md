@@ -1,0 +1,154 @@
+---
+title: "Abwicklung der Bundeswohnbaufonds"
+identifier: "10011900"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 301/1989"
+date: 1989-06-08
+last_amended: 2008-01-01
+last_amendment: "BGBl. I Nr. 103/2007"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1989/301/P0/NOR11012165"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011900"
+retrieved: 2026-10-11
+documents: 12
+---
+
+# Abwicklung der Bundeswohnbaufonds
+
+Bundesgesetz vom 8. Juni 1989, mit dem Bestimmungen über die Abwicklung der Bundeswohnbaufonds getroffen und das Bundesfinanzgesetz 1989, das Wohnbauförderungsgesetz 1984 und das Bundesgesetz BGBl. Nr. 373/1988 geändert werden
+
+StF: BGBl. Nr. 301/1989 (NR: GP XVII RV 932 AB 975 S. 106. BR: AB 3698 S. 517.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 14/1992 (NR: GP XVIII IA 265/A AB 369 S. 53. BR: 4180 AB 4207 S. 548.)  
+BGBl. I Nr. 100/2003 (NR: GP XXII RV 93 AB 243 S. 35. BR: 6872 AB 6886 S. 702.)  
+BGBl. I Nr. 103/2007 (NR: GP XXIII RV 289 AB 389 S. 42. BR: AB 7855 S. 751.)  
+[CELEX-Nr.: 32005L0081]  
+
+</details>
+
+## I. ABSCHNITT
+
+### Bundeswohnbaufonds
+
+#### § 1 – Allgemeine Abwicklungsbestimmungen
+
+§ 1. (1) Zur Abdeckung fällig werdender Verpflichtungen des Bundes-Wohn- und Siedlungsfonds und des Wohnhaus-Wiederaufbau- und Stadterneuerungsfonds, in der Folge Fonds genannt, kann jeweils auch das Vermögen des anderen Fonds herangezogen werden. Die Fonds haften zur ungeteilten Hand mit ihrem gesamten Vermögen für die von ihnen eingegangenen Verpflichtungen aus der Aufnahme von Anleihen, Darlehen und sonstigen Krediten.
+
+(2) Die Fonds sind ermächtigt, Anleihen, Darlehen und sonstige Kredite aufzunehmen, soweit dies
+
+1\. zur Konvertierung der von den Fonds eingegangenen und vom Bund verbürgten Verpflichtungen oder
+
+2\. zur Durchführung von Zwischenfinanzierungen zur Überbrückung unterschiedlicher Fälligkeiten der Rückflüsse aus Darlehensforderungen und der Zahlungsverpflichtungen (einschließlich der Verpflichtungen zur Leistung von Zahlungen gemäß § 3 und § 5 Abs. 4)
+
+erforderlich ist.
+
+(3) Für Kreditoperationen gemäß Abs. 2 kann der Bundesminister für Finanzen nach Maßgabe der Bestimmungen des jeweiligen Bundesfinanzgesetzes die Haftung als Bürge und Zahler übernehmen.
+
+(4) Die Fonds sind weiters ermächtigt, ab 1. Jänner 1990 zur vorübergehenden Kassenstärkung kurzfristige Verpflichtungen mit einer Gesamtlaufzeit bis zu zwölf Monaten auch ohne Haftung des Bundes einzugehen. Der jeweilige Stand an solchen Verpflichtungen darf 10 vH der Bilanzsumme des jeweils letzten geprüften Jahresabschlusses nicht übersteigen.
+
+(5) Der für die Tätigkeiten der Fonds erforderliche Sachaufwand kann unmittelbar aus Fondsmitteln bestritten werden.
+
+(6) Die Fonds sind ermächtigt, sich bei der technisch-administrativen Durchführung ihrer Aufgaben, insbesondere der Verwaltung bestehender Rechtsverhältnisse, geeigneter physischer oder juristischer Personen zu bedienen, sofern dies im Interesse der Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit gelegen ist. Unter dieser Voraussetzung sind die Fonds ferner ermächtigt, bei langfristigen Verträgen über rückzahlbare Förderungen oder zur Finanzierung der Fonds dem anderen Vertragsteil eine Vereinbarung zwecks Beendigung des Vertragsverhältnisses anzubieten.
+
+(7) Die Auflösung der Fonds bleibt einer besonderen bundesgesetzlichen Regelung vorbehalten.
+
+#### § 2 – Rechnungslegung
+
+§ 2. (1) Die Fonds haben einen gemeinsamen Jahresabschluß (Bilanz und Gewinn- und Verlustrechnung) zu erstellen.
+
+(2) Der Jahresabschluß hat den Grundsätzen ordnungsgemäßer Buchführung zu entsprechen.
+
+(3) Der Jahresabschluß ist unter Einbeziehung der Buchführung durch einen oder mehrere sachverständige Prüfer (Abschlußprüfer) zu prüfen. Die Abschlußprüfer werden durch die Fonds gemeinsam bestellt. Als Abschlußprüfer dürfen nur beeidete Wirtschaftsprüfer und Steuerberater oder Wirtschaftsprüfungs- und Steuerberatungsgesellschaften bestellt werden. Die Abschlußprüfer haben unter sinngemäßer Anwendung des § 273 des Handelsgesetzbuches in der jeweils geltenden Fassung, über das Ergebnis der Prüfung schriftlich zu berichten. Sind nach dem abschließenden Ergebnis der Prüfung keine Einwendungen zu erheben, so haben die Abschlußprüfer dies durch einen Vermerk zu bestätigen, der zu datieren ist. Sind Einwendungen zu erheben, so haben die Abschlußprüfer die Bestätigung zu versagen oder einzuschränken. Die Verantwortlichkeit der Abschlußprüfer richtet sich sinngemäß nach § 275 des Handelsgesetzbuches in der jeweils geltenden Fassung.
+
+(4) Der geprüfte und mit einem Bestätigungsvermerk versehene Jahresabschluß sowie der Prüfungsbericht sind bis zum 30. Juni des Folgejahres dem Bundesminister für Finanzen und den Ländern zur Kenntnis zu bringen.
+
+#### § 3 – Verfügung über Jahresüberschüsse
+
+§ 3. Ein sich aus dem jeweiligen Jahresabschluss gemäß § 2 ergebender Jahresüberschuss ist nach Ausgleich mit einem allfälligen Verlustvortrag bis längstens 31. Juli eines jeden Jahres in folgendem Verhältnis an die Länder zu überweisen:
+
+| Burgenland | 2,88% |
+|---|---|
+| Kärnten | 6,43% |
+| Niederösterreich | 16,84% |
+| Oberösterreich | 16,04% |
+| Salzburg | 6,32% |
+| Steiermark | 13,38% |
+| Tirol | 7,80% |
+| Vorarlberg | 4,24% |
+| Wien | 26,07% |
+|  |  |
+
+#### § 4 – Übergangsbestimmungen
+
+§ 4. (1) Der Erlös aus der gemäß § 1 Abs. 1 Z 2 des Bundesgesetzes, mit dem Bestimmungen über den Bundes-Wohn- und Siedlungsfonds und den Wohnhaus-Wiederaufbau- und Stadterneuerungsfonds getroffen sowie das Wohnbauförderungsgesetz 1984 und das Bundesfinanzgesetz 1988 geändert werden, BGBl. Nr. 373/1988, vorgesehenen Verwertung wird mit 4 Milliarden Schilling festgestellt.
+
+(2) Der im Jahre 1988 an Bund und Länder überwiesene, über den Verwertungserlös gemäß Abs. 1 hinausgehende Betrag von 1,3 Milliarden Schilling stellt eine Vorauszahlung auf die Zahlungsverpflichtung der Fonds gemäß § 5 Abs. 4 dar.
+
+#### § 5
+
+§ 5. (1) Zum 1. Jänner 1989 ist eine den Grundsätzen ordnungsgemäßer Buchführung entsprechende gemeinsame Eröffnungsbilanz der Fonds zu erstellen.
+
+(2) In der Eröffnungsbilanz und in allen weiteren Jahresabschlüssen ist in der erforderlichen Höhe für die zukünftige Gewährung von Starthilfen gemäß § 6 des Startwohnungsgesetzes, BGBl. Nr. 264/1982, im Zusammenhalt mit Art. II Abs. 4 des Bundesverfassungsgesetzes BGBl. Nr. 640/1987 sowie für den für die gesamte Abwicklungsdauer erforderlichen Personal- und Sachaufwand der Fonds vorzusorgen.
+
+(3) Zum 31. August 1989 ist ein dem § 2 Abs. 2 bis 4 entsprechender Zwischenabschluß (Bilanz und Gewinn- und Verlustrechnung für die Zeit vom 1. Jänner 1989 bis 31. August 1989) zu erstellen.
+
+(4) Das im Zwischenabschluß zum 31. August 1989 ausgewiesene Fondskapital ist bis längstens 31. Dezember 1989 zu einem Drittel an den Bund und zu zwei Dritteln an die Länder zu überweisen. Der auf die Länder entfallende Betrag ist nach dem im Jahr 1989 geltenden Schlüssel gemäß § 2 Abs. 2 des Wohnbauförderungs-Zweckzuschußgesetzes 1989 auf die Länder aufzuteilen.
+
+## II. ABSCHNITT
+
+#### § 7
+
+§ 7. *(Anm.: Änderung des Bundesfinanzgesetzes 1989, BGBl. Nr. 1/1989)*
+
+## III. ABSCHNITT
+
+#### § 8 – Wohnbauförderungsbeitrag
+
+§ 8. Die Eingänge gemäß dem Bundesgesetz über die Einhebung eines Wohnbauförderungsbeitrages, BGBl. Nr. 13/1952, zuletzt geändert durch das Bundesgesetz BGBl. Nr. 376/1986, sind vom Bundes-Wohn- und Siedlungsfonds an den Bund zu überweisen.
+
+## IV. ABSCHNITT
+
+#### § 9
+
+§ 9. *(Anm.: Änderung des Wohnbauförderungsgesetzes 1984, BGBl. Nr. 482)*
+
+## V. ABSCHNITT
+
+#### § 10
+
+§ 10. *(Anm.: Änderung des Bundesgesetzes, mit dem Bestimmungen über den Bundes-Wohn- und Siedlungsfonds und den Wohnhaus-Wiederaufbau- und Stadterneuerungsfonds getroffen sowie das Wohnbauförderungsgesetz 1984 und das Bundesfinanzgesetz 1988 geändert werden, BGBl. Nr. 373/1988)*
+
+## VI. ABSCHNITT
+
+#### § 11 – Schlußbestimmungen
+
+§ 11. (1) Dieses Bundesgesetz tritt, soweit Abs. 2 und 3 nicht anderes bestimmen, mit 1. Jänner 1989 in Kraft.
+
+(2) § 3 tritt, soweit im folgenden nicht anderes bestimmt ist, mit dem 1. Jänner 1990 in Kraft.
+
+\*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 100/2003)*
+
+(4) § 2 Abs. 3 und § 3 letzter Satz in der Fassung des Bundesgesetzes BGBl. Nr. 14/1992 treten mit dem Ablauf des Tages in Kraft an dem das zuletzt genannte Bundesgesetz kundgemacht worden ist.
+
+(5) § 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 103/2007 tritt mit 1. Jänner 2008 in Kraft.
+
+#### § 12
+
+§ 12. Mit der Vollziehung dieses Bundesgesetzes sind betraut:
+
+1\. die Bundesregierung hinsichtlich des § 6,
+
+2\. der Bundesminister für Finanzen hinsichtlich des § 1 Abs. 3, des § 7 und hinsichtlich der Vereinnahmung der gemäß § 3, § 5 Abs. 4 und § 8 an den Bund zu überweisenden Mittel,
+
+3\. der Bundesminister für Justiz hinsichtlich des § 1 Abs. 1 zweiter Satz,
+
+4\. der Bundesminister für wirtschaftliche Angelegenheiten im Einvernehmen mit dem Bundesminister für Finanzen hinsichtlich des § 4,
+
+5\. der Bundesminister für wirtschaftliche Angelegenheiten hinsichtlich der übrigen Bestimmungen.

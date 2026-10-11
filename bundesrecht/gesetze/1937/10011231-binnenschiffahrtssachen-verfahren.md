@@ -1,0 +1,82 @@
+---
+title: "Binnenschiffahrtssachen – Verfahren"
+identifier: "10011231"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "dRGBl. I S 97/1937"
+last_amended: 1943-04-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/drgbl/i/1937/97/P0/NOR11011496"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011231"
+retrieved: 2026-10-11
+documents: 7
+---
+
+# Binnenschiffahrtssachen – Verfahren
+
+Gesetz über das Verfahren in Binnenschiffahrtssachen. Vom 30. Januar 1937.
+
+StF: dRGBl. I S 97/1937
+
+<details>
+<summary>Änderungen</summary>
+
+dRGBl. I S 2394/1939  
+dRGBl. I S 147/1943  
+
+</details>
+
+## § 1
+
+\**§ 1**
+
+(1) Die Vorschriften dieses Gesetzes gelten für bürgerliche Rechtsstreitigkeiten, die sich aus der Benutzung von Binnengewässern durch Schiffahrt und Flößerei ergeben und Ansprüche folgender Art zum Gegenstand haben (Binnenschiffahrtssachen):
+
+1\. Schadenersatzansprüche aus Zusammenstößen oder anderen Schiffahrtsunfällen sowie aus unerlaubten Handlungen, die sonst mit der Benutzung der Gewässer zusammenhängen;
+
+2\. Ansprüche auf Lotsenvergütungen;
+
+3\. Ansprüche auf Bergung und Hilfeleistung, namentlich auf Berge- und Hilfslohn.
+
+(2) Das Gesetz gilt nicht für Binnengewässer, auf die die Seewasserstraßenordnung (SWO.) vom 31. Oktober 1933 (Reichsgesetzbl. II S. 833) nebst Ergänzungen anzuwenden ist; für Seehäfen, die Binnengewässer sind, gilt es jedoch ohne Rücksicht darauf, ob auf sie die Seewasserstraßenordnung Anwendung findet.
+
+## § 2
+
+\**§ 2**
+
+Für Binnenschiffahrtssachen sind im ersten Rechtszug ohne Rücksicht auf den Wert des Streitgegenstandes die Amtsgerichte zuständig.
+
+## § 3
+
+\**§ 3**
+
+(1) Vorbehaltlich einer abweichenden Vereinbarung über die Zuständigkeit ist zuständig:
+
+im Fall des § 1 Nr. 1 nur das Gericht, in dessen Bezirk sich der Vorfall ereignet hat;
+
+im Fall des § 1 Nr. 2 nur das Gericht des Erfüllungsorts;
+
+im Fall des § 1 Nr. 3 nur das Gericht, in dessen Bezirk die Bergung bewirkt oder die Hilfe geleistet worden ist.
+
+(2) Hat sich die den Anspruch begründende Tatsache auf einem Binnengewässer zwischen zwei deutschen Ufern ereignet, so sind die Schiffahrtsgerichte beider Ufer zuständig.
+
+## § 4
+
+\**§ 4**
+
+Der Reichsminister der Justiz erläßt die zur Durchführung und Ergänzung dieses Gesetzes erforderlichen Rechts- und Verwaltungsvorschriften. Er kann namentlich durch Verordnung die Verhandlung und Entscheidung von Binnenschiffahrtssachen einem Amtsgericht für den Bezirk mehrerer Amtsgerichte zuweisen; er kann ferner für das Verfahren in diesen Sachen, namentlich über die zulässigen Rechtsmittel und über die zur Entscheidung über die Rechtsmittel zuständigen Gerichte, besondere Vorschriften erlassen.
+
+## § 5
+
+\**§ 5**
+
+§ 14 Nr. 1 des Gerichtsverfassungsgesetzes und das Gesetz über die Rheinschiffahrtsgerichte vom 5. September 1935 (Reichsgesetzbl. I S. 1142) nebst seinen Durchführungsverordnungen werden aufgehoben.
+
+## § 6
+
+\**§ 6**
+
+Dieses Gesetz tritt mit dem 1. Februar 1937 in Kraft.

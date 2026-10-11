@@ -1,0 +1,61 @@
+---
+title: "Feststellung des in den einzelnen Gebieten Österreichs bestehenden anerbenrechtlichen Brauches"
+identifier: "10001980"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 200/1959"
+date: 1959-08-20
+last_amended: 1963-10-01
+last_amendment: "BGBl. Nr. 237/1963"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1959/200/P0/NOR11002003"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001980"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Feststellung des in den einzelnen Gebieten Österreichs bestehenden anerbenrechtlichen Brauches
+
+Verordnung des Bundesministeriums für Justiz vom 20. August 1959 im Einvernehmen mit dem Bundesministerium für Land- und Forstwirtschaft über die Feststellung des in den einzelnen Gebieten Österreichs bestehenden anerbenrechtlichen Brauches.
+
+StF: BGBl. Nr. 200/1959
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 237/1963  
+
+</details>
+
+> **Anmerkung:** Erfassungsstichtag: 1.11.1988
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 3 Abs. 3 des Anerbengesetzes, BGBl. Nr. 106/1958, stellt das Bundesministerium für Justiz fest, daß in den unten angeführten Gerichtsbezirken folgender Brauch für die bäuerliche Erbteilung besteht:
+
+## Art. 1
+
+**I. Oberlandesgerichtssprengel Wien.**
+
+1\. Jüngstenrecht ist Brauch in den Bezirken der Bezirksgerichte:
+
+Amstetten, Eggenburg, Großgerungs, Haag, Retz und St. Peter in der Au, Wr. Neustadt, jedoch nur in den Gemeinden Dürnbach, Gutenstein, Miesenbach, Muggendorf, Pernitz, Rohr im Gebirge, Waidmannsfeld und Waldegg, St. Pölten, jedoch nur in der Gemeinde Loich.
+
+2\. In den übrigen Gebieten dieses Oberlandesgerichtssprengels besteht kein bestimmter Brauch.
+
+**II. Oberlandesgerichtssprengel Graz.**
+
+1\. Ältestenrecht ist Brauch in den Bezirken der Bezirksgerichte Eisenerz, Fehring, Feldbach, Friedberg, Irdning, Judenburg, Kirchbach, Knittelfeld, Leibnitz (aber nur Ortschaft Sausal, sonst kein bestimmter Brauch), Liezen, Oberzeiring, Pöllau, Vorau.
+
+2\. In den übrigen Gebieten dieses Oberlandesgerichtssprengels, soweit sie zum Lande Steiermark gehören, besteht kein bestimmter Brauch.
+
+**III. Oberlandesgerichtssprengel Linz.**
+
+1\. Jüngstenrecht ist Brauch in den Bezirken der Bezirksgerichte Aigen, Eferding (jedoch nur unter männlichen Erben; bei Vorhandensein lediglich weiblicher Erben siehe unter Ältestenrecht), Enns, Gmunden, Grieskirchen, Grünburg, Haag am Hausruck, Kirchdorf an der Krems, Kremsmünster, Lambach, Lembach (jedoch in der Gemeinde Rannastift kein bestimmter Brauch), Linz-Land, Mauthausen (jedoch in den Gemeinden Ried in der Riedmark und Langenstein kein bestimmter Brauch), Neufelden (jedoch in den Gemeinden St. Martin i. M. und St. Veit i. M. kein bestimmter Brauch), Neuhofen, Perg, Peuerbach, Raab OÖ. (jedoch nur in der Gemeinde Dorf an der Pram; im übrigen siehe unter Ältestenrecht), Rohrbach, Schwanenstadt, Steyr, Urfahr-Umgebung, Wels, Weyer (jedoch nur in den Gemeinden Reichraming, Großraming, Losenstein; sonst kein bestimmter Brauch), Windischgarsten.
+
+2\. Ältestenrecht ist Brauch in den Bezirken der Bezirksgerichte Bad Ischl (jedoch nur in den Gemeinden St. Wolfgang im Salzkammergut und Hallstatt; sonst kein bestimmter Brauch), Eferding (bei Vorhandensein lediglich weiblicher Erben in den Gemeinden Prambachkirchen, Hartkirchen, Haibach ob der Donau und St. Marienkirchen an der Polsenz, in den übrigen Gemeinden kein bestimmter Brauch; bei Vorhandensein männlicher Erben siehe unter Jüngstenrecht), Engelhartszell (jedoch in den Gemeinden St. Aegidi und Waldkirchen am Wesen kein bestimmter Brauch), Frankenmarkt, Mattighofen, Mauerkirchen, Mondsee (jedoch in den Gemeinden Mondsee und Unterach am Attersee kein bestimmter Brauch), Obernberg am Inn, Raab OÖ. (jedoch in der Gemeinde Dorf an der Pram Jüngstenrecht), Ried im Innkreis und Schärding am Inn.
+
+3\. In den übrigen Gebieten dieses Oberlandesgerichtssprengels besteht kein bestimmter Brauch.

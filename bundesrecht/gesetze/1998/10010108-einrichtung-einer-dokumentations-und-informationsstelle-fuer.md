@@ -1,0 +1,178 @@
+---
+title: "Einrichtung einer Dokumentations- und Informationsstelle für Sektenfragen"
+identifier: "10010108"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 150/1998"
+last_amended: 2025-09-01
+last_amendment: "BGBl. I Nr. 50/2025"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/1998/150/P0/NOR40270907"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010108"
+retrieved: 2026-10-11
+documents: 15
+---
+
+# Einrichtung einer Dokumentations- und Informationsstelle für Sektenfragen
+
+Bundesgesetz über die Einrichtung einer Dokumentations- und Informationsstelle für Sektenfragen
+
+StF: BGBl. I Nr. 150/1998 (NR: GP XX RV 1158 AB 1287 S. 133. BR: AB 5764 S. 643.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 32/2018 (NR: GP XXVI RV 65 AB 97 S. 21. BR: 9947 AB 9956 S. 879.)  
+[CELEX-Nr.: 32016L0680]  
+BGBl. I Nr. 50/2025 (NR: GP XXVIII RV 129 AB 151 S. 35. BR: 11651 AB 11654 S. 980.)  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+## § 1 – Zweck des Gesetzes
+
+§ 1. (1) Zweck dieses Bundesgesetzes ist die Einrichtung einer Stelle, deren Aufgabe es ist, Gefährdungen, die von Sekten oder von sektenähnlichen Aktivitäten ausgehen können, zu dokumentieren und darüber zu informieren.
+
+(2) Auf gesetzlich anerkannte Kirchen und Religionsgesellschaften und ihre Einrichtungen findet dieses Bundesgesetz keine Anwendung.
+
+## § 2 – Begriffsbestimmung
+
+§ 2. Dokumentation und Information über Sekten oder sektenähnliche Aktivitäten im Sinne dieses Bundesgesetzes ist die Dokumentation und Information über glaubens- und weltanschauungsbezogene Gemeinschaften oder Aktivitäten, von denen Gefährdungen im Sinne des § 4 Abs. 1 ausgehen können.
+
+## § 3 – Einrichtung der Bundesstelle für Sektenfragen
+
+§ 3. (1) Zur Wahrnehmung der Aufgabe (§ 4) wird unter der Bezeichnung „Bundesstelle für Sektenfragen“ eine selbständige Anstalt des öffentlichen Rechts mit Inkrafttreten dieses Bundesgesetzes eingerichtet.
+
+(2) Der Sitz der Bundesstelle für Sektenfragen ist Wien. Die Bundesstelle für Sektenfragen ist berechtigt, ihrer Bezeichnung das Bundeswappen beizusetzen.
+
+## § 4 – Aufgabenbereich
+
+§ 4. (1) Aufgabe der Bundesstelle für Sektenfragen ist die Dokumentation und Information über Gefährdungen, die von Programmen oder Aktivitäten von Sekten oder von sektenähnlichen Aktivitäten ausgehen können, sofern ein begründeter Verdacht vorliegt und diese Gefährdungen allgemein
+
+1\. das Leben oder die physische oder psychische Gesundheit von Menschen,
+
+2\. die freie Entfaltung der menschlichen Persönlichkeit einschließlich der Freiheit zum Eintritt zu oder Austritt aus religiösen oder weltanschaulichen Gemeinschaften,
+
+3\. die Integrität des Familienlebens,
+
+4\. das Eigentum oder die finanzielle Eigenständigkeit von Menschen oder
+
+5\. die freie geistige und körperliche Entwicklung von Kindern und Jugendlichen betreffen.
+
+(2) Bei der Wahrnehmung dieser Aufgabe (Abs. 1) ist die Achtung der Toleranz für alle Glaubensgemeinschaften und Weltanschauungen sowie die Achtung der Grundfreiheiten und Menschenrechte einschließlich der Glaubens-, Religions- und Gewissensfreiheit aller Bürger maßgeblich. Die Bundesstelle für Sektenfragen ist bei ihrer Tätigkeit jedenfalls dem Gebot einer sachlichen, objektiven und wahrheitsgetreuen Information verpflichtet.
+
+(3) Zur Erfüllung der Aufgabe gemäß Abs. 1 ist die Bundesstelle für Sektenfragen, nach Maßgabe des § 5, insbesondere berechtigt zur:
+
+1\. Sammlung, Auswertung und Weitergabe von Informationen;
+
+2\. Beratung von Betroffenen;
+
+3\. Zusammenarbeit und Informationsaustausch mit in- und ausländischen Stellen;
+
+4\. Entwicklung, Koordination und Leitung von Forschungsprojekten.
+
+(4) Die Bundesstelle für Sektenfragen ist weiters berechtigt, Aufgaben im Sinne der Abs. 1 bis 3 und nach Maßgabe des § 5 von Dritten vertraglich zu übernehmen.
+
+## § 5 – Datenschutz
+
+§ 5. (1) Die Bundesstelle für Sektenfragen ist berechtigt, öffentlich zugängliche personenbezogene Daten über glaubens- oder weltanschauungsbezogene Gemeinschaften, ihre Programme und Aktivitäten sowie öffentlich zugängliche Daten über glaubens- oder weltanschauungsbezogene Aktivitäten von Einzelpersonen zur Erfüllung ihrer Aufgaben gemäß § 4 zu verarbeiten. Liegt ein begründeter Verdacht einer Gefährdung gemäß § 4 Abs. 1 vor, ist die Bundesstelle für Sektenfragen berechtigt, diese verarbeiteten, öffentlich zugänglichen, personenbezogenen Daten an Organe der öffentlichen Aufsicht, an Behörden, an Einrichtungen zur Betreuung, Erziehung und zum Unterricht von Minderjährigen und an natürliche und juristische Personen, die ein berechtigtes Interesse glaubhaft gemacht haben, zu übermitteln. Ansonsten ist eine Übermittlung dieser Daten zulässig, wenn kein Grund zur Annahme besteht, dass schutzwürdige Belange der betroffenen Personen überwiegen. Personenbezogene Daten natürlicher Personen können in diesem Zusammenhang jedoch nur dann übermittelt werden, wenn die personenbezogenen Daten bereits an anderem Ort öffentlich gemacht wurden.
+
+(2) Personenbezogene Daten über glaubens- oder weltanschauungsbezogene Gemeinschaften, ihre Programme und Aktivitäten, die nicht öffentlich zugänglich sind, können verarbeitet werden, soweit sie der Bundesstelle für Sektenfragen freiwillig mitgeteilt werden oder sonst ohne jegliche Zwangsmaßnahmen rechtmäßig in ihren Besitz gelangen und ein begründeter Verdacht einer Gefährdung gemäß § 4 Abs. 1 vorliegt. Das Verarbeiten von nicht öffentlich zugänglichen personenbezogenen Daten natürlicher Personen ist darüber hinaus nur zulässig, wenn die betroffene Person über eine bloße Mitgliedschaft hinausgehend in der betreffenden Glaubens- oder Weltanschauungsgemeinschaft aktiv mitwirkt oder als Einzelperson glaubens- oder weltanschauungsbezogene Aktivitäten setzt. Die in diesem Zusammenhang verarbeiteten personenbezogenen Daten dürfen an Organe der öffentlichen Aufsicht, an Behörden, an Einrichtungen zur Betreuung, Erziehung und zum Unterricht von Minderjährigen und an natürliche und juristische Personen, die ein berechtigtes Interesse glaubhaft gemacht haben, übermittelt werden, wenn
+
+1\. es zur Erfüllung der Aufgaben gemäß § 4 Abs. 1 erforderlich ist und
+
+2\. berechtigte Interessen der betroffenen Person an der Geheimhaltung nicht überwiegen.
+
+(3) Die Veröffentlichung personenbezogener Daten natürlicher Personen ist nur zulässig, wenn von einer Person eine unmittelbar drohende Gefahr der Verwirklichung einer strafbaren Handlung gegen die Schutzgüter gemäß § 4 Abs. 1 Z 1 bis 5, der nicht anders als durch die Veröffentlichung begegnet werden kann, ausgeht. Diese Einschränkung gilt nicht, wenn die personenbezogenen Daten bereits an anderem Ort öffentlich gemacht wurden.
+
+(4) Die Bundesstelle für Sektenfragen ist berechtigt, folgende personenbezogene Daten über natürliche Personen, die zur Erfüllung der Aufgaben gemäß § 4 beraten und informiert werden, zum Zwecke zielgerichteter Beratung und Information zu verarbeiten:
+
+1\. Identifikationsdaten und Kontaktdaten sowie
+
+2\. Zeitpunkt und Inhalt der Beratung oder Information.
+
+(5) Eine Übermittlung oder Veröffentlichung der personenbezogenen Daten gemäß Abs. 4 ist nicht zulässig.
+
+(6) Die Aufbewahrung der verarbeiteten personenbezogenen Daten ist spätestens nach zwei Jahren auf ihre Erforderlichkeit zu prüfen. Personenbezogene Daten, die für die Erfüllung der Aufgaben gemäß § 4 nicht mehr erforderlich sind, sind unverzüglich zu löschen.
+
+(7) Ein vom Datenschutzrat einzusetzender Arbeitsausschuss ist berechtigt, Einschau in die bei der Bundesstelle für Sektenfragen vorhandenen Unterlagen zu halten.
+
+## § 6 – Leitung der Bundesstelle für Sektenfragen
+
+§ 6. (1 ) Die Bundesstelle für Sektenfragen wird von einem vom Bundeskanzler zu bestellenden Geschäftsführer geleitet. Der Geschäftsführer hat aus den Dienstnehmern der Bundesstelle für Sektenfragen einen Stellvertreter zu bestellen; diese Bestellung bedarf der Zustimmung des Bundeskanzlers.
+
+(2) Die Funktion des Geschäftsführers ist ausschließlich auf Grund einer besonderen Eignung der Bewerber zu vergeben. Die Eignung ist insbesondere auf Grund fachlicher Vorbildung und bisheriger Berufserfahrung der Bewerber, ihrer Fähigkeit zur Menschenführung, ihrer organisatorischen Fähigkeiten, ihrer persönlichen Zuverlässigkeit sowie auf Grund ihrer Unbefangenheit und Unbeeinflußbarkeit festzustellen.
+
+(3) Der Dienstvertrag mit dem Geschäftsführer wird vom Bundeskanzler abgeschlossen. Die Entlohnung des Geschäftsführers hat sich an der Besoldung für Bundesbedienstete zu orientieren.
+
+(4) Der Aufgabenbereich des Geschäftsführers umfaßt insbesondere folgende Angelegenheiten:
+
+1\. Leitung der Bundesstelle für Sektenfragen;
+
+2\. Führung der laufenden Angelegenheiten der Bundesstelle für Sektenfragen;
+
+3\. jährliche Erstellung eines Arbeitsprogramms sowie eines Finanz- und Personalplanes für das folgende Kalenderjahr (§ 8);
+
+4\. jährliche Erstellung des Geschäftsberichtes einschließlich eines Tätigkeitsberichtes und des Rechnungsabschlusses (§ 9);
+
+5\. halbjährliche Berichterstattung über die von der Bundesstelle für Sektenfragen wahrgenommenen Dokumentations- und Informationsfälle an den Bundeskanzler (§ 10 Abs. 1);
+
+6\. regelmäßige Berichterstattung über die Tätigkeit der Bundesstelle für Sektenfragen an den Bundeskanzler auf dessen Verlangen.
+
+(5) Der Geschäftsführer ist berechtigt, Angestellte durch Dienstvertrag einzustellen sowie ein Dienstverhältnis durch Kündigung zu beenden. Auf das Dienstverhältnis der Dienstnehmer ist das Angestelltengesetz, BGBl. Nr. 292/1921 in der jeweils geltenden Fassung, anzuwenden.
+
+(6) Der Bundeskanzler hat die Bestellung zum Geschäftsführer aus wichtigen Gründen, wie grober Pflichtverletzung sowie bei Verzicht oder bei längerfristiger Dienstverhinderung, zu widerrufen.
+
+## § 7 – Aufsichtsrecht
+
+§ 7. (1) Die Bundesstelle für Sektenfragen unterliegt hinsichtlich der Besorgung ihrer Aufgaben (§ 4) der Aufsicht durch den Bundeskanzler. Diese Aufsicht umfaßt die Sorge für die Rechtmäßigkeit der Führung der Geschäfte und die Aufrechterhaltung der ordnungsgemäßen Erfüllung der Aufgaben sowie die Kontrolle der Gebarung der Bundesstelle für Sektenfragen.
+
+(2) Der Bundeskanzler hat Entscheidungen des Geschäftsführers aufzuheben, wenn diese in Widerspruch zu der geltenden Rechtsordnung stehen, der ordnungsgemäßen Erfüllung der Aufgaben gemäß diesem Bundesgesetz zuwiderlaufen oder wegen der finanziellen Auswirkungen nicht durchführbar sind.
+
+## § 8 – Arbeitsprogramm, Finanz- und Personalplan
+
+§ 8. (1) Die Bundesstelle für Sektenfragen hat jährlich spätestens bis 1. November für das jeweils folgende Kalenderjahr ein Arbeitsprogramm sowie einen Finanz- und Personalplan zu erstellen, die der Genehmigung des Bundeskanzlers bedürfen.
+
+(2) Jene Aufgaben, die gemäß § 4 Abs. 1 bis 3 von der Bundesstelle für Sektenfragen erbracht werden, sind im Arbeitsprogramm sowie im Finanzplan gesondert auszuweisen.
+
+(3) Der Bund hat die laut Arbeitsprogramm und Finanzplan gemäß Abs. 2 ausgewiesenen und genehmigten Kosten des notwendigen Personal- und Sachaufwandes der Bundesstelle für Sektenfragen nach Maßgabe der jeweils geltenden finanzgesetzlichen Ermächtigung zu tragen.
+
+(4) Die Bundesstelle für Sektenfragen hat Einnahmen, die aus der Durchführung von Aufgaben für Dritte gemäß § 4 Abs. 4 erzielt werden, im Finanzplan zu berücksichtigen und zur Bestreitung ihrer Ausgaben zu verwenden. Diese Einnahmen mindern die vom Bund gemäß Abs. 3 zu tragenden Kosten.
+
+## § 9 – Rechnungsabschluß, Geschäfts- und Tätigkeitsbericht
+
+§ 9. Die Bundesstelle für Sektenfragen hat für jedes Kalenderjahr einen Rechnungsabschluß in Form der Jahresbilanz und der Gewinn- und Verlustrechnung sowie einen Geschäftsbericht nach den Grundsätzen eines ordentlichen Kaufmannes zu erstellen. Der Geschäftsbericht hat einen umfassenden Bericht über die Tätigkeit der Bundesstelle für Sektenfragen zu enthalten. Der Rechnungsabschluß und der Geschäftsbericht sind bis spätestens 30. April des Folgejahres dem Bundeskanzler vorzulegen und bedürfen dessen Genehmigung.
+
+## § 10 – Besondere Berichtslegungspflichten
+
+§ 10. (1) Die Bundesstelle für Sektenfragen hat die von ihr wahrgenommenen Dokumentations- und Informationsfälle in einem zusammengefassten Bericht, der keine personenbezogenen Daten natürlicher Personen enthält, halbjährlich dem Bundeskanzler vorzulegen.
+
+(2) Der Bundeskanzler hat dem Nationalrat jährlich einen Bericht über die Tätigkeit der Bundesstelle für Sektenfragen zu erstatten.
+
+## § 11 – Geheimhaltung
+
+§ 11. Die Organwalter und die Bediensteten der Bundesstelle für Sektenfragen sind zur Geheimhaltung über alle ihnen ausschließlich aus ihrer Tätigkeit gemäß § 4 Abs. 1 bis 3 bekannt gewordenen Tatsachen verpflichtet, soweit und solange dies aus den in § 6 Abs. 1 des Informationsfreiheitsgesetzes – IFG, BGBl. I Nr. 5/2024, genannten Gründen erforderlich und verhältnismäßig ist. Die Verpflichtung zur Geheimhaltung gilt auch nach dem Ausscheiden aus der Funktion und nach Beendigung des Dienstverhältnisses.
+
+## § 12 – Befreiung von Gebühren und Abgaben
+
+§ 12. Die Bundesstelle für Sektenfragen gilt abgabenrechtlich als Körperschaft öffentlichen Rechts soweit sie in Erfüllung der Aufgaben gemäß § 4 Abs. 1 bis 3 tätig wird. Die dem Aufgabenbereich des § 4 Abs. 1 bis 3 entsprechende Tätigkeit ist abgabenrechtlich kein Betrieb gewerblicher Art.
+
+## § 13 – Vollziehung
+
+§ 13. (1) Mit der Vollziehung dieses Bundesgesetzes ist der Bundeskanzler betraut, soweit Abs. 2 nicht anderes bestimmt.
+
+(2) Mit der Vollziehung dieses Bundesgesetzes ist hinsichtlich § 5 Abs. 7 die Bundesministerin für Justiz, hinsichtlich § 12 der Bundesminister für Finanzen betraut.
+
+## § 14 – Inkrafttreten
+
+§ 14. (1) Dieses Bundesgesetz tritt mit dem seiner Kundmachung folgenden Monatsersten in Kraft.
+
+(2) § 5 samt Überschrift, § 10 Abs. 1, § 11 und § 13 Abs. 2 in der Fassung des Materien-Datenschutz-Anpassungsgesetzes 2018, BGBl. I Nr. 32/2018, treten mit 25. Mai 2018 in Kraft. § 14 Abs. 1 in der Fassung des genannten Bundesgesetzes tritt mit dem auf die Kundmachung folgenden Tag in Kraft.
+
+(3) Der Titel, § 6 Abs. 1, Abs. 3, Abs. 4 Z 5 und 6 sowie Abs. 6, § 7 Abs. 1 und 2, § 8 Abs. 1, § 9, § 10 Abs. 2, § 11 samt Überschrift und § 13 Abs. 1 und 2 in der Fassung des Informationsfreiheits-Anpassungsgesetzes, BGBl. I Nr. 50/2025, treten mit 1. September 2025 in Kraft.

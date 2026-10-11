@@ -1,0 +1,112 @@
+---
+title: "Errichtung eines gemeinsamen Zentrums Drasenhofen - Mikulov (Tschechische R)"
+identifier: "20005587"
+type: treaty
+ris_type: "Vertrag – Tschechische R"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 135/2007"
+last_amended: 2008-01-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2007/135/P0/NOR30006162"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005587"
+retrieved: 2026-10-11
+documents: 7
+---
+
+# Errichtung eines gemeinsamen Zentrums Drasenhofen - Mikulov (Tschechische R)
+
+Vereinbarung zwischen der Österreichischen Bundesregierung und der Regierung der Tschechischen Republik über die Errichtung eines gemeinsamen Zentrums Drasenhofen — Mikulov
+
+StF: BGBl. III Nr. 135/2007
+
+## Präambel/Promulgationsklausel
+
+Die Österreichische Bundesregierung (in der Folge: die österreichische Vertragspartei) und die Regierung der Tschechischen Republik (in der Folge: die tschechische Vertragspartei) sind auf der Grundlage
+
+– des Vertrages zwischen der Republik Österreich und der Tschechischen Republik über die polizeiliche Zusammenarbeit und die zweite Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen<sup>1</sup> (in der Folge: Vertrag)
+
+sowie unter Bedachtnahme auf
+
+– den Rahmenbeschluss des Rates der Europäischen Union Nr. 2002/584 vom 13. Juni 2002 über den Europäischen Haftbefehl und die Übergabeverfahren zwischen den Mitgliedstaaten (in der Folge: Rahmenbeschluss über den Europäischen Haftbefehl);
+
+– das Abkommen zwischen der Österreichischen Bundesregierung und der Regierung der Tschechischen Republik über die Übergabe und Übernahme von Personen mit unbefugtem Aufenthalt (Rückübernahmeabkommen)<sup>2</sup> vom 12. November 2004 und das Protokoll zur Durchführung des Abkommens zwischen der Österreichischen Bundesregierung und der Regierung der Tschechischen Republik über die Übergabe und Übernahme von Personen mit unbefugtem Aufenthalt vom 12. November 2004 und
+
+– die Verwaltungsvereinbarung vom 9. Dezember 2005 zwischen dem Bundesministerium für Inneres der Republik Österreich und dem Ministerium des Inneren der Tschechischen Republik über die praktischen Modalitäten zur Durchführung der Verordnung (EG) Nr. 343/2003 des Rates vom 18. Februar 2003 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaates, der für die Prüfung eines von einem Drittstaatsangehörigen in einem Mitgliedstaat gestellten Asylantrags zuständig ist<sup>3</sup>, in der Fassung der Notenwechsel vom 16. August und 31. August 2006 (in der Folge: Dublin-Verwaltungsvereinbarung);
+
+wie folgt übereingekommen:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup> Kundgemacht in BGBl. III Nr. 121/2006.
+
+<sup>2</sup> Kundgemacht in BGBl. III Nr. 187/2005.
+
+<sup>3</sup> Kundgemacht in BGBl. III Nr. 84/2006.
+
+## Artikel 1
+
+Die österreichische Vertragspartei errichtet auf österreichischem Staatsgebiet, im Gebiet der politischen Gemeinde Drasenhofen, in der Nähe der Staatsgrenze zur Tschechischen Republik ein gemeinsames Zentrum.
+
+## Artikel 2
+
+(1) Die von den beiden Vertragsparteien ins gemeinsame Zentrum entsandten Beamten werden im Rahmen ihrer jeweiligen Zuständigkeiten beratend und unterstützend tätig, insbesondere
+
+a) bei der Förderung und Intensivierung der grenzüberschreitenden Zusammenarbeit und des lnformationsaustausches im polizeilichen Bereich;
+
+b) bei der Koordinierung der Tätigkeiten der gemeinsamen Kontrollgruppen und des Vollzuges des gemischten Streifendienstes sowie bei sonstigen Operationen an der gemeinsamen Staatsgrenze und in den Grenzgebieten im Sinne des Vertrages;
+
+c) in Angelegenheiten der Übergabe bzw. Übernahme von Personen, die in das Staatsgebiet der Vertragsparteien illegal eingereist sind oder sich auf dem Staatsgebiet der Vertragsparteien illegal aufhalten gemäß dem Rückübernahmeabkommen;
+
+d) in Angelegenheiten der Übergabe und Übernahme von Personen zum Zwecke der Strafverfolgung bzw. –vollstreckung gemäß dem Rahmenbeschluss über den Europäischen Haftbefehl sowie von verurteilten Personen zum Zwecke des Vollzuges einer Freiheitsstrafe;
+
+e) in Angelegenheiten der Übergabe und Übernahme von Personen, die in einen Asylantrag gestellt haben gemäß der Dublin-Verwaltungsvereinbarung sowie
+
+f) beim Austausch von Informationen zum Zwecke der Abwehr von Gefahren für die öffentliche Ordnung und Sicherheit sowie auch der Vorbeugung und Aufklärung von Straftaten.
+
+(2) Die im gemeinsamen Zentrum tätigen Beamten arbeiten bei der Erfüllung ihrer Aufgaben zusammen. Sie sind nicht zur selbständigen Durchführung von hoheitlichen Befugnissen berechtigt und erteilen Informationen sowie erledigen Aufträge ausschließlich aufgrund der ihnen von der entsendenden Vertragspartei erteilten Weisungen.
+
+(3) Die Kommunikation zwischen den Beamten im gemeinsamen Zentrum erfolgt in deutscher und in tschechischer Sprache, wobei die im gemeinsamen Zentrum tätigen Beamten befugt sind, ihre Anfragen in ihrer jeweiligen Landessprache zu stellen.
+
+## Artikel 3
+
+(1) Die österreichische Vertragspartei stellt der tschechischen Vertragspartei die zur Dienstausübung erforderlichen Räumlichkeiten im gemeinsamen Zentrum unentgeltlich zur Verfügung und trägt auch sämtliche Betriebskosten, mit Ausnahme der Kosten für Telekommunikation. Die österreichische Vertragspartei ermöglicht der tschechischen Vertragspartei die Installierung und den Betrieb der Telekommunikations- und Datenverarbeitungsanlagen sowie die Errichtung der notwendigen Anbindungen an ihr Telekommunikationsnetz. Die österreichische Vertragspartei ermöglicht im Interesse der Sicherung der in dieser Vereinbarung festgelegten Tätigkeiten den Betreibern der tschechischen Telekommunikations- und der Datenverarbeitungsanlagen den Zutritt auf das Staatgebiet zur Installierung und Instandhaltung dieser Einrichtungen.
+
+(2) Die von der tschechischen Vertragspartei in das gemeinsame Zentrum eingebrachten Anlagen und beweglichen Gegenstände verbleiben im Eigentum der tschechischen Vertragspartei.
+
+(3) Das gemeinsame Zentrum ist in deutscher und in tschechischer Sprache zu kennzeichnen.
+
+## Artikel 4
+
+(1) Die in Artikel 2 Abs. 4 des Vertrages genannten nationalen Zentralstellen bestimmen jeweils einen für die Organisation der gemeinsamen Tätigkeiten und den Betrieb des gemeinsamen Zentrums verantwortlichen Beamten. Die verantwortlichen Beamten vereinbaren die Anzahl der im gemeinsamen Zentrum tätigen Beamten jeder Vertragspartei, sie tauschen die Verzeichnisse mit deren Namen aus und informieren einander über Veränderungen in der personellen Besetzung.
+
+(2) Die verantwortlichen Beamten erarbeiten innerhalb der ersten sechs Monate nach dem Inkrafttreten dieser Vereinbarung gemeinsam eine Geschäftsordnung und treffen alle Vorkehrungen zur Gewährleistung des Funktionierens des gemeinsamen Zentrums.
+
+(3) Die Geschäftsordnung erlangt ihre Verbindlichkeit nach Genehmigung durch die in Artikel 2 Abs. 4 des Vertrags angeführten nationalen Zentralstellen.
+
+(4) Für die Zwecke dieses Artikels ist die in Artikel 2 Abs. 4 des Vertrags angeführte nationale Zentralstelle für die tschechische Seite das Polizeipräsidium der Tschechischen Republik.
+
+(5) In Angelegenheiten der Tätigkeit von Beamten der Zollverwaltung im gemeinsamen Zentrum sind stets die nationalen Zentralstellen gemäß Artikel 27 Abs. 2 des Vertrags zu konsultieren.
+
+## Artikel 5
+
+(1) Die Vertreter der nationalen Zentralstellen gemäß Artikel 2 Abs. 4 bzw. 27 Abs. 2 des Vertrags sowie die aufgrund des Artikels 4 Abs. 1 dieser Vereinbarung bestellten verantwortlichen Beamten kommen mindestens einmal jährlich zusammen, um Bilanz über die Zusammenarbeit zu ziehen und die Aktivitäten des gemeinsamen Zentrums zu evaluieren. Im Rahmen dieser Treffen
+
+a) tauschen sie statistische Daten über die Tätigkeit des gemeinsamen Zentrums sowie über die Entwicklung der verschiedenen Formen der Kriminalität untereinander aus und
+
+b) erarbeiten sie ein neues gemeinsames Arbeitsprogramm und entsprechende Strategien für gemeinsame Aktivitäten an der gemeinsamen Staatsgrenze bzw. in den Grenzgebieten.
+
+(2) Am Ende eines jeden Treffens ist ein Protokoll in deutscher und tschechischer Sprache anzufertigen.
+
+## Artikel 6
+
+(1) Diese Vereinbarung tritt am ersten Tag des zweiten Monats in Kraft, der auf den Zeitpunkt der Unterzeichnung folgt.
+
+(2) Diese Vereinbarung wird auf unbestimmte Zeit geschlossen. Sie kann von jeder der Vertragsparteien schriftlich auf diplomatischem Wege gekündigt werden. In diesem Fall tritt sie neunzig Tage nach Eingang der Kündigung bei der zweiten Vertragspartei außer Kraft. Diese Vereinbarung tritt spätestens an jenem Tag, an dem der Vertrag seine Gültigkeit verliert, außer Kraft.
+
+Geschehen zu Mikulov am 6. November 2007, in zwei Urschriften, jede in deutscher und tschechischer Sprache, wobei beide Texte gleichermaßen authentisch sind.
+
+## Ratifikationstext
+
+Die Vereinbarung tritt gemäß ihrem Art. 6 Abs. 1 am 1. Jänner 2008 in Kraft.
