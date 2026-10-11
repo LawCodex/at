@@ -1,0 +1,186 @@
+---
+title: "Vereinbarung 15a B-VG Kommission Schulbücher Begutachtung land- und forstwirtschaftl. Berufs- und Fachschulen"
+identifier: "20000804"
+type: other
+ris_type: "S"
+jurisdiction: at-3
+land: "Niederösterreich"
+language: de
+promulgation: "LGBl. 5031-3"
+last_amended: 2015-01-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/lgbl/NI/5031/P0/LNO40007675"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrNO&Gesetzesnummer=20000804"
+retrieved: 2026-10-11
+documents: 15
+---
+
+# Vereinbarung 15a B-VG Kommission Schulbücher Begutachtung land- und forstwirtschaftl. Berufs- und Fachschulen
+
+Vereinbarung über die Einrichtung einer gemeinsamen Kommission zur Begutachtung von Schulbüchern für land- und forstwirtschaftliche Berufs- und Fachschulen
+
+StF: LGBl. 5031-0
+
+<details>
+<summary>Änderungen</summary>
+
+LGBl. 5031-1  
+LGBl. 5031-2  
+LGBl. 5031-3  
+
+</details>
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Präambel/Promulgationsklausel
+
+Die NÖ Landesregierung verlautbart gemäß § 3 Abs. 1 lit. c des NÖ Verlautbarungsgesetzes, LGBl. 0700–2:
+
+**Abschnitt 1**
+
+Die unterzeichneten Länder schließen gemäß Art. 15 a B-VG folgende Vereinbarung:
+
+**Abschnitt 2**
+
+(1) Die Vereinbarung wurde von Kärnten, Niederösterreich, Oberösterreich, Salzburg und Vorarlberg abgeschlossen. Sie ist für Niederösterreich am 20. April 1980 in Kraft getreten.
+
+(2) Der Vereinbarung ist das Land Burgenland mit Wirksamkeit vom 16. April 1988 beigetreten.
+
+(3) Der Vereinbarung ist das Land Steiermark mit Wirksamkeit vom 3. Februar 1992 beigetreten.
+
+(4) Der Vereinbarung ist das Land Tirol mit Wirksamkeit vom 22. August 1992 beigetreten.
+
+## Artikel 1 – Einrichtung der Kommission
+
+Zur Begutachtung von Schulbüchern für land- und forstwirtschaftliche Berufs- und Fachschulen wird die “Schulbuchkommission der Länder (SchBK)“ eingerichtet. Sie wird im folgenden Kommission genannt.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 2 – Aufgaben der Kommission
+
+(1) Die Kommission hat Gutachten darüber zu erstatten, ob Schulbücher für land- und forstwirtschaftliche Berufs- und Fachschulen nach Inhalt und Form den Lehrplänen der betreffenden Schulart und Schulstufe entsprechen sowie nach Material, Darstellung und sonstiger Ausstattung zweckmäßig und für die Schüler der betreffenden Schulart und Schulstufe geeignet sind.
+
+(2) Die Kommission kann allgemeine Vorschläge für die Entwicklung, den Aufbau und die Gestaltung von Unterrichtsmitteln erstatten.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 3 – Kommissionsmitglieder
+
+(1) Jede Vertragspartei bestellt für die Dauer von 3 Jahren ein Mitglied sowie ein Ersatzmitglied für die Kommission.
+
+(2) Die Mitglieder (Ersatzmitglieder) der Kommission sind zum Stillschweigen über den Inhalt und das Ergebnis der Beratungen und Abstimmungen verpflichtet.
+
+(3) Ist ein Kommissionsmitglied (Ersatzmitglied) im Sinne des § 7 AVG 1950 befangen, ist es von der Begutachtung eines Schulbuches ausgeschlossen. Das betreffende Mitglied (Ersatzmitglied) hat seine Befangenheit der Geschäftsstelle (§ 10) anzuzeigen.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 4 – Begutachtung
+
+(1) Die Kommission hat auf Antrag einer Vertragspartei Schulbücher zu begutachten.
+
+(2) Ein Gutachten gemäß Art. 2 Abs. 1 hat insbesondere die Feststellung zu enthalten, ob ein Schulbuch folgenden Anforderungen entspricht:
+
+a) Übereinstimmung mit den in den Lehrplänen vorgeschriebenen Bildungs- und Lehraufgaben, dem Lehrstoff und den didaktischen Grundsätzen;
+
+b) sachliche Richtigkeit des Inhaltes und Übereinstimmung mit dem jeweiligen Stand des betreffenden Wissensgebietes;
+
+c) ausreichende Berücksichtigung der österreichischen Verhältnisse einschließlich der geltenden Rechtsvorschriften;
+
+d) gute sprachliche Gestaltung;
+
+e) Zweckmäßigkeit vom Standpunkt des Materials, der Darstellung und der sonstigen Ausstattung.
+
+(3) Die Zusammenfassung des Gutachtens hat das geprüfte Schulbuch dahin zu beurteilen, ob es für die Schüler der betreffenden Schulart und Schulstufe
+
+a) in der vorliegenden Fassung geeignet oder
+
+b) unter der Auflage von Änderungen geeignet oder
+
+c) nicht geeignet ist.
+
+(4) Die Kommission kann Sachverständige mit der Ausarbeitung eines Gutachtensentwurfes beauftragen und ihnen hiefür eine angemessene Entschädigung gewähren.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 5 – Verfahren zur Eignungserklärung
+
+(1) Die Vertragsparteien nehmen bei der Eignungserklärung von Schulbüchern auf das Gutachten der Kommission Bedacht.
+
+(2) Jene Vertragspartei, die den Antrag auf Begutachtung bei der Kommission gestellt hat, hat für die Hereinbringung der Entschädigung der Sachverständigen (Art. 4 Abs. 4) im Wege des Verfahrens zur Eignungserklärung von Schulbüchern zu sorgen (Barauslagenersatz) und diese an die Kommission zu überweisen.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 6 – Vorsitz
+
+(1) Den Vorsitz in der Kommission führt auf die Dauer eines Kalenderjahres in der alphabetischen Reihenfolge der Länder das vom jeweiligen Land entsandte Mitglied (Ersatzmitglied). Nimmt dieses an der Sitzung nicht teil, übernimmt für die Dauer dieser Sitzung das von der in der Reihe nächstfolgenden Vertragspartei bestellte Mitglied den Vorsitz.
+
+(2) Der Vorsitzende hat die Tagesordnung für die Sitzungen der Kommission festzulegen, die Sitzungen einzuberufen, in diesen den Vorsitz zu führen und die Niederschriften zu unterfertigen.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 7 – Einberufung der Sitzungen
+
+(1) Die Kommission ist nach Bedarf und in der Regel in jenes Land einzuberufen, aus dem der Vorsitzende kommt.
+
+(2) Die Mitglieder sind mindestens drei Wochen vor der Sitzung unter Bekanntgabe der Tagesordnung und Beischluß der erforderlichen Unterlagen schriftlich einzuladen.
+
+(3) Nach Maßgabe der zu behandelnden Angelegenheiten können erforderlichenfalls zur Auskunftserteilung auch Nichtmitglieder, insbesondere Autoren, Herausgeber, Verleger oder Hersteller von Unterrichtsmitteln und Sachverständige (Art. 4 Abs. 4) beigezogen werden.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 8 – Beschlußfähigkeit und Stimmrecht
+
+(1) Die Kommission ist bei ordnungsgemäßer Einberufung aller Mitglieder beschlußfähig, wenn mindestens zwei Drittel der Mitglieder anwesend sind. Mängel in der Einberufung gelten bei rechtzeitigem Erscheinen als behoben.
+
+(2) Beschlüsse der Kommission gemäß Art. 2 bedürfen der einfachen Mehrheit der abgegebenen Stimmen; Beschlüsse der Geschäftsordnung (Art. 9) bzw. deren Änderung bedürfen der Zustimmung aller anwesenden Mitglieder.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 9 – Geschäftsordnung
+
+(1) Die Kommission hat eine Geschäftsordnung zu erlassen, in der nähere Bestimmungen über die Tätigkeit der Kommission und die Besorgung ihrer Geschäfte getroffen werden.
+
+(2) Die Geschäftsordnung hat insbesondere Bestimmungen über die Bestellung, Befassung und Entschädigung von Sachverständigen, über die Behandlung der einzelnen Beratungsgegenstände und über die Führung der Niederschrift zu enthalten. In der Niederschrift sind jedenfalls die Stellungnahmen der einzelnen Ländervertreter zu den behandelten Beratungsgegenständen festzuhalten.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 10 – Geschäftsstelle
+
+Die Geschäfte der Kommission werden durch die Verbindungsstelle der Bundesländer beim Amte der Niederösterreichischen Landesregierung besorgt. Der Geschäftsstelle obliegt insbesondere die Entgegennahme der Anträge auf Begutachtung von Schulbüchern sowie im Einvernehmen mit dem Vorsitzenden die Vorbereitung der Begutachtungen, die Protokollführung, die Weiterleitung der Begutachtungsergebnisse und der sonstige damit in Zusammenhang stehende Schriftverkehr einschließlich der Bekanntgabe der Höhe der Entschädigungen der Sachverständigen an die antragstellende Vertragspartei und die Auszahlung der Entschädigung an die Sachverständigen.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 11 – Inkrafttreten
+
+(1) Diese Vereinbarung steht allen Ländern zur Unterzeichnung offen.
+
+(2) Diese Vereinbarung tritt einen Monat nach dem Tag in Kraft, an dem drei Länder schriftlich mitgeteilt haben, daß ihre verfassungsrechtlichen Voraussetzungen für das Inkrafttreten der Vereinbarung erfüllt sind.
+
+(3) Für Länder, die die Vereinbarung unterzeichnet, aber erst nach dem Inkrafttreten der Vereinbarung gemäß Abs. 2 mitgeteilt haben, daß ihre verfassungsrechtlichen Voraussetzungen für das Inkrafttreten der Vereinbarung erfüllt sind, tritt die Vereinbarung einen Monat nach dieser Mitteilung in Kraft.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 12 – Beitritt
+
+Diese Vereinbarung steht Ländern, die sie im Zeitpunkt ihres Inkrafttretens noch nicht unterzeichnet haben, zum Beitritt offen. Der Beitritt wird einen Monat nach seiner schriftlichen Mitteilung wirksam.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 13 – Kündigung
+
+(1) Diese Vereinbarung kann von jeder Vertragspartei gekündigt werden. Die Kündigung wird zwei Monate nach ihrer schriftlichen Mitteilung wirksam.
+
+(2) Die Kündigung durch eine Vertragspartei berührt nicht die Rechtsbeziehungen der anderen Vertragsparteien untereinander.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
+
+## Artikel 14 – Ausfertigungen, Mitteilungen
+
+(1) Die Urschrift dieser Vereinbarung wird bei der Verbindungsstelle der Bundesländer (Verwahrer) hinterlegt. Diese hat jedem Vertragsland eine von ihr beglaubigte Abschrift der Vereinbarung zu übermitteln.
+
+(2) Der Verwahrer hat die Vereinbarung unverzüglich der Bundesregierung zur Kenntnis zu bringen.
+
+(3) Alle die Vereinbarung betreffenden rechtserheblichen Mitteilungen sind an den Verwahrer zu richten. Sie gelten als im Zeitpunkt des Einlangens beim Verwahrer abgegeben. Der Verwahrer hat jede Vertragspartei von diesen Mitteilungen zu benachrichtigen.
+
+> **Beachte:** Bei vor dem 1.1.2015 geänderten Rechtsvorschriften wird als Inkrafttretensdatum der Erfassungsstichtag 1.1.2015 angegeben.
