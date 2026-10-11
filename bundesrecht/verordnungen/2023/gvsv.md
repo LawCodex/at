@@ -1,0 +1,140 @@
+---
+title: "Gasversorgungsstandardverordnung"
+abbreviation: "GVSV"
+identifier: "20012267"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 151/2023"
+last_amended: 2026-07-03
+last_amendment: "BGBl. II Nr. 163/2026"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2023/151/P0/NOR40265622"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012267"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Gasversorgungsstandardverordnung (GVSV)
+
+Verordnung des Vorstands der E-Control über die Nachweise sowie die Überprüfung des Gasversorgungsstandards für geschützte Kunden und Gaskraftwerke in Österreich (Gasversorgungsstandardverordnung – GVSV)
+
+StF: BGBl. II Nr. 151/2023
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 269/2024  
+BGBl. II Nr. 210/2025  
+BGBl. II Nr. 163/2026  
+
+</details>
+
+> **Anmerkung:** Der Titel sowie der Kurztitel und die Abkürzung wurden mit Wirksamkeit vom 2.10.2024 geändert bzw. neu vergeben (vgl. BGBl. II Nr. 269/2024). Aus dokumentalistischen Gründen wurden auch in den bereits außer Kraft getretenen Bestimmungen der Kurztitel und die Abkürzung angepasst.
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 121 Abs. 5 des Gaswirtschaftsgesetzes 2011 (GWG 2011), BGBl. I Nr. 107/2011, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 23/2023, wird verordnet:
+
+## § 1 – Regelungsgegenstand
+
+§ 1. Diese Verordnung regelt nähere Bestimmungen zur Durchführung der Überprüfung des Gasversorgungsstandards, zu den Erhebungsmodalitäten und zur Art der erforderlichen Nachweise gemäß § 121 Abs. 5 Gaswirtschaftsgesetz 2011 (GWG 2011), BGBl. I Nr. 107/2011. Weiters werden nähere Bestimmungen zur Vorhaltung von Gasmengen für Stromerzeugungsanlagen gemäß § 75 Elektrizitätswirtschaftsgesetz (ElWG), BGBl. I Nr. 91/2025, erlassen.
+
+> **Beachte:** Tritt am 1. April 2027, 6 Uhr, außer Kraft (vgl. § 6 Abs. 4).
+
+## § 2 – Begriffsbestimmungen
+
+§ 2. (1) Im Sinne dieser Verordnung bezeichnet der Ausdruck
+
+1\. „Fernwärmeanlagen“ Anlagen, die Wärme direkt oder indirekt an geschützte Fernwärmekunden liefern, in ein Fernwärmenetz mit einer gesamten Wärmeengpassleistung aller damit verbundenen Heizwerke und Heizkraftwerke von zumindest 50 MW (thermisch) oder einer gesamten jährlichen Wärmeabgabe von zumindest 300 GWh einspeisen und die ohne technische Einbaumaßnahmen keinen Wechsel auf einen anderen Brennstoff als Gas vornehmen können;
+
+2\. „geschützte soziale Dienste“ grundlegender sozialer Dienst mit Ausnahme der Bereiche Bildung und öffentliche Verwaltung (Anlage 1);
+
+3\. „geschützte Fernwärmekunden“ Haushalte, grundlegende soziale Dienste oder kleine und mittlere Unternehmen, die von einer Fernwärmeanlage versorgt werden;
+
+4\. „mittlere Unternehmen“ Unternehmen mit höchstens 249 Beschäftigten und mit einem Umsatz von höchstens 50 Millionen Euro oder einer Bilanzsumme von höchstens 43 Millionen Euro, soweit sie nicht kleine Unternehmen sind.
+
+(2) Im Übrigen gelten die Begriffsbestimmungen gemäß § 7 Abs. 1 und Abs. 4 GWG 2011.
+
+(3) Personenbezogene Begriffe haben keine geschlechtsspezifische Bedeutung. Sie sind bei der Anwendung auf bestimmte Personen in der jeweils geschlechtsspezifischen Form anzuwenden.
+
+## § 3 – Überprüfung der Einhaltung der Standards
+
+§ 3. (1) Zur Überprüfung der Einhaltung der gemäß § 121 Abs. 5 GWG 2011 normierten Standards sind folgende Daten jährlich zum 15. Juli für den folgenden Winter (Erhebungszeitraum 1. Oktober bis 31. März) an die Regulierungsbehörde zu übermitteln:
+
+1\. Verteilernetzbetreiber haben dem Markt- und Verteilergebietsmanager die Basisdaten zur Ermittlung der Mengen je Versorger geschützter Kunden gemäß § 7 Abs. 1 Z 20a lit. a bis c GWG 2011 im jeweiligen Monat und je Marktgebiet zu übermitteln. Der Markt- und Verteilergebietsmanager hat die ermittelten Mengen je Versorger geschützter Kunden an die Regulierungsbehörde zu senden.
+
+2\. Die Versorger geschützter Kunden haben den letztjährigen monatlichen Gasverbrauch im jeweiligen Monat je Fernwärmeanlage in dem Ausmaß, in dem jene Wärme an geschützte Fernwärmekunden gemäß § 7 Abs. 1 Z 20a lit. c GWG 2011 liefert, sowie das jeweilige kurzfristige Substitutionspotential zu melden.
+
+(2) Zur Überprüfung der Einhaltung der gemäß § 75 ElWG normierten Standards sind von Betreibern von Erzeugungsanlagen mit einer Engpassleistung von 50 MW oder mehr jährlich zum 31. August für den folgenden Winter (Erhebungszeitraum von 1. Oktober, 6 Uhr, bis 1. März, 6 Uhr) an die Regulierungsbehörde folgende Daten zu übermitteln:
+
+1\. der Gasbezug der letzten drei Jahre, jeweils im Zeitraum 1. Oktober, 6 Uhr, bis 1. März, 6 Uhr, aus dem öffentlichen Netz;
+
+2\. die gesamte Brutto-Stromerzeugung der letzten drei Jahre, jeweils im Zeitraum 1. Oktober, 6 Uhr, bis 1. März, 6 Uhr, sowie bei Anlagen mit Kraft-Wärme-Kopplung darüber hinaus die Netto-Wärmeerzeugung und die Wärmeabgabe sowie der jeweils hierfür notwendige Gaseinsatz, jeweils getrennt nach Kraftwerksblöcken und Primärenergieträgern für die letzten drei Jahre, jeweils im Zeitraum 1. Oktober, 6 Uhr, bis 1. März, 6 Uhr.
+
+> **Beachte:** Tritt am 1. April 2027, 6 Uhr, außer Kraft (vgl. § 6 Abs. 4).
+
+## § 4
+
+§ 4. (1) Für die Erfüllung des Versorgungsstandards nach Art. 6 Abs. 1 der Verordnung (EU) 2017/1938 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur Aufhebung der Verordnung (EU) Nr. 994/2010, ABl. Nr. L 280 vom 28.10.2017 S. 1, sind jeweils bis 31. August Nachweise von Versorgern geschützter Kunden durch Vorlage folgender Verträge zu erbringen, soweit dies zur Erfüllung des Versorgungsstandards notwendig ist:
+
+1\. Für die Fälle des Art. 6 Abs. 1 lit. a und b der Verordnung (EU) 2017/1938:
+
+a) Speicherverträge am Primärmarkt, die mit Speicherunternehmen oder am Sekundärmarkt mit Speicherkunden abgeschlossen wurden, welche das maximale Arbeitsgasvolumen, die maximale Entnahmeleistung und die Vertragslaufzeit enthalten; und/oder
+
+b) Bilaterale Lieferverträge, die mit einem konkreten Vertragspartner abgeschlossen wurden, welche die maximale Vertragsmengen, die maximale Vertragsleistung und die Vertragslaufzeit enthalten; und/oder
+
+c) OTC-Verträge, die mit einem konkreten Vertragspartner abgeschlossen wurden, welche die maximale Vertragsmengen, maximale Vertragsleistung und die Vertragslaufzeit enthalten; und/oder
+
+d) Verträge über Termingeschäfte an der Börse, welche die maximalen Vertragsmengen, die maximalen Vertragsleistung und die Vertragslaufzeit enthalten.
+
+2\. Für den Fall gemäß Art. 6 Abs. 1 lit. c der Verordnung (EU) 2017/1938: ausschließlich Speicherverträge gemäß Z 1 lit. a, wobei hier jeweils die monatlichen Speicherstände nachzuweisen sind.
+
+(2) Die vorgelegten Nachweise müssen die erforderlichen Mengen und Leistungen über den Erhebungszeitraum abdecken. Für den Nachweis des Fall gemäß Art. 6 Abs. 1 lit. c der Verordnung (EU) 2017/1938 haben Versorger von Fernwärmeanlagen den Monatsverbrauch geschützter Fernwärmekunden des Vorjahresmonats vorzuhalten.
+
+(3) Im Falle von Verträgen mit Erfüllungsort im Ausland und bei Nutzung ausländischer Speicher sind die Transportverträge anzugeben, über welche die entsprechende Menge und Leistung nach Österreich transportiert wird.
+
+(4) Nachweise gemäß § 4 Abs. 1 und § 75 Abs. 3 ElWG können auch durch den jeweiligen Vorlieferanten erbracht werden.
+
+\*(Anm.: Abs. 5 aufgehoben durch BGBl. II Nr. 163/2026)*
+
+## § 5 – Datenübermittlung
+
+§ 5. (1) Die Daten gemäß § 3 müssen über ein von der E-Control zur Verfügung gestelltes Formular bis 31. August gemeldet werden.
+
+(2) Sämtliche Daten, die zur Berechnung der in Abs. 1 in Verbindung mit § 3 aufgelisteten Kennzahlen notwendig sind, hat der Versorger für einen Zeitraum von sieben Jahren aufzubewahren und der Regulierungsbehörde auf Nachfrage zu übermitteln.
+
+## § 6 – Inkrafttreten
+
+§ 6. (1) Diese Verordnung tritt mit 1. August 2023 in Kraft.
+
+(2) § 3 Abs. 2 und § 4 Abs. 5 in der Fassung der Verordnung BGBl. II Nr. 269/2024 treten mit dem der Kundmachung folgenden Tag in Kraft. Nachweise gemäß § 4 Abs. 5 haben für den Erhebungszeitraum 1. Oktober 2024, 6 Uhr, bis 1. März 2025, 6 Uhr, binnen fünf Arbeitstagen nach Inkrafttreten dieser Bestimmung zu erfolgen.
+
+(3) § 4 Abs. 5 in der Fassung der Verordnung BGBl. II Nr. 210/2025 tritt mit dem der Kundmachung folgenden Tag in Kraft.
+
+(4) § 1, § 3, § 4 und § 6 in der Fassung der Verordnung BGBl. II Nr. 163/2026 treten mit dem der Kundmachung folgenden Tag in Kraft. § 1 zweiter Satz und § 3 Abs. 2 treten am 1. April 2027, 6 Uhr, außer Kraft.
+
+## Anlage 1
+
+**ÖNACE-Codes der geschützten Sozialen Dienste gemäß § 2 Abs. 1 Z 2**
+
+| **ÖNACE-Klasse** | **Bezeichnung** |
+|---|---|
+| 84.22 | Verteidigung (Bundesheer) |
+| 84.24 | Öffentliche Sicherheit und Ordnung (Polizei) |
+| 84.25 | Feuerwehren |
+| 86.10 | Krankenhäuser |
+| 86.21 | Arztpraxen für Allgemeinmedizin |
+| 86.22 | Facharztpraxen |
+| 86.23 | Zahnarztpraxen |
+| 86.90 | Gesundheitswesen a.n.g. |
+| 87.10 | Pflegeheime |
+| 87.20 | Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u.Ä. |
+| 87.30 | Altenheime; Alten- und Behindertenwohnheime |
+| 87.90 | Sonstige Heime (ohne Erholungs- und Ferienheime) |
+| 88.10 | Soziale Betreuung älterer Menschen und Behinderter |
+| 88.91 | Tagesbetreuung von Kindern |
+| 88.99 | Sonstiges Sozialwesen a.n.g. |
+|  |  |

@@ -1,0 +1,123 @@
+---
+title: "Kooperation und Solidarität bei der Entsendung von Einheiten und Einzelpersonen in das Ausland"
+abbreviation: "KSE-BVG"
+identifier: "10001504"
+type: constitution
+ris_type: "BVG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 38/1997"
+last_amended: 1998-01-31
+last_amendment: "BGBl. I Nr. 30/1998"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/1997/38/P0/NOR11001523"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001504"
+retrieved: 2026-10-11
+documents: 12
+---
+
+# Kooperation und Solidarität bei der Entsendung von Einheiten und Einzelpersonen in das Ausland (KSE-BVG)
+
+Bundesverfassungsgesetz über Kooperation und Solidarität bei der Entsendung von Einheiten und Einzelpersonen in das Ausland (KSE-BVG)
+
+StF: BGBl. I Nr. 38/1997 idF BGBl. I Nr. 35/1998 (DFB) (NR: GP XX RV 503 AB 657 S. 71. BR: AB 5428 S. 625.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 30/1998 (NR: GP XX RV 915 AB 1037 S. 104. BR: AB 5611 S. 634.)  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+## § 1
+
+§ 1. Einheiten und einzelne Personen können in das Ausland entsendet werden
+
+1\. zur solidarischen Teilnahme an
+
+a) Maßnahmen der Friedenssicherung einschließlich der Förderung der Demokratie, Rechtsstaatlichkeit und Schutz der Menschenrechte im Rahmen einer internationalen Organisation oder der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE) oder in Durchführung von Beschlüssen der Europäischen Union im Rahmen der Gemeinsamen Außen- und Sicherheitspolitik oder
+
+b) Maßnahmen der humanitären Hilfe und der Katastrophenhilfe oder
+
+c) Maßnahmen der Such- und Rettungsdienste oder
+
+d) Übungen und Ausbildungsmaßnahmen zu den in lit. a bis c genannten Zwecken sowie
+
+2\. zur Durchführung von Übungen und Ausbildungsmaßnahmen im Bereich der militärischen Landesverteidigung (Art. 79 Abs. 1 B-VG).
+
+Dabei ist auf die völkerrechtlichen Verpflichtungen Österreichs, die Grundsätze der Satzung der Vereinten Nationen sowie der Schlußakte von Helsinki und auf die Gemeinsame Außen- und Sicherheitspolitik der Europäischen Union auf Grund des Titels V des Vertrages über die Europäische Union Bedacht zu nehmen.
+
+## § 2
+
+§ 2. (1) Zu Entsendungen nach § 1 Z 1 lit. a und b ist die Bundesregierung im Einvernehmen mit dem Hauptausschuß des Nationalrates berufen.
+
+(2) Zu Entsendungen nach § 1 Z 1 lit. c ist der zuständige Bundesminister berufen; der Bundesregierung ist über die Entsendung von Einheiten unverzüglich zu berichten.
+
+(3) Zu Entsendungen nach § 1 Z 1 lit. d ist der zuständige Bundesminister im Rahmen eines von der Bundesregierung beschlossenen Übungs- und Ausbildungsplanes berufen. Der zuständige Bundesminister hat der Bundesregierung spätestens sechs Wochen vor Ablauf des Kalenderjahres den Entwurf eines Übungs- und Ausbildungsplans jeweils für das folgende Kalenderjahr vorzulegen. Dem Hauptausschuß des Nationalrates ist über den von der Bundesregierung beschlossenen Übungs- und Ausbildungsplan unverzüglich zu berichten. Ferner ist ihm über die im vorangegangenen Kalenderjahr auf Grund des Übungs- und Ausbildungsplans durchgeführten Übungen und Ausbildungsmaßnahmen zu berichten.
+
+(4) Zu Entsendungen nach § 1 Z 2 ist der zuständige Bundesminister berufen. Die Entsendung zu diesen Zwecken von Personen, die den Grundwehrdienst oder Truppenübungen oder die ersten sechs Monate des Ausbildungsdienstes leisten, obliegt der Bundesregierung; dem Hauptausschuß des Nationalrates ist darüber unverzüglich zu berichten.
+
+(5) Erfordert die besondere Dringlichkeit der Lage eine unverzügliche Entsendung gemäß § 1 Z 1 lit. b, so kommen die nach diesem Bundesverfassungsgesetz der Bundesregierung zustehenden Befugnisse dem Bundeskanzler, dem Bundesminister für auswärtige Angelegenheiten sowie jedem in seinem Zuständigkeitsbereich berührten Bundesminister zu, die einvernehmlich beschließen können, an der Maßnahme gemäß § 1 Z 1 lit. b teilzunehmen. Hierüber haben sie der Bundesregierung und dem Hauptausschuß des Nationalrates unverzüglich zu berichten. Der Hauptausschuß des Nationalrates kann innerhalb von zwei Wochen nach der Berichterstattung gegen die Entsendung Einspruch erheben; in diesem Fall ist die Entsendung zu beenden.
+
+(6) Im Fall einer zeitlich begrenzten Entsendung, in dem das Einvernehmen mit dem Hauptausschuß des Nationalrates herzustellen ist, kann dieser beschließen, daß die Bundesregierung diese nach Ablauf der Frist ohne neuerliche Herstellung des Einvernehmens mit dem Hauptausschuß fortsetzen kann. Über eine solche Fortsetzung der Entsendung hat die Bundesregierung dem Hauptausschuß unverzüglich zu berichten. Dieser kann innerhalb von zwei Wochen nach der Berichterstattung gegen die Fortsetzung der Entsendung Einspruch erheben; in diesem Fall ist die Entsendung zu beenden.
+
+## § 3
+
+§ 3. Die Bundesregierung kann in den Fällen ihrer Zuständigkeit zur Entsendung unter Bedachtnahme auf den gesetzmäßigen Wirkungsbereich der Bundesministerien und auf den Zweck der Entsendung bestimmen, welchem Bundesminister oder welchen Bundesministern die Durchführung der Entsendung obliegt; sie kann auch bestimmen, inwiefern ein Bundesminister dabei im Einvernehmen mit einem anderen Bundesminister oder mit anderen Bundesministern vorzugehen hat. Im übrigen bleibt der gesetzmäßige Wirkungsbereich der Bundesministerien unberührt.
+
+## § 4
+
+§ 4. (1) Für Zwecke nach § 1 können entsendet werden
+
+1\. Angehörige des Bundesheeres,
+
+2\. Angehörige der Wachkörper des Bundes und
+
+3\. andere Personen, wenn sie sich zur Teilnahme verpflichtet haben.
+
+(2) Nach § 1 Z 1 lit. a bis d dürfen Personen nur auf Grund freiwilliger Meldung entsendet werden. Für Entsendungen nach § 1 von Personen, die den Grundwehrdienst oder Truppenübungen oder die ersten sechs Monate des Ausbildungsdienstes leisten, ist jedenfalls deren persönliche freiwillige Meldung in schriftlicher Form erforderlich.
+
+(3) Entsendete Personen werden unter der Leitung (Art. 20 B-VG) des zuständigen Bundesministers tätig. Die Bundesregierung kann bestimmen, ob und wieweit die entsendeten Personen hinsichtlich ihrer Verwendung im Ausland nach § 1 Z 1 lit. a bis d die Weisungen der Organe einer internationalen Organisation oder ausländischer Organe zu befolgen haben.
+
+(4) Die nach österreichischen Rechtsvorschriften bestehende organisatorische Unterordnung von entsendeten Personen gegenüber ihren Vorgesetzten im Inland ruht auf die Dauer ihrer Tätigkeit im Ausland gemäß § 1 Z 1 lit. a bis d.
+
+(5) Anläßlich einer Entsendung können die entsendeten Personen zu einer Einheit oder zu mehreren Einheiten zusammengefaßt werden. Für jede in das Ausland entsendete Einheit ist vom zuständigen Bundesminister ein Vorgesetzter zu bestellen.
+
+(6) Für die Aufrechterhaltung der Ordnung und Disziplin innerhalb der Einheit hat ausschließlich der Vorgesetzte Sorge zu tragen; er hat gegenüber Mitgliedern der Einheit die dienstrechtliche Stellung eines Vorstandes der Dienstbehörde. Er ist auch hiebei an die Weisungen des zuständigen Bundesministers gebunden.
+
+(7) Widersprechen einander die unmittelbar erteilten Weisungen des in Betracht kommenden internationalen oder ausländischen Organs und die Weisungen eines zuständigen österreichischen Organs, so haben die entsendeten Personen die letzteren zu befolgen. Sie haben jedoch das zuständige österreichische Organ unverzüglich von einer widersprechenden Weisung des internationalen oder ausländischen Organs in Kenntnis zu setzen. Das zuständige österreichische Organ hat unverzüglich an das Organ, das die widersprechende Weisung erteilt hat, zum Zweck der Beseitigung des Widerspruchs heranzutreten.
+
+## § 5
+
+§ 5. Die Bundesregierung ist ermächtigt, die Durchführung der Entsendung mit der in Betracht kommenden internationalen Organisation oder dem Empfangsstaat im Rahmen des Völkerrechts näher zu regeln.
+
+## § 6
+
+§ 6. Nach Beendigung der Entsendung einer Einheit hat der Vorgesetzte dem zuständigen Bundesminister einen zusammenfassenden Bericht über die Entsendung vorzulegen. Dieser Bericht ist vom zuständigen Bundesminister der Bundesregierung zuzuleiten. Während der Entsendung hat der Vorgesetzte auf Verlangen der Bundesregierung oder des zuständigen Bundesministers jederzeit die gewünschten Berichte zu erstatten und die verlangten Auskünfte zu erteilen.
+
+## § 7
+
+§ 7. Die gesetzlichen Bestimmungen über die Ein-, Aus- und Durchfuhr von Kriegsmaterial sind nicht auf das den entsendeten Personen zugeteilte Kriegsmaterial anzuwenden.
+
+## § 8
+
+§ 8. Durch Bundesgesetz ist die besoldungs-, sozial- und abgabenrechtliche Stellung der im § 4 Abs. 1 Z 3 genannten, in das Ausland entsendeten Personen, soweit sie nicht dem Dienststand angehören, zu regeln.
+
+## § 9
+
+§ 9. (1) Mit dem Inkrafttreten dieses Bundesverfassungsgesetzes tritt das Bundesverfassungsgesetz über die Entsendung österreichischer Einheiten zur Hilfeleistung in das Ausland auf Ersuchen internationaler Organisationen, BGBl. Nr. 173/1965, außer Kraft.
+
+(2) In Bundesgesetzen wird die Verweisung auf das Bundesverfassungsgesetz über die Entsendung österreichischer Einheiten zur Hilfeleistung in das Ausland auf Ersuchen internationaler Organisationen durch die Verweisung auf dieses Bundesverfassungsgesetz ersetzt.
+
+## § 9a
+
+§ 9a. § 2 Abs. 4 und § 4 Abs. 2, jeweils in der Fassung des Bundesgesetzes BGBl. I Nr. 30/1998, treten mit 1. Jänner 1998 in Kraft.
+
+## § 10
+
+§ 10. Mit der Vollziehung dieses Bundesverfassungsgesetzes ist, soweit darin nicht anderes bestimmt ist, die Bundesregierung betraut.

@@ -1,0 +1,81 @@
+---
+title: "Funker-Zeugnisgebührenverordnung"
+abbreviation: "FZGV"
+identifier: "10012928"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 124/1999"
+last_amended: 2002-01-01
+last_amendment: "BGBl. II Nr. 388/2001"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/1999/124/P0/NOR11013333"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012928"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Funker-Zeugnisgebührenverordnung (FZGV)
+
+Verordnung des Bundesministers für Wissenschaft und Verkehr über Gebühren im Funker-Zeugniswesen (Funker-Zeugnisgebührenverordnung – FZGV)
+
+StF: BGBl. II Nr. 124/1999
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 388/2001  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 17 des Bundesgesetzes betreffend Funker-Zeugnisse, BGBl. I Nr. 26/1999, wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:
+
+## § 1
+
+§ 1. Die Parteien haben für jede in ihrem Interesse liegende, auf Grund des Funker-Zeugnisgesetzes vorgenommene Amtshandlung die in § 6 festgesetzten Gebühren zu entrichten.
+
+## § 2
+
+§ 2. (1) Die Pflicht zur Entrichtung der Gebühren tritt in dem Zeitpunkt ein, in dem die Amtshandlung vorgenommen wird.
+
+(2) Die Entrichtung der Gebühren ist spätestens vor Ausfolgung der Zweitausfertigung, der Anerkennungsurkunde gemäß § 8 Abs. 2 FZG oder des inländischen Funker-Zeugnisses nachzuweisen.
+
+(3) Soweit eine Verpflichtung zur Entrichtung einer Gebühr nicht besteht oder nachträglich weggefallen ist, sind die bereits eingehobenen Beträge auf Verlangen rückzuerstatten.
+
+## § 3
+
+§ 3. (1) Ergeht im Zusammenhang mit der Amtshandlung ein Bescheid, so sind die Gebühren in dessen Spruch festzusetzen.
+
+(2) Liegt der Fall des Abs. 1 nicht vor, ist die Gebühr, wenn sie nicht ohne weiteres entrichtet wird, in einem abgesonderten Bescheid gemäß § 57 Allgemeines Verwaltungsverfahrensgesetz 1991 (AVG), BGBl. Nr. 51, in der Fassung des Bundesgesetzes BGBl. Nr. 471/1995 vorzuschreiben. Der Instanzenzug richtet sich nach den die Hauptsache betreffenden Vorschriften.
+
+## § 4
+
+§ 4. Die Gebühren sind durch Einzahlung mit Erlagschein zu entrichten.
+
+## § 5
+
+§ 5. Die Gebühr ist auch dann zu entrichten, wenn die bei der in Betracht kommenden Tarifpost angegebenen Rechtsvorschriften zwar geändert wurden, die gebührenpflichtige Amtshandlung jedoch ihrem Wesen und Inhalt nach unverändert geblieben ist.
+
+## § 6
+
+§ 6. Die Gebühr beträgt
+
+1\. für die Anerkennung eines ausländischen Funker-Zeugnisses (§ 8 Abs. 2 FZG) 47,24 Euro,
+
+2\. für die Zweitausfertigung eines Funker-Zeugnisses oder einer Anerkennung (§ 10 FZG) 14,53 Euro,
+
+3\. für die Ablegung der Prüfung (§ 13 FZG) 101,74 Euro,
+
+4\. für die Ablegung einer Ergänzungsprüfung (§ 15 Abs. 2 FZG) ....................................... 79,94 Euro,
+
+5\. für die Ermächtigung zur Ausstellung von Ausbildungsbestätigungen (§ 16 FZG) 87,21 Euro,
+
+6\. für sonstige Amtshandlungen, die im überwiegenden Privatinteresse der Partei liegen, soweit nicht eine andere Tarifpost angewendet werden kann 10,90 Euro.
+
+## § 7
+
+§ 7. Die Bestimmungen des § 6 Z 1 bis 6 in der Fassung der Verordnung BGBl. II Nr. 388/2001 treten mit 1. Jänner 2002 in Kraft.

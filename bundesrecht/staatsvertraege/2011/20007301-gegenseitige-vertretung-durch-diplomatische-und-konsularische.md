@@ -1,0 +1,130 @@
+---
+title: "Gegenseitige Vertretung durch diplomatische und konsularische Vertretungen im Verfahren der Visaerteilung – Durchführung (Slowakei)"
+identifier: "20007301"
+type: treaty
+ris_type: "Vertrag – Slowakei"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 88/2011"
+last_amended: 2019-04-01
+last_amendment: "BGBl. III Nr. 30/2019"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/2011/88/P0/NOR40129067"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007301"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Gegenseitige Vertretung durch diplomatische und konsularische Vertretungen im Verfahren der Visaerteilung – Durchführung (Slowakei)
+
+Vereinbarung zwischen dem Bundesministerium für europäische und internationale Angelegenheiten der Republik Österreich und dem Ministerium für auswärtige Angelegenheiten der Slowakischen Republik über die Durchführung des Abkommens zwischen der Österreichischen Bundesregierung und der Regierung der Slowakischen Republik über die gegenseitige Vertretung durch diplomatische und konsularische Vertretungen ihrer Staaten im Verfahren der Visaerteilung
+
+StF: BGBl. III Nr. 88/2011
+
+**Unterzeichnungsdatum:** 06.05.2011
+
+**Sprachen:** Deutsch, Slowakisch
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. III Nr. 123/2015  
+BGBl. III Nr. 225/2016  
+BGBl. III Nr. 30/2019  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Das Bundesministerium für europäische und internationale Angelegenheiten der Republik Österreich und das Ministerium für auswärtige Angelegenheiten der Slowakischen Republik (im Weiteren „Vertragsparteien“ genannt),
+
+gemäß Artikel 4 des Abkommens zwischen der Österreichischen Bundesregierung und der Regierung der Slowakischen Republik über die gegenseitige Vertretung durch diplomatische und konsularische Vertretungen ihrer Staaten im Verfahren der Visaerteilung<sup>1</sup> vom 23. Oktober 2009,
+
+sind wie folgt übereingekommen:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<sup>1</sup> Kundgemacht in BGBl. III Nr. 138/2009.
+
+### Artikel 1
+
+(1) Die Vertragsparteien vertreten einander bei der Bearbeitung und Erteilung einheitlicher, grundsätzlich für das Hoheitsgebiet aller Vertragsparteien des Übereinkommens vom 19. Juni 1990 zur Durchführung des Übereinkommens von Schengen vom 14. Juni 1985 betreffend den schrittweisen Abbau der Kontrollen an den gemeinsamen Grenzen<sup>1</sup> (Schengener Durchführungsübereinkommen) gültiger Visa (Visum A und Visum C) an den im Anhang zu dieser Vereinbarung festgelegten Dienstorten.
+
+(2) Weitere Dienstorte, wo zukünftig eine derartige Vertretung erfolgt, sind dem Anhang gemäß Absatz 1 zu entnehmen. Änderungen des Anhangs erfolgen im Rahmen eines Notenwechsels zwischen den Vertragsparteien.
+
+<sup>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</sup>
+
+<sup>1</sup> Kundgemacht in BGBl. III Nr. 90/1997 idF BGBl. I Nr. 36/2004.
+
+### Artikel 2
+
+Die vertretende Vertretungsbehörde nimmt die Visumanträge von in ihrem Konsularbezirk rechtmäßig aufhältigen Drittstaatsangehörigen entgegen, erfasst die Antragsdaten sowie ab dem Einführungszeitpunkt der Aufnahme biometrischer Identifikatoren in Visa die biometrischen Daten und führt die materielle Prüfung des Antrags durch.
+
+### Artikel 3
+
+(1) Die vertretende Vertretungsbehörde nimmt die Tätigkeiten zur Durchführung des Abkommens selbständig vor.
+
+(2) Die Visumgebühren stehen in jedem Fall der vertretenden Vertretungsbehörde zu.
+
+### Artikel 4
+
+(1) Sind die Voraussetzungen für die Erteilung eines Visums gemäß dem Schengen-Besitzstand nach Prüfung der Einreisevoraussetzungen und Risikobewertung durch die zuständige Vertretungsbehörde nicht erfüllt, ist die vertretende Vertretungsbehörde gemäß Artikel 8 Absatz 4 Buchstabe d der Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex) ermächtigt, nach Prüfung des Antrags die Visumerteilung selbstständig zu verweigern. Bei der Verweigerung eines Visums kommt Artikel 32 Abs. 3 des Visakodex zur Anwendung.
+
+(2) Sind die Voraussetzungen für die Erteilung eines Visums gemäß dem Schengen-Besitzstand nach Prüfung der Einreisevoraussetzungen und Risikobewertung durch die zuständige Vertretungsbehörde erfüllt, entscheidet diese über den Visumantrag und stellt gemäß der vorgenommenen Prüfung ein Visum aus.
+
+### Artikel 5
+
+Zuständige Behörde für die Umsetzung des Abkommens ist:
+
+(1) In der Slowakischen Republik:
+
+Ministerium für auswärtige Angelegenheiten
+
+Konsularabteilung, (Abteilung für Reisedokumente und Visa)
+
+833 36 Bratislava;
+
+(2) In der Republik Österreich:
+
+Bundesministerium für europäische und internationale Angelegenheiten
+
+Abteilung IV.2 (Reise- und Grenzverkehr; Aufenthaltswesen)
+
+1014 Wien
+
+(3) Die Vertragsparteien teilen einander auf diplomatischem Wege die Kontaktdaten der in Absatz 1 und 2 genannten zuständigen Behörden mit.
+
+### Artikel 6
+
+(1) Diese Vereinbarung tritt am ersten Tag des Monats in Kraft, der auf den Monat folgt, in dem die Unterzeichnung stattfindet. Sie wird auf unbestimmte Dauer abgeschlossen.
+
+(2) Jede Vertragspartei kann diese Vereinbarung schriftlich kündigen. In diesem Fall tritt diese Vereinbarung 6 Monate nach der Zustellung der Benachrichtigung über die Kündigung an die zweite Vertragspartei außer Kraft.
+
+(3) Jede Vertragspartei kann diese Vereinbarung jederzeit suspendieren, die tritt am Tag der Zustellung der Benachrichtigung über die Suspendierung an die zweite Vertragspartei in Kraft.
+
+Geschehen in Bratislava am 6. Mai 2011, in zwei Urschriften, jede in deutscher und slowakischer Sprache, wobei beide Texte in gleicherweise authentisch sind.
+
+## ANHANG
+
+### Anl. 1
+
+Die Slowakische Republik wird bei der Erteilung von Sichtvermerken für den Flugverkehr (Visum A) und für den kurzfristigen Aufenthalt (Visum C) von der Republik Österreich an nachstehenden Vertretungsbehörden vertreten:
+
+<table>
+<tr>
+<td>Amman, Haschemitisches Königreich Jordanien</td>
+</tr>
+<tr>
+<td>Los Angeles, Vereinigte Staaten von Amerika (Antragsteller mit Aufenthalt in den Staaten Alaska, Arizona, Colorado, Hawaii, Idaho, Kalifornien, Montana, Nevada, Neu Mexiko, Oregon, Utah, Washington, Wyoming und die abhängigen amerikanischen Gebiete).</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>
+
+Änderungen bei den Dienstorten, an denen eine Vertretung stattfindet, erfolgen im Rahmen eines Notenwechsels zwischen den Vertragsparteien.
+
+## Ratifikationstext
+
+Die Vereinbarung tritt gemäß ihrem Art. 6 Abs. 1 mit 1. Juni 2011 in Kraft.

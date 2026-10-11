@@ -1,0 +1,313 @@
+---
+title: "Gründung des Europäischen Büros für Kommunikation (ECO)"
+identifier: "10012803"
+type: treaty
+ris_type: "Vertrag – Multilateral"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 73/1998"
+last_amended: 2018-10-02
+last_amendment: "BGBl. III Nr. 151/2018"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/iii/1998/73/P0/NOR40128155"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012803"
+retrieved: 2026-10-11
+documents: 24
+---
+
+# Gründung des Europäischen Büros für Kommunikation (ECO)
+
+ÜBEREINKOMMEN ZUR GRÜNDUNG DES EUROPÄISCHEN BÜROS FÜR KOMMUNIKATION (ECO)
+
+Den Haag, den 23. Juni 1993, geändert in Kopenhagen am 9. April 2002
+
+StF: BGBl. III Nr. 73/1998 (NR: GP XX RV 770 AB 964 S. 105. BR: AB 5621 S. 635.)
+
+**Unterzeichnungsdatum:** 23.06.1993
+
+**Vertragsparteien:** \*Belgien III 48/2011 Ä \*Bosnien-Herzegowina III 151/2018 \*Bulgarien III 110/1998, III 48/2011 Ä \*Dänemark III 110/1998, III 48/2011 Ä \*Deutschland III 110/1998, III 48/2011 Ä \*Estland III 48/2011 Ä \*Finnland III 110/1998, III 48/2011 Ä \*Frankreich III 110/1998, III 48/2011 Ä \*Griechenland III 110/1998, III 48/2011 Ä \*Heiliger Stuhl III 110/1998, III 48/2011 Ä \*Irland III 110/1998, III 48/2011 Ä \*Island III 110/1998, III 48/2011 Ä \*Italien III 110/1998, III 48/2011 Ä \*Kroatien III 110/1998, III 48/2011 Ä \*Lettland III 151/2018 \*Liechtenstein III 110/1998, III 48/2011 Ä \*Litauen III 151/2018 \*Luxemburg III 110/1998, III 48/2011 Ä \*Malta III 151/2018 \*Monaco III 110/1998, III 48/2011 Ä \*Montenegro III 48/2011 Ä, III 151/2018 \*Niederlande III 110/1998, III 48/2011 Ä \*Norwegen III 110/1998, III 48/2011 Ä \*Polen III 110/1998, III 48/2011 Ä \*Portugal III 110/1998, III 48/2011 Ä \*Rumänien III 110/1998, III 48/2011 Ä \*Schweden III 110/1998, III 48/2011 Ä \*Schweiz III 110/1998, III 48/2011 Ä \*Slowakei III 110/1998, III 48/2011 Ä \*Spanien III 110/1998, III 48/2011 Ä \*Tschechische R III 151/2018 \*Türkei III 48/2011 Ä \*Ungarn III 110/1998, III 48/2011 Ä \*Vereinigtes Königreich III 110/1998, III 48/2011 Ä \*Zypern III 110/1998, III 48/2011 Ä
+
+**Sprachen:** Deutsch, Englisch, Französisch
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. III Nr. 110/1998 (K – Geltungsbereich)  
+BGBl. III Nr. 48/2011 (Ä) idF BGBl. III Nr. 109/2013 (VFB), BGBl. III Nr. 151/2018 (NR: GP XXII RV 610 AB 756 S. 90. BR: AB 7203 S. 717.)  
+BGBl. III Nr. 151/2018  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+Der Abschluß des nachstehenden Staatsvertrages samt Anlagen wird genehmigt.
+
+Die Staaten, die Vertragsparteien dieses Übereinkommens sind, im Folgenden als „Vertragsparteien“ bezeichnet –
+
+entschlossen, eine ständige, nicht gewinnorientierte Einrichtung zu gründen, welche die Europäische Konferenz der Verwaltungen für Post und Telekommunikation, im Folgenden als „CEPT“ bezeichnet, bei ihren Aufgaben im Hinblick auf eine Stärkung der Beziehungen zwischen ihren Mitgliedern, die Förderung ihrer Zusammenarbeit und den Beitrag zur Schaffung eines dynamischen Marktes im Bereich der europäischen Post und elektronischen Kommunikation unterstützen soll,
+
+im Hinblick darauf, dass dieses Übereinkommen eine Änderung des Übereinkommens zur Gründung des Europaïschen Büros für Funkangelegenheiten darstellt und dass das durch dieses Übereinkommen eingerichtete Büro die bisherigen Verantwortungsbereiche und Aufgaben des Europäischen Büros für Funkangelegenheiten (ERO) und des Europäischen Büros für Telekommunikation (ETO) übernimmt –
+
+sind wie folgt übereingekommen:
+
+## Artikel 1 – Gründung des Europäischen Büros für Kommunikation
+
+(1) Hiermit wird ein Europäisches Büro für Kommunikation, im Folgenden als „ECO“ bezeichnet, gegründet.
+
+(2) Sitz des ECO ist Kopenhagen, Dänemark.
+
+## Artikel 2 – Zweck des ECO
+
+Das ECO ist ein Fachzentrum für Post und elektronische Kommunikation, das die Präsidentschaft und die Ausschüsse der CEPT unterstützt und berät.
+
+## Artikel 3 – Aufgaben des ECO
+
+(1) Das ECO hat folgende Hauptaufgaben:
+
+1\. als Fachzentrum zu dienen, das als zentrale Anlaufstelle die Problembereiche sowie neue Möglichkeiten auf dem Gebiet der Post und der elektronischen Kommunikation erkennt und die Präsidentschaft und die Ausschüsse der CEPT entsprechend berät;
+
+2\. langfristige Pläne zur künftigen Nutzung der knappen Ressourcen, die von der elektronischen Kommunikation in Anspruch genommen werden, auf europäischer Ebene auszuarbeiten;
+
+3\. gegebenenfalls Verbindung zu den nationalen Behörden zu halten;
+
+4\. Regulierungsfragen im Bereich der Post und der elektronischen Kommunikation zu untersuchen;
+
+5\. Konsultationen über bestimmte Themen durchzuführen;
+
+6\. Aufzeichnungen über wichtige Maßnahmen der Ausschüsse der CEPT sowie über die Durchführung einschlägiger Entscheidungen und Empfehlungen der CEPT zu führen;
+
+7\. den Ausschüssen der CEPT in regelmäßigen Abständen Bericht über den Stand der Angelegenheiten zu erstatten;
+
+8\. Verbindung zur Europäischen Union und zur Europäischen Freihandelsassoziation zu halten;
+
+9\. die Präsidentschaft der CEPT unter anderem bei der Fortschreibung der laufenden politischen Tagesordnung zu unterstützen;
+
+10\. die Ausschüsse der CEPT zu unterstützen und Studien für sie bereitzustellen, unter anderem zur Vorlage eines Vorschlags des Arbeitsprogramms für die CEPT auf der Grundlage der laufenden politischen Tagesordnung;
+
+11\. die Arbeits- und Projektgruppen der CEPT zu unterstützen, insbesondere bei der Vorbereitung besonderer Konsultationstagungen;
+
+12\. das Archiv der CEPT zu führen und gegebenenfalls Informationen der CEPT zu verbreiten.
+
+(2) Bei der Durchführung der oben genannten Aufgaben im Zusammenhang mit Konsultationssitzungen arbeitet das ECO Verfahren aus, die dazu bestimmt sind, Organisationen in Europa mit maßgeblichem Interesse an der Nutzung von Post und elektronischer Kommunikation – einschließlich Regierungsstellen, öffentlicher Betreiber, Hersteller, Nutzer, Betreiber privater Netze, Diensteanbieter, Forschungseinrichtungen und Normungsgremien oder Organisationen, die Gruppen solcher Rechtsträger vertreten – in die Lage zu versetzen, regelmäßig einschlägige Informationen zu beziehen und sich unter Berücksichtigung ihrer besonderen Interessen in angemessener Weise an diesen Konsultationssitzungen zu beteiligen; das ECO hält diese Verfahren auf dem neuesten Stand.
+
+(3) Zusätzlich zu den in Absatz 1 bezeichneten Aufgaben veranstaltet das ECO regelmäßige Sitzungen, die den in Absatz 2 bezeichneten Organisationen offenstehen und Gelegenheit zur Erörterung der Tätigkeiten und künftigen Arbeitsprogramme der Ausschüsse der CEPT und des ECO bieten.
+
+## Artikel 4 – Rechtsstellung und Vorrechte
+
+(1) Das ECO besitzt Rechtspersönlichkeit. Das ECO besitzt die zur Wahrnehmung seiner Aufgaben und zur Erreichung seiner Ziele erforderliche volle Rechtsfähigkeit und kann insbesondere
+
+1\. Verträge schließen,
+
+2\. bewegliches und unbewegliches Vermögen erwerben, mieten oder pachten, besitzen und veräußern,
+
+3\. Prozesspartei sein und
+
+4\. Übereinkünfte mit Staaten oder internationalen Organisationen schließen.
+
+(2) Der Direktor und das Personal des ECO genießen Vorrechte und Immunitäten in Dänemark, wie sie in einem Abkommen über den Sitz des ECO zwischen dem ECO und der Regierung von Dänemark bestimmt sind.
+
+(3) Andere Länder können zur Unterstützung der Tätigkeiten des ECO in diesen Ländern ähnliche Vorrechte und Immunitäten gewähren, insbesondere hinsichtlich der Immunität von der Gerichtsbarkeit in Bezug auf die vom Direktor und vom Personal des ECO in amtlicher Eigenschaft abgegebenen mündlichen und schriftlichen Äußerungen sowie auf alle vorgenommenen Handlungen.
+
+## Artikel 5 – Organe des ECO
+
+Das ECO besteht aus einem Rat und einem Direktor, der von Personal unterstützt wird.
+
+## Artikel 6 – Der Rat
+
+(1) Der Rat besteht aus Vertretern der Vertragsparteien.
+
+(2) Der Rat wählt seinen Vorsitzenden und Vizevorsitzenden, die jeweils Vertreter einer der Vertragsparteien sind. Die Mandatszeit beträgt drei Jahre und kann um einen Mandatszeitraum verlängert werden. Der Vorsitzende ist befugt, im Namen des Rates zu handeln.
+
+(3) Vertreter der Präsidentschaft und der Ausschüsse der CEPT, der Europäischen Kommission und des Sekretariats der Europäischen Freihandelsassoziation können mit Beobachterstatus im Rat mitwirken.
+
+## Artikel 7 – Aufgaben des Rates
+
+(1) Der Rat ist das höchste Entscheidungsgremium des ECO und wird insbesondere
+
+1\. die Politik des ECO in technischen und Verwaltungsangelegenheiten bestimmen,
+
+2\. das Arbeitsprogramm, den Haushalt und den Rechnungsabschluss genehmigen,
+
+3\. die Anzahl der Mitglieder des Personals und ihre Beschäftigungsbedingungen bestimmen,
+
+4\. den Direktor und das Personal ernennen,
+
+5\. Verträge und Vereinbarungen im Namen des ECO schließen,
+
+6\. Änderungen dieses Übereinkommens nach den Artikeln 15 und 20 beschließen und
+
+7\. alle zur Erfüllung der Zwecke des ECO im Rahmen dieses Übereinkommens erforderlichen Maßnahmen treffen.
+
+(2) Der Rat legt alle erforderlichen Vorschriften für die ordnungsgemäße Arbeit des ECO und seiner Organe fest.
+
+## Artikel 8 – Abstimmungsvorschriften
+
+(1) Beschlüsse des Rates werden soweit wie möglich durch Konsens gefasst. Kann ein Konsens nicht erreicht werden, so wird ein Beschluss mit der Mehrheit von zwei Dritteln der abgegebenen gewichteten Stimmen gefasst.
+
+(2) Die Gewichtung der einzelnen Stimmen des Rates erfolgt in Übereinstimmung mit Anlage A.
+
+(3) Vorschläge zur Änderung dieses Übereinkommens einschließlich der Anlagen werden nur geprüft, wenn sie von mindestens 25 v.H. der gesamten gewichteten Stimmen aller Vertragsparteien unterstützt werden.
+
+(4) Beschlüsse können vom Rat nur gefasst werden, wenn er zu dem Zeitpunkt, zu dem sie gefasst werden, beschlussfähig ist, das heißt
+
+1\. bei Beschlüssen betreffend Änderungen dieses Übereinkommens und seiner Anlagen, wenn mindestens zwei Drittel sämtlicher gewichteten Stimmen aller Vertragsparteien anwesend sind,
+
+2\. bei allen anderen Beschlüssen, wenn mindestens die Hälfte sämtlicher gewichteten Stimmen aller Vertragsparteien anwesend sind.
+
+(5) Beobachter im Rat können an den Erörterungen teilnehmen, sind jedoch nicht stimmberechtigt.
+
+## Artikel 9 – Direktor und Personal
+
+(1) Der Direktor handelt als Rechtsvertreter des ECO und ist innerhalb des vom Rat festgesetzten Rahmens befugt, Verträge im Namen des ECO zu schließen. Der Direktor kann diese Befugnis ganz oder teilweise auf den stellvertretenden Direktor delegieren.
+
+(2) Der Direktor ist für die ordnungsgemäße Durchführung aller Tätigkeiten des ECO im Innern und nach außen in Übereinstimmung mit diesem Übereinkommen, dem Sitzabkommen, dem Arbeitsprogramm, dem Haushalt und den vom Rat erteilten Richt- und Leitlinien verantwortlich.
+
+(3) Der Rat legt eine Personalordnung fest.
+
+## Artikel 10 – Arbeitsprogramm
+
+Der Rat stellt jedes Jahr auf der Grundlage von Vorschlägen der Versammlung und der Ausschüsse der CEPT ein Arbeitsprogramm für das ECO mit einer Laufzeit von drei Jahren auf. Für das erste Jahr ist dieses Programm so detailliert festzulegen, dass der Haushaltsplan des ECO für das Jahr aufgestellt werden kann.
+
+## Artikel 11 – Haushaltsplanung und Abrechnung
+
+(1) Das Rechnungsjahr des ECO beginnt am 1. Januar und endet am 31. Dezember des jeweiligen Jahres.
+
+(2) Der Direktor ist für die Aufstellung des jährlichen Haushaltsplans und des Jahresabschlusses für das ECO und deren Vorlage an den Rat zur Prüfung beziehungsweise Genehmigung verantwortlich.
+
+(3) Der Haushaltsplan wird unter Berücksichtigung der Erfordernisse des nach Artikel 10 festgelegten Arbeitsprogramms aufgestellt. Der Zeitplan für die Vorlage und Genehmigung des Haushaltsplans – vor Beginn des Jahres, auf das er sich bezieht – wird vom Rat festgelegt.
+
+(4) Der Rat arbeitet detaillierte Finanzvorschriften aus. Diese enthalten unter anderem Bestimmungen über den Zeitplan für die Vorlage und Genehmigung des Jahresabschlusses des ECO sowie Bestimmungen über die Rechnungsprüfung.
+
+## Artikel 12 – Finanzielle Beiträge
+
+(1) Der Kapitalaufwand und die laufenden Betriebskosten des ECO mit Ausnahme der mit den Sitzungen des Rates zusammenhängenden Kosten werden von den Vertragsparteien getragen, die sich die Kosten auf der Grundlage der Beitragseinheiten entsprechend der Tabelle in Anlage A, die Bestandteil dieses Übereinkommens ist, teilen.
+
+(2) Dies schließt nicht aus, dass das ECO nach Beschluss des Rates Arbeiten für Dritte, einschließlich der Präsidentschaft der CEPT, auf der Grundlage der Kostendeckung ausführt.
+
+(3) Die mit den Sitzungen des Rates zusammenhängenden Kosten werden von der einladenden Vertragspartei oder, falls es keine solche gibt, vom ECO getragen. Reisekosten und Tagegelder werden von den vertretenen Vertragsparteien getragen.
+
+## Artikel 13 – Vertragsparteien
+
+(1) Ein Staat wird Vertragspartei dieses Übereinkommens entweder nach dem Verfahren des Artikels 14 oder nach dem Verfahren des Artikels 15.
+
+(2) Wenn ein Staat Vertragspartei dieses Übereinkommens wird, findet die in Anlage A in der nach Artikel 15 geänderten Fassung aufgeführte Beitragseinheit Anwendung.
+
+## Artikel 14 – Unterzeichnung
+
+(1) Jeder Staat, dessen Verwaltung für Telekommunikation Mitglied der CEPT ist, kann Vertragspartei dieses Übereinkommens werden,
+
+1\. indem er es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnet oder
+
+2\. indem er es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterzeichnet und später ratifiziert, annimmt oder genehmigt.
+
+(2) Dieses Übereinkommen liegt vom 23. Juni 1993 bis zu seinem Inkrafttreten zur Unterzeichnung und danach zum Beitritt auf.
+
+## Artikel 15 – Beitritt
+
+(1) Dieses Übereinkommen steht jedem Staat, dessen Verwaltung Mitglied der CEPT ist, zum Beitritt offen.
+
+(2) Nach Konsultationen mit dem beitretenden Staat beschließt der Rat die erforderlichen Änderungen der Anlage A. Ungeachtet des Artikels 20 Absatz 2 tritt eine solche Änderung am ersten Tag des zweiten Monats nach dem Tag in Kraft, an dem die Regierung von Dänemark die Beitrittsurkunde dieses Staates erhalten hat.
+
+(3) Die Beitrittsurkunde muss die Zustimmung des beitretenden Staates zu den beschlossenen Änderungen der Anlage A zum Ausdruck bringen.
+
+## Artikel 16 – Inkrafttreten
+
+(1) Dieses Übereinkommen tritt am ersten Tag des zweiten Monats nach dem Tag in Kraft, an dem die Regierung von Dänemark eine ausreichende Zahl von Unterschriften und, falls erforderlich, Ratifikations-, Annahme- oder Genehmigungsurkunden von Vertragsparteien erhalten hat, so dass sichergestellt ist, dass mindestens 80 v.H. der maximal möglichen Zahl der in Anlage A aufgeführten Beitragseinheiten zugesagt sind.
+
+(2) Nach Inkrafttreten dieses Übereinkommens wird jede spätere Vertragspartei durch seine Bestimmungen einschließlich der in Kraft befindlichen Änderungen vom ersten Tag des zweiten Monats nach dem Tag, an dem die Regierung von Dänemark die Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde dieser Vertragspartei erhalten hat, an gebunden.
+
+## Artikel 17 – Kündigung
+
+(1) Nachdem dieses Übereinkommen zwei Jahre in Kraft gewesen ist, kann jede Vertragspartei es durch eine schriftliche Anzeige an die Regierung von Dänemark kündigen; diese notifiziert die Kündigung dem Rat, den Vertragsparteien, dem Direktor und dem Präsidenten der CEPT.
+
+(2) Die Kündigung wird mit Ablauf des nächsten vollen Rechnungsjahres im Sinne des Artikels 11 Absatz 1 nach dem Tag des Eingangs der Kündigungsanzeige bei der Regierung von Dänemark wirksam.
+
+## Artikel 18 – Rechte und Pflichten der Vertragsparteien
+
+(1) Dieses Übereinkommen lässt das souveräne Recht jeder Vertragspartei unberührt, ihre Angelegenheiten der Post und der elektronischen Kommunikation selbst zu regeln.
+
+(2) Jede Vertragspartei, die Mitgliedstaat der Europäischen Union ist, wird dieses Übereinkommen in Übereinstimmung mit ihren Verpflichtungen im Rahmen der einschlägigen Verträge anwenden.
+
+(3) Vorbehalte zu diesem Übereinkommen sind nicht zulässig.
+
+## Artikel 19 – Beilegung von Streitigkeiten
+
+Jede Streitigkeit über die Auslegung oder Anwendung dieses Übereinkommens und seiner Anlagen, die nicht durch die guten Dienste des Rates beigelegt werden kann, wird durch die betroffenen Parteien einem Schiedsverfahren gemäß Anlage B, die Bestandteil dieses Übereinkommens ist, unterworfen.
+
+## Artikel 20 – Änderungen
+
+(1) Der Rat kann Änderungen dieses Übereinkommens beschließen, die der schriftlichen Bestätigung durch alle Vertragsparteien bedürfen.
+
+(2) Die Änderungen treten für alle Vertragsparteien am ersten Tag des dritten Monats nach dem Tag in Kraft, an dem die Regierung von Dänemark den Vertragsparteien den Eingang von Ratifikations-, Annahme- oder Genehmigungsnotifikationen aller Vertragsparteien notifiziert hat.
+
+## Artikel 21 – Verwahrer
+
+(1) Die Urschrift dieses Übereinkommens mit späteren Änderungen sowie die Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunden werden im Archiv der Regierung von Dänemark hinterlegt.
+
+(2) Die Regierung von Dänemark übermittelt allen Staaten, die dieses Übereinkommen unterzeichnet haben oder ihm beigetreten sind, sowie dem Präsidenten der CEPT eine beglaubigte Abschrift dieses Übereinkommens und den Wortlaut jeder vom Rat beschlossenen Änderung. Abschriften werden ferner dem Direktor des ECO, dem Generalsekretär des Weltpostvereins, dem Generalsekretär der Internationalen Fernmeldeunion, dem Präsidenten der Europäischen Kommission und dem Generalsekretär der Europäischen Freihandelsassoziation zur Kenntnisnahme übermittelt.
+
+(3) Die Regierung von Dänemark notifiziert allen Staaten, die dieses Übereinkommen unterzeichnet haben oder ihm beigetreten sind, sowie dem Präsidenten der CEPT alle Unterzeichnungen, Ratifikationen, Annahmen, Genehmigungen und Kündigungen sowie das Inkrafttreten dieses Übereinkommens und jeder Änderung. Die Regierung von Dänemark notifiziert ferner allen Staaten, die dieses Übereinkommen unterzeichnet haben oder ihm beigetreten sind, sowie dem Präsidenten der CEPT das Wirksamwerden jedes Beitritts.
+
+ZU URKUND DESSEN, haben die Unterzeichneten, hierzu gehörig befugten Vertreter dieses Übereinkommen unterschrieben.
+
+GESCHEHEN zu Den Haag, am 23. Juni 1993, in einer Urschrift in deutscher, englischer und französischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist.
+
+## ANLAGE A – Beitragseinheiten, die als Grundlage für finanzielle Beiträge und gewichtete Abstimmungen verwendet werden
+
+| 25 Einheiten: | Frankreich | Spanien |
+|---|---|---|
+|  | Deutschland | Vereinigtes Königreich |
+|  | Italien |  |
+|  |  |  |
+| 15 Einheiten: | Schweiz | Niederlande |
+|  |  |  |
+| 10 Einheiten: | Österreich | Norwegen |
+|  | [Belgien] | Portugal |
+|  | Dänemark | [Russische Föderation] |
+|  | Finnland | Schweden |
+|  | Griechenland | Türkei |
+|  | Luxemburg |  |
+|  |  |  |
+| 5 Einheiten: | Irland |  |
+|  |  |  |
+| 1 Einheit: | [Albanien] | Lettland |
+|  | [Andorra] | Liechtenstein |
+|  | [Aserbaidschan] | Litauen |
+|  | [Belarus] | Malta |
+|  | Bosnien und Herzegowina | [Moldau] |
+|  | Bulgarien | Monaco |
+|  | Kroatien | Montenegro |
+|  | Zypern | Polen |
+|  | Tschechische Republik | Rumänien |
+|  | Estland | [San Marino] |
+|  | [Die ehemalige jugoslawische | [Serbien] |
+|  | Republik Mazedonien] | Slowakei |
+|  | [Georgien] | [Slowenien] |
+|  | Ungarn | [Ukraine] |
+|  | Island | Vatikanstadt |
+|  |  |  |
+
+Die Mitglieder der CEPT, die nicht Vertragsparteien dieses Übereinkommens sind, sind in eckigen Klammern aufgeführt. Sie wurden in die Kategorie der Beitragseinheiten eingestuft, die der Einheit im Rahmen der CEPT-Vereinbarung entspricht.
+
+## Schiedsverfahren
+
+(1) Zur Entscheidung jeder in Artikel 19 dieses Übereinkommens genannten Streitigkeit wird nach Maßgabe der Absätze 2 bis 7 ein Schiedsgericht gebildet.
+
+(2) Jede Vertragspartei dieses Übereinkommens kann sich jeder der beiden Streitparteien in dem Schiedsverfahren anschließen.
+
+(3) Das Schiedsgericht besteht aus drei Mitgliedern. Jede Streitpartei stellt innerhalb von zwei Monaten vom Eingang des Ersuchens einer Partei, die Streitigkeit einem Schiedsverfahren zu unterwerfen, einen Schiedsrichter. Die beiden ersten Schiedsrichter bestellen innerhalb von sechs Monaten nach der Bestellung des zweiten Schiedsrichters den dritten Schiedsrichter, der Obmann des Schiedsgerichts ist. Ist einer der beiden Schiedsrichter nicht innerhalb der vorgeschriebenen Frist bestellt worden, so wird er auf Ersuchen einer der beiden Parteien durch den Generalsekretär des Ständigen Schiedshofs bestellt. Dasselbe Verfahren findet Anwendung, wenn der Obmann des Schiedsgerichts nicht innerhalb der vorgeschriebenen Frist bestellt worden ist.
+
+(4) Das Schiedsgericht bestimmt seinen Sitz und gibt sich eine Verfahrensordnung.
+
+(5) Die Entscheidung des Schiedsgerichts ergeht im Einklang mit dem Völkerrecht und beruht auf diesem Übereinkommen und allgemeinen Rechtsgrundsätzen.
+
+(6) Jede Partei trägt die Kosten des Schiedsrichters, für dessen Bestellung sie verantwortlich ist, sowie die Kosten ihrer Vertretung vor dem Schiedsgericht. Die Kosten des Obmanns des Schiedsgerichts werden von den Streitparteien zu gleichen Teilen getragen.
+
+(7) Der Spruch des Schiedsgerichts ergeht mit der Mehrheit seiner Mitglieder; Stimmenthaltung ist nicht zulässig. Der Spruch ist endgültig und für alle Streitparteien bindend; er kann nicht angefochten werden. Die Parteien führen den Spruch unverzüglich aus. Im Fall einer Streitigkeit über seine Bedeutung oder Geltung legt ihn das Schiedsgericht aus, wenn eine Streitpartei dies verlangt.
+
+## Ratifikationstext
+
+Die vom Bundespräsidenten unterzeichnete und vom Bundeskanzler gegengezeichnete Beitrittsurkunde wurde am 6. März 1998 bei der Regierung von Dänemark hinterlegt; das Übereinkommen tritt gemäß seinem Art. 16 Abs. 2 für Österreich mit 1. Mai 1998 in Kraft.

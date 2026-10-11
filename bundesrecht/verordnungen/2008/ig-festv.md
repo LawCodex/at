@@ -1,0 +1,93 @@
+---
+title: "Informationen- und Gleichwertigkeitsfestlegungsverordnung"
+abbreviation: "IG-FestV"
+identifier: "20005822"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 168/2008"
+last_amended: 2011-09-01
+last_amendment: "BGBl. II Nr. 268/2011"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2008/168/P0/NOR30006469"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005822"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Informationen- und Gleichwertigkeitsfestlegungsverordnung (IG-FestV)
+
+Verordnung der Finanzmarktaufsichtsbehörde (FMA) zur Festlegung der angemessenen Informationen, sowie der Kriterien zur Beurteilung der Gleichwertigkeit von Aufsichtsbestimmungen und des Schutzniveaus der Anteilinhaber bei Veranlagungsvorschriften (Informationen- und Gleichwertigkeitsfestlegungsverordnung – IG-FestV)
+
+StF: BGBl. II Nr. 168/2008
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 268/2011  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 20 Abs. 9 Z 1 und 2 sowie des § 20 Abs. 3 Z 8c lit. b des Investmentfondsgesetzes – InvFG 1993, BGBl. Nr. 532, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 69/2008, wird verordnet:
+
+## § 1 – Angemessene Informationen
+
+§ 1. (1) Im Falle von Geldmarktinstrumenten gemäß § 70 Abs. 4 Z 2 und 4 InvFG 2011 sowie im Falle von Geldmarktinstrumenten, welche von einer regionalen oder lokalen Körperschaft eines Mitgliedstaates oder von einer internationalen öffentlich-rechtlichen Einrichtung begeben, aber weder von einem Mitgliedstaat noch, sofern dieser ein Bundesstaat ist, von einem Gliedstaat der Föderation garantiert werden, umfassen die in § 70 Abs. 4 InvFG 2011 angeführten „angemessene Informationen“
+
+1\. Informationen sowohl über die Emission und das Emissionsprogramm als auch über die rechtliche und finanzielle Situation des Emittenten vor der Emission des Geldmarktinstruments;
+
+2\. Aktualisierungen der unter Z 1 genannten Informationen in regelmäßigen, zumindest jährlichen Abständen und bei signifikanten Begebenheiten;
+
+3\. eine Prüfung der unter Z 1 genannten Informationen durch entsprechend qualifizierte und von Weisungen des Emittenten unabhängige Dritte, welche auf die Überprüfung von rechtlichen oder wirtschaftlichen Dokumentationen spezialisiert sind und berufliche Integrität aufweisen;
+
+4\. verfügbare und verlässliche Statistiken über die Emission und das Emissionsprogramm.
+
+(2) Im Falle von Geldmarktinstrumenten gemäß § 70 Abs. 4 Z 3 InvFG 2011 umfassen die in § 70 Abs. 4 InvFG 2011 angeführten „angemessenen Informationen“
+
+1\. Informationen über die Emission und das Emissionsprogramm oder über die rechtliche und finanzielle Situation des Emittenten vor der Emission des Geldmarktinstruments;
+
+2\. Aktualisierungen der unter Z 1 genannten Informationen in regelmäßigen Abständen und bei signifikanten Begebenheiten;
+
+3\. verfügbare und verlässliche Statistiken über die Emission und das Emissionsprogramm oder anderer Daten, die eine angemessene Bewertung der mit der Anlage in derartige Instrumente verbundenen Kreditrisiken ermöglichen.
+
+(3) Bei sämtlichen Geldmarktinstrumenten im Sinne von § 70 Abs. 4 Z 1 InvFG 2011 mit Ausnahme der in Abs. 1 genannten Instrumente und von der Europäischen Zentralbank oder einer Zentralbank eines Mitgliedstaats begebenen Instrumente umfassen die angemessenen Informationen im Sinne von § 70 Abs. 4 InvFG 2011 Informationen über die Emission und das Emissionsprogramm oder über die rechtliche und finanzielle Situation des Emittenten vor der Emission des Geldmarktinstruments.
+
+## § 2 – Gleichwertigkeit von Aufsichtsbestimmungen
+
+§ 2. Als Institute, die Aufsichtsbestimmungen unterliegen oder einhalten, die im Sinne des § 70 Abs. 4 Z 3 InvFG 2011 mindestens so streng sind wie die des Gemeinschaftsrechts, gelten Emittenten, die Aufsichtsbestimmungen unterliegen und einhalten und eines der nachstehenden Kriterien erfüllen:
+
+1\. Der Emittent hat seinen Sitz im Europäischen Wirtschaftsraum;
+
+2\. er unterhält seinen Sitz in einem zur Zehnergruppe gehörenden OECD-Land;
+
+3\. der Emittent verfügt mindestens über ein Investment-Grade-Rating;
+
+4\. mittels einer eingehenden Analyse des Emittenten kann nachgewiesen werden, dass die für ihn geltenden Aufsichtsbestimmungen mindestens so streng sind wie die des Gemeinschaftsrechts.
+
+## § 3 – Gleichwertigkeit des Schutzniveaus der Anteilinhaber
+
+§ 3. Die Gleichwertigkeit des Schutzniveaus der Anteilinhaber gemäß § 71 Abs. 2 Z 2 InvFG 2011 ist anhand folgender Kriterien zu beurteilen:
+
+1\. Regeln, die die Unabhängigkeit der Verwaltungsgesellschaft und die Verwaltung im ausschließlichen Interesse des Anteilinhabers sicherstellen,
+
+2\. die Existenz eines unabhängigen Verwahrers mit ähnlichen Aufgaben und ähnlicher Verantwortung im Hinblick auf Verwahrung und Überwachung; wenn eine unabhängige Verwahrung des Fondsvermögens nicht vom lokalen Recht gefordert wird, kann eine stabile Governance Struktur eine Alternative bieten,
+
+3\. Verfügbarkeit von Preisinformationen und Berichtspflichten,
+
+4\. Rücknahmemodalitäten und -häufigkeit,
+
+5\. Beschränkungen im Hinblick auf den Handel mit verbundenen Unternehmen,
+
+6\. der Umfang der Vermögenstrennung und
+
+7\. lokale Anforderungen im Hinblick auf Entlehnung, Verleihung und auf Leerverkäufe von Wertpapieren und Geldmarktinstrumenten des Fonds.
+
+## § 4 – Inkrafttreten
+
+§ 4. (1) Diese Verordnung tritt mit Ablauf des Tages ihrer Kundmachung in Kraft.
+
+(2) § 1 Abs. 1 bis 3, §§ 2 und 3 in der Fassung der Verordnung BGBl. II Nr. 268/2011 treten am 1. September 2011 in Kraft.

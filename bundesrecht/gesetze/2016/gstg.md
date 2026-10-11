@@ -1,0 +1,910 @@
+---
+title: "Gedenkstättengesetz"
+abbreviation: "GStG"
+identifier: "20009605"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 74/2016"
+last_amended: 2024-01-01
+last_amendment: "BGBl. I Nr. 152/2023"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/i/2016/74/P0/NOR40257297"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009605"
+retrieved: 2026-10-11
+documents: 42
+---
+
+# Gedenkstättengesetz (GStG)
+
+Bundesgesetz über die Errichtung der Bundesanstalt „KZ-Gedenkstätte Mauthausen/Mauthausen Memorial“ (Gedenkstättengesetz - GStG)
+
+StF: BGBl. I Nr. 74/2016 (NR: GP XXV RV 1150 AB 1228 S. 136. BR: 9612 AB 9619 S. 856.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 32/2018 (NR: GP XXVI RV 65 AB 97 S. 21. BR: 9947 AB 9956 S. 879.)  
+[CELEX-Nr.: 32016L0680]  
+BGBl. I Nr. 56/2018 (NR: GP XXVI RV 189 AB 207 S. 36. BR: 9998 AB 10020 S. 883.)  
+[CELEX-Nr. 32016L0801]  
+BGBl. I Nr. 152/2023 (NR: GP XXVII RV 2267 AB 2298 S. 239. BR: 11336 AB 11341 S. 960.)  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+<table>
+<tr>
+<td colspan="2">Inhaltsverzeichnis<br>1. Abschnitt<br>Errichtung der Bundesanstalt</td>
+</tr>
+<tr>
+<td>§ 1.</td>
+<td>Rechtsform, Name, Sitz</td>
+</tr>
+<tr>
+<td>§ 2.</td>
+<td>Zielbestimmung</td>
+</tr>
+<tr>
+<td colspan="2">2. Abschnitt<br>Aufgaben und Finanzierung der Bundesanstalt</td>
+</tr>
+<tr>
+<td>§ 3.</td>
+<td>Aufgaben der Bundesanstalt</td>
+</tr>
+<tr>
+<td>§ 4.</td>
+<td>Finanzierung der Bundesanstalt</td>
+</tr>
+<tr>
+<td>§ 4a.</td>
+<td>Neugestaltung der KZ-Gedenkstätte Gusen</td>
+</tr>
+<tr>
+<td>§ 5.</td>
+<td>Aufgabenwahrnehmung</td>
+</tr>
+<tr>
+<td>§ 6.</td>
+<td>Grundsätze der Aufgabenwahrnehmung</td>
+</tr>
+<tr>
+<td colspan="2">3. Abschnitt<br>Organisation</td>
+</tr>
+<tr>
+<td>§ 7.</td>
+<td>Organe</td>
+</tr>
+<tr>
+<td>§ 8.</td>
+<td>Kuratorium</td>
+</tr>
+<tr>
+<td>§ 9.</td>
+<td>Sitzungen des Kuratoriums</td>
+</tr>
+<tr>
+<td>§ 10.</td>
+<td>Verantwortung und Aufgaben des Kuratoriums</td>
+</tr>
+<tr>
+<td>§ 11.</td>
+<td>Beschlüsse des Kuratoriums</td>
+</tr>
+<tr>
+<td>§ 12.</td>
+<td>Bestellung, Abberufung und Rücktritt des Geschäftsführers sowie des Leitungspersonals</td>
+</tr>
+<tr>
+<td>§ 13.</td>
+<td>Aufgaben des Geschäftsführers</td>
+</tr>
+<tr>
+<td>§ 14.</td>
+<td>Arbeitsprogramm und Budget</td>
+</tr>
+<tr>
+<td>§ 15.</td>
+<td>Konstituierung der Beiräte</td>
+</tr>
+<tr>
+<td>§ 16.</td>
+<td>Aufgaben der Beiräte</td>
+</tr>
+<tr>
+<td>§ 17.</td>
+<td>Geschäftsordnungen und Sitzungen der Beiräte</td>
+</tr>
+<tr>
+<td colspan="2">4. Abschnitt<br>Staatliche Aufsicht</td>
+</tr>
+<tr>
+<td>§ 18.</td>
+<td>Zuständigkeit zur Aufsicht</td>
+</tr>
+<tr>
+<td>§ 19.</td>
+<td>Ausübung des Aufsichtsrechts</td>
+</tr>
+<tr>
+<td colspan="2">5. Abschnitt<br>Entgeltlichkeit und Überleitung von Rechten</td>
+</tr>
+<tr>
+<td>§ 20.</td>
+<td>Entgeltlichkeit der Leistungen</td>
+</tr>
+<tr>
+<td>§ 21.</td>
+<td>Vermögensübergang</td>
+</tr>
+<tr>
+<td>§ 22.</td>
+<td>Überlassung von Immobilien</td>
+</tr>
+<tr>
+<td colspan="2">6. Abschnitt<br>Bestimmungen über die Überleitung der Bediensteten</td>
+</tr>
+<tr>
+<td>§ 23.</td>
+<td>Beamte</td>
+</tr>
+<tr>
+<td>§ 24.</td>
+<td>Vertragsbedienstete</td>
+</tr>
+<tr>
+<td>§ 25.</td>
+<td>Lehrlinge</td>
+</tr>
+<tr>
+<td>§ 26.</td>
+<td>Forderungen des Bundes gegenüber Bediensteten</td>
+</tr>
+<tr>
+<td>§ 27.</td>
+<td>Anwendung des Bundes-Gleichbehandlungsgesetzes</td>
+</tr>
+<tr>
+<td>§ 28.</td>
+<td>Interessenvertretung der Arbeitnehmer der Bundesanstalt</td>
+</tr>
+<tr>
+<td colspan="2">7. Abschnitt<br>Sonstige Regelungen</td>
+</tr>
+<tr>
+<td>§ 29.</td>
+<td>Datenschutzrechtliche Bestimmungen</td>
+</tr>
+<tr>
+<td>§ 30.</td>
+<td>Abgabenbefreiung</td>
+</tr>
+<tr>
+<td>§ 31.</td>
+<td>Kollektivvertragsfähigkeit</td>
+</tr>
+<tr>
+<td>§ 32.</td>
+<td>Rechnungswesen- und IT-Dienstleistungen</td>
+</tr>
+<tr>
+<td colspan="2">8. Abschnitt<br>Übergangs- und Schlussbestimmungen</td>
+</tr>
+<tr>
+<td>§ 33.</td>
+<td>Vorbereitende Maßnahmen</td>
+</tr>
+<tr>
+<td>§ 34.</td>
+<td>Rechtsnachfolge</td>
+</tr>
+<tr>
+<td>§ 35.</td>
+<td>Verweisungen auf andere Rechtsvorschriften</td>
+</tr>
+<tr>
+<td>§ 36.</td>
+<td>Personenbezogene Bezeichnungen</td>
+</tr>
+<tr>
+<td>§ 37.</td>
+<td>Inkrafttreten</td>
+</tr>
+<tr>
+<td>§ 38.</td>
+<td>Vollziehung</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+## 1. Abschnitt
+
+### Errichtung der Bundesanstalt
+
+#### § 1 – Rechtsform, Name, Sitz
+
+§ 1. (1) Die Bundesanstalt „KZ-Gedenkstätte Mauthausen/Mauthausen Memorial“ (im Folgenden: KZ-Gedenkstätte Mauthausen) wird als Anstalt öffentlichen Rechts des Bundes (im Folgenden: Bundesanstalt) mit eigener Rechtspersönlichkeit errichtet. Sie ist berechtigt den Namen „KZ-Gedenkstätte Mauthausen/Mauthausen Memorial“ sowie das Bundeswappen zu führen.
+
+(2) Die Bundesanstalt verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne der Bundesabgabenordnung – BAO, BGBl. Nr. 194/1961, und ist nicht auf Gewinn ausgerichtet. Bei Auflösung der Bundesanstalt oder bei Wegfall des gemeinnützigen Zweckes fällt das verbleibende Vermögen an die Republik Österreich, die es im Sinne dieses Bundesgesetzes und dabei insbesondere für die Erhaltung und den Betrieb der KZ-Gedenkstätte Mauthausen zu verwenden hat.
+
+(3) Die Bundesanstalt hat ihren Sitz in Mauthausen mit einer Außenstelle in Wien. Durch Verordnung des Bundesministers für Inneres können weitere Außenstellen eingerichtet werden.
+
+(4) Die Bundesanstalt kann für sich Rechte und Pflichten begründen; für letztere trifft den Bund keine Haftung.
+
+(5) Die Bundesanstalt ist vom Geschäftsführer (§ 12) unverzüglich rückwirkend mit Stichtag des Inkrafttretens dieses Bundesgesetzes beim Handelsgericht Wien zur Eintragung in das Firmenbuch zu bringen. § 3 des Firmenbuchgesetzes – FBG, BGBl. Nr. 10/1991, ist anzuwenden. Darüber hinaus sind einzutragen:
+
+1\. Name und Zweck der Bundesanstalt;
+
+2\. Name und Geburtsdatum des Geschäftsführers und seines Stellvertreters;
+
+3\. Name und Geburtsdatum allenfalls bestellter Prokuristen sowie Beginn und Art ihrer Vertretungsbefugnis;
+
+4\. Name und Geburtsdatum der Mitglieder des Kuratoriums.
+
+(6) Das Geschäftsjahr der Bundesanstalt ist das Kalenderjahr.
+
+#### § 2 – Zielbestimmung
+
+§ 2. Die Bundesanstalt soll dazu beitragen, das Wissen über die nationalsozialistischen Massenverbrechen im ehemaligen Konzentrationslager Mauthausen (im Folgenden: KZ Mauthausen), im ehemaligen Konzentrationslager Gusen (im Folgenden: KZ Gusen) sowie in allen Außenlagern (**Anlage 1**) im öffentlichen Gedächtnis zu verankern und zu bewahren, die gesellschaftliche Reflexion über deren Ursachen und Folgen zu fördern, über Bezüge zu jeglicher Form von Rassismus, Antisemitismus, Antiziganismus, Homophobie, Fremdenfeindlichkeit oder Völkermord aufzuklären und diesen entgegenzutreten. In diesem Sinne hat sie die gemäß § 22 überlassenen Immobilien, die an die in den nationalsozialistischen Konzentrationslagern begangenen Verbrechen erinnern, zu betreiben. Die Bundesanstalt hat wissenschaftliche, pädagogische, kultur- und gedenkpolitische Aufgaben in gemeinnütziger Weise öffentlich wahrzunehmen. Aufgrund der internationalen und nationalen gesellschafts-, staats- und bildungspolitischen Bedeutung dieser historischen Orte verpflichtet sich der Bund zur nachhaltigen Sicherstellung der Aufgabenwahrnehmung durch dauerhafte Finanzierung.
+
+## 2. Abschnitt
+
+### Aufgaben und Finanzierung der Bundesanstalt
+
+#### § 3 – Aufgaben der Bundesanstalt
+
+§ 3. Die Bundesanstalt hat im Sinne der Zielbestimmung des § 2 und im öffentlichen Interesse insbesondere die folgenden Aufgaben zu erfüllen:
+
+1\. die Bewahrung und Förderung des Gedenkens an die Opfer des Nationalsozialismus im KZ Mauthausen, im KZ Gusen sowie in allen Außenlagern und Orten, an denen Verbrechen im Zusammenhang mit dem KZ Mauthausen und dem ehemaligen Konzentrationslager Dachau auf österreichischem Staatsgebiet verübt wurden, insbesondere die Unterstützung und Förderung von Gedenkveranstaltungen;
+
+2\. die Betreuung von Überlebenden, deren Angehörigen und der Besucher der Gedenkstätten;
+
+3\. die wissenschaftliche Erforschung und Dokumentation der Geschichte der KZ Mauthausen und Gusen und aller Außenlager sowie die Förderung dieser wissenschaftlichen Erforschung und Dokumentation;
+
+4\. die Sammlung, Bewahrung und öffentliche Zugänglichmachung der Zeugnisse dieser Geschichte;
+
+5\. die Vermittlung dieser Geschichte an eine möglichst große Öffentlichkeit und die Erarbeitung von Vermittlungsmodellen;
+
+6\. die Präventionsarbeit gegen nationalsozialistische Wiederbetätigung, jegliche Form von Rassismus, Antisemitismus, Antiziganismus, Homophobie, Fremdenfeindlichkeit und Demokratiefeindlichkeit;
+
+7\. die Konzeption und Durchführung von wissenschaftlichen und pädagogischen Fachtagungen und kulturellen Veranstaltungen;
+
+8\. die Förderung der Zusammenarbeit mit nationalen und internationalen Gedenkstätten, Museen, Forschungs- und Kultureinrichtungen, dem Comité International de Mauthausen, dem Mauthausen Komitee Österreich und sonstigen relevanten Institutionen sowie die Förderung der genannten Stellen;
+
+9\. die Verwaltung der überlassenen Immobilien;
+
+10\. die Neugestaltung der KZ-Gedenkstätte Gusen.
+
+#### § 4 – Finanzierung der Bundesanstalt
+
+§ 4. (1) Zur Deckung der Kosten der Bundesanstalt und ihrer Aufgaben gemäß § 3, einschließlich der notwendigen Personal- und Sachkosten sowie aller Aufwendungen, die zur Verwirklichung der Ziele und Aufgaben nach § 2 und § 3 nötig sind, leistet der Bundesminister für Inneres jährliche Zuwendungen an die Bundesanstalt auf Basis des Vorhabensberichts nach § 14 Abs. 2 und nach Maßgabe des jährlichen Bundesfinanzgesetzes. Die jährlich anzupassenden finanziellen Zuwendungen haben im jeweiligen Kalenderjahr in zwei Teilbeträgen vorschüssig bis zum 5. Jänner und 5. Juli zu erfolgen.
+
+(2) Sonstige Einnahmen zur Erfüllung der gesetzlichen Aufgaben können insbesondere sein:
+
+1\. zweckgebundene Zuschüsse der Gebietskörperschaften sowie andere Drittmittel und Förderungen für konkrete Vorhaben,
+
+2\. Entgelte für Leistungen der Bundesanstalt (dazu zählen insbesondere Einnahmen aus Vermittlungsprogrammen, Publikationen und Vorträgen im Aufgabenbereich der Bundesanstalt sowie Erlöse aus wissenschaftlichen oder wirtschaftlichen Tätigkeiten),
+
+3\. Lizenz- oder Leihgebühren,
+
+4\. Pacht- oder Mieteinnahmen sowie
+
+5\. auf Grund von Erbschaft, Schenkung oder Spenden lukrierte finanzielle Mittel.
+
+Mittel aus sonstigen Einnahmen können im Einvernehmen mit der Burghauptmannschaft Österreich und der Bundesimmobiliengesellschaft auch für die Erhaltung und Instandsetzung der überlassenen Immobilien verwendet werden.
+
+(3) Weist die Bundesanstalt nach, dass sie außerplanmäßige Mittel benötigt, die aus den in den vorstehenden Absätzen genannten Mitteln nicht bedeckt werden können, so kann der Bund einen zusätzlichen Beitrag leisten, soweit hierfür bundesfinanzgesetzlich vorgesorgt ist und die Bundesanstalt die ihr zu Gebote stehenden Optimierungspotentiale nach den Grundsätzen der Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit genützt hat.
+
+#### § 4a – Neugestaltung der KZ-Gedenkstätte Gusen
+
+§ 4a. (1) Die Restaurierung und Instandsetzung (Neugestaltung) der KZ-Gedenkstätte Gusen beinhaltet die Sanierung und Adaptierung bestehender Objekte, die Errichtung von Neubauten, die infrastrukturelle Erschließung und landschaftsplanerische Gestaltung der Außenareale der KZ-Gedenkstätte Gusen sowie die inhaltliche Kuratierung und Bereitstellung von Informations- und Bildungsangeboten. Hinsichtlich der Finanzierung ist § 4 Abs. 1 sinngemäß anzuwenden; die hierfür geleisteten Mittel sind in einem eigenen Verrechnungskreis zu verwalten.
+
+(2) Die Bundesanstalt schließt mit der Burghauptmannschaft Österreich eine Vereinbarung zur Umsetzung der Neugestaltung der KZ-Gedenkstätte Gusen ab, in der festgelegt wird, dass die Burghauptmannschaft Österreich sämtliche bauliche Dienstleistungen gegen Ersatz der Fremdkosten zu erbringen hat.
+
+#### § 5 – Aufgabenwahrnehmung
+
+§ 5. Die Bundesanstalt ist zu allen Geschäften berechtigt, die der Erfüllung ihrer Aufgaben dienen. Sie ist insbesondere berechtigt:
+
+1\. durch Rechtsgeschäfte Vermögen und Rechte zu erwerben,
+
+2\. die Durchführung von wissenschaftlichen Arbeiten gemäß § 6 Abs. 2 und 3 auf Grund einer Vereinbarung zu übernehmen,
+
+3\. Ausstellungen und sonstige Fachveranstaltungen auf der Grundlage vorausschauender Planung durchzuführen,
+
+4\. Druckwerke, Ton- und Bildträger und andere Gegenstände, die mit der Tätigkeit der Bundesanstalt in unmittelbarem Zusammenhang stehen, herzustellen oder zu verlegen und zu vertreiben; soweit Rechte des Bundes dadurch berührt sind, ist deren Verwertung für die vorangeführten Zwecke unentgeltlich zu gestatten,
+
+5\. die Mitgliedschaft zu Vereinen, anderen juristischen Personen und zwischenstaatlichen Organisationen zum Zweck der Förderung der Aufgaben der Bundesanstalt zu erwerben.
+
+#### § 6 – Grundsätze der Aufgabenwahrnehmung
+
+§ 6. (1) Bei der Wahrnehmung ihrer Aufgaben hat die Bundesanstalt Bedacht zu nehmen auf:
+
+1\. die Würde der verstorbenen Opfer, Überlebenden und ihrer Angehörigen,
+
+2\. den internationalen, vor allem den europäischen historischen Kontext,
+
+3\. international anerkannte wissenschaftliche und pädagogische Standards sowie aktuelle kulturelle und gesellschaftliche Entwicklungen,
+
+4\. den Schutz der Vertraulichkeit personenbezogener Daten unter besonderer Achtung der Sensibilität der Daten Betroffener,
+
+5\. die Transparenz ihrer Entscheidungen und
+
+6\. die Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit ihres Mitteleinsatzes.
+
+(2) Die Übernahme von wissenschaftlichen Arbeiten gemäß § 5 Z 2 hat auf Grundlage eines schriftlichen Vertrags zu erfolgen, der insbesondere den Ersatz der Kosten zu regeln hat. Die Vereinbarung eines darüber hinausgehenden Entgeltes ist zulässig.
+
+(3) Die für die Durchführung von wissenschaftlichen Arbeiten gemäß § 5 Z 2 sowie die für die Inanspruchnahme der Ressourcen der Bundesanstalt zu entrichtenden Kostenersätze sind zweckgebunden für die Nutzung von Personal, Infrastruktur und Dienstleistungen der Bundesanstalt zu verwenden.
+
+(4) Das der Bundesanstalt gemäß diesem Bundesgesetz überlassene oder von ihr erworbene bewegliche und unbewegliche Vermögen ist unter Beachtung der Grundsätze der Wirkungsorientierung zu bewahren.
+
+(5) Die Tätigkeit der Bundesanstalt unterliegt nicht den Bestimmungen der Gewerbeordnung 1994 – GewO 1994, BGBl. Nr. 194/1994.
+
+## 3. Abschnitt
+
+### Organisation
+
+#### § 7 – Organe
+
+§ 7. Organe der Bundesanstalt sind:
+
+1\. das Kuratorium;
+
+2\. der Geschäftsführer;
+
+3\. der wissenschaftliche Beirat und der Internationale Beirat Mauthausen (im Folgenden: Beiräte).
+
+#### § 8 – Kuratorium
+
+§ 8. (1) Die Mitglieder des Kuratoriums werden für die Funktionsperiode von fünf Jahren bestellt. Dem Kuratorium gehören fünfzehn Mitglieder an. Vier Mitglieder werden vom Bundesminister für Inneres bestellt. Für zwei Mitglieder kommt dem Bundesminister für Wissenschaft, Forschung und Wirtschaft, für je ein Mitglied kommt dem Bundeskanzler, dem Bundesminister für Finanzen, dem Bundesminister für Europa, Integration und Äußeres, dem Bundesminister für Bildung, der oberösterreichischen Landesregierung, dem Mauthausen Komitee Österreich, dem Comité International de Mauthausen, der Gewerkschaft Öffentlicher Dienst und dem Betriebsrat ein Entsendungsrecht zu. Die Vorsitzenden der Beiräte (§ 15) sind zur Teilnahme an den Sitzungen des Kuratoriums berechtigt, ein Stimmrecht kommt ihnen nicht zu.
+
+(2) Der Bundesminister für Inneres ernennt aus dem Kreis des Kuratoriums einen Vorsitzenden und dessen Stellvertreter. Die Funktionsperiode beginnt mit dem ersten Zusammentreten der Mitglieder des neubestellten Kuratoriums. Scheidet ein Mitglied vorzeitig aus, ist das Kuratorium durch Neubestellung für die Dauer der laufenden Funktionsperiode zu ergänzen. Nach Ablauf der Funktionsperiode hat das Kuratorium die Geschäfte solange weiterzuführen, bis das neubestellte Kuratorium zusammentritt. Eine Wiederbestellung zum Mitglied des Kuratoriums ist zulässig.
+
+(3) Die in Abs. 1 angeführten Mitglieder sind vor Ablauf der Funktionsperiode vom bestellenden oder entsendenden Organ von ihrer Funktion abzuberufen, wenn
+
+1\. das Mitglied dies beantragt,
+
+2\. das Mitglied sich der Vernachlässigung oder Verletzung seiner Pflichten schuldig macht oder
+
+3\. das Mitglied auf Dauer zu einer ordentlichen Funktionsausübung unfähig ist.
+
+(4) Der Geschäftsführer hat jede Neubestellung und Abberufung von Mitgliedern des Kuratoriums unverzüglich zur Eintragung in das Firmenbuch anzumelden.
+
+(5) Dem Vorsitzenden obliegt die Vertretung des Kuratoriums nach außen, sofern das Kuratorium nicht im Einzelfall anderes bestimmt.
+
+(6) Das Kuratorium gibt sich eine Geschäftsordnung, die dem Bundesminister für Inneres zur Kenntnis zu bringen ist.
+
+#### § 9 – Sitzungen des Kuratoriums
+
+§ 9. (1) Das Kuratorium tritt mindestens zweimal in jedem Kalenderjahr zusammen. Soweit es erforderlich ist, können darüber hinaus weitere Sitzungen abgehalten werden. Die Sitzungen des Kuratoriums werden vom Vorsitzenden des Kuratoriums auf geeignetem Weg unter Angabe der Zeit, des Ortes und der Tagesordnung einberufen. Der Geschäftsführer ist von der Einberufung einer Sitzung zu verständigen.
+
+(2) Mindestens drei Mitglieder des Kuratoriums können unter Angabe der Gründe verlangen, dass der Vorsitzende das Kuratorium unverzüglich einberuft. Die Sitzung muss binnen zwei Wochen nach der Einberufung stattfinden.
+
+(3) Der Geschäftsführer ist zur Teilnahme an den Sitzungen berechtigt. Er ist zur Teilnahme verpflichtet, wenn dies das Kuratorium verlangt. Den Sitzungen, die sich mit der Prüfung des Jahresabschlusses und des Lageberichts befassen, ist jedenfalls der Abschlussprüfer zuzuziehen.
+
+(4) Bei Angelegenheiten, die Förderungen der Bundesanstalt betreffen, dürfen Mitglieder des Kuratoriums, die zugleich Zugehörige des Fördergebers oder -nehmers sind und zugleich als Auftrags- oder Fördergeber oder Fördernehmer auftreten, nicht mitstimmen. Ebenso dürfen Mitglieder des Kuratoriums bei Beschlüssen, an denen sie selbst oder einer ihrer Angehörigen beteiligt ist, nicht mitstimmen.
+
+(5) Ein Mitglied des Kuratoriums kann ein anderes Mitglied schriftlich mit seiner Vertretung für eine einzelne Sitzung betrauen. Das vertretene Mitglied ist bei der Feststellung der Beschlussfähigkeit nicht mitzuzählen.
+
+(6) Die Tätigkeit der Mitglieder des Kuratoriums ist ehrenamtlich ohne Anspruch auf Aufwandsersatz.
+
+#### § 10 – Verantwortung und Aufgaben des Kuratoriums
+
+§ 10. (1) Dem Kuratorium obliegt die wirtschaftliche Aufsicht über die Geschäftsführung. Dabei haben die Mitglieder des Kuratoriums die Sorgfalt eines ordentlichen Geschäftsmannes anzuwenden.
+
+(2) Das Kuratorium kann vom Geschäftsführer jederzeit einen Bericht über Angelegenheiten der Bundesanstalt verlangen, der binnen angemessener Frist bereit zu stellen ist; gleiches gilt für den Vorsitzenden alleine.
+
+(3) Das Kuratorium kann die Bücher und Schriften der Bundesanstalt sowie Vermögensgegenstände, namentlich die Anstaltskasse, einsehen und prüfen. Es kann damit auch einzelne Mitglieder oder für bestimmte Aufgaben besondere Sachverständige beauftragen.
+
+(4) Das Kuratorium hat den Bundesminister für Inneres zu informieren, wenn auf Grund bestimmter Tatsachen Grund zur Annahme besteht, dass ein Beschluss oder eine Entscheidung des Geschäftsführers oder der Beiräte der Bundesanstalt im Widerspruch zu geltenden Bundesgesetzen oder Verordnungen einer Bundesbehörde oder zu den Verfahrensvorschriften dieses Gesetzes steht.
+
+(5) Im Rahmen der Aufsicht kommen dem Kuratorium folgende Aufgaben zu:
+
+1\. das Anhörungsrecht bei Bestellung des Geschäftsführers gemäß § 12 Abs. 1;
+
+2\. die Beantragung der Abberufung des Geschäftsführers gemäß § 12 Abs. 2;
+
+3\. die Genehmigung des langfristigen Gedenkstättenkonzepts gemäß § 14 Abs. 1;
+
+4\. die Genehmigung des Vorhabensberichts gemäß § 14 Abs. 2;
+
+5\. die Bestellung der Abschlussprüfer des Jahresabschlusses;
+
+6\. die Genehmigung des Lageberichtes der Bundesanstalt und Feststellung des Jahresabschlusses gemäß § 14 Abs. 3 und die Berichterstattung darüber an den Bundesminister für Inneres;
+
+7\. die Genehmigung der Kollektivverträge der Bundesanstalt;
+
+8\. die Information des Bundesministers für Inneres über die Geschäftsordnung gemäß § 8 Abs. 6;
+
+9\. die Entlastung der Geschäftsführung;
+
+10\. die Bestellung und Abberufung der Mitglieder des wissenschaftlichen Beirates;
+
+11\. Beschlüsse über Ersuchen gemäß § 15 Abs. 2 Z 2;
+
+12\. die Bestellung und Abberufung weiterer Mitglieder des Internationalen Beirats Mauthausen; sowie
+
+13\. die Genehmigung der Geschäftsordnung der Beiräte.
+
+(6) Der Vorsitzende ist dem Bundesminister für Inneres über die Beschlüsse des Kuratoriums zur Auskunftserteilung verpflichtet.
+
+#### § 11 – Beschlüsse des Kuratoriums
+
+§ 11. (1) Das Kuratorium ist beschlussfähig, wenn alle Mitglieder unter Bekanntgabe der Tagesordnung nachweislich spätestens zwei Wochen vor dem Sitzungstermin eingeladen worden sind, mindestens die Hälfte der Mitglieder anwesend und der Vorsitz repräsentiert ist.
+
+(2) Beschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst, wobei Stimmenthaltungen nicht zulässig sind. Der Vorhabensbericht gemäß § 14 Abs. 2 bedarf jedenfalls auch der Zustimmung der vom Bundesminister für Finanzen und vom Bundesminister für Inneres sowie, insoweit er allenfalls auch Auswirkungen auf eigentümerseitige Investitionen in die überlassenen Immobilien beinhaltet, auch der vom Bundesminister für Wissenschaft, Forschung und Wirtschaft bestellten Mitglieder. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden.
+
+#### § 12 – Bestellung, Abberufung und Rücktritt des Geschäftsführers sowie des Leitungspersonals
+
+§ 12. (1) Vom Bundesminister für Inneres ist nach Anhörung des Kuratoriums ein Geschäftsführer sowie je ein für den kaufmännischen und den pädagogischen Betrieb ihm verantwortlicher Leiter für die Dauer von bis zu fünf Jahren zu bestellen. Der Geschäftsführer führt die Funktionsbezeichnung Direktor. Die Wiederbestellung ist möglich.
+
+(2) Auf Bestellung, Abberufung und Rücktritt des Geschäftsführers sowie des kaufmännischen und des pädagogischen Leiters findet das Stellenbesetzungsgesetz, BGBl. I Nr. 26/1998, Anwendung. Die vorzeitige Abberufung des Geschäftsführers sowie des kaufmännischen und des pädagogischen Leiters durch den Bundesminister für Inneres ist möglich, wenn diese die mit ihrer Funktion verbundenen Pflichten grob verletzt oder dauernd vernachlässigt haben. Dies bedarf eines Antrags des Kuratoriums, für den eine Mehrheit von zwei Drittel der Stimmen erforderlich ist. Ist das Kuratorium säumig, kann der Bundesminister für Inneres bei Gefahr in Verzug die vorzeitige Abberufung vornehmen.
+
+(3) Wird ein Bediensteter des Bundes als Geschäftsführer oder kaufmännischer oder pädagogischer Leiter der Bundesanstalt bestellt, so ist er für die Dauer der Bestellung gegen Entfall der Bezüge beurlaubt.
+
+#### § 13 – Aufgaben des Geschäftsführers
+
+§ 13. (1) Dem Geschäftsführer obliegt die Leitung der Bundesanstalt. Er ist dabei verpflichtet, die Sorgfalt eines ordentlichen Geschäftsmannes anzuwenden.
+
+(2) Die Bundesanstalt wird in allen Angelegenheiten durch den Geschäftsführer vertreten. Der Geschäftsführer betraut einen der in § 12 Abs. 1 genannten Leiter mit seiner Stellvertretung, bestellt einen oder mehrere Prokuristen und hat eine Geschäftseinteilung festzulegen.
+
+(3) Der Geschäftsführer unterstützt das Kuratorium und die Beiräte und stellt diesen Organen der Bundesanstalt die für deren Aufgabenwahrnehmung erforderliche Infrastruktur zur Verfügung.
+
+(4) Der Geschäftsführer hat ein Planungs- und Berichterstattungssystem einzurichten, welches die Erfüllung der gesetzlichen Berichterstattungspflichten gemäß den Vorgaben des Bundesministers für Finanzen für die Einrichtung eines Beteiligungs- und Finanzcontrollings gewährleistet. Der Jahresabschluss ist dem Rechnungshof zu übermitteln.
+
+(5) Der Geschäftsführer hat dafür zu sorgen, dass ein Rechnungswesen und ein internes Kontrollsystem sowie ein Risikomanagement geführt werden, die den Anforderungen der Bundesanstalt entsprechen.
+
+#### § 14 – Arbeitsprogramm und Budget
+
+§ 14. (1) Der Geschäftsführer erstellt nach Anhörung der Fachbeiräte (§ 15 Abs. 1) ein langfristiges Gedenkstättenkonzept, das vom Kuratorium zu genehmigen ist. Das langfristige Gedenkstättenkonzept wird durch den Bundesminister für Inneres und, soweit es Darstellungen von und allenfalls auch Auswirkungen auf eigentümerseitige Investitionen in die überlassenen Immobilien beinhaltet, auch durch den Bundesminister für Wissenschaft, Forschung und Wirtschaft genehmigt.
+
+(2) Der Geschäftsführer hat jährlich für das folgende Jahr und darüber hinaus für mindestens drei darauffolgende Kalenderjahre einen Vorhabensbericht inklusive eines Finanz-, Kosten- und Personalplans zu erstellen. Der Vorhabensbericht ist unter Beachtung der Grundsätze der Wirkungsorientierung zu erstellen. Der Vorhabensbericht ist nach Genehmigung des Kuratoriums dem Bundesminister für Inneres und gegebenenfalls (Abs. 1) auch dem Bundesminister für Wissenschaft, Forschung und Wirtschaft bis spätestens sechs Wochen vor Beginn des nächsten Kalenderjahres zur Genehmigung vorzulegen. Sofern der Bundesminister für Inneres und allenfalls der Bundesminister für Wissenschaft, Forschung und Wirtschaft die Genehmigung des Berichts nicht innerhalb von sechs Wochen ab Vorlage verweigert, gilt der Vorhabensbericht als genehmigt.
+
+(3) Der Geschäftsführer hat dem Bundesminister für Inneres und dem Kuratorium jährlich bis spätestens 31. Mai einen Bericht über das abgelaufene Geschäftsjahr sowie dem Kuratorium einen mit dem Prüfbericht und Bestätigungsvermerk eines Wirtschaftsprüfers versehenen Jahresabschluss samt Lagebericht vorzulegen.
+
+(4) Der Jahresabschluss ist unter sinngemäßer Anwendung der §§ 189 bis 243 des Unternehmensgesetzbuch – UGB, dRGBl. S 219/1897, zu erstellen. Dafür ist die Bundesanstalt wie eine kleine Kapitalgesellschaft im Sinn des § 221 Abs. 1 UGB zu behandeln.
+
+#### § 15 – Konstituierung der Beiräte
+
+§ 15. (1) Zur fachlichen Unterstützung und Beratung des Geschäftsführers und des Kuratoriums werden
+
+1\. der wissenschaftliche Beirat und
+
+2\. der Internationale Beirat Mauthausen
+
+konstituiert. Beide Beiräte sind bei ihrer Tätigkeit unabhängig und weisungsfrei.
+
+(2) Der wissenschaftliche Beirat wird international und interdisziplinär zusammengesetzt, besteht aus fünf bis acht Mitgliedern und wird auf Vorschlag des Geschäftsführers vom Kuratorium bestellt.
+
+(3) Der Internationale Beirat Mauthausen setzt sich wie folgt zusammen:
+
+1\. aus einem Vertreter des Comité International de Mauthausen,
+
+2\. aus je einem Vertreter jener Staaten, deren Staatsangehörige Opfer der in den KZ Mauthausen und Gusen und allen Außenlagern verübten Verbrechen wurden, nach schriftlichem Ersuchen jener Staaten und Beschluss des Kuratoriums im Einvernehmen mit dem Geschäftsführer,
+
+3\. aus einem Vertreter des Mauthausen Komitee Österreichs,
+
+4\. aus je einem Vertreter der Gründungsinstitutionen des Mauthausen Komitee Österreichs: dem Österreichischen Gewerkschaftsbund, der Österreichischen Bischofskonferenz und der Israelitischen Religionsgesellschaft – Bundesverband der Israelitischen Kultusgemeinden in Österreich,
+
+5\. aus einem Vertreter des Bundes Sozialdemokratischer FreiheitskämpferInnen, Opfer des Faschismus und aktiver AntifaschistInnen,
+
+6\. aus einem Vertreter der ÖVP-Kameradschaft der politisch Verfolgten und Bekenner für Österreich,
+
+7\. aus einem Vertreter des KZ-Verbands/VdA, Bundesverband österreichischer AntifaschistInnen, WiderstandskämpferInnen und Opfer des Faschismus,
+
+8\. aus einem Vertreter der Österreichischen Lagergemeinschaft Mauthausen,
+
+9\. aus einem Vertreter des Kulturvereins der österreichischen Roma,
+
+10\. aus einem Vertreter der Homosexuellen Initiative Wien,
+
+11\. aus einem Vertreter von Jehovas Zeugen in Österreich,
+
+12\. aus einem Vertreter des evangelischen Oberkirchenrats A. und H.B.,
+
+13\. aus einem Vertreter der islamischen Glaubensgemeinschaft in Österreich,
+
+14\. aus einem Vertreter der orthodoxen Bischofskonferenz,
+
+15\. aus einem Vertreter des Zukunftsfonds der Republik Österreich,
+
+16\. aus einem Vertreter des Nationalfonds der Republik Österreich für Opfer des Nationalsozialismus,
+
+17\. aus einem Vertreter der Niederösterreichischen Landesregierung,
+
+18\. aus einem Vertreter der Wiener Stadtsenates,
+
+19\. aus einem Vertreter der Bewusstseinsregion Mauthausen,
+
+20\. aus einem Vertreter der Bundesarbeitskammer,
+
+21\. aus einem Vertreter der Wirtschaftskammer Österreich,
+
+22\. aus einem Vertreter der Vereinigung der Österreichischen Industrie (Industriellenvereinigung),
+
+23\. aus einem Vertreter der Präsidentenkonferenz der Landwirtschaftskammern,
+
+24\. aus einem Vertreter des Österreichischen Seniorenrates und
+
+25\. aus einem Vertreter der Bundes-Jugendvertretung.
+
+(4) Der Internationale Beirat Mauthausen kann durch das Kuratorium im Einvernehmen mit dem Geschäftsführer um weitere nationale und internationale Mitglieder ergänzt werden.
+
+(5) Die Funktionsperiode beider Beiräte beträgt fünf Jahre. Eine wiederholte Entsendung ist möglich. Die jeweils entsendende Stelle gemäß Abs. 3 nominiert einen Vertreter und Stellvertreter und hat bei der Entsendung auf eine geschlechterspezifische Ausgewogenheit zu achten. Hinsichtlich der Abberufung oder des Ausscheidens eines Mitglieds gilt § 8 Abs. 2 und 3 sinngemäß.
+
+(6) Zur Wahrnehmung des Vorsitzes wählt jeder Beirat aus seiner Mitte einen Vorsitzenden und einen Stellvertreter.
+
+(7) Der Geschäftsführer hat jene Stellen, die zur Entsendung von Mitgliedern berechtigt sind, hierzu unverzüglich einzuladen und für die Einberufung der konstituierenden Sitzungen zu sorgen.
+
+(8) Die Tätigkeit der Mitglieder des Internationalen Beirats Mauthausen ist ehrenamtlich ohne Anspruch auf Aufwandersatz. Die Erstattung der Aufenthalts- und Reisekosten für Mitglieder des wissenschaftlichen Beirats sind in der Geschäftsordnung der Bundesanstalt festzulegen.
+
+#### § 16 – Aufgaben der Beiräte
+
+§ 16. (1) Der wissenschaftliche Beirat erarbeitet Empfehlungen zum Aufgabenbereich der Bundesanstalt, begutachtet die von der Bundesanstalt erstellten Konzepte (Projekte, Publikationen, Ausstellungen, Vermittlungsprogramme) und berät die Bundesanstalt in wissenschaftlichen Belangen. Der Internationale Beirat Mauthausen berät die Bundesanstalt in grundsätzlichen Angelegenheiten der Bundesanstalt und gibt Empfehlungen. Beide Beiräte sind bei Erstellung des langfristigen Gedenkstättenkonzepts gemäß § 14 Abs. 1 anzuhören.
+
+(2) Das Kuratorium kann einen Beirat mit einer Fragestellung befassen. Diesfalls hat der Beirat in angemessener Frist eine schriftliche Stellungnahme abzugeben.
+
+(3) Jeder Beirat erstattet dem Geschäftsführer und dem Kuratorium jährlich bis spätestens 15. März einen Bericht über seine Tätigkeit im abgelaufenen Geschäftsjahr.
+
+#### § 17 – Geschäftsordnungen und Sitzungen der Beiräte
+
+§ 17. (1) Jeder Beirat legt nach seiner konstituierenden Sitzung seine Geschäftsordnung fest, die insbesondere die Einberufung, den Ablauf, die mögliche Teilnahme Dritter, die Beschlussfähigkeit und die Protokollierung von Sitzungen sowie die Willensbildung bei der Erstattung von Empfehlungen zu regeln hat.
+
+(2) Die Beiräte tagen zumindest einmal jährlich oder anlassbezogen.
+
+(3) Der Geschäftsführer kann an den Sitzungen der Beiräte mit beratender Stimme teilnehmen.
+
+## 4. Abschnitt
+
+### Staatliche Aufsicht
+
+#### § 18 – Zuständigkeit zur Aufsicht
+
+§ 18. (1) Die Bundesanstalt unterliegt der Aufsicht des Bundesministers für Inneres.
+
+(2) Die Aufsicht erstreckt sich auf
+
+1\. die Einhaltung der Gesetze und Verordnungen,
+
+2\. die Erfüllung der gesetzlichen Aufgaben der Bundesanstalt und
+
+3\. die Gebarung der Bundesanstalt.
+
+(3) Der Bundesminister für Inneres ist ermächtigt, Überprüfungen vorzunehmen und alle Unterlagen der Bundesanstalt einzusehen. Diese ist verpflichtet, alle zweckdienlichen Auskünfte zu erteilen, Geschäftsstücke und Unterlagen über die vom Bundesminister für Inneres bezeichneten Gegenstände vorzulegen, von diesem angeordnete Erhebungen anzustellen und Überprüfungen an Ort und Stelle vornehmen zu lassen.
+
+#### § 19 – Ausübung des Aufsichtsrechts
+
+§ 19. Der Bundesminister für Inneres hat Beschlüsse der Organe der Bundesanstalt aufzuheben oder die Durchführung von Entscheidungen von Organen der Bundesanstalt zu untersagen, wenn sie von einem unzuständigen Organ stammen oder in Widerspruch zu geltenden Bundesgesetzen und Verordnungen einer Bundesbehörde oder zu den Verfahrensvorschriften dieses Gesetzes stehen.
+
+## 5. Abschnitt
+
+### Entgeltlichkeit und Überleitung von Rechten
+
+#### § 20 – Entgeltlichkeit der Leistungen
+
+§ 20. (1) Sofern in diesem Bundesgesetz nicht anderes bestimmt ist, erbringt die Bundesanstalt zur Erfüllung ihrer gesetzlichen Aufgaben Leistungen gegen Entgelt, dessen Höhe von dem Geschäftsführer auf Grundlage einer transparenten Kostenrechnung nach den Prinzipien der Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit festzulegen ist. Gegenverrechnungen von Leistungen für Erhaltungsarbeiten an überlassenen Immobilien (§ 22) zwischen Bundesanstalt und Eigentümervertreter der überlassenen Immobilien sind von der Entgeltpflicht ausgenommen.
+
+(2) Der Geschäftsführer kann im Sinne des bildungs-, kultur- und gedenkpolitischen Auftrags von der Entgeltlichkeit absehen.
+
+#### § 21 – Vermögensübergang
+
+§ 21. (1) Das bisher im Eigentum des Bundes stehende und vom Bundesminister für Inneres verwaltete bewegliche Vermögen, das zur Wahrnehmung der Aufgaben erforderlich gewesen und von der KZ-Gedenkstätte Mauthausen überwiegend genutzt worden ist, geht einschließlich aller zugehörenden Rechte und Rechtsverhältnisse, Forderungen und Schulden mit dem Inkrafttreten dieses Bundesgesetzes im Wege der Gesamtrechtsnachfolge in das Eigentum der Bundesanstalt über.
+
+(2) Für das zu übertragende Vermögen sind die anlässlich der Eröffnungsbilanz des Bundes mit Inkrafttreten des Bundeshaushaltsgesetzes 2013 – BHG 2013, BGBl. I Nr. 139/2009 erstellten Wertansätze zu verwenden. Die für die Eröffnungsbilanz aktuellen Vermögenswerte ergeben sich aus dem Bundesrechnungsabschluss und sind für den Vermögensübergang gemäß Abs. 1 heranzuziehen. Die Eröffnungsbilanz der Bundesanstalt hat als Anlage eine zusammenfassende Darstellung der Aktiva und Passiva der Bundesanstalt zu enthalten, die nachvollziehbar und betriebsnotwendig diesem Bereich zuzuordnen ist und aus der die übergehenden Gläubiger- und Schuldnerpositionen erkennbar sind. Diese Anlage hat darüber hinaus alle nicht aus der Bilanz ersichtlichen Vermögenswerte, Rechtsverhältnisse und Belastungen zu enthalten, die zu dem übergegangenen Betrieb gehören.
+
+(3) Sammlungsobjekte werden an die Bundesanstalt übertragen und können von dieser nicht veräußert werden.
+
+#### § 22 – Überlassung von Immobilien
+
+§ 22. (1) Auf Dauer ihres Gedenkstättenbetriebs werden der Bundesanstalt die in der **Anlage 2** angeführten, im Eigentum des Bundes oder der Bundesimmobiliengesellschaft stehenden Immobilien zur unentgeltlichen Nutzung überlassen.
+
+(2) Hinsichtlich der Abgrenzung der Zuständigkeiten zur Verwaltung und Erhaltung der überlassenen Immobilien ist zwischen der Bundesanstalt und dem jeweiligen Eigentümer oder dessen Eigentümervertreter eine Vereinbarung abzuschließen.
+
+(3) Ein Verkauf oder die Belastung dieser Liegenschaften ist unzulässig. Dies gilt nicht für Arrondierungen und die Einräumung von Dienstbarkeiten an Dritte, soweit diese für die Aufgabenwahrnehmung durch die Bundesanstalt geboten ist.
+
+## 6. Abschnitt
+
+### Bestimmungen über die Überleitung der Bediensteten
+
+#### § 23 – Beamte
+
+§ 23. (1) Beamte des Bundes, die am Tage vor der Gesamtrechtsnachfolge (§ 21 Abs. 1) mit der Wahrnehmung eines Arbeitsplatzes im Bereich der KZ-Gedenkstätte Mauthausen beauftragt sind, sind ab dem Zeitpunkt der Gesamtrechtsnachfolge der Bundesanstalt zur dauernden Dienstleistung zugewiesen. Der Geschäftsführer ist mit den Personalangelegenheiten dieser Beamten betraut und ist in dieser Funktion an die Weisungen des Bundesministers für Inneres gebunden.
+
+(2) Beamte gemäß Abs. 1 haben, wenn sie innerhalb von fünf Jahren ab dem Zeitpunkt der Gesamtrechtsnachfolge ihren Austritt aus dem Bundesdienst erklären, mit Wirksamkeit von dem Austritt folgenden Monatsersten Anspruch auf Aufnahme in ein Arbeitsverhältnis zur Bundesanstalt zu den zu diesem Zeitpunkt für neu eintretende Arbeitnehmer geltenden Bestimmungen. Die beim Bund verbrachte Dienstzeit ist dabei für alle zeitabhängigen Ansprüche anzurechnen. Außerdem ist auf diese Arbeitnehmer § 24 Abs. 3 und Abs. 5 sinngemäß anzuwenden.
+
+(3) Für Beamte gemäß Abs. 1 gilt das ArbeitnehmerInnenschutzgesetz – AschG, BGBl. Nr. 450/1994.
+
+(4) Für Beamte gemäß Abs. 1 hat die Bundesanstalt dem Bund den gesamten Aktivitätsaufwand samt Nebenkosten zu ersetzen und einen Beitrag zur Deckung des Pensionsaufwandes zu leisten. Dieser Beitrag beträgt 31,8 vH des Aufwandes an Aktivbezügen. Als Aktivbezüge gelten alle Geldleistungen, von denen ein Pensionsbeitrag zu entrichten ist. Die von den Beamten einbehaltenen Pensionsbeiträge sind anzurechnen. Im Falle einer künftigen Änderung der Höhe des Pensionsbeitrages der Bundesbeamten gemäß § 22 des Gehaltsgesetzes 1956 – GehG, BGBl. Nr. 54/1956, ändert sich der Prozentsatz des Deckungsbeitrages im gleichen Verhältnis. Sind ab dem Zeitpunkt der Gesamtrechtsnachfolge von Versicherungsträgern Überweisungsbeiträge geleistet worden, sind diese in voller Höhe unverzüglich an den Bund zu überweisen. Die sonstigen Zahlungen der Bundesanstalt an den Bund sind jeweils am Zehnten des betreffenden Monats fällig.
+
+#### § 24 – Vertragsbedienstete
+
+§ 24. (1) Vertragsbedienstete des Bundes, die am Tage vor der Gesamtrechtsnachfolge (§ 21 Abs. 1) zur dauernden Dienstleistung auf einem Arbeitsplatz im Bereich der KZ-Gedenkstätte Mauthausen dienstzugewiesen sind, werden ab dem Zeitpunkt der Gesamtrechtsnachfolge Arbeitnehmer der Bundesanstalt. Die Bundesanstalt setzt die Rechte und Pflichten des Bundes gegenüber den vertraglich Bediensteten fort. Für diese gelten die Bestimmungen des Dienst- und Besoldungsrechts, insbesondere des Vertragsbedienstetengesetzes 1948 – VBG, BGBl. Nr. 86/1948, in der jeweils geltenden Fassung weiter.
+
+(2) Bedienstete gemäß Abs. 1 haben, wenn sie innerhalb von fünf Jahren nach dem Wirksamwerden des für die neu eintretenden Bediensteten geltenden Kollektivvertrages oder einer auf diesen gestützten Betriebs- oder Einzelvereinbarung ihre Bereitschaft zum Ausscheiden aus dem Dienstverhältnis nach den auf sie gemäß Abs. 1 weiter anzuwendenden Rechtsvorschriften erklären, Anspruch auf gleichzeitige Aufnahme in ein Arbeitsverhältnis zur Bundesanstalt nach den für Neueintretende geltenden Rechtsgrundlagen. Ein Anspruch auf Abfertigung besteht im Zusammenhang mit diesem Ausscheiden nicht. Die im vorangegangenen Dienstverhältnis verbrachte Dienstzeit ist in diesem Fall für alle zeitabhängigen Ansprüche anzurechnen.
+
+(3) Bedienstete gemäß Abs. 1 sind hinsichtlich der Nutzung von Dienst- oder Naturalwohnungen so zu behandeln, als ob sie Bundesbedienstete wären. Dadurch wird kein Bestandverhältnis an der Wohnung begründet und die Bestimmungen des § 80 des Beamten-Dienstrechtsgesetzes 1979 – BDG 1979, BGBl. Nr. 333/1979, und der §§ 24a bis 24c GehG finden weiterhin sinngemäß Anwendung. Die Rechte des Dienstgebers im Sinne des § 80 BDG 1979 nimmt der Bundesminister für Inneres wahr.
+
+(4) Wechseln die Vertragsbediensteten gemäß Abs. 1 vom Dienstverhältnis zur Bundesanstalt unmittelbar in ein Dienstverhältnis zum Bund, so sind sie so zu behandeln, als ob dieses Dienstverhältnis zur Bundesanstalt ein solches zum Bund gewesen wäre.
+
+(5) Anwartschaften auf Abfertigungen und Jubiläumszuwendungen von Bediensteten gemäß Abs. 1 werden von der Bundesanstalt übernommen.
+
+(6) Für die Befriedigung der bezugsrechtlichen Ansprüche der Bediensteten gemäß Abs. 1 hat der Bund wie ein Ausfallsbürge (§ 1356 des Allgemeinen Bürgerlichen Gesetzbuches – ABGB, JGS Nr. 946/1811) zu haften. Die Höhe der Haftung ist mit jenem Betrag begrenzt, der sich am Tag vor der Gesamtrechtsnachfolge aus der für die genannten Bediensteten maßgeblich gewesenen besoldungsrechtlichen Stellung unter Berücksichtigung ihrer Verwendung zu diesem Zeitpunkt zuzüglich der nach diesem Zeitpunkt zurückgelegten Dienstzeit und der vorgesehenen regelmäßigen Vorrückungen und der allgemeinen Gehaltserhöhungen des Bundes ergibt.
+
+#### § 25 – Lehrlinge
+
+§ 25. Für Lehrlinge, die am Tag vor der Gesamtrechtsnachfolge (§ 21 Abs. 1) zur dauernden Dienstleistung einem Ausbildungsplatz im Bereich der KZ-Gedenkstätte Mauthausen zugewiesen sind, kommt ab dem Zeitpunkt der Gesamtrechtsnachfolge § 24 sinngemäß zur Anwendung.
+
+#### § 26 – Forderungen des Bundes gegenüber Bediensteten
+
+§ 26. Forderungen des Bundes gegenüber Bediensteten, die nach den §§ 23 Abs. 2 und 24 Abs. 2 Arbeitnehmer der Bundesanstalt werden, gehen mit dem Entstehen des Dienstverhältnisses auf die Bundesanstalt über und sind von dieser dem Bund zu refundieren.
+
+#### § 27 – Anwendung des Bundes-Gleichbehandlungsgesetzes
+
+§ 27. Auf Arbeitnehmer der Bundesanstalt ist das Bundes-Gleichbehandlungsgesetz – B-GlBG, BGBl. Nr. 100/1993, mit Ausnahme des ersten Teils, 1. Hauptstück, 3. Abschnitt, des zweiten Teils, 1. Hauptstück und des dritten Teils sinngemäß anzuwenden.
+
+#### § 28 – Interessenvertretung der Arbeitnehmer der Bundesanstalt
+
+§ 28. (1) Dem für die KZ-Gedenkstätte Mauthausen zuständigen Dienststellenausschuss obliegt ab dem Inkrafttreten dieses Gesetzes auch die Funktion des Betriebsrates der Bundesanstalt im Sinne des ArbVG. Er hat für die Ausschreibung von Betriebsratswahlen so zeitgerecht Sorge zu tragen, dass der neu gewählte Betriebsrat spätestens ein Jahr ab dem Inkrafttreten dieses Gesetzes seine Tätigkeit aufnehmen kann. Eine Unterteilung in einen Arbeiter- und Angestelltenbetriebsrat findet nicht statt. Die der Bundesanstalt zugewiesenen Beamten gehören darüber hinaus weiterhin dem Wirkungsbereich des zuständigen Zentralausschusses beim Bundesministerium für Inneres an.
+
+(2) Sämtliche Arbeitsstätten der Bundesanstalt bilden einen einheitlichen Betrieb im Sinne des § 34 Arbeitsverfassungsgesetz – ArbVG, BGBl. Nr. 22/1974.
+
+## 7. Abschnitt
+
+### Sonstige Regelungen
+
+#### § 29 – Datenschutzrechtliche Bestimmungen
+
+§ 29. (1) Die Bundesanstalt übernimmt im Rahmen der Gesamtrechtsnachfolge (§ 21 Abs. 1) die Funktion als Verantwortliche gemäß Art. 4 Z 7 der Verordnung (EU) 2016/679 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung), ABl. Nr. L 119 vom 04.05.2016 S. 1, in der Fassung der Berichtigung ABl. Nr. L 74 vom 04.03.2021 S. 35, (im Folgenden: DSGVO) für die im Bereich der KZ-Gedenkstätte Mauthausen am Tage vor der Gesamtrechtsnachfolge verarbeiteten Daten.
+
+(2) Die Bundesanstalt ist ermächtigt, personenbezogene Daten zu verarbeiten soweit dies zur Erfüllung der ihr übertragenen Aufgaben (§ 3) erforderlich ist. Davon erfasst ist insbesondere auch das Recht, geeignete Personen und Einrichtungen zur Verarbeitung personenbezogener Daten aus historischen Quellen zu beauftragen.
+
+(3) Die Bundesanstalt ist zur Auskunftserteilung an Betroffene und zur Übermittlung personenbezogener Daten von Überlebenden (wie insbesondere Namen und Identitäten von ehemaligen Gefangenen des KZ Mauthausen und seiner Außenlager) oder anderer Personen mit Bezug zum KZ Mauthausen oder seiner Außenlager an Verwandte von Betroffenen, oder an Dritte für Zwecke wissenschaftlicher Untersuchungen befugt. In allen genannten Fällen ist die Identität in geeigneter Form nachzuweisen.
+
+(4) Protokolldaten über tatsächlich durchgeführte Verarbeitungsvorgänge, wie insbesondere Änderungen, Abfragen und Übermittlungen, sind drei Jahre lang aufzubewahren.
+
+#### § 30 – Abgabenbefreiung
+
+§ 30. Alle Vorgänge gemäß diesem Bundesgesetz im Zusammenhang mit der Erlangung der eigenen Rechtspersönlichkeit, der Vermögensübertragung und der Übertragung oder Einräumung von Rechten, Forderungen und Verbindlichkeiten vom Bund an die Bundesanstalt sind von allen bundesgesetzlich geregelten Gebühren, Steuern und Abgaben befreit.
+
+#### § 31 – Kollektivvertragsfähigkeit
+
+§ 31. (1) Die Bundesanstalt ist Arbeitgeberin ihres Personals. Auf Dienstverträge sind die für die Privatwirtschaft geltenden gesetzlichen Bestimmungen für Dienstverhältnisse, insbesondere das Angestelltengesetz, BGBl. Nr. 292/1921 anzuwenden.
+
+(2) Die Bundesanstalt ist als Arbeitgeberin für ihre Arbeitnehmer kollektivvertragsfähig.
+
+#### § 32 – Rechnungswesen- und IT-Dienstleistungen
+
+§ 32. Die Bundesanstalt kann in Bezug auf die Erbringung von Rechnungswesenleistungen und IT-Dienstleistungen die Buchhaltungsagentur des Bundes oder die Bundesrechenzentrum GmbH in Anspruch nehmen. Im Übrigen können für diese Leistungen auch Dienstleister des Bundes in Anspruch genommen werden.
+
+## 8. Abschnitt
+
+### Übergangs- und Schlussbestimmungen
+
+#### § 33 – Vorbereitende Maßnahmen
+
+§ 33. (1) Von dem der Kundmachung dieses Bundesgesetzes folgenden Tag an sind alle erforderlichen Maßnahmen zu setzen, die für die Ermöglichung einer zeitgerechten Aufgabenerfüllung durch die Bundesanstalt erforderlich sind. Die Bestellung des Geschäftsführers, des kaufmännischen und pädagogischen Leiters sowie der Mitglieder des Kuratoriums ist so vorzunehmen, dass der Geschäftsführer zum 1. Jänner 2017 ihre Tätigkeit aufnehmen kann.
+
+(2) Abweichend von § 14 Abs. 2 hat der Bundesminister für Inneres als haushaltsleitendes Organ den Finanz-, Kosten- und Personalplan für 2017 zu erstellen.
+
+(3) Der Geschäftsführer hat mit der Gewerkschaft Öffentlicher Dienst unverzüglich die notwendigen Verhandlungen zum Abschluss eines Kollektivvertrages für die ab 1. Jänner 2017 in ein Arbeitsverhältnis zur Bundesanstalt eintretenden Bediensteten zu führen.
+
+#### § 34 – Rechtsnachfolge
+
+§ 34. Soweit in den §§ 23 bis 25 nicht ausdrücklich anderes angeordnet ist, werden mit Inkrafttreten dieses Bundesgesetzes alle gesetzlichen und vertraglichen Verpflichtungen und Ansprüche des Bundesministers für Inneres im Rahmen des Betriebs der KZ-Gedenkstätte Mauthausen der Bundesanstalt übertragen. Finanzielle Ansprüche, die vor Inkrafttreten dieses Bundesgesetzes eingetreten sind, bleiben davon unberührt.
+
+#### § 35 – Verweisungen auf andere Rechtsvorschriften
+
+§ 35. Soweit in diesem Bundesgesetz auf andere Bundesgesetze verwiesen wird, bezieht sich dieser Verweis auf die jeweils geltende Fassung.
+
+#### § 36 – Personenbezogene Bezeichnungen
+
+§ 36. Bei den in diesem Bundesgesetz verwendeten personenbezogenen Bezeichnungen gilt die gewählte Form für alle Geschlechter in gleicher Weise.
+
+#### § 37 – Inkrafttreten
+
+§ 37. (1) Mit Ausnahme des § 33 tritt dieses Bundesgesetz mit 1. Jänner 2017 in Kraft.
+
+(2) Die für die Aufnahme der Tätigkeit der Bundesanstalt erforderlichen organisatorischen und personellen Maßnahmen können bereits mit Ablauf des Tages der Kundmachung dieses Bundesgesetzes getroffen werden (§ 33).
+
+(3) § 29 in der Fassung des Materien-Datenschutz-Anpassungsgesetzes 2018, BGBl. I Nr. 32/2018, tritt mit 25. Mai 2018 in Kraft.
+
+(4) § 14 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 56/2018 tritt mit Ablauf des Tages der Kundmachung in Kraft.
+
+(5) § 2, § 3 Z 2, 6, 9 und 10, § 4 Abs. 2, § 4a samt Überschrift und Eintrag im Inhaltsverzeichnis, § 10 Abs. 5 Z 7, § 15 Abs. 5, § 22 Abs. 1 bis 3, § 29 Abs. 1, § 36 sowie die Anlage 2 in der Fassung des Budgetbegleitgesetzes 2024, BGBl. I Nr. 152/2023, treten mit 1. Jänner 2024 in Kraft.
+
+#### § 38 – Vollziehung
+
+§ 38. Mit der Vollziehung dieses Bundesgesetzes sind betraut:
+
+1\. hinsichtlich § 8 Abs. 1 der Bundesminister für Inneres und der jeweils zuständige Bundesminister;
+
+2\. hinsichtlich §§ 11 Abs. 2 und 14 Abs. 1 und Abs. 2 der Bundesminister für Inneres, der Bundesminister für Finanzen und der Bundesminister für Wissenschaft, Forschung und Wirtschaft;
+
+3\. hinsichtlich § 22 der Bundesminister für Wissenschaft, Forschung und Wirtschaft und der Bundesminister für Inneres;
+
+4\. hinsichtlich § 30 der Bundesminister für Finanzen, soweit Gerichts- und Justizverwaltungsgebühren betroffen sind, der Bundesminister für Justiz; und
+
+5\. im Übrigen der Bundesminister für Inneres.
+
+#### Anlage 1
+
+Nach derzeitigem Forschungsstand befanden sich an folgenden Standorten Außenlager des KZ Mauthausen:
+
+Amstetten, Bachmanning, Bretstein, Dipoldsau, Ebensee, Eisenerz, Enns, Grein, Großraming, Gunskirchen, Gusen I, Gusen II, Gusen III, Hirtenberg, Klagenfurt, Leibnitz, Lenzing, Linz I, Linz II, Linz III, Loiblpaß (Nord), Loiblpaß (Süd), Melk, Passau I, Passau II, Peggau, Redl-Zipf, St. Aegyd, St. Lambrecht (Frauenlager), St. Lambrecht (Männerlager), St. Valentin, Schloss Lannach, Schloss Lind, Schloss Mittersill, Steyr, Ternberg, Vöcklabruck, Wels II, Wiener Neudorf, Wiener Neustadt, Wien-Floridsdorf, Wien-Hinterbrühl, Wien-Saurerwerke, Wien-Schönbrunn, Wien-Schwechat (Heidfeld), Wien-Schwechat („Santa“).
+
+#### Anl. 2
+
+<table>
+<tr>
+<td colspan="4">Anlage 2</td>
+</tr>
+<tr>
+<td><b>Objekt</b></td>
+<td><b>Grundstücks-</b><br><b>nummer (Stand 4. September 2023</b></td>
+<td><b>Katastralgemeinde</b><br><b>(Stand 4. September 2023)</b></td>
+<td><b>EZ (Stand 4. September 2023)</b></td>
+</tr>
+<tr>
+<td><b>KZ-Gedenkstätte Mauthausen</b></td>
+<td>822</td>
+<td>Mauthausen (KG 43107)</td>
+<td>558</td>
+</tr>
+<tr>
+<td></td>
+<td>823</td>
+<td>Mauthausen (KG 43107)</td>
+<td>558</td>
+</tr>
+<tr>
+<td></td>
+<td>827</td>
+<td>Mauthausen (KG 43107)</td>
+<td>558</td>
+</tr>
+<tr>
+<td></td>
+<td>1031</td>
+<td>Mauthausen (KG 43107)</td>
+<td>558</td>
+</tr>
+<tr>
+<td></td>
+<td>1049</td>
+<td>Mauthausen (KG 43107)</td>
+<td>558</td>
+</tr>
+<tr>
+<td></td>
+<td>1055</td>
+<td>Mauthausen (KG 43107)</td>
+<td>558</td>
+</tr>
+<tr>
+<td></td>
+<td>1111</td>
+<td>Mauthausen (KG 43107)</td>
+<td>558</td>
+</tr>
+<tr>
+<td></td>
+<td>1123</td>
+<td>Mauthausen (KG 43107)</td>
+<td>558</td>
+</tr>
+<tr>
+<td></td>
+<td>1142/4</td>
+<td>Marbach (KG 43106)</td>
+<td>558</td>
+</tr>
+<tr>
+<td></td>
+<td>844</td>
+<td>Mauthausen (KG 43107)</td>
+<td>578</td>
+</tr>
+<tr>
+<td></td>
+<td>967</td>
+<td>Mauthausen (KG 43107)</td>
+<td>578</td>
+</tr>
+<tr>
+<td></td>
+<td>1000</td>
+<td>Mauthausen (KG 43107)</td>
+<td>578</td>
+</tr>
+<tr>
+<td></td>
+<td>1006</td>
+<td>Mauthausen (KG 43107)</td>
+<td>578</td>
+</tr>
+<tr>
+<td></td>
+<td>1015</td>
+<td>Mauthausen (KG 43107)</td>
+<td>578</td>
+</tr>
+<tr>
+<td></td>
+<td>1017</td>
+<td>Mauthausen (KG 43107)</td>
+<td>598</td>
+</tr>
+<tr>
+<td><b>KZ-Gedenkstätte Gusen</b></td>
+<td>231/2</td>
+<td>St. Georgen an der Gusen (KG 43111)</td>
+<td>195</td>
+</tr>
+<tr>
+<td></td>
+<td>247/4</td>
+<td>St. Georgen an der Gusen (KG 43111)</td>
+<td>195</td>
+</tr>
+<tr>
+<td></td>
+<td>244/1</td>
+<td>St. Georgen an der Gusen (KG 43111)</td>
+<td>1173</td>
+</tr>
+<tr>
+<td></td>
+<td>1605/1</td>
+<td>Langenstein (KG 43104)</td>
+<td>356</td>
+</tr>
+<tr>
+<td></td>
+<td>1589/3</td>
+<td>Langenstein (KG 43104)</td>
+<td>356</td>
+</tr>
+<tr>
+<td></td>
+<td>1589/4</td>
+<td>Langenstein (KG 43104)</td>
+<td>356</td>
+</tr>
+<tr>
+<td></td>
+<td>1551/1</td>
+<td>Langenstein (KG 43104)</td>
+<td>526</td>
+</tr>
+<tr>
+<td></td>
+<td>1551/8</td>
+<td>Langenstein (KG 43104)</td>
+<td>526</td>
+</tr>
+<tr>
+<td><b>KZ-Gedenkstätte/Opferfriedhof Ebensee</b></td>
+<td>616/689</td>
+<td>Ebensee (KG 42003)</td>
+<td>879</td>
+</tr>
+<tr>
+<td><b>KZ-Gedenkstätte Melk</b></td>
+<td>617</td>
+<td>Melk (KG 14143)</td>
+<td>889</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>

@@ -1,0 +1,130 @@
+---
+title: "Hausbetreuungsgesetz"
+abbreviation: "HBeG"
+identifier: "20005362"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 33/2007"
+last_amended: 2008-04-10
+last_amendment: "BGBl. I Nr. 57/2008"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/i/2007/33/P0/NOR30005842"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005362"
+retrieved: 2026-10-11
+documents: 9
+---
+
+# Hausbetreuungsgesetz (HBeG)
+
+Bundesgesetz, mit dem Bestimmungen über die Betreuung von Personen in privaten Haushalten erlassen werden (Hausbetreuungsgesetz - HBeG) und mit dem die Gewerbeordnung 1994 geändert wird
+
+StF: BGBl. I Nr. 33/2007 (NR: GP XXIII RV 78 AB 117 S. 25. BR: AB 7693 S. 746.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. I Nr. 57/2008 (NR: GP XXIII RV 435 und Zu 435 AB 481 S. 53. BR: AB 7901 S. 754.)  
+[CELEX-Nr.: 32003L0109, 32004L0038, 32005L0036, 32006L0100]  
+
+</details>
+
+## Artikel 1
+
+### Hausbetreuungsgesetz – HBeG — 1. Abschnitt
+
+### Allgemeine Bestimmungen
+
+#### Art. 1 § 1 – Geltungsbereich
+
+§ 1. (1) Dieses Bundesgesetz gilt für die Betreuung von Personen in deren Privathaushalten, wobei die Betreuung im Rahmen einer selbständigen oder unselbständigen Erwerbstätigkeit erfolgen kann.
+
+(2) Die Bestimmungen des zweiten Abschnittes dieses Bundesgesetzes gelten nur für Arbeitsverhältnisse
+
+1\. zwischen einer Betreuungskraft, die das 18. Lebensjahr vollendet hat, und
+
+a) der zu betreuenden Person oder einem/einer ihrer Angehörigen, oder
+
+b) einem/einer gemeinnützigen Anbieter/in sozialer und gesundheitlicher Dienste präventiver, betreuender oder rehabilitativer Art und
+
+2\. wenn die zu betreuende Person
+
+a) Anspruch auf Pflegegeld ab der Pflegestufe 3 gemäß dem Bundespflegegeldgesetz (BPGG), BGBl. Nr. 110/1993, oder gemäß den Pflegegeldgesetzen der Bundesländer oder eine gleichartige Leistung im selben Ausmaß hat oder
+
+b) die zu betreuende Person Anspruch auf Pflegegeld der Pflegestufen 1 oder 2 gemäß dem BPGG oder gemäß den Pflegegeldgesetzen der Bundesländer oder eine gleichartige Leistung im selben Ausmaß hat und für diese Person wegen einer nachweislichen Demenzerkrankung dennoch ein ständiger Betreuungsbedarf besteht, und
+
+3\. wenn nach einer Arbeitsperiode von höchstens 14 Tagen eine ununterbrochene Freizeit von mindestens der gleichen Dauer gewährt wird, und
+
+4\. wenn die vereinbarte Arbeitszeit mindestens 48 Stunden pro Woche beträgt, und
+
+5\. wenn die Betreuungskraft für die Dauer der Arbeitsperiode in die Hausgemeinschaft der zu betreuenden Person aufgenommen wird.
+
+(3) Betreuung im Sinne dieses Bundesgesetzes umfasst
+
+1\. Tätigkeiten für die zu betreuende Person, die in der Hilfestellung insbesondere bei der Haushaltsführung und der Lebensführung bestehen, sowie
+
+2\. sonstige auf Grund der Betreuungsbedürftigkeit notwendige Anwesenheiten.
+
+(4) Zu den Tätigkeiten nach Abs. 3 Z 1 zählen auch die in § 3b Abs. 2 Z 1 bis 5 des Gesundheits- und Krankenpflegegesetzes (GuKG), BGBl. I Nr. 108/1997, genannten Tätigkeiten, solange keine Umstände vorliegen, die aus medizinischer Sicht für die Durchführung dieser Tätigkeiten durch Laien eine Anordnung durch einen Angehörigen des gehobenen Dienstes für Gesundheits- und Krankenpflege erforderlich machen.
+
+(5) Weiters gelten Tätigkeiten nach §§ 14 Abs. 2 Z 4 und 15 Abs. 7 Z 1 bis 5 GuKG und Tätigkeiten, die der Betreuungskraft nach § 50b Ärztegesetz 1998, BGBl. I Nr. 169, übertragen wurden, dann als Betreuung im Sinne dieses Bundesgesetzes, wenn sie von der Betreuungskraft an der betreuten Person nicht überwiegend erbracht werden.
+
+#### Art. 1 § 2 – Verweisungen
+
+§ 2. Soweit in diesem Bundesgesetz auf andere Bundesgesetze verwiesen wird, sind diese in der jeweils geltenden Fassung anzuwenden.
+
+## 2. Abschnitt
+
+### Arbeitsrechtliche Sonderbestimmungen
+
+#### Art. 1 § 3 – Arbeitsverhältnisse zu Privathaushalten
+
+§ 3. (1) Für Betreuungskräfte nach § 1 Abs. 2, die in einem Arbeitsverhältnis zu der zu betreuenden Person oder einem/einer ihrer Angehörigen stehen, ist das Hausgehilfen- und Hausangestelltengesetz (HGHAG), BGBl. Nr. 235/1962, mit Ausnahme der §§ 5 und 6 Abs. 1 bis 3 anzuwenden.
+
+(2) In zwei aufeinander folgenden Wochen darf die Arbeitszeit einschließlich der Zeiten von Arbeitsbereitschaft 128 Stunden nicht überschreiten. Allfällige über diese Höchstgrenze hinausgehende Zeiten der Arbeitsbereitschaft, die die Betreuungskraft vereinbarungsgemäß in ihrem Wohnraum oder in näherer häuslicher Umgebung verbringt und während der sie im Übrigen frei über ihre Zeit verfügen kann, gelten nicht als Arbeitszeit im Sinne dieses Bundesgesetzes.
+
+(3) Die tägliche Arbeitszeit ist durch Ruhepausen von insgesamt mindestens drei Stunden zu unterbrechen, die auch frei von Arbeitsbereitschaft nach Abs. 2 bleiben müssen. Davon sind mindestens zwei Ruhepausen von 30 Minuten ununterbrochen zu gewähren.
+
+(4) Darüber hinaus dürfen Arbeitnehmer/innen während jedes Zeitraumes von 24 Stunden insgesamt weitere zehn Stunden nicht in Anspruch genommen werden.
+
+(5) Übertretungen der Abs. 2 bis 4 sind nach § 23 HGHAG zu bestrafen.
+
+(6) Das Arbeitsverhältnis endet mit dem Tod der zu betreuenden Person auch dann, wenn ein/e Angehörige/r der zu betreuenden Person Arbeitgeber/in ist.
+
+#### Art. 1 § 4 – Arbeitsverhältnisse zu Trägerorganisationen
+
+§ 4. (1) Für Betreuungskräfte nach § 1 Abs. 2, die in einem Arbeitsverhältnis zu einem/r gemeinnützigen Anbieter/in sozialer und gesundheitlicher Dienste präventiver, betreuender oder rehabilitativer Art stehen, gilt an Stelle des Arbeitszeitgesetzes (AZG), BGBl. Nr. 461/1969, und des Arbeitsruhegesetzes, BGBl. Nr. 144/1983, § 3 Abs. 2 bis 4 dieses Bundesgesetzes.
+
+(2) Abweichend von Abs. 1
+
+1\. sind § 19c, § 19d und § 26 AZG anzuwenden,
+
+2\. sind Übertretungen des § 3 Abs. 2 bis 4 nach § 28 Abs. 2 AZG zu bestrafen.
+
+## 3. Abschnitt
+
+### Qualitätssicherung in der Betreuung
+
+#### Art. 1 § 5 – Handlungsleitlinien
+
+§ 5. (1) Die selbständig tätige Betreuungskraft ist verpflichtet, entsprechend der getroffenen Vereinbarung über Handlungsleitlinien für den Alltag und Notfall (§ 160 Abs. 2 Z 1 der Gewerbeordnung 1994, BGBl. Nr. 194) vorzugehen.
+
+(2) Die in einem Arbeitsverhältnis tätige Betreuungskraft ist gegenüber dem/der Arbeitgeber/in verpflichtet, die ihr vorgegebenen Handlungsleitlinien für den Alltag und den Notfall, insbesondere über die Verständigung bzw. Beiziehung von Angehörigen, Ärzten oder Einrichtungen, die mobile Dienste anbieten, bei erkennbarer Verschlechterung des Zustandsbildes, einzuhalten.
+
+#### Art. 1 § 6 – Zusammenarbeit
+
+§ 6. Die Betreuungskraft ist verpflichtet, mit anderen in die Pflege und Betreuung involvierten Personen und Einrichtungen zum Wohle der zu betreuenden Person zusammenzuarbeiten. Für eine in einem Arbeitsverhältnis tätige Betreuungskraft ist diese Verpflichtung eine aus dem Arbeitsverhältnis.
+
+#### Art. 1 § 7 – Verschwiegenheit
+
+§ 7. Die Betreuungskraft ist zur Verschwiegenheit über alle ihr in Ausübung ihrer Tätigkeit bekannt gewordenen oder anvertrauten Angelegenheiten verpflichtet, soweit sie nicht davon befreit wurde oder sich nicht eine Auskunftsverpflichtung aus gesetzlichen Bestimmungen ergibt. Für eine in einem Arbeitsverhältnis tätige Betreuungskraft ist diese Verschwiegenheitsverpflichtung eine aus dem Arbeitsverhältnis.
+
+## 4. Abschnitt
+
+#### Art. 1 § 8 – In-Kraft-Treten und Vollziehung
+
+§ 8. (1) Dieses Bundesgesetz tritt mit 1. Juli 2007 in Kraft. Auf Arbeitsverhältnisse, deren vertraglich vereinbarter Beginn vor dem 1. Juli 2007 liegt, ist dieses Bundesgesetz nur dann anzuwenden, wenn dies schriftlich vereinbart wird.
+
+(2) Mit der Vollziehung dieses Bundesgesetzes ist der/die Bundesminister/in für Wirtschaft und Arbeit betraut.

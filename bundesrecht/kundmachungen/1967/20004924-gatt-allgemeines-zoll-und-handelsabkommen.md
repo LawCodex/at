@@ -1,0 +1,41 @@
+---
+title: "GATT - Allgemeines Zoll- und Handelsabkommen"
+identifier: "20004924"
+type: notice
+ris_type: "K (Geltungsbereich)"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 85/1967"
+date: 1967-02-16
+last_amended: 1967-03-15
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1967/85/P0/NOR30005384"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004924"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# GATT - Allgemeines Zoll- und Handelsabkommen
+
+Kundmachung des Bundeskanzleramtes vom 16. Feber 1967, betreffend den Anwendungsbereich des Allgemeinen Zoll- und Handelsabkommens (GATT)
+
+StF: BGBl. Nr. 85/1967
+
+## Präambel/Promulgationsklausel
+
+Das Allgemeine Zoll- und Handelsabkommen (BGBl. Nr. 254/1951, in der geltenden Fassung) wird von Österreich hinsichtlich nachstehender Staaten beziehungsweise Gebiete angewendet:
+
+## Art. 1
+
+Algerien \*1), Argentinien \*2), Australien, Belgien, Botswana \*1), Brasilien, Bundesrepublik Deutschland, Burma, Burundi, Ceylon, Chile, Cypern, Dahomey, Dänemark (einschließlich der Färöerinseln), Dominikanische Republik, Elfenbeinküste, Finnland, Frankreich (einschließlich des Fürstentums Monaco; weiters Französisch-Guayana, Französisch-Ozeanien, Französisch-Somaliland, Guadeloupe, Komoren, Martinique, Neu-Kaledonien, Reunion, St. Pierre und Miquelon, Südliche und Antarktische Territorien, umfassend die Kerguekn- und Crozet-Inseln, St. Paul und Neu-Amsterdam, Terre Adelie; ferner die Inseln Tromelin, Glorieuses, Juan de Nova, Europa und Bassas de India), Gabon, Gambia, Ghana, Griechenland, Guayana, Haiti, Indien, Indonesien, Island \*3), Israel, Italien, Jamaika, Jugoslawien, Kamerun, Kanada, Kenia, Kongo (Brazzaville), Kongo (Demokratische Republik) \*1), Kuba, Kuwait, Lesotho \*1), Luxemburg, Madagaskar, Malawi, Malaysia, Malediven \*1), Mali \*1), Malta, Mauretanien, Neuseeland (einschließlich der Cook-Inseln, umfassend auch Niue), Niederlande (einschließlich der Niederländischen Antillen und Surinam), Nicaragua, Niger, Nigeria, Norwegen, Obervolta, Pakistan, Peru, Portugal (einschließlich Madeira und Azoren; weiters Angola, Cabinda, Kapverdische Inseln, Macao, Mozambique, Portugiesisch-Guinea, Sao Tomé und Principe sowie Portugiesischer Teil von Timor), Rhodesien, Rwanda, Sambia \*1), Schweden, Schweiz (einschließlich Liechtenstein), Senegal, Sierra Leone, Singapur \*1), Spanien (einschließlich der Balearen; weiters Kanarische Inseln, Ceuta und Melilla, Ifni und Spanisch-Sahara, Fernando Poo und Rio Muni), Südafrika (einschließlich Südwestafrika und der Prinz-Eduard-Inseln), Tansania, Togo, Trinidad und Tobago, Tschad, Tschechoslowakei, Tunesien \*4), Türkei, Uganda, Uruguay, Vereinigtes Königreich von Großbritannien und Nordirland (einschließlich der Insel Man und der Kanal-Inseln; weiters Aden und die Südarabischen Protektorate, Antarktisches Territorium, Antigua, Bahamas, Bahrein, Barbados, Bermuda, Britisch-Honduras, Britische Jungfern-Inseln, Brunei, Cayman-Inseln, Dominica, Falkland- Inseln, Fidschi, Gibraltar, Grenada, Hongkong, Katar, Mauritius, Montserrat, St. Kitts, Nevis und Anguilla, St. Helena, St. Lucia, St. Vincent, Seychellen, Swaziland, Tonga, „Trucial States", umfassend Abu Dhabi, Dubai, Sharjah, Ajman, Ras Al Khaimah, Umm Al Qaiwan und Fujairah, Turks- und Caicos-Inseln, West-Pazifische Gebiete einschließlich der Salomon-, Gilbert- und Ellice-Inseln), Vereinigte Staaten von Amerika (einschließlich Guam, Amerikanische Jungfern-Inseln, Kanalzone, Kingman-Riff, Midway-Inseln, Puerto Rico, Amerikanisch-Samoa, Pazifische Treuhandgebiete, umfassend die Karolinen, Marianen und Marshall-Inseln, Wake-Insel), Zentralafrikanische Republik.
+
+`________________________________________________________________`
+
+\*1) De facto-Mitglied im Sinne der Empfehlung der Vertragsparteien des GATT vom 18. November 1960.
+
+\*2) Provisorisches Mitglied; siehe BGBl. Nr. 300/1962, 57/1964, 122/1965.
+
+\*3) Provisorisches Mitglied; siehe BGBl. Nr. 42/1965, 247/1966. \*4)Provisorisches Mitglied; siehe BGBl. Nr. 233/1960, 231/1962,
+
+41/1965, 248/1966.

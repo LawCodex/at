@@ -1,0 +1,41 @@
+---
+title: "Geschäftsbezeichnung und Ausübungsvorschriften Drogistengewerbe"
+identifier: "10006687"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 177/1981"
+date: 1981-03-25
+last_amended: 1981-09-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1981/177/P0/NOR11006800"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006687"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# Geschäftsbezeichnung und Ausübungsvorschriften Drogistengewerbe
+
+Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 25. März 1981 über die äußere Geschäftsbezeichnung und über Ausübungsvorschriften für das Drogistengewerbe
+
+StF: BGBl. Nr. 177/1981
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 67 und des § 69 Abs. 1 der Gewerbeordnung 1973, BGBl. Nr. 50/1974, wird verordnet:
+
+## § 1
+
+§ 1. (1) Gewerbetreibende, die zur Ausübung einer Konzession für das Drogistengewerbe (§ 223 GewO 1973) berechtigt sind, dürfen bei der Ausübung dieses Gewerbes die Worte „Drogerie“, „Drogist“, „Drogenhandlung“ oder ähnliche Worte nur dann in der äußeren Geschäftsbezeichnung verwenden, wenn sie in der der Ausübung des Drogistengewerbes dienenden Betriebsstätte die im § 223 Abs. 1 GewO 1973 genannten Waren (Gifte, zur diagnostischen Verwendung ohne Berührung mit dem menschlichen Körper bestimmte Präparate, sterilisierte Verbandmaterialien, zur arzneilichen Verwendung bestimmte Stoffe und Präparate, sofern deren Abgabe an Letztverbraucher auch außerhalb von Apotheken durch bundesrechtliche Vorschriften gestattet ist) feilhalten.
+
+(2) Gewerbetreibende, die zur Ausübung einer Konzession für das Drogistengewerbe berechtigt sind und nicht die im Abs. 1 angeführten Waren feilhalten, haben als Hinweis auf den Gegenstand des Gewerbes in der äußeren Geschäftsbezeichnung Worte zu verwenden, die der tatsächlichen Gewerbeausübung im Rahmen des § 223 Abs. 2 und 3 GewO 1973 entsprechen.
+
+## § 2
+
+§ 2. Die Abgabe der gemäß § 1 Abs. 1 feilzuhaltenden Waren im Wege der Selbstbedienung durch Kunden ist verboten. Diese Waren sind derart zu verwahren, daß eine Abgabe dieser Waren ausschließlich im Rahmen eines Verkaufsgespräches mit einer Person, die die persönliche und fachliche Eignung im Sinne des § 225 GewO 1973 besitzt, erfolgen kann.
+
+## § 3
+
+§ 3. Diese Verordnung tritt mit 1. September 1981 in Kraft.

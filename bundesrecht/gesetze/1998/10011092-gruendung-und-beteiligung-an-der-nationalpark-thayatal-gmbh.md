@@ -1,0 +1,58 @@
+---
+title: "Gründung und Beteiligung an der Nationalpark Thayatal GmbH"
+identifier: "10011092"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 57/1998"
+last_amended: 1998-01-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/i/1998/57/P0/NOR11011325"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011092"
+retrieved: 2026-10-11
+documents: 6
+---
+
+# Gründung und Beteiligung an der Nationalpark Thayatal GmbH
+
+Bundesgesetz über die Gründung und Beteiligung an der Nationalpark Thayatal GmbH
+
+StF: BGBl. I Nr. 57/1998 (NR: GP XX RV 904 AB 1074 S. 109. BR: AB 5645 S. 637.)
+
+## § 1
+
+§ 1. (1) Der Bundesminister für Umwelt, Jugend und Familie wird ermächtigt, im Einvernehmen mit dem Bundesminister für Finanzen, unter der Beteiligung des Landes Niederösterreich, eine gemeinnützige Gesellschaft mit beschränkter Haftung mit dem Firmennamen „Nationalpark Thayatal GmbH“ (im folgenden als „Nationalparkgesellschaft“ bezeichnet) zu gründen, deren Aufgabe die Durchführung von Maßnahmen zur Errichtung und zur Erhaltung des Nationalparks Thayatal ist.
+
+(2) Das Stammkapital der Nationalparkgesellschaft beträgt 500 000 S. Die Anteile sind zu 50 vH dem Bund vorbehalten. Die Verwaltung der Anteilsrechte für den Bund obliegt dem Bundesminister für Umwelt, Jugend und Familie.
+
+(3) Sofern in diesem Bundesgesetz nicht anderes bestimmt ist, sind die Bestimmungen des Gesetzes über Gesellschaften mit beschränkter Haftung, RGBl. Nr. 58/1906 in der geltenden Fassung, anzuwenden.
+
+## § 2
+
+§ 2. (1) Der Sitz der Nationalparkgesellschaft ist in Hardegg. Die Nationalparkgesellschaft kann ihren Sitz in eine andere Nationalparkgemeinde verlegen.
+
+(2) Die Nationalparkgesellschaft übt ihre Tätigkeit auf Grund einer Satzung aus, bei deren Gestaltung auf die in einer Vereinbarung gemäß Art. 15a B-VG zwischen dem Bund und dem Land Niederösterreich zur Errichtung und Erhaltung eines Nationalparks Thayatal festgelegten Rahmenbedingungen Bedacht zu nehmen ist.
+
+(3) Die Organe der Nationalparkgesellschaft sind der Geschäftsführer und die Generalversammlung.
+
+## § 3
+
+§ 3. (1) Der Bund hat zur gemeinsamen Finanzierung der Tätigkeit der Nationalparkgesellschaft folgende Aufwendungen im Ausmaß von 50 vH aufzubringen:
+
+1\. die Gründungskosten der Nationalparkgesellschaft in der Höhe von höchstens 200 000 S (einschließlich Umsatzsteuer) und das Stammkapital von 500 000 S;
+
+2\. die einmaligen Errichtungskosten für Nationalparkinfrastruktur bis zu einem Betrag von höchstens 12 Millionen Schilling (einschließlich Umsatzsteuer) nach Maßgabe von einstimmigen Beschlüssen der Generalversammlung;
+
+3\. die laut Wirtschafts- und Finanzplan der Nationalparkgesellschaft genehmigten Kosten für den laufenden Betrieb der Nationalparkgesellschaft bis zu einem Betrag von höchstens 8 Millionen Schilling (einschließlich Umsatzsteuer), die quartalsmäßig aufzubringen sind.
+
+(2) Die in Abs. 1 genannten Leistungen sind der Nationalparkgesellschaft nach Maßgabe der im jeweiligen Bundesfinanzgesetz veranschlagten Ausgabenbeträge zur Verfügung zu stellen und nach Maßgabe des jeweiligen Rechnungsabschlusses abzurechnen.
+
+## § 4
+
+§ 4. Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Umwelt, Jugend und Familie im Einvernehmen mit dem Bundesminister für Finanzen betraut.
+
+## § 5
+
+§ 5. Das Bundesgesetz tritt mit 1. Jänner 1998 in Kraft.

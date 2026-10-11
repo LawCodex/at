@@ -1,0 +1,56 @@
+---
+title: "Gentechnik-Registerverordnung"
+identifier: "20004687"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 141/2006"
+last_amended: 2006-04-05
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2006/141/P0/NOR30005117"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004687"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# Gentechnik-Registerverordnung
+
+Verordnung der Bundesministerin für Gesundheit und Frauen über das Gentechnikregister (Gentechnik-Registerverordnung)
+
+StF: BGBl. II Nr. 141/2006
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 101e Abs. 3 des Gentechnikgesetzes (GTG), BGBl. Nr. 510/1994, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 127/2005, wird im Einvernehmen mit dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft und der Bundesministerin für Bildung, Wissenschaft und Kultur verordnet:
+
+## § 1
+
+§ 1. Das öffentlich zugängliche Gentechnikregister gemäß § 101c Abs. 1 und 2 GTG wird beim Bundesministerium für Gesundheit und Frauen in vier Teilen geführt:
+
+1\. Teil 1 enthält Daten über Erzeugnisse, die aus gentechnisch veränderten Organismen (GVO) bestehen oder solche enthalten und die gemäß § 54 Abs. 1 GTG oder auf Grund einer gemeinschaftsrechtlichen Genehmigung gemäß den Richtlinien 90/220/EWG oder 2001/18/EG zum Inverkehrbringen zugelassen sind. Diese Daten umfassen insbesondere Angaben über das Datum der Genehmigung, den Genehmigungsinhaber, den Umfang und die Bedingungen des Inverkehrbringens sowie die Kennzeichnung.
+
+2\. Teil 2 enthält analoge Daten über Erzeugnisse, die aus GVO bestehen oder solche enthalten und die gemäß der Verordnung (EG) Nr. 1829/2003 über genetisch veränderte Lebensmittel und Futtermittel zum Inverkehrbringen zugelassen sind.
+
+3\. Teil 3 enthält Daten über die Standorte (Gemeinden) von gemäß § 40 GTG genehmigten Freisetzungen samt genauer Bezeichnung des (der) GVO und den für die Freisetzung vorgeschriebenen wesentlichen Bedingungen und Auflagen.
+
+4\. Teil 4 enthält Daten über die Standorte (Gemeinden) des Anbaus von zugelassenen gentechnisch veränderten Kulturpflanzen sowie den Hinweis auf die zuständige Einrichtung des Landes, bei der weitere Informationen zugänglich sind.
+
+## § 2
+
+§ 2. Zum Zweck der Aufnahme in das Verzeichnis gemäß § 1 Z 4 und zur Erleichterung einer erforderlichen Kontrolle gemäß § 101 Abs. 1 Z 2 und 3 GTG übermittelt der Landeshauptmann, soweit dieser auf Grund bundes- oder landesrechtlicher Vorschriften über solche Daten verfügt, spätestens ein Monat nach dem Zeitpunkt, nach dem der Anbau nach landesrechtlichen Vorschriften zulässig ist, dem Bundesministerium für Gesundheit und Frauen in standardisierter elektronischer Form folgende Daten:
+
+1\. Bezeichnung der Gemeinde oder der Gemeinden, in deren Ortsgebiet der Anbau beabsichtigt ist,
+
+2\. Anbaufläche in ha,
+
+3\. Kulturart und Sortenbezeichnung der gentechnisch veränderten Pflanze,
+
+4\. Bezeichnung des GVO einschließlich des gemäß der Verordnung (EG) Nr. 65/2004 vom Zulassungsinhaber anzugebenden spezifischen Erkennungsmarkers,
+
+5\. Angabe der Einrichtung des Landes, bei der weitere Informationen zugänglich sind.
+
+## § 3
+
+§ 3. Der im § 79k Abs. 1 GTG genannten Eintragung in ein Register gemäß § 101c Abs. 2 GTG wird auch durch die behördliche Eintragung dieses Anbaus in ein nach landesrechtlichen Vorschriften geführtes Register (Landes-Gentechnikbuch) entsprochen.

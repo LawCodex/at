@@ -1,0 +1,73 @@
+---
+title: "Fürsorge und Schutz der Kriegsgräber und Kriegsdenkmäler aus dem zweiten Weltkrieg für Angehörige der Alliierten, Vereinten Nationen und für Opfer des Kampfes für ein freies, demokratisches Österreich und Opfer politischer Verfolgung"
+identifier: "10005218"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 176/1948"
+date: 1948-07-07
+last_amended: 1975-01-01
+last_amendment: "BGBl. Nr. 422/1974"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1948/176/P0/NOR11005302"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005218"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Fürsorge und Schutz der Kriegsgräber und Kriegsdenkmäler aus dem zweiten Weltkrieg für Angehörige der Alliierten, Vereinten Nationen und für Opfer des Kampfes für ein freies, demokratisches Österreich und Opfer politischer Verfolgung
+
+Bundesgesetz vom 7. Juli 1948 über die Fürsorge und den Schutz der Kriegsgräber und Kriegsdenkmäler aus dem zweiten Weltkrieg für Angehörige der Alliierten, Vereinten Nationen und für Opfer des Kampfes um ein freies, demokratisches Österreich und Opfer politischer Verfolgung.
+
+StF: BGBl. Nr. 176/1948 (NR: GP V RV 639 AB 673 S. 86. BR: S. 33.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 422/1974 (NR: GP XIII RV 850 AB 1236 S. 113. BR: S. 334.)  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+## § 1
+
+§ 1. (1) Die Gräber der Angehörigen der alliierten Armeen, der im Kampfe um die Befreiung Österreichs gefallenen Angehörigen der Vereinten Nationen sowie aller anderen im Kampfe um ein freies, demokratisches Österreich gefallenen Opfer, die sich im Gebiete der Republik Österreich befinden, werden dauernd erhalten. Die Sorge für die Erhaltung dieser Gräber obliegt in Ergänzung einer Pflege von anderer Seite dem Bund.
+
+(2) Den im Abs. (1) bezeichneten Gräbern sind gleichzuhalten die Gräber der Angehörigen der alliierten Mächte, Vereinten Nationen und der Opfer des Kampfes um ein freies, demokratisches Österreich und der Opfer politischer Verfolgung, welche als Kriegsgefangene, als Zivilinternierte, als Zwangsarbeiter oder als Häftlinge in Konzentrationslagern oder Gefängnissen gestorben und im Gebiete der Republik Österreich beerdigt sind.
+
+## § 2
+
+§ 2. (1) Der Eigentümer eines Grundstückes, in welchem solche Gräber liegen, ist verpflichtet, die Gräber dauernd zu belassen, sie zugänglich zu erhalten und alle Vorkehrungen zu dulden, die der würdigen Instandhaltung der Gräber dienen.
+
+(2) Diese Verpflichtung ist eine öffentliche Last, die allen öffentlichen und privaten Rechten im Range vorgeht und der Eintragung in das Grundbuch nicht bedarf.
+
+## § 3
+
+§ 3. (1) Aus besonderen Gründen, insbesondere wenn ein öffentliches Interesse vorliegt und an anderen Orten eine würdige Ruhestätte für die sterblichen Überreste gesichert ist, können Kriegsgräber verlegt werden.
+
+(2) Die Entscheidung trifft das Bundesministerium für Inneres nach Anhörung des Bundesministeriums für soziale Verwaltung.
+
+## § 4
+
+§ 4. Vor dem Tage des Wirksamkeitsbeginnes dieses Bundesgesetzes abgeschlossene Verträge über die Beanspruchung von Grundstücken für Zwecke der Kriegsgräberfürsorge verlieren mit dem Inkrafttreten dieses Bundesgesetzes ihre Gültigkeit.
+
+## § 5
+
+§ 5. Öffentliche Denkmäler zu Ehren der im § 1 bezeichneten Personen oder zu Ehren der von den Streitkräften einer alliierten Macht im Kampfe um die Befreiung Österreichs vollführten Heldentaten sowie die von den alliierten Mächten errichteten und als solche bezeichneten Gedächtnisstätten sind, gleichgültig in wessen Eigentum sie stehen, Denkmäler im Sinne des Denkmalschutzgesetzes, B. G. Bl. Nr. 533/1923.
+
+## § 6
+
+§ 6. (1) Wer aus politischer Gehässigkeit die Grabstätten einer der im § 1 bezeichneten Personen zerstört, beschädigt oder verunehrt oder sich an dem Leichnam oder der Asche des Toten vergreift, macht sich eines Verbrechens schuldig und wird, sofern die Tat nicht eine schwerer verpönte strafbare Handlung darstellt, mit Freiheitsstrafe von einem bis zu fünf Jahren bestraft.
+
+(2) Ebenso wird bestraft, wer aus politischer Gehässigkeit ein öffentliches Denkmal zu Ehren der im § 1 bezeichneten Personen oder zu Ehren der von Streitkräften einer alliierten Macht im Kampfe um die Befreiung Österreichs vollführten Heldentaten oder eine von einer der alliierten Mächte errichtete und als solche bezeichnete Kriegsgedächtnisstätte zerstört, beschädigt oder besudelt.
+
+\*(Anm.: Abs. 3 aufgehoben durch Art. IX Abs. 1, BGBl. Nr. 422/1974)*
+
+## § 7
+
+§ 7. Mit der Vollziehung dieses Bundesgesetzes ist das Bundesministerium für Inneres, mit der Vollziehung des § 6 jedoch das Bundesministerium für Justiz betraut.

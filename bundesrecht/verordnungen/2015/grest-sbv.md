@@ -1,0 +1,96 @@
+---
+title: "Grunderwerbsteuer-Selbstberechnungsverordnung"
+abbreviation: "GrESt-SBV"
+identifier: "20009207"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 156/2015"
+last_amended: 2021-01-01
+last_amendment: "BGBl. II Nr. 579/2020"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2015/156/P0/NOR40171466"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009207"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Grunderwerbsteuer-Selbstberechnungsverordnung (GrESt-SBV)
+
+Verordnung des Bundesministers für Finanzen betreffend die Grunderwerbsteuer-Selbstberechnungserklärung und die Übermittlung von Daten an die Justiz (Grunderwerbsteuer-Selbstberechnungsverordnung – GrESt-SBV)
+
+StF: BGBl. II Nr. 156/2015
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 287/2018  
+BGBl. II Nr. 579/2020  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 12, 13 und 16 des Grunderwerbsteuergesetzes 1987, BGBl. Nr. 309/1987, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 36/2014, wird im Einvernehmen mit dem Bundesminister für Justiz verordnet:
+
+## § 1
+
+§ 1. (1) Das Finanzamt Österreich hat die für die Erhebung der Gerichtsgebühr erforderlichen und vom Parteienvertreter im Zug einer Selbstberechnung nach § 11 Abs. 1 GrEStG 1987 über FinanzOnline erfassten Daten elektronisch der Justiz zu übermitteln.
+
+(2) Bei jedem im Zug einer Selbstberechnung über FinanzOnline erfassten Erwerbsvorgang ist pro Erwerber als Schlüssel für die betreffenden Daten nach Abs. 1 eine Vorgangsnummer zu generieren. Diese Vorgangsnummer ist dem Parteienvertreter ersichtlich zu machen.
+
+## § 2
+
+§ 2. (1) Die nach § 1 Abs. 1 zu übermittelnden Daten sind:
+
+1\. Titel des Rechtsvorganges samt Datum;
+
+2\. Angabe, ob das Grundstück (Katastralgemeinde, Einlagezahl, Grundstücksnummer) ganz oder teilweise übertragen wurde;
+
+3\. Angabe einer Katastralgemeinde, die vom Erwerbsvorgang betroffen ist, und die Anführung, ob weitere Katastralgemeinden betroffen sind;
+
+4\. Angabe einer Einlagezahl, die vom Erwerbsvorgang betroffen ist, und die Anführung, ob weitere Einlagezahlen betroffen sind;
+
+5\. Angabe von bis zu drei Grundstücksnummern, die vom Erwerbsvorgang betroffen sind, und die Anführung, ob mehr als drei Grundstücke betroffen sind;
+
+6\. Art des Grundstücks
+
+7\. die in der Selbstberechnung erfasste Angabe zur Fläche des Grundstücks
+
+8\. Angaben zum Erwerber: Name und Adresse sowie bei natürlichen Personen zusätzlich das Geburtsdatum oder Versicherungsnummer;
+
+9\. selbst berechnete Bemessungsgrundlage für die Grunderwerbsteuer in Summe pro Erwerber;
+
+10\. Höhe der selbst berechneten Eintragungsgebühr in Summe pro Erwerber;
+
+11\. Tatbestand einer Befreiung von der Eintragungsgebühr und Höhe der selbst berechneten Eintragungsgebühr in Summe pro Erwerber;
+
+12\. Angaben zum Parteienvertreter (Steuernummer, Name und Adresse).
+
+(2) Werden vom Parteienvertreter Daten eines Rechtsvorganges, der auf Anmeldung wartet, nachträglich verändert, so hat eine vollständige Übermittlung der Daten nach Abs. 1 unter Berücksichtigung der Änderungen zu erfolgen.
+
+## § 3
+
+§ 3. Das Finanzamt Österreich hat für jeden Anmeldungszeitraum (§ 13 Abs. 1 GrEStG 1987) die Daten gemäß § 2 sowie alle für diesen Anmeldungszeitraum gemäß § 1 Abs. 2 generierten Vorgangsnummern pro Erwerber zu übermitteln.
+
+## § 4
+
+§ 4. Die Datenübermittlungen nach §§ 2 und 3 erfolgen täglich.
+
+## § 5
+
+§ 5. Hat das Finanzamt Österreich die Grunderwerbsteuer mittels Bescheid nach § 201 BAO festgesetzt (§ 16 GrEStG 1987), so hat sie diese Tatsache der Justiz ohne unnötigen Aufschub elektronisch mitzuteilen.
+
+## § 6
+
+§ 6. Die Selbstberechnungserklärung nach § 12 GrEStG 1987 erfolgt im elektronischen Rechtsverkehr durch Bekanntgabe einer Vorgangsnummer (§ 1 Abs. 2) durch den Parteienvertreter. Wenn die Vorgangsnummer nicht durch den Parteienvertreter, der die Selbstberechnung vorgenommen hat, sondern durch einen anderen Parteienvertreter oder die Partei selbst dem Grundbuchsgericht bekannt gegeben wird, gilt auch das als wirksame Selbstberechnungserklärung.
+
+## § 7
+
+§ 7. (1) Diese Verordnung tritt mit 1. Juli 2015 in Kraft und ist auf alle Erwerbsvorgänge anzuwenden, für die die Selbstberechnung nach dem 30. Juni 2015 vorgenommen wird.
+
+(2) Mit dem Inkrafttreten dieser Verordnung tritt die Verordnung des Bundesministers für Finanzen betreffend die automatisationsunterstützte Übermittlung von Daten und das Erfassungsbuch gemäß §§ 13 und 14 Grunderwerbsteuergesetz 1987 in der Fassung BGBl. Nr. 682/1994, BGBl. Nr. 188/1995, außer Kraft.
+
+(3) § 1 Abs. 1, § 3 und § 5, jeweils in der Fassung der Verordnung BGBl. II Nr. 579/2020, treten mit 1. Jänner 2021 in Kraft.

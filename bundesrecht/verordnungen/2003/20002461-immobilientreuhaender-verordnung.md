@@ -1,0 +1,84 @@
+---
+title: "Immobilientreuhänder-Verordnung"
+identifier: "20002461"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 58/2003"
+last_amended: 2003-01-29
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2003/58/P0/NOR30002699"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002461"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# Immobilientreuhänder-Verordnung
+
+Verordnung des Bundesministers für Wirtschaft und Arbeit über die Zugangsvoraussetzungen für das reglementierte Gewerbe der Immobilientreuhänder (Immobilienmakler, Immobilienverwalter, Bauträger) (Immobilientreuhänder-Verordnung)
+
+StF: BGBl. II Nr. 58/2003
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 18 Abs. 1 der Gewerbeordnung 1994, BGBl. Nr. 194, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 111/2002, wird verordnet:
+
+## § 1 – Zugangsvoraussetzungen
+
+§ 1. (1) Die fachliche Qualifikation für die Tätigkeiten der Immobilienmakler und der Immobilienverwalter wird durch folgende Belege erfüllt:
+
+1\. Zeugnisse über den erfolgreichen Abschluss eines facheinschlägigen Universitätslehrganges oder Fachhochschul-Studienganges und eine mindestens einjährige fachliche Tätigkeit (§ 18 Abs. 3 GewO 1994) oder
+
+2\. a) Zeugnisse über
+
+aa) den erfolgreichen Abschluss einer wirtschaftswissenschaftlichen Studienrichtung oder der Studienrichtung Rechtswissenschaften und eine mindestens einjährige fachliche Tätigkeit oder
+
+ab) den erfolgreichen Abschluss einer berufsbildenden höheren Schule oder deren Sonderformen und eine mindestens eineinhalbjährige fachliche Tätigkeit oder einer allgemein bildenden höheren Schule und eine mindestens zweijährige fachliche Tätigkeit oder
+
+ac) den erfolgreichen Abschluss einer mindestens dreijährigen berufsbildenden Schule, deren Ausbildung in einem für das reglementierte Gewerbe spezifischen Schwerpunkt liegt, oder die erfolgreich abgelegte Lehrabschlussprüfung im Lehrberuf Immobilien- oder Bürokaufmann und eine mindestens zweijährige fachliche Tätigkeit und
+
+b) das Zeugnis über die erfolgreiche Ablegung der jeweiligen Befähigungsprüfung oder
+
+3\. a) das Zeugnis über die erfolgreich abgelegte Befähigungsprüfung für die Tätigkeiten der Bauträger und
+
+b) das Zeugnis über die erfolgreich abgelegte Ergänzungsprüfung für Bauträger.
+
+(2) Eine fachliche Tätigkeit, die für die Tätigkeiten der Immobilienmakler einschlägig ist, liegt vor, wenn der Anmelder Vermittlungsaufträge entgegengenommen und abgewickelt hat und auch berechtigt war, Vertragserklärungen im Zuge von Vermittlungen entgegenzunehmen.
+
+(3) Eine fachliche Tätigkeit, die für die Tätigkeiten der Immobilienverwalter einschlägig ist, liegt vor, wenn der Anmelder kaufmännische und verwaltungstechnische Aufgaben in der Immobilienverwaltung eigenständig als Hausverwaltungskraft erledigt hat.
+
+(4) War der Anmelder im Rahmen der fachlichen Tätigkeit gemäß Abs. 1 mit Tätigkeiten befasst, die fachlich einschlägig sowohl für die Tätigkeiten der Immobilienmakler als auch für die Tätigkeiten der Immobilienverwalter sind, und liegt ein Überwiegen der einen über die andere Tätigkeit vor, so gilt die überwiegende fachliche Tätigkeit hinsichtlich des Bereiches, für den sie einschlägig ist, als zur Gänze erbracht.
+
+(5) War der Anmelder im Rahmen der fachlichen Tätigkeit gemäß Abs. 1 annähernd zu gleichen Teilen mit Tätigkeiten befasst, die fachlich einschlägig sowohl für die Tätigkeiten der Immobilienmakler als auch für die Tätigkeiten der Immobilienverwalter sind, so erhöht sich die festgelegte Mindestdauer der fachlichen Tätigkeit jeweils um ein Jahr. In diesem Fall gilt die fachliche Tätigkeit für beide Bereiche als erbracht.
+
+## § 2
+
+§ 2. (1) Die fachliche Qualifikation für die Tätigkeiten der Bauträger wird durch folgende Belege erfüllt:
+
+1\. Zeugnisse über den erfolgreichen Abschluss eines facheinschlägigen Universitätslehrganges oder Fachhochschul-Studienganges und eine mindestens einjährige fachliche Tätigkeit (§ 18 Abs. 3 GewO 1994) oder
+
+2\. a) Zeugnisse über
+
+aa) den erfolgreichen Abschluss der Studienrichtung Betriebswirtschaft oder Volkswirtschaft oder Handelswissenschaften oder Wirtschaftspädagogik oder Rechtswissenschaften oder Bauingenieurwesen oder Wirtschaftsingenieurwesen - Bauwesen oder Architektur und eine mindestens einjährige fachliche Tätigkeit oder
+
+ab) den erfolgreichen Abschluss einer berufsbildenden höheren Schule oder deren Sonderformen, deren Ausbildung im Bereich Bautechnik mit einem für das reglementierte Gewerbe spezifischen Schwerpunkt liegt, und eine mindestens eineinhalbjährige fachliche Tätigkeit und
+
+b) das Zeugnis über die erfolgreich abgelegte Befähigungsprüfung oder
+
+3\. das Zeugnis über die erfolgreich abgelegte Befähigungsprüfung für das Gewerbe der Baumeister oder der Zimmermeister und das Zeugnis über die erfolgreich abgelegte Ergänzungsprüfung für Baumeister und Zimmermeister oder
+
+4\. das Zeugnis über die erfolgreich abgelegte Befähigungsprüfung für die Tätigkeiten der Immobilienmakler oder der Immobilienverwalter und das Zeugnis über die erfolgreich abgelegte Ergänzungsprüfung für Immobilienmakler und Immobilienverwalter oder
+
+5\. das Zeugnis über die erfolgreich abgelegte Prüfung zur Erlangung der Ziviltechnikerbefugnisse auf den Fachgebieten Hochbau oder Bauwesen oder Wirtschaftsingenieurwesen im Bauwesen oder Architektur und Hochbau und das Zeugnis über die erfolgreich abgelegte Ergänzungsprüfung für Ziviltechniker.
+
+(2) Eine fachliche Tätigkeit, die für die Tätigkeiten der Bauträger einschlägig ist, liegt vor, wenn der Anmelder Bauprojekte verantwortlich und in leitender Funktion, insbesondere als Projektleiter, abgewickelt hat und berechtigt war, Weisungen an Projektbeteiligte zu geben.
+
+## § 3 – Übergangsbestimmungen
+
+§ 3. (1) Zeugnisse über eine erfolgreich abgelegte Befähigungsprüfung, die nach der Verordnung des Bundesministers für Handel, Gewerbe und Industrie vom 1. Februar 1982, BGBl. Nr. 72, in der Fassung der Verordnung BGBl. Nr. 353/1989 über den Befähigungsnachweis für die konzessionierten Gewerbe der Immobilienmakler und der Immobilienverwaltung oder nach der Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über den Befähigungsnachweis für das Gewerbe der Immobilienmakler und das Gewerbe der Immobilienverwalter, BGBl. Nr. 142/1996, erworben wurden, gelten als Zeugnisse über eine erfolgreich abgelegte Befähigungsprüfung gemäß § 1 Abs. 1 Z 2 lit. b dieser Verordnung.
+
+(2) Zeugnisse über eine erfolgreich abgelegte Befähigungsprüfung, die nach der Verordnung des Bundesministers für wirtschaftliche Angelegenheiten über den Befähigungsnachweis für das Gewerbe der Bauträger (Bauträger-Befähigungsnachweisverordnung), BGBl. Nr. 89/1994, erworben wurden, gelten als Zeugnisse über eine erfolgreich abgelegte Befähigungsprüfung gemäß § 2 Abs. 1 Z 2 lit. b dieser Verordnung.
+
+(3) Zeugnisse über eine erfolgreich abgelegte Ergänzungsprüfung für Baumeister und Zimmermeister, für Immobilienmakler und Immobilienverwalter, für Bauträger und für Ziviltechniker, die nach der im Abs. 1 genannten Verordnung erworben wurden, gelten als Zeugnisse über eine erfolgreich abgelegte Prüfung gemäß § 1 Abs. 1 Z 3 lit. b, § 2 Abs. 1 Z 3, 4 oder 5 dieser Verordnung.

@@ -1,0 +1,78 @@
+---
+title: "Gastarbeitnehmer - Austausch - Erlöschen des Abkommens"
+identifier: "10009039"
+type: treaty
+ris_type: "Vertrag – Italien"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 200/1997"
+last_amended: 1997-11-21
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/1997/200/P0/NOR11009211"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009039"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Gastarbeitnehmer - Austausch - Erlöschen des Abkommens
+
+Erlöschen des Abkommens über den Austausch von Gastarbeitnehmern zwischen der Republik Österreich und der Republik Italien
+
+StF: BGBl. III Nr. 200/1997
+
+## Art. 1
+
+\**(Übersetzung)**
+
+Österreichische Botschaft
+
+in Italien
+
+Zl. 8.5.5/1/97
+
+Verbalnote
+
+Die Österreichische Botschaft entbietet dem Ministerium für Auswärtige Angelegenheiten ihre Empfehlungen und beehrt sich, mit Bezug auf das am 12. Juli 1956 zwischen der Italienischen Republik und der Republik Österreich geschlossene Abkommen über den Austausch von Gastarbeitnehmern \*1) einen Notenwechsel vorzuschlagen, mit dem einvernehmlich das Erlöschen dieses Abkommens mit dem Zeitpunkt des Inkrafttretens des Beitritts der Republik Österreich zur Europäischen Union am 1. Jänner 1995 festgestellt wird.
+
+Falls sich die Italienische Regierung mit dem Vorschlag der Österreichischen Bundesregierung einverstanden erklärt, werden diese Verbalnote und die das Einverständnis der Italienischen Regierung zum Ausdruck bringende Antwortnote des Italienischen Außenministeriums eine einvernehmliche Feststellung über das Erlöschen des in Rede stehenden Abkommens darstellen.
+
+Die Österreichische Botschaft benützt in Erwartung der erbetenen Antwort diese Gelegenheit, dem Ministerium für Auswärtige Angelegenheiten den Ausdruck seiner ausgezeichneten Hochachtung zu erneuern.
+
+Rom, 28. Juli 1997
+
+L. S.
+
+An das Ministerium für Auswärtige Angelegenheiten
+
+Rom
+
+(Übersetzung)
+
+Ministerium für
+
+auswärtige Angelegenheiten
+
+Verbalnote
+
+Das Ministerium für Auswärtige Angelegenheiten entbietet der Botschaft der Republik Österreich seine Empfehlungen und bestätigt ihre Verbalnote Zl. 8.5.5/1/97 vom 28. Juli 1997, deren Inhalt wie folgt wiedergegeben wird:
+
+`  „Die Österreichische Botschaft ... (es folgt der weitere Text der`
+
+`Übersetzung der Eröffnungsnote ins Deutsche) ... darstellen.''`
+
+Das Ministerium für Auswärtige Angelegenheiten beehrt sich das Einverständnis der Regierung der Italienischen Republik mitzuteilen, daß das Abkommen vom 12. Juli 1956 über den Austausch von Gastarbeitnehmern als erloschen anzusehen ist.
+
+Das Ministerium für Auswärtige Angelegenheiten benützt diese Gelegenheit, der Österreichischen Botschaft den Ausdruck seiner ausgezeichneten Hochachtung zu erneuern.
+
+Rom, 1. September 1997
+
+L. S.
+
+An die Botschaft der Republik Österreich
+
+Rom
+
+\---------------------------------------------------------------------
+
+\*1) Kundgemacht in BGBl. Nr. 123/1958

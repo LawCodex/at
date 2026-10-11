@@ -1,0 +1,56 @@
+---
+title: "Gewährung von Studienbeihilfe an Studierende mit Behinderungen"
+identifier: "20012730"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 308/2024"
+last_amended: 2025-03-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2024/308/P0/NOR40266253"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012730"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# Gewährung von Studienbeihilfe an Studierende mit Behinderungen
+
+Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung über die Gewährung von Studienbeihilfe an Studierende mit Behinderungen
+
+StF: BGBl. II Nr. 308/2024
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 19 Abs. 4, 26 Abs. 8 und 76 des Studienförderungsgesetzes 1992, BGBl. Nr. 305/1992, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 97/2024, wird im Einvernehmen mit dem Bundesminister für Finanzen verordnet:
+
+## § 1 – Verlängerung der Anspruchsdauer
+
+§ 1. (1) Für folgende Studierende wird die Anspruchsdauer über das durch § 19 Abs. 3 Z 3 des Studienförderungsgesetzes 1992 (StudF), BGBl. Nr. 305/1992, festgelegte Ausmaß hinaus verlängert:
+
+1\. um ein Semester für Studierende, deren Grad der Behinderung nach bundesgesetzlichen Vorschriften mit mindestens 60 % rechtskräftig festgestellt wurde oder
+
+2\. um die Hälfte der vorgesehenen Studienzeit für Studierende,
+
+a) deren Grad der Behinderung nach bundesgesetzlichen Vorschriften mit mindestens 70 % rechtskräftig festgestellt wurde oder
+
+b) die eine Zusatzeintragung im Behindertenpass gemäß § 1 Abs. 4 Z 1 lit. a bis d, f und l, Z 2 oder Z 3 der Verordnung über die Ausstellung von Behindertenpässen und von Parkausweisen, BGBl. II Nr. 495/2013 aufweisen.
+
+Ergibt die rechnerische Ermittlung der Anspruchsdauer keine ganze Semesterzahl, ist diese auf ganze Semester aufzurunden.
+
+(2) Die durch § 19 Abs. 3 Z 3 StudFG und § 1 Abs. 1 dieser Verordnung verlängerte Anspruchsdauer darf insgesamt das Doppelte der vorgesehenen Studiendauer des Studiums oder Studienabschnitts nicht übersteigen.
+
+## § 2 – Höhe des Zuschlages
+
+§ 2. Studierenden, deren Grad der Behinderung nach bundesgesetzlichen Vorschriften rechtskräftig festgestellt wurde, gebührt ein monatlicher Zuschlag zur Studienbeihilfe im Ausmaß von
+
+1\. 240 Euro bei einem Grad der Behinderung von mindestens 50 % und einer Zusatzeintragung im Behindertenpass gemäß § 1 Abs. 4 Z 1 lit. a bis d, f und l, Z 2 oder Z 3 der Verordnung über die Ausstellung von Behindertenpässen und von Parkausweisen, BGBl. II Nr. 495/2013, oder
+
+2\. 630 Euro bei einem Grad der Behinderung von mindestens 70 %.
+
+## § 3 – In- und Außerkrafttreten
+
+§ 3. (1) Diese Verordnung tritt mit 1. März 2025 in Kraft.
+
+(2) Die Verordnung über die Gewährung von Studienbeihilfe an behinderte Studierende, BGBl. II Nr. 310/2004 tritt mit Ablauf des 28. Februar 2025 außer Kraft.

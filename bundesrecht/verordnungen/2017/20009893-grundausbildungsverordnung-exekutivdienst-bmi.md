@@ -1,0 +1,202 @@
+---
+title: "Grundausbildungsverordnung – Exekutivdienst BMI"
+identifier: "20009893"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 153/2017"
+last_amended: 2025-09-01
+last_amendment: "BGBl. II Nr. 189/2025"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/ii/2017/153/P0/NOR40193588"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009893"
+retrieved: 2026-10-11
+documents: 20
+---
+
+# Grundausbildungsverordnung – Exekutivdienst BMI
+
+Verordnung des Bundesministers für Inneres über die Grundausbildungen für den Exekutivdienst (Grundausbildungsverordnung – Exekutivdienst BMI)
+
+StF: BGBl. II Nr. 153/2017
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. II Nr. 189/2025  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 26 und 144 des Beamten-Dienstrechtsgesetzes 1979 (BDG 1979), BGBl. Nr. 333/1979, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 120/2016, des § 67 des Vertragsbedienstetengesetzes 1948 (VBG), BGBl. Nr. 86/1948, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 119/2016, und des § 11 Abs. 4 des Sicherheitspolizeigesetzes (SPG), BGBl. Nr. 566/1991, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 61/2016, wird verordnet:
+
+#### § 1 – Anwendungsbereich
+
+§ 1. Diese Verordnung regelt für den Ressortbereich des Bundesministeriums für Inneres (BMI) die Grundausbildung für
+
+1\. den Exekutivdienst – Polizeigrundausbildung (Anlage 1);
+
+1a. den Exekutivdienst – Basisausbildung fremden- und grenzpolizeilicher Bereich und Ergänzungsausbildung Polizeigrundausbildung (Anlage 1a);
+
+1b. den Exekutivdienst – Objektschutz (Anlage 1b);
+
+2\. die Verwendungsgruppe E 2a im Exekutivdienst – Dienstführende Beamte (Anlage 2);
+
+3\. die Verwendungsgruppe E 1 im Exekutivdienst – Leitende Beamte (Anlage 3).
+
+#### § 2 – Ausbildungsziel
+
+§ 2. Ausbildungsziel der Grundausbildungen ist die inhaltliche und methodische Vermittlung jener Kompetenzen, die erforderlich sind, um den Anforderungen des jeweiligen Aufgabenbereichs professionell und verantwortungsvoll nachzukommen. Der Lehrstoff ist entsprechend dem neuesten Stand der Wissenschaft, den dienstlichen Erfordernissen sowie den aktuellen pädagogisch-didaktischen Grundsätzen zu vermitteln.
+
+#### § 3 – Bereitstellung und Leitung
+
+§ 3. (1) Die Sicherheitsakademie (SIAK) hat für die in § 1 angeführten Grundausbildungen nach Maßgabe des dienstlichen Bedarfes Grundausbildungslehrgänge bereitzustellen. Die Leitung der Grundausbildungslehrgänge obliegt der SIAK.
+
+(2) Der Direktor der SIAK hat für jeden Grundausbildungslehrgang einen Lehrgangsleiter mit der unmittelbaren organisatorischen Durchführung sowie der dafür erforderlichen Wahrnehmung der Dienst- und Fachaufsicht zu betrauen.
+
+(3) Die SIAK hat qualifizierte Lehrkräfte gemäß § 4 Sicherheitsakademie-Bildungsverordnung (SIAK-BV), BGBl. II Nr. 451/2015, in der jeweils geltenden Fassung, heranzuziehen. Die Koordinierung der Lehrkräfte und die notwendige inhaltliche Abstimmung sind vom Lehrgangsleiter sicherzustellen.
+
+#### § 4 – Form und Inhalte
+
+§ 4. (1) Die Grundausbildungen sind in Form von Grundausbildungslehrgängen zu gestalten. Die Inhalte und die Mindeststundenanzahl der Lehrgegenstände der Grundausbildungslehrgänge für die jeweilige Grundausbildung sind in den Anlagen 1 bis 3 festgelegt.
+
+(2) Die Lehrgegenstände setzen sich aus Ausbildungsmodulen zusammen. Struktur, Unterrichtszeit und Lernziele der Ausbildungsmodule sind von der SIAK in einem Ausbildungsplan festzulegen. Die in Anlage 3 gekennzeichneten Ausbildungsmodule werden im Rahmen des Bachelor-Fachhochschul-Studiengangs „Polizeiliche Führung“ durchgeführt.
+
+(3) Soweit dies zweckmäßig ist, können Grundausbildungslehrgänge in berufsbegleitender Form oder in mehreren Ausbildungsabschnitten stattfinden. Teile des Grundausbildungslehrgangs können auch als computerunterstütztes Lernen, wie insbesondere e-learning, Schulung am Arbeitsplatz oder praktische Verwendung gestaltet werden. Eine Schulung am Arbeitsplatz dient dabei der Einführung in die Aufgaben der späteren Verwendung.
+
+#### § 5 – Zuweisung und Zulassung
+
+§ 5. (1) Die Zuweisung zu einem Grundausbildungslehrgang erfolgt durch die zuständige Dienstbehörde nach Maßgabe der im BDG 1979 sowie im VBG vorgesehenen Voraussetzungen.
+
+(2) Exekutivbedienstete sind nur dann zu Grundausbildungen für die Verwendungsgruppen E 2a (§ 1 Z 2) und E 1 (§ 1 Z 3) zuzulassen, wenn sie die persönliche und fachliche Eignung (Abs. 3) für die Erfüllung der Aufgaben erwarten lassen, die mit der für sie vorgesehenen Verwendung verbunden sind.
+
+(3) Die persönliche Eignung hat sich auf die allgemeine geistige, körperliche und soziale Befähigung, die fachliche Eignung auf die ausbildungs- und leistungsmäßige Befähigung zu beziehen. Die fachliche Eignung liegt insbesondere dann nicht vor, wenn der Bedienstete in dem der Zulassung vorangegangenen Kalenderjahr den von ihm erwarteten Arbeitserfolg nicht aufgewiesen hat.
+
+(4) Die Zulassung zu Grundausbildungen für die Verwendungsgruppen E 2a (§ 1 Z 2) und E 1 (§ 1 Z 3) ist darüber hinaus vom Ergebnis einer Auswahlprüfung (§ 6) abhängig.
+
+(5) Wird ein zu einem Grundausbildungslehrgang zugelassener Bediensteter durch
+
+1\. ein Beschäftigungsverbot nach dem Mutterschutzgesetz 1979 (MSchG), BGBl. Nr. 221/1979, in der Fassung des Bundesgesetzes BGBl. I Nr. 64/2024,
+
+2\. eine Karenz nach dem MSchG, dem Väter-Karenzgesetz (VKG), BGBl. Nr. 651/1989, in der Fassung des Bundesgesetzes BGBl. I Nr. 64/2024, oder nach § 75 Abs. 4 Z 1 BDG 1979,
+
+3\. eine Teilzeitbeschäftigung nach dem MSchG oder dem VKG,
+
+4\. eine Herabsetzung der Wochendienstzeit gemäß § 50b BDG 1979,
+
+5\. eine Pflegeteilzeit gemäß § 50e BDG 1979 oder
+
+6\. eine Wiedereingliederungsteilzeit gemäß § 50f BDG 1979
+
+an der Teilnahme gehindert, so ist der Bedienstete zu dem der Beendigung der in Z 1 bis 6 angeführten Hinderungszeiträume unmittelbar folgenden Grundausbildungslehrgang zuzulassen.
+
+(6) Die SIAK kann bei Vorliegen der Voraussetzungen des § 11 Abs. 2 letzter Satz SPG auch die Teilnahme von Bediensteten anderer Gebietskörperschaften an Grundausbildungslehrgängen gegen Kostenersatz (§ 6 SIAK-BV) zulassen.
+
+#### § 6 – Auswahlprüfung
+
+§ 6. (1) Ist die Anzahl der Bewerber für einen Grundausbildungslehrgang für die Verwendungsgruppen E 2a (§ 1 Z 2) und E 1 (§ 1 Z 3) größer als die Zahl der zur Verfügung stehenden Grundausbildungslehrgangsplätze, so sind die Bewerber nach der in der erfolgreich abgelegten Auswahlprüfung erreichten Gesamtpunktezahl zu reihen.
+
+(2) Zur Durchführung der Auswahlprüfung ist vom Direktor der SIAK eine ausreichende Anzahl fachlich geeigneter Bediensteter des BMI zu bestellen.
+
+(3) Die erfolgreich abgelegte Auswahlprüfung gilt, mit Ausnahme der in § 5 Abs. 5 genannten Fälle, für den unmittelbar folgenden Grundausbildungslehrgang.
+
+\**Angehörige anderer Wachkörper**
+
+#### § 7
+
+§ 7. Exekutivbedienstete des Justizwachdienstes oder Angehörige von Gemeindewachkörpern, die auf eine Planstelle des Exekutivdienstes im Ressortbereich des BMI ernannt werden, haben an einer mindestens sechsmonatigen Ausbildung teilzunehmen, die ihrer Verwendungsgruppe im Ressortbereich des BMI entspricht, sofern sie nicht bereits eine Grundausbildung gemäß § 1 Z 1, 1a, 2 oder 3 erfolgreich abgeschlossen haben.
+
+#### § 8 – Ausschließung
+
+§ 8. (1) Ein Bediensteter ist von der weiteren Grundausbildung auszuschließen, wenn er die persönliche oder fachliche Eignung (§ 5 Abs. 3) nicht mehr aufweist oder nach seinen in der Grundausbildung gezeigten Leistungen angenommen werden muss, dass er das Ausbildungsziel nicht erreichen wird.
+
+(2) Über die Ausschließung von einer Grundausbildung entscheidet der Lehrgangsleiter im Einvernehmen mit der Dienstbehörde.
+
+#### § 9 – Dienstprüfung
+
+§ 9. (1) Die Grundausbildung wird durch die Ablegung einer Dienstprüfung als Gesamtprüfung, die in der Anlage 1a angeführte Grundausbildung wird durch die Ablegung von Teilprüfungen, vor einem Prüfungssenat (§ 11) abgeschlossen. Die Anlagen 1 bis 3 beinhalten Aufbau, Ablauf und Inhalt der Dienstprüfung für die jeweilige Grundausbildung.
+
+(2) Die Bediensteten sind von Amts wegen zur Dienstprüfung zuzuweisen. Voraussetzung für die Zulassung zur Dienstprüfung ist das Erreichen der gemäß § 4 Abs. 2 definierten Lernziele aller Ausbildungsmodule der jeweiligen Grundausbildung. Dazu ist grundsätzlich auch die Anwesenheit von mindestens 75 % in jedem Ausbildungsmodul notwendig. Sollte die notwendige Anwesenheit nicht erreicht werden, hat der Lehrgangsleiter gegebenenfalls geeignete Maßnahmen zu setzen, um das Erreichen des Lernziels nachweislich sicherzustellen.
+
+(3) Die Dienstprüfung kann mit dem Kalkül „mit Auszeichnung bestanden“, „bestanden“ oder mit „nicht bestanden“ abgelegt werden.
+
+(4) Eine nicht bestandene Dienstprüfung kann zweimal wiederholt werden. Für die Wiederholungen ist vom Lehrgangsleiter eine angemessene, insgesamt drei Monate nicht übersteigende, Reprobationsfrist festzulegen.
+
+#### § 10 – Prüfungskommissionen
+
+§ 10. (1) Der Bundesminister für Inneres hat auf Vorschlag des Direktors der SIAK für die Durchführung von Dienstprüfungen (§ 9) Prüfungskommissionen für die Dauer von fünf Jahren zu bestellen. Vorsitzender jeder Prüfungskommission ist der Direktor der SIAK, im Falle seiner Verhinderung sein Stellvertreter. Die nachträgliche Bestellung zusätzlicher Mitglieder ist zulässig.
+
+(2) Die Zugehörigkeit zur Prüfungskommission endet mit dem Ausscheiden aus dem aktiven Personalstand des Bundes. Sie ruht vom Tag der Einleitung eines Disziplinarverfahrens bis zu dessen rechtskräftigem Abschluss, während der Zeit der (vorläufigen) Suspendierung vom Dienst sowie bei einer Außerdienststellung.
+
+(3) Die Prüfungskommission für Dienstprüfungen für den Exekutivdienst (§ 1 Z 1 bis 1b) ist, neben dem Vorsitzenden, aus dem Zentrumsleiter für die Grundausbildung in der SIAK, den Leitern der Bildungszentren, deren Stellvertretern und weiteren leitenden Beamten der Bildungszentren sowie aus dem Kreis der hauptamtlich für die SIAK tätigen Lehrkräfte (§ 4 Abs. 2 erster Satz SIAK-BV) zu bilden. Von der zuständigen Dienstbehörde kann bei Bedarf ein Vertreter als weiteres Mitglied für die Prüfungskommission vorgeschlagen werden.
+
+(4) Die Prüfungskommission für Dienstprüfungen für die Verwendungsgruppe E 2a (§ 1 Z 2) ist, neben dem Vorsitzenden, aus dem Zentrumsleiter für die Grundausbildung in der SIAK, den Leitern der Bildungszentren, deren Stellvertretern und weiteren leitenden Beamten der Bildungszentren sowie aus dem Kreis der Bediensteten, die mit einer Lehrtätigkeit für die SIAK betraut sind oder waren (§ 4 Abs. 2 erster und zweiter Satz SIAK-BV), zu bilden. Von der zuständigen Dienstbehörde kann bei Bedarf ein Vertreter als weiteres Mitglied für die Prüfungskommission vorgeschlagen werden.
+
+(5) Die Prüfungskommission für Dienstprüfungen für die Verwendungsgruppe E 1 (§ 1 Z 3) ist, neben dem Vorsitzenden, aus dem Zentrumsleiter für die Grundausbildung in der SIAK und aus dem Kreis der Bediensteten der Verwendungs- oder Entlohnungsgruppe A1/v1 und der Verwendungsgruppe E 1 zu bilden. Zudem kann von der personalzuständigen Abteilung des BMI ein Vertreter als weiteres Mitglied in die Prüfungskommission vorgeschlagen werden.
+
+#### § 11 – Prüfungssenat
+
+§ 11. Die Dienstprüfung ist vor einem Prüfungssenat abzulegen. Prüfungssenate bestehen aus drei Mitgliedern der entsprechenden Prüfungskommission (§ 10). Der Direktor der SIAK, im Falle seiner Verhinderung sein Stellvertreter, bestimmt vor jeder Dienstprüfung den Vorsitzenden des Prüfungssenats und die beiden weiteren Mitglieder.
+
+#### § 12 – Zeugnis
+
+§ 12. Über die bestandene Dienstprüfung ist ein Zeugnis auszustellen. Wurde die Dienstprüfung mit dem Kalkül „mit Auszeichnung bestanden“ (§ 9 Abs. 3) abgelegt, ist dieser Umstand im Zeugnis zu vermerken.
+
+#### § 13 – Sprachliche Gleichbehandlung
+
+§ 13. Soweit in dieser Verordnung auf natürliche Personen bezogene Bezeichnungen nur in männlicher Form angeführt sind, beziehen sie sich auf Frauen und Männer in gleicher Weise. Bei der Anwendung der Bezeichnung auf bestimmte natürliche Personen ist die jeweils geschlechtsspezifische Form zu verwenden.
+
+#### § 14 – Schluss- und Übergangsbestimmungen
+
+§ 14. (1) Diese Verordnung tritt mit Ablauf des Tages der Kundmachung in Kraft. Gleichzeitig tritt die Verordnung der Bundesministerin für Inneres über die Grundausbildungen für den Exekutivdienst (Grundausbildungsverordnung – Exekutivdienst des BMI), BGBl. II Nr. 430/2006, außer Kraft.
+
+(2) Grundausbildungen für den Exekutivdienst oder für Wachebeamte im Ressortbereich des BMI, die vor dem Inkrafttreten dieser Verordnung erfolgreich abgeschlossen wurden, gelten als Grundausbildungen im Sinne dieser Verordnung.
+
+(3) Vor dem Inkrafttreten dieser Verordnung begonnene Grundausbildungslehrgänge können nach den Bestimmungen dieser Verordnung durchgeführt und abgeschlossen werden, wenn deren Anwendung zur Erreichung des Ausbildungsziels für zweckmäßig erachtet wird. Ansonsten sind diese Grundausbildungslehrgänge nach den Vorschriften weiterzuführen und zu beenden, die bei Beginn des Grundausbildungslehrgangs in Kraft waren.
+
+(4) Der Bundesminister für Inneres hat die Prüfungskommissionen (§ 10) bis spätestens 31. Oktober 2017 zu bestellen. Die bisherigen Prüfungskommissionen sind bis zur Bestellung der neuen Prüfungskommissionen bestellt.
+
+(5) § 1, § 5 Abs. 5, § 7, § 9 Abs. 1, § 10 Abs. 3 bis 5 und § 12 sowie die Anlagen 1a, 1b und 2 in der Fassung der Verordnung BGBl. II Nr. 189/2025 treten mit 1. September 2025 in Kraft.
+
+## GRUNDAUSBILDUNG FÜR DEN EXEKUTIVDIENST
+
+### Polizeigrundausbildung
+
+#### Anlage 1
+
+\*(Anm.: Anlage 1* *als PDF dokumentiert)*
+
+## GRUNDAUSBILDUNG FÜR DEN EXEKUTIVDIENST
+
+### Basisausbildung fremden- und grenzpolizeilicher Bereich
+
+#### Anlage 1a
+
+\*(Anm.: Anlage 1a als PDF dokumentiert)*
+
+## GRUNDAUSBILDUNG FÜR DEN EXEKUTIVDIENST
+
+### Objektschutz
+
+#### Anlage 1b
+
+\*(Anm.: Anlage 1b als PDF dokumentiert)*
+
+## GRUNDAUSBILDUNG FÜR DIE VERWENDUNGSGRUPPE E 2a
+
+### Dienstführende Beamte
+
+#### Anlage 2
+
+\*(Anm.: Anlage 2 als PDF dokumentiert)*
+
+## GRUNDAUSBILDUNG FÜR DIE VERWENDUNGSGRUPPE E 1
+
+### Leitende Beamte
+
+#### Anlage 3
+
+\*(Anm.: Anlage 3 als PDF dokumentiert)*

@@ -1,0 +1,87 @@
+---
+title: "Grenzkontrollstellen, Grenzübergänge - Kennzeichnung"
+identifier: "10005356"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 105/1970"
+date: 1970-02-27
+last_amended: 1970-04-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1970/105/P0/NOR11005440"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005356"
+retrieved: 2026-10-11
+documents: 8
+---
+
+# Grenzkontrollstellen, Grenzübergänge - Kennzeichnung
+
+Verordnung des Bundesministers für Inneres vom 27. Feber 1970 über die Kennzeichnung von Grenzübergängen und Grenzkontrollstellen
+
+StF: BGBl. Nr. 105/1970
+
+## Präambel/Promulgationsklausel
+
+Auf Grund der §§ 5 Abs. 1 und 12 Abs. 4 des Grenzkontrollgesetzes 1969, BGBl. Nr. 423, wird verordnet:
+
+## § 1
+
+§ 1. (1) Grenzübergänge, ausgenommen die im § 5 Abs. 3 des Grenzkontrollgesetzes 1969 genannten Grenzübergänge, sind in unmittelbarer Nähe der Bundesgrenze durch Hinweistafeln kenntlich zu machen, welche die Staatsfarben, das Staatswappen sowie die Aufschrift “Republik Österreich Grenzübergang” nach dem Muster der Anlage 1 aufzuweisen haben.
+
+(2) Die Hinweistafeln sind aus form- und witterungsbeständigem Material herzustellen, dessen Farbwerte den Bedingungen der Straßenverkehrszeichenverordnung, BGBl. Nr. 83/1966, entsprechen müssen.
+
+(3) Die Größe der Hinweistafeln hat zu betragen
+
+a) bei Grenzübergängen im Verlaufe einer Autobahn 160 X 250 cm,
+
+b) bei Grenzübergängen im Verlaufe einer Bundes- oder Landesstraße 96 X 120 cm,
+
+c) bei sonstigen Grenzübergängen im Verlaufe von Straßen 63 X 96 cm,
+
+d) bei Grenzübergängen im Verlaufe von Fußwegen 47 X 63 cm.
+
+(4) Die Hinweistafeln sind auf Standsäulen aus form- und witterungsbeständigem Material anzubringen. Der Bodenabstand des unteren Randes der Hinweistafel hat bei Autobahnen 220 cm, bei sonstigen Straßen und bei Fußwegen 180 cm zu betragen; eine Abweichung ist insoweit zulässig, als sie nach den örtlichen Umständen der besseren Sichtbarkeit einer Tafel dient.
+
+(5) Im Zuge der im Abs. 3 lit. a bis c genannten Verkehrswege sind Hinweistafeln sowohl für den Einreise- als auch für den Ausreiseverkehr in der Verkehrsrichtung gesehen jeweils an der rechten Seite der Straße aufzustellen. In den Fällen des Abs. 3 lit. d ist nur eine Hinweistafel mit beiderseitigem Bild am Wegrand anzubringen.
+
+(6) Soweit bei der Eröffnung eines Grenzüberganges eine Hinweistafel in einer den Bestimmungen dieser Verordnung entsprechenden Beschaffenheit nicht rechtzeitig hergestellt werden kann, ist die vorübergehende Verwendung einer Hinweistafel möglichst ähnlicher Beschaffenheit zulässig. Dies gilt sinngemäß auch für die Art der Anbringung und Aufstellung von Hinweistafeln.
+
+## § 2
+
+§ 2. (1) Wenn die Zeit oder der Umfang der Benützung eines durch eine Hinweistafel zu kennzeichnenden Grenzüberganges beschränkt ist, ist dies auf einer weißen Zusatztafel in schwarzer Schrift ersichtlich zu machen.
+
+(2) Zusatztafeln sind aus form- und witterungsbeständigem Material herzustellen, dessen Farbwerte den Bedingungen der Straßenverkehrszeichenverordnung entsprechen müssen.
+
+(3) Das Schriftbild von Zusatztafeln hat den Abbildungen 97 und 98 des Anhanges 2 der Straßenverkehrszeichenverordnung nach Maßgabe des § 7 der Straßenverkehrszeichenverordnung zu entsprechen, wobei der Schriftgröße eine Seitenlänge der in diesen Abbildungen verwendeten Rasterquadrate von mindestens 0,3 cm und höchstens 1,5 cm zugrunde zu legen ist; innerhalb dieser Grenzen ist die Schriftgröße so zu bemessen, daß der Text für die Teilnehmer des Grenzverkehrs nach den örtlichen Umständen deutlich lesbar ist.
+
+(4) Zusatztafeln sind in rechteckiger Form herzustellen. Ihre Größe hat sich nach dem Umfang des Textes zu richten, mindestens aber 15 X 31 cm zu betragen.
+
+(5) Soweit bei der Änderung der Zeit oder des Umfanges der Benützung eines Grenzüberganges oder bei der Eröffnung eines Grenzüberganges eine Zusatztafel in einer Abs. 2 bis 4 entsprechenden Beschaffenheit nicht rechtzeitig hergestellt werden kann, ist die vorübergehende Verwendung einer Zusatztafel möglichst ähnlicher Beschaffenheit zulässig.
+
+(6) Soweit dies im Hinblick auf die Verkehrsbedürfnisse zur Information der einen Grenzübergang benützenden Personen zweckmäßig ist, kann überdies eine Übersetzung des Textes der Zusatztafeln in der Sprache des Nachbarstaates angebracht werden.
+
+(7) Zusatztafeln sind an den Standsäulen unterhalb der Hinweistafeln in einer die deutliche Sichtbarkeit und Lesbarkeit gewährleistenden Höhe anzubringen.
+
+## § 3
+
+§ 3. (1) Im Inland gelegene Grenzkontrollstellen sind durch eine Tafel mit dem Staatswappen sowie der Bezeichnung der für die Durchführung der Grenzkontrolle zuständigen Behörde und der Aufschrift “Grenzkontrollstelle” unter Beifügung ihrer örtlichen Bezeichnung nach dem Muster der Anlage 2 zu kennzeichnen. Im Ausland gelegene Grenzkontrollstellen sind, soweit dies nach den betreffenden Staatsverträgen zulässig ist, durch eine Tafel mit dem Staatswappen und der Aufschrift “Republik Österreich Grenzkontrollstelle” unter Beifügung ihrer örtlichen Bezeichnung nach dem Muster der Anlage 3 zu kennzeichnen; befindet sich eine Grenzkontrollstelle im fremdsprachigen Ausland, so ist eine gleichartige Tafel in der Sprache des Nachbarstaates zusätzlich anzubringen.
+
+(2) Die Tafeln sind aus form- und witterungsbeständigem Material mit 2.1 cm breiter, rotweiß-roter Umrandung im Format 60 X 50 cm herzustellen; eine Größenabweichung ist zulässig, soweit der Umfang des Textes, sein optischer Eindruck, die Lesbarkeit des Schriftbildes oder der zur Anbringung der Tafel zur Verfügung stehende Platz dies erfordern. Im Zeitpunkt des Inkrafttretens dieser Verordnung bereits vorhandene, den Bestimmungen dieses Absatzes nicht entsprechende Tafeln dürfen bis zum 1. April 1975 weiter verwendet werden.
+
+## § 4
+
+§ 4. Diese Verordnung tritt am 1. April 1970 in Kraft.
+
+## <u>Anlage 1</u>
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12059583/image001.png)
+
+## <u>Anlage 2</u>
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12059584/image001.png)
+
+## <u>Anlage 3</u>
+
+![Abbildung](https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR12059585/image001.png)

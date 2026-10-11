@@ -1,0 +1,26 @@
+---
+title: "Genehmigung des Bundesrechnungsabschlusses für das Jahr 2007"
+identifier: "20006387"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. I Nr. 69/2009"
+last_amended: 2009-07-31
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/i/2009/69/P0/NOR40108363"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006387"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Genehmigung des Bundesrechnungsabschlusses für das Jahr 2007
+
+Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für das Jahr 2007
+
+StF: BGBl. I Nr. 69/2009 (NR: GP XXIV AB 307 S. 31.)
+
+## Art. 1
+
+Dem vom Rechnungshof dem Nationalrat vorgelegten Bundesrechnungsabschluss für das Jahr 2007 wird die Genehmigung erteilt.

@@ -1,0 +1,46 @@
+---
+title: "Genehmigungsfreistellungsverordnung"
+identifier: "10008019"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 20/1999"
+last_amended: 1999-05-12
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/1999/20/P0/NOR11008164"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008019"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# Genehmigungsfreistellungsverordnung
+
+Verordnung des Bundesministers für wirtschaftliche Angelegenheiten, mit der jene Arten von Betriebsanlagen bezeichnet werden, für die jedenfalls keine Genehmigung erforderlich ist
+
+StF: BGBl. II Nr. 20/1999 idF BGBl. II Nr. 149/1999 (DFB)
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 74 Abs. 7 der Gewerbeordnung 1994, BGBl. Nr. 194, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 116/1998, wird vom Bundesminister für wirtschaftliche Angelegenheiten im Einvernehmen mit dem Bundesminister für Arbeit, Gesundheit und Soziales verordnet:
+
+## § 1
+
+§ 1. Für folgende Arten von Betriebsanlagen ist jedenfalls keine Genehmigung erforderlich, sofern die Merkmale des § 2 erfüllt sind:
+
+1\. Erdgasflächenversorgungsleitungsnetze mit einem Druckbereich bis einschließlich 1,6 MPa;
+
+2\. Fernwärmeversorgungsleitungsnetze zur flächenmäßigen Verteilung von Fernwärme mit einer Betriebstemperatur von höchstens 180 ºC.
+
+## § 2
+
+§ 2. Die in § 1 erwähnten Merkmale sind das beim Betriebsanlageninhaber jederzeit überprüfbare Vorliegen entweder
+
+1\. von Lage- und Ausführungsplänen, technischen Beschreibungen der Betriebsanlage sowie von Aufzeichnungen, aus denen hervorgeht, daß die Betriebsanlage entsprechend den einschlägigen Regeln der Technik errichtet und betrieben wird, und in denen die maßgebenden Regeln der Technik beschrieben und ihre Einhaltung belegt wird, oder
+
+2\. kompletter Zertifizierungsunterlagen nach ÖNORM EN ISO 9000 „Qualitätsmanagement- und Qualitätssicherungsnormen; Leitfaden zur Auswahl und Anwendung“ vom 1. September 1994, ÖNORM EN ISO 9001 „Qualitätssicherungssysteme; Modell zur Darlegung der Qualitätssicherung in Design/Entwicklung, Produktion, Montage und Kundendienst“ vom 1. September 1994, ÖNORM EN ISO 9002 „Qualitätssicherungssysteme; Modell zur Darlegung der Qualitätssicherung in Produktion und Montage“ vom 1. September 1994, ÖNORM EN ISO 9003 „Qualitätssicherungssysteme; Modell zur Darlegung der Qualitätssicherung bei der Endprüfung“ vom 1. September 1994 und ÖNORM EN ISO 9004 „Qualitätsmanagement und Elemente eines Qualitätssicherungssystems-Leitfaden“ vom 1. September 1994, alle erhältlich beim Österreichischen Institut für Normenwesen, 1020 Wien, Heinestraße 38.
+
+## § 3
+
+§ 3. Die Verordnung tritt mit dem der Kundmachung folgenden Monatsersten in Kraft.

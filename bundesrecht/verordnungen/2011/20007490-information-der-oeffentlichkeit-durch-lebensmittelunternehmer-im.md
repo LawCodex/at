@@ -1,0 +1,84 @@
+---
+title: "Information der Öffentlichkeit durch Lebensmittelunternehmer im Einzelhandel"
+identifier: "20007490"
+type: regulation
+ris_type: "V"
+jurisdiction: at
+language: de
+promulgation: "BGBl. II Nr. 334/2011"
+last_amended: 2011-10-19
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/ii/2011/334/P0/NOR40132220"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007490"
+retrieved: 2026-10-11
+documents: 4
+---
+
+# Information der Öffentlichkeit durch Lebensmittelunternehmer im Einzelhandel
+
+Verordnung des Bundesministers für Gesundheit über die Information der Öffentlichkeit durch Lebensmittelunternehmer im Einzelhandel
+
+StF: BGBl. II Nr. 334/2011
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 38 Abs. 4 des Lebensmittelsicherheits- und Verbraucherschutzgesetzes - LMSVG, BGBl. I Nr. 13/2006, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 95/2010, wird verordnet:
+
+## § 1
+
+§ 1. **(**1) Lebensmittelunternehmer gemäß § 3 Z 11 LMSVG haben im Einzelhandel gemäß Art. 3 Z 7 der Verordnung (EG) Nr. 178/2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit, ABl. Nr. L 31 vom 1.2.2002 in der jeweils geltenden Fassung, wenn sie Grund zur Annahme haben, dass ein von ihnen vertriebenes Lebensmittel gemäß § 5 Abs. 5 Z 1 LMSVG gesundheitsschädlich ist und dadurch eine größere Bevölkerungsgruppe gefährdet ist (Gemeingefährdung), gemäß § 38 Abs. 1 Z 5 lit. a LMSVG eine Information der Öffentlichkeit unverzüglich vorzunehmen.
+
+(2) Die Information der Öffentlichkeit gemäß Abs. 1 durch einen Aushang bei den Kassen im Einzelhandel zu erfolgen. Der Aushang hat folgende Informationen zu enthalten:
+
+1\. die Bezeichnung des Lebensmittels,
+
+2\. den Erzeuger, Hersteller, Importeur oder Vertreiber,
+
+3\. weshalb das Lebensmittel gesundheitsschädlich ist,
+
+4\. die Warnung vor dem Verbrauch des Lebensmittels,
+
+5\. den Hinweis, dass die Warnung nicht besagt, dass die Gesundheitsschädlichkeit des Lebensmittels vom Erzeuger, Hersteller, Importeur oder Vertreiber verursacht worden ist, und
+
+6\. die getroffenen oder beabsichtigten Maßnahmen.
+
+(3) Der Aushang gemäß Abs. 2 muss
+
+1\. deutlich sichtbar (mindestens A 4 Format, Schriftgröße Kleinbuchstabe 5 mm) und
+
+2\. leicht lesbar
+
+sein.
+
+(4) Der Aushang gemäß Abs. 2 hat
+
+1\. bei verpackten Lebensmitteln bis zu dem auf der Verpackung angegebenen Ende des Verbrauchsdatums oder des Mindesthaltbarkeitsdatums gemäß den Bestimmungen der Lebensmittelkennzeichnungsverordnung 1993 – LMKV, BGBl. Nr. 72 in der jeweils geltenden Fassung,
+
+2\. bei unverpackten Lebensmitteln bis zum Ende der zu erwartenden Haltbarkeit,
+
+höchstens jedoch zwei Wochen im Einzelhandel zu verbleiben. Die Information muss in allen Betrieben eines Unternehmens zugänglich sein, in denen das betroffene Lebensmittel in Verkehr gebracht wurde.
+
+(5) Verfügt der Lebensmittelunternehmer über eine Internetseite, die auch dem Fernabsatz der Lebensmittel dient, so hat die Information der Öffentlichkeit gemäß Abs. 1 auch auf dieser für den Verbraucher unmittelbar erkennbar zu erfolgen.
+
+## § 2
+
+§ 2. Im Fall von lebensmittelbedingten Krankheitsausbrüchen gemäß § 43 Abs. 3 LMSVG hat der Aushang durch den Lebensmittelunternehmer im Einzelhandel folgende Informationen zu enthalten:
+
+1\. die Bezeichnung des Lebensmittels,
+
+2\. den Erzeuger, Hersteller, Importeur oder Vertreiber,
+
+3\. das mit dem Lebensmittel verbundene Risiko,
+
+4\. die Warnung vor dem Verbrauch des Lebensmittels,
+
+5\. den Hinweis, dass die Warnung nicht besagt, dass die Gefährdung vom Erzeuger, Hersteller, Importeur oder Vertreiber verursacht worden ist, und
+
+6\. die getroffenen oder beabsichtigten Maßnahmen.
+
+§ 1 Abs. 2 erster Satz sowie Abs. 3, 4 und 5 ist anzuwenden.
+
+## § 3
+
+§ 3. Bei den in dieser Verordnung verwendeten personenbezogenen Bezeichnungen gilt die gewählte Form für beide Geschlechter.

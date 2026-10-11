@@ -1,0 +1,150 @@
+---
+title: "Kapitalberichtigungsgesetz"
+identifier: "10002092"
+type: act
+ris_type: "BG"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 171/1967"
+date: 1967-05-19
+last_amended: 2011-07-28
+last_amendment: "BGBl. I Nr. 53/2011"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://ris.bka.gv.at/eli/bgbl/1967/171/P0/NOR11002115"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002092"
+retrieved: 2026-10-11
+documents: 13
+---
+
+# Kapitalberichtigungsgesetz
+
+Bundesgesetz vom 19. Mai 1967, mit dem gesellschaftsrechtliche Bestimmungen über die Kapitalerhöhung aus Gesellschaftsmitteln getroffen werden (Kapitalberichtigungsgesetz)
+
+StF: BGBl. Nr. 171/1967 (NR: GP XI RV 416 AB 469 S. 55. BR: S. 254.)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 475/1990 (NR: GP XVII RV 1270 AB 1379 S. 149. BR: 3936 AB 3949 S. 533.)  
+BGBl. Nr. 10/1991 (NR: GP XVIII IA 9/A AB 23 S. 5. BR: AB 4004 S. 535.)  
+BGBl. I Nr. 125/1998 (NR: GP XX RV 1203 AB 1344 S. 135. BR: AB 5744 S. 643.)  
+BGBl. I Nr. 98/2001 (NR: GP XXI RV 621 AB 704 S. 75. BR: 6398 AB 6424 S. 679.)  
+BGBl. I Nr. 71/2009 (NR: GP XXIV RV 208 AB 277 S. 29. BR: AB 8148 S. 774.)  
+[CELEX-Nr.: 32007L0036]  
+BGBl. I Nr. 53/2011 (NR: GP XXIV RV 1252 AB 1278 S. 113. BR: AB 8548 S. 799.)  
+[CELEX-Nr.: 32009L0109]  
+
+</details>
+
+## Präambel/Promulgationsklausel
+
+Der Nationalrat hat beschlossen:
+
+#### § 1
+
+§ 1. Bei Erhöhung des Grundkapitals von Aktiengesellschaften oder des Stammkapitals von Gesellschaften mit beschränkter Haftung aus Gesellschaftsmitteln sind die Vorschriften des Aktiengesetzes 1965, BGBl. Nr. 98, und des Gesetzes vom 6. März 1906, RGBl. Nr. 58, über Gesellschaften mit beschränkter Haftung nach der Maßgabe der folgenden Bestimmungen anzuwenden.
+
+#### § 2
+
+§ 2. (1) Über die Kapitalerhöhung aus Gesellschaftsmitteln beschließt die Hauptversammlung (Generalversammlung) mit der Mehrheit, die für die Beschlußfassung über eine Kapitalerhöhung (Erhöhung des Stammkapitals) nach Gesetz oder Satzung (Gesellschaftsvertrag) erforderlich ist. Für die einzelnen Aktiengattungen bedarf es des im § 149 Abs. 2 des Aktiengesetzes 1965 vorgesehenen Beschlusses der Aktionäre der einzelnen Gattungen auch dann nicht, wenn dies in der Satzung vorgesehen ist.
+
+(2) Die Kapitalerhöhung aus Gesellschaftsmitteln kann nur mit Rückwirkung zum Beginn eines Geschäftsjahres in einer solchen Hauptversammlung (Generalversammlung) beschlossen werden, der der vorausgehende festgestellte Jahresabschluß vorliegt oder die über diesen beschlossen hat. Bei Aktiengesellschaften muß der Jahresabschluß mit einem uneingeschränkten Bestätigungsvermerk der Abschlußprüfer versehen sein; ein eingeschränkter Bestätigungsvermerk hindert jedoch dann nicht die Kapitalerhöhung aus Gesellschaftsmitteln, wenn dies im Prüfungsbericht (Abs. 5) ausdrücklich erklärt wird. Die Gewinnbeteiligung der neuen Anteilsrechte beginnt, falls nicht andersbeschlossen wird, mit dem Beginn des Geschäftsjahres, in dem die Kapitalerhöhung aus Gesellschaftsmitteln beschlossen worden ist.
+
+(3) Nur in dem im Abs. 2 bezeichneten Jahresabschluß ausgewiesene offene Rücklagen einschließlich eines Gewinnvortrages können umgewandelt werden, soweit ihnen nicht ein Verlust einschließlich eines Verlustvortrages gegenübersteht. Für bestimmte Zwecke gebildete Rücklagen können nur umgewandelt werden, soweit dies mit ihrer Zweckbestimmung vereinbar ist. Die gebundenen Rücklagen können nur umgewandelt werden, soweit sie den zehnten oder den in der Satzung bestimmten höheren Teil des Grundkapitals nach der Umwandlung übersteigen.
+
+(4) Der der Kapitalerhöhung aus Gesellschaftsmitteln zugrunde gelegte Jahresabschluß muß zu einem Stichtag aufgestellt sein, der nicht mehr als neun Monate vor der Anmeldung des Beschlusses über diese Kapitalerhöhung zur Eintragung in das Firmenbuch liegt.
+
+(5) Wird eine Kapitalerhöhung aus Gesellschaftsmitteln einer Aktiengesellschaft beantragt, so hat der Vorstand einen Bericht aufzustellen und der Hauptversammlung vorzulegen, in dem die Vorschläge für diese Kapitalerhöhung zu machen und die wesentlichen Umstände darzulegen sind, die für die Vorschläge maßgebend sind. Auf den Bericht ist im übrigen § 243 UGB sinngemäß anzuwenden. Dieser Bericht ist durch den oder die zur Prüfung des Jahresabschlusses (Abs. 2) bestellten Abschlußprüfer gesondert zu prüfen; die Prüfung hat sich darauf zu erstrecken, ob der Vorschlag für die Kapitalerhöhung aus Gesellschaftsmitteln den gesetzlichen Bestimmungen entspricht. Der Prüfungsbericht ist dem Vorstand, dem Aufsichtsrat und der Hauptversammlung vorzulegen. Werden in dieser Gegenvorschläge gemacht, so hat (haben) der (die) Abschlußprüfer über sie vor der Beschlußfassung der Hauptversammlung zu berichten; wird dieser Bericht mündlich erstattet, so ist er in der Niederschrift über die Hauptversammlung (§ 120 AktG) anzuführen.
+
+(6) Der Abschlußprüfung (Abs. 2) und der Prüfung gemäß Abs. 5 steht die aufsichtsbehördliche Prüfung (§ 259 Abs. 2 Aktiengesetz 1965) gleich.
+
+> **Anmerkung:** EG: Art. 11 § 2, BGBl. I Nr. 71/2009
+
+#### § 3
+
+§ 3. (1) Vom Vorstand (von den Geschäftsführern) ist bei der Anmeldung (bei Aktiengesellschaften gemäß § 151 Abs. 1 des Aktiengesetzes 1965, bei Gesellschaften mit beschränkter Haftung gemäß § 51 Abs. 1 und 2 des Gesetzes vom 6. März 1906, RGBl. Nr. 58, über Gesellschaften mit beschränkter Haftung) dem Registergericht gegenüber zu erklären, daß nach seiner (ihrer) Kenntnis seit dem Stichtag des zugrunde gelegten Jahresabschlusses (Rechnungsabschlusses) bis zum Tag der Anmeldung keine Vermögensverminderung eingetreten ist, die der Kapitalerhöhung aus Gesellschaftsmitteln entgegenstünde, wenn sie am Tag der Anmeldung beschlossen worden wäre. Der Anmeldung ist der Prüfungsbericht des Abschlußprüfers (der Abschlußprüfer) und ein allfälliger schriftlicher Bericht zu Gegenvorschlägen (§ 2 Abs. 5) beizufügen.
+
+(2) Bei Gesellschaften mit beschränkter Haftung hat das Registergericht, wenn es gegen die Eintragung des Beschlusses über die Kapitalerhöhung aus Gesellschaftsmitteln auf Grund des vorgelegten Rechnungsabschlusses oder aus anderen Gründen Bedenken hat, der Gesellschaft die Prüfung des dieser Kapitalerhöhung zugrunde gelegten Rechnungsabschlusses durch einen Beeideten Wirtschaftsprüfer und Steuerberater, einen Beeideten Buchprüfer und Steuerberater, eine Wirtschaftsprüfungs- und Steuerberatungsgesellschaft oder eine Buchprüfungs- und Steuerberatungsgesellschaft aufzutragen. Diese Prüfung kann durch eine gesetzlich vorgesehene aufsichtsbehördliche Prüfung ersetzt werden.
+
+(3) Mit der Eintragung des Beschlusses über die Kapitalerhöhung aus Gesellschaftsmitteln in das Firmenbuch ist das Nennkapital mit Rückwirkung gemäß § 2 Abs. 2 erhöht und diese Kapitalerhöhung durchgeführt. Bei der Eintragung ist anzugeben, daß es sich um eine Kapitalerhöhung aus Gesellschaftsmitteln handelt.
+
+(4) Die neuen Anteilsrechte stehen den Gesellschaftern im Verhältnis ihrer Anteile am bisherigen Nennkapital kraft Gesetzes zu; ein entgegenstehender Beschluß ist nichtig.
+
+> **Anmerkung:** jetzt auch bei der GmbH „Jahresabschluss“ und nicht mehr „Rechnungsabschluss“
+
+#### § 4
+
+§ 4. (1) Aktiengesellschaften mit Nennbetragsaktien können die Kapitalerhöhung aus Gesellschaftsmitteln nur durch Ausgabe zusätzlicher Aktien ausführen, soweit sich aus § 5 Abs. 4 nichts anderes ergibt. Zusätzliche Aktien dürfen erst nach der Eintragung einer solchen Kapitalerhöhung (§ 3 Abs. 3) ausgegeben werden. Aktiengesellschaften mit Stückaktien können ihr Grundkapital auch ohne Ausgabe neuer Aktien erhöhen; der Beschluß über die Kapitalerhöhung muß die Art der Erhöhung angeben. § 149 Abs. 1 dritter Satz AktG gilt sinngemäß.
+
+(2) Bei Nennbetragsaktien ist der Nennbetrag der zusätzlichen Aktien so festzusetzen, daß zusätzliche Aktien auf die niedrigst mögliche Zahl alter Aktien entfallen. Soweit Aktionäre einer Zusammenlegung von zusätzlichen Aktien auf solche mit höheren, gesetzlich zulässigen Nennbeträgen schriftlich zustimmen, können solche Aktien ausgegeben werden.
+
+(3) Nach Eintragung des Beschlusses (§ 3 Abs. 3) hat der Vorstand, wenn die Kapitalerhöhung durch Ausgabe neuer Aktien durchgeführt wird, unverzüglich die Aktionäre aufzufordern, die zusätzlichen Aktien abzuholen. Die Aufforderung ist in den Bekanntmachungsblättern zu veröffentlichen und hat anzugeben, um welchen Betrag das Grundkapital erhöht worden ist, in welchem Verhältnis auf die alten Aktien zusätzliche Aktien entfallen und daß die Gesellschaft Aktien, die nicht innerhalb eines Jahres seit der Veröffentlichung der Aufforderung abgeholt werden, nach dreimaliger Androhung für Rechnung der Beteiligten verkaufen kann. Nach Ablauf eines Jahres seit der Veröffentlichung hat die Gesellschaft den Verkauf der nicht abgeholten Aktien dreimal in Abständen von mindestens einem Monat in den Bekanntmachungsblättern anzudrohen. Nach Ablauf eines Jahres seit der letzten Androhung kann im übrigen unter sinngemäßer Anwendung des § 179 Abs. 3 des Aktiengesetzes 1965 die Gesellschaft die nicht abgeholten Aktien für Rechnung der Beteiligten verkaufen.
+
+> **Anmerkung:** EG: Art. 10, BGBl. I Nr. 53/2011
+
+#### § 5
+
+§ 5. (1) Das Verhältnis der mit den Anteilen verbundenen Rechte zueinander wird durch die Kapitalerhöhung aus Gesellschaftsmitteln nicht berührt. Die Bestimmungen der Satzung (des Gesellschaftsvertrages) sind entsprechend anzupassen.
+
+(2) Der wirtschaftliche Inhalt vertraglicher Beziehungen der Gesellschaft zu Dritten, die von der Gewinnausschüttung der Gesellschaft, dem Nennbetrag oder Wert ihrer Anteile oder ihres Nennkapitals oder in sonstiger Weise von den bisherigen Kapital- oder Gewinnverhältnissen abhängen, wird durch die Kapitalerhöhung aus Gesellschaftsmitteln nicht berührt. Das gleiche gilt für Nebenverpflichtungen der Aktionäre (§ 50 Aktiengesetz 1965).
+
+(3) Bedingtes Kapital (§§ 159 ff. Aktiengesetz 1965) erhöht sich im gleichen Verhältnis wie das Grundkapital. Ist das bedingte Kapital zum Zweck der Gewährung von Umtauschrechten an Gläubiger von Wandelschuldverschreibungen beschlossen worden, so ist zur Deckung des Unterschieds zwischen dem Ausgabebetrag der Schuldverschreibungen und dem höheren geringsten Ausgabebetrag der für sie zu gewährenden Bezugsaktien insgesamt eine Sonderrücklage zu bilden, soweit nicht Zuzahlungen der Umtauschberechtigten vereinbart sind.
+
+(4) Anteile, auf die die Einlagen nicht in voller Höhe geleistet sind, gelten für die Kapitalerhöhung aus Gesellschaftsmitteln im Verhältnis der Anteile zueinander als voll eingezahlt; der Anspruch der Gesellschaft auf die ausstehenden Einlagen bleibt unberührt. Die auf diese Aktien entfallenden Teile der Kapitalerhöhung aus Gesellschaftsmitteln sind mit diesen Aktien bis zu ihrer vollen Einzahlung verbunden; dies ist durch Aufstempelung auf den Aktien auszudrücken. Bei Nennbetragsaktien hat die auf eine Aktie entfallende Erhöhung mindestens einen Euro oder ein Vielfaches davon, bei Stückaktien mindestens einen Euro zu betragen. Die zusätzlichen Aktien sind erst nach Volleinzahlung der alten Aktien auszugeben.
+
+(5) Eigene Aktien nehmen an der Kapitalerhöhung aus Gesellschaftsmitteln teil.
+
+#### § 6
+
+§ 6. (1) Sind Aktien einer Gesellschaft an der Wiener Börse zum amtlichen Handel oder zum Handel im Freiverkehr zugelassen, so gilt diese Zulassung auch für die auf sie entfallenden Aktien aus der Kapitalerhöhung aus Gesellschaftsmitteln.
+
+(2) Eine Genehmigung gemäß der Verordnung über den Kapitalverkehr, DRGBl. I 1941, S. 328, ist nicht erforderlich, wenn es sich um eine Kapitalerhöhung aus Gesellschaftsmitteln handelt.
+
+> **Anmerkung:** zu Abs. 2: Die zitierte Verordnung wurde durch § 9 Abs. 1 Z 2 des Wertpapier-Emissionsgesetzes, BGBl. Nr. 65/1979, aufgehoben.
+
+#### § 7
+
+§ 7. Mit der Vollziehung dieses Bundesgesetzes ist hinsichtlich des § 6 der Bundesminister für Finanzen, hinsichtlich der übrigen Bestimmungen der Bundesminister für Justiz betraut.
+
+#### § 8
+
+§ 8. § 2 Abs. 5 in der Fassung des Aktienrechts-Änderungsgesetzes 2009, BGBl. I Nr. 71/2009, tritt mit 1. August 2009 in Kraft und ist auf Kapitalerhöhungen aus Gesellschaftsmitteln anzuwenden, bei denen die Hauptversammlung nach dem 31. Juli 2009 einberufen wird. Auf Kapitalerhöhungen, bei denen die Hauptversammlung vor diesem Zeitpunkt einberufen wurde, ist § 2 Abs. 5 in der bisher geltenden Fassung weiter anzuwenden.
+
+## Artikel 10
+
+### Umsetzungshinweis
+
+#### Art. 10 – *(Anm.: aus BGBl. I Nr. 53/2011, zu § 4, BGBl. Nr. 171/1967)*
+
+Mit diesem Bundesgesetz wird die Richtlinie 2009/109/EG zur Änderung der Richtlinien 77/91/EWG, 78/855/EWG und 82/891/EWG des Rates sowie der Richtlinie 2005/56/EG hinsichtlich der Berichts- und Dokumentationspflichten bei Verschmelzungen und Spaltungen, ABl. Nr. L 259 vom 2.10.2009 S. 14, umgesetzt.
+
+## Artikel 11
+
+### Schlussbestimmungen
+
+#### Art. 11 § 2 – *(Anm.: aus BGBl. I Nr. 71/2009, zu § 2, BGBl. Nr. 171/1967)*
+
+§ 2. Mit diesem Bundesgesetz wird die Richtlinie 2007/36/EG des Europäischen Parlaments und des Rates vom 11. Juli 2007 über die Ausübung bestimmter Rechte von Aktionären in börsenotierten Gesellschaften, ABl. Nr. L 184 vom 14.7.2007, S. 17, umgesetzt.
+
+## Artikel IX
+
+### Verweisungen
+
+#### Art. 9 – *(Anm.: aus BGBl. Nr. 475/1990, zu § 2, BGBl. Nr. 171/1967)*
+
+Soweit in anderen Bundesgesetzen und Verordnungen auf Bestimmungen verwiesen ist, die durch dieses Bundesgesetz geändert oder aufgehoben werden, erhält die Verweisung ihren Inhalt aus den entsprechenden Bestimmungen dieses Bundesgesetzes.
+
+## Artikel XI
+
+### Inkrafttreten, Aufhebung von Rechtsvorschriften, Vollziehungsklausel
+
+#### Art. 11 – *(Anm.: aus BGBl. Nr. 475/1990, zu § 2, BGBl. Nr. 171/1967)*
+
+(1) Die Vorschriften dieses Bundesgesetzes sind erstmals auf Geschäftsjahre anzuwenden, die nach dem 31. Dezember 1991 beginnen.
+
+\*(Anm.: Abs. 2 betrifft das Handelsgesetzbuch, RGBl. S 219/1897)*
+
+\*(Anm.: Abs. 3 Außerkrafttretensbestimmung)*
+
+\*(Anm.: Abs. 4 Vollziehungsklausel)*

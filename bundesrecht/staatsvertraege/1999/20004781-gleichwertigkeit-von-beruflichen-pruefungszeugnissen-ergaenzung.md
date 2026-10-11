@@ -1,0 +1,114 @@
+---
+title: "Gleichwertigkeit von beruflichen Prüfungszeugnissen - Ergänzung"
+identifier: "20004781"
+type: treaty
+ris_type: "Vertrag – Deutschland"
+jurisdiction: at
+language: de
+promulgation: "BGBl. III Nr. 152/1999"
+last_amended: 1999-08-01
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/iii/1999/152/P0/NOR30005219"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004781"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Gleichwertigkeit von beruflichen Prüfungszeugnissen - Ergänzung
+
+Notenwechsel zwischen der Österreichischen Bundesregierung und der Regierung der Bundesrepublik Deutschland zur neuerlichen Ergänzung der Anlage zu Artikel 5 Abs. 1 (Verzeichnis gleichwertiger Prüfungszeugnisse) des Abkommens zwischen der Regierung der Republik Österreich und der Regierung der Bundesrepublik Deutschland über die Zusammenarbeit in der beruflichen Bildung und über die gegenseitige Anerkennung der Gleichwertigkeit von beruflichen Prüfungszeugnissen
+
+StF: BGBl. III Nr. 152/1999
+
+## Art. 1
+
+DAS WIRTSCHAFTSMINISTERIUM
+
+Sektionschef
+
+Mag. Dr. iur. Wilhelm Koprivnikar
+
+Leiter der Sektion
+
+Gewerbe, Tourismus und Ingenieurwesen
+
+Stubenring 1
+
+A-1011 Wien
+
+Wien, am 23. November 1998
+
+GZ: 32.420/52-III/A/3/98
+
+Sehr geehrte Frau Botschafterin!
+
+Ich beehre mich, unter Bezugnahme auf die Verhandlungen der gemäß Artikel 6 des Abkommens zwischen der Regierung der Republik Österreich und der Regierung der Bundesrepublik Deutschland über die Zusammenarbeit in der beruflichen Bildung und über die gegenseitige Anerkennung der Gleichwertigkeit von beruflichen Prüfungszeugnissen \*1) am 27. November 1989 eingesetzten Expertenkommission vorzuschlagen:
+
+Die Anlage zu Artikel 5 Absatz 1 des Abkommens zwischen der Regierung der Republik Österreich und der Regierung der Bundesrepublik Deutschland über die Zusammenarbeit in der beruflichen Bildung und über die gegenseitige Anerkennung der Gleichwertigkeit von beruflichen Prüfungszeugnissen wird um das in der Anlage zu dieser Note aufgenommene Verzeichnis der als gleichwertig anerkannten Prüfungszeugnisse neuerlich ergänzt.
+
+Falls sich die Regierung der Bundesrepublik Deutschland mit diesem Vorschlag einverstanden erklärt, werden diese Noten und die das Einverständnis Ihrer Regierung zum Ausdruck bringende Antwortnote Eurer Exzellenz eine Vereinbarung zwischen unseren beiden Regierungen bilden, die am ersten Tage des Monats in Kraft tritt, der auf den Monat folgt, in dem die beiden Vertragsparteien einander mitteilen, daß die jeweiligen innerstaatlichen Voraussetzungen für das Inkrafttreten dieses Notenwechsels erfüllt sind.
+
+Ich darf Ihnen mitteilen, daß die innerstaatlichen Voraussetzungen für das Inkrafttreten dieses Notenwechsels auf österreichischer Seite gegeben sind.
+
+Genehmigen Sie, Frau Botschafterin, die Versicherung meiner ausgezeichneten Hochachtung.
+
+Koprivnikar
+
+Ihrer Exzellenz
+
+der Botschafterin der Bundesrepublik Deutschland
+
+Ursula Seiler-Albring
+
+Metternichgasse 3
+
+A-1030 Wien
+
+(Anm.: Es folgt das Verzeichnis der als gleichwertig anerkannten Prüfungszeugnisse. Dieses Verzeichnis wird in der Stammfassung, BGBl. Nr. 308/1990, als Anlage 6 dokumentiert.)
+
+DIE BOTSCHAFTERIN
+
+DER BUNDESREPUBLIK DEUTSCHLAND
+
+Ursula Seiler-Albring
+
+Wien, den 25. Juni 1999
+
+Sehr geehrter Herr Sektionsleiter,
+
+ich beehre mich, den Empfang Ihrer Note vom 23. November 1998 (GZ: 32.420/52-III/A/3/98) zu bestätigen, mit der Sie im Namen Ihrer Regierung unter Bezugnahme auf die Verordnung zum Abkommen vom 27. November 1989 zwischen der Regierung der Republik Österreich und der Regierung der Bundesrepublik Deutschland über die Zusammenarbeit in der beruflichen Bildung und über die gegenseitige Anerkennung von beruflichen Prüfungszeugnissen eine Vereinbarung zwischen den beiden Regierungen vorschlagen. Ihre Note lautet wie folgt:
+
+`  „Ich beehre mich, . . . . . (es folgt der weitere Text der`
+
+`Eröffnungsnote in deutscher Sprache) . . . . . meiner`
+
+`ausgezeichneten Hochachtung.“`
+
+Ich beehre mich, Ihnen mitzuteilen, daß meine Regierung mit dem in Ihrer Note enthaltenen Vorschlag einverstanden ist und daß die innerstaatlichen Voraussetzungen für das Inkrafttreten der Vereinbarung auch in der Bundesrepublik Deutschland erfüllt sind.
+
+Ihre Note und diese Antwortnote bilden somit eine Vereinbarung zwischen unseren beiden Regierungen, die am ersten Tag des Monats in Kraft tritt, der auf den Monat folgt, in dem diese Note bei Ihnen eingeht.
+
+Das Bundesministerium für auswärtige Angelegenheiten erhält zur Information einen Durchdruck der Note.
+
+\**Seiler-Albring**
+
+Herrn
+
+Sektionsleiter Ministerialrat
+
+Mag. Dr. iur. Wilhelm Koprivnikar
+
+Bundesministerium
+
+für wirtschaftliche Angelegenheiten
+
+`(Anm.: Es folgt das Verzeichnis der als gleichwertig anerkannten`
+
+`Prüfungszeugnisse. Dieses Verzeichnis wird in der Stammfassung,`
+
+`BGBl. Nr. 308/1990, als Anlage 6 dokumentiert.)`
+
+`________________________________________________________________`
+
+\*1) Kundgemacht in BGBl. Nr. 308/1990, zuletzt geändert durch BGBl. III Nr. 18/1997

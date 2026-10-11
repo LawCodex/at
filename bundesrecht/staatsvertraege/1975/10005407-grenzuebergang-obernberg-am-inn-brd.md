@@ -1,0 +1,112 @@
+---
+title: "Grenzübergang Obernberg am Inn (BRD)"
+identifier: "10005407"
+type: treaty
+ris_type: "Vertrag – BRD"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 492/1975"
+last_amended: 1986-10-15
+last_amendment: "BGBl. Nr. 534/1986"
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1975/492/P0/NOR11005491"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005407"
+retrieved: 2026-10-11
+documents: 5
+---
+
+# Grenzübergang Obernberg am Inn (BRD)
+
+Vereinbarung über die Errichtung vorgeschobener deutscher Grenzdienststellen am Grenzübergang Obernberg am Inn
+
+StF: BGBl. Nr. 492/1975 idF BGBl. Nr. 596/1975 (DFB)
+
+<details>
+<summary>Änderungen</summary>
+
+BGBl. Nr. 534/1986  
+
+</details>
+
+## Artikel 1
+
+Am Grenzübergang Obernberg am Inn werden auf österreichischem Gebiet vorgeschobene deutsche Grenzdienststellen errichtet.
+
+## Artikel 2
+
+Der örtliche Bereich im Sinne des Artikels 4 Absatz 6 des Abkommens vom 14. September 1955 in der Fassung der Änderungsabkommen von 1975 und 1977 umfaßt
+
+a) die von den Bediensteten beider Staaten gemeinsam benützten Flächen, Anlagen und Räume, und zwar
+
+— die Innbrücke von der gemeinsamen Grenze bis zur Brückenstraße;
+
+— die Brückenstraße bis zum Amtsplatz;
+
+— den das Dienstgebäude umgebenden Amtsplatz;
+
+— im Dienstgebäude die Abfertigungshalle im Erdgeschoß und die in der nordöstlichen Hälfte des Kellergeschosses gelegenen Räume sowie alle Verbindungswege;
+
+b) die den deutschen Bediensteten zur alleinigen Benützung überlassenen Räume im Dienstgebäude, und zwar
+
+— im Erdgeschoß die beiden Räume nordöstlich der Abfertigungshalle, den Raum zwischen der Abfertigungshalle und der Treppe zum Kellergeschoß sowie die beiden Räume an der Südwestseite des Dienstgebäudes;
+
+— im Kellergeschoß an der Südostseite die drei Räume neben dem Heizraum.
+
+## Artikel 3
+
+Mit dem Inkrafttreten dieser Vereinbarung tritt die Vereinbarung vom 11. März 1970 über die Errichtung vorgeschobener deutscher Grenzdienststellen am Grenzübergang Obernberg am Inn auf österreichischem Gebiet \*\*) außer Kraft.
+
+Das Auswärtige Amt beehrt sich vorzuschlagen, daß durch den Austausch dieser Verbalnote und der Antwortnote der Österreichischen Botschaft die vorstehende Regelung eine Vereinbarung im Sinne des Artikels 1 Absatz 3 des Abkommens vom 14. September 1955 bildet, die am 1. Oktober 1975 in Kraft tritt und die auf diplomatischem Wege unter Einhaltung einer Frist von sechs Monaten je auf den ersten Tag eines Monats gekündigt werden kann.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\*\*) Kundgemacht in BGBl. Nr. 130/1970
+
+## Anl. 1
+
+AUSWÄRTIGES AMT
+
+510-511.13/3 OST
+
+**Verbalnote**
+
+Das Auswärtige Amt beehrt sich, der Österreichischen Botschaft mitzuteilen, daß die für die Grenzabfertigung zuständigen obersten Bundesbehörden der Bundesrepublik Deutschland in Ausführung von Artikel 1 Absatz 3 des Abkommens vom 14. September 1955 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und Schiffsverkehr \*) für die Errichtung vorgeschobener deutscher Grenzdienststellen am Grenzübergang Obernberg am Inn folgende Vereinbarung vorschlagen:
+
+Das Auswärtige Amt beehrt sich vorzuschlagen, daß durch den Austausch dieser Verbalnote und der Antwortnote der Österreichischen Botschaft die vorstehende Regelung eine Vereinbarung im Sinne des Artikels 1 Absatz 3 des Abkommens vom 14. September 1955 bildet, die am 1. Oktober 1975 in Kraft tritt und die auf diplomatischem Wege unter Einhaltung einer Frist von sechs Monaten je auf den ersten Tag eines Monats gekündigt werden kann.
+
+Das Auswärtige Amt benutzt diesen Anlaß, die Österreichische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern.
+
+Bonn, den 25. Juli 1975
+
+L. S.
+
+An die Österreichische Botschaft
+
+ÖSTERREICHISCHE BOTSCHAFT
+
+BONN
+
+Zl. 3539/75
+
+**Verbalnote**
+
+Die Österreichische Botschaft beehrt sich, dem Auswärtigen Amt den Empfang seiner Verbalnote vom 25. Juli 1975 — 510-511.13/3 OST — zu bestätigen, deren Text wie folgt lautet:
+
+\*(Anm.: es folgt der Text des Schreibens)*
+
+Die Botschaft beehrt sich, dem Auswärtigen Amt mitzuteilen, daß die österreichische Bundesregierung damit einverstanden ist, daß die vorgeschlagene Regelung durch den Austausch der Verbalnote des Auswärtigen Amtes und dieser Antwortnote eine Vereinbarung im Sinne des Artikels 1 Absatz 3 des Abkommens vom 14. September 1955 bildet, die am 1. Oktober 1975 in Kraft tritt und die auf diplomatischem Wege unter Einhaltung einer Frist von sechs Monaten je auf den ersten Tag eines Monats gekündigt werden kann.
+
+Die Österreichische Botschaft benützt gerne auch diesen Anlaß, dem Auswärtigen Amt den Ausdruck ihrer ausgezeichneten Hochachtung zu erneuern.
+
+Bonn, am 25. Juli 1975
+
+L. S.
+
+An das Auswärtige Amt
+
+\**53 Bonn**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\*) Kundgemacht in BGBl. Nr. 240/1957

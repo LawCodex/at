@@ -1,0 +1,75 @@
+---
+title: "Gleichwertigkeiten im Hochschulbetrieb"
+identifier: "10009723"
+type: notice
+ris_type: "K"
+jurisdiction: at
+language: de
+promulgation: "BGBl. Nr. 588/1990"
+date: 1990-08-28
+last_amended: 1990-09-19
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/bgbl/1990/588/P0/NOR11009914"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009723"
+retrieved: 2026-10-11
+documents: 2
+---
+
+# Gleichwertigkeiten im Hochschulbetrieb
+
+Kundmachung des Bundesministers für Wissenschaft und Forschung vom 28. August 1990 zum Abkommen zwischen der Republik Österreich und dem Königreich der Niederlande über die Anerkennung von Gleichwertigkeiten im Hochschulbereich samt Notenwechsel
+
+StF: BGBl. Nr. 588/1990
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 2 Abs. 2 des Bundesgesetzes über das Bundesgesetzblatt 1985, BGBl. Nr. 200, Abkommen zwischen der Republik Österreich und dem Königreich der Niederlande über die Anerkennung von Gleichwertigkeiten im Hochschulbereich, BGBl. Nr. 662/1986, wird kundgemacht:
+
+## Art. 1
+
+(1) Gemäß Z 10 des Notenwechsels zum Abkommen zwischen der Republik Österreich und dem Königreich der Niederlande über die Anerkennung von Gleichwertigkeiten im Hochschulbereich ist das Abkommen samt Notenwechsel auch auf diejenigen niederländischen Hochschulen anzuwenden, die eine Änderung ihres Namens erfahren haben.
+
+(2) Folgende in der Z 8 des im Abs. 1 genannten Notenwechsels angeführte niederländische Hochschulen haben seit dem Inkrafttreten des Abkommens ihren Namen geändert:
+
+`Früherer Name                           Geänderter Name`
+
+`Reichsuniversität in Rotterdam          Erasmus Universität Rotterdam`
+
+`Technische Reichshochschulen in         Technische Reichsuniver-`
+
+`Delft, Eindhoven und Enschede           sitäten in Delft, Eindhoven`
+
+`                                        und Enschede`
+
+`Reichslandwirtschaftshoch-              Reichslandwirtschaftsuni-`
+
+`schule in Wageningen                    versität in Wageningen`
+
+`Gemeindeuniversität in                  Universität in Amsterdam`
+
+`Amsterdam`
+
+`Besondere Hochschule für                Katholische Universität`
+
+`Gesellschafts- und Geistes-             Brabant in Tilburg`
+
+`wissenschaften in Tilburg`
+
+`Katholische theologische                Katholische Theologische`
+
+`Hochschulen in Tilburg, Amsterdam       Universitäten in Tilburg,`
+
+`und Heerlen                             Amsterdam und Heerlen`
+
+`Theologische Hochschule der             Theologische Universität`
+
+`Reformierten Kirchen („Vrijge-         der Reformierten Kirchen`
+
+`maakt'') im Kampen                      („Vrijgemaakt'') in Kampen`
+
+`Katholische Theologische Hoch-          Katholische Theologische Uni-`
+
+`schule in Utrecht                       versität in Utrecht`
+
+(3) Alle übrigen in der Z 8 des im Abs. 1 genannten Notenwechsels angeführten niederländischen Hochschulen haben keine Änderung in ihrem Namen erfahren.
