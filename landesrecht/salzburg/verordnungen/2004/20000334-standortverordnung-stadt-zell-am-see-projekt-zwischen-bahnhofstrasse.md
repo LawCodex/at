@@ -1,0 +1,42 @@
+---
+title: "Standortverordnung Stadt Zell am See - Projekt zwischen Bahnhofstraße und Magazinstraße"
+identifier: "20000334"
+type: regulation
+ris_type: "VO"
+jurisdiction: at-5
+land: "Salzburg"
+language: de
+promulgation: "LGBl Nr 59/2004"
+date: 2004-07-12
+last_amended: 2004-08-14
+consolidated: 2026-10-11
+status: in_force
+eli: "https://www.ris.bka.gv.at/eli/lgbl/SA/2004/59/P0/LSB30000378"
+source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrSbg&Gesetzesnummer=20000334"
+retrieved: 2026-10-11
+documents: 3
+---
+
+# Standortverordnung Stadt Zell am See - Projekt zwischen Bahnhofstraße und Magazinstraße
+
+Verordnung der Salzburger Landesregierung vom 12. Juli 2004 betreffend die Zulässigkeit der Verwendung bestimmter Grundflächen in der Stadtgemeinde Zell am See für Handelsgroßbetriebe aus überörtlicher Sicht (Standortverordnung Stadt Zell am See - Projekt zwischen Bahnhofstraße und Magazinstraße)
+
+StF: [LGBl Nr 59/2004](http://www.ris.bka.gv.at/Dokumente/Lgbl/LGBL_SA_20040813_59/LGBL_SA_20040813_59.pdf)
+
+## Präambel/Promulgationsklausel
+
+Auf Grund des § 11a des Salzburger Raumordnungsgesetzes 1998 - ROG 1998, LGBl Nr 44, in der geltenden Fassung wird verordnet:
+
+## § 1
+
+\**§ 1**
+
+Vom Standpunkt der überörtlichen Raumplanung ist die Verwendung der Grundstücke 145/29 und .468, beide KG Zell am See, für Handelsgroßbetriebe der Kategorie Fachmärkte gemäß § 17 Abs 9 und 10 lit c ROG 1998 bis zu einer Gesamtverkaufsfläche von
+
+1.300 m² zulässig.
+
+## § 2
+
+\**§ 2**
+
+Die Entscheidung der Gemeindevertretung der Stadt Zell am See über eine damit übereinstimmende Ausweisung der Grundflächen im Flächenwidmungsplan der Gemeinde ist davon unabhängig zu treffen.
